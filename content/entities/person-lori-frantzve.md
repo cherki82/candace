@@ -22,7 +22,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-27-36">2026-01-06 · 00:27:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-lori-frantzve-t-00-32-04">2026-03-23 · 00:32:19</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-lori-frantzve-t-00-52-28">2026-03-25 · 00:52:51</a></strong></div>
 <div><span>Episodes</span><strong>20</strong></div>
 <div><span>Mentions</span><strong>207</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
@@ -54,6 +54,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-lori-frantzve-t-00-33-59" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-lori-frantzve-t-00-01-46" style="--pulse-height:19%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 11 mentions" title="2026-03-18 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-lori-frantzve-t-00-32-04" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-lori-frantzve-t-00-52-28" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -78,6 +79,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-lori-frantzve-t-00-33-59) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-lori-frantzve-t-00-01-46) | 11 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-lori-frantzve-t-00-32-04) | 1 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-lori-frantzve-t-00-52-28) | 1 |
 
 </details>
 </section>
@@ -86,6 +88,14 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 
 <details>
 <summary><strong class="section-title">Raw mentions (207)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
+
+**[00:52:51](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-lori-frantzve-t-00-52-28)**
+> "Lori"
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1 mentions)</summary>
@@ -797,14 +807,6 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 
 **[00:58:11](/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-33-05)**
 > "...m yesterday's episode is from Lori Galio. She writes, having that tent at Amfest as ..."
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
-
-**[00:52:51](/episodes/ep-5m-Wn6Pr5rM.md#t-00-52-51)**
-> "Lori"
 
 </details>
 

@@ -11,7 +11,11 @@ object: "person-frank-turek"
 
 ## [Candace Owens](/entities/person-candace-owens) criticized by [Frank Turek](/entities/person-frank-turek)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
+
+**[Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM)**
+
+- [00:04:29](/episodes/ep-5m-Wn6Pr5rM#t-00-04-29): _he got a little angry afterward and said, I was the devil. She's the devil. Don't listen to Candace Owens._
 
 **[AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo)**
 

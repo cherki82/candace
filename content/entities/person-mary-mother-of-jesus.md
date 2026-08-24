@@ -25,7 +25,7 @@ Source: [Mary, Mother of Jesus - Encyclopedia of the Bible](https://www.biblegat
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#t-00-45-55">2026-03-18 · 00:46:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#t-00-45-55">2026-03-18 · 00:46:04</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#t-00-45-26">2026-03-25 · 00:45:50</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -39,12 +39,14 @@ Source: [Mary, Mother of Jesus - Encyclopedia of the Bible](https://www.biblegat
 <p>Highest activity: <a href="/episodes/ep-_vg7ucP1E0g.md#t-00-45-55">Bride Of Charlie: Red Sparrow | Episode 8</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-_vg7ucP1E0g.md#t-00-45-55" style="--pulse-height:100%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#t-00-45-26" style="--pulse-height:100%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#t-00-45-55) | 1 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#t-00-45-26) | 1 |
 
 </details>
 </section>
@@ -55,18 +57,18 @@ Source: [Mary, Mother of Jesus - Encyclopedia of the Bible](https://www.biblegat
 <summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 <details>
-<summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
 
-**[00:46:04](/episodes/ep-_vg7ucP1E0g.md#t-00-45-55)**
-> "Mary is Queen of Heaven and Earth."
+**[00:45:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-45-26)**
+> "Mary"
 
 </details>
 
 <details>
-<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
 
-**[00:45:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-45-50)**
-> "Mary"
+**[00:46:04](/episodes/ep-_vg7ucP1E0g.md#t-00-45-55)**
+> "Mary is Queen of Heaven and Earth."
 
 </details>
 

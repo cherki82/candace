@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University
 
-## Mentioned In (393 times)
+## Mentioned In (394 times)
 
 ### 1. REVELATIONS: The Truth About Charlie's Medical Report | Cand...
 
@@ -3156,3 +3156,11 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(0);return false;">▶️ Play</a>
 
 > President Trump says that Kirk has died after he was shot
+
+### 394. Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | ...
+
+**Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
+**Timestamp:** [00:11:55](/episodes/ep-5m-Wn6Pr5rM.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-11-49) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(715);return false;">▶️ Play</a>
+
+> It was 12:23 p.m. Mountain Standard Time when the shot rang out.

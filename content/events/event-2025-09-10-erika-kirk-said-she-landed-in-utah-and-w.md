@@ -11,10 +11,20 @@ date: "2025-09-10"
 
 > Erika Kirk said she landed in Utah and went directly to the hospital.
 
-## Mentioned In
+## Mentioned In (2 times)
+
+### 1. An Open Letter To Erika Kirk | Candace Ep 303
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:19:56](/episodes/ep-mFuno0TuuQQ.md#event-event-2025-09-10-erika-kirk-said-she-landed-in-utah-and-w-t-00-19-56) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1196);return false;">▶️ Play</a>
 
 > We landed in Utah, went straight to the hospital, straight to the hospital.
+
+### 2. Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | ...
+
+**Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
+**Timestamp:** [00:18:50](/episodes/ep-5m-Wn6Pr5rM.md#event-event-2025-09-10-erika-kirk-said-she-landed-in-utah-and-w-t-00-18-09) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1130);return false;">▶️ Play</a>
+
+> As soon as they landed, they raced to the hospital.

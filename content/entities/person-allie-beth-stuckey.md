@@ -23,7 +23,7 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-28-47">2025-11-06 · 00:29:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-allie-beth-stuckey-t-01-06-43">2026-01-05 · 01:06:43</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-allie-beth-stuckey-t-00-42-04">2026-03-25 · 00:42:04</a></strong></div>
 <div><span>Episodes</span><strong>10</strong></div>
 <div><span>Mentions</span><strong>44</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -45,6 +45,7 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 <a href="/episodes/ep-6DhWawD4ZiM.md#t-00-20-39" style="--pulse-height:8%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 1 mentions" title="2025-12-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#t-00-34-50" style="--pulse-height:8%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-allie-beth-stuckey-t-01-06-43" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-allie-beth-stuckey-t-00-42-04" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -59,6 +60,7 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#t-00-20-39) | 1 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#t-00-34-50) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-allie-beth-stuckey-t-01-06-43) | 1 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-allie-beth-stuckey-t-00-42-04) | 1 |
 
 </details>
 </section>
@@ -67,6 +69,14 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 
 <details>
 <summary><strong class="section-title">Raw mentions (44)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
+
+**[00:42:04](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-allie-beth-stuckey-t-00-42-04)**
+> "Allie Beth Stuckey"
+
+</details>
 
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
@@ -239,14 +249,6 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 
 **[00:49:10](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-48-55)**
 > "...y podcast, and we're investigating this murder. And every person who is doing podcasts—whether it's Allie speaking about his Catholic journey, Lila speaking about what happens, whatever context they're put..."
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
-
-**[00:42:04](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-04)**
-> "Allie Beth Stuckey"
 
 </details>
 

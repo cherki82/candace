@@ -4,9 +4,10 @@ description: "\"Kash Patel used an FBI plane to fly to see Alexis Wilkins and se
 statement_id: "statement-201c56acbf00"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -26,7 +27,7 @@ type: "accusation"
 
 ## Source
 
-**Episode:** [5m-Wn6Pr5rM](/episodes/ep-5m-Wn6Pr5rM.md)
+**Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:29:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-29-10) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1750);return false;">Play</a>
 
@@ -34,7 +35,21 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Public reporting supports FBI-aircraft trips to Nashville and a dedicated FBI protective detail for Alexis Wilkins. It does not conclusively establish that a particular flight was taken to visit her, and describing the protective detail as a police force overstates the evidence.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [FBI needs more money than White House requested, Patel tells lawmakers](https://www.investing.com/news/world-news/senate-democrat-requests-probe-into-fbi-director-patels-use-of-government-plane-4029565)
+- [New York Times says FBI investigated reporter after article about director Kash Patels girlfriend](https://apnews.com/article/149655b7f7797d09dea9a2c8548d33cb)
+
+*Verified: 2026-08-24T09:59:40.316822*
 
 ---
 

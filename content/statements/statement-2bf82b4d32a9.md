@@ -4,9 +4,10 @@ description: "\"Katherine Locastro was part of the team that transported Erika K
 statement_id: "statement-2bf82b4d32a9"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -26,7 +27,7 @@ type: "factual_claim"
 
 ## Source
 
-**Episode:** [5m-Wn6Pr5rM](/episodes/ep-5m-Wn6Pr5rM.md)
+**Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:18:09](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-09) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1089);return false;">Play</a>
 
@@ -34,7 +35,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Frank Tureks published eyewitness transcript says Katherine Locastro came to Utah with Erika and helped Mikey McCoy organize. It supports her presence and travel but does not establish that she transported Erika to the airport.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [The Greatness of Charlie Kirk: An Eyewitness Account of His Life and Martyrdom](https://crossexamined.org/wp-content/uploads/2025/09/9.16-Podcast-The-Greatness-of-Charlie-Kirk.pdf)
+
+*Verified: 2026-08-24T09:59:39.103543*
 
 ---
 

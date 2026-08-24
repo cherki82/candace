@@ -23,7 +23,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-36-23">2025-09-15 · 00:36:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-maga-movement-t-00-23-40">2026-03-18 · 00:23:40</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-maga-movement-t-00-37-32">2026-03-25 · 00:37:37</a></strong></div>
 <div><span>Episodes</span><strong>28</strong></div>
 <div><span>Mentions</span><strong>85</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -63,6 +63,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-concept-maga-movement-t-00-48-42" style="--pulse-height:25%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 3 mentions" title="2026-03-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-concept-maga-movement-t-00-42-56" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-maga-movement-t-00-23-40" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-maga-movement-t-00-31-10" style="--pulse-height:42%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 5 mentions" title="2026-03-25 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -95,6 +96,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-concept-maga-movement-t-00-48-42) | 3 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-concept-maga-movement-t-00-42-56) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-concept-maga-movement-t-00-23-40) | 1 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-maga-movement-t-00-31-10) | 5 |
 
 </details>
 </section>
@@ -103,6 +105,26 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 
 <details>
 <summary><strong class="section-title">Raw mentions (85)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (5 mentions)</summary>
+
+**[00:31:25](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-maga-movement-t-00-31-10)**
+> "MAGA"
+
+**[00:36:31](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-maga-movement-t-00-36-12)**
+> "... she has figured out that the MAGA voting bloc might be all interested. interested i..."
+
+**[00:37:05](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-maga-movement-t-00-36-50)**
+> "...it must be to inflict harm on MAGA."
+
+**[00:37:32](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-maga-movement-t-00-37-32)**
+> "...s actually inflicting harm on MAGA."
+
+**[00:37:37](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-maga-movement-t-00-37-32)**
+> "... I think, generally speaking, MAGA voters and Democrat voters care about children be..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
@@ -476,26 +498,6 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 
 **[00:36:29](/episodes/ep-czVBmqZP6Ss.md#t-00-36-23)**
 > "...ething's wrong. I know I shouldn't do this. I'm risking an awful lot to go up against this FBI, the MAGA FBI. Something's very wrong with what I just heard. I mean, I watched it. I was hoping that they ha..."
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (5 mentions)</summary>
-
-**[00:31:25](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-25)**
-> "MAGA"
-
-**[00:36:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-36-31)**
-> "... she has figured out that the MAGA voting bloc might be all interested. interested i..."
-
-**[00:37:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-37-05)**
-> "...it must be to inflict harm on MAGA."
-
-**[00:37:32](/episodes/ep-5m-Wn6Pr5rM.md#t-00-37-32)**
-> "...s actually inflicting harm on MAGA."
-
-**[00:37:37](/episodes/ep-5m-Wn6Pr5rM.md#t-00-37-37)**
-> "... I think, generally speaking, MAGA voters and Democrat voters care about children be..."
 
 </details>
 

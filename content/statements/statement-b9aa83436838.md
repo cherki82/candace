@@ -4,9 +4,10 @@ description: "\"Joe Kent said that they were told to stop their investigation an
 statement_id: "statement-b9aa83436838"
 speaker: "Joe Rogan"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -26,7 +27,7 @@ type: "factual_claim"
 
 ## Source
 
-**Episode:** [5m-Wn6Pr5rM](/episodes/ep-5m-Wn6Pr5rM.md)
+**Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:27:26](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-26) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1646);return false;">Play</a>
 
@@ -34,7 +35,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Joe Kent said in his recorded Tucker Carlson interview that his NCTC investigation was stopped after the FBI said to defer to Utah and that he was told he needed to stop. This verifies the attribution; it does not independently prove why the agencies made that decision.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Tucker Carlson Show with Joe Kent - Interview Transcript](https://singjupost.com/tucker-carlson-show-w-joe-kents-interview-since-resigning-as-counterterrorism-director-transcript/)
+
+*Verified: 2026-08-24T09:59:39.833207*
 
 ---
 

@@ -22,7 +22,7 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-catholic-church-t-00-34-29">2026-02-03 · 00:34:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-catholic-church-t-00-30-36">2026-02-28 · 00:30:48</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-catholic-church-t-00-42-44">2026-03-25 · 00:43:10</a></strong></div>
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -33,11 +33,12 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-catholic-church-t-00-34-29">CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-catholic-church-t-00-01-06">Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-catholic-church-t-00-34-29" style="--pulse-height:100%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-catholic-church-t-00-33-11" style="--pulse-height:100%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-catholic-church-t-00-30-36" style="--pulse-height:100%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-catholic-church-t-00-34-29" style="--pulse-height:14%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-catholic-church-t-00-33-11" style="--pulse-height:14%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-catholic-church-t-00-30-36" style="--pulse-height:14%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-catholic-church-t-00-01-06" style="--pulse-height:100%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 7 mentions" title="2026-03-25 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-org-catholic-church-t-00-34-29) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-catholic-church-t-00-33-11) | 1 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-catholic-church-t-00-30-36) | 1 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-catholic-church-t-00-01-06) | 7 |
 
 </details>
 </section>
@@ -54,6 +56,32 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 
 <details>
 <summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (7 mentions)</summary>
+
+**[00:01:06](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-catholic-church-t-00-01-06)**
+> "the Catholic Church"
+
+**[00:31:10](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-catholic-church-t-00-31-10)**
+> "...they are doing it through the Catholic Church, even though Russia is an Eastern Orthodox societ..."
+
+**[00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-catholic-church-t-00-41-25)**
+> "..., this is in the article, the Catholic Church does not demand that the faithful be committed Zi..."
+
+**[00:42:04](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-catholic-church-t-00-42-04)**
+> "...aslit about the growth of the Catholic church, particularly by Allie Beth Stuckey, who definite..."
+
+**[00:42:18](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-catholic-church-t-00-42-04)**
+> "this is great the uh the catholic church was in april last year oh it's so great all aroun..."
+
+**[00:42:56](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-catholic-church-t-00-42-44)**
+> "...es now that show how much the Catholic Church is growing. We can just show you a few of them he..."
+
+**[00:43:10](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-catholic-church-t-00-42-44)**
+> "...ugust, more Americans joining Catholic church than leaving for the first time in decades. Here ..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (1 mentions)</summary>
@@ -79,32 +107,6 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (7 mentions)</summary>
-
-**[00:01:06](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-06)**
-> "the Catholic Church"
-
-**[00:31:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-10)**
-> "...they are doing it through the Catholic Church, even though Russia is an Eastern Orthodox societ..."
-
-**[00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-33)**
-> "..., this is in the article, the Catholic Church does not demand that the faithful be committed Zi..."
-
-**[00:42:04](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-04)**
-> "...aslit about the growth of the Catholic church, particularly by Allie Beth Stuckey, who definite..."
-
-**[00:42:18](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-18)**
-> "this is great the uh the catholic church was in april last year oh it's so great all aroun..."
-
-**[00:42:56](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-56)**
-> "...es now that show how much the Catholic Church is growing. We can just show you a few of them he..."
-
-**[00:43:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-10)**
-> "...ugust, more Americans joining Catholic church than leaving for the first time in decades. Here ..."
-
-</details>
-
 </details>
 
 <details open>
@@ -118,21 +120,21 @@ _No relationships extracted yet._
 <summary><strong class="section-title">Statements about Catholic Church (3)</strong></summary>
 
 <details>
-<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (1)</summary>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2)</summary>
 
-- [00:30:26](/episodes/ep-cZxHqYsWRYg.md#t-00-29-56) (Claim) **Candace Owens**: ["St. Ursula Villa was privately funded and separate from St. Ursula Aca..."](/statements/statement-fcf673e8104b.md)
-  - Also about: [St. Ursula Villa](/entities/org-st-ursula-villa.md), [Saint Ursula Academy](/entities/org-saint-ursula-academy.md)
+- [00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-25) (Claim) **The Daily Wire** (via quoted article): ["The Catholic Church does not demand that the faithful be committed Zio..."](/statements/statement-8180d1208c22.md)
+  - Also about: [Zionism](/entities/concept-zionism.md), [God](/entities/concept-god.md)
+
+- [00:43:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-44) (Citation) **Candace Owens**: ["An August 2025 article reported that more Americans were joining the C..."](/statements/statement-774d3b78c237.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
 
 </details>
 
 <details>
-<summary>ep-5m-Wn6Pr5rM (2)</summary>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (1)</summary>
 
-- [00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-33) (Claim) **The Daily Wire** (via quoted article): ["The Catholic Church does not demand that the faithful be committed Zio..."](/statements/statement-8180d1208c22.md)
-  - Also about: [Zionism](/entities/concept-zionism.md), [God](/entities/concept-god.md)
-
-- [00:43:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-02) (Citation) **Candace Owens**: ["An August 2025 article reported that more Americans were joining the C..."](/statements/statement-774d3b78c237.md)
-  - Also about: [United States](/entities/gpe-united-states.md)
+- [00:30:26](/episodes/ep-cZxHqYsWRYg.md#t-00-29-56) (Claim) **Candace Owens**: ["St. Ursula Villa was privately funded and separate from St. Ursula Aca..."](/statements/statement-fcf673e8104b.md)
+  - Also about: [St. Ursula Villa](/entities/org-st-ursula-villa.md), [Saint Ursula Academy](/entities/org-saint-ursula-academy.md)
 
 </details>
 

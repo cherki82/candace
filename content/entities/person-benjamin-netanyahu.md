@@ -99,6 +99,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-benjamin-netanyahu-t-00-10-41" style="--pulse-height:25%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 7 mentions" title="2026-03-17 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-benjamin-netanyahu-t-00-12-12" style="--pulse-height:57%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 16 mentions" title="2026-03-17 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-benjamin-netanyahu-t-00-48-08" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-benjamin-netanyahu-t-00-39-50" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-00-35-32" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -163,6 +164,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-benjamin-netanyahu-t-00-10-41) | 7 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-benjamin-netanyahu-t-00-12-12) | 16 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-benjamin-netanyahu-t-00-48-08) | 1 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-benjamin-netanyahu-t-00-39-50) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-00-35-32) | 3 |
 
 </details>
@@ -184,6 +186,17 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 **[02:52:41](/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-02-52-41)**
 > "...ld take a supporter like owen benjamin he called you bad names and one and called your h..."
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2 mentions)</summary>
+
+**[00:39:50](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-benjamin-netanyahu-t-00-39-50)**
+> "Bibi Netanyahu"
+
+**[00:41:44](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-benjamin-netanyahu-t-00-41-25)**
+> "...to heaven if we don't support Bibi Netanyahu."
 
 </details>
 
@@ -1299,17 +1312,6 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (2 mentions)</summary>
-
-**[00:39:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-39-50)**
-> "Bibi Netanyahu"
-
-**[00:41:44](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-44)**
-> "...to heaven if we don't support Bibi Netanyahu."
-
-</details>
-
 </details>
 
 <details open>
@@ -1434,9 +1436,10 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <summary>Parent Of (1)</summary>
 
 - **[Yair Netanyahu](/entities/person-yair-netanyahu.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:50:04](/episodes/ep-I0OaY6Gryqk.md#t-00-49-45): “They sent somebody else in his place. I think Israel Katz ran it. Then somebody noted that his son, Yair Netanyahu, who normally tweets or retweets about 30 times a day, like he's constantly retweeting, he went completely radio silent for seven days.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:39:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-39-50): “Bibi Netanyahu's son Yair”
 
 </details>
 
@@ -1458,9 +1461,10 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <summary>Referenced By (14)</summary>
 
 - **[Yair Netanyahu](/entities/person-yair-netanyahu.md)** child of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:50:04](/episodes/ep-I0OaY6Gryqk.md#t-00-49-45): “They sent somebody else in his place. I think Israel Katz ran it. Then somebody noted that his son, Yair Netanyahu, who normally tweets or retweets about 30 times a day, like he's constantly retweeting, he went completely radio silent for seven days.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:39:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-39-50): “Bibi Netanyahu's son Yair”
 
 </details>
 

@@ -23,7 +23,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-56-30">2025-09-15 · 00:56:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-american-financing-t-00-31-54">2026-03-18 · 00:32:03</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-american-financing-t-00-26-08">2026-03-25 · 00:26:08</a></strong></div>
 <div><span>Episodes</span><strong>64</strong></div>
 <div><span>Mentions</span><strong>252</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -99,6 +99,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-org-american-financing-t-00-49-11" style="--pulse-height:50%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 4 mentions" title="2026-03-17 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-american-financing-t-00-55-48" style="--pulse-height:38%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-american-financing-t-00-31-15" style="--pulse-height:38%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-american-financing-t-00-24-43" style="--pulse-height:50%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 4 mentions" title="2026-03-25 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -167,6 +168,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-org-american-financing-t-00-49-11) | 4 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-american-financing-t-00-55-48) | 3 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-org-american-financing-t-00-31-15) | 3 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-american-financing-t-00-24-43) | 4 |
 
 </details>
 </section>
@@ -175,6 +177,23 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 <details>
 <summary><strong class="section-title">Raw mentions (252)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (4 mentions)</summary>
+
+**[00:25:20](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-american-financing-t-00-24-43)**
+> "American financing"
+
+**[00:25:33](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-american-financing-t-00-25-25)**
+> "...igned to keep you underwater. American financing is doing something that the big banks hate."
+
+**[00:25:57](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-american-financing-t-00-25-25)**
+> "So call American Financing today at 800-795-1210. Again, that's 800-795-1210..."
+
+**[00:26:08](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-american-financing-t-00-26-08)**
+> "Again, that's AmericanFinancing.net slash Owens."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (3 mentions)</summary>
@@ -1220,23 +1239,6 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 **[00:57:38](/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-57-16)**
 > "Also, remind you guys about American Financing because the cost of everything is still out of control"
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (4 mentions)</summary>
-
-**[00:25:20](/episodes/ep-5m-Wn6Pr5rM.md#t-00-25-20)**
-> "American financing"
-
-**[00:25:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-25-33)**
-> "...igned to keep you underwater. American financing is doing something that the big banks hate."
-
-**[00:25:57](/episodes/ep-5m-Wn6Pr5rM.md#t-00-25-57)**
-> "So call American Financing today at 800-795-1210. Again, that's 800-795-1210..."
-
-**[00:26:08](/episodes/ep-5m-Wn6Pr5rM.md#t-00-26-08)**
-> "Again, that's AmericanFinancing.net slash Owens."
 
 </details>
 

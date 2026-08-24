@@ -24,7 +24,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-the-daily-wire-t-00-40-44">2025-09-18 · 00:41:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-the-daily-wire-t-00-57-37">2026-03-24 · 00:57:37</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-the-daily-wire-t-00-40-43">2026-03-25 · 00:40:59</a></strong></div>
 <div><span>Episodes</span><strong>36</strong></div>
 <div><span>Mentions</span><strong>140</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
@@ -72,6 +72,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-the-daily-wire-t-00-53-07" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-org-the-daily-wire-t-00-15-08" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-the-daily-wire-t-00-57-37" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-the-daily-wire-t-00-40-43" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -112,6 +113,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-the-daily-wire-t-00-53-07) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-org-the-daily-wire-t-00-15-08) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-the-daily-wire-t-00-57-37) | 1 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-the-daily-wire-t-00-40-43) | 1 |
 
 </details>
 </section>
@@ -120,6 +122,14 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 
 <details>
 <summary><strong class="section-title">Raw mentions (140)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
+
+**[00:40:59](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-the-daily-wire-t-00-40-43)**
+> "Daily Wire"
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>
@@ -710,14 +720,6 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
-
-**[00:40:59](/episodes/ep-5m-Wn6Pr5rM.md#t-00-40-59)**
-> "Daily Wire"
-
-</details>
-
 </details>
 
 <details open>
@@ -1139,9 +1141,9 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <summary><strong class="section-title">Statements by The Daily Wire (1)</strong></summary>
 
 <details>
-<summary>ep-5m-Wn6Pr5rM (1)</summary>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1)</summary>
 
-- [00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-33) [○] (Claim) ["The Catholic Church does not demand that the faithful be committed Zionists to r..."](/statements/statement-8180d1208c22.md)
+- [00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-25) [✓] (Claim) ["The Catholic Church does not demand that the faithful be committed Zionists to r..."](/statements/statement-8180d1208c22.md)
   - About: [Catholic Church](/entities/org-catholic-church.md), [Zionism](/entities/concept-zionism.md), [God](/entities/concept-god.md)
 
 </details>

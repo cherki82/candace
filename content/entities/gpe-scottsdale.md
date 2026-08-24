@@ -23,12 +23,12 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-scottsdale-t-00-41-45">2025-10-31 · 00:41:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-scottsdale-t-00-39-08">2026-03-24 · 00:39:16</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-scottsdale-t-00-21-31">2026-03-25 · 00:21:31</a></strong></div>
 <div><span>Episodes</span><strong>17</strong></div>
 <div><span>Mentions</span><strong>62</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>12</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -52,6 +52,7 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-scottsdale-t-00-08-36" style="--pulse-height:8%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-scottsdale-t-00-23-50" style="--pulse-height:58%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 7 mentions" title="2026-03-23 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-scottsdale-t-00-09-14" style="--pulse-height:100%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 12 mentions" title="2026-03-24 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-scottsdale-t-00-01-51" style="--pulse-height:83%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 10 mentions" title="2026-03-25 · 10 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -73,6 +74,7 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-scottsdale-t-00-08-36) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-scottsdale-t-00-23-50) | 7 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-scottsdale-t-00-09-14) | 12 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-scottsdale-t-00-01-51) | 10 |
 
 </details>
 </section>
@@ -81,6 +83,41 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 
 <details>
 <summary><strong class="section-title">Raw mentions (62)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (10 mentions)</summary>
+
+**[00:01:51](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-scottsdale-t-00-01-51)**
+> "Scottsdale"
+
+**[00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-scottsdale-t-00-01-51)**
+> "...ook off from Santa Barbara to Scottsdale at 1228 Mountain Time."
+
+**[00:02:23](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-scottsdale-t-00-02-23)**
+> "...was shot, and then it went to Scottsdale. And so Nick Shirley was very kind and gave me th..."
+
+**[00:03:02](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-scottsdale-t-00-03-02)**
+> "...et because it first goes from Scottsdale to Provo and she alleges and I don't believe her ..."
+
+**[00:03:28](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-scottsdale-t-00-03-02)**
+> "Scottsdale. So Andrew would, of course, have been able to me..."
+
+**[00:13:39](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-scottsdale-t-00-13-39)**
+> "...roximately 30 minutes away in scottsdale like i said that was immediately weird to me beca..."
+
+**[00:14:34](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-scottsdale-t-00-14-21)**
+> "is allegedly home in Scottsdale. I would like to now put out an APB for Stacey Sh..."
+
+**[00:16:07](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-scottsdale-t-00-16-07)**
+> "...h. Remember, Erika grew up in Scottsdale."
+
+**[00:16:19](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-scottsdale-t-00-16-07)**
+> "...oesn't everybody live here in Scottsdale I think even I heard that Nicole Rothstein once u..."
+
+**[00:21:31](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-scottsdale-t-00-21-31)**
+> "...conversation with a friend in Scottsdale"
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (12 mentions)</summary>
@@ -318,45 +355,22 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (10 mentions)</summary>
-
-**[00:01:51](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-51)**
-> "Scottsdale"
-
-**[00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-10)**
-> "...ook off from Santa Barbara to Scottsdale at 1228 Mountain Time."
-
-**[00:02:23](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-23)**
-> "...was shot, and then it went to Scottsdale. And so Nick Shirley was very kind and gave me th..."
-
-**[00:03:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-03-02)**
-> "...et because it first goes from Scottsdale to Provo and she alleges and I don't believe her ..."
-
-**[00:03:28](/episodes/ep-5m-Wn6Pr5rM.md#t-00-03-28)**
-> "Scottsdale. So Andrew would, of course, have been able to me..."
-
-**[00:13:39](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-39)**
-> "...roximately 30 minutes away in scottsdale like i said that was immediately weird to me beca..."
-
-**[00:14:34](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-34)**
-> "is allegedly home in Scottsdale. I would like to now put out an APB for Stacey Sh..."
-
-**[00:16:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-16-07)**
-> "...h. Remember, Erika grew up in Scottsdale."
-
-**[00:16:19](/episodes/ep-5m-Wn6Pr5rM.md#t-00-16-19)**
-> "...oesn't everybody live here in Scottsdale I think even I heard that Nicole Rothstein once u..."
-
-**[00:21:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-21-31)**
-> "...conversation with a friend in Scottsdale"
-
-</details>
-
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Former Residence Of (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:16:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-16-07): “Erika grew up in Scottsdale.”
+
+</details>
+
+</details>
 
 <details>
 <summary>Location Of (2)</summary>
@@ -378,7 +392,7 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -394,12 +408,30 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 
 </details>
 
+- **[Erika Kirk](/entities/person-erika-kirk.md)** formerly lived in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:16:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-16-07): “Erika grew up in Scottsdale.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
 <summary><strong class="section-title">Statements about Scottsdale, Arizona (12)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2)</summary>
+
+- [00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-51) (Claim) **Candace Owens**: ["The Charlie Kirk show was hosted in its entirety before the Y-Refi pla..."](/statements/statement-cc89e89ddc7e.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Yrefy](/entities/org-yrefy.md)
+
+- [00:14:28](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-21) (Claim) **Candace Owens**: ["Stacey Sheridan was not at the TPUSA office and was allegedly home in ..."](/statements/statement-2e1bf770157c.md)
+  - Also about: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (2)</summary>
@@ -453,17 +485,6 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 
 - [00:26:27](/episodes/ep-JQjCAsfoXEE.md#t-00-26-14) (Claim) **Candace Owens**: ["A plane with tail number N560TW departed Scottsdale on September 10th ..."](/statements/statement-d3981124cc21.md)
   - Also about: [Provo](/entities/gpe-provo.md)
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (2)</summary>
-
-- [00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-10) (Claim) **Candace Owens**: ["The Charlie Kirk show was hosted in its entirety before the Y-Refi pla..."](/statements/statement-cc89e89ddc7e.md)
-  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Yrefy](/entities/org-yrefy.md)
-
-- [00:14:28](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-28) (Claim) **Candace Owens**: ["Stacey Sheridan was not at the TPUSA office and was allegedly home in ..."](/statements/statement-2e1bf770157c.md)
-  - Also about: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

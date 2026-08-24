@@ -22,7 +22,7 @@ Source: [Orthodox Church in America — Political issues](https://www.oca.org/qu
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-orthodox-christianity-t-00-56-43">2026-03-06 · 00:56:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-orthodox-christianity-t-00-56-43">2026-03-06 · 00:56:43</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-10">2026-03-25 · 00:31:10</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -36,12 +36,14 @@ Source: [Orthodox Church in America — Political issues](https://www.oca.org/qu
 <p>Highest activity: <a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-orthodox-christianity-t-00-56-43">Bride Of Charlie: Crazy In Love | Episode 7</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-orthodox-christianity-t-00-56-43" style="--pulse-height:100%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-10" style="--pulse-height:100%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-concept-orthodox-christianity-t-00-56-43) | 1 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-10) | 1 |
 
 </details>
 </section>
@@ -52,18 +54,18 @@ Source: [Orthodox Church in America — Political issues](https://www.oca.org/qu
 <summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 <details>
-<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
 
-**[00:56:43](/episodes/ep-DdPjoy5W-wY.md#ent-concept-orthodox-christianity-t-00-56-43)**
-> "...e are a Christian country, an Orthodox Christian country with a very faithful population. Their ex..."
+**[00:31:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-10)**
+> "Eastern Orthodox"
 
 </details>
 
 <details>
-<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>
 
-**[00:31:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-10)**
-> "Eastern Orthodox"
+**[00:56:43](/episodes/ep-DdPjoy5W-wY.md#ent-concept-orthodox-christianity-t-00-56-43)**
+> "...e are a Christian country, an Orthodox Christian country with a very faithful population. Their ex..."
 
 </details>
 

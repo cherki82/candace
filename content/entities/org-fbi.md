@@ -85,6 +85,7 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-fbi-t-00-35-08" style="--pulse-height:17%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 5 mentions" title="2025-12-18 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-fbi-t-00-02-42" style="--pulse-height:10%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 3 mentions" title="2026-03-23 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-fbi-t-00-54-24" style="--pulse-height:14%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 4 mentions" title="2026-03-24 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-fbi-t-00-28-01" style="--pulse-height:24%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 7 mentions" title="2026-03-25 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-00-31-26" style="--pulse-height:59%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -136,6 +137,7 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-fbi-t-00-35-08) | 5 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-fbi-t-00-02-42) | 3 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-fbi-t-00-54-24) | 4 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-fbi-t-00-28-01) | 7 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-00-31-26) | 17 |
 
 </details>
@@ -199,6 +201,32 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 
 **[01:59:17](/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-01-59-17)**
 > "...nto evidence they took it The FBI,"
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (7 mentions)</summary>
+
+**[00:28:15](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-fbi-t-00-28-01)**
+> "FBI"
+
+**[00:07:31](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-fbi-t-00-07-31)**
+> "The feds are crawling all over. I would say you are lookin..."
+
+**[00:20:03](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-fbi-t-00-20-03)**
+> "...lvet in that narrative or the feds who we were told by Frank Turek were guarding the..."
+
+**[00:32:05](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-fbi-t-00-31-31)**
+> "...p. She's literally dating the FBI director and has a government security force foll..."
+
+**[00:34:03](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-fbi-t-00-34-03)**
+> "... narrative falsely identifies FBI director's girlfriend. So it's as a Mossad honeyp..."
+
+**[00:43:36](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-fbi-t-00-43-22)**
+> "...nd that thread and having the FBI's girlfriend do that really shows you how there's..."
+
+**[00:50:21](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-fbi-t-00-49-54)**
+> "...it. She's coming for you. The FBI is coming for you, Nicole."
 
 </details>
 
@@ -1504,32 +1532,6 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (7 mentions)</summary>
-
-**[00:28:15](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-15)**
-> "FBI"
-
-**[00:07:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-07-31)**
-> "The feds are crawling all over. I would say you are lookin..."
-
-**[00:20:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-20-03)**
-> "...lvet in that narrative or the feds who we were told by Frank Turek were guarding the..."
-
-**[00:32:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-32-05)**
-> "...p. She's literally dating the FBI director and has a government security force foll..."
-
-**[00:34:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-03)**
-> "... narrative falsely identifies FBI director's girlfriend. So it's as a Mossad honeyp..."
-
-**[00:43:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-36)**
-> "...nd that thread and having the FBI's girlfriend do that really shows you how there's..."
-
-**[00:50:21](/episodes/ep-5m-Wn6Pr5rM.md#t-00-50-21)**
-> "...it. She's coming for you. The FBI is coming for you, Nicole."
-
-</details>
-
 </details>
 
 <details open>
@@ -1594,9 +1596,10 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 <summary>Has Director (1)</summary>
 
 - **[Kash Patel](/entities/person-kash-patel.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:08:06](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “she praises the FBI director, Kash Patel”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:32:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31): “She's literally dating the FBI director”
 
 </details>
 
@@ -1614,9 +1617,10 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 </details>
 
 - **[Kash Patel](/entities/person-kash-patel.md)** director of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:08:06](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “she praises the FBI director, Kash Patel”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:32:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31): “She's literally dating the FBI director”
 
 </details>
 
@@ -1686,6 +1690,17 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 
 - [04:01:26](/episodes/ep-nPhCKwJ6ye8.md#t-04-01-26) (Accusation) **Candace Owens**: ["Candace Owens still believes there is more evidence that multiple peop..."](/statements/statement-4735330c37c9.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2)</summary>
+
+- [00:29:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-29-10) (Accusation) **Candace Owens**: ["Kash Patel used an FBI plane to fly to see Alexis Wilkins and sent a p..."](/statements/statement-201c56acbf00.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Alexis Wilkins](/entities/person-alexis-wilkins.md)
+
+- [00:43:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-22) (Opinion) **Candace Owens**: ["Catholics are fully under attack, and Alexis Wilkins's thread illustra..."](/statements/statement-e59064ae496a.md)
+  - Also about: [Catholicism](/entities/concept-catholicism.md), [Alexis Wilkins](/entities/person-alexis-wilkins.md)
 
 </details>
 
@@ -1927,17 +1942,6 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 
 - [00:37:17](/episodes/ep-czVBmqZP6Ss.md#t-00-37-05) (Opinion) **Michael Savage** (via quoted speech): ["The FBI's story doesn't add up. They're trying to claim he removed the..."](/statements/statement-3a59ee990192.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (2)</summary>
-
-- [00:29:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-29-10) (Accusation) **Candace Owens**: ["Kash Patel used an FBI plane to fly to see Alexis Wilkins and sent a p..."](/statements/statement-201c56acbf00.md)
-  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Alexis Wilkins](/entities/person-alexis-wilkins.md)
-
-- [00:43:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-36) (Opinion) **Candace Owens**: ["Catholics are fully under attack, and Alexis Wilkins's thread illustra..."](/statements/statement-e59064ae496a.md)
-  - Also about: [Catholicism](/entities/concept-catholicism.md), [Alexis Wilkins](/entities/person-alexis-wilkins.md)
 
 </details>
 

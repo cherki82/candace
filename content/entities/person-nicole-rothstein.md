@@ -18,7 +18,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-nicole-rothstein-t-00-44-30">2025-12-20 · 00:44:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-nicole-rothstein-t-00-26-40">2026-03-18 · 00:26:40</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-nicole-rothstein-t-00-16-07">2026-03-25 · 00:16:19</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -36,6 +36,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-nicole-rothstein-t-00-55-42" style="--pulse-height:12%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-nicole-rothstein-t-00-08-36" style="--pulse-height:12%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-nicole-rothstein-t-00-08-01" style="--pulse-height:25%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 2 mentions" title="2026-03-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-nicole-rothstein-t-00-16-07" style="--pulse-height:12%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-nicole-rothstein-t-00-55-42) | 1 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-person-nicole-rothstein-t-00-08-36) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-nicole-rothstein-t-00-08-01) | 2 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-nicole-rothstein-t-00-16-07) | 1 |
 
 </details>
 </section>
@@ -54,6 +56,14 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 
 <details>
 <summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
+
+**[00:16:19](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-nicole-rothstein-t-00-16-07)**
+> "Nicole Rothstein"
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (2 mentions)</summary>
@@ -119,14 +129,6 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 
 **[00:44:42](/episodes/ep-w1oqQbR_bYs.md#ent-person-nicole-rothstein-t-00-44-30)**
 > "and Nicole Rothstein was like, I'm her cousin, she's half Jewish."
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
-
-**[00:16:19](/episodes/ep-5m-Wn6Pr5rM.md#t-00-16-19)**
-> "Nicole Rothstein"
 
 </details>
 

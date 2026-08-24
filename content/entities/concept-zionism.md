@@ -28,7 +28,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-concept-zionism-t-00-31-15">2025-09-18 · 00:31:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-concept-zionism-t-00-12-27">2026-03-23 · 00:12:53</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-zionism-t-00-43-22">2026-03-25 · 00:43:22</a></strong></div>
 <div><span>Episodes</span><strong>51</strong></div>
 <div><span>Mentions</span><strong>268</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -91,6 +91,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-concept-zionism-t-00-12-12" style="--pulse-height:50%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 7 mentions" title="2026-03-17 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-zionism-t-00-47-41" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-concept-zionism-t-00-12-27" style="--pulse-height:14%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-zionism-t-00-26-08" style="--pulse-height:36%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 5 mentions" title="2026-03-25 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -146,6 +147,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-concept-zionism-t-00-12-12) | 7 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-concept-zionism-t-00-47-41) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-concept-zionism-t-00-12-27) | 2 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-zionism-t-00-26-08) | 5 |
 
 </details>
 </section>
@@ -154,6 +156,26 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 
 <details>
 <summary><strong class="section-title">Raw mentions (268)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (5 mentions)</summary>
+
+**[00:26:12](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-zionism-t-00-26-08)**
+> "Zionists"
+
+**[00:41:05](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-zionism-t-00-40-43)**
+> "...cause Catholic does not imply Zionism in the way that Southern Baptists might imply."
+
+**[00:41:25](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-zionism-t-00-41-25)**
+> "imply Zionism. And so elsewhere in the article, that's what he ..."
+
+**[00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-zionism-t-00-41-25)**
+> "...hat the faithful be committed Zionists to receive God's blessing."
+
+**[00:43:22](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-zionism-t-00-43-22)**
+> "...re feeling disenfranchised by Zionism? Yeah."
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (2 mentions)</summary>
@@ -1194,26 +1216,6 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (5 mentions)</summary>
-
-**[00:26:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-26-12)**
-> "Zionists"
-
-**[00:41:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-05)**
-> "...cause Catholic does not imply Zionism in the way that Southern Baptists might imply."
-
-**[00:41:25](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-25)**
-> "imply Zionism. And so elsewhere in the article, that's what he ..."
-
-**[00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-33)**
-> "...hat the faithful be committed Zionists to receive God's blessing."
-
-**[00:43:22](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-22)**
-> "...re feeling disenfranchised by Zionism? Yeah."
-
-</details>
-
 </details>
 
 <details open>
@@ -1247,6 +1249,14 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 
 <details open>
 <summary><strong class="section-title">Statements about Zionism (27)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1)</summary>
+
+- [00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-25) (Claim) **The Daily Wire** (via quoted article): ["The Catholic Church does not demand that the faithful be committed Zio..."](/statements/statement-8180d1208c22.md)
+  - Also about: [Catholic Church](/entities/org-catholic-church.md), [God](/entities/concept-god.md)
+
+</details>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (2)</summary>
@@ -1398,14 +1408,6 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 
 - [00:31:52](/episodes/ep-sreYYcID-QY.md#t-00-31-15) (Opinion) **Candace Owens**: ["Zionists control a lot of publications in America"](/statements/statement-5e65d2d7c15f.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (1)</summary>
-
-- [00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-33) (Claim) **The Daily Wire** (via quoted article): ["The Catholic Church does not demand that the faithful be committed Zio..."](/statements/statement-8180d1208c22.md)
-  - Also about: [Catholic Church](/entities/org-catholic-church.md), [God](/entities/concept-god.md)
 
 </details>
 

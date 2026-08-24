@@ -21,7 +21,7 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-catholicism-t-00-13-56">2026-01-06 · 00:14:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-concept-catholicism-t-00-58-48">2026-03-24 · 00:59:21</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-catholicism-t-00-45-26">2026-03-25 · 00:45:57</a></strong></div>
 <div><span>Episodes</span><strong>30</strong></div>
 <div><span>Mentions</span><strong>121</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -63,6 +63,7 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-concept-catholicism-t-00-18-44" style="--pulse-height:39%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 7 mentions" title="2026-03-17 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-catholicism-t-00-02-24" style="--pulse-height:56%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 10 mentions" title="2026-03-18 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-concept-catholicism-t-00-57-37" style="--pulse-height:11%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-catholicism-t-00-40-43" style="--pulse-height:78%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 14 mentions" title="2026-03-25 · 14 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -97,6 +98,7 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-concept-catholicism-t-00-18-44) | 7 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-concept-catholicism-t-00-02-24) | 10 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-concept-catholicism-t-00-57-37) | 2 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-catholicism-t-00-40-43) | 14 |
 
 </details>
 </section>
@@ -105,6 +107,53 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 
 <details>
 <summary><strong class="section-title">Raw mentions (121)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (14 mentions)</summary>
+
+**[00:42:04](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-catholicism-t-00-40-43)**
+> "Catholic church"
+
+**[00:01:06](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-catholicism-t-00-40-43)**
+> "...d Putin's philosopher and the Catholic Church and Candace Owens and Tucker Carlson all w..."
+
+**[00:31:10](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-catholicism-t-00-40-43)**
+> "...they are doing it through the Catholic Church, even though Russia is an Eastern Orthodox..."
+
+**[00:41:05](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-catholicism-t-00-40-43)**
+> "And it says the Catholic convert boom is real, but a trouble pattern is em..."
+
+**[00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-catholicism-t-00-40-43)**
+> "..., this is in the article, the Catholic Church does not demand that the faithful be commi..."
+
+**[00:42:18](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-catholicism-t-00-40-43)**
+> "this is great the uh the catholic church was in april last year oh it's so great al..."
+
+**[00:42:44](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-catholicism-t-00-42-44)**
+> "...popular narrative is that the Catholicism is booming, but this is not true."
+
+**[00:42:56](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-catholicism-t-00-42-44)**
+> "...es now that show how much the Catholic Church is growing. We can just show you a few of ..."
+
+**[00:43:02](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-catholicism-t-00-42-44)**
+> "But U.S. Catholic population shows growth trends southward, which i..."
+
+**[00:43:10](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-catholicism-t-00-42-44)**
+> "...ugust, more Americans joining Catholic church than leaving for the first time in decades..."
+
+**[00:43:36](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-catholicism-t-00-43-22)**
+> "... doesn't like that Joe Kent's Catholic and I'm Catholic"
+
+**[00:44:03](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-catholicism-t-00-44-03)**
+> "catholic or something and tucker who she mentioned is epis..."
+
+**[00:45:26](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-catholicism-t-00-45-26)**
+> "...le, which is is a traditional Catholic book company called Loreto Publications, and thei..."
+
+**[00:45:57](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-catholicism-t-00-45-26)**
+> "...ks, even works that dive into Catholic social teaching and the kingship of Christ in tod..."
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (2 mentions)</summary>
@@ -572,53 +621,6 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (14 mentions)</summary>
-
-**[00:42:04](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-04)**
-> "Catholic church"
-
-**[00:01:06](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-06)**
-> "...d Putin's philosopher and the Catholic Church and Candace Owens and Tucker Carlson all w..."
-
-**[00:31:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-10)**
-> "...they are doing it through the Catholic Church, even though Russia is an Eastern Orthodox..."
-
-**[00:41:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-05)**
-> "And it says the Catholic convert boom is real, but a trouble pattern is em..."
-
-**[00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-33)**
-> "..., this is in the article, the Catholic Church does not demand that the faithful be commi..."
-
-**[00:42:18](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-18)**
-> "this is great the uh the catholic church was in april last year oh it's so great al..."
-
-**[00:42:44](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-44)**
-> "...popular narrative is that the Catholicism is booming, but this is not true."
-
-**[00:42:56](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-56)**
-> "...es now that show how much the Catholic Church is growing. We can just show you a few of ..."
-
-**[00:43:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-02)**
-> "But U.S. Catholic population shows growth trends southward, which i..."
-
-**[00:43:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-10)**
-> "...ugust, more Americans joining Catholic church than leaving for the first time in decades..."
-
-**[00:43:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-36)**
-> "... doesn't like that Joe Kent's Catholic and I'm Catholic"
-
-**[00:44:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-44-03)**
-> "catholic or something and tucker who she mentioned is epis..."
-
-**[00:45:26](/episodes/ep-5m-Wn6Pr5rM.md#t-00-45-26)**
-> "...le, which is is a traditional Catholic book company called Loreto Publications, and thei..."
-
-**[00:45:57](/episodes/ep-5m-Wn6Pr5rM.md#t-00-45-57)**
-> "...ks, even works that dive into Catholic social teaching and the kingship of Christ in tod..."
-
-</details>
-
 </details>
 
 <details open>
@@ -630,6 +632,17 @@ _No relationships extracted yet._
 
 <details open>
 <summary><strong class="section-title">Statements about Catholicism (7)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2)</summary>
+
+- [00:43:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-44) (Citation) **Candace Owens**: ["The Times reported that Catholics outnumber Anglicans two to one among..."](/statements/statement-1e6b20aec987.md)
+  - Also about: [The Times](/entities/org-the-times.md)
+
+- [00:43:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-22) (Opinion) **Candace Owens**: ["Catholics are fully under attack, and Alexis Wilkins's thread illustra..."](/statements/statement-e59064ae496a.md)
+  - Also about: [Alexis Wilkins](/entities/person-alexis-wilkins.md), [FBI](/entities/org-fbi.md)
+
+</details>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
@@ -658,17 +671,6 @@ _No relationships extracted yet._
 
 - [00:50:32](/episodes/ep-ZZGWo6oDscc.md#t-00-50-30) (Claim) **Candace Owens**: ["Pornography is part of a psychological operation and renders men weake..."](/statements/statement-e501a3b4e04d.md)
   - Also about: [Pornography](/entities/concept-pornography.md), [Psychological operations](/entities/concept-psychological-operations.md)
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (2)</summary>
-
-- [00:43:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-10) (Citation) **Candace Owens**: ["The Times reported that Catholics outnumber Anglicans two to one among..."](/statements/statement-1e6b20aec987.md)
-  - Also about: [The Times](/entities/org-the-times.md)
-
-- [00:43:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-36) (Opinion) **Candace Owens**: ["Catholics are fully under attack, and Alexis Wilkins's thread illustra..."](/statements/statement-e59064ae496a.md)
-  - Also about: [Alexis Wilkins](/entities/person-alexis-wilkins.md), [FBI](/entities/org-fbi.md)
 
 </details>
 

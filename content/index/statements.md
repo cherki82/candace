@@ -5354,41 +5354,41 @@ _3237 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>ep-5m-Wn6Pr5rM (6)</summary>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (6)</summary>
 
 <div class="filter-item">
 
-- [00:09:21](/episodes/ep-5m-Wn6Pr5rM.md#t-00-09-21) [○] **Candace Owens**: ["My proposed explanation is that Erika Kirk flew in earlier than Andrew Kolvet an..."](/statements/statement-5f081a5d1b78.md)
+- [00:09:21](/episodes/ep-5m-Wn6Pr5rM.md#t-00-09-02) [○] **Candace Owens**: ["My proposed explanation is that Erika Kirk flew in earlier than Andrew Kolvet an..."](/statements/statement-5f081a5d1b78.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
 
-- [00:10:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-10-50) [○] **Candace Owens**: ["Erika Kirk was on the phone directing Andrew Kolvet to do those things, lets him..."](/statements/statement-b6027dee3443.md)
+- [00:10:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-10-24) [○] **Candace Owens**: ["Erika Kirk was on the phone directing Andrew Kolvet to do those things, lets him..."](/statements/statement-b6027dee3443.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 </div>
 <div class="filter-item">
 
-- [00:29:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-29-10) [○] **Candace Owens**: ["Kash Patel used an FBI plane to fly to see Alexis Wilkins and sent a police forc..."](/statements/statement-201c56acbf00.md)
+- [00:29:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-29-10) [◐] **Candace Owens**: ["Kash Patel used an FBI plane to fly to see Alexis Wilkins and sent a police forc..."](/statements/statement-201c56acbf00.md)
   - About: [Kash Patel](/entities/person-kash-patel.md), [Alexis Wilkins](/entities/person-alexis-wilkins.md), [FBI](/entities/org-fbi.md)
 
 </div>
 <div class="filter-item">
 
-- [00:31:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31) [○] **Alexis Wilkins**: ["A foreign-linked influence network has run coordinated operations against the Tr..."](/statements/statement-ab51d0c96f29.md)
+- [00:31:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31) [✓] **Alexis Wilkins**: ["A foreign-linked influence network has run coordinated operations against the Tr..."](/statements/statement-ab51d0c96f29.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Alexis Wilkins](/entities/person-alexis-wilkins.md), [Republican Party](/entities/org-republican-party.md)
 
 </div>
 <div class="filter-item">
 
-- [00:32:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-32-47) [○] **Alexis Wilkins**: ["Catholics for Catholics lists Michael Flynn as its senior adviser, and Flynn is ..."](/statements/statement-344288f8937f.md)
+- [00:32:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-32-47) [✓] **Alexis Wilkins**: ["Catholics for Catholics lists Michael Flynn as its senior adviser, and Flynn is ..."](/statements/statement-344288f8937f.md)
   - About: [Catholics for Catholics](/entities/org-catholics-for-catholics.md), [Michael T. Flynn](/entities/person-michael-t-flynn.md), [Republican Party](/entities/org-republican-party.md)
 
 </div>
 <div class="filter-item">
 
-- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) [○] **Alexis Wilkins**: ["Within hours of Charlie Kirk's assassination, Candace Owens publicly attributed ..."](/statements/statement-b2726c243b67.md)
+- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) [◐] **Alexis Wilkins**: ["Within hours of Charlie Kirk's assassination, Candace Owens publicly attributed ..."](/statements/statement-b2726c243b67.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Israel](/entities/gpe-israel.md)
 
 </div>
@@ -16730,29 +16730,29 @@ _3237 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>ep-5m-Wn6Pr5rM (20)</summary>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (20)</summary>
 
 <div class="filter-item">
 
-- [00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-10) [○] **Candace Owens**: ["The Charlie Kirk show was hosted in its entirety before the Y-Refi plane left Sa..."](/statements/statement-cc89e89ddc7e.md)
+- [00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-51) [✓] **Candace Owens**: ["The Charlie Kirk show was hosted in its entirety before the Y-Refi plane left Sa..."](/statements/statement-cc89e89ddc7e.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Yrefy](/entities/org-yrefy.md)
 
 </div>
 <div class="filter-item">
 
-- [00:02:51](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-51) [○] **Candace Owens**: ["The Y-Refi plane is equipped with Wi-Fi."](/statements/statement-b859662fd236.md)
+- [00:02:51](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-23) [◐] **Candace Owens**: ["The Y-Refi plane is equipped with Wi-Fi."](/statements/statement-b859662fd236.md)
   - About: [Yrefy](/entities/org-yrefy.md)
 
 </div>
 <div class="filter-item">
 
-- [00:05:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-05-47) [○] **Frank Turek**: ["Erika Kirk probably arrived at the hospital around 4 p.m."](/statements/statement-138fff1e852b.md)
+- [00:05:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-05-47) [✓] **Frank Turek**: ["Erika Kirk probably arrived at the hospital around 4 p.m."](/statements/statement-138fff1e852b.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
 
 </div>
 <div class="filter-item">
 
-- [00:06:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-06-24) [○] **Candace Owens**: ["The plane that Erika Kirk told Candace Owens carried Andrew Kolvet did not land ..."](/statements/statement-ce02a70f1a1d.md)
+- [00:06:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-06-15) [○] **Candace Owens**: ["The plane that Erika Kirk told Candace Owens carried Andrew Kolvet did not land ..."](/statements/statement-ce02a70f1a1d.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Yrefy](/entities/org-yrefy.md)
 
 </div>
@@ -16764,25 +16764,25 @@ _3237 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-47) [○] **Candace Owens**: ["After the call, Elizabeth McCoy ran into the office of Frank, a TPUSA lawyer, fo..."](/statements/statement-b034bb78e025.md)
+- [00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-33) [○] **Candace Owens**: ["After the call, Elizabeth McCoy ran into the office of Frank, a TPUSA lawyer, fo..."](/statements/statement-b034bb78e025.md)
   - About: [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Frank (TPUSA lawyer; surname unverified)](/entities/anon-src-5m-Wn6Pr5rM-001.md), [Justin Streiff](/entities/person-justin-streiff.md)
 
 </div>
 <div class="filter-item">
 
-- [00:13:32](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-32) [○] **Candace Owens**: ["Lauren Toncich drove Elizabeth McCoy from the TPUSA office to the airport."](/statements/statement-80320f6c867a.md)
+- [00:13:32](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-07) [○] **Candace Owens**: ["Lauren Toncich drove Elizabeth McCoy from the TPUSA office to the airport."](/statements/statement-80320f6c867a.md)
   - About: [Lauren Toncich](/entities/person-lauren-toncich.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
 <div class="filter-item">
 
-- [00:14:28](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-28) [○] **Candace Owens**: ["Stacey Sheridan was not at the TPUSA office and was allegedly home in Scottsdale..."](/statements/statement-2e1bf770157c.md)
+- [00:14:28](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-21) [○] **Candace Owens**: ["Stacey Sheridan was not at the TPUSA office and was allegedly home in Scottsdale..."](/statements/statement-2e1bf770157c.md)
   - About: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md)
 
 </div>
 <div class="filter-item">
 
-- [00:15:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-15-43) [○] **Candace Owens**: ["I believe Erika Kirk and Tyler Bowyer flew together."](/statements/statement-3e567b42755e.md)
+- [00:15:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-15-32) [○] **Candace Owens**: ["I believe Erika Kirk and Tyler Bowyer flew together."](/statements/statement-3e567b42755e.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 </div>
@@ -16794,19 +16794,19 @@ _3237 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:17:55](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-55) [○] **Candace Owens**: ["Erika Kirk told me that the doctor called her directly and informed her that Cha..."](/statements/statement-3b3b396856d7.md)
+- [00:17:55](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-24) [○] **Candace Owens**: ["Erika Kirk told me that the doctor called her directly and informed her that Cha..."](/statements/statement-3b3b396856d7.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
 
-- [00:18:09](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-09) [○] **Candace Owens**: ["Katherine Locastro was part of the team that transported Erika Kirk to the airpo..."](/statements/statement-2bf82b4d32a9.md)
+- [00:18:09](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-09) [◐] **Candace Owens**: ["Katherine Locastro was part of the team that transported Erika Kirk to the airpo..."](/statements/statement-2bf82b4d32a9.md)
   - About: [Katherine Locastro](/entities/person-katherine-locastro.md), [Erika Kirk](/entities/person-erika-kirk.md), [Utah](/entities/gpe-utah.md)
 
 </div>
 <div class="filter-item">
 
-- [00:21:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-21-12) [○] **Hopkinson Aircraft employee (unidentified)**: ["Hopkinson Aircraft is not a CIA front company and does real business."](/statements/statement-59e8090f70bf.md)
+- [00:21:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-20-48) [◐] **Hopkinson Aircraft employee (unidentified)**: ["Hopkinson Aircraft is not a CIA front company and does real business."](/statements/statement-59e8090f70bf.md)
   - About: [Hopkinson Aircraft Sales](/entities/org-hopkinson-aircraft-sales.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 
 </div>
@@ -16818,13 +16818,13 @@ _3237 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:27:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-07) [○] **Joe Rogan**: ["The round Charlie Kirk was supposedly shot with was a .30-06, a large round used..."](/statements/statement-45ce4670b4df.md)
+- [00:27:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-07) [◐] **Joe Rogan**: ["The round Charlie Kirk was supposedly shot with was a .30-06, a large round used..."](/statements/statement-45ce4670b4df.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
 
-- [00:27:26](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-26) [○] **Joe Rogan**: ["Joe Kent said that they were told to stop their investigation and that others we..."](/statements/statement-b9aa83436838.md)
+- [00:27:26](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-26) [✓] **Joe Rogan**: ["Joe Kent said that they were told to stop their investigation and that others we..."](/statements/statement-b9aa83436838.md)
   - About: [Joe Kent](/entities/person-joe-kent.md)
 
 </div>
@@ -16836,13 +16836,13 @@ _3237 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) [○] **Candace Owens**: ["I did not name Erika Kirk or attribute Charlie Kirk's killing to Israel within h..."](/statements/statement-e1617f27d099.md)
+- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) [◐] **Candace Owens**: ["I did not name Erika Kirk or attribute Charlie Kirk's killing to Israel within h..."](/statements/statement-e1617f27d099.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
 
-- [00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-33) [○] **The Daily Wire**: ["The Catholic Church does not demand that the faithful be committed Zionists to r..."](/statements/statement-8180d1208c22.md)
+- [00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-25) [✓] **The Daily Wire**: ["The Catholic Church does not demand that the faithful be committed Zionists to r..."](/statements/statement-8180d1208c22.md)
   - About: [Catholic Church](/entities/org-catholic-church.md), [Zionism](/entities/concept-zionism.md), [God](/entities/concept-god.md)
 
 </div>
@@ -18865,17 +18865,17 @@ _3237 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>ep-5m-Wn6Pr5rM (2)</summary>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2)</summary>
 
 <div class="filter-item">
 
-- [00:43:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-02) [○] **Candace Owens**: ["An August 2025 article reported that more Americans were joining the Catholic Ch..."](/statements/statement-774d3b78c237.md)
+- [00:43:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-44) [✓] **Candace Owens**: ["An August 2025 article reported that more Americans were joining the Catholic Ch..."](/statements/statement-774d3b78c237.md)
   - About: [Catholic Church](/entities/org-catholic-church.md), [United States](/entities/gpe-united-states.md)
 
 </div>
 <div class="filter-item">
 
-- [00:43:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-10) [○] **Candace Owens**: ["The Times reported that Catholics outnumber Anglicans two to one among Gen Z chu..."](/statements/statement-1e6b20aec987.md)
+- [00:43:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-44) [✓] **Candace Owens**: ["The Times reported that Catholics outnumber Anglicans two to one among Gen Z chu..."](/statements/statement-1e6b20aec987.md)
   - About: [The Times](/entities/org-the-times.md), [Catholicism](/entities/concept-catholicism.md)
 
 </div>
@@ -21114,17 +21114,17 @@ _3237 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>ep-5m-Wn6Pr5rM (2)</summary>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2)</summary>
 
 <div class="filter-item">
 
-- [00:43:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-36) [○] **Candace Owens**: ["Catholics are fully under attack, and Alexis Wilkins's thread illustrates that a..."](/statements/statement-e59064ae496a.md)
+- [00:43:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-22) [○] **Candace Owens**: ["Catholics are fully under attack, and Alexis Wilkins's thread illustrates that a..."](/statements/statement-e59064ae496a.md)
   - About: [Catholicism](/entities/concept-catholicism.md), [Alexis Wilkins](/entities/person-alexis-wilkins.md), [FBI](/entities/org-fbi.md)
 
 </div>
 <div class="filter-item">
 
-- [00:46:37](/episodes/ep-5m-Wn6Pr5rM.md#t-00-46-37) [○] **Candace Owens**: ["We are watching Kash Patel's revenge; he is angry."](/statements/statement-9d70db4a8703.md)
+- [00:46:37](/episodes/ep-5m-Wn6Pr5rM.md#t-00-46-05) [○] **Candace Owens**: ["We are watching Kash Patel's revenge; he is angry."](/statements/statement-9d70db4a8703.md)
   - About: [Kash Patel](/entities/person-kash-patel.md)
 
 </div>
@@ -40759,29 +40759,29 @@ _3237 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary><strong>ep-5m-Wn6Pr5rM</strong> (30)</summary>
+<summary><strong>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316</strong> (30)</summary>
 
 <div class="filter-item">
 
-- [00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-10) [○] (Claim) **Candace Owens**: ["The Charlie Kirk show was hosted in its entirety before the Y-Refi plane left Sa..."](/statements/statement-cc89e89ddc7e.md)
+- [00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-51) [✓] (Claim) **Candace Owens**: ["The Charlie Kirk show was hosted in its entirety before the Y-Refi plane left Sa..."](/statements/statement-cc89e89ddc7e.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Yrefy](/entities/org-yrefy.md)
 
 </div>
 <div class="filter-item">
 
-- [00:02:51](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-51) [○] (Claim) **Candace Owens**: ["The Y-Refi plane is equipped with Wi-Fi."](/statements/statement-b859662fd236.md)
+- [00:02:51](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-23) [◐] (Claim) **Candace Owens**: ["The Y-Refi plane is equipped with Wi-Fi."](/statements/statement-b859662fd236.md)
   - About: [Yrefy](/entities/org-yrefy.md)
 
 </div>
 <div class="filter-item">
 
-- [00:05:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-05-47) [○] (Claim) **Frank Turek**: ["Erika Kirk probably arrived at the hospital around 4 p.m."](/statements/statement-138fff1e852b.md)
+- [00:05:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-05-47) [✓] (Claim) **Frank Turek**: ["Erika Kirk probably arrived at the hospital around 4 p.m."](/statements/statement-138fff1e852b.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
 
 </div>
 <div class="filter-item">
 
-- [00:06:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-06-24) [○] (Claim) **Candace Owens**: ["The plane that Erika Kirk told Candace Owens carried Andrew Kolvet did not land ..."](/statements/statement-ce02a70f1a1d.md)
+- [00:06:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-06-15) [○] (Claim) **Candace Owens**: ["The plane that Erika Kirk told Candace Owens carried Andrew Kolvet did not land ..."](/statements/statement-ce02a70f1a1d.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Yrefy](/entities/org-yrefy.md)
 
 </div>
@@ -40793,37 +40793,37 @@ _3237 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:09:21](/episodes/ep-5m-Wn6Pr5rM.md#t-00-09-21) [○] (Accusation) **Candace Owens**: ["My proposed explanation is that Erika Kirk flew in earlier than Andrew Kolvet an..."](/statements/statement-5f081a5d1b78.md)
+- [00:09:21](/episodes/ep-5m-Wn6Pr5rM.md#t-00-09-02) [○] (Accusation) **Candace Owens**: ["My proposed explanation is that Erika Kirk flew in earlier than Andrew Kolvet an..."](/statements/statement-5f081a5d1b78.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
 
-- [00:10:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-10-50) [○] (Accusation) **Candace Owens**: ["Erika Kirk was on the phone directing Andrew Kolvet to do those things, lets him..."](/statements/statement-b6027dee3443.md)
+- [00:10:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-10-24) [○] (Accusation) **Candace Owens**: ["Erika Kirk was on the phone directing Andrew Kolvet to do those things, lets him..."](/statements/statement-b6027dee3443.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 </div>
 <div class="filter-item">
 
-- [00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-47) [○] (Claim) **Candace Owens**: ["After the call, Elizabeth McCoy ran into the office of Frank, a TPUSA lawyer, fo..."](/statements/statement-b034bb78e025.md)
+- [00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-33) [○] (Claim) **Candace Owens**: ["After the call, Elizabeth McCoy ran into the office of Frank, a TPUSA lawyer, fo..."](/statements/statement-b034bb78e025.md)
   - About: [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Frank (TPUSA lawyer; surname unverified)](/entities/anon-src-5m-Wn6Pr5rM-001.md), [Justin Streiff](/entities/person-justin-streiff.md)
 
 </div>
 <div class="filter-item">
 
-- [00:13:32](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-32) [○] (Claim) **Candace Owens**: ["Lauren Toncich drove Elizabeth McCoy from the TPUSA office to the airport."](/statements/statement-80320f6c867a.md)
+- [00:13:32](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-07) [○] (Claim) **Candace Owens**: ["Lauren Toncich drove Elizabeth McCoy from the TPUSA office to the airport."](/statements/statement-80320f6c867a.md)
   - About: [Lauren Toncich](/entities/person-lauren-toncich.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
 <div class="filter-item">
 
-- [00:14:28](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-28) [○] (Claim) **Candace Owens**: ["Stacey Sheridan was not at the TPUSA office and was allegedly home in Scottsdale..."](/statements/statement-2e1bf770157c.md)
+- [00:14:28](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-21) [○] (Claim) **Candace Owens**: ["Stacey Sheridan was not at the TPUSA office and was allegedly home in Scottsdale..."](/statements/statement-2e1bf770157c.md)
   - About: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md)
 
 </div>
 <div class="filter-item">
 
-- [00:15:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-15-43) [○] (Claim) **Candace Owens**: ["I believe Erika Kirk and Tyler Bowyer flew together."](/statements/statement-3e567b42755e.md)
+- [00:15:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-15-32) [○] (Claim) **Candace Owens**: ["I believe Erika Kirk and Tyler Bowyer flew together."](/statements/statement-3e567b42755e.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 </div>
@@ -40835,19 +40835,19 @@ _3237 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:17:55](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-55) [○] (Claim) **Candace Owens**: ["Erika Kirk told me that the doctor called her directly and informed her that Cha..."](/statements/statement-3b3b396856d7.md)
+- [00:17:55](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-24) [○] (Claim) **Candace Owens**: ["Erika Kirk told me that the doctor called her directly and informed her that Cha..."](/statements/statement-3b3b396856d7.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
 
-- [00:18:09](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-09) [○] (Claim) **Candace Owens**: ["Katherine Locastro was part of the team that transported Erika Kirk to the airpo..."](/statements/statement-2bf82b4d32a9.md)
+- [00:18:09](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-09) [◐] (Claim) **Candace Owens**: ["Katherine Locastro was part of the team that transported Erika Kirk to the airpo..."](/statements/statement-2bf82b4d32a9.md)
   - About: [Katherine Locastro](/entities/person-katherine-locastro.md), [Erika Kirk](/entities/person-erika-kirk.md), [Utah](/entities/gpe-utah.md)
 
 </div>
 <div class="filter-item">
 
-- [00:21:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-21-12) [○] (Claim) **Hopkinson Aircraft employee (unidentified)**: ["Hopkinson Aircraft is not a CIA front company and does real business."](/statements/statement-59e8090f70bf.md)
+- [00:21:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-20-48) [◐] (Claim) **Hopkinson Aircraft employee (unidentified)**: ["Hopkinson Aircraft is not a CIA front company and does real business."](/statements/statement-59e8090f70bf.md)
   - About: [Hopkinson Aircraft Sales](/entities/org-hopkinson-aircraft-sales.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 
 </div>
@@ -40859,13 +40859,13 @@ _3237 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:27:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-07) [○] (Claim) **Joe Rogan**: ["The round Charlie Kirk was supposedly shot with was a .30-06, a large round used..."](/statements/statement-45ce4670b4df.md)
+- [00:27:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-07) [◐] (Claim) **Joe Rogan**: ["The round Charlie Kirk was supposedly shot with was a .30-06, a large round used..."](/statements/statement-45ce4670b4df.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
 
-- [00:27:26](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-26) [○] (Claim) **Joe Rogan**: ["Joe Kent said that they were told to stop their investigation and that others we..."](/statements/statement-b9aa83436838.md)
+- [00:27:26](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-26) [✓] (Claim) **Joe Rogan**: ["Joe Kent said that they were told to stop their investigation and that others we..."](/statements/statement-b9aa83436838.md)
   - About: [Joe Kent](/entities/person-joe-kent.md)
 
 </div>
@@ -40877,61 +40877,61 @@ _3237 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:29:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-29-10) [○] (Accusation) **Candace Owens**: ["Kash Patel used an FBI plane to fly to see Alexis Wilkins and sent a police forc..."](/statements/statement-201c56acbf00.md)
+- [00:29:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-29-10) [◐] (Accusation) **Candace Owens**: ["Kash Patel used an FBI plane to fly to see Alexis Wilkins and sent a police forc..."](/statements/statement-201c56acbf00.md)
   - About: [Kash Patel](/entities/person-kash-patel.md), [Alexis Wilkins](/entities/person-alexis-wilkins.md), [FBI](/entities/org-fbi.md)
 
 </div>
 <div class="filter-item">
 
-- [00:31:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31) [○] (Accusation) **Alexis Wilkins**: ["A foreign-linked influence network has run coordinated operations against the Tr..."](/statements/statement-ab51d0c96f29.md)
+- [00:31:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31) [✓] (Accusation) **Alexis Wilkins**: ["A foreign-linked influence network has run coordinated operations against the Tr..."](/statements/statement-ab51d0c96f29.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Alexis Wilkins](/entities/person-alexis-wilkins.md), [Republican Party](/entities/org-republican-party.md)
 
 </div>
 <div class="filter-item">
 
-- [00:32:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-32-47) [○] (Accusation) **Alexis Wilkins**: ["Catholics for Catholics lists Michael Flynn as its senior adviser, and Flynn is ..."](/statements/statement-344288f8937f.md)
+- [00:32:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-32-47) [✓] (Accusation) **Alexis Wilkins**: ["Catholics for Catholics lists Michael Flynn as its senior adviser, and Flynn is ..."](/statements/statement-344288f8937f.md)
   - About: [Catholics for Catholics](/entities/org-catholics-for-catholics.md), [Michael T. Flynn](/entities/person-michael-t-flynn.md), [Republican Party](/entities/org-republican-party.md)
 
 </div>
 <div class="filter-item">
 
-- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) [○] (Accusation) **Alexis Wilkins**: ["Within hours of Charlie Kirk's assassination, Candace Owens publicly attributed ..."](/statements/statement-b2726c243b67.md)
+- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) [◐] (Accusation) **Alexis Wilkins**: ["Within hours of Charlie Kirk's assassination, Candace Owens publicly attributed ..."](/statements/statement-b2726c243b67.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Israel](/entities/gpe-israel.md)
 
 </div>
 <div class="filter-item">
 
-- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) [○] (Claim) **Candace Owens**: ["I did not name Erika Kirk or attribute Charlie Kirk's killing to Israel within h..."](/statements/statement-e1617f27d099.md)
+- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) [◐] (Claim) **Candace Owens**: ["I did not name Erika Kirk or attribute Charlie Kirk's killing to Israel within h..."](/statements/statement-e1617f27d099.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
 
-- [00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-33) [○] (Claim) **The Daily Wire**: ["The Catholic Church does not demand that the faithful be committed Zionists to r..."](/statements/statement-8180d1208c22.md)
+- [00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-25) [✓] (Claim) **The Daily Wire**: ["The Catholic Church does not demand that the faithful be committed Zionists to r..."](/statements/statement-8180d1208c22.md)
   - About: [Catholic Church](/entities/org-catholic-church.md), [Zionism](/entities/concept-zionism.md), [God](/entities/concept-god.md)
 
 </div>
 <div class="filter-item">
 
-- [00:43:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-02) [○] (Citation) **Candace Owens**: ["An August 2025 article reported that more Americans were joining the Catholic Ch..."](/statements/statement-774d3b78c237.md)
+- [00:43:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-44) [✓] (Citation) **Candace Owens**: ["An August 2025 article reported that more Americans were joining the Catholic Ch..."](/statements/statement-774d3b78c237.md)
   - About: [Catholic Church](/entities/org-catholic-church.md), [United States](/entities/gpe-united-states.md)
 
 </div>
 <div class="filter-item">
 
-- [00:43:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-10) [○] (Citation) **Candace Owens**: ["The Times reported that Catholics outnumber Anglicans two to one among Gen Z chu..."](/statements/statement-1e6b20aec987.md)
+- [00:43:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-44) [✓] (Citation) **Candace Owens**: ["The Times reported that Catholics outnumber Anglicans two to one among Gen Z chu..."](/statements/statement-1e6b20aec987.md)
   - About: [The Times](/entities/org-the-times.md), [Catholicism](/entities/concept-catholicism.md)
 
 </div>
 <div class="filter-item">
 
-- [00:43:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-36) [○] (Opinion) **Candace Owens**: ["Catholics are fully under attack, and Alexis Wilkins's thread illustrates that a..."](/statements/statement-e59064ae496a.md)
+- [00:43:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-22) [○] (Opinion) **Candace Owens**: ["Catholics are fully under attack, and Alexis Wilkins's thread illustrates that a..."](/statements/statement-e59064ae496a.md)
   - About: [Catholicism](/entities/concept-catholicism.md), [Alexis Wilkins](/entities/person-alexis-wilkins.md), [FBI](/entities/org-fbi.md)
 
 </div>
 <div class="filter-item">
 
-- [00:46:37](/episodes/ep-5m-Wn6Pr5rM.md#t-00-46-37) [○] (Opinion) **Candace Owens**: ["We are watching Kash Patel's revenge; he is angry."](/statements/statement-9d70db4a8703.md)
+- [00:46:37](/episodes/ep-5m-Wn6Pr5rM.md#t-00-46-05) [○] (Opinion) **Candace Owens**: ["We are watching Kash Patel's revenge; he is angry."](/statements/statement-9d70db4a8703.md)
   - About: [Kash Patel](/entities/person-kash-patel.md)
 
 </div>
@@ -40947,4 +40947,4 @@ _3237 statements extracted from podcast episodes._
 
 ---
 
-*Generated: 2026-08-24 09:38:04*
+*Generated: 2026-08-24 10:01:41*

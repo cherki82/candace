@@ -23,7 +23,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-united-states-air-force-t-00-50-29">2025-09-29 · 00:50:39</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-air-force-t-00-05-32">2026-03-10 · 00:05:32</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-united-states-air-force-t-00-04-59">2026-03-25 · 00:05:05</a></strong></div>
 <div><span>Episodes</span><strong>20</strong></div>
 <div><span>Mentions</span><strong>56</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -55,6 +55,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 <a href="/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19" style="--pulse-height:8%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-air-force-t-00-05-25" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-air-force-t-00-05-32" style="--pulse-height:33%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 4 mentions" title="2026-03-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-united-states-air-force-t-00-04-59" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -79,6 +80,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-air-force-t-00-05-25) | 1 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-air-force-t-00-05-32) | 4 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-united-states-air-force-t-00-04-59) | 1 |
 
 </details>
 </section>
@@ -87,6 +89,14 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 
 <details>
 <summary><strong class="section-title">Raw mentions (56)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
+
+**[00:05:05](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-united-states-air-force-t-00-04-59)**
+> "Air Force"
+
+</details>
 
 <details>
 <summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (4 mentions)</summary>
@@ -345,14 +355,6 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 
 **[00:50:39](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-united-states-air-force-t-00-50-29)**
 > "... family. I don't know if it's his family, but the Mitchell name in that area was coming up for like Air Force. And so I—again—when I get into these places where I can't find any more information, I turn to you..."
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
-
-**[00:05:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-05-05)**
-> "Air Force"
 
 </details>
 

@@ -79,6 +79,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-central-intelligence-agency-t-00-13-49" style="--pulse-height:31%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 4 mentions" title="2026-03-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-central-intelligence-agency-t-00-42-44" style="--pulse-height:31%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 4 mentions" title="2026-03-23 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-central-intelligence-agency-t-00-15-12" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-central-intelligence-agency-t-00-20-48" style="--pulse-height:23%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 3 mentions" title="2026-03-25 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -128,6 +129,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-org-central-intelligence-agency-t-00-13-49) | 4 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-central-intelligence-agency-t-00-42-44) | 4 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-central-intelligence-agency-t-00-15-12) | 1 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-central-intelligence-agency-t-00-20-48) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25) | 1 |
 
 </details>
@@ -143,6 +145,20 @@ Source: [About CIA](https://www.cia.gov/about/)
 
 **[00:37:25](/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25)**
 > "...ntire term was created by the CIA to gaslight people after the assassination of JFK..."
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (3 mentions)</summary>
+
+**[00:21:12](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-central-intelligence-agency-t-00-20-48)**
+> "CIA"
+
+**[00:21:18](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-central-intelligence-agency-t-00-20-48)**
+> "... they do real business, not a CIA front company. I always like whenever I say a lot..."
+
+**[00:24:02](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-central-intelligence-agency-t-00-24-02)**
+> "...at. This person is not in the CIA. It is not running a CIA front company. It's a to..."
 
 </details>
 
@@ -724,20 +740,6 @@ Source: [About CIA](https://www.cia.gov/about/)
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (3 mentions)</summary>
-
-**[00:21:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-21-12)**
-> "CIA"
-
-**[00:21:18](/episodes/ep-5m-Wn6Pr5rM.md#t-00-21-18)**
-> "... they do real business, not a CIA front company. I always like whenever I say a lot..."
-
-**[00:24:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-24-02)**
-> "...at. This person is not in the CIA. It is not running a CIA front company. It's a to..."
-
-</details>
-
 </details>
 
 <details open>
@@ -835,6 +837,14 @@ Source: [About CIA](https://www.cia.gov/about/)
 
 <details open>
 <summary><strong class="section-title">Statements about Central Intelligence Agency (44)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1)</summary>
+
+- [00:21:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-20-48) (Claim) **Hopkinson Aircraft employee (unidentified)** (via quoted speech): ["Hopkinson Aircraft is not a CIA front company and does real business."](/statements/statement-59e8090f70bf.md)
+  - Also about: [Hopkinson Aircraft Sales](/entities/org-hopkinson-aircraft-sales.md)
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1)</summary>
@@ -1066,14 +1076,6 @@ Source: [About CIA](https://www.cia.gov/about/)
 <summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1)</summary>
 
 - [00:12:28](/episodes/ep-sreYYcID-QY.md#t-00-11-44) (Claim) **Candace Owens**: ["The mainstream media has been controlled by the CIA since Operation Mo..."](/statements/statement-663c3c2d34c1.md)
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (1)</summary>
-
-- [00:21:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-21-12) (Claim) **Hopkinson Aircraft employee (unidentified)** (via quoted speech): ["Hopkinson Aircraft is not a CIA front company and does real business."](/statements/statement-59e8090f70bf.md)
-  - Also about: [Hopkinson Aircraft Sales](/entities/org-hopkinson-aircraft-sales.md)
 
 </details>
 

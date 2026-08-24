@@ -94,6 +94,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-andrew-kolvet-t-00-00-00" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-andrew-kolvet-t-00-00-00" style="--pulse-height:44%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 19 mentions" title="2026-03-23 · 19 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-06-48" style="--pulse-height:100%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 43 mentions" title="2026-03-24 · 43 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-andrew-kolvet-t-00-00-00" style="--pulse-height:26%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 11 mentions" title="2026-03-25 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-00-38-09" style="--pulse-height:9%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -159,6 +160,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-andrew-kolvet-t-00-00-00) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-andrew-kolvet-t-00-00-00) | 19 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-06-48) | 43 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-andrew-kolvet-t-00-00-00) | 11 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-00-38-09) | 4 |
 
 </details>
@@ -183,6 +185,44 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 **[02:41:45](/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-02-41-45)**
 > "I mean, I'm talking about Andrew Kolvet at his position as he's a spokesperson for Turnin..."
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (11 mentions)</summary>
+
+**[00:00:29](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-andrew-kolvet-t-00-00-00)**
+> "Andrew Kolvet"
+
+**[00:02:43](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-andrew-kolvet-t-00-02-23)**
+> "...y theory is that it picked up Andrew Kolvet, that was its dead leg from Provo."
+
+**[00:08:09](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-andrew-kolvet-t-00-07-31)**
+> "...going to also add here, so is Andrew Kolvet."
+
+**[00:08:16](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-andrew-kolvet-t-00-08-16)**
+> "Andrew Kolvet did not make the story up to me on the phone. He ..."
+
+**[00:09:02](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-andrew-kolvet-t-00-09-02)**
+> "...p.m.-ish at the hospital, and Andrew Kolvet told the truth that he hugged her and she was the..."
+
+**[00:18:54](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-andrew-kolvet-t-00-18-54)**
+> "Yes, nobody waited for Andrew Kolvet, except they did. Andrew Kolvet is to be believed..."
+
+**[00:20:03](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-andrew-kolvet-t-00-20-03)**
+> "...re is curiously no mention of Andrew Kolvet in that narrative or the feds who we were told by..."
+
+**[00:46:44](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-andrew-kolvet-t-00-46-44)**
+> "Andrew Kolvet's angry. Erika is angry. I forgot to mention this. ..."
+
+**[00:47:12](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-andrew-kolvet-t-00-47-12)**
+> "...at the hospital and I said no Andrew Kolvet was and then she said oh because there's some guy..."
+
+**[00:47:30](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-andrew-kolvet-t-00-47-12)**
+> "hospital and I said no Andrew Kolvet was and then she said oh because there's some guy..."
+
+**[00:47:56](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-andrew-kolvet-t-00-47-56)**
+> "...hospital and it wasn't it was Andrew Kolvet yeah anyways just sharing that random fact that c..."
 
 </details>
 
@@ -1717,44 +1757,6 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (11 mentions)</summary>
-
-**[00:00:29](/episodes/ep-5m-Wn6Pr5rM.md#t-00-00-29)**
-> "Andrew Kolvet"
-
-**[00:02:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-43)**
-> "...y theory is that it picked up Andrew Kolvet, that was its dead leg from Provo."
-
-**[00:08:09](/episodes/ep-5m-Wn6Pr5rM.md#t-00-08-09)**
-> "...going to also add here, so is Andrew Kolvet."
-
-**[00:08:16](/episodes/ep-5m-Wn6Pr5rM.md#t-00-08-16)**
-> "Andrew Kolvet did not make the story up to me on the phone. He ..."
-
-**[00:09:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-09-02)**
-> "...p.m.-ish at the hospital, and Andrew Kolvet told the truth that he hugged her and she was the..."
-
-**[00:18:54](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-54)**
-> "Yes, nobody waited for Andrew Kolvet, except they did. Andrew Kolvet is to be believed..."
-
-**[00:20:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-20-03)**
-> "...re is curiously no mention of Andrew Kolvet in that narrative or the feds who we were told by..."
-
-**[00:46:44](/episodes/ep-5m-Wn6Pr5rM.md#t-00-46-44)**
-> "Andrew Kolvet's angry. Erika is angry. I forgot to mention this. ..."
-
-**[00:47:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-12)**
-> "...at the hospital and I said no Andrew Kolvet was and then she said oh because there's some guy..."
-
-**[00:47:30](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-30)**
-> "hospital and I said no Andrew Kolvet was and then she said oh because there's some guy..."
-
-**[00:47:56](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-56)**
-> "...hospital and it wasn't it was Andrew Kolvet yeah anyways just sharing that random fact that c..."
-
-</details>
-
 </details>
 
 <details open>
@@ -1998,9 +2000,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:13:24](/episodes/ep-ti5Fxrvegno.md#t-00-12-58): “Erika (Erika Kirk) and Andrew Kolvet had an emergency three-way call with Dr. Lee Trotter, the surgeon, trying to figure out how to respond to the public about why the .30-06 didn't pass through Charlie (Charlie Kirk)'s neck.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:08:52](/episodes/ep-5m-Wn6Pr5rM.md#t-00-08-16): “he described that he and Erika hugged on the tarmac.”
 
 </details>
 
@@ -2253,9 +2256,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:13:24](/episodes/ep-ti5Fxrvegno.md#t-00-12-58): “Erika (Erika Kirk) and Andrew Kolvet had an emergency three-way call with Dr. Lee Trotter, the surgeon, trying to figure out how to respond to the public about why the .30-06 didn't pass through Charlie (Charlie Kirk)'s neck.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:08:52](/episodes/ep-5m-Wn6Pr5rM.md#t-00-08-16): “he described that he and Erika hugged on the tarmac.”
 
 </details>
 
@@ -2489,6 +2493,26 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 <details open>
 <summary><strong class="section-title">Statements about Andrew Kolvet (112)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (5)</summary>
+
+- [00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-51) (Claim) **Candace Owens**: ["The Charlie Kirk show was hosted in its entirety before the Y-Refi pla..."](/statements/statement-cc89e89ddc7e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Yrefy](/entities/org-yrefy.md), [Santa Barbara](/entities/gpe-santa-barbara.md)
+
+- [00:06:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-06-15) (Claim) **Candace Owens** (via paraphrase): ["The plane that Erika Kirk told Candace Owens carried Andrew Kolvet did..."](/statements/statement-ce02a70f1a1d.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Yrefy](/entities/org-yrefy.md), [Provo Airport](/entities/org-provo-airport.md)
+
+- [00:09:21](/episodes/ep-5m-Wn6Pr5rM.md#t-00-09-02) (Accusation) **Candace Owens**: ["My proposed explanation is that Erika Kirk flew in earlier than Andrew..."](/statements/statement-5f081a5d1b78.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:10:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-10-24) (Accusation) **Candace Owens**: ["Erika Kirk was on the phone directing Andrew Kolvet to do those things..."](/statements/statement-b6027dee3443.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:47:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-12) (Claim) **Candace Owens**: ["Erika Kirk asked whether Joe Kent was my source at the hospital, and I..."](/statements/statement-49ddf25219af.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Joe Kent](/entities/person-joe-kent.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (13)</summary>
@@ -2941,26 +2965,6 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
   - Also about: [Patrick Bet-David](/entities/person-patrick-bet-david.md)
 
 - [00:52:15](/episodes/ep-aDlhjfW6hz8.md#t-00-52-10) (Claim) **Candace Owens**: ["Andrew Kolvet was definitely not there in the Hamptons"](/statements/statement-a4c7a3f6c50a.md)
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (5)</summary>
-
-- [00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-10) (Claim) **Candace Owens**: ["The Charlie Kirk show was hosted in its entirety before the Y-Refi pla..."](/statements/statement-cc89e89ddc7e.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Yrefy](/entities/org-yrefy.md), [Santa Barbara](/entities/gpe-santa-barbara.md)
-
-- [00:06:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-06-24) (Claim) **Candace Owens** (via paraphrase): ["The plane that Erika Kirk told Candace Owens carried Andrew Kolvet did..."](/statements/statement-ce02a70f1a1d.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Yrefy](/entities/org-yrefy.md), [Provo Airport](/entities/org-provo-airport.md)
-
-- [00:09:21](/episodes/ep-5m-Wn6Pr5rM.md#t-00-09-21) (Accusation) **Candace Owens**: ["My proposed explanation is that Erika Kirk flew in earlier than Andrew..."](/statements/statement-5f081a5d1b78.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:10:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-10-50) (Accusation) **Candace Owens**: ["Erika Kirk was on the phone directing Andrew Kolvet to do those things..."](/statements/statement-b6027dee3443.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
-
-- [00:47:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-12) (Claim) **Candace Owens**: ["Erika Kirk asked whether Joe Kent was my source at the hospital, and I..."](/statements/statement-49ddf25219af.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Joe Kent](/entities/person-joe-kent.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
 
 </details>
 

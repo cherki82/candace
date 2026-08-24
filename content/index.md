@@ -10,13 +10,13 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-home-actions"><a class="primary" href="/index/explorer">Investigate statements</a><a href="/index/threads">Follow a reviewed theory thread</a></div>
 </div>
 
-<p class="kg-freshness"><strong>160 sources</strong> · processed through <time datetime="2026-08-21">2026-08-21</time> · generated <time datetime="2026-08-24">2026-08-24</time></p>
+<p class="kg-freshness"><strong>94 sources</strong> · processed through <time datetime="2026-08-14">2026-08-14</time> · generated <time datetime="2026-08-24">2026-08-24</time></p>
 
 <div class="kg-stat-grid">
 <div><strong>3,237</strong><span>Attributed statements</span></div>
 <div><strong>2,540</strong><span>Tracked entities</span></div>
-<div><strong>1,078</strong><span>Timeline events</span></div>
-<div><strong>997</strong><span>Research sources</span></div>
+<div><strong>1,093</strong><span>Timeline events</span></div>
+<div><strong>1,011</strong><span>Research sources</span></div>
 </div>
 
 ## Latest source additions
@@ -25,28 +25,28 @@ description: "An evidence-first research workbench for imported video, audio, an
 
 <div class="recent-source-list">
 <article>
-<time datetime="2026-08-21">2026-08-21</time>
-<a href="/episodes/ep-_cNtgris8Ik">Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379</a>
-<span>Candace Owens</span>
-</article>
-<article>
-<time datetime="2026-08-19">2026-08-19</time>
-<a href="/episodes/ep-9hRcfSrri70">EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378</a>
-<span>Candace Owens</span>
-</article>
-<article>
-<time datetime="2026-08-18">2026-08-18</time>
-<a href="/episodes/ep-4JxgOclKzqg">Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377</a>
-<span>Candace Owens</span>
-</article>
-<article>
-<time datetime="2026-08-17">2026-08-17</time>
-<a href="/episodes/ep-E7P2ShoYDUA">Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376</a>
-<span>Candace Owens</span>
-</article>
-<article>
 <time datetime="2026-08-14">2026-08-14</time>
-<a href="/episodes/ep-aPOyk1i2LOc">Candace Owens vs Andrew Wilson: The Great Debate.</a>
+<a href="/episodes/ep-nPhCKwJ6ye8">Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast</a>
+<span>Unspecified source</span>
+</article>
+<article>
+<time datetime="2026-03-25">2026-03-25</time>
+<a href="/episodes/ep-5m-Wn6Pr5rM">Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316</a>
+<span>Candace Owens</span>
+</article>
+<article>
+<time datetime="2026-03-24">2026-03-24</time>
+<a href="/episodes/ep-SgVcnx4Oh30">REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315</a>
+<span>Candace Owens</span>
+</article>
+<article>
+<time datetime="2026-03-23">2026-03-23</time>
+<a href="/episodes/ep-B9TyCs-6o_0">EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314</a>
+<span>Candace Owens</span>
+</article>
+<article>
+<time datetime="2026-03-18">2026-03-18</time>
+<a href="/episodes/ep-_vg7ucP1E0g">Bride Of Charlie: Red Sparrow | Episode 8</a>
 <span>Candace Owens</span>
 </article>
 </div>
@@ -56,40 +56,46 @@ description: "An evidence-first research workbench for imported video, audio, an
 <p class="research-section-note">Entity mentions in the five newest sources compared with the preceding five.</p>
 
 <div class="attention-grid">
+<a href="/entities/person-tyler-robinson"><strong>Tyler Robinson</strong><span>114 recent mentions · +112 vs prior window</span></a>
+<a href="/entities/person-erika-kirk"><strong>Erika Kirk</strong><span>226 recent mentions · +72 vs prior window</span></a>
+<a href="/entities/person-andrew-kolvet"><strong>Andrew Kolvet</strong><span>78 recent mentions · +64 vs prior window</span></a>
+<a href="/entities/gpe-utah"><strong>Utah</strong><span>46 recent mentions · +46 vs prior window</span></a>
+<a href="/entities/person-candace-owens"><strong>Candace Owens</strong><span>99 recent mentions · +44 vs prior window</span></a>
+<a href="/entities/person-joe-kent"><strong>Joe Kent</strong><span>59 recent mentions · +40 vs prior window</span></a>
 </div>
 
 ## Latest verification outcomes
 
 <div class="verification-feed">
 <article>
-<span class="status-badge status-mixed">mixed</span>
-<a href="/statements/statement-08889b644e5f">Candace Owens said installing Wi-Fi on a private jet costs about $300,000 and operating it costs about $30,000 to $50,000 per month.</a>
-<small>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315</small>
+<span class="status-badge status-true">true</span>
+<a href="/statements/statement-1e6b20aec987">The Times reported that Catholics outnumber Anglicans two to one among Gen Z churchgoers.</a>
+<small>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316</small>
 </article>
 <article>
 <span class="status-badge status-true">true</span>
-<a href="/statements/statement-10d0c2fdb1cd">Candace Owens promised to stand by what she said and correct statements if she later learned they were not accurate.</a>
-<small>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315</small>
-</article>
-<article>
-<span class="status-badge status-mixed">mixed</span>
-<a href="/statements/statement-dfc476b9af37">Candace Owens said authorities could not prove the gun was fired, bomb dogs did not find it, and they could not connect the weapon to a bullet.</a>
-<small>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315</small>
-</article>
-<article>
-<span class="status-badge status-mixed">mixed</span>
-<a href="/statements/statement-a4af58d18a64">Candace Owens said Tyler Robinson had not been arraigned or pleaded guilty and that the recording of his surrender had been lost.</a>
-<small>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315</small>
-</article>
-<article>
-<span class="status-badge status-mixed">mixed</span>
-<a href="/statements/statement-3844bc271198">Andrew Kolvet said government officials were publicly indicating willingness to testify for Tyler Robinson&#x27;s defense to help get him off the hook.</a>
-<small>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315</small>
+<a href="/statements/statement-774d3b78c237">An August 2025 article reported that more Americans were joining the Catholic Church than leaving for the first time in decades.</a>
+<small>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316</small>
 </article>
 <article>
 <span class="status-badge status-true">true</span>
-<a href="/statements/statement-bddd884b1e9d">Andrew Kolvet said more evidence would be made public at the May evidentiary hearing and that he had been told prosecutors had Tyler Robinson dead to rights.</a>
-<small>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315</small>
+<a href="/statements/statement-8180d1208c22">The Catholic Church does not demand that the faithful be committed Zionists to receive God&#x27;s blessing.</a>
+<small>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316</small>
+</article>
+<article>
+<span class="status-badge status-mixed">mixed</span>
+<a href="/statements/statement-e1617f27d099">I did not name Erika Kirk or attribute Charlie Kirk&#x27;s killing to Israel within hours; I began covering Erika only after she lied to me in December.</a>
+<small>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316</small>
+</article>
+<article>
+<span class="status-badge status-true">true</span>
+<a href="/statements/statement-344288f8937f">Catholics for Catholics lists Michael Flynn as its senior adviser, and Flynn is the anchor of a digital infrastructure repeatedly activated at every major Republican fracture point.</a>
+<small>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316</small>
+</article>
+<article>
+<span class="status-badge status-mixed">mixed</span>
+<a href="/statements/statement-b2726c243b67">Within hours of Charlie Kirk&#x27;s assassination, Candace Owens publicly attributed the killing to Israel and targeted Erika Kirk by name.</a>
+<small>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316</small>
 </article>
 </div>
 

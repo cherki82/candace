@@ -22,7 +22,7 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03">2025-09-18 · 00:35:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-gaza-t-01-03-09">2026-03-17 · 01:03:31</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-gaza-t-00-41-25">2026-03-25 · 00:41:40</a></strong></div>
 <div><span>Episodes</span><strong>24</strong></div>
 <div><span>Mentions</span><strong>98</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -58,6 +58,7 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-gaza-t-00-34-41" style="--pulse-height:36%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 5 mentions" title="2026-03-09 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-gaza-t-00-33-12" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-gaza-t-00-20-01" style="--pulse-height:71%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 10 mentions" title="2026-03-17 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-gaza-t-00-41-25" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -86,6 +87,7 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-gaza-t-00-34-41) | 5 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-gaza-t-00-33-12) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-gaza-t-00-20-01) | 10 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-gaza-t-00-41-25) | 1 |
 
 </details>
 </section>
@@ -94,6 +96,14 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 
 <details>
 <summary><strong class="section-title">Raw mentions (98)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
+
+**[00:41:40](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-gaza-t-00-41-25)**
+> "Gaza"
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
@@ -492,14 +502,6 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 
 **[00:35:57](/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-45)**
 > "It was actually related to Gaza and what you were gonna do with Gaza thereafter."
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
-
-**[00:41:40](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-40)**
-> "Gaza"
 
 </details>
 

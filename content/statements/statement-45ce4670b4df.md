@@ -4,9 +4,10 @@ description: "\"The round Charlie Kirk was supposedly shot with was a .30-06, a 
 statement_id: "statement-45ce4670b4df"
 speaker: "Joe Rogan"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -26,7 +27,7 @@ type: "factual_claim"
 
 ## Source
 
-**Episode:** [5m-Wn6Pr5rM](/episodes/ep-5m-Wn6Pr5rM.md)
+**Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:27:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-07) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1627);return false;">Play</a>
 
@@ -34,7 +35,21 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The Joe Rogan transcript contains the quoted remarks, and the official charging document identifies a suspected bolt-action .30-06 rifle. The no-exit detail was secondhand and the conclusion that this makes no sense is opinion rather than a demonstrable ballistic fact.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Joe Rogan Experience 2471 - Mark Normand Transcript](https://ulisten.ai/channels/joe-rogan/joe-rogan-experience-2471-mark-normand_-nrkCLQ2l9Q/transcript)
+- [State of Utah v. Tyler James Robinson - Criminal Information](https://atty.utahcounty.gov/cms/uploads/TJR_Information_49872215e3.pdf)
+
+*Verified: 2026-08-24T09:59:39.584780*
 
 ---
 

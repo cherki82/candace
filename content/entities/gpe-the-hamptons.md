@@ -43,6 +43,7 @@ Source: [Towns & Regions on Long Island | Discover Long Island](https://www.disc
 <a href="/episodes/ep-4YgrOhhy708.md#ent-gpe-the-hamptons-t-00-30-13" style="--pulse-height:100%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 14 mentions" title="2026-02-09 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-gpe-the-hamptons-t-00-14-24" style="--pulse-height:21%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 3 mentions" title="2026-02-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-the-hamptons-t-00-26-36" style="--pulse-height:8%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-the-hamptons-t-00-10-24" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-the-hamptons-t-02-25-29" style="--pulse-height:14%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -54,6 +55,7 @@ Source: [Towns & Regions on Long Island | Discover Long Island](https://www.disc
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-gpe-the-hamptons-t-00-30-13) | 14 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-gpe-the-hamptons-t-00-14-24) | 3 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-the-hamptons-t-00-26-36) | 1 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-the-hamptons-t-00-10-24) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-the-hamptons-t-02-25-29) | 2 |
 
 </details>
@@ -76,6 +78,14 @@ Source: [Towns & Regions on Long Island | Discover Long Island](https://www.disc
 
 **[02:26:42](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-the-hamptons-t-02-26-33)**
 > "The Hamptons thing was weird."
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
+
+**[00:10:39](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-the-hamptons-t-00-10-24)**
+> "Hamptons"
 
 </details>
 
@@ -167,14 +177,6 @@ Source: [Towns & Regions on Long Island | Discover Long Island](https://www.disc
 
 **[00:58:01](/episodes/ep-9naMwS0kMBE.md#ent-gpe-the-hamptons-t-00-58-01)**
 > "...n you die question was out of the Hamptons."
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
-
-**[00:10:39](/episodes/ep-5m-Wn6Pr5rM.md#t-00-10-39)**
-> "Hamptons"
 
 </details>
 

@@ -18,7 +18,7 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-nick-shirley-t-00-33-50">2026-03-24 · 00:34:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-nick-shirley-t-00-37-39">2026-03-24 · 00:38:00</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-nick-shirley-t-00-03-36">2026-03-25 · 00:03:36</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
@@ -32,12 +32,14 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 <p>Highest activity: <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-nick-shirley-t-00-33-50">REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-nick-shirley-t-00-33-50" style="--pulse-height:100%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 9 mentions" title="2026-03-24 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-nick-shirley-t-00-00-00" style="--pulse-height:44%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 4 mentions" title="2026-03-25 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-nick-shirley-t-00-33-50) | 9 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-nick-shirley-t-00-00-00) | 4 |
 
 </details>
 </section>
@@ -46,6 +48,23 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 
 <details>
 <summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (4 mentions)</summary>
+
+**[00:00:00](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-nick-shirley-t-00-00-00)**
+> "Nick Shirley"
+
+**[00:01:45](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-nick-shirley-t-00-01-06)**
+> "All right, you guys, Nick Shirley, top of show. He got back to me. And like I said,..."
+
+**[00:02:23](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-nick-shirley-t-00-02-23)**
+> "...it went to Scottsdale. And so Nick Shirley was very kind and gave me the details, and it's l..."
+
+**[00:03:36](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-nick-shirley-t-00-03-36)**
+> "...n no change. But thank you to Nick Shirley for immediately getting back to me and confirming..."
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (9 mentions)</summary>
@@ -76,23 +95,6 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 
 **[00:38:00](/episodes/ep-SgVcnx4Oh30.md#ent-person-nick-shirley-t-00-37-39)**
 > "...e it's very easy to get Nick (Nick Shirley) on record saying, yes, I can confirm I did a liv..."
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (4 mentions)</summary>
-
-**[00:00:00](/episodes/ep-5m-Wn6Pr5rM.md#t-00-00-00)**
-> "Nick Shirley"
-
-**[00:01:45](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-45)**
-> "All right, you guys, Nick Shirley, top of show. He got back to me. And like I said,..."
-
-**[00:02:23](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-23)**
-> "...it went to Scottsdale. And so Nick Shirley was very kind and gave me the details, and it's l..."
-
-**[00:03:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-03-36)**
-> "...n no change. But thank you to Nick Shirley for immediately getting back to me and confirming..."
 
 </details>
 

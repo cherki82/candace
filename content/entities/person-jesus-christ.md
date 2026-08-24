@@ -22,7 +22,7 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-08-02">2025-09-15 · 00:08:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-jesus-christ-t-00-48-08">2026-03-18 · 00:48:08</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-jesus-christ-t-00-45-26">2026-03-25 · 00:46:05</a></strong></div>
 <div><span>Episodes</span><strong>46</strong></div>
 <div><span>Mentions</span><strong>124</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -80,6 +80,7 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 <a href="/episodes/ep-k8ueJdPFel4.md#t-00-51-18" style="--pulse-height:11%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-jesus-christ-t-01-07-50" style="--pulse-height:22%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-jesus-christ-t-00-45-55" style="--pulse-height:33%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-jesus-christ-t-00-45-26" style="--pulse-height:22%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -130,6 +131,7 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#t-00-51-18) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-jesus-christ-t-01-07-50) | 2 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-jesus-christ-t-00-45-55) | 3 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-jesus-christ-t-00-45-26) | 2 |
 
 </details>
 </section>
@@ -138,6 +140,17 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 
 <details>
 <summary><strong class="section-title">Raw mentions (124)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2 mentions)</summary>
+
+**[00:46:05](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-jesus-christ-t-00-45-26)**
+> "Christ"
+
+**[00:45:57](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-jesus-christ-t-00-45-26)**
+> "... teaching and the kingship of Christ in today's world."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (3 mentions)</summary>
@@ -721,17 +734,6 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 
 **[01:04:04](/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-01-03-34)**
 > "is deliver him to Jesus.”"
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (2 mentions)</summary>
-
-**[00:46:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-46-05)**
-> "Christ"
-
-**[00:45:57](/episodes/ep-5m-Wn6Pr5rM.md#t-00-45-57)**
-> "... teaching and the kingship of Christ in today's world."
 
 </details>
 

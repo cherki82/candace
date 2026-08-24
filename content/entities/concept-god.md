@@ -96,6 +96,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <a href="/episodes/ep-k8ueJdPFel4.md#t-00-33-12" style="--pulse-height:10%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#t-01-03-36" style="--pulse-height:23%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 7 mentions" title="2026-03-17 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#t-00-49-40" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-25" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34" style="--pulse-height:13%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -168,6 +169,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#t-00-33-12) | 3 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#t-01-03-36) | 7 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#t-00-49-40) | 2 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-25) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34) | 4 |
 
 </details>
@@ -192,6 +194,17 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 
 **[04:03:55](/episodes/ep-nPhCKwJ6ye8.md#t-04-03-55)**
 > "...eing said take care everybody god bless have a great weekend"
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2 mentions)</summary>
+
+**[00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-25)**
+> "God"
+
+**[00:49:17](/episodes/ep-5m-Wn6Pr5rM.md#t-00-49-17)**
+> "...l be as vocal and principled. God bless that kind and thoughtful man."
 
 </details>
 
@@ -1587,17 +1600,6 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (2 mentions)</summary>
-
-**[00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-33)**
-> "God"
-
-**[00:49:17](/episodes/ep-5m-Wn6Pr5rM.md#t-00-49-17)**
-> "...l be as vocal and principled. God bless that kind and thoughtful man."
-
-</details>
-
 </details>
 
 <details open>
@@ -1611,6 +1613,14 @@ _No relationships extracted yet._
 <summary><strong class="section-title">Statements about God (3)</strong></summary>
 
 <details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1)</summary>
+
+- [00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-25) (Claim) **The Daily Wire** (via quoted article): ["The Catholic Church does not demand that the faithful be committed Zio..."](/statements/statement-8180d1208c22.md)
+  - Also about: [Catholic Church](/entities/org-catholic-church.md), [Zionism](/entities/concept-zionism.md)
+
+</details>
+
+<details>
 <summary>Bride Of Charlie: Crazy In Love | Episode 7 (1)</summary>
 
 - [00:03:02](/episodes/ep-DdPjoy5W-wY.md#t-00-02-53) (Opinion) **Erika Kirk** (via quoted speech): ["Erika Kirk says she is honoring what the Lord put before her and honor..."](/statements/statement-4e959c01250f.md)
@@ -1622,14 +1632,6 @@ _No relationships extracted yet._
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1)</summary>
 
 - [00:33:11](/episodes/ep-Qfwr08Ebczo.md#t-00-33-02) (Opinion) **Tucker Carlson**: ["Virtue and sin are not transmitted genetically, there is no such thing..."](/statements/statement-964024e18cdb.md)
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (1)</summary>
-
-- [00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-33) (Claim) **The Daily Wire** (via quoted article): ["The Catholic Church does not demand that the faithful be committed Zio..."](/statements/statement-8180d1208c22.md)
-  - Also about: [Catholic Church](/entities/org-catholic-church.md), [Zionism](/entities/concept-zionism.md)
 
 </details>
 

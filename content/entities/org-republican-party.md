@@ -40,6 +40,7 @@ Source: [Republican National Committee](https://gop.com/)
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-republican-party-t-00-33-05" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-republican-party-t-00-38-00" style="--pulse-height:100%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-republican-party-t-00-20-59" style="--pulse-height:50%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-republican-party-t-00-32-13" style="--pulse-height:50%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-33-14" style="--pulse-height:50%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -51,6 +52,7 @@ Source: [Republican National Committee](https://gop.com/)
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-republican-party-t-00-33-05) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-republican-party-t-00-38-00) | 2 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-republican-party-t-00-20-59) | 1 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-republican-party-t-00-32-13) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-00-33-14) | 1 |
 
 </details>
@@ -66,6 +68,14 @@ Source: [Republican National Committee](https://gop.com/)
 
 **[00:33:52](/episodes/ep-nPhCKwJ6ye8.md#t-00-33-14)**
 > "She's harming Republicans in an election year"
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
+
+**[00:32:19](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-republican-party-t-00-32-13)**
+> "Republican Party"
 
 </details>
 
@@ -112,14 +122,6 @@ Source: [Republican National Committee](https://gop.com/)
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
-
-**[00:32:19](/episodes/ep-5m-Wn6Pr5rM.md#t-00-32-19)**
-> "Republican Party"
-
-</details>
-
 </details>
 
 <details open>
@@ -133,7 +135,7 @@ _No relationships extracted yet._
 <summary><strong class="section-title">Statements about Republican Party (2)</strong></summary>
 
 <details>
-<summary>ep-5m-Wn6Pr5rM (2)</summary>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2)</summary>
 
 - [00:31:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31) (Accusation) **Alexis Wilkins** (via quoted tweet): ["A foreign-linked influence network has run coordinated operations agai..."](/statements/statement-ab51d0c96f29.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Alexis Wilkins](/entities/person-alexis-wilkins.md)

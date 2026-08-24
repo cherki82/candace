@@ -4,9 +4,10 @@ description: "\"Hopkinson Aircraft is not a CIA front company and does real busi
 statement_id: "statement-59e8090f70bf"
 speaker: "Hopkinson Aircraft employee (unidentified)"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -27,15 +28,29 @@ type: "factual_claim"
 
 ## Source
 
-**Episode:** [5m-Wn6Pr5rM](/episodes/ep-5m-Wn6Pr5rM.md)
-**Timestamp:** [00:21:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-21-12) 
+**Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
+**Timestamp:** [00:21:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-20-48) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1272);return false;">Play</a>
 
 > And I'll just say foremost, they would like me to clarify that they are not a CIA front company. They do real business. Okay, they do real business, not a CIA front company.
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Scottsdales municipal airport business directory and the company website support that Hopkinson operates an aircraft-sales business. The stronger anonymous-source assertion that it is not an intelligence front cannot be independently proven from public records.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Scottsdale Airport and Airpark Businesses](https://www.scottsdaleaz.gov/scottsdale-airport/airport-airpark-businesses)
+- [Contact Us - Hopkinson Luxury Aircraft Sales](https://hopkinson.aero/contact-us/)
+
+*Verified: 2026-08-24T09:59:39.363069*
 
 ---
 

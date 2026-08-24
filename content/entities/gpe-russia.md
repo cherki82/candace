@@ -26,33 +26,34 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 <div><span>Mentions</span><strong>49</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-russia-t-00-48-18">INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256</a> (7 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-russia-t-00-30-38">Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-russia-t-00-00-01" style="--pulse-height:14%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-gpe-russia-t-00-36-02" style="--pulse-height:14%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-russia-t-00-18-55" style="--pulse-height:71%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 5 mentions" title="2025-10-01 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-russia-t-00-37-57" style="--pulse-height:14%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-c5BcKF91iec.md#ent-gpe-russia-t-00-51-40" style="--pulse-height:14%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-russia-t-00-48-18" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 7 mentions" title="2025-10-31 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-K1tFD7FfoCU.md#ent-gpe-russia-t-00-35-50" style="--pulse-height:57%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 4 mentions" title="2025-11-03 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-russia-t-00-26-26" style="--pulse-height:14%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-russia-t-00-12-26" style="--pulse-height:14%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-russia-t-00-06-34" style="--pulse-height:29%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-russia-t-00-42-29" style="--pulse-height:29%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-russia-t-00-13-24" style="--pulse-height:57%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 4 mentions" title="2025-12-08 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-russia-t-00-43-07" style="--pulse-height:14%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-russia-t-01-05-08" style="--pulse-height:14%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-russia-t-00-29-57" style="--pulse-height:29%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-russia-t-00-59-01" style="--pulse-height:29%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-russia-t-00-59-35" style="--pulse-height:14%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-russia-t-00-45-40" style="--pulse-height:14%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-45" style="--pulse-height:29%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-russia-t-00-00-01" style="--pulse-height:11%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-gpe-russia-t-00-36-02" style="--pulse-height:11%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-russia-t-00-18-55" style="--pulse-height:56%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 5 mentions" title="2025-10-01 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-russia-t-00-37-57" style="--pulse-height:11%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-gpe-russia-t-00-51-40" style="--pulse-height:11%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-russia-t-00-48-18" style="--pulse-height:78%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 7 mentions" title="2025-10-31 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-gpe-russia-t-00-35-50" style="--pulse-height:44%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 4 mentions" title="2025-11-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-russia-t-00-26-26" style="--pulse-height:11%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-russia-t-00-12-26" style="--pulse-height:11%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-russia-t-00-06-34" style="--pulse-height:22%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-russia-t-00-42-29" style="--pulse-height:22%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-russia-t-00-13-24" style="--pulse-height:44%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 4 mentions" title="2025-12-08 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-russia-t-00-43-07" style="--pulse-height:11%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-russia-t-01-05-08" style="--pulse-height:11%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-russia-t-00-29-57" style="--pulse-height:22%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-russia-t-00-59-01" style="--pulse-height:22%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-russia-t-00-59-35" style="--pulse-height:11%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-russia-t-00-45-40" style="--pulse-height:11%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-russia-t-00-30-38" style="--pulse-height:100%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 9 mentions" title="2026-03-25 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-45" style="--pulse-height:22%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -76,6 +77,7 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-russia-t-00-59-01) | 2 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-russia-t-00-59-35) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-russia-t-00-45-40) | 1 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-russia-t-00-30-38) | 9 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-45) | 2 |
 
 </details>
@@ -94,6 +96,38 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 
 **[03:39:52](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-52)**
 > "Russia."
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (9 mentions)</summary>
+
+**[00:30:47](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-russia-t-00-30-38)**
+> "Russia"
+
+**[00:29:03](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-russia-t-00-28-44)**
+> "...d to resign. If this was like Russia, he would have just disappeared, I think, in gene..."
+
+**[00:30:56](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-russia-t-00-30-38)**
+> "...laining how she realized that Russia was behind a foreign influence campaign that cont..."
+
+**[00:31:10](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-russia-t-00-31-10)**
+> "... Catholic Church, even though Russia is an Eastern Orthodox society. Apparently, Vladi..."
+
+**[00:39:00](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-russia-t-00-39-00)**
+> "Russia even might cover that. So I do just think that so..."
+
+**[00:34:22](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-russia-t-00-34-03)**
+> "...documented she found out that russia today retweeted it ah so a news publication in ru..."
+
+**[00:36:04](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-russia-t-00-34-03)**
+> "... shows that when he resigned, Russia today covered it."
+
+**[00:50:29](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-russia-t-00-50-29)**
+> "...ins but I particularly want a Russian blue cat So add it to the data sets."
+
+**[00:50:54](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-russia-t-00-50-29)**
+> "...ey're very pretty. I love the Russian blue cats. Vani Miriam writes: pretty rich Wilkin..."
 
 </details>
 
@@ -301,42 +335,22 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (9 mentions)</summary>
-
-**[00:30:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-30-47)**
-> "Russia"
-
-**[00:29:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-29-03)**
-> "...d to resign. If this was like Russia, he would have just disappeared, I think, in gene..."
-
-**[00:30:56](/episodes/ep-5m-Wn6Pr5rM.md#t-00-30-56)**
-> "...laining how she realized that Russia was behind a foreign influence campaign that cont..."
-
-**[00:31:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-10)**
-> "... Catholic Church, even though Russia is an Eastern Orthodox society. Apparently, Vladi..."
-
-**[00:39:00](/episodes/ep-5m-Wn6Pr5rM.md#t-00-39-00)**
-> "Russia even might cover that. So I do just think that so..."
-
-**[00:34:22](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-22)**
-> "...documented she found out that russia today retweeted it ah so a news publication in ru..."
-
-**[00:36:04](/episodes/ep-5m-Wn6Pr5rM.md#t-00-36-04)**
-> "... shows that when he resigned, Russia today covered it."
-
-**[00:50:29](/episodes/ep-5m-Wn6Pr5rM.md#t-00-50-29)**
-> "...ins but I particularly want a Russian blue cat So add it to the data sets."
-
-**[00:50:54](/episodes/ep-5m-Wn6Pr5rM.md#t-00-50-54)**
-> "...ey're very pretty. I love the Russian blue cats. Vani Miriam writes: pretty rich Wilkin..."
-
-</details>
-
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Accused By (1)</summary>
+
+- **[Alexis Wilkins](/entities/person-alexis-wilkins.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:30:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-30-38): “she has come up with the idea that Russia was behind the attacks on her.”
+
+</details>
+
+</details>
 
 <details>
 <summary>Former Residence Of (1)</summary>
@@ -351,7 +365,14 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
+
+- **[Alexis Wilkins](/entities/person-alexis-wilkins.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:30:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-30-38): “she has come up with the idea that Russia was behind the attacks on her.”
+
+</details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** formerly lived in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

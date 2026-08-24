@@ -18,7 +18,7 @@ Source: [About YouTube](https://about.youtube/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-youtube-t-00-41-28">2025-09-18 · 00:42:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-youtube-t-00-56-25">2026-03-24 · 00:56:33</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-youtube-t-00-48-35">2026-03-25 · 00:48:57</a></strong></div>
 <div><span>Episodes</span><strong>40</strong></div>
 <div><span>Mentions</span><strong>102</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -70,6 +70,7 @@ Source: [About YouTube](https://about.youtube/)
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-youtube-t-00-56-43" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-youtube-t-00-25-18" style="--pulse-height:11%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-youtube-t-00-35-00" style="--pulse-height:21%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 4 mentions" title="2026-03-24 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-youtube-t-00-48-35" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -114,6 +115,7 @@ Source: [About YouTube](https://about.youtube/)
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-youtube-t-00-56-43) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-youtube-t-00-25-18) | 2 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-youtube-t-00-35-00) | 4 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-youtube-t-00-48-35) | 1 |
 
 </details>
 </section>
@@ -122,6 +124,14 @@ Source: [About YouTube](https://about.youtube/)
 
 <details>
 <summary><strong class="section-title">Raw mentions (102)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
+
+**[00:48:57](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-youtube-t-00-48-35)**
+> "YouTube"
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (4 mentions)</summary>
@@ -618,14 +628,6 @@ Source: [About YouTube](https://about.youtube/)
 
 **[00:55:51](/episodes/ep-sreYYcID-QY.md#ent-org-youtube-t-00-55-46)**
 > "...d your family. Keep going." Jasmine, these donations are huge. I've never had donations this big on YouTube, and I just want to thank all of you guys for that. Three Diglets writes, "I support Candace (Canda..."
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
-
-**[00:48:57](/episodes/ep-5m-Wn6Pr5rM.md#t-00-48-57)**
-> "YouTube"
 
 </details>
 

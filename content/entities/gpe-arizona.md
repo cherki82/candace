@@ -21,7 +21,7 @@ Source: [State of Arizona official website](https://az.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-arizona-t-01-11-09">2025-09-16 · 01:11:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-arizona-t-00-33-24">2026-03-24 · 00:33:38</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-arizona-t-00-11-03">2026-03-25 · 00:11:27</a></strong></div>
 <div><span>Episodes</span><strong>49</strong></div>
 <div><span>Mentions</span><strong>211</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -82,6 +82,7 @@ Source: [State of Arizona official website](https://az.gov/)
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-arizona-t-00-01-46" style="--pulse-height:16%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-arizona-t-00-21-26" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-arizona-t-00-33-24" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-arizona-t-00-11-03" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -135,6 +136,7 @@ Source: [State of Arizona official website](https://az.gov/)
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-arizona-t-00-01-46) | 3 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-arizona-t-00-21-26) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-arizona-t-00-33-24) | 1 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-arizona-t-00-11-03) | 1 |
 
 </details>
 </section>
@@ -143,6 +145,14 @@ Source: [State of Arizona official website](https://az.gov/)
 
 <details>
 <summary><strong class="section-title">Raw mentions (211)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
+
+**[00:11:27](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-arizona-t-00-11-03)**
+> "Arizona"
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>
@@ -1011,14 +1021,6 @@ Source: [State of Arizona official website](https://az.gov/)
 
 **[01:11:11](/episodes/ep-q7f8r-THr84.md#ent-gpe-arizona-t-01-11-09)**
 > "... is the case. We're not letting this one go. Alama Coronado writes, "Sending you love from Douglas, Arizona." I'm sending you guys love back and thank you for that donation. Thank you to everyone who went on..."
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
-
-**[00:11:27](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-27)**
-> "Arizona"
 
 </details>
 

@@ -59,6 +59,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-00-23" style="--pulse-height:100%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 23 mentions" title="2026-03-17 · 23 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-00-00" style="--pulse-height:100%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 23 mentions" title="2026-03-17 · 23 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-iran-t-00-02-04" style="--pulse-height:17%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 4 mentions" title="2026-03-23 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-iran-t-00-36-50" style="--pulse-height:13%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 3 mentions" title="2026-03-25 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -88,6 +89,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-00-23) | 23 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-00-00) | 23 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-iran-t-00-02-04) | 4 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-iran-t-00-36-50) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54) | 1 |
 
 </details>
@@ -103,6 +105,20 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 
 **[00:28:54](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54)**
 > "opposed the Iranian war"
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (3 mentions)</summary>
+
+**[00:36:50](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-iran-t-00-36-50)**
+> "Iran"
+
+**[00:38:43](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-iran-t-00-38-16)**
+> "...t of a international war like Iran, which would have implications, of course, all ac..."
+
+**[00:49:27](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-iran-t-00-49-17)**
+> "...hat they said oh they're done iran's done and now trump's like negotiating with iran..."
 
 </details>
 
@@ -602,20 +618,6 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 
 **[00:35:22](/episodes/ep-ja26iltROkM.md#ent-gpe-iran-t-00-35-19)**
 > "...irk clip) "You're not anti-Israel. You don't wish them harm. You're not, you know, like cheering on Iran." "No, I support it. I think they're our allies. I want them—" "But you would be called an anti-Sem..."
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (3 mentions)</summary>
-
-**[00:36:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-36-50)**
-> "Iran"
-
-**[00:38:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-38-43)**
-> "...t of a international war like Iran, which would have implications, of course, all ac..."
-
-**[00:49:27](/episodes/ep-5m-Wn6Pr5rM.md#t-00-49-27)**
-> "...hat they said oh they're done iran's done and now trump's like negotiating with iran..."
 
 </details>
 

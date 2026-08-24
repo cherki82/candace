@@ -4,9 +4,10 @@ description: "\"The Times reported that Catholics outnumber Anglicans two to one
 statement_id: "statement-1e6b20aec987"
 speaker: "Candace Owens"
 type: "citation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -26,15 +27,28 @@ type: "citation"
 
 ## Source
 
-**Episode:** [5m-Wn6Pr5rM](/episodes/ep-5m-Wn6Pr5rM.md)
-**Timestamp:** [00:43:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-10) 
+**Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
+**Timestamp:** [00:43:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-44) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2590);return false;">Play</a>
 
 > Here is one that was in the London Times. Catholics outnumber Anglicans, two to one among Gen Z churchgoers, which is amazing.
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The April 2025 Times report, reproduced with attribution and supported by reporting on the same Bible Society and YouGov study, states that Catholics outnumber Anglicans two to one among Gen Z churchgoers. This verifies the citation.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Catholics outnumber Anglicans two to one among Gen Z churchgoers](https://anglicanmainstream.org/article/catholics-outnumber-anglicans-two-to-one-among-gen-z-churchgoers/)
+
+*Verified: 2026-08-24T09:59:41.843927*
 
 ---
 

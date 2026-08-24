@@ -99,6 +99,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-tucker-carlson-t-00-01-03" style="--pulse-height:35%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 14 mentions" title="2026-03-17 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-tucker-carlson-t-00-16-40" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-tucker-carlson-t-00-01-20" style="--pulse-height:18%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 7 mentions" title="2026-03-23 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tucker-carlson-t-00-01-06" style="--pulse-height:12%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 5 mentions" title="2026-03-25 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-28-54" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -169,6 +170,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-tucker-carlson-t-00-01-03) | 14 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-tucker-carlson-t-00-16-40) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-tucker-carlson-t-00-01-20) | 7 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tucker-carlson-t-00-01-06) | 5 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-28-54) | 3 |
 
 </details>
@@ -190,6 +192,26 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 **[00:36:36](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-36-07)**
 > "Tucker Carlson then comes out and confirms the conversations tha..."
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (5 mentions)</summary>
+
+**[00:01:06](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tucker-carlson-t-00-01-06)**
+> "Tucker Carlson"
+
+**[00:30:56](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tucker-carlson-t-00-30-38)**
+> "...campaign that controls me and Tucker Carlson and Joe Kent and General Michael Flynn."
+
+**[00:44:03](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tucker-carlson-t-00-44-03)**
+> "catholic or something and tucker who she mentioned is episcopalian so he's just al..."
+
+**[00:47:12](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tucker-carlson-t-00-47-12)**
+> "...u know threats against me and Tucker Carlson and for some reason Erika thought that that was J..."
+
+**[00:48:28](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tucker-carlson-t-00-47-56)**
+> "... me. Probably should have put Tucker's face there too, if we're being honest."
 
 </details>
 
@@ -1875,26 +1897,6 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 **[00:23:38](/episodes/ep-czVBmqZP6Ss.md#ent-person-tucker-carlson-t-00-23-20)**
 > "... Carlson) to speak about that. I know what Charlie (Charlie Kirk) said to him, and I'm sure Tucker (Tucker Carlson) won't lie about it. What did Charlie (Charlie Kirk) say to you? Dave Smith, what did Charlie (Char..."
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (5 mentions)</summary>
-
-**[00:01:06](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-06)**
-> "Tucker Carlson"
-
-**[00:30:56](/episodes/ep-5m-Wn6Pr5rM.md#t-00-30-56)**
-> "...campaign that controls me and Tucker Carlson and Joe Kent and General Michael Flynn."
-
-**[00:44:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-44-03)**
-> "catholic or something and tucker who she mentioned is episcopalian so he's just al..."
-
-**[00:47:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-12)**
-> "...u know threats against me and Tucker Carlson and for some reason Erika thought that that was J..."
-
-**[00:48:28](/episodes/ep-5m-Wn6Pr5rM.md#t-00-48-28)**
-> "... me. Probably should have put Tucker's face there too, if we're being honest."
 
 </details>
 

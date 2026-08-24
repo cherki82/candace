@@ -22,7 +22,7 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-ukraine-t-00-00-01">2025-09-16 · 00:00:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-ukraine-t-00-20-30">2026-03-17 · 00:20:37</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-ukraine-t-00-11-03">2026-03-25 · 00:11:39</a></strong></div>
 <div><span>Episodes</span><strong>24</strong></div>
 <div><span>Mentions</span><strong>55</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -58,6 +58,7 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-ukraine-t-00-57-25" style="--pulse-height:10%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-ukraine-t-00-42-56" style="--pulse-height:10%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-ukraine-t-00-20-30" style="--pulse-height:10%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-ukraine-t-00-11-03" style="--pulse-height:10%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -86,6 +87,7 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-ukraine-t-00-57-25) | 1 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-ukraine-t-00-42-56) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-ukraine-t-00-20-30) | 1 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-ukraine-t-00-11-03) | 1 |
 
 </details>
 </section>
@@ -94,6 +96,14 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 
 <details>
 <summary><strong class="section-title">Raw mentions (55)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
+
+**[00:11:39](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-ukraine-t-00-11-03)**
+> "Ukrainian"
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
@@ -369,14 +379,6 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 
 **[00:00:27](/episodes/ep-q7f8r-THr84.md#ent-gpe-ukraine-t-00-00-01)**
 > "... some point. We believed that: you're my enemy, you're my enemy. It is not a battle between Russia, Ukraine. I don't care what your political issue of the day is. What is happening right now in the world, an..."
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
-
-**[00:11:39](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-39)**
-> "Ukrainian"
 
 </details>
 

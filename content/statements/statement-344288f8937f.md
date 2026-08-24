@@ -4,9 +4,10 @@ description: "\"Catholics for Catholics lists Michael Flynn as its senior advise
 statement_id: "statement-344288f8937f"
 speaker: "Alexis Wilkins"
 type: "accusation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -28,7 +29,7 @@ type: "accusation"
 
 ## Source
 
-**Episode:** [5m-Wn6Pr5rM](/episodes/ep-5m-Wn6Pr5rM.md)
+**Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:32:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-32-47) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1967);return false;">Play</a>
 
@@ -36,7 +37,21 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The archived Wilkins thread contains the quoted claim about Catholics for Catholics, and the organizations current site lists Michael Flynn as a senior adviser. This verifies the tweet and the adviser role, not the inferred digital-infrastructure allegation.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Alexis Wilkins Threads - Thread Reader App](https://threadreaderapp.com/user/AlexisWilkins)
+- [Catholics for Catholics](https://cforc.com/)
+
+*Verified: 2026-08-24T09:59:40.965916*
 
 ---
 

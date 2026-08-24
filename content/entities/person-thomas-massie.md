@@ -22,7 +22,7 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-massie-t-00-57-10">2025-11-13 · 00:57:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-thomas-massie-t-00-44-23">2026-03-12 · 00:44:48</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-thomas-massie-t-00-37-32">2026-03-25 · 00:37:56</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -39,6 +39,7 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-thomas-massie-t-00-29-56" style="--pulse-height:9%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-thomas-massie-t-00-42-25" style="--pulse-height:36%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 4 mentions" title="2026-02-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-thomas-massie-t-00-07-32" style="--pulse-height:100%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 11 mentions" title="2026-03-12 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-thomas-massie-t-00-37-32" style="--pulse-height:9%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-thomas-massie-t-00-29-56) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-thomas-massie-t-00-42-25) | 4 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-thomas-massie-t-00-07-32) | 11 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-thomas-massie-t-00-37-32) | 1 |
 
 </details>
 </section>
@@ -56,6 +58,14 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 
 <details>
 <summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
+
+**[00:37:56](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-thomas-massie-t-00-37-32)**
+> "Thomas Massie"
+
+</details>
 
 <details>
 <summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (11 mentions)</summary>
@@ -128,14 +138,6 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 
 **[00:57:11](/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-massie-t-00-57-10)**
 > "...No, Miriam Adelson is way too high up to have been that person on the ground. It was somebody else. She's trying to remove Senator Massey. I actually need to refresh myself on her last name because it's uh, saved in my phone..."
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
-
-**[00:37:56](/episodes/ep-5m-Wn6Pr5rM.md#t-00-37-56)**
-> "Thomas Massie"
 
 </details>
 

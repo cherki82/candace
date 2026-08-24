@@ -23,7 +23,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <div><span>Mentions</span><strong>4,128</strong></div>
 <div><span>Statements by</span><strong>57</strong></div>
 <div><span>Statements about</span><strong>794</strong></div>
-<div><span>Relationships</span><strong>190</strong></div>
+<div><span>Relationships</span><strong>192</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -123,6 +123,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-charlie-kirk-t-00-00-16" style="--pulse-height:25%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 27 mentions" title="2026-03-18 · 27 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-charlie-kirk-t-00-01-20" style="--pulse-height:12%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 13 mentions" title="2026-03-23 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-charlie-kirk-t-00-01-22" style="--pulse-height:29%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 32 mentions" title="2026-03-24 · 32 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:11%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 12 mentions" title="2026-03-25 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-25-19" style="--pulse-height:84%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 92 mentions" title="2026-08-14 · 92 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -221,6 +222,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-charlie-kirk-t-00-00-16) | 27 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-charlie-kirk-t-00-01-20) | 13 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-charlie-kirk-t-00-01-22) | 32 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-charlie-kirk-t-00-00-00) | 12 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-25-19) | 92 |
 
 </details>
@@ -513,6 +515,47 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 **[04:03:19](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-04-03-19)**
 > "... love and respect we have for Charlie Kirk,"
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (12 mentions)</summary>
+
+**[00:00:29](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-charlie-kirk-t-00-00-00)**
+> "Charlie Kirk"
+
+**[00:01:51](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-charlie-kirk-t-00-01-51)**
+> "... while Andrew was hosting the Charlie Kirk show, which would mean obviously that if he was l..."
+
+**[00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-charlie-kirk-t-00-01-51)**
+> "... not flying at that time. The Charlie Kirk show was hosted in its entirety before that plane..."
+
+**[00:02:23](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-charlie-kirk-t-00-02-23)**
+> "...rbara just five minutes after Charlie Kirk was shot, and then it went to Scottsdale. And so ..."
+
+**[00:03:02](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-charlie-kirk-t-00-03-02)**
+> "...ually on that plane while the Charlie Kirk show was live and then it goes from Scottsdale I ..."
+
+**[00:11:18](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-charlie-kirk-t-00-11-03)**
+> "...ause he was on, Andrew was on Charlie Kirk's plane."
+
+**[00:15:23](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-charlie-kirk-t-00-14-56)**
+> "...have learned anything in this Charlie Kirk story, you'll be replaced, maybe even by your wif..."
+
+**[00:27:33](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-charlie-kirk-t-00-27-33)**
+> "...urries, who supposedly killed Charlie Kirk."
+
+**[00:28:26](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-charlie-kirk-t-00-28-01)**
+> "...he epstein files and then the charlie kirk assassination we're going wait charlie kirk liter..."
+
+**[00:28:37](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-charlie-kirk-t-00-28-01)**
+> "...e Epstein files? And then the Charlie Kirk assassination. We're going, wait, Charlie Kirk li..."
+
+**[00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-charlie-kirk-t-00-34-49)**
+> "...ks like to be four sentences, Charlie Kirk's assassination within hours, Candace publicly attr..."
+
+**[00:36:12](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-charlie-kirk-t-00-36-12)**
+> "...people that are interested in Charlie Kirk's assassination."
 
 </details>
 
@@ -13045,47 +13088,6 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (12 mentions)</summary>
-
-**[00:00:29](/episodes/ep-5m-Wn6Pr5rM.md#t-00-00-29)**
-> "Charlie Kirk"
-
-**[00:01:51](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-51)**
-> "... while Andrew was hosting the Charlie Kirk show, which would mean obviously that if he was l..."
-
-**[00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-10)**
-> "... not flying at that time. The Charlie Kirk show was hosted in its entirety before that plane..."
-
-**[00:02:23](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-23)**
-> "...rbara just five minutes after Charlie Kirk was shot, and then it went to Scottsdale. And so ..."
-
-**[00:03:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-03-02)**
-> "...ually on that plane while the Charlie Kirk show was live and then it goes from Scottsdale I ..."
-
-**[00:11:18](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-18)**
-> "...ause he was on, Andrew was on Charlie Kirk's plane."
-
-**[00:15:23](/episodes/ep-5m-Wn6Pr5rM.md#t-00-15-23)**
-> "...have learned anything in this Charlie Kirk story, you'll be replaced, maybe even by your wif..."
-
-**[00:27:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-33)**
-> "...urries, who supposedly killed Charlie Kirk."
-
-**[00:28:26](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-26)**
-> "...he epstein files and then the charlie kirk assassination we're going wait charlie kirk liter..."
-
-**[00:28:37](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-37)**
-> "...e Epstein files? And then the Charlie Kirk assassination. We're going, wait, Charlie Kirk li..."
-
-**[00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49)**
-> "...ks like to be four sentences, Charlie Kirk's assassination within hours, Candace publicly attr..."
-
-**[00:36:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-36-12)**
-> "...people that are interested in Charlie Kirk's assassination."
-
-</details>
-
 </details>
 
 <details open>
@@ -13971,6 +13973,18 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
+<summary>Trained (1)</summary>
+
+- **[Frank Turek](/entities/person-frank-turek.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:11:55](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-49): “Frank saying that Charlie trained him”
+
+</details>
+
+</details>
+
+<details>
 <summary>Warned (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -14033,7 +14047,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Referenced By (95)</summary>
+<summary>Referenced By (96)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** advised by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -14713,6 +14727,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 </details>
 
+- **[Frank Turek](/entities/person-frank-turek.md)** trained by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:11:55](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-49): “Frank saying that Charlie trained him”
+
+</details>
+
 - **[Candace Owens](/entities/person-candace-owens.md)** warned this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
@@ -15170,6 +15191,34 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - [04:01:26](/episodes/ep-nPhCKwJ6ye8.md#t-04-01-26) (Accusation) **Candace Owens**: ["Candace Owens still believes there is more evidence that multiple peop..."](/statements/statement-4735330c37c9.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md)
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (8)</summary>
+
+- [00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-51) (Claim) **Candace Owens**: ["The Charlie Kirk show was hosted in its entirety before the Y-Refi pla..."](/statements/statement-cc89e89ddc7e.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Yrefy](/entities/org-yrefy.md), [Santa Barbara](/entities/gpe-santa-barbara.md)
+
+- [00:09:21](/episodes/ep-5m-Wn6Pr5rM.md#t-00-09-02) (Accusation) **Candace Owens**: ["My proposed explanation is that Erika Kirk flew in earlier than Andrew..."](/statements/statement-5f081a5d1b78.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:17:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-24) (Claim) **Candace Owens** (via paraphrase): ["According to Elizabeth McCoy's alleged narrative, Elizabeth told Erika..."](/statements/statement-b787aa6e71ce.md)
+  - Also about: [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md), [Fixed-base operator](/entities/concept-fixed-base-operator.md)
+
+- [00:17:55](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-24) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk told me that the doctor called her directly and informed he..."](/statements/statement-3b3b396856d7.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:27:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-07) (Claim) **Joe Rogan** (via quoted speech): ["The round Charlie Kirk was supposedly shot with was a .30-06, a large ..."](/statements/statement-45ce4670b4df.md)
+
+- [00:27:42](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-42) (Claim) **Joe Rogan** (via quoted speech): ["Tyler Robinson has not been seen speaking independently about whether ..."](/statements/statement-f14e18b3a714.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) (Accusation) **Alexis Wilkins** (via quoted tweet): ["Within hours of Charlie Kirk's assassination, Candace Owens publicly a..."](/statements/statement-b2726c243b67.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Israel](/entities/gpe-israel.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) (Claim) **Candace Owens**: ["I did not name Erika Kirk or attribute Charlie Kirk's killing to Israe..."](/statements/statement-e1617f27d099.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Israel](/entities/gpe-israel.md)
 
 </details>
 
@@ -17670,34 +17719,6 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Brigitte Gabriel](/entities/person-brigitte-gabriel.md)
 
 - [00:21:16](/episodes/ep-_dRaEO47-co.md#t-00-20-54) (Opinion) **Candace Owens**: ["Charlie Kirk was going through a spiritual transformation near the end..."](/statements/statement-e1604b4df347.md)
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (8)</summary>
-
-- [00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-10) (Claim) **Candace Owens**: ["The Charlie Kirk show was hosted in its entirety before the Y-Refi pla..."](/statements/statement-cc89e89ddc7e.md)
-  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Yrefy](/entities/org-yrefy.md), [Santa Barbara](/entities/gpe-santa-barbara.md)
-
-- [00:09:21](/episodes/ep-5m-Wn6Pr5rM.md#t-00-09-21) (Accusation) **Candace Owens**: ["My proposed explanation is that Erika Kirk flew in earlier than Andrew..."](/statements/statement-5f081a5d1b78.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
-
-- [00:17:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-24) (Claim) **Candace Owens** (via paraphrase): ["According to Elizabeth McCoy's alleged narrative, Elizabeth told Erika..."](/statements/statement-b787aa6e71ce.md)
-  - Also about: [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md), [Fixed-base operator](/entities/concept-fixed-base-operator.md)
-
-- [00:17:55](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-55) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk told me that the doctor called her directly and informed he..."](/statements/statement-3b3b396856d7.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
-
-- [00:27:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-07) (Claim) **Joe Rogan** (via quoted speech): ["The round Charlie Kirk was supposedly shot with was a .30-06, a large ..."](/statements/statement-45ce4670b4df.md)
-
-- [00:27:42](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-42) (Claim) **Joe Rogan** (via quoted speech): ["Tyler Robinson has not been seen speaking independently about whether ..."](/statements/statement-f14e18b3a714.md)
-  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
-
-- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) (Accusation) **Alexis Wilkins** (via quoted tweet): ["Within hours of Charlie Kirk's assassination, Candace Owens publicly a..."](/statements/statement-b2726c243b67.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Israel](/entities/gpe-israel.md), [Erika Kirk](/entities/person-erika-kirk.md)
-
-- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) (Claim) **Candace Owens**: ["I did not name Erika Kirk or attribute Charlie Kirk's killing to Israe..."](/statements/statement-e1617f27d099.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Israel](/entities/gpe-israel.md)
 
 </details>
 

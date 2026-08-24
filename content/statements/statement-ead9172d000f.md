@@ -27,7 +27,7 @@ type: "factual_claim"
 
 ## Source
 
-**Episode:** [5m-Wn6Pr5rM](/episodes/ep-5m-Wn6Pr5rM.md)
+**Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:22:59](/episodes/ep-5m-Wn6Pr5rM.md#t-00-22-59) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1379);return false;">Play</a>
 

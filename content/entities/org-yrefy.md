@@ -27,7 +27,7 @@ Source: [Yrefy's Story](https://www.investyrefy.com/yrefys-story)
 <div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -95,7 +95,29 @@ Source: [Yrefy's Story](https://www.investyrefy.com/yrefys-story)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Employs (1)</summary>
+
+- **[Laine Schoneberger](/entities/person-laine-schoneberger.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:03:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-03-02): “Lane Schoenberg the CEO of Y Refi”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Laine Schoneberger](/entities/person-laine-schoneberger.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:03:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-03-02): “Lane Schoenberg the CEO of Y Refi”
+
+</details>
+
+</details>
 
 </details>
 
@@ -103,23 +125,23 @@ _No relationships extracted yet._
 <summary><strong class="section-title">Statements about Yrefy (4)</strong></summary>
 
 <details>
-<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1)</summary>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (3)</summary>
 
-- [00:35:49](/episodes/ep-B9TyCs-6o_0.md#t-00-35-29) (Citation) **Candace Owens**: ["The Yrefy-associated plane flew from Scottsdale to Provo, then Provo t..."](/statements/statement-8f40df02e151.md)
-  - Also about: [Scottsdale, Arizona](/entities/gpe-scottsdale.md), [Provo](/entities/gpe-provo.md), [Santa Barbara](/entities/gpe-santa-barbara.md)
+- [00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-51) (Claim) **Candace Owens**: ["The Charlie Kirk show was hosted in its entirety before the Y-Refi pla..."](/statements/statement-cc89e89ddc7e.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Santa Barbara](/entities/gpe-santa-barbara.md)
+
+- [00:02:51](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-23) (Claim) **Candace Owens**: ["The Y-Refi plane is equipped with Wi-Fi."](/statements/statement-b859662fd236.md)
+
+- [00:06:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-06-15) (Claim) **Candace Owens** (via paraphrase): ["The plane that Erika Kirk told Candace Owens carried Andrew Kolvet did..."](/statements/statement-ce02a70f1a1d.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Provo Airport](/entities/org-provo-airport.md)
 
 </details>
 
 <details>
-<summary>ep-5m-Wn6Pr5rM (3)</summary>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1)</summary>
 
-- [00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-10) (Claim) **Candace Owens**: ["The Charlie Kirk show was hosted in its entirety before the Y-Refi pla..."](/statements/statement-cc89e89ddc7e.md)
-  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Santa Barbara](/entities/gpe-santa-barbara.md)
-
-- [00:02:51](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-51) (Claim) **Candace Owens**: ["The Y-Refi plane is equipped with Wi-Fi."](/statements/statement-b859662fd236.md)
-
-- [00:06:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-06-24) (Claim) **Candace Owens** (via paraphrase): ["The plane that Erika Kirk told Candace Owens carried Andrew Kolvet did..."](/statements/statement-ce02a70f1a1d.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Provo Airport](/entities/org-provo-airport.md)
+- [00:35:49](/episodes/ep-B9TyCs-6o_0.md#t-00-35-29) (Citation) **Candace Owens**: ["The Yrefy-associated plane flew from Scottsdale to Provo, then Provo t..."](/statements/statement-8f40df02e151.md)
+  - Also about: [Scottsdale, Arizona](/entities/gpe-scottsdale.md), [Provo](/entities/gpe-provo.md), [Santa Barbara](/entities/gpe-santa-barbara.md)
 
 </details>
 

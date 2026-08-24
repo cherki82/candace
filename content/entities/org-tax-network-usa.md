@@ -23,7 +23,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-05-24">2025-09-16 · 01:05:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-tax-network-usa-t-00-55-48">2026-03-17 · 00:55:48</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-tax-network-usa-t-00-44-44">2026-03-25 · 00:45:06</a></strong></div>
 <div><span>Episodes</span><strong>20</strong></div>
 <div><span>Mentions</span><strong>74</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -55,6 +55,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-tax-network-usa-t-00-48-53" style="--pulse-height:40%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-tax-network-usa-t-00-52-54" style="--pulse-height:60%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 3 mentions" title="2026-03-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-tax-network-usa-t-00-55-09" style="--pulse-height:40%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-tax-network-usa-t-00-44-03" style="--pulse-height:40%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -79,6 +80,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-tax-network-usa-t-00-48-53) | 2 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-tax-network-usa-t-00-52-54) | 3 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-tax-network-usa-t-00-55-09) | 2 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-tax-network-usa-t-00-44-03) | 2 |
 
 </details>
 </section>
@@ -87,6 +89,17 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 
 <details>
 <summary><strong class="section-title">Raw mentions (74)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2 mentions)</summary>
+
+**[00:44:37](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-tax-network-usa-t-00-44-03)**
+> "Tax Network USA"
+
+**[00:45:06](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-tax-network-usa-t-00-44-44)**
+> "...t. Call 866-686-1651 or visit tnusa.com slash Candace. Again, that's tnusa.com slash ..."
+
+</details>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (2 mentions)</summary>
@@ -390,17 +403,6 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 
 **[01:07:05](/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-06-49)**
 > "So let Tax Network USA help you by calling 1-800-958-1000 or visit tnusa..."
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (2 mentions)</summary>
-
-**[00:44:37](/episodes/ep-5m-Wn6Pr5rM.md#t-00-44-37)**
-> "Tax Network USA"
-
-**[00:45:06](/episodes/ep-5m-Wn6Pr5rM.md#t-00-45-06)**
-> "...t. Call 866-686-1651 or visit tnusa.com slash Candace. Again, that's tnusa.com slash ..."
 
 </details>
 

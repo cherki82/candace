@@ -127,6 +127,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-united-states-t-00-04-24" style="--pulse-height:18%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 7 mentions" title="2026-03-18 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-united-states-t-00-46-54" style="--pulse-height:13%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 5 mentions" title="2026-03-23 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-united-states-t-00-35-28" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 3 mentions" title="2026-03-24 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-united-states-t-00-31-31" style="--pulse-height:21%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 8 mentions" title="2026-03-25 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-00-28-12" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -218,6 +219,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-united-states-t-00-04-24) | 7 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-united-states-t-00-46-54) | 5 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-united-states-t-00-35-28) | 3 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-united-states-t-00-31-31) | 8 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-00-28-12) | 3 |
 
 </details>
@@ -239,6 +241,35 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[01:19:28](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-01-19-17)**
 > "Kits are available for United States residents only."
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (8 mentions)</summary>
+
+**[00:31:31](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-united-states-t-00-31-31)**
+> "America"
+
+**[00:34:22](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-united-states-t-00-34-03)**
+> "...vers news that's happening in america it's because vladimir putin is behind the thing t..."
+
+**[00:43:02](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-united-states-t-00-42-44)**
+> "But U.S. Catholic population shows growth trends southward..."
+
+**[00:43:10](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-united-states-t-00-42-44)**
+> "In 25 August, more Americans joining Catholic church than leaving for the firs..."
+
+**[00:25:20](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-united-states-t-00-31-31)**
+> "...want to remind you guys about American financing because, I mean, have you looked at you..."
+
+**[00:25:33](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-united-states-t-00-31-31)**
+> "...igned to keep you underwater. American financing is doing something that the big banks h..."
+
+**[00:25:57](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-united-states-t-00-31-31)**
+> "So call American Financing today at 800-795-1210. Again, that's 80..."
+
+**[00:50:54](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-united-states-t-00-50-29)**
+> "...movement through the ReAwaken America tours with Clay Clark."
 
 </details>
 
@@ -2536,35 +2567,6 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (8 mentions)</summary>
-
-**[00:31:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31)**
-> "America"
-
-**[00:34:22](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-22)**
-> "...vers news that's happening in america it's because vladimir putin is behind the thing t..."
-
-**[00:43:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-02)**
-> "But U.S. Catholic population shows growth trends southward..."
-
-**[00:43:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-10)**
-> "In 25 August, more Americans joining Catholic church than leaving for the firs..."
-
-**[00:25:20](/episodes/ep-5m-Wn6Pr5rM.md#t-00-25-20)**
-> "...want to remind you guys about American financing because, I mean, have you looked at you..."
-
-**[00:25:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-25-33)**
-> "...igned to keep you underwater. American financing is doing something that the big banks h..."
-
-**[00:25:57](/episodes/ep-5m-Wn6Pr5rM.md#t-00-25-57)**
-> "So call American Financing today at 800-795-1210. Again, that's 80..."
-
-**[00:50:54](/episodes/ep-5m-Wn6Pr5rM.md#t-00-50-54)**
-> "...movement through the ReAwaken America tours with Clay Clark."
-
-</details>
-
 </details>
 
 <details open>
@@ -2655,6 +2657,14 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <details open>
 <summary><strong class="section-title">Statements about United States (87)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1)</summary>
+
+- [00:43:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-44) (Citation) **Candace Owens**: ["An August 2025 article reported that more Americans were joining the C..."](/statements/statement-774d3b78c237.md)
+  - Also about: [Catholic Church](/entities/org-catholic-church.md)
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1)</summary>
@@ -3034,14 +3044,6 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1)</summary>
 
 - [00:51:30](/episodes/ep-iHav0PPzUz8.md#t-00-51-02) (Claim) **Candace Owens**: ["Americans collectively owe over  trillion in credit card debt"](/statements/statement-bb6e1f56f3a3.md)
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (1)</summary>
-
-- [00:43:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-02) (Citation) **Candace Owens**: ["An August 2025 article reported that more Americans were joining the C..."](/statements/statement-774d3b78c237.md)
-  - Also about: [Catholic Church](/entities/org-catholic-church.md)
 
 </details>
 

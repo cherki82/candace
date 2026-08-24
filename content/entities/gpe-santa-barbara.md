@@ -18,7 +18,7 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-14">2025-11-17 · 00:26:38</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-santa-barbara-t-00-40-26">2026-03-24 · 00:40:54</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-santa-barbara-t-00-03-02">2026-03-25 · 00:03:02</a></strong></div>
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>31</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-santa-barbara-t-01-07-56" style="--pulse-height:10%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-santa-barbara-t-00-16-13" style="--pulse-height:70%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 7 mentions" title="2026-03-23 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-santa-barbara-t-00-06-26" style="--pulse-height:100%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 10 mentions" title="2026-03-24 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-santa-barbara-t-00-01-51" style="--pulse-height:50%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 5 mentions" title="2026-03-25 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-santa-barbara-t-01-07-56) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-santa-barbara-t-00-16-13) | 7 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-santa-barbara-t-00-06-26) | 10 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-santa-barbara-t-00-01-51) | 5 |
 
 </details>
 </section>
@@ -56,6 +58,26 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 
 <details>
 <summary><strong class="section-title">Raw mentions (31)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (5 mentions)</summary>
+
+**[00:01:51](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-santa-barbara-t-00-01-51)**
+> "Santa Barbara"
+
+**[00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-santa-barbara-t-00-01-51)**
+> "...fore that plane took off from Santa Barbara to Scottsdale at 1228 Mountain Time."
+
+**[00:02:23](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-santa-barbara-t-00-02-23)**
+> "So this plane actually left Santa Barbara just five minutes after Charlie Kirk was shot, an..."
+
+**[00:02:43](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-santa-barbara-t-00-02-23)**
+> "... plane while it was flying to Santa Barbara, if my theory is that it picked up Andrew Kolvet,..."
+
+**[00:03:02](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-santa-barbara-t-00-03-02)**
+> "...s from Scottsdale I mean from Santa Barbara to Scottsdale."
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (10 mentions)</summary>
@@ -165,26 +187,6 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (5 mentions)</summary>
-
-**[00:01:51](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-51)**
-> "Santa Barbara"
-
-**[00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-10)**
-> "...fore that plane took off from Santa Barbara to Scottsdale at 1228 Mountain Time."
-
-**[00:02:23](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-23)**
-> "So this plane actually left Santa Barbara just five minutes after Charlie Kirk was shot, an..."
-
-**[00:02:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-43)**
-> "... plane while it was flying to Santa Barbara, if my theory is that it picked up Andrew Kolvet,..."
-
-**[00:03:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-03-02)**
-> "...s from Scottsdale I mean from Santa Barbara to Scottsdale."
-
-</details>
-
 </details>
 
 <details open>
@@ -198,6 +200,14 @@ _No relationships extracted yet._
 <summary><strong class="section-title">Statements about Santa Barbara (3)</strong></summary>
 
 <details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1)</summary>
+
+- [00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-51) (Claim) **Candace Owens**: ["The Charlie Kirk show was hosted in its entirety before the Y-Refi pla..."](/statements/statement-cc89e89ddc7e.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Yrefy](/entities/org-yrefy.md)
+
+</details>
+
+<details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (2)</summary>
 
 - [00:16:43](/episodes/ep-B9TyCs-6o_0.md#t-00-16-13) (Accusation) **Candace Owens**: ["Candace Owens says Andrew Kolvet's later account changed to say that h..."](/statements/statement-84d54960bb73.md)
@@ -205,14 +215,6 @@ _No relationships extracted yet._
 
 - [00:35:49](/episodes/ep-B9TyCs-6o_0.md#t-00-35-29) (Citation) **Candace Owens**: ["The Yrefy-associated plane flew from Scottsdale to Provo, then Provo t..."](/statements/statement-8f40df02e151.md)
   - Also about: [Yrefy](/entities/org-yrefy.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md), [Provo](/entities/gpe-provo.md)
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (1)</summary>
-
-- [00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-10) (Claim) **Candace Owens**: ["The Charlie Kirk show was hosted in its entirety before the Y-Refi pla..."](/statements/statement-cc89e89ddc7e.md)
-  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Yrefy](/entities/org-yrefy.md)
 
 </details>
 

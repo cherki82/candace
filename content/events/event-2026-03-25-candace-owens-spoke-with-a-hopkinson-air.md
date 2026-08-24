@@ -1,0 +1,20 @@
+---
+title: "2026-03-25: Candace Owens spoke with a Hopkinson Aircraft empl..."
+description: "2026-03-25 - Candace Owens spoke with a Hopkinson Aircraft employee who would neither confirm nor deny seeing Erika Kirk at the airport."
+event_id: "event-2026-03-25-candace-owens-spoke-with-a-hopkinson-air"
+date: "2026-03-25"
+---
+
+**Date:** 2026-03-25
+
+## Event
+
+> Candace Owens spoke with a Hopkinson Aircraft employee who would neither confirm nor deny seeing Erika Kirk at the airport.
+
+## Mentioned In
+
+**Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
+**Timestamp:** [00:22:59](/episodes/ep-5m-Wn6Pr5rM.md#event-event-2026-03-25-candace-owens-spoke-with-a-hopkinson-air-t-00-22-59) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1379);return false;">▶️ Play</a>
+
+> effectively said I will not confirm or deny that's to sum it all up

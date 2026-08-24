@@ -21,7 +21,7 @@ Source: [Our Team | Yrefy](https://www.investyrefy.com/our-team)
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -35,6 +35,28 @@ Source: [Our Team | Yrefy](https://www.investyrefy.com/our-team)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Works For (1)</summary>
+
+- **[Yrefy](/entities/org-yrefy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:03:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-03-02): “Lane Schoenberg the CEO of Y Refi”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Yrefy](/entities/org-yrefy.md)** employs this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:03:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-03-02): “Lane Schoenberg the CEO of Y Refi”
+
+</details>
+
+</details>
 
 </details>

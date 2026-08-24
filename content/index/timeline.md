@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 1078_
+_Total events: 1093_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -293,8 +293,8 @@ _Total events: 1078_
 <input type="radio" id="tab-year-1848" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-year-2026" class="tab-btn">2026 (66)</label>
-  <label for="tab-year-2025" class="tab-btn">2025 (540)</label>
+  <label for="tab-year-2026" class="tab-btn">2026 (68)</label>
+  <label for="tab-year-2025" class="tab-btn">2025 (553)</label>
   <label for="tab-year-2024" class="tab-btn">2024 (61)</label>
   <label for="tab-year-2023" class="tab-btn">2023 (21)</label>
   <label for="tab-year-2022" class="tab-btn">2022 (15)</label>
@@ -472,17 +472,48 @@ _Total events: 1078_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-03-25-nick-shirley-replied-to-candace-owens-an">
+<div class="timeline-date">2026-03-25</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-25-nick-shirley-replied-to-candace-owens-an.md">Nick Shirley replied to Candace Owens and confirmed that Andrew Kolvet's Charlie Kirk Show broadcast was authentically live.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-25: Nick Shirley replied to Candace Owens and confirmed that Andrew Kolvet\'s Charlie Kirk Show broadcast was authentically live. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:03:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-03-02)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-25-candace-owens-spoke-with-a-hopkinson-air">
+<div class="timeline-date">2026-03-25</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-25-candace-owens-spoke-with-a-hopkinson-air.md">Candace Owens spoke with a Hopkinson Aircraft employee who would neither confirm nor deny seeing Erika Kirk at the airport.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-25: Candace Owens spoke with a Hopkinson Aircraft employee who would neither confirm nor deny seeing Erika Kirk at the airport. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:22:59](/episodes/ep-5m-Wn6Pr5rM.md#t-00-22-59)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2026-03-19-candace-owens-spoke-at-the-catholics-for">
 <div class="timeline-date">2026-03-19</div>
 <div class="timeline-desc"><a href="/events/event-2026-03-19-candace-owens-spoke-at-the-catholics-for.md">Candace Owens spoke at the Catholics for Catholics Catholic Prayer for America Gala.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-19: Candace Owens spoke at the Catholics for Catholics Catholic Prayer for America Gala. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:50:05](/episodes/ep-B9TyCs-6o_0.md#t-00-49-40)
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:33:40](/episodes/ep-5m-Wn6Pr5rM.md#t-00-33-27)
 
 </details>
 </div>
@@ -1727,7 +1758,7 @@ _Total events: 1078_
 <div class="timeline-date">2025-12-15</div>
 <div class="timeline-desc"><a href="/events/event-2025-12-15-candace-owens-and-erika-kirk-meeting.md">Candace Owens and Erika Kirk meeting</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-15: Candace Owens and Erika Kirk meeting - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -1735,6 +1766,7 @@ _Total events: 1078_
 
 - [Erika And I Sat Down. Here’s What Happened. | C... @ 00:02:10](/episodes/ep-es7PWdFGoFI.md#t-00-02-04)
 - [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:55:46](/episodes/ep-SgVcnx4Oh30.md#t-00-55-46)
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:35:06](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49)
 
 </details>
 </div>
@@ -11132,6 +11164,21 @@ _Total events: 1078_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-allie-beth-stuckey-posted-that-the-popul">
+<div class="timeline-date">2025-09</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-allie-beth-stuckey-posted-that-the-popul.md">Allie Beth Stuckey posted that the popular narrative of booming Catholicism was not true.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09: Allie Beth Stuckey posted that the popular narrative of booming Catholicism was not true. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:42:44](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-44)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-30-article-accuses-sean-foyt-of-mismanaging-turning-p">
 <div class="timeline-date">2025-09-30</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-30-article-accuses-sean-foyt-of-mismanaging-turning-p.md">Article accuses Sean Foyt of mismanaging Turning Point USA funds</a></div>
@@ -19382,13 +19429,14 @@ _Total events: 1078_
 <div class="timeline-date">2025-09-10 <span class='time'>10:24</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-said-a-yrefy-linked-plane-.md">Candace Owens said a Yrefy-linked plane flew from Provo to Santa Barbara and then Scottsdale.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 10:24: Candace Owens said a Yrefy-linked plane flew from Provo to Santa Barbara and then Scottsdale. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:35:49](/episodes/ep-B9TyCs-6o_0.md#t-00-35-29)
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:02:23](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-23)
 
 </details>
 </div>
@@ -19999,13 +20047,14 @@ _Total events: 1078_
 <div class="timeline-date">2025-09-10 <span class='time'>09:00</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-andrew-kolvet-guest-hosted-the-first-hou.md">Andrew Kolvet guest-hosted the first hour of The Charlie Kirk Show.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 09:00: Andrew Kolvet guest-hosted the first hour of The Charlie Kirk Show. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:30:50](/episodes/ep-SgVcnx4Oh30.md#t-00-30-50)
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-51)
 
 </details>
 </div>
@@ -20101,7 +20150,7 @@ _Total events: 1078_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md">Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">393× in 46 eps</span>
+<span class="timeline-badge mentions">394× in 47 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -20500,6 +20549,7 @@ _Total events: 1078_
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:49:04](/episodes/ep-tB5SXXmd9vU.md#t-00-48-53)
 - [BREAKING NEWS! We Received Photos Of Charlie's ... @ 01:08:00](/episodes/ep-9k2xrAC0H88.md#t-01-02-41)
 - [Coming soon... @ 00:00:00](/episodes/ep-LKR94FQ5p3o.md#t-00-00-00)
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:11:55](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-49)
 
 </details>
 </div>
@@ -21837,7 +21887,7 @@ _Total events: 1078_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-said-andrew-kolvet-arrived.md">Candace Owens said Andrew Kolvet arrived by plane in Provo on September 10 and collapsed crying into Erika Kirk's arms.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">4× in 4 eps</span>
+<span class="timeline-badge mentions">5× in 5 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens said Andrew Kolvet arrived by plane in Provo on September 10 and collapsed crying into Erika Kirk\'s arms. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -21847,6 +21897,7 @@ _Total events: 1078_
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfr... @ 00:25:17](/episodes/ep-DYD_QHMPwqM.md#t-00-24-40)
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:20:05](/episodes/ep-mFuno0TuuQQ.md#t-00-20-05)
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:16:13](/episodes/ep-B9TyCs-6o_0.md#t-00-16-13)
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:08:52](/episodes/ep-5m-Wn6Pr5rM.md#t-00-08-16)
 
 </details>
 </div>
@@ -21966,13 +22017,14 @@ _Total events: 1078_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-erika-kirk-said-she-landed-in-utah-and-w.md">Erika Kirk said she landed in Utah and went directly to the hospital.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Erika Kirk said she landed in Utah and went directly to the hospital. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:19:56](/episodes/ep-mFuno0TuuQQ.md#t-00-19-56)
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:18:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-09)
 
 </details>
 </div>
@@ -22050,6 +22102,173 @@ _Total events: 1078_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:32:28](/episodes/ep-SgVcnx4Oh30.md#t-00-32-28)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-frank-turek-said-erika-kirk-arrived-at-t">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-frank-turek-said-erika-kirk-arrived-at-t.md">Frank Turek said Erika Kirk arrived at the hospital at around 4 p.m.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Frank Turek said Erika Kirk arrived at the hospital at around 4 p.m. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:05:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-05-47)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-candace-owens-said-mikey-mccoy-called-el">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-said-mikey-mccoy-called-el.md">Candace Owens said Mikey McCoy called Elizabeth McCoy after Charlie Kirk was shot and then conferenced in Erika Kirk.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens said Mikey McCoy called Elizabeth McCoy after Charlie Kirk was shot and then conferenced in Erika Kirk. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:12:42](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-33)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-candace-owens-said-elizabeth-mccoy-found">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-said-elizabeth-mccoy-found.md">Candace Owens said Elizabeth McCoy found Justin Streiff in a Turning Point USA lawyer's office and alerted them to Charlie Kirk's shooting.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens said Elizabeth McCoy found Justin Streiff in a Turning Point USA lawyer\'s office and alerted them to Charlie Kirk\'s shooting. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-33)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-candace-owens-said-frank-and-justin-stre">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-said-frank-and-justin-stre.md">Candace Owens said Frank and Justin Streiff ran from the Turning Point USA office to the Turning Point Action building.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens said Frank and Justin Streiff ran from the Turning Point USA office to the Turning Point Action building. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:13:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-07)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-candace-owens-said-lauren-tonczyk-drove-">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-said-lauren-tonczyk-drove-.md">Candace Owens said Lauren Tonczyk drove Elizabeth McCoy from the Turning Point USA office to the airport.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens said Lauren Tonczyk drove Elizabeth McCoy from the Turning Point USA office to the airport. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:13:32](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-07)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-candace-owens-recounted-elizabeth-mccoys">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-recounted-elizabeth-mccoys.md">Candace Owens recounted Elizabeth McCoy's claim that she received a call at the airport saying Charlie Kirk had died.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens recounted Elizabeth McCoy\'s claim that she received a call at the airport saying Charlie Kirk had died. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:16:57](/episodes/ep-5m-Wn6Pr5rM.md#t-00-16-48)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-at-the-airport-elizabeth-mccoy-reportedl">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-at-the-airport-elizabeth-mccoy-reportedl.md">At the airport, Elizabeth McCoy reportedly told Erika Kirk that Charlie Kirk had died, after which Erika collapsed and screamed.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: At the airport, Elizabeth McCoy reportedly told Erika Kirk that Charlie Kirk had died, after which Erika collapsed and screamed. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:17:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-24)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-catherine-locastro-reportedly-traveled-w">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-catherine-locastro-reportedly-traveled-w.md">Catherine Locastro reportedly traveled with the team that transported Erika Kirk to the airport and then went to Utah.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Catherine Locastro reportedly traveled with the team that transported Erika Kirk to the airport and then went to Utah. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:18:23](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-09)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-at-the-hospital-mikey-mccoy-reportedly-m">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-at-the-hospital-mikey-mccoy-reportedly-m.md">At the hospital, Mikey McCoy reportedly met the arriving group outside and Elizabeth McCoy went inside with Erika Kirk.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: At the hospital, Mikey McCoy reportedly met the arriving group outside and Elizabeth McCoy went inside with Erika Kirk. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:18:54](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-54)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-after-reaching-the-hospital-catherine-lo">
+<div class="timeline-date">2025-09-10</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2025-09-10-after-reaching-the-hospital-catherine-lo.md">After reaching the hospital, Catherine Locastro reportedly opened the vehicle used to transport Charlie Kirk and was traumatized by seeing blood in...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2025-09-10-after-reaching-the-hospital-catherine-lo.md">After reaching the hospital, Catherine Locastro reportedly opened the vehicle used to transport Charlie Kirk and was traumatized by seeing blood inside.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: After reaching the hospital, Catherine Locastro reportedly opened the vehicle used to transport Charlie Kirk and was traumatized by seeing blood inside. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:19:38](/episodes/ep-5m-Wn6Pr5rM.md#t-00-19-38)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-elizabeth-mccoy-reportedly-left-the-hosp">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-elizabeth-mccoy-reportedly-left-the-hosp.md">Elizabeth McCoy reportedly left the hospital to gather overnight items for the group.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Elizabeth McCoy reportedly left the hospital to gather overnight items for the group. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:19:38](/episodes/ep-5m-Wn6Pr5rM.md#t-00-19-38)
 
 </details>
 </div>
@@ -31688,6 +31907,21 @@ _Total events: 1078_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [OH SNAP! We Were Right About Fort Huachuca. | C... @ 00:25:27](/episodes/ep-X92MllIHDzw.md#t-00-25-17)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-04-candace-owens-posted-that-the-catholic-c">
+<div class="timeline-date">2025-04</div>
+<div class="timeline-desc"><a href="/events/event-2025-04-candace-owens-posted-that-the-catholic-c.md">Candace Owens posted that the Catholic Church was growing worldwide while Protestant denominations were declining.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-04: Candace Owens posted that the Catholic Church was growing worldwide while Protestant denominations were declining. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:42:18](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-04)
 
 </details>
 </div>

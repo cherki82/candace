@@ -32,7 +32,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <div><span>Mentions</span><strong>1,358</strong></div>
 <div><span>Statements by</span><strong>12</strong></div>
 <div><span>Statements about</span><strong>374</strong></div>
-<div><span>Relationships</span><strong>150</strong></div>
+<div><span>Relationships</span><strong>154</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -130,6 +130,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-turning-point-usa-t-00-18-50" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 4 mentions" title="2026-03-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-turning-point-usa-t-00-00-28" style="--pulse-height:29%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 16 mentions" title="2026-03-23 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-turning-point-usa-t-00-02-04" style="--pulse-height:18%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 10 mentions" title="2026-03-24 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-usa-t-00-00-00" style="--pulse-height:22%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 12 mentions" title="2026-03-25 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-turning-point-usa-t-00-37-25" style="--pulse-height:33%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 18 mentions" title="2026-08-14 · 18 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -226,6 +227,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-org-turning-point-usa-t-00-18-50) | 4 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-turning-point-usa-t-00-00-28) | 16 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-turning-point-usa-t-00-02-04) | 10 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-usa-t-00-00-00) | 12 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-turning-point-usa-t-00-37-25) | 18 |
 
 </details>
@@ -292,6 +294,47 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 **[04:00:53](/episodes/ep-nPhCKwJ6ye8.md#ent-org-turning-point-usa-t-04-00-43)**
 > "...that they take a meeting with Turning Point USA and they come out and suddenly have a lot of junk..."
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (12 mentions)</summary>
+
+**[00:00:29](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-usa-t-00-00-00)**
+> "Turning Point USA"
+
+**[00:11:27](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-usa-t-00-11-03)**
+> "...at happened in Arizona at the TPUSA offices."
+
+**[00:11:55](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-usa-t-00-11-49)**
+> "...was, uh, she was certainly at Turning Point USA's offices when the shot rang out. It was 12:23 p.m...."
+
+**[00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-usa-t-00-12-33)**
+> "...rified), who is the lawyer at Turning Point USA—not Frank Turek, not to be confused with Frank Tu..."
+
+**[00:13:39](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-usa-t-00-13-39)**
+> "...very long time employee. be a turning point usa she's i would call her one of the tp usa ogs back..."
+
+**[00:14:34](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-usa-t-00-14-21)**
+> "...an confirm she was not at the Turning Point USA office."
+
+**[00:17:49](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-usa-t-00-17-24)**
+> "...e don't need to nitpick. It's Turning Point USA. You don't need to take anything they say as fact..."
+
+**[00:17:55](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-usa-t-00-17-24)**
+> "It's just another Turning Point USA narrative. Of course, right off the bat, Erika to..."
+
+**[00:18:01](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-usa-t-00-17-24)**
+> "... stories that are the same at Turning Point USA."
+
+**[00:29:54](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-usa-t-00-29-54)**
+> "...e's like sings the opening at Turning Point USA events like that's what she does. I don't see how..."
+
+**[00:33:32](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-usa-t-00-33-27)**
+> "...ut it's possible because it's Turning Point USA."
+
+**[00:13:07](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-usa-t-00-12-33)**
+> "...nk and Justin then run to the Turning Point Action Building. I'm not sure why I don't know wh..."
 
 </details>
 
@@ -4726,47 +4769,6 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (12 mentions)</summary>
-
-**[00:00:29](/episodes/ep-5m-Wn6Pr5rM.md#t-00-00-29)**
-> "Turning Point USA"
-
-**[00:11:27](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-27)**
-> "...at happened in Arizona at the TPUSA offices."
-
-**[00:11:55](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-55)**
-> "...was, uh, she was certainly at Turning Point USA's offices when the shot rang out. It was 12:23 p.m...."
-
-**[00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-47)**
-> "...rified), who is the lawyer at Turning Point USA—not Frank Turek, not to be confused with Frank Tu..."
-
-**[00:13:39](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-39)**
-> "...very long time employee. be a turning point usa she's i would call her one of the tp usa ogs back..."
-
-**[00:14:34](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-34)**
-> "...an confirm she was not at the Turning Point USA office."
-
-**[00:17:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-49)**
-> "...e don't need to nitpick. It's Turning Point USA. You don't need to take anything they say as fact..."
-
-**[00:17:55](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-55)**
-> "It's just another Turning Point USA narrative. Of course, right off the bat, Erika to..."
-
-**[00:18:01](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-01)**
-> "... stories that are the same at Turning Point USA."
-
-**[00:29:54](/episodes/ep-5m-Wn6Pr5rM.md#t-00-29-54)**
-> "...e's like sings the opening at Turning Point USA events like that's what she does. I don't see how..."
-
-**[00:33:32](/episodes/ep-5m-Wn6Pr5rM.md#t-00-33-32)**
-> "...ut it's possible because it's Turning Point USA."
-
-**[00:13:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-07)**
-> "...nk and Justin then run to the Turning Point Action Building. I'm not sure why I don't know wh..."
-
-</details>
-
 </details>
 
 <details open>
@@ -4776,12 +4778,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Accused By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:15:44](/episodes/ep-GY6GWceEqtQ.md#t-00-15-44): “Because Turning Point USA is lying, it is a totally fair and reasonable assessment that they are engaged in a cover-up.”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:19](/episodes/ep-1IY2oD-_xVA.md#t-00-45-19): “somebody who was within turning point usa confirmed to me That money was indeed missing out of Turning Point USA. ... I can back that up 100%, which is why I'm saying it publicly, that there were millions missing out of Turning Point USA, and they were wondering where that money was going.”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:31:55](/episodes/ep-H9p2ZGHAs9A.md#t-00-31-55): “There's got to be money somewhere, right? There's got to be ka-ching, ka-ching somewhere.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:19:19](/episodes/ep-B9TyCs-6o_0.md#t-00-19-00): “I instantly felt they were lying. And now I believe that I have evidence that proves that I was correct and they were indeed lying.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:00:29](/episodes/ep-5m-Wn6Pr5rM.md#t-00-00-00): “somebody at Turning Point USA is lying.”
 
 </details>
 
@@ -4871,7 +4874,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-21-28): “Even Turning Point USA, they're just like, we've accepted, obviously there are holes in this narrative”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:33:17](/episodes/ep-1hcjQGgvxUY.md#t-00-32-42): “they obviously were always panicked and then they issue a dumb statement.”
@@ -4881,6 +4884,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:00:42](/episodes/ep-I0OaY6Gryqk.md#t-00-00-42): “Their chapter in Arkansas just decided to disaffiliate from Turning Point USA entirely, citing the, well, despicable treatment of Charlie (Charlie Kirk)'s legacy.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:13:27](/episodes/ep-B9TyCs-6o_0.md#t-00-13-11): “angry because this made both them and the new CEO and chairman who also happens to be Charlie Kirk's wife look bad. ... Liars hate when they get caught.”
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:02:18](/episodes/ep-SgVcnx4Oh30.md#t-00-02-04): “the Turning Point USA alibis that we have pointed out and when they respond they choose only respond to like the minor details that they can debunk”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:17:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-24): “It's Turning Point USA. You don't need to take anything they say as fact.”
 
 </details>
 
@@ -4894,7 +4898,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Employs (18)</summary>
+<summary>Employs (20)</summary>
 
 - **[Blake Neff](/entities/person-blake-neff.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -5067,6 +5071,20 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 </details>
 
+- **[Frank (TPUSA lawyer; surname unverified)](/entities/anon-src-5m-Wn6Pr5rM-001.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-33): “Frank (TPUSA lawyer; surname unverified), who is the lawyer at Turning Point USA”
+
+</details>
+
+- **[Lauren Toncich](/entities/person-lauren-toncich.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:13:39](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-39): “Lauren Tonczyk. I should know how to say her name. She's a very long time employee. be a turning point usa”
+
+</details>
+
 </details>
 
 <details>
@@ -5112,11 +5130,12 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Formerly Employed (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:06:59](/episodes/ep-his-JBjlkh8.md#t-00-06-47): “I worked for Turning Point USA, and I went on every tour—every tour since 2019”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:55:05](/episodes/ep-Wjul6YV6izo.md#t-00-54-53): “it's the same way that I say like i'm so grateful that i worked for prageru and turning point usa and um Daily Wire”
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:04:23](/episodes/ep-mFuno0TuuQQ.md#t-00-04-02): “on May 1st, the public was informed that I was resigning from my position as the communications director of Turning Point USA.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:13:39](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-39): “back when i was there lauren was there”
 
 </details>
 
@@ -5549,7 +5568,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Referenced By (77)</summary>
+<summary>Referenced By (79)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (27)</summary>
@@ -5620,12 +5639,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:15:44](/episodes/ep-GY6GWceEqtQ.md#t-00-15-44): “Because Turning Point USA is lying, it is a totally fair and reasonable assessment that they are engaged in a cover-up.”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:19](/episodes/ep-1IY2oD-_xVA.md#t-00-45-19): “somebody who was within turning point usa confirmed to me That money was indeed missing out of Turning Point USA. ... I can back that up 100%, which is why I'm saying it publicly, that there were millions missing out of Turning Point USA, and they were wondering where that money was going.”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:31:55](/episodes/ep-H9p2ZGHAs9A.md#t-00-31-55): “There's got to be money somewhere, right? There's got to be ka-ching, ka-ching somewhere.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:19:19](/episodes/ep-B9TyCs-6o_0.md#t-00-19-00): “I instantly felt they were lying. And now I believe that I have evidence that proves that I was correct and they were indeed lying.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:00:29](/episodes/ep-5m-Wn6Pr5rM.md#t-00-00-00): “somebody at Turning Point USA is lying.”
 
 </details>
 
@@ -5733,7 +5753,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-21-28): “Even Turning Point USA, they're just like, we've accepted, obviously there are holes in this narrative”
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:02:29](/episodes/ep-6DhWawD4ZiM.md#t-00-02-09): “The majority of people think Turning Point is acting suspicious”
@@ -5744,6 +5764,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:00:42](/episodes/ep-I0OaY6Gryqk.md#t-00-00-42): “Their chapter in Arkansas just decided to disaffiliate from Turning Point USA entirely, citing the, well, despicable treatment of Charlie (Charlie Kirk)'s legacy.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:13:27](/episodes/ep-B9TyCs-6o_0.md#t-00-13-11): “angry because this made both them and the new CEO and chairman who also happens to be Charlie Kirk's wife look bad. ... Liars hate when they get caught.”
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:02:18](/episodes/ep-SgVcnx4Oh30.md#t-00-02-04): “the Turning Point USA alibis that we have pointed out and when they respond they choose only respond to like the minor details that they can debunk”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:17:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-24): “It's Turning Point USA. You don't need to take anything they say as fact.”
 
 </details>
 
@@ -5801,7 +5822,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:06:59](/episodes/ep-his-JBjlkh8.md#t-00-06-47): “I worked for Turning Point USA, and I went on every tour—every tour since 2019”
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:30:08](/episodes/ep-YA1FxrDWNIo.md#t-00-29-25): “I know how it works because I came from Turning Point USA, okay? I have toured with them every year—with the exception of this year—since I started working for Charlie”
@@ -5809,6 +5830,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:07:47](/episodes/ep-6J6lRZPQ4jk.md#t-00-07-40): “At one time, an employee of Turning Point.”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:55:05](/episodes/ep-Wjul6YV6izo.md#t-00-54-53): “it's the same way that I say like i'm so grateful that i worked for prageru and turning point usa and um Daily Wire”
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:04:23](/episodes/ep-mFuno0TuuQQ.md#t-00-04-02): “on May 1st, the public was informed that I was resigning from my position as the communications director of Turning Point USA.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:13:39](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-39): “back when i was there lauren was there”
 
 </details>
 
@@ -6263,6 +6285,20 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 </details>
 
+- **[Frank (TPUSA lawyer; surname unverified)](/entities/anon-src-5m-Wn6Pr5rM-001.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-33): “Frank (TPUSA lawyer; surname unverified), who is the lawyer at Turning Point USA”
+
+</details>
+
+- **[Lauren Toncich](/entities/person-lauren-toncich.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:13:39](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-39): “Lauren Tonczyk. I should know how to say her name. She's a very long time employee. be a turning point usa”
+
+</details>
+
 </details>
 
 </details>
@@ -6347,6 +6383,17 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - [02:59:13](/episodes/ep-nPhCKwJ6ye8.md#t-02-59-13) (Opinion) **Candace Owens**: ["Candace Owens believes Erika Kirk is underqualified to run Turning Poi..."](/statements/statement-513faa7c49b5.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2)</summary>
+
+- [00:13:32](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-07) (Claim) **Candace Owens**: ["Lauren Toncich drove Elizabeth McCoy from the TPUSA office to the airp..."](/statements/statement-80320f6c867a.md)
+  - Also about: [Lauren Toncich](/entities/person-lauren-toncich.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)
+
+- [00:14:28](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-21) (Claim) **Candace Owens**: ["Stacey Sheridan was not at the TPUSA office and was allegedly home in ..."](/statements/statement-2e1bf770157c.md)
+  - Also about: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md)
 
 </details>
 
@@ -7720,17 +7767,6 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - [00:02:47](/episodes/ep-_dRaEO47-co.md#t-00-02-47) (Claim) **Candace Owens**: ["Charlie Kirk's goal was for Turning Point USA to become the biggest co..."](/statements/statement-92127df532fd.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (2)</summary>
-
-- [00:13:32](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-32) (Claim) **Candace Owens**: ["Lauren Toncich drove Elizabeth McCoy from the TPUSA office to the airp..."](/statements/statement-80320f6c867a.md)
-  - Also about: [Lauren Toncich](/entities/person-lauren-toncich.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)
-
-- [00:14:28](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-28) (Claim) **Candace Owens**: ["Stacey Sheridan was not at the TPUSA office and was allegedly home in ..."](/statements/statement-2e1bf770157c.md)
-  - Also about: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md)
 
 </details>
 

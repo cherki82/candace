@@ -13,7 +13,7 @@ _Type: Organizations_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-timpanogos-regional-hospital-t-00-30-44">2025-09-30 · 00:30:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-timpanogos-regional-hospital-t-00-06-59">2025-12-18 · 00:07:29</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-timpanogos-regional-hospital-t-00-06-54">2026-03-25 · 00:06:54</a></strong></div>
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -32,6 +32,7 @@ _Type: Organizations_
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-timpanogos-regional-hospital-t-00-29-28" style="--pulse-height:100%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-org-timpanogos-regional-hospital-t-00-08-09" style="--pulse-height:33%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-timpanogos-regional-hospital-t-00-06-59" style="--pulse-height:33%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-timpanogos-regional-hospital-t-00-06-54" style="--pulse-height:33%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -43,6 +44,7 @@ _Type: Organizations_
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-org-timpanogos-regional-hospital-t-00-29-28) | 3 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-timpanogos-regional-hospital-t-00-08-09) | 1 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-timpanogos-regional-hospital-t-00-06-59) | 1 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-timpanogos-regional-hospital-t-00-06-54) | 1 |
 
 </details>
 </section>
@@ -51,6 +53,14 @@ _Type: Organizations_
 
 <details>
 <summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
+
+**[00:06:54](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-timpanogos-regional-hospital-t-00-06-54)**
+> "Timpanogos Hospital"
+
+</details>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
@@ -112,14 +122,6 @@ _Type: Organizations_
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
-
-**[00:06:54](/episodes/ep-5m-Wn6Pr5rM.md#t-00-06-54)**
-> "Timpanogos Hospital"
-
-</details>
-
 </details>
 
 <details open>
@@ -176,6 +178,20 @@ _Type: Organizations_
 <summary><strong class="section-title">Statements about Timpanogos Regional Hospital (7)</strong></summary>
 
 <details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (3)</summary>
+
+- [00:05:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-05-47) (Claim) **Frank Turek** (via quoted speech): ["Erika Kirk probably arrived at the hospital around 4 p.m."](/statements/statement-138fff1e852b.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:07:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-07-31) (Claim) **Candace Owens**: ["Even with a police escort, Erika Kirk and the others would have arrive..."](/statements/statement-acf39f460fa9.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Provo Airport](/entities/org-provo-airport.md)
+
+- [00:47:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-12) (Claim) **Candace Owens**: ["Erika Kirk asked whether Joe Kent was my source at the hospital, and I..."](/statements/statement-49ddf25219af.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Joe Kent](/entities/person-joe-kent.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</details>
+
+<details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
 
 - [00:07:37](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) (Claim) **Candace Owens**: ["The vehicle in which Charlie Kirk was transported to Timpanogos Hospit..."](/statements/statement-109d55c23422.md)
@@ -204,20 +220,6 @@ _Type: Organizations_
 
 - [00:30:31](/episodes/ep-YA1FxrDWNIo.md#t-00-30-08) (Claim) **Candace Owens**: ["Charlie Kirk was taken to Timpanogos Regional Hospital, a trauma III c..."](/statements/statement-efc70119a7d4.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Zenger](/entities/person-andrew-zenger.md)
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (3)</summary>
-
-- [00:05:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-05-47) (Claim) **Frank Turek** (via quoted speech): ["Erika Kirk probably arrived at the hospital around 4 p.m."](/statements/statement-138fff1e852b.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
-
-- [00:07:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-07-31) (Claim) **Candace Owens**: ["Even with a police escort, Erika Kirk and the others would have arrive..."](/statements/statement-acf39f460fa9.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Provo Airport](/entities/org-provo-airport.md)
-
-- [00:47:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-12) (Claim) **Candace Owens**: ["Erika Kirk asked whether Joe Kent was my source at the hospital, and I..."](/statements/statement-49ddf25219af.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Joe Kent](/entities/person-joe-kent.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 </details>
 

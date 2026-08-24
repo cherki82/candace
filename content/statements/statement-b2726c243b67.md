@@ -4,9 +4,10 @@ description: "\"Within hours of Charlie Kirk's assassination, Candace Owens publ
 statement_id: "statement-b2726c243b67"
 speaker: "Alexis Wilkins"
 type: "accusation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -29,7 +30,7 @@ type: "accusation"
 
 ## Source
 
-**Episode:** [5m-Wn6Pr5rM](/episodes/ep-5m-Wn6Pr5rM.md)
+**Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2089);return false;">Play</a>
 
@@ -37,7 +38,22 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The archived Wilkins thread contains this accusation, so the quoted-tweet attribution is authentic. The underlying timeline is contradicted by contemporaneous coverage: Owens Israel-related claims appeared days later, not within hours, and the reviewed early material did not attribute the killing to Israel.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Alexis Wilkins Threads - Thread Reader App](https://threadreaderapp.com/user/AlexisWilkins)
+- [Candace Owens Israel allegations derail MAGA unity over Charlie Kirk](https://www.axios.com/2025/09/17/charlie-kirk-israel-candace-owens-ackman)
+- [They Are Lying About Charlie Kirk - Candace Episode 235 Transcript](https://fight.fudgie.org/search/show/co/episode/20250915_Mon_v6wt2ua)
+
+*Verified: 2026-08-24T09:59:40.729251*
 
 ---
 

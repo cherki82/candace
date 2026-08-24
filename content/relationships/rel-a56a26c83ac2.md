@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Erika Kirk](/entities/person-erika-kirk) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (20 mentions)
+### Evidence (21 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -24,6 +24,10 @@ object: "person-candace-owens"
 **[Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY)**
 
 - [00:43:35](/episodes/ep-2tFYJf1klgY#t-00-43-35): _Candace Owens aggressively ridicules Erica (Erika Kirk) for using the phrase Shabbat Shalom_
+
+**[Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM)**
+
+- [00:11:03](/episodes/ep-5m-Wn6Pr5rM#t-00-11-03): _She allows Andrew to look like a fool and like he's a liar, but in reality, it's Erika that's lying._
 
 **[UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM)**
 

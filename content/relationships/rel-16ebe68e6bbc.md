@@ -11,7 +11,11 @@ object: "person-kash-patel"
 
 ## [FBI](/entities/org-fbi) has director [Kash Patel](/entities/person-kash-patel)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM)**
+
+- [00:32:05](/episodes/ep-5m-Wn6Pr5rM#t-00-32-05): _She's literally dating the FBI director_
 
 **[TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI)**
 

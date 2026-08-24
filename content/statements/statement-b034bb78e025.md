@@ -27,8 +27,8 @@ type: "factual_claim"
 
 ## Source
 
-**Episode:** [5m-Wn6Pr5rM](/episodes/ep-5m-Wn6Pr5rM.md)
-**Timestamp:** [00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-47) 
+**Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
+**Timestamp:** [00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-33) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(767);return false;">Play</a>
 
 > Elizabeth, after she gets that call, sprints into the office of Frank (TPUSA lawyer; surname unverified), who is the lawyer at Turning Point USA—not Frank Turek, not to be confused with Frank Turek—where she discovers Justin Streiff, who was in the office at that time, and alerts them to what has happened. Frank and Justin then run to the Turning Point Action Building.

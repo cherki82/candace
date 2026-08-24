@@ -26,8 +26,8 @@ type: "opinion"
 
 ## Source
 
-**Episode:** [5m-Wn6Pr5rM](/episodes/ep-5m-Wn6Pr5rM.md)
-**Timestamp:** [00:43:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-36) 
+**Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
+**Timestamp:** [00:43:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-22) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2616);return false;">Play</a>
 
 > I think it's great for Catholics and but we are fully under attack there's no question about it and that thread and having the FBI's girlfriend do that really shows you

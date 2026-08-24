@@ -18,7 +18,7 @@ Source: [Israel-US Attack on Iran: Daily Status Update - March 19, 2026](https:/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-yair-netanyahu-t-00-49-45">2026-03-17 · 00:50:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-yair-netanyahu-t-00-49-45">2026-03-17 · 00:50:04</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#t-00-39-50">2026-03-25 · 00:39:50</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -32,12 +32,14 @@ Source: [Israel-US Attack on Iran: Daily Status Update - March 19, 2026](https:/
 <p>Highest activity: <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-yair-netanyahu-t-00-49-45">HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-yair-netanyahu-t-00-49-45" style="--pulse-height:100%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#t-00-39-50" style="--pulse-height:100%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-yair-netanyahu-t-00-49-45) | 1 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#t-00-39-50) | 1 |
 
 </details>
 </section>
@@ -48,18 +50,18 @@ Source: [Israel-US Attack on Iran: Daily Status Update - March 19, 2026](https:/
 <summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 <details>
-<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
 
-**[00:50:04](/episodes/ep-I0OaY6Gryqk.md#ent-person-yair-netanyahu-t-00-49-45)**
-> "his son, Yair Netanyahu"
+**[00:39:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-39-50)**
+> "Yair"
 
 </details>
 
 <details>
-<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>
 
-**[00:39:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-39-50)**
-> "Yair"
+**[00:50:04](/episodes/ep-I0OaY6Gryqk.md#ent-person-yair-netanyahu-t-00-49-45)**
+> "his son, Yair Netanyahu"
 
 </details>
 
@@ -72,9 +74,10 @@ Source: [Israel-US Attack on Iran: Daily Status Update - March 19, 2026](https:/
 <summary>Child Of (1)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:50:04](/episodes/ep-I0OaY6Gryqk.md#t-00-49-45): “They sent somebody else in his place. I think Israel Katz ran it. Then somebody noted that his son, Yair Netanyahu, who normally tweets or retweets about 30 times a day, like he's constantly retweeting, he went completely radio silent for seven days.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:39:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-39-50): “Bibi Netanyahu's son Yair”
 
 </details>
 
@@ -84,9 +87,10 @@ Source: [Israel-US Attack on Iran: Daily Status Update - March 19, 2026](https:/
 <summary>Referenced By (1)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** parent of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:50:04](/episodes/ep-I0OaY6Gryqk.md#t-00-49-45): “They sent somebody else in his place. I think Israel Katz ran it. Then somebody noted that his son, Yair Netanyahu, who normally tweets or retweets about 30 times a day, like he's constantly retweeting, he went completely radio silent for seven days.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:39:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-39-50): “Bibi Netanyahu's son Yair”
 
 </details>
 

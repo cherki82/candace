@@ -11,7 +11,11 @@ object: "person-andrew-kolvet"
 
 ## [Erika Kirk](/entities/person-erika-kirk) met with [Andrew Kolvet](/entities/person-andrew-kolvet)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM)**
+
+- [00:08:52](/episodes/ep-5m-Wn6Pr5rM#t-00-08-52): _he described that he and Erika hugged on the tarmac._
 
 **[Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno)**
 

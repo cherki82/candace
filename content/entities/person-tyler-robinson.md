@@ -86,6 +86,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-tyler-robinson-t-00-46-48" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-tyler-robinson-t-00-02-42" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-tyler-robinson-t-00-02-04" style="--pulse-height:9%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 9 mentions" title="2026-03-24 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tyler-robinson-t-00-27-40" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-00-24-41" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 103 mentions" title="2026-08-14 · 103 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -142,6 +143,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-tyler-robinson-t-00-46-48) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-tyler-robinson-t-00-02-42) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-tyler-robinson-t-00-02-04) | 9 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tyler-robinson-t-00-27-40) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-00-24-41) | 103 |
 
 </details>
@@ -463,6 +465,14 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 **[04:01:26](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-04-01-26)**
 > "...more people involved and that Tyler Robinson has been set up and that none of the evidence tha..."
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
+
+**[00:27:40](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tyler-robinson-t-00-27-40)**
+> "Tyler Robinson"
 
 </details>
 
@@ -1535,14 +1545,6 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
-
-**[00:27:40](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-40)**
-> "Tyler Robinson"
-
-</details>
-
 </details>
 
 <details open>
@@ -1763,6 +1765,14 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 - [04:01:26](/episodes/ep-nPhCKwJ6ye8.md#t-04-01-26) (Accusation) **Candace Owens**: ["Candace Owens still believes there is more evidence that multiple peop..."](/statements/statement-4735330c37c9.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1)</summary>
+
+- [00:27:42](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-42) (Claim) **Joe Rogan** (via quoted speech): ["Tyler Robinson has not been seen speaking independently about whether ..."](/statements/statement-f14e18b3a714.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -2187,14 +2197,6 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 - [00:51:05](/episodes/ep-czVBmqZP6Ss.md#t-00-50-22) (Claim) **Spencer Cox** (via quoted speech): ["Tyler Robinson has not confessed to authorities. He is not cooperating"](/statements/statement-14dff9533569.md)
 
 - [00:54:24](/episodes/ep-czVBmqZP6Ss.md#t-00-54-20) (Claim) **Candace Owens** (via quoted document): ["Discord says there is no evidence that the suspect planned this incide..."](/statements/statement-6fbddf863af1.md)
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (1)</summary>
-
-- [00:27:42](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-42) (Claim) **Joe Rogan** (via quoted speech): ["Tyler Robinson has not been seen speaking independently about whether ..."](/statements/statement-f14e18b3a714.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

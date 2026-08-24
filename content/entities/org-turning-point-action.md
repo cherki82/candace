@@ -22,7 +22,7 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-org-turning-point-action-t-00-23-46">2025-10-06 · 00:24:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-turning-point-action-t-00-42-56">2026-03-12 · 00:42:56</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-action-t-00-13-07">2026-03-25 · 00:13:07</a></strong></div>
 <div><span>Episodes</span><strong>15</strong></div>
 <div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -49,6 +49,7 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-turning-point-action-t-00-00-01" style="--pulse-height:43%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 3 mentions" title="2026-02-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-turning-point-action-t-00-16-51" style="--pulse-height:29%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-turning-point-action-t-00-42-56" style="--pulse-height:14%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-action-t-00-13-07" style="--pulse-height:14%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +69,7 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-turning-point-action-t-00-00-01) | 3 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-turning-point-action-t-00-16-51) | 2 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-turning-point-action-t-00-42-56) | 1 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-action-t-00-13-07) | 1 |
 
 </details>
 </section>
@@ -76,6 +78,14 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 
 <details>
 <summary><strong class="section-title">Raw mentions (26)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
+
+**[00:13:07](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-action-t-00-13-07)**
+> "Turning Point Action"
+
+</details>
 
 <details>
 <summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>
@@ -222,14 +232,6 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
-
-**[00:13:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-07)**
-> "Turning Point Action"
-
-</details>
-
 </details>
 
 <details open>
@@ -362,6 +364,14 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <summary><strong class="section-title">Statements about Turning Point Action (15)</strong></summary>
 
 <details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1)</summary>
+
+- [00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-33) (Claim) **Candace Owens**: ["After the call, Elizabeth McCoy ran into the office of Frank, a TPUSA ..."](/statements/statement-b034bb78e025.md)
+  - Also about: [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Frank (TPUSA lawyer; surname unverified)](/entities/anon-src-5m-Wn6Pr5rM-001.md), [Justin Streiff](/entities/person-justin-streiff.md)
+
+</details>
+
+<details>
 <summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (2)</summary>
 
 - [00:42:56](/episodes/ep-5-HUyv9LyMg.md#t-00-42-56) (Accusation) **Candace Owens**: ["Turning Point Action, which is run by Tyler Bowyer, sends money back t..."](/statements/statement-f8cc12a702c2.md)
@@ -434,14 +444,6 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 
 - [00:50:28](/episodes/ep-zSKrxIUMNqw.md#t-00-50-17) (Accusation) **Anonymous Source #5 (Ep zSKrxIUMNqw)** (via paraphrase): ["A Turning Point USA insider alleged that substantial funds were missin..."](/statements/statement-a5d9ef0a6156.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (1)</summary>
-
-- [00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-47) (Claim) **Candace Owens**: ["After the call, Elizabeth McCoy ran into the office of Frank, a TPUSA ..."](/statements/statement-b034bb78e025.md)
-  - Also about: [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Frank (TPUSA lawyer; surname unverified)](/entities/anon-src-5m-Wn6Pr5rM-001.md), [Justin Streiff](/entities/person-justin-streiff.md)
 
 </details>
 

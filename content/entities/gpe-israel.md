@@ -120,6 +120,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-israel-t-00-20-15" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 2 mentions" title="2026-03-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-israel-t-00-02-11" style="--pulse-height:21%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 12 mentions" title="2026-03-23 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-israel-t-00-50-02" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 3 mentions" title="2026-03-24 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-israel-t-00-34-49" style="--pulse-height:9%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 5 mentions" title="2026-03-25 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12" style="--pulse-height:68%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 39 mentions" title="2026-08-14 · 39 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -208,6 +209,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-israel-t-00-20-15) | 2 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-israel-t-00-02-11) | 12 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-israel-t-00-50-02) | 3 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-israel-t-00-34-49) | 5 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12) | 39 |
 
 </details>
@@ -341,6 +343,26 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[02:25:09](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-25-09)**
 > "So it. He then loved other Israel."
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (5 mentions)</summary>
+
+**[00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-israel-t-00-34-49)**
+> "Israel"
+
+**[00:48:35](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-israel-t-00-48-35)**
+> "...g crew neck. So just say that Israel is our greatest ally."
+
+**[00:48:43](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-israel-t-00-48-35)**
+> "...great, right? Please just say Israel is our greatest ally because Mossad is listening ..."
+
+**[00:48:50](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-israel-t-00-48-35)**
+> "...e have also our not dying for Israel shirts, patriotic shirt, just not dying for Israe..."
+
+**[00:48:57](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-israel-t-00-48-35)**
+> "I'm not dying for Israel. There we go. Also reminding you that we now have..."
 
 </details>
 
@@ -3859,26 +3881,6 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (5 mentions)</summary>
-
-**[00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49)**
-> "Israel"
-
-**[00:48:35](/episodes/ep-5m-Wn6Pr5rM.md#t-00-48-35)**
-> "...g crew neck. So just say that Israel is our greatest ally."
-
-**[00:48:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-48-43)**
-> "...great, right? Please just say Israel is our greatest ally because Mossad is listening ..."
-
-**[00:48:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-48-50)**
-> "...e have also our not dying for Israel shirts, patriotic shirt, just not dying for Israe..."
-
-**[00:48:57](/episodes/ep-5m-Wn6Pr5rM.md#t-00-48-57)**
-> "I'm not dying for Israel. There we go. Also reminding you that we now have..."
-
-</details>
-
 </details>
 
 <details open>
@@ -4188,6 +4190,17 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [02:37:26](/episodes/ep-nPhCKwJ6ye8.md#t-02-37-26) (Prediction) **Candace Owens**: ["Candace Owens predicts that Israel will ultimately be found to have be..."](/statements/statement-d5c74ed071c8.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2)</summary>
+
+- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) (Accusation) **Alexis Wilkins** (via quoted tweet): ["Within hours of Charlie Kirk's assassination, Candace Owens publicly a..."](/statements/statement-b2726c243b67.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) (Claim) **Candace Owens**: ["I did not name Erika Kirk or attribute Charlie Kirk's killing to Israe..."](/statements/statement-e1617f27d099.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -4910,17 +4923,6 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [00:19:30](/episodes/ep-_dRaEO47-co.md#t-00-18-47) (Claim) **Candace Owens**: ["Candace and Charlie Kirk never stopped being friends despite public di..."](/statements/statement-b78e5146c5e6.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (2)</summary>
-
-- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) (Accusation) **Alexis Wilkins** (via quoted tweet): ["Within hours of Charlie Kirk's assassination, Candace Owens publicly a..."](/statements/statement-b2726c243b67.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
-
-- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) (Claim) **Candace Owens**: ["I did not name Erika Kirk or attribute Charlie Kirk's killing to Israe..."](/statements/statement-e1617f27d099.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

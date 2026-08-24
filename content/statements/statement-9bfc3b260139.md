@@ -34,10 +34,10 @@ type: "factual_claim"
 
 > Mikey (Mikey McCoy) called me within seconds. The reality is Mikey (Mikey McCoy) called Elizabeth (Elizabeth McCoy) first. For some reason, she was completely rinsed out of the story Elizabeth McCoy. And then they conference called Erika (Erika Kirk) over three minutes later.
 
-### 2. 5m-Wn6Pr5rM
+### 2. Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | ...
 
-**Episode:** [5m-Wn6Pr5rM](/episodes/ep-5m-Wn6Pr5rM.md)
-**Timestamp:** [00:11:55](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-55) 
+**Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
+**Timestamp:** [00:11:55](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-49) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(715);return false;">Play</a>
 
 > As we now know, even though this was something they all kind of hid—nobody knows why—she was actually the first person that was called. ... He rang her first and then they conferenced in Erika thereafter.

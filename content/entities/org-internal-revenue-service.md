@@ -22,7 +22,7 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-internal-revenue-service-t-01-06-07">2025-09-16 · 01:06:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-internal-revenue-service-t-00-55-48">2026-03-17 · 00:55:48</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-internal-revenue-service-t-00-44-44">2026-03-25 · 00:45:06</a></strong></div>
 <div><span>Episodes</span><strong>27</strong></div>
 <div><span>Mentions</span><strong>91</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -61,6 +61,7 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-internal-revenue-service-t-00-48-11" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 3 mentions" title="2026-03-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-internal-revenue-service-t-00-52-54" style="--pulse-height:50%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 3 mentions" title="2026-03-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-internal-revenue-service-t-00-54-32" style="--pulse-height:50%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-internal-revenue-service-t-00-44-03" style="--pulse-height:50%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 3 mentions" title="2026-03-25 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -92,6 +93,7 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-internal-revenue-service-t-00-48-11) | 3 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-internal-revenue-service-t-00-52-54) | 3 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-internal-revenue-service-t-00-54-32) | 3 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-internal-revenue-service-t-00-44-03) | 3 |
 
 </details>
 </section>
@@ -100,6 +102,20 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 
 <details>
 <summary><strong class="section-title">Raw mentions (91)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (3 mentions)</summary>
+
+**[00:44:19](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-internal-revenue-service-t-00-44-03)**
+> "IRS"
+
+**[00:44:52](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-internal-revenue-service-t-00-44-44)**
+> "...e investigative call with the IRS."
+
+**[00:45:06](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-internal-revenue-service-t-00-44-44)**
+> "So don't wait for another IRS letter or a frozen bank account. Call 866-686-165..."
+
+</details>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (3 mentions)</summary>
@@ -489,20 +505,6 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 
 **[01:06:56](/episodes/ep-q7f8r-THr84.md#ent-org-internal-revenue-service-t-01-06-49)**
 > "Don't wait for the next IRS letter."
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (3 mentions)</summary>
-
-**[00:44:19](/episodes/ep-5m-Wn6Pr5rM.md#t-00-44-19)**
-> "IRS"
-
-**[00:44:52](/episodes/ep-5m-Wn6Pr5rM.md#t-00-44-52)**
-> "...e investigative call with the IRS."
-
-**[00:45:06](/episodes/ep-5m-Wn6Pr5rM.md#t-00-45-06)**
-> "So don't wait for another IRS letter or a frozen bank account. Call 866-686-165..."
 
 </details>
 

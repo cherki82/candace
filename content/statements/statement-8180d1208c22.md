@@ -4,9 +4,10 @@ description: "\"The Catholic Church does not demand that the faithful be committ
 statement_id: "statement-8180d1208c22"
 speaker: "The Daily Wire"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -28,15 +29,28 @@ type: "factual_claim"
 
 ## Source
 
-**Episode:** [5m-Wn6Pr5rM](/episodes/ep-5m-Wn6Pr5rM.md)
-**Timestamp:** [00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-33) 
+**Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
+**Timestamp:** [00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-25) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2493);return false;">Play</a>
 
 > Yeah, unlike many branches of Christianity, this is in the article, the Catholic Church does not demand that the faithful be committed Zionists to receive God's blessing.
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The cited Daily Wire article exists and contains the quoted sentence that the Catholic Church does not demand Zionism as a condition for divine blessing. This verifies the citation and wording; the sentence itself is the authors theological characterization.
+
+**Confidence:** High
+
+**Sources:**
+
+- [The Catholic Convert Boom Is Real But A Troubling Pattern Is Emerging](https://www.dailywire.com/news/the-catholic-convert-boom-is-real-but-a-troubling-pattern-is-emerging)
+
+*Verified: 2026-08-24T09:59:41.429049*
 
 ---
 

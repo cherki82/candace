@@ -11,7 +11,7 @@ date: "2025-12-15"
 
 > Candace Owens and Erika Kirk meeting
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
 
@@ -28,3 +28,11 @@ date: "2025-12-15"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3346);return false;">▶️ Play</a>
 
 > since I met with Erika on December 15th, found all of this evidence
+
+### 3. Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | ...
+
+**Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
+**Timestamp:** [00:35:06](/episodes/ep-5m-Wn6Pr5rM.md#event-event-2025-12-15-candace-owens-and-erika-kirk-meeting-t-00-34-49) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2106);return false;">▶️ Play</a>
+
+> Didn't start covering Erika until Erika lied to my face in December, but that doesn't matter.

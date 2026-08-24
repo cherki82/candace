@@ -18,7 +18,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-elizabeth-mccoy-t-00-42-01">2025-11-05 · 00:42:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-elizabeth-mccoy-t-00-09-57">2026-03-24 · 00:10:13</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-elizabeth-mccoy-t-00-16-48">2026-03-25 · 00:16:48</a></strong></div>
 <div><span>Episodes</span><strong>14</strong></div>
 <div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -44,6 +44,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-ZzAT2xijKGQ.md#t-00-13-26" style="--pulse-height:25%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-elizabeth-mccoy-t-00-23-50" style="--pulse-height:25%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-elizabeth-mccoy-t-00-09-57" style="--pulse-height:25%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-elizabeth-mccoy-t-00-16-48" style="--pulse-height:50%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +63,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#t-00-13-26) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-elizabeth-mccoy-t-00-23-50) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-elizabeth-mccoy-t-00-09-57) | 1 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-elizabeth-mccoy-t-00-16-48) | 2 |
 
 </details>
 </section>
@@ -70,6 +72,17 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 <details>
 <summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2 mentions)</summary>
+
+**[00:11:39](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-elizabeth-mccoy-t-00-16-48)**
+> "Elizabeth Krabchuk"
+
+**[00:16:48](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-elizabeth-mccoy-t-00-16-48)**
+> "...at happens next, according to Elizabeth McCoy's alleged narrative, is that she then receives a ph..."
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>
@@ -196,17 +209,6 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (2 mentions)</summary>
-
-**[00:11:39](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-39)**
-> "Elizabeth Krabchuk"
-
-**[00:16:48](/episodes/ep-5m-Wn6Pr5rM.md#t-00-16-48)**
-> "...at happens next, according to Elizabeth McCoy's alleged narrative, is that she then receives a ph..."
-
-</details>
-
 </details>
 
 <details open>
@@ -229,10 +231,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Married To (1)</summary>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:11:46](/episodes/ep-OEAHy3SsIiI.md#t-00-11-36): “potentially more amazing than her husband Michael McCoy.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:14:00](/episodes/ep-ZzAT2xijKGQ.md#t-00-13-26): “they believe Andrew (Andrew Kolvet) was accompanied by Mikey McCoy (Michael McCoy) and his wife Elizabeth.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:12:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-33): “Mikey McCoy, her husband”
 
 </details>
 
@@ -276,6 +279,20 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary><strong class="section-title">Statements about Elizabeth McCoy (10)</strong></summary>
 
 <details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (3)</summary>
+
+- [00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-33) (Claim) **Candace Owens**: ["After the call, Elizabeth McCoy ran into the office of Frank, a TPUSA ..."](/statements/statement-b034bb78e025.md)
+  - Also about: [Frank (TPUSA lawyer; surname unverified)](/entities/anon-src-5m-Wn6Pr5rM-001.md), [Justin Streiff](/entities/person-justin-streiff.md), [Turning Point Action](/entities/org-turning-point-action.md)
+
+- [00:13:32](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-07) (Claim) **Candace Owens**: ["Lauren Toncich drove Elizabeth McCoy from the TPUSA office to the airp..."](/statements/statement-80320f6c867a.md)
+  - Also about: [Lauren Toncich](/entities/person-lauren-toncich.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:17:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-24) (Claim) **Candace Owens** (via paraphrase): ["According to Elizabeth McCoy's alleged narrative, Elizabeth told Erika..."](/statements/statement-b787aa6e71ce.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Fixed-base operator](/entities/concept-fixed-base-operator.md)
+
+</details>
+
+<details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (2)</summary>
 
 - [00:24:27](/episodes/ep-DYD_QHMPwqM.md#t-00-23-56) (Claim) **Candace Owens**: ["Mikey McCoy called Elizabeth McCoy first and conference-called Erika K..."](/statements/statement-9bfc3b260139.md)
@@ -313,20 +330,6 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 - [00:27:10](/episodes/ep-es7PWdFGoFI.md#t-00-26-38) (Claim) **Candace Owens**: ["Mikey McCoy's first call after the shooting was to his wife Elizabeth ..."](/statements/statement-1d5f2448e360.md)
   - Also about: [Michael McCoy](/entities/person-michael-mccoy.md)
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (3)</summary>
-
-- [00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-47) (Claim) **Candace Owens**: ["After the call, Elizabeth McCoy ran into the office of Frank, a TPUSA ..."](/statements/statement-b034bb78e025.md)
-  - Also about: [Frank (TPUSA lawyer; surname unverified)](/entities/anon-src-5m-Wn6Pr5rM-001.md), [Justin Streiff](/entities/person-justin-streiff.md), [Turning Point Action](/entities/org-turning-point-action.md)
-
-- [00:13:32](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-32) (Claim) **Candace Owens**: ["Lauren Toncich drove Elizabeth McCoy from the TPUSA office to the airp..."](/statements/statement-80320f6c867a.md)
-  - Also about: [Lauren Toncich](/entities/person-lauren-toncich.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [00:17:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-24) (Claim) **Candace Owens** (via paraphrase): ["According to Elizabeth McCoy's alleged narrative, Elizabeth told Erika..."](/statements/statement-b787aa6e71ce.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Fixed-base operator](/entities/concept-fixed-base-operator.md)
 
 </details>
 

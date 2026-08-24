@@ -24,12 +24,12 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-kash-patel-t-00-08-42">2025-09-17 · 00:09:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-kash-patel-t-00-55-07">2026-03-24 · 00:55:07</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-kash-patel-t-00-50-29">2026-03-25 · 00:51:07</a></strong></div>
 <div><span>Episodes</span><strong>43</strong></div>
 <div><span>Mentions</span><strong>160</strong></div>
 <div><span>Statements by</span><strong>9</strong></div>
 <div><span>Statements about</span><strong>27</strong></div>
-<div><span>Relationships</span><strong>31</strong></div>
+<div><span>Relationships</span><strong>33</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -79,6 +79,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-kash-patel-t-00-28-52" style="--pulse-height:23%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-kash-patel-t-00-03-52" style="--pulse-height:15%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-kash-patel-t-00-33-24" style="--pulse-height:23%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 3 mentions" title="2026-03-24 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-kash-patel-t-00-00-41" style="--pulse-height:85%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 11 mentions" title="2026-03-25 · 11 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -126,6 +127,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-kash-patel-t-00-28-52) | 3 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-kash-patel-t-00-03-52) | 2 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-kash-patel-t-00-33-24) | 3 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-kash-patel-t-00-00-41) | 11 |
 
 </details>
 </section>
@@ -134,6 +136,44 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 
 <details>
 <summary><strong class="section-title">Raw mentions (160)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (11 mentions)</summary>
+
+**[00:00:58](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-kash-patel-t-00-00-41)**
+> "Kash Patel"
+
+**[00:28:01](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-kash-patel-t-00-28-01)**
+> "... am just going to see this as Kash Patel's revenge."
+
+**[00:28:15](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-kash-patel-t-00-28-01)**
+> "I think when Kash Patel went in to the FBI, there was kind of this ideal ..."
+
+**[00:31:10](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-kash-patel-t-00-31-10)**
+> "...th the purpose of taking down Kash Patel."
+
+**[00:35:16](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-kash-patel-t-00-34-49)**
+> "... that doesn't matter. This is Kash Patel's girlfriend."
+
+**[00:35:35](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-kash-patel-t-00-35-29)**
+> "...id that he was standing up to cash patel So but she's now woven this all together because ..."
+
+**[00:39:26](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-kash-patel-t-00-35-29)**
+> "...at we're saying what you what Kash says about the Charlie investigation and they don..."
+
+**[00:46:37](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-kash-patel-t-00-35-29)**
+> "... telling you, we are watching Kash's revenge. He's angry. It's so obvious that he's ..."
+
+**[00:47:30](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-kash-patel-t-00-35-29)**
+> "...as um and I know that him and Kash are clashing or whatever it is but she mentioned ..."
+
+**[00:50:54](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-kash-patel-t-00-50-29)**
+> "...ce he was exactly who brought Kash Patel into the Patriot movement through the ReAwaken Am..."
+
+**[00:51:07](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-kash-patel-t-00-50-29)**
+> "... really follow. It seems like Kash Patel is a lot of people."
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (3 mentions)</summary>
@@ -792,44 +832,6 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (11 mentions)</summary>
-
-**[00:00:58](/episodes/ep-5m-Wn6Pr5rM.md#t-00-00-58)**
-> "Kash Patel"
-
-**[00:28:01](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-01)**
-> "... am just going to see this as Kash Patel's revenge."
-
-**[00:28:15](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-15)**
-> "I think when Kash Patel went in to the FBI, there was kind of this ideal ..."
-
-**[00:31:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-10)**
-> "...th the purpose of taking down Kash Patel."
-
-**[00:35:16](/episodes/ep-5m-Wn6Pr5rM.md#t-00-35-16)**
-> "... that doesn't matter. This is Kash Patel's girlfriend."
-
-**[00:35:35](/episodes/ep-5m-Wn6Pr5rM.md#t-00-35-35)**
-> "...id that he was standing up to cash patel So but she's now woven this all together because ..."
-
-**[00:39:26](/episodes/ep-5m-Wn6Pr5rM.md#t-00-39-26)**
-> "...at we're saying what you what Kash says about the Charlie investigation and they don..."
-
-**[00:46:37](/episodes/ep-5m-Wn6Pr5rM.md#t-00-46-37)**
-> "... telling you, we are watching Kash's revenge. He's angry. It's so obvious that he's ..."
-
-**[00:47:30](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-30)**
-> "...as um and I know that him and Kash are clashing or whatever it is but she mentioned ..."
-
-**[00:50:54](/episodes/ep-5m-Wn6Pr5rM.md#t-00-50-54)**
-> "...ce he was exactly who brought Kash Patel into the Patriot movement through the ReAwaken Am..."
-
-**[00:51:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-51-07)**
-> "... really follow. It seems like Kash Patel is a lot of people."
-
-</details>
-
 </details>
 
 <details open>
@@ -888,12 +890,25 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 <details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:28:15](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-01): “when Kash Patel went in to the FBI, there was kind of this ideal he was going to write the wrongs and make sure that he took down the deep state and then he just bumbled every plausible.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Dating (1)</summary>
 
 - **[Alexis Wilkins](/entities/person-alexis-wilkins.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Myron Gaines x Candace Owens @ 01:04:28](/episodes/ep-2T39-oADLj0.md#t-01-04-28): “I think that's way more important is trusting Alexis Wilkins is a sensational singer and to people. uh okay Be careful. i don't She might sue you. want to talk about like the feds right now like they're doing what they have to the more important thing is that this sensational country singer is left alone we are just not a serious nation i mean i think if putin's fbi director or put that out he would just putin would just quietly have him assassinated or something i don't know uh but we are just not a serious nation that is just they are tweeting like girls on tiktok talk right now and it's embarrassing it is so embarrassing he should have been forced to resign trump should have made him resign for embarrassing us because uh there's no way putin's not laughing with his homies right now about that tweet my girlfriend my life partner we are”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:32:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31): “She's literally dating the FBI director”
 
 </details>
 
@@ -903,9 +918,10 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <summary>Director Of (2)</summary>
 
 - **[FBI](/entities/org-fbi.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:08:06](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “she praises the FBI director, Kash Patel”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:32:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31): “She's literally dating the FBI director”
 
 </details>
 
@@ -1010,7 +1026,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 <details>
-<summary>Referenced By (15)</summary>
+<summary>Referenced By (16)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1025,6 +1041,13 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:05:17](/episodes/ep-adJ4LNGp84I.md#t-00-05-01): “Kash Patel... cleaned house at the State Bureau. He then installs a person that has a long tenure in DC, Robert Bowles.”
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:32:20](/episodes/ep-YA1FxrDWNIo.md#t-00-32-13): “replaced her with Robert Bowles”
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:32](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “Kash Patel... fired... the chief of the Utah bureau... and replaced her with Robert Bowles”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:28:15](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-01): “when Kash Patel went in to the FBI, there was kind of this ideal he was going to write the wrongs and make sure that he took down the deep state and then he just bumbled every plausible.”
 
 </details>
 
@@ -1064,9 +1087,10 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 - **[FBI](/entities/org-fbi.md)** has director this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:08:06](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “she praises the FBI director, Kash Patel”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:32:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31): “She's literally dating the FBI director”
 
 </details>
 
@@ -1179,6 +1203,16 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 
 <details open>
 <summary><strong class="section-title">Statements about Kash Patel (27)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2)</summary>
+
+- [00:29:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-29-10) (Accusation) **Candace Owens**: ["Kash Patel used an FBI plane to fly to see Alexis Wilkins and sent a p..."](/statements/statement-201c56acbf00.md)
+  - Also about: [Alexis Wilkins](/entities/person-alexis-wilkins.md), [FBI](/entities/org-fbi.md)
+
+- [00:46:37](/episodes/ep-5m-Wn6Pr5rM.md#t-00-46-05) (Opinion) **Candace Owens**: ["We are watching Kash Patel's revenge; he is angry."](/statements/statement-9d70db4a8703.md)
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1)</summary>
@@ -1330,16 +1364,6 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 
 - [00:17:31](/episodes/ep-ja26iltROkM.md#t-00-17-09) (Claim) **Candace Owens**: ["Derek Maxfield said they got permission from air traffic control to tu..."](/statements/statement-228561451b18.md)
   - Also about: [Derek Maxfield](/entities/person-derek-maxfield.md)
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (2)</summary>
-
-- [00:29:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-29-10) (Accusation) **Candace Owens**: ["Kash Patel used an FBI plane to fly to see Alexis Wilkins and sent a p..."](/statements/statement-201c56acbf00.md)
-  - Also about: [Alexis Wilkins](/entities/person-alexis-wilkins.md), [FBI](/entities/org-fbi.md)
-
-- [00:46:37](/episodes/ep-5m-Wn6Pr5rM.md#t-00-46-37) (Opinion) **Candace Owens**: ["We are watching Kash Patel's revenge; he is angry."](/statements/statement-9d70db4a8703.md)
 
 </details>
 

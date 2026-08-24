@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (8 mentions)
+### Evidence (9 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -24,6 +24,10 @@ object: "person-candace-owens"
 **[Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY)**
 
 - [00:51:29](/episodes/ep-2tFYJf1klgY#t-00-51-29): _that's why it was lol hilarious when Turning Point PR tried to push out this narrative_
+
+**[Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM)**
+
+- [00:17:49](/episodes/ep-5m-Wn6Pr5rM#t-00-17-49): _It's Turning Point USA. You don't need to take anything they say as fact._
 
 **[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
 

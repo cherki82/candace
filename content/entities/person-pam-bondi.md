@@ -22,7 +22,7 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-pam-bondi-t-00-34-12">2025-09-19 · 00:34:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-pam-bondi-t-00-06-20">2026-03-12 · 00:06:29</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-pam-bondi-t-00-28-01">2026-03-25 · 00:28:26</a></strong></div>
 <div><span>Episodes</span><strong>8</strong></div>
 <div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
@@ -42,6 +42,7 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-person-pam-bondi-t-00-44-46" style="--pulse-height:100%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 4 mentions" title="2026-01-30 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-pam-bondi-t-00-46-30" style="--pulse-height:25%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-pam-bondi-t-00-06-20" style="--pulse-height:25%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-pam-bondi-t-00-28-01" style="--pulse-height:25%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-pam-bondi-t-00-44-46) | 4 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-pam-bondi-t-00-46-30) | 1 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-pam-bondi-t-00-06-20) | 1 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-pam-bondi-t-00-28-01) | 1 |
 
 </details>
 </section>
@@ -62,6 +64,14 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 
 <details>
 <summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
+
+**[00:28:26](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-pam-bondi-t-00-28-01)**
+> "pam bondi"
+
+</details>
 
 <details>
 <summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>
@@ -134,14 +144,6 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 
 **[00:38:15](/episodes/ep-aDlhjfW6hz8.md#ent-person-pam-bondi-t-00-37-41)**
 > "...e with them that the next step is more power for the government. And this time we're saying no. No, Pam Bondi. No, thank you. Genuinely, why are you in office? How can this administration pretend that they are..."
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
-
-**[00:28:26](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-26)**
-> "pam bondi"
 
 </details>
 

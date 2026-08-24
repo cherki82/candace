@@ -28,7 +28,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <div><span>Mentions</span><strong>1,609</strong></div>
 <div><span>Statements by</span><strong>2,254</strong></div>
 <div><span>Statements about</span><strong>256</strong></div>
-<div><span>Relationships</span><strong>423</strong></div>
+<div><span>Relationships</span><strong>427</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -125,6 +125,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-candace-owens-t-00-20-15" style="--pulse-height:14%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 13 mentions" title="2026-03-18 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-candace-owens-t-00-07-06" style="--pulse-height:14%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 13 mentions" title="2026-03-23 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-candace-owens-t-00-00-38" style="--pulse-height:12%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 12 mentions" title="2026-03-24 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-candace-owens-t-00-01-06" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 8 mentions" title="2026-03-25 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-candace-owens-t-00-24-41" style="--pulse-height:54%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 52 mentions" title="2026-08-14 · 52 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -220,6 +221,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-candace-owens-t-00-20-15) | 13 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-candace-owens-t-00-07-06) | 13 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-candace-owens-t-00-00-38) | 12 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-candace-owens-t-00-01-06) | 8 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-candace-owens-t-00-24-41) | 52 |
 
 </details>
@@ -392,6 +394,35 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 **[00:48:26](/episodes/ep-nPhCKwJ6ye8.md#ent-person-candace-owens-t-00-48-26)**
 > "...n for would that prove, that, Candace. though, is my question."
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (8 mentions)</summary>
+
+**[00:01:06](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-candace-owens-t-00-01-06)**
+> "Candace Owens"
+
+**[00:04:29](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-candace-owens-t-00-04-17)**
+> "...'s the devil. Don't listen to Candace Owens."
+
+**[00:01:27](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-candace-owens-t-00-01-06)**
+> "...to say, guys. Welcome back to Candace."
+
+**[00:09:21](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-candace-owens-t-00-04-17)**
+> "...idea all week. Welcome to the Candace Show. We just have to assume that my memory was c..."
+
+**[00:25:11](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-candace-owens-t-00-24-43)**
+> "...rd baby, or visit Preborn.com/Candace. Again, that's Preborn.com/Candace."
+
+**[00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-candace-owens-t-00-34-49)**
+> "...s assassination within hours, Candace publicly attributes the killing to Israel and tar..."
+
+**[00:45:06](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-candace-owens-t-00-44-44)**
+> "...1651 or visit tnusa.com slash Candace. Again, that's tnusa.com slash Candace."
+
+**[00:46:20](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-candace-owens-t-00-46-05)**
+> "...ed, don't send the cops, send Candace. I got you."
 
 </details>
 
@@ -5439,35 +5470,6 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (8 mentions)</summary>
-
-**[00:01:06](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-06)**
-> "Candace Owens"
-
-**[00:04:29](/episodes/ep-5m-Wn6Pr5rM.md#t-00-04-29)**
-> "...'s the devil. Don't listen to Candace Owens."
-
-**[00:01:27](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-27)**
-> "...to say, guys. Welcome back to Candace."
-
-**[00:09:21](/episodes/ep-5m-Wn6Pr5rM.md#t-00-09-21)**
-> "...idea all week. Welcome to the Candace Show. We just have to assume that my memory was c..."
-
-**[00:25:11](/episodes/ep-5m-Wn6Pr5rM.md#t-00-25-11)**
-> "...rd baby, or visit Preborn.com/Candace. Again, that's Preborn.com/Candace."
-
-**[00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49)**
-> "...s assassination within hours, Candace publicly attributes the killing to Israel and tar..."
-
-**[00:45:06](/episodes/ep-5m-Wn6Pr5rM.md#t-00-45-06)**
-> "...1651 or visit tnusa.com slash Candace. Again, that's tnusa.com slash Candace."
-
-**[00:46:20](/episodes/ep-5m-Wn6Pr5rM.md#t-00-46-20)**
-> "...ed, don't send the cops, send Candace. I got you."
-
-</details>
-
 </details>
 
 <details open>
@@ -5532,12 +5534,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:15:44](/episodes/ep-GY6GWceEqtQ.md#t-00-15-44): “Because Turning Point USA is lying, it is a totally fair and reasonable assessment that they are engaged in a cover-up.”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:19](/episodes/ep-1IY2oD-_xVA.md#t-00-45-19): “somebody who was within turning point usa confirmed to me That money was indeed missing out of Turning Point USA. ... I can back that up 100%, which is why I'm saying it publicly, that there were millions missing out of Turning Point USA, and they were wondering where that money was going.”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:31:55](/episodes/ep-H9p2ZGHAs9A.md#t-00-31-55): “There's got to be money somewhere, right? There's got to be ka-ching, ka-ching somewhere.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:19:19](/episodes/ep-B9TyCs-6o_0.md#t-00-19-00): “I instantly felt they were lying. And now I believe that I have evidence that proves that I was correct and they were indeed lying.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:00:29](/episodes/ep-5m-Wn6Pr5rM.md#t-00-00-00): “somebody at Turning Point USA is lying.”
 
 </details>
 
@@ -5549,7 +5552,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:44:15](/episodes/ep-CEF7gQRWYCE.md#t-00-43-43): “I've clocked Erika on another lie. ... She's now twice lied about a Dan Flood message.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:21:18](/episodes/ep-QRS_hR7NXaQ.md#t-00-21-11): “I want to speak about Erika (Erika Kirk)'s alibi on September 10th. And I'm going to put it out there that I do not believe it. I do not believe we are being told told the truth regarding her alibi.”
@@ -5560,6 +5563,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:44:46](/episodes/ep-ZzAT2xijKGQ.md#t-00-44-46): “I don't buy anything really that Erika (Erika Kirk) says. She lies a lot.”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:13:16](/episodes/ep-H9p2ZGHAs9A.md#t-00-12-32): “Erika (Erika Kirk) graduated magna cum laude. We have not been able to confirm that. That seems to be made up, but so is the rest of this bio appear to be made up. So we'll just keep going.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:35:54](/episodes/ep-I0OaY6Gryqk.md#t-00-35-28): “That everything that Erika (Erika Kirk) is doing right now is normal, that it is moral, that it is righteous in any way, that it is excusable, that she has lied through her teeth, been caught so many times that it's some like stage of grieving that nobody's gone through.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:11:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-03): “in reality, it's Erika that's lying.”
 
 </details>
 
@@ -5799,7 +5803,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Criticized (42)</summary>
+<summary>Criticized (44)</summary>
 
 - **[Nate Brooksby](/entities/person-nate-brooksby.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -5809,7 +5813,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-21-28): “Even Turning Point USA, they're just like, we've accepted, obviously there are holes in this narrative”
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:02:29](/episodes/ep-6DhWawD4ZiM.md#t-00-02-09): “The majority of people think Turning Point is acting suspicious”
@@ -5820,6 +5824,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:00:42](/episodes/ep-I0OaY6Gryqk.md#t-00-00-42): “Their chapter in Arkansas just decided to disaffiliate from Turning Point USA entirely, citing the, well, despicable treatment of Charlie (Charlie Kirk)'s legacy.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:13:27](/episodes/ep-B9TyCs-6o_0.md#t-00-13-11): “angry because this made both them and the new CEO and chairman who also happens to be Charlie Kirk's wife look bad. ... Liars hate when they get caught.”
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:02:18](/episodes/ep-SgVcnx4Oh30.md#t-00-02-04): “the Turning Point USA alibis that we have pointed out and when they respond they choose only respond to like the minor details that they can debunk”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:17:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-24): “It's Turning Point USA. You don't need to take anything they say as fact.”
 
 </details>
 
@@ -5839,7 +5844,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (20)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-29): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -5861,6 +5866,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:35:54](/episodes/ep-I0OaY6Gryqk.md#t-00-35-28): “That everything that Erika (Erika Kirk) is doing right now is normal, that it is moral, that it is righteous in any way, that it is excusable, that she has lied through her teeth, been caught so many times that it's some like stage of grieving that nobody's gone through.”
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:48:56](/episodes/ep-_vg7ucP1E0g.md#t-00-48-49): “And I just that's that's fake. Okay. I didn't say it when it was first going down, but like it now that I'm just seeing how she lies and having learned about the Kanye (Kanye West) thing, I can't, I can't even go halfway. ... I can't even, I can't even go 10% with the fakeness and she's just a fundamentally dishonest person who should not be at the helm of that company or any company.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:48:34](/episodes/ep-B9TyCs-6o_0.md#t-00-48-19): “Have you paid attention to my Erika timeline? I can't find a moment when she wasn't seeking the limelight.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:11:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-03): “She allows Andrew to look like a fool and like he's a liar, but in reality, it's Erika that's lying.”
 
 </details>
 
@@ -6153,6 +6159,20 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[Kash Patel](/entities/person-kash-patel.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:28:15](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-01): “when Kash Patel went in to the FBI, there was kind of this ideal he was going to write the wrongs and make sure that he took down the deep state and then he just bumbled every plausible.”
+
+</details>
+
+- **[Alexis Wilkins](/entities/person-alexis-wilkins.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:30:09](/episodes/ep-5m-Wn6Pr5rM.md#t-00-29-54): “she's not that talented, is what I would say. And that's putting it mildly. She's definitely not what I would refer to as a sensation.”
+
+</details>
+
 </details>
 
 <details>
@@ -6189,10 +6209,11 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Frank Turek](/entities/person-frank-turek.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:01:57](/episodes/ep-yAIb-NuUh_U.md#t-00-01-23): “Well, I just learned that Frank Turek was reacting to me.”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:39:02](/episodes/ep-Wjul6YV6izo.md#t-00-39-02): “I think Candace Owens is completely lost any credibility when she's saying that certain dreams. ... are where she's getting her information from,”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:04:29](/episodes/ep-5m-Wn6Pr5rM.md#t-00-04-17): “he got a little angry afterward and said, I was the devil. She's the devil. Don't listen to Candace Owens.”
 
 </details>
 
@@ -6685,7 +6706,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:06:59](/episodes/ep-his-JBjlkh8.md#t-00-06-47): “I worked for Turning Point USA, and I went on every tour—every tour since 2019”
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:30:08](/episodes/ep-YA1FxrDWNIo.md#t-00-29-25): “I know how it works because I came from Turning Point USA, okay? I have toured with them every year—with the exception of this year—since I started working for Charlie”
@@ -6693,6 +6714,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:07:47](/episodes/ep-6J6lRZPQ4jk.md#t-00-07-40): “At one time, an employee of Turning Point.”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:55:05](/episodes/ep-Wjul6YV6izo.md#t-00-54-53): “it's the same way that I say like i'm so grateful that i worked for prageru and turning point usa and um Daily Wire”
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:04:23](/episodes/ep-mFuno0TuuQQ.md#t-00-04-02): “on May 1st, the public was informed that I was resigning from my position as the communications director of Turning Point USA.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:13:39](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-39): “back when i was there lauren was there”
 
 </details>
 
@@ -7127,7 +7149,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:50:20](/episodes/ep-OEAHy3SsIiI.md#t-00-49-35): “And that to me ran counter to my meeting with Erika (Erika Kirk).”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:48](/episodes/ep-HYn0P-P1wUw.md#t-00-26-11): “I decided to ask Erika (Erika Kirk) in person during our sit-down how she met Tyler (Tyler Bowyer).”
@@ -7138,6 +7160,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:04:34](/episodes/ep-DdPjoy5W-wY.md#t-00-04-27): “I also spoke to her and met with her”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:17:20](/episodes/ep-B9TyCs-6o_0.md#t-00-16-52): “when I had the opportunity to sit down with Erika Kirk and Justin Streiff”
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:52:41](/episodes/ep-SgVcnx4Oh30.md#t-00-52-41): “i do want to remind you that i met with Erika (Erika Kirk) just a couple of months ago”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:46:44](/episodes/ep-5m-Wn6Pr5rM.md#t-00-46-44): “last night when I met up with Erika.”
 
 </details>
 
@@ -7176,9 +7199,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Catholics for Catholics](/entities/org-catholics-for-catholics.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:49:16](/episodes/ep-B9TyCs-6o_0.md#t-00-48-59): “I did my first event in a really long time. ... the Catholics for Catholics event”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:33:40](/episodes/ep-5m-Wn6Pr5rM.md#t-00-33-27): “the event that I spoke to a couple of weeks ago.”
 
 </details>
 
@@ -7400,7 +7424,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Referenced By (208)</summary>
+<summary>Referenced By (210)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -7480,12 +7504,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** accused by this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:15:44](/episodes/ep-GY6GWceEqtQ.md#t-00-15-44): “Because Turning Point USA is lying, it is a totally fair and reasonable assessment that they are engaged in a cover-up.”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:19](/episodes/ep-1IY2oD-_xVA.md#t-00-45-19): “somebody who was within turning point usa confirmed to me That money was indeed missing out of Turning Point USA. ... I can back that up 100%, which is why I'm saying it publicly, that there were millions missing out of Turning Point USA, and they were wondering where that money was going.”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:31:55](/episodes/ep-H9p2ZGHAs9A.md#t-00-31-55): “There's got to be money somewhere, right? There's got to be ka-ching, ka-ching somewhere.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:19:19](/episodes/ep-B9TyCs-6o_0.md#t-00-19-00): “I instantly felt they were lying. And now I believe that I have evidence that proves that I was correct and they were indeed lying.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:00:29](/episodes/ep-5m-Wn6Pr5rM.md#t-00-00-00): “somebody at Turning Point USA is lying.”
 
 </details>
 
@@ -7497,7 +7522,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** accused by this
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:44:15](/episodes/ep-CEF7gQRWYCE.md#t-00-43-43): “I've clocked Erika on another lie. ... She's now twice lied about a Dan Flood message.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:21:18](/episodes/ep-QRS_hR7NXaQ.md#t-00-21-11): “I want to speak about Erika (Erika Kirk)'s alibi on September 10th. And I'm going to put it out there that I do not believe it. I do not believe we are being told told the truth regarding her alibi.”
@@ -7508,6 +7533,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:44:46](/episodes/ep-ZzAT2xijKGQ.md#t-00-44-46): “I don't buy anything really that Erika (Erika Kirk) says. She lies a lot.”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:13:16](/episodes/ep-H9p2ZGHAs9A.md#t-00-12-32): “Erika (Erika Kirk) graduated magna cum laude. We have not been able to confirm that. That seems to be made up, but so is the rest of this bio appear to be made up. So we'll just keep going.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:35:54](/episodes/ep-I0OaY6Gryqk.md#t-00-35-28): “That everything that Erika (Erika Kirk) is doing right now is normal, that it is moral, that it is righteous in any way, that it is excusable, that she has lied through her teeth, been caught so many times that it's some like stage of grieving that nobody's gone through.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:11:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-03): “in reality, it's Erika that's lying.”
 
 </details>
 
@@ -7681,10 +7707,11 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Frank Turek](/entities/person-frank-turek.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:01:57](/episodes/ep-yAIb-NuUh_U.md#t-00-01-23): “Well, I just learned that Frank Turek was reacting to me.”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:39:02](/episodes/ep-Wjul6YV6izo.md#t-00-39-02): “I think Candace Owens is completely lost any credibility when she's saying that certain dreams. ... are where she's getting her information from,”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:04:29](/episodes/ep-5m-Wn6Pr5rM.md#t-00-04-17): “he got a little angry afterward and said, I was the devil. She's the devil. Don't listen to Candace Owens.”
 
 </details>
 
@@ -7868,7 +7895,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-21-28): “Even Turning Point USA, they're just like, we've accepted, obviously there are holes in this narrative”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:33:17](/episodes/ep-1hcjQGgvxUY.md#t-00-32-42): “they obviously were always panicked and then they issue a dumb statement.”
@@ -7878,6 +7905,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:00:42](/episodes/ep-I0OaY6Gryqk.md#t-00-00-42): “Their chapter in Arkansas just decided to disaffiliate from Turning Point USA entirely, citing the, well, despicable treatment of Charlie (Charlie Kirk)'s legacy.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:13:27](/episodes/ep-B9TyCs-6o_0.md#t-00-13-11): “angry because this made both them and the new CEO and chairman who also happens to be Charlie Kirk's wife look bad. ... Liars hate when they get caught.”
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:02:18](/episodes/ep-SgVcnx4Oh30.md#t-00-02-04): “the Turning Point USA alibis that we have pointed out and when they respond they choose only respond to like the minor details that they can debunk”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:17:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-24): “It's Turning Point USA. You don't need to take anything they say as fact.”
 
 </details>
 
@@ -7897,7 +7925,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (20)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-29): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -7919,6 +7947,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:35:54](/episodes/ep-I0OaY6Gryqk.md#t-00-35-28): “That everything that Erika (Erika Kirk) is doing right now is normal, that it is moral, that it is righteous in any way, that it is excusable, that she has lied through her teeth, been caught so many times that it's some like stage of grieving that nobody's gone through.”
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:48:56](/episodes/ep-_vg7ucP1E0g.md#t-00-48-49): “And I just that's that's fake. Okay. I didn't say it when it was first going down, but like it now that I'm just seeing how she lies and having learned about the Kanye (Kanye West) thing, I can't, I can't even go halfway. ... I can't even, I can't even go 10% with the fakeness and she's just a fundamentally dishonest person who should not be at the helm of that company or any company.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:48:34](/episodes/ep-B9TyCs-6o_0.md#t-00-48-19): “Have you paid attention to my Erika timeline? I can't find a moment when she wasn't seeking the limelight.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:11:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-03): “She allows Andrew to look like a fool and like he's a liar, but in reality, it's Erika that's lying.”
 
 </details>
 
@@ -8209,6 +8238,20 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[Kash Patel](/entities/person-kash-patel.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:28:15](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-01): “when Kash Patel went in to the FBI, there was kind of this ideal he was going to write the wrongs and make sure that he took down the deep state and then he just bumbled every plausible.”
+
+</details>
+
+- **[Alexis Wilkins](/entities/person-alexis-wilkins.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:30:09](/episodes/ep-5m-Wn6Pr5rM.md#t-00-29-54): “she's not that talented, is what I would say. And that's putting it mildly. She's definitely not what I would refer to as a sensation.”
+
+</details>
+
 - **[Shmuley Boteach](/entities/person-shmuley-boteach.md)** debated this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -8485,11 +8528,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:06:59](/episodes/ep-his-JBjlkh8.md#t-00-06-47): “I worked for Turning Point USA, and I went on every tour—every tour since 2019”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:55:05](/episodes/ep-Wjul6YV6izo.md#t-00-54-53): “it's the same way that I say like i'm so grateful that i worked for prageru and turning point usa and um Daily Wire”
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:04:23](/episodes/ep-mFuno0TuuQQ.md#t-00-04-02): “on May 1st, the public was informed that I was resigning from my position as the communications director of Turning Point USA.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:13:39](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-39): “back when i was there lauren was there”
 
 </details>
 
@@ -8618,9 +8662,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Catholics for Catholics](/entities/org-catholics-for-catholics.md)** hosted speaker this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:49:16](/episodes/ep-B9TyCs-6o_0.md#t-00-48-59): “I did my first event in a really long time. ... the Catholics for Catholics event”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:33:40](/episodes/ep-5m-Wn6Pr5rM.md#t-00-33-27): “the event that I spoke to a couple of weeks ago.”
 
 </details>
 
@@ -8861,7 +8906,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:50:20](/episodes/ep-OEAHy3SsIiI.md#t-00-49-35): “And that to me ran counter to my meeting with Erika (Erika Kirk).”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:48](/episodes/ep-HYn0P-P1wUw.md#t-00-26-11): “I decided to ask Erika (Erika Kirk) in person during our sit-down how she met Tyler (Tyler Bowyer).”
@@ -8872,6 +8917,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:04:34](/episodes/ep-DdPjoy5W-wY.md#t-00-04-27): “I also spoke to her and met with her”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:17:20](/episodes/ep-B9TyCs-6o_0.md#t-00-16-52): “when I had the opportunity to sit down with Erika Kirk and Justin Streiff”
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:52:41](/episodes/ep-SgVcnx4Oh30.md#t-00-52-41): “i do want to remind you that i met with Erika (Erika Kirk) just a couple of months ago”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:46:44](/episodes/ep-5m-Wn6Pr5rM.md#t-00-46-44): “last night when I met up with Erika.”
 
 </details>
 
@@ -9161,6 +9207,71 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - [04:01:26](/episodes/ep-nPhCKwJ6ye8.md#t-04-01-26) [✓] (Accusation) ["Candace Owens still believes there is more evidence that multiple people were in..."](/statements/statement-4735330c37c9.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (20)</summary>
+
+- [00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-51) [✓] (Claim) ["The Charlie Kirk show was hosted in its entirety before the Y-Refi plane left Sa..."](/statements/statement-cc89e89ddc7e.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Yrefy](/entities/org-yrefy.md)
+
+- [00:02:51](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-23) [◐] (Claim) ["The Y-Refi plane is equipped with Wi-Fi."](/statements/statement-b859662fd236.md)
+  - About: [Yrefy](/entities/org-yrefy.md)
+
+- [00:06:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-06-15) [○] (Claim) ["The plane that Erika Kirk told Candace Owens carried Andrew Kolvet did not land ..."](/statements/statement-ce02a70f1a1d.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Yrefy](/entities/org-yrefy.md)
+
+- [00:07:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-07-31) [○] (Claim) ["Even with a police escort, Erika Kirk and the others would have arrived at the h..."](/statements/statement-acf39f460fa9.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Provo Airport](/entities/org-provo-airport.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:09:21](/episodes/ep-5m-Wn6Pr5rM.md#t-00-09-02) [○] (Accusation) ["My proposed explanation is that Erika Kirk flew in earlier than Andrew Kolvet an..."](/statements/statement-5f081a5d1b78.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:10:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-10-24) [○] (Accusation) ["Erika Kirk was on the phone directing Andrew Kolvet to do those things, lets him..."](/statements/statement-b6027dee3443.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-33) [○] (Claim) ["After the call, Elizabeth McCoy ran into the office of Frank, a TPUSA lawyer, fo..."](/statements/statement-b034bb78e025.md)
+  - About: [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Frank (TPUSA lawyer; surname unverified)](/entities/anon-src-5m-Wn6Pr5rM-001.md), [Justin Streiff](/entities/person-justin-streiff.md)
+
+- [00:13:32](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-07) [○] (Claim) ["Lauren Toncich drove Elizabeth McCoy from the TPUSA office to the airport."](/statements/statement-80320f6c867a.md)
+  - About: [Lauren Toncich](/entities/person-lauren-toncich.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:14:28](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-21) [○] (Claim) ["Stacey Sheridan was not at the TPUSA office and was allegedly home in Scottsdale..."](/statements/statement-2e1bf770157c.md)
+  - About: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md)
+
+- [00:15:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-15-32) [○] (Claim) ["I believe Erika Kirk and Tyler Bowyer flew together."](/statements/statement-3e567b42755e.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+- [00:17:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-24) [○] (Claim) ["According to Elizabeth McCoy's alleged narrative, Elizabeth told Erika Kirk at t..."](/statements/statement-b787aa6e71ce.md)
+  - About: [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:17:55](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-24) [○] (Claim) ["Erika Kirk told me that the doctor called her directly and informed her that Cha..."](/statements/statement-3b3b396856d7.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:18:09](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-09) [◐] (Claim) ["Katherine Locastro was part of the team that transported Erika Kirk to the airpo..."](/statements/statement-2bf82b4d32a9.md)
+  - About: [Katherine Locastro](/entities/person-katherine-locastro.md), [Erika Kirk](/entities/person-erika-kirk.md), [Utah](/entities/gpe-utah.md)
+
+- [00:29:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-29-10) [◐] (Accusation) ["Kash Patel used an FBI plane to fly to see Alexis Wilkins and sent a police forc..."](/statements/statement-201c56acbf00.md)
+  - About: [Kash Patel](/entities/person-kash-patel.md), [Alexis Wilkins](/entities/person-alexis-wilkins.md), [FBI](/entities/org-fbi.md)
+
+- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) [◐] (Claim) ["I did not name Erika Kirk or attribute Charlie Kirk's killing to Israel within h..."](/statements/statement-e1617f27d099.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:43:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-44) [✓] (Citation) ["An August 2025 article reported that more Americans were joining the Catholic Ch..."](/statements/statement-774d3b78c237.md)
+  - About: [Catholic Church](/entities/org-catholic-church.md), [United States](/entities/gpe-united-states.md)
+
+- [00:43:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-44) [✓] (Citation) ["The Times reported that Catholics outnumber Anglicans two to one among Gen Z chu..."](/statements/statement-1e6b20aec987.md)
+  - About: [The Times](/entities/org-the-times.md), [Catholicism](/entities/concept-catholicism.md)
+
+- [00:43:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-22) [○] (Opinion) ["Catholics are fully under attack, and Alexis Wilkins's thread illustrates that a..."](/statements/statement-e59064ae496a.md)
+  - About: [Catholicism](/entities/concept-catholicism.md), [Alexis Wilkins](/entities/person-alexis-wilkins.md), [FBI](/entities/org-fbi.md)
+
+- [00:46:37](/episodes/ep-5m-Wn6Pr5rM.md#t-00-46-05) [○] (Opinion) ["We are watching Kash Patel's revenge; he is angry."](/statements/statement-9d70db4a8703.md)
+  - About: [Kash Patel](/entities/person-kash-patel.md)
+
+- [00:47:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-12) [○] (Claim) ["Erika Kirk asked whether Joe Kent was my source at the hospital, and I told her ..."](/statements/statement-49ddf25219af.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Joe Kent](/entities/person-joe-kent.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 </details>
 
@@ -16164,75 +16275,21 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (20)</summary>
-
-- [00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-10) [○] (Claim) ["The Charlie Kirk show was hosted in its entirety before the Y-Refi plane left Sa..."](/statements/statement-cc89e89ddc7e.md)
-  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Yrefy](/entities/org-yrefy.md)
-
-- [00:02:51](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-51) [○] (Claim) ["The Y-Refi plane is equipped with Wi-Fi."](/statements/statement-b859662fd236.md)
-  - About: [Yrefy](/entities/org-yrefy.md)
-
-- [00:06:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-06-24) [○] (Claim) ["The plane that Erika Kirk told Candace Owens carried Andrew Kolvet did not land ..."](/statements/statement-ce02a70f1a1d.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Yrefy](/entities/org-yrefy.md)
-
-- [00:07:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-07-31) [○] (Claim) ["Even with a police escort, Erika Kirk and the others would have arrived at the h..."](/statements/statement-acf39f460fa9.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Provo Airport](/entities/org-provo-airport.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
-
-- [00:09:21](/episodes/ep-5m-Wn6Pr5rM.md#t-00-09-21) [○] (Accusation) ["My proposed explanation is that Erika Kirk flew in earlier than Andrew Kolvet an..."](/statements/statement-5f081a5d1b78.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:10:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-10-50) [○] (Accusation) ["Erika Kirk was on the phone directing Andrew Kolvet to do those things, lets him..."](/statements/statement-b6027dee3443.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
-
-- [00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-47) [○] (Claim) ["After the call, Elizabeth McCoy ran into the office of Frank, a TPUSA lawyer, fo..."](/statements/statement-b034bb78e025.md)
-  - About: [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Frank (TPUSA lawyer; surname unverified)](/entities/anon-src-5m-Wn6Pr5rM-001.md), [Justin Streiff](/entities/person-justin-streiff.md)
-
-- [00:13:32](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-32) [○] (Claim) ["Lauren Toncich drove Elizabeth McCoy from the TPUSA office to the airport."](/statements/statement-80320f6c867a.md)
-  - About: [Lauren Toncich](/entities/person-lauren-toncich.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [00:14:28](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-28) [○] (Claim) ["Stacey Sheridan was not at the TPUSA office and was allegedly home in Scottsdale..."](/statements/statement-2e1bf770157c.md)
-  - About: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md)
-
-- [00:15:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-15-43) [○] (Claim) ["I believe Erika Kirk and Tyler Bowyer flew together."](/statements/statement-3e567b42755e.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
-
-- [00:17:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-24) [○] (Claim) ["According to Elizabeth McCoy's alleged narrative, Elizabeth told Erika Kirk at t..."](/statements/statement-b787aa6e71ce.md)
-  - About: [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:17:55](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-55) [○] (Claim) ["Erika Kirk told me that the doctor called her directly and informed her that Cha..."](/statements/statement-3b3b396856d7.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:18:09](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-09) [○] (Claim) ["Katherine Locastro was part of the team that transported Erika Kirk to the airpo..."](/statements/statement-2bf82b4d32a9.md)
-  - About: [Katherine Locastro](/entities/person-katherine-locastro.md), [Erika Kirk](/entities/person-erika-kirk.md), [Utah](/entities/gpe-utah.md)
-
-- [00:29:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-29-10) [○] (Accusation) ["Kash Patel used an FBI plane to fly to see Alexis Wilkins and sent a police forc..."](/statements/statement-201c56acbf00.md)
-  - About: [Kash Patel](/entities/person-kash-patel.md), [Alexis Wilkins](/entities/person-alexis-wilkins.md), [FBI](/entities/org-fbi.md)
-
-- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) [○] (Claim) ["I did not name Erika Kirk or attribute Charlie Kirk's killing to Israel within h..."](/statements/statement-e1617f27d099.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:43:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-02) [○] (Citation) ["An August 2025 article reported that more Americans were joining the Catholic Ch..."](/statements/statement-774d3b78c237.md)
-  - About: [Catholic Church](/entities/org-catholic-church.md), [United States](/entities/gpe-united-states.md)
-
-- [00:43:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-10) [○] (Citation) ["The Times reported that Catholics outnumber Anglicans two to one among Gen Z chu..."](/statements/statement-1e6b20aec987.md)
-  - About: [The Times](/entities/org-the-times.md), [Catholicism](/entities/concept-catholicism.md)
-
-- [00:43:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-36) [○] (Opinion) ["Catholics are fully under attack, and Alexis Wilkins's thread illustrates that a..."](/statements/statement-e59064ae496a.md)
-  - About: [Catholicism](/entities/concept-catholicism.md), [Alexis Wilkins](/entities/person-alexis-wilkins.md), [FBI](/entities/org-fbi.md)
-
-- [00:46:37](/episodes/ep-5m-Wn6Pr5rM.md#t-00-46-37) [○] (Opinion) ["We are watching Kash Patel's revenge; he is angry."](/statements/statement-9d70db4a8703.md)
-  - About: [Kash Patel](/entities/person-kash-patel.md)
-
-- [00:47:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-12) [○] (Claim) ["Erika Kirk asked whether Joe Kent was my source at the hospital, and I told her ..."](/statements/statement-49ddf25219af.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Joe Kent](/entities/person-joe-kent.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
-
-</details>
-
 </details>
 
 <details open>
 <summary><strong class="section-title">Statements about Candace Owens (256)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2)</summary>
+
+- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) (Accusation) **Alexis Wilkins** (via quoted tweet): ["Within hours of Charlie Kirk's assassination, Candace Owens publicly a..."](/statements/statement-b2726c243b67.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) (Claim) **Candace Owens**: ["I did not name Erika Kirk or attribute Charlie Kirk's killing to Israe..."](/statements/statement-e1617f27d099.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1)</summary>
@@ -17226,17 +17283,6 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - [00:19:30](/episodes/ep-_dRaEO47-co.md#t-00-18-47) (Claim) **Candace Owens**: ["Candace and Charlie Kirk never stopped being friends despite public di..."](/statements/statement-b78e5146c5e6.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (2)</summary>
-
-- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) (Accusation) **Alexis Wilkins** (via quoted tweet): ["Within hours of Charlie Kirk's assassination, Candace Owens publicly a..."](/statements/statement-b2726c243b67.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md), [Erika Kirk](/entities/person-erika-kirk.md)
-
-- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) (Claim) **Candace Owens**: ["I did not name Erika Kirk or attribute Charlie Kirk's killing to Israe..."](/statements/statement-e1617f27d099.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
 </details>
 

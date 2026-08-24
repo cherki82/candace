@@ -17,7 +17,7 @@ _Type: Organizations_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-twitter-t-00-12-01">2025-09-15 · 00:12:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#t-00-45-40">2026-03-17 · 00:46:04</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-twitter-t-00-32-47">2026-03-25 · 00:32:47</a></strong></div>
 <div><span>Episodes</span><strong>20</strong></div>
 <div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -49,6 +49,7 @@ _Type: Organizations_
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-twitter-t-00-38-41" style="--pulse-height:25%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-twitter-t-00-21-36" style="--pulse-height:75%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#t-00-19-44" style="--pulse-height:50%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-twitter-t-00-32-47" style="--pulse-height:25%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -73,6 +74,7 @@ _Type: Organizations_
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-twitter-t-00-38-41) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-twitter-t-00-21-36) | 3 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#t-00-19-44) | 2 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-twitter-t-00-32-47) | 1 |
 
 </details>
 </section>
@@ -81,6 +83,14 @@ _Type: Organizations_
 
 <details>
 <summary><strong class="section-title">Raw mentions (33)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
+
+**[00:32:47](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-twitter-t-00-32-47)**
+> "twitter"
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (2 mentions)</summary>
@@ -270,14 +280,6 @@ _Type: Organizations_
 
 **[00:12:01](/episodes/ep-czVBmqZP6Ss.md#ent-org-twitter-t-00-12-01)**
 > "...I am a bad person if I do this. And it's a—I could go—I mean, you saw it, Megyn. It was trending on Twitter, thousands of tweets and text messages. And if I were to be charitable and generous, I will say the..."
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
-
-**[00:32:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-32-47)**
-> "twitter"
 
 </details>
 

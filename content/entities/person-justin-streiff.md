@@ -56,6 +56,7 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-justin-streiff-t-00-37-21" style="--pulse-height:23%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 3 mentions" title="2026-03-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-justin-streiff-t-00-16-52" style="--pulse-height:100%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 13 mentions" title="2026-03-23 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-justin-streiff-t-00-19-47" style="--pulse-height:15%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-justin-streiff-t-00-12-33" style="--pulse-height:23%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 3 mentions" title="2026-03-25 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-justin-streiff-t-02-46-50" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -81,6 +82,7 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-justin-streiff-t-00-37-21) | 3 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-justin-streiff-t-00-16-52) | 13 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-justin-streiff-t-00-19-47) | 2 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-justin-streiff-t-00-12-33) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-justin-streiff-t-02-46-50) | 1 |
 
 </details>
@@ -96,6 +98,20 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 
 **[02:46:56](/episodes/ep-nPhCKwJ6ye8.md#ent-person-justin-streiff-t-02-46-50)**
 > "her and Justin Strife."
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (3 mentions)</summary>
+
+**[00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-justin-streiff-t-00-12-33)**
+> "Justin Streiff"
+
+**[00:13:07](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-justin-streiff-t-00-13-07)**
+> "Frank and Justin then run to the Turning Point Action Building. I'..."
+
+**[00:49:54](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-justin-streiff-t-00-49-54)**
+> "...d then she went and she found Justin Streiff. The later phone call that she told people was wh..."
 
 </details>
 
@@ -362,20 +378,6 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (3 mentions)</summary>
-
-**[00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-47)**
-> "Justin Streiff"
-
-**[00:13:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-07)**
-> "Frank and Justin then run to the Turning Point Action Building. I'..."
-
-**[00:49:54](/episodes/ep-5m-Wn6Pr5rM.md#t-00-49-54)**
-> "...d then she went and she found Justin Streiff. The later phone call that she told people was wh..."
-
-</details>
-
 </details>
 
 <details open>
@@ -529,6 +531,14 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <summary><strong class="section-title">Statements about Justin Streiff (17)</strong></summary>
 
 <details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1)</summary>
+
+- [00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-33) (Claim) **Candace Owens**: ["After the call, Elizabeth McCoy ran into the office of Frank, a TPUSA ..."](/statements/statement-b034bb78e025.md)
+  - Also about: [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Frank (TPUSA lawyer; surname unverified)](/entities/anon-src-5m-Wn6Pr5rM-001.md), [Turning Point Action](/entities/org-turning-point-action.md)
+
+</details>
+
+<details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1)</summary>
 
 - [00:20:17](/episodes/ep-SgVcnx4Oh30.md#t-00-19-47) (Claim) **Candace Owens**: ["Candace Owens said the implication of a text exchange was that Andrew ..."](/statements/statement-5f2a1b2a4499.md)
@@ -613,14 +623,6 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 
 - [00:14:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk and Justin Streiff confirmed that Andrew Kolvet spoke to th..."](/statements/statement-2934cd4da2bf.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md)
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (1)</summary>
-
-- [00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-47) (Claim) **Candace Owens**: ["After the call, Elizabeth McCoy ran into the office of Frank, a TPUSA ..."](/statements/statement-b034bb78e025.md)
-  - Also about: [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Frank (TPUSA lawyer; surname unverified)](/entities/anon-src-5m-Wn6Pr5rM-001.md), [Turning Point Action](/entities/org-turning-point-action.md)
 
 </details>
 

@@ -23,7 +23,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-tyler-bowyer-t-00-41-28">2025-09-29 · 00:41:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-tyler-bowyer-t-00-39-08">2026-03-24 · 00:39:08</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tyler-bowyer-t-00-15-32">2026-03-25 · 00:15:53</a></strong></div>
 <div><span>Episodes</span><strong>44</strong></div>
 <div><span>Mentions</span><strong>189</strong></div>
 <div><span>Statements by</span><strong>12</strong></div>
@@ -79,6 +79,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-tyler-bowyer-t-00-07-31" style="--pulse-height:33%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 6 mentions" title="2026-03-18 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#t-00-23-50" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-tyler-bowyer-t-00-38-24" style="--pulse-height:17%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 3 mentions" title="2026-03-24 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tyler-bowyer-t-00-15-32" style="--pulse-height:11%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -127,6 +128,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-tyler-bowyer-t-00-07-31) | 6 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#t-00-23-50) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-tyler-bowyer-t-00-38-24) | 3 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tyler-bowyer-t-00-15-32) | 2 |
 
 </details>
 </section>
@@ -135,6 +137,17 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 <details>
 <summary><strong class="section-title">Raw mentions (189)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2 mentions)</summary>
+
+**[00:15:43](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tyler-bowyer-t-00-15-32)**
+> "Tyler Bowyer"
+
+**[00:15:53](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tyler-bowyer-t-00-15-32)**
+> "Did you see Tyler Bowyer on September 10th at the office? If so, what time..."
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (3 mentions)</summary>
@@ -912,17 +925,6 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (2 mentions)</summary>
-
-**[00:15:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-15-43)**
-> "Tyler Bowyer"
-
-**[00:15:53](/episodes/ep-5m-Wn6Pr5rM.md#t-00-15-53)**
-> "Did you see Tyler Bowyer on September 10th at the office? If so, what time..."
-
-</details>
-
 </details>
 
 <details open>
@@ -1565,6 +1567,14 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <summary><strong class="section-title">Statements about Tyler Bowyer (57)</strong></summary>
 
 <details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1)</summary>
+
+- [00:15:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-15-32) (Claim) **Candace Owens**: ["I believe Erika Kirk and Tyler Bowyer flew together."](/statements/statement-3e567b42755e.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1)</summary>
 
 - [00:39:00](/episodes/ep-SgVcnx4Oh30.md#t-00-38-24) (Claim) **Candace Owens**: ["Candace Owens said she believed Erika Kirk flew with Tyler Bowyer, tho..."](/statements/statement-6b09857af0b5.md)
@@ -1836,14 +1846,6 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1)</summary>
 
 - [01:07:54](/episodes/ep-2Riv3I7D0Yk.md#t-01-07-18) (Accusation) **Candace Owens**: ["Tyler Bowyer was sloppy on X, he was accusatory and called people name..."](/statements/statement-61b7ba6f1f3c.md)
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (1)</summary>
-
-- [00:15:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-15-43) (Claim) **Candace Owens**: ["I believe Erika Kirk and Tyler Bowyer flew together."](/statements/statement-3e567b42755e.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 

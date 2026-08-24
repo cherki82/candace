@@ -34,10 +34,10 @@ type: "factual_claim"
 
 > I didn't even know Joe Kent at all. Had never had a single communication with Joe Kent until after Charlie Kirk was assassinated.
 
-### 2. 5m-Wn6Pr5rM
+### 2. Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | ...
 
-**Episode:** [5m-Wn6Pr5rM](/episodes/ep-5m-Wn6Pr5rM.md)
-**Timestamp:** [00:35:35](/episodes/ep-5m-Wn6Pr5rM.md#t-00-35-35) 
+**Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
+**Timestamp:** [00:35:35](/episodes/ep-5m-Wn6Pr5rM.md#t-00-35-29) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2135);return false;">Play</a>
 
 > i did not know joe kent at all prior to assassination his name became familiar to me because the news article which we covered

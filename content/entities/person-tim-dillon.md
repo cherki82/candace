@@ -18,7 +18,7 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-46-02">2025-11-13 · 00:46:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-tim-dillon-t-00-25-37">2026-03-09 · 00:26:05</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tim-dillon-t-00-40-43">2026-03-25 · 00:40:52</a></strong></div>
 <div><span>Episodes</span><strong>14</strong></div>
 <div><span>Mentions</span><strong>46</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
@@ -44,6 +44,7 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-tim-dillon-t-00-33-13" style="--pulse-height:20%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-tim-dillon-t-00-14-13" style="--pulse-height:10%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-tim-dillon-t-00-25-37" style="--pulse-height:10%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tim-dillon-t-00-40-43" style="--pulse-height:10%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +63,7 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-tim-dillon-t-00-33-13) | 2 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-tim-dillon-t-00-14-13) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-tim-dillon-t-00-25-37) | 1 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tim-dillon-t-00-40-43) | 1 |
 
 </details>
 </section>
@@ -70,6 +72,14 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 
 <details>
 <summary><strong class="section-title">Raw mentions (46)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
+
+**[00:40:52](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tim-dillon-t-00-40-43)**
+> "Tim Dillon"
+
+</details>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
@@ -259,14 +269,6 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 
 **[00:58:00](/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-57-52)**
 > "Did you see L. Reeves attempting at interviewing Tim Dillon?"
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
-
-**[00:40:52](/episodes/ep-5m-Wn6Pr5rM.md#t-00-40-52)**
-> "Tim Dillon"
 
 </details>
 

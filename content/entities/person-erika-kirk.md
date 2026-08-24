@@ -32,7 +32,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <div><span>Mentions</span><strong>1,655</strong></div>
 <div><span>Statements by</span><strong>97</strong></div>
 <div><span>Statements about</span><strong>495</strong></div>
-<div><span>Relationships</span><strong>175</strong></div>
+<div><span>Relationships</span><strong>177</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -116,6 +116,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-erika-kirk-t-00-00-00" style="--pulse-height:69%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 59 mentions" title="2026-03-18 · 59 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-erika-kirk-t-00-00-28" style="--pulse-height:38%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 33 mentions" title="2026-03-23 · 33 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-erika-kirk-t-00-00-38" style="--pulse-height:44%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 38 mentions" title="2026-03-24 · 38 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-02-23" style="--pulse-height:49%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 42 mentions" title="2026-03-25 · 42 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-erika-kirk-t-00-38-09" style="--pulse-height:63%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 54 mentions" title="2026-08-14 · 54 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -198,6 +199,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-erika-kirk-t-00-00-00) | 59 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-erika-kirk-t-00-00-28) | 33 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-erika-kirk-t-00-00-38) | 38 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-02-23) | 42 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-erika-kirk-t-00-38-09) | 54 |
 
 </details>
@@ -372,6 +374,137 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 **[04:00:43](/episodes/ep-nPhCKwJ6ye8.md#ent-person-erika-kirk-t-04-00-43)**
 > "...s case. They don't care about Erika Kirk."
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (42 mentions)</summary>
+
+**[00:02:51](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-02-23)**
+> "Erika"
+
+**[00:00:47](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-00-41)**
+> "... we discussed yesterday where Erika was allegedly seen? I got to tell you right off t..."
+
+**[00:05:37](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-05-37)**
+> "...t the exact-ish time was that Erika Kirk arrived at the hospital. Take a listen to what he..."
+
+**[00:05:47](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-05-47)**
+> "And then when Erika got there, she spent a lot of time talking to the..."
+
+**[00:06:24](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-06-15)**
+> "..., Houston. The plane in which Erika told me. That Andrew was aboard that day did not ..."
+
+**[00:06:35](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-06-15)**
+> "So if indeed Erika was available to console Andrew and to meet Andre..."
+
+**[00:08:43](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-08-16)**
+> "...o one to talk to when you saw Erika and you quote unquote boohoo cried, Andrew did no..."
+
+**[00:08:52](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-08-16)**
+> "...when he described that he and Erika hugged on the tarmac. This hug will never go away..."
+
+**[00:09:02](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-09-02)**
+> "...k Turek is telling the truth: Erika arrived at 4 o'clock p.m.-ish at the hospital, an..."
+
+**[00:09:21](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-09-02)**
+> "...t my memory was correct, that Erika therefore flew in earlier than Andrew aboard a pl..."
+
+**[00:09:30](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-09-02)**
+> "Erika, therefore, flew in earlier than Andrew aboard a ..."
+
+**[00:10:08](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-09-39)**
+> "..., again, this is crucial that Erika was on an earlier flight. The question that we no..."
+
+**[00:10:28](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-10-24)**
+> "...s of Andrew tells a story and Erika tells a story, we are able to determine that Andr..."
+
+**[00:10:50](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-10-24)**
+> "...t and wrote, nope, I told you Erika was on the phone that day."
+
+**[00:11:03](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-11-03)**
+> "... a liar, but in reality, it's Erika that's lying."
+
+**[00:11:55](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-11-49)**
+> "...d him: anything happens, call Erika, call Erika, call Erika; first thing, walk away. ..."
+
+**[00:12:42](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-12-33)**
+> "... and then they conferenced in Erika thereafter."
+
+**[00:14:14](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-13-39)**
+> "...n is like the de facto mom to Erika. She's going to step in. She's the only person Er..."
+
+**[00:14:45](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-14-21)**
+> "...se Stacey Sheridan lives with Erika and Charlie, the same apartment complex, not in t..."
+
+**[00:14:56](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-14-56)**
+> "... move into the apartment that Erika and charlie live they really are family guys it's..."
+
+**[00:15:43](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-15-32)**
+> "...owyer? Because I do feel that Erika and Tyler flew together definitively. Was Tyler B..."
+
+**[00:16:07](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-16-07)**
+> "...e she grew up with. Remember, Erika grew up in Scottsdale."
+
+**[00:16:19](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-16-07)**
+> "... she's my mom now Okay. Okay, Erika."
+
+**[00:16:57](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-16-48)**
+> "...for whatever reason she beats Erika to the airport, which is remarkable to me."
+
+**[00:17:07](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-16-48)**
+> "Given how close Erika and Stacey live to the airport, how close the all..."
+
+**[00:17:24](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-17-24)**
+> "Erika's very close. Where's Erika at this time? Why has n..."
+
+**[00:17:36](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-17-24)**
+> "...gone. She's the one that told Erika when Erika gets to the airport and she's inside o..."
+
+**[00:17:55](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-17-24)**
+> "...Of course, right off the bat, Erika told me that the doctor called her directly."
+
+**[00:18:23](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-18-09)**
+> "...... The team that transported Erika to the airport on that day. And she also went out..."
+
+**[00:18:54](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-18-54)**
+> "...fter the one who went in with Erika to see Charlie's body for the first time."
+
+**[00:19:00](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-18-54)**
+> "...fter the one who went in with Erika to see Charlie's body for the first time. That's ..."
+
+**[00:21:05](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-20-48)**
+> "... And this is apparently where Erika was when she had this little collapse, second col..."
+
+**[00:21:46](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-21-31)**
+> "...with him he doesn't even know Erika"
+
+**[00:23:24](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-23-24)**
+> "... be nothing wrong with seeing Erika where she's supposed to be it's not something you..."
+
+**[00:24:02](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-24-02)**
+> "...firm or deny whether they saw Erika that day at their offices."
+
+**[00:35:06](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-34-49)**
+> "... just a lie. I was not naming Erika. I said nice things about Erika, about her speech..."
+
+**[00:35:16](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-34-49)**
+> "Didn't start covering Erika until Erika lied to my face in December, but that..."
+
+**[00:46:44](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-46-44)**
+> "Andrew Kolvet's angry. Erika is angry. I forgot to mention this. It came to me..."
+
+**[00:47:12](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-47-12)**
+> "...r Carlson and for some reason Erika thought that that was Joe Kent and she kept askin..."
+
+**[00:49:27](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-49-17)**
+> "... thought elizabeth patched in Erika when she was on the phone with mikey but then eli..."
+
+**[00:50:29](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-50-29)**
+> "...e already grieved longer than Erika Kirk genuinely when my cat died it took me years I jus..."
+
+**[00:52:51](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-52-28)**
+> "Still can't get an Erika sighting, but I do have a lot of issues with her ..."
 
 </details>
 
@@ -5432,137 +5565,6 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (42 mentions)</summary>
-
-**[00:02:51](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-51)**
-> "Erika"
-
-**[00:00:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-00-47)**
-> "... we discussed yesterday where Erika was allegedly seen? I got to tell you right off t..."
-
-**[00:05:37](/episodes/ep-5m-Wn6Pr5rM.md#t-00-05-37)**
-> "...t the exact-ish time was that Erika Kirk arrived at the hospital. Take a listen to what he..."
-
-**[00:05:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-05-47)**
-> "And then when Erika got there, she spent a lot of time talking to the..."
-
-**[00:06:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-06-24)**
-> "..., Houston. The plane in which Erika told me. That Andrew was aboard that day did not ..."
-
-**[00:06:35](/episodes/ep-5m-Wn6Pr5rM.md#t-00-06-35)**
-> "So if indeed Erika was available to console Andrew and to meet Andre..."
-
-**[00:08:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-08-43)**
-> "...o one to talk to when you saw Erika and you quote unquote boohoo cried, Andrew did no..."
-
-**[00:08:52](/episodes/ep-5m-Wn6Pr5rM.md#t-00-08-52)**
-> "...when he described that he and Erika hugged on the tarmac. This hug will never go away..."
-
-**[00:09:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-09-02)**
-> "...k Turek is telling the truth: Erika arrived at 4 o'clock p.m.-ish at the hospital, an..."
-
-**[00:09:21](/episodes/ep-5m-Wn6Pr5rM.md#t-00-09-21)**
-> "...t my memory was correct, that Erika therefore flew in earlier than Andrew aboard a pl..."
-
-**[00:09:30](/episodes/ep-5m-Wn6Pr5rM.md#t-00-09-30)**
-> "Erika, therefore, flew in earlier than Andrew aboard a ..."
-
-**[00:10:08](/episodes/ep-5m-Wn6Pr5rM.md#t-00-10-08)**
-> "..., again, this is crucial that Erika was on an earlier flight. The question that we no..."
-
-**[00:10:28](/episodes/ep-5m-Wn6Pr5rM.md#t-00-10-28)**
-> "...s of Andrew tells a story and Erika tells a story, we are able to determine that Andr..."
-
-**[00:10:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-10-50)**
-> "...t and wrote, nope, I told you Erika was on the phone that day."
-
-**[00:11:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-03)**
-> "... a liar, but in reality, it's Erika that's lying."
-
-**[00:11:55](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-55)**
-> "...d him: anything happens, call Erika, call Erika, call Erika; first thing, walk away. ..."
-
-**[00:12:42](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-42)**
-> "... and then they conferenced in Erika thereafter."
-
-**[00:14:14](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-14)**
-> "...n is like the de facto mom to Erika. She's going to step in. She's the only person Er..."
-
-**[00:14:45](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-45)**
-> "...se Stacey Sheridan lives with Erika and Charlie, the same apartment complex, not in t..."
-
-**[00:14:56](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-56)**
-> "... move into the apartment that Erika and charlie live they really are family guys it's..."
-
-**[00:15:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-15-43)**
-> "...owyer? Because I do feel that Erika and Tyler flew together definitively. Was Tyler B..."
-
-**[00:16:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-16-07)**
-> "...e she grew up with. Remember, Erika grew up in Scottsdale."
-
-**[00:16:19](/episodes/ep-5m-Wn6Pr5rM.md#t-00-16-19)**
-> "... she's my mom now Okay. Okay, Erika."
-
-**[00:16:57](/episodes/ep-5m-Wn6Pr5rM.md#t-00-16-57)**
-> "...for whatever reason she beats Erika to the airport, which is remarkable to me."
-
-**[00:17:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-07)**
-> "Given how close Erika and Stacey live to the airport, how close the all..."
-
-**[00:17:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-24)**
-> "Erika's very close. Where's Erika at this time? Why has n..."
-
-**[00:17:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-36)**
-> "...gone. She's the one that told Erika when Erika gets to the airport and she's inside o..."
-
-**[00:17:55](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-55)**
-> "...Of course, right off the bat, Erika told me that the doctor called her directly."
-
-**[00:18:23](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-23)**
-> "...... The team that transported Erika to the airport on that day. And she also went out..."
-
-**[00:18:54](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-54)**
-> "...fter the one who went in with Erika to see Charlie's body for the first time."
-
-**[00:19:00](/episodes/ep-5m-Wn6Pr5rM.md#t-00-19-00)**
-> "...fter the one who went in with Erika to see Charlie's body for the first time. That's ..."
-
-**[00:21:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-21-05)**
-> "... And this is apparently where Erika was when she had this little collapse, second col..."
-
-**[00:21:46](/episodes/ep-5m-Wn6Pr5rM.md#t-00-21-46)**
-> "...with him he doesn't even know Erika"
-
-**[00:23:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-23-24)**
-> "... be nothing wrong with seeing Erika where she's supposed to be it's not something you..."
-
-**[00:24:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-24-02)**
-> "...firm or deny whether they saw Erika that day at their offices."
-
-**[00:35:06](/episodes/ep-5m-Wn6Pr5rM.md#t-00-35-06)**
-> "... just a lie. I was not naming Erika. I said nice things about Erika, about her speech..."
-
-**[00:35:16](/episodes/ep-5m-Wn6Pr5rM.md#t-00-35-16)**
-> "Didn't start covering Erika until Erika lied to my face in December, but that..."
-
-**[00:46:44](/episodes/ep-5m-Wn6Pr5rM.md#t-00-46-44)**
-> "Andrew Kolvet's angry. Erika is angry. I forgot to mention this. It came to me..."
-
-**[00:47:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-12)**
-> "...r Carlson and for some reason Erika thought that that was Joe Kent and she kept askin..."
-
-**[00:49:27](/episodes/ep-5m-Wn6Pr5rM.md#t-00-49-27)**
-> "... thought elizabeth patched in Erika when she was on the phone with mikey but then eli..."
-
-**[00:50:29](/episodes/ep-5m-Wn6Pr5rM.md#t-00-50-29)**
-> "...e already grieved longer than Erika Kirk genuinely when my cat died it took me years I jus..."
-
-**[00:52:51](/episodes/ep-5m-Wn6Pr5rM.md#t-00-52-51)**
-> "Still can't get an Erika sighting, but I do have a lot of issues with her ..."
-
-</details>
-
 </details>
 
 <details open>
@@ -5617,7 +5619,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Accused By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:44:15](/episodes/ep-CEF7gQRWYCE.md#t-00-43-43): “I've clocked Erika on another lie. ... She's now twice lied about a Dan Flood message.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:21:18](/episodes/ep-QRS_hR7NXaQ.md#t-00-21-11): “I want to speak about Erika (Erika Kirk)'s alibi on September 10th. And I'm going to put it out there that I do not believe it. I do not believe we are being told told the truth regarding her alibi.”
@@ -5628,6 +5630,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:44:46](/episodes/ep-ZzAT2xijKGQ.md#t-00-44-46): “I don't buy anything really that Erika (Erika Kirk) says. She lies a lot.”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:13:16](/episodes/ep-H9p2ZGHAs9A.md#t-00-12-32): “Erika (Erika Kirk) graduated magna cum laude. We have not been able to confirm that. That seems to be made up, but so is the rest of this bio appear to be made up. So we'll just keep going.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:35:54](/episodes/ep-I0OaY6Gryqk.md#t-00-35-28): “That everything that Erika (Erika Kirk) is doing right now is normal, that it is moral, that it is righteous in any way, that it is excusable, that she has lied through her teeth, been caught so many times that it's some like stage of grieving that nobody's gone through.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:11:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-03): “in reality, it's Erika that's lying.”
 
 </details>
 
@@ -5915,7 +5918,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Criticized By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (20)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-29): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -5937,6 +5940,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:35:54](/episodes/ep-I0OaY6Gryqk.md#t-00-35-28): “That everything that Erika (Erika Kirk) is doing right now is normal, that it is moral, that it is righteous in any way, that it is excusable, that she has lied through her teeth, been caught so many times that it's some like stage of grieving that nobody's gone through.”
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:48:56](/episodes/ep-_vg7ucP1E0g.md#t-00-48-49): “And I just that's that's fake. Okay. I didn't say it when it was first going down, but like it now that I'm just seeing how she lies and having learned about the Kanye (Kanye West) thing, I can't, I can't even go halfway. ... I can't even, I can't even go 10% with the fakeness and she's just a fundamentally dishonest person who should not be at the helm of that company or any company.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:48:34](/episodes/ep-B9TyCs-6o_0.md#t-00-48-19): “Have you paid attention to my Erika timeline? I can't find a moment when she wasn't seeking the limelight.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:11:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-03): “She allows Andrew to look like a fool and like he's a liar, but in reality, it's Erika that's lying.”
 
 </details>
 
@@ -6058,7 +6062,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Formerly Lived In (4)</summary>
+<summary>Formerly Lived In (5)</summary>
 
 - **[China](/entities/gpe-china.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -6086,6 +6090,13 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:11:49](/episodes/ep-H9p2ZGHAs9A.md#t-00-11-49): “Several years ago, after her heart was captured by the contagious inspiration of America's most transnational city, she bought a one-way ticket to New York City and made it home.”
+
+</details>
+
+- **[Scottsdale, Arizona](/entities/gpe-scottsdale.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:16:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-16-07): “Erika grew up in Scottsdale.”
 
 </details>
 
@@ -6295,7 +6306,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:50:20](/episodes/ep-OEAHy3SsIiI.md#t-00-49-35): “And that to me ran counter to my meeting with Erika (Erika Kirk).”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:48](/episodes/ep-HYn0P-P1wUw.md#t-00-26-11): “I decided to ask Erika (Erika Kirk) in person during our sit-down how she met Tyler (Tyler Bowyer).”
@@ -6306,6 +6317,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:04:34](/episodes/ep-DdPjoy5W-wY.md#t-00-04-27): “I also spoke to her and met with her”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:17:20](/episodes/ep-B9TyCs-6o_0.md#t-00-16-52): “when I had the opportunity to sit down with Erika Kirk and Justin Streiff”
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:52:41](/episodes/ep-SgVcnx4Oh30.md#t-00-52-41): “i do want to remind you that i met with Erika (Erika Kirk) just a couple of months ago”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:46:44](/episodes/ep-5m-Wn6Pr5rM.md#t-00-46-44): “last night when I met up with Erika.”
 
 </details>
 
@@ -6317,9 +6329,10 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:13:24](/episodes/ep-ti5Fxrvegno.md#t-00-12-58): “Erika (Erika Kirk) and Andrew Kolvet had an emergency three-way call with Dr. Lee Trotter, the surgeon, trying to figure out how to respond to the public about why the .30-06 didn't pass through Charlie (Charlie Kirk)'s neck.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:08:52](/episodes/ep-5m-Wn6Pr5rM.md#t-00-08-16): “he described that he and Erika hugged on the tarmac.”
 
 </details>
 
@@ -6562,10 +6575,10 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Referenced By (79)</summary>
+<summary>Referenced By (80)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:44:15](/episodes/ep-CEF7gQRWYCE.md#t-00-43-43): “I've clocked Erika on another lie. ... She's now twice lied about a Dan Flood message.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:21:18](/episodes/ep-QRS_hR7NXaQ.md#t-00-21-11): “I want to speak about Erika (Erika Kirk)'s alibi on September 10th. And I'm going to put it out there that I do not believe it. I do not believe we are being told told the truth regarding her alibi.”
@@ -6576,6 +6589,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:44:46](/episodes/ep-ZzAT2xijKGQ.md#t-00-44-46): “I don't buy anything really that Erika (Erika Kirk) says. She lies a lot.”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:13:16](/episodes/ep-H9p2ZGHAs9A.md#t-00-12-32): “Erika (Erika Kirk) graduated magna cum laude. We have not been able to confirm that. That seems to be made up, but so is the rest of this bio appear to be made up. So we'll just keep going.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:35:54](/episodes/ep-I0OaY6Gryqk.md#t-00-35-28): “That everything that Erika (Erika Kirk) is doing right now is normal, that it is moral, that it is righteous in any way, that it is excusable, that she has lied through her teeth, been caught so many times that it's some like stage of grieving that nobody's gone through.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:11:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-03): “in reality, it's Erika that's lying.”
 
 </details>
 
@@ -6700,7 +6714,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (20)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-29): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -6722,6 +6736,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:35:54](/episodes/ep-I0OaY6Gryqk.md#t-00-35-28): “That everything that Erika (Erika Kirk) is doing right now is normal, that it is moral, that it is righteous in any way, that it is excusable, that she has lied through her teeth, been caught so many times that it's some like stage of grieving that nobody's gone through.”
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:48:56](/episodes/ep-_vg7ucP1E0g.md#t-00-48-49): “And I just that's that's fake. Okay. I didn't say it when it was first going down, but like it now that I'm just seeing how she lies and having learned about the Kanye (Kanye West) thing, I can't, I can't even go halfway. ... I can't even, I can't even go 10% with the fakeness and she's just a fundamentally dishonest person who should not be at the helm of that company or any company.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:48:34](/episodes/ep-B9TyCs-6o_0.md#t-00-48-19): “Have you paid attention to my Erika timeline? I can't find a moment when she wasn't seeking the limelight.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:11:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-03): “She allows Andrew to look like a fool and like he's a liar, but in reality, it's Erika that's lying.”
 
 </details>
 
@@ -6842,6 +6857,13 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:11:49](/episodes/ep-H9p2ZGHAs9A.md#t-00-11-49): “Several years ago, after her heart was captured by the contagious inspiration of America's most transnational city, she bought a one-way ticket to New York City and made it home.”
+
+</details>
+
+- **[Scottsdale, Arizona](/entities/gpe-scottsdale.md)** former residence of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:16:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-16-07): “Erika grew up in Scottsdale.”
 
 </details>
 
@@ -7136,7 +7158,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:50:20](/episodes/ep-OEAHy3SsIiI.md#t-00-49-35): “And that to me ran counter to my meeting with Erika (Erika Kirk).”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:48](/episodes/ep-HYn0P-P1wUw.md#t-00-26-11): “I decided to ask Erika (Erika Kirk) in person during our sit-down how she met Tyler (Tyler Bowyer).”
@@ -7147,6 +7169,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:04:34](/episodes/ep-DdPjoy5W-wY.md#t-00-04-27): “I also spoke to her and met with her”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:17:20](/episodes/ep-B9TyCs-6o_0.md#t-00-16-52): “when I had the opportunity to sit down with Erika Kirk and Justin Streiff”
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:52:41](/episodes/ep-SgVcnx4Oh30.md#t-00-52-41): “i do want to remind you that i met with Erika (Erika Kirk) just a couple of months ago”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:46:44](/episodes/ep-5m-Wn6Pr5rM.md#t-00-46-44): “last night when I met up with Erika.”
 
 </details>
 
@@ -7158,9 +7181,10 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:13:24](/episodes/ep-ti5Fxrvegno.md#t-00-12-58): “Erika (Erika Kirk) and Andrew Kolvet had an emergency three-way call with Dr. Lee Trotter, the surgeon, trying to figure out how to respond to the public about why the .30-06 didn't pass through Charlie (Charlie Kirk)'s neck.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:08:52](/episodes/ep-5m-Wn6Pr5rM.md#t-00-08-16): “he described that he and Erika hugged on the tarmac.”
 
 </details>
 
@@ -7726,6 +7750,50 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 - [03:26:38](/episodes/ep-nPhCKwJ6ye8.md#t-03-26-38) (Opinion) **Candace Owens**: ["Candace Owens believes Erika Kirk should be formally questioned becaus..."](/statements/statement-c8adff2dd148.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (13)</summary>
+
+- [00:05:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-05-47) (Claim) **Frank Turek** (via quoted speech): ["Erika Kirk probably arrived at the hospital around 4 p.m."](/statements/statement-138fff1e852b.md)
+  - Also about: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:06:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-06-15) (Claim) **Candace Owens** (via paraphrase): ["The plane that Erika Kirk told Candace Owens carried Andrew Kolvet did..."](/statements/statement-ce02a70f1a1d.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Yrefy](/entities/org-yrefy.md), [Provo Airport](/entities/org-provo-airport.md)
+
+- [00:07:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-07-31) (Claim) **Candace Owens**: ["Even with a police escort, Erika Kirk and the others would have arrive..."](/statements/statement-acf39f460fa9.md)
+  - Also about: [Provo Airport](/entities/org-provo-airport.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:09:21](/episodes/ep-5m-Wn6Pr5rM.md#t-00-09-02) (Accusation) **Candace Owens**: ["My proposed explanation is that Erika Kirk flew in earlier than Andrew..."](/statements/statement-5f081a5d1b78.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:10:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-10-24) (Accusation) **Candace Owens**: ["Erika Kirk was on the phone directing Andrew Kolvet to do those things..."](/statements/statement-b6027dee3443.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:15:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-15-32) (Claim) **Candace Owens**: ["I believe Erika Kirk and Tyler Bowyer flew together."](/statements/statement-3e567b42755e.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+- [00:17:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-24) (Claim) **Candace Owens** (via paraphrase): ["According to Elizabeth McCoy's alleged narrative, Elizabeth told Erika..."](/statements/statement-b787aa6e71ce.md)
+  - Also about: [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Fixed-base operator](/entities/concept-fixed-base-operator.md)
+
+- [00:17:55](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-24) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk told me that the doctor called her directly and informed he..."](/statements/statement-3b3b396856d7.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:18:09](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-09) (Claim) **Candace Owens**: ["Katherine Locastro was part of the team that transported Erika Kirk to..."](/statements/statement-2bf82b4d32a9.md)
+  - Also about: [Katherine Locastro](/entities/person-katherine-locastro.md), [Utah](/entities/gpe-utah.md)
+
+- [00:22:59](/episodes/ep-5m-Wn6Pr5rM.md#t-00-22-59) (Claim) **Hopkinson Aircraft employee (unidentified)** (via quoted speech): ["I will not confirm or deny whether I saw Erika Kirk at Hopkinson Aircr..."](/statements/statement-ead9172d000f.md)
+  - Also about: [Hopkinson Aircraft Sales](/entities/org-hopkinson-aircraft-sales.md)
+
+- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) (Accusation) **Alexis Wilkins** (via quoted tweet): ["Within hours of Charlie Kirk's assassination, Candace Owens publicly a..."](/statements/statement-b2726c243b67.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Israel](/entities/gpe-israel.md)
+
+- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) (Claim) **Candace Owens**: ["I did not name Erika Kirk or attribute Charlie Kirk's killing to Israe..."](/statements/statement-e1617f27d099.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+
+- [00:47:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-12) (Claim) **Candace Owens**: ["Erika Kirk asked whether Joe Kent was my source at the hospital, and I..."](/statements/statement-49ddf25219af.md)
+  - Also about: [Joe Kent](/entities/person-joe-kent.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
 
 </details>
 
@@ -9373,50 +9441,6 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 - [00:45:33](/episodes/ep-ja26iltROkM.md#t-00-45-12) (Promise) **Candace Owens**: ["Candace will not stop investigating Charlie Kirks death unless Erika K..."](/statements/statement-f7f24f5ce6ee.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (13)</summary>
-
-- [00:05:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-05-47) (Claim) **Frank Turek** (via quoted speech): ["Erika Kirk probably arrived at the hospital around 4 p.m."](/statements/statement-138fff1e852b.md)
-  - Also about: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
-
-- [00:06:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-06-24) (Claim) **Candace Owens** (via paraphrase): ["The plane that Erika Kirk told Candace Owens carried Andrew Kolvet did..."](/statements/statement-ce02a70f1a1d.md)
-  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Yrefy](/entities/org-yrefy.md), [Provo Airport](/entities/org-provo-airport.md)
-
-- [00:07:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-07-31) (Claim) **Candace Owens**: ["Even with a police escort, Erika Kirk and the others would have arrive..."](/statements/statement-acf39f460fa9.md)
-  - Also about: [Provo Airport](/entities/org-provo-airport.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
-
-- [00:09:21](/episodes/ep-5m-Wn6Pr5rM.md#t-00-09-21) (Accusation) **Candace Owens**: ["My proposed explanation is that Erika Kirk flew in earlier than Andrew..."](/statements/statement-5f081a5d1b78.md)
-  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:10:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-10-50) (Accusation) **Candace Owens**: ["Erika Kirk was on the phone directing Andrew Kolvet to do those things..."](/statements/statement-b6027dee3443.md)
-  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
-
-- [00:15:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-15-43) (Claim) **Candace Owens**: ["I believe Erika Kirk and Tyler Bowyer flew together."](/statements/statement-3e567b42755e.md)
-  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
-
-- [00:17:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-24) (Claim) **Candace Owens** (via paraphrase): ["According to Elizabeth McCoy's alleged narrative, Elizabeth told Erika..."](/statements/statement-b787aa6e71ce.md)
-  - Also about: [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Fixed-base operator](/entities/concept-fixed-base-operator.md)
-
-- [00:17:55](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-55) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk told me that the doctor called her directly and informed he..."](/statements/statement-3b3b396856d7.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:18:09](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-09) (Claim) **Candace Owens**: ["Katherine Locastro was part of the team that transported Erika Kirk to..."](/statements/statement-2bf82b4d32a9.md)
-  - Also about: [Katherine Locastro](/entities/person-katherine-locastro.md), [Utah](/entities/gpe-utah.md)
-
-- [00:22:59](/episodes/ep-5m-Wn6Pr5rM.md#t-00-22-59) (Claim) **Hopkinson Aircraft employee (unidentified)** (via quoted speech): ["I will not confirm or deny whether I saw Erika Kirk at Hopkinson Aircr..."](/statements/statement-ead9172d000f.md)
-  - Also about: [Hopkinson Aircraft Sales](/entities/org-hopkinson-aircraft-sales.md)
-
-- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) (Accusation) **Alexis Wilkins** (via quoted tweet): ["Within hours of Charlie Kirk's assassination, Candace Owens publicly a..."](/statements/statement-b2726c243b67.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Israel](/entities/gpe-israel.md)
-
-- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) (Claim) **Candace Owens**: ["I did not name Erika Kirk or attribute Charlie Kirk's killing to Israe..."](/statements/statement-e1617f27d099.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
-
-- [00:47:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-12) (Claim) **Candace Owens**: ["Erika Kirk asked whether Joe Kent was my source at the hospital, and I..."](/statements/statement-49ddf25219af.md)
-  - Also about: [Joe Kent](/entities/person-joe-kent.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
 
 </details>
 

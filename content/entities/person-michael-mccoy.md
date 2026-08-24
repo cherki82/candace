@@ -24,12 +24,12 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-michael-mccoy-t-00-19-30">2025-10-01 · 00:19:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-michael-mccoy-t-00-32-43">2026-03-23 · 00:32:43</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-49-17">2026-03-25 · 00:49:27</a></strong></div>
 <div><span>Episodes</span><strong>43</strong></div>
 <div><span>Mentions</span><strong>238</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>41</strong></div>
-<div><span>Relationships</span><strong>17</strong></div>
+<div><span>Relationships</span><strong>19</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -79,6 +79,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-michael-mccoy-t-00-41-34" style="--pulse-height:8%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-michael-mccoy-t-00-34-47" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-michael-mccoy-t-00-32-43" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-12-33" style="--pulse-height:18%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 7 mentions" title="2026-03-25 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -126,6 +127,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-person-michael-mccoy-t-00-41-34) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-michael-mccoy-t-00-34-47) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-michael-mccoy-t-00-32-43) | 1 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-12-33) | 7 |
 
 </details>
 </section>
@@ -134,6 +136,32 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 
 <details>
 <summary><strong class="section-title">Raw mentions (238)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (7 mentions)</summary>
+
+**[00:12:33](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-12-33)**
+> "Mikey McCoy"
+
+**[00:14:56](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-14-56)**
+> "...ly are family guys it's weird mikey mccoy is there all the time they're always all together..."
+
+**[00:18:09](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-18-09)**
+> "...re was a lot of evidence that Mikey McCoy's assistant, who knew he needed one, a young woman ..."
+
+**[00:18:39](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-18-09)**
+> "...ing to Elizabeth's narrative, Mikey's assistant Catherine got sick on the plane, overwh..."
+
+**[00:18:54](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-18-54)**
+> "...lvet is to be believed, where Mikey McCoy met them all outside and Elizabeth was thereafter..."
+
+**[00:19:00](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-18-54)**
+> "where Mikey McCoy met them all outside and Elizabeth was thereafter..."
+
+**[00:49:27](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-49-17)**
+> "...hen she was on the phone with mikey but then elizabeth also told Erika at the airport..."
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1 mentions)</summary>
@@ -1038,32 +1066,6 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (7 mentions)</summary>
-
-**[00:12:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-33)**
-> "Mikey McCoy"
-
-**[00:14:56](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-56)**
-> "...ly are family guys it's weird mikey mccoy is there all the time they're always all together..."
-
-**[00:18:09](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-09)**
-> "...re was a lot of evidence that Mikey McCoy's assistant, who knew he needed one, a young woman ..."
-
-**[00:18:39](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-39)**
-> "...ing to Elizabeth's narrative, Mikey's assistant Catherine got sick on the plane, overwh..."
-
-**[00:18:54](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-54)**
-> "...lvet is to be believed, where Mikey McCoy met them all outside and Elizabeth was thereafter..."
-
-**[00:19:00](/episodes/ep-5m-Wn6Pr5rM.md#t-00-19-00)**
-> "where Mikey McCoy met them all outside and Elizabeth was thereafter..."
-
-**[00:49:27](/episodes/ep-5m-Wn6Pr5rM.md#t-00-49-27)**
-> "...hen she was on the phone with mikey but then elizabeth also told Erika at the airport..."
-
-</details>
-
 </details>
 
 <details open>
@@ -1129,6 +1131,18 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 <details>
+<summary>Employs (1)</summary>
+
+- **[Katherine Locastro](/entities/person-katherine-locastro.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:18:09](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-09): “Mikey McCoy's assistant”
+
+</details>
+
+</details>
+
+<details>
 <summary>Interviewed By (1)</summary>
 
 - **[Real America's Voice](/entities/org-real-americas-voice.md)**
@@ -1180,7 +1194,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (10)</summary>
 
 - **[Blake Neff](/entities/person-blake-neff.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1230,10 +1244,11 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 - **[Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)** married to this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:11:46](/episodes/ep-OEAHy3SsIiI.md#t-00-11-36): “potentially more amazing than her husband Michael McCoy.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:14:00](/episodes/ep-ZzAT2xijKGQ.md#t-00-13-26): “they believe Andrew (Andrew Kolvet) was accompanied by Mikey McCoy (Michael McCoy) and his wife Elizabeth.”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:12:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-33): “Mikey McCoy, her husband”
 
 </details>
 
@@ -1255,6 +1270,13 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:32:43](/episodes/ep-B9TyCs-6o_0.md#t-00-32-43): “he was defending Mikey McCoy and talked about how he ran and after he ran, he called his mom. ... And around the time I put that phone away and then he immediately calls his dad. ... He calls Rob McCoy.”
 - [Myron Gaines x Candace Owens @ 00:59:59](/episodes/ep-2T39-oADLj0.md#t-00-59-40): “And you're brought in by Rob, your dad,”
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:00](/episodes/ep-wcD2khO3rOA.md#t-00-06-24): “his father, Rob McCoy”
+
+</details>
+
+- **[Katherine Locastro](/entities/person-katherine-locastro.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:18:09](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-09): “Mikey McCoy's assistant”
 
 </details>
 

@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Candace Owens said Andrew Kolvet arrived by plane in Provo on September 10 and collapsed crying into Erika Kirk's arms.
 
-## Mentioned In (4 times)
+## Mentioned In (5 times)
 
 ### 1. Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace E...
 
@@ -44,3 +44,11 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(973);return false;">▶️ Play</a>
 
 > He collapsed into Erika's arms. Somebody told me this. painted a picture in my mind
+
+### 5. Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | ...
+
+**Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
+**Timestamp:** [00:08:52](/episodes/ep-5m-Wn6Pr5rM.md#event-event-2025-09-10-candace-owens-said-andrew-kolvet-arrived-t-00-08-16) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(532);return false;">▶️ Play</a>
+
+> he described that he and Erika hugged on the tarmac. This hug will never go away.

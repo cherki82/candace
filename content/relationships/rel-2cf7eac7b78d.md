@@ -11,7 +11,11 @@ object: "person-erika-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) met with [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (9 mentions)
+### Evidence (10 mentions)
+
+**[Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM)**
+
+- [00:46:44](/episodes/ep-5m-Wn6Pr5rM#t-00-46-44): _last night when I met up with Erika._
 
 **[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
 

@@ -4,9 +4,10 @@ description: "\"Erika Kirk probably arrived at the hospital around 4 p.m.\" — 
 statement_id: "statement-138fff1e852b"
 speaker: "Frank Turek"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -27,7 +28,7 @@ type: "factual_claim"
 
 ## Source
 
-**Episode:** [5m-Wn6Pr5rM](/episodes/ep-5m-Wn6Pr5rM.md)
+**Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:05:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-05-47) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(347);return false;">Play</a>
 
@@ -35,7 +36,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Frank Turek said in his published eyewitness podcast transcript that Erika probably arrived around 4 p.m., while explicitly hedging that he did not know the precise time. This verifies the quotation and its uncertainty, not the actual arrival time.
+
+**Confidence:** High
+
+**Sources:**
+
+- [The Greatness of Charlie Kirk: An Eyewitness Account of His Life and Martyrdom](https://crossexamined.org/wp-content/uploads/2025/09/9.16-Podcast-The-Greatness-of-Charlie-Kirk.pdf)
+
+*Verified: 2026-08-24T09:59:36.792919*
 
 ---
 

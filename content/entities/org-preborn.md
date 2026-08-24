@@ -24,7 +24,7 @@ Source: [PreBorn!](https://preborn.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-32-31">2025-09-15 · 00:31:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-org-preborn-t-00-30-09">2026-03-17 · 00:30:15</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-preborn-t-00-24-43">2026-03-25 · 00:25:11</a></strong></div>
 <div><span>Episodes</span><strong>40</strong></div>
 <div><span>Mentions</span><strong>132</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -76,6 +76,7 @@ Source: [PreBorn!](https://preborn.com/)
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-org-preborn-t-00-36-22" style="--pulse-height:14%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-preborn-t-00-30-41" style="--pulse-height:14%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-org-preborn-t-00-29-24" style="--pulse-height:43%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-preborn-t-00-24-02" style="--pulse-height:43%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 3 mentions" title="2026-03-25 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -120,6 +121,7 @@ Source: [PreBorn!](https://preborn.com/)
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-preborn-t-00-36-22) | 1 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-preborn-t-00-30-41) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-org-preborn-t-00-29-24) | 3 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-preborn-t-00-24-02) | 3 |
 
 </details>
 </section>
@@ -128,6 +130,20 @@ Source: [PreBorn!](https://preborn.com/)
 
 <details>
 <summary><strong class="section-title">Raw mentions (132)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (3 mentions)</summary>
+
+**[00:24:18](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-preborn-t-00-24-02)**
+> "Preborn"
+
+**[00:24:36](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-preborn-t-00-24-02)**
+> "...mother in crisis walks into a Preborn network clinic and sees her baby on an ultrasound..."
+
+**[00:25:11](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-preborn-t-00-24-43)**
+> "...ay the keyword baby, or visit Preborn.com/Candace. Again, that's Preborn.com/Candace."
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (3 mentions)</summary>
@@ -699,20 +715,6 @@ Source: [PreBorn!](https://preborn.com/)
 
 **[00:33:33](/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-33-14)**
 > "... now. You can call 855-601-2229 or head to preborn.com slash Candace (Candace Owens). Again, that's preborn.com slash Candace (Candace Owens). Also remind you guys about GNOLand, because what if smart contra..."
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (3 mentions)</summary>
-
-**[00:24:18](/episodes/ep-5m-Wn6Pr5rM.md#t-00-24-18)**
-> "Preborn"
-
-**[00:24:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-24-36)**
-> "...mother in crisis walks into a Preborn network clinic and sees her baby on an ultrasound..."
-
-**[00:25:11](/episodes/ep-5m-Wn6Pr5rM.md#t-00-25-11)**
-> "...ay the keyword baby, or visit Preborn.com/Candace. Again, that's Preborn.com/Candace."
 
 </details>
 

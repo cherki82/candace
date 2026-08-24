@@ -41,6 +41,7 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-joe-kent-t-00-43-59" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 2 mentions" title="2026-03-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-joe-kent-t-00-00-00" style="--pulse-height:100%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 33 mentions" title="2026-03-23 · 33 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-joe-kent-t-00-43-03" style="--pulse-height:33%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 11 mentions" title="2026-03-24 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-joe-kent-t-00-27-20" style="--pulse-height:30%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 10 mentions" title="2026-03-25 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-kent-t-02-25-29" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -53,6 +54,7 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-joe-kent-t-00-43-59) | 2 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-joe-kent-t-00-00-00) | 33 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-joe-kent-t-00-43-03) | 11 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-joe-kent-t-00-27-20) | 10 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-kent-t-02-25-29) | 1 |
 
 </details>
@@ -68,6 +70,41 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 
 **[02:25:29](/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-kent-t-02-25-29)**
 > "Well, Joe Kent,"
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (10 mentions)</summary>
+
+**[00:27:20](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-joe-kent-t-00-27-20)**
+> "Joe Kent"
+
+**[00:30:56](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-joe-kent-t-00-30-38)**
+> "...ols me and Tucker Carlson and Joe Kent and General Michael Flynn."
+
+**[00:35:35](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-joe-kent-t-00-35-29)**
+> "... chapter four she talks about joe kent resigning which just happened and then catholics ..."
+
+**[00:36:12](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-joe-kent-t-00-36-12)**
+> "...people that are interested in Joe Kent's resignation and they are the same people that are..."
+
+**[00:36:50](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-joe-kent-t-00-36-50)**
+> "...es to go to war with Iran and Joe Kent resigns for that information."
+
+**[00:43:36](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-joe-kent-t-00-43-22)**
+> "...because she doesn't like that Joe Kent's Catholic and I'm Catholic"
+
+**[00:46:28](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-joe-kent-t-00-46-05)**
+> "...rites, they are investigating Joe Kent harder than they investigated Charlie's murder."
+
+**[00:46:44](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-joe-kent-t-00-46-44)**
+> "...up with Erika. She brought up Joe Kent and I was so confused."
+
+**[00:47:12](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-joe-kent-t-00-47-12)**
+> "...n Erika thought that that was Joe Kent and she kept asking about Joe Kent and I was like..."
+
+**[00:47:30](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-joe-kent-t-00-47-12)**
+> "...'s some guy and she mentioned Joe Kent so Joe Kent has been on her mind for a long time ..."
 
 </details>
 
@@ -311,41 +348,6 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 
 **[00:22:54](/episodes/ep-Qt0VHV-POCg.md#ent-person-joe-kent-t-00-22-39)**
 > "...pened on that day. And I'm getting the suspicion that there were some foreign entities involved. So Joe Kent, Tulsi Gabbard—if you guys by any chance see this episode—keep going, right? We're just going very ..."
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (10 mentions)</summary>
-
-**[00:27:20](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-20)**
-> "Joe Kent"
-
-**[00:30:56](/episodes/ep-5m-Wn6Pr5rM.md#t-00-30-56)**
-> "...ols me and Tucker Carlson and Joe Kent and General Michael Flynn."
-
-**[00:35:35](/episodes/ep-5m-Wn6Pr5rM.md#t-00-35-35)**
-> "... chapter four she talks about joe kent resigning which just happened and then catholics ..."
-
-**[00:36:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-36-12)**
-> "...people that are interested in Joe Kent's resignation and they are the same people that are..."
-
-**[00:36:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-36-50)**
-> "...es to go to war with Iran and Joe Kent resigns for that information."
-
-**[00:43:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-36)**
-> "...because she doesn't like that Joe Kent's Catholic and I'm Catholic"
-
-**[00:46:28](/episodes/ep-5m-Wn6Pr5rM.md#t-00-46-28)**
-> "...rites, they are investigating Joe Kent harder than they investigated Charlie's murder."
-
-**[00:46:44](/episodes/ep-5m-Wn6Pr5rM.md#t-00-46-44)**
-> "...up with Erika. She brought up Joe Kent and I was so confused."
-
-**[00:47:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-12)**
-> "...n Erika thought that that was Joe Kent and she kept asking about Joe Kent and I was like..."
-
-**[00:47:30](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-30)**
-> "...'s some guy and she mentioned Joe Kent so Joe Kent has been on her mind for a long time ..."
 
 </details>
 
@@ -677,6 +679,16 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 </details>
 
 <details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2)</summary>
+
+- [00:27:26](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-26) (Claim) **Joe Rogan** (via quoted speech): ["Joe Kent said that they were told to stop their investigation and that..."](/statements/statement-b9aa83436838.md)
+
+- [00:47:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-12) (Claim) **Candace Owens**: ["Erika Kirk asked whether Joe Kent was my source at the hospital, and I..."](/statements/statement-49ddf25219af.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+</details>
+
+<details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1)</summary>
 
 - [00:47:22](/episodes/ep-SgVcnx4Oh30.md#t-00-46-56) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet said government officials were publicly indicating willi..."](/statements/statement-3844bc271198.md)
@@ -738,16 +750,6 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 
 - [00:29:06](/episodes/ep-I0OaY6Gryqk.md#t-00-28-52) (Accusation) **Candace Owens**: ["Kash Patel blocked investigation into whether foreign actors were invo..."](/statements/statement-c94e2d48b97f.md)
   - Also about: [Kash Patel](/entities/person-kash-patel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (2)</summary>
-
-- [00:27:26](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-26) (Claim) **Joe Rogan** (via quoted speech): ["Joe Kent said that they were told to stop their investigation and that..."](/statements/statement-b9aa83436838.md)
-
-- [00:47:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-12) (Claim) **Candace Owens**: ["Erika Kirk asked whether Joe Kent was my source at the hospital, and I..."](/statements/statement-49ddf25219af.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
 
 </details>
 

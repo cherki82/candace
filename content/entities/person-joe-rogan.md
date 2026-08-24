@@ -38,6 +38,7 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-joe-rogan-t-00-39-38" style="--pulse-height:25%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-joe-rogan-t-01-01-45" style="--pulse-height:25%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-joe-rogan-t-00-40-17" style="--pulse-height:50%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-joe-rogan-t-00-26-45" style="--pulse-height:50%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-rogan-t-00-24-41" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -51,6 +52,7 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-joe-rogan-t-00-39-38) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-joe-rogan-t-01-01-45) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-joe-rogan-t-00-40-17) | 2 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-joe-rogan-t-00-26-45) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-rogan-t-00-24-41) | 4 |
 
 </details>
@@ -75,6 +77,17 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 
 **[02:57:14](/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-rogan-t-02-57-14)**
 > "joe rogan and you're like like soft explaining away why eri..."
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2 mentions)</summary>
+
+**[00:26:45](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-joe-rogan-t-00-26-45)**
+> "Joe Rogan"
+
+**[00:27:00](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-joe-rogan-t-00-26-45)**
+> "Take a listen to what Joe Rogan had to say."
 
 </details>
 
@@ -149,17 +162,6 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 
 **[00:02:31](/episodes/ep-c5BcKF91iec.md#ent-person-joe-rogan-t-00-02-20)**
 > "...e very quickly because I was doing Joe Rogan's podcast, which was huge. I didn't even know what the Joe Rogan podcast was at that moment. That's how I was so not politically inclined at all. And he's like, "Th..."
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (2 mentions)</summary>
-
-**[00:26:45](/episodes/ep-5m-Wn6Pr5rM.md#t-00-26-45)**
-> "Joe Rogan"
-
-**[00:27:00](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-00)**
-> "Take a listen to what Joe Rogan had to say."
 
 </details>
 
@@ -250,6 +252,20 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 <summary><strong class="section-title">Statements by Joe Rogan (5)</strong></summary>
 
 <details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (3)</summary>
+
+- [00:27:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-07) [◐] (Claim) ["The round Charlie Kirk was supposedly shot with was a .30-06, a large round used..."](/statements/statement-45ce4670b4df.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:27:26](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-26) [✓] (Claim) ["Joe Kent said that they were told to stop their investigation and that others we..."](/statements/statement-b9aa83436838.md)
+  - About: [Joe Kent](/entities/person-joe-kent.md)
+
+- [00:27:42](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-42) [○] (Claim) ["Tyler Robinson has not been seen speaking independently about whether he killed ..."](/statements/statement-f14e18b3a714.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1)</summary>
 
 - [00:41:36](/episodes/ep-B9TyCs-6o_0.md#t-00-41-31) [✗] (Claim) ["Erika Kirk appeared in internal films or documents associated with the CIA."](/statements/statement-67cb2cb4f42b.md)
@@ -262,20 +278,6 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 
 - [00:37:03](/episodes/ep-SKGUzGHymcI.md#t-00-36-38) [○] (Opinion) ["Conspiracies are not just real, but they're also not rare - they're very common"](/statements/statement-4f7c3140e3ef.md)
   - About: [global state military](/entities/concept-global-state-military.md)
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (3)</summary>
-
-- [00:27:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-07) [○] (Claim) ["The round Charlie Kirk was supposedly shot with was a .30-06, a large round used..."](/statements/statement-45ce4670b4df.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:27:26](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-26) [○] (Claim) ["Joe Kent said that they were told to stop their investigation and that others we..."](/statements/statement-b9aa83436838.md)
-  - About: [Joe Kent](/entities/person-joe-kent.md)
-
-- [00:27:42](/episodes/ep-5m-Wn6Pr5rM.md#t-00-27-42) [○] (Claim) ["Tyler Robinson has not been seen speaking independently about whether he killed ..."](/statements/statement-f14e18b3a714.md)
-  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

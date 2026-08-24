@@ -77,6 +77,7 @@ Source: [State of Utah official website](https://utah.gov/)
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-utah-t-00-02-56" style="--pulse-height:17%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-utah-t-00-02-42" style="--pulse-height:89%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 16 mentions" title="2026-03-23 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-utah-t-00-06-48" style="--pulse-height:44%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 8 mentions" title="2026-03-24 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-utah-t-00-09-39" style="--pulse-height:11%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-00-52-44" style="--pulse-height:94%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -126,6 +127,7 @@ Source: [State of Utah official website](https://utah.gov/)
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-utah-t-00-02-56) | 3 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-utah-t-00-02-42) | 16 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-utah-t-00-06-48) | 8 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-utah-t-00-09-39) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-00-52-44) | 17 |
 
 </details>
@@ -189,6 +191,17 @@ Source: [State of Utah official website](https://utah.gov/)
 
 **[03:48:13](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-03-48-13)**
 > "...that there's enough under the Utah 1102 rule for me to keep it there."
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2 mentions)</summary>
+
+**[00:09:39](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-utah-t-00-09-39)**
+> "Utah"
+
+**[00:18:23](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-utah-t-00-18-09)**
+> "...day. And she also went out to Utah."
 
 </details>
 
@@ -1031,17 +1044,6 @@ Source: [State of Utah official website](https://utah.gov/)
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (2 mentions)</summary>
-
-**[00:09:39](/episodes/ep-5m-Wn6Pr5rM.md#t-00-09-39)**
-> "Utah"
-
-**[00:18:23](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-23)**
-> "...day. And she also went out to Utah."
-
-</details>
-
 </details>
 
 <details open>
@@ -1175,6 +1177,14 @@ Source: [State of Utah official website](https://utah.gov/)
 <summary><strong class="section-title">Statements about Utah (9)</strong></summary>
 
 <details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1)</summary>
+
+- [00:18:09](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-09) (Claim) **Candace Owens**: ["Katherine Locastro was part of the team that transported Erika Kirk to..."](/statements/statement-2bf82b4d32a9.md)
+  - Also about: [Katherine Locastro](/entities/person-katherine-locastro.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1)</summary>
 
 - [00:39:00](/episodes/ep-SgVcnx4Oh30.md#t-00-38-24) (Claim) **Candace Owens**: ["Candace Owens said she believed Erika Kirk flew with Tyler Bowyer, tho..."](/statements/statement-6b09857af0b5.md)
@@ -1217,14 +1227,6 @@ Source: [State of Utah official website](https://utah.gov/)
 
 - [00:17:09](/episodes/ep-QZWSsq8ZWzw.md#t-00-16-32) (Claim) **Candace Owens**: ["Utah recently modernized their beehive flag, and Utah has always been ..."](/statements/statement-8d437af36e74.md)
   - Also about: [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md)
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (1)</summary>
-
-- [00:18:09](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-09) (Claim) **Candace Owens**: ["Katherine Locastro was part of the team that transported Erika Kirk to..."](/statements/statement-2bf82b4d32a9.md)
-  - Also about: [Katherine Locastro](/entities/person-katherine-locastro.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 

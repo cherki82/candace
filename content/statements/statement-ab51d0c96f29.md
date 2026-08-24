@@ -4,9 +4,10 @@ description: "\"A foreign-linked influence network has run coordinated operation
 statement_id: "statement-ab51d0c96f29"
 speaker: "Alexis Wilkins"
 type: "accusation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -28,7 +29,7 @@ type: "accusation"
 
 ## Source
 
-**Episode:** [5m-Wn6Pr5rM](/episodes/ep-5m-Wn6Pr5rM.md)
+**Episode:** [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md)
 **Timestamp:** [00:31:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1891);return false;">Play</a>
 
@@ -36,7 +37,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+An archived copy of Alexis Wilkins public thread contains the quoted assertion about a foreign-linked influence network operating for 22 months, including against her, to create chaos in the GOP. This verifies the tweet and attribution, not the underlying network allegation.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Alexis Wilkins Threads - Thread Reader App](https://threadreaderapp.com/user/AlexisWilkins)
+
+*Verified: 2026-08-24T09:59:40.528830*
 
 ---
 

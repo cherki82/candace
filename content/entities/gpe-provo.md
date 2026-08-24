@@ -24,7 +24,7 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-gpe-provo-t-00-18-15">2025-09-19 · 00:18:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-provo-t-00-40-26">2026-03-24 · 00:40:54</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-provo-t-00-03-02">2026-03-25 · 00:06:54</a></strong></div>
 <div><span>Episodes</span><strong>18</strong></div>
 <div><span>Mentions</span><strong>95</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -54,6 +54,7 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-provo-t-00-24-40" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-provo-t-00-15-11" style="--pulse-height:47%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 8 mentions" title="2026-03-23 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-provo-t-00-09-57" style="--pulse-height:41%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 7 mentions" title="2026-03-24 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-provo-t-00-02-23" style="--pulse-height:18%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 3 mentions" title="2026-03-25 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -76,6 +77,7 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-provo-t-00-24-40) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-provo-t-00-15-11) | 8 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-provo-t-00-09-57) | 7 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-provo-t-00-02-23) | 3 |
 
 </details>
 </section>
@@ -84,6 +86,20 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 
 <details>
 <summary><strong class="section-title">Raw mentions (95)</strong></summary>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (3 mentions)</summary>
+
+**[00:02:43](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-provo-t-00-02-23)**
+> "Provo"
+
+**[00:03:02](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-provo-t-00-03-02)**
+> "...first goes from Scottsdale to Provo and she alleges and I don't believe her that that..."
+
+**[00:06:54](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-provo-t-00-03-02)**
+> "...ou 20 minutes to get from the Provo Airport to Timpanogos Hospital. OK, now, by the t..."
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (7 mentions)</summary>
@@ -440,20 +456,6 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 
 **[00:18:48](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-provo-t-00-18-15)**
 > "... then they provide us with the real-world context by writing: companies like Caldera Engineering in Provo, Utah, manufacture specialized industrial valves and control systems. While no public evidence currently ..."
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (3 mentions)</summary>
-
-**[00:02:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-43)**
-> "Provo"
-
-**[00:03:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-03-02)**
-> "...first goes from Scottsdale to Provo and she alleges and I don't believe her that that..."
-
-**[00:06:54](/episodes/ep-5m-Wn6Pr5rM.md#t-00-06-54)**
-> "...ou 20 minutes to get from the Provo Airport to Timpanogos Hospital. OK, now, by the t..."
 
 </details>
 

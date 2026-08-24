@@ -113,6 +113,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-donald-trump-t-00-07-31" style="--pulse-height:9%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-donald-trump-t-00-02-11" style="--pulse-height:12%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 4 mentions" title="2026-03-23 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-donald-trump-t-00-43-03" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-donald-trump-t-00-28-01" style="--pulse-height:25%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 8 mentions" title="2026-03-25 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-donald-trump-t-02-21-59" style="--pulse-height:12%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -191,6 +192,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-donald-trump-t-00-07-31) | 3 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-donald-trump-t-00-02-11) | 4 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-donald-trump-t-00-43-03) | 1 |
+| 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-donald-trump-t-00-28-01) | 8 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-donald-trump-t-02-21-59) | 4 |
 
 </details>
@@ -215,6 +217,35 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 **[02:34:47](/episodes/ep-nPhCKwJ6ye8.md#ent-person-donald-trump-t-02-34-47)**
 > "Trump's office,"
+
+</details>
+
+<details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (8 mentions)</summary>
+
+**[00:28:26](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-donald-trump-t-00-28-01)**
+> "trump"
+
+**[00:28:30](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-donald-trump-t-00-28-01)**
+> "...uld be the biggest thing with Trump saying, what Epstein files?"
+
+**[00:31:31](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-donald-trump-t-00-31-31)**
+> "...inated operations against the Trump administration for 22 months"
+
+**[00:36:50](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-donald-trump-t-00-36-50)**
+> "...'re interested, if you were a Trump voter, you were interested in the assassination a..."
+
+**[00:37:01](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-donald-trump-t-00-36-50)**
+> "If you're a Trump voter, you're going to be interested in the truck..."
+
+**[00:37:46](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-donald-trump-t-00-37-32)**
+> "...c. When people are upset that Trump says, are we still talking about the Epstein file..."
+
+**[00:49:27](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-donald-trump-t-00-49-17)**
+> "...y're done iran's done and now trump's like negotiating with iran um iran is dropping so..."
+
+**[00:51:27](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-donald-trump-t-00-51-13)**
+> "...aise are it's because of what Trump is doing and what he's not doing."
 
 </details>
 
@@ -1844,35 +1875,6 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 </details>
 
-<details>
-<summary>ep-5m-Wn6Pr5rM (8 mentions)</summary>
-
-**[00:28:26](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-26)**
-> "trump"
-
-**[00:28:30](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-30)**
-> "...uld be the biggest thing with Trump saying, what Epstein files?"
-
-**[00:31:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31)**
-> "...inated operations against the Trump administration for 22 months"
-
-**[00:36:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-36-50)**
-> "...'re interested, if you were a Trump voter, you were interested in the assassination a..."
-
-**[00:37:01](/episodes/ep-5m-Wn6Pr5rM.md#t-00-37-01)**
-> "If you're a Trump voter, you're going to be interested in the truck..."
-
-**[00:37:46](/episodes/ep-5m-Wn6Pr5rM.md#t-00-37-46)**
-> "...c. When people are upset that Trump says, are we still talking about the Epstein file..."
-
-**[00:49:27](/episodes/ep-5m-Wn6Pr5rM.md#t-00-49-27)**
-> "...y're done iran's done and now trump's like negotiating with iran um iran is dropping so..."
-
-**[00:51:27](/episodes/ep-5m-Wn6Pr5rM.md#t-00-51-27)**
-> "...aise are it's because of what Trump is doing and what he's not doing."
-
-</details>
-
 </details>
 
 <details open>
@@ -2483,6 +2485,14 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
+<summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1)</summary>
+
+- [00:31:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31) (Accusation) **Alexis Wilkins** (via quoted tweet): ["A foreign-linked influence network has run coordinated operations agai..."](/statements/statement-ab51d0c96f29.md)
+  - Also about: [Alexis Wilkins](/entities/person-alexis-wilkins.md), [Republican Party](/entities/org-republican-party.md)
+
+</details>
+
+<details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (2)</summary>
 
 - [00:02:04](/episodes/ep-B9TyCs-6o_0.md#t-00-01-51) (Opinion) **Charlie Kirk** (via quoted speech): ["Joe, stop us from getting into a war with Iran."](/statements/statement-86b56ac8e9b6.md)
@@ -2904,14 +2914,6 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 - [00:20:05](/episodes/ep-_dRaEO47-co.md#t-00-19-31) (Claim) **Candace Owens**: ["Charlie Kirk was the intermediary when Trump called about Brigitte Gab..."](/statements/statement-ec8076b5434e.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Brigitte Gabriel](/entities/person-brigitte-gabriel.md)
-
-</details>
-
-<details>
-<summary>ep-5m-Wn6Pr5rM (1)</summary>
-
-- [00:31:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31) (Accusation) **Alexis Wilkins** (via quoted tweet): ["A foreign-linked influence network has run coordinated operations agai..."](/statements/statement-ab51d0c96f29.md)
-  - Also about: [Alexis Wilkins](/entities/person-alexis-wilkins.md), [Republican Party](/entities/org-republican-party.md)
 
 </details>
 
