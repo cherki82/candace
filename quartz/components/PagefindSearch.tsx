@@ -63,7 +63,7 @@ const loadPagefind = async () => {
   // prefix without guessing from the current route (e.g. /candace on Pages).
   const siteStyles = document.querySelector('link[rel="stylesheet"][href$="index.css"]')
   const basePath = siteStyles
-    ? new URL(siteStyles.href, window.location.href).pathname.replace(/\/index\.css$/, '')
+    ? new URL(siteStyles.href, window.location.href).pathname.replace(/\\/index\\.css$/, '')
     : ''
   const pagefindBase = basePath + '/pagefind'
 
