@@ -1,6 +1,6 @@
 ---
 title: "Egypt"
-description: "Egypt (Places) - 216 mentions"
+description: "Egypt (Places) - 218 mentions"
 id: "gpe-egypt"
 type: "GPE"
 aliases:
@@ -21,9 +21,9 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-egypt-t-00-47-32">2025-10-09 · 00:47:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-egypt-t-00-50-59">2026-03-23 · 00:51:19</a></strong></div>
-<div><span>Episodes</span><strong>36</strong></div>
-<div><span>Mentions</span><strong>216</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-egypt-t-00-39-00">2026-03-26 · 00:39:07</a></strong></div>
+<div><span>Episodes</span><strong>37</strong></div>
+<div><span>Mentions</span><strong>218</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -70,6 +70,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-egypt-t-00-15-54" style="--pulse-height:28%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 5 mentions" title="2026-02-05 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-egypt-t-00-20-39" style="--pulse-height:11%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-egypt-t-00-29-02" style="--pulse-height:44%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 8 mentions" title="2026-03-23 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-egypt-t-00-38-21" style="--pulse-height:11%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -111,6 +112,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-egypt-t-00-15-54) | 5 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-egypt-t-00-20-39) | 2 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-egypt-t-00-29-02) | 8 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-egypt-t-00-38-21) | 2 |
 
 </details>
 </section>
@@ -118,7 +120,18 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (216)</strong></summary>
+<summary><strong class="section-title">Raw mentions (218)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (2 mentions)</summary>
+
+**[00:38:45](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-egypt-t-00-38-21)**
+> "the Egyptian planes are back in town"
+
+**[00:39:07](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-egypt-t-00-39-00)**
+> "...guys we are not done with the Egyptian planes."
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (8 mentions)</summary>

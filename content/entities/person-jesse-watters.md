@@ -1,6 +1,6 @@
 ---
 title: "Jesse Watters"
-description: "Jesse Watters (People) - 22 mentions"
+description: "Jesse Watters (People) - 23 mentions"
 id: "person-jesse-watters"
 type: "PERSON"
 aliases:
@@ -21,9 +21,9 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-jesse-watters-t-00-12-44">2025-10-09 · 00:13:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-jesse-watters-t-00-24-52">2026-03-12 · 00:24:52</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-jesse-watters-t-00-21-39">2026-03-26 · 00:21:57</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -43,6 +43,7 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-jesse-watters-t-00-15-58" style="--pulse-height:11%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-jesse-watters-t-00-23-55" style="--pulse-height:11%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-jesse-watters-t-00-24-52" style="--pulse-height:11%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-jesse-watters-t-00-21-39" style="--pulse-height:11%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +58,7 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-jesse-watters-t-00-15-58) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-jesse-watters-t-00-23-55) | 1 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-jesse-watters-t-00-24-52) | 1 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-jesse-watters-t-00-21-39) | 1 |
 
 </details>
 </section>
@@ -64,7 +66,15 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
+
+**[00:21:57](/episodes/ep-DEtFh2Ff-58.md#ent-person-jesse-watters-t-00-21-39)**
+> "when she's with Jesse Watters"
+
+</details>
 
 <details>
 <summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>

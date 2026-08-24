@@ -1,6 +1,6 @@
 ---
 title: "Middle East"
-description: "Middle East (Places) - 52 mentions"
+description: "Middle East (Places) - 53 mentions"
 id: "gpe-middle-east"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-middle-east-t-00-54-45">2025-09-16 · 00:55:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-middle-east-t-00-48-10">2026-03-17 · 00:48:10</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>52</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-middle-east-t-00-52-49">2026-03-26 · 00:52:49</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>53</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -56,6 +56,7 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-middle-east-t-00-35-25" style="--pulse-height:100%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 8 mentions" title="2026-03-09 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-middle-east-t-00-00-23" style="--pulse-height:75%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 6 mentions" title="2026-03-17 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-middle-east-t-00-04-47" style="--pulse-height:12%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-middle-east-t-00-52-49" style="--pulse-height:12%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -82,6 +83,7 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-middle-east-t-00-35-25) | 8 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-middle-east-t-00-00-23) | 6 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-middle-east-t-00-04-47) | 1 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-middle-east-t-00-52-49) | 1 |
 
 </details>
 </section>
@@ -89,7 +91,15 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+<summary><strong class="section-title">Raw mentions (53)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
+
+**[00:52:49](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-middle-east-t-00-52-49)**
+> "out to the Middle East"
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (6 mentions)</summary>

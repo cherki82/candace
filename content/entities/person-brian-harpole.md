@@ -1,6 +1,6 @@
 ---
 title: "Brian Harpole"
-description: "Brian Harpole (People) - 86 mentions"
+description: "Brian Harpole (People) - 88 mentions"
 id: "person-brian-harpole"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-21-22">2025-11-18 · 00:21:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-brian-harpole-t-00-35-54">2026-03-12 · 00:36:18</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>86</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-brian-harpole-t-00-32-41">2026-03-26 · 00:32:57</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>88</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>25</strong></div>
+<div><span>Statements about</span><strong>26</strong></div>
 <div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -54,6 +54,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-brian-harpole-t-00-07-06" style="--pulse-height:50%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 5 mentions" title="2026-01-20 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-brian-harpole-t-00-09-13" style="--pulse-height:20%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-brian-harpole-t-00-31-03" style="--pulse-height:20%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-brian-harpole-t-00-32-41" style="--pulse-height:20%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -78,6 +79,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-brian-harpole-t-00-07-06) | 5 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-brian-harpole-t-00-09-13) | 2 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-brian-harpole-t-00-31-03) | 2 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-brian-harpole-t-00-32-41) | 2 |
 
 </details>
 </section>
@@ -85,7 +87,18 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (86)</strong></summary>
+<summary><strong class="section-title">Raw mentions (88)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (2 mentions)</summary>
+
+**[00:32:41](/episodes/ep-DEtFh2Ff-58.md#ent-person-brian-harpole-t-00-32-41)**
+> "they think they saw Brian Harpole"
+
+**[00:32:57](/episodes/ep-DEtFh2Ff-58.md#ent-person-brian-harpole-t-00-32-41)**
+> "...bstance of it was that he saw Brian Harpole at Fort Huachuca. He felt he had almost certainly..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (2 mentions)</summary>
@@ -654,7 +667,15 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brian Harpole (25)</strong></summary>
+<summary><strong class="section-title">Statements about Brian Harpole (26)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>
+
+- [00:32:57](/episodes/ep-DEtFh2Ff-58.md#t-00-32-41) (Claim) **Candace Owens** (via paraphrase): ["Mitch Snow's story was that he was almost certain he saw Brian Harpole..."](/statements/statement-75ce7d0d0c2c.md)
+  - Also about: [Mitch Snow](/entities/person-mitch-snow.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (2)</summary>

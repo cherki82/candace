@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=vwG1juDCQZQ"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-vwG1juDCQZQ/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=vwG1juDCQZQ&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Ladies and gentlemen, may I have your attention please, because today is obviously a day of celebration. Yes, in case you missed it, we officially have become the number one podcast in the world—not in <span id="ent-gpe-united-states-t-00-00-00"><a href="/entities/gpe-united-states.md">America</a></span>, okay, not Europe. I am talking about in the world, and the haters stay mad. Haters stay big mad on the internet.<span id="event-event-2025-11-06-candace-owens-podcast-reaches-number-one-worldwide-t-00-00-00"><a href="/events/event-2025-11-06-candace-owens-podcast-reaches-number-one-worldwide.md" class="event-indicator" title="Timeline event">📅</a></span> On X today, it is just crazy town. I mean, <span id="ent-concept-zionism-t-00-00-00"><a href="/entities/concept-zionism.md">Christian Zionist</a></span> influencers are doing that thing where they attack me for telling the truth about something. It's so strange. I don't even know how to react to it. I'm gonna do my best here. They're all weighing in, and they're commenting, and they're saying untruths about something that is literally true. It's literally true. ^t-00-00-00

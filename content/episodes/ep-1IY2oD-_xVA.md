@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=1IY2oD-_xVA"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-1IY2oD-_xVA/t-00-00-01.md" class="timestamp-link">00:00:01</a> <a href="https://www.youtube.com/watch?v=1IY2oD-_xVA&t=1" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys. Now, I know a lot of <a href="/entities/gpe-united-states.md">American</a> grandparents woke up a little bit confused this morning wondering why their grandchildren are suddenly referring to them as far, far and more far. I'm proud of us. We classed up <span id="ent-gpe-united-states-t-00-00-01"><a href="/entities/gpe-united-states.md">America</a></span>. We're now we're taking that. We're taking that from <span id="ent-gpe-sweden-t-00-00-01"><a href="/entities/gpe-sweden.md">Sweden</a></span>. This series may be dedicated to all the far, far and more far out there. I was actually speaking to one of <span id="ent-person-erika-kirk-t-00-00-01"><a href="/entities/person-erika-kirk.md">Erika</a></span>'s exes and he told me. A pretty interesting story. I thought it was very interesting. Aside from offering the standard, I do not recognize who this human is at all anymore. ^t-00-00-01

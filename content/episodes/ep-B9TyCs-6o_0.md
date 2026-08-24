@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=B9TyCs-6o_0"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-B9TyCs-6o_0/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=B9TyCs-6o_0&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys, happy Monday. It is heating up. It's heating up, ladies and gentlemen, because after <span id="ent-person-joe-kent-t-00-00-00"><a href="/entities/person-joe-kent.md">Joe Kent</a></span> resigned as the director of counterterrorism, there was this instant stream<span id="event-event-2026-03-17-joe-kent-resigns-as-director-of-the-nati-t-00-00-00"><a href="/events/event-2026-03-17-joe-kent-resigns-as-director-of-the-nati.md" class="event-indicator" title="Timeline event">📅</a></span> of <span id="ent-gpe-israel-t-00-00-00"><a href="/entities/gpe-israel.md">Israel</a></span> firsters who accused him of leaking to me. All right. <a href="/entities/person-joe-kent.md">Joe Kent</a> immediately came under attack, and curiously, <span id="ent-person-andrew-kolvet-t-00-00-00"><a href="/entities/person-andrew-kolvet.md">Andrew Kolvet</a></span> retweeted someone who suggested that <a href="/entities/person-joe-kent.md">Joe Kent</a> should be arrested for leaking classified documents. ^t-00-00-00

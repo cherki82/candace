@@ -5,6 +5,23 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-08-24 10:52:11
+
+**Added 1 episode(s):**
+  - `DEtFh2Ff-58`: VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317
+**Added 19 new entity/entities**
+**Added 8 new event(s)**
+**Added 17 new relationship(s)**
+
+**Totals:**
+- Episodes: 95
+- Entities: 2559
+- Events: 1101
+- Claims: 1461
+- Relationships: 2500
+
+---
+
 ## 2026-08-24 10:01:42
 
 **Added 15 new event(s)**

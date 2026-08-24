@@ -26,13 +26,23 @@ veracity: "true"
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
 - [Lori Frantzve](/entities/person-lori-frantzve.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:24:54](/episodes/ep-QRS_hR7NXaQ.md#t-00-24-42) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1494);return false;">Play</a>
 
 > We fast forward just a few days to September 10th and we learn one of the people that told us this was the New York Times that on September 10th, Erika (Erika Kirk) was at the hospital while her mother was receiving treatments. Now that.
+
+### 2. VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Ca...
+
+**Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
+**Timestamp:** [00:17:04](/episodes/ep-DEtFh2Ff-58.md#t-00-16-45) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1024);return false;">Play</a>
+
+> Little things like when they say Erika was in the hospital with her mom.
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA"
-description: "Turning Point USA (Organizations) - 1358 mentions"
+description: "Turning Point USA (Organizations) - 1371 mentions"
 id: "org-turning-point-usa"
 type: "ORG"
 aliases:
@@ -28,11 +28,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-turning-point-usa-t-00-00-37">2025-09-11 · 00:00:54</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-turning-point-usa-t-04-00-43">2026-08-14 · 04:00:53</a></strong></div>
-<div><span>Episodes</span><strong>92</strong></div>
-<div><span>Mentions</span><strong>1,358</strong></div>
+<div><span>Episodes</span><strong>93</strong></div>
+<div><span>Mentions</span><strong>1,371</strong></div>
 <div><span>Statements by</span><strong>12</strong></div>
-<div><span>Statements about</span><strong>374</strong></div>
-<div><span>Relationships</span><strong>154</strong></div>
+<div><span>Statements about</span><strong>379</strong></div>
+<div><span>Relationships</span><strong>155</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -131,6 +131,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-turning-point-usa-t-00-00-28" style="--pulse-height:29%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 16 mentions" title="2026-03-23 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-turning-point-usa-t-00-02-04" style="--pulse-height:18%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 10 mentions" title="2026-03-24 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-usa-t-00-00-00" style="--pulse-height:22%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 12 mentions" title="2026-03-25 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-turning-point-usa-t-00-00-01" style="--pulse-height:24%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 13 mentions" title="2026-03-26 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-turning-point-usa-t-00-37-25" style="--pulse-height:33%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 18 mentions" title="2026-08-14 · 18 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -228,6 +229,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-turning-point-usa-t-00-00-28) | 16 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-turning-point-usa-t-00-02-04) | 10 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-usa-t-00-00-00) | 12 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-org-turning-point-usa-t-00-00-01) | 13 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-turning-point-usa-t-00-37-25) | 18 |
 
 </details>
@@ -236,7 +238,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1358)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1371)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (18 mentions)</summary>
@@ -294,6 +296,50 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 **[04:00:53](/episodes/ep-nPhCKwJ6ye8.md#ent-org-turning-point-usa-t-04-00-43)**
 > "...that they take a meeting with Turning Point USA and they come out and suddenly have a lot of junk..."
+
+</details>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (13 mentions)</summary>
+
+**[00:00:20](/episodes/ep-DEtFh2Ff-58.md#ent-org-turning-point-usa-t-00-00-01)**
+> "another plane associated with Turning Point USA"
+
+**[00:04:46](/episodes/ep-DEtFh2Ff-58.md#ent-org-turning-point-usa-t-00-04-46)**
+> "...e team, the infrastructure at Turning Point that Charlie had died, got about really about a 4..."
+
+**[00:08:16](/episodes/ep-DEtFh2Ff-58.md#ent-org-turning-point-usa-t-00-08-00)**
+> "So I am surmising that the TPUSA core crew all gathered at Scottsdale airport."
+
+**[00:12:37](/episodes/ep-DEtFh2Ff-58.md#ent-org-turning-point-usa-t-00-12-37)**
+> "This is massive. Turning Point USA is lying. They are lying about what transpired on..."
+
+**[00:14:19](/episodes/ep-DEtFh2Ff-58.md#ent-org-turning-point-usa-t-00-13-58)**
+> "...Charlie's death to the entire Turning Point USA staff at 227."
+
+**[00:15:50](/episodes/ep-DEtFh2Ff-58.md#ent-org-turning-point-usa-t-00-15-28)**
+> "...to communicate obviously with Turning Point USA, but that has been sort of a dead end since they ..."
+
+**[00:31:45](/episodes/ep-DEtFh2Ff-58.md#ent-org-turning-point-usa-t-00-31-25)**
+> "...ent to issue a letter and say turning point is in great financial standing. Imagine having th..."
+
+**[00:33:26](/episodes/ep-DEtFh2Ff-58.md#ent-org-turning-point-usa-t-00-33-16)**
+> "...lane that was associated with Turning Point USA that is..."
+
+**[00:34:36](/episodes/ep-DEtFh2Ff-58.md#ent-org-turning-point-usa-t-00-34-36)**
+> "...s a plane, I was told, from a TPUSA insider is frequently used by TPUSA."
+
+**[00:35:23](/episodes/ep-DEtFh2Ff-58.md#ent-org-turning-point-usa-t-00-35-14)**
+> "...hink so. Regardless, it was a TPUSA leg of this flight. And so I start looking throug..."
+
+**[00:36:01](/episodes/ep-DEtFh2Ff-58.md#ent-org-turning-point-usa-t-00-36-01)**
+> "...nt to say exclusively used by TPUSA, but I want to say frequently used by TPUSA."
+
+**[00:36:10](/episodes/ep-DEtFh2Ff-58.md#ent-org-turning-point-usa-t-00-36-01)**
+> "Why is a plane used by TPUSA going to Fort Huachuca? The plane we were looking..."
+
+**[00:37:16](/episodes/ep-DEtFh2Ff-58.md#ent-org-turning-point-usa-t-00-37-16)**
+> "...if you believe, as I do, that TPUSA people were on that flight that went to Fort Huac..."
 
 </details>
 
@@ -4778,13 +4824,14 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Accused By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:15:44](/episodes/ep-GY6GWceEqtQ.md#t-00-15-44): “Because Turning Point USA is lying, it is a totally fair and reasonable assessment that they are engaged in a cover-up.”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:19](/episodes/ep-1IY2oD-_xVA.md#t-00-45-19): “somebody who was within turning point usa confirmed to me That money was indeed missing out of Turning Point USA. ... I can back that up 100%, which is why I'm saying it publicly, that there were millions missing out of Turning Point USA, and they were wondering where that money was going.”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:31:55](/episodes/ep-H9p2ZGHAs9A.md#t-00-31-55): “There's got to be money somewhere, right? There's got to be ka-ching, ka-ching somewhere.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:19:19](/episodes/ep-B9TyCs-6o_0.md#t-00-19-00): “I instantly felt they were lying. And now I believe that I have evidence that proves that I was correct and they were indeed lying.”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:00:29](/episodes/ep-5m-Wn6Pr5rM.md#t-00-00-00): “somebody at Turning Point USA is lying.”
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:12:37](/episodes/ep-DEtFh2Ff-58.md#t-00-11-58): “This is massive. Turning Point USA is lying. They are lying about what transpired on that day.”
 
 </details>
 
@@ -5568,7 +5615,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Referenced By (79)</summary>
+<summary>Referenced By (80)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (27)</summary>
@@ -5639,13 +5686,14 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:15:44](/episodes/ep-GY6GWceEqtQ.md#t-00-15-44): “Because Turning Point USA is lying, it is a totally fair and reasonable assessment that they are engaged in a cover-up.”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:19](/episodes/ep-1IY2oD-_xVA.md#t-00-45-19): “somebody who was within turning point usa confirmed to me That money was indeed missing out of Turning Point USA. ... I can back that up 100%, which is why I'm saying it publicly, that there were millions missing out of Turning Point USA, and they were wondering where that money was going.”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:31:55](/episodes/ep-H9p2ZGHAs9A.md#t-00-31-55): “There's got to be money somewhere, right? There's got to be ka-ching, ka-ching somewhere.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:19:19](/episodes/ep-B9TyCs-6o_0.md#t-00-19-00): “I instantly felt they were lying. And now I believe that I have evidence that proves that I was correct and they were indeed lying.”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:00:29](/episodes/ep-5m-Wn6Pr5rM.md#t-00-00-00): “somebody at Turning Point USA is lying.”
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:12:37](/episodes/ep-DEtFh2Ff-58.md#t-00-11-58): “This is massive. Turning Point USA is lying. They are lying about what transpired on that day.”
 
 </details>
 
@@ -5667,6 +5715,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:11:54](/episodes/ep-5-HUyv9LyMg.md#t-00-11-11): “Andrew Kolvet and other Turning Point USA affiliates”
+
+</details>
+
+- **[N582MM](/entities/vehicle-n582mm.md)** affiliated with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:34:36](/episodes/ep-DEtFh2Ff-58.md#t-00-33-55): “This was a plane, I was told, from a TPUSA insider is frequently used by TPUSA. ... N582MM is that tail number.”
 
 </details>
 
@@ -6370,7 +6425,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA (374)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA (379)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3)</summary>
@@ -6383,6 +6438,26 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - [02:59:13](/episodes/ep-nPhCKwJ6ye8.md#t-02-59-13) (Opinion) **Candace Owens**: ["Candace Owens believes Erika Kirk is underqualified to run Turning Poi..."](/statements/statement-513faa7c49b5.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (5)</summary>
+
+- [00:10:36](/episodes/ep-DEtFh2Ff-58.md#t-00-10-36) (Opinion) **Candace Owens**: ["My very strong opinion is that the TPUSA core crew met at Scottsdale A..."](/statements/statement-e0c42d3a79b5.md)
+  - Also about: [Scottsdale Airport](/entities/org-scottsdale-airport.md), [Provo Airport](/entities/org-provo-airport.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:12:37](/episodes/ep-DEtFh2Ff-58.md#t-00-12-37) (Accusation) **Candace Owens**: ["Turning Point USA is lying about what transpired on the day Charlie Ki..."](/statements/statement-c2be9c2279cb.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:14:19](/episodes/ep-DEtFh2Ff-58.md#t-00-13-58) (Claim) **Candace Owens**: ["Justin Streiff sent Aubrey Laitsch's drafted email announcing Charlie ..."](/statements/statement-ec9196dc6904.md)
+  - Also about: [Justin Streiff](/entities/person-justin-streiff.md), [Aubrey Laitsch](/entities/person-aubrey-laitsch.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:14:28](/episodes/ep-DEtFh2Ff-58.md#t-00-13-58) (Claim) **Candace Owens**: ["I believe Charlie Kirk's plane departed Scottsdale at 2:31 with the TP..."](/statements/statement-5ae440fa7dce.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Scottsdale Airport](/entities/org-scottsdale-airport.md), [Utah](/entities/gpe-utah.md)
+
+- [00:34:36](/episodes/ep-DEtFh2Ff-58.md#t-00-34-36) (Claim) **Anonymous Source #2 (Ep DEtFh2Ff-58)** (via paraphrase): ["Aircraft N582MM is frequently used by Turning Point USA."](/statements/statement-df7267b700e2.md)
+  - Also about: [N582MM](/entities/vehicle-n582mm.md)
 
 </details>
 

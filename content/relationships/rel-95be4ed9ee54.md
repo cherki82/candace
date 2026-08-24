@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Andrew Kolvet](/entities/person-andrew-kolvet) accused by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58)**
+
+- [00:09:23](/episodes/ep-DEtFh2Ff-58#t-00-09-23): _it suggests, certainly, that there may have been some sort of a foreknowledge because for what other reason would Andrew be sitting on a tarmac just about to fly to Scottsdale when Charlie gets shot?_
 
 **[REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30)**
 

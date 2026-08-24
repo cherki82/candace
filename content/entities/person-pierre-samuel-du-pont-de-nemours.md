@@ -12,6 +12,8 @@ _Type: People_
 
 **Also known as:** Pierre, Pierre du Pont
 
+> **Possibly overlapping entity records:** [Pierre, South Dakota](/entities/gpe-pierre-south-dakota). These records share a name or alias; compare their histories before treating either count as complete.
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-pierre-samuel-du-pont-de-nemours-t-00-29-47">2025-12-01 · 00:29:28</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-pierre-samuel-du-pont-de-nemours-t-00-34-06">2025-12-02 · 00:34:31</a></strong></div>

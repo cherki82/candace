@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=yAIb-NuUh_U"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-yAIb-NuUh_U/t-00-00-01.md" class="timestamp-link">00:00:01</a> <a href="https://www.youtube.com/watch?v=yAIb-NuUh_U&t=1" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys. Happy Thursday. Now somebody sent me this throwback clip from <span id="ent-person-charlie-kirk-t-00-00-01"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> and me back when I had a show on <span id="ent-org-prageru-t-00-00-01"><a href="/entities/org-prageru.md">PragerU</a></span>. We were discussing the kind of allies that you need when bullets are flying at you. Take a listen.<span id="event-event-2025-11-13-allie-stuckey-releases-video-mocking-candace-owens-t-00-00-01"><a href="/events/event-2025-11-13-allie-stuckey-releases-video-mocking-candace-owens.md" class="event-indicator" title="Timeline event">📅</a></span> ^t-00-00-01

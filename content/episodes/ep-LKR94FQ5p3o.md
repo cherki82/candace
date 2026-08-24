@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=LKR94FQ5p3o"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-LKR94FQ5p3o/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=LKR94FQ5p3o&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> News Anchor (unidentified):** President <span id="ent-person-donald-trump-t-00-00-00"><a href="/entities/person-donald-trump.md">Trump</a></span> says that <span id="ent-person-charlie-kirk-t-00-00-00"><a href="/entities/person-charlie-kirk.md">Kirk</a></span> has died after he was shot from a nearby building. After being shot at <span id="ent-org-utah-valley-university-t-00-00-00"><a href="/entities/org-utah-valley-university.md">Utah Valley University</a></span>. ^t-00-00-00

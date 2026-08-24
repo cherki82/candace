@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=H9p2ZGHAs9A"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-H9p2ZGHAs9A/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=H9p2ZGHAs9A&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys, well, I can tell you that this young lady is my whole mood today. ^t-00-00-00

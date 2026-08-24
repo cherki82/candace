@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=_vg7ucP1E0g"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-_vg7ucP1E0g/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=_vg7ucP1E0g&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys, happy Wednesday to everyone except <span id="ent-person-andrew-kolvet-t-00-00-00"><a href="/entities/person-andrew-kolvet.md">Andrew Kolvet</a></span>. Yeah, because yesterday he went on to <span id="ent-person-dave-rubin-t-00-00-00"><a href="/entities/person-dave-rubin.md">Dave Rubin</a></span>'s show and he said that <span id="ent-person-erika-kirk-t-00-00-00"><a href="/entities/person-erika-kirk.md">Erika</a></span> was not seeking the spotlight. Take a listen to this. ^t-00-00-00

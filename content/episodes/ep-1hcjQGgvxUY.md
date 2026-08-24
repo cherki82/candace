@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=1hcjQGgvxUY"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-1hcjQGgvxUY/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=1hcjQGgvxUY&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Okay, you guys, I'm sorry that I'm running late today. Just so much that I wanted to cover our last show before we go off air next week preparing for our limited <a href="/entities/person-erika-kirk.md">Erika Kirk</a> series. Now we had received a large influx of emails because <span id="ent-person-baron-coleman-t-00-00-00"><a href="/entities/person-baron-coleman.md">Baron Coleman</a></span> had a bit of a viral episode regarding a seemingly weird relationship that <span id="ent-person-erika-kirk-t-00-00-00"><a href="/entities/person-erika-kirk.md">Erica</a></span> had with a then 15-year-old girl named <span id="ent-person-jillian-falcon-t-00-00-00"><a href="/entities/person-jillian-falcon.md">Jillian</a></span>. <a href="/entities/person-erika-kirk.md">Erica</a> was 25 years old at the time, and they developed a relationship that some people believe amounted to a type of grooming. <a href="/entities/person-baron-coleman.md">Baron Coleman</a> was very clear. He gave specific instructions to his viewers not to reach out to <a href="/entities/person-jillian-falcon.md">Jillian</a>, who is now an adult, about the situation. ^t-00-00-00

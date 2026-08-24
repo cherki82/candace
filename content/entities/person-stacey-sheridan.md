@@ -1,6 +1,6 @@
 ---
 title: "Stacey Sheridan"
-description: "Stacey Sheridan (People) - 30 mentions"
+description: "Stacey Sheridan (People) - 33 mentions"
 id: "person-stacey-sheridan"
 type: "PERSON"
 aliases:
@@ -21,11 +21,11 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-person-stacey-sheridan-t-00-03-48">2025-10-27 · 00:04:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-stacey-sheridan-t-00-52-28">2026-03-25 · 00:52:47</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-stacey-sheridan-t-00-43-07">2026-03-26 · 00:43:22</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -42,6 +42,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-stacey-sheridan-t-00-45-19" style="--pulse-height:8%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-stacey-sheridan-t-00-23-50" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-stacey-sheridan-t-00-13-39" style="--pulse-height:100%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 12 mentions" title="2026-03-25 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-stacey-sheridan-t-00-14-43" style="--pulse-height:25%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 3 mentions" title="2026-03-26 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +56,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-stacey-sheridan-t-00-45-19) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-stacey-sheridan-t-00-23-50) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-stacey-sheridan-t-00-13-39) | 12 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-stacey-sheridan-t-00-14-43) | 3 |
 
 </details>
 </section>
@@ -62,7 +64,21 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (3 mentions)</summary>
+
+**[00:14:52](/episodes/ep-DEtFh2Ff-58.md#ent-person-stacey-sheridan-t-00-14-43)**
+> "Stacey Sheridan and company"
+
+**[00:15:28](/episodes/ep-DEtFh2Ff-58.md#ent-person-stacey-sheridan-t-00-15-28)**
+> "...Erika and Elizabeth McCoy and Stacey Sheridan and Catherine Locastro and Tyler Bowyer went thro..."
+
+**[00:43:22](/episodes/ep-DEtFh2Ff-58.md#ent-person-stacey-sheridan-t-00-43-07)**
+> "DBR or DB5 wrote, 'WTF? Stacey Sheridan lives in the same complex as Charlie and Erika? T..."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (12 mentions)</summary>
@@ -306,7 +322,15 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Stacey Sheridan (4)</strong></summary>
+<summary><strong class="section-title">Statements about Stacey Sheridan (5)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>
+
+- [00:43:22](/episodes/ep-DEtFh2Ff-58.md#t-00-43-07) (Claim) **Anonymous Source #3 (Ep DEtFh2Ff-58)** (via paraphrase): ["Stacey Sheridan, Michael McCoy, and Elizabeth McCoy are at Charlie and..."](/statements/statement-30bada1746a8.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1)</summary>

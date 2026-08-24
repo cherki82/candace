@@ -1,6 +1,6 @@
 ---
 title: "Tyler Bowyer"
-description: "Tyler Bowyer (People) - 189 mentions"
+description: "Tyler Bowyer (People) - 191 mentions"
 id: "person-tyler-bowyer"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-tyler-bowyer-t-00-41-28">2025-09-29 · 00:41:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tyler-bowyer-t-00-15-32">2026-03-25 · 00:15:53</a></strong></div>
-<div><span>Episodes</span><strong>44</strong></div>
-<div><span>Mentions</span><strong>189</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-tyler-bowyer-t-00-15-28">2026-03-26 · 00:15:28</a></strong></div>
+<div><span>Episodes</span><strong>45</strong></div>
+<div><span>Mentions</span><strong>191</strong></div>
 <div><span>Statements by</span><strong>12</strong></div>
 <div><span>Statements about</span><strong>57</strong></div>
 <div><span>Relationships</span><strong>56</strong></div>
@@ -80,6 +80,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <a href="/episodes/ep-B9TyCs-6o_0.md#t-00-23-50" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-tyler-bowyer-t-00-38-24" style="--pulse-height:17%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 3 mentions" title="2026-03-24 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tyler-bowyer-t-00-15-32" style="--pulse-height:11%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-tyler-bowyer-t-00-15-28" style="--pulse-height:11%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -129,6 +130,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#t-00-23-50) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-tyler-bowyer-t-00-38-24) | 3 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tyler-bowyer-t-00-15-32) | 2 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-tyler-bowyer-t-00-15-28) | 2 |
 
 </details>
 </section>
@@ -136,7 +138,18 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (189)</strong></summary>
+<summary><strong class="section-title">Raw mentions (191)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (2 mentions)</summary>
+
+**[00:14:52](/episodes/ep-DEtFh2Ff-58.md#ent-person-tyler-bowyer-t-00-15-28)**
+> "Catherine Locastro and Tyler Bowyer"
+
+**[00:15:28](/episodes/ep-DEtFh2Ff-58.md#ent-person-tyler-bowyer-t-00-15-28)**
+> "...an and Catherine Locastro and Tyler Bowyer went through."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2 mentions)</summary>

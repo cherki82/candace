@@ -1,6 +1,6 @@
 ---
 title: "Blake Neff"
-description: "Blake Neff (People) - 121 mentions"
+description: "Blake Neff (People) - 122 mentions"
 id: "person-blake-neff"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-person-blake-neff-t-00-15-02">2025-10-07 · 00:15:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-blake-neff-t-00-55-46">2026-03-24 · 00:59:38</a></strong></div>
-<div><span>Episodes</span><strong>27</strong></div>
-<div><span>Mentions</span><strong>121</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-blake-neff-t-00-49-39">2026-03-26 · 00:50:04</a></strong></div>
+<div><span>Episodes</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>122</strong></div>
 <div><span>Statements by</span><strong>12</strong></div>
 <div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
@@ -63,6 +63,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-blake-neff-t-00-34-47" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-blake-neff-t-00-13-50" style="--pulse-height:14%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-blake-neff-t-00-43-28" style="--pulse-height:64%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 9 mentions" title="2026-03-24 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-blake-neff-t-00-49-39" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -95,6 +96,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-blake-neff-t-00-34-47) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-blake-neff-t-00-13-50) | 2 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-blake-neff-t-00-43-28) | 9 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-blake-neff-t-00-49-39) | 1 |
 
 </details>
 </section>
@@ -102,7 +104,15 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (121)</strong></summary>
+<summary><strong class="section-title">Raw mentions (122)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
+
+**[00:50:04](/episodes/ep-DEtFh2Ff-58.md#ent-person-blake-neff-t-00-49-39)**
+> "to Blake Neff"
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (9 mentions)</summary>

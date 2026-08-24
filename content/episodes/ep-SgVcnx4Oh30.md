@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=SgVcnx4Oh30"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-SgVcnx4Oh30/t-00-00-01.md" class="timestamp-link">00:00:01</a> <a href="https://www.youtube.com/watch?v=SgVcnx4Oh30&t=1" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys, happy Tuesday. I'm having a happy Tuesday. I woke up and I had a shot of <a href="/entities/person-baron-coleman.md">Baron Coleman</a> this morning, just like his podcast got me all fired up because he went off. He had a little <span id="ent-person-baron-coleman-t-00-00-01"><a href="/entities/person-baron-coleman.md">Baron</a></span> crash out and it added another detail to our investigation yesterday into the planes, a detail that I had missed somehow earlier that's rather explosive. I will say this. I defy no stereotypes as a woman. I am not technologically gifted. So I did not know that you could drag the. the flight radar ADS-B coverage to the exact minute to see where that plane was, what the altitude of that plane was at any given time. ^t-00-00-01

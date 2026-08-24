@@ -1,6 +1,6 @@
 ---
 title: "Christianity"
-description: "Christianity (Concepts) - 159 mentions"
+description: "Christianity (Concepts) - 161 mentions"
 id: "concept-christianity"
 type: "CONCEPT"
 aliases:
@@ -23,8 +23,8 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-07-28">2026-01-07 · 00:04:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10">2026-08-14 · 02:57:10</a></strong></div>
-<div><span>Episodes</span><strong>30</strong></div>
-<div><span>Mentions</span><strong>159</strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>161</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -64,6 +64,7 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-christianity-t-00-09-12" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-concept-christianity-t-00-31-01" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-christianity-t-00-41-25" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-concept-christianity-t-00-27-14" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -99,6 +100,7 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-concept-christianity-t-00-09-12) | 2 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-concept-christianity-t-00-31-01) | 2 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-christianity-t-00-41-25) | 1 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-concept-christianity-t-00-27-14) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10) | 1 |
 
 </details>
@@ -107,13 +109,24 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (159)</strong></summary>
+<summary><strong class="section-title">Raw mentions (161)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[02:57:10](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10)**
 > "lot of the actual. So I'm a Christian ethicist. and I then always"
+
+</details>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (2 mentions)</summary>
+
+**[00:27:14](/episodes/ep-DEtFh2Ff-58.md#ent-concept-christianity-t-00-27-14)**
+> "this sort of Christian grift"
+
+**[00:29:22](/episodes/ep-DEtFh2Ff-58.md#ent-concept-christianity-t-00-29-22)**
+> "...re trying to use this idea of Christianity as a shield. And I was hinting on that, again rem..."
 
 </details>
 

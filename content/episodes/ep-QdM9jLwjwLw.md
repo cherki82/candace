@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=QdM9jLwjwLw"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-QdM9jLwjwLw/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=QdM9jLwjwLw&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys, welcome back to season nine, episode two of Everybody Grieves Differently. I'm your host. That's what we're told, at least. You know, in retrospect, we should have probably saw that for what it was, recognize that expression for what it was, another well-financed PR campaign against people for asking meaningful questions, shaming people. Now, you might be surprised then to learn who actually uttered that expression first over at <span id="ent-org-turning-point-usa-t-00-00-00"><a href="/entities/org-turning-point-usa.md">Turning Point USA</a></span> before <span id="ent-person-charlie-kirk-t-00-00-00"><a href="/entities/person-charlie-kirk.md">Charlie</a></span>'s memorial in a corporate-wide phone call, which took place, or Zoom call rather, just five and a half days after <a href="/entities/person-charlie-kirk.md">Charlie</a>'s assassination. And speaking of different ways to grieve, the now former CEO of <span id="ent-org-the-daily-wire-t-00-00-00"><a href="/entities/org-the-daily-wire.md">Daily Wire</a></span>, ^t-00-00-00

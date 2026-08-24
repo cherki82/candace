@@ -18,12 +18,13 @@ export const sharedPageComponents: SharedLayout = {
 
 const mobileLinks = [
   { text: "Research Explorer", href: "index/explorer" },
+  { text: "Claims", href: "index/claims" },
   { text: "Theory Threads", href: "index/threads" },
   { text: "Episodes", href: "index/episodes" },
   { text: "Entities", href: "index/entities" },
   { text: "Timeline", href: "index/timeline" },
   { text: "Research Sources", href: "index/sources" },
-  { text: "Statements", href: "index/statements" },
+  { text: "All Statements", href: "index/statements" },
   { text: "Relationships", href: "index/relationships" },
 ]
 
@@ -48,7 +49,8 @@ const EvidenceNavigation = Component.Navigation({
   title: "Audit the evidence",
   links: [
     { text: "Research Sources", href: "index/sources" },
-    { text: "Statements", href: "index/statements" },
+    { text: "Claims", href: "index/claims" },
+    { text: "All Statements", href: "index/statements" },
     { text: "Relationships", href: "index/relationships" },
   ],
 })
@@ -60,6 +62,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(
       Component.Flex({
+        gap: "0.5rem",
         components: [
           {
             Component: Component.MobileNavigation({
@@ -97,6 +100,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(
       Component.Flex({
+        gap: "0.5rem",
         components: [
           {
             Component: Component.MobileNavigation({

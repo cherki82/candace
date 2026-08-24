@@ -1,6 +1,6 @@
 ---
 title: "Justin Streiff"
-description: "Justin Streiff (People) - 60 mentions"
+description: "Justin Streiff (People) - 61 mentions"
 id: "person-justin-streiff"
 type: "PERSON"
 aliases:
@@ -25,10 +25,10 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-21-13">2025-09-25 · 00:06:45</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-justin-streiff-t-02-46-50">2026-08-14 · 02:46:56</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>60</strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>61</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>17</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -57,6 +57,7 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-justin-streiff-t-00-16-52" style="--pulse-height:100%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 13 mentions" title="2026-03-23 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-justin-streiff-t-00-19-47" style="--pulse-height:15%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-justin-streiff-t-00-12-33" style="--pulse-height:23%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 3 mentions" title="2026-03-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-justin-streiff-t-00-13-58" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-justin-streiff-t-02-46-50" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -83,6 +84,7 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-justin-streiff-t-00-16-52) | 13 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-justin-streiff-t-00-19-47) | 2 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-justin-streiff-t-00-12-33) | 3 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-justin-streiff-t-00-13-58) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-justin-streiff-t-02-46-50) | 1 |
 
 </details>
@@ -91,13 +93,21 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (60)</strong></summary>
+<summary><strong class="section-title">Raw mentions (61)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[02:46:56](/episodes/ep-nPhCKwJ6ye8.md#ent-person-justin-streiff-t-02-46-50)**
 > "her and Justin Strife."
+
+</details>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
+
+**[00:14:19](/episodes/ep-DEtFh2Ff-58.md#ent-person-justin-streiff-t-00-13-58)**
+> "Justin Streiff is going to send the email"
 
 </details>
 
@@ -528,7 +538,15 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Justin Streiff (17)</strong></summary>
+<summary><strong class="section-title">Statements about Justin Streiff (18)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>
+
+- [00:14:19](/episodes/ep-DEtFh2Ff-58.md#t-00-13-58) (Claim) **Candace Owens**: ["Justin Streiff sent Aubrey Laitsch's drafted email announcing Charlie ..."](/statements/statement-ec9196dc6904.md)
+  - Also about: [Aubrey Laitsch](/entities/person-aubrey-laitsch.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1)</summary>

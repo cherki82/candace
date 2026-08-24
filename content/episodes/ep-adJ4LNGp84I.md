@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=adJ4LNGp84I"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-adJ4LNGp84I/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=adJ4LNGp84I&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** The countdown begins now, ladies and gentlemen. I'm telling you that you can begin your timers because it is not going to be long until the media tries to convince you that <span id="ent-person-megyn-kelly-t-00-00-00"><a href="/entities/person-megyn-kelly.md">Megyn Kelly</a></span>—yes, that <a href="/entities/person-megyn-kelly.md">Megyn Kelly</a>—is <span id="ent-person-adolf-hitler-t-00-00-00"><a href="/entities/person-adolf-hitler.md">Adolf Hitler</a></span>. I'm not kidding. It's definitely coming. There is going to be some headline in the near future that reads, "<a href="/entities/person-megyn-kelly.md">Megyn Kelly</a> is flirting with anti-Semitism." You can book it. Why? Because out of nowhere and for absolutely no apparent reason at all, the agents—like I think of them as like Mr. Smith in <span id="ent-work-the-matrix-t-00-00-00"><a href="/entities/work-the-matrix.md">The Matrix</a></span>—have ^t-00-00-00

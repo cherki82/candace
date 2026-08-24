@@ -1,6 +1,6 @@
 ---
 title: "Megyn Kelly"
-description: "Megyn Kelly (People) - 186 mentions"
+description: "Megyn Kelly (People) - 187 mentions"
 id: "person-megyn-kelly"
 type: "PERSON"
 aliases:
@@ -23,8 +23,8 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-megyn-kelly-t-00-11-22">2025-09-15 · 00:11:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-02-47-31">2026-08-14 · 02:47:31</a></strong></div>
-<div><span>Episodes</span><strong>43</strong></div>
-<div><span>Mentions</span><strong>186</strong></div>
+<div><span>Episodes</span><strong>44</strong></div>
+<div><span>Mentions</span><strong>187</strong></div>
 <div><span>Statements by</span><strong>15</strong></div>
 <div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>40</strong></div>
@@ -77,6 +77,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-megyn-kelly-t-00-03-32" style="--pulse-height:39%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 9 mentions" title="2026-03-17 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-megyn-kelly-t-00-25-18" style="--pulse-height:30%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 7 mentions" title="2026-03-17 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-megyn-kelly-t-00-05-40" style="--pulse-height:13%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 3 mentions" title="2026-03-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-megyn-kelly-t-00-51-07" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-00-36-46" style="--pulse-height:9%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -125,6 +126,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-megyn-kelly-t-00-03-32) | 9 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-megyn-kelly-t-00-25-18) | 7 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-megyn-kelly-t-00-05-40) | 3 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-megyn-kelly-t-00-51-07) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-00-36-46) | 2 |
 
 </details>
@@ -133,7 +135,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (186)</strong></summary>
+<summary><strong class="section-title">Raw mentions (187)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -143,6 +145,14 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 
 **[02:47:31](/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-02-47-31)**
 > "by the way, I remember even Megyn Kelly was like, you know, let's wait,"
+
+</details>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
+
+**[00:51:07](/episodes/ep-DEtFh2Ff-58.md#ent-person-megyn-kelly-t-00-51-07)**
+> "or a Megyn Kelly"
 
 </details>
 

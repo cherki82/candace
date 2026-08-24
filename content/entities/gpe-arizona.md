@@ -1,6 +1,6 @@
 ---
 title: "Arizona"
-description: "Arizona (Places) - 211 mentions"
+description: "Arizona (Places) - 215 mentions"
 id: "gpe-arizona"
 type: "GPE"
 aliases:
@@ -21,9 +21,9 @@ Source: [State of Arizona official website](https://az.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-arizona-t-01-11-09">2025-09-16 · 01:11:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-arizona-t-00-11-03">2026-03-25 · 00:11:27</a></strong></div>
-<div><span>Episodes</span><strong>49</strong></div>
-<div><span>Mentions</span><strong>211</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-arizona-t-00-33-55">2026-03-26 · 00:34:06</a></strong></div>
+<div><span>Episodes</span><strong>50</strong></div>
+<div><span>Mentions</span><strong>215</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>21</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
@@ -83,6 +83,7 @@ Source: [State of Arizona official website](https://az.gov/)
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-arizona-t-00-21-26" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-arizona-t-00-33-24" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-arizona-t-00-11-03" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-arizona-t-00-09-23" style="--pulse-height:21%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 4 mentions" title="2026-03-26 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -137,6 +138,7 @@ Source: [State of Arizona official website](https://az.gov/)
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-arizona-t-00-21-26) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-arizona-t-00-33-24) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-arizona-t-00-11-03) | 1 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-arizona-t-00-09-23) | 4 |
 
 </details>
 </section>
@@ -144,7 +146,24 @@ Source: [State of Arizona official website](https://az.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (211)</strong></summary>
+<summary><strong class="section-title">Raw mentions (215)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (4 mentions)</summary>
+
+**[00:13:45](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-arizona-t-00-09-23)**
+> "departs from Page, Arizona for Provo"
+
+**[00:09:58](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-arizona-t-00-09-23)**
+> "... say, well, turning points in Arizona, maybe, you know, he did the first hour of his sh..."
+
+**[00:13:58](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-arizona-t-00-09-23)**
+> "...as what was going on in Page, Arizona on that day."
+
+**[00:34:06](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-arizona-t-00-33-55)**
+> "...ange that Kalispell, Montana, Arizona, there just seemed to be a pattern in where these..."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>

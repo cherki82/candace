@@ -11,7 +11,7 @@ object: "person-george-farmer"
 
 ## [Candace Owens](/entities/person-candace-owens) married to [George Farmer](/entities/person-george-farmer)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg)**
 
@@ -20,6 +20,10 @@ object: "person-george-farmer"
 **[PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk)**
 
 - [00:06:24](/episodes/ep-BKcOm32ZEGk#t-00-06-24): _The story had my husband. I've told it many times how I got engaged 18 days later... But I already knew George... I looked at my husband's face and I already knew him._
+
+**[VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58)**
+
+- [00:23:05](/episodes/ep-DEtFh2Ff-58#t-00-23-05): _Nic Nac is something that has become a regular in our house lately, mostly because my husband, George (George Farmer), keeps them stocked everywhere._
 
 **[IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ)**
 

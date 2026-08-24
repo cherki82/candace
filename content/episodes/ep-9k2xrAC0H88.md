@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=9k2xrAC0H88"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-9k2xrAC0H88/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=9k2xrAC0H88&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Okay, ladies and gentlemen, get ready. I am telling you, get ready. We have an explosive episode today. Actually, I should say it's a non-explosive episode and you'll see why. We're gonna jump right into this because after yesterday's episode, we were contacted by a variety of people with information and it's time to state unequivocally that the steel neck quotation did not come from the surgeon. Okay, not only that, but it's odd. that federal agents were, I would say, too involved at the hospital. When I tell you this story, your jaw is going to hit the floor. ^t-00-00-00

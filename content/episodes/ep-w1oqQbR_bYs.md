@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=w1oqQbR_bYs"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-w1oqQbR_bYs/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=w1oqQbR_bYs&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys, happy Friday. Well, I just wanna start by saying that it's pretty obvious that <span id="ent-person-ben-shapiro-t-00-00-00"><a href="/entities/person-ben-shapiro.md">Ben Shapiro</a></span> is terrified. We can all see that now that <span id="ent-person-charlie-kirk-t-00-00-00"><a href="/entities/person-charlie-kirk.md">Charlie Kirk</a></span> is dead. He seems to be taking multiple stages and demanding an allegiance to <span id="ent-person-erika-kirk-t-00-00-00"><a href="/entities/person-erika-kirk.md">Erika Kirk</a></span>. In fact, it almost seems like he's demanding that nobody inquire further about <a href="/entities/person-erika-kirk.md">Erika Kirk</a>. It's odd because Ben had no allegiance to <a href="/entities/person-charlie-kirk.md">Charlie Kirk</a> when he was alive. So what is it about Charlie's widow in particular that is inspiring his very public nervous breakdown? Personally, I think he knows something about her. That is what I am sensing that he knows something about <a href="/entities/person-erika-kirk.md">Erika Kirk</a>. ^t-00-00-00

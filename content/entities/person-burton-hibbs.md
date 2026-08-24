@@ -1,6 +1,6 @@
 ---
 title: "Burton Hibbs"
-description: "Burton Hibbs (People) - 13 mentions"
+description: "Burton Hibbs (People) - 14 mentions"
 id: "person-burton-hibbs"
 type: "PERSON"
 aliases:
@@ -14,9 +14,9 @@ _Type: People_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-burton-hibbs-t-00-33-02">2025-11-12 · 00:33:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-person-burton-hibbs-t-00-17-10">2025-11-21 · 00:17:19</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-burton-hibbs-t-00-36-37">2026-03-26 · 00:36:37</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,6 +32,7 @@ _Type: People_
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-burton-hibbs-t-00-44-42" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 5 mentions" title="2025-11-15 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#t-00-54-31" style="--pulse-height:20%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-burton-hibbs-t-00-16-27" style="--pulse-height:40%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 2 mentions" title="2025-11-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-burton-hibbs-t-00-36-37" style="--pulse-height:20%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +43,7 @@ _Type: People_
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-burton-hibbs-t-00-44-42) | 5 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#t-00-54-31) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-burton-hibbs-t-00-16-27) | 2 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-burton-hibbs-t-00-36-37) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
+
+**[00:36:37](/episodes/ep-DEtFh2Ff-58.md#ent-person-burton-hibbs-t-00-36-37)**
+> "including Butch Hibbs"
+
+</details>
 
 <details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>

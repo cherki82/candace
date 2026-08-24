@@ -10,6 +10,17 @@ const escapeHtml = (value: unknown) =>
 const label = (value: string) =>
   value.replaceAll("_", " ").replace(/^./, (character) => character.toUpperCase())
 
+const siteRoot = () => {
+  const stylesheet = document.querySelector<HTMLLinkElement>(
+    'link[rel="stylesheet"][href$="index.css"]',
+  )
+  return stylesheet
+    ? new URL(stylesheet.href, location.href).pathname.replace(/\/index\.css$/, "")
+    : ""
+}
+
+const localHref = (href: string) => (href.startsWith("/") ? `${siteRoot()}${href}` : href)
+
 const optionValues = (items: IndexRecord[], key: string) => {
   const counts = new Map<string, number>()
   items.forEach((item) => {
@@ -34,7 +45,10 @@ const optionalControl = (
   selected: string,
 ) => (values.length > 1 ? control(name, title, values, selected) : "")
 
-const paramsObject = () => Object.fromEntries(new URLSearchParams(location.search))
+const paramsObject = (defaults: Record<string, string> = {}) => ({
+  ...defaults,
+  ...Object.fromEntries(new URLSearchParams(location.search)),
+})
 
 const writeParams = (form: HTMLFormElement, page = 1) => {
   const params = new URLSearchParams()
@@ -175,24 +189,27 @@ const statementCard = (item: IndexRecord, query: string) => {
   return `
   <article class="research-result-card">
     <div class="research-result-topline"><span class="record-type">${escapeHtml(label(item.statement_type))}</span><span class="status-badge status-${escapeHtml(item.veracity)}">${escapeHtml(label(item.veracity))}</span></div>
-    <h2><a href="${escapeHtml(item.statement_href)}">${escapeHtml(item.text)}</a></h2>
+    <h2><a href="${escapeHtml(localHref(item.statement_href))}">${escapeHtml(item.text)}</a></h2>
     <p class="research-provenance"><strong>${escapeHtml(item.speaker)}</strong> · ${escapeHtml(label(item.speaker_context))} · ${escapeHtml(label(item.conveyance))}</p>
-    <p class="research-source-line"><time datetime="${escapeHtml(item.published)}">${escapeHtml(item.published || "Date unknown")}</time> · ${escapeHtml(item.episode_title)}${item.transcript_href ? ` · <a href="${escapeHtml(item.transcript_href)}">${escapeHtml(item.timestamp_label)} transcript</a>` : ""}</p>
+    <p class="research-source-line"><time datetime="${escapeHtml(item.published)}">${escapeHtml(item.published || "Date unknown")}</time> · ${escapeHtml(item.episode_title)}${item.transcript_href ? ` · <a href="${escapeHtml(localHref(item.transcript_href))}">${escapeHtml(item.timestamp_label)} transcript</a>` : ""}</p>
     ${matchedTranscript ? `<p class="research-match-context"><span>Matched transcript context</span>${escapeHtml(item.snippet)}</p>` : ""}
-    ${item.entities.length ? `<p class="research-entities">${item.entities.map((entity: IndexRecord) => `<a href="/entities/${escapeHtml(entity.id)}">${escapeHtml(entity.name)}</a>`).join(" ")}</p>` : ""}
+    ${item.entities.length ? `<p class="research-entities">${item.entities.map((entity: IndexRecord) => `<a href="${escapeHtml(localHref(`/entities/${entity.id}`))}">${escapeHtml(entity.name)}</a>`).join(" ")}</p>` : ""}
     <div class="research-card-footer"><span>${item.external_source_count} external source${item.external_source_count === 1 ? "" : "s"}</span><span>${item.appearance_count} appearance${item.appearance_count === 1 ? "" : "s"}</span>${item.first_appearance ? "<span>First appearance</span>" : ""}${item.thread_ids.length ? `<span>${item.thread_ids.length} thread${item.thread_ids.length === 1 ? "" : "s"}</span>` : ""}</div>
   </article>`
 }
 
 const initStatements = (container: HTMLElement, items: IndexRecord[]) => {
-  container.innerHTML = statementControls(items, paramsObject())
+  const defaults: Record<string, string> = container.dataset.defaultType
+    ? { type: container.dataset.defaultType }
+    : {}
+  container.innerHTML = statementControls(items, paramsObject(defaults))
   const form = container.querySelector<HTMLFormElement>("form")!
   const results = container.querySelector(".research-results")!
   const count = container.querySelector(".research-result-count")!
 
   const render = (requestedPage?: number) => {
     writeParams(form, requestedPage ?? 1)
-    const params = paramsObject()
+    const params = paramsObject(defaults)
     const filtered = statementSort(
       items.filter((item) => statementMatches(item, params)),
       params,
@@ -226,7 +243,7 @@ const initStatements = (container: HTMLElement, items: IndexRecord[]) => {
     button.textContent = "Copied"
     setTimeout(() => (button.textContent = "Copy view link"), 1200)
   })
-  render(Number(paramsObject().page) || 1)
+  render(Number(paramsObject(defaults).page) || 1)
 }
 
 const sourceControls = (items: IndexRecord[], params: Record<string, string>) => `
@@ -257,7 +274,7 @@ const sourceCard = (item: IndexRecord) => `
       .slice(0, 12)
       .map(
         (statement: IndexRecord) =>
-          `<li><a href="/statements/${escapeHtml(statement.id)}">${escapeHtml(statement.text)}</a><span class="status-badge status-${escapeHtml(statement.veracity)}">${escapeHtml(label(statement.veracity))}</span></li>`,
+          `<li><a href="${escapeHtml(localHref(`/statements/${statement.id}`))}">${escapeHtml(statement.text)}</a><span class="status-badge status-${escapeHtml(statement.veracity)}">${escapeHtml(label(statement.veracity))}</span></li>`,
       )
       .join(
         "",
@@ -322,7 +339,7 @@ document.addEventListener("nav", () => {
     .forEach(async (container) => {
       container.dataset.initialized = "true"
       try {
-        const response = await fetch(container.dataset.indexPath!)
+        const response = await fetch(localHref(container.dataset.indexPath!))
         if (!response.ok) throw new Error(`${response.status} ${response.statusText}`)
         const items = await response.json()
         container.dataset.researchView === "sources"

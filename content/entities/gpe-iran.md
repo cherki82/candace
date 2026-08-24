@@ -1,6 +1,6 @@
 ---
 title: "Iran"
-description: "Iran (Places) - 132 mentions"
+description: "Iran (Places) - 134 mentions"
 id: "gpe-iran"
 type: "GPE"
 aliases:
@@ -24,8 +24,8 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-gpe-iran-t-00-35-19">2025-09-22 · 00:35:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54">2026-08-14 · 00:28:54</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>132</strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>134</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>52</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -60,6 +60,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-00-00" style="--pulse-height:100%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 23 mentions" title="2026-03-17 · 23 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-iran-t-00-02-04" style="--pulse-height:17%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 4 mentions" title="2026-03-23 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-iran-t-00-36-50" style="--pulse-height:13%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 3 mentions" title="2026-03-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-iran-t-00-27-45" style="--pulse-height:9%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -90,6 +91,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-00-00) | 23 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-iran-t-00-02-04) | 4 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-iran-t-00-36-50) | 3 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-iran-t-00-27-45) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54) | 1 |
 
 </details>
@@ -98,13 +100,24 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (132)</strong></summary>
+<summary><strong class="section-title">Raw mentions (134)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:28:54](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54)**
 > "opposed the Iranian war"
+
+</details>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (2 mentions)</summary>
+
+**[00:27:45](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-iran-t-00-27-45)**
+> "is raising in Iran"
+
+**[00:52:49](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-iran-t-00-52-49)**
+> "...sign up and go fight that war iran's so evil go there out to the middle east and win..."
 
 </details>
 

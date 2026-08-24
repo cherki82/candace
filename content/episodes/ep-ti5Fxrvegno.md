@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=ti5Fxrvegno"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-ti5Fxrvegno/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys, straight to jail, straight to jail for questioning at least, <span id="ent-person-erika-kirk-t-00-00-00"><a href="/entities/person-erika-kirk.md">Erika</a></span>. I don't care who's mad. I really do not care who wants to be upset after this episode. Really, you'll be wasting your breath. You can spend a billion dollars on influencers because this is all becoming increasingly inexplicable. You are asking me to be an idiot, actually, and I cannot do that for you. Someone once commented beneath this show that if the situations were reversed and there were this many verifiable lies, lies that <span id="ent-person-charlie-kirk-t-00-00-00"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> told regarding the murder or assassination of his wife, <a href="/entities/person-charlie-kirk.md">Charlie</a> would be in prison awaiting trial. And I actually agree with that assessment. We are way beyond coincidence. ^t-00-00-00

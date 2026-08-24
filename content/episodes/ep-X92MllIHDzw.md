@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=X92MllIHDzw"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-X92MllIHDzw/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=X92MllIHDzw&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys, we have a lot to unpack today. So I, for weeks, was working on a pretty strong tip, something that happened online, which I would say is third party information, a person stationed at <span id="ent-gpe-fort-huachuca-t-00-00-00"><a href="/entities/gpe-fort-huachuca.md">Fort Huachuca</a></span> who claimed publicly that they had seen <span id="ent-person-erika-kirk-t-00-00-00"><a href="/entities/person-erika-kirk.md">Erika</a></span> at <a href="/entities/gpe-fort-huachuca.md">Fort Huachuca</a>. They were certain of it. And then they sort of got chased offline and they deleted it. Anyways, I was able to follow that lead and I have some more information. More information there. I can tell you <a href="/entities/person-erika-kirk.md">Erika</a> disputes that narrative. But in addition to that, I can assert that I feel completely comfortable saying or stating clearly that <a href="/entities/person-erika-kirk.md">Erika</a> is definitively aware and familiar with the Fort Wachuca base, intel base, ^t-00-00-00

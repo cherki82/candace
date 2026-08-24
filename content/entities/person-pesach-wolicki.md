@@ -1,6 +1,6 @@
 ---
 title: "Pesach Wolicki"
-description: "Pesach Wolicki (People) - 3 mentions"
+description: "Pesach Wolicki (People) - 4 mentions"
 id: "person-pesach-wolicki"
 type: "PERSON"
 aliases:
@@ -25,9 +25,9 @@ Source: [Rabbi Pesach Wolicki - Israel365 Action](https://israel365action.com/ra
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-person-pesach-wolicki-t-00-05-37">2026-02-10 · 00:05:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-pesach-wolicki-t-00-14-25">2026-03-23 · 00:14:25</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-pesach-wolicki-t-00-42-22">2026-03-26 · 00:42:22</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -40,6 +40,7 @@ Source: [Rabbi Pesach Wolicki - Israel365 Action](https://israel365action.com/ra
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-pesach-wolicki-t-00-05-37" style="--pulse-height:100%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-pesach-wolicki-t-00-14-25" style="--pulse-height:50%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-pesach-wolicki-t-00-42-22" style="--pulse-height:50%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [Rabbi Pesach Wolicki - Israel365 Action](https://israel365action.com/ra
 |---|---|---:|
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-pesach-wolicki-t-00-05-37) | 2 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-pesach-wolicki-t-00-14-25) | 1 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-pesach-wolicki-t-00-42-22) | 1 |
 
 </details>
 </section>
@@ -54,7 +56,15 @@ Source: [Rabbi Pesach Wolicki - Israel365 Action](https://israel365action.com/ra
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
+
+**[00:42:22](/episodes/ep-DEtFh2Ff-58.md#ent-person-pesach-wolicki-t-00-42-22)**
+> "They just name-call Rabbi Wolicki."
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1 mentions)</summary>

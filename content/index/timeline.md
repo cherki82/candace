@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 1093_
+_Total events: 1101_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -294,7 +294,7 @@ _Total events: 1093_
 
 <div class="tab-controls">
   <label for="tab-year-2026" class="tab-btn">2026 (68)</label>
-  <label for="tab-year-2025" class="tab-btn">2025 (553)</label>
+  <label for="tab-year-2025" class="tab-btn">2025 (561)</label>
   <label for="tab-year-2024" class="tab-btn">2024 (61)</label>
   <label for="tab-year-2023" class="tab-btn">2023 (21)</label>
   <label for="tab-year-2022" class="tab-btn">2022 (15)</label>
@@ -10909,6 +10909,37 @@ _Total events: 1093_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-10-05-a-private-plane-flew-from-kalispell-to-b">
+<div class="timeline-date">2025-10-05</div>
+<div class="timeline-desc"><a href="/events/event-2025-10-05-a-private-plane-flew-from-kalispell-to-b.md">A private plane flew from Kalispell to Bozeman.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-10-05: A private plane flew from Kalispell to Bozeman. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [VIRAL! It's Okay Not To Believe A Word Erika Ki... @ 00:37:25](/episodes/ep-DEtFh2Ff-58.md#t-00-37-16)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-10-04-a-plane-described-as-frequently-used-by-">
+<div class="timeline-date">2025-10-04</div>
+<div class="timeline-desc"><a href="/events/event-2025-10-04-a-plane-described-as-frequently-used-by-.md">A plane described as frequently used by TPUSA went to Fort Huachuca and then Kalispell.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-10-04: A plane described as frequently used by TPUSA went to Fort Huachuca and then Kalispell. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [VIRAL! It's Okay Not To Believe A Word Erika Ki... @ 00:36:10](/episodes/ep-DEtFh2Ff-58.md#t-00-36-01)
+- [VIRAL! It's Okay Not To Believe A Word Erika Ki... @ 00:33:55](/episodes/ep-DEtFh2Ff-58.md#t-00-33-55)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-10-01-fbi-director-kash-patel-announces-end-of-partnersh">
 <div class="timeline-date">2025-10-01</div>
 <div class="timeline-desc"><a href="/events/event-2025-10-01-fbi-director-kash-patel-announces-end-of-partnersh.md">FBI Director Kash Patel announces end of partnership with ADL via tweet</a></div>
@@ -18683,6 +18714,22 @@ _Total events: 1093_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-10-provo-police-officers-headed-to-provo-ai">
+<div class="timeline-date">2025-09-10 <span class='time'>15:30</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-provo-police-officers-headed-to-provo-ai.md">Provo police officers headed to Provo Airport for the 3:30 p.m. arrival of Charlie Kirk's wife.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 15:30: Provo police officers headed to Provo Airport for the 3:30 p.m. arrival of Charlie Kirk\'s wife. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [VIRAL! It's Okay Not To Believe A Word Erika Ki... @ 00:02:35](/episodes/ep-DEtFh2Ff-58.md#t-00-02-35)
+- [VIRAL! It's Okay Not To Believe A Word Erika Ki... @ 00:00:36](/episodes/ep-DEtFh2Ff-58.md#t-00-00-36)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-10-andrew-kolvet-replied-to-the-communicati">
 <div class="timeline-date">2025-09-10 <span class='time'>15:26</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-andrew-kolvet-replied-to-the-communicati.md">Andrew Kolvet replied to the communications group that he was on a plane and a message had just loaded.</a></div>
@@ -18695,6 +18742,36 @@ _Total events: 1093_
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:23:05](/episodes/ep-B9TyCs-6o_0.md#t-00-23-05)
 - [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:21:44](/episodes/ep-SgVcnx4Oh30.md#t-00-21-14)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-a-flight-from-page-arizona-landed-in-pro">
+<div class="timeline-date">2025-09-10 <span class='time'>14:48</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-a-flight-from-page-arizona-landed-in-pro.md">A flight from Page, Arizona landed in Provo at 2:48 p.m. Utah time.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 14:48: A flight from Page, Arizona landed in Provo at 2:48 p.m. Utah time. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [VIRAL! It's Okay Not To Believe A Word Erika Ki... @ 00:14:43](/episodes/ep-DEtFh2Ff-58.md#t-00-13-58)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-donald-trump-announced-charlie-kirks-dea">
+<div class="timeline-date">2025-09-10 <span class='time'>14:40</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-donald-trump-announced-charlie-kirks-dea.md">Donald Trump announced Charlie Kirk's death on Truth Social at 2:40 p.m. Utah time.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 14:40: Donald Trump announced Charlie Kirk\'s death on Truth Social at 2:40 p.m. Utah time. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [VIRAL! It's Okay Not To Believe A Word Erika Ki... @ 00:14:36](/episodes/ep-DEtFh2Ff-58.md#t-00-13-58)
 
 </details>
 </div>
@@ -18734,7 +18811,7 @@ _Total events: 1093_
 <div class="timeline-date">2025-09-10 <span class='time'>14:27</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-turning-point-usa-emailed-employees-conf.md">Turning Point USA emailed employees confirming Charlie Kirk's death and closing the office for the day.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 14:27: Turning Point USA emailed employees confirming Charlie Kirk\'s death and closing the office for the day. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -18742,6 +18819,7 @@ _Total events: 1093_
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:26:45](/episodes/ep-B9TyCs-6o_0.md#t-00-26-26)
 - [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:20:07](/episodes/ep-SgVcnx4Oh30.md#t-00-19-47)
+- [VIRAL! It's Okay Not To Believe A Word Erika Ki... @ 00:14:19](/episodes/ep-DEtFh2Ff-58.md#t-00-13-58)
 
 </details>
 </div>
@@ -22273,6 +22351,37 @@ _Total events: 1093_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-10-a-plane-traveled-from-pierre-to-chicago-">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-a-plane-traveled-from-pierre-to-chicago-.md">A plane traveled from Pierre to Chicago and then departed Chicago for Provo.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: A plane traveled from Pierre to Chicago and then departed Chicago for Provo. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [VIRAL! It's Okay Not To Believe A Word Erika Ki... @ 00:34:56](/episodes/ep-DEtFh2Ff-58.md#t-00-34-36)
+- [VIRAL! It's Okay Not To Believe A Word Erika Ki... @ 00:33:40](/episodes/ep-DEtFh2Ff-58.md#t-00-33-16)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-air-force-two-picked-up-charlie-kirks-pa">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-air-force-two-picked-up-charlie-kirks-pa.md">Air Force Two picked up Charlie Kirk's parents.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Air Force Two picked up Charlie Kirk\'s parents. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [VIRAL! It's Okay Not To Believe A Word Erika Ki... @ 00:37:42](/episodes/ep-DEtFh2Ff-58.md#t-00-37-42)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-09-josh-hammer-retweets-trump-s-2013-public-execution">
 <div class="timeline-date">2025-09-09 <span class='time'>21:09</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-josh-hammer-retweets-trump-s-2013-public-execution.md">Josh Hammer retweets Trump's 2013 public execution tweet.</a></div>
@@ -23234,7 +23343,7 @@ _Total events: 1093_
 <div class="timeline-date">2025-09-09</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-mitch-snow-alleged-that-he-saw-brian-har.md">Mitch Snow alleged that he saw Brian Harpole at a senior-level meeting at Fort Huachuca.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: Mitch Snow alleged that he saw Brian Harpole at a senior-level meeting at Fort Huachuca. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -23242,6 +23351,7 @@ _Total events: 1093_
 
 - [You Won't Believe What Happened While We Were O... @ 00:38:35](/episodes/ep-OEAHy3SsIiI.md#t-00-38-27)
 - [BREAKING NEWS: Where Tyler Robinson Went On The... @ 00:16:07](/episodes/ep-HYn0P-P1wUw.md#t-00-15-58)
+- [VIRAL! It's Okay Not To Believe A Word Erika Ki... @ 00:32:57](/episodes/ep-DEtFh2Ff-58.md#t-00-32-41)
 
 </details>
 </div>
@@ -24399,13 +24509,14 @@ _Total events: 1093_
 <div class="timeline-date">2025-09-08</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-08-erika-kirk-posted-an-image-of-her-ill-mo.md">Erika Kirk posted an image of her ill mother and a ten-day countdown to September 16.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08: Erika Kirk posted an image of her ill mother and a ten-day countdown to September 16. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace ... @ 00:23:53](/episodes/ep-QRS_hR7NXaQ.md#t-00-23-23)
+- [VIRAL! It's Okay Not To Believe A Word Erika Ki... @ 00:17:39](/episodes/ep-DEtFh2Ff-58.md#t-00-17-26)
 
 </details>
 </div>
@@ -24421,6 +24532,21 @@ _Total events: 1093_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:35:50](/episodes/ep-ZzAT2xijKGQ.md#t-00-35-44)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-08-frank-turek-was-in-scottsdale">
+<div class="timeline-date">2025-09-08</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-08-frank-turek-was-in-scottsdale.md">Frank Turek was in Scottsdale.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08: Frank Turek was in Scottsdale. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [VIRAL! It's Okay Not To Believe A Word Erika Ki... @ 00:49:10](/episodes/ep-DEtFh2Ff-58.md#t-00-48-56)
 
 </details>
 </div>

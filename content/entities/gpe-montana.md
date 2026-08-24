@@ -1,6 +1,6 @@
 ---
 title: "Montana"
-description: "Montana (Places) - 8 mentions"
+description: "Montana (Places) - 12 mentions"
 id: "gpe-montana"
 type: "GPE"
 ---
@@ -9,9 +9,9 @@ _Type: Places_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-montana-t-00-01-22">2025-10-30 · 00:01:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-montana-t-00-08-56">2025-11-15 · 00:09:00</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-montana-t-00-36-37">2026-03-26 · 00:36:37</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -26,6 +26,7 @@ _Type: Places_
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-montana-t-00-11-02" style="--pulse-height:50%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-montana-t-00-24-32" style="--pulse-height:25%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-montana-t-00-08-56" style="--pulse-height:25%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-montana-t-00-36-01" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 4 mentions" title="2026-03-26 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -35,6 +36,7 @@ _Type: Places_
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-montana-t-00-11-02) | 2 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-montana-t-00-24-32) | 1 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-montana-t-00-08-56) | 1 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-montana-t-00-36-01) | 4 |
 
 </details>
 </section>
@@ -42,7 +44,24 @@ _Type: Places_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (4 mentions)</summary>
+
+**[00:34:06](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-montana-t-00-36-01)**
+> "Kalispell, Montana"
+
+**[00:33:55](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-montana-t-00-36-01)**
+> "...re it headed up to Kalispell, Montana."
+
+**[00:36:32](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-montana-t-00-36-01)**
+> "...draws my attention is it's in Montana."
+
+**[00:36:37](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-montana-t-00-36-37)**
+> "Kalispell is in Montana. It was in Montana after going to Fort Huachuca o..."
+
+</details>
 
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>

@@ -17,19 +17,55 @@ export default ((userOpts?: Partial<MobileNavigationOptions>) => {
 
     return (
       <div class={`mobile-navigation ${displayClass ?? ""}`}>
-        <button
-          class="mobile-nav-toggle"
-          aria-label="Toggle navigation menu"
-          aria-expanded="false"
-        >
+        <button class="mobile-nav-toggle" aria-label="Toggle navigation menu" aria-expanded="false">
           <svg class="hamburger-icon" viewBox="0 0 24 24" width="24" height="24">
-            <line x1="3" y1="6" x2="21" y2="6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-            <line x1="3" y1="12" x2="21" y2="12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-            <line x1="3" y1="18" x2="21" y2="18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            <line
+              x1="3"
+              y1="6"
+              x2="21"
+              y2="6"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+            />
+            <line
+              x1="3"
+              y1="12"
+              x2="21"
+              y2="12"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+            />
+            <line
+              x1="3"
+              y1="18"
+              x2="21"
+              y2="18"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+            />
           </svg>
           <svg class="close-icon" viewBox="0 0 24 24" width="24" height="24">
-            <line x1="6" y1="6" x2="18" y2="18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-            <line x1="6" y1="18" x2="18" y2="6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            <line
+              x1="6"
+              y1="6"
+              x2="18"
+              y2="18"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+            />
+            <line
+              x1="6"
+              y1="18"
+              x2="18"
+              y2="6"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+            />
           </svg>
         </button>
         <div class="mobile-nav-overlay"></div>
@@ -58,8 +94,8 @@ export default ((userOpts?: Partial<MobileNavigationOptions>) => {
       display: flex;
       align-items: center;
       justify-content: center;
-      width: 40px;
-      height: 40px;
+      width: 44px;
+      height: 44px;
       padding: 0;
       background: var(--lightgray);
       border: none;
@@ -96,6 +132,7 @@ export default ((userOpts?: Partial<MobileNavigationOptions>) => {
       backdrop-filter: blur(2px);
       opacity: 0;
       visibility: hidden;
+      pointer-events: none;
       transition: opacity 0.3s ease, visibility 0.3s ease;
       z-index: 998;
     }
@@ -103,6 +140,7 @@ export default ((userOpts?: Partial<MobileNavigationOptions>) => {
     .mobile-nav-overlay.active {
       opacity: 1;
       visibility: visible;
+      pointer-events: auto;
     }
 
     .mobile-nav-drawer {
@@ -118,10 +156,12 @@ export default ((userOpts?: Partial<MobileNavigationOptions>) => {
       transition: transform 0.3s ease;
       z-index: 999;
       overflow-y: auto;
+      pointer-events: none;
     }
 
     .mobile-nav-drawer.active {
       transform: translateX(0);
+      pointer-events: auto;
     }
 
     .mobile-nav-header {
@@ -146,6 +186,8 @@ export default ((userOpts?: Partial<MobileNavigationOptions>) => {
     .mobile-nav-drawer a {
       display: block;
       padding: 1rem 1.25rem;
+      min-height: 44px;
+      box-sizing: border-box;
       color: var(--secondary);
       text-decoration: none;
       font-size: 1rem;

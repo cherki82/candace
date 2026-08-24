@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=A39g5oqB_eM"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-A39g5oqB_eM/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=A39g5oqB_eM&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys. Happy Tuesday. I survived the ice storm. I'm sorry that we were down yesterday. We had no internet, but we are going to make up for it with a show this Friday. Anyway, what do I have for you today? You guys already know that many people are upset with me. And by many people, I mean the mainstream media and all of their cronies. They're upset for a lot of reasons, foremost because I mentioned the idea that <span id="ent-person-charlie-kirk-t-00-00-00"><a href="/entities/person-charlie-kirk.md">Charlie</a></span>'s life may have We have been <span id="ent-work-the-truman-show-t-00-00-00"><a href="/entities/work-the-truman-show.md">the Truman Show</a></span>. How dare I? Well, it's about to get a little more weird when I tell you something else that we have learned about the origins of the X-Men school that he went to in his youth. I probably should have named the thumbnail X-Men Origins. Missed opportunity. ^t-00-00-00

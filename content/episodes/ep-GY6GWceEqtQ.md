@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=GY6GWceEqtQ"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-GY6GWceEqtQ/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=GY6GWceEqtQ&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys, happy Wednesday and congratulations to me. Congratulations are in order to me. I received my first legal letter of 2026. I would say that it took longer than expected,<span id="event-event-2026-01-20-candace-owens-received-a-cease-and-desis-t-00-00-00"><a href="/events/event-2026-01-20-candace-owens-received-a-cease-and-desis.md" class="event-indicator" title="Timeline event">📅</a></span> right? We are 20, it was 20 days into January yesterday at least when I received it. I think that's a record. I'm proud of myself. And it's going to be a legal hump day in general because we need to discuss. That's how I was right about <span id="ent-person-taylor-swift-t-00-00-00"><a href="/entities/person-taylor-swift.md">Taylor Swift</a></span>. I respect her. I think she's a savage. <a href="/entities/person-taylor-swift.md">Taylor Swift</a> is a first class passenger. If the ship is going down, she's going to make it off. She's going to be in that first lifeboat. So poor <span id="ent-person-justin-baldoni-t-00-00-00"><a href="/entities/person-justin-baldoni.md">Justin Baldoni</a></span>. And lastly, ^t-00-00-00

@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=I0OaY6Gryqk"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-I0OaY6Gryqk/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=I0OaY6Gryqk&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys, today is a good day. It's a good day. It's a happy Tuesday because, look, all of us, we've been fighting really hard. It feels like trench warfare, right? Majority of people in the world know what the truth is and we are up against these liars. It's like a beehive, a hive of liars, a swarm of them that are in powerful positions. There are more of us, but they are in more powerful positions. They are lying about obvious things. They're lying about <span id="ent-person-charlie-kirk-t-00-00-00"><a href="/entities/person-charlie-kirk.md">Charlie Kirk</a></span>'s death. Saying there's nothing to see there. They are lying about the threat of <span id="ent-gpe-iran-t-00-00-00"><a href="/entities/gpe-iran.md">Iran</a></span> and what we are doing, involving ourselves in that conflict. So that's why I say today's a good day because bravery inspires bravery. <span id="ent-org-turning-point-usa-t-00-00-00"><a href="/entities/org-turning-point-usa.md">Turning Point USA</a></span> just suffered a major blow. ^t-00-00-00

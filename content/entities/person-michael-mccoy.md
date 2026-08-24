@@ -1,6 +1,6 @@
 ---
 title: "Michael McCoy"
-description: "Michael McCoy (People) - 238 mentions"
+description: "Michael McCoy (People) - 240 mentions"
 id: "person-michael-mccoy"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-michael-mccoy-t-00-19-30">2025-10-01 · 00:19:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-49-17">2026-03-25 · 00:49:27</a></strong></div>
-<div><span>Episodes</span><strong>43</strong></div>
-<div><span>Mentions</span><strong>238</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-michael-mccoy-t-00-43-07">2026-03-26 · 00:43:22</a></strong></div>
+<div><span>Episodes</span><strong>44</strong></div>
+<div><span>Mentions</span><strong>240</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>41</strong></div>
+<div><span>Statements about</span><strong>42</strong></div>
 <div><span>Relationships</span><strong>19</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -80,6 +80,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-michael-mccoy-t-00-34-47" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-michael-mccoy-t-00-32-43" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-12-33" style="--pulse-height:18%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 7 mentions" title="2026-03-25 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-michael-mccoy-t-00-12-37" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -128,6 +129,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-michael-mccoy-t-00-34-47) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-michael-mccoy-t-00-32-43) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-12-33) | 7 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-michael-mccoy-t-00-12-37) | 2 |
 
 </details>
 </section>
@@ -135,7 +137,18 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (238)</strong></summary>
+<summary><strong class="section-title">Raw mentions (240)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (2 mentions)</summary>
+
+**[00:12:47](/episodes/ep-DEtFh2Ff-58.md#ent-person-michael-mccoy-t-00-12-37)**
+> "Mikey (Michael McCoy)'s immediate phone calls"
+
+**[00:43:22](/episodes/ep-DEtFh2Ff-58.md#ent-person-michael-mccoy-t-00-43-07)**
+> "...weird and very creepy. Mikey (Michael McCoy)—I don't know if he has a place in there, he and ..."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (7 mentions)</summary>
@@ -1314,7 +1327,15 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Michael McCoy (41)</strong></summary>
+<summary><strong class="section-title">Statements about Michael McCoy (42)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>
+
+- [00:43:22](/episodes/ep-DEtFh2Ff-58.md#t-00-43-07) (Claim) **Anonymous Source #3 (Ep DEtFh2Ff-58)** (via paraphrase): ["Stacey Sheridan, Michael McCoy, and Elizabeth McCoy are at Charlie and..."](/statements/statement-30bada1746a8.md)
+  - Also about: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1)</summary>

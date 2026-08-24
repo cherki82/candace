@@ -1,6 +1,6 @@
 ---
 title: "United States Air Force"
-description: "United States Air Force (Organizations) - 56 mentions"
+description: "United States Air Force (Organizations) - 57 mentions"
 id: "org-united-states-air-force"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-united-states-air-force-t-00-50-29">2025-09-29 · 00:50:39</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-united-states-air-force-t-00-04-59">2026-03-25 · 00:05:05</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>56</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#t-00-37-42">2026-03-26 · 00:37:42</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>57</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -56,6 +56,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-air-force-t-00-05-25" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-air-force-t-00-05-32" style="--pulse-height:33%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 4 mentions" title="2026-03-10 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-united-states-air-force-t-00-04-59" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#t-00-37-42" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -81,6 +82,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-air-force-t-00-05-25) | 1 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-air-force-t-00-05-32) | 4 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-united-states-air-force-t-00-04-59) | 1 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#t-00-37-42) | 1 |
 
 </details>
 </section>
@@ -88,7 +90,15 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (56)</strong></summary>
+<summary><strong class="section-title">Raw mentions (57)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
+
+**[00:37:42](/episodes/ep-DEtFh2Ff-58.md#t-00-37-42)**
+> "J.D. Vance sent the Air Force two"
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Israel (Places) - 1081 mentions"
+description: "Israel (Places) - 1084 mentions"
 id: "gpe-israel"
 type: "GPE"
 aliases:
@@ -26,10 +26,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-israel-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-03-57-56">2026-08-14 · 03:58:04</a></strong></div>
-<div><span>Episodes</span><strong>84</strong></div>
-<div><span>Mentions</span><strong>1,081</strong></div>
+<div><span>Episodes</span><strong>85</strong></div>
+<div><span>Mentions</span><strong>1,084</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>178</strong></div>
+<div><span>Statements about</span><strong>179</strong></div>
 <div><span>Relationships</span><strong>34</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -121,6 +121,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-israel-t-00-02-11" style="--pulse-height:21%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 12 mentions" title="2026-03-23 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-israel-t-00-50-02" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 3 mentions" title="2026-03-24 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-israel-t-00-34-49" style="--pulse-height:9%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 5 mentions" title="2026-03-25 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-israel-t-00-50-22" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 3 mentions" title="2026-03-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12" style="--pulse-height:68%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 39 mentions" title="2026-08-14 · 39 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -210,6 +211,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-israel-t-00-02-11) | 12 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-israel-t-00-50-02) | 3 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-israel-t-00-34-49) | 5 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-israel-t-00-50-22) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12) | 39 |
 
 </details>
@@ -222,7 +224,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1081)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1084)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (39 mentions)</summary>
@@ -343,6 +345,20 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[02:25:09](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-25-09)**
 > "So it. He then loved other Israel."
+
+</details>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (3 mentions)</summary>
+
+**[00:50:51](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-israel-t-00-50-22)**
+> "shifted completely before he died on Israel"
+
+**[00:52:05](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-israel-t-00-51-47)**
+> "... our new merch, not dying for Israel."
+
+**[00:52:17](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-israel-t-00-51-47)**
+> "... They just want to go die for Israel. Well, they're also raising the age."
 
 </details>
 
@@ -4180,7 +4196,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel (178)</strong></summary>
+<summary><strong class="section-title">Statements about Israel (179)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2)</summary>
@@ -4189,6 +4205,14 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
   - Also about: [Joe Kent](/entities/person-joe-kent.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [02:37:26](/episodes/ep-nPhCKwJ6ye8.md#t-02-37-26) (Prediction) **Candace Owens**: ["Candace Owens predicts that Israel will ultimately be found to have be..."](/statements/statement-d5c74ed071c8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>
+
+- [00:50:51](/episodes/ep-DEtFh2Ff-58.md#t-00-50-22) (Claim) **Candace Owens**: ["Charlie Kirk's perspective on Israel had shifted completely before he ..."](/statements/statement-0f4fae6e0072.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

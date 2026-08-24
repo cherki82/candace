@@ -11,7 +11,11 @@ object: "org-pure-talk"
 
 ## [Candace Owens](/entities/person-candace-owens) endorsed [Pure Talk](/entities/org-pure-talk)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
+
+**[VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58)**
+
+- [00:23:55](/episodes/ep-DEtFh2Ff-58#t-00-23-55): _PureTalk was one of the first companies that I ever endorsed almost five years ago._
 
 **[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
 

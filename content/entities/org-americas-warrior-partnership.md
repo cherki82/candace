@@ -1,20 +1,28 @@
 ---
 title: "America's Warrior Partnership"
-description: "America's Warrior Partnership (Organizations) - 2 mentions"
+description: "America's Warrior Partnership (Organizations) - 3 mentions"
 id: "org-americas-warrior-partnership"
 type: "ORG"
+categories:
+  - "veteran services nonprofit"
 ---
 
 _Type: Organizations_
 
+**Categories:** veteran services nonprofit
+
+**Entity verification:** verified
+> Official organization mission page confirms the canonical nonprofit name and veteran-support mission.
+Source: [Our Mission | America's Warrior Partnership](https://www.americaswarriorpartnership.org/our-mission)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-americas-warrior-partnership-t-00-47-24">2025-12-20 · 00:47:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-americas-warrior-partnership-t-00-47-24">2025-12-20 · 00:47:44</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-americas-warrior-partnership-t-00-23-45">2026-03-26 · 00:23:55</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -23,12 +31,14 @@ _Type: Organizations_
 <p>Highest activity: <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-americas-warrior-partnership-t-00-47-24">What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-americas-warrior-partnership-t-00-47-24" style="--pulse-height:100%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-americas-warrior-partnership-t-00-23-45" style="--pulse-height:50%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-americas-warrior-partnership-t-00-47-24) | 2 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-org-americas-warrior-partnership-t-00-23-45) | 1 |
 
 </details>
 </section>
@@ -36,7 +46,15 @@ _Type: Organizations_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
+
+**[00:23:55](/episodes/ep-DEtFh2Ff-58.md#ent-org-americas-warrior-partnership-t-00-23-45)**
+> "donated over half a million dollars to America's Warrior Partnership"
+
+</details>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
@@ -54,6 +72,28 @@ _Type: Organizations_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Funded By (1)</summary>
+
+- **[Pure Talk](/entities/org-pure-talk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:23:55](/episodes/ep-DEtFh2Ff-58.md#t-00-23-45): “PureTalk is veteran-led, so helping veterans is their North Star. They've donated over half a million dollars to America's Warrior Partnership.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Pure Talk](/entities/org-pure-talk.md)** funded this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:23:55](/episodes/ep-DEtFh2Ff-58.md#t-00-23-45): “PureTalk is veteran-led, so helping veterans is their North Star. They've donated over half a million dollars to America's Warrior Partnership.”
+
+</details>
+
+</details>
 
 </details>

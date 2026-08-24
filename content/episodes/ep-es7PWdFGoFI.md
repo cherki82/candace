@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=es7PWdFGoFI"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-es7PWdFGoFI/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=es7PWdFGoFI&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Okay, everybody. Shabbat Shalom. I just want to say Shabbat Shalom to everybody back at home. Happy Hanukkah to our greatest friends and allies. And you know, this is a good time to mention that <span id="ent-gpe-israel-t-00-00-00"><a href="/entities/gpe-israel.md">Israel</a></span> does have a right to defend itself. <span id="ent-person-tucker-carlson-t-00-00-00"><a href="/entities/person-tucker-carlson.md">Tucker</a></span> is Adolf Hitler and <span id="ent-org-tiktok-t-00-00-00"><a href="/entities/org-tiktok.md">TikTok</a></span> does need to be purchased by the <span id="ent-org-mossad-t-00-00-00"><a href="/entities/org-mossad.md">Mossad</a></span>. It's just how I'm feeling today. I am not different. Maybe you are different. Welcome back to Candice. Okay, you guys are crazy. You guys are absolutely crazy. ^t-00-00-00

@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-00-01.md" class="timestamp-link">00:00:01</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys, I'm so excited about this episode. I am sitting across from somebody who I should mention is extremely jealous of me, and I'll let you listen to what he had to say to me in his own words at his recent show. ^t-00-00-01

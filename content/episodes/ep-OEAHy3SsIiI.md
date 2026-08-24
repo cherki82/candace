@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=OEAHy3SsIiI"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-OEAHy3SsIiI/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=OEAHy3SsIiI&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys, happy new year. I hope you missed me because I definitely miss you. I have so much to say. It is the year 2026 and I am feeling sparkly and brand new. New show icon, new <span id="ent-org-youtube-t-00-00-00"><a href="/entities/org-youtube.md">YouTube</a></span> and Rumble banner. I'm even wearing a new shirt that I got for Christmas, which is why it truly pains me to report that our government is up to the same old, bed sloppy tricks. Speaking of which, many of you have already met. already messaged me regarding <span id="ent-org-the-daily-wire-t-00-00-00"><a href="/entities/org-the-daily-wire.md">the Daily Wire</a></span>. seemingly reactivating my old social media accounts and releasing an old promo, an old trailer rather, from when I used to work with them. It's very confusing, but I have the answer for why it happened. ^t-00-00-00

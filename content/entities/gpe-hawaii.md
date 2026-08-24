@@ -1,6 +1,6 @@
 ---
 title: "Hawaii"
-description: "Hawaii (Places) - 1 mention"
+description: "Hawaii (Places) - 2 mentions"
 id: "gpe-hawaii"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [Hawaii.gov | Official Website of the State of Hawaii](https://portal.eh
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-hawaii-t-00-44-04">2026-03-11 · 00:44:21</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-hawaii-t-00-44-04">2026-03-11 · 00:44:21</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-hawaii-t-00-45-34">2026-03-26 · 00:45:34</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -31,12 +31,14 @@ Source: [Hawaii.gov | Official Website of the State of Hawaii](https://portal.eh
 <p>Highest activity: <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-hawaii-t-00-44-04">EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-hawaii-t-00-44-04" style="--pulse-height:100%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-hawaii-t-00-45-34" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-hawaii-t-00-44-04) | 1 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-hawaii-t-00-45-34) | 1 |
 
 </details>
 </section>
@@ -44,7 +46,15 @@ Source: [Hawaii.gov | Official Website of the State of Hawaii](https://portal.eh
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
+
+**[00:45:34](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-hawaii-t-00-45-34)**
+> "Sending love and aloha to everyone from Hawaii"
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1 mentions)</summary>

@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=wcD2khO3rOA"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-wcD2khO3rOA/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=wcD2khO3rOA&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys. Happy Thursday. Sorry, I am running late. I was just doing so much research. I have so much to tell you all today. So we have to jump right into this because I actually have a horror story for you, an actual real life horror story for you. Someone called me last night and told me a very strange story about what happened to her back in the 90s at an evangelical university. But first, we have to revisit <span id="ent-person-brian-harpole-t-00-00-00"><a href="/entities/person-brian-harpole.md">Brian Harpole</a></span>'s story about how far in advance they typically plan security because someone has leaked to me another glaring oddity in this security protocol. Let's jump right back in. Welcome back to <span id="ent-person-candace-owens-t-00-00-00"><a href="/entities/person-candace-owens.md">Candace</a></span>. ^t-00-00-00

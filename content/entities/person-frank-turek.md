@@ -1,6 +1,6 @@
 ---
 title: "Frank Turek"
-description: "Frank Turek (People) - 94 mentions"
+description: "Frank Turek (People) - 98 mentions"
 id: "person-frank-turek"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-frank-turek-t-00-54-23">2025-09-22 · 00:54:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-frank-turek-t-00-20-03">2026-03-25 · 00:20:03</a></strong></div>
-<div><span>Episodes</span><strong>27</strong></div>
-<div><span>Mentions</span><strong>94</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-frank-turek-t-00-48-56">2026-03-26 · 00:49:22</a></strong></div>
+<div><span>Episodes</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>98</strong></div>
 <div><span>Statements by</span><strong>18</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>22</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -64,6 +64,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-frank-turek-t-00-34-37" style="--pulse-height:73%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 11 mentions" title="2026-03-10 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-frank-turek-t-00-35-54" style="--pulse-height:13%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-frank-turek-t-00-00-00" style="--pulse-height:100%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 15 mentions" title="2026-03-25 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-frank-turek-t-00-01-24" style="--pulse-height:27%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 4 mentions" title="2026-03-26 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -96,6 +97,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-frank-turek-t-00-34-37) | 11 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-frank-turek-t-00-35-54) | 2 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-frank-turek-t-00-00-00) | 15 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-frank-turek-t-00-01-24) | 4 |
 
 </details>
 </section>
@@ -103,7 +105,24 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (94)</strong></summary>
+<summary><strong class="section-title">Raw mentions (98)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (4 mentions)</summary>
+
+**[00:01:35](/episodes/ep-DEtFh2Ff-58.md#ent-person-frank-turek-t-00-01-24)**
+> "Frank Turek's estimation"
+
+**[00:48:56](/episodes/ep-DEtFh2Ff-58.md#ent-person-frank-turek-t-00-48-56)**
+> "Based on what Frank Turek said, I think he's looking at Frank Turek. And I ..."
+
+**[00:49:10](/episodes/ep-DEtFh2Ff-58.md#ent-person-frank-turek-t-00-48-56)**
+> "And I had always wondered why Frank Turek was in Scottsdale. On September 8th, I wonder wha..."
+
+**[00:49:22](/episodes/ep-DEtFh2Ff-58.md#ent-person-frank-turek-t-00-48-56)**
+> "... would be very interesting if Frank was not supposed to be there and then he was."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (15 mentions)</summary>
@@ -860,7 +879,14 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Frank Turek (13)</strong></summary>
+<summary><strong class="section-title">Statements about Frank Turek (14)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>
+
+- [00:48:56](/episodes/ep-DEtFh2Ff-58.md#t-00-48-56) (Claim) **Anonymous Source #4 (Ep DEtFh2Ff-58)** (via paraphrase): ["Frank Turek changed his schedule at the last second, canceling an appo..."](/statements/statement-67d52ae00784.md)
+
+</details>
 
 <details>
 <summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (4)</summary>

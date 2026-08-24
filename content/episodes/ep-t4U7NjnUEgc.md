@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=t4U7NjnUEgc"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-t4U7NjnUEgc/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=t4U7NjnUEgc&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys, happy Tuesday. Where to begin? Well, in the final days leading up to <a href="/entities/person-charlie-kirk.md">Charlie Kirk</a>'s assassination, <span id="ent-person-charlie-kirk-t-00-00-00"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> was pretty busy, right? He went on a first time trip to Asia, quite a quick trip, quite at least a quick turnaround to go first to <span id="ent-gpe-south-korea-t-00-00-00"><a href="/entities/gpe-south-korea.md">Korea</a></span> for a couple of days and then off to <span id="ent-gpe-japan-t-00-00-00"><a href="/entities/gpe-japan.md">Japan</a></span>. And honestly, If I was a conspiracy theorist and I kind of am one, I might think at this stage that the timing of that trip might have been intentional because something was going on back home that they didn't want him to see. Well, what I'm about to tell you guys today is going to positively blow your mind. ^t-00-00-00

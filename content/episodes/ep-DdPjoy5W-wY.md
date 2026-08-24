@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=DdPjoy5W-wY"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-DdPjoy5W-wY/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=DdPjoy5W-wY&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys look alive, look alive. It is Thursday, only one more day until <span id="ent-concept-shabbat-t-00-00-00"><a href="/entities/concept-shabbat.md">Shabbat</a></span>. Thankfully, gratefully, hello, <span id="ent-person-blake-neff-t-00-00-00"><a href="/entities/person-blake-neff.md">Blake</a></span>. Now look, <span id="ent-person-erika-kirk-t-00-00-00"><a href="/entities/person-erika-kirk.md">Erika</a></span> is trending today over on X. There's a lot of backlash happening because she has offered an explanation as to why it is perfectly acceptable for her to be running this alleged billion dollar empire while also being a mother and tending to her children. friend, and we should listen to that together because it is infuriating. I am infuriated by what she said. I'm going to be honest. Also, we have exclusive audio for you guys from another corporate call from <span id="ent-org-turning-point-usa-t-00-00-00"><a href="/entities/org-turning-point-usa.md">Turning Point USA</a></span>, and it may give us an indication as to how she is managing to make it all work. ^t-00-00-00

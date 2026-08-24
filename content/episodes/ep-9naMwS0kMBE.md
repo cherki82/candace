@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=9naMwS0kMBE"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-9naMwS0kMBE/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=9naMwS0kMBE&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys, welcome back. I'm actually very excited today. I know you guys are. You were freaking out in the chat. I told you that I was going to be joined by <span id="ent-person-baron-coleman-t-00-00-00"><a href="/entities/person-baron-coleman.md">Baron Coleman</a></span>. None other than <a href="/entities/person-baron-coleman.md">Baron Coleman</a> here in studio. Guys, just get ready. It's an exceptional amount of rabbit holes that we have to jump through today. I told you yesterday that we received a tip and it just made my mind go poof. I just. So much happening here. So many connections. <a href="/entities/person-baron-coleman.md">Baron</a>, you have done fantastic work digging into <span id="ent-person-charlie-kirk-t-00-00-00"><a href="/entities/person-charlie-kirk.md">Charlie Kirk</a></span>'s assassination. You would think the feds would do that, but apparently it's not their job. ^t-00-00-00

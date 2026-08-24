@@ -1,6 +1,6 @@
 ---
 title: "Pure Talk"
-description: "Pure Talk (Organizations) - 106 mentions"
+description: "Pure Talk (Organizations) - 110 mentions"
 id: "org-pure-talk"
 type: "ORG"
 aliases:
@@ -24,12 +24,12 @@ Source: [PureTalk](https://www.puretalk.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-pure-talk-t-00-55-47">2025-09-15 · 00:55:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-pure-talk-t-00-28-52">2026-03-17 · 00:29:03</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>106</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-pure-talk-t-00-24-28">2026-03-26 · 00:24:49</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>110</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -57,6 +57,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-pure-talk-t-00-24-16" style="--pulse-height:57%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 4 mentions" title="2026-03-06 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-pure-talk-t-00-44-46" style="--pulse-height:57%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 4 mentions" title="2026-03-10 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-pure-talk-t-00-27-37" style="--pulse-height:71%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 5 mentions" title="2026-03-17 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-pure-talk-t-00-23-45" style="--pulse-height:57%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 4 mentions" title="2026-03-26 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -82,6 +83,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-pure-talk-t-00-24-16) | 4 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-pure-talk-t-00-44-46) | 4 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-pure-talk-t-00-27-37) | 5 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-org-pure-talk-t-00-23-45) | 4 |
 
 </details>
 </section>
@@ -89,7 +91,24 @@ Source: [PureTalk](https://www.puretalk.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (106)</strong></summary>
+<summary><strong class="section-title">Raw mentions (110)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (4 mentions)</summary>
+
+**[00:23:55](/episodes/ep-DEtFh2Ff-58.md#ent-org-pure-talk-t-00-23-45)**
+> "I also want to tell you guys about PureTalk"
+
+**[00:24:20](/episodes/ep-DEtFh2Ff-58.md#ent-org-pure-talk-t-00-23-45)**
+> "...eventing veteran suicide. And PureTalk creates American jobs with a U.S.-only workforce."
+
+**[00:24:35](/episodes/ep-DEtFh2Ff-58.md#ent-org-pure-talk-t-00-24-28)**
+> "I love PureTalk's service. They give you the same towers, the same ..."
+
+**[00:24:49](/episodes/ep-DEtFh2Ff-58.md#ent-org-pure-talk-t-00-24-28)**
+> "... make the switch today. Visit puretalk.com slash Owens. Again, that's puretalk.com slash..."
+
+</details>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (5 mentions)</summary>
@@ -518,25 +537,46 @@ Source: [PureTalk](https://www.puretalk.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:24:44](/episodes/ep-DdPjoy5W-wY.md#t-00-24-16): “switching to PureTalk, which is my wireless company.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:45:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-44-46): “Go drag your old wireless contract out of the closet and toss it in the trash, then freshen things up by switching to Pure Talk, which is my wireless company.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:28:52](/episodes/ep-I0OaY6Gryqk.md#t-00-28-52): “Head to puretalk.com slash Owens and you'll save 50% off your first month. Again, that is puretalk.com slash Owens and switch to a wireless company that shares your values.”
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:23:55](/episodes/ep-DEtFh2Ff-58.md#t-00-23-45): “PureTalk was one of the first companies that I ever endorsed almost five years ago.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Funded (1)</summary>
+
+- **[America's Warrior Partnership](/entities/org-americas-warrior-partnership.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:23:55](/episodes/ep-DEtFh2Ff-58.md#t-00-23-45): “PureTalk is veteran-led, so helping veterans is their North Star. They've donated over half a million dollars to America's Warrior Partnership.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:24:44](/episodes/ep-DdPjoy5W-wY.md#t-00-24-16): “switching to PureTalk, which is my wireless company.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:45:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-44-46): “Go drag your old wireless contract out of the closet and toss it in the trash, then freshen things up by switching to Pure Talk, which is my wireless company.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:28:52](/episodes/ep-I0OaY6Gryqk.md#t-00-28-52): “Head to puretalk.com slash Owens and you'll save 50% off your first month. Again, that is puretalk.com slash Owens and switch to a wireless company that shares your values.”
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:23:55](/episodes/ep-DEtFh2Ff-58.md#t-00-23-45): “PureTalk was one of the first companies that I ever endorsed almost five years ago.”
+
+</details>
+
+- **[America's Warrior Partnership](/entities/org-americas-warrior-partnership.md)** funded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:23:55](/episodes/ep-DEtFh2Ff-58.md#t-00-23-45): “PureTalk is veteran-led, so helping veterans is their North Star. They've donated over half a million dollars to America's Warrior Partnership.”
 
 </details>
 

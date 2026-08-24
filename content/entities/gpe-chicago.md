@@ -24,7 +24,7 @@ Source: [City of Chicago](https://www.chicago.gov/city/en.html)
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -95,5 +95,18 @@ Source: [City of Chicago](https://www.chicago.gov/city/en.html)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Chicago (1)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>
+
+- [00:34:56](/episodes/ep-DEtFh2Ff-58.md#t-00-34-36) (Claim) **Baron Coleman**: ["On September 10th, aircraft N582MM left Pierre, South Dakota at 2:40 p..."](/statements/statement-013396861573.md)
+  - Also about: [N582MM](/entities/vehicle-n582mm.md), [Pierre, South Dakota](/entities/gpe-pierre-south-dakota.md), [Provo Airport](/entities/org-provo-airport.md)
+
+</details>
 
 </details>

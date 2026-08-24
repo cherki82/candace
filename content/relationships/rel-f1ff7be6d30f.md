@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) accused [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (10 mentions)
+### Evidence (11 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -24,6 +24,10 @@ object: "person-erika-kirk"
 **[BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE)**
 
 - [00:44:15](/episodes/ep-CEF7gQRWYCE#t-00-44-15): _I've clocked Erika on another lie. ... She's now twice lied about a Dan Flood message._
+
+**[VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58)**
+
+- [00:16:14](/episodes/ep-DEtFh2Ff-58#t-00-16-14): _Erika and Andrew did not hug in Provo, which only leaves us with Scottsdale. Now, it is incredible, by the way, to go back and to realize how many times Erika Kirk has lied,_
 
 **[REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM)**
 

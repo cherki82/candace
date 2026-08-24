@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=QRS_hR7NXaQ"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-QRS_hR7NXaQ/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=QRS_hR7NXaQ&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys, happy Tuesday. A lot to uncover today. First and foremost, we have a lot of alibis that were given to us about September 10th, where people were when they got the news. And I have to say, these alibis are beginning to crumble. Like Building 7 on 9-11. We're going to talk about that too, Building 7, very briefly. Also, <span id="ent-person-ben-shapiro-t-00-00-00"><a href="/entities/person-ben-shapiro.md">Ben Shapiro</a></span> watches every single minute of this show. Trust me, he directly quotes it all the time everywhere he goes. We don't know, no, but we know. And you have to watch this clip of him attempting to make fun of me. It's just, it's glorious. It's glorious. I really have one. Welcome back to <span id="ent-person-candace-owens-t-00-00-00"><a href="/entities/person-candace-owens.md">Candace</a></span>. ^t-00-00-00

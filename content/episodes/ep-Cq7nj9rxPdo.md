@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=Cq7nj9rxPdo"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-Cq7nj9rxPdo/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=Cq7nj9rxPdo&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys, so here's what's going on today. <span id="ent-org-turning-point-usa-t-00-00-00"><a href="/entities/org-turning-point-usa.md">Turning Point USA</a></span> has issued a statement, a couple of statements actually. For one, they say the reason that <span id="ent-person-michael-mccoy-t-00-00-00"><a href="/entities/person-michael-mccoy.md">Mikey McCoy</a></span> walked away so swiftly after <span id="ent-person-charlie-kirk-t-00-00-00"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> got shot is because Charlie himself told <a href="/entities/person-michael-mccoy.md">Mikey</a> to do that. Charlie somehow drilled into <a href="/entities/person-michael-mccoy.md">Mikey McCoy</a>'s mind exactly what he should do in that circumstance. Are you buying that? Any buyers of that? I'd like to know because if there are, I'd like to inform you. I didn't want to say it this way, but I am in fact a Nigerian princess. I am stranded currently on an island. I'm gonna need you to send your credit card details right now so I can return home. ^t-00-00-00

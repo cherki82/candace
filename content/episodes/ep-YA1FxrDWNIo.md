@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=YA1FxrDWNIo"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-YA1FxrDWNIo/t-00-00-01.md" class="timestamp-link">00:00:01</a> <a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=1" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I just want to say that I feel like at the beginning of this investigation, I was very clear. I said there will be no fakeness, and there will be no gayness in this investigation. And apparently there were some people who did not take me seriously or literally, because there are a lot of little lies being told. Right? <span id="ent-person-charlie-kirk-t-00-00-01"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> gets assassinated, and the very people who were threatening him reputationally and financially are now trying to memorialize him as having died as a friend of <span id="ent-gpe-israel-t-00-00-01"><a href="/entities/gpe-israel.md">Israel</a></span>. Okay, challenge accepted. All lies will be revealed, and we're going to help reveal those lies. ^t-00-00-01

@@ -1,6 +1,6 @@
 ---
 title: "New York"
-description: "New York (Places) - 113 mentions"
+description: "New York (Places) - 123 mentions"
 id: "gpe-new-york"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [State of New York](https://www.ny.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-50-22">2025-09-15 · 00:50:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-t-00-26-12">2026-03-18 · 00:33:13</a></strong></div>
-<div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>113</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-new-york-t-00-25-46">2026-03-26 · 00:26:21</a></strong></div>
+<div><span>Episodes</span><strong>32</strong></div>
+<div><span>Mentions</span><strong>123</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -61,6 +61,7 @@ Source: [State of New York](https://www.ny.gov/)
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-new-york-t-00-01-17" style="--pulse-height:62%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 8 mentions" title="2026-03-12 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-new-york-t-00-39-36" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-t-00-24-50" style="--pulse-height:77%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 10 mentions" title="2026-03-18 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-new-york-t-00-25-46" style="--pulse-height:77%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 10 mentions" title="2026-03-26 · 10 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -97,6 +98,7 @@ Source: [State of New York](https://www.ny.gov/)
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-new-york-t-00-01-17) | 8 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-new-york-t-00-39-36) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-t-00-24-50) | 10 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-new-york-t-00-25-46) | 10 |
 
 </details>
 </section>
@@ -104,7 +106,42 @@ Source: [State of New York](https://www.ny.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (113)</strong></summary>
+<summary><strong class="section-title">Raw mentions (123)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (10 mentions)</summary>
+
+**[00:26:21](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-new-york-t-00-25-46)**
+> "maybe not New York"
+
+**[00:16:27](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-new-york-t-00-25-46)**
+> "...er today caught that infamous New York Times article that she did, interview that she di..."
+
+**[00:16:45](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-new-york-t-00-25-46)**
+> "...or all their faults, that The New York Times sat down and lied about what the widow told..."
+
+**[00:18:22](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-new-york-t-00-25-46)**
+> "She posts that and the New York Times says she's in the hospital. So everyone run..."
+
+**[00:18:50](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-new-york-t-00-25-46)**
+> "...d you, if a journalist in The New York Times would have had a recorder there, obviously,..."
+
+**[00:19:22](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-new-york-t-00-25-46)**
+> "Do you think that the New York Times reporter made that up?"
+
+**[00:20:35](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-new-york-t-00-25-46)**
+> "...McCoy similarly reflected the New York Times version of events and made it sound like im..."
+
+**[00:21:25](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-new-york-t-00-25-46)**
+> "...entary that Erika gave to The New York Times reporter."
+
+**[00:21:48](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-new-york-t-00-25-46)**
+> "...ils that she brings up in the New York Times that seems slight. lightly adjusted like th..."
+
+**[00:21:57](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-new-york-t-00-25-46)**
+> "... identity unverified). In The New York Times article, there's not really a mention of Gi..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (10 mentions)</summary>

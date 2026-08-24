@@ -1,6 +1,6 @@
 ---
 title: "Instagram"
-description: "Instagram (Organizations) - 76 mentions"
+description: "Instagram (Organizations) - 79 mentions"
 id: "org-instagram"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-instagram-t-00-04-56">2025-09-11 · 00:05:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-instagram-t-00-54-08">2026-03-23 · 00:54:12</a></strong></div>
-<div><span>Episodes</span><strong>35</strong></div>
-<div><span>Mentions</span><strong>76</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-instagram-t-00-20-35">2026-03-26 · 00:20:35</a></strong></div>
+<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>79</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -66,6 +66,7 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-instagram-t-00-09-17" style="--pulse-height:12%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-instagram-t-00-31-39" style="--pulse-height:12%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-instagram-t-00-54-08" style="--pulse-height:12%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-instagram-t-00-17-26" style="--pulse-height:38%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 3 mentions" title="2026-03-26 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -106,6 +107,7 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-instagram-t-00-09-17) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-instagram-t-00-31-39) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-instagram-t-00-54-08) | 1 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-org-instagram-t-00-17-26) | 3 |
 
 </details>
 </section>
@@ -113,7 +115,21 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (76)</strong></summary>
+<summary><strong class="section-title">Raw mentions (79)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (3 mentions)</summary>
+
+**[00:17:49](/episodes/ep-DEtFh2Ff-58.md#ent-org-instagram-t-00-17-26)**
+> "using her Instagram to manipulate us"
+
+**[00:18:00](/episodes/ep-DEtFh2Ff-58.md#ent-org-instagram-t-00-18-00)**
+> "... doesn't want to be posted on Instagram. I don't post on Instagram for two years. So I'm ..."
+
+**[00:20:35](/episodes/ep-DEtFh2Ff-58.md#ent-org-instagram-t-00-20-35)**
+> "...beth McCoy posted this on her Instagram back in October. She wrote this."
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1 mentions)</summary>
@@ -528,7 +544,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Instagram (5)</strong></summary>
+<summary><strong class="section-title">Statements about Instagram (6)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>
+
+- [00:17:49](/episodes/ep-DEtFh2Ff-58.md#t-00-17-26) (Opinion) **Candace Owens**: ["Erika Kirk used her Instagram post of her frail-looking mother two day..."](/statements/statement-294d8f84543f.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1)</summary>

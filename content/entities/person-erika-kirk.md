@@ -1,6 +1,6 @@
 ---
 title: "Erika Kirk"
-description: "Erika Kirk (People) - 1655 mentions"
+description: "Erika Kirk (People) - 1700 mentions"
 id: "person-erika-kirk"
 type: "PERSON"
 aliases:
@@ -28,11 +28,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-erika-kirk-t-00-18-02">2025-09-11 · 00:18:06</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-erika-kirk-t-04-00-43">2026-08-14 · 04:00:43</a></strong></div>
-<div><span>Episodes</span><strong>78</strong></div>
-<div><span>Mentions</span><strong>1,655</strong></div>
-<div><span>Statements by</span><strong>97</strong></div>
-<div><span>Statements about</span><strong>495</strong></div>
-<div><span>Relationships</span><strong>177</strong></div>
+<div><span>Episodes</span><strong>79</strong></div>
+<div><span>Mentions</span><strong>1,700</strong></div>
+<div><span>Statements by</span><strong>98</strong></div>
+<div><span>Statements about</span><strong>505</strong></div>
+<div><span>Relationships</span><strong>179</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -117,6 +117,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-erika-kirk-t-00-00-28" style="--pulse-height:38%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 33 mentions" title="2026-03-23 · 33 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-erika-kirk-t-00-00-38" style="--pulse-height:44%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 38 mentions" title="2026-03-24 · 38 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-02-23" style="--pulse-height:49%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 42 mentions" title="2026-03-25 · 42 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-01-55" style="--pulse-height:52%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 45 mentions" title="2026-03-26 · 45 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-erika-kirk-t-00-38-09" style="--pulse-height:63%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 54 mentions" title="2026-08-14 · 54 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -200,6 +201,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-erika-kirk-t-00-00-28) | 33 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-erika-kirk-t-00-00-38) | 38 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-erika-kirk-t-00-02-23) | 42 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-01-55) | 45 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-erika-kirk-t-00-38-09) | 54 |
 
 </details>
@@ -208,7 +210,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1655)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1700)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (54 mentions)</summary>
@@ -374,6 +376,146 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 **[04:00:43](/episodes/ep-nPhCKwJ6ye8.md#ent-person-erika-kirk-t-04-00-43)**
 > "...s case. They don't care about Erika Kirk."
+
+</details>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (45 mentions)</summary>
+
+**[00:01:55](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-01-55)**
+> "pick up Erika Kirk from Provo Airport"
+
+**[00:00:36](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-00-36)**
+> "...ing sending a team to pick up Erika."
+
+**[00:01:35](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-01-24)**
+> "...Frank Turek's estimation that Erika arrived at the hospital at 4 p.m. OK, that was on..."
+
+**[00:03:07](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-02-58)**
+> "...can conclusively confirm that Erika did not wait an hour on the tarmac for Andrew's a..."
+
+**[00:03:23](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-02-58)**
+> "...s aboard Charlie's plane with Erika."
+
+**[00:06:13](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-06-09)**
+> "Now, Erika claims that he was on the flight that landed at 4..."
+
+**[00:06:19](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-06-09)**
+> "Erika's always lying, okay? And she's definitely lying ab..."
+
+**[00:06:38](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-06-38)**
+> "... is about the time frame when Erika learned that Charlie did not make it, around the ..."
+
+**[00:07:51](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-07-18)**
+> "And Erika is the first person that he sees when the plane d..."
+
+**[00:08:00](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-08-00)**
+> "...ie Kirk is dead in a hug with Erika. This is why Erika cannot answer whether or not h..."
+
+**[00:10:16](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-10-07)**
+> "...st be like, oh yeah, I hugged Erika on the tarmac when I got to Scottsdale. It's a cr..."
+
+**[00:11:05](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-10-36)**
+> "Erika, similarly, did not wait until 4.30 for him to ar..."
+
+**[00:11:18](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-11-18)**
+> "... scanner is saying about when Erika was picked up."
+
+**[00:13:13](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-13-13)**
+> "...ake it. That would track with Erika at the airport. Elizabeth's story, Erika told me,..."
+
+**[00:13:38](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-13-13)**
+> "...and have that tarmac hug with Erika. And then there's this mysterious flight that I k..."
+
+**[00:14:52](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-14-43)**
+> "... from the police scanner—that Erika, Elizabeth, Tyler, Stacey Sheridan and company we..."
+
+**[00:15:28](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-15-28)**
+> "...ntrance, and not the one that Erika and Elizabeth McCoy and Stacey Sheridan and Cathe..."
+
+**[00:16:14](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-16-14)**
+> "...and to realize how many times Erika Kirk has lied,"
+
+**[00:16:45](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-16-45)**
+> "... York Times made mistakes and Erika didn't give them wrong answers, right?"
+
+**[00:17:04](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-16-45)**
+> "...tle things like when they say Erika was in the hospital with her mom. That's a lie. E..."
+
+**[00:17:18](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-16-45)**
+> "Erika's mother goes to an opt-in treatment center, you kn..."
+
+**[00:17:49](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-17-26)**
+> "... I'm tired of pretending that Erika was not using her Instagram to manipulate us."
+
+**[00:18:27](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-18-00)**
+> "Erika's mother was not in the hospital on September 8th. ..."
+
+**[00:18:34](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-18-34)**
+> "... then another little lie that Erika tells is that the at least the reporter reports t..."
+
+**[00:19:54](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-19-54)**
+> "... the journalist was told that Erika was on a plane."
+
+**[00:20:10](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-19-54)**
+> "... is false. It's not even what Erika told me to my face."
+
+**[00:20:19](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-19-54)**
+> "It's not even what Erika told me to my face. What she said more closely mi..."
+
+**[00:20:35](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-20-35)**
+> "...nd made it sound like implied Erika was either airborne or I would say it just implie..."
+
+**[00:20:58](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-20-58)**
+> "...omforting her. It sounds like Erika's on a plane. So that was the story until the story..."
+
+**[00:21:25](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-20-58)**
+> "...the immediate commentary that Erika gave to The New York Times reporter."
+
+**[00:22:54](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-22-23)**
+> "...ian who dropped a video about Erika Kirk, man. It's gone absolutely viral."
+
+**[00:25:07](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-25-07)**
+> "...recognizing what's wrong with Erika and her responses. It's so perfect."
+
+**[00:25:35](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-25-07)**
+> "... exactly almost verbatim what Erika said that she said when she got to the hospital, ..."
+
+**[00:26:21](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-25-46)**
+> "...at something's not right with Erika Kirk."
+
+**[00:27:28](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-27-14)**
+> "...ng conservative women, namely Erika Kirk. Get on your."
+
+**[00:29:22](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-29-22)**
+> "...nting on that, again removing Erika Kirk from the scenario. I was noticing all of these wo..."
+
+**[00:30:14](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-30-04)**
+> "...rok replied and said, 'That's Erika Kirk, the actress and comedian starring in a Druski sa..."
+
+**[00:32:05](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-32-05)**
+> "...re all feeling the same about Erika Kirk."
+
+**[00:32:57](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-32-41)**
+> "What fort? Some fort. Erika wasn't at some fort. But what was Mitch (Mitch Sn..."
+
+**[00:33:16](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-33-16)**
+> "Erika then denied that story pretty aggressively, I wou..."
+
+**[00:41:17](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-40-59)**
+> "... 10th as much as they protect Erika after September 10th, he might still be alive."
+
+**[00:42:22](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-42-22)**
+> "...st so angry because he picked Erika. Yesterday they were really saying that I was a l..."
+
+**[00:43:22](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-43-07)**
+> "...e same complex as Charlie and Erika? That is super weird. More and more, it seems lik..."
+
+**[00:44:30](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-44-30)**
+> "...rites, I miss not knowing who Erika Kirk was."
+
+**[00:49:27](/episodes/ep-DEtFh2Ff-58.md#ent-person-erika-kirk-t-00-48-56)**
+> "... personally, with Charlie and Erika personally, and rabbis and priests were praying."
 
 </details>
 
@@ -5619,7 +5761,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Accused By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:44:15](/episodes/ep-CEF7gQRWYCE.md#t-00-43-43): “I've clocked Erika on another lie. ... She's now twice lied about a Dan Flood message.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:21:18](/episodes/ep-QRS_hR7NXaQ.md#t-00-21-11): “I want to speak about Erika (Erika Kirk)'s alibi on September 10th. And I'm going to put it out there that I do not believe it. I do not believe we are being told told the truth regarding her alibi.”
@@ -5631,6 +5773,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:13:16](/episodes/ep-H9p2ZGHAs9A.md#t-00-12-32): “Erika (Erika Kirk) graduated magna cum laude. We have not been able to confirm that. That seems to be made up, but so is the rest of this bio appear to be made up. So we'll just keep going.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:35:54](/episodes/ep-I0OaY6Gryqk.md#t-00-35-28): “That everything that Erika (Erika Kirk) is doing right now is normal, that it is moral, that it is righteous in any way, that it is excusable, that she has lied through her teeth, been caught so many times that it's some like stage of grieving that nobody's gone through.”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:11:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-03): “in reality, it's Erika that's lying.”
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:16:14](/episodes/ep-DEtFh2Ff-58.md#t-00-15-28): “Erika and Andrew did not hug in Provo, which only leaves us with Scottsdale. Now, it is incredible, by the way, to go back and to realize how many times Erika Kirk has lied,”
 
 </details>
 
@@ -5915,10 +6058,10 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Criticized By (4)</summary>
+<summary>Criticized By (5)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-29): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -5941,6 +6084,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:48:56](/episodes/ep-_vg7ucP1E0g.md#t-00-48-49): “And I just that's that's fake. Okay. I didn't say it when it was first going down, but like it now that I'm just seeing how she lies and having learned about the Kanye (Kanye West) thing, I can't, I can't even go halfway. ... I can't even, I can't even go 10% with the fakeness and she's just a fundamentally dishonest person who should not be at the helm of that company or any company.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:48:34](/episodes/ep-B9TyCs-6o_0.md#t-00-48-19): “Have you paid attention to my Erika timeline? I can't find a moment when she wasn't seeking the limelight.”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:11:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-03): “She allows Andrew to look like a fool and like he's a liar, but in reality, it's Erika that's lying.”
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:25:07](/episodes/ep-DEtFh2Ff-58.md#t-00-24-28): “That was what I initially started recognizing what's wrong with Erika and her responses. It's so perfect.”
 
 </details>
 
@@ -5963,6 +6107,13 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:41:12](/episodes/ep-B9TyCs-6o_0.md#t-00-41-08): “i've heard Erika Kirk's got a dick ... she's ... an odd duck ... ever seen the compilation of her making crazy eyes”
+
+</details>
+
+- **[Drew Desbordes](/entities/person-drew-desbordes.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:27:28](/episodes/ep-DEtFh2Ff-58.md#t-00-27-14): “Here is Druski mocking conservative women, namely Erika Kirk.”
 
 </details>
 
@@ -6263,11 +6414,12 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[The New York Times](/entities/org-the-new-york-times.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:06:18](/episodes/ep-A39g5oqB_eM.md#t-00-05-46): “On the 18th, this, by the way, strikes me as odd in the retrospect as I was working on these couple of episodes about Erika (Erika Kirk). ... On the 18th, there's eight days after the assassination, she gave an in-person interview with the New York Times at her and Charlie (Charlie Kirk)'s condo.”
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:16:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-16-24): “Erica (Erika Kirk) sat down for an in-person interview with the New York Times days after Charlie (Charlie Kirk) was publicly assassinated”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:23:25](/episodes/ep-i8m_6D4QGmk.md#t-00-23-14): “After her husband's public assassination, offer a raise to Dan Flood. The security guard who failed Charlie in every possible manner and way on September 10th, only a psychopath who does not experience human emotions in the way that humans experience them would be capable of offering and then giving an in-home interview to the New York Times in the immediate days following her husband's assassination.”
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:16:27](/episodes/ep-DEtFh2Ff-58.md#t-00-16-14): “that infamous New York Times article that she did, interview that she did immediately following Charlie's assassination where she welcomed them, the enemy of Charlie Kirk, into their condo and granted them the first interview.”
 
 </details>
 
@@ -6438,7 +6590,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Widow Of (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (29)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:36](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00): “Charlie's widow”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
@@ -6468,6 +6620,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:32:42](/episodes/ep-_vg7ucP1E0g.md#t-00-32-29): “There may have been this billion dollar motive to have Charlie Kirk killed that Erika (Erika Kirk) lied about the fact her husband texted multiple people the night before he said he feared he was going to be killed. His overriding point is that.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:00:28](/episodes/ep-B9TyCs-6o_0.md#t-00-00-00): “something made Erika Kirk, Charlie's wife, look very foolish. ... The one that's been living inside of me since Charlie's death.”
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:08:58](/episodes/ep-SgVcnx4Oh30.md#t-00-08-31): “it is not every day that you see the widow of Charlie Kirk accompanied by a man in clerical robes at an airport terminal.”
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:20:58](/episodes/ep-DEtFh2Ff-58.md#t-00-20-35): “Became a widow on her way to face the reality of her husband's assassination.”
 
 </details>
 
@@ -6575,10 +6728,10 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Referenced By (80)</summary>
+<summary>Referenced By (81)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:44:15](/episodes/ep-CEF7gQRWYCE.md#t-00-43-43): “I've clocked Erika on another lie. ... She's now twice lied about a Dan Flood message.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:21:18](/episodes/ep-QRS_hR7NXaQ.md#t-00-21-11): “I want to speak about Erika (Erika Kirk)'s alibi on September 10th. And I'm going to put it out there that I do not believe it. I do not believe we are being told told the truth regarding her alibi.”
@@ -6590,6 +6743,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:13:16](/episodes/ep-H9p2ZGHAs9A.md#t-00-12-32): “Erika (Erika Kirk) graduated magna cum laude. We have not been able to confirm that. That seems to be made up, but so is the rest of this bio appear to be made up. So we'll just keep going.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:35:54](/episodes/ep-I0OaY6Gryqk.md#t-00-35-28): “That everything that Erika (Erika Kirk) is doing right now is normal, that it is moral, that it is righteous in any way, that it is excusable, that she has lied through her teeth, been caught so many times that it's some like stage of grieving that nobody's gone through.”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:11:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-03): “in reality, it's Erika that's lying.”
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:16:14](/episodes/ep-DEtFh2Ff-58.md#t-00-15-28): “Erika and Andrew did not hug in Provo, which only leaves us with Scottsdale. Now, it is incredible, by the way, to go back and to realize how many times Erika Kirk has lied,”
 
 </details>
 
@@ -6714,7 +6868,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-29): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -6737,6 +6891,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:48:56](/episodes/ep-_vg7ucP1E0g.md#t-00-48-49): “And I just that's that's fake. Okay. I didn't say it when it was first going down, but like it now that I'm just seeing how she lies and having learned about the Kanye (Kanye West) thing, I can't, I can't even go halfway. ... I can't even, I can't even go 10% with the fakeness and she's just a fundamentally dishonest person who should not be at the helm of that company or any company.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:48:34](/episodes/ep-B9TyCs-6o_0.md#t-00-48-19): “Have you paid attention to my Erika timeline? I can't find a moment when she wasn't seeking the limelight.”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:11:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-03): “She allows Andrew to look like a fool and like he's a liar, but in reality, it's Erika that's lying.”
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:25:07](/episodes/ep-DEtFh2Ff-58.md#t-00-24-28): “That was what I initially started recognizing what's wrong with Erika and her responses. It's so perfect.”
 
 </details>
 
@@ -6762,8 +6917,15 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 </details>
 
+- **[Drew Desbordes](/entities/person-drew-desbordes.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:27:28](/episodes/ep-DEtFh2Ff-58.md#t-00-27-14): “Here is Druski mocking conservative women, namely Erika Kirk.”
+
+</details>
+
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** deceased husband of this
-<details class="relationship-evidence"><summary>Show all evidence (27)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus.”
@@ -6792,6 +6954,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:32:42](/episodes/ep-_vg7ucP1E0g.md#t-00-32-29): “There may have been this billion dollar motive to have Charlie Kirk killed that Erika (Erika Kirk) lied about the fact her husband texted multiple people the night before he said he feared he was going to be killed. His overriding point is that.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:00:28](/episodes/ep-B9TyCs-6o_0.md#t-00-00-00): “something made Erika Kirk, Charlie's wife, look very foolish. ... The one that's been living inside of me since Charlie's death.”
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:08:58](/episodes/ep-SgVcnx4Oh30.md#t-00-08-31): “it is not every day that you see the widow of Charlie Kirk accompanied by a man in clerical robes at an airport terminal.”
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:20:58](/episodes/ep-DEtFh2Ff-58.md#t-00-20-35): “Became a widow on her way to face the reality of her husband's assassination.”
 
 </details>
 
@@ -7120,11 +7283,12 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[The New York Times](/entities/org-the-new-york-times.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:06:18](/episodes/ep-A39g5oqB_eM.md#t-00-05-46): “On the 18th, this, by the way, strikes me as odd in the retrospect as I was working on these couple of episodes about Erika (Erika Kirk). ... On the 18th, there's eight days after the assassination, she gave an in-person interview with the New York Times at her and Charlie (Charlie Kirk)'s condo.”
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:16:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-16-24): “Erica (Erika Kirk) sat down for an in-person interview with the New York Times days after Charlie (Charlie Kirk) was publicly assassinated”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:23:25](/episodes/ep-i8m_6D4QGmk.md#t-00-23-14): “After her husband's public assassination, offer a raise to Dan Flood. The security guard who failed Charlie in every possible manner and way on September 10th, only a psychopath who does not experience human emotions in the way that humans experience them would be capable of offering and then giving an in-home interview to the New York Times in the immediate days following her husband's assassination.”
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:16:27](/episodes/ep-DEtFh2Ff-58.md#t-00-16-14): “that infamous New York Times article that she did, interview that she did immediately following Charlie's assassination where she welcomed them, the enemy of Charlie Kirk, into their condo and granted them the first interview.”
 
 </details>
 
@@ -7285,7 +7449,15 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Erika Kirk (97)</strong></summary>
+<summary><strong class="section-title">Statements by Erika Kirk (98)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>
+
+- [00:19:09](/episodes/ep-DEtFh2Ff-58.md#t-00-19-09) [○] (Opinion) ["I was looking at the clouds and the mountains and thinking this was exactly what..."](/statements/statement-297ba7e0f508.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1)</summary>
@@ -7734,7 +7906,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Erika Kirk (495)</strong></summary>
+<summary><strong class="section-title">Statements about Erika Kirk (505)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4)</summary>
@@ -7750,6 +7922,41 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 - [03:26:38](/episodes/ep-nPhCKwJ6ye8.md#t-03-26-38) (Opinion) **Candace Owens**: ["Candace Owens believes Erika Kirk should be formally questioned becaus..."](/statements/statement-c8adff2dd148.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (10)</summary>
+
+- [00:02:44](/episodes/ep-DEtFh2Ff-58.md#t-00-02-35) (Claim) **Anonymous Source #1 (Ep DEtFh2Ff-58)** (via quoted speech): ["The victim's wife is arriving at 3:30."](/statements/statement-599ccdf40310.md)
+  - Also about: [Provo Airport](/entities/org-provo-airport.md)
+
+- [00:03:07](/episodes/ep-DEtFh2Ff-58.md#t-00-02-58) (Claim) **Candace Owens**: ["The 3:30 police pickup means Erika Kirk did not wait an hour on the Pr..."](/statements/statement-babfa5b6ff1b.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Provo Airport](/entities/org-provo-airport.md)
+
+- [00:03:23](/episodes/ep-DEtFh2Ff-58.md#t-00-02-58) (Claim) **Candace Owens**: ["The 3:30 pickup only makes sense if Andrew Kolvet was aboard Charlie K..."](/statements/statement-0fb47b12e524.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:06:13](/episodes/ep-DEtFh2Ff-58.md#t-00-06-09) (Accusation) **Candace Owens**: ["Erika Kirk is lying when she claims Andrew Kolvet was on the flight th..."](/statements/statement-ea7d4363449c.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Provo Airport](/entities/org-provo-airport.md)
+
+- [00:16:14](/episodes/ep-DEtFh2Ff-58.md#t-00-16-14) (Claim) **Candace Owens**: ["Erika Kirk and Andrew Kolvet did not hug in Provo; Candace Owens concl..."](/statements/statement-697f028b52d0.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Provo Airport](/entities/org-provo-airport.md), [Scottsdale Airport](/entities/org-scottsdale-airport.md)
+
+- [00:17:49](/episodes/ep-DEtFh2Ff-58.md#t-00-17-26) (Opinion) **Candace Owens**: ["Erika Kirk used her Instagram post of her frail-looking mother two day..."](/statements/statement-294d8f84543f.md)
+  - Also about: [Instagram](/entities/org-instagram.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:18:27](/episodes/ep-DEtFh2Ff-58.md#t-00-18-00) (Claim) **Candace Owens**: ["Erika Kirk's mother was not in the hospital on September 8th, Septembe..."](/statements/statement-4063bc832e03.md)
+  - Also about: [The New York Times](/entities/org-the-new-york-times.md)
+
+- [00:19:00](/episodes/ep-DEtFh2Ff-58.md#t-00-18-34) (Claim) **The New York Times** (via quoted article): ["The New York Times reported that Charlie Kirk's chartered plane return..."](/statements/statement-d56cc652819a.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Scottsdale Airport](/entities/org-scottsdale-airport.md), [Provo Airport](/entities/org-provo-airport.md)
+
+- [00:20:51](/episodes/ep-DEtFh2Ff-58.md#t-00-20-35) (Claim) **Elizabeth McCoy** (via quoted post): ["No one teaches you how to comfort a woman on a plane who only moments ..."](/statements/statement-580ab50d1668.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:43:22](/episodes/ep-DEtFh2Ff-58.md#t-00-43-07) (Claim) **Anonymous Source #3 (Ep DEtFh2Ff-58)** (via paraphrase): ["Stacey Sheridan, Michael McCoy, and Elizabeth McCoy are at Charlie and..."](/statements/statement-30bada1746a8.md)
+  - Also about: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)
 
 </details>
 

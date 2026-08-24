@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "United States (Places) - 1392 mentions"
+description: "United States (Places) - 1405 mentions"
 id: "gpe-united-states"
 type: "GPE"
 aliases:
@@ -30,8 +30,8 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-gpe-united-states-t-00-01-09">2025-09-15 · 00:01:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-01-19-17">2026-08-14 · 01:19:28</a></strong></div>
-<div><span>Episodes</span><strong>87</strong></div>
-<div><span>Mentions</span><strong>1,392</strong></div>
+<div><span>Episodes</span><strong>88</strong></div>
+<div><span>Mentions</span><strong>1,405</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>87</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -128,6 +128,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-united-states-t-00-46-54" style="--pulse-height:13%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 5 mentions" title="2026-03-23 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-united-states-t-00-35-28" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 3 mentions" title="2026-03-24 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-united-states-t-00-31-31" style="--pulse-height:21%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 8 mentions" title="2026-03-25 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-united-states-t-00-24-28" style="--pulse-height:34%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 13 mentions" title="2026-03-26 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-00-28-12" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -220,6 +221,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-united-states-t-00-46-54) | 5 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-united-states-t-00-35-28) | 3 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-united-states-t-00-31-31) | 8 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-united-states-t-00-24-28) | 13 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-00-28-12) | 3 |
 
 </details>
@@ -228,7 +230,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1392)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1405)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -241,6 +243,50 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[01:19:28](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-01-19-17)**
 > "Kits are available for United States residents only."
+
+</details>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (13 mentions)</summary>
+
+**[00:24:35](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-united-states-t-00-24-28)**
+> "manufactured here in the United States"
+
+**[00:23:37](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-united-states-t-00-23-05)**
+> "...ents manufactured here in the United States and they are a family-owned company, so not a par..."
+
+**[00:23:55](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-united-states-t-00-23-45)**
+> "...ver half a million dollars to America's Warrior Partnership."
+
+**[00:24:20](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-united-states-t-00-23-45)**
+> "...suicide. And PureTalk creates American jobs with a U.S.-only workforce."
+
+**[00:24:43](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-united-states-t-00-24-28)**
+> "...every single day and creating American jobs."
+
+**[00:28:30](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-united-states-t-00-28-30)**
+> "We have to protect all men in America, especially all white men in America."
+
+**[00:28:38](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-united-states-t-00-28-38)**
+> "...e care about in this country. America is built on their backs."
+
+**[00:39:33](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-united-states-t-00-39-00)**
+> "... that's designed for everyday Americans, especially if you're new to crypto or don't have..."
+
+**[00:40:14](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-united-states-t-00-39-00)**
+> "...want to remind you guys about American financing because between groceries, travel and h..."
+
+**[00:40:29](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-united-states-t-00-39-00)**
+> "...ve considered reaching out to American Financing, but maybe have hesitated"
+
+**[00:40:35](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-united-states-t-00-39-00)**
+> "...ly enjoying. Well, that's why American Financing created the Smart Equity Loan. It's a s..."
+
+**[00:40:59](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-united-states-t-00-39-00)**
+> "...ut if you... Qualify, so call American Financing today at 800-795-1210."
+
+**[00:48:30](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-united-states-t-00-48-11)**
+> "...writes, Candace and Baron are American heroes, absolutely phenomenal investigating. Than..."
 
 </details>
 

@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Erika Kirk](/entities/person-erika-kirk) widow of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (28 mentions)
+### Evidence (29 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -36,6 +36,10 @@ object: "person-charlie-kirk"
 **[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
 
 - [00:00:28](/episodes/ep-B9TyCs-6o_0#t-00-00-28): _something made Erika Kirk, Charlie's wife, look very foolish. ... The one that's been living inside of me since Charlie's death._
+
+**[VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58)**
+
+- [00:20:58](/episodes/ep-DEtFh2Ff-58#t-00-20-58): _Became a widow on her way to face the reality of her husband's assassination._
 
 **[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
 

@@ -2,7 +2,7 @@
 title: "Episodes"
 ---
 
-_Total episodes: 94_
+_Total episodes: 95_
 
 <div class="page-filter-container">
   <input type="text" class="page-filter" placeholder="Filter episodes..." autocomplete="off">
@@ -29,6 +29,7 @@ _Total episodes: 94_
 
 ## Week of Mar 23 - 29, 2026
 
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md) — Thu, Mar 26
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md) — Wed, Mar 25
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md) — Tue, Mar 24
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md) — Mon, Mar 23

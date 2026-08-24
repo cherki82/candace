@@ -11,7 +11,7 @@ object: "org-turning-point-usa"
 
 ## [Candace Owens](/entities/person-candace-owens) accused [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (5 mentions)
+### Evidence (6 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -24,6 +24,10 @@ object: "org-turning-point-usa"
 **[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
 
 - [00:19:19](/episodes/ep-B9TyCs-6o_0#t-00-19-19): _I instantly felt they were lying. And now I believe that I have evidence that proves that I was correct and they were indeed lying._
+
+**[VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58)**
+
+- [00:12:37](/episodes/ep-DEtFh2Ff-58#t-00-12-37): _This is massive. Turning Point USA is lying. They are lying about what transpired on that day._
 
 **[IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ)**
 

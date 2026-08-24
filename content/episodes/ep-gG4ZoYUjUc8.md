@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=gG4ZoYUjUc8"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-gG4ZoYUjUc8/t-00-00-01.md" class="timestamp-link">00:00:01</a> <a href="https://www.youtube.com/watch?v=gG4ZoYUjUc8&t=1" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys, <span id="ent-gpe-arizona-t-00-00-01"><a href="/entities/gpe-arizona.md">Arizona</a></span>, you should know, is an at-will employment state. What that means is that employers can fire you for any reason at all. It's not illegal for them to do so. But the question is, is it immoral for them to do so after the company rakes in $250 million off the back of its founder's assassination and employees are working overtime to help. to help make that happen. I'll let you guys decide because the stories that are coming out right now, first person accounts over a round of firings, stories are stunning. Truly stunning. ^t-00-00-01

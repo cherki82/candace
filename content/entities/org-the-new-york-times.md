@@ -1,6 +1,6 @@
 ---
 title: "The New York Times"
-description: "The New York Times (Organizations) - 35 mentions"
+description: "The New York Times (Organizations) - 44 mentions"
 id: "org-the-new-york-times"
 type: "ORG"
 aliases:
@@ -21,40 +21,41 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-the-new-york-times-t-00-50-22">2025-09-15 · 00:50:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-the-new-york-times-t-00-30-50">2026-03-24 · 00:31:05</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
-<div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-the-new-york-times-t-00-21-39">2026-03-26 · 00:21:57</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>44</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-A39g5oqB_eM.md#ent-org-the-new-york-times-t-00-05-46">EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-the-new-york-times-t-00-16-14">VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-the-new-york-times-t-00-50-22" style="--pulse-height:20%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 1 mentions" title="2025-09-15 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-the-new-york-times-t-00-20-14" style="--pulse-height:20%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-the-new-york-times-t-00-20-35" style="--pulse-height:20%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-the-new-york-times-t-00-28-48" style="--pulse-height:20%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DqGNvi36ol8.md#ent-org-the-new-york-times-t-00-17-32" style="--pulse-height:40%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-the-new-york-times-t-00-09-46" style="--pulse-height:40%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-the-new-york-times-t-00-13-34" style="--pulse-height:20%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-the-new-york-times-t-00-28-53" style="--pulse-height:20%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-A39g5oqB_eM.md#ent-org-the-new-york-times-t-00-05-46" style="--pulse-height:100%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 5 mentions" title="2026-01-27 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-the-new-york-times-t-01-22-26" style="--pulse-height:80%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Wjul6YV6izo.md#ent-org-the-new-york-times-t-00-07-37" style="--pulse-height:20%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-the-new-york-times-t-00-24-42" style="--pulse-height:60%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 3 mentions" title="2026-02-03 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-the-new-york-times-t-00-09-43" style="--pulse-height:20%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-org-the-new-york-times-t-00-15-04" style="--pulse-height:20%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-the-new-york-times-t-00-03-34" style="--pulse-height:20%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-the-new-york-times-t-00-16-24" style="--pulse-height:20%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-the-new-york-times-t-00-59-26" style="--pulse-height:20%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-the-new-york-times-t-00-14-38" style="--pulse-height:20%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-the-new-york-times-t-00-23-14" style="--pulse-height:60%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 3 mentions" title="2026-03-09 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-the-new-york-times-t-00-09-17" style="--pulse-height:40%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-the-new-york-times-t-00-30-50" style="--pulse-height:20%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-the-new-york-times-t-00-50-22" style="--pulse-height:11%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 1 mentions" title="2025-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-the-new-york-times-t-00-20-14" style="--pulse-height:11%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-the-new-york-times-t-00-20-35" style="--pulse-height:11%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-the-new-york-times-t-00-28-48" style="--pulse-height:11%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-org-the-new-york-times-t-00-17-32" style="--pulse-height:22%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-the-new-york-times-t-00-09-46" style="--pulse-height:22%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-the-new-york-times-t-00-13-34" style="--pulse-height:11%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-the-new-york-times-t-00-28-53" style="--pulse-height:11%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-org-the-new-york-times-t-00-05-46" style="--pulse-height:56%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 5 mentions" title="2026-01-27 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-the-new-york-times-t-01-22-26" style="--pulse-height:44%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-org-the-new-york-times-t-00-07-37" style="--pulse-height:11%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-the-new-york-times-t-00-24-42" style="--pulse-height:33%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 3 mentions" title="2026-02-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-the-new-york-times-t-00-09-43" style="--pulse-height:11%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-org-the-new-york-times-t-00-15-04" style="--pulse-height:11%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-the-new-york-times-t-00-03-34" style="--pulse-height:11%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-the-new-york-times-t-00-16-24" style="--pulse-height:11%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-the-new-york-times-t-00-59-26" style="--pulse-height:11%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-the-new-york-times-t-00-14-38" style="--pulse-height:11%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-the-new-york-times-t-00-23-14" style="--pulse-height:33%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 3 mentions" title="2026-03-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-the-new-york-times-t-00-09-17" style="--pulse-height:22%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-the-new-york-times-t-00-30-50" style="--pulse-height:11%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-the-new-york-times-t-00-16-14" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 9 mentions" title="2026-03-26 · 9 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -81,6 +82,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-the-new-york-times-t-00-23-14) | 3 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-the-new-york-times-t-00-09-17) | 2 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-the-new-york-times-t-00-30-50) | 1 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-org-the-new-york-times-t-00-16-14) | 9 |
 
 </details>
 </section>
@@ -88,7 +90,39 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (9 mentions)</summary>
+
+**[00:16:27](/episodes/ep-DEtFh2Ff-58.md#ent-org-the-new-york-times-t-00-16-14)**
+> "that infamous New York Times article"
+
+**[00:16:45](/episodes/ep-DEtFh2Ff-58.md#ent-org-the-new-york-times-t-00-16-45)**
+> "...e, for all their faults, that The New York Times sat down and lied about what the widow told them...."
+
+**[00:18:22](/episodes/ep-DEtFh2Ff-58.md#ent-org-the-new-york-times-t-00-18-00)**
+> "She posts that and the New York Times says she's in the hospital. So everyone runs with..."
+
+**[00:18:50](/episodes/ep-DEtFh2Ff-58.md#ent-org-the-new-york-times-t-00-18-34)**
+> "... mind you, if a journalist in The New York Times would have had a recorder there, obviously, when ..."
+
+**[00:19:22](/episodes/ep-DEtFh2Ff-58.md#ent-org-the-new-york-times-t-00-19-09)**
+> "Do you think that the New York Times reporter made that up?"
+
+**[00:20:35](/episodes/ep-DEtFh2Ff-58.md#ent-org-the-new-york-times-t-00-20-35)**
+> "...eth McCoy similarly reflected the New York Times version of events and made it sound like implied ..."
+
+**[00:21:25](/episodes/ep-DEtFh2Ff-58.md#ent-org-the-new-york-times-t-00-20-58)**
+> "...commentary that Erika gave to The New York Times reporter."
+
+**[00:21:48](/episodes/ep-DEtFh2Ff-58.md#ent-org-the-new-york-times-t-00-21-39)**
+> "...details that she brings up in the New York Times that seems slight. lightly adjusted like the nigh..."
+
+**[00:21:57](/episodes/ep-DEtFh2Ff-58.md#ent-org-the-new-york-times-t-00-21-39)**
+> "...ber; identity unverified). In The New York Times article, there's not really a mention of Gigi at ..."
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>
@@ -345,11 +379,12 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 <summary>Interviewed (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:06:18](/episodes/ep-A39g5oqB_eM.md#t-00-05-46): “On the 18th, this, by the way, strikes me as odd in the retrospect as I was working on these couple of episodes about Erika (Erika Kirk). ... On the 18th, there's eight days after the assassination, she gave an in-person interview with the New York Times at her and Charlie (Charlie Kirk)'s condo.”
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:16:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-16-24): “Erica (Erika Kirk) sat down for an in-person interview with the New York Times days after Charlie (Charlie Kirk) was publicly assassinated”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:23:25](/episodes/ep-i8m_6D4QGmk.md#t-00-23-14): “After her husband's public assassination, offer a raise to Dan Flood. The security guard who failed Charlie in every possible manner and way on September 10th, only a psychopath who does not experience human emotions in the way that humans experience them would be capable of offering and then giving an in-home interview to the New York Times in the immediate days following her husband's assassination.”
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:16:27](/episodes/ep-DEtFh2Ff-58.md#t-00-16-14): “that infamous New York Times article that she did, interview that she did immediately following Charlie's assassination where she welcomed them, the enemy of Charlie Kirk, into their condo and granted them the first interview.”
 
 </details>
 
@@ -373,11 +408,12 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:06:18](/episodes/ep-A39g5oqB_eM.md#t-00-05-46): “On the 18th, this, by the way, strikes me as odd in the retrospect as I was working on these couple of episodes about Erika (Erika Kirk). ... On the 18th, there's eight days after the assassination, she gave an in-person interview with the New York Times at her and Charlie (Charlie Kirk)'s condo.”
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:16:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-16-24): “Erica (Erika Kirk) sat down for an in-person interview with the New York Times days after Charlie (Charlie Kirk) was publicly assassinated”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:23:25](/episodes/ep-i8m_6D4QGmk.md#t-00-23-14): “After her husband's public assassination, offer a raise to Dan Flood. The security guard who failed Charlie in every possible manner and way on September 10th, only a psychopath who does not experience human emotions in the way that humans experience them would be capable of offering and then giving an in-home interview to the New York Times in the immediate days following her husband's assassination.”
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:16:27](/episodes/ep-DEtFh2Ff-58.md#t-00-16-14): “that infamous New York Times article that she did, interview that she did immediately following Charlie's assassination where she welcomed them, the enemy of Charlie Kirk, into their condo and granted them the first interview.”
 
 </details>
 
@@ -393,7 +429,15 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by The New York Times (2)</strong></summary>
+<summary><strong class="section-title">Statements by The New York Times (3)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>
+
+- [00:19:00](/episodes/ep-DEtFh2Ff-58.md#t-00-18-34) [○] (Claim) ["The New York Times reported that Charlie Kirk's chartered plane returned to Scot..."](/statements/statement-d56cc652819a.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Scottsdale Airport](/entities/org-scottsdale-airport.md)
+
+</details>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (1)</summary>
@@ -414,7 +458,15 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The New York Times (6)</strong></summary>
+<summary><strong class="section-title">Statements about The New York Times (7)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>
+
+- [00:18:27](/episodes/ep-DEtFh2Ff-58.md#t-00-18-00) (Claim) **Candace Owens**: ["Erika Kirk's mother was not in the hospital on September 8th, Septembe..."](/statements/statement-4063bc832e03.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (2)</summary>

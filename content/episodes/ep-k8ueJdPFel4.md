@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=k8ueJdPFel4"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-k8ueJdPFel4/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=k8ueJdPFel4&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys, I see you in the chat. You are correct. It is a battle bun Monday. I see you guys informing me <span id="ent-person-candace-owens-t-00-00-00"><a href="/entities/person-candace-owens.md">Candace</a></span> the priest told you to chill. I hear you. I hear you. But I have to ask, have you ever just wanted to physically assault people like when it's Lent? So that's me right now. I feel trapped after this weekend, the ongoings online. ^t-00-00-00

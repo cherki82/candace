@@ -1,6 +1,6 @@
 ---
 title: "JD Vance"
-description: "JD Vance (People) - 25 mentions"
+description: "JD Vance (People) - 26 mentions"
 id: "person-jd-vance"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-person-jd-vance-t-00-45-07">2025-09-18 · 00:45:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#t-01-00-42">2026-03-24 · 01:00:42</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-jd-vance-t-00-37-42">2026-03-26 · 00:37:42</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -50,6 +50,7 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-jd-vance-t-00-51-19" style="--pulse-height:20%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-jd-vance-t-00-13-51" style="--pulse-height:20%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#t-01-00-42" style="--pulse-height:20%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-jd-vance-t-00-37-42" style="--pulse-height:20%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -69,6 +70,7 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-jd-vance-t-00-51-19) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-jd-vance-t-00-13-51) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#t-01-00-42) | 1 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-jd-vance-t-00-37-42) | 1 |
 
 </details>
 </section>
@@ -76,7 +78,15 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
+
+**[00:37:42](/episodes/ep-DEtFh2Ff-58.md#ent-person-jd-vance-t-00-37-42)**
+> "J.D. Vance sent the Air Force two"
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>
@@ -321,7 +331,15 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about JD Vance (4)</strong></summary>
+<summary><strong class="section-title">Statements about JD Vance (5)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>
+
+- [00:37:42](/episodes/ep-DEtFh2Ff-58.md#t-00-37-42) (Claim) **Candace Owens**: ["Charlie Kirk's parents were not aboard N582MM because J.D. Vance sent ..."](/statements/statement-719ea2a38654.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Air Force Two](/entities/org-air-force-two.md), [N582MM](/entities/vehicle-n582mm.md)
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1)</summary>

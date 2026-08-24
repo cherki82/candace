@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=ZAsV0fHGBiM"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-ZAsV0fHGBiM/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=ZAsV0fHGBiM&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Okay, you guys, there is a very strange thing happening right now where a young woman with absolutely zero professional qualifications has been inserted at the top of a charity organization that pulled in over a quarter billion dollars last year. And the media is telling you that you have no right to know or to ask anything about her. The argument being made is that her husband was murdered. Therefore, she has a right to assume the position. The position. And despite the fact that <span id="ent-org-turning-point-usa-t-00-00-00"><a href="/entities/org-turning-point-usa.md">Turning Point USA</a></span> is a literal charity, and therefore it's not even have to pay tax on that quarter billion plus dollars or pay tax on the alleged future billions that it's due to rake in thanks to a deal with a man named <span id="ent-person-pierre-falcone-t-00-00-00"><a href="/entities/person-pierre-falcone.md">Pierre</a></span>. ^t-00-00-00

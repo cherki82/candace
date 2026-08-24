@@ -1,6 +1,6 @@
 ---
 title: "Tyler Robinson"
-description: "Tyler Robinson (People) - 377 mentions"
+description: "Tyler Robinson (People) - 380 mentions"
 id: "person-tyler-robinson"
 type: "PERSON"
 aliases:
@@ -24,10 +24,10 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tyler-robinson-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-04-01-26">2026-08-14 · 04:01:26</a></strong></div>
-<div><span>Episodes</span><strong>52</strong></div>
-<div><span>Mentions</span><strong>377</strong></div>
+<div><span>Episodes</span><strong>53</strong></div>
+<div><span>Mentions</span><strong>380</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>151</strong></div>
+<div><span>Statements about</span><strong>153</strong></div>
 <div><span>Relationships</span><strong>13</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -87,6 +87,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-tyler-robinson-t-00-02-42" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-tyler-robinson-t-00-02-04" style="--pulse-height:9%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 9 mentions" title="2026-03-24 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tyler-robinson-t-00-27-40" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-tyler-robinson-t-00-46-54" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 3 mentions" title="2026-03-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-00-24-41" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 103 mentions" title="2026-08-14 · 103 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -144,6 +145,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-tyler-robinson-t-00-02-42) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-tyler-robinson-t-00-02-04) | 9 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tyler-robinson-t-00-27-40) | 1 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-tyler-robinson-t-00-46-54) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-00-24-41) | 103 |
 
 </details>
@@ -152,7 +154,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (377)</strong></summary>
+<summary><strong class="section-title">Raw mentions (380)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (103 mentions)</summary>
@@ -465,6 +467,20 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 **[04:01:26](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-04-01-26)**
 > "...more people involved and that Tyler Robinson has been set up and that none of the evidence tha..."
+
+</details>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (3 mentions)</summary>
+
+**[00:46:54](/episodes/ep-DEtFh2Ff-58.md#ent-person-tyler-robinson-t-00-46-54)**
+> "case against Tyler Robinson"
+
+**[00:50:04](/episodes/ep-DEtFh2Ff-58.md#ent-person-tyler-robinson-t-00-49-39)**
+> "...d the facts that she has that Tyler Robinson is guilty even though he hasn't even entered in a..."
+
+**[00:50:22](/episodes/ep-DEtFh2Ff-58.md#ent-person-tyler-robinson-t-00-50-22)**
+> "How are we saying Tyler Robinson did it? That you're just saying that you believe ..."
 
 </details>
 
@@ -1698,7 +1714,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Robinson (151)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Robinson (153)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (22)</summary>
@@ -1765,6 +1781,16 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 - [04:01:26](/episodes/ep-nPhCKwJ6ye8.md#t-04-01-26) (Accusation) **Candace Owens**: ["Candace Owens still believes there is more evidence that multiple peop..."](/statements/statement-4735330c37c9.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+
+</details>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (2)</summary>
+
+- [00:50:19](/episodes/ep-DEtFh2Ff-58.md#t-00-49-39) (Claim) **Candace Owens**: ["Tyler Robinson had not yet entered a plea or had his arraignment."](/statements/statement-4a1f623051ad.md)
+
+- [00:50:22](/episodes/ep-DEtFh2Ff-58.md#t-00-50-22) (Opinion) **Candace Owens**: ["Treating Tyler Robinson as guilty solely because police charged him cr..."](/statements/statement-e62e5f36ec24.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

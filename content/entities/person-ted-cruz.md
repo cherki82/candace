@@ -1,6 +1,6 @@
 ---
 title: "Ted Cruz"
-description: "Ted Cruz (People) - 11 mentions"
+description: "Ted Cruz (People) - 12 mentions"
 id: "person-ted-cruz"
 type: "PERSON"
 ---
@@ -9,12 +9,12 @@ _Type: People_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-ted-cruz-t-00-38-09">2025-09-22 · 00:38:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-ted-cruz-t-00-33-49">2026-03-17 · 00:33:49</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-ted-cruz-t-00-30-41">2026-03-26 · 00:30:41</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -26,6 +26,7 @@ _Type: People_
 <a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-ted-cruz-t-00-30-51" style="--pulse-height:100%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 4 mentions" title="2025-09-24 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#ent-person-ted-cruz-t-00-19-15" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 4 mentions" title="2025-11-05 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-ted-cruz-t-00-33-49" style="--pulse-height:25%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-ted-cruz-t-00-30-41" style="--pulse-height:25%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -35,6 +36,7 @@ _Type: People_
 | 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-person-ted-cruz-t-00-30-51) | 4 |
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-ted-cruz-t-00-19-15) | 4 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-ted-cruz-t-00-33-49) | 1 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-ted-cruz-t-00-30-41) | 1 |
 
 </details>
 </section>
@@ -42,7 +44,15 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
+
+**[00:30:41](/episodes/ep-DEtFh2Ff-58.md#ent-person-ted-cruz-t-00-30-41)**
+> "Ted Cruz tweeted"
+
+</details>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>
@@ -103,6 +113,18 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Criticized (1)</summary>
+
+- **[Drew Desbordes](/entities/person-drew-desbordes.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:30:41](/episodes/ep-DEtFh2Ff-58.md#t-00-30-04): “Ted Cruz tweeted that this was beneath contempt.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized By (1)</summary>
 
 - **[Brett Cooper](/entities/person-brett-cooper.md)**
@@ -115,12 +137,19 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Brett Cooper](/entities/person-brett-cooper.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:19:19](/episodes/ep-LATnak75Si0.md#t-00-19-15): “You are so blinded by your ridiculous, insane hatred of Tucker (Tucker Carlson) Carlson... these tweets from Ted Cruz”
+
+</details>
+
+- **[Drew Desbordes](/entities/person-drew-desbordes.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:30:41](/episodes/ep-DEtFh2Ff-58.md#t-00-30-04): “Ted Cruz tweeted that this was beneath contempt.”
 
 </details>
 

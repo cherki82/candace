@@ -1,6 +1,6 @@
 ---
 title: "SMART Equity Loan"
-description: "SMART Equity Loan (Works & Media) - 30 mentions"
+description: "SMART Equity Loan (Works & Media) - 32 mentions"
 id: "work-smart-equity-loan"
 type: "WORK"
 aliases:
@@ -23,9 +23,9 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-work-smart-equity-loan-t-00-53-56">2026-01-07 · 00:54:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-work-smart-equity-loan-t-00-49-31">2026-03-04 · 00:49:37</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-work-smart-equity-loan-t-00-40-14">2026-03-26 · 00:40:47</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -52,6 +52,7 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-work-smart-equity-loan-t-00-50-53" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-work-smart-equity-loan-t-00-48-06" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 2 mentions" title="2026-03-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-work-smart-equity-loan-t-00-49-31" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-work-smart-equity-loan-t-00-40-14" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -73,6 +74,7 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-work-smart-equity-loan-t-00-50-53) | 2 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-work-smart-equity-loan-t-00-48-06) | 2 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-work-smart-equity-loan-t-00-49-31) | 2 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-work-smart-equity-loan-t-00-40-14) | 2 |
 
 </details>
 </section>
@@ -80,7 +82,18 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (2 mentions)</summary>
+
+**[00:40:35](/episodes/ep-DEtFh2Ff-58.md#ent-work-smart-equity-loan-t-00-40-14)**
+> "American Financing created the Smart Equity Loan"
+
+**[00:40:47](/episodes/ep-DEtFh2Ff-58.md#ent-work-smart-equity-loan-t-00-40-14)**
+> "...luctuate with the market, the Smart Equity Loan offers a fixed rate. So you'll have one predictab..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (2 mentions)</summary>

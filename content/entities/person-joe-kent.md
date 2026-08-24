@@ -1,6 +1,6 @@
 ---
 title: "Joe Kent"
-description: "Joe Kent (People) - 84 mentions"
+description: "Joe Kent (People) - 88 mentions"
 id: "person-joe-kent"
 type: "PERSON"
 aliases:
@@ -23,8 +23,8 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-joe-kent-t-00-20-35">2025-10-29 · 00:20:54</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-kent-t-02-25-29">2026-08-14 · 02:25:29</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>84</strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>88</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
 <div><span>Statements about</span><strong>21</strong></div>
 <div><span>Relationships</span><strong>32</strong></div>
@@ -42,6 +42,7 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-joe-kent-t-00-00-00" style="--pulse-height:100%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 33 mentions" title="2026-03-23 · 33 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-joe-kent-t-00-43-03" style="--pulse-height:33%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 11 mentions" title="2026-03-24 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-joe-kent-t-00-27-20" style="--pulse-height:30%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 10 mentions" title="2026-03-25 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-joe-kent-t-00-42-22" style="--pulse-height:12%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 4 mentions" title="2026-03-26 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-kent-t-02-25-29" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -55,6 +56,7 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-joe-kent-t-00-00-00) | 33 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-joe-kent-t-00-43-03) | 11 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-joe-kent-t-00-27-20) | 10 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-joe-kent-t-00-42-22) | 4 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-kent-t-02-25-29) | 1 |
 
 </details>
@@ -63,13 +65,30 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (84)</strong></summary>
+<summary><strong class="section-title">Raw mentions (88)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[02:25:29](/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-kent-t-02-25-29)**
 > "Well, Joe Kent,"
+
+</details>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (4 mentions)</summary>
+
+**[00:42:22](/episodes/ep-DEtFh2Ff-58.md#ent-person-joe-kent-t-00-42-22)**
+> "their attacks against Joe Kent"
+
+**[00:42:48](/episodes/ep-DEtFh2Ff-58.md#ent-person-joe-kent-t-00-42-22)**
+> "...w believes that he gave it to Joe Kent and maybe Joe Kent sent it around to other people..."
+
+**[00:45:08](/episodes/ep-DEtFh2Ff-58.md#ent-person-joe-kent-t-00-45-08)**
+> "... that i hate candace and hate joe kent and hate everybody else who's telling the truth a..."
+
+**[00:45:34](/episodes/ep-DEtFh2Ff-58.md#ent-person-joe-kent-t-00-45-34)**
+> "...y trying to investigate, like Joe Kent. Crazy Cameron Buyer writes, 'I just knew Candace..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Laura Loomer"
-description: "Laura Loomer (People) - 30 mentions"
+description: "Laura Loomer (People) - 32 mentions"
 id: "person-laura-loomer"
 type: "PERSON"
 categories:
@@ -17,9 +17,9 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-laura-loomer-t-01-03-56">2025-09-16 · 01:04:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-laura-loomer-t-00-06-25">2026-03-23 · 00:06:31</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-laura-loomer-t-00-52-49">2026-03-26 · 00:52:49</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -44,6 +44,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-laura-loomer-t-00-45-40" style="--pulse-height:20%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-laura-loomer-t-00-15-14" style="--pulse-height:20%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-laura-loomer-t-00-06-25" style="--pulse-height:20%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-laura-loomer-t-00-49-39" style="--pulse-height:40%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -63,6 +64,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-laura-loomer-t-00-45-40) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-laura-loomer-t-00-15-14) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-laura-loomer-t-00-06-25) | 1 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-laura-loomer-t-00-49-39) | 2 |
 
 </details>
 </section>
@@ -70,7 +72,18 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (2 mentions)</summary>
+
+**[00:50:04](/episodes/ep-DEtFh2Ff-58.md#ent-person-laura-loomer-t-00-49-39)**
+> "to Laura Loomer"
+
+**[00:52:49](/episodes/ep-DEtFh2Ff-58.md#ent-person-laura-loomer-t-00-52-49)**
+> "...u're not sending us your best laura loomer is not your best i will say that um and it's just..."
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1 mentions)</summary>

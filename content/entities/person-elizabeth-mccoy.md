@@ -1,6 +1,6 @@
 ---
 title: "Elizabeth McCoy"
-description: "Elizabeth McCoy (People) - 22 mentions"
+description: "Elizabeth McCoy (People) - 26 mentions"
 id: "person-elizabeth-mccoy"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-elizabeth-mccoy-t-00-42-01">2025-11-05 · 00:42:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-elizabeth-mccoy-t-00-16-48">2026-03-25 · 00:16:48</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-elizabeth-mccoy-t-00-20-35">2026-03-26 · 00:20:35</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -45,6 +45,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-elizabeth-mccoy-t-00-23-50" style="--pulse-height:25%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-elizabeth-mccoy-t-00-09-57" style="--pulse-height:25%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-elizabeth-mccoy-t-00-16-48" style="--pulse-height:50%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-elizabeth-mccoy-t-00-15-28" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 4 mentions" title="2026-03-26 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,6 +65,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-elizabeth-mccoy-t-00-23-50) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-elizabeth-mccoy-t-00-09-57) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-elizabeth-mccoy-t-00-16-48) | 2 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-elizabeth-mccoy-t-00-15-28) | 4 |
 
 </details>
 </section>
@@ -71,7 +73,24 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (4 mentions)</summary>
+
+**[00:13:13](/episodes/ep-DEtFh2Ff-58.md#ent-person-elizabeth-mccoy-t-00-15-28)**
+> "Elizabeth's story"
+
+**[00:15:28](/episodes/ep-DEtFh2Ff-58.md#ent-person-elizabeth-mccoy-t-00-15-28)**
+> "...nd not the one that Erika and Elizabeth McCoy and Stacey Sheridan and Catherine Locastro and Ty..."
+
+**[00:20:19](/episodes/ep-DEtFh2Ff-58.md#ent-person-elizabeth-mccoy-t-00-19-54)**
+> "...aid more closely mirrors what Elizabeth McCoy said: that she found out right when she got to th..."
+
+**[00:20:35](/episodes/ep-DEtFh2Ff-58.md#ent-person-elizabeth-mccoy-t-00-20-35)**
+> "And Elizabeth McCoy similarly reflected the New York Times version of..."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2 mentions)</summary>
@@ -276,7 +295,28 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Elizabeth McCoy (10)</strong></summary>
+<summary><strong class="section-title">Statements by Elizabeth McCoy (1)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>
+
+- [00:20:51](/episodes/ep-DEtFh2Ff-58.md#t-00-20-35) [○] (Claim) ["No one teaches you how to comfort a woman on a plane who only moments before bec..."](/statements/statement-580ab50d1668.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Elizabeth McCoy (11)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>
+
+- [00:43:22](/episodes/ep-DEtFh2Ff-58.md#t-00-43-07) (Claim) **Anonymous Source #3 (Ep DEtFh2Ff-58)** (via paraphrase): ["Stacey Sheridan, Michael McCoy, and Elizabeth McCoy are at Charlie and..."](/statements/statement-30bada1746a8.md)
+  - Also about: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (3)</summary>

@@ -7,15 +7,15 @@ description: "An evidence-first research workbench for imported video, audio, an
 <span class="research-kicker">Investigative evidence desk</span>
 <h1>Trace the record.<br>Test the narrative.</h1>
 <p>Search attributed statements, follow entities across sources, compare claims over time, and inspect the evidence behind every verification.</p>
-<div class="kg-home-actions"><a class="primary" href="/index/explorer">Investigate statements</a><a href="/index/threads">Follow a reviewed theory thread</a></div>
+<div class="kg-home-actions"><a class="primary" href="/index/claims">Explore factual claims</a><a href="/index/explorer">Search all statements</a><a href="/index/threads">Follow a reviewed theory thread</a></div>
 </div>
 
-<p class="kg-freshness"><strong>94 sources</strong> · processed through <time datetime="2026-08-14">2026-08-14</time> · generated <time datetime="2026-08-24">2026-08-24</time></p>
+<p class="kg-freshness"><strong>95 sources</strong> · processed through <time datetime="2026-08-14">2026-08-14</time> · generated <time datetime="2026-08-24">2026-08-24</time></p>
 
 <div class="kg-stat-grid">
-<div><strong>3,237</strong><span>Attributed statements</span></div>
-<div><strong>2,540</strong><span>Tracked entities</span></div>
-<div><strong>1,093</strong><span>Timeline events</span></div>
+<div><strong>3,271</strong><span>Claims &amp; statements</span></div>
+<div><strong>2,559</strong><span>Tracked entities</span></div>
+<div><strong>1,101</strong><span>Timeline events</span></div>
 <div><strong>1,011</strong><span>Research sources</span></div>
 </div>
 
@@ -28,6 +28,11 @@ description: "An evidence-first research workbench for imported video, audio, an
 <time datetime="2026-08-14">2026-08-14</time>
 <a href="/episodes/ep-nPhCKwJ6ye8">Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast</a>
 <span>Unspecified source</span>
+</article>
+<article>
+<time datetime="2026-03-26">2026-03-26</time>
+<a href="/episodes/ep-DEtFh2Ff-58">VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317</a>
+<span>Candace Owens</span>
 </article>
 <article>
 <time datetime="2026-03-25">2026-03-25</time>
@@ -44,11 +49,6 @@ description: "An evidence-first research workbench for imported video, audio, an
 <a href="/episodes/ep-B9TyCs-6o_0">EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314</a>
 <span>Candace Owens</span>
 </article>
-<article>
-<time datetime="2026-03-18">2026-03-18</time>
-<a href="/episodes/ep-_vg7ucP1E0g">Bride Of Charlie: Red Sparrow | Episode 8</a>
-<span>Candace Owens</span>
-</article>
 </div>
 
 ## What changed
@@ -56,12 +56,12 @@ description: "An evidence-first research workbench for imported video, audio, an
 <p class="research-section-note">Entity mentions in the five newest sources compared with the preceding five.</p>
 
 <div class="attention-grid">
-<a href="/entities/person-tyler-robinson"><strong>Tyler Robinson</strong><span>114 recent mentions · +112 vs prior window</span></a>
-<a href="/entities/person-erika-kirk"><strong>Erika Kirk</strong><span>226 recent mentions · +72 vs prior window</span></a>
-<a href="/entities/person-andrew-kolvet"><strong>Andrew Kolvet</strong><span>78 recent mentions · +64 vs prior window</span></a>
-<a href="/entities/gpe-utah"><strong>Utah</strong><span>46 recent mentions · +46 vs prior window</span></a>
-<a href="/entities/person-candace-owens"><strong>Candace Owens</strong><span>99 recent mentions · +44 vs prior window</span></a>
-<a href="/entities/person-joe-kent"><strong>Joe Kent</strong><span>59 recent mentions · +40 vs prior window</span></a>
+<a href="/entities/person-tyler-robinson"><strong>Tyler Robinson</strong><span>117 recent mentions · +115 vs prior window</span></a>
+<a href="/entities/person-andrew-kolvet"><strong>Andrew Kolvet</strong><span>85 recent mentions · +80 vs prior window</span></a>
+<a href="/entities/person-erika-kirk"><strong>Erika Kirk</strong><span>212 recent mentions · +49 vs prior window</span></a>
+<a href="/entities/gpe-scottsdale"><strong>Scottsdale, Arizona</strong><span>47 recent mentions · +46 vs prior window</span></a>
+<a href="/entities/gpe-utah"><strong>Utah</strong><span>47 recent mentions · +44 vs prior window</span></a>
+<a href="/entities/person-joe-kent"><strong>Joe Kent</strong><span>61 recent mentions · +40 vs prior window</span></a>
 </div>
 
 ## Latest verification outcomes

@@ -6,10 +6,10 @@ aliases:
 
 # Claims
 
-This folder contains individual claim pages. For the full claims index with search and filtering, see:
+Claims are now represented as factual claims in the canonical statements dataset. Browse them with source dates, speakers, entities, transcript context, and verification outcomes:
 
-**[View Claims Index](/index/claims)**
+**[Open the Claims Explorer](/index/claims)**
 
 ---
 
-Use the link above to browse all claims, or use the search function to find specific claims.
+The legacy claims dataset is retained for migration history but is not published as a second, conflicting research record.

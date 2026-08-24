@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=6J6lRZPQ4jk"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-6J6lRZPQ4jk/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=6J6lRZPQ4jk&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Okay, I will be very honest. I am in a bit of a mood today. I am just annoyed with everybody. I'm annoyed with this entire psychological operation that is so obvious. And I just feel like we keep going round and round in a circle with the government. You know, whether it's <span id="ent-event-covid-19-pandemic-t-00-00-00"><a href="/entities/event-covid-19-pandemic.md">COVID</a></span>, the <span id="ent-gpe-ukraine-t-00-00-00"><a href="/entities/gpe-ukraine.md">Ukraine</a></span> war, it's like the entire media apparatus and establishment is joining hands to condemn people for having common sense. So I'll ask you a question to begin this. Do you feel, show of hands, okay, that the answer regarding who killed <span id="ent-person-charlie-kirk-t-00-00-00"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> and what happened on September 10th is quote unquote, very clear? ^t-00-00-00

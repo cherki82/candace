@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=ewBzjVe3LNQ"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-ewBzjVe3LNQ/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=ewBzjVe3LNQ&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Okay, everyone, happy Thursday. I have to tell you that I was laughing so much yesterday because I received a flood of emails from law enforcement officers, military guys that were just like, no way, absolutely not. That's where I draw the line. The bomb dogs missed the gun. Apparently, for people who work with bomb dogs, this is more of an offense to their intelligence than the man of steel neck. It was just a bridge too far. This is where they are drawing a line in terms of fed slop. Anyway, we have another unbelievable episode for you guys here today. I thought long and hard about whether to bring on the eyewitness from Fort <span id="ent-person-mitch-fort-huachuca-witness-t-00-00-00"><a href="/entities/person-mitch-fort-huachuca-witness.md">Huachuca</a></span>. ^t-00-00-00

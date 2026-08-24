@@ -1,6 +1,6 @@
 ---
 title: "White House"
-description: "White House (Organizations) - 89 mentions"
+description: "White House (Organizations) - 90 mentions"
 id: "org-white-house"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-white-house-t-00-04-16">2025-09-11 · 00:04:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-white-house-t-00-33-50">2026-03-24 · 00:33:50</a></strong></div>
-<div><span>Episodes</span><strong>36</strong></div>
-<div><span>Mentions</span><strong>89</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-white-house-t-00-31-25">2026-03-26 · 00:31:45</a></strong></div>
+<div><span>Episodes</span><strong>37</strong></div>
+<div><span>Mentions</span><strong>90</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>22</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -72,6 +72,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-white-house-t-00-15-14" style="--pulse-height:57%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 4 mentions" title="2026-03-17 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-white-house-t-00-12-27" style="--pulse-height:29%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-white-house-t-00-33-24" style="--pulse-height:29%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-white-house-t-00-31-25" style="--pulse-height:14%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -113,6 +114,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-white-house-t-00-15-14) | 4 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-white-house-t-00-12-27) | 2 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-white-house-t-00-33-24) | 2 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-org-white-house-t-00-31-25) | 1 |
 
 </details>
 </section>
@@ -120,7 +122,15 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (89)</strong></summary>
+<summary><strong class="section-title">Raw mentions (90)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
+
+**[00:31:45](/episodes/ep-DEtFh2Ff-58.md#ent-org-white-house-t-00-31-25)**
+> "power to the White House"
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (2 mentions)</summary>

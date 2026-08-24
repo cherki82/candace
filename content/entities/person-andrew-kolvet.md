@@ -1,6 +1,6 @@
 ---
 title: "Andrew Kolvet"
-description: "Andrew Kolvet (People) - 427 mentions"
+description: "Andrew Kolvet (People) - 435 mentions"
 id: "person-andrew-kolvet"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-andrew-kolvet-t-00-13-27">2025-09-11 · 00:14:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-02-41-45">2026-08-14 · 02:41:45</a></strong></div>
-<div><span>Episodes</span><strong>61</strong></div>
-<div><span>Mentions</span><strong>427</strong></div>
-<div><span>Statements by</span><strong>36</strong></div>
-<div><span>Statements about</span><strong>112</strong></div>
-<div><span>Relationships</span><strong>55</strong></div>
+<div><span>Episodes</span><strong>62</strong></div>
+<div><span>Mentions</span><strong>435</strong></div>
+<div><span>Statements by</span><strong>39</strong></div>
+<div><span>Statements about</span><strong>120</strong></div>
+<div><span>Relationships</span><strong>59</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -95,6 +95,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-andrew-kolvet-t-00-00-00" style="--pulse-height:44%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 19 mentions" title="2026-03-23 · 19 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-06-48" style="--pulse-height:100%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 43 mentions" title="2026-03-24 · 43 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-andrew-kolvet-t-00-00-00" style="--pulse-height:26%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 11 mentions" title="2026-03-25 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-andrew-kolvet-t-00-00-01" style="--pulse-height:19%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 8 mentions" title="2026-03-26 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-00-38-09" style="--pulse-height:9%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -161,6 +162,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-andrew-kolvet-t-00-00-00) | 19 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-06-48) | 43 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-andrew-kolvet-t-00-00-00) | 11 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-andrew-kolvet-t-00-00-01) | 8 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-00-38-09) | 4 |
 
 </details>
@@ -169,7 +171,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (427)</strong></summary>
+<summary><strong class="section-title">Raw mentions (435)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -185,6 +187,35 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 **[02:41:45](/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-02-41-45)**
 > "I mean, I'm talking about Andrew Kolvet at his position as he's a spokesperson for Turnin..."
+
+</details>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (8 mentions)</summary>
+
+**[00:00:07](/episodes/ep-DEtFh2Ff-58.md#ent-person-andrew-kolvet-t-00-00-01)**
+> "as Andrew Kolvet infamously said"
+
+**[00:05:12](/episodes/ep-DEtFh2Ff-58.md#ent-person-andrew-kolvet-t-00-04-46)**
+> "Andrew Kolvet was aboard this flight. I feel very confident sta..."
+
+**[00:05:41](/episodes/ep-DEtFh2Ff-58.md#ent-person-andrew-kolvet-t-00-05-26)**
+> "And Andrew Kolvet replied and said, I don't know. Shot for sure. An..."
+
+**[00:06:27](/episodes/ep-DEtFh2Ff-58.md#ent-person-andrew-kolvet-t-00-06-09)**
+> "...not have been the flight that Andrew Kolvet was on because the entire world at that moment kn..."
+
+**[00:22:43](/episodes/ep-DEtFh2Ff-58.md#ent-person-andrew-kolvet-t-00-22-23)**
+> "...is not right. And guess what? Andrew Kolvet is growing increasingly angry, which I think is a..."
+
+**[00:30:59](/episodes/ep-DEtFh2Ff-58.md#ent-person-andrew-kolvet-t-00-30-41)**
+> "... who is most upset by this is Andrew Kolvet. Look what Andrew Kolvet commented. Now do conser..."
+
+**[00:45:34](/episodes/ep-DEtFh2Ff-58.md#ent-person-andrew-kolvet-t-00-45-34)**
+> "...awaii.' Aloha. A UFO writes, 'Andrew Kolvet—yeah, he's big mad. Go after black conservatives...."
+
+**[00:50:04](/episodes/ep-DEtFh2Ff-58.md#ent-person-andrew-kolvet-t-00-49-39)**
+> "... always open to the rabbi, to Andrew Kolvet, to Blake Neff, to Laura Loomer. She wants to com..."
 
 </details>
 
@@ -1763,12 +1794,20 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Accused By (1)</summary>
+<summary>Accused By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:33:24](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24): “we now know that Andrew Kolvet is in the business of faking live shows in order to give himself an alibi.”
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:09:23](/episodes/ep-DEtFh2Ff-58.md#t-00-08-45): “it suggests, certainly, that there may have been some sort of a foreknowledge because for what other reason would Andrew be sitting on a tarmac just about to fly to Scottsdale when Charlie gets shot?”
+
+</details>
+
+- **[Baron Coleman](/entities/person-baron-coleman.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:08:55](/episodes/ep-DEtFh2Ff-58.md#t-00-08-45): “If Andrew left Santa Barbara before Charlie got shot, there was a plot to kill Charlie Kirk and Andrew knew about it. That's why it matters.”
 
 </details>
 
@@ -1837,6 +1876,18 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: What Happened In Romania? | Episode 6 @ 00:19:58](/episodes/ep-y8lak3CRwDw.md#t-00-19-44): “That's Andrew's cousin. The exact same time, Robert Kolvet was the commander of the 485th military police.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Criticized (1)</summary>
+
+- **[Drew Desbordes](/entities/person-drew-desbordes.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:30:59](/episodes/ep-DEtFh2Ff-58.md#t-00-30-41): “The person who is most upset by this is Andrew Kolvet. Look what Andrew Kolvet commented. Now do conservative black women.”
 
 </details>
 
@@ -2078,12 +2129,20 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>Referenced By (28)</summary>
+<summary>Referenced By (30)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:33:24](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24): “we now know that Andrew Kolvet is in the business of faking live shows in order to give himself an alibi.”
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:09:23](/episodes/ep-DEtFh2Ff-58.md#t-00-08-45): “it suggests, certainly, that there may have been some sort of a foreknowledge because for what other reason would Andrew be sitting on a tarmac just about to fly to Scottsdale when Charlie gets shot?”
+
+</details>
+
+- **[Baron Coleman](/entities/person-baron-coleman.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:08:55](/episodes/ep-DEtFh2Ff-58.md#t-00-08-45): “If Andrew left Santa Barbara before Charlie got shot, there was a plot to kill Charlie Kirk and Andrew knew about it. That's why it matters.”
 
 </details>
 
@@ -2121,6 +2180,13 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:06](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:36](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “The man who had to deal with the full brunt of Andrew (Andrew Kolvet) and Erika (Erika Kirk)'s PR machine, ... they were digging up his past, claiming that he was a habitual liar.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:48:39](/episodes/ep-B9TyCs-6o_0.md#t-00-48-19): “it's an absurd allegation that she was not ever pursuing the spotlight. It is just pointedly wrong, and I don't know why he would say it, but he just says stuff a lot of the time, and that's our guy, Andrew Kolvet.”
+
+</details>
+
+- **[Drew Desbordes](/entities/person-drew-desbordes.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:30:59](/episodes/ep-DEtFh2Ff-58.md#t-00-30-41): “The person who is most upset by this is Andrew Kolvet. Look what Andrew Kolvet commented. Now do conservative black women.”
 
 </details>
 
@@ -2304,7 +2370,21 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Andrew Kolvet (36)</strong></summary>
+<summary><strong class="section-title">Statements by Andrew Kolvet (39)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (3)</summary>
+
+- [00:05:26](/episodes/ep-DEtFh2Ff-58.md#t-00-05-26) [○] (Claim) ["I don't know. Shot for sure."](/statements/statement-f9e5040681dd.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:05:41](/episodes/ep-DEtFh2Ff-58.md#t-00-05-26) [○] (Claim) ["He has a pulse, but I know nothing else."](/statements/statement-d3eb8c2243e8.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:07:03](/episodes/ep-DEtFh2Ff-58.md#t-00-07-03) [○] (Claim) ["I learned Charlie Kirk had died probably 30 or 40 minutes after he was shot, bef..."](/statements/statement-7566be50f71f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Truth Social](/entities/org-truth-social.md)
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (5)</summary>
@@ -2492,7 +2572,36 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Kolvet (112)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Kolvet (120)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (8)</summary>
+
+- [00:03:07](/episodes/ep-DEtFh2Ff-58.md#t-00-02-58) (Claim) **Candace Owens**: ["The 3:30 police pickup means Erika Kirk did not wait an hour on the Pr..."](/statements/statement-babfa5b6ff1b.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Provo Airport](/entities/org-provo-airport.md)
+
+- [00:03:23](/episodes/ep-DEtFh2Ff-58.md#t-00-02-58) (Claim) **Candace Owens**: ["The 3:30 pickup only makes sense if Andrew Kolvet was aboard Charlie K..."](/statements/statement-0fb47b12e524.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:05:12](/episodes/ep-DEtFh2Ff-58.md#t-00-04-46) (Claim) **Candace Owens**: ["I feel very confident that Andrew Kolvet was aboard the Santa Barbara-..."](/statements/statement-5ee21def6ba6.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Scottsdale Airport](/entities/org-scottsdale-airport.md)
+
+- [00:06:13](/episodes/ep-DEtFh2Ff-58.md#t-00-06-09) (Accusation) **Candace Owens**: ["Erika Kirk is lying when she claims Andrew Kolvet was on the flight th..."](/statements/statement-ea7d4363449c.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Provo Airport](/entities/org-provo-airport.md)
+
+- [00:08:55](/episodes/ep-DEtFh2Ff-58.md#t-00-08-45) (Accusation) **Baron Coleman**: ["If Andrew Kolvet left Santa Barbara before Charlie Kirk was shot, then..."](/statements/statement-ba85fbee4ed4.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:12:47](/episodes/ep-DEtFh2Ff-58.md#t-00-12-37) (Claim) **Candace Owens**: ["My theory is that Andrew Kolvet departed Santa Barbara for Scottsdale ..."](/statements/statement-292c8e97cfc2.md)
+  - Also about: [Scottsdale Airport](/entities/org-scottsdale-airport.md)
+
+- [00:16:14](/episodes/ep-DEtFh2Ff-58.md#t-00-16-14) (Claim) **Candace Owens**: ["Erika Kirk and Andrew Kolvet did not hug in Provo; Candace Owens concl..."](/statements/statement-697f028b52d0.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Provo Airport](/entities/org-provo-airport.md), [Scottsdale Airport](/entities/org-scottsdale-airport.md)
+
+- [00:32:33](/episodes/ep-DEtFh2Ff-58.md#t-00-32-05) (Accusation) **Candace Owens**: ["Andrew Kolvet fed information to obscure podcasters to get them to att..."](/statements/statement-357c331f9c8f.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (5)</summary>

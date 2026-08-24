@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk"
-description: "Charlie Kirk (People) - 4128 mentions"
+description: "Charlie Kirk (People) - 4139 mentions"
 id: "person-charlie-kirk"
 type: "PERSON"
 categories:
@@ -19,11 +19,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-charlie-kirk-t-00-00-01">2025-09-11 · 00:00:03</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-04-03-19">2026-08-14 · 04:03:19</a></strong></div>
-<div><span>Episodes</span><strong>94</strong></div>
-<div><span>Mentions</span><strong>4,128</strong></div>
+<div><span>Episodes</span><strong>95</strong></div>
+<div><span>Mentions</span><strong>4,139</strong></div>
 <div><span>Statements by</span><strong>57</strong></div>
-<div><span>Statements about</span><strong>794</strong></div>
-<div><span>Relationships</span><strong>192</strong></div>
+<div><span>Statements about</span><strong>814</strong></div>
+<div><span>Relationships</span><strong>194</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -124,6 +124,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-charlie-kirk-t-00-01-20" style="--pulse-height:12%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 13 mentions" title="2026-03-23 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-charlie-kirk-t-00-01-22" style="--pulse-height:29%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 32 mentions" title="2026-03-24 · 32 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:11%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 12 mentions" title="2026-03-25 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-charlie-kirk-t-00-06-09" style="--pulse-height:10%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 11 mentions" title="2026-03-26 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-25-19" style="--pulse-height:84%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 92 mentions" title="2026-08-14 · 92 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -223,6 +224,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-charlie-kirk-t-00-01-20) | 13 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-charlie-kirk-t-00-01-22) | 32 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-charlie-kirk-t-00-00-00) | 12 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-charlie-kirk-t-00-06-09) | 11 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-25-19) | 92 |
 
 </details>
@@ -235,7 +237,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4128)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4139)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (92 mentions)</summary>
@@ -515,6 +517,44 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 **[04:03:19](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-04-03-19)**
 > "... love and respect we have for Charlie Kirk,"
+
+</details>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (11 mentions)</summary>
+
+**[00:06:27](/episodes/ep-DEtFh2Ff-58.md#ent-person-charlie-kirk-t-00-06-09)**
+> "what was going on with Charlie Kirk"
+
+**[00:06:36](/episodes/ep-DEtFh2Ff-58.md#ent-person-charlie-kirk-t-00-06-09)**
+> "They knew that Charlie Kirk had passed away."
+
+**[00:08:00](/episodes/ep-DEtFh2Ff-58.md#ent-person-charlie-kirk-t-00-08-00)**
+> "...nd then finally learning that Charlie Kirk is dead in a hug with Erika. This is why Erika ca..."
+
+**[00:08:26](/episodes/ep-DEtFh2Ff-58.md#ent-person-charlie-kirk-t-00-08-00)**
+> "...sdale airport before or after Charlie Kirk got shot."
+
+**[00:08:55](/episodes/ep-DEtFh2Ff-58.md#ent-person-charlie-kirk-t-00-08-45)**
+> "...hot, there was a plot to kill Charlie Kirk and Andrew knew about it. That's why it matters."
+
+**[00:13:13](/episodes/ep-DEtFh2Ff-58.md#ent-person-charlie-kirk-t-00-13-13)**
+> "He learned that Charlie Kirk did not make it. That would track with Erika at t..."
+
+**[00:16:27](/episodes/ep-DEtFh2Ff-58.md#ent-person-charlie-kirk-t-00-16-14)**
+> "...e welcomed them, the enemy of Charlie Kirk, into their condo and granted them the first inte..."
+
+**[00:34:47](/episodes/ep-DEtFh2Ff-58.md#ent-person-charlie-kirk-t-00-34-36)**
+> "...re had someone related to the Charlie Kirk takedown."
+
+**[00:35:14](/episodes/ep-DEtFh2Ff-58.md#ent-person-charlie-kirk-t-00-35-14)**
+> "..., presumably, I presume, with Charlie Kirk's parents, but I can't state that with any degree o..."
+
+**[00:42:22](/episodes/ep-DEtFh2Ff-58.md#ent-person-charlie-kirk-t-00-42-22)**
+> "I was so in love with Charlie Kirk, that's why I'm just so angry because he picked E..."
+
+**[00:50:36](/episodes/ep-DEtFh2Ff-58.md#ent-person-charlie-kirk-t-00-50-22)**
+> "...k contrast to everything that Charlie Kirk believed in."
 
 </details>
 
@@ -13246,7 +13286,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Criticized By (8)</summary>
+<summary>Criticized By (9)</summary>
 
 - **[American Jewish Committee](/entities/org-american-jewish-committee.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -13304,6 +13344,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 </details>
 
+- **[South Park](/entities/work-south-park.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:44:40](/episodes/ep-DEtFh2Ff-58.md#t-00-44-30): “Remember when Charlie was so excited when South Park did him?”
+
+</details>
+
 </details>
 
 <details>
@@ -13330,7 +13377,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Deceased Husband Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (27)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus.”
@@ -13359,6 +13406,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:32:42](/episodes/ep-_vg7ucP1E0g.md#t-00-32-29): “There may have been this billion dollar motive to have Charlie Kirk killed that Erika (Erika Kirk) lied about the fact her husband texted multiple people the night before he said he feared he was going to be killed. His overriding point is that.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:00:28](/episodes/ep-B9TyCs-6o_0.md#t-00-00-00): “something made Erika Kirk, Charlie's wife, look very foolish. ... The one that's been living inside of me since Charlie's death.”
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:08:58](/episodes/ep-SgVcnx4Oh30.md#t-00-08-31): “it is not every day that you see the widow of Charlie Kirk accompanied by a man in clerical robes at an airport terminal.”
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:20:58](/episodes/ep-DEtFh2Ff-58.md#t-00-20-35): “Became a widow on her way to face the reality of her husband's assassination.”
 
 </details>
 
@@ -14047,7 +14095,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Referenced By (96)</summary>
+<summary>Referenced By (97)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** advised by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -14210,6 +14258,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:07:04](/episodes/ep-A39g5oqB_eM.md#t-00-06-30): “But the publication that hated Charlie (Charlie Kirk) the entire time he was alive, ... New York Times was constantly writing pieces about Charlie Kirk or pieces that just were not kind or favorable to Charlie Kirk.”
+
+</details>
+
+- **[South Park](/entities/work-south-park.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:44:40](/episodes/ep-DEtFh2Ff-58.md#t-00-44-30): “Remember when Charlie was so excited when South Park did him?”
 
 </details>
 
@@ -14750,7 +14805,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** widow of this
-<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (29)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:36](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00): “Charlie's widow”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
@@ -14780,6 +14835,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:32:42](/episodes/ep-_vg7ucP1E0g.md#t-00-32-29): “There may have been this billion dollar motive to have Charlie Kirk killed that Erika (Erika Kirk) lied about the fact her husband texted multiple people the night before he said he feared he was going to be killed. His overriding point is that.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:00:28](/episodes/ep-B9TyCs-6o_0.md#t-00-00-00): “something made Erika Kirk, Charlie's wife, look very foolish. ... The one that's been living inside of me since Charlie's death.”
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:08:58](/episodes/ep-SgVcnx4Oh30.md#t-00-08-31): “it is not every day that you see the widow of Charlie Kirk accompanied by a man in clerical robes at an airport terminal.”
+- [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:20:58](/episodes/ep-DEtFh2Ff-58.md#t-00-20-35): “Became a widow on her way to face the reality of her husband's assassination.”
 
 </details>
 
@@ -15133,7 +15189,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk (794)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk (814)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (19)</summary>
@@ -15191,6 +15247,67 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - [04:01:26](/episodes/ep-nPhCKwJ6ye8.md#t-04-01-26) (Accusation) **Candace Owens**: ["Candace Owens still believes there is more evidence that multiple peop..."](/statements/statement-4735330c37c9.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md)
+
+</details>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (20)</summary>
+
+- [00:03:23](/episodes/ep-DEtFh2Ff-58.md#t-00-02-58) (Claim) **Candace Owens**: ["The 3:30 pickup only makes sense if Andrew Kolvet was aboard Charlie K..."](/statements/statement-0fb47b12e524.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:05:12](/episodes/ep-DEtFh2Ff-58.md#t-00-04-46) (Claim) **Candace Owens**: ["I feel very confident that Andrew Kolvet was aboard the Santa Barbara-..."](/statements/statement-5ee21def6ba6.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Scottsdale Airport](/entities/org-scottsdale-airport.md)
+
+- [00:05:26](/episodes/ep-DEtFh2Ff-58.md#t-00-05-26) (Claim) **Andrew Kolvet** (via read message): ["I don't know. Shot for sure."](/statements/statement-f9e5040681dd.md)
+
+- [00:05:41](/episodes/ep-DEtFh2Ff-58.md#t-00-05-26) (Claim) **Andrew Kolvet** (via read message): ["He has a pulse, but I know nothing else."](/statements/statement-d3eb8c2243e8.md)
+
+- [00:07:03](/episodes/ep-DEtFh2Ff-58.md#t-00-07-03) (Claim) **Andrew Kolvet** (via quoted speech): ["I learned Charlie Kirk had died probably 30 or 40 minutes after he was..."](/statements/statement-7566be50f71f.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Truth Social](/entities/org-truth-social.md)
+
+- [00:08:55](/episodes/ep-DEtFh2Ff-58.md#t-00-08-45) (Accusation) **Baron Coleman**: ["If Andrew Kolvet left Santa Barbara before Charlie Kirk was shot, then..."](/statements/statement-ba85fbee4ed4.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:10:36](/episodes/ep-DEtFh2Ff-58.md#t-00-10-36) (Opinion) **Candace Owens**: ["My very strong opinion is that the TPUSA core crew met at Scottsdale A..."](/statements/statement-e0c42d3a79b5.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Scottsdale Airport](/entities/org-scottsdale-airport.md), [Provo Airport](/entities/org-provo-airport.md)
+
+- [00:11:58](/episodes/ep-DEtFh2Ff-58.md#t-00-11-58) (Promise) **Candace Owens**: ["I will try to identify and reach out to Charlie Kirk's pilot, known on..."](/statements/statement-ab9bfe7468d0.md)
+
+- [00:12:37](/episodes/ep-DEtFh2Ff-58.md#t-00-12-37) (Accusation) **Candace Owens**: ["Turning Point USA is lying about what transpired on the day Charlie Ki..."](/statements/statement-c2be9c2279cb.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:14:19](/episodes/ep-DEtFh2Ff-58.md#t-00-13-58) (Claim) **Candace Owens**: ["Justin Streiff sent Aubrey Laitsch's drafted email announcing Charlie ..."](/statements/statement-ec9196dc6904.md)
+  - Also about: [Justin Streiff](/entities/person-justin-streiff.md), [Aubrey Laitsch](/entities/person-aubrey-laitsch.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:14:28](/episodes/ep-DEtFh2Ff-58.md#t-00-13-58) (Claim) **Candace Owens**: ["I believe Charlie Kirk's plane departed Scottsdale at 2:31 with the TP..."](/statements/statement-5ae440fa7dce.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Scottsdale Airport](/entities/org-scottsdale-airport.md), [Utah](/entities/gpe-utah.md)
+
+- [00:17:49](/episodes/ep-DEtFh2Ff-58.md#t-00-17-26) (Opinion) **Candace Owens**: ["Erika Kirk used her Instagram post of her frail-looking mother two day..."](/statements/statement-294d8f84543f.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Instagram](/entities/org-instagram.md)
+
+- [00:19:00](/episodes/ep-DEtFh2Ff-58.md#t-00-18-34) (Claim) **The New York Times** (via quoted article): ["The New York Times reported that Charlie Kirk's chartered plane return..."](/statements/statement-d56cc652819a.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Scottsdale Airport](/entities/org-scottsdale-airport.md), [Provo Airport](/entities/org-provo-airport.md)
+
+- [00:19:09](/episodes/ep-DEtFh2Ff-58.md#t-00-19-09) (Opinion) **Erika Kirk** (via quoted article): ["I was looking at the clouds and the mountains and thinking this was ex..."](/statements/statement-297ba7e0f508.md)
+
+- [00:20:51](/episodes/ep-DEtFh2Ff-58.md#t-00-20-35) (Claim) **Elizabeth McCoy** (via quoted post): ["No one teaches you how to comfort a woman on a plane who only moments ..."](/statements/statement-580ab50d1668.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:32:57](/episodes/ep-DEtFh2Ff-58.md#t-00-32-41) (Claim) **Candace Owens** (via paraphrase): ["Mitch Snow's story was that he was almost certain he saw Brian Harpole..."](/statements/statement-75ce7d0d0c2c.md)
+  - Also about: [Mitch Snow](/entities/person-mitch-snow.md), [Brian Harpole](/entities/person-brian-harpole.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+- [00:37:42](/episodes/ep-DEtFh2Ff-58.md#t-00-37-42) (Claim) **Candace Owens**: ["Charlie Kirk's parents were not aboard N582MM because J.D. Vance sent ..."](/statements/statement-719ea2a38654.md)
+  - Also about: [JD Vance](/entities/person-jd-vance.md), [Air Force Two](/entities/org-air-force-two.md), [N582MM](/entities/vehicle-n582mm.md)
+
+- [00:43:22](/episodes/ep-DEtFh2Ff-58.md#t-00-43-07) (Claim) **Anonymous Source #3 (Ep DEtFh2Ff-58)** (via paraphrase): ["Stacey Sheridan, Michael McCoy, and Elizabeth McCoy are at Charlie and..."](/statements/statement-30bada1746a8.md)
+  - Also about: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)
+
+- [00:50:22](/episodes/ep-DEtFh2Ff-58.md#t-00-50-22) (Opinion) **Candace Owens**: ["Treating Tyler Robinson as guilty solely because police charged him cr..."](/statements/statement-e62e5f36ec24.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:50:51](/episodes/ep-DEtFh2Ff-58.md#t-00-50-22) (Claim) **Candace Owens**: ["Charlie Kirk's perspective on Israel had shifted completely before he ..."](/statements/statement-0f4fae6e0072.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
 
 </details>
 

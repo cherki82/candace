@@ -1,6 +1,6 @@
 ---
 title: "Utah"
-description: "Utah (Places) - 227 mentions"
+description: "Utah (Places) - 231 mentions"
 id: "gpe-utah"
 type: "GPE"
 aliases:
@@ -22,10 +22,10 @@ Source: [State of Utah official website](https://utah.gov/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-utah-t-00-05-31">2025-09-16 · 00:05:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-03-48-13">2026-08-14 · 03:48:13</a></strong></div>
-<div><span>Episodes</span><strong>45</strong></div>
-<div><span>Mentions</span><strong>227</strong></div>
+<div><span>Episodes</span><strong>46</strong></div>
+<div><span>Mentions</span><strong>231</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -78,6 +78,7 @@ Source: [State of Utah official website](https://utah.gov/)
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-utah-t-00-02-42" style="--pulse-height:89%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 16 mentions" title="2026-03-23 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-utah-t-00-06-48" style="--pulse-height:44%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 8 mentions" title="2026-03-24 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-utah-t-00-09-39" style="--pulse-height:11%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-utah-t-00-13-58" style="--pulse-height:22%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 4 mentions" title="2026-03-26 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-00-52-44" style="--pulse-height:94%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -128,6 +129,7 @@ Source: [State of Utah official website](https://utah.gov/)
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-utah-t-00-02-42) | 16 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-utah-t-00-06-48) | 8 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-utah-t-00-09-39) | 2 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-utah-t-00-13-58) | 4 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-00-52-44) | 17 |
 
 </details>
@@ -136,7 +138,7 @@ Source: [State of Utah official website](https://utah.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (227)</strong></summary>
+<summary><strong class="section-title">Raw mentions (231)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (17 mentions)</summary>
@@ -191,6 +193,23 @@ Source: [State of Utah official website](https://utah.gov/)
 
 **[03:48:13](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-03-48-13)**
 > "...that there's enough under the Utah 1102 rule for me to keep it there."
+
+</details>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (4 mentions)</summary>
+
+**[00:14:16](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-utah-t-00-13-58)**
+> "1.19 p.m. Utah time"
+
+**[00:05:41](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-utah-t-00-05-26)**
+> "...r sure. And then at 1.19 p.m. Utah time, Andrew said to me he has a pulse, but I kno..."
+
+**[00:14:31](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-utah-t-00-13-58)**
+> "...from Scottsdale and heads for Utah."
+
+**[00:20:10](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-utah-t-00-19-54)**
+> "2.31 p.m. Utah time, just nine minutes before President Trump. N..."
 
 </details>
 
@@ -1174,7 +1193,15 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah (9)</strong></summary>
+<summary><strong class="section-title">Statements about Utah (10)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>
+
+- [00:14:28](/episodes/ep-DEtFh2Ff-58.md#t-00-13-58) (Claim) **Candace Owens**: ["I believe Charlie Kirk's plane departed Scottsdale at 2:31 with the TP..."](/statements/statement-5ae440fa7dce.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Scottsdale Airport](/entities/org-scottsdale-airport.md)
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1)</summary>

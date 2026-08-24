@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=tB5SXXmd9vU"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-tB5SXXmd9vU/t-00-00-01.md" class="timestamp-link">00:00:01</a> <a href="https://www.youtube.com/watch?v=tB5SXXmd9vU&t=1" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys, it is a very tangled web that we weave. I'm referring to me and <span id="ent-person-jean-michel-trogneux-t-00-00-01"><a href="/entities/person-jean-michel-trogneux.md">Jean-Michel Trogneux</a></span>, okay? <a href="/entities/person-jean-michel-trogneux.md">Jean-Michel Trogneux</a> has been so protected and has worn so many faces and has clearly gotten away with that across<span id="event-event-1979-01-01-egypt-israel-peace-treaty-facilitated-by-safari-cl-t-00-00-01"><a href="/events/event-1979-01-01-egypt-israel-peace-treaty-facilitated-by-safari-cl.md" class="event-indicator" title="Timeline event">📅</a></span> so many decades that you can almost understand the sheer arrogance. Imagine being so protected that you force multiple nation-states to collude to hide the obvious fact that you were born with a penis, right? That is real power. I am talking satanic power, though. And the antidote to Satan is always Christ. Truth will reign supreme in the end. So welcome back to <span id="ent-person-candace-owens-t-00-00-01"><a href="/entities/person-candace-owens.md">Candace</a></span>. ^t-00-00-01

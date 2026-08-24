@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=_dRaEO47-co"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-_dRaEO47-co/t-00-00-01.md" class="timestamp-link">00:00:01</a> <a href="https://www.youtube.com/watch?v=_dRaEO47-co&t=1" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Well, that has never happened before. I guess we could say <span id="ent-person-charlie-kirk-t-00-00-01"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> broke the Internet one more time. One hundred and fifty thousand of you guys were watching, and the system just sort of crashed. And it makes me—it just really makes me happy that that happened, actually. It was already very difficult for me to do this for a lot of reasons. But I knew it was important, because I didn't want the last thing that people had in their minds about <a href="/entities/person-charlie-kirk.md">Charlie</a> to be the moment he lost his life. That was what was especially hard, because he's just had so many amazing moments throughout his career. ^t-00-00-01

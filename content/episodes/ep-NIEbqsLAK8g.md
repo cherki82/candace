@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=NIEbqsLAK8g"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-NIEbqsLAK8g/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=NIEbqsLAK8g&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys, it is MLK Day, which means that no one, absolutely no one can tell me that I cannot talk about my dreams today. Today might actually just be one long I had a dream speech. Well, guess what? We found out something stunning about <span id="ent-person-dan-flood-t-00-00-00"><a href="/entities/person-dan-flood.md">Dan Flood</a></span> that apparently everybody missed. And this is actually potentially a game changer or rather it might reveal how the entire game works. It makes perfect sense now to me that the feds are doing nothing to investigate <span id="ent-person-charlie-kirk-t-00-00-00"><a href="/entities/person-charlie-kirk.md">Charlie Kirk</a></span>'s assassination. Speaking of which, <span id="ent-org-turning-point-usa-t-00-00-00"><a href="/entities/org-turning-point-usa.md">Turning Point USA</a></span> has done a thing. They've done a thing. They sent a cease and desist letter to a relatively small YouTuber, ^t-00-00-00

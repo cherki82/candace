@@ -1,6 +1,6 @@
 ---
 title: "Donald J. Trump"
-description: "Donald J. Trump (People) - 435 mentions"
+description: "Donald J. Trump (People) - 438 mentions"
 id: "person-donald-trump"
 type: "PERSON"
 aliases:
@@ -29,10 +29,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-t-00-19-31">2025-09-11 · 00:08:08</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-donald-trump-t-02-34-47">2026-08-14 · 02:34:47</a></strong></div>
-<div><span>Episodes</span><strong>74</strong></div>
-<div><span>Mentions</span><strong>435</strong></div>
+<div><span>Episodes</span><strong>75</strong></div>
+<div><span>Mentions</span><strong>438</strong></div>
 <div><span>Statements by</span><strong>12</strong></div>
-<div><span>Statements about</span><strong>95</strong></div>
+<div><span>Statements about</span><strong>96</strong></div>
 <div><span>Relationships</span><strong>57</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -114,6 +114,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-donald-trump-t-00-02-11" style="--pulse-height:12%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 4 mentions" title="2026-03-23 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-donald-trump-t-00-43-03" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-donald-trump-t-00-28-01" style="--pulse-height:25%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 8 mentions" title="2026-03-25 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-donald-trump-t-00-13-58" style="--pulse-height:9%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 3 mentions" title="2026-03-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-donald-trump-t-02-21-59" style="--pulse-height:12%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -193,6 +194,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-donald-trump-t-00-02-11) | 4 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-donald-trump-t-00-43-03) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-donald-trump-t-00-28-01) | 8 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-donald-trump-t-00-13-58) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-donald-trump-t-02-21-59) | 4 |
 
 </details>
@@ -201,7 +203,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (435)</strong></summary>
+<summary><strong class="section-title">Raw mentions (438)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -217,6 +219,20 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 **[02:34:47](/episodes/ep-nPhCKwJ6ye8.md#ent-person-donald-trump-t-02-34-47)**
 > "Trump's office,"
+
+</details>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (3 mentions)</summary>
+
+**[00:14:36](/episodes/ep-DEtFh2Ff-58.md#ent-person-donald-trump-t-00-13-58)**
+> "President Trump announces that Charlie has died"
+
+**[00:07:10](/episodes/ep-DEtFh2Ff-58.md#ent-person-donald-trump-t-00-07-10)**
+> "..., it was before I knew before Trump put the true social out."
+
+**[00:20:10](/episodes/ep-DEtFh2Ff-58.md#ent-person-donald-trump-t-00-19-54)**
+> "...nine minutes before President Trump. No, that's not true, which is false. It's not ev..."
 
 </details>
 
@@ -2474,13 +2490,21 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Donald J. Trump (95)</strong></summary>
+<summary><strong class="section-title">Statements about Donald J. Trump (96)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
 
 - [02:21:45](/episodes/ep-nPhCKwJ6ye8.md#t-02-21-45) (Claim) **Candace Owens**: ["Candace Owens reported the alleged French Foreign Legion threat to Tul..."](/statements/statement-09827ba5d6e7.md)
   - Also about: [Tulsi Gabbard](/entities/person-tulsi-gabbard.md), [French Foreign Legion](/entities/org-french-foreign-legion.md)
+
+</details>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>
+
+- [00:07:03](/episodes/ep-DEtFh2Ff-58.md#t-00-07-03) (Claim) **Andrew Kolvet** (via quoted speech): ["I learned Charlie Kirk had died probably 30 or 40 minutes after he was..."](/statements/statement-7566be50f71f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Truth Social](/entities/org-truth-social.md)
 
 </details>
 

@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=ZZGWo6oDscc"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-ZZGWo6oDscc/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=ZZGWo6oDscc&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** You know what I was thinking? I think that one of the more compelling questions that was raised with our <span id="ent-work-becoming-brigitte-t-00-00-00"><a href="/entities/work-becoming-brigitte.md">Becoming Brigitte series</a></span> was, is it possible for someone to be like, yeah, no, really, all of my friends keep getting trouble for abusing kids, but I swear it's not me, just all my friends. I find myself kind of arriving at this same question regarding <span id="ent-org-turning-point-faith-t-00-00-00"><a href="/entities/org-turning-point-faith.md">turning point faith</a></span>. I don't like <a href="/entities/org-turning-point-faith.md">turning point faith</a>. I'm an enemy of <a href="/entities/org-turning-point-faith.md">turning point faith</a>. There, I said it. I think it's pretty obvious. I don't like it at all. These pastors, their backgrounds, finding God, the grift of finding God I'm referring to, something very obvious. I'm asking the question, ^t-00-00-00

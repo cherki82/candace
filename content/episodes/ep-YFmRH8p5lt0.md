@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=YFmRH8p5lt0"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-YFmRH8p5lt0/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=YFmRH8p5lt0&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys. Well, if Halloween is your thing, then I definitely have a scary story for you. And it's scary because it's not fiction, okay? This is real life: the assassination of my friend, <span id="ent-person-charlie-kirk-t-00-00-00"><a href="/entities/person-charlie-kirk.md">Charlie</a></span>. We are now, I believe, extremely close to solving this thing. I think after this episode, you are going to recognize that there is just irrefutable proof that there were in fact foreign actors involved. And of course, that implies that our government knows. Our government absolutely knows. We already felt that way. So let's jump right back into this impromptu episode. Welcome back to <span id="ent-person-candace-owens-t-00-00-00"><a href="/entities/person-candace-owens.md">Candace</a></span>. ^t-00-00-00

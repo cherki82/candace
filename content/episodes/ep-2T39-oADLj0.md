@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=2T39-oADLj0"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-2T39-oADLj0/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=2T39-oADLj0&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Myron Gaines:** Who do you think is the most responsible? Why would they want him gone? ^t-00-00-00

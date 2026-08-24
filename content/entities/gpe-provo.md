@@ -1,6 +1,6 @@
 ---
 title: "Provo"
-description: "Provo (Places) - 95 mentions"
+description: "Provo (Places) - 113 mentions"
 id: "gpe-provo"
 type: "GPE"
 aliases:
@@ -24,9 +24,9 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-gpe-provo-t-00-18-15">2025-09-19 · 00:18:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-provo-t-00-03-02">2026-03-25 · 00:06:54</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>95</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-38-21">2026-03-26 · 00:38:45</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>113</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -35,26 +35,27 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-02-07">BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255</a> (17 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-00-36">VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317</a> (18 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-aDlhjfW6hz8.md#ent-gpe-provo-t-00-18-15" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YA1FxrDWNIo.md#ent-gpe-provo-t-00-18-54" style="--pulse-height:29%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 5 mentions" title="2025-09-30 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-02-07" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 17 mentions" title="2025-10-30 · 17 mentions"><span></span></a>
-<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-provo-t-00-05-35" style="--pulse-height:59%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 10 mentions" title="2025-10-31 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-provo-t-00-05-44" style="--pulse-height:41%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 7 mentions" title="2025-11-17 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-provo-t-00-05-00" style="--pulse-height:29%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 5 mentions" title="2025-11-18 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-provo-t-00-00-00" style="--pulse-height:29%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 5 mentions" title="2025-11-19 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-provo-t-00-00-00" style="--pulse-height:24%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 4 mentions" title="2025-11-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-gpe-provo-t-00-18-54" style="--pulse-height:28%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 5 mentions" title="2025-09-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-02-07" style="--pulse-height:94%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 17 mentions" title="2025-10-30 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-provo-t-00-05-35" style="--pulse-height:56%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 10 mentions" title="2025-10-31 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-provo-t-00-05-44" style="--pulse-height:39%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 7 mentions" title="2025-11-17 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-provo-t-00-05-00" style="--pulse-height:28%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 5 mentions" title="2025-11-18 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-provo-t-00-00-00" style="--pulse-height:28%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 5 mentions" title="2025-11-19 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-provo-t-00-00-00" style="--pulse-height:22%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 4 mentions" title="2025-11-21 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-provo-t-00-23-12" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-gpe-provo-t-00-16-49" style="--pulse-height:8%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-provo-t-00-00-43" style="--pulse-height:47%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 8 mentions" title="2025-12-05 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-provo-t-00-09-30" style="--pulse-height:35%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 6 mentions" title="2026-01-13 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-provo-t-01-07-21" style="--pulse-height:18%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 3 mentions" title="2026-01-20 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-provo-t-00-06-35" style="--pulse-height:12%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-provo-t-00-00-43" style="--pulse-height:44%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 8 mentions" title="2025-12-05 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-provo-t-00-09-30" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 6 mentions" title="2026-01-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-provo-t-01-07-21" style="--pulse-height:17%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 3 mentions" title="2026-01-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-provo-t-00-06-35" style="--pulse-height:11%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-provo-t-00-24-40" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-provo-t-00-15-11" style="--pulse-height:47%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 8 mentions" title="2026-03-23 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-provo-t-00-09-57" style="--pulse-height:41%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 7 mentions" title="2026-03-24 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-provo-t-00-02-23" style="--pulse-height:18%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 3 mentions" title="2026-03-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-provo-t-00-15-11" style="--pulse-height:44%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 8 mentions" title="2026-03-23 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-provo-t-00-09-57" style="--pulse-height:39%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 7 mentions" title="2026-03-24 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-provo-t-00-02-23" style="--pulse-height:17%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 3 mentions" title="2026-03-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-00-36" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 18 mentions" title="2026-03-26 · 18 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -78,6 +79,7 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-provo-t-00-15-11) | 8 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-provo-t-00-09-57) | 7 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-provo-t-00-02-23) | 3 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-00-36) | 18 |
 
 </details>
 </section>
@@ -85,7 +87,66 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (95)</strong></summary>
+<summary><strong class="section-title">Raw mentions (113)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (18 mentions)</summary>
+
+**[00:00:36](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-00-36)**
+> "police scanner on September 10th in Provo"
+
+**[00:01:55](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-00-36)**
+> "...ng to pick up Erika Kirk from Provo Airport."
+
+**[00:02:17](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-02-17)**
+> "Negative, Provo Main Channel is not secure."
+
+**[00:02:29](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-02-29)**
+> "...vice channel, so this is just Provo Service. Go ahead and talk."
+
+**[00:02:35](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-02-29)**
+> "...ergeant DuPay are en route to Provo Airport."
+
+**[00:03:51](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-03-33)**
+> "... it did. It did not happen in Provo at all. It happened in Scottsdale. And I feel tre..."
+
+**[00:06:13](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-06-09)**
+> "...that landed at 4.30 p.m. into Provo. She's lying."
+
+**[00:10:36](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-10-36)**
+> "...a plane that could get him to Provo. It's pretty easy to get a private jet."
+
+**[00:11:05](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-10-36)**
+> "...on the tarmac to greet him in Provo and then head to the hospital with him. We now kn..."
+
+**[00:11:25](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-11-18)**
+> "...they all traveled together to Provo aboard Charlie's plane."
+
+**[00:13:45](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-13-13)**
+> "...eparts from Page, Arizona for Provo, because I remember that Page, Arizona, that was ..."
+
+**[00:14:43](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-14-43)**
+> "... that I identified lands into Provo from Page at 2.48."
+
+**[00:15:22](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-14-43)**
+> "...is wife scrambled and went to Provo a bit later."
+
+**[00:16:14](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-16-14)**
+> "...ika and Andrew did not hug in Provo, which only leaves us with Scottsdale. Now, it is..."
+
+**[00:19:00](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-18-34)**
+> "...ottsdale to ferry his wife to Provo.'"
+
+**[00:34:56](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-34-36)**
+> "...is September 10th, Chicago to Provo. It had previously been in Pierre. My guess is th..."
+
+**[00:35:14](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-35-14)**
+> "It left for Provo, presumably, I presume, with Charlie Kirk's paren..."
+
+**[00:38:45](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-38-21)**
+> "...an planes are back in town in Provo, just in time for Brigitte to be back in town."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (3 mentions)</summary>

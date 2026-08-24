@@ -12,7 +12,7 @@ time: "14:27"
 
 > Turning Point USA emailed employees confirming Charlie Kirk's death and closing the office for the day.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! ...
 
@@ -29,3 +29,11 @@ time: "14:27"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1207);return false;">▶️ Play</a>
 
 > To the entire company saying that Charlie Kirk is dead. And now the media is all messaging her
+
+### 3. VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Ca...
+
+**Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
+**Timestamp:** [00:14:19](/episodes/ep-DEtFh2Ff-58.md#event-event-2025-09-10-turning-point-usa-emailed-employees-conf-t-00-13-58) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(859);return false;">▶️ Play</a>
+
+> Justin Streiff is going to send the email that was drafted by Aubrey announcing Charlie's death

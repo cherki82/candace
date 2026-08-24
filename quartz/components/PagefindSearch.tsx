@@ -5,7 +5,7 @@ export default (() => {
   const PagefindSearch: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
     return (
       <div class={classNames(displayClass, "pagefind-search")}>
-        <div id="pagefind-search"></div>
+        <div class="pagefind-search-target"></div>
       </div>
     )
   }
@@ -55,17 +55,15 @@ export default (() => {
   PagefindSearch.afterDOMLoaded = `
 // Load Pagefind UI
 const loadPagefind = async () => {
-  const container = document.getElementById('pagefind-search')
-  if (!container) return
+  const containers = [...document.querySelectorAll('.pagefind-search-target')]
+    .filter(container => !container.querySelector('.pagefind-ui'))
+  if (!containers.length) return
 
-  // Already initialized?
-  if (container.querySelector('.pagefind-ui')) return
-
-  // Determine base path from current URL (handles subdirectory deployments)
-  const pathParts = window.location.pathname.split('/').filter(Boolean)
-  // For cherki82.github.io/candace/, basePath should be '/candace'
-  const basePath = pathParts.length > 0 && !pathParts[0].includes('.')
-    ? '/' + pathParts[0]
+  // Quartz emits index.css at the site root, which gives us the deployment
+  // prefix without guessing from the current route (e.g. /candace on Pages).
+  const siteStyles = document.querySelector('link[rel="stylesheet"][href$="index.css"]')
+  const basePath = siteStyles
+    ? new URL(siteStyles.href, window.location.href).pathname.replace(/\/index\.css$/, '')
     : ''
   const pagefindBase = basePath + '/pagefind'
 
@@ -81,21 +79,26 @@ const loadPagefind = async () => {
     // Load and initialize Pagefind UI
     const { PagefindUI } = await import(/* webpackIgnore: true */ pagefindBase + '/pagefind-ui.js')
 
-    new PagefindUI({
-      element: "#pagefind-search",
-      showSubResults: true,
-      showImages: false,
-      excerptLength: 25,
-      resetStyles: false,
-      bundlePath: pagefindBase + '/',
-      translations: {
-        placeholder: "Search transcripts...",
-        zero_results: "No results for [SEARCH_TERM]"
-      }
+    containers.forEach((container, index) => {
+      container.id = 'pagefind-search-' + index
+      new PagefindUI({
+        element: '#' + container.id,
+        showSubResults: true,
+        showImages: false,
+        excerptLength: 25,
+        resetStyles: false,
+        bundlePath: pagefindBase + '/',
+        translations: {
+          placeholder: "Search transcripts...",
+          zero_results: "No results for [SEARCH_TERM]"
+        }
+      })
     })
   } catch (e) {
     console.warn('Pagefind not available:', e)
-    container.innerHTML = '<p style="color: var(--gray); font-size: 0.9rem;">Quick jump searches page titles. Use Research Explorer for statements and transcript snippets.</p>'
+    containers.forEach(container => {
+      container.innerHTML = '<p style="color: var(--gray); font-size: 0.9rem;">Quick jump searches page titles. Use Research Explorer for statements and transcript snippets.</p>'
+    })
   }
 }
 

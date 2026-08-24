@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=UBkFkg4UNY8"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-UBkFkg4UNY8/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=UBkFkg4UNY8&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys. Happy Tuesday. Sorry we are running a few minutes late. It takes so much time to investigate. We are such a small team, and we're constantly trying to make sure we're giving you guys the most accurate information. And, you know, it suddenly occurred to me after last week<a href="/events/event-2025-09-11-tiffany-barker-and-nieces-interviewed-on-good-morn.md" class="event-indicator" title="Timeline event">📅</a><span id="event-event-2025-09-11-tiffany-barker-and-nieces-interviewed-on-good-morn-t-00-00-00"><a href="/events/event-2025-09-11-tiffany-barker-and-nieces-interviewed-on-good-morn.md" class="event-indicator" title="Timeline event">📅</a></span> that I should maybe go back and find all of the original videos that were going viral on social media on 9/10, all the videos pertaining to the assassination, the people that were providing testimony as to what happened. And immediately we started to notice a pattern. ^t-00-00-00

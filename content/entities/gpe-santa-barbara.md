@@ -1,6 +1,6 @@
 ---
 title: "Santa Barbara"
-description: "Santa Barbara (Places) - 31 mentions"
+description: "Santa Barbara (Places) - 39 mentions"
 id: "gpe-santa-barbara"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-14">2025-11-17 · 00:26:38</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-santa-barbara-t-00-03-02">2026-03-25 · 00:03:02</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-santa-barbara-t-00-15-28">2026-03-26 · 00:15:28</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>39</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-santa-barbara-t-00-16-13" style="--pulse-height:70%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 7 mentions" title="2026-03-23 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-santa-barbara-t-00-06-26" style="--pulse-height:100%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 10 mentions" title="2026-03-24 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-santa-barbara-t-00-01-51" style="--pulse-height:50%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 5 mentions" title="2026-03-25 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-santa-barbara-t-00-04-46" style="--pulse-height:80%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 8 mentions" title="2026-03-26 · 8 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-santa-barbara-t-00-16-13) | 7 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-santa-barbara-t-00-06-26) | 10 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-santa-barbara-t-00-01-51) | 5 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-santa-barbara-t-00-04-46) | 8 |
 
 </details>
 </section>
@@ -57,7 +59,36 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (8 mentions)</summary>
+
+**[00:05:03](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-santa-barbara-t-00-04-46)**
+> "the Santa Barbara flight takes off and heads for Scottsdale"
+
+**[00:05:56](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-santa-barbara-t-00-05-26)**
+> "...he only plane. The plane from Santa Barbara to Scottsdale is the only plane that fits the des..."
+
+**[00:07:24](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-santa-barbara-t-00-07-18)**
+> "...t after Charlie got shot from Santa Barbara. He received the news while he was in the air tha..."
+
+**[00:08:45](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-santa-barbara-t-00-08-45)**
+> "...tters. Because if Andrew left Santa Barbara before Charlie got shot, then there was a plot to..."
+
+**[00:08:55](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-santa-barbara-t-00-08-45)**
+> "...hy it matters. If Andrew left Santa Barbara before Charlie got shot, there was a plot to kill..."
+
+**[00:10:36](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-santa-barbara-t-00-10-36)**
+> "...happen. Andrew did not sit in Santa Barbara for three and a half hours twiddling his thumbs b..."
+
+**[00:12:47](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-santa-barbara-t-00-12-37)**
+> "...ry: that Andrew departed from Santa Barbara, headed for Scottsdale, at approximately 1:03, ac..."
+
+**[00:15:28](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-santa-barbara-t-00-15-28)**
+> "... lands on that 436 plane from Santa Barbara. And then Andrew and her go to the hospital and g..."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (5 mentions)</summary>

@@ -123,6 +123,10 @@ a {
 
 .flex-component {
   display: flex;
+
+  > div {
+    min-width: 0;
+  }
 }
 
 .desktop-only {
@@ -230,6 +234,9 @@ a {
         position: initial;
         display: flex;
         height: unset;
+        width: 100%;
+        min-width: 0;
+        z-index: 1000;
         flex-direction: row;
         padding: 0;
         padding-top: 2rem;

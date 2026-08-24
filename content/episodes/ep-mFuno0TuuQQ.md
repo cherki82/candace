@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=mFuno0TuuQQ"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-mFuno0TuuQQ/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=mFuno0TuuQQ&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys, happy Thursday. So <span id="ent-person-erika-kirk-t-00-00-00"><a href="/entities/person-erika-kirk.md">Erika Kirk</a></span> went onto <span id="ent-org-fox-news-t-00-00-00"><a href="/entities/org-fox-news.md">Fox News</a></span> last night and she made a plea for transparency. I have to say I'm totally with her on that one and I would like to join her in the pursuit of it with an open letter to her. In the same vein, one of the fired <span id="ent-org-turning-point-usa-t-00-00-00"><a href="/entities/org-turning-point-usa.md">TPUSA</a></span> employees has now posted a public video informing the public of exactly what's been going on behind the scenes and the real reason that they believe that a lot of people were fired. Now, after watching their boss get assassinated and after working 20 hour days, this young employee was subjected to a rather bizarre loyalty test. We're going to tell you all about that. So welcome back to <span id="ent-person-candace-owens-t-00-00-00"><a href="/entities/person-candace-owens.md">Candace</a></span>. ^t-00-00-00

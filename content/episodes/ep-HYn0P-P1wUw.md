@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=HYn0P-P1wUw"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-HYn0P-P1wUw/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=HYn0P-P1wUw&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys, happy Tuesday and we will start with a question of the day. Now, imagine if you would that you were writing a <span id="ent-org-netflix-t-00-00-00"><a href="/entities/org-netflix.md">Netflix</a></span> series about a 19-year-old kid who had never been in trouble ever, actually. He'd never been arrested, never committed any crimes. He has a perfect <span id="ent-work-act-test-t-00-00-00"><a href="/entities/work-act-test.md">ACT</a></span> score, so he's also pretty brilliant. But for whatever reason, you decide that this protagonist is going to become a murderer. He's going to one day out of support for his trans furry lover, maybe he's the furry and the other guy's I don't really know. The point is, is he's going to assassinate a political figure in broad daylight, who it should be mentioned that particular political figure isn't exactly known for raging against the <span id="ent-concept-lgbtq-t-00-00-00"><a href="/entities/concept-lgbtq.md">LGBTQ</a></span> community. ^t-00-00-00

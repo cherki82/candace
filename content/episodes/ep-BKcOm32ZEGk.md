@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/watch?v=BKcOm32ZEGk"
 
 > **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
 
-<details open>
+<details>
 <summary><strong class="section-title">Transcript</strong></summary>
 
 **<a href="/timestamps/ep-BKcOm32ZEGk/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=BKcOm32ZEGk&t=0" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys. Happy Wednesday. I'd like to begin today's episode with a little bit of feedback for the deep state, the deep globalized state. All you guys had to do was to keep the cornucopia. We may have even let you rule over us forever. We have never woken up to anything. That's my theory. It was all well and good until you guys tried to convince us that <span id="ent-org-fruit-of-the-loom-t-00-00-00"><a href="/entities/org-fruit-of-the-loom.md">fruit of the loom</a></span> never had a cornucopia. Right? There was one. We all know that. By the way, if you're watching this and you don't know that, I want nothing to do with you. You're in the wrong timeline. We are not in the same timeline. Today is going to be a very interesting episode, definitely philosophical, meta, ^t-00-00-00

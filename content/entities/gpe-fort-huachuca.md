@@ -1,6 +1,6 @@
 ---
 title: "Fort Huachuca"
-description: "Fort Huachuca (Places) - 128 mentions"
+description: "Fort Huachuca (Places) - 141 mentions"
 id: "gpe-fort-huachuca"
 type: "GPE"
 aliases:
@@ -23,11 +23,11 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-fort-huachuca-t-00-12-36">2025-12-09 · 00:01:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-fort-huachuca-t-00-44-04">2026-03-10 · 00:44:04</a></strong></div>
-<div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>128</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-fort-huachuca-t-00-37-16">2026-03-26 · 00:37:16</a></strong></div>
+<div><span>Episodes</span><strong>27</strong></div>
+<div><span>Mentions</span><strong>141</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>69</strong></div>
+<div><span>Statements about</span><strong>72</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -62,6 +62,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-fort-huachuca-t-00-25-27" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-fort-huachuca-t-00-31-12" style="--pulse-height:10%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-fort-huachuca-t-00-33-58" style="--pulse-height:14%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 3 mentions" title="2026-03-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-fort-huachuca-t-00-00-01" style="--pulse-height:62%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 13 mentions" title="2026-03-26 · 13 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -93,6 +94,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-fort-huachuca-t-00-25-27) | 1 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-fort-huachuca-t-00-31-12) | 2 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-fort-huachuca-t-00-33-58) | 3 |
+| 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-fort-huachuca-t-00-00-01) | 13 |
 
 </details>
 </section>
@@ -100,7 +102,51 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (128)</strong></summary>
+<summary><strong class="section-title">Raw mentions (141)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (13 mentions)</summary>
+
+**[00:00:01](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-fort-huachuca-t-00-00-01)**
+> "We're going to go back very briefly to Fort Huachuca."
+
+**[00:00:20](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-fort-huachuca-t-00-00-01)**
+> "... Point USA that spent time at Fort Huachuca after the assassination."
+
+**[00:32:14](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-fort-huachuca-t-00-32-05)**
+> "... you through it—but obviously Fort Huachuca, like I said at the top, was very clearly a trigg..."
+
+**[00:32:33](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-fort-huachuca-t-00-32-05)**
+> "...to get them to attack us over Fort Huachuca."
+
+**[00:32:57](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-fort-huachuca-t-00-32-41)**
+> "... that he saw Brian Harpole at Fort Huachuca. He felt he had almost certainly seen Brian Harpo..."
+
+**[00:33:26](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-fort-huachuca-t-00-33-16)**
+> "...e just stop when we mentioned Fort Huachuca. Well, Baron Coleman has a source who I have sinc..."
+
+**[00:33:40](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-fort-huachuca-t-00-33-16)**
+> "familiar with Fort Huachuca and the kind of the notes here are that on Septem..."
+
+**[00:33:55](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-fort-huachuca-t-00-33-55)**
+> "...ctober 4th, that plane was in Fort Huachuca all day before it headed up to Kalispell, Montana..."
+
+**[00:35:39](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-fort-huachuca-t-00-35-14)**
+> "This is Fort Huachuca."
+
+**[00:35:44](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-fort-huachuca-t-00-35-14)**
+> "Atlanta to Fort Huachuca."
+
+**[00:36:10](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-fort-huachuca-t-00-36-01)**
+> "... plane used by TPUSA going to Fort Huachuca? The plane we were looking at went to Fort Huachu..."
+
+**[00:36:37](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-fort-huachuca-t-00-36-37)**
+> "...was in Montana after going to Fort Huachuca on October 4th. It was the following day, October..."
+
+**[00:37:16](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-fort-huachuca-t-00-37-16)**
+> "...e on that flight that went to Fort Huachuca and then went to Kalispell."
+
+</details>
 
 <details>
 <summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (3 mentions)</summary>
@@ -698,7 +744,21 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Fort Huachuca (69)</strong></summary>
+<summary><strong class="section-title">Statements about Fort Huachuca (72)</strong></summary>
+
+<details>
+<summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (3)</summary>
+
+- [00:32:33](/episodes/ep-DEtFh2Ff-58.md#t-00-32-05) (Accusation) **Candace Owens**: ["Andrew Kolvet fed information to obscure podcasters to get them to att..."](/statements/statement-357c331f9c8f.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:32:57](/episodes/ep-DEtFh2Ff-58.md#t-00-32-41) (Claim) **Candace Owens** (via paraphrase): ["Mitch Snow's story was that he was almost certain he saw Brian Harpole..."](/statements/statement-75ce7d0d0c2c.md)
+  - Also about: [Mitch Snow](/entities/person-mitch-snow.md), [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:35:39](/episodes/ep-DEtFh2Ff-58.md#t-00-35-14) (Claim) **Baron Coleman**: ["On October 4th, aircraft N582MM flew from Atlanta to Fort Huachuca, la..."](/statements/statement-25ee16189601.md)
+  - Also about: [N582MM](/entities/vehicle-n582mm.md), [Atlanta, Georgia](/entities/gpe-atlanta-georgia.md), [Kalispell, Montana](/entities/gpe-kalispell-montana.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1)</summary>
