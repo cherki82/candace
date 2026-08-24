@@ -4,9 +4,10 @@ description: "\"Candace Owens said Donald Trump had lost support from the Make A
 statement_id: "statement-cdcdb0b37222"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -37,7 +38,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Current reporting confirms an open break over the Iran war between Trump and Megyn Kelly, Candace Owens, Alex Jones, Tucker Carlson, and other prominent right-wing figures. Evidence supports a meaningful media-base fracture, but lost MAHA and lost a large portion of the base are broader claims not established by the cited reporting or polling.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Trump blasts MAGA influencers who have split with him over Iran](https://abcnews.com/amp/Politics/trump-blasts-maga-influencers-split-iran/story?id=131897807)
+
+*Verified: 2026-08-24T18:19:57.822152*
 
 ---
 

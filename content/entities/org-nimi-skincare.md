@@ -1,6 +1,6 @@
 ---
 title: "Nimi Skincare"
-description: "Nimi Skincare (Organizations) - 139 mentions"
+description: "Nimi Skincare (Organizations) - 143 mentions"
 id: "org-nimi-skincare"
 type: "ORG"
 aliases:
@@ -32,9 +32,9 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-nimi-skincare-t-00-51-30">2025-09-18 · 00:51:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-nimi-skincare-t-00-39-37">2026-03-23 · 00:39:49</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>139</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-org-nimi-skincare-t-00-20-46">2026-04-14 · 00:21:10</a></strong></div>
+<div><span>Episodes</span><strong>33</strong></div>
+<div><span>Mentions</span><strong>143</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -77,6 +77,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-nimi-skincare-t-00-27-17" style="--pulse-height:50%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 4 mentions" title="2026-03-11 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-nimi-skincare-t-00-01-22" style="--pulse-height:88%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 7 mentions" title="2026-03-17 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-nimi-skincare-t-00-38-58" style="--pulse-height:38%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 3 mentions" title="2026-03-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-org-nimi-skincare-t-00-20-01" style="--pulse-height:50%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 4 mentions" title="2026-04-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -114,6 +115,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-nimi-skincare-t-00-27-17) | 4 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-nimi-skincare-t-00-01-22) | 7 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-nimi-skincare-t-00-38-58) | 3 |
+| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-nimi-skincare-t-00-20-01) | 4 |
 
 </details>
 </section>
@@ -121,7 +123,24 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (139)</strong></summary>
+<summary><strong class="section-title">Raw mentions (143)</strong></summary>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (4 mentions)</summary>
+
+**[00:20:16](/episodes/ep-jsqUIkszZd0.md#ent-org-nimi-skincare-t-00-20-01)**
+> "...I have to tell you guys about Nimi Skincare."
+
+**[00:20:31](/episodes/ep-jsqUIkszZd0.md#ent-org-nimi-skincare-t-00-20-01)**
+> "...tually helping it. What makes Nimi skincare's Sunshine Tallow Cream and their Buzzing Tallow Ba..."
+
+**[00:20:46](/episodes/ep-jsqUIkszZd0.md#ent-org-nimi-skincare-t-00-20-46)**
+> "...ad of just coating your skin. Nimi pairs this ancestral ingredient with clean, moder..."
+
+**[00:21:10](/episodes/ep-jsqUIkszZd0.md#ent-org-nimi-skincare-t-00-20-46)**
+> "You can find it at nimiskincare.com. And if you want to try it, you can use my code C..."
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (3 mentions)</summary>

@@ -4,9 +4,10 @@ description: "\"Candace Owens accused federal authorities of changing their acco
 statement_id: "statement-377e9550e3a3"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Authorities initially described the roommate material as Discord messages, while Discord said those communications did not appear to be Discord messages and found no platform planning evidence. Later charging materials described text messages. That supports a corrected account, but the claim that federal authorities knowingly lied or altered the story after being caught is an inference not established by the sources.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Man arrested in Charlie Kirk killing had no known criminal history, had become more political](https://apnews.com/article/d893cc16fb0937d507283c710c551ef0)
+
+*Verified: 2026-08-24T18:19:55.600926*
 
 ---
 

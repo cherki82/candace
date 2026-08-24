@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Israel (Places) - 1125 mentions"
+description: "Israel (Places) - 1131 mentions"
 id: "gpe-israel"
 type: "GPE"
 aliases:
@@ -26,8 +26,8 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-israel-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-03-57-56">2026-08-14 · 03:58:04</a></strong></div>
-<div><span>Episodes</span><strong>89</strong></div>
-<div><span>Mentions</span><strong>1,125</strong></div>
+<div><span>Episodes</span><strong>90</strong></div>
+<div><span>Mentions</span><strong>1,131</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>196</strong></div>
 <div><span>Relationships</span><strong>35</strong></div>
@@ -126,6 +126,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-israel-t-00-01-34" style="--pulse-height:21%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 12 mentions" title="2026-04-01 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-israel-t-00-18-38" style="--pulse-height:9%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 5 mentions" title="2026-04-02 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-israel-t-00-17-56" style="--pulse-height:21%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 12 mentions" title="2026-04-10 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-israel-t-00-40-49" style="--pulse-height:11%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 6 mentions" title="2026-04-14 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12" style="--pulse-height:68%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 39 mentions" title="2026-08-14 · 39 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -220,6 +221,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-gpe-israel-t-00-01-34) | 12 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-israel-t-00-18-38) | 5 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-israel-t-00-17-56) | 12 |
+| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-israel-t-00-40-49) | 6 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12) | 39 |
 
 </details>
@@ -232,7 +234,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1125)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1131)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (39 mentions)</summary>
@@ -353,6 +355,29 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[02:25:09](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-25-09)**
 > "So it. He then loved other Israel."
+
+</details>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (6 mentions)</summary>
+
+**[00:40:49](/episodes/ep-jsqUIkszZd0.md#ent-gpe-israel-t-00-40-49)**
+> "...utterly bizarre commitment to Israel—Israel first and foremost and always—their backgr..."
+
+**[00:41:15](/episodes/ep-jsqUIkszZd0.md#ent-gpe-israel-t-00-40-49)**
+> "...nd what he declined to do for Israel."
+
+**[00:42:34](/episodes/ep-jsqUIkszZd0.md#ent-gpe-israel-t-00-42-12)**
+> "They are working on behalf of Israel and they are trying to, from the inside out, coll..."
+
+**[00:51:32](/episodes/ep-jsqUIkszZd0.md#ent-gpe-israel-t-00-51-13)**
+> "... I'm against you. I'm against Israel. I'm against everything they're doing, so at leas..."
+
+**[00:53:48](/episodes/ep-jsqUIkszZd0.md#ent-gpe-israel-t-00-53-48)**
+> "...ust this recurring theme that Israel is behind it. And then they try to gaslight us an..."
+
+**[00:55:14](/episodes/ep-jsqUIkszZd0.md#ent-gpe-israel-t-00-55-02)**
+> "...we are supposed to be serving Israel, and we're supposed to be serving, um, only whoev..."
 
 </details>
 

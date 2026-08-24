@@ -4,9 +4,10 @@ description: "\"Candace Owens cited a state filing saying the prosecution did no
 statement_id: "statement-69c641e20bd3"
 speaker: "Candace Owens"
 type: "citation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -34,7 +35,21 @@ type: "citation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The quoted state filing says the state did not intend at that stage to offer forensic-extraction evidence and instead intended two camera-recorded text-message exhibits. This is a temporally scoped citation: at the later preliminary hearing the state did introduce and authenticate a Cellebrite extraction.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Utah County prosecutors opposition to motion to delay preliminary hearing](https://www.scribd.com/document/1022866744/Utah-County-Prosecutors-opposition-to-Tyler-Robinson-s-motion-to-delay-preliminary-hearing)
+- [Utah v. Tyler Robinson preliminary hearing day 4 transcript](https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-4)
+
+*Verified: 2026-08-24T18:19:55.992133*
 
 ---
 

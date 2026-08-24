@@ -5,6 +5,23 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-08-24 19:05:26
+
+**Added 1 episode(s):**
+  - `jsqUIkszZd0`: BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324
+**Added 30 new entity/entities**
+**Added 22 new event(s)**
+**Added 44 new relationship(s)**
+
+**Totals:**
+- Episodes: 102
+- Entities: 2699
+- Events: 1207
+- Claims: 1461
+- Relationships: 2740
+
+---
+
 ## 2026-08-24 18:14:59
 
 **Added 6 episode(s):**

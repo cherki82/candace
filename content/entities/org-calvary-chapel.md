@@ -1,6 +1,6 @@
 ---
 title: "Calvary Chapel"
-description: "Calvary Chapel (Organizations) - 68 mentions"
+description: "Calvary Chapel (Organizations) - 72 mentions"
 id: "org-calvary-chapel"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#t-00-03-39">2025-10-29 · 00:03:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-calvary-chapel-t-00-05-34">2026-03-18 · 00:05:54</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>68</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-org-calvary-chapel-t-00-40-49">2026-04-14 · 00:40:49</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>72</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -52,6 +52,7 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-calvary-chapel-t-00-35-12" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-calvary-chapel-t-01-07-50" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-calvary-chapel-t-00-05-34" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-org-calvary-chapel-t-00-15-12" style="--pulse-height:20%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 4 mentions" title="2026-04-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -74,6 +75,7 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-calvary-chapel-t-00-35-12) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-calvary-chapel-t-01-07-50) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-org-calvary-chapel-t-00-05-34) | 1 |
+| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-calvary-chapel-t-00-15-12) | 4 |
 
 </details>
 </section>
@@ -81,7 +83,24 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (68)</strong></summary>
+<summary><strong class="section-title">Raw mentions (72)</strong></summary>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (4 mentions)</summary>
+
+**[00:15:29](/episodes/ep-jsqUIkszZd0.md#ent-org-calvary-chapel-t-00-15-12)**
+> "...nd began attending the nearby Calvary Chapel."
+
+**[00:16:10](/episodes/ep-jsqUIkszZd0.md#ent-org-calvary-chapel-t-00-15-53)**
+> ".... They were saved, of course. Calvary Chapel, as we have shown you in the past, has a long his..."
+
+**[00:16:23](/episodes/ep-jsqUIkszZd0.md#ent-org-calvary-chapel-t-00-15-53)**
+> "...story with faith started with Calvary Chapel checks. This makes sense to me."
+
+**[00:40:49](/episodes/ep-jsqUIkszZd0.md#ent-org-calvary-chapel-t-00-40-49)**
+> "... the background, history, the Calvary Chapel, Rob McCoy-type characters, their utterly bizarre..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
@@ -378,6 +397,18 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Attended By (1)</summary>
+
+- **[Victor Marx](/entities/person-victor-marx.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:15:29](/episodes/ep-jsqUIkszZd0.md#t-00-15-12): “he was stationed at Camp Pendleton in California and began attending the nearby Calvary Chapel.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Employs (1)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
@@ -422,7 +453,14 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
+
+- **[Victor Marx](/entities/person-victor-marx.md)** attended this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:15:29](/episodes/ep-jsqUIkszZd0.md#t-00-15-12): “he was stationed at Camp Pendleton in California and began attending the nearby Calvary Chapel.”
+
+</details>
 
 - **[Chuck Smith](/entities/person-chuck-smith.md)** founded this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>

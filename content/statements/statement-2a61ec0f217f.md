@@ -4,9 +4,10 @@ description: "\"Candace Owens accused Erika Kirk's events of using fake, pre-pla
 statement_id: "statement-2a61ec0f217f"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -33,7 +34,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Independent reporting documents student allegations that a TPUSA event with Erika Kirk used preselected participants and a curated Q-and-A format. That supports concerns about preplanning, but available evidence does not establish that all segments were fake or intended to create an illusion of open speech.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [TPUSA allegedly preselected participants for Erika Kirk and Karoline Leavitt Q-and-A](https://www.ibtimes.co.uk/controversy-tpusa-event-staged-qa-george-washington-university-1790244)
+
+*Verified: 2026-08-24T18:19:58.214376*
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "God"
-description: "God (Concepts) - 371 mentions"
+description: "God (Concepts) - 386 mentions"
 id: "concept-god"
 type: "CONCEPT"
 categories:
@@ -18,8 +18,8 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-57-16">2025-09-15 · 00:57:42</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-04-03-55">2026-08-14 · 04:03:55</a></strong></div>
-<div><span>Episodes</span><strong>72</strong></div>
-<div><span>Mentions</span><strong>371</strong></div>
+<div><span>Episodes</span><strong>73</strong></div>
+<div><span>Mentions</span><strong>386</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -101,6 +101,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-17-13" style="--pulse-height:13%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 4 mentions" title="2026-04-02 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#t-00-43-29" style="--pulse-height:8%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#t-00-12-56" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#t-00-02-52" style="--pulse-height:50%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 15 mentions" title="2026-04-14 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34" style="--pulse-height:13%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -178,6 +179,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-17-13) | 4 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#t-00-43-29) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#t-00-12-56) | 2 |
+| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#t-00-02-52) | 15 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34) | 4 |
 
 </details>
@@ -186,7 +188,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (371)</strong></summary>
+<summary><strong class="section-title">Raw mentions (386)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -202,6 +204,56 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 
 **[04:03:55](/episodes/ep-nPhCKwJ6ye8.md#t-04-03-55)**
 > "...eing said take care everybody god bless have a great weekend"
+
+</details>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (15 mentions)</summary>
+
+**[00:03:02](/episodes/ep-jsqUIkszZd0.md#t-00-02-52)**
+> "... feel when I'm speaking about God with other people. There's something about the ma..."
+
+**[00:07:21](/episodes/ep-jsqUIkszZd0.md#t-00-07-02)**
+> "...ht of the assassination, that God was calling him to run."
+
+**[00:22:29](/episodes/ep-jsqUIkszZd0.md#t-00-22-12)**
+> "...imed that he felt the hand of God on us and stated that he was told by God that an ..."
+
+**[00:23:39](/episodes/ep-jsqUIkszZd0.md#t-00-23-29)**
+> "...h the Marxes' conclusion that God was doing something significant, as the coinciden..."
+
+**[00:24:13](/episodes/ep-jsqUIkszZd0.md#t-00-24-13)**
+> "...tell him the truth about what God..."
+
+**[00:24:37](/episodes/ep-jsqUIkszZd0.md#t-00-24-13)**
+> "... the demons to tell them what God wants. Wow, that gives demons a lot of power."
+
+**[00:24:44](/episodes/ep-jsqUIkszZd0.md#t-00-24-13)**
+> "...e demons are telling you what God wants. Anyway, I digress."
+
+**[00:26:48](/episodes/ep-jsqUIkszZd0.md#t-00-26-48)**
+> "...'s just a theme. Visions from God, godly visions. This is what God wants you to do ..."
+
+**[00:30:29](/episodes/ep-jsqUIkszZd0.md#t-00-30-18)**
+> "...se fill him with your spirit, God."
+
+**[00:46:16](/episodes/ep-jsqUIkszZd0.md#t-00-45-51)**
+> "...icker dealer and then I found God. Wow. There's a lot of that going around here at ..."
+
+**[00:46:23](/episodes/ep-jsqUIkszZd0.md#t-00-45-51)**
+> "...I used to do and then I found God. What a perfect cover. Perfect cover to continual..."
+
+**[00:53:21](/episodes/ep-jsqUIkszZd0.md#t-00-53-21)**
+> "...stians despite openly mocking God and impersonating Christ. I don't wonder anymore...."
+
+**[00:54:36](/episodes/ep-jsqUIkszZd0.md#t-00-54-28)**
+> "God bless you and keep it coming in faith and prayer...."
+
+**[00:55:39](/episodes/ep-jsqUIkszZd0.md#t-00-55-39)**
+> "...ponse and loved it, as did I. God bless you. Stay you, crisis king. Love Jimmy Dore..."
+
+**[00:56:11](/episodes/ep-jsqUIkszZd0.md#t-00-55-39)**
+> "...e a female grunt that she was God. That is hilarious. I love hearing people watch t..."
 
 </details>
 

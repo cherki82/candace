@@ -1,6 +1,6 @@
 ---
 title: "United States Marine Corps"
-description: "United States Marine Corps (Organizations) - 43 mentions"
+description: "United States Marine Corps (Organizations) - 45 mentions"
 id: "org-united-states-marine-corps"
 type: "ORG"
 aliases:
@@ -26,11 +26,11 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#t-00-55-02">2025-09-22 · 00:55:07</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07">2026-08-14 · 03:04:07</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>43</strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>45</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>19</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -55,6 +55,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-16-35" style="--pulse-height:100%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 8 mentions" title="2026-03-11 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-united-states-marine-corps-t-00-15-03" style="--pulse-height:38%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-org-united-states-marine-corps-t-00-23-01" style="--pulse-height:38%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-org-united-states-marine-corps-t-00-15-12" style="--pulse-height:25%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07" style="--pulse-height:12%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -78,6 +79,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-16-35) | 8 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-united-states-marine-corps-t-00-15-03) | 3 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-united-states-marine-corps-t-00-23-01) | 3 |
+| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-united-states-marine-corps-t-00-15-12) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07) | 1 |
 
 </details>
@@ -86,13 +88,24 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+<summary><strong class="section-title">Raw mentions (45)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[03:04:07](/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07)**
 > "...ing forward uh we have former marines that have gotten on and said it looks to me like ..."
+
+</details>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (2 mentions)</summary>
+
+**[00:15:17](/episodes/ep-jsqUIkszZd0.md#ent-org-united-states-marine-corps-t-00-15-12)**
+> "...ctor (Victor Marx) joined the Marine Corps. To be clear, he only served for two years during..."
+
+**[00:56:21](/episodes/ep-jsqUIkszZd0.md#ent-org-united-states-marine-corps-t-00-56-21)**
+> "... my day. Wonder Woman writes, Marines only allow a minimum four-year enlistment."
 
 </details>
 
@@ -313,7 +326,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Formerly Employed (3)</summary>
+<summary>Formerly Employed (4)</summary>
 
 - **[Robert Eugene Flood](/entities/person-robert-eugene-flood.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -336,6 +349,13 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 
 </details>
 
+- **[Victor Marx](/entities/person-victor-marx.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:15:17](/episodes/ep-jsqUIkszZd0.md#t-00-15-12): “At the age of 18, Victor (Victor Marx) joined the Marine Corps. To be clear, he only served for two years during peacetime stateside, no deployments before he was discharged.”
+
+</details>
+
 </details>
 
 <details>
@@ -351,7 +371,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[Romanian Angels Project](/entities/org-romanian-angels-project.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -388,6 +408,13 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 
 </details>
 
+- **[Victor Marx](/entities/person-victor-marx.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:15:17](/episodes/ep-jsqUIkszZd0.md#t-00-15-12): “At the age of 18, Victor (Victor Marx) joined the Marine Corps. To be clear, he only served for two years during peacetime stateside, no deployments before he was discharged.”
+
+</details>
+
 - **[6th Marine Regiment](/entities/org-6th-marine-regiment.md)** member of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -418,7 +445,15 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Marine Corps (18)</strong></summary>
+<summary><strong class="section-title">Statements about United States Marine Corps (19)</strong></summary>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>
+
+- [00:15:17](/episodes/ep-jsqUIkszZd0.md#t-00-15-12) (Claim) **Candace Owens**: ["Victor Marx served two years in the Marine Corps during peacetime, sta..."](/statements/statement-0ede9e4686fc.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md)
+
+</details>
 
 <details>
 <summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (2)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Texas"
-description: "Texas (Places) - 69 mentions"
+description: "Texas (Places) - 77 mentions"
 id: "gpe-texas"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-texas-t-00-37-12">2025-10-09 · 00:37:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-texas-t-00-23-58">2026-04-01 · 00:24:09</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>69</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-texas-t-00-38-59">2026-04-14 · 00:39:25</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>77</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -49,6 +49,7 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-texas-t-00-03-27" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-texas-t-00-11-18" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-texas-t-00-10-19" style="--pulse-height:44%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 11 mentions" title="2026-04-01 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-texas-t-00-21-26" style="--pulse-height:32%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 8 mentions" title="2026-04-14 · 8 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -73,6 +74,7 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-texas-t-00-03-27) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-texas-t-00-11-18) | 2 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-gpe-texas-t-00-10-19) | 11 |
+| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-texas-t-00-21-26) | 8 |
 
 </details>
 </section>
@@ -80,7 +82,36 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (69)</strong></summary>
+<summary><strong class="section-title">Raw mentions (77)</strong></summary>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (8 mentions)</summary>
+
+**[00:21:42](/episodes/ep-jsqUIkszZd0.md#ent-gpe-texas-t-00-21-26)**
+> "...O of FoldAR, and I drove from Texas to Colorado Springs to provide a demo of the Fold..."
+
+**[00:25:29](/episodes/ep-jsqUIkszZd0.md#ent-gpe-texas-t-00-25-29)**
+> "...ms for Lindale High School in Texas, no further participation from their ministries w..."
+
+**[00:25:43](/episodes/ep-jsqUIkszZd0.md#ent-gpe-texas-t-00-25-29)**
+> "...nto the airport in Henderson, Texas, to tour the FoldAR facilities."
+
+**[00:36:53](/episodes/ep-jsqUIkszZd0.md#ent-gpe-texas-t-00-36-53)**
+> "...of his Fold ARs. And it was a Texas deputy, no less."
+
+**[00:37:09](/episodes/ep-jsqUIkszZd0.md#ent-gpe-texas-t-00-36-53)**
+> "...the 4th of July in 2024, that Texas deputy contacted Corby (Corby Hall) and he told h..."
+
+**[00:37:20](/episodes/ep-jsqUIkszZd0.md#ent-gpe-texas-t-00-36-53)**
+> "At a gas station in Midland, Texas, he said that he had accidentally left the car do..."
+
+**[00:37:34](/episodes/ep-jsqUIkszZd0.md#ent-gpe-texas-t-00-37-34)**
+> "And that Texas deputy then claimed that he reported it to local ..."
+
+**[00:39:25](/episodes/ep-jsqUIkszZd0.md#ent-gpe-texas-t-00-38-59)**
+> "...erson he sold the gun to, the Texas deputy sheriff guy."
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (11 mentions)</summary>

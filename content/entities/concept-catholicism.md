@@ -1,6 +1,6 @@
 ---
 title: "Catholicism"
-description: "Catholicism (Concepts) - 133 mentions"
+description: "Catholicism (Concepts) - 136 mentions"
 id: "concept-catholicism"
 type: "CONCEPT"
 aliases:
@@ -21,9 +21,9 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-catholicism-t-00-13-56">2026-01-06 · 00:14:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-catholicism-t-00-57-00">2026-04-13 · 00:57:23</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>133</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-concept-catholicism-t-00-55-02">2026-04-14 · 00:55:14</a></strong></div>
+<div><span>Episodes</span><strong>33</strong></div>
+<div><span>Mentions</span><strong>136</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -66,6 +66,7 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-catholicism-t-00-40-43" style="--pulse-height:78%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 14 mentions" title="2026-03-25 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-concept-catholicism-t-00-51-01" style="--pulse-height:28%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 5 mentions" title="2026-03-30 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-catholicism-t-00-51-58" style="--pulse-height:39%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 7 mentions" title="2026-04-13 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-concept-catholicism-t-00-54-28" style="--pulse-height:17%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 3 mentions" title="2026-04-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -103,6 +104,7 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-catholicism-t-00-40-43) | 14 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-concept-catholicism-t-00-51-01) | 5 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-concept-catholicism-t-00-51-58) | 7 |
+| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-concept-catholicism-t-00-54-28) | 3 |
 
 </details>
 </section>
@@ -110,7 +112,21 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (133)</strong></summary>
+<summary><strong class="section-title">Raw mentions (136)</strong></summary>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (3 mentions)</summary>
+
+**[00:54:55](/episodes/ep-jsqUIkszZd0.md#ent-concept-catholicism-t-00-54-28)**
+> "... scream the loudest about our Catholic priests, and I am so tired of it. Yes, there is a..."
+
+**[00:55:02](/episodes/ep-jsqUIkszZd0.md#ent-concept-catholicism-t-00-55-02)**
+> "...f these pastors talking about Catholicism in such a despicable way, and it is because their..."
+
+**[00:55:14](/episodes/ep-jsqUIkszZd0.md#ent-concept-catholicism-t-00-55-02)**
+> "...way, um, needs to go. And the Catholic Church has historically always stood in the way o..."
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (7 mentions)</summary>

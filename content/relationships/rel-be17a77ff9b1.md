@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Erika Kirk](/entities/person-erika-kirk) widow of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (33 mentions)
+### Evidence (34 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -120,6 +120,10 @@ object: "person-charlie-kirk"
 **[Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w)**
 
 - [00:01:52](/episodes/ep-jTj9Ip46r4w#t-00-01-52): _So Charlie (Charlie Kirk) was removed and in his place, we got a Shabbat Shalom and not so grieving widow._
+
+**[BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0)**
+
+- [00:02:22](/episodes/ep-jsqUIkszZd0#t-00-02-22): _during the memorial, same deal. She similarly said, and I quote, one moment Charlie (Charlie Kirk) was doing what he loved. He blinked and he saw his Savior in heaven. Now, that could be because Erika's (Erika Kirk's) not writing her own speeches, I'm told. Erika (Erika Kirk) didn't eulogize her own husband._
 
 **[WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4)**
 

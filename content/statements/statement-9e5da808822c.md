@@ -4,9 +4,10 @@ description: "\"Spencer Cox said investigators were shown Discord messages betwe
 statement_id: "statement-9e5da808822c"
 speaker: "Spencer Cox"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -36,7 +37,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The statement accurately summarizes the public press briefing: Cox described the roommate showing investigators purported Discord messages concerning a rifle drop point, a bush and towel, engravings, a scope, and changed clothing. Later reporting clarified that some described communications did not appear to be Discord messages, but the statement is about what Cox said.
+
+**Confidence:** High
+
+**Sources:**
+
+- [CNN transcript, The Situation Room, September 12, 2025](https://transcripts.cnn.com/show/sitroom/date/2025-09-12/segment/02)
+
+*Verified: 2026-08-24T18:19:55.197492*
 
 ---
 

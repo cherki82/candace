@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Charlie Kirk was assassinated at Utah Valley University.
 
-## Mentioned In (37 times)
+## Mentioned In (38 times)
 
 ### 1. You Won't Believe What Happened While We Were Off Air... | C...
 
@@ -308,3 +308,11 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(181);return false;">▶️ Play</a>
 
 > he's been dead for seven months and the crowd still moves on his behalf.
+
+### 38. BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wan...
+
+**Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
+**Timestamp:** [00:37:48](/episodes/ep-jsqUIkszZd0.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-37-34) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2268);return false;">▶️ Play</a>
+
+> September 10th, 2025, the morning of Charlie Kirk's assassination at 9.33 a.m. Central.

@@ -1,6 +1,6 @@
 ---
 title: "Colorado Springs"
-description: "Colorado Springs (Places) - 10 mentions"
+description: "Colorado Springs (Places) - 12 mentions"
 id: "gpe-colorado-springs"
 type: "GPE"
 categories:
@@ -18,12 +18,12 @@ Source: [City of Colorado Springs](https://coloradosprings.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-colorado-springs-t-00-43-45">2025-12-10 · 00:44:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-colorado-springs-t-00-16-07">2026-01-20 · 00:16:07</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-colorado-springs-t-00-26-14">2026-04-14 · 00:26:14</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -34,6 +34,7 @@ Source: [City of Colorado Springs](https://coloradosprings.gov/)
 <a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-colorado-springs-t-00-43-45" style="--pulse-height:50%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-colorado-springs-t-00-38-03" style="--pulse-height:100%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 6 mentions" title="2025-12-17 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-colorado-springs-t-00-16-07" style="--pulse-height:17%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-colorado-springs-t-00-21-26" style="--pulse-height:33%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +43,7 @@ Source: [City of Colorado Springs](https://coloradosprings.gov/)
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-colorado-springs-t-00-43-45) | 3 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-colorado-springs-t-00-38-03) | 6 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-colorado-springs-t-00-16-07) | 1 |
+| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-colorado-springs-t-00-21-26) | 2 |
 
 </details>
 </section>
@@ -49,7 +51,18 @@ Source: [City of Colorado Springs](https://coloradosprings.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (2 mentions)</summary>
+
+**[00:21:42](/episodes/ep-jsqUIkszZd0.md#ent-gpe-colorado-springs-t-00-21-26)**
+> "...AR, and I drove from Texas to Colorado Springs to provide a demo of the FoldAR to Mr."
+
+**[00:26:14](/episodes/ep-jsqUIkszZd0.md#ent-gpe-colorado-springs-t-00-26-14)**
+> "...ited me again to his house in Colorado Springs, requesting that I bring a 1,000-yard capable rif..."
+
+</details>
 
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
@@ -101,12 +114,42 @@ Source: [City of Colorado Springs](https://coloradosprings.gov/)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Residence Of (1)</summary>
+
+- **[Victor Marx](/entities/person-victor-marx.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:21:42](/episodes/ep-jsqUIkszZd0.md#t-00-21-26): “He writes that on or about December 1st, 2023, at the request of Victor Marx, Melody (Corby Hall's wife and FoldAR COO; surname unverified), my then-girlfriend, who earned her place as COO of FoldAR, and I drove from Texas to Colorado Springs to provide a demo of the FoldAR to Mr. ... During our demo at his home base gun range, Mr. Marx (Victor Marx) approached me separately and asked if I would make a signature series rifle for him.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Victor Marx](/entities/person-victor-marx.md)** lives in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:21:42](/episodes/ep-jsqUIkszZd0.md#t-00-21-26): “He writes that on or about December 1st, 2023, at the request of Victor Marx, Melody (Corby Hall's wife and FoldAR COO; surname unverified), my then-girlfriend, who earned her place as COO of FoldAR, and I drove from Texas to Colorado Springs to provide a demo of the FoldAR to Mr. ... During our demo at his home base gun range, Mr. Marx (Victor Marx) approached me separately and asked if I would make a signature series rifle for him.”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Colorado Springs (2)</strong></summary>
+<summary><strong class="section-title">Statements about Colorado Springs (3)</strong></summary>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>
+
+- [00:21:42](/episodes/ep-jsqUIkszZd0.md#t-00-21-26) (Claim) **Corby Hall** (via quoted document): ["On or about December 1, 2023, Corby Hall and FoldAR's COO drove from T..."](/statements/statement-2997026f4b2f.md)
+  - Also about: [Corby Hall](/entities/person-corby-hall.md), [Victor Marx](/entities/person-victor-marx.md), [FoldAR](/entities/org-foldar.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2)</summary>

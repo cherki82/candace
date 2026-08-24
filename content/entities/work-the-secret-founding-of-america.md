@@ -1,6 +1,6 @@
 ---
 title: "The Secret Founding of America"
-description: "The Secret Founding of America (Works & Media) - 5 mentions"
+description: "The Secret Founding of America (Works & Media) - 6 mentions"
 id: "work-the-secret-founding-of-america"
 type: "WORK"
 categories:
@@ -19,9 +19,9 @@ Source: [The Secret Founding of America by Nicholas Hagger](https://www.penguin.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-work-the-secret-founding-of-america-t-00-44-52">2026-02-11 · 00:45:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UYkXV9mYbT4.md#ent-work-the-secret-founding-of-america-t-01-03-14">2026-03-31 · 01:03:49</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-work-the-secret-founding-of-america-t-00-54-28">2026-04-14 · 00:54:28</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -37,6 +37,7 @@ Source: [The Secret Founding of America by Nicholas Hagger](https://www.penguin.
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-work-the-secret-founding-of-america-t-00-58-52" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-work-the-secret-founding-of-america-t-01-01-59" style="--pulse-height:100%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-work-the-secret-founding-of-america-t-01-03-14" style="--pulse-height:100%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-work-the-secret-founding-of-america-t-00-54-28" style="--pulse-height:100%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [The Secret Founding of America by Nicholas Hagger](https://www.penguin.
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-work-the-secret-founding-of-america-t-00-58-52) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-work-the-secret-founding-of-america-t-01-01-59) | 1 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-work-the-secret-founding-of-america-t-01-03-14) | 1 |
+| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-work-the-secret-founding-of-america-t-00-54-28) | 1 |
 
 </details>
 </section>
@@ -54,7 +56,15 @@ Source: [The Secret Founding of America by Nicholas Hagger](https://www.penguin.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1 mentions)</summary>
+
+**[00:54:28](/episodes/ep-jsqUIkszZd0.md#ent-work-the-secret-founding-of-america-t-00-54-28)**
+> "...what we're reading right now, The Secret Founding of America. It is fascinating."
+
+</details>
 
 <details>
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>

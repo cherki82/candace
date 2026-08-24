@@ -4,9 +4,10 @@ description: "\"Discord says there is no evidence that the suspect planned this 
 statement_id: "statement-6fbddf863af1"
 speaker: "Discord"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -44,7 +45,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Transcript context quotes the Discord statement accurately. AP independently reported that Discord said the messages described by authorities did not appear to be Discord messages and that it found no evidence Robinson planned the incident or promoted violence on Discord.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Man arrested in Charlie Kirk killing had no known criminal history, had become more political](https://apnews.com/article/d893cc16fb0937d507283c710c551ef0)
+
+*Verified: 2026-08-24T18:19:07.498745*
 
 ---
 

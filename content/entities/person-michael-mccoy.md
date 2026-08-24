@@ -1,6 +1,6 @@
 ---
 title: "Michael McCoy"
-description: "Michael McCoy (People) - 256 mentions"
+description: "Michael McCoy (People) - 259 mentions"
 id: "person-michael-mccoy"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-michael-mccoy-t-00-19-30">2025-10-01 · 00:19:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-michael-mccoy-t-00-51-08">2026-04-02 · 00:51:29</a></strong></div>
-<div><span>Episodes</span><strong>46</strong></div>
-<div><span>Mentions</span><strong>256</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-michael-mccoy-t-00-04-48">2026-04-14 · 00:04:48</a></strong></div>
+<div><span>Episodes</span><strong>47</strong></div>
+<div><span>Mentions</span><strong>259</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>47</strong></div>
+<div><span>Statements about</span><strong>48</strong></div>
 <div><span>Relationships</span><strong>21</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -83,6 +83,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-michael-mccoy-t-00-12-37" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-michael-mccoy-t-00-19-58" style="--pulse-height:18%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 7 mentions" title="2026-03-30 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-michael-mccoy-t-00-00-22" style="--pulse-height:23%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 9 mentions" title="2026-04-02 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-person-michael-mccoy-t-00-04-09" style="--pulse-height:8%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 3 mentions" title="2026-04-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -134,6 +135,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-michael-mccoy-t-00-12-37) | 2 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-michael-mccoy-t-00-19-58) | 7 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-michael-mccoy-t-00-00-22) | 9 |
+| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-michael-mccoy-t-00-04-09) | 3 |
 
 </details>
 </section>
@@ -141,7 +143,21 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (256)</strong></summary>
+<summary><strong class="section-title">Raw mentions (259)</strong></summary>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (3 mentions)</summary>
+
+**[00:04:09](/episodes/ep-jsqUIkszZd0.md#ent-person-michael-mccoy-t-00-04-09)**
+> "...ses and more crucially, after Mikey McCoy becomes the chief of staff in January of 2024, Ch..."
+
+**[00:04:34](/episodes/ep-jsqUIkszZd0.md#ent-person-michael-mccoy-t-00-04-09)**
+> "Now, prior to Mikey McCoy's appointment, because I had to go back further in ..."
+
+**[00:04:48](/episodes/ep-jsqUIkszZd0.md#ent-person-michael-mccoy-t-00-04-48)**
+> "But once Mikey McCoy is now the chief of staff in January of 2024, aga..."
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (9 mentions)</summary>
@@ -1162,10 +1178,11 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <summary>Chief Of Staff To (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:02:11](/episodes/ep-c5BcKF91iec.md#t-00-01-39): “Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff.”
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:03:01](/episodes/ep-Qfwr08Ebczo.md#t-00-02-50): “And my husband's chief of staff, the amazing Mikey McCoy”
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:04:09](/episodes/ep-jsqUIkszZd0.md#t-00-04-09): “after Mikey McCoy becomes the chief of staff in January of 2024, Charlie (Charlie Kirk) suddenly his schedule is beginning to mirror these Egyptian planes.”
 
 </details>
 
@@ -1324,10 +1341,11 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** has chief of staff this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:02:11](/episodes/ep-c5BcKF91iec.md#t-00-01-39): “Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff.”
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:03:01](/episodes/ep-Qfwr08Ebczo.md#t-00-02-50): “And my husband's chief of staff, the amazing Mikey McCoy”
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:04:09](/episodes/ep-jsqUIkszZd0.md#t-00-04-09): “after Mikey McCoy becomes the chief of staff in January of 2024, Charlie (Charlie Kirk) suddenly his schedule is beginning to mirror these Egyptian planes.”
 
 </details>
 
@@ -1410,7 +1428,15 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Michael McCoy (47)</strong></summary>
+<summary><strong class="section-title">Statements about Michael McCoy (48)</strong></summary>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>
+
+- [00:04:09](/episodes/ep-jsqUIkszZd0.md#t-00-04-09) (Claim) **Candace Owens**: ["After Michael McCoy became Charlie Kirk's chief of staff in January 20..."](/statements/statement-fd9c61e02576.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (3)</summary>

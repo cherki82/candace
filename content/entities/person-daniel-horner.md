@@ -1,0 +1,88 @@
+---
+title: "Daniel Horner"
+description: "Daniel Horner (People) - 1 mention"
+id: "person-daniel-horner"
+type: "PERSON"
+categories:
+  - "competitive shooter"
+  - "Team SIG athlete"
+---
+
+_Type: People_
+
+**Categories:** competitive shooter, Team SIG athlete
+
+**Entity verification:** verified
+> Official SIG SAUER company news identifies Daniel Horner as a Team SIG competitive shooter.
+Source: [Company News | SIG SAUER](https://www.sigsauer.com/blog/category/company-news)
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-daniel-horner-t-00-32-54">2026-04-14 · 00:32:54</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-daniel-horner-t-00-32-54">2026-04-14 · 00:32:54</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>1</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-jsqUIkszZd0.md#ent-person-daniel-horner-t-00-32-54">BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324</a> (1 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-person-daniel-horner-t-00-32-54" style="--pulse-height:100%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-daniel-horner-t-00-32-54) | 1 |
+
+</details>
+</section>
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details>
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1 mentions)</summary>
+
+**[00:32:54](/episodes/ep-jsqUIkszZd0.md#ent-person-daniel-horner-t-00-32-54)**
+> "... Sauer and their top shooter, Daniel Horner, who Mr."
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Affiliated With (1)</summary>
+
+- **[SIG SAUER](/entities/org-sig-sauer.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:32:54](/episodes/ep-jsqUIkszZd0.md#t-00-32-54): “As part of this, Mr. Marx (Victor Marx) revealed that he was discussing the acquisition with SIG Sauer and their top shooter, Daniel Horner, who Mr. Marx stated had received and tested the FoldAR and had given the thumbs-up for SIG's involvement.”
+
+</details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Daniel Horner (1)</strong></summary>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>
+
+- [00:32:54](/episodes/ep-jsqUIkszZd0.md#t-00-32-54) (Claim) **Victor Marx** (via quoted document): ["Victor Marx told Corby Hall that SIG Sauer and Daniel Horner were disc..."](/statements/statement-2a8ed0098674.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [SIG SAUER](/entities/org-sig-sauer.md), [FoldAR](/entities/org-foldar.md)
+
+</details>
+
+</details>

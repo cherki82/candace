@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "United States (Places) - 1469 mentions"
+description: "United States (Places) - 1483 mentions"
 id: "gpe-united-states"
 type: "GPE"
 aliases:
@@ -30,10 +30,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-gpe-united-states-t-00-01-09">2025-09-15 · 00:01:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-01-19-17">2026-08-14 · 01:19:28</a></strong></div>
-<div><span>Episodes</span><strong>94</strong></div>
-<div><span>Mentions</span><strong>1,469</strong></div>
+<div><span>Episodes</span><strong>95</strong></div>
+<div><span>Mentions</span><strong>1,483</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>95</strong></div>
+<div><span>Statements about</span><strong>96</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -135,6 +135,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-48-40" style="--pulse-height:29%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 11 mentions" title="2026-04-02 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-12-12" style="--pulse-height:63%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 24 mentions" title="2026-04-10 · 24 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-00-53-40" style="--pulse-height:26%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 10 mentions" title="2026-04-13 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-united-states-t-00-03-34" style="--pulse-height:37%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 14 mentions" title="2026-04-14 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-00-28-12" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -234,6 +235,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-48-40) | 11 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-12-12) | 24 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-00-53-40) | 10 |
+| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-united-states-t-00-03-34) | 14 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-00-28-12) | 3 |
 
 </details>
@@ -242,7 +244,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1469)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1483)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -255,6 +257,53 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[01:19:28](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-01-19-17)**
 > "Kits are available for United States residents only."
+
+</details>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (14 mentions)</summary>
+
+**[00:03:46](/episodes/ep-jsqUIkszZd0.md#ent-gpe-united-states-t-00-03-34)**
+> "...tern. Is products moving into United States?"
+
+**[00:03:56](/episodes/ep-jsqUIkszZd0.md#ent-gpe-united-states-t-00-03-34)**
+> "Is it moving out of the United States? That's what I saw just when I looked through it ..."
+
+**[00:23:29](/episodes/ep-jsqUIkszZd0.md#ent-gpe-united-states-t-00-23-29)**
+> "...hool resource officers around the country."
+
+**[00:25:17](/episodes/ep-jsqUIkszZd0.md#ent-gpe-united-states-t-00-24-53)**
+> "...rx) went on Sebastian Gorka's America First show with Melody (Corby Hall's wife and Fol..."
+
+**[00:28:51](/episodes/ep-jsqUIkszZd0.md#ent-gpe-united-states-t-00-28-51)**
+> "The FAA has banned U.S. flights to Haiti after three planes were hit by g..."
+
+**[00:29:04](/episodes/ep-jsqUIkszZd0.md#ent-gpe-united-states-t-00-28-51)**
+> "After a visit from an American missionary, that gang leader is now pledging to p..."
+
+**[00:30:06](/episodes/ep-jsqUIkszZd0.md#ent-gpe-united-states-t-00-29-57)**
+> "He faces sanctions from the U.S. and the United Nations. Entering his territory un..."
+
+**[00:43:52](/episodes/ep-jsqUIkszZd0.md#ent-gpe-united-states-t-00-43-50)**
+> "...had sent all of these guns to American protesters. We had sent all of these guns so they..."
+
+**[00:45:51](/episodes/ep-jsqUIkszZd0.md#ent-gpe-united-states-t-00-45-51)**
+> "So like the American government, is that what we're talking about? Is ..."
+
+**[00:49:02](/episodes/ep-jsqUIkszZd0.md#ent-gpe-united-states-t-00-45-51)**
+> "...want to remind you guys about American Financing because between groceries, travel, and ..."
+
+**[00:49:11](/episodes/ep-jsqUIkszZd0.md#ent-gpe-united-states-t-00-45-51)**
+> "...ve considered reaching out to American Financing but maybe hesitated because you didn't ..."
+
+**[00:49:22](/episodes/ep-jsqUIkszZd0.md#ent-gpe-united-states-t-00-45-51)**
+> "...ll, that's exactly the reason American Financing created the Smart Equity Loan, which is..."
+
+**[00:49:44](/episodes/ep-jsqUIkszZd0.md#ent-gpe-united-states-t-00-45-51)**
+> "...d out if you qualify, so call American Financing today at 800-795-1210."
+
+**[00:54:28](/episodes/ep-jsqUIkszZd0.md#ent-gpe-united-states-t-00-45-51)**
+> "...t now, The Secret Founding of America. It is fascinating."
 
 </details>
 
@@ -2957,7 +3006,15 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States (95)</strong></summary>
+<summary><strong class="section-title">Statements about United States (96)</strong></summary>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>
+
+- [00:43:08](/episodes/ep-jsqUIkszZd0.md#t-00-43-08) (Claim) **Donald J. Trump**: ["The United States sent many guns intended for Iranian protesters, but ..."](/statements/statement-058aea3e3931.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md)
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>

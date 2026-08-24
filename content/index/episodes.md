@@ -2,7 +2,7 @@
 title: "Episodes"
 ---
 
-_Total episodes: 101_
+_Total episodes: 102_
 
 <div class="page-filter-container">
   <input type="text" class="page-filter" placeholder="Filter episodes..." autocomplete="off">
@@ -29,6 +29,7 @@ _Total episodes: 101_
 
 ## Week of Apr 13 - 19, 2026
 
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md) — Tue, Apr 14
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md) — Mon, Apr 13
 
 ## Week of Apr 06 - 12, 2026

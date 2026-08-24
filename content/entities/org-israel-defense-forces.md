@@ -1,6 +1,6 @@
 ---
 title: "Israel Defense Forces"
-description: "Israel Defense Forces (Organizations) - 13 mentions"
+description: "Israel Defense Forces (Organizations) - 16 mentions"
 id: "org-israel-defense-forces"
 type: "ORG"
 aliases:
@@ -25,11 +25,11 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-israel-defense-forces-t-00-07-51">2026-01-09 · 00:08:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-org-israel-defense-forces-t-00-25-03">2026-03-30 · 00:25:45</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-org-israel-defense-forces-t-00-53-48">2026-04-14 · 00:53:48</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -45,6 +45,7 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-israel-defense-forces-t-00-37-50" style="--pulse-height:40%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-israel-defense-forces-t-00-11-11" style="--pulse-height:20%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-org-israel-defense-forces-t-00-25-03" style="--pulse-height:40%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-org-israel-defense-forces-t-00-33-38" style="--pulse-height:60%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 3 mentions" title="2026-04-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +58,7 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-israel-defense-forces-t-00-37-50) | 2 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-israel-defense-forces-t-00-11-11) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-israel-defense-forces-t-00-25-03) | 2 |
+| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-israel-defense-forces-t-00-33-38) | 3 |
 
 </details>
 </section>
@@ -64,7 +66,21 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (3 mentions)</summary>
+
+**[00:33:38](/episodes/ep-jsqUIkszZd0.md#ent-org-israel-defense-forces-t-00-33-38)**
+> "...this, he then stated that the IDF needed my guns."
+
+**[00:36:33](/episodes/ep-jsqUIkszZd0.md#ent-org-israel-defense-forces-t-00-36-14)**
+> "Allegedly, allegedly, for the IDF to send 50,000 weapons overseas. But this has cau..."
+
+**[00:53:48](/episodes/ep-jsqUIkszZd0.md#ent-org-israel-defense-forces-t-00-53-48)**
+> "...t? Compulsory to serve in the IDF and people that are committing suicide when they ..."
+
+</details>
 
 <details>
 <summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (2 mentions)</summary>
@@ -259,7 +275,15 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel Defense Forces (8)</strong></summary>
+<summary><strong class="section-title">Statements about Israel Defense Forces (9)</strong></summary>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>
+
+- [00:33:38](/episodes/ep-jsqUIkszZd0.md#t-00-33-38) (Accusation) **Victor Marx** (via quoted document): ["Victor Marx told Corby Hall that the Israel Defense Forces needed 50,0..."](/statements/statement-dba8703fc693.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [FoldAR](/entities/org-foldar.md), [Gaza](/entities/gpe-gaza.md)
+
+</details>
 
 <details>
 <summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1)</summary>

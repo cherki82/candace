@@ -237,7 +237,7 @@ _No relationships extracted yet._
 <details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1)</summary>
 
-- [00:54:24](/episodes/ep-czVBmqZP6Ss.md#t-00-54-20) [○] (Claim) ["Discord says there is no evidence that the suspect planned this incident or prom..."](/statements/statement-6fbddf863af1.md)
+- [00:54:24](/episodes/ep-czVBmqZP6Ss.md#t-00-54-20) [✓] (Claim) ["Discord says there is no evidence that the suspect planned this incident or prom..."](/statements/statement-6fbddf863af1.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>

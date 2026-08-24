@@ -1,6 +1,6 @@
 ---
 title: "American Financing"
-description: "American Financing (Organizations) - 275 mentions"
+description: "American Financing (Organizations) - 280 mentions"
 id: "org-american-financing"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-56-30">2025-09-15 · 00:56:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-50-35">2026-04-13 · 00:50:56</a></strong></div>
-<div><span>Episodes</span><strong>69</strong></div>
-<div><span>Mentions</span><strong>275</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-org-american-financing-t-00-49-50">2026-04-14 · 00:49:50</a></strong></div>
+<div><span>Episodes</span><strong>70</strong></div>
+<div><span>Mentions</span><strong>280</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -105,6 +105,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-american-financing-t-00-49-14" style="--pulse-height:62%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 5 mentions" title="2026-04-02 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-american-financing-t-00-40-28" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 4 mentions" title="2026-04-10 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-49-56" style="--pulse-height:62%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 5 mentions" title="2026-04-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-org-american-financing-t-00-48-32" style="--pulse-height:62%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 5 mentions" title="2026-04-14 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -179,6 +180,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-american-financing-t-00-49-14) | 5 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-american-financing-t-00-40-28) | 4 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-49-56) | 5 |
+| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-american-financing-t-00-48-32) | 5 |
 
 </details>
 </section>
@@ -186,7 +188,27 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (275)</strong></summary>
+<summary><strong class="section-title">Raw mentions (280)</strong></summary>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (5 mentions)</summary>
+
+**[00:49:02](/episodes/ep-jsqUIkszZd0.md#ent-org-american-financing-t-00-48-32)**
+> "...want to remind you guys about American Financing because between groceries, travel, and higher pri..."
+
+**[00:49:11](/episodes/ep-jsqUIkszZd0.md#ent-org-american-financing-t-00-49-11)**
+> "...ve considered reaching out to American Financing but maybe hesitated because you didn't want to gi..."
+
+**[00:49:22](/episodes/ep-jsqUIkszZd0.md#ent-org-american-financing-t-00-49-11)**
+> "...ll, that's exactly the reason American Financing created the Smart Equity Loan, which is a simple,..."
+
+**[00:49:44](/episodes/ep-jsqUIkszZd0.md#ent-org-american-financing-t-00-49-11)**
+> "...d out if you qualify, so call American Financing today at 800-795-1210."
+
+**[00:49:50](/episodes/ep-jsqUIkszZd0.md#ent-org-american-financing-t-00-49-50)**
+> "... that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing...."
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (5 mentions)</summary>

@@ -4,9 +4,10 @@ description: "\"Candace Owens said a defense motion indicates Tyler Robinson had
 statement_id: "statement-d2e836242bc0"
 speaker: "Candace Owens"
 type: "citation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -33,7 +34,20 @@ type: "citation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+A defense filing records a 6:25 p.m. Miranda warning on the evening of arrest, and the defense-linked reading places it on September 11. Later officials and preliminary-hearing testimony place voluntary arrival near 9 p.m. and dispute that date inference. The 6:25 warning is documented, but the September 11 police-station conclusion remains contested.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [A Hole in the Open-and-Shut Case Against Charlie Kirk Alleged Assassin?](https://prospect.org/2026/04/15/hole-in-open-and-shut-case-against-charlie-kirks-alleged-assassin-tyler-robinson/)
+
+*Verified: 2026-08-24T18:19:10.682432*
 
 ---
 

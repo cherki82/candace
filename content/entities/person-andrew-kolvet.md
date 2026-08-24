@@ -2506,7 +2506,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>
 
-- [00:14:10](/episodes/ep-eLgD5yUVbko.md#t-00-13-39) [○] (Claim) ["Andrew Kolvet said Turning Point USA had been pitched multiple times on a "weird..."](/statements/statement-516fcc69ba15.md)
+- [00:14:10](/episodes/ep-eLgD5yUVbko.md#t-00-13-39) [✓] (Claim) ["Andrew Kolvet said Turning Point USA had been pitched multiple times on a "weird..."](/statements/statement-516fcc69ba15.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Artificial intelligence](/entities/concept-artificial-intelligence.md)
 
 </details>

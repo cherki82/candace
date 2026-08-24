@@ -4,9 +4,10 @@ description: "\"Donald Trump claimed that Pope Leo XIV was chosen because he was
 statement_id: "statement-4b315897c442"
 speaker: "Donald J. Trump"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -38,7 +39,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+AP reports the full Truth Social assertion, including that Leo was chosen because he was American as a way to deal with Trump and would not be in the Vatican without Trump in the White House. The episode ASR incorrectly rendered was not American, but the extracted statement correctly reflects the original post.
+
+**Confidence:** High
+
+**Sources:**
+
+- [The Trump and Leo chronicles: A president and a pope square off over Iran and its aftermath](https://apnews.com/article/c9a721a132f1941eaebc139e1213937d)
+
+*Verified: 2026-08-24T18:19:56.990302*
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Donald J. Trump"
-description: "Donald J. Trump (People) - 522 mentions"
+description: "Donald J. Trump (People) - 529 mentions"
 id: "person-donald-trump"
 type: "PERSON"
 aliases:
@@ -29,10 +29,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-t-00-19-31">2025-09-11 · 00:08:08</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-donald-trump-t-02-34-47">2026-08-14 · 02:34:47</a></strong></div>
-<div><span>Episodes</span><strong>80</strong></div>
-<div><span>Mentions</span><strong>522</strong></div>
-<div><span>Statements by</span><strong>24</strong></div>
-<div><span>Statements about</span><strong>126</strong></div>
+<div><span>Episodes</span><strong>81</strong></div>
+<div><span>Mentions</span><strong>529</strong></div>
+<div><span>Statements by</span><strong>25</strong></div>
+<div><span>Statements about</span><strong>127</strong></div>
 <div><span>Relationships</span><strong>95</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -120,6 +120,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-donald-trump-t-00-44-43" style="--pulse-height:27%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 13 mentions" title="2026-04-02 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-donald-trump-t-00-00-01" style="--pulse-height:100%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 48 mentions" title="2026-04-10 · 48 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-donald-trump-t-00-00-01" style="--pulse-height:35%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 17 mentions" title="2026-04-13 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-person-donald-trump-t-00-42-12" style="--pulse-height:15%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 7 mentions" title="2026-04-14 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-donald-trump-t-02-21-59" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -205,6 +206,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-donald-trump-t-00-44-43) | 13 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-donald-trump-t-00-00-01) | 48 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-donald-trump-t-00-00-01) | 17 |
+| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-donald-trump-t-00-42-12) | 7 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-donald-trump-t-02-21-59) | 4 |
 
 </details>
@@ -213,7 +215,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (522)</strong></summary>
+<summary><strong class="section-title">Raw mentions (529)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -229,6 +231,32 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 **[02:34:47](/episodes/ep-nPhCKwJ6ye8.md#ent-person-donald-trump-t-02-34-47)**
 > "Trump's office,"
+
+</details>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (7 mentions)</summary>
+
+**[00:42:12](/episodes/ep-jsqUIkszZd0.md#ent-person-donald-trump-t-00-42-12)**
+> "... you how real this is, Trump (Donald J. Trump) accidentally admitted that we sent arms to prote..."
+
+**[00:42:52](/episodes/ep-jsqUIkszZd0.md#ent-person-donald-trump-t-00-42-52)**
+> "Well, yeah, then Trump (Donald J. Trump) accidentally—and it was quite stunning—admitted ..."
+
+**[00:43:02](/episodes/ep-jsqUIkszZd0.md#ent-person-donald-trump-t-00-42-52)**
+> "Take a listen to what Trump (Donald J. Trump) said during the White House Easter celebration."
+
+**[00:44:32](/episodes/ep-jsqUIkszZd0.md#ent-person-donald-trump-t-00-44-32)**
+> "...dle East. And now that Trump (Donald J. Trump) has made that a mission."
+
+**[00:44:55](/episodes/ep-jsqUIkszZd0.md#ent-person-donald-trump-t-00-44-32)**
+> "...e follow up questions, Trump (Donald J. Trump)."
+
+**[00:52:51](/episodes/ep-jsqUIkszZd0.md#ent-person-donald-trump-t-00-52-44)**
+> "...hat the point was when Trump (Donald J. Trump) is now just doing everything that the Russiagate..."
+
+**[00:55:39](/episodes/ep-jsqUIkszZd0.md#ent-person-donald-trump-t-00-55-39)**
+> "...-up. Jimmy Dore reviewed your Trump response and loved it, as did I. God bless you. S..."
 
 </details>
 
@@ -2997,7 +3025,15 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Donald J. Trump (24)</strong></summary>
+<summary><strong class="section-title">Statements by Donald J. Trump (25)</strong></summary>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>
+
+- [00:43:08](/episodes/ep-jsqUIkszZd0.md#t-00-43-08) [○] (Claim) ["The United States sent many guns intended for Iranian protesters, but the group ..."](/statements/statement-058aea3e3931.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md), [United States](/entities/gpe-united-states.md)
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (3)</summary>
@@ -3005,10 +3041,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [00:52:55](/episodes/ep-eLgD5yUVbko.md#t-00-52-23) [○] (Opinion) ["Pope Leo XIV is weak on crime and terrible for foreign policy, and wrongly accep..."](/statements/statement-131150fb7620.md)
   - About: [Pope Leo XIV](/entities/person-pope-leo-xiv.md), [Iran](/entities/gpe-iran.md)
 
-- [00:53:57](/episodes/ep-eLgD5yUVbko.md#t-00-53-40) [○] (Claim) ["Donald Trump claimed that Pope Leo XIV was chosen because he was American and th..."](/statements/statement-4b315897c442.md)
+- [00:53:57](/episodes/ep-eLgD5yUVbko.md#t-00-53-40) [✓] (Claim) ["Donald Trump claimed that Pope Leo XIV was chosen because he was American and th..."](/statements/statement-4b315897c442.md)
   - About: [Pope Leo XIV](/entities/person-pope-leo-xiv.md), [Donald J. Trump](/entities/person-donald-trump.md), [Catholic Church](/entities/org-catholic-church.md)
 
-- [01:01:04](/episodes/ep-eLgD5yUVbko.md#t-01-00-59) [○] (Claim) ["Donald Trump said he posted an AI image because he thought it depicted him as a ..."](/statements/statement-90beac51be54.md)
+- [01:01:04](/episodes/ep-eLgD5yUVbko.md#t-01-00-59) [✓] (Claim) ["Donald Trump said he posted an AI image because he thought it depicted him as a ..."](/statements/statement-90beac51be54.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [American Red Cross](/entities/org-american-red-cross.md), [Jesus Christ](/entities/person-jesus-christ.md)
 
 </details>
@@ -3124,13 +3160,21 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Donald J. Trump (126)</strong></summary>
+<summary><strong class="section-title">Statements about Donald J. Trump (127)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
 
 - [02:21:45](/episodes/ep-nPhCKwJ6ye8.md#t-02-21-45) (Claim) **Candace Owens**: ["Candace Owens reported the alleged French Foreign Legion threat to Tul..."](/statements/statement-09827ba5d6e7.md)
   - Also about: [Tulsi Gabbard](/entities/person-tulsi-gabbard.md), [French Foreign Legion](/entities/org-french-foreign-legion.md)
+
+</details>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>
+
+- [00:43:08](/episodes/ep-jsqUIkszZd0.md#t-00-43-08) (Claim) **Donald J. Trump**: ["The United States sent many guns intended for Iranian protesters, but ..."](/statements/statement-058aea3e3931.md)
+  - Also about: [Iran](/entities/gpe-iran.md), [United States](/entities/gpe-united-states.md)
 
 </details>
 

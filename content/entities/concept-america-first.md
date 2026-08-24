@@ -12,6 +12,8 @@ _Type: Concepts_
 
 **Categories:** political slogan, United States politics
 
+> **Possibly overlapping entity records:** [America First with Sebastian Gorka](/entities/work-america-first-with-sebastian-gorka). These records share a name or alias; compare their histories before treating either count as complete.
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-america-first-t-00-37-22">2026-01-12 · 00:37:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-america-first-t-00-19-17">2026-04-10 · 00:19:51</a></strong></div>

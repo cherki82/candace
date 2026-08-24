@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk"
-description: "Charlie Kirk (People) - 4217 mentions"
+description: "Charlie Kirk (People) - 4239 mentions"
 id: "person-charlie-kirk"
 type: "PERSON"
 categories:
@@ -19,10 +19,10 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-charlie-kirk-t-00-00-01">2025-09-11 · 00:00:03</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-04-03-19">2026-08-14 · 04:03:19</a></strong></div>
-<div><span>Episodes</span><strong>101</strong></div>
-<div><span>Mentions</span><strong>4,217</strong></div>
+<div><span>Episodes</span><strong>102</strong></div>
+<div><span>Mentions</span><strong>4,239</strong></div>
 <div><span>Statements by</span><strong>60</strong></div>
-<div><span>Statements about</span><strong>880</strong></div>
+<div><span>Statements about</span><strong>883</strong></div>
 <div><span>Relationships</span><strong>205</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -131,6 +131,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-charlie-kirk-t-00-07-09" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 5 mentions" title="2026-04-02 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-charlie-kirk-t-00-02-27" style="--pulse-height:8%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 6 mentions" title="2026-04-10 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-charlie-kirk-t-00-13-39" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 4 mentions" title="2026-04-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-person-charlie-kirk-t-00-01-22" style="--pulse-height:20%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 22 mentions" title="2026-04-14 · 22 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-25-19" style="--pulse-height:84%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 92 mentions" title="2026-08-14 · 92 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -237,6 +238,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-charlie-kirk-t-00-07-09) | 5 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-charlie-kirk-t-00-02-27) | 6 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-charlie-kirk-t-00-13-39) | 4 |
+| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-charlie-kirk-t-00-01-22) | 22 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-25-19) | 92 |
 
 </details>
@@ -249,7 +251,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4217)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4239)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (92 mentions)</summary>
@@ -529,6 +531,77 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 **[04:03:19](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-04-03-19)**
 > "... love and respect we have for Charlie Kirk,"
+
+</details>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (22 mentions)</summary>
+
+**[00:01:22](/episodes/ep-jsqUIkszZd0.md#ent-person-charlie-kirk-t-00-01-22)**
+> "...ft the organization, Charlie (Charlie Kirk) had just met Erika (Erika Kirk), a young woman w..."
+
+**[00:02:07](/episodes/ep-jsqUIkszZd0.md#ent-person-charlie-kirk-t-00-02-07)**
+> "...e Neff—that, quote, "Charlie (Charlie Kirk) witnessed for his Lord and Savior, Jesus Christ...."
+
+**[00:02:22](/episodes/ep-jsqUIkszZd0.md#ent-person-charlie-kirk-t-00-02-07)**
+> "... I quote, one moment Charlie (Charlie Kirk) was doing what he loved. He blinked and he saw h..."
+
+**[00:04:09](/episodes/ep-jsqUIkszZd0.md#ent-person-charlie-kirk-t-00-04-09)**
+> "... in January of 2024, Charlie (Charlie Kirk) suddenly his schedule is beginning to mirror the..."
+
+**[00:04:48](/episodes/ep-jsqUIkszZd0.md#ent-person-charlie-kirk-t-00-04-48)**
+> "... seems like suddenly Charlie (Charlie Kirk) is just doing a lot in Kansas and in Nebraska an..."
+
+**[00:05:49](/episodes/ep-jsqUIkszZd0.md#ent-person-charlie-kirk-t-00-05-49)**
+> "...d tell the truth for Charlie (Charlie Kirk)."
+
+**[00:07:02](/episodes/ep-jsqUIkszZd0.md#ent-person-charlie-kirk-t-00-07-02)**
+> "...for governor of Colorado at a Charlie Kirk memorial event in Denver on September 14th, just ..."
+
+**[00:07:35](/episodes/ep-jsqUIkszZd0.md#ent-person-charlie-kirk-t-00-07-35)**
+> "...year-old son was at one point Charlie Kirk's assistant, who, quote, spent much time with Erika..."
+
+**[00:07:48](/episodes/ep-jsqUIkszZd0.md#ent-person-charlie-kirk-t-00-07-35)**
+> "...onfirm that he was Charlie's (Charlie Kirk's) assistant. I certainly don't remember him being ..."
+
+**[00:08:04](/episodes/ep-jsqUIkszZd0.md#ent-person-charlie-kirk-t-00-07-35)**
+> "...the days following Charlie's (Charlie Kirk's) assassination."
+
+**[00:09:06](/episodes/ep-jsqUIkszZd0.md#ent-person-charlie-kirk-t-00-09-06)**
+> "...arx) for the first time after Charlie Kirk's assassination."
+
+**[00:09:26](/episodes/ep-jsqUIkszZd0.md#ent-person-charlie-kirk-t-00-09-06)**
+> "...n on for weeks after Charlie (Charlie Kirk) died."
+
+**[00:09:46](/episodes/ep-jsqUIkszZd0.md#ent-person-charlie-kirk-t-00-09-46)**
+> "...ike 72 hours after Charlie's (Charlie Kirk's) death."
+
+**[00:17:31](/episodes/ep-jsqUIkszZd0.md#ent-person-charlie-kirk-t-00-17-22)**
+> "...hat does this have to do with Charlie Kirk and Turning Point and September 10th? Well, I am ..."
+
+**[00:21:36](/episodes/ep-jsqUIkszZd0.md#ent-person-charlie-kirk-t-00-21-26)**
+> "...tely after at your home after Charlie Kirk's been assassinated. I would say that's a dear frie..."
+
+**[00:37:48](/episodes/ep-jsqUIkszZd0.md#ent-person-charlie-kirk-t-00-37-34)**
+> "...er 10th, 2025, the morning of Charlie Kirk's assassination at 9.33 a.m. Central."
+
+**[00:38:51](/episodes/ep-jsqUIkszZd0.md#ent-person-charlie-kirk-t-00-38-16)**
+> "...u. On the morning of Charlie (Charlie Kirk)'s assassination, they reached out to Corby (Corb..."
+
+**[00:39:11](/episodes/ep-jsqUIkszZd0.md#ent-person-charlie-kirk-t-00-38-59)**
+> "...the eventual assassination of Charlie Kirk, everything that was surrounding the gun, no gun,..."
+
+**[00:45:59](/episodes/ep-jsqUIkszZd0.md#ent-person-charlie-kirk-t-00-45-51)**
+> "...ng, my sense is that Charlie (Charlie Kirk) was betrayed."
+
+**[00:50:45](/episodes/ep-jsqUIkszZd0.md#ent-person-charlie-kirk-t-00-50-33)**
+> "...ery godly woman that Charlie (Charlie Kirk) married. Isn't it just so weird?"
+
+**[00:54:43](/episodes/ep-jsqUIkszZd0.md#ent-person-charlie-kirk-t-00-54-28)**
+> "...om. Oh my gosh, poor Charlie (Charlie Kirk). Auntie Penelope writes, many of these born-agai..."
+
+**[00:57:56](/episodes/ep-jsqUIkszZd0.md#ent-person-charlie-kirk-t-00-57-26)**
+> "...e case anything involving the Charlie Kirk assassination that could be adjacent."
 
 </details>
 
@@ -13650,7 +13723,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Deceased Husband Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (32)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus.”
@@ -13684,6 +13757,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:05:28](/episodes/ep-UYkXV9mYbT4.md#t-00-05-20): “He was telling me he was trying to save Erica from seeing her husband die, but yet this was the most mild shot of all. There was not a drop of blood on Charlie's back as he went down.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:14:57](/episodes/ep-q1NRQQAYS_Q.md#t-00-14-38): “They were on the same wavelength. I saw how much that relationship, I didn't know Erica as well prior to Charlie's death, but especially in the wake of it, I saw how much everything he'd done meant to her and how completely committed she was.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:10:17](/episodes/ep-eLgD5yUVbko.md#t-00-09-57): “That's a totally normal question to ask that Charlie declared that he wanted to appoint Erica as the CEO and the chairman of his company. Didn't pass the sniff test for obvious reasons. Okay, number one, no husband ever, no man ever would say if I am killed on the job, I want my wife to assume the dangerous position that I just occupied, right?”
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:02:22](/episodes/ep-jsqUIkszZd0.md#t-00-02-07): “during the memorial, same deal. She similarly said, and I quote, one moment Charlie (Charlie Kirk) was doing what he loved. He blinked and he saw his Savior in heaven. Now, that could be because Erika's (Erika Kirk's) not writing her own speeches, I'm told. Erika (Erika Kirk) didn't eulogize her own husband.”
 
 </details>
 
@@ -13956,10 +14030,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Has Chief Of Staff (1)</summary>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:02:11](/episodes/ep-c5BcKF91iec.md#t-00-01-39): “Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff.”
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:03:01](/episodes/ep-Qfwr08Ebczo.md#t-00-02-50): “And my husband's chief of staff, the amazing Mikey McCoy”
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:04:09](/episodes/ep-jsqUIkszZd0.md#t-00-04-09): “after Mikey McCoy becomes the chief of staff in January of 2024, Charlie (Charlie Kirk) suddenly his schedule is beginning to mirror these Egyptian planes.”
 
 </details>
 
@@ -14463,10 +14538,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)** chief of staff to this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:02:11](/episodes/ep-c5BcKF91iec.md#t-00-01-39): “Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff.”
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:03:01](/episodes/ep-Qfwr08Ebczo.md#t-00-02-50): “And my husband's chief of staff, the amazing Mikey McCoy”
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:04:09](/episodes/ep-jsqUIkszZd0.md#t-00-04-09): “after Mikey McCoy becomes the chief of staff in January of 2024, Charlie (Charlie Kirk) suddenly his schedule is beginning to mirror these Egyptian planes.”
 
 </details>
 
@@ -15156,7 +15232,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** widow of this
-<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (34)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:36](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00): “Charlie's widow”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
@@ -15191,6 +15267,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:05:28](/episodes/ep-UYkXV9mYbT4.md#t-00-05-20): “He was telling me he was trying to save Erica from seeing her husband die, but yet this was the most mild shot of all. There was not a drop of blood on Charlie's back as he went down.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:14:57](/episodes/ep-q1NRQQAYS_Q.md#t-00-14-38): “They were on the same wavelength. I saw how much that relationship, I didn't know Erica as well prior to Charlie's death, but especially in the wake of it, I saw how much everything he'd done meant to her and how completely committed she was.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:10:17](/episodes/ep-eLgD5yUVbko.md#t-00-09-57): “That's a totally normal question to ask that Charlie declared that he wanted to appoint Erica as the CEO and the chairman of his company. Didn't pass the sniff test for obvious reasons. Okay, number one, no husband ever, no man ever would say if I am killed on the job, I want my wife to assume the dangerous position that I just occupied, right?”
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:02:22](/episodes/ep-jsqUIkszZd0.md#t-00-02-07): “during the memorial, same deal. She similarly said, and I quote, one moment Charlie (Charlie Kirk) was doing what he loved. He blinked and he saw his Savior in heaven. Now, that could be because Erika's (Erika Kirk's) not writing her own speeches, I'm told. Erika (Erika Kirk) didn't eulogize her own husband.”
 
 </details>
 
@@ -15269,7 +15346,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>
 
-- [00:12:56](/episodes/ep-eLgD5yUVbko.md#t-00-12-41) [○] (Promise) ["I appoint my wife to run Turning Point USA if something happens to me; Erika wou..."](/statements/statement-a0fcbbba06ce.md)
+- [00:12:56](/episodes/ep-eLgD5yUVbko.md#t-00-12-41) [✓] (Promise) ["I appoint my wife to run Turning Point USA if something happens to me; Erika wou..."](/statements/statement-a0fcbbba06ce.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
@@ -15575,7 +15652,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk (880)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk (883)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (19)</summary>
@@ -15633,6 +15710,20 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - [04:01:26](/episodes/ep-nPhCKwJ6ye8.md#t-04-01-26) (Accusation) **Candace Owens**: ["Candace Owens still believes there is more evidence that multiple peop..."](/statements/statement-4735330c37c9.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md)
+
+</details>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (3)</summary>
+
+- [00:04:09](/episodes/ep-jsqUIkszZd0.md#t-00-04-09) (Claim) **Candace Owens**: ["After Michael McCoy became Charlie Kirk's chief of staff in January 20..."](/statements/statement-fd9c61e02576.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [00:07:02](/episodes/ep-jsqUIkszZd0.md#t-00-07-02) (Claim) **Candace Owens**: ["Victor Marx announced his Colorado gubernatorial run at a Charlie Kirk..."](/statements/statement-c10e5446c0d4.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Colorado](/entities/gpe-colorado.md)
+
+- [00:07:35](/episodes/ep-jsqUIkszZd0.md#t-00-07-35) (Claim) **Victor Marx** (via quoted document): ["Victor Marx says his 20-year-old son was once Charlie Kirk's assistant..."](/statements/statement-aad6e47f555d.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 

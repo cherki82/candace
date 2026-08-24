@@ -1,6 +1,6 @@
 ---
 title: "Erika Kirk"
-description: "Erika Kirk (People) - 1820 mentions"
+description: "Erika Kirk (People) - 1844 mentions"
 id: "person-erika-kirk"
 type: "PERSON"
 aliases:
@@ -28,11 +28,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-erika-kirk-t-00-18-02">2025-09-11 · 00:18:06</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-erika-kirk-t-04-00-43">2026-08-14 · 04:00:43</a></strong></div>
-<div><span>Episodes</span><strong>84</strong></div>
-<div><span>Mentions</span><strong>1,820</strong></div>
+<div><span>Episodes</span><strong>85</strong></div>
+<div><span>Mentions</span><strong>1,844</strong></div>
 <div><span>Statements by</span><strong>106</strong></div>
-<div><span>Statements about</span><strong>549</strong></div>
-<div><span>Relationships</span><strong>184</strong></div>
+<div><span>Statements about</span><strong>550</strong></div>
+<div><span>Relationships</span><strong>192</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -123,6 +123,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-erika-kirk-t-00-49-25" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 6 mentions" title="2026-04-01 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-erika-kirk-t-00-00-22" style="--pulse-height:59%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 51 mentions" title="2026-04-02 · 51 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-erika-kirk-t-00-00-26" style="--pulse-height:27%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 23 mentions" title="2026-04-13 · 23 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-00-00" style="--pulse-height:28%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 24 mentions" title="2026-04-14 · 24 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-erika-kirk-t-00-38-09" style="--pulse-height:63%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 54 mentions" title="2026-08-14 · 54 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -212,6 +213,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-erika-kirk-t-00-49-25) | 6 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-erika-kirk-t-00-00-22) | 51 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-erika-kirk-t-00-00-26) | 23 |
+| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-00-00) | 24 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-erika-kirk-t-00-38-09) | 54 |
 
 </details>
@@ -220,7 +222,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1820)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1844)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (54 mentions)</summary>
@@ -386,6 +388,83 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 **[04:00:43](/episodes/ep-nPhCKwJ6ye8.md#ent-person-erika-kirk-t-04-00-43)**
 > "...s case. They don't care about Erika Kirk."
+
+</details>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (24 mentions)</summary>
+
+**[00:00:11](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-00-00)**
+> "...t possible that everyone that Erika Kirk has involved with Turning Point USA via Turning P..."
+
+**[00:00:42](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-00-42)**
+> "In my personal view, Erika (Erika Kirk) just cannot keep dancing adjacent to allegations..."
+
+**[00:01:22](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-01-22)**
+> "...lie Kirk) had just met Erika (Erika Kirk), a young woman who presented herself as being on..."
+
+**[00:01:46](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-01-22)**
+> "... Lord, regarding which Erika (Erika Kirk) is always referring to, right? People have noted..."
+
+**[00:02:32](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-02-07)**
+> "...hat could be because Erika's (Erika Kirk's) not writing her own speeches, I'm told."
+
+**[00:02:37](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-02-07)**
+> "Erika (Erika Kirk) didn't eulogize her own husband. Maybe that's wh..."
+
+**[00:02:52](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-02-52)**
+> "...s that whenever I hear Erika (Erika Kirk) discussing the Lord, as she typically says, it m..."
+
+**[00:05:00](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-04-48)**
+> "...nly grew stronger when Erika (Erika Kirk) had the complete wrong reaction or rather no rea..."
+
+**[00:05:17](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-05-17)**
+> "...ts of a human being right hey erica you should be concerned even if it turns out to b..."
+
+**[00:07:35](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-07-35)**
+> "..., spent much time with Erika (Erika Kirk) and their first baby girl."
+
+**[00:07:58](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-07-35)**
+> "... his relationship with Erika (Erika Kirk) at the very least, right?"
+
+**[00:08:04](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-07-35)**
+> "...le to go see and greet Erika (Erika Kirk) in the days following Charlie's (Charlie Kirk's)..."
+
+**[00:08:50](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-08-14)**
+> "...g captured and shared between Erika Kirk and Eileen Marx. Take a look."
+
+**[00:09:06](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-09-06)**
+> "It says the moment that Erika Kirk sees Eileen (Eileen Marx) for the first time afte..."
+
+**[00:09:26](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-09-06)**
+> "...y have also noted that Erika (Erika Kirk) has her phone in her hand, the one that she alle..."
+
+**[00:09:46](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-09-46)**
+> "Of Erika (Erika Kirk) being comforted by her dear friend Victor Marx i..."
+
+**[00:10:22](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-09-46)**
+> "... internet. That's what Erika (Erika Kirk) wanted. I sense that."
+
+**[00:15:43](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-15-12)**
+> "...arx), who you just saw Erika (Erika Kirk) hugging."
+
+**[00:21:26](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-21-26)**
+> "...ng Victor Marx. Again, Erika (Erika Kirk)'s dear friend, right?"
+
+**[00:26:48](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-26-48)**
+> "... do in your life. It's giving Erika Kirk."
+
+**[00:27:00](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-26-48)**
+> "I got to say it. Giving Erika Kirk."
+
+**[00:45:33](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-45-11)**
+> "...e. And everyone around Erika (Erika Kirk) is so committed to trafficking charitably, you k..."
+
+**[00:47:30](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-47-10)**
+> "...ll out here pretending Erika (Erika Kirk) is some perfect victim who just has all the wron..."
+
+**[00:50:33](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-50-33)**
+> "Kind of like Erika (Erika Kirk), maybe has a bad memory like Erika (Erika Kirk),..."
 
 </details>
 
@@ -6456,7 +6535,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Criticized By (5)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (26)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (27)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-29): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -6484,6 +6563,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:10:17](/episodes/ep-UYkXV9mYbT4.md#t-00-10-02): “Erica lied. Erica and Andrew colluded. on how to message to the public about this little fact that was never meant to be known to us.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:31:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-31-34): “All right, you guys, let's get into Erica's story regarding her whereabouts on September 10th. Now, we've already established Erica lies and she pivots and she edits and then a bunch of people come out to protect her.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:17:09](/episodes/ep-eLgD5yUVbko.md#t-00-16-38): “And it's unlikely. And to add to that totally unlikely scenario, they also kept insisting immediately and through various interviews that Erica was raised by a single mother, something that is objectively untrue. We have proven that a thousand times over it is objectively untrue for them to even suggest that Erica was raised by a single mother. It's not true. And by the way, it's weird that she describes herself as a single mother. You would say you're a widow. Just totally different vibe there. This feels evil to me. I have a troubling sense, a growing troubling sense that Charli never said it. Now being deepened further by donors with direct knowledge of this event. And speaking of a growing and troubling sense of evil, there is a relationship that is... That needs to be further explained, I think, or further understood between Erica Kirk and Ben Shapiro. It's beginning to make me uncomfortable.”
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:00:42](/episodes/ep-jsqUIkszZd0.md#t-00-00-00): “Erika (Erika Kirk) just cannot keep dancing adjacent to allegations of trafficking her entire life.”
 
 </details>
 
@@ -6721,7 +6801,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Friend Of (8)</summary>
+<summary>Friend Of (10)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -6782,6 +6862,20 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:20:49](/episodes/ep-7ERqbYElOfs.md#t-00-20-43): “Stacey Sheridan, friend of Erica (Erika Kirk), was with her.”
+
+</details>
+
+- **[Victor Marx](/entities/person-victor-marx.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:21:26](/episodes/ep-jsqUIkszZd0.md#t-00-21-26): “So this is going to be in first person and he is going to he's presenting here just a timeline of the factual events regarding Victor Marx. Again, Erika (Erika Kirk)'s dear friend, right?”
+
+</details>
+
+- **[Eileen Marx](/entities/person-eileen-marx.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:08:04](/episodes/ep-jsqUIkszZd0.md#t-00-07-35): “Because Pastor Victor Marx and his wife, Eileen Marx, were two of the very first people to go see and greet Erika (Erika Kirk) in the days following Charlie's (Charlie Kirk's) assassination. They comforted her. With cameras rolling, of course, because as we have established, it is perfectly normal to record these intimate private moments of you grieving and seeing your friends after your husband was brutally assassinated in front of the world, right?”
 
 </details>
 
@@ -6859,7 +6953,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Met With (8)</summary>
+<summary>Met With (10)</summary>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -6925,6 +7019,20 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:13:20](/episodes/ep-2tFYJf1klgY.md#t-00-13-20): “We know Erica (Erika Kirk) is going to win the National American Miss Teen pageant. She gets that chance to travel and to meet Senator Jon Kyl.”
+
+</details>
+
+- **[Victor Marx](/entities/person-victor-marx.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:08:04](/episodes/ep-jsqUIkszZd0.md#t-00-07-35): “Because Pastor Victor Marx and his wife, Eileen Marx, were two of the very first people to go see and greet Erika (Erika Kirk) in the days following Charlie's (Charlie Kirk's) assassination.”
+
+</details>
+
+- **[Eileen Marx](/entities/person-eileen-marx.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:08:04](/episodes/ep-jsqUIkszZd0.md#t-00-07-35): “Because Pastor Victor Marx and his wife, Eileen Marx, were two of the very first people to go see and greet Erika (Erika Kirk) in the days following Charlie's (Charlie Kirk's) assassination.”
 
 </details>
 
@@ -7009,7 +7117,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Widow Of (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (34)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:36](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00): “Charlie's widow”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
@@ -7044,6 +7152,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:05:28](/episodes/ep-UYkXV9mYbT4.md#t-00-05-20): “He was telling me he was trying to save Erica from seeing her husband die, but yet this was the most mild shot of all. There was not a drop of blood on Charlie's back as he went down.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:14:57](/episodes/ep-q1NRQQAYS_Q.md#t-00-14-38): “They were on the same wavelength. I saw how much that relationship, I didn't know Erica as well prior to Charlie's death, but especially in the wake of it, I saw how much everything he'd done meant to her and how completely committed she was.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:10:17](/episodes/ep-eLgD5yUVbko.md#t-00-09-57): “That's a totally normal question to ask that Charlie declared that he wanted to appoint Erica as the CEO and the chairman of his company. Didn't pass the sniff test for obvious reasons. Okay, number one, no husband ever, no man ever would say if I am killed on the job, I want my wife to assume the dangerous position that I just occupied, right?”
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:02:22](/episodes/ep-jsqUIkszZd0.md#t-00-02-07): “during the memorial, same deal. She similarly said, and I quote, one moment Charlie (Charlie Kirk) was doing what he loved. He blinked and he saw his Savior in heaven. Now, that could be because Erika's (Erika Kirk's) not writing her own speeches, I'm told. Erika (Erika Kirk) didn't eulogize her own husband.”
 
 </details>
 
@@ -7152,7 +7261,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Referenced By (84)</summary>
+<summary>Referenced By (88)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (12)</summary>
@@ -7293,7 +7402,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (26)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (27)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-29): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -7321,6 +7430,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:10:17](/episodes/ep-UYkXV9mYbT4.md#t-00-10-02): “Erica lied. Erica and Andrew colluded. on how to message to the public about this little fact that was never meant to be known to us.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:31:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-31-34): “All right, you guys, let's get into Erica's story regarding her whereabouts on September 10th. Now, we've already established Erica lies and she pivots and she edits and then a bunch of people come out to protect her.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:17:09](/episodes/ep-eLgD5yUVbko.md#t-00-16-38): “And it's unlikely. And to add to that totally unlikely scenario, they also kept insisting immediately and through various interviews that Erica was raised by a single mother, something that is objectively untrue. We have proven that a thousand times over it is objectively untrue for them to even suggest that Erica was raised by a single mother. It's not true. And by the way, it's weird that she describes herself as a single mother. You would say you're a widow. Just totally different vibe there. This feels evil to me. I have a troubling sense, a growing troubling sense that Charli never said it. Now being deepened further by donors with direct knowledge of this event. And speaking of a growing and troubling sense of evil, there is a relationship that is... That needs to be further explained, I think, or further understood between Erica Kirk and Ben Shapiro. It's beginning to make me uncomfortable.”
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:00:42](/episodes/ep-jsqUIkszZd0.md#t-00-00-00): “Erika (Erika Kirk) just cannot keep dancing adjacent to allegations of trafficking her entire life.”
 
 </details>
 
@@ -7355,7 +7465,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** deceased husband of this
-<details class="relationship-evidence"><summary>Show all evidence (32)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus.”
@@ -7389,6 +7499,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:05:28](/episodes/ep-UYkXV9mYbT4.md#t-00-05-20): “He was telling me he was trying to save Erica from seeing her husband die, but yet this was the most mild shot of all. There was not a drop of blood on Charlie's back as he went down.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:14:57](/episodes/ep-q1NRQQAYS_Q.md#t-00-14-38): “They were on the same wavelength. I saw how much that relationship, I didn't know Erica as well prior to Charlie's death, but especially in the wake of it, I saw how much everything he'd done meant to her and how completely committed she was.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:10:17](/episodes/ep-eLgD5yUVbko.md#t-00-09-57): “That's a totally normal question to ask that Charlie declared that he wanted to appoint Erica as the CEO and the chairman of his company. Didn't pass the sniff test for obvious reasons. Okay, number one, no husband ever, no man ever would say if I am killed on the job, I want my wife to assume the dangerous position that I just occupied, right?”
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:02:22](/episodes/ep-jsqUIkszZd0.md#t-00-02-07): “during the memorial, same deal. She similarly said, and I quote, one moment Charlie (Charlie Kirk) was doing what he loved. He blinked and he saw his Savior in heaven. Now, that could be because Erika's (Erika Kirk's) not writing her own speeches, I'm told. Erika (Erika Kirk) didn't eulogize her own husband.”
 
 </details>
 
@@ -7613,6 +7724,20 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 </details>
 
+- **[Victor Marx](/entities/person-victor-marx.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:21:26](/episodes/ep-jsqUIkszZd0.md#t-00-21-26): “So this is going to be in first person and he is going to he's presenting here just a timeline of the factual events regarding Victor Marx. Again, Erika (Erika Kirk)'s dear friend, right?”
+
+</details>
+
+- **[Eileen Marx](/entities/person-eileen-marx.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:08:04](/episodes/ep-jsqUIkszZd0.md#t-00-07-35): “Because Pastor Victor Marx and his wife, Eileen Marx, were two of the very first people to go see and greet Erika (Erika Kirk) in the days following Charlie's (Charlie Kirk's) assassination. They comforted her. With cameras rolling, of course, because as we have established, it is perfectly normal to record these intimate private moments of you grieving and seeing your friends after your husband was brutally assassinated in front of the world, right?”
+
+</details>
+
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** has CEO this
 <details class="relationship-evidence"><summary>Show all evidence (25)</summary>
 
@@ -7824,6 +7949,20 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:13:20](/episodes/ep-2tFYJf1klgY.md#t-00-13-20): “We know Erica (Erika Kirk) is going to win the National American Miss Teen pageant. She gets that chance to travel and to meet Senator Jon Kyl.”
+
+</details>
+
+- **[Victor Marx](/entities/person-victor-marx.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:08:04](/episodes/ep-jsqUIkszZd0.md#t-00-07-35): “Because Pastor Victor Marx and his wife, Eileen Marx, were two of the very first people to go see and greet Erika (Erika Kirk) in the days following Charlie's (Charlie Kirk's) assassination.”
+
+</details>
+
+- **[Eileen Marx](/entities/person-eileen-marx.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:08:04](/episodes/ep-jsqUIkszZd0.md#t-00-07-35): “Because Pastor Victor Marx and his wife, Eileen Marx, were two of the very first people to go see and greet Erika (Erika Kirk) in the days following Charlie's (Charlie Kirk's) assassination.”
 
 </details>
 
@@ -8407,7 +8546,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Erika Kirk (549)</strong></summary>
+<summary><strong class="section-title">Statements about Erika Kirk (550)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4)</summary>
@@ -8422,6 +8561,14 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [03:26:38](/episodes/ep-nPhCKwJ6ye8.md#t-03-26-38) (Opinion) **Candace Owens**: ["Candace Owens believes Erika Kirk should be formally questioned becaus..."](/statements/statement-c8adff2dd148.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>
+
+- [00:07:35](/episodes/ep-jsqUIkszZd0.md#t-00-07-35) (Claim) **Victor Marx** (via quoted document): ["Victor Marx says his 20-year-old son was once Charlie Kirk's assistant..."](/statements/statement-aad6e47f555d.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

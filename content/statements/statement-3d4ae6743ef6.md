@@ -4,9 +4,10 @@ description: "\"Candace Owens argued that the FBI released suspect photos and so
 statement_id: "statement-3d4ae6743ef6"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -36,7 +37,21 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+FBI photos were released during the public manhunt. Owens expressly qualified her custody assertion with maybe. A defense-filing interpretation suggests Robinson could have been at a station earlier, while the sheriff and later sworn testimony place his voluntary arrival near 9 p.m. The argument reflects a real timeline dispute but is not established fact.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [A Hole in the Open-and-Shut Case Against Charlie Kirk Alleged Assassin?](https://prospect.org/2026/04/15/hole-in-open-and-shut-case-against-charlie-kirks-alleged-assassin-tyler-robinson/)
+- [Charlie Kirk accused assassin feared being shot by police and agreed to peaceful surrender, sheriff says](https://www.cbsnews.com/news/tyler-robinson-feared-swat-being-shot-washington-county-sheriff/)
+
+*Verified: 2026-08-24T18:19:53.990102*
 
 ---
 

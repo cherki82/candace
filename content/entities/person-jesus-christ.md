@@ -1,6 +1,6 @@
 ---
 title: "Jesus Christ"
-description: "Jesus Christ (People) - 140 mentions"
+description: "Jesus Christ (People) - 145 mentions"
 id: "person-jesus-christ"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-08-02">2025-09-15 · 00:08:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-jesus-christ-t-01-06-59">2026-04-13 · 01:07:10</a></strong></div>
-<div><span>Episodes</span><strong>51</strong></div>
-<div><span>Mentions</span><strong>140</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-jesus-christ-t-00-53-21">2026-04-14 · 00:53:21</a></strong></div>
+<div><span>Episodes</span><strong>52</strong></div>
+<div><span>Mentions</span><strong>145</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -86,6 +86,7 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-jesus-christ-t-00-52-41" style="--pulse-height:44%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 4 mentions" title="2026-03-31 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-jesus-christ-t-00-54-54" style="--pulse-height:11%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-jesus-christ-t-00-56-25" style="--pulse-height:67%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 6 mentions" title="2026-04-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-person-jesus-christ-t-00-01-22" style="--pulse-height:56%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 5 mentions" title="2026-04-14 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -142,6 +143,7 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-jesus-christ-t-00-52-41) | 4 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-jesus-christ-t-00-54-54) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-jesus-christ-t-00-56-25) | 6 |
+| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-jesus-christ-t-00-01-22) | 5 |
 
 </details>
 </section>
@@ -149,7 +151,27 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (140)</strong></summary>
+<summary><strong class="section-title">Raw mentions (145)</strong></summary>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (5 mentions)</summary>
+
+**[00:01:46](/episodes/ep-jsqUIkszZd0.md#ent-person-jesus-christ-t-00-01-22)**
+> "...ve noted that she rarely says Jesus Christ."
+
+**[00:02:07](/episodes/ep-jsqUIkszZd0.md#ent-person-jesus-christ-t-00-02-07)**
+> "...ssed for his Lord and Savior, Jesus Christ.""
+
+**[00:15:29](/episodes/ep-jsqUIkszZd0.md#ent-person-jesus-christ-t-00-15-12)**
+> "...that is when he says he found Jesus Christ and he was stationed at Camp Pendleton in Califor..."
+
+**[00:28:07](/episodes/ep-jsqUIkszZd0.md#ent-person-jesus-christ-t-00-28-07)**
+> "...leeting concept of what would Jesus do, I told him, why don't you just go have a meet..."
+
+**[00:53:21](/episodes/ep-jsqUIkszZd0.md#ent-person-jesus-christ-t-00-53-21)**
+> "...re. My loyalty is to the Lord Jesus Christ, not to any government." Exactly what I just said..."
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (6 mentions)</summary>

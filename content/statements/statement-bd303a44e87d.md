@@ -4,9 +4,10 @@ description: "\"Candace Owens said public records conflict on Tyler Robinson's a
 statement_id: "statement-bd303a44e87d"
 speaker: "Candace Owens"
 type: "citation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,21 @@ type: "citation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Public sources confirm the discrepancy. Brooksby said Robinson arrived shortly before 9 p.m.; a search-warrant affidavit states approximately 2226 hours, or 10:26 p.m.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Discord Warrant affidavit](https://www.scribd.com/document/1024574137/Discord-Warrant)
+- [Charlie Kirk accused assassin feared being shot by police and agreed to peaceful surrender, sheriff says](https://www.cbsnews.com/news/tyler-robinson-feared-swat-being-shot-washington-county-sheriff/)
+
+*Verified: 2026-08-24T18:19:54.592339*
 
 ---
 

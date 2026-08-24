@@ -4,9 +4,10 @@ description: "\"Andrew Kolvet said Turning Point USA had been pitched multiple t
 statement_id: "statement-516fcc69ba15"
 speaker: "Andrew Kolvet"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -36,7 +37,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The New York Times transcript directly records Andrew Kolvet saying TPUSA had been pitched the weird AI idea multiple times and rejected it.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Is Anything Holding MAGA Together?](https://www.nytimes.com/2025/12/11/opinion/andrew-kolvet-interesting-times.html)
+
+*Verified: 2026-08-24T18:19:08.282871*
 
 ---
 

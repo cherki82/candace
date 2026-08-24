@@ -3,7 +3,7 @@ title: "Research Explorer"
 description: "Filter attributed statements by source, speaker, entity, date, and verification status."
 ---
 
-<div class="research-kicker">Research workspace · 3,655 statement appearances</div>
+<div class="research-kicker">Research workspace · 3,692 statement appearances</div>
 
 # Research Explorer
 

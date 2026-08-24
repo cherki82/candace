@@ -11,7 +11,7 @@ date: "2025-09-12"
 
 > Erika Kirk said on television that Turning Point USA would continue and become bigger than ever.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace E...
 
@@ -36,3 +36,11 @@ date: "2025-09-12"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(923);return false;">▶️ Play</a>
 
 > her address as a widow to the nation has 4.1 million views on Charlie Kirk's YouTube channel.
+
+### 4. BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wan...
+
+**Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
+**Timestamp:** [00:01:57](/episodes/ep-jsqUIkszZd0.md#event-event-2025-09-12-erika-kirk-said-on-television-that-turni-t-00-01-22) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(117);return false;">▶️ Play</a>
+
+> during her first public address to the nation on September 12th

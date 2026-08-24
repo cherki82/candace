@@ -4,9 +4,10 @@ description: "\"Candace Owens said an internal Alliance Defending Freedom video 
 statement_id: "statement-f9cef95848d6"
 speaker: "Candace Owens"
 type: "citation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "citation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The played internal clip shows the ADF CEO discussing a call with a large organization involving tension around Candace Owens and lessons about litigation and leadership. The clip itself does not identify Erika Kirk or TPUSA, so that identification depends on anonymous sourcing outside the video.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. Candace Ep 323 transcript](https://podcasts.happyscribe.com/candace/trump-attacks-the-pope-the-tyler-robinson-narrative-collapses)
+
+*Verified: 2026-08-24T18:19:09.875780*
 
 ---
 

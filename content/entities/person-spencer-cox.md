@@ -341,7 +341,7 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>
 
-- [00:41:44](/episodes/ep-eLgD5yUVbko.md#t-00-41-37) [○] (Claim) ["Spencer Cox said investigators were shown Discord messages between Tyler Robinso..."](/statements/statement-9e5da808822c.md)
+- [00:41:44](/episodes/ep-eLgD5yUVbko.md#t-00-41-37) [✓] (Claim) ["Spencer Cox said investigators were shown Discord messages between Tyler Robinso..."](/statements/statement-9e5da808822c.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Discord](/entities/org-discord.md)
 
 </details>

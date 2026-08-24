@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 1185_
+_Total events: 1207_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -296,10 +296,10 @@ _Total events: 1185_
 <input type="radio" id="tab-year-1848" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-year-2026" class="tab-btn">2026 (93)</label>
-  <label for="tab-year-2025" class="tab-btn">2025 (594)</label>
-  <label for="tab-year-2024" class="tab-btn">2024 (67)</label>
-  <label for="tab-year-2023" class="tab-btn">2023 (21)</label>
+  <label for="tab-year-2026" class="tab-btn">2026 (95)</label>
+  <label for="tab-year-2025" class="tab-btn">2025 (598)</label>
+  <label for="tab-year-2024" class="tab-btn">2024 (76)</label>
+  <label for="tab-year-2023" class="tab-btn">2023 (23)</label>
   <label for="tab-year-2022" class="tab-btn">2022 (15)</label>
   <label for="tab-year-2021" class="tab-btn">2021 (17)</label>
   <label for="tab-year-2020" class="tab-btn">2020 (10)</label>
@@ -319,11 +319,11 @@ _Total events: 1185_
   <label for="tab-year-2006" class="tab-btn">2006 (9)</label>
   <label for="tab-year-2005" class="tab-btn">2005 (8)</label>
   <label for="tab-year-2004" class="tab-btn">2004 (2)</label>
-  <label for="tab-year-2003" class="tab-btn">2003 (9)</label>
+  <label for="tab-year-2003" class="tab-btn">2003 (10)</label>
   <label for="tab-year-2002" class="tab-btn">2002 (5)</label>
   <label for="tab-year-2001" class="tab-btn">2001 (7)</label>
   <label for="tab-year-2000" class="tab-btn">2000 (2)</label>
-  <label for="tab-year-1999" class="tab-btn">1999 (12)</label>
+  <label for="tab-year-1999" class="tab-btn">1999 (13)</label>
   <label for="tab-year-1998" class="tab-btn">1998 (6)</label>
   <label for="tab-year-1997" class="tab-btn">1997 (6)</label>
   <label for="tab-year-1996" class="tab-btn">1996 (3)</label>
@@ -333,9 +333,9 @@ _Total events: 1185_
   <label for="tab-year-1991" class="tab-btn">1991 (1)</label>
   <label for="tab-year-1990" class="tab-btn">1990 (9)</label>
   <label for="tab-year-1989" class="tab-btn">1989 (3)</label>
-  <label for="tab-year-1988" class="tab-btn">1988 (3)</label>
-  <label for="tab-year-1987" class="tab-btn">1987 (1)</label>
-  <label for="tab-year-1986" class="tab-btn">1986 (2)</label>
+  <label for="tab-year-1988" class="tab-btn">1988 (4)</label>
+  <label for="tab-year-1987" class="tab-btn">1987 (2)</label>
+  <label for="tab-year-1986" class="tab-btn">1986 (3)</label>
   <label for="tab-year-1985" class="tab-btn">1985 (2)</label>
   <label for="tab-year-1983" class="tab-btn">1983 (2)</label>
   <label for="tab-year-1982" class="tab-btn">1982 (2)</label>
@@ -459,6 +459,21 @@ _Total events: 1185_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-04-corby-hall-contacted-candace-owenss-team">
+<div class="timeline-date">2026-04</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-corby-hall-contacted-candace-owenss-team.md">Corby Hall contacted Candace Owens's team to share his account</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04: Corby Hall contacted Candace Owens\'s team to share his account - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:05:49](/episodes/ep-jsqUIkszZd0.md#t-00-05-17)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2026-04-13-pope-leo-xiv-said-he-would-continue-spea">
 <div class="timeline-date">2026-04-13</div>
 <div class="timeline-desc"><a href="/events/event-2026-04-13-pope-leo-xiv-said-he-would-continue-spea.md">Pope Leo XIV said he would continue speaking against war and promoting peace.</a></div>
@@ -560,6 +575,21 @@ _Total events: 1185_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [An Open Letter To President Donald Trump (My Re... @ 00:34:19](/episodes/ep-ZIH5-V6UPkg.md#t-00-34-19)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-06-donald-trump-said-the-united-states-sent">
+<div class="timeline-date">2026-04-06</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-06-donald-trump-said-the-united-states-sent.md">Donald Trump said the United States sent guns intended for Iranian protesters</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-06: Donald Trump said the United States sent guns intended for Iranian protesters - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:43:08](/episodes/ep-jsqUIkszZd0.md#t-00-43-08)
 
 </details>
 </div>
@@ -11681,6 +11711,21 @@ _Total events: 1185_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-victor-and-eileen-marx-visited-erika-kir">
+<div class="timeline-date">2025-09</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-victor-and-eileen-marx-visited-erika-kir.md">Victor and Eileen Marx visited Erika Kirk in the days after Charlie Kirk's assassination</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09: Victor and Eileen Marx visited Erika Kirk in the days after Charlie Kirk\'s assassination - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:08:04](/episodes/ep-jsqUIkszZd0.md#t-00-07-35)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-30-article-accuses-sean-foyt-of-mismanaging-turning-p">
 <div class="timeline-date">2025-09-30</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-30-article-accuses-sean-foyt-of-mismanaging-turning-p.md">Article accuses Sean Foyt of mismanaging Turning Point USA funds</a></div>
@@ -16613,6 +16658,21 @@ _Total events: 1185_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-14-victor-marx-announced-his-campaign-for-g">
+<div class="timeline-date">2025-09-14</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-14-victor-marx-announced-his-campaign-for-g.md">Victor Marx announced his campaign for governor of Colorado at a Denver memorial event</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-14: Victor Marx announced his campaign for governor of Colorado at a Denver memorial event - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:07:02](/episodes/ep-jsqUIkszZd0.md#t-00-07-02)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-13-erika-kirk-addresses-nation-after-husband-s-death">
 <div class="timeline-date">2025-09-13</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-13-erika-kirk-addresses-nation-after-husband-s-death.md">Erika Kirk addresses nation after husband's death</a></div>
@@ -18289,7 +18349,7 @@ _Total events: 1185_
 <div class="timeline-date">2025-09-12</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-12-erika-kirk-said-on-television-that-turni.md">Erika Kirk said on television that Turning Point USA would continue and become bigger than ever.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-12: Erika Kirk said on television that Turning Point USA would continue and become bigger than ever. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -18298,6 +18358,7 @@ _Total events: 1185_
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…... @ 00:18:04](/episodes/ep-QdM9jLwjwLw.md#t-00-17-35)
 - [AND ANOTHER ONE: Charlie's Text On September 9t... @ 00:10:19](/episodes/ep-Wjul6YV6izo.md#t-00-10-19)
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:15:23](/episodes/ep-4YgrOhhy708.md#t-00-14-46)
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:01:57](/episodes/ep-jsqUIkszZd0.md#t-00-01-22)
 
 </details>
 </div>
@@ -20581,6 +20642,21 @@ _Total events: 1185_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-10-corby-hall-reportedly-received-an-atf-tr">
+<div class="timeline-date">2025-09-10 <span class='time'>09:33</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-corby-hall-reportedly-received-an-atf-tr.md">Corby Hall reportedly received an ATF trace request for FoldAR rifle 02735</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 09:33: Corby Hall reportedly received an ATF trace request for FoldAR rifle 02735 - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:37:48](/episodes/ep-jsqUIkszZd0.md#t-00-37-34)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-10-charlie-kirk-lands-in-salt-lake-city-before-provo">
 <div class="timeline-date">2025-09-10 <span class='time'>09:23</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-lands-in-salt-lake-city-before-provo.md">Charlie Kirk lands in Salt Lake City before Provo event</a></div>
@@ -22649,7 +22725,7 @@ _Total events: 1185_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va.md">Charlie Kirk was assassinated at Utah Valley University.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">37× in 30 eps</span>
+<span class="timeline-badge mentions">38× in 31 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk was assassinated at Utah Valley University. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -22692,6 +22768,7 @@ _Total events: 1185_
 - [The 33 Club: Freemason Murder Plot EXPOSED! | C... @ 00:02:41](/episodes/ep-7ERqbYElOfs.md#t-00-02-36)
 - [Friends In High Temples: Charlie's Final Call W... @ 00:19:00](/episodes/ep-rupRLXmSndU.md#t-00-18-41)
 - [An Open Letter To President Donald Trump (My Re... @ 00:03:01](/episodes/ep-ZIH5-V6UPkg.md#t-00-02-27)
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:37:48](/episodes/ep-jsqUIkszZd0.md#t-00-37-34)
 
 </details>
 </div>
@@ -33933,13 +34010,29 @@ _Total events: 1185_
 <div class="timeline-date">2025</div>
 <div class="timeline-desc"><a href="/events/event-2025-beekeepers-naturals-launched-a-kid-frien.md">Beekeeper's Naturals launched a kid-friendly version of its nasal spray.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025: Beekeeper\'s Naturals launched a kid-friendly version of its nasal spray. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: What Happened In Romania? | E... @ 00:38:03](/episodes/ep-y8lak3CRwDw.md#t-00-37-39)
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:48:32](/episodes/ep-jsqUIkszZd0.md#t-00-48-32)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-victor-marx-offered-to-help-find-an-inve">
+<div class="timeline-date">2025</div>
+<div class="timeline-desc"><a href="/events/event-2025-victor-marx-offered-to-help-find-an-inve.md">Victor Marx offered to help find an investor for FoldAR</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025: Victor Marx offered to help find an investor for FoldAR - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:30:56](/episodes/ep-jsqUIkszZd0.md#t-00-30-46)
 
 </details>
 </div>
@@ -34356,6 +34449,36 @@ _Total events: 1185_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2024-11-victor-marx-traveled-to-haiti-and-met-ga">
+<div class="timeline-date">2024-11</div>
+<div class="timeline-desc"><a href="/events/event-2024-11-victor-marx-traveled-to-haiti-and-met-ga.md">Victor Marx traveled to Haiti and met gang leaders, as reported by CBN News</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024-11: Victor Marx traveled to Haiti and met gang leaders, as reported by CBN News - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:28:17](/episodes/ep-jsqUIkszZd0.md#t-00-28-07)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2024-11-the-faa-banned-us-flights-to-haiti-after">
+<div class="timeline-date">2024-11</div>
+<div class="timeline-desc"><a href="/events/event-2024-11-the-faa-banned-us-flights-to-haiti-after.md">The FAA banned U.S. flights to Haiti after three planes were hit by gunfire</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024-11: The FAA banned U.S. flights to Haiti after three planes were hit by gunfire - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:28:51](/episodes/ep-jsqUIkszZd0.md#t-00-28-51)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2024-11-28-new-zealand-refused-candace-owens-an-ent">
 <div class="timeline-date">2024-11-28</div>
 <div class="timeline-desc"><a href="/events/event-2024-11-28-new-zealand-refused-candace-owens-an-ent.md">New Zealand refused Candace Owens an entertainer work visa.</a></div>
@@ -34448,6 +34571,21 @@ _Total events: 1185_
 </div>
 
 **October**
+
+<div class="timeline-event filter-item" id="event-2024-10-corby-hall-said-he-delivered-a-long-rang">
+<div class="timeline-date">2024-10</div>
+<div class="timeline-desc"><a href="/events/event-2024-10-corby-hall-said-he-delivered-a-long-rang.md">Corby Hall said he delivered a long-range FoldAR rifle to Victor Marx</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024-10: Corby Hall said he delivered a long-range FoldAR rifle to Victor Marx - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:26:14](/episodes/ep-jsqUIkszZd0.md#t-00-26-14)
+
+</details>
+</div>
 
 <div class="timeline-event filter-item" id="event-2024-10-27-australia-refused-candace-owens-a-visa-f">
 <div class="timeline-date">2024-10-27</div>
@@ -34801,6 +34939,21 @@ _Total events: 1185_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2024-07-04-a-texas-deputy-told-corby-hall-that-fold">
+<div class="timeline-date">2024-07-04</div>
+<div class="timeline-desc"><a href="/events/event-2024-07-04-a-texas-deputy-told-corby-hall-that-fold.md">A Texas deputy told Corby Hall that FoldAR rifle 02735 had been stolen</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024-07-04: A Texas deputy told Corby Hall that FoldAR rifle 02735 had been stolen - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:37:09](/episodes/ep-jsqUIkszZd0.md#t-00-36-53)
+
+</details>
+</div>
+
 **June**
 
 <div class="timeline-event filter-item" id="event-2024-06-06-george-zin-endorsement-appears-on-phil-lyman-s-cam">
@@ -34847,6 +35000,21 @@ _Total events: 1185_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING NEWS: A Woman Was Seen With Charlie Ki... @ 00:04:12](/episodes/ep-adJ4LNGp84I.md#t-00-03-37)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2024-06-06-a-texas-deputy-bought-foldar-rifle-seria">
+<div class="timeline-date">2024-06-06</div>
+<div class="timeline-desc"><a href="/events/event-2024-06-06-a-texas-deputy-bought-foldar-rifle-seria.md">A Texas deputy bought FoldAR rifle serial number 02735 from Corby Hall</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024-06-06: A Texas deputy bought FoldAR rifle serial number 02735 from Corby Hall - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:36:33](/episodes/ep-jsqUIkszZd0.md#t-00-36-14)
 
 </details>
 </div>
@@ -35625,6 +35793,21 @@ _Total events: 1185_
 
 **January**
 
+<div class="timeline-event filter-item" id="event-2024-01-candace-owens-said-mikey-mccoy-became-ch">
+<div class="timeline-date">2024-01</div>
+<div class="timeline-desc"><a href="/events/event-2024-01-candace-owens-said-mikey-mccoy-became-ch.md">Candace Owens said Mikey McCoy became Charlie Kirk's chief of staff</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024-01: Candace Owens said Mikey McCoy became Charlie Kirk\'s chief of staff - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:04:09](/episodes/ep-jsqUIkszZd0.md#t-00-04-09)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2024-01-01-drba-resolution-acquires-rights-to-dassault-paint">
 <div class="timeline-date">2024-01-30</div>
 <div class="timeline-desc"><a href="/events/event-2024-01-01-drba-resolution-acquires-rights-to-dassault-paint.md">DRBA resolution acquires rights to Dassault paint hangar for Satys lease</a></div>
@@ -35636,6 +35819,21 @@ _Total events: 1185_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:13:37](/episodes/ep-SKGUzGHymcI.md#t-00-13-08)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2024-01-24-victor-marx-married-corby-hall-and-melod">
+<div class="timeline-date">2024-01-24</div>
+<div class="timeline-desc"><a href="/events/event-2024-01-24-victor-marx-married-corby-hall-and-melod.md">Victor Marx married Corby Hall and Melody in a hotel room</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024-01-24: Victor Marx married Corby Hall and Melody in a hotel room - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:25:07](/episodes/ep-jsqUIkszZd0.md#t-00-24-53)
 
 </details>
 </div>
@@ -35778,6 +35976,36 @@ _Total events: 1185_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2024-foldar-released-the-victor-marx-signatur">
+<div class="timeline-date">2024</div>
+<div class="timeline-desc"><a href="/events/event-2024-foldar-released-the-victor-marx-signatur.md">FoldAR released the Victor Marx Signature Series rifle at the SHOT Show</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024: FoldAR released the Victor Marx Signature Series rifle at the SHOT Show - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:24:53](/episodes/ep-jsqUIkszZd0.md#t-00-24-53)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2024-victor-marx-reportedly-requested-50-fold">
+<div class="timeline-date">2024</div>
+<div class="timeline-desc"><a href="/events/event-2024-victor-marx-reportedly-requested-50-fold.md">Victor Marx reportedly requested 50 FoldAR rifles for a mission to Haiti during a facility tour</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024: Victor Marx reportedly requested 50 FoldAR rifles for a mission to Haiti during a facility tour - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:25:50](/episodes/ep-jsqUIkszZd0.md#t-00-25-29)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -35851,6 +36079,21 @@ _Total events: 1185_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:59:22](/episodes/ep-czVBmqZP6Ss.md#t-00-59-19)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2023-12-01-corby-hall-and-melody-demonstrated-the-f">
+<div class="timeline-date">2023-12-01</div>
+<div class="timeline-desc"><a href="/events/event-2023-12-01-corby-hall-and-melody-demonstrated-the-f.md">Corby Hall and Melody demonstrated the FoldAR to Victor Marx in Colorado Springs</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2023-12-01: Corby Hall and Melody demonstrated the FoldAR to Victor Marx in Colorado Springs - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:21:42](/episodes/ep-jsqUIkszZd0.md#t-00-21-26)
 
 </details>
 </div>
@@ -36260,6 +36503,21 @@ _Total events: 1185_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:01:19](/episodes/ep-4YgrOhhy708.md#t-00-00-59)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2023-kenneth-brining-reportedly-tried-to-shoo">
+<div class="timeline-date">2023</div>
+<div class="timeline-desc"><a href="/events/event-2023-kenneth-brining-reportedly-tried-to-shoo.md">Kenneth Brining reportedly tried to shoot Victor Marx</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2023: Kenneth Brining reportedly tried to shoot Victor Marx - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:16:30](/episodes/ep-jsqUIkszZd0.md#t-00-15-53)
 
 </details>
 </div>
@@ -41858,6 +42116,21 @@ _Total events: 1185_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2003-victor-marx-and-his-brother-founded-all-">
+<div class="timeline-date">2003</div>
+<div class="timeline-desc"><a href="/events/event-2003-victor-marx-and-his-brother-founded-all-.md">Victor Marx and his brother founded All Things Possible Ministries</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2003: Victor Marx and his brother founded All Things Possible Ministries - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:15:53](/episodes/ep-jsqUIkszZd0.md#t-00-15-53)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -42306,6 +42579,21 @@ _Total events: 1185_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:29:40](/episodes/ep-A39g5oqB_eM.md#t-00-29-23)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-1999-corby-hall-said-he-was-briefly-identifie">
+<div class="timeline-date">1999</div>
+<div class="timeline-desc"><a href="/events/event-1999-corby-hall-said-he-was-briefly-identifie.md">Corby Hall said he was briefly identified as a person of interest in the Columbine massacre</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1999: Corby Hall said he was briefly identified as a person of interest in the Columbine massacre - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:23:06](/episodes/ep-jsqUIkszZd0.md#t-00-22-53)
 
 </details>
 </div>
@@ -43115,6 +43403,23 @@ _Total events: 1185_
 </details>
 </div>
 
+****
+
+<div class="timeline-event filter-item" id="event-1988-victor-marx-married-eileen-breeding">
+<div class="timeline-date">1988</div>
+<div class="timeline-desc"><a href="/events/event-1988-victor-marx-married-eileen-breeding.md">Victor Marx married Eileen Breeding</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1988: Victor Marx married Eileen Breeding - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:15:43](/episodes/ep-jsqUIkszZd0.md#t-00-15-12)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -43135,6 +43440,21 @@ _Total events: 1185_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:28:05](/episodes/ep-ZZGWo6oDscc.md#t-00-28-05)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-1987-glois-dean-kennedy-was-convicted-of-cons">
+<div class="timeline-date">1987</div>
+<div class="timeline-desc"><a href="/events/event-1987-glois-dean-kennedy-was-convicted-of-cons.md">Glois Dean Kennedy was convicted of conspiracy to import marijuana</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1987: Glois Dean Kennedy was convicted of conspiracy to import marijuana - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:11:05](/episodes/ep-jsqUIkszZd0.md#t-00-11-05)
 
 </details>
 </div>
@@ -43178,6 +43498,21 @@ _Total events: 1185_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:27:54](/episodes/ep-ZZGWo6oDscc.md#t-00-27-22)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-1986-victor-marx-said-he-found-christianity-w">
+<div class="timeline-date">1986</div>
+<div class="timeline-desc"><a href="/events/event-1986-victor-marx-said-he-found-christianity-w.md">Victor Marx said he found Christianity while stationed at Camp Pendleton</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1986: Victor Marx said he found Christianity while stationed at Camp Pendleton - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:15:43](/episodes/ep-jsqUIkszZd0.md#t-00-15-12)
 
 </details>
 </div>

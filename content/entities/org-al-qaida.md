@@ -1,6 +1,6 @@
 ---
 title: "Al-Qaida"
-description: "Al-Qaida (Organizations) - 3 mentions"
+description: "Al-Qaida (Organizations) - 4 mentions"
 id: "org-al-qaida"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [Country Reports on Terrorism 2019 - U.S. Department of State](https://2
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-al-qaida-t-01-03-51">2026-01-05 · 01:04:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-al-qaida-t-01-03-51">2026-01-05 · 01:04:13</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-org-al-qaida-t-00-41-31">2026-04-14 · 00:41:31</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,12 +38,14 @@ Source: [Country Reports on Terrorism 2019 - U.S. Department of State](https://2
 <p>Highest activity: <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-al-qaida-t-01-03-51">You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-al-qaida-t-01-03-51" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-org-al-qaida-t-00-41-31" style="--pulse-height:50%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-al-qaida-t-01-03-51) | 2 |
+| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-al-qaida-t-00-41-31) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [Country Reports on Terrorism 2019 - U.S. Department of State](https://2
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1 mentions)</summary>
+
+**[00:41:31](/episodes/ep-jsqUIkszZd0.md#ent-org-al-qaida-t-00-41-31)**
+> "...s overseas—the Taliban, ISIS, Al-Qaeda, arms deals to the Middle East in particular—gett..."
+
+</details>
 
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2 mentions)</summary>

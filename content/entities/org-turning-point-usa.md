@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA"
-description: "Turning Point USA (Organizations) - 1424 mentions"
+description: "Turning Point USA (Organizations) - 1437 mentions"
 id: "org-turning-point-usa"
 type: "ORG"
 aliases:
@@ -28,10 +28,10 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-turning-point-usa-t-00-00-37">2025-09-11 · 00:00:54</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-turning-point-usa-t-04-00-43">2026-08-14 · 04:00:53</a></strong></div>
-<div><span>Episodes</span><strong>98</strong></div>
-<div><span>Mentions</span><strong>1,424</strong></div>
+<div><span>Episodes</span><strong>99</strong></div>
+<div><span>Mentions</span><strong>1,437</strong></div>
 <div><span>Statements by</span><strong>12</strong></div>
-<div><span>Statements about</span><strong>409</strong></div>
+<div><span>Statements about</span><strong>410</strong></div>
 <div><span>Relationships</span><strong>160</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -137,6 +137,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-turning-point-usa-t-00-01-34" style="--pulse-height:11%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 6 mentions" title="2026-04-01 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-turning-point-usa-t-00-00-00" style="--pulse-height:35%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 19 mentions" title="2026-04-02 · 19 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-turning-point-usa-t-00-00-26" style="--pulse-height:18%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 10 mentions" title="2026-04-13 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-t-00-00-00" style="--pulse-height:24%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 13 mentions" title="2026-04-14 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-turning-point-usa-t-00-37-25" style="--pulse-height:33%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 18 mentions" title="2026-08-14 · 18 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -240,6 +241,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-turning-point-usa-t-00-01-34) | 6 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-turning-point-usa-t-00-00-00) | 19 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-turning-point-usa-t-00-00-26) | 10 |
+| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-t-00-00-00) | 13 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-turning-point-usa-t-00-37-25) | 18 |
 
 </details>
@@ -248,7 +250,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1424)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1437)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (18 mentions)</summary>
@@ -306,6 +308,50 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 **[04:00:53](/episodes/ep-nPhCKwJ6ye8.md#ent-org-turning-point-usa-t-04-00-43)**
 > "...that they take a meeting with Turning Point USA and they come out and suddenly have a lot of junk..."
+
+</details>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (13 mentions)</summary>
+
+**[00:00:11](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-t-00-00-00)**
+> "... Erika Kirk has involved with Turning Point USA via Turning Point Faith seems to have a connectio..."
+
+**[00:01:16](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-t-00-00-00)**
+> "Turning point faith was the infiltration. How many times have y..."
+
+**[00:04:34](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-t-00-00-00)**
+> "... in 2023, because that's when Turning Point USA faith actually begins, these planes seemed to be ..."
+
+**[00:06:36](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-t-00-00-00)**
+> "...o tell you more about, that a turning point faith affiliated pastor named Victor Marx was int..."
+
+**[00:06:55](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-t-00-00-00)**
+> "...f the affiliated pastors with Turning Point Faith, he also happens to be a Marine veteran."
+
+**[00:07:27](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-t-00-07-02)**
+> "Okay. How else has he tied a turning point? Well, he teaches an online educational course fo..."
+
+**[00:10:28](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-t-00-07-02)**
+> "...ross that are affiliated with Turning Point Faith."
+
+**[00:17:31](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-t-00-17-22)**
+> "...e to do with Charlie Kirk and Turning Point and September 10th? Well, I am going to tell you ..."
+
+**[00:40:49](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-t-00-17-22)**
+> "... not right, specifically with Turning Point Faith: the background, history, the Calvary Chape..."
+
+**[00:46:05](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-t-00-45-51)**
+> "...ng, these people that work at Turning Point USA."
+
+**[00:46:16](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-t-00-45-51)**
+> "... of that going around here at Turning Point."
+
+**[00:46:35](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-t-00-46-35)**
+> "...stion every single thing that Turning Point USA is doing."
+
+**[00:50:37](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-t-00-50-33)**
+> "...ike they just welcome this at Turning Point USA. Like, oh, Greg Laurie, yeah, is accused of traff..."
 
 </details>
 
@@ -6669,7 +6715,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA (409)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA (410)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3)</summary>
@@ -6682,6 +6728,14 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - [02:59:13](/episodes/ep-nPhCKwJ6ye8.md#t-02-59-13) (Opinion) **Candace Owens**: ["Candace Owens believes Erika Kirk is underqualified to run Turning Poi..."](/statements/statement-513faa7c49b5.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>
+
+- [00:50:37](/episodes/ep-jsqUIkszZd0.md#t-00-50-33) (Accusation) **Candace Owens**: ["Greg Laurie and Harvest Christian Fellowship have been accused of traf..."](/statements/statement-dd069fd32378.md)
+  - Also about: [Greg Laurie](/entities/person-greg-laurie.md), [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md), [Romania](/entities/gpe-romania.md)
 
 </details>
 

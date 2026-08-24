@@ -1,6 +1,6 @@
 ---
 title: "Bureau of Alcohol, Tobacco, Firearms and Explosives"
-description: "Bureau of Alcohol, Tobacco, Firearms and Explosives (Organizations) - 17 mentions"
+description: "Bureau of Alcohol, Tobacco, Firearms and Explosives (Organizations) - 25 mentions"
 id: "org-bureau-of-alcohol-tobacco-firearms-and-explosives"
 type: "ORG"
 aliases:
@@ -23,10 +23,10 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-00-00">2026-03-31 · 00:00:00</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-43-09">2026-08-14 · 00:43:09</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,6 +38,7 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-00-00" style="--pulse-height:100%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 14 mentions" title="2026-03-31 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-33-34" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-50-38" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-37-34" style="--pulse-height:57%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 8 mentions" title="2026-04-14 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-43-09" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -47,6 +48,7 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-00-00) | 14 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-33-34) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-50-38) | 1 |
+| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-37-34) | 8 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-43-09) | 1 |
 
 </details>
@@ -55,13 +57,42 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:43:09](/episodes/ep-nPhCKwJ6ye8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-43-09)**
 > "the ATF woman,"
+
+</details>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (8 mentions)</summary>
+
+**[00:37:58](/episodes/ep-jsqUIkszZd0.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-37-34)**
+> "...l) receives an email from the ATF."
+
+**[00:38:00](/episodes/ep-jsqUIkszZd0.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-37-34)**
+> "...l) receives an email from the ATF."
+
+**[00:38:11](/episodes/ep-jsqUIkszZd0.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-37-34)**
+> "...w what that means. What is an ATF trace on a gun? Why do they do that?"
+
+**[00:38:16](/episodes/ep-jsqUIkszZd0.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-38-16)**
+> "What does it mean? While the ATF is, of course, the Federal Bureau of Alcohol and ..."
+
+**[00:39:31](/episodes/ep-jsqUIkszZd0.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-39-31)**
+> "...he phone and he said, no, no, ATF never, never contacted me. The person who the gun..."
+
+**[00:39:51](/episodes/ep-jsqUIkszZd0.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-39-31)**
+> "...rwarded me the email from the ATF. It is real."
+
+**[00:40:23](/episodes/ep-jsqUIkszZd0.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-40-16)**
+> "...all) does, the timing of that ATF trace is indeed odd."
+
+**[00:57:51](/episodes/ep-jsqUIkszZd0.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-57-26)**
+> "...o try to get something out to ATF. Maybe we'll get a response."
 
 </details>
 
@@ -160,7 +191,26 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bureau of Alcohol, Tobacco, Firearms and Explosives (4)</strong></summary>
+<summary><strong class="section-title">Statements about Bureau of Alcohol, Tobacco, Firearms and Explosives (9)</strong></summary>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (5)</summary>
+
+- [00:37:48](/episodes/ep-jsqUIkszZd0.md#t-00-37-34) (Citation) **Candace Owens**: ["The ATF emailed Corby Hall at 9:33 a.m. Central on September 10, 2025,..."](/statements/statement-8293d5681ba1.md)
+  - Also about: [Corby Hall](/entities/person-corby-hall.md), [FoldAR](/entities/org-foldar.md)
+
+- [00:38:16](/episodes/ep-jsqUIkszZd0.md#t-00-38-16) (Claim) **Candace Owens**: ["An ATF firearm trace seeks the first retail purchaser of a firearm det..."](/statements/statement-018dc0981892.md)
+
+- [00:39:31](/episodes/ep-jsqUIkszZd0.md#t-00-39-31) (Claim) **Anonymous Source #1 (Ep jsqUIkszZd0)** (via read message): ["The Texas deputy told Corby Hall that the ATF had never contacted him ..."](/statements/statement-91fcc83aaace.md)
+  - Also about: [Corby Hall](/entities/person-corby-hall.md), [FoldAR](/entities/org-foldar.md)
+
+- [00:39:51](/episodes/ep-jsqUIkszZd0.md#t-00-39-31) (Citation) **Candace Owens**: ["Candace Owens says Corby Hall forwarded her the ATF email and other ev..."](/statements/statement-655b50af0fcc.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Corby Hall](/entities/person-corby-hall.md)
+
+- [00:57:51](/episodes/ep-jsqUIkszZd0.md#t-00-57-26) (Promise) **Candace Owens**: ["Candace Owens will try to obtain a response from the ATF."](/statements/statement-eb7a2e9932ec.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (4)</summary>

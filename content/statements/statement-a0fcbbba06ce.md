@@ -4,9 +4,10 @@ description: "\"I appoint my wife to run Turning Point USA if something happens 
 statement_id: "statement-a0fcbbba06ce"
 speaker: "Charlie Kirk"
 type: "promise"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "promise"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The episode plays audio containing this exact quotation. A later TPUSA video release publicly depicts Charlie Kirk delivering the same lines. Confidence is medium because only an edited public clip, not the complete Aspen recording, is available for independent review.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Charlie Kirk named wife Erika as Turning Point successor in video filmed before his death](https://news.meaww.com/charlie-kirk-named-wife-erika-as-turning-point-successor-in-video-filmed-before-his-death)
+
+*Verified: 2026-08-24T18:19:07.895985*
 
 ---
 

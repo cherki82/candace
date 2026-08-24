@@ -11,7 +11,7 @@ object: "person-michael-mccoy"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) has chief of staff [Michael McCoy](/entities/person-michael-mccoy)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
 
 **[EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo)**
 
@@ -20,6 +20,10 @@ object: "person-michael-mccoy"
 **[Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec)**
 
 - [00:02:11](/episodes/ep-c5BcKF91iec#t-00-02-11): _Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff._
+
+**[BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0)**
+
+- [00:04:09](/episodes/ep-jsqUIkszZd0#t-00-04-09): _after Mikey McCoy becomes the chief of staff in January of 2024, Charlie (Charlie Kirk) suddenly his schedule is beginning to mirror these Egyptian planes._
 
 ### Related
 

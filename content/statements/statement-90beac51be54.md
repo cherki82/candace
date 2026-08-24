@@ -4,9 +4,10 @@ description: "\"Donald Trump said he posted an AI image because he thought it de
 statement_id: "statement-90beac51be54"
 speaker: "Donald J. Trump"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -36,7 +37,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+AP and video reporting directly confirm Trump said he thought the AI image showed him as a doctor or Red Cross worker making people better.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Trump says he will not apologize to Pope Leo and explains his reason for posting much-criticized meme](https://apnews.com/article/02f6b4554ea4b83af02af15987ae1f2d)
+
+*Verified: 2026-08-24T18:19:57.402311*
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Greg Laurie"
-description: "Greg Laurie (People) - 9 mentions"
+description: "Greg Laurie (People) - 10 mentions"
 id: "person-greg-laurie"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-greg-laurie-t-00-13-35">2026-01-09 · 00:13:35</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-person-greg-laurie-t-00-14-50">2026-01-16 · 00:14:56</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-greg-laurie-t-00-50-33">2026-04-14 · 00:50:37</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,6 +38,7 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-greg-laurie-t-00-13-35" style="--pulse-height:33%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-greg-laurie-t-00-32-45" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 6 mentions" title="2026-01-13 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-greg-laurie-t-00-14-50" style="--pulse-height:17%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-person-greg-laurie-t-00-50-33" style="--pulse-height:17%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-greg-laurie-t-00-13-35) | 2 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-greg-laurie-t-00-32-45) | 6 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-greg-laurie-t-00-14-50) | 1 |
+| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-greg-laurie-t-00-50-33) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1 mentions)</summary>
+
+**[00:50:37](/episodes/ep-jsqUIkszZd0.md#ent-person-greg-laurie-t-00-50-33)**
+> "... Turning Point USA. Like, oh, Greg Laurie, yeah, is accused of trafficking—Harvest Church i..."
+
+</details>
 
 <details>
 <summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1 mentions)</summary>
@@ -155,7 +165,15 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Greg Laurie (4)</strong></summary>
+<summary><strong class="section-title">Statements about Greg Laurie (5)</strong></summary>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>
+
+- [00:50:37](/episodes/ep-jsqUIkszZd0.md#t-00-50-33) (Accusation) **Candace Owens**: ["Greg Laurie and Harvest Christian Fellowship have been accused of traf..."](/statements/statement-dd069fd32378.md)
+  - Also about: [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md), [Romania](/entities/gpe-romania.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (3)</summary>

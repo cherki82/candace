@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA Faith"
-description: "Turning Point USA Faith (Organizations) - 52 mentions"
+description: "Turning Point USA Faith (Organizations) - 60 mentions"
 id: "org-turning-point-usa-faith"
 type: "ORG"
 aliases:
@@ -26,12 +26,12 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-turning-point-usa-faith-t-00-42-50">2025-10-01 · 00:43:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-turning-point-usa-faith-t-00-15-11">2026-03-23 · 00:15:11</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>52</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-faith-t-00-40-49">2026-04-14 · 00:40:49</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>60</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>15</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -49,6 +49,7 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-usa-faith-t-00-07-24" style="--pulse-height:12%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-faith-t-00-18-07" style="--pulse-height:12%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-turning-point-usa-faith-t-00-15-11" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-faith-t-00-00-00" style="--pulse-height:47%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 8 mentions" title="2026-04-14 · 8 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,6 +65,7 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-usa-faith-t-00-07-24) | 2 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-faith-t-00-18-07) | 2 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-turning-point-usa-faith-t-00-15-11) | 1 |
+| 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-faith-t-00-00-00) | 8 |
 
 </details>
 </section>
@@ -71,7 +73,36 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+<summary><strong class="section-title">Raw mentions (60)</strong></summary>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (8 mentions)</summary>
+
+**[00:00:11](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-faith-t-00-00-00)**
+> "...ed with Turning Point USA via Turning Point Faith seems to have a connection to trafficking, right?"
+
+**[00:01:16](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-faith-t-00-00-42)**
+> "Turning point faith was the infiltration. How many times have you hea..."
+
+**[00:04:34](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-faith-t-00-04-09)**
+> "... in 2023, because that's when Turning Point USA faith actually begins, these planes seemed to be tracki..."
+
+**[00:06:36](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-faith-t-00-06-29)**
+> "...o tell you more about, that a turning point faith affiliated pastor named Victor Marx was intereste..."
+
+**[00:06:55](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-faith-t-00-06-29)**
+> "...f the affiliated pastors with Turning Point Faith, he also happens to be a Marine veteran."
+
+**[00:07:27](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-faith-t-00-07-02)**
+> "...online educational course for turning point faith entitled Freedom from Pornography."
+
+**[00:10:28](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-faith-t-00-10-28)**
+> "...ross that are affiliated with Turning Point Faith."
+
+**[00:40:49](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-faith-t-00-40-49)**
+> "... not right, specifically with Turning Point Faith: the background, history, the Calvary Chapel, Rob..."
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1 mentions)</summary>
@@ -370,12 +401,19 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (8)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** advisor to this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:09:32](/episodes/ep-Qt0VHV-POCg.md#t-00-09-15): “He was one of the advisors put on the board of advisory for TPUSA Faith.”
+
+</details>
+
+- **[Victor Marx](/entities/person-victor-marx.md)** affiliated with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:06:36](/episodes/ep-jsqUIkszZd0.md#t-00-06-29): “a turning point faith affiliated pastor named Victor Marx was interested in owning. He wanted to purchase his company.”
 
 </details>
 
@@ -427,7 +465,14 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA Faith (4)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA Faith (5)</strong></summary>
+
+<details>
+<summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>
+
+- [00:01:16](/episodes/ep-jsqUIkszZd0.md#t-00-00-42) (Accusation) **Candace Owens**: ["Turning Point Faith was the infiltration."](/statements/statement-1307f6f686b8.md)
+
+</details>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
