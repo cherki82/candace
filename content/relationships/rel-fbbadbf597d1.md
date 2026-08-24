@@ -11,7 +11,11 @@ object: "person-lindsey-graham"
 
 ## [Candace Owens](/entities/person-candace-owens) criticized [Lindsey Graham](/entities/person-lindsey-graham)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs)**
+
+- [00:43:36](/episodes/ep-7ERqbYElOfs#t-00-43-36): _the disgusting Lindsey Graham. ... who's just a traitor he's treacherous he's disgusting_
 
 **[HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk)**
 

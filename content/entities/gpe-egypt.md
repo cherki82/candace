@@ -1,6 +1,6 @@
 ---
 title: "Egypt"
-description: "Egypt (Places) - 218 mentions"
+description: "Egypt (Places) - 222 mentions"
 id: "gpe-egypt"
 type: "GPE"
 aliases:
@@ -21,11 +21,11 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-egypt-t-00-47-32">2025-10-09 · 00:47:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-egypt-t-00-39-00">2026-03-26 · 00:39:07</a></strong></div>
-<div><span>Episodes</span><strong>37</strong></div>
-<div><span>Mentions</span><strong>218</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-egypt-t-00-36-17">2026-04-01 · 00:36:17</a></strong></div>
+<div><span>Episodes</span><strong>39</strong></div>
+<div><span>Mentions</span><strong>222</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -71,6 +71,8 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-egypt-t-00-20-39" style="--pulse-height:11%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-egypt-t-00-29-02" style="--pulse-height:44%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 8 mentions" title="2026-03-23 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-egypt-t-00-38-21" style="--pulse-height:11%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-egypt-t-00-25-03" style="--pulse-height:8%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-egypt-t-00-02-45" style="--pulse-height:17%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 3 mentions" title="2026-04-01 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -113,6 +115,8 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-egypt-t-00-20-39) | 2 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-egypt-t-00-29-02) | 8 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-egypt-t-00-38-21) | 2 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-egypt-t-00-25-03) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-gpe-egypt-t-00-02-45) | 3 |
 
 </details>
 </section>
@@ -120,7 +124,29 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (218)</strong></summary>
+<summary><strong class="section-title">Raw mentions (222)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (3 mentions)</summary>
+
+**[00:03:07](/episodes/ep-rupRLXmSndU.md#ent-gpe-egypt-t-00-02-45)**
+> "Egyptian"
+
+**[00:35:55](/episodes/ep-rupRLXmSndU.md#ent-gpe-egypt-t-00-35-55)**
+> "...w angle. And like I said, the Egyptian planes kept telling me the story that every time ..."
+
+**[00:36:17](/episodes/ep-rupRLXmSndU.md#ent-gpe-egypt-t-00-36-17)**
+> "...en very meticulous about this egyptian plane spreadsheet and uh it now this is this is l..."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1 mentions)</summary>
+
+**[00:25:10](/episodes/ep-7ERqbYElOfs.md#ent-gpe-egypt-t-00-25-03)**
+> "It's so we're so far past ridiculous laughing at the Egyptian. Oh, what could Israel have to do with France? What are we talking about? The French military doing assassinations for Freemasons. And here we are today."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (2 mentions)</summary>
@@ -1006,7 +1032,15 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Egypt (11)</strong></summary>
+<summary><strong class="section-title">Statements about Egypt (12)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1)</summary>
+
+- [00:36:17](/episodes/ep-rupRLXmSndU.md#t-00-36-17) (Opinion) **Candace Owens**: ["Candace Owens said she was not claiming Benjamin Netanyahu was aboard ..."](/statements/statement-f1817735b17d.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Provo](/entities/gpe-provo.md), [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1)</summary>

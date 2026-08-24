@@ -1,6 +1,6 @@
 ---
 title: "Hillary Clinton"
-description: "Hillary Clinton (People) - 15 mentions"
+description: "Hillary Clinton (People) - 18 mentions"
 id: "person-hillary-clinton"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Hillary Rodham Clinton | Clinton Foundation](https://www.clintonfoundat
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-hillary-clinton-t-00-26-53">2025-12-08 · 00:27:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-hillary-clinton-t-00-04-11">2026-03-02 · 00:04:11</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-hillary-clinton-t-00-52-23">2026-04-13 · 00:52:55</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -44,6 +44,8 @@ Source: [Hillary Rodham Clinton | Clinton Foundation](https://www.clintonfoundat
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-hillary-clinton-t-00-02-57" style="--pulse-height:75%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 3 mentions" title="2026-02-25 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-person-hillary-clinton-t-00-09-19" style="--pulse-height:25%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-hillary-clinton-t-00-04-11" style="--pulse-height:25%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-hillary-clinton-t-00-05-20" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-hillary-clinton-t-00-52-23" style="--pulse-height:25%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +59,8 @@ Source: [Hillary Rodham Clinton | Clinton Foundation](https://www.clintonfoundat
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-hillary-clinton-t-00-02-57) | 3 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-person-hillary-clinton-t-00-09-19) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-hillary-clinton-t-00-04-11) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-hillary-clinton-t-00-05-20) | 2 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-hillary-clinton-t-00-52-23) | 1 |
 
 </details>
 </section>
@@ -64,7 +68,26 @@ Source: [Hillary Rodham Clinton | Clinton Foundation](https://www.clintonfoundat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
+
+**[00:52:55](/episodes/ep-eLgD5yUVbko.md#ent-person-hillary-clinton-t-00-52-23)**
+> "Hillary Clinton"
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (2 mentions)</summary>
+
+**[00:05:35](/episodes/ep-ZIH5-V6UPkg.md#ent-person-hillary-clinton-t-00-05-20)**
+> "...unattractive or when you said Hillary Clinton should be in prison, it played to the crowd becau..."
+
+**[00:21:43](/episodes/ep-ZIH5-V6UPkg.md#ent-person-hillary-clinton-t-00-21-17)**
+> "...rything that you once claimed Hillary Clinton was, respectfully."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1 mentions)</summary>

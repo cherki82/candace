@@ -1,6 +1,6 @@
 ---
 title: "Blackout"
-description: "Blackout (Works & Media) - 17 mentions"
+description: "Blackout (Works & Media) - 18 mentions"
 id: "work-blackout"
 type: "WORK"
 categories:
@@ -17,9 +17,9 @@ Source: [Shop Candace — Signed book bundle](https://shop.candaceowens.com/coll
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-work-blackout-t-00-43-37">2025-09-25 · 00:44:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-work-blackout-t-00-53-37">2026-02-13 · 00:53:39</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-work-blackout-t-00-42-29">2026-04-01 · 00:42:29</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -42,6 +42,7 @@ Source: [Shop Candace — Signed book bundle](https://shop.candaceowens.com/coll
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-blackout-t-00-55-01" style="--pulse-height:33%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-work-blackout-t-00-35-59" style="--pulse-height:33%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-work-blackout-t-00-53-37" style="--pulse-height:33%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-work-blackout-t-00-42-29" style="--pulse-height:33%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -59,6 +60,7 @@ Source: [Shop Candace — Signed book bundle](https://shop.candaceowens.com/coll
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-work-blackout-t-00-55-01) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-work-blackout-t-00-35-59) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-work-blackout-t-00-53-37) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-work-blackout-t-00-42-29) | 1 |
 
 </details>
 </section>
@@ -66,7 +68,15 @@ Source: [Shop Candace — Signed book bundle](https://shop.candaceowens.com/coll
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
+
+**[00:42:29](/episodes/ep-rupRLXmSndU.md#ent-work-blackout-t-00-42-29)**
+> "Blackout"
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>

@@ -1,25 +1,33 @@
 ---
 title: "Twitter"
-description: "Twitter (Organizations) - 33 mentions"
+description: "Twitter (Organizations) - 34 mentions"
 id: "org-twitter"
 type: "ORG"
 aliases:
   - "X"
   - "Twitter"
   - "Twitter headquarters"
+categories:
+  - "social media platform"
 ---
 
 _Type: Organizations_
 
 **Also known as:** X, Twitter, Twitter headquarters
 
+**Categories:** social media platform
+
 > **Possibly overlapping entity records:** [X](/entities/org-x-platform). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> Official X Help identifies the platform now branded X and retains Twitter terminology; the existing Twitter entity correctly carries X as an alias.
+Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twitter-myths)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-twitter-t-00-12-01">2025-09-15 · 00:12:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-twitter-t-00-32-47">2026-03-25 · 00:32:47</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-16-28">2026-04-02 · 00:16:34</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>34</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -50,6 +58,7 @@ _Type: Organizations_
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-twitter-t-00-21-36" style="--pulse-height:75%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#t-00-19-44" style="--pulse-height:50%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-twitter-t-00-32-47" style="--pulse-height:25%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-16-28" style="--pulse-height:25%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -75,6 +84,7 @@ _Type: Organizations_
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-twitter-t-00-21-36) | 3 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#t-00-19-44) | 2 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-twitter-t-00-32-47) | 1 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-16-28) | 1 |
 
 </details>
 </section>
@@ -82,7 +92,15 @@ _Type: Organizations_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:16:34](/episodes/ep-q1NRQQAYS_Q.md#t-00-16-28)**
+> "the video that he shared on X."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>

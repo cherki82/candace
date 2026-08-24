@@ -1,6 +1,6 @@
 ---
 title: "United States Marine Corps"
-description: "United States Marine Corps (Organizations) - 40 mentions"
+description: "United States Marine Corps (Organizations) - 43 mentions"
 id: "org-united-states-marine-corps"
 type: "ORG"
 aliases:
@@ -26,11 +26,11 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#t-00-55-02">2025-09-22 · 00:55:07</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07">2026-08-14 · 03:04:07</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>40</strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>43</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>16</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -54,6 +54,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-marine-corps-t-00-05-32" style="--pulse-height:75%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 6 mentions" title="2026-03-10 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-16-35" style="--pulse-height:100%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 8 mentions" title="2026-03-11 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-united-states-marine-corps-t-00-15-03" style="--pulse-height:38%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-united-states-marine-corps-t-00-23-01" style="--pulse-height:38%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07" style="--pulse-height:12%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -76,6 +77,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-marine-corps-t-00-05-32) | 6 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-16-35) | 8 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-united-states-marine-corps-t-00-15-03) | 3 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-united-states-marine-corps-t-00-23-01) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07) | 1 |
 
 </details>
@@ -84,13 +86,27 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+<summary><strong class="section-title">Raw mentions (43)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[03:04:07](/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07)**
 > "...ing forward uh we have former marines that have gotten on and said it looks to me like ..."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (3 mentions)</summary>
+
+**[00:23:01](/episodes/ep-7ERqbYElOfs.md#ent-org-united-states-marine-corps-t-00-23-01)**
+> "And Jonathan Marcello is an interesting character because of his background. Of course, he's a Marine in the Marine Corps from 2013 at least until up until 2017."
+
+**[00:23:12](/episodes/ep-7ERqbYElOfs.md#ent-org-united-states-marine-corps-t-00-23-01)**
+> "...was providing security to the Marine Corps to their various embassies throughout the world. ..."
+
+**[00:25:38](/episodes/ep-7ERqbYElOfs.md#ent-org-united-states-marine-corps-t-00-25-03)**
+> "Have you heard? He's sending Marines boots on the ground for Bibi (Benjamin Netanyahu)..."
 
 </details>
 
@@ -297,7 +313,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Formerly Employed (2)</summary>
+<summary>Formerly Employed (3)</summary>
 
 - **[Robert Eugene Flood](/entities/person-robert-eugene-flood.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -310,6 +326,13 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:19:15](/episodes/ep-9naMwS0kMBE.md#t-00-18-46): “there was a woman named Catherine Griggs who was married to a colonel in the Marine named George Griggs in the late 1980s”
+
+</details>
+
+- **[Jonathan Barcelo](/entities/person-jonathan-barcelo.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:23:01](/episodes/ep-7ERqbYElOfs.md#t-00-23-01): “he's a Marine in the Marine Corps from 2013 at least until up until 2017.”
 
 </details>
 
@@ -328,7 +351,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (8)</summary>
 
 - **[Romanian Angels Project](/entities/org-romanian-angels-project.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -355,6 +378,13 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:19:15](/episodes/ep-9naMwS0kMBE.md#t-00-18-46): “there was a woman named Catherine Griggs who was married to a colonel in the Marine named George Griggs in the late 1980s”
+
+</details>
+
+- **[Jonathan Barcelo](/entities/person-jonathan-barcelo.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:23:01](/episodes/ep-7ERqbYElOfs.md#t-00-23-01): “he's a Marine in the Marine Corps from 2013 at least until up until 2017.”
 
 </details>
 
@@ -388,7 +418,18 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Marine Corps (16)</strong></summary>
+<summary><strong class="section-title">Statements about United States Marine Corps (18)</strong></summary>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (2)</summary>
+
+- [00:23:01](/episodes/ep-7ERqbYElOfs.md#t-00-23-01) (Claim) **Candace Owens**: ["Jonathan Barcelo served in the U.S. Marine Corps from about 2013 to 20..."](/statements/statement-e43a8d56e492.md)
+  - Also about: [Jonathan Barcelo](/entities/person-jonathan-barcelo.md), [Chile](/entities/gpe-chile.md)
+
+- [00:25:34](/episodes/ep-7ERqbYElOfs.md#t-00-25-03) (Claim) **Candace Owens**: ["Donald Trump was sending U.S. Marines into Iran for Benjamin Netanyahu..."](/statements/statement-a668190d0262.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1)</summary>

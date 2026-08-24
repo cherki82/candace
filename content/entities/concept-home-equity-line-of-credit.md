@@ -1,6 +1,6 @@
 ---
 title: "Home equity line of credit"
-description: "Home equity line of credit (Concepts) - 18 mentions"
+description: "Home equity line of credit (Concepts) - 22 mentions"
 id: "concept-home-equity-line-of-credit"
 type: "CONCEPT"
 aliases:
@@ -22,9 +22,9 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-home-equity-line-of-credit-t-00-53-56">2026-01-07 · 00:54:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-concept-home-equity-line-of-credit-t-00-40-14">2026-03-26 · 00:40:47</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-home-equity-line-of-credit-t-00-50-35">2026-04-13 · 00:50:35</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -53,6 +53,10 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-home-equity-line-of-credit-t-00-48-45" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-concept-home-equity-line-of-credit-t-00-49-31" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-concept-home-equity-line-of-credit-t-00-40-14" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-concept-home-equity-line-of-credit-t-00-57-44" style="--pulse-height:100%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-concept-home-equity-line-of-credit-t-00-49-14" style="--pulse-height:100%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-home-equity-line-of-credit-t-00-40-28" style="--pulse-height:100%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-home-equity-line-of-credit-t-00-50-35" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -76,6 +80,10 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-concept-home-equity-line-of-credit-t-00-48-45) | 1 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-concept-home-equity-line-of-credit-t-00-49-31) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-concept-home-equity-line-of-credit-t-00-40-14) | 1 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-concept-home-equity-line-of-credit-t-00-57-44) | 1 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-concept-home-equity-line-of-credit-t-00-49-14) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-home-equity-line-of-credit-t-00-40-28) | 1 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-concept-home-equity-line-of-credit-t-00-50-35) | 1 |
 
 </details>
 </section>
@@ -83,7 +91,39 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
+
+**[00:50:35](/episodes/ep-eLgD5yUVbko.md#ent-concept-home-equity-line-of-credit-t-00-50-35)**
+> "Unlike a HELOC"
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:41:05](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-home-equity-line-of-credit-t-00-40-28)**
+> "Unlike a HELOC, which can fluctuate with the market, the Smart E..."
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:49:38](/episodes/ep-q1NRQQAYS_Q.md#ent-concept-home-equity-line-of-credit-t-00-49-14)**
+> "HELOC"
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
+
+**[00:58:16](/episodes/ep-UYkXV9mYbT4.md#ent-concept-home-equity-line-of-credit-t-00-57-44)**
+> "...r low mortgage rate. Unlike a HELOC, which can fluctuate with the market, the SMART e..."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>

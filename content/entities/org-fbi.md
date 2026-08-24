@@ -1,6 +1,6 @@
 ---
 title: "FBI"
-description: "FBI (Organizations) - 442 mentions"
+description: "FBI (Organizations) - 503 mentions"
 id: "org-fbi"
 type: "ORG"
 aliases:
@@ -28,65 +28,70 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-fbi-t-00-36-23">2025-09-15 · 00:36:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-02-22-33">2026-08-14 · 02:22:33</a></strong></div>
-<div><span>Episodes</span><strong>47</strong></div>
-<div><span>Mentions</span><strong>442</strong></div>
+<div><span>Episodes</span><strong>52</strong></div>
+<div><span>Mentions</span><strong>503</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>69</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>97</strong></div>
+<div><span>Relationships</span><strong>17</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-fbi-t-00-00-01">Who Ordered The Hit On Charlie Kirk? | Candace Ep 237</a> (29 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-00-42">PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319</a> (30 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-fbi-t-00-36-23" style="--pulse-height:38%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 11 mentions" title="2025-09-15 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-fbi-t-00-36-23" style="--pulse-height:37%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 11 mentions" title="2025-09-15 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-q7f8r-THr84.md#ent-org-fbi-t-00-24-46" style="--pulse-height:8%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 2 mentions" title="2025-09-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-fbi-t-00-00-01" style="--pulse-height:100%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 29 mentions" title="2025-09-17 · 29 mentions"><span></span></a>
-<a href="/episodes/ep-sreYYcID-QY.md#ent-org-fbi-t-00-01-20" style="--pulse-height:48%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 14 mentions" title="2025-09-18 · 14 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-fbi-t-00-07-53" style="--pulse-height:41%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 12 mentions" title="2025-09-19 · 12 mentions"><span></span></a>
-<a href="/episodes/ep-ja26iltROkM.md#ent-org-fbi-t-00-13-34" style="--pulse-height:45%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 13 mentions" title="2025-09-22 · 13 mentions"><span></span></a>
-<a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-fbi-t-00-21-56" style="--pulse-height:21%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 6 mentions" title="2025-09-23 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-fbi-t-00-00-01" style="--pulse-height:55%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 16 mentions" title="2025-09-24 · 16 mentions"><span></span></a>
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-org-fbi-t-00-09-59" style="--pulse-height:41%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 12 mentions" title="2025-09-25 · 12 mentions"><span></span></a>
-<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-fbi-t-00-01-38" style="--pulse-height:21%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 6 mentions" title="2025-09-29 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-fbi-t-00-00-01" style="--pulse-height:97%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 29 mentions" title="2025-09-17 · 29 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-org-fbi-t-00-01-20" style="--pulse-height:47%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 14 mentions" title="2025-09-18 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-fbi-t-00-07-53" style="--pulse-height:40%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 12 mentions" title="2025-09-19 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-org-fbi-t-00-13-34" style="--pulse-height:43%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 13 mentions" title="2025-09-22 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-fbi-t-00-21-56" style="--pulse-height:20%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 6 mentions" title="2025-09-23 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-fbi-t-00-00-01" style="--pulse-height:53%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 16 mentions" title="2025-09-24 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-org-fbi-t-00-09-59" style="--pulse-height:40%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 12 mentions" title="2025-09-25 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-fbi-t-00-01-38" style="--pulse-height:20%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 6 mentions" title="2025-09-29 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-fbi-t-00-31-28" style="--pulse-height:10%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 3 mentions" title="2025-09-30 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-fbi-t-00-00-36" style="--pulse-height:48%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 14 mentions" title="2025-10-01 · 14 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-fbi-t-00-00-00" style="--pulse-height:69%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 20 mentions" title="2025-10-02 · 20 mentions"><span></span></a>
-<a href="/episodes/ep-ozWJz2spBcI.md#ent-org-fbi-t-00-03-29" style="--pulse-height:34%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 10 mentions" title="2025-10-06 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-5autG89PW6w.md#ent-org-fbi-t-00-27-54" style="--pulse-height:34%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 10 mentions" title="2025-10-07 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-fbi-t-00-50-32" style="--pulse-height:14%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 4 mentions" title="2025-10-08 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-fbi-t-00-17-22" style="--pulse-height:31%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 9 mentions" title="2025-10-09 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-fbi-t-00-00-36" style="--pulse-height:47%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 14 mentions" title="2025-10-01 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-fbi-t-00-00-00" style="--pulse-height:67%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 20 mentions" title="2025-10-02 · 20 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-org-fbi-t-00-03-29" style="--pulse-height:33%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 10 mentions" title="2025-10-06 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-org-fbi-t-00-27-54" style="--pulse-height:33%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 10 mentions" title="2025-10-07 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-fbi-t-00-50-32" style="--pulse-height:13%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 4 mentions" title="2025-10-08 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-fbi-t-00-17-22" style="--pulse-height:30%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 9 mentions" title="2025-10-09 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-c5BcKF91iec.md#ent-org-fbi-t-00-04-27" style="--pulse-height:8%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 2 mentions" title="2025-10-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-fbi-t-00-00-46" style="--pulse-height:31%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 9 mentions" title="2025-10-29 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-fbi-t-00-01-22" style="--pulse-height:14%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 4 mentions" title="2025-10-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-fbi-t-00-00-46" style="--pulse-height:30%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 9 mentions" title="2025-10-29 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-fbi-t-00-01-22" style="--pulse-height:13%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 4 mentions" title="2025-10-30 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-fbi-t-00-14-25" style="--pulse-height:8%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-K1tFD7FfoCU.md#ent-org-fbi-t-00-34-40" style="--pulse-height:31%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 9 mentions" title="2025-11-03 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-fbi-t-00-20-17" style="--pulse-height:21%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 6 mentions" title="2025-11-06 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-org-fbi-t-00-34-40" style="--pulse-height:30%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 9 mentions" title="2025-11-03 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-fbi-t-00-20-17" style="--pulse-height:20%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 6 mentions" title="2025-11-06 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-org-fbi-t-00-48-15" style="--pulse-height:8%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-fbi-t-00-02-01" style="--pulse-height:31%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 9 mentions" title="2025-11-10 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-fbi-t-00-02-01" style="--pulse-height:30%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 9 mentions" title="2025-11-10 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-fbi-t-00-36-22" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-fbi-t-00-22-28" style="--pulse-height:28%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 8 mentions" title="2025-11-13 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-fbi-t-00-22-28" style="--pulse-height:27%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 8 mentions" title="2025-11-13 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-fbi-t-00-42-30" style="--pulse-height:10%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 3 mentions" title="2025-11-15 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-fbi-t-00-24-14" style="--pulse-height:8%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-org-fbi-t-00-10-23" style="--pulse-height:21%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 6 mentions" title="2025-11-18 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-org-fbi-t-00-06-15" style="--pulse-height:48%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 14 mentions" title="2025-11-19 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-org-fbi-t-00-10-23" style="--pulse-height:20%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 6 mentions" title="2025-11-18 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-org-fbi-t-00-06-15" style="--pulse-height:47%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 14 mentions" title="2025-11-19 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-sImMM04XdWY.md#ent-org-fbi-t-00-03-29" style="--pulse-height:17%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 5 mentions" title="2025-11-20 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-fbi-t-00-06-30" style="--pulse-height:14%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 4 mentions" title="2025-11-21 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-fbi-t-00-08-40" style="--pulse-height:34%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 10 mentions" title="2025-12-01 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-fbi-t-00-00-00" style="--pulse-height:31%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 9 mentions" title="2025-12-02 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-fbi-t-00-06-30" style="--pulse-height:13%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 4 mentions" title="2025-11-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-fbi-t-00-08-40" style="--pulse-height:33%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 10 mentions" title="2025-12-01 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-fbi-t-00-00-00" style="--pulse-height:30%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 9 mentions" title="2025-12-02 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-fbi-t-00-22-24" style="--pulse-height:10%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-org-fbi-t-00-00-41" style="--pulse-height:17%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 5 mentions" title="2025-12-05 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-fbi-t-00-33-44" style="--pulse-height:8%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-fbi-t-00-06-27" style="--pulse-height:17%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 5 mentions" title="2025-12-08 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-fbi-t-00-22-08" style="--pulse-height:31%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 9 mentions" title="2025-12-10 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-fbi-t-00-22-08" style="--pulse-height:30%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 9 mentions" title="2025-12-10 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-fbi-t-00-50-01" style="--pulse-height:17%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 5 mentions" title="2025-12-12 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-02-01" style="--pulse-height:76%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 22 mentions" title="2025-12-17 · 22 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-02-01" style="--pulse-height:73%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 22 mentions" title="2025-12-17 · 22 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-fbi-t-00-35-08" style="--pulse-height:17%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 5 mentions" title="2025-12-18 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-fbi-t-00-02-42" style="--pulse-height:10%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 3 mentions" title="2026-03-23 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-fbi-t-00-54-24" style="--pulse-height:14%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 4 mentions" title="2026-03-24 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-fbi-t-00-28-01" style="--pulse-height:24%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 7 mentions" title="2026-03-25 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-00-31-26" style="--pulse-height:59%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-fbi-t-00-54-24" style="--pulse-height:13%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 4 mentions" title="2026-03-24 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-fbi-t-00-28-01" style="--pulse-height:23%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 7 mentions" title="2026-03-25 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-fbi-t-00-08-14" style="--pulse-height:30%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 9 mentions" title="2026-03-30 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-00-42" style="--pulse-height:100%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 30 mentions" title="2026-03-31 · 30 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-fbi-t-00-05-14" style="--pulse-height:37%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 11 mentions" title="2026-04-01 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-fbi-t-00-46-50" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-fbi-t-00-34-18" style="--pulse-height:30%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 9 mentions" title="2026-04-13 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-00-31-26" style="--pulse-height:57%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -138,6 +143,11 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-fbi-t-00-02-42) | 3 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-fbi-t-00-54-24) | 4 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-fbi-t-00-28-01) | 7 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-fbi-t-00-08-14) | 9 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-00-42) | 30 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-fbi-t-00-05-14) | 11 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-fbi-t-00-46-50) | 1 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-fbi-t-00-34-18) | 9 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-00-31-26) | 17 |
 
 </details>
@@ -146,7 +156,7 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (442)</strong></summary>
+<summary><strong class="section-title">Raw mentions (503)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (17 mentions)</summary>
@@ -201,6 +211,211 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 
 **[01:59:17](/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-01-59-17)**
 > "...nto evidence they took it The FBI,"
+
+</details>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (9 mentions)</summary>
+
+**[00:34:35](/episodes/ep-eLgD5yUVbko.md#ent-org-fbi-t-00-34-18)**
+> "the FBI had a press conference"
+
+**[00:00:26](/episodes/ep-eLgD5yUVbko.md#ent-org-fbi-t-00-00-26)**
+> "...see i see no way in which the feds can win this case Ace Tyler Robinson, in my view,..."
+
+**[00:35:25](/episodes/ep-eLgD5yUVbko.md#ent-org-fbi-t-00-35-25)**
+> "At 9.48, the FBI Salt Lake City releases the static images. That's..."
+
+**[00:35:51](/episodes/ep-eLgD5yUVbko.md#ent-org-fbi-t-00-35-25)**
+> "...ve on the scene. At 6.17, the FBI Salt Lake City releases another round of photos o..."
+
+**[00:37:29](/episodes/ep-eLgD5yUVbko.md#ent-org-fbi-t-00-37-20)**
+> "...ert Bowles, you know, the new FBI guy they had just put in place from D.C. They bro..."
+
+**[00:43:37](/episodes/ep-eLgD5yUVbko.md#ent-org-fbi-t-00-43-37)**
+> "...a piece of paper and then the feds got caught lying and then they altered things and..."
+
+**[00:45:32](/episodes/ep-eLgD5yUVbko.md#ent-org-fbi-t-00-45-03)**
+> "...king for and on behalf of the feds. He would be the perfect person to set up Tyler R..."
+
+**[00:46:02](/episodes/ep-eLgD5yUVbko.md#ent-org-fbi-t-00-45-40)**
+> "...ionship between lance and the feds is unnatural i presented that to you lance's own ..."
+
+**[00:46:42](/episodes/ep-eLgD5yUVbko.md#ent-org-fbi-t-00-46-23)**
+> "...ng to do this that is how the feds can turn somebody into an asset"
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:47:16](/episodes/ep-q1NRQQAYS_Q.md#ent-org-fbi-t-00-46-50)**
+> "FBI"
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (11 mentions)</summary>
+
+**[00:05:41](/episodes/ep-rupRLXmSndU.md#ent-org-fbi-t-00-05-14)**
+> "FBI"
+
+**[00:07:38](/episodes/ep-rupRLXmSndU.md#ent-org-fbi-t-00-07-03)**
+> "Wonder if the FBI is interested in that tidbit that I have said on ..."
+
+**[00:07:52](/episodes/ep-rupRLXmSndU.md#ent-org-fbi-t-00-07-43)**
+> "...tion from our director of the FBI, which held a lot more weight, claiming officiall..."
+
+**[00:08:16](/episodes/ep-rupRLXmSndU.md#ent-org-fbi-t-00-07-43)**
+> "...for your partnership with the FBI. We will provide updates when able."
+
+**[00:08:25](/episodes/ep-rupRLXmSndU.md#ent-org-fbi-t-00-08-25)**
+> "... and you see that director of FBI has tweeted that you just stop looking."
+
+**[00:32:01](/episodes/ep-rupRLXmSndU.md#ent-org-fbi-t-00-31-39)**
+> "...had mentioned to you that the FBI is bringing back a flawed technique out of retire..."
+
+**[00:32:25](/episodes/ep-rupRLXmSndU.md#ent-org-fbi-t-00-32-16)**
+> "...he Washington Post from 2007. FBI's forensic test is full of holes. The article goe..."
+
+**[00:32:56](/episodes/ep-rupRLXmSndU.md#ent-org-fbi-t-00-32-56)**
+> "...acturing process rendered the FBI's testimony about the science unreliable and pote..."
+
+**[00:33:08](/episodes/ep-rupRLXmSndU.md#ent-org-fbi-t-00-32-56)**
+> "...Sciences said that decades of FBI statements to jurors linking a particular bullet ..."
+
+**[00:33:29](/episodes/ep-rupRLXmSndU.md#ent-org-fbi-t-00-32-56)**
+> "So the FBI came up with their own chemistry."
+
+**[00:34:11](/episodes/ep-rupRLXmSndU.md#ent-org-fbi-t-00-33-34)**
+> "...that flawed analysis that the FBI is now going to try to use because it's ridiculou..."
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (30 mentions)</summary>
+
+**[00:01:01](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-00-42)**
+> "...his on him, and I do mean the FBI. From JFK to MLK, now to CJK, this is, in my opin..."
+
+**[00:08:17](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-08-03)**
+> "The feds were. The FBI. The FBI was on the phone with Justin Streif, Fra..."
+
+**[00:08:30](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-08-03)**
+> "...ation was so important to the FBI?"
+
+**[00:08:36](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-08-03)**
+> "Why would the feds be concerned about whether or not I had the back ..."
+
+**[00:10:56](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-08-03)**
+> "...ay as they were freaking out, feds calling me, my husband, feds calling Turning Poin..."
+
+**[00:14:42](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-14-06)**
+> "...s. Because at some point, the feds realized that their initial plan was completely r..."
+
+**[00:15:08](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-14-49)**
+> "I think the feds then realized that. First we got the bullet, then..."
+
+**[00:16:31](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-16-08)**
+> "...y they are convinced that the feds planted it when they arrived, was not fired on Se..."
+
+**[00:17:41](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-17-24)**
+> "...prosecution wants the corrupt FBI to conduct their own analysis, and I'm going to t..."
+
+**[00:17:52](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-17-24)**
+> "...nk it's pretty clear that the feds are working with Turning Point USA and all eviden..."
+
+**[00:18:01](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-18-01)**
+> "...t WVU. Everyone is saying the feds are a part of a broader conspiracy and based on t..."
+
+**[00:20:54](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-20-47)**
+> "...stics reports authored by the FBI and the ATF, phone and social media data testimon..."
+
+**[00:29:39](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-29-32)**
+> "Of the FBI's and the ATF's DNA analysis, including but not l..."
+
+**[00:32:32](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-32-17)**
+> "..., DNA reports produced by the FBI and the ATF indicate that both agencies recovered..."
+
+**[00:37:11](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-37-05)**
+> "...is always in the details. The feds are always in the details. Okay, now I'm going to..."
+
+**[00:39:04](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-38-32)**
+> "...e has also indicated that the FBI is in the process of conducting a second comparat..."
+
+**[00:39:24](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-39-16)**
+> "...do a secondary thing with the feds and like me, I'm nosy."
+
+**[00:39:28](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-39-16)**
+> "...it, what extra power does the FBI have to do it? If the firearm people can't do it,..."
+
+**[00:40:11](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-39-53)**
+> "It was primarily used by the FBI from the 1980s until 2004, but it was then abando..."
+
+**[00:40:55](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-40-32)**
+> "...bullet fit no matter what the feds will do it."
+
+**[00:41:30](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-41-30)**
+> "...d hundreds of trials, but the FBI stopped using it over flaws in the science."
+
+**[00:42:24](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-42-24)**
+> "... Eates, no longer used by the FBI."
+
+**[00:42:38](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-42-24)**
+> "... or a bullet too damaged, the FBI claimed at the time their science could match bul..."
+
+**[00:42:58](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-42-58)**
+> "But in 2005, the FBI pulled the plug on this practice. Their admission..."
+
+**[00:43:59](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-43-59)**
+> "...an do like you know where the feds with the fed boys love you but can we give you an..."
+
+**[00:44:23](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-43-59)**
+> "And the feds are like, yeah, that's what we're trying to do. W..."
+
+**[00:44:34](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-44-34)**
+> "...tream news reporting that the FBI is bringing back an already debunked technique so..."
+
+**[00:45:34](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-45-15)**
+> "How openly corrupt the feds are being. Please, guys, in your capacity, share ..."
+
+**[00:45:41](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-45-15)**
+> "Make it viral, okay? The feds are so corrupt. Truly, I am like fed up, literall..."
+
+**[00:45:48](/episodes/ep-UYkXV9mYbT4.md#ent-org-fbi-t-00-45-15)**
+> "Federal Bureau of Investigation, we have had enough, okay? Now to finish some oth..."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (9 mentions)</summary>
+
+**[00:08:50](/episodes/ep-7ERqbYElOfs.md#ent-org-fbi-t-00-08-14)**
+> "I sent something to the FBI. I sent it to the White House. I told you this was real and that they were on the ground that day. Anyways, let's continue in our article."
+
+**[00:32:10](/episodes/ep-7ERqbYElOfs.md#ent-org-fbi-t-00-32-10)**
+> "... this person told me that the feds planted the gun. This person told me that the bom..."
+
+**[00:32:32](/episodes/ep-7ERqbYElOfs.md#ent-org-fbi-t-00-32-10)**
+> "...g amount of evidence that the feds set this kid up as a patsy."
+
+**[00:32:48](/episodes/ep-7ERqbYElOfs.md#ent-org-fbi-t-00-32-48)**
+> "...T team, they believe that the feds came in and they started lying and they were send..."
+
+**[00:33:13](/episodes/ep-7ERqbYElOfs.md#ent-org-fbi-t-00-32-48)**
+> "...and they all believe that the feds set this up."
+
+**[00:37:51](/episodes/ep-7ERqbYElOfs.md#ent-org-fbi-t-00-37-12)**
+> "...think he was working with the feds and trying to get Tyler and putting this on Tyler..."
+
+**[00:38:36](/episodes/ep-7ERqbYElOfs.md#ent-org-fbi-t-00-37-57)**
+> "The feds, the same people, the SWAT team, local police are..."
+
+**[00:40:45](/episodes/ep-7ERqbYElOfs.md#ent-org-fbi-t-00-40-25)**
+> "...tion was also conveyed to the FBI."
+
+**[00:53:04](/episodes/ep-7ERqbYElOfs.md#ent-org-fbi-t-00-53-04)**
+> "... day and i know that when the feds got there things got weird things got very weird ..."
 
 </details>
 
@@ -1538,6 +1753,31 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Accused By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:01:01](/episodes/ep-UYkXV9mYbT4.md#t-00-00-42): “The feds are just putting this on him, and I do mean the FBI. From JFK to MLK, now to CJK, this is, in my opinion, an undeniable state killing.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:43:00](/episodes/ep-eLgD5yUVbko.md#t-00-42-52): “He said discord, we understood discord, we all said discord, but then what happened was discord themselves came out immediately and said that wasn't true. Discord gave a statement on September 12th, they published that statement in the Hill and they said we are deeply saddened by this tragedy. We extend our condolences to the Kirk family and everyone affected. A discord person said in a statement in the course of our investigation, we identified a discord account associated with. with the suspect, but I found no evidence the suspect planned this incident or promoted violence on Discord. So they suddenly changed their minds and they said, no, this was happening via iMessage. That wasn't a mistake. He's reading from a piece of paper. He's reading from a piece of paper and then the feds got caught lying and then they altered things and they said, we always said that it was eye messages.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:17:41](/episodes/ep-UYkXV9mYbT4.md#t-00-17-24): “It's inconclusive. Now the prosecution wants the corrupt FBI to conduct their own analysis, and I'm going to tell you what is very wrong with that.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Employs (2)</summary>
 
 - **[Kash Patel](/entities/person-kash-patel.md)**
@@ -1596,17 +1836,30 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 <summary>Has Director (1)</summary>
 
 - **[Kash Patel](/entities/person-kash-patel.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:08:06](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “she praises the FBI director, Kash Patel”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:32:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31): “She's literally dating the FBI director”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:07:52](/episodes/ep-rupRLXmSndU.md#t-00-07-43): “But next came the public declaration from our director of the FBI, which held a lot more weight, claiming officially that they had the guy. He wrote this at 4.21 p.m. Mountain Standard, so almost exactly four hours to the minute that Charlie was shot. Kash Patel authored this tweet.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Worked With (1)</summary>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:17:52](/episodes/ep-UYkXV9mYbT4.md#t-00-17-24): “Because I think it's pretty clear that the feds are working with Turning Point USA and all evidence points to the fact that the feds are dirty in this case.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (8)</summary>
 
 - **[Kash Patel](/entities/person-kash-patel.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -1616,11 +1869,27 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 
 </details>
 
-- **[Kash Patel](/entities/person-kash-patel.md)** director of this
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:01:01](/episodes/ep-UYkXV9mYbT4.md#t-00-00-42): “The feds are just putting this on him, and I do mean the FBI. From JFK to MLK, now to CJK, this is, in my opinion, an undeniable state killing.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:43:00](/episodes/ep-eLgD5yUVbko.md#t-00-42-52): “He said discord, we understood discord, we all said discord, but then what happened was discord themselves came out immediately and said that wasn't true. Discord gave a statement on September 12th, they published that statement in the Hill and they said we are deeply saddened by this tragedy. We extend our condolences to the Kirk family and everyone affected. A discord person said in a statement in the course of our investigation, we identified a discord account associated with. with the suspect, but I found no evidence the suspect planned this incident or promoted violence on Discord. So they suddenly changed their minds and they said, no, this was happening via iMessage. That wasn't a mistake. He's reading from a piece of paper. He's reading from a piece of paper and then the feds got caught lying and then they altered things and they said, we always said that it was eye messages.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:17:41](/episodes/ep-UYkXV9mYbT4.md#t-00-17-24): “It's inconclusive. Now the prosecution wants the corrupt FBI to conduct their own analysis, and I'm going to tell you what is very wrong with that.”
+
+</details>
+
+- **[Kash Patel](/entities/person-kash-patel.md)** director of this
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:08:06](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “she praises the FBI director, Kash Patel”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:32:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31): “She's literally dating the FBI director”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:07:52](/episodes/ep-rupRLXmSndU.md#t-00-07-43): “But next came the public declaration from our director of the FBI, which held a lot more weight, claiming officially that they had the guy. He wrote this at 4.21 p.m. Mountain Standard, so almost exactly four hours to the minute that Charlie was shot. Kash Patel authored this tweet.”
 
 </details>
 
@@ -1671,7 +1940,7 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about FBI (69)</strong></summary>
+<summary><strong class="section-title">Statements about FBI (97)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (5)</summary>
@@ -1690,6 +1959,115 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 
 - [04:01:26](/episodes/ep-nPhCKwJ6ye8.md#t-04-01-26) (Accusation) **Candace Owens**: ["Candace Owens still believes there is more evidence that multiple peop..."](/statements/statement-4735330c37c9.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (5)</summary>
+
+- [00:35:51](/episodes/ep-eLgD5yUVbko.md#t-00-35-25) (Accusation) **Candace Owens**: ["Candace Owens argued that the FBI released suspect photos and sought p..."](/statements/statement-3d4ae6743ef6.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Spencer Cox](/entities/person-spencer-cox.md), [Kash Patel](/entities/person-kash-patel.md)
+
+- [00:43:00](/episodes/ep-eLgD5yUVbko.md#t-00-42-52) (Accusation) **Candace Owens**: ["Candace Owens accused federal authorities of changing their account fr..."](/statements/statement-377e9550e3a3.md)
+  - Also about: [Discord](/entities/org-discord.md), [iMessage](/entities/work-imessage.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:45:32](/episodes/ep-eLgD5yUVbko.md#t-00-45-03) (Accusation) **Candace Owens**: ["Candace Owens accused Lance Twiggs of being a federal informant workin..."](/statements/statement-3d9aac692b7f.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:45:40](/episodes/ep-eLgD5yUVbko.md#t-00-45-03) (Accusation) **Anonymous Source #2 (Ep eLgD5yUVbko)** (via read message): ["Members of Lance Twiggs's family told Candace Owens that it was "compl..."](/statements/statement-f109089222e8.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+- [00:48:33](/episodes/ep-eLgD5yUVbko.md#t-00-47-49) (Accusation) **Candace Owens**: ["Candace Owens said the Tyler Robinson case is a setup and that Robinso..."](/statements/statement-1eecc57afa84.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1)</summary>
+
+- [00:46:06](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-06) (Accusation) **Candace Owens**: ["Officials released a deepfake video of Jeffrey Epstein in his cell, th..."](/statements/statement-318a4f1575a4.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Pam Bondi](/entities/person-pam-bondi.md), [Kash Patel](/entities/person-kash-patel.md)
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (5)</summary>
+
+- [00:05:41](/episodes/ep-rupRLXmSndU.md#t-00-05-14) (Claim) **Candace Owens**: ["Kash Patel had the FBI immediately seize footage from inside the hospi..."](/statements/statement-08af5755b967.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:08:09](/episodes/ep-rupRLXmSndU.md#t-00-07-43) (Claim) **Kash Patel** (via quoted post): ["The subject for the shooting that killed Charlie Kirk was in custody."](/statements/statement-a36d199d39d4.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Zachariah Qureshi](/entities/person-zachariah-qureshi.md)
+
+- [00:08:38](/episodes/ep-rupRLXmSndU.md#t-00-08-25) (Accusation) **Candace Owens**: ["Kash Patel's premature custody announcement gave the true assassin or ..."](/statements/statement-25c322faf319.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:08:59](/episodes/ep-rupRLXmSndU.md#t-00-08-59) (Claim) **Kash Patel** (via quoted post): ["The subject in custody had been released after interrogation, and the ..."](/statements/statement-3ee1c0ed9168.md)
+  - Also about: [Zachariah Qureshi](/entities/person-zachariah-qureshi.md)
+
+- [00:34:11](/episodes/ep-rupRLXmSndU.md#t-00-33-34) (Opinion) **Candace Owens**: ["The FBI knows Tyler Robinson did not kill Charlie Kirk."](/statements/statement-ee577096d11a.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (12)</summary>
+
+- [00:00:50](/episodes/ep-UYkXV9mYbT4.md#t-00-00-42) (Opinion) **Candace Owens**: ["In my opinion, it is definitive proof that Tyler Robinson is a patsy."](/statements/statement-5d0d4715d2cc.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:01:01](/episodes/ep-UYkXV9mYbT4.md#t-00-00-42) (Opinion) **Candace Owens**: ["The feds are just putting this on him, and I do mean the FBI. From JFK..."](/statements/statement-e8c331305ff4.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:05:37](/episodes/ep-UYkXV9mYbT4.md#t-00-05-20) (Opinion) **Candace Owens**: ["I am going to speculate this boldly: they were hiding the fact that th..."](/statements/statement-8db33ee5af32.md)
+  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:08:17](/episodes/ep-UYkXV9mYbT4.md#t-00-08-03) (Claim) **Candace Owens**: ["The FBI was on the phone with Justin Streiff and Frank Carni about whe..."](/statements/statement-53b46473615f.md)
+  - Also about: [Justin Streiff](/entities/person-justin-streiff.md), [Frank Carni](/entities/person-frank-carni.md)
+
+- [00:16:31](/episodes/ep-UYkXV9mYbT4.md#t-00-16-08) (Accusation) **Anonymous Source #2 (Ep UYkXV9mYbT4)** (via read message): ["Federal agents planted the gun when they arrived."](/statements/statement-8694331bb2fc.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:18:01](/episodes/ep-UYkXV9mYbT4.md#t-00-18-01) (Opinion) **Candace Owens**: ["Based on the evidence and the people I have spoken to, I believe the f..."](/statements/statement-8d024ceb9198.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:20:54](/episodes/ep-UYkXV9mYbT4.md#t-00-20-47) (Citation) **Candace Owens**: ["The state intended to present conclusory FBI and ATF forensic DNA and ..."](/statements/statement-e713942a76ce.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md)
+
+- [00:32:32](/episodes/ep-UYkXV9mYbT4.md#t-00-32-17) (Citation) **Candace Owens**: ["FBI and ATF summary DNA reports said minute quantities of DNA recovere..."](/statements/statement-6f05019158ad.md)
+  - Also about: [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Deoxyribonucleic acid](/entities/concept-dna.md)
+
+- [00:39:04](/episodes/ep-UYkXV9mYbT4.md#t-00-38-32) (Citation) **Candace Owens**: ["The FBI was conducting a second comparative bullet analysis and a bull..."](/statements/statement-b34cd0916393.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Comparative bullet lead analysis](/entities/concept-comparative-bullet-lead-analysis.md)
+
+- [00:39:53](/episodes/ep-UYkXV9mYbT4.md#t-00-39-53) (Claim) **Candace Owens**: ["Comparative bullet lead analysis was primarily used by the FBI until 2..."](/statements/statement-0c6b54c50eb3.md)
+  - Also about: [Comparative bullet lead analysis](/entities/concept-comparative-bullet-lead-analysis.md)
+
+- [00:44:34](/episodes/ep-UYkXV9mYbT4.md#t-00-44-34) (Accusation) **Candace Owens**: ["The FBI is bringing back an already debunked technique so that it can ..."](/statements/statement-1c85bab3416e.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Comparative bullet lead analysis](/entities/concept-comparative-bullet-lead-analysis.md)
+
+- [00:50:05](/episodes/ep-UYkXV9mYbT4.md#t-00-49-52) (Opinion) **Candace Owens**: ["Everything they are doing signals to me that this is a federal job fro..."](/statements/statement-8f1130905af2.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (5)</summary>
+
+- [00:32:10](/episodes/ep-7ERqbYElOfs.md#t-00-32-10) (Accusation) **Anonymous Source #5 (Ep 7ERqbYElOfs)** (via read message): ["Federal agents planted the gun."](/statements/statement-d3390c78435e.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:32:32](/episodes/ep-7ERqbYElOfs.md#t-00-32-10) (Accusation) **Candace Owens**: ["There is overwhelming evidence that federal agents set Tyler Robinson ..."](/statements/statement-04295cf433e9.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:32:48](/episodes/ep-7ERqbYElOfs.md#t-00-32-48) (Accusation) **Anonymous Source #4 (Ep 7ERqbYElOfs)** (via read message): ["Local sheriff's departments, the SWAT team, and other firsthand source..."](/statements/statement-0ddcd12c3624.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:37:41](/episodes/ep-7ERqbYElOfs.md#t-00-37-12) (Opinion) **Candace Owens**: ["Mike Mitchell was working with federal agents to put the Charlie Kirk ..."](/statements/statement-4f479f057f03.md)
+  - Also about: [Mike Mitchell](/entities/person-mike-mitchell.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:40:29](/episodes/ep-7ERqbYElOfs.md#t-00-40-25) (Claim) **Spencer Cox** (via quoted speech): ["A Tyler Robinson family member told a family friend that Robinson had ..."](/statements/statement-15993351894a.md)
+  - Also about: [Spencer Cox](/entities/person-spencer-cox.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md)
 
 </details>
 

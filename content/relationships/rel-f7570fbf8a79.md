@@ -11,7 +11,7 @@ object: "person-lori-frantzve"
 
 ## [Erika Kirk](/entities/person-erika-kirk) child of [Lori Frantzve](/entities/person-lori-frantzve)
 
-### Evidence (11 mentions)
+### Evidence (12 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -56,6 +56,10 @@ object: "person-lori-frantzve"
 **[Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w)**
 
 - [00:11:32](/episodes/ep-jTj9Ip46r4w#t-00-11-32): _And of course, probably the one that took us on the greatest journey is Lori (Lori Frantzve) Abbas Stanley, Erica (Erika Kirk)'s mom Lori (Lori Frantzve)._
+
+**[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
+
+- [00:35:49](/episodes/ep-q1NRQQAYS_Q#t-00-35-49): _It continues. Ms. Kirk was sitting in her mother's hospital room at 1123 a.m. local time in Phoenix when she saw the number of her husband's longtime assistant, Michael McCoy, appear on her phone._
 
 ### Related
 

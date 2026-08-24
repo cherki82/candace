@@ -11,7 +11,7 @@ object: "person-donald-trump"
 
 ## [Miriam Adelson](/entities/person-miriam-adelson) funded [Donald J. Trump](/entities/person-donald-trump)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -20,6 +20,10 @@ object: "person-donald-trump"
 **[BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE)**
 
 - [00:21:12](/episodes/ep-CEF7gQRWYCE#t-00-21-12): _miriam adel said ... she's doing her thing and just giving trump 200 million dollars_
+
+**[An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg)**
+
+- [00:29:38](/episodes/ep-ZIH5-V6UPkg#t-00-29-38): _But before it was announced that Miriam Adelson gave Trump $100 million, this was, I think it was announced in July or just before July of 2024._
 
 **[Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk)**
 

@@ -1,6 +1,6 @@
 ---
 title: "Colorado State University"
-description: "Colorado State University (Organizations) - 2 mentions"
+description: "Colorado State University (Organizations) - 3 mentions"
 id: "org-colorado-state-university"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Colorado State University](https://www.colostate.edu/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-colorado-state-university-t-00-17-40">2026-02-11 · 00:17:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-colorado-state-university-t-00-51-23">2026-02-11 · 00:51:53</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-colorado-state-university-t-00-35-33">2026-04-02 · 00:35:33</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,12 +36,14 @@ Source: [Colorado State University](https://www.colostate.edu/)
 <p>Highest activity: <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-colorado-state-university-t-00-17-40">VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-colorado-state-university-t-00-17-40" style="--pulse-height:100%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-colorado-state-university-t-00-35-33" style="--pulse-height:50%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-colorado-state-university-t-00-17-40) | 2 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-colorado-state-university-t-00-35-33) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [Colorado State University](https://www.colostate.edu/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:35:33](/episodes/ep-q1NRQQAYS_Q.md#ent-org-colorado-state-university-t-00-35-33)**
+> "the next leg of the tour to Colorado State University."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (2 mentions)</summary>

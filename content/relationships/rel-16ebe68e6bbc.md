@@ -11,7 +11,7 @@ object: "person-kash-patel"
 
 ## [FBI](/entities/org-fbi) has director [Kash Patel](/entities/person-kash-patel)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
 
 **[Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM)**
 
@@ -20,6 +20,10 @@ object: "person-kash-patel"
 **[TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI)**
 
 - [00:08:06](/episodes/ep-ozWJz2spBcI#t-00-08-06): _she praises the FBI director, Kash Patel_
+
+**[Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU)**
+
+- [00:07:52](/episodes/ep-rupRLXmSndU#t-00-07-52): _But next came the public declaration from our director of the FBI, which held a lot more weight, claiming officially that they had the guy. He wrote this at 4.21 p.m. Mountain Standard, so almost exactly four hours to the minute that Charlie was shot. Kash Patel authored this tweet._
 
 ### Related
 

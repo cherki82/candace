@@ -1,6 +1,6 @@
 ---
 title: "Paleovalley"
-description: "Paleovalley (Organizations) - 22 mentions"
+description: "Paleovalley (Organizations) - 28 mentions"
 id: "org-paleovalley"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [Paleovalley](https://paleovalley.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Wjul6YV6izo.md#ent-org-paleovalley-t-00-49-03">2026-01-30 · 00:49:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-org-paleovalley-t-00-49-11">2026-03-17 · 00:49:42</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-org-paleovalley-t-00-38-27">2026-04-01 · 00:38:52</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -41,6 +41,7 @@ Source: [Paleovalley](https://paleovalley.com/)
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-paleovalley-t-00-50-14" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 9 mentions" title="2026-02-13 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-org-paleovalley-t-00-46-35" style="--pulse-height:44%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 4 mentions" title="2026-03-04 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-org-paleovalley-t-00-48-51" style="--pulse-height:33%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-paleovalley-t-00-37-46" style="--pulse-height:67%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 6 mentions" title="2026-04-01 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [Paleovalley](https://paleovalley.com/)
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-paleovalley-t-00-50-14) | 9 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-paleovalley-t-00-46-35) | 4 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-org-paleovalley-t-00-48-51) | 3 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-paleovalley-t-00-37-46) | 6 |
 
 </details>
 </section>
@@ -57,7 +59,30 @@ Source: [Paleovalley](https://paleovalley.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (6 mentions)</summary>
+
+**[00:37:53](/episodes/ep-rupRLXmSndU.md#ent-org-paleovalley-t-00-37-46)**
+> "Paleo Valley"
+
+**[00:37:59](/episodes/ep-rupRLXmSndU.md#ent-org-paleovalley-t-00-37-46)**
+> "...that's why I have been loving paleo valley recently my manager has been non-stop speaking ab..."
+
+**[00:38:00](/episodes/ep-rupRLXmSndU.md#ent-org-paleovalley-t-00-37-46)**
+> "...that's why I have been loving Paleo Valley."
+
+**[00:38:27](/episodes/ep-rupRLXmSndU.md#ent-org-paleovalley-t-00-38-27)**
+> "...s packed with the good stuff. Paleo Valley offers their bone broth protein in a variety of f..."
+
+**[00:38:45](/episodes/ep-rupRLXmSndU.md#ent-org-paleovalley-t-00-38-27)**
+> "...t 20% off your first order at paleovalley.com and you can use code Candace at checkout."
+
+**[00:38:52](/episodes/ep-rupRLXmSndU.md#ent-org-paleovalley-t-00-38-27)**
+> "Check out, again, that's paleovalley.com, promo code Candace at checkout."
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (3 mentions)</summary>

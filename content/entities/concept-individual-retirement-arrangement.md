@@ -1,6 +1,6 @@
 ---
 title: "Individual Retirement Arrangement"
-description: "Individual Retirement Arrangement (Concepts) - 13 mentions"
+description: "Individual Retirement Arrangement (Concepts) - 17 mentions"
 id: "concept-individual-retirement-arrangement"
 type: "CONCEPT"
 aliases:
@@ -23,9 +23,9 @@ Source: [Individual retirement arrangements (IRAs) - Internal Revenue Service](h
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#ent-concept-individual-retirement-arrangement-t-00-36-10">2026-02-05 · 00:36:40</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-concept-individual-retirement-arrangement-t-00-39-43">2026-03-26 · 00:40:08</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-individual-retirement-arrangement-t-00-39-02">2026-04-10 · 00:39:32</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -46,6 +46,8 @@ Source: [Individual retirement arrangements (IRAs) - Internal Revenue Service](h
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-concept-individual-retirement-arrangement-t-00-50-42" style="--pulse-height:67%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-individual-retirement-arrangement-t-00-44-03" style="--pulse-height:33%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-concept-individual-retirement-arrangement-t-00-39-00" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 3 mentions" title="2026-03-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-concept-individual-retirement-arrangement-t-00-26-56" style="--pulse-height:100%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-individual-retirement-arrangement-t-00-39-02" style="--pulse-height:33%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -61,6 +63,8 @@ Source: [Individual retirement arrangements (IRAs) - Internal Revenue Service](h
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-concept-individual-retirement-arrangement-t-00-50-42) | 2 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-individual-retirement-arrangement-t-00-44-03) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-concept-individual-retirement-arrangement-t-00-39-00) | 3 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-concept-individual-retirement-arrangement-t-00-26-56) | 3 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-individual-retirement-arrangement-t-00-39-02) | 1 |
 
 </details>
 </section>
@@ -68,7 +72,29 @@ Source: [Individual retirement arrangements (IRAs) - Internal Revenue Service](h
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:39:32](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-individual-retirement-arrangement-t-00-39-02)**
+> "...ulled money from your 401k or IRA early."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (3 mentions)</summary>
+
+**[00:26:56](/episodes/ep-7ERqbYElOfs.md#ent-concept-individual-retirement-arrangement-t-00-26-56)**
+> "pdsdebt.com slash candace again that's pdsdebt.com slash candace and i also want to tell you guys about tax network usa because maybe you owe back taxes maybe you have unfiled returns or maybe you've filed every year but you still keep owing somehow maybe you retired and suddenly you got hit with a tax bill that you didn't expect or pulled money out of your 401k or ira early and now the irs wants their share however your tax issue started the outcome is always the same your balance is"
+
+**[00:46:33](/episodes/ep-7ERqbYElOfs.md#ent-concept-individual-retirement-arrangement-t-00-46-27)**
+> "... you to know about BlockTrust IRA, which is a crypto IRA designed for everyday Amer..."
+
+**[00:47:08](/episodes/ep-7ERqbYElOfs.md#ent-concept-individual-retirement-arrangement-t-00-47-08)**
+> "...ght now you can open a crypto IRA and get up to $2,500 inflation shield bonus added..."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (3 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Seth Dillon"
-description: "Seth Dillon (People) - 63 mentions"
+description: "Seth Dillon (People) - 64 mentions"
 id: "person-seth-dillon"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33">2025-09-15 · 00:18:39</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-seth-dillon-t-00-50-14">2026-02-13 · 00:50:45</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>63</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-seth-dillon-t-00-20-58">2026-04-13 · 00:21:31</a></strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>64</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>23</strong></div>
@@ -53,6 +53,7 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-seth-dillon-t-00-31-24" style="--pulse-height:69%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 9 mentions" title="2026-02-09 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-seth-dillon-t-00-42-56" style="--pulse-height:8%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-seth-dillon-t-00-50-14" style="--pulse-height:8%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-seth-dillon-t-00-20-58" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -80,6 +81,7 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-seth-dillon-t-00-31-24) | 9 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-seth-dillon-t-00-42-56) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-seth-dillon-t-00-50-14) | 1 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-seth-dillon-t-00-20-58) | 1 |
 
 </details>
 </section>
@@ -91,7 +93,15 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (63)</strong></summary>
+<summary><strong class="section-title">Raw mentions (64)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
+
+**[00:21:31](/episodes/ep-eLgD5yUVbko.md#ent-person-seth-dillon-t-00-20-58)**
+> "Seth Dillon"
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>

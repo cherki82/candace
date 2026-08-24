@@ -1,6 +1,6 @@
 ---
 title: "Scott Bessent"
-description: "Scott Bessent (People) - 2 mentions"
+description: "Scott Bessent (People) - 4 mentions"
 id: "person-scott-bessent"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Treasury Secretary Scott Bessent Remarks at the Economic Club of New Yo
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-scott-bessent-t-00-46-45">2026-03-17 · 00:46:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-scott-bessent-t-00-31-25">2026-03-26 · 00:31:45</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#t-00-41-46">2026-04-01 · 00:41:46</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -33,6 +33,8 @@ Source: [Treasury Secretary Scott Bessent Remarks at the Economic Club of New Yo
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-scott-bessent-t-00-46-45" style="--pulse-height:100%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-scott-bessent-t-00-31-25" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-scott-bessent-t-00-34-13" style="--pulse-height:100%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#t-00-41-46" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +42,8 @@ Source: [Treasury Secretary Scott Bessent Remarks at the Economic Club of New Yo
 |---|---|---:|
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-scott-bessent-t-00-46-45) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-scott-bessent-t-00-31-25) | 1 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-scott-bessent-t-00-34-13) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#t-00-41-46) | 1 |
 
 </details>
 </section>
@@ -47,7 +51,23 @@ Source: [Treasury Secretary Scott Bessent Remarks at the Economic Club of New Yo
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
+
+**[00:41:46](/episodes/ep-rupRLXmSndU.md#t-00-41-46)**
+> "Scott Besson"
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1 mentions)</summary>
+
+**[00:34:13](/episodes/ep-7ERqbYElOfs.md#ent-person-scott-bessent-t-00-34-13)**
+> "She's got a police force behind her. She's got 33 behind her. She's got the White House Scott Bessent that'll publish letters saying that they are so upstanding and so moral."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>

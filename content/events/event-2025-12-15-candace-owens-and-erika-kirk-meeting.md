@@ -11,7 +11,7 @@ date: "2025-12-15"
 
 > Candace Owens and Erika Kirk meeting
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
 
@@ -36,3 +36,11 @@ date: "2025-12-15"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2106);return false;">▶️ Play</a>
 
 > Didn't start covering Erika until Erika lied to my face in December, but that doesn't matter.
+
+### 4. SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | ...
+
+**Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
+**Timestamp:** [00:04:40](/episodes/ep-q1NRQQAYS_Q.md#event-event-2025-12-15-candace-owens-and-erika-kirk-meeting-t-00-04-21) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(280);return false;">▶️ Play</a>
+
+> when I sat down with Erica Kirk on December 15th, I had a very short list of questions

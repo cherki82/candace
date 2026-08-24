@@ -11,11 +11,19 @@ object: "org-pure-talk"
 
 ## [America's Warrior Partnership](/entities/org-americas-warrior-partnership) funded by [Pure Talk](/entities/org-pure-talk)
 
-### Evidence (1 mentions)
+### Evidence (3 mentions)
 
 **[VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58)**
 
 - [00:23:55](/episodes/ep-DEtFh2Ff-58#t-00-23-55): _PureTalk is veteran-led, so helping veterans is their North Star. They've donated over half a million dollars to America's Warrior Partnership._
+
+**[An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg)**
+
+- [00:23:05](/episodes/ep-ZIH5-V6UPkg#t-00-23-05): _They donate over half a million dollars to America's Warrior Partnership, which is a fantastic organization that is on the front lines of preventing veteran suicide._
+
+**[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
+
+- [00:48:40](/episodes/ep-q1NRQQAYS_Q#t-00-48-40): _PeerTalk is veteran-led, so helping veterans is their North Star. They have donated over half a million dollars to America's warrior partnership, a fantastic organization that is on the front lines of preventing veteran suicide._
 
 ### Related
 

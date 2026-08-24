@@ -1,6 +1,6 @@
 ---
 title: "Gaza"
-description: "Gaza (Places) - 98 mentions"
+description: "Gaza (Places) - 103 mentions"
 id: "gpe-gaza"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03">2025-09-18 · 00:35:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-gaza-t-00-41-25">2026-03-25 · 00:41:40</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>98</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-gaza-t-00-30-22">2026-04-10 · 00:30:22</a></strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>103</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -59,6 +59,8 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-gaza-t-00-33-12" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-gaza-t-00-20-01" style="--pulse-height:71%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 10 mentions" title="2026-03-17 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-gaza-t-00-41-25" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-gaza-t-00-12-33" style="--pulse-height:21%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-gaza-t-00-13-37" style="--pulse-height:14%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -88,6 +90,8 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-gaza-t-00-33-12) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-gaza-t-00-20-01) | 10 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-gaza-t-00-41-25) | 1 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-gaza-t-00-12-33) | 3 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-gaza-t-00-13-37) | 2 |
 
 </details>
 </section>
@@ -95,7 +99,32 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (98)</strong></summary>
+<summary><strong class="section-title">Raw mentions (103)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (2 mentions)</summary>
+
+**[00:14:01](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-gaza-t-00-13-37)**
+> "...drooms, Jared Kushner, Trump, Gaza, hotel, whatever you tweeted so crass, they will ..."
+
+**[00:30:22](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-gaza-t-00-30-22)**
+> "...mp to allow them to annex not Gaza, but the West Bank."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (3 mentions)</summary>
+
+**[00:12:33](/episodes/ep-7ERqbYElOfs.md#ent-gpe-gaza-t-00-12-33)**
+> "War does. Okay. If you go to war, you are going to mass murder people. You're going to steal their land like they are doing in Gaza."
+
+**[00:12:43](/episodes/ep-7ERqbYElOfs.md#ent-gpe-gaza-t-00-12-33)**
+> "...d the Trumps are planning for Gaza."
+
+**[00:12:55](/episodes/ep-7ERqbYElOfs.md#ent-gpe-gaza-t-00-12-33)**
+> "...n opportunity we have to make Gaza ours and we don't have to pay a single dime to do..."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>

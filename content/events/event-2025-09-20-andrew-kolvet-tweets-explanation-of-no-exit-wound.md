@@ -11,7 +11,7 @@ date: "2025-09-20"
 
 > Andrew Kolvet tweets explanation of no exit wound as miracle in Kirk shooting.
 
-## Mentioned In (6 times)
+## Mentioned In (7 times)
 
 ### 1. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
@@ -60,3 +60,11 @@ date: "2025-09-20"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(637);return false;">▶️ Play</a>
 
 > een seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press. He is carrying on Charlie Kirk's show. He was already seated on Cha
+
+### 7. PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319
+
+**Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
+**Timestamp:** [00:11:50](/episodes/ep-UYkXV9mYbT4.md#event-event-2025-09-20-andrew-kolvet-tweets-explanation-of-no-exit-wound-t-00-11-23) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(710);return false;">▶️ Play</a>
+
+> the fact that there wasn't an exit wound is probably another miracle

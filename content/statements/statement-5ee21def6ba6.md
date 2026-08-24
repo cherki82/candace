@@ -4,9 +4,10 @@ description: "\"I feel very confident that Andrew Kolvet was aboard the Santa Ba
 statement_id: "statement-5ee21def6ba6"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Owens presents an inference from message timing and flight timing, not a passenger record. Later reporting cites a flight manifest stating Kolvet and his wife flew directly from Santa Barbara to Provo and did not stop in Scottsdale, so public accounts conflict and the passenger claim is not established.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Factual errors: Jessica Reed Kraus challenges Candace Owens timeline](https://www.inkl.com/news/factual-errors-jessica-reed-kraus-challenges-candace-owens-timeline-on-andrew-kolvet-and-erika-kirk-claims-with-flight-record-details)
+
+*Verified: 2026-08-24T10:57:37.668576*
 
 ---
 

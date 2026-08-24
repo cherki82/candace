@@ -4,9 +4,10 @@ description: "\"The aircraft under discussion has tail number N582MM.\" — Cand
 statement_id: "statement-36c14f1e0f50"
 speaker: "Candace Owens"
 type: "citation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -32,7 +33,20 @@ type: "citation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+FAA-derived registration data and flight-tracker records confirm N582MM is an assigned registration for a Learjet 60, matching the aircraft displayed and discussed in the source appearance.
+
+**Confidence:** High
+
+**Sources:**
+
+- [FlightAware: N582MM Aircraft Registration](https://www.flightaware.com/resources/registration/N582MM)
+
+*Verified: 2026-08-24T10:57:41.515923*
 
 ---
 

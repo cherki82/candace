@@ -1,6 +1,6 @@
 ---
 title: "BlockTrust"
-description: "BlockTrust (Organizations) - 3 mentions"
+description: "BlockTrust (Organizations) - 4 mentions"
 id: "org-blocktrust"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [BlockTrust](https://blocktrust.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-blocktrust-t-00-50-42">2026-03-24 · 00:50:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-blocktrust-t-00-39-00">2026-03-26 · 00:39:33</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-org-blocktrust-t-00-46-27">2026-03-30 · 00:46:33</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [BlockTrust](https://blocktrust.com/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-blocktrust-t-00-50-42" style="--pulse-height:50%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-blocktrust-t-00-39-00" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-blocktrust-t-00-46-27" style="--pulse-height:50%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [BlockTrust](https://blocktrust.com/)
 |---|---|---:|
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-blocktrust-t-00-50-42) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-org-blocktrust-t-00-39-00) | 2 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-blocktrust-t-00-46-27) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [BlockTrust](https://blocktrust.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1 mentions)</summary>
+
+**[00:46:33](/episodes/ep-7ERqbYElOfs.md#ent-org-blocktrust-t-00-46-27)**
+> "That's why I want you to know about BlockTrust IRA, which is a crypto IRA designed for everyday Americans, especially if you're new to crypto or you don't have time to watch the charts all day."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (2 mentions)</summary>

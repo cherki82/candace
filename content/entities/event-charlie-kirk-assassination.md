@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk assassination"
-description: "Charlie Kirk assassination (Events) - 232 mentions"
+description: "Charlie Kirk assassination (Events) - 233 mentions"
 id: "event-charlie-kirk-assassination"
 type: "EVENT"
 aliases:
@@ -8,21 +8,30 @@ aliases:
   - "Charlie Kirk's murder"
   - "Charlie Kirk's assassination"
   - "assassination of Charlie Kirk"
+categories:
+  - "political assassination"
+  - "Utah Valley University shooting"
 ---
 
 _Type: Events_
 
 **Also known as:** Charlie assassination, Charlie Kirk's murder, Charlie Kirk's assassination, assassination of Charlie Kirk
 
+**Categories:** political assassination, Utah Valley University shooting
+
 > **Possibly overlapping entity records:** [Assassination of Charlie Kirk](/entities/event-assassination-charlie-kirk). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> Official FBI investigation page confirms Charlie Kirk was fatally shot at Utah Valley University on September 10, 2025.
+Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-releases/utah-valley-shooting-updates)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-event-charlie-kirk-assassination-t-00-36-02">2025-09-15 · 00:24:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#t-00-45-12">2025-12-20 · 00:45:41</a></strong></div>
-<div><span>Episodes</span><strong>39</strong></div>
-<div><span>Mentions</span><strong>232</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-33-25">2026-04-02 · 00:33:25</a></strong></div>
+<div><span>Episodes</span><strong>40</strong></div>
+<div><span>Mentions</span><strong>233</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>117</strong></div>
+<div><span>Statements about</span><strong>118</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -70,6 +79,7 @@ _Type: Events_
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-event-charlie-kirk-assassination-t-00-00-00" style="--pulse-height:26%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 5 mentions" title="2025-12-08 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-event-charlie-kirk-assassination-t-00-02-01" style="--pulse-height:8%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#t-00-45-12" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-33-25" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -114,6 +124,7 @@ _Type: Events_
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-event-charlie-kirk-assassination-t-00-00-00) | 5 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-event-charlie-kirk-assassination-t-00-02-01) | 1 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#t-00-45-12) | 1 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-33-25) | 1 |
 
 </details>
 </section>
@@ -121,7 +132,15 @@ _Type: Events_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (232)</strong></summary>
+<summary><strong class="section-title">Raw mentions (233)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:33:25](/episodes/ep-q1NRQQAYS_Q.md#t-00-33-25)**
+> "After Carly's assassination"
+
+</details>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
@@ -1090,7 +1109,15 @@ _Type: Events_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk assassination (117)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk assassination (118)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1)</summary>
+
+- [00:50:38](/episodes/ep-q1NRQQAYS_Q.md#t-00-50-38) (Claim) **Candace Owens**: ["There is no evidence Charlie Kirk was shot."](/statements/statement-7654c362de7a.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Bill Clinton"
-description: "Bill Clinton (People) - 3 mentions"
+description: "Bill Clinton (People) - 4 mentions"
 id: "person-bill-clinton"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [President Bill Clinton biography — White House archive](https://clint
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-bill-clinton-t-00-08-32">2026-02-25 · 00:08:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-bill-clinton-t-00-08-32">2026-02-25 · 00:08:56</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-bill-clinton-t-00-26-31">2026-04-10 · 00:26:43</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -36,12 +36,14 @@ Source: [President Bill Clinton biography — White House archive](https://clint
 <p>Highest activity: <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-bill-clinton-t-00-08-32">Bride Of Charlie: A Wrinkle In Time | Episode 1</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-bill-clinton-t-00-08-32" style="--pulse-height:100%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 3 mentions" title="2026-02-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-bill-clinton-t-00-26-31" style="--pulse-height:33%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-bill-clinton-t-00-08-32) | 3 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-bill-clinton-t-00-26-31) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [President Bill Clinton biography — White House archive](https://clint
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:26:43](/episodes/ep-ZIH5-V6UPkg.md#ent-person-bill-clinton-t-00-26-31)**
+> "...hen Israel used recordings of Bill Clinton, Monica Lewinsky phone sex sessions as leverage t..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (3 mentions)</summary>
@@ -71,5 +81,21 @@ Source: [President Bill Clinton biography — White House archive](https://clint
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Bill Clinton (2)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (2)</summary>
+
+- [00:26:43](/episodes/ep-ZIH5-V6UPkg.md#t-00-26-31) (Claim) **Tucker Carlson** (via quoted post): ["Israel used recordings of Bill Clinton and Monica Lewinsky's phone-sex..."](/statements/statement-1ad2cbf015a8.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Monica Lewinsky](/entities/person-monica-lewinsky.md), [Jonathan Jay Pollard](/entities/person-jonathan-jay-pollard.md)
+
+- [00:27:42](/episodes/ep-ZIH5-V6UPkg.md#t-00-27-42) (Opinion) **Tucker Carlson** (via quoted post): ["Israel may be using Clinton-style blackmail or something more morbid a..."](/statements/statement-59d621e55ff6.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
 
 </details>

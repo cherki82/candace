@@ -1,6 +1,6 @@
 ---
 title: "Arizona State University"
-description: "Arizona State University (Organizations) - 31 mentions"
+description: "Arizona State University (Organizations) - 33 mentions"
 id: "org-arizona-state-university"
 type: "ORG"
 aliases:
@@ -21,11 +21,11 @@ Source: [Arizona State University](https://www.asu.edu/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-org-arizona-state-university-t-00-35-20">2026-02-10 · 00:36:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-arizona-state-university-t-00-24-27">2026-03-11 · 00:24:27</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-arizona-state-university-t-00-13-33">2026-04-02 · 00:13:33</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>16</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -40,6 +40,8 @@ Source: [Arizona State University](https://www.asu.edu/)
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-arizona-state-university-t-00-26-19" style="--pulse-height:100%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 11 mentions" title="2026-03-06 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-arizona-state-university-t-00-18-32" style="--pulse-height:45%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 5 mentions" title="2026-03-10 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-arizona-state-university-t-00-13-16" style="--pulse-height:55%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 6 mentions" title="2026-03-11 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-arizona-state-university-t-00-23-01" style="--pulse-height:9%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-arizona-state-university-t-00-13-33" style="--pulse-height:9%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +53,8 @@ Source: [Arizona State University](https://www.asu.edu/)
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-arizona-state-university-t-00-26-19) | 11 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-arizona-state-university-t-00-18-32) | 5 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-arizona-state-university-t-00-13-16) | 6 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-arizona-state-university-t-00-23-01) | 1 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-arizona-state-university-t-00-13-33) | 1 |
 
 </details>
 </section>
@@ -58,7 +62,23 @@ Source: [Arizona State University](https://www.asu.edu/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:13:33](/episodes/ep-q1NRQQAYS_Q.md#ent-org-arizona-state-university-t-00-13-33)**
+> "Arizona State University"
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1 mentions)</summary>
+
+**[00:23:40](/episodes/ep-7ERqbYElOfs.md#ent-org-arizona-state-university-t-00-23-01)**
+> "And during that time, he graduates from ASU, all the best people do, with a major in forensic psychology."
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (6 mentions)</summary>
@@ -249,7 +269,15 @@ Source: [Arizona State University](https://www.asu.edu/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Arizona State University (16)</strong></summary>
+<summary><strong class="section-title">Statements about Arizona State University (17)</strong></summary>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1)</summary>
+
+- [00:23:27](/episodes/ep-7ERqbYElOfs.md#t-00-23-01) (Claim) **Candace Owens**: ["Jonathan Barcelo ran a private-investigation firm from 2017 to 2022, g..."](/statements/statement-c5803cc7f231.md)
+  - Also about: [Jonathan Barcelo](/entities/person-jonathan-barcelo.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (5)</summary>

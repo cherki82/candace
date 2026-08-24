@@ -1,6 +1,6 @@
 ---
 title: "Russia"
-description: "Russia (Places) - 49 mentions"
+description: "Russia (Places) - 52 mentions"
 id: "gpe-russia"
 type: "GPE"
 aliases:
@@ -22,8 +22,8 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-russia-t-00-00-01">2025-09-16 · 00:00:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-52">2026-08-14 · 03:39:52</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>49</strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>52</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -53,6 +53,7 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-russia-t-00-59-35" style="--pulse-height:11%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-russia-t-00-45-40" style="--pulse-height:11%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-russia-t-00-30-38" style="--pulse-height:100%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 9 mentions" title="2026-03-25 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-russia-t-00-16-03" style="--pulse-height:33%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-45" style="--pulse-height:22%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -78,6 +79,7 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-russia-t-00-59-35) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-russia-t-00-45-40) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-russia-t-00-30-38) | 9 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-russia-t-00-16-03) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-45) | 2 |
 
 </details>
@@ -86,7 +88,7 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+<summary><strong class="section-title">Raw mentions (52)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -96,6 +98,20 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 
 **[03:39:52](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-52)**
 > "Russia."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (3 mentions)</summary>
+
+**[00:16:12](/episodes/ep-7ERqbYElOfs.md#ent-gpe-russia-t-00-16-03)**
+> "We saw a lot that day, Australia, Russia, so many countries that were involved. The goal is to make you think that this is all implausible, that Freemasonry is not real, that it's a figment of the past that people at the top don't kill."
+
+**[00:54:30](/episodes/ep-7ERqbYElOfs.md#ent-gpe-russia-t-00-54-30)**
+> "... attacks i was being called a russian agent by alexis wilkins by the way speaking of Ja..."
+
+**[00:55:14](/episodes/ep-7ERqbYElOfs.md#ent-gpe-russia-t-00-55-14)**
+> "... whole catholic conspiracy to russia i had House Inhabit to be in rehab coming after m..."
 
 </details>
 

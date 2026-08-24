@@ -4,9 +4,10 @@ description: "\"The New York Times reported that Charlie Kirk's chartered plane 
 statement_id: "statement-d56cc652819a"
 speaker: "The New York Times"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -37,7 +38,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The New York Times article and contemporaneous coverage report the charter-plane return to Scottsdale and state that Charlie Kirk was pronounced dead while Erika Kirk was airborne. The statement accurately represents what the article reported; this does not independently validate every underlying travel detail.
+
+**Confidence:** High
+
+**Sources:**
+
+- [For Erika Kirk, a Husband Life Cut Short by Violence He Seemed to Foresee](https://www.nytimes.com/2025/09/21/us/politics/erika-kirk.html)
+
+*Verified: 2026-08-24T10:57:39.504631*
 
 ---
 

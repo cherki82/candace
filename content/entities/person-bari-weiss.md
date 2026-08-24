@@ -1,6 +1,6 @@
 ---
 title: "Bari Weiss"
-description: "Bari Weiss (People) - 69 mentions"
+description: "Bari Weiss (People) - 72 mentions"
 id: "person-bari-weiss"
 type: "PERSON"
 aliases:
@@ -24,8 +24,8 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-bari-weiss-t-00-27-09">2025-10-28 · 00:27:38</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-bari-weiss-t-02-48-18">2026-08-14 · 02:48:18</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>69</strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>72</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>22</strong></div>
@@ -57,6 +57,8 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-bari-weiss-t-00-01-59" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-bari-weiss-t-00-05-00" style="--pulse-height:8%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-bari-weiss-t-00-02-29" style="--pulse-height:17%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-bari-weiss-t-00-16-40" style="--pulse-height:17%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-bari-weiss-t-00-05-01" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-bari-weiss-t-02-45-14" style="--pulse-height:17%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -84,6 +86,8 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-bari-weiss-t-00-01-59) | 1 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-person-bari-weiss-t-00-05-00) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-bari-weiss-t-00-02-29) | 2 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-bari-weiss-t-00-16-40) | 2 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-bari-weiss-t-00-05-01) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-bari-weiss-t-02-45-14) | 2 |
 
 </details>
@@ -92,7 +96,7 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (69)</strong></summary>
+<summary><strong class="section-title">Raw mentions (72)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -102,6 +106,25 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 
 **[02:48:18](/episodes/ep-nPhCKwJ6ye8.md#ent-person-bari-weiss-t-02-48-18)**
 > "... that stage she sat down with Barry Weiss that that's what she believes."
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:05:30](/episodes/ep-q1NRQQAYS_Q.md#ent-person-bari-weiss-t-00-05-01)**
+> "Barry Weiss"
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (2 mentions)</summary>
+
+**[00:16:40](/episodes/ep-7ERqbYElOfs.md#ent-person-bari-weiss-t-00-16-40)**
+> "I just felt so much like a flood of anger overcame me. And it was her sit down with Bari Weiss literally 72 hours before her and I sat down and I just forgot that Bari Weiss asked her specifically whether or not she believed Tyler Robinson."
+
+**[00:33:33](/episodes/ep-7ERqbYElOfs.md#ent-person-bari-weiss-t-00-33-33)**
+> "...ika Kirk felt sitting next to Bari Weiss. With everything I have collected, I feel the exa..."
 
 </details>
 
@@ -472,11 +495,12 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 <summary>Interviewed (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:07:40](/episodes/ep-6J6lRZPQ4jk.md#t-00-07-28): “the podcaster Candace Owens, okay? At one time, a friend of Charlie's. At one time, an employee of Turning Point. She has been one of the main peddlers of these conspiracies”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:34](/episodes/ep-OEAHy3SsIiI.md#t-00-15-33): “What is going on sums up how we all feel right now. And I also would like to mention here another confusing parts that we kind of didn't discuss enough. Another confusing part of that Bari Weiss interview.”
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:53:17](/episodes/ep-cZxHqYsWRYg.md#t-00-53-17): “But I now reflect on her telling me during our sit-down that she received the questions ahead of time for her interview with Bari Weiss.”
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:16:40](/episodes/ep-7ERqbYElOfs.md#t-00-16-40): “it was her sit down with Bari Weiss literally 72 hours before her and I sat down and I just forgot that Bari Weiss asked her specifically whether or not she believed Tyler Robinson.”
 
 </details>
 
@@ -595,12 +619,13 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:07:40](/episodes/ep-6J6lRZPQ4jk.md#t-00-07-28): “the podcaster Candace Owens, okay? At one time, a friend of Charlie's. At one time, an employee of Turning Point. She has been one of the main peddlers of these conspiracies”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:08:12](/episodes/ep-es7PWdFGoFI.md#t-00-08-02): “I felt name checked by the podcaster, Candace Owens, this obvious setup and then asking me to stop.”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:34](/episodes/ep-OEAHy3SsIiI.md#t-00-15-33): “What is going on sums up how we all feel right now. And I also would like to mention here another confusing parts that we kind of didn't discuss enough. Another confusing part of that Bari Weiss interview.”
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:53:17](/episodes/ep-cZxHqYsWRYg.md#t-00-53-17): “But I now reflect on her telling me during our sit-down that she received the questions ahead of time for her interview with Bari Weiss.”
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:16:40](/episodes/ep-7ERqbYElOfs.md#t-00-16-40): “it was her sit down with Bari Weiss literally 72 hours before her and I sat down and I just forgot that Bari Weiss asked her specifically whether or not she believed Tyler Robinson.”
 
 </details>
 

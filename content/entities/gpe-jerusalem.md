@@ -1,6 +1,6 @@
 ---
 title: "Jerusalem"
-description: "Jerusalem (Places) - 26 mentions"
+description: "Jerusalem (Places) - 34 mentions"
 id: "gpe-jerusalem"
 type: "GPE"
 categories:
@@ -19,30 +19,31 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-jerusalem-t-00-04-50">2025-10-08 · 00:05:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-jerusalem-t-01-16-34">2026-08-14 · 01:16:34</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>34</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-jerusalem-t-00-39-18">Bride Of Charlie: A Wrinkle In Time | Episode 1</a> (6 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-jerusalem-t-00-26-20">Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-jerusalem-t-00-04-50" style="--pulse-height:17%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-jerusalem-t-00-08-14" style="--pulse-height:17%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-K1tFD7FfoCU.md#ent-gpe-jerusalem-t-00-21-15" style="--pulse-height:67%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 4 mentions" title="2025-11-03 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-jerusalem-t-00-43-16" style="--pulse-height:33%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-jerusalem-t-00-38-23" style="--pulse-height:33%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28" style="--pulse-height:67%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 4 mentions" title="2025-11-21 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-jerusalem-t-00-34-41" style="--pulse-height:17%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-jerusalem-t-00-29-02" style="--pulse-height:33%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-jerusalem-t-00-39-18" style="--pulse-height:100%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 6 mentions" title="2026-02-25 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-jerusalem-t-00-50-56" style="--pulse-height:17%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-jerusalem-t-00-21-00" style="--pulse-height:17%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-jerusalem-t-01-16-34" style="--pulse-height:17%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-jerusalem-t-00-04-50" style="--pulse-height:12%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-jerusalem-t-00-08-14" style="--pulse-height:12%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-gpe-jerusalem-t-00-21-15" style="--pulse-height:50%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 4 mentions" title="2025-11-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-jerusalem-t-00-43-16" style="--pulse-height:25%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-jerusalem-t-00-38-23" style="--pulse-height:25%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28" style="--pulse-height:50%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 4 mentions" title="2025-11-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-jerusalem-t-00-34-41" style="--pulse-height:12%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-jerusalem-t-00-29-02" style="--pulse-height:25%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-jerusalem-t-00-39-18" style="--pulse-height:75%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 6 mentions" title="2026-02-25 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-jerusalem-t-00-50-56" style="--pulse-height:12%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-jerusalem-t-00-21-00" style="--pulse-height:12%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-jerusalem-t-00-26-20" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 8 mentions" title="2026-04-01 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-jerusalem-t-01-16-34" style="--pulse-height:12%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -59,6 +60,7 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-jerusalem-t-00-39-18) | 6 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-jerusalem-t-00-50-56) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-jerusalem-t-00-21-00) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-gpe-jerusalem-t-00-26-20) | 8 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-jerusalem-t-01-16-34) | 1 |
 
 </details>
@@ -67,13 +69,42 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (34)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[01:16:34](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-jerusalem-t-01-16-34)**
 > "...ends just outside comfort, of Jerusalem called"
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (8 mentions)</summary>
+
+**[00:26:20](/episodes/ep-rupRLXmSndU.md#ent-gpe-jerusalem-t-00-26-20)**
+> "Him, Caleb and his brother were actually out there in Jerusalem. I want to again make it clear I am not shooting in the dark with this."
+
+**[00:24:45](/episodes/ep-rupRLXmSndU.md#ent-gpe-jerusalem-t-00-24-36)**
+> "...recruit specifically from BYU Jerusalem in Israel."
+
+**[00:25:01](/episodes/ep-rupRLXmSndU.md#ent-gpe-jerusalem-t-00-25-01)**
+> "... attended school. He lived in Jerusalem, and I'm now going to tell you that BYU, the Jeru..."
+
+**[00:25:26](/episodes/ep-rupRLXmSndU.md#ent-gpe-jerusalem-t-00-25-01)**
+> "...f them are then approached in Jerusalem, Israel by their teachers who I should mention th..."
+
+**[00:25:43](/episodes/ep-rupRLXmSndU.md#ent-gpe-jerusalem-t-00-25-43)**
+> "...oached to work for the CIA in Jerusalem by Israelis?"
+
+**[00:27:57](/episodes/ep-rupRLXmSndU.md#ent-gpe-jerusalem-t-00-27-50)**
+> "...s like his? roommates over in Jerusalem recruited to work contractually for the CIA."
+
+**[00:31:15](/episodes/ep-rupRLXmSndU.md#ent-gpe-jerusalem-t-00-30-59)**
+> "...these people are stationed in Jerusalem."
+
+**[00:47:48](/episodes/ep-rupRLXmSndU.md#ent-gpe-jerusalem-t-00-47-40)**
+> "... of the pool of Hawaii and in Jerusalem in particular, they approach students because the..."
 
 </details>
 
@@ -239,7 +270,18 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jerusalem (3)</strong></summary>
+<summary><strong class="section-title">Statements about Jerusalem (5)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2)</summary>
+
+- [00:24:16](/episodes/ep-rupRLXmSndU.md#t-00-23-58) (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)** (via read message): ["The CIA recruits directly from BYU and specifically from BYU's Jerusal..."](/statements/statement-862b7ba82e4c.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [BYU](/entities/org-byu.md), [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md)
+
+- [00:27:04](/episodes/ep-rupRLXmSndU.md#t-00-27-04) (Claim) **Candace Owens**: ["Michael Sean Covey, who roomed with Andrew Zenger in Jerusalem, later ..."](/statements/statement-aa6071978dd3.md)
+  - Also about: [Michael Sean Covey](/entities/person-michael-sean-covey.md), [Andrew Zenger](/entities/person-andrew-zenger.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (2)</summary>

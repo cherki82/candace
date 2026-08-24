@@ -1,6 +1,6 @@
 ---
 title: "Hamas"
-description: "Hamas (Organizations) - 32 mentions"
+description: "Hamas (Organizations) - 33 mentions"
 id: "org-hamas"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-hamas-t-00-51-57">2025-09-16 · 00:51:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Wjul6YV6izo.md#ent-org-hamas-t-00-51-11">2026-01-30 · 00:51:24</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-hamas-t-00-30-22">2026-04-10 · 00:30:40</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -44,6 +44,7 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-hamas-t-00-44-21" style="--pulse-height:9%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-00-06-51" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 11 mentions" title="2026-01-29 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-hamas-t-00-51-11" style="--pulse-height:9%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-hamas-t-00-30-22" style="--pulse-height:9%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +63,7 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-hamas-t-00-44-21) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-00-06-51) | 11 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-hamas-t-00-51-11) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-hamas-t-00-30-22) | 1 |
 
 </details>
 </section>
@@ -69,7 +71,15 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:30:40](/episodes/ep-ZIH5-V6UPkg.md#ent-org-hamas-t-00-30-22)**
+> "Hamas is not in the West Bank, and that is what she wan..."
+
+</details>
 
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Tax Network USA"
-description: "Tax Network USA (Organizations) - 74 mentions"
+description: "Tax Network USA (Organizations) - 78 mentions"
 id: "org-tax-network-usa"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-05-24">2025-09-16 · 01:05:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-tax-network-usa-t-00-44-44">2026-03-25 · 00:45:06</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>74</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-tax-network-usa-t-00-39-45">2026-04-10 · 00:39:57</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>78</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -56,6 +56,8 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-tax-network-usa-t-00-52-54" style="--pulse-height:60%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 3 mentions" title="2026-03-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-tax-network-usa-t-00-55-09" style="--pulse-height:40%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-tax-network-usa-t-00-44-03" style="--pulse-height:40%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-tax-network-usa-t-00-26-56" style="--pulse-height:60%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-tax-network-usa-t-00-39-45" style="--pulse-height:20%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -81,6 +83,8 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-tax-network-usa-t-00-52-54) | 3 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-tax-network-usa-t-00-55-09) | 2 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-tax-network-usa-t-00-44-03) | 2 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-tax-network-usa-t-00-26-56) | 3 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-tax-network-usa-t-00-39-45) | 1 |
 
 </details>
 </section>
@@ -88,7 +92,29 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (74)</strong></summary>
+<summary><strong class="section-title">Raw mentions (78)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:39:57](/episodes/ep-ZIH5-V6UPkg.md#ent-org-tax-network-usa-t-00-39-45)**
+> "...op what you're doing and call Tax Network USA. With over 15 years in business, there hasn't bee..."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (3 mentions)</summary>
+
+**[00:27:30](/episodes/ep-7ERqbYElOfs.md#ent-org-tax-network-usa-t-00-26-56)**
+> "So stop what you're doing and call Tax Network USA. With over 15 years in business, there hasn't been a tax case that they haven't seen or resolved."
+
+**[00:26:56](/episodes/ep-7ERqbYElOfs.md#ent-org-tax-network-usa-t-00-26-56)**
+> "...o want to tell you guys about tax network usa because maybe you owe back taxes maybe you have u..."
+
+**[00:27:59](/episodes/ep-7ERqbYElOfs.md#ent-org-tax-network-usa-t-00-27-36)**
+> "...t. Call 866-686-1651 or visit tnusa.com slash Candace. Again, that's tnusa.com slash ..."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2 mentions)</summary>

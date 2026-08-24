@@ -12,6 +12,8 @@ _Type: People_
 
 **Categories:** comedian, digital media
 
+> **Possibly overlapping entity records:** [Druski](/entities/person-druski). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Authoritative profile identifies Drew Desbordes as the person known professionally as Druski.
 Source: [Druski | Monster Energy Music Ambassador & Comedian](https://www.monsterenergy.com/en-us/music/druski/)

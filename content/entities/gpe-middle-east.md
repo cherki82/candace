@@ -1,6 +1,6 @@
 ---
 title: "Middle East"
-description: "Middle East (Places) - 53 mentions"
+description: "Middle East (Places) - 60 mentions"
 id: "gpe-middle-east"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-middle-east-t-00-54-45">2025-09-16 · 00:55:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-middle-east-t-00-52-49">2026-03-26 · 00:52:49</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>53</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-middle-east-t-00-59-43">2026-04-13 · 00:59:43</a></strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>60</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -57,6 +57,9 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-middle-east-t-00-00-23" style="--pulse-height:75%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 6 mentions" title="2026-03-17 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-middle-east-t-00-04-47" style="--pulse-height:12%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-middle-east-t-00-52-49" style="--pulse-height:12%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-middle-east-t-00-02-06" style="--pulse-height:25%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-middle-east-t-00-08-09" style="--pulse-height:38%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 3 mentions" title="2026-04-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-middle-east-t-00-51-58" style="--pulse-height:25%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -84,6 +87,9 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-middle-east-t-00-00-23) | 6 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-middle-east-t-00-04-47) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-middle-east-t-00-52-49) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-gpe-middle-east-t-00-02-06) | 2 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-middle-east-t-00-08-09) | 3 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-gpe-middle-east-t-00-51-58) | 2 |
 
 </details>
 </section>
@@ -91,7 +97,43 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (53)</strong></summary>
+<summary><strong class="section-title">Raw mentions (60)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2 mentions)</summary>
+
+**[00:52:13](/episodes/ep-eLgD5yUVbko.md#ent-gpe-middle-east-t-00-51-58)**
+> "in the Middle East"
+
+**[00:59:43](/episodes/ep-eLgD5yUVbko.md#ent-gpe-middle-east-t-00-59-43)**
+> "...use what you are doing in the Middle East is criminal."
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (3 mentions)</summary>
+
+**[00:08:31](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-middle-east-t-00-08-09)**
+> "...o send to their deaths in the Middle East."
+
+**[00:18:41](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-middle-east-t-00-18-34)**
+> "...or that little country in the Middle East."
+
+**[00:25:04](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-middle-east-t-00-24-49)**
+> "No new wars in the Middle East. We're going to lower gas prices to suddenly insi..."
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2 mentions)</summary>
+
+**[00:02:29](/episodes/ep-rupRLXmSndU.md#ent-gpe-middle-east-t-00-02-06)**
+> "And it's also a overtly political business. Next thing we know, Charlie is dead. Turning Point USA is trying to twist and reimagine his legacy as pro-war in the Middle East, war in Iran, and Bibi is doing the most, right?"
+
+**[00:10:09](/episodes/ep-rupRLXmSndU.md#ent-gpe-middle-east-t-00-09-38)**
+> "... he has extensive ties to the Middle East as well, I might add. You might have gathered tha..."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
@@ -372,7 +414,34 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Middle East (5)</strong></summary>
+<summary><strong class="section-title">Statements about Middle East (9)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2)</summary>
+
+- [00:51:58](/episodes/ep-eLgD5yUVbko.md#t-00-51-17) (Opinion) **Candace Owens**: ["Candace Owens said the war against Iran is unjust and morally contempt..."](/statements/statement-1fa070e7f5a4.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md), [United States](/entities/gpe-united-states.md)
+
+- [00:59:47](/episodes/ep-eLgD5yUVbko.md#t-00-59-43) (Claim) **Candace Owens**: ["Candace Owens said Donald Trump had lost support from the Make America..."](/statements/statement-cdcdb0b37222.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Make America Healthy Again](/entities/concept-make-america-healthy-again.md), [Megyn Kelly](/entities/person-megyn-kelly.md)
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1)</summary>
+
+- [00:25:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-12) (Accusation) **Candace Owens**: ["Donald Trump promised no new wars in the Middle East but now pursues c..."](/statements/statement-8eb161990c66.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md)
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1)</summary>
+
+- [00:02:29](/episodes/ep-rupRLXmSndU.md#t-00-02-06) (Accusation) **Candace Owens**: ["Turning Point USA is trying to reimagine Charlie Kirk's legacy as supp..."](/statements/statement-8ac4073f16d4.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md)
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (3)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Christianity"
-description: "Christianity (Concepts) - 161 mentions"
+description: "Christianity (Concepts) - 173 mentions"
 id: "concept-christianity"
 type: "CONCEPT"
 aliases:
@@ -23,10 +23,10 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-07-28">2026-01-07 · 00:04:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10">2026-08-14 · 02:57:10</a></strong></div>
-<div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>161</strong></div>
+<div><span>Episodes</span><strong>35</strong></div>
+<div><span>Mentions</span><strong>173</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -65,6 +65,10 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-concept-christianity-t-00-31-01" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-christianity-t-00-41-25" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-concept-christianity-t-00-27-14" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-concept-christianity-t-00-51-40" style="--pulse-height:8%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-concept-christianity-t-00-46-16" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-christianity-t-00-38-28" style="--pulse-height:14%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 5 mentions" title="2026-04-10 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-christianity-t-00-56-25" style="--pulse-height:14%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 5 mentions" title="2026-04-13 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -101,6 +105,10 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-concept-christianity-t-00-31-01) | 2 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-christianity-t-00-41-25) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-concept-christianity-t-00-27-14) | 2 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-concept-christianity-t-00-51-40) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-concept-christianity-t-00-46-16) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-christianity-t-00-38-28) | 5 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-concept-christianity-t-00-56-25) | 5 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10) | 1 |
 
 </details>
@@ -109,13 +117,69 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (161)</strong></summary>
+<summary><strong class="section-title">Raw mentions (173)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[02:57:10](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10)**
 > "lot of the actual. So I'm a Christian ethicist. and I then always"
+
+</details>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (5 mentions)</summary>
+
+**[00:56:48](/episodes/ep-eLgD5yUVbko.md#ent-concept-christianity-t-00-56-25)**
+> "not even a Christian"
+
+**[00:21:31](/episodes/ep-eLgD5yUVbko.md#ent-concept-christianity-t-00-20-58)**
+> "...ike, wait, well, isn't this a Christian organization?"
+
+**[00:53:07](/episodes/ep-eLgD5yUVbko.md#ent-concept-christianity-t-00-53-07)**
+> "...Catholic church and all other Christian organizations had during COVID."
+
+**[00:57:11](/episodes/ep-eLgD5yUVbko.md#ent-concept-christianity-t-00-57-00)**
+> "what it means to be a Christian into reality TV, frankly, you can wear the cleric..."
+
+**[01:03:27](/episodes/ep-eLgD5yUVbko.md#ent-concept-christianity-t-01-03-27)**
+> "..., it really says Make America Christian Again hat, but it looks like it says MAGA because..."
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (5 mentions)</summary>
+
+**[00:38:36](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-christianity-t-00-38-28)**
+> "...is uh we need to make america christian again that is the vibe that is why i sense rising..."
+
+**[00:39:02](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-christianity-t-00-39-02)**
+> "... there is a you know just the Christian spirit people that are just realizing they want n..."
+
+**[00:43:20](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-christianity-t-00-42-47)**
+> "...arge that beyond anything I'm Christian first. I am Christian first."
+
+**[00:47:20](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-christianity-t-00-46-58)**
+> "...y love these new make america christian again hats because they look like they say maga b..."
+
+**[00:47:30](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-christianity-t-00-47-30)**
+> "...y love these new make america christian again hats because they look like they say maga b..."
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
+
+**[00:46:45](/episodes/ep-rupRLXmSndU.md#ent-concept-christianity-t-00-46-16)**
+> "Christian"
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1 mentions)</summary>
+
+**[00:51:50](/episodes/ep-7ERqbYElOfs.md#ent-concept-christianity-t-00-51-40)**
+> "...ill you know wear the mask of christianity because that's what they were doing but they were..."
 
 </details>
 
@@ -756,7 +820,29 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Christianity (12)</strong></summary>
+<summary><strong class="section-title">Statements about Christianity (16)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2)</summary>
+
+- [00:56:41](/episodes/ep-eLgD5yUVbko.md#t-00-56-25) (Opinion) **Candace Owens**: ["Candace Owens said Donald Trump is not a Christian and that the Cathol..."](/statements/statement-ecb6b851885c.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Jesus Christ](/entities/person-jesus-christ.md), [Catholic Church](/entities/org-catholic-church.md)
+
+- [00:57:53](/episodes/ep-eLgD5yUVbko.md#t-00-57-35) (Opinion) **Pope Leo XIV** (via quoted speech): ["Pope Leo XIV said the Gospel's message is "blessed are the peacemakers..."](/statements/statement-e7a6e05acf90.md)
+  - Also about: [Catholic Church](/entities/org-catholic-church.md)
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (2)</summary>
+
+- [00:35:36](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-26) (Accusation) **Laura Loomer** (via quoted speech): ["Tucker Carlson incites violence against evangelicals, Jewish Americans..."](/statements/statement-1d4fb271ea2b.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Donald J. Trump](/entities/person-donald-trump.md), [Jewish people](/entities/concept-jewish-people.md)
+
+- [00:43:29](/episodes/ep-ZIH5-V6UPkg.md#t-00-43-29) (Opinion) **Candace Owens**: ["Candace Owens is Christian first and will not support killing people t..."](/statements/statement-70ef91047b44.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Greater Israel](/entities/concept-greater-israel.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Likud"
-description: "Likud (Organizations) - 4 mentions"
+description: "Likud (Organizations) - 6 mentions"
 id: "org-likud"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ Source: [The Likud Party](https://www.likud.org.il/en)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-org-likud-t-00-34-00">2026-01-12 · 00:34:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-likud-t-01-01-03">2026-03-17 · 01:01:03</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-likud-t-00-36-32">2026-04-10 · 00:36:56</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -38,6 +38,7 @@ Source: [The Likud Party](https://www.likud.org.il/en)
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-likud-t-00-34-00" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-likud-t-00-32-32" style="--pulse-height:50%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-likud-t-01-01-03" style="--pulse-height:50%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-likud-t-00-35-54" style="--pulse-height:100%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [The Likud Party](https://www.likud.org.il/en)
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-likud-t-00-34-00) | 2 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-likud-t-00-32-32) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-likud-t-01-01-03) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-likud-t-00-35-54) | 2 |
 
 </details>
 </section>
@@ -53,7 +55,18 @@ Source: [The Likud Party](https://www.likud.org.il/en)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (2 mentions)</summary>
+
+**[00:36:10](/episodes/ep-ZIH5-V6UPkg.md#ent-org-likud-t-00-35-54)**
+> "It is very clear what the Likud government is. They are murderous. They have a A ..."
+
+**[00:36:56](/episodes/ep-ZIH5-V6UPkg.md#ent-org-likud-t-00-36-32)**
+> "...atianism and Frankism and the Likud party is not at all, it's not a reflection."
+
+</details>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>
@@ -88,6 +101,18 @@ Source: [The Likud Party](https://www.likud.org.il/en)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:36:10](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-54): “It is very clear what the Likud government is. They are murderous. They have a A particular knack for murdering children.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Has Member (1)</summary>
 
 - **[Dan Illouz](/entities/person-dan-illouz.md)**
@@ -100,7 +125,14 @@ Source: [The Likud Party](https://www.likud.org.il/en)
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:36:10](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-54): “It is very clear what the Likud government is. They are murderous. They have a A particular knack for murdering children.”
+
+</details>
 
 - **[Dan Illouz](/entities/person-dan-illouz.md)** member of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -114,7 +146,21 @@ Source: [The Likud Party](https://www.likud.org.il/en)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Likud (2)</strong></summary>
+<summary><strong class="section-title">Statements about Likud (5)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (3)</summary>
+
+- [00:36:10](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-54) (Accusation) **Candace Owens**: ["The Likud government is murderous and has a particular knack for murde..."](/statements/statement-dd48f45143b4.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+- [00:36:18](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-54) (Opinion) **Candace Owens**: ["Candace Owens believes the Likud government celebrates murdering child..."](/statements/statement-62008193f486.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+- [00:36:56](/episodes/ep-ZIH5-V6UPkg.md#t-00-36-32) (Claim) **Candace Owens**: ["Jewish Americans and rabbis have written Candace Owens saying she is r..."](/statements/statement-7272ca9671b8.md)
+  - Also about: [Jewish people](/entities/concept-jewish-people.md), [Sabbateanism](/entities/concept-sabbateanism.md), [Frankism](/entities/concept-frankism.md)
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1)</summary>

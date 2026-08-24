@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) accused [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (11 mentions)
+### Evidence (12 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -48,6 +48,10 @@ object: "person-erika-kirk"
 **[CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ)**
 
 - [00:21:18](/episodes/ep-QRS_hR7NXaQ#t-00-21-18): _I want to speak about Erika (Erika Kirk)'s alibi on September 10th. And I'm going to put it out there that I do not believe it. I do not believe we are being told told the truth regarding her alibi._
+
+**[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
+
+- [00:10:17](/episodes/ep-UYkXV9mYbT4#t-00-10-17): _Erica lied. Erica and Andrew colluded. on how to message to the public about this little fact that was never meant to be known to us._
 
 **[Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ)**
 

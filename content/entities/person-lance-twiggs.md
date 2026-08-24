@@ -1,6 +1,6 @@
 ---
 title: "Lance Twiggs"
-description: "Lance Twiggs (People) - 81 mentions"
+description: "Lance Twiggs (People) - 91 mentions"
 id: "person-lance-twiggs"
 type: "PERSON"
 aliases:
@@ -25,11 +25,11 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-45">2025-09-16 · 00:00:45</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-04-02-09">2026-08-14 · 04:02:22</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>81</strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>91</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
-<div><span>Relationships</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>19</strong></div>
+<div><span>Relationships</span><strong>3</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -44,6 +44,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-5autG89PW6w.md#ent-person-lance-twiggs-t-00-29-56" style="--pulse-height:14%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 5 mentions" title="2025-10-07 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-lance-twiggs-t-00-08-57" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-lance-twiggs-t-01-06-38" style="--pulse-height:9%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-lance-twiggs-t-00-43-37" style="--pulse-height:29%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 10 mentions" title="2026-04-13 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-00-47-02" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 35 mentions" title="2026-08-14 · 35 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -57,6 +58,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-lance-twiggs-t-00-29-56) | 5 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-lance-twiggs-t-00-08-57) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-lance-twiggs-t-01-06-38) | 3 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-lance-twiggs-t-00-43-37) | 10 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-00-47-02) | 35 |
 
 </details>
@@ -65,7 +67,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (81)</strong></summary>
+<summary><strong class="section-title">Raw mentions (91)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (35 mentions)</summary>
@@ -174,6 +176,41 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 **[00:51:01](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-00-50-54)**
 > "...he Robinson family, Twiggs's (Lance Twiggs's) family, both of them."
+
+</details>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (10 mentions)</summary>
+
+**[00:44:02](/episodes/ep-eLgD5yUVbko.md#ent-person-lance-twiggs-t-00-43-37)**
+> "Lance's phone"
+
+**[00:45:03](/episodes/ep-eLgD5yUVbko.md#ent-person-lance-twiggs-t-00-45-03)**
+> "...text messages that we took of Lance's phone."
+
+**[00:45:26](/episodes/ep-eLgD5yUVbko.md#ent-person-lance-twiggs-t-00-45-03)**
+> "..., well, here's the picture of Lance's phone."
+
+**[00:45:32](/episodes/ep-eLgD5yUVbko.md#ent-person-lance-twiggs-t-00-45-03)**
+> "Lance, to me, is very obviously a federal informant. He..."
+
+**[00:45:40](/episodes/ep-eLgD5yUVbko.md#ent-person-lance-twiggs-t-00-45-40)**
+> "...get. I had communication with Lance's family early on. They said to me it was completel..."
+
+**[00:46:02](/episodes/ep-eLgD5yUVbko.md#ent-person-lance-twiggs-t-00-45-40)**
+> "...house that tyler robinson and lance live in and they are telling you that the relatio..."
+
+**[00:46:23](/episodes/ep-eLgD5yUVbko.md#ent-person-lance-twiggs-t-00-46-23)**
+> "... claim to we have evidence is Lance Twigs, but we don't know anything about Lance Twi..."
+
+**[00:46:31](/episodes/ep-eLgD5yUVbko.md#ent-person-lance-twiggs-t-00-46-23)**
+> "...e reads like a federal asset. Lance, that's your roommate. OK, maybe maybe you I'm gi..."
+
+**[00:47:08](/episodes/ep-eLgD5yUVbko.md#ent-person-lance-twiggs-t-00-47-08)**
+> "The Lance Twigs element of this makes no sense. I cannot st..."
+
+**[00:48:25](/episodes/ep-eLgD5yUVbko.md#ent-person-lance-twiggs-t-00-47-49)**
+> "... to show you our recording of Lance's phone, but we're not going to present any forensi..."
 
 </details>
 
@@ -356,7 +393,19 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Roommate Of (1)</summary>
+
+- **[Tyler Robinson](/entities/person-tyler-robinson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:46:02](/episodes/ep-eLgD5yUVbko.md#t-00-45-40): “a bend toward violence they talked about i've communicated this to you guys early on uh the things that would go on as he was raised how they eventually had to kick him out of the house they own the house that tyler robinson and lance live in and they are telling you that the relationship between lance and the feds is unnatural i presented that to you lance's own family is saying that now ... That to me reads like a federal asset. Lance, that's your roommate. OK, maybe maybe you I'm giving you an example here. I'm not saying this is what happened, but maybe they catch Lance on a website.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)** dating this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -366,12 +415,19 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 </details>
 
+- **[Tyler Robinson](/entities/person-tyler-robinson.md)** roommate of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:46:02](/episodes/ep-eLgD5yUVbko.md#t-00-45-40): “a bend toward violence they talked about i've communicated this to you guys early on uh the things that would go on as he was raised how they eventually had to kick him out of the house they own the house that tyler robinson and lance live in and they are telling you that the relationship between lance and the feds is unnatural i presented that to you lance's own family is saying that now ... That to me reads like a federal asset. Lance, that's your roommate. OK, maybe maybe you I'm giving you an example here. I'm not saying this is what happened, but maybe they catch Lance on a website.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lance Twiggs (15)</strong></summary>
+<summary><strong class="section-title">Statements about Lance Twiggs (19)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4)</summary>
@@ -386,6 +442,23 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 - [03:25:17](/episodes/ep-nPhCKwJ6ye8.md#t-03-25-12) (Citation) **Candace Owens**: ["After rewatching the testimony, Candace Owens corrected her earlier cl..."](/statements/statement-7d36617db0e1.md)
   - Also about: [Matt Robinson](/entities/person-matt-robinson.md), [Amber Robinson](/entities/person-amber-robinson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (4)</summary>
+
+- [00:41:44](/episodes/ep-eLgD5yUVbko.md#t-00-41-37) (Claim) **Spencer Cox** (via quoted speech): ["Spencer Cox said investigators were shown Discord messages between Tyl..."](/statements/statement-9e5da808822c.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Discord](/entities/org-discord.md)
+
+- [00:45:32](/episodes/ep-eLgD5yUVbko.md#t-00-45-03) (Accusation) **Candace Owens**: ["Candace Owens accused Lance Twiggs of being a federal informant workin..."](/statements/statement-3d9aac692b7f.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md)
+
+- [00:45:40](/episodes/ep-eLgD5yUVbko.md#t-00-45-03) (Accusation) **Anonymous Source #2 (Ep eLgD5yUVbko)** (via read message): ["Members of Lance Twiggs's family told Candace Owens that it was "compl..."](/statements/statement-f109089222e8.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+- [00:47:49](/episodes/ep-eLgD5yUVbko.md#t-00-47-08) (Citation) **Candace Owens**: ["Candace Owens cited a state filing saying the prosecution did not inte..."](/statements/statement-69c641e20bd3.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "George Zinn"
-description: "George Zinn (People) - 52 mentions"
+description: "George Zinn (People) - 53 mentions"
 id: "person-george-zinn"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-george-zinn-t-00-43-44">2025-09-15 · 00:44:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-person-george-zinn-t-01-06-38">2026-01-16 · 01:06:46</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>52</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-person-george-zinn-t-00-07-03">2026-04-01 · 00:07:03</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>53</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -50,6 +50,7 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-george-zinn-t-00-15-39" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-george-zinn-t-00-14-50" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-george-zinn-t-01-06-38" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-person-george-zinn-t-00-07-03" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -69,6 +70,7 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-george-zinn-t-00-15-39) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-george-zinn-t-00-14-50) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-george-zinn-t-01-06-38) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-george-zinn-t-00-07-03) | 1 |
 
 </details>
 </section>
@@ -76,7 +78,15 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+<summary><strong class="section-title">Raw mentions (53)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
+
+**[00:07:03](/episodes/ep-rupRLXmSndU.md#ent-person-george-zinn-t-00-07-03)**
+> "They moved to detain a young man named Zachariah Qureshi. We almost forget, but it was after Zachariah was detained that Kash Patel rather gloriously issued a tweet which effectively ended the manhunt prematurely. In many ways, we should start to think of Zachariah Qureshi as decoy boy number two. OK, first it was George Zinn."
+
+</details>
 
 <details>
 <summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1 mentions)</summary>
@@ -337,7 +347,15 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about George Zinn (12)</strong></summary>
+<summary><strong class="section-title">Statements about George Zinn (13)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1)</summary>
+
+- [00:07:29](/episodes/ep-rupRLXmSndU.md#t-00-07-03) (Claim) **Candace Owens** (via paraphrase): ["George Zinn later told people at Utah Valley Hospital that he had been..."](/statements/statement-4d8f4d4ea21e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley Hospital](/entities/org-utah-valley-hospital.md)
+
+</details>
 
 <details>
 <summary>Myron Gaines x Candace Owens (1)</summary>

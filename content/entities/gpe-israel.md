@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Israel (Places) - 1084 mentions"
+description: "Israel (Places) - 1125 mentions"
 id: "gpe-israel"
 type: "GPE"
 aliases:
@@ -26,11 +26,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-israel-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-03-57-56">2026-08-14 · 03:58:04</a></strong></div>
-<div><span>Episodes</span><strong>85</strong></div>
-<div><span>Mentions</span><strong>1,084</strong></div>
+<div><span>Episodes</span><strong>89</strong></div>
+<div><span>Mentions</span><strong>1,125</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>179</strong></div>
-<div><span>Relationships</span><strong>34</strong></div>
+<div><span>Statements about</span><strong>196</strong></div>
+<div><span>Relationships</span><strong>35</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -122,6 +122,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-israel-t-00-50-02" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 3 mentions" title="2026-03-24 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-israel-t-00-34-49" style="--pulse-height:9%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 5 mentions" title="2026-03-25 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-israel-t-00-50-22" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 3 mentions" title="2026-03-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-israel-t-00-00-28" style="--pulse-height:21%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 12 mentions" title="2026-03-30 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-israel-t-00-01-34" style="--pulse-height:21%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 12 mentions" title="2026-04-01 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-israel-t-00-18-38" style="--pulse-height:9%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 5 mentions" title="2026-04-02 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-israel-t-00-17-56" style="--pulse-height:21%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 12 mentions" title="2026-04-10 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12" style="--pulse-height:68%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 39 mentions" title="2026-08-14 · 39 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -212,6 +216,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-israel-t-00-50-02) | 3 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-israel-t-00-34-49) | 5 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-israel-t-00-50-22) | 3 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-israel-t-00-00-28) | 12 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-gpe-israel-t-00-01-34) | 12 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-israel-t-00-18-38) | 5 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-israel-t-00-17-56) | 12 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12) | 39 |
 
 </details>
@@ -224,7 +232,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1084)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1125)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (39 mentions)</summary>
@@ -345,6 +353,149 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[02:25:09](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-25-09)**
 > "So it. He then loved other Israel."
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (12 mentions)</summary>
+
+**[00:18:18](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-israel-t-00-17-56)**
+> "..., and he became a creature of Israel and Benjamin Netanyahu, and all of his never-Trum..."
+
+**[00:18:56](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-israel-t-00-18-34)**
+> "...you lose to Bibi Netanyahu in Israel every single day?"
+
+**[00:19:00](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-israel-t-00-19-00)**
+> "Who's the Bibi Netanyahu in Israel every single day? When's the last time you told t..."
+
+**[00:19:57](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-israel-t-00-19-57)**
+> "...nd being at war with Iran for Israel. They didn't leave MAGA. MAGA left them."
+
+**[00:26:43](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-israel-t-00-26-31)**
+> "...mple occurred in the 90s when Israel used recordings of Bill Clinton, Monica Lewinsky ..."
+
+**[00:27:06](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-israel-t-00-26-31)**
+> "Like many other things Israel has done, it shows that America's special allies ..."
+
+**[00:27:18](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-israel-t-00-27-13)**
+> "...ve no issue destroying lives. Israel's current top priority is making sure Operation Epi..."
+
+**[00:27:42](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-israel-t-00-27-42)**
+> "...ople cannot fathom with rabid Israel firsters viciously harassing him anytime he dares..."
+
+**[00:35:59](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-israel-t-00-35-54)**
+> "...d that the true death cult is Israel. You can't fill them to the brim with enough murd..."
+
+**[00:36:32](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-israel-t-00-36-32)**
+> "...santo. Well, that was because Israel needed it."
+
+**[00:43:29](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-israel-t-00-36-32)**
+> "...s. It's just like the greater Israel project, like they have to just keep killing peop..."
+
+**[00:44:11](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-israel-t-00-44-11)**
+> "...ries, the majority of them to Israel, and there just needs to be a real change, a real..."
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (5 mentions)</summary>
+
+**[00:18:54](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-israel-t-00-18-38)**
+> "an Israeli actor."
+
+**[00:17:22](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-israel-t-00-17-13)**
+> "...y it's AI or a hologram or an Israeli actor or something."
+
+**[00:46:37](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-israel-t-00-46-06)**
+> "...ke up. He is alive. It was an Israeli operation to get him out of there."
+
+**[00:46:50](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-israel-t-00-46-50)**
+> "OK, they work on behalf of Israel. The New York Post exclusively finds Ghislaine Ma..."
+
+**[00:50:24](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-israel-t-00-49-59)**
+> "...h, they same reason involved. Israel wants something. And then they were like, let's d..."
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (12 mentions)</summary>
+
+**[00:01:34](/episodes/ep-rupRLXmSndU.md#ent-gpe-israel-t-00-01-34)**
+> "Israel"
+
+**[00:02:58](/episodes/ep-rupRLXmSndU.md#ent-gpe-israel-t-00-02-45)**
+> "...bi Netanyahu and Utah, right? Israel and Utah."
+
+**[00:03:07](/episodes/ep-rupRLXmSndU.md#ent-gpe-israel-t-00-02-45)**
+> "...re clearly is a connection to Israel and Utah. But why?"
+
+**[00:19:43](/episodes/ep-rupRLXmSndU.md#ent-gpe-israel-t-00-19-19)**
+> "...you about BYU's connection to Israel in particular."
+
+**[00:24:45](/episodes/ep-rupRLXmSndU.md#ent-gpe-israel-t-00-24-36)**
+> "...fically from BYU Jerusalem in Israel."
+
+**[00:25:26](/episodes/ep-rupRLXmSndU.md#ent-gpe-israel-t-00-25-01)**
+> "...then approached in Jerusalem, Israel by their teachers who I should mention the direct..."
+
+**[00:25:43](/episodes/ep-rupRLXmSndU.md#ent-gpe-israel-t-00-25-43)**
+> "...k for the CIA in Jerusalem by Israelis?"
+
+**[00:35:55](/episodes/ep-rupRLXmSndU.md#ent-gpe-israel-t-00-35-55)**
+> "...here was like a kerfluffle in Israel, a little war, Israel, people are bombing Israel,..."
+
+**[00:36:17](/episodes/ep-rupRLXmSndU.md#ent-gpe-israel-t-00-36-17)**
+> "...ng campaigns happening toward Israel."
+
+**[00:39:18](/episodes/ep-rupRLXmSndU.md#ent-gpe-israel-t-00-38-57)**
+> "...e's just like it's all of the israelis sue if your feelings are hurt sue sue that's like..."
+
+**[00:48:46](/episodes/ep-rupRLXmSndU.md#ent-gpe-israel-t-00-48-46)**
+> "...ironically toward support for israel he died his very last breath shabbat shalom i lov..."
+
+**[00:49:12](/episodes/ep-rupRLXmSndU.md#ent-gpe-israel-t-00-48-46)**
+> "like fighting for israel don't forget that as you march forward don't forg..."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (12 mentions)</summary>
+
+**[00:00:50](/episodes/ep-7ERqbYElOfs.md#ent-gpe-israel-t-00-00-28)**
+> "And the story is related to Israel. I promise you that is what is trending today in the news."
+
+**[00:00:56](/episodes/ep-7ERqbYElOfs.md#ent-gpe-israel-t-00-00-56)**
+> "... all roads lead to france and israel welcome back to candace"
+
+**[00:07:52](/episodes/ep-7ERqbYElOfs.md#ent-gpe-israel-t-00-07-30)**
+> "...tra points if there's also an Israeli angle. Okay, let's keep reading. It goes on, the ..."
+
+**[00:09:00](/episodes/ep-7ERqbYElOfs.md#ent-gpe-israel-t-00-09-00)**
+> "...ounds that she worked for the Israeli spy agency, the Mossad. Now, I'm going to stop th..."
+
+**[00:09:57](/episodes/ep-7ERqbYElOfs.md#ent-gpe-israel-t-00-09-39)**
+> "...mily was working on behalf of Israel for a very long time because they owed Israel a v..."
+
+**[00:10:09](/episodes/ep-7ERqbYElOfs.md#ent-gpe-israel-t-00-09-39)**
+> "... big story in the 50s and the Israeli government cleaned it up for them."
+
+**[00:10:16](/episodes/ep-7ERqbYElOfs.md#ent-gpe-israel-t-00-10-16)**
+> "...gitte's family has worked for Israel since and now, yeah, she works for the president ..."
+
+**[00:25:10](/episodes/ep-7ERqbYElOfs.md#ent-gpe-israel-t-00-25-03)**
+> "... the Egyptian. Oh, what could Israel have to do with France? What are we talking about..."
+
+**[00:25:49](/episodes/ep-7ERqbYElOfs.md#ent-gpe-israel-t-00-25-49)**
+> "The Goyim must die so that Israel can keep expanding its borders. We can see who's ..."
+
+**[00:58:12](/episodes/ep-7ERqbYElOfs.md#ent-gpe-israel-t-00-58-07)**
+> "...f you've heard anything about israel possibly spying on x users israel runs x guys i m..."
+
+**[00:58:38](/episodes/ep-7ERqbYElOfs.md#ent-gpe-israel-t-00-58-07)**
+> "... is yes. If you're on X, it's Israel."
+
+**[00:58:44](/episodes/ep-7ERqbYElOfs.md#ent-gpe-israel-t-00-58-07)**
+> "It's like a little Israel."
 
 </details>
 
@@ -4033,11 +4184,12 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <summary>Target Of Criticism From (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Myron Gaines x Candace Owens @ 00:42:03](/episodes/ep-2T39-oADLj0.md#t-00-42-00): “between you tucker nick uh they're attacking all three of you guys saying oh you guys are anti-semites and you guys are pushing this whole thing and i and i give credit because you three have done an incredible job of you know awareing the american public on this topic uh when it comes to israel's control of the middle east what they're doing over there how they've been able to get away with this for so long killing people and no one knowing and you know they've been targeting you guys quite a bit uh and i see that you know there's been a bunch of drama with megan kelly and ben shapiro and everything else like that what are your thoughts on the entire on the situation because like you know anytime they mention dr you're right there right when it comes to the criticism of israel yeah”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:41:20](/episodes/ep-i8m_6D4QGmk.md#t-00-41-20): “It's always peace until Israel gets involved. They don't know peace. They don't want peace.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:48:31](/episodes/ep-ZzAT2xijKGQ.md#t-00-48-05): “Our country, like I said, is in decline and it's very obvious that the priority is just to serve Israel and that will be Trump (Donald J. Trump)'s legacy, sadly.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:35:59](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-54): “I think by now the majority of Americans understand that the true death cult is Israel. You can't fill them to the brim with enough murder.”
 
 </details>
 
@@ -4066,7 +4218,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Referenced By (17)</summary>
+<summary>Referenced By (18)</summary>
 
 - **[Ian Carroll](/entities/person-ian-carroll.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -4086,6 +4238,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:05:37](/episodes/ep-I0OaY6Gryqk.md#t-00-05-30): “You demonstrated this by killing Qasem Soleimani and by defeating ISIS. Early in this administration, high-ranking Israeli officials and influential members of the American media deployed a misinformation campaign that wholly undermined your America First platform and sowed pro-war sentiments to encourage a war with Iran.”
+
+</details>
+
+- **[New York Post](/entities/org-new-york-post.md)** affiliated with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:46:50](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-50): “OK, they work on behalf of Israel. The New York Post exclusively finds Ghislaine Maxwell every single. Every single time it's the New York Post.”
 
 </details>
 
@@ -4111,11 +4270,12 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** critic of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Myron Gaines x Candace Owens @ 00:42:03](/episodes/ep-2T39-oADLj0.md#t-00-42-00): “between you tucker nick uh they're attacking all three of you guys saying oh you guys are anti-semites and you guys are pushing this whole thing and i and i give credit because you three have done an incredible job of you know awareing the american public on this topic uh when it comes to israel's control of the middle east what they're doing over there how they've been able to get away with this for so long killing people and no one knowing and you know they've been targeting you guys quite a bit uh and i see that you know there's been a bunch of drama with megan kelly and ben shapiro and everything else like that what are your thoughts on the entire on the situation because like you know anytime they mention dr you're right there right when it comes to the criticism of israel yeah”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:41:20](/episodes/ep-i8m_6D4QGmk.md#t-00-41-20): “It's always peace until Israel gets involved. They don't know peace. They don't want peace.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:48:31](/episodes/ep-ZzAT2xijKGQ.md#t-00-48-05): “Our country, like I said, is in decline and it's very obvious that the priority is just to serve Israel and that will be Trump (Donald J. Trump)'s legacy, sadly.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:35:59](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-54): “I think by now the majority of Americans understand that the true death cult is Israel. You can't fill them to the brim with enough murder.”
 
 </details>
 
@@ -4196,7 +4356,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel (179)</strong></summary>
+<summary><strong class="section-title">Statements about Israel (196)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2)</summary>
@@ -4206,6 +4366,76 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [02:37:26](/episodes/ep-nPhCKwJ6ye8.md#t-02-37-26) (Prediction) **Candace Owens**: ["Candace Owens predicts that Israel will ultimately be found to have be..."](/statements/statement-d5c74ed071c8.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (9)</summary>
+
+- [00:26:43](/episodes/ep-ZIH5-V6UPkg.md#t-00-26-31) (Accusation) **Tucker Carlson** (via quoted post): ["The Israeli government has a history of blackmailing U.S. presidents."](/statements/statement-e6c51d0b0c47.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+- [00:26:43](/episodes/ep-ZIH5-V6UPkg.md#t-00-26-31) (Claim) **Tucker Carlson** (via quoted post): ["Israel used recordings of Bill Clinton and Monica Lewinsky's phone-sex..."](/statements/statement-1ad2cbf015a8.md)
+  - Also about: [Bill Clinton](/entities/person-bill-clinton.md), [Monica Lewinsky](/entities/person-monica-lewinsky.md), [Jonathan Jay Pollard](/entities/person-jonathan-jay-pollard.md)
+
+- [00:27:27](/episodes/ep-ZIH5-V6UPkg.md#t-00-27-13) (Accusation) **Tucker Carlson** (via quoted post): ["Israel wants the United States to fight its war so it can expand its b..."](/statements/statement-4f887d8a59ce.md)
+  - Also about: [United States](/entities/gpe-united-states.md), [Greater Israel](/entities/concept-greater-israel.md)
+
+- [00:27:42](/episodes/ep-ZIH5-V6UPkg.md#t-00-27-42) (Opinion) **Tucker Carlson** (via quoted post): ["Israel may be using Clinton-style blackmail or something more morbid a..."](/statements/statement-59d621e55ff6.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Bill Clinton](/entities/person-bill-clinton.md)
+
+- [00:35:59](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-54) (Opinion) **Candace Owens**: ["Israel is the true death cult."](/statements/statement-dce8dc9532fa.md)
+
+- [00:36:10](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-54) (Accusation) **Candace Owens**: ["The Likud government is murderous and has a particular knack for murde..."](/statements/statement-dd48f45143b4.md)
+  - Also about: [Likud](/entities/org-likud.md)
+
+- [00:36:18](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-54) (Opinion) **Candace Owens**: ["Candace Owens believes the Likud government celebrates murdering child..."](/statements/statement-62008193f486.md)
+  - Also about: [Likud](/entities/org-likud.md)
+
+- [00:37:43](/episodes/ep-ZIH5-V6UPkg.md#t-00-37-43) (Opinion) **Candace Owens**: ["The first casualty of the Iranian war was Charlie Kirk, whom Candace O..."](/statements/statement-3c65604ff9a1.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md)
+
+- [00:44:11](/episodes/ep-ZIH5-V6UPkg.md#t-00-44-11) (Accusation) **Candace Owens**: ["Politicians send U.S. tax money overseas, launder it, return it to the..."](/statements/statement-7ee1138bcbc4.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (2)</summary>
+
+- [00:46:37](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-06) (Accusation) **Candace Owens**: ["Jeffrey Epstein is alive, and his removal from custody was an Israeli ..."](/statements/statement-732fff5e8528.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+- [00:46:42](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-06) (Accusation) **Candace Owens**: ["The New York Post is effectively a Mossad outlet that works on behalf ..."](/statements/statement-5f946e77b3bb.md)
+  - Also about: [New York Post](/entities/org-new-york-post.md), [Mossad](/entities/org-mossad.md)
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (3)</summary>
+
+- [00:01:34](/episodes/ep-rupRLXmSndU.md#t-00-01-34) (Claim) **Candace Owens** (via paraphrase): ["Charlie Kirk described his final call with Benjamin Netanyahu as an in..."](/statements/statement-cea35d129a59.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+- [00:36:17](/episodes/ep-rupRLXmSndU.md#t-00-36-17) (Opinion) **Candace Owens**: ["Candace Owens said she was not claiming Benjamin Netanyahu was aboard ..."](/statements/statement-f1817735b17d.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Egypt](/entities/gpe-egypt.md), [Provo](/entities/gpe-provo.md)
+
+- [00:48:20](/episodes/ep-rupRLXmSndU.md#t-00-48-20) (Opinion) **Candace Owens**: ["The CIA apparatus was being used to socially engineer support for Isra..."](/statements/statement-252982585ec2.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (3)</summary>
+
+- [00:09:39](/episodes/ep-7ERqbYElOfs.md#t-00-09-39) (Accusation) **Anonymous Source #2 (Ep 7ERqbYElOfs)** (via read message): ["Brigitte Macron's family had worked for Israel for a long time because..."](/statements/statement-260837072c2a.md)
+  - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md), [Germany](/entities/gpe-germany.md), [Nazism](/entities/concept-nazism.md)
+
+- [00:10:09](/episodes/ep-7ERqbYElOfs.md#t-00-09-39) (Accusation) **Anonymous Source #2 (Ep 7ERqbYElOfs)** (via read message): ["The Israeli government covered up a 1950s story about Brigitte Macron'..."](/statements/statement-7f432fc03ef1.md)
+  - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md), [France](/entities/gpe-france.md), [Nazism](/entities/concept-nazism.md)
+
+- [00:58:12](/episodes/ep-7ERqbYElOfs.md#t-00-58-07) (Claim) **Candace Owens**: ["Israel runs X, which is populated by Israeli bots."](/statements/statement-eed4e2b07ae3.md)
+  - Also about: [X](/entities/org-x-platform.md)
 
 </details>
 

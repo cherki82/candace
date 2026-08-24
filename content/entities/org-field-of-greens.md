@@ -1,6 +1,6 @@
 ---
 title: "Field of Greens"
-description: "Field of Greens (Organizations) - 12 mentions"
+description: "Field of Greens (Organizations) - 15 mentions"
 id: "org-field-of-greens"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-field-of-greens-t-00-46-10">2026-01-14 · 00:46:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-field-of-greens-t-00-54-33">2026-03-09 · 00:55:09</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-org-field-of-greens-t-00-21-56">2026-04-01 · 00:22:28</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-field-of-greens-t-00-46-10" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 5 mentions" title="2026-01-14 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-field-of-greens-t-00-52-11" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 5 mentions" title="2026-02-13 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-field-of-greens-t-00-54-33" style="--pulse-height:40%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-field-of-greens-t-00-21-17" style="--pulse-height:60%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 3 mentions" title="2026-04-01 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-field-of-greens-t-00-46-10) | 5 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-field-of-greens-t-00-52-11) | 5 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-field-of-greens-t-00-54-33) | 2 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-field-of-greens-t-00-21-17) | 3 |
 
 </details>
 </section>
@@ -53,7 +55,21 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (3 mentions)</summary>
+
+**[00:21:47](/episodes/ep-rupRLXmSndU.md#ent-org-field-of-greens-t-00-21-17)**
+> "Field of Greens"
+
+**[00:22:06](/episodes/ep-rupRLXmSndU.md#ent-org-field-of-greens-t-00-21-56)**
+> "... check out fieldofgreens.com. Field of Greens is 100% organic."
+
+**[00:22:28](/episodes/ep-rupRLXmSndU.md#ent-org-field-of-greens-t-00-21-56)**
+> "Field of Greens promises your doctor will notice your improved he..."
+
+</details>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (2 mentions)</summary>

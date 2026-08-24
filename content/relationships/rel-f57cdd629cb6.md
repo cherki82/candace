@@ -1,0 +1,23 @@
+---
+title: "Pure Talk endorsed Candace Owens"
+description: "Evidence for the relationship: Pure Talk endorsed Candace Owens"
+relationship_id: "rel-f57cdd629cb6"
+subject: "org-pure-talk"
+predicate: "endorsed"
+object: "person-candace-owens"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Pure Talk](/entities/org-pure-talk) endorsed [Candace Owens](/entities/person-candace-owens)
+
+### Evidence (1 mentions)
+
+**[An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg)**
+
+- [00:22:47](/episodes/ep-ZIH5-V6UPkg#t-00-22-47): _PureTalk was one of the very first companies that ever endorsed me almost five years ago now._
+
+### Related
+
+- [Pure Talk](/entities/org-pure-talk)
+- [Candace Owens](/entities/person-candace-owens)

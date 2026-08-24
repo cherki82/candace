@@ -1,6 +1,6 @@
 ---
 title: "Pete Hegseth"
-description: "Pete Hegseth (People) - 3 mentions"
+description: "Pete Hegseth (People) - 4 mentions"
 id: "person-pete-hegseth"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-pete-hegseth-t-00-02-17">2026-03-10 · 00:02:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-person-pete-hegseth-t-00-24-11">2026-03-17 · 00:24:39</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-pete-hegseth-t-00-08-09">2026-04-10 · 00:08:31</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -37,6 +37,7 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-pete-hegseth-t-00-02-17" style="--pulse-height:50%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-pete-hegseth-t-00-24-11" style="--pulse-height:100%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-pete-hegseth-t-00-08-09" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 |---|---|---:|
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-pete-hegseth-t-00-02-17) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-pete-hegseth-t-00-24-11) | 2 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-pete-hegseth-t-00-08-09) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:08:31](/episodes/ep-ZIH5-V6UPkg.md#ent-person-pete-hegseth-t-00-08-09)**
+> "...he men and women that you and Pete Hegseth want to send to their deaths in the Middle East."
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (2 mentions)</summary>

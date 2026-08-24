@@ -1,6 +1,6 @@
 ---
 title: "Mossad"
-description: "Mossad (Organizations) - 62 mentions"
+description: "Mossad (Organizations) - 69 mentions"
 id: "org-mossad"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-mossad-t-00-29-49">2025-09-15 · 00:30:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-mossad-t-00-48-35">2026-03-25 · 00:48:43</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>62</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-mossad-t-00-46-06">2026-04-02 · 00:46:42</a></strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>69</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>20</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>22</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -59,6 +59,8 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-mossad-t-00-27-42" style="--pulse-height:10%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-org-mossad-t-00-05-12" style="--pulse-height:10%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-mossad-t-00-48-35" style="--pulse-height:40%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 4 mentions" title="2026-03-25 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-mossad-t-00-09-00" style="--pulse-height:60%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 6 mentions" title="2026-03-30 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-mossad-t-00-46-06" style="--pulse-height:10%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -88,6 +90,8 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-mossad-t-00-27-42) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-org-mossad-t-00-05-12) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-mossad-t-00-48-35) | 4 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-mossad-t-00-09-00) | 6 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-mossad-t-00-46-06) | 1 |
 
 </details>
 </section>
@@ -95,7 +99,38 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (62)</strong></summary>
+<summary><strong class="section-title">Raw mentions (69)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:46:42](/episodes/ep-q1NRQQAYS_Q.md#ent-org-mossad-t-00-46-06)**
+> "the New York Post ... a Mossad outfit."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (6 mentions)</summary>
+
+**[00:09:00](/episodes/ep-7ERqbYElOfs.md#ent-org-mossad-t-00-09-00)**
+> "Quote, they told investigators that they believed that they had been asked to murder Denis on behalf of the French state and they were targeting Denis on the grounds that she worked for the Israeli spy agency, the Mossad. Now, I'm going to stop there and tell you that I kind of believe them. I really do."
+
+**[00:09:18](/episodes/ep-7ERqbYElOfs.md#ent-org-mossad-t-00-09-00)**
+> "... was working on behalf of the Mossad. And if."
+
+**[00:09:25](/episodes/ep-7ERqbYElOfs.md#ent-org-mossad-t-00-09-00)**
+> "...t Brigitte Macron is actually Mossad."
+
+**[00:10:31](/episodes/ep-7ERqbYElOfs.md#ent-org-mossad-t-00-10-16)**
+> "...u there will be no killing of Mossad agents in Paris while he is the first lady."
+
+**[00:10:41](/episodes/ep-7ERqbYElOfs.md#ent-org-mossad-t-00-10-16)**
+> "...they died. Then he went for a Mossad agent and suddenly it got rumbled."
+
+**[00:10:49](/episodes/ep-7ERqbYElOfs.md#ent-org-mossad-t-00-10-49)**
+> "...alled the hit on this alleged Mossad agent spy was Jean-Luc Bagure. He was the ringlea..."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (4 mentions)</summary>
@@ -425,7 +460,14 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
+
+- **[New York Post](/entities/org-new-york-post.md)** affiliated with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:46:42](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-06): “It's the reason why the New York Post had the exclusive photos in the story, this New York Post for all intents and purposes, just a Mossad outfit.”
+
+</details>
 
 - **[Viktor Ostrovsky](/entities/person-viktor-ostrovsky.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -446,7 +488,23 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mossad (20)</strong></summary>
+<summary><strong class="section-title">Statements about Mossad (22)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1)</summary>
+
+- [00:46:42](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-06) (Accusation) **Candace Owens**: ["The New York Post is effectively a Mossad outlet that works on behalf ..."](/statements/statement-5f946e77b3bb.md)
+  - Also about: [New York Post](/entities/org-new-york-post.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1)</summary>
+
+- [00:09:00](/episodes/ep-7ERqbYElOfs.md#t-00-09-00) (Citation) **Candace Owens**: ["The two arrested men told investigators they believed they had been as..."](/statements/statement-0087554e0b8e.md)
+  - Also about: [France](/entities/gpe-france.md), [Marie-Hélène Dini](/entities/person-marie-helene-dini.md)
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (2)</summary>

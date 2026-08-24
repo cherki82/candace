@@ -4,9 +4,10 @@ description: "\"Erika Kirk is lying when she claims Andrew Kolvet was on the fli
 statement_id: "statement-ea7d4363449c"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The accusation of intentional lying is not established by an official passenger manifest or direct record. Later reporting says a obtained September 10 manifest supports a direct Santa Barbara-to-Provo flight by Kolvet and his wife, which cuts against this accusation, but the underlying manifest is not publicly inspectable.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Factual errors: Jessica Reed Kraus challenges Candace Owens timeline](https://www.inkl.com/news/factual-errors-jessica-reed-kraus-challenges-candace-owens-timeline-on-andrew-kolvet-and-erika-kirk-claims-with-flight-record-details)
+
+*Verified: 2026-08-24T10:57:37.867667*
 
 ---
 

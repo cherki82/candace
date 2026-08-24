@@ -1,6 +1,6 @@
 ---
 title: "United States Department of Defense"
-description: "United States Department of Defense (Organizations) - 21 mentions"
+description: "United States Department of Defense (Organizations) - 23 mentions"
 id: "org-us-department-of-defense"
 type: "ORG"
 aliases:
@@ -24,12 +24,12 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-department-of-defense-t-00-31-29">2025-10-28 · 00:31:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-us-department-of-defense-t-00-32-04">2026-03-23 · 00:32:19</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-org-us-department-of-defense-t-00-16-05">2026-04-01 · 00:16:05</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
-<div><span>Relationships</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -49,6 +49,7 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/)
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-org-us-department-of-defense-t-00-11-00" style="--pulse-height:67%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-us-department-of-defense-t-00-01-43" style="--pulse-height:100%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 3 mentions" title="2026-03-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-us-department-of-defense-t-00-32-04" style="--pulse-height:33%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-us-department-of-defense-t-00-12-27" style="--pulse-height:67%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -66,6 +67,7 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/)
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-us-department-of-defense-t-00-11-00) | 2 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-us-department-of-defense-t-00-01-43) | 3 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-us-department-of-defense-t-00-32-04) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-us-department-of-defense-t-00-12-27) | 2 |
 
 </details>
 </section>
@@ -73,7 +75,18 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2 mentions)</summary>
+
+**[00:12:44](/episodes/ep-rupRLXmSndU.md#ent-org-us-department-of-defense-t-00-12-27)**
+> "Department of Defense"
+
+**[00:16:05](/episodes/ep-rupRLXmSndU.md#ent-org-us-department-of-defense-t-00-16-05)**
+> "...s awarded that money from the Department of Defense, particularly from the Air Force. The majority ca..."
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1 mentions)</summary>
@@ -228,6 +241,18 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/)
 </details>
 
 <details>
+<summary>Funded (1)</summary>
+
+- **[BILT Incorporated](/entities/org-bilt-incorporated.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:12:44](/episodes/ep-rupRLXmSndU.md#t-00-12-27): “And you should know that this company receives funding from the Department of Defense, contracts from the Department of Defense.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Headquartered In (1)</summary>
 
 - **[United States Pentagon](/entities/org-united-states-pentagon.md)**
@@ -240,7 +265,7 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/)
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** advisor to this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -253,6 +278,13 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:32:19](/episodes/ep-B9TyCs-6o_0.md#t-00-32-04): “the department of defense which is all over the story for some reason Lori (Lori Frantzve) is part of the department of defense”
+
+</details>
+
+- **[BILT Incorporated](/entities/org-bilt-incorporated.md)** funded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:12:44](/episodes/ep-rupRLXmSndU.md#t-00-12-27): “And you should know that this company receives funding from the Department of Defense, contracts from the Department of Defense.”
 
 </details>
 
@@ -275,7 +307,18 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Department of Defense (13)</strong></summary>
+<summary><strong class="section-title">Statements about United States Department of Defense (15)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2)</summary>
+
+- [00:15:27](/episodes/ep-rupRLXmSndU.md#t-00-15-13) (Citation) **Baron Coleman** (via quoted speech): ["BILT received approximately $7.5 million in federal contracts dated Ju..."](/statements/statement-e62d55f45502.md)
+  - Also about: [BILT Incorporated](/entities/org-bilt-incorporated.md), [USAspending.gov](/entities/org-usaspending-gov.md)
+
+- [00:16:05](/episodes/ep-rupRLXmSndU.md#t-00-16-05) (Citation) **Candace Owens**: ["BILT received nearly $8 million in June 2025 from the Department of De..."](/statements/statement-9dc82c68913f.md)
+  - Also about: [BILT Incorporated](/entities/org-bilt-incorporated.md), [United States Air Force](/entities/org-united-states-air-force.md), [United States Navy](/entities/org-united-states-navy.md)
+
+</details>
 
 <details>
 <summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1)</summary>

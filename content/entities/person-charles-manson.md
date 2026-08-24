@@ -1,6 +1,6 @@
 ---
 title: "Charles Manson"
-description: "Charles Manson (People) - 2 mentions"
+description: "Charles Manson (People) - 3 mentions"
 id: "person-charles-manson"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Charles Manson — Encyclopaedia Britannica](https://www.britannica.com
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-charles-manson-t-00-13-33">2026-02-25 · 00:13:38</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-charles-manson-t-00-37-25">2026-03-17 · 00:37:25</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-person-charles-manson-t-00-48-20">2026-04-01 · 00:48:20</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [Charles Manson — Encyclopaedia Britannica](https://www.britannica.com
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-charles-manson-t-00-13-33" style="--pulse-height:100%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-charles-manson-t-00-37-25" style="--pulse-height:100%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-person-charles-manson-t-00-48-20" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Charles Manson — Encyclopaedia Britannica](https://www.britannica.com
 |---|---|---:|
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charles-manson-t-00-13-33) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-charles-manson-t-00-37-25) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-charles-manson-t-00-48-20) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [Charles Manson — Encyclopaedia Britannica](https://www.britannica.com
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
+
+**[00:48:20](/episodes/ep-rupRLXmSndU.md#ent-person-charles-manson-t-00-48-20)**
+> "uh libby vargas writes i joined the book club and i started at chaos the first episode gave me chills it feels like your investigation started then what you spoke is what you're living now david with his sling unaware of goliath god bless wow i didn't even appreciate that yeah when i was reading chaos it was like that it's like oh this is what we were told the manson murders this is what the narrative was then you're like wait but everything did not happen that way it's like the opposite and then like behind this is this cia apparatus"
+
+</details>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>

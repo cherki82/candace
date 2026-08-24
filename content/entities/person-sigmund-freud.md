@@ -1,6 +1,6 @@
 ---
 title: "Sigmund Freud"
-description: "Sigmund Freud (People) - 60 mentions"
+description: "Sigmund Freud (People) - 61 mentions"
 id: "person-sigmund-freud"
 type: "PERSON"
 categories:
@@ -17,9 +17,9 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-sigmund-freud-t-01-01-30">2025-09-15 · 01:01:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-sigmund-freud-t-00-59-19">2026-03-12 · 00:59:19</a></strong></div>
-<div><span>Episodes</span><strong>29</strong></div>
-<div><span>Mentions</span><strong>60</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-sigmund-freud-t-00-32-10">2026-04-02 · 00:32:27</a></strong></div>
+<div><span>Episodes</span><strong>30</strong></div>
+<div><span>Mentions</span><strong>61</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -59,6 +59,7 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-sigmund-freud-t-00-08-45" style="--pulse-height:22%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-sigmund-freud-t-00-49-55" style="--pulse-height:11%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-sigmund-freud-t-00-59-19" style="--pulse-height:11%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-sigmund-freud-t-00-32-10" style="--pulse-height:11%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -93,6 +94,7 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-sigmund-freud-t-00-08-45) | 2 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-sigmund-freud-t-00-49-55) | 1 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-sigmund-freud-t-00-59-19) | 1 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-sigmund-freud-t-00-32-10) | 1 |
 
 </details>
 </section>
@@ -100,7 +102,15 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (60)</strong></summary>
+<summary><strong class="section-title">Raw mentions (61)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:32:27](/episodes/ep-q1NRQQAYS_Q.md#ent-person-sigmund-freud-t-00-32-10)**
+> "Sigmund Freud"
+
+</details>
 
 <details>
 <summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>

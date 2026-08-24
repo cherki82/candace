@@ -1,21 +1,30 @@
 ---
 title: "Donald Trump Jr."
-description: "Donald Trump Jr. (People) - 21 mentions"
+description: "Donald Trump Jr. (People) - 22 mentions"
 id: "person-donald-trump-jr"
 type: "PERSON"
 aliases:
   - "Don Jr."
+categories:
+  - "Trump Organization"
+  - "US politics"
 ---
 
 _Type: People_
 
 **Also known as:** Don Jr.
 
+**Categories:** Trump Organization, US politics
+
+**Entity verification:** verified
+> The Trump Organization's official leadership biography confirms the canonical name Donald Trump Jr.
+Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/donald-trump-jr-biography/href)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52">2025-09-11 · 00:08:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-donald-trump-jr-t-00-51-19">2026-03-12 · 00:51:49</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-donald-trump-jr-t-00-31-29">2026-04-10 · 00:31:49</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -32,6 +41,7 @@ _Type: People_
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-donald-trump-jr-t-00-00-46" style="--pulse-height:100%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 13 mentions" title="2025-10-29 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-donald-trump-jr-t-00-32-39" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-donald-trump-jr-t-00-51-19" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-donald-trump-jr-t-00-31-29" style="--pulse-height:8%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -43,6 +53,7 @@ _Type: People_
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-donald-trump-jr-t-00-00-46) | 13 |
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-donald-trump-jr-t-00-32-39) | 1 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-donald-trump-jr-t-00-51-19) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-donald-trump-jr-t-00-31-29) | 1 |
 
 </details>
 </section>
@@ -50,7 +61,15 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:31:49](/episodes/ep-ZIH5-V6UPkg.md#ent-person-donald-trump-jr-t-00-31-29)**
+> "And I do remember watching Donald Trump Jr. on stage when someone sort of prodded him on that..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>

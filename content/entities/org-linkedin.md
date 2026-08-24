@@ -1,6 +1,6 @@
 ---
 title: "LinkedIn"
-description: "LinkedIn (Organizations) - 7 mentions"
+description: "LinkedIn (Organizations) - 12 mentions"
 id: "org-linkedin"
 type: "ORG"
 categories:
@@ -18,26 +18,28 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-linkedin-t-00-07-01">2026-01-19 · 00:07:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-linkedin-t-00-16-56">2026-03-18 · 00:17:20</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-linkedin-t-00-02-10">2026-04-02 · 00:02:33</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-linkedin-t-00-07-01">A Legal Turning Point? | Candace Ep 292</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-rupRLXmSndU.md#ent-org-linkedin-t-00-10-19">Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-linkedin-t-00-07-01" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-linkedin-t-00-27-20" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-4YgrOhhy708.md#ent-org-linkedin-t-00-20-41" style="--pulse-height:100%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-linkedin-t-00-17-08" style="--pulse-height:100%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-linkedin-t-00-27-18" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-linkedin-t-00-27-36" style="--pulse-height:100%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-linkedin-t-00-16-56" style="--pulse-height:100%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-linkedin-t-00-07-01" style="--pulse-height:25%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-linkedin-t-00-27-20" style="--pulse-height:25%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-org-linkedin-t-00-20-41" style="--pulse-height:25%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-linkedin-t-00-17-08" style="--pulse-height:25%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-linkedin-t-00-27-18" style="--pulse-height:25%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-linkedin-t-00-27-36" style="--pulse-height:25%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-linkedin-t-00-16-56" style="--pulse-height:25%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-linkedin-t-00-10-19" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 4 mentions" title="2026-04-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-linkedin-t-00-02-10" style="--pulse-height:25%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +52,8 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-linkedin-t-00-27-18) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-linkedin-t-00-27-36) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-org-linkedin-t-00-16-56) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-linkedin-t-00-10-19) | 4 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-linkedin-t-00-02-10) | 1 |
 
 </details>
 </section>
@@ -57,7 +61,32 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:02:33](/episodes/ep-q1NRQQAYS_Q.md#ent-org-linkedin-t-00-02-10)**
+> "LinkedIn"
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (4 mentions)</summary>
+
+**[00:10:19](/episodes/ep-rupRLXmSndU.md#ent-org-linkedin-t-00-10-19)**
+> "But let's take a look at Ahmed's LinkedIn because it is relevant. Again, this is decoy boy number two's dad."
+
+**[00:12:27](/episodes/ep-rupRLXmSndU.md#ent-org-linkedin-t-00-12-27)**
+> "...b in the military because his LinkedIn also informs us that Ahmed co-founded BILT back i..."
+
+**[00:18:00](/episodes/ep-rupRLXmSndU.md#ent-org-linkedin-t-00-18-00)**
+> "You can see that here on her LinkedIn. And they also have a son, a young man named Conn..."
+
+**[00:19:00](/episodes/ep-rupRLXmSndU.md#ent-org-linkedin-t-00-18-41)**
+> "...ntil, and that's only because LinkedIn is to be believed, just before Charlie's assassin..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
@@ -147,7 +176,21 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about LinkedIn (3)</strong></summary>
+<summary><strong class="section-title">Statements about LinkedIn (6)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (3)</summary>
+
+- [00:10:25](/episodes/ep-rupRLXmSndU.md#t-00-10-19) (Citation) **Candace Owens**: ["Ahmed Qureshi is president and COO of BILT Incorporated."](/statements/statement-afc7b2581f40.md)
+  - Also about: [Ahmed Qureshi](/entities/person-ahmed-qureshi.md), [BILT Incorporated](/entities/org-bilt-incorporated.md)
+
+- [00:12:27](/episodes/ep-rupRLXmSndU.md#t-00-12-27) (Citation) **Candace Owens**: ["Ahmed Qureshi co-founded BILT in 2015 while serving full-time as an O-..."](/statements/statement-4bf958f5ad4c.md)
+  - Also about: [Ahmed Qureshi](/entities/person-ahmed-qureshi.md), [BILT Incorporated](/entities/org-bilt-incorporated.md)
+
+- [00:17:38](/episodes/ep-rupRLXmSndU.md#t-00-17-20) (Citation) **Candace Owens**: ["Gina Romney Henderson is married to BILT co-founder Nathan Henderson a..."](/statements/statement-465aa7e9aafc.md)
+  - Also about: [Gina Romney Henderson](/entities/person-gina-romney-henderson.md), [Nathan Henderson](/entities/person-nathan-henderson.md), [BILT Incorporated](/entities/org-bilt-incorporated.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Crazy In Love | Episode 7 (1)</summary>

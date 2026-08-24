@@ -1,6 +1,6 @@
 ---
 title: "PreBorn!"
-description: "PreBorn! (Organizations) - 132 mentions"
+description: "PreBorn! (Organizations) - 139 mentions"
 id: "org-preborn"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [PreBorn!](https://preborn.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-32-31">2025-09-15 · 00:31:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-preborn-t-00-24-43">2026-03-25 · 00:25:11</a></strong></div>
-<div><span>Episodes</span><strong>40</strong></div>
-<div><span>Mentions</span><strong>132</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-preborn-t-00-22-37">2026-04-10 · 00:22:47</a></strong></div>
+<div><span>Episodes</span><strong>43</strong></div>
+<div><span>Mentions</span><strong>139</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -77,6 +77,9 @@ Source: [PreBorn!](https://preborn.com/)
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-preborn-t-00-30-41" style="--pulse-height:14%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-org-preborn-t-00-29-24" style="--pulse-height:43%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-preborn-t-00-24-02" style="--pulse-height:43%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 3 mentions" title="2026-03-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-preborn-t-00-33-01" style="--pulse-height:43%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 3 mentions" title="2026-03-31 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-preborn-t-00-20-35" style="--pulse-height:43%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 3 mentions" title="2026-04-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-preborn-t-00-22-37" style="--pulse-height:14%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -122,6 +125,9 @@ Source: [PreBorn!](https://preborn.com/)
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-preborn-t-00-30-41) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-org-preborn-t-00-29-24) | 3 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-preborn-t-00-24-02) | 3 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-org-preborn-t-00-33-01) | 3 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-preborn-t-00-20-35) | 3 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-preborn-t-00-22-37) | 1 |
 
 </details>
 </section>
@@ -129,7 +135,43 @@ Source: [PreBorn!](https://preborn.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (132)</strong></summary>
+<summary><strong class="section-title">Raw mentions (139)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:22:47](/episodes/ep-ZIH5-V6UPkg.md#ent-org-preborn-t-00-22-37)**
+> "Visit preborn.com slash Candace. Again, that's preborn.com slas..."
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (3 mentions)</summary>
+
+**[00:20:50](/episodes/ep-rupRLXmSndU.md#ent-org-preborn-t-00-20-35)**
+> "Preborn"
+
+**[00:21:02](/episodes/ep-rupRLXmSndU.md#ent-org-preborn-t-00-20-35)**
+> "...that's in crisis walks into a preborn network clinic and she sees her baby on an ultras..."
+
+**[00:21:38](/episodes/ep-rupRLXmSndU.md#ent-org-preborn-t-00-21-17)**
+> "...say the keyword baby or visit preborn.com slash candace. Again, that's preborn.com slas..."
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (3 mentions)</summary>
+
+**[00:33:31](/episodes/ep-UYkXV9mYbT4.md#ent-org-preborn-t-00-33-01)**
+> "...uys, thanks to you last year, Preborn helped rescue over 80,000 babies."
+
+**[00:33:46](/episodes/ep-UYkXV9mYbT4.md#ent-org-preborn-t-00-33-46)**
+> "...mother in crisis walks into a preborn network clinic and sees her baby on an ultrasound..."
+
+**[00:34:20](/episodes/ep-UYkXV9mYbT4.md#ent-org-preborn-t-00-33-46)**
+> "...ay the keyword baby, or visit preborn.com slash candid. Candace, again, that's preborn...."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (3 mentions)</summary>
@@ -727,9 +769,10 @@ Source: [PreBorn!](https://preborn.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash candid. Candace, again, that's preborn.com slash Candace.”
 
 </details>
 
@@ -739,9 +782,10 @@ Source: [PreBorn!](https://preborn.com/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash candid. Candace, again, that's preborn.com slash Candace.”
 
 </details>
 

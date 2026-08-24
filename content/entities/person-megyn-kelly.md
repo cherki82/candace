@@ -1,6 +1,6 @@
 ---
 title: "Megyn Kelly"
-description: "Megyn Kelly (People) - 187 mentions"
+description: "Megyn Kelly (People) - 196 mentions"
 id: "person-megyn-kelly"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-megyn-kelly-t-00-11-22">2025-09-15 · 00:11:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-02-47-31">2026-08-14 · 02:47:31</a></strong></div>
-<div><span>Episodes</span><strong>44</strong></div>
-<div><span>Mentions</span><strong>187</strong></div>
+<div><span>Episodes</span><strong>48</strong></div>
+<div><span>Mentions</span><strong>196</strong></div>
 <div><span>Statements by</span><strong>15</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
-<div><span>Relationships</span><strong>40</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Relationships</span><strong>46</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -78,6 +78,10 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-megyn-kelly-t-00-25-18" style="--pulse-height:30%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 7 mentions" title="2026-03-17 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-megyn-kelly-t-00-05-40" style="--pulse-height:13%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 3 mentions" title="2026-03-23 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-megyn-kelly-t-00-51-07" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-megyn-kelly-t-00-54-00" style="--pulse-height:8%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-08-54" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-megyn-kelly-t-00-03-51" style="--pulse-height:22%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 5 mentions" title="2026-04-10 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-megyn-kelly-t-00-19-40" style="--pulse-height:9%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-00-36-46" style="--pulse-height:9%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -127,6 +131,10 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-megyn-kelly-t-00-25-18) | 7 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-megyn-kelly-t-00-05-40) | 3 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-megyn-kelly-t-00-51-07) | 1 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-megyn-kelly-t-00-54-00) | 1 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-08-54) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-megyn-kelly-t-00-03-51) | 5 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-megyn-kelly-t-00-19-40) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-00-36-46) | 2 |
 
 </details>
@@ -135,7 +143,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (187)</strong></summary>
+<summary><strong class="section-title">Raw mentions (196)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -145,6 +153,53 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 
 **[02:47:31](/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-02-47-31)**
 > "by the way, I remember even Megyn Kelly was like, you know, let's wait,"
+
+</details>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2 mentions)</summary>
+
+**[00:19:58](/episodes/ep-eLgD5yUVbko.md#ent-person-megyn-kelly-t-00-19-40)**
+> "Megyn Kelly"
+
+**[00:24:40](/episodes/ep-eLgD5yUVbko.md#ent-person-megyn-kelly-t-00-24-24)**
+> "...he would want harm to come to Megyn Kelly."
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (5 mentions)</summary>
+
+**[00:03:51](/episodes/ep-ZIH5-V6UPkg.md#ent-person-megyn-kelly-t-00-03-51)**
+> "Alex Jones, Tucker Carlson, Megyn Kelly, Candace Owens, different instruments to be sure,..."
+
+**[00:04:12](/episodes/ep-ZIH5-V6UPkg.md#ent-person-megyn-kelly-t-00-03-51)**
+> "I know why Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have all been figh..."
+
+**[00:06:00](/episodes/ep-ZIH5-V6UPkg.md#ent-person-megyn-kelly-t-00-06-00)**
+> "Now, you can call Megyn Kelly a great many things. I have definitely had my pol..."
+
+**[00:09:06](/episodes/ep-ZIH5-V6UPkg.md#ent-person-megyn-kelly-t-00-08-45)**
+> "You write, or Megyn Kelly, who nastily asked me the now famous only Rosie O..."
+
+**[00:24:17](/episodes/ep-ZIH5-V6UPkg.md#ent-person-megyn-kelly-t-00-24-10)**
+> "Megyn Kelly is here and she's doing, come up, come up here, M..."
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:08:54](/episodes/ep-q1NRQQAYS_Q.md#t-00-08-54)**
+> "Megan Kelly"
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
+
+**[00:54:00](/episodes/ep-UYkXV9mYbT4.md#ent-person-megyn-kelly-t-00-54-00)**
+> "...rooting Tucker Carlson on and Megyn Kelly on when they told the truth about the usual thing..."
 
 </details>
 
@@ -921,6 +976,18 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Appeared With (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:23:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-23-58): “And CNN actually, which I guess Trump is watching for their polls, their reliable polls, put together a pretty brutal montage of Trump. ... Megyn Kelly is here and she's doing, come up, come up here, Megyn.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -940,7 +1007,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 <details>
-<summary>Criticized By (1)</summary>
+<summary>Criticized By (2)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
@@ -949,6 +1016,13 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-43): “and this time he also attacked Megyn Kelly”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:40:10](/episodes/ep-CMcktj3Egfo.md#t-00-39-38): “I was called a coward by Ben Shapiro at the Turning Point event AmFest in December,”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:46](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “He calls Megyn Kelly a coward and Piers Morgan a clickbait whore or something. And what is their crime?”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51): “I know why Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have all been fighting me for years... they have one thing in common, low IQs. They are stupid people.”
 
 </details>
 
@@ -1075,9 +1149,10 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 - **[Piers Morgan](/entities/person-piers-morgan.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:19:38](/episodes/ep-ti5Fxrvegno.md#t-00-19-38): “And just on Candace Owens, you've been very supportive of her, not critical”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:25:39](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-12): “Who is guiding that? Meghan Kelly is asking the right questions on Piers Morgan. Take a listen.”
 
 </details>
 
@@ -1103,7 +1178,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 <details>
-<summary>Supporter Of (1)</summary>
+<summary>Supporter Of (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1112,10 +1187,24 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 
 </details>
 
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:28:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-20): “We decided to write this after Trump published a true social post attacking our company, Meghan Kelly, Candace Owens, and Alex Jones, each of whom supported him for years.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (20)</summary>
+<summary>Referenced By (23)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:23:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-23-58): “And CNN actually, which I guess Trump is watching for their polls, their reliable polls, put together a pretty brutal montage of Trump. ... Megyn Kelly is here and she's doing, come up, come up here, Megyn.”
+
+</details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
@@ -1124,6 +1213,13 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-43): “and this time he also attacked Megyn Kelly”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:40:10](/episodes/ep-CMcktj3Egfo.md#t-00-39-38): “I was called a coward by Ben Shapiro at the Turning Point event AmFest in December,”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:46](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “He calls Megyn Kelly a coward and Piers Morgan a clickbait whore or something. And what is their crime?”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51): “I know why Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have all been fighting me for years... they have one thing in common, low IQs. They are stupid people.”
 
 </details>
 
@@ -1194,9 +1290,10 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 - **[Piers Morgan](/entities/person-piers-morgan.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:19:38](/episodes/ep-ti5Fxrvegno.md#t-00-19-38): “And just on Candace Owens, you've been very supportive of her, not critical”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:25:39](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-12): “Who is guiding that? Meghan Kelly is asking the right questions on Piers Morgan. Take a listen.”
 
 </details>
 
@@ -1264,6 +1361,13 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:18:00](/episodes/ep-ti5Fxrvegno.md#t-00-17-53): “Megyn Kelly ... She supports Turning Point USA. She supports the direction Turning Point USA is going into ostensibly.”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** supported by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:28:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-20): “We decided to write this after Trump published a true social post attacking our company, Meghan Kelly, Candace Owens, and Alex Jones, each of whom supported him for years.”
 
 </details>
 
@@ -1356,7 +1460,26 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Megyn Kelly (10)</strong></summary>
+<summary><strong class="section-title">Statements about Megyn Kelly (13)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>
+
+- [00:59:47](/episodes/ep-eLgD5yUVbko.md#t-00-59-43) (Claim) **Candace Owens**: ["Candace Owens said Donald Trump had lost support from the Make America..."](/statements/statement-cdcdb0b37222.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Make America Healthy Again](/entities/concept-make-america-healthy-again.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (2)</summary>
+
+- [00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51) (Opinion) **Donald J. Trump** (via quoted post): ["Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have fought..."](/statements/statement-6e15836da95b.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Candace Owens](/entities/person-candace-owens.md), [Alex Jones](/entities/person-alex-jones.md)
+
+- [00:04:41](/episodes/ep-ZIH5-V6UPkg.md#t-00-04-35) (Claim) **Donald J. Trump** (via quoted post): ["Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have been t..."](/statements/statement-96380b58c1d8.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Candace Owens](/entities/person-candace-owens.md), [Alex Jones](/entities/person-alex-jones.md)
+
+</details>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1)</summary>

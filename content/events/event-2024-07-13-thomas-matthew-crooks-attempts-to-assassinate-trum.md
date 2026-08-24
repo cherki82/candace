@@ -11,7 +11,7 @@ date: "2024-07-13"
 
 > Thomas Matthew Crooks attempts to assassinate Trump at rally, killing Corey Comparatore.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk...
 
@@ -36,3 +36,11 @@ date: "2024-07-13"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1250);return false;">▶️ Play</a>
 
 > orters did, okay? A 50-year-old firefighter named Corey Comparatore lost his life trying to save his children. And then we were told virtually nothing. In fact, we wer
+
+### 4. An Open Letter To President Donald Trump (My Response) | Can...
+
+**Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
+**Timestamp:** [00:31:16](/episodes/ep-ZIH5-V6UPkg.md#event-event-2024-07-13-thomas-matthew-crooks-attempts-to-assassinate-trum-t-00-31-04) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1876);return false;">▶️ Play</a>
+
+> A few weeks later, there was the butler attempted assassination.

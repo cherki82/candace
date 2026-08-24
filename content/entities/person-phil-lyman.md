@@ -1,6 +1,6 @@
 ---
 title: "Phil Lyman"
-description: "Phil Lyman (People) - 60 mentions"
+description: "Phil Lyman (People) - 62 mentions"
 id: "person-phil-lyman"
 type: "PERSON"
 aliases:
@@ -21,9 +21,9 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-phil-lyman-t-01-11-54">2025-09-16 · 01:12:21</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-person-phil-lyman-t-00-14-50">2026-01-16 · 00:15:20</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>60</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-person-phil-lyman-t-00-28-29">2026-04-01 · 00:28:39</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>62</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
@@ -45,6 +45,7 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-phil-lyman-t-00-35-11" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-phil-lyman-t-00-18-01" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-phil-lyman-t-00-14-50" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-person-phil-lyman-t-00-28-29" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -61,6 +62,7 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-phil-lyman-t-00-35-11) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-phil-lyman-t-00-18-01) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-phil-lyman-t-00-14-50) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-phil-lyman-t-00-28-29) | 2 |
 
 </details>
 </section>
@@ -68,7 +70,18 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (60)</strong></summary>
+<summary><strong class="section-title">Raw mentions (62)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2 mentions)</summary>
+
+**[00:28:29](/episodes/ep-rupRLXmSndU.md#ent-person-phil-lyman-t-00-28-29)**
+> "Remember, Remember, we learned like Phil Lyman's whole family owned that block, you know, the cameras of people walking, they were all tied to Caldira engineering walking down the block."
+
+**[00:28:39](/episodes/ep-rupRLXmSndU.md#ent-person-phil-lyman-t-00-28-29)**
+> "...o me much more like Lance and Phil Lyman's nephew and or cousin Phil Lyman says it's a cousi..."
+
+</details>
 
 <details>
 <summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1 mentions)</summary>

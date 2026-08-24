@@ -1,6 +1,6 @@
 ---
 title: "Fox News"
-description: "Fox News (Organizations) - 59 mentions"
+description: "Fox News (Organizations) - 64 mentions"
 id: "org-fox-news"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [Fox News](https://www.foxnews.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-fox-news-t-00-03-31">2025-09-11 · 00:03:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#t-00-22-23">2026-03-23 · 00:22:54</a></strong></div>
-<div><span>Episodes</span><strong>29</strong></div>
-<div><span>Mentions</span><strong>59</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-fox-news-t-00-47-54">2026-04-10 · 00:48:29</a></strong></div>
+<div><span>Episodes</span><strong>32</strong></div>
+<div><span>Mentions</span><strong>64</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -66,6 +66,9 @@ Source: [Fox News](https://www.foxnews.com/)
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-fox-news-t-00-58-50" style="--pulse-height:12%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-fox-news-t-00-33-57" style="--pulse-height:12%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#t-00-22-23" style="--pulse-height:25%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-fox-news-t-00-31-35" style="--pulse-height:12%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-04-21" style="--pulse-height:12%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-fox-news-t-00-06-43" style="--pulse-height:38%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 3 mentions" title="2026-04-10 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -100,6 +103,9 @@ Source: [Fox News](https://www.foxnews.com/)
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-fox-news-t-00-58-50) | 1 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-fox-news-t-00-33-57) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#t-00-22-23) | 2 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-org-fox-news-t-00-31-35) | 1 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-04-21) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-fox-news-t-00-06-43) | 3 |
 
 </details>
 </section>
@@ -107,7 +113,37 @@ Source: [Fox News](https://www.foxnews.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (59)</strong></summary>
+<summary><strong class="section-title">Raw mentions (64)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (3 mentions)</summary>
+
+**[00:07:09](/episodes/ep-ZIH5-V6UPkg.md#ent-org-fox-news-t-00-06-43)**
+> "... Joe Rogan is not going to do Fox News hits."
+
+**[00:07:53](/episodes/ep-ZIH5-V6UPkg.md#ent-org-fox-news-t-00-06-43)**
+> "...en man when he got fired from Fox, and he's never been the same. Perhaps he should ..."
+
+**[00:48:29](/episodes/ep-ZIH5-V6UPkg.md#ent-org-fox-news-t-00-47-54)**
+> "... more fake polls and show him Fox News and say, look, look, look, Fox News says you're g..."
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:04:31](/episodes/ep-q1NRQQAYS_Q.md#t-00-04-21)**
+> "Fox"
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
+
+**[00:31:41](/episodes/ep-UYkXV9mYbT4.md#ent-org-fox-news-t-00-31-35)**
+> "... case to be fast, she said on Fox News. This is hard. I just want, I'm asking them to mo..."
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (2 mentions)</summary>
@@ -501,7 +537,15 @@ Source: [Fox News](https://www.foxnews.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Fox News (4)</strong></summary>
+<summary><strong class="section-title">Statements about Fox News (5)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1)</summary>
+
+- [00:07:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-07-24) (Opinion) **Donald J. Trump** (via quoted post): ["Tucker Carlson was broken after being fired from Fox and should see a ..."](/statements/statement-6fefc965fff7.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>

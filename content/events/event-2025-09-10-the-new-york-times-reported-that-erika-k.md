@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > The New York Times reported that Erika Kirk was at a hospital while her mother received treatment when Mikey McCoy called; Candace Owens said the venue was a holistic clinic.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301
 
@@ -36,3 +36,11 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1148);return false;">▶️ Play</a>
 
 > You said that you were accompanying your mother as she was receiving a treatment.
+
+### 4. SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | ...
+
+**Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
+**Timestamp:** [00:35:26](/episodes/ep-q1NRQQAYS_Q.md#event-event-2025-09-10-the-new-york-times-reported-that-erika-k-t-00-34-48) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2126);return false;">▶️ Play</a>
+
+> her mother would be undergoing medical or treatment in Phoenix area that same day.

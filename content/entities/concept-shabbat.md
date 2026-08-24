@@ -1,6 +1,6 @@
 ---
 title: "Shabbat"
-description: "Shabbat (Concepts) - 23 mentions"
+description: "Shabbat (Concepts) - 24 mentions"
 id: "concept-shabbat"
 type: "CONCEPT"
 aliases:
@@ -23,9 +23,9 @@ Source: [CBS News — Erika Kirk town hall](https://www.cbsnews.com/news/cbs-new
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-shabbat-t-00-25-24">2026-02-04 · 00:25:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-concept-shabbat-t-00-55-46">2026-03-24 · 00:56:17</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UYkXV9mYbT4.md#ent-concept-shabbat-t-01-03-14">2026-03-31 · 01:03:14</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -43,6 +43,7 @@ Source: [CBS News — Erika Kirk town hall](https://www.cbsnews.com/news/cbs-new
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-shabbat-t-00-00-00" style="--pulse-height:14%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-concept-shabbat-t-00-05-00" style="--pulse-height:57%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 4 mentions" title="2026-03-11 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-concept-shabbat-t-00-27-27" style="--pulse-height:43%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 3 mentions" title="2026-03-24 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-concept-shabbat-t-01-03-14" style="--pulse-height:14%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +56,7 @@ Source: [CBS News — Erika Kirk town hall](https://www.cbsnews.com/news/cbs-new
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-concept-shabbat-t-00-00-00) | 1 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-concept-shabbat-t-00-05-00) | 4 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-concept-shabbat-t-00-27-27) | 3 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-concept-shabbat-t-01-03-14) | 1 |
 
 </details>
 </section>
@@ -62,7 +64,15 @@ Source: [CBS News — Erika Kirk town hall](https://www.cbsnews.com/news/cbs-new
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
+
+**[01:03:14](/episodes/ep-UYkXV9mYbT4.md#ent-concept-shabbat-t-01-03-14)**
+> "...s.com buy some merch buy some shabbat shalom in merch buy yourself a hat i forgot to as..."
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (3 mentions)</summary>

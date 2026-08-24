@@ -11,7 +11,11 @@ object: "org-home-title-lock"
 
 ## [Candace Owens](/entities/person-candace-owens) worked with [Home Title Lock](/entities/org-home-title-lock)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
+
+- [00:57:19](/episodes/ep-UYkXV9mYbT4#t-00-57-19): _If you're a homeowner without protection in place, this could be you. That's why I've partnered with Home Title Lock._
 
 **[Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8)**
 

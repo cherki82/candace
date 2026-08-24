@@ -1,6 +1,6 @@
 ---
 title: "Piers Morgan"
-description: "Piers Morgan (People) - 19 mentions"
+description: "Piers Morgan (People) - 20 mentions"
 id: "person-piers-morgan"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-person-piers-morgan-t-00-55-37">2025-12-17 · 00:55:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-person-piers-morgan-t-00-04-16">2026-03-17 · 00:04:46</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-piers-morgan-t-00-25-12">2026-04-10 · 00:25:39</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -40,6 +40,7 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-piers-morgan-t-00-01-59" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 8 mentions" title="2026-01-29 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-piers-morgan-t-00-17-11" style="--pulse-height:38%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 3 mentions" title="2026-02-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-piers-morgan-t-00-03-32" style="--pulse-height:38%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-piers-morgan-t-00-25-12" style="--pulse-height:12%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-piers-morgan-t-00-01-59) | 8 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-piers-morgan-t-00-17-11) | 3 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-piers-morgan-t-00-03-32) | 3 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-piers-morgan-t-00-25-12) | 1 |
 
 </details>
 </section>
@@ -57,7 +59,15 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:25:39](/episodes/ep-ZIH5-V6UPkg.md#ent-person-piers-morgan-t-00-25-12)**
+> "...asking the right questions on Piers Morgan. Take a listen."
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (3 mentions)</summary>
@@ -177,9 +187,10 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 </details>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:19:38](/episodes/ep-ti5Fxrvegno.md#t-00-19-38): “And just on Candace Owens, you've been very supportive of her, not critical”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:25:39](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-12): “Who is guiding that? Meghan Kelly is asking the right questions on Piers Morgan. Take a listen.”
 
 </details>
 
@@ -211,9 +222,10 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 </details>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:19:38](/episodes/ep-ti5Fxrvegno.md#t-00-19-38): “And just on Candace Owens, you've been very supportive of her, not critical”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:25:39](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-12): “Who is guiding that? Meghan Kelly is asking the right questions on Piers Morgan. Take a listen.”
 
 </details>
 

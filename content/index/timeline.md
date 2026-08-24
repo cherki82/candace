@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 1101_
+_Total events: 1185_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -132,6 +132,8 @@ _Total events: 1101_
 #tab-year-1994:checked ~ .tab-controls label[for="tab-year-1994"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1993:checked ~ .tab-content-year-1993 { display: block; }
 #tab-year-1993:checked ~ .tab-controls label[for="tab-year-1993"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
+#tab-year-1991:checked ~ .tab-content-year-1991 { display: block; }
+#tab-year-1991:checked ~ .tab-controls label[for="tab-year-1991"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1990:checked ~ .tab-content-year-1990 { display: block; }
 #tab-year-1990:checked ~ .tab-controls label[for="tab-year-1990"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1989:checked ~ .tab-content-year-1989 { display: block; }
@@ -250,6 +252,7 @@ _Total events: 1101_
 <input type="radio" id="tab-year-1995" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1994" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1993" name="timeline-tab" class="tab-radio">
+<input type="radio" id="tab-year-1991" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1990" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1989" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1988" name="timeline-tab" class="tab-radio">
@@ -293,40 +296,41 @@ _Total events: 1101_
 <input type="radio" id="tab-year-1848" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-year-2026" class="tab-btn">2026 (68)</label>
-  <label for="tab-year-2025" class="tab-btn">2025 (561)</label>
-  <label for="tab-year-2024" class="tab-btn">2024 (61)</label>
+  <label for="tab-year-2026" class="tab-btn">2026 (93)</label>
+  <label for="tab-year-2025" class="tab-btn">2025 (594)</label>
+  <label for="tab-year-2024" class="tab-btn">2024 (67)</label>
   <label for="tab-year-2023" class="tab-btn">2023 (21)</label>
   <label for="tab-year-2022" class="tab-btn">2022 (15)</label>
-  <label for="tab-year-2021" class="tab-btn">2021 (15)</label>
-  <label for="tab-year-2020" class="tab-btn">2020 (7)</label>
-  <label for="tab-year-2019" class="tab-btn">2019 (20)</label>
+  <label for="tab-year-2021" class="tab-btn">2021 (17)</label>
+  <label for="tab-year-2020" class="tab-btn">2020 (10)</label>
+  <label for="tab-year-2019" class="tab-btn">2019 (21)</label>
   <label for="tab-year-2018" class="tab-btn">2018 (38)</label>
   <label for="tab-year-2017" class="tab-btn">2017 (15)</label>
   <label for="tab-year-2016" class="tab-btn">2016 (11)</label>
-  <label for="tab-year-2015" class="tab-btn">2015 (8)</label>
+  <label for="tab-year-2015" class="tab-btn">2015 (9)</label>
   <label for="tab-year-2014" class="tab-btn">2014 (19)</label>
   <label for="tab-year-2013" class="tab-btn">2013 (13)</label>
-  <label for="tab-year-2012" class="tab-btn">2012 (19)</label>
-  <label for="tab-year-2011" class="tab-btn">2011 (11)</label>
+  <label for="tab-year-2012" class="tab-btn">2012 (21)</label>
+  <label for="tab-year-2011" class="tab-btn">2011 (12)</label>
   <label for="tab-year-2010" class="tab-btn">2010 (13)</label>
-  <label for="tab-year-2009" class="tab-btn">2009 (12)</label>
+  <label for="tab-year-2009" class="tab-btn">2009 (13)</label>
   <label for="tab-year-2008" class="tab-btn">2008 (8)</label>
-  <label for="tab-year-2007" class="tab-btn">2007 (10)</label>
+  <label for="tab-year-2007" class="tab-btn">2007 (11)</label>
   <label for="tab-year-2006" class="tab-btn">2006 (9)</label>
-  <label for="tab-year-2005" class="tab-btn">2005 (7)</label>
-  <label for="tab-year-2004" class="tab-btn">2004 (1)</label>
+  <label for="tab-year-2005" class="tab-btn">2005 (8)</label>
+  <label for="tab-year-2004" class="tab-btn">2004 (2)</label>
   <label for="tab-year-2003" class="tab-btn">2003 (9)</label>
   <label for="tab-year-2002" class="tab-btn">2002 (5)</label>
   <label for="tab-year-2001" class="tab-btn">2001 (7)</label>
   <label for="tab-year-2000" class="tab-btn">2000 (2)</label>
   <label for="tab-year-1999" class="tab-btn">1999 (12)</label>
-  <label for="tab-year-1998" class="tab-btn">1998 (5)</label>
-  <label for="tab-year-1997" class="tab-btn">1997 (5)</label>
+  <label for="tab-year-1998" class="tab-btn">1998 (6)</label>
+  <label for="tab-year-1997" class="tab-btn">1997 (6)</label>
   <label for="tab-year-1996" class="tab-btn">1996 (3)</label>
   <label for="tab-year-1995" class="tab-btn">1995 (6)</label>
   <label for="tab-year-1994" class="tab-btn">1994 (4)</label>
   <label for="tab-year-1993" class="tab-btn">1993 (2)</label>
+  <label for="tab-year-1991" class="tab-btn">1991 (1)</label>
   <label for="tab-year-1990" class="tab-btn">1990 (9)</label>
   <label for="tab-year-1989" class="tab-btn">1989 (3)</label>
   <label for="tab-year-1988" class="tab-btn">1988 (3)</label>
@@ -335,11 +339,11 @@ _Total events: 1101_
   <label for="tab-year-1985" class="tab-btn">1985 (2)</label>
   <label for="tab-year-1983" class="tab-btn">1983 (2)</label>
   <label for="tab-year-1982" class="tab-btn">1982 (2)</label>
-  <label for="tab-year-1981" class="tab-btn">1981 (2)</label>
+  <label for="tab-year-1981" class="tab-btn">1981 (3)</label>
   <label for="tab-year-1980" class="tab-btn">1980 (1)</label>
   <label for="tab-year-1979" class="tab-btn">1979 (3)</label>
   <label for="tab-year-1978" class="tab-btn">1978 (1)</label>
-  <label for="tab-year-1976" class="tab-btn">1976 (2)</label>
+  <label for="tab-year-1976" class="tab-btn">1976 (3)</label>
   <label for="tab-year-1975" class="tab-btn">1975 (2)</label>
   <label for="tab-year-1974" class="tab-btn">1974 (4)</label>
   <label for="tab-year-1971" class="tab-btn">1971 (3)</label>
@@ -349,7 +353,7 @@ _Total events: 1101_
   <label for="tab-year-1967" class="tab-btn">1967 (2)</label>
   <label for="tab-year-1965" class="tab-btn">1965 (2)</label>
   <label for="tab-year-1964" class="tab-btn">1964 (1)</label>
-  <label for="tab-year-1963" class="tab-btn">1963 (4)</label>
+  <label for="tab-year-1963" class="tab-btn">1963 (5)</label>
   <label for="tab-year-1954" class="tab-btn">1954 (2)</label>
   <label for="tab-year-1950" class="tab-btn">1950 (1)</label>
   <label for="tab-year-1948" class="tab-btn">1948 (2)</label>
@@ -425,6 +429,156 @@ _Total events: 1101_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-04-two-turning-point-usa-donors-told-candac">
+<div class="timeline-date">2026-04</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-two-turning-point-usa-donors-told-candac.md">Two Turning Point USA donors told Candace Owens that Charlie Kirk did not say he appointed Erika Kirk at the Aspen retreat.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04: Two Turning Point USA donors told Candace Owens that Charlie Kirk did not say he appointed Erika Kirk at the Aspen retreat. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:12:11](/episodes/ep-eLgD5yUVbko.md#t-00-12-01)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-candace-owens-received-emails-from-peopl">
+<div class="timeline-date">2026-04</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-candace-owens-received-emails-from-peopl.md">Candace Owens received emails from people at Alliance Defending Freedom about Ben Shapiro working with Erika Kirk.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04: Candace Owens received emails from people at Alliance Defending Freedom about Ben Shapiro working with Erika Kirk. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:20:58](/episodes/ep-eLgD5yUVbko.md#t-00-20-58)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-13-pope-leo-xiv-said-he-would-continue-spea">
+<div class="timeline-date">2026-04-13</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-13-pope-leo-xiv-said-he-would-continue-spea.md">Pope Leo XIV said he would continue speaking against war and promoting peace.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-13: Pope Leo XIV said he would continue speaking against war and promoting peace. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:58:15](/episodes/ep-eLgD5yUVbko.md#t-00-57-53)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-12-donald-trump-publicly-criticized-pope-le">
+<div class="timeline-date">2026-04-12</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-12-donald-trump-publicly-criticized-pope-le.md">Donald Trump publicly criticized Pope Leo XIV.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-12: Donald Trump publicly criticized Pope Leo XIV. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:52:48](/episodes/ep-eLgD5yUVbko.md#t-00-52-23)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-12-donald-trump-posted-an-ai-image-depictin">
+<div class="timeline-date">2026-04-12</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-12-donald-trump-posted-an-ai-image-depictin.md">Donald Trump posted an AI image depicting himself as Jesus Christ.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-12: Donald Trump posted an AI image depicting himself as Jesus Christ. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narr... @ 01:00:08](/episodes/ep-eLgD5yUVbko.md#t-00-59-43)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-11-candace-owens-encountered-cabot-phillips">
+<div class="timeline-date">2026-04-11</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-11-candace-owens-encountered-cabot-phillips.md">Candace Owens encountered Cabot Phillips at a preschool playground.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-11: Candace Owens encountered Cabot Phillips at a preschool playground. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:04:28](/episodes/ep-eLgD5yUVbko.md#t-00-04-21)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-10-candace-owens-launched-new-maca-and-four">
+<div class="timeline-date">2026-04-10</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-10-candace-owens-launched-new-maca-and-four.md">Candace Owens launched new MACA and Four Horsemen merchandise during the episode.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-10: Candace Owens launched new MACA and Four Horsemen merchandise during the episode. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [An Open Letter To President Donald Trump (My Re... @ 00:38:32](/episodes/ep-ZIH5-V6UPkg.md#t-00-38-28)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-09-donald-trump-posted-on-truth-social-atta">
+<div class="timeline-date">2026-04-09</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-09-donald-trump-posted-on-truth-social-atta.md">Donald Trump posted on Truth Social attacking Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-09: Donald Trump posted on Truth Social attacking Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [An Open Letter To President Donald Trump (My Re... @ 00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-09-laura-loomer-said-she-sent-president-tru">
+<div class="timeline-date">2026-04-09</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-09-laura-loomer-said-she-sent-president-tru.md">Laura Loomer said she sent President Trump clips of Tucker Carlson before Trump attacked Carlson publicly.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-09: Laura Loomer said she sent President Trump clips of Tucker Carlson before Trump attacked Carlson publicly. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [An Open Letter To President Donald Trump (My Re... @ 00:34:19](/episodes/ep-ZIH5-V6UPkg.md#t-00-34-19)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-02-donald-trump-announced-that-pam-bondi-wo">
+<div class="timeline-date">2026-04-02</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-02-donald-trump-announced-that-pam-bondi-wo.md">Donald Trump announced that Pam Bondi would leave as attorney general and Todd Blanche would serve as acting attorney general.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-02: Donald Trump announced that Pam Bondi would leave as attorney general and Todd Blanche would serve as acting attorney general. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi G... @ 00:45:03](/episodes/ep-q1NRQQAYS_Q.md#t-00-44-43)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2026-04-01-prosecutors-stated-that-they-had-disclos">
 <div class="timeline-date">2026-04-01</div>
 <div class="timeline-desc"><a href="/events/event-2026-04-01-prosecutors-stated-that-they-had-disclos.md">Prosecutors stated that they had disclosed all presently and reasonably available evidence to the defense.</a></div>
@@ -436,6 +590,21 @@ _Total events: 1101_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Ki... @ 01:52:42](/episodes/ep-nPhCKwJ6ye8.md#t-01-52-42)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-01-erika-kirk-attended-donald-trumps-easter">
+<div class="timeline-date">2026-04-01</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-01-erika-kirk-attended-donald-trumps-easter.md">Erika Kirk attended Donald Trump's Easter celebration</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-01: Erika Kirk attended Donald Trump\'s Easter celebration - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Friends In High Temples: Charlie's Final Call W... @ 00:38:57](/episodes/ep-rupRLXmSndU.md#t-00-38-57)
 
 </details>
 </div>
@@ -468,6 +637,66 @@ _Total events: 1101_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk... @ 00:31:01](/episodes/ep-I0OaY6Gryqk.md#t-00-31-01)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-30-twenty-two-defendants-went-on-trial-in-p">
+<div class="timeline-date">2026-03-30</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-30-twenty-two-defendants-went-on-trial-in-p.md">Twenty-two defendants went on trial in Paris over alleged crimes linked to the Athanor Masonic lodge.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-30: Twenty-two defendants went on trial in Paris over alleged crimes linked to the Athanor Masonic lodge. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [The 33 Club: Freemason Murder Plot EXPOSED! | C... @ 00:06:09](/episodes/ep-7ERqbYElOfs.md#t-00-06-09)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-30-candace-owens-reported-that-atf-analysis">
+<div class="timeline-date">2026-03-30</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-30-candace-owens-reported-that-atf-analysis.md">Candace Owens reported that ATF analysis could not connect the recovered bullet evidence to the rifle tied to Tyler Robinson.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-30: Candace Owens reported that ATF analysis could not connect the recovered bullet evidence to the rifle tied to Tyler Robinson. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:17:24](/episodes/ep-UYkXV9mYbT4.md#t-00-17-24)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-30-a-motion-to-exclude-still-photography-wa">
+<div class="timeline-date">2026-03-30</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-30-a-motion-to-exclude-still-photography-wa.md">A motion to exclude still photography was filed in the Tyler Robinson case.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-30: A motion to exclude still photography was filed in the Tyler Robinson case. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:36:19](/episodes/ep-eLgD5yUVbko.md#t-00-36-09)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-27-washington-county-sheriff-nate-brooksby-">
+<div class="timeline-date">2026-03-27</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-27-washington-county-sheriff-nate-brooksby-.md">Washington County Sheriff Nate Brooksby resigned from office.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-27: Washington County Sheriff Nate Brooksby resigned from office. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [The 33 Club: Freemason Murder Plot EXPOSED! | C... @ 00:28:49](/episodes/ep-7ERqbYElOfs.md#t-00-28-49)
 
 </details>
 </div>
@@ -514,6 +743,21 @@ _Total events: 1101_
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:50:05](/episodes/ep-B9TyCs-6o_0.md#t-00-49-40)
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:33:40](/episodes/ep-5m-Wn6Pr5rM.md#t-00-33-27)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-18-autopsy-photographs-in-the-tyler-robinso">
+<div class="timeline-date">2026-03-18</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-18-autopsy-photographs-in-the-tyler-robinso.md">Autopsy photographs in the Tyler Robinson case were produced to the defense.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-18: Autopsy photographs in the Tyler Robinson case were produced to the defense. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:30:51](/episodes/ep-UYkXV9mYbT4.md#t-00-30-51)
 
 </details>
 </div>
@@ -654,6 +898,21 @@ _Total events: 1101_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-03-13-candace-owens-broke-her-right-foot">
+<div class="timeline-date">2026-03-13</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-13-candace-owens-broke-her-right-foot.md">Candace Owens broke her right foot.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-13: Candace Owens broke her right foot. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:01:59](/episodes/ep-eLgD5yUVbko.md#t-00-01-46)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2026-03-12-scott-bessent-is-pulled-from-an-intervie">
 <div class="timeline-date">2026-03-12</div>
 <div class="timeline-desc"><a href="/events/event-2026-03-12-scott-bessent-is-pulled-from-an-intervie.md">Scott Bessent is pulled from an interview and called to the White House Situation Room</a></div>
@@ -665,6 +924,36 @@ _Total events: 1101_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk... @ 00:47:04](/episodes/ep-I0OaY6Gryqk.md#t-00-46-45)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-12-counsel-in-the-tyler-robinson-case-met-a">
+<div class="timeline-date">2026-03-12</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-12-counsel-in-the-tyler-robinson-case-met-a.md">Counsel in the Tyler Robinson case met and conferred about discovery issues.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-12: Counsel in the Tyler Robinson case met and conferred about discovery issues. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:20:19](/episodes/ep-UYkXV9mYbT4.md#t-00-20-05)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-12-the-state-provided-tyler-robinsons-defen">
+<div class="timeline-date">2026-03-12</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-12-the-state-provided-tyler-robinsons-defen.md">The state provided Tyler Robinson's defense a drive containing approximately 600,000 files.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-12: The state provided Tyler Robinson\'s defense a drive containing approximately 600,000 files. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:24:40](/episodes/ep-UYkXV9mYbT4.md#t-00-24-09)
 
 </details>
 </div>
@@ -789,6 +1078,21 @@ _Total events: 1101_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-03-01-an-iranian-strike-at-port-shuaiba-kuwait">
+<div class="timeline-date">2026-03-01</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-01-an-iranian-strike-at-port-shuaiba-kuwait.md">An Iranian strike at Port Shuaiba, Kuwait, killed six U.S. service members.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-01: An Iranian strike at Port Shuaiba, Kuwait, killed six U.S. service members. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [An Open Letter To President Donald Trump (My Re... @ 00:12:28](/episodes/ep-ZIH5-V6UPkg.md#t-00-12-12)
+
+</details>
+</div>
+
 **February**
 
 <div class="timeline-event filter-item" id="event-2026-02-aubrey-leitch-posted-a-public-video-desc">
@@ -817,6 +1121,36 @@ _Total events: 1101_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:23:32](/episodes/ep-mFuno0TuuQQ.md#t-00-23-00)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-02-28-a-strike-hit-a-girls-school-in-minab-ira">
+<div class="timeline-date">2026-02-28</div>
+<div class="timeline-desc"><a href="/events/event-2026-02-28-a-strike-hit-a-girls-school-in-minab-ira.md">A strike hit a girls’ school in Minab, Iran, killing more than 150 people, mostly schoolgirls.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-02-28: A strike hit a girls’ school in Minab, Iran, killing more than 150 people, mostly schoolgirls. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [An Open Letter To President Donald Trump (My Re... @ 00:12:28](/episodes/ep-ZIH5-V6UPkg.md#t-00-12-12)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-02-28-the-united-states-and-israel-launched-op">
+<div class="timeline-date">2026-02-28</div>
+<div class="timeline-desc"><a href="/events/event-2026-02-28-the-united-states-and-israel-launched-op.md">The United States and Israel launched Operation Epic Fury against Iran.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-02-28: The United States and Israel launched Operation Epic Fury against Iran. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [An Open Letter To President Donald Trump (My Re... @ 00:27:18](/episodes/ep-ZIH5-V6UPkg.md#t-00-27-13)
 
 </details>
 </div>
@@ -973,6 +1307,21 @@ _Total events: 1101_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-02-03-tyler-robinsons-defense-documented-that-">
+<div class="timeline-date">2026-02-03</div>
+<div class="timeline-desc"><a href="/events/event-2026-02-03-tyler-robinsons-defense-documented-that-.md">Tyler Robinson's defense documented that laboratory files were still missing in a letter to the state.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-02-03: Tyler Robinson\'s defense documented that laboratory files were still missing in a letter to the state. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:27:22](/episodes/ep-UYkXV9mYbT4.md#t-00-27-01)
+
+</details>
+</div>
+
 **January**
 
 <div class="timeline-event filter-item" id="event-2026-01-erika-kirk-sent-a-video-in-january-2026-">
@@ -1122,6 +1471,21 @@ _Total events: 1101_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Ki... @ 03:40:28](/episodes/ep-nPhCKwJ6ye8.md#t-03-40-28)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-01-counsel-in-the-tyler-robinson-case-discu">
+<div class="timeline-date">2026-01</div>
+<div class="timeline-desc"><a href="/events/event-2026-01-counsel-in-the-tyler-robinson-case-discu.md">Counsel in the Tyler Robinson case discussed the status of missing laboratory files at a hearing.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-01: Counsel in the Tyler Robinson case discussed the status of missing laboratory files at a hearing. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:27:08](/episodes/ep-UYkXV9mYbT4.md#t-00-27-01)
 
 </details>
 </div>
@@ -1338,6 +1702,21 @@ _Total events: 1101_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-01-09-a-photograph-of-a-burnt-note-was-provide">
+<div class="timeline-date">2026-01-09</div>
+<div class="timeline-desc"><a href="/events/event-2026-01-09-a-photograph-of-a-burnt-note-was-provide.md">A photograph of a burnt note was provided to Tyler Robinson's defense.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-01-09: A photograph of a burnt note was provided to Tyler Robinson\'s defense. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:47:24](/episodes/ep-eLgD5yUVbko.md#t-00-47-08)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2026-01-06-austin-smith-was-sentenced-for-using-for">
 <div class="timeline-date">2026-01-06</div>
 <div class="timeline-desc"><a href="/events/event-2026-01-06-austin-smith-was-sentenced-for-using-for.md">Austin Smith was sentenced for using forged nomination-petition signatures in his 2024 primary campaign.</a></div>
@@ -1498,6 +1877,21 @@ _Total events: 1101_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace ... @ 00:47:33](/episodes/ep-QRS_hR7NXaQ.md#t-00-46-57)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-12-23-candace-owens-alleged-that-a-video-relea">
+<div class="timeline-date">2025-12-23</div>
+<div class="timeline-desc"><a href="/events/event-2025-12-23-candace-owens-alleged-that-a-video-relea.md">Candace Owens alleged that a video released with the Epstein files was fake and was later removed.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-23: Candace Owens alleged that a video released with the Epstein files was fake and was later removed. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi G... @ 00:46:21](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-06)
 
 </details>
 </div>
@@ -1758,7 +2152,7 @@ _Total events: 1101_
 <div class="timeline-date">2025-12-15</div>
 <div class="timeline-desc"><a href="/events/event-2025-12-15-candace-owens-and-erika-kirk-meeting.md">Candace Owens and Erika Kirk meeting</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-15: Candace Owens and Erika Kirk meeting - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -1767,6 +2161,7 @@ _Total events: 1101_
 - [Erika And I Sat Down. Here’s What Happened. | C... @ 00:02:10](/episodes/ep-es7PWdFGoFI.md#t-00-02-04)
 - [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:55:46](/episodes/ep-SgVcnx4Oh30.md#t-00-55-46)
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:35:06](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49)
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi G... @ 00:04:40](/episodes/ep-q1NRQQAYS_Q.md#t-00-04-21)
 
 </details>
 </div>
@@ -1829,6 +2224,21 @@ _Total events: 1101_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson M... @ 00:01:50](/episodes/ep-6J6lRZPQ4jk.md#t-00-01-23)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-12-11-tyler-robinsons-defense-raised-concerns-">
+<div class="timeline-date">2025-12-11</div>
+<div class="timeline-desc"><a href="/events/event-2025-12-11-tyler-robinsons-defense-raised-concerns-.md">Tyler Robinson's defense raised concerns about the preliminary-hearing schedule with the court.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-11: Tyler Robinson\'s defense raised concerns about the preliminary-hearing schedule with the court. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:27:33](/episodes/ep-UYkXV9mYbT4.md#t-00-27-33)
 
 </details>
 </div>
@@ -6647,6 +7057,21 @@ _Total events: 1101_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-11-24-erika-kirk-told-megyn-kelly-that-charlie">
+<div class="timeline-date">2025-11-24</div>
+<div class="timeline-desc"><a href="/events/event-2025-11-24-erika-kirk-told-megyn-kelly-that-charlie.md">Erika Kirk told Megyn Kelly that Charlie Kirk had said she would do a great job running Turning Point USA.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-11-24: Erika Kirk told Megyn Kelly that Charlie Kirk had said she would do a great job running Turning Point USA. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi G... @ 00:08:54](/episodes/ep-q1NRQQAYS_Q.md#t-00-08-54)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-11-18-president-donald-trump-pardoned-tyler-bowyer-pardon">
 <div class="timeline-date">2025-11-18</div>
 <div class="timeline-desc"><a href="/events/event-2025-11-18-president-donald-trump-pardoned-tyler-bowyer-pardon.md">President Donald Trump pardoned Tyler Bowyer (pardon referenced as occurring a couple weeks earlier).</a></div>
@@ -7563,6 +7988,21 @@ _Total events: 1101_
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists... @ 00:08:39](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16)
 - [To My Friend, Charlie Kirk. @ 00:14:33](/episodes/ep-_dRaEO47-co.md#t-00-14-11)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:10:37](/episodes/ep-K5GjF53bfN4.md#t-00-09-59)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-11-13-the-autopsy-report-in-the-tyler-robinson">
+<div class="timeline-date">2025-11-13</div>
+<div class="timeline-desc"><a href="/events/event-2025-11-13-the-autopsy-report-in-the-tyler-robinson.md">The autopsy report in the Tyler Robinson case was provided to the defense.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-11-13: The autopsy report in the Tyler Robinson case was provided to the defense. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:30:41](/episodes/ep-UYkXV9mYbT4.md#t-00-30-16)
 
 </details>
 </div>
@@ -8844,7 +9284,7 @@ _Total events: 1101_
 <div class="timeline-date">2025-11-03</div>
 <div class="timeline-desc"><a href="/events/event-2025-11-03-erika-kirk-interviewed-by-jesse-watters-preview-cl.md">Erika Kirk interviewed by Jesse Watters; preview clip calls for cameras in trial.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">31× in 18 eps</span>
+<span class="timeline-badge mentions">32× in 19 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-11-03: Erika Kirk interviewed by Jesse Watters; preview clip calls for cameras in trial. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -8881,6 +9321,7 @@ _Total events: 1101_
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAG... @ 00:46:28](/episodes/ep-LATnak75Si0.md#t-00-46-22)
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists... @ 00:20:55](/episodes/ep-K1tFD7FfoCU.md#t-00-20-31)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:29:56](/episodes/ep-SKGUzGHymcI.md#t-00-29-52)
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi G... @ 00:36:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-36-13)
 
 </details>
 </div>
@@ -8991,6 +9432,21 @@ _Total events: 1101_
 </div>
 
 **October**
+
+<div class="timeline-event filter-item" id="event-2025-10-evidence-including-a-dna-report-about-th">
+<div class="timeline-date">2025-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-10-evidence-including-a-dna-report-about-th.md">Evidence including a DNA report about the rifle was provided to Tyler Robinson's defense.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-10: Evidence including a DNA report about the rifle was provided to Tyler Robinson\'s defense. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:47:38](/episodes/ep-eLgD5yUVbko.md#t-00-47-08)
+
+</details>
+</div>
 
 <div class="timeline-event filter-item" id="event-2025-10-29-daily-mail-publishes-kash-patel-shutting-down-kirk">
 <div class="timeline-date">2025-10-29</div>
@@ -11210,6 +11666,21 @@ _Total events: 1101_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-turning-point-usa-sent-fundraising-text-">
+<div class="timeline-date">2025-09</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-turning-point-usa-sent-fundraising-text-.md">Turning Point USA sent fundraising text messages within about 48 hours of Charlie Kirk's assassination</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09: Turning Point USA sent fundraising text messages within about 48 hours of Charlie Kirk\'s assassination - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Friends In High Temples: Charlie's Final Call W... @ 00:44:50](/episodes/ep-rupRLXmSndU.md#t-00-44-50)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-30-article-accuses-sean-foyt-of-mismanaging-turning-p">
 <div class="timeline-date">2025-09-30</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-30-article-accuses-sean-foyt-of-mismanaging-turning-p.md">Article accuses Sean Foyt of mismanaging Turning Point USA funds</a></div>
@@ -11478,6 +11949,21 @@ _Total events: 1101_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-30-tyler-robinsons-defense-began-requesting">
+<div class="timeline-date">2025-09-30</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-30-tyler-robinsons-defense-began-requesting.md">Tyler Robinson's defense began requesting underlying forensic case files and laboratory data.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-30: Tyler Robinson\'s defense began requesting underlying forensic case files and laboratory data. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:26:19](/episodes/ep-UYkXV9mYbT4.md#t-00-26-19)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-29-shaner-broderick-wipes-linkedin-deletes-facebook-p">
 <div class="timeline-date">2025-09-29</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-29-shaner-broderick-wipes-linkedin-deletes-facebook-p.md">Shaner Broderick wipes LinkedIn, deletes Facebook, privatizes Instagram.</a></div>
@@ -11492,6 +11978,21 @@ _Total events: 1101_
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:02:50](/episodes/ep-YA1FxrDWNIo.md#t-00-02-13)
 - [BREAKING NEWS: A Woman Was Seen With Charlie Ki... @ 00:07:42](/episodes/ep-adJ4LNGp84I.md#t-00-06-59)
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:37](/episodes/ep-YA1FxrDWNIo.md#t-00-11-29)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-29-candace-owens-said-her-show-first-report">
+<div class="timeline-date">2025-09-29</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-29-candace-owens-said-her-show-first-report.md">Candace Owens said her show first reported a source's claim that police identified Tyler Robinson before 7 p.m. on September 11.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-29: Candace Owens said her show first reported a source\'s claim that police identified Tyler Robinson before 7 p.m. on September 11. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:30:32](/episodes/ep-eLgD5yUVbko.md#t-00-30-22)
 
 </details>
 </div>
@@ -12128,6 +12629,21 @@ _Total events: 1101_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9t... @ 00:18:53](/episodes/ep-Wjul6YV6izo.md#t-00-18-42)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-23-candace-owens-discussed-andrew-kolvets-n">
+<div class="timeline-date">2025-09-23</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-23-candace-owens-discussed-andrew-kolvets-n.md">Candace Owens discussed Andrew Kolvet's no-exit-wound account with him.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-23: Candace Owens discussed Andrew Kolvet\'s no-exit-wound account with him. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:13:23](/episodes/ep-UYkXV9mYbT4.md#t-00-13-23)
 
 </details>
 </div>
@@ -12979,7 +13495,7 @@ _Total events: 1101_
 <div class="timeline-date">2025-09-20</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-20-andrew-kolvet-tweets-explanation-of-no-exit-wound.md">Andrew Kolvet tweets explanation of no exit wound as miracle in Kirk shooting.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">6× in 4 eps</span>
+<span class="timeline-badge mentions">7× in 5 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-20: Andrew Kolvet tweets explanation of no exit wound as miracle in Kirk shooting. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -12991,6 +13507,7 @@ _Total events: 1101_
 - [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:08:07](/episodes/ep-ja26iltROkM.md#t-00-07-29)
 - [To My Friend, Charlie Kirk. @ 00:14:33](/episodes/ep-_dRaEO47-co.md#t-00-14-11)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:10:37](/episodes/ep-K5GjF53bfN4.md#t-00-09-59)
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:11:50](/episodes/ep-UYkXV9mYbT4.md#t-00-11-23)
 
 </details>
 </div>
@@ -13008,6 +13525,66 @@ _Total events: 1101_
 - [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:17:13](/episodes/ep-ja26iltROkM.md#t-00-17-09)
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:04:28](/episodes/ep-iHav0PPzUz8.md#t-00-04-12)
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:04:47](/episodes/ep-iHav0PPzUz8.md#t-00-04-12)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-20-justin-streiff-asked-george-farmer-wheth">
+<div class="timeline-date">2025-09-20</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-20-justin-streiff-asked-george-farmer-wheth.md">Justin Streiff asked George Farmer whether Candace Owens recorded her FaceTime call with Terrell Farnsworth.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-20: Justin Streiff asked George Farmer whether Candace Owens recorded her FaceTime call with Terrell Farnsworth. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:07:25](/episodes/ep-UYkXV9mYbT4.md#t-00-07-25)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-20-candace-owens-said-the-fbi-discussed-her">
+<div class="timeline-date">2025-09-20</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-20-candace-owens-said-the-fbi-discussed-her.md">Candace Owens said the FBI discussed her recorded footage with Justin Streiff and Frank Carney.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-20: Candace Owens said the FBI discussed her recorded footage with Justin Streiff and Frank Carney. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:08:17](/episodes/ep-UYkXV9mYbT4.md#t-00-08-03)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-20-charlie-kirks-private-burial-took-place">
+<div class="timeline-date">2025-09-20</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-20-charlie-kirks-private-burial-took-place.md">Charlie Kirk's private burial took place.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-20: Charlie Kirk\'s private burial took place. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:08:49](/episodes/ep-UYkXV9mYbT4.md#t-00-08-49)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-20-candace-owens-said-erika-kirk-and-andrew">
+<div class="timeline-date">2025-09-20</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-20-candace-owens-said-erika-kirk-and-andrew.md">Candace Owens said Erika Kirk and Andrew Kolvet conferenced Charlie Kirk's surgeon about their public response.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-20: Candace Owens said Erika Kirk and Andrew Kolvet conferenced Charlie Kirk\'s surgeon about their public response. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:09:30](/episodes/ep-UYkXV9mYbT4.md#t-00-09-30)
 
 </details>
 </div>
@@ -13071,6 +13648,36 @@ _Total events: 1101_
 
 - [Who Moved The Camera Right Above Charlie's Head... @ 00:34:46](/episodes/ep-aDlhjfW6hz8.md#t-00-34-12)
 - [Who Moved The Camera Right Above Charlie's Head... @ 00:34:51](/episodes/ep-aDlhjfW6hz8.md#t-00-34-12)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-19-terrell-farnsworth-showed-candace-owens-">
+<div class="timeline-date">2025-09-19</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-19-terrell-farnsworth-showed-candace-owens-.md">Terrell Farnsworth showed Candace Owens rear-camera footage over FaceTime.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-19: Terrell Farnsworth showed Candace Owens rear-camera footage over FaceTime. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:06:57](/episodes/ep-UYkXV9mYbT4.md#t-00-06-43)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-19-candace-owens-publicly-said-rear-camera-">
+<div class="timeline-date">2025-09-19</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-19-candace-owens-publicly-said-rear-camera-.md">Candace Owens publicly said rear-camera footage showed the bullet did not exit Charlie Kirk.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-19: Candace Owens publicly said rear-camera footage showed the bullet did not exit Charlie Kirk. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:07:10](/episodes/ep-UYkXV9mYbT4.md#t-00-06-43)
 
 </details>
 </div>
@@ -14039,6 +14646,21 @@ _Total events: 1101_
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…... @ 00:08:58](/episodes/ep-QdM9jLwjwLw.md#t-00-08-46)
 - [Coming soon... @ 00:00:30](/episodes/ep-LKR94FQ5p3o.md#t-00-00-30)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-17-candace-owens-called-terrell-farnsworth-">
+<div class="timeline-date">2025-09-17</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-17-candace-owens-called-terrell-farnsworth-.md">Candace Owens called Terrell Farnsworth about rear-camera footage from Charlie Kirk's shooting.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-17: Candace Owens called Terrell Farnsworth about rear-camera footage from Charlie Kirk\'s shooting. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:04:06](/episodes/ep-UYkXV9mYbT4.md#t-00-03-58)
 
 </details>
 </div>
@@ -15321,6 +15943,21 @@ _Total events: 1101_
 - [AND ANOTHER ONE: Charlie's Text On September 9t... @ 00:02:04](/episodes/ep-Wjul6YV6izo.md#t-00-01-30)
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace ... @ 00:24:01](/episodes/ep-QRS_hR7NXaQ.md#t-00-24-01)
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:10:54](/episodes/ep-ZAsV0fHGBiM.md#t-00-10-44)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-16-the-autopsy-report-in-the-tyler-robinson">
+<div class="timeline-date">2025-09-16</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-16-the-autopsy-report-in-the-tyler-robinson.md">The autopsy report in the Tyler Robinson case was completed.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-16: The autopsy report in the Tyler Robinson case was completed. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:30:41](/episodes/ep-UYkXV9mYbT4.md#t-00-30-16)
 
 </details>
 </div>
@@ -17665,6 +18302,21 @@ _Total events: 1101_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-12-discord-said-it-found-no-evidence-that-t">
+<div class="timeline-date">2025-09-12</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-12-discord-said-it-found-no-evidence-that-t.md">Discord said it found no evidence that the suspect planned the incident or promoted violence on Discord.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-12: Discord said it found no evidence that the suspect planned the incident or promoted violence on Discord. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:43:09](/episodes/ep-eLgD5yUVbko.md#t-00-43-00)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-11-lance-twiggs-questioned-by-authorities-and-release">
 <div class="timeline-date">2025-09-11 <span class='time'>23:00</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-11-lance-twiggs-questioned-by-authorities-and-release.md">Lance Twiggs questioned by authorities and released</a></div>
@@ -17756,6 +18408,21 @@ _Total events: 1101_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-11-governor-spencer-cox-led-a-press-confere">
+<div class="timeline-date">2025-09-11 <span class='time'>20:00</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-11-governor-spencer-cox-led-a-press-confere.md">Governor Spencer Cox led a press conference that sought public help identifying the suspect.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-11 20:00: Governor Spencer Cox led a press conference that sought public help identifying the suspect. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:37:29](/episodes/ep-eLgD5yUVbko.md#t-00-37-20)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-11-tyler-robinson-taken-into-custody-in-warner-valley">
 <div class="timeline-date">2025-09-11 <span class='time'>19:00</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-11-tyler-robinson-taken-into-custody-in-warner-valley.md">Tyler Robinson taken into custody in Warner Valley area</a></div>
@@ -17817,6 +18484,51 @@ _Total events: 1101_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-11-a-source-told-candace-owens-that-local-p">
+<div class="timeline-date">2025-09-11 <span class='time'>19:00</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-11-a-source-told-candace-owens-that-local-p.md">A source told Candace Owens that local police circulated messages saying they had identified Tyler Robinson.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-11 19:00: A source told Candace Owens that local police circulated messages saying they had identified Tyler Robinson. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:37:02](/episodes/ep-eLgD5yUVbko.md#t-00-36-35)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-11-fbi-salt-lake-city-released-a-second-rou">
+<div class="timeline-date">2025-09-11 <span class='time'>18:17</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-11-fbi-salt-lake-city-released-a-second-rou.md">FBI Salt Lake City released a second round of alleged-shooter photographs on X.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-11 18:17: FBI Salt Lake City released a second round of alleged-shooter photographs on X. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:35:51](/episodes/ep-eLgD5yUVbko.md#t-00-35-25)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-11-kash-patel-and-dan-bongino-arrived-at-th">
+<div class="timeline-date">2025-09-11 <span class='time'>17:30</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-11-kash-patel-and-dan-bongino-arrived-at-th.md">Kash Patel and Dan Bongino arrived at the scene of the Charlie Kirk investigation.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-11 17:30: Kash Patel and Dan Bongino arrived at the scene of the Charlie Kirk investigation. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:35:51](/episodes/ep-eLgD5yUVbko.md#t-00-35-25)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-11-derek-maxfield-issues-statement-denying-n888kg-inv">
 <div class="timeline-date">2025-09-11 <span class='time'>15:00</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-11-derek-maxfield-issues-statement-denying-n888kg-inv.md">Derek Maxfield issues statement denying N888KG involvement in Kirk assassination</a></div>
@@ -17838,13 +18550,14 @@ _Total events: 1101_
 <div class="timeline-date">2025-09-11 <span class='time'>10:00</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-11-fbi-releases-static-images-of-alleged-shooter-asce.md">FBI releases static images of alleged shooter ascending stairs</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-11 10:00: FBI releases static images of alleged shooter ascending stairs - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:19:25](/episodes/ep-2WEHTk0Xewg.md#t-00-18-53)
+- [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:35:25](/episodes/ep-eLgD5yUVbko.md#t-00-35-25)
 
 </details>
 </div>
@@ -17878,6 +18591,21 @@ _Total events: 1101_
 
 - [Bearing False Witness: Who Made The Charlie Kir... @ 00:02:58](/episodes/ep-UBkFkg4UNY8.md#t-00-02-39)
 - [Bearing False Witness: Who Made The Charlie Kir... @ 00:03:00](/episodes/ep-UBkFkg4UNY8.md#t-00-02-39)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-11-tyler-robinson-was-recorded-filling-his-">
+<div class="timeline-date">2025-09-11 <span class='time'>07:15</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-11-tyler-robinson-was-recorded-filling-his-.md">Tyler Robinson was recorded filling his car at a Maverik gas station in Cedar City.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-11 07:15: Tyler Robinson was recorded filling his car at a Maverik gas station in Cedar City. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:34:49](/episodes/ep-eLgD5yUVbko.md#t-00-34-18)
 
 </details>
 </div>
@@ -18454,13 +19182,14 @@ _Total events: 1101_
 <div class="timeline-date">2025-09-11</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-11-new-york-post-publishes-exclusive-photo-.md">New York Post publishes exclusive photo of rifle used in Charlie Kirk shooting at 9:21am MT</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-11: New York Post publishes exclusive photo of rifle used in Charlie Kirk shooting at 9:21am MT - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:18:47](/episodes/ep-2WEHTk0Xewg.md#t-00-18-10)
+- [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:34:55](/episodes/ep-eLgD5yUVbko.md#t-00-34-55)
 
 </details>
 </div>
@@ -18469,13 +19198,14 @@ _Total events: 1101_
 <div class="timeline-date">2025-09-11</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-11-fbi-press-conference-at-7am-announcing-w.md">FBI press conference at 7am announcing weapon recovered from wooded area near UVU</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-11: FBI press conference at 7am announcing weapon recovered from wooded area near UVU - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:17:16](/episodes/ep-2WEHTk0Xewg.md#t-00-16-59)
+- [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:34:35](/episodes/ep-eLgD5yUVbko.md#t-00-34-18)
 
 </details>
 </div>
@@ -18529,13 +19259,15 @@ _Total events: 1101_
 <div class="timeline-date">2025-09-11</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-11-tyler-james-robinson-surrenders-to-polic.md">Tyler James Robinson surrenders to police at Washington County Sheriff's Office</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-11: Tyler James Robinson surrenders to police at Washington County Sheriff\'s Office - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Charlie Kirk Shooting Suspect Charged. Somethin... @ 00:07:05](/episodes/ep-q7f8r-THr84.md#t-00-06-59)
+- [The 33 Club: Freemason Murder Plot EXPOSED! | C... @ 00:42:07](/episodes/ep-7ERqbYElOfs.md#t-00-42-07)
+- [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:39:52](/episodes/ep-eLgD5yUVbko.md#t-00-39-34)
 
 </details>
 </div>
@@ -18651,6 +19383,21 @@ _Total events: 1101_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-10-kash-patel-announced-that-the-detained-s">
+<div class="timeline-date">2025-09-10 <span class='time'>17:59</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-kash-patel-announced-that-the-detained-s.md">Kash Patel announced that the detained subject had been released after interrogation</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 17:59: Kash Patel announced that the detained subject had been released after interrogation - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Friends In High Temples: Charlie's Final Call W... @ 00:08:59](/episodes/ep-rupRLXmSndU.md#t-00-08-59)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-10-governor-cox-press-conference-mentions-second-susp">
 <div class="timeline-date">2025-09-10 <span class='time'>17:30</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-governor-cox-press-conference-mentions-second-susp.md">Governor Cox press conference mentions second suspect in dark clothing</a></div>
@@ -18694,6 +19441,21 @@ _Total events: 1101_
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:34:30](/episodes/ep-B9TyCs-6o_0.md#t-00-34-11)
 - [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:21:02](/episodes/ep-SgVcnx4Oh30.md#t-00-20-28)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-kash-patel-announced-that-a-subject-was-">
+<div class="timeline-date">2025-09-10 <span class='time'>16:21</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-kash-patel-announced-that-a-subject-was-.md">Kash Patel announced that a subject was in custody after Charlie Kirk was shot</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 16:21: Kash Patel announced that a subject was in custody after Charlie Kirk was shot - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Friends In High Temples: Charlie's Final Call W... @ 00:08:09](/episodes/ep-rupRLXmSndU.md#t-00-07-43)
 
 </details>
 </div>
@@ -20228,7 +20990,7 @@ _Total events: 1101_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md">Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">394× in 47 eps</span>
+<span class="timeline-badge mentions">396× in 49 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -20628,6 +21390,8 @@ _Total events: 1101_
 - [BREAKING NEWS! We Received Photos Of Charlie's ... @ 01:08:00](/episodes/ep-9k2xrAC0H88.md#t-01-02-41)
 - [Coming soon... @ 00:00:00](/episodes/ep-LKR94FQ5p3o.md#t-00-00-00)
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:11:55](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-49)
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:02:18](/episodes/ep-UYkXV9mYbT4.md#t-00-02-02)
+- [Trump Attacks The Pope. The Tyler Robinson Narr... @ 01:06:25](/episodes/ep-eLgD5yUVbko.md#t-01-06-15)
 
 </details>
 </div>
@@ -21885,7 +22649,7 @@ _Total events: 1101_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va.md">Charlie Kirk was assassinated at Utah Valley University.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">34× in 27 eps</span>
+<span class="timeline-badge mentions">37× in 30 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk was assassinated at Utah Valley University. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -21925,6 +22689,9 @@ _Total events: 1101_
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:19:50](/episodes/ep-B9TyCs-6o_0.md#t-00-19-35)
 - [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:59:38](/episodes/ep-SgVcnx4Oh30.md#t-00-59-28)
 - [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:01:41](/episodes/ep-SgVcnx4Oh30.md#t-00-01-22)
+- [The 33 Club: Freemason Murder Plot EXPOSED! | C... @ 00:02:41](/episodes/ep-7ERqbYElOfs.md#t-00-02-36)
+- [Friends In High Temples: Charlie's Final Call W... @ 00:19:00](/episodes/ep-rupRLXmSndU.md#t-00-18-41)
+- [An Open Letter To President Donald Trump (My Re... @ 00:03:01](/episodes/ep-ZIH5-V6UPkg.md#t-00-02-27)
 
 </details>
 </div>
@@ -21986,7 +22753,7 @@ _Total events: 1101_
 <p class="timeline-desc"><a href="/events/event-2025-09-10-the-new-york-times-reported-that-erika-k.md">The New York Times reported that Erika Kirk was at a hospital while her mother received treatment when Mikey McCoy called; Candace Owens said the venue was a holistic clinic.</a></p>
 </details>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: The New York Times reported that Erika Kirk was at a hospital while her mother received treatment when Mikey McCoy called; Candace Owens said the venue was a holistic clinic. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -21995,6 +22762,7 @@ _Total events: 1101_
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace ... @ 00:24:54](/episodes/ep-QRS_hR7NXaQ.md#t-00-24-42)
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfr... @ 00:21:13](/episodes/ep-DYD_QHMPwqM.md#t-00-21-01)
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:19:08](/episodes/ep-mFuno0TuuQQ.md#t-00-19-08)
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi G... @ 00:35:26](/episodes/ep-q1NRQQAYS_Q.md#t-00-34-48)
 
 </details>
 </div>
@@ -22378,6 +23146,51 @@ _Total events: 1101_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [VIRAL! It's Okay Not To Believe A Word Erika Ki... @ 00:37:42](/episodes/ep-DEtFh2Ff-58.md#t-00-37-42)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-autopsy-photographs-in-the-tyler-robinso">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-autopsy-photographs-in-the-tyler-robinso.md">Autopsy photographs in the Tyler Robinson case were taken.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Autopsy photographs in the Tyler Robinson case were taken. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:30:51](/episodes/ep-UYkXV9mYbT4.md#t-00-30-51)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-utah-valley-and-timpanogos-hospitals-wer">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-utah-valley-and-timpanogos-hospitals-wer.md">Utah Valley and Timpanogos hospitals were locked down after Charlie Kirk was shot</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Utah Valley and Timpanogos hospitals were locked down after Charlie Kirk was shot - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Friends In High Temples: Charlie's Final Call W... @ 00:06:20](/episodes/ep-rupRLXmSndU.md#t-00-05-56)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-zachariah-qureshi-was-detained-during-th">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-zachariah-qureshi-was-detained-during-th.md">Zachariah Qureshi was detained during the manhunt after Charlie Kirk was shot</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Zachariah Qureshi was detained during the manhunt after Charlie Kirk was shot - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Friends In High Temples: Charlie's Final Call W... @ 00:07:03](/episodes/ep-rupRLXmSndU.md#t-00-07-03)
 
 </details>
 </div>
@@ -23679,7 +24492,7 @@ _Total events: 1101_
 <div class="timeline-date">2025-09-08 <span class='time'>10:45</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-08-candace-owens-said-charlie-kirk-took-lor.md">Candace Owens said Charlie Kirk took Lori Frantzve to a clinic for Lyme disease treatment.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08 10:45: Candace Owens said Charlie Kirk took Lori Frantzve to a clinic for Lyme disease treatment. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -23687,6 +24500,7 @@ _Total events: 1101_
 
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace ... @ 00:28:23](/episodes/ep-QRS_hR7NXaQ.md#t-00-27-58)
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:39:22](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-15)
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi G... @ 00:40:02](/episodes/ep-q1NRQQAYS_Q.md#t-00-39-48)
 
 </details>
 </div>
@@ -24509,7 +25323,7 @@ _Total events: 1101_
 <div class="timeline-date">2025-09-08</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-08-erika-kirk-posted-an-image-of-her-ill-mo.md">Erika Kirk posted an image of her ill mother and a ten-day countdown to September 16.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08: Erika Kirk posted an image of her ill mother and a ten-day countdown to September 16. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -24517,6 +25331,7 @@ _Total events: 1101_
 
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace ... @ 00:23:53](/episodes/ep-QRS_hR7NXaQ.md#t-00-23-23)
 - [VIRAL! It's Okay Not To Believe A Word Erika Ki... @ 00:17:39](/episodes/ep-DEtFh2Ff-58.md#t-00-17-26)
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi G... @ 00:33:53](/episodes/ep-q1NRQQAYS_Q.md#t-00-33-25)
 
 </details>
 </div>
@@ -26988,6 +27803,21 @@ _Total events: 1101_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-08-19-andrew-zenger-was-appointed-ceo-of-timpa">
+<div class="timeline-date">2025-08-19</div>
+<div class="timeline-desc"><a href="/events/event-2025-08-19-andrew-zenger-was-appointed-ceo-of-timpa.md">Andrew Zenger was appointed CEO of Timpanogos Hospital</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-08-19: Andrew Zenger was appointed CEO of Timpanogos Hospital - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Friends In High Temples: Charlie's Final Call W... @ 00:23:30](/episodes/ep-rupRLXmSndU.md#t-00-23-21)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-08-15-charlie-kirk-addresses-moral-blackmail-at-myrtle-b">
 <div class="timeline-date">2025-08-15</div>
 <div class="timeline-desc"><a href="/events/event-2025-08-15-charlie-kirk-addresses-moral-blackmail-at-myrtle-b.md">Charlie Kirk addresses moral blackmail at Myrtle Beach event</a></div>
@@ -27261,13 +28091,15 @@ _Total events: 1101_
 <div class="timeline-date">2025-08-15</div>
 <div class="timeline-desc"><a href="/events/event-2025-08-15-a-turning-point-usa-donor-retreat-began-.md">A Turning Point USA donor retreat began in Aspen.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-08-15: A Turning Point USA donor retreat began in Aspen. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:54:08](/episodes/ep-9naMwS0kMBE.md#t-00-54-01)
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi G... @ 00:10:25](/episodes/ep-q1NRQQAYS_Q.md#t-00-10-21)
+- [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:09:57](/episodes/ep-eLgD5yUVbko.md#t-00-09-57)
 
 </details>
 </div>
@@ -30627,6 +31459,37 @@ _Total events: 1101_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-07-14-charlie-kirk-hosted-his-show-with-josh-h">
+<div class="timeline-date">2025-07-14</div>
+<div class="timeline-desc"><a href="/events/event-2025-07-14-charlie-kirk-hosted-his-show-with-josh-h.md">Charlie Kirk hosted his show with Josh Hammer after returning from the Student Action Summit.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-07-14: Charlie Kirk hosted his show with Josh Hammer after returning from the Student Action Summit. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [The 33 Club: Freemason Murder Plot EXPOSED! | C... @ 00:22:24](/episodes/ep-7ERqbYElOfs.md#t-00-22-24)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-07-14-candace-owens-said-erika-kirk-flew-to-lo">
+<div class="timeline-date">2025-07-14</div>
+<div class="timeline-desc"><a href="/events/event-2025-07-14-candace-owens-said-erika-kirk-flew-to-lo.md">Candace Owens said Erika Kirk flew to Long Beach with Catherine LoCastro and Jonathan Marcello and returned to Scottsdale.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-07-14: Candace Owens said Erika Kirk flew to Long Beach with Catherine LoCastro and Jonathan Marcello and returned to Scottsdale. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [The 33 Club: Freemason Murder Plot EXPOSED! | C... @ 00:22:51](/episodes/ep-7ERqbYElOfs.md#t-00-22-24)
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:51:24](/episodes/ep-UYkXV9mYbT4.md#t-00-51-24)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-07-11-tucker-carlson-speech-calls-out-bill-ackman-on-isr">
 <div class="timeline-date">2025-07-11</div>
 <div class="timeline-desc"><a href="/events/event-2025-07-11-tucker-carlson-speech-calls-out-bill-ackman-on-isr.md">Tucker Carlson speech calls out Bill Ackman on Israel and citizenship</a></div>
@@ -31417,6 +32280,21 @@ _Total events: 1101_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-06-16-bilt-received-the-second-of-two-large-fe">
+<div class="timeline-date">2025-06-16</div>
+<div class="timeline-desc"><a href="/events/event-2025-06-16-bilt-received-the-second-of-two-large-fe.md">BILT received the second of two large federal contracts awarded in June 2025</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-06-16: BILT received the second of two large federal contracts awarded in June 2025 - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Friends In High Temples: Charlie's Final Call W... @ 00:15:57](/episodes/ep-rupRLXmSndU.md#t-00-15-57)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-06-13-the-12-day-war-between-israel-and-iran-c">
 <div class="timeline-date">2025-06-13</div>
 <div class="timeline-desc"><a href="/events/event-2025-06-13-the-12-day-war-between-israel-and-iran-c.md">The 12-day war between Israel and Iran commenced.</a></div>
@@ -31552,6 +32430,21 @@ _Total events: 1101_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:36:46](/episodes/ep-t4U7NjnUEgc.md#t-00-36-14)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-06-01-bilt-received-the-first-of-two-large-fed">
+<div class="timeline-date">2025-06-01</div>
+<div class="timeline-desc"><a href="/events/event-2025-06-01-bilt-received-the-first-of-two-large-fed.md">BILT received the first of two large federal contracts awarded in June 2025</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-06-01: BILT received the first of two large federal contracts awarded in June 2025 - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Friends In High Temples: Charlie's Final Call W... @ 00:15:52](/episodes/ep-rupRLXmSndU.md#t-00-15-13)
 
 </details>
 </div>
@@ -33539,6 +34432,21 @@ _Total events: 1101_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2024-11-05-donald-trump-won-the-2024-united-states-">
+<div class="timeline-date">2024-11-05</div>
+<div class="timeline-desc"><a href="/events/event-2024-11-05-donald-trump-won-the-2024-united-states-.md">Donald Trump won the 2024 United States presidential election.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024-11-05: Donald Trump won the 2024 United States presidential election. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [An Open Letter To President Donald Trump (My Re... @ 00:04:59](/episodes/ep-ZIH5-V6UPkg.md#t-00-04-35)
+
+</details>
+</div>
+
 **October**
 
 <div class="timeline-event filter-item" id="event-2024-10-27-australia-refused-candace-owens-a-visa-f">
@@ -33726,7 +34634,7 @@ _Total events: 1101_
 <div class="timeline-date">2024-07-13</div>
 <div class="timeline-desc"><a href="/events/event-2024-07-13-thomas-matthew-crooks-attempts-to-assassinate-trum.md">Thomas Matthew Crooks attempts to assassinate Trump at rally, killing Corey Comparatore.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 1 ep</span>
+<span class="timeline-badge mentions">4× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2024-07-13: Thomas Matthew Crooks attempts to assassinate Trump at rally, killing Corey Comparatore. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -33735,6 +34643,7 @@ _Total events: 1101_
 - [BREAKING NEWS: FBI Pressuring Utah To Close The... @ 00:20:29](/episodes/ep-QZWSsq8ZWzw.md#t-00-19-59)
 - [BREAKING NEWS: FBI Pressuring Utah To Close The... @ 00:00:36](/episodes/ep-QZWSsq8ZWzw.md#t-00-00-01)
 - [BREAKING NEWS: FBI Pressuring Utah To Close The... @ 00:20:50](/episodes/ep-QZWSsq8ZWzw.md#t-00-20-29)
+- [An Open Letter To President Donald Trump (My Re... @ 00:31:16](/episodes/ep-ZIH5-V6UPkg.md#t-00-31-04)
 
 </details>
 </div>
@@ -33958,6 +34867,53 @@ _Total events: 1101_
 </div>
 
 **May**
+
+<div class="timeline-event filter-item" id="event-2024-05-ahmed-qureshi-began-a-commanding-officer">
+<div class="timeline-date">2024-05</div>
+<div class="timeline-desc"><a href="/events/event-2024-05-ahmed-qureshi-began-a-commanding-officer.md">Ahmed Qureshi began a commanding-officer role listed on LinkedIn</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024-05: Ahmed Qureshi began a commanding-officer role listed on LinkedIn - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Friends In High Temples: Charlie's Final Call W... @ 00:12:05](/episodes/ep-rupRLXmSndU.md#t-00-11-43)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2024-05-candace-owens-said-charlie-kirk-told-her">
+<div class="timeline-date">2024-05</div>
+<details><summary class="timeline-desc truncated"><a href="/events/event-2024-05-candace-owens-said-charlie-kirk-told-her.md">Candace Owens said Charlie Kirk told her that he and Andrew Kolvet attended a meeting where Miriam Adelson sought Donald Trump’s support for West B...</a></summary>
+<p class="timeline-desc"><a href="/events/event-2024-05-candace-owens-said-charlie-kirk-told-her.md">Candace Owens said Charlie Kirk told her that he and Andrew Kolvet attended a meeting where Miriam Adelson sought Donald Trump’s support for West Bank annexation.</a></p>
+</details>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024-05: Candace Owens said Charlie Kirk told her that he and Andrew Kolvet attended a meeting where Miriam Adelson sought Donald Trump’s support for West Bank annexation. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [An Open Letter To President Donald Trump (My Re... @ 00:29:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2024-05-30-miriam-adelson-announced-a-100-million-e">
+<div class="timeline-date">2024-05-30</div>
+<div class="timeline-desc"><a href="/events/event-2024-05-30-miriam-adelson-announced-a-100-million-e.md">Miriam Adelson announced a $100 million effort through Preserve America PAC to elect Donald Trump.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024-05-30: Miriam Adelson announced a $100 million effort through Preserve America PAC to elect Donald Trump. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [An Open Letter To President Donald Trump (My Re... @ 00:29:38](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38)
+
+</details>
+</div>
 
 <div class="timeline-event filter-item" id="event-2024-05-27-walid-mahmood-arrived-in-provo-utah-aboa">
 <div class="timeline-date">2024-05-27</div>
@@ -34792,6 +35748,36 @@ _Total events: 1101_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2024-connor-henderson-began-working-as-an-eme">
+<div class="timeline-date">2024</div>
+<div class="timeline-desc"><a href="/events/event-2024-connor-henderson-began-working-as-an-eme.md">Connor Henderson began working as an emergency department scribe at Timpanogos Hospital</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024: Connor Henderson began working as an emergency department scribe at Timpanogos Hospital - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Friends In High Temples: Charlie's Final Call W... @ 00:19:00](/episodes/ep-rupRLXmSndU.md#t-00-18-41)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2024-charlie-kirk-publicly-supported-candace-">
+<div class="timeline-date">2024</div>
+<div class="timeline-desc"><a href="/events/event-2024-charlie-kirk-publicly-supported-candace-.md">Charlie Kirk publicly supported Candace Owens after she was fired from The Daily Wire.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024: Charlie Kirk publicly supported Candace Owens after she was fired from The Daily Wire. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -35013,7 +35999,7 @@ _Total events: 1101_
 <div class="timeline-date">2023-10-07</div>
 <div class="timeline-desc"><a href="/events/event-2023-10-07-the-october-7-hamas-led-attack-on-israel.md">The October 7 Hamas-led attack on Israel occurred.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">9× in 2 eps</span>
+<span class="timeline-badge mentions">10× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2023-10-07: The October 7 Hamas-led attack on Israel occurred. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -35028,6 +36014,7 @@ _Total events: 1101_
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:37:21](/episodes/ep-xjzb_t5Tk9o.md#t-00-37-06)
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:24:10](/episodes/ep-xjzb_t5Tk9o.md#t-01-24-10)
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:34:02](/episodes/ep-xjzb_t5Tk9o.md#t-01-34-00)
+- [An Open Letter To President Donald Trump (My Re... @ 00:30:32](/episodes/ep-ZIH5-V6UPkg.md#t-00-30-22)
 
 </details>
 </div>
@@ -36097,6 +37084,36 @@ _Total events: 1101_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2021-jimmy-aates-was-released-from-prison">
+<div class="timeline-date">2021</div>
+<div class="timeline-desc"><a href="/events/event-2021-jimmy-aates-was-released-from-prison.md">Jimmy Aates was released from prison.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2021: Jimmy Aates was released from prison. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:42:11](/episodes/ep-UYkXV9mYbT4.md#t-00-42-03)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2021-puretalk-first-endorsed-candace-owens">
+<div class="timeline-date">2021</div>
+<div class="timeline-desc"><a href="/events/event-2021-puretalk-first-endorsed-candace-owens.md">PureTalk first endorsed Candace Owens.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2021: PureTalk first endorsed Candace Owens. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [An Open Letter To President Donald Trump (My Re... @ 00:22:47](/episodes/ep-ZIH5-V6UPkg.md#t-00-22-37)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -36122,6 +37139,23 @@ _Total events: 1101_
 - [Why Is Everyone Crashing Out Over The Charlie K... @ 00:11:54](/episodes/ep-YaZfwLQ7vrI.md#t-00-11-32)
 - [Why Is Everyone Crashing Out Over The Charlie K... @ 00:13:18](/episodes/ep-YaZfwLQ7vrI.md#t-00-13-01)
 - [Why Is Everyone Crashing Out Over The Charlie K... @ 00:12:06](/episodes/ep-YaZfwLQ7vrI.md#t-00-11-32)
+
+</details>
+</div>
+
+**July**
+
+<div class="timeline-event filter-item" id="event-2020-07-24-two-french-paratroopers-were-arrested-ne">
+<div class="timeline-date">2020-07-24</div>
+<div class="timeline-desc"><a href="/events/event-2020-07-24-two-french-paratroopers-were-arrested-ne.md">Two French paratroopers were arrested near Marie-Hélène Dini's home in connection with a failed contract killing.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2020-07-24: Two French paratroopers were arrested near Marie-Hélène Dini\'s home in connection with a failed contract killing. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [The 33 Club: Freemason Murder Plot EXPOSED! | C... @ 00:07:52](/episodes/ep-7ERqbYElOfs.md#t-00-07-30)
 
 </details>
 </div>
@@ -36219,6 +37253,36 @@ _Total events: 1101_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:24:42](/episodes/ep-SgVcnx4Oh30.md#t-00-24-42)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2020-bilt-received-a-31-million-dollar-federa">
+<div class="timeline-date">2020</div>
+<div class="timeline-desc"><a href="/events/event-2020-bilt-received-a-31-million-dollar-federa.md">BILT received a 3.1 million dollar federal contract</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2020: BILT received a 3.1 million dollar federal contract - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Friends In High Temples: Charlie's Final Call W... @ 00:14:00](/episodes/ep-rupRLXmSndU.md#t-00-14-00)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2020-robbie-hild-appeared-to-have-graduated-f">
+<div class="timeline-date">2020</div>
+<div class="timeline-desc"><a href="/events/event-2020-robbie-hild-appeared-to-have-graduated-f.md">Robbie Hild appeared to have graduated from BYU around 2020</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2020: Robbie Hild appeared to have graduated from BYU around 2020 - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Friends In High Temples: Charlie's Final Call W... @ 00:30:28](/episodes/ep-rupRLXmSndU.md#t-00-30-18)
 
 </details>
 </div>
@@ -36800,6 +37864,21 @@ _Total events: 1101_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2019-bilt-received-its-first-federal-contract">
+<div class="timeline-date">2019</div>
+<div class="timeline-desc"><a href="/events/event-2019-bilt-received-its-first-federal-contract.md">BILT received its first federal contract for 50000 dollars</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2019: BILT received its first federal contract for 50000 dollars - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Friends In High Temples: Charlie's Final Call W... @ 00:13:33](/episodes/ep-rupRLXmSndU.md#t-00-13-16)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -36858,6 +37937,22 @@ _Total events: 1101_
 </div>
 
 **November**
+
+<div class="timeline-event filter-item" id="event-2018-11-29-laura-loomer-handcuffed-herself-to-twitt">
+<div class="timeline-date">2018-11-29</div>
+<div class="timeline-desc"><a href="/events/event-2018-11-29-laura-loomer-handcuffed-herself-to-twitt.md">Laura Loomer handcuffed herself to Twitter headquarters in New York after being banned.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2018-11-29: Laura Loomer handcuffed herself to Twitter headquarters in New York after being banned. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAG... @ 01:10:24](/episodes/ep-LATnak75Si0.md#t-01-03-34)
+- [An Open Letter To President Donald Trump (My Re... @ 00:33:27](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54)
+
+</details>
+</div>
 
 <div class="timeline-event filter-item" id="event-2018-11-07-thousand-oaks-borderline-bar-shooting-by-ian-long">
 <div class="timeline-date">2018-11-07</div>
@@ -37231,21 +38326,6 @@ _Total events: 1101_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:29:03](/episodes/ep-tB5SXXmd9vU.md#t-00-28-30)
-
-</details>
-</div>
-
-<div class="timeline-event filter-item" id="event-2018-01-01-laura-loomer-kicked-off-twitter-chained-">
-<div class="timeline-date">2018-01-01</div>
-<div class="timeline-desc"><a href="/events/event-2018-01-01-laura-loomer-kicked-off-twitter-chained-.md">Laura Loomer kicked off Twitter, chained herself to headquarters</a></div>
-<div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('2018-01-01: Laura Loomer kicked off Twitter, chained herself to headquarters - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
-</div>
-<details>
-<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
-
-- [Mamdani Wins. Charlie Kirk Questions Haunt "MAG... @ 01:10:24](/episodes/ep-LATnak75Si0.md#t-01-03-34)
 
 </details>
 </div>
@@ -38375,6 +39455,21 @@ _Total events: 1101_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2015-ahmed-qureshi-co-founded-bilt">
+<div class="timeline-date">2015</div>
+<div class="timeline-desc"><a href="/events/event-2015-ahmed-qureshi-co-founded-bilt.md">Ahmed Qureshi co-founded BILT</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2015: Ahmed Qureshi co-founded BILT - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Friends In High Temples: Charlie's Final Call W... @ 00:12:27](/episodes/ep-rupRLXmSndU.md#t-00-12-27)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -39260,6 +40355,36 @@ _Total events: 1101_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2012-the-new-york-times-published-an-article-">
+<div class="timeline-date">2012</div>
+<div class="timeline-desc"><a href="/events/event-2012-the-new-york-times-published-an-article-.md">The New York Times published an article about Benjamin Netanyahu and Mitt Romney's friendship</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2012: The New York Times published an article about Benjamin Netanyahu and Mitt Romney\'s friendship - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Friends In High Temples: Charlie's Final Call W... @ 00:04:03](/episodes/ep-rupRLXmSndU.md#t-00-04-03)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2012-the-rnc-refused-to-recognize-ron-pauls-d">
+<div class="timeline-date">2012</div>
+<div class="timeline-desc"><a href="/events/event-2012-the-rnc-refused-to-recognize-ron-pauls-d.md">The RNC refused to recognize Ron Paul's delegates from Maine at its 2012 convention</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2012: The RNC refused to recognize Ron Paul\'s delegates from Maine at its 2012 convention - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Friends In High Temples: Charlie's Final Call W... @ 00:45:45](/episodes/ep-rupRLXmSndU.md#t-00-45-36)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -39448,6 +40573,21 @@ _Total events: 1101_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein... @ 00:24:15](/episodes/ep-H9p2ZGHAs9A.md#t-00-23-53)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2011-andrew-zenger-was-in-jerusalem-during-mi">
+<div class="timeline-date">2011</div>
+<div class="timeline-desc"><a href="/events/event-2011-andrew-zenger-was-in-jerusalem-during-mi.md">Andrew Zenger was in Jerusalem during Mitt Romney's campaign period</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2011: Andrew Zenger was in Jerusalem during Mitt Romney\'s campaign period - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Friends In High Temples: Charlie's Final Call W... @ 00:31:15](/episodes/ep-rupRLXmSndU.md#t-00-30-59)
 
 </details>
 </div>
@@ -39884,6 +41024,21 @@ _Total events: 1101_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2009-byu-physicist-stephen-jones-published-a-">
+<div class="timeline-date">2009</div>
+<div class="timeline-desc"><a href="/events/event-2009-byu-physicist-stephen-jones-published-a-.md">BYU physicist Stephen Jones published a study about thermitic material in World Trade Center dust</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2009: BYU physicist Stephen Jones published a study about thermitic material in World Trade Center dust - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Friends In High Temples: Charlie's Final Call W... @ 00:47:20](/episodes/ep-rupRLXmSndU.md#t-00-46-56)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -40198,6 +41353,21 @@ _Total events: 1101_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2007-the-washington-post-published-an-article">
+<div class="timeline-date">2007</div>
+<div class="timeline-desc"><a href="/events/event-2007-the-washington-post-published-an-article.md">The Washington Post published an article reporting flaws in the FBI's comparative bullet-lead analysis</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2007: The Washington Post published an article reporting flaws in the FBI\'s comparative bullet-lead analysis - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Friends In High Temples: Charlie's Final Call W... @ 00:32:25](/episodes/ep-rupRLXmSndU.md#t-00-32-16)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -40474,6 +41644,22 @@ _Total events: 1101_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2005-the-fbi-discontinued-comparative-bullet-">
+<div class="timeline-date">2005</div>
+<div class="timeline-desc"><a href="/events/event-2005-the-fbi-discontinued-comparative-bullet-.md">The FBI discontinued comparative bullet lead analysis because of flaws in the technique.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2005: The FBI discontinued comparative bullet lead analysis because of flaws in the technique. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:42:58](/episodes/ep-UYkXV9mYbT4.md#t-00-42-58)
+- [Friends In High Temples: Charlie's Final Call W... @ 00:33:08](/episodes/ep-rupRLXmSndU.md#t-00-32-56)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -40496,6 +41682,23 @@ _Total events: 1101_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:20:18](/episodes/ep-jTj9Ip46r4w.md#t-00-20-18)
+
+</details>
+</div>
+
+****
+
+<div class="timeline-event filter-item" id="event-2004-the-national-academy-of-sciences-conclud">
+<div class="timeline-date">2004</div>
+<div class="timeline-desc"><a href="/events/event-2004-the-national-academy-of-sciences-conclud.md">The National Academy of Sciences concluded that comparative bullet-lead analysis was unreliable</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2004: The National Academy of Sciences concluded that comparative bullet-lead analysis was unreliable - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Friends In High Temples: Charlie's Final Call W... @ 00:32:56](/episodes/ep-rupRLXmSndU.md#t-00-32-56)
 
 </details>
 </div>
@@ -41204,6 +42407,21 @@ _Total events: 1101_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-1998-tucker-carlson-alleged-that-israel-used-">
+<div class="timeline-date">1998</div>
+<div class="timeline-desc"><a href="/events/event-1998-tucker-carlson-alleged-that-israel-used-.md">Tucker Carlson alleged that Israel used recordings involving Bill Clinton and Monica Lewinsky to pressure Clinton over Jonathan Pollard’s release.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1998: Tucker Carlson alleged that Israel used recordings involving Bill Clinton and Monica Lewinsky to pressure Clinton over Jonathan Pollard’s release. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [An Open Letter To President Donald Trump (My Re... @ 00:26:43](/episodes/ep-ZIH5-V6UPkg.md#t-00-26-31)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -41296,6 +42514,21 @@ _Total events: 1101_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:16:32](/episodes/ep-ZzAT2xijKGQ.md#t-00-15-58)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-1997-a-jury-convicted-jimmy-aates-of-murderin">
+<div class="timeline-date">1997</div>
+<div class="timeline-desc"><a href="/events/event-1997-a-jury-convicted-jimmy-aates-of-murderin.md">A jury convicted Jimmy Aates of murdering his wife.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1997: A jury convicted Jimmy Aates of murdering his wife. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:42:03](/episodes/ep-UYkXV9mYbT4.md#t-00-42-03)
 
 </details>
 </div>
@@ -41575,6 +42808,30 @@ _Total events: 1101_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. |... @ 00:06:16](/episodes/ep-cZxHqYsWRYg.md#t-00-06-16)
+
+</details>
+</div>
+
+</div>
+</div>
+
+<div class="tab-content tab-content-year-1991">
+
+<div class="timeline-container">
+
+<h2 id="year-1991">1991</h2>
+
+<div class="timeline-event filter-item" id="event-1991-norma-jean-aates-was-found-shot-to-death">
+<div class="timeline-date">1991</div>
+<div class="timeline-desc"><a href="/events/event-1991-norma-jean-aates-was-found-shot-to-death.md">Norma Jean Aates was found shot to death in a house that was set on fire.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1991: Norma Jean Aates was found shot to death in a house that was set on fire. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:41:49](/episodes/ep-UYkXV9mYbT4.md#t-00-41-45)
 
 </details>
 </div>
@@ -42055,6 +43312,25 @@ _Total events: 1101_
 
 <h2 id="year-1981">1981</h2>
 
+**May**
+
+<div class="timeline-event filter-item" id="event-1981-05-13-shots-were-fired-at-a-pope-in-an-attack-">
+<div class="timeline-date">1981-05-13</div>
+<div class="timeline-desc"><a href="/events/event-1981-05-13-shots-were-fired-at-a-pope-in-an-attack-.md">Shots were fired at a pope in an attack that Candace Owens characterized as political.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1981-05-13: Shots were fired at a pope in an attack that Candace Owens characterized as political. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:00:01](/episodes/ep-eLgD5yUVbko.md#t-00-00-01)
+
+</details>
+</div>
+
+****
+
 <div class="timeline-event filter-item" id="event-1981-the-fbi-agents-association-was-founded">
 <div class="timeline-date">1981</div>
 <div class="timeline-desc"><a href="/events/event-1981-the-fbi-agents-association-was-founded.md">The FBI Agents Association was founded.</a></div>
@@ -42235,6 +43511,21 @@ _Total events: 1101_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's H... @ 00:21:54](/episodes/ep-5-HUyv9LyMg.md#t-00-21-54)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-1976-benjamin-netanyahu-and-mitt-romney-began">
+<div class="timeline-date">1976</div>
+<div class="timeline-desc"><a href="/events/event-1976-benjamin-netanyahu-and-mitt-romney-began.md">Benjamin Netanyahu and Mitt Romney began a friendship while both worked at Boston Consulting Group</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1976: Benjamin Netanyahu and Mitt Romney began a friendship while both worked at Boston Consulting Group - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Friends In High Temples: Charlie's Final Call W... @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24)
 
 </details>
 </div>
@@ -42741,6 +44032,23 @@ _Total events: 1101_
 
 - [Operation Mocking-Plane: The Charlie Kirk Plot ... @ 00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00)
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:12:24](/episodes/ep-sreYYcID-QY.md#t-00-11-44)
+
+</details>
+</div>
+
+****
+
+<div class="timeline-event filter-item" id="event-1963-comparative-bullet-lead-analysis-was-fir">
+<div class="timeline-date">1963</div>
+<div class="timeline-desc"><a href="/events/event-1963-comparative-bullet-lead-analysis-was-fir.md">Comparative bullet-lead analysis was first used by the FBI after President John F. Kennedy's assassination</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1963: Comparative bullet-lead analysis was first used by the FBI after President John F. Kennedy\'s assassination - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Friends In High Temples: Charlie's Final Call W... @ 00:32:40](/episodes/ep-rupRLXmSndU.md#t-00-32-16)
 
 </details>
 </div>

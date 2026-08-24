@@ -1,6 +1,6 @@
 ---
 title: "Barack Obama"
-description: "Barack Obama (People) - 10 mentions"
+description: "Barack Obama (People) - 11 mentions"
 id: "person-barack-obama"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-person-barack-obama-t-00-34-45">2025-12-05 · 00:34:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-barack-obama-t-00-11-26">2026-03-17 · 00:11:26</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-person-barack-obama-t-00-03-24">2026-04-01 · 00:03:34</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -42,6 +42,7 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-barack-obama-t-00-41-41" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-barack-obama-t-00-57-39" style="--pulse-height:33%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-barack-obama-t-00-08-54" style="--pulse-height:100%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-person-barack-obama-t-00-03-24" style="--pulse-height:33%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-barack-obama-t-00-41-41) | 3 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-barack-obama-t-00-57-39) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-barack-obama-t-00-08-54) | 3 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-barack-obama-t-00-03-24) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
+
+**[00:03:34](/episodes/ep-rupRLXmSndU.md#ent-person-barack-obama-t-00-03-24)**
+> "Yeah, that Mitt Romney, the former senator of Utah, the one-time presidential nominee who ran against Barack Obama, the co-founder and the former CEO of Bain Capital."
+
+</details>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (3 mentions)</summary>
@@ -134,12 +144,31 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Ran Against (1)</summary>
+
+- **[Mitt Romney](/entities/person-mitt-romney.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:34](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “Yeah, that Mitt Romney, the former senator of Utah, the one-time presidential nominee who ran against Barack Obama, the co-founder and the former CEO of Bain Capital.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:08:54](/episodes/ep-I0OaY6Gryqk.md#t-00-08-54): “They were, if we didn't do the attack or if I'll go a step further, if I didn't terminate the Iran nuclear deal given to us, one of the worst deals ever made by Barack Hussein Obama. Remember when they sent Boeing 757s over there loaded with cash.”
+
+</details>
+
+- **[Mitt Romney](/entities/person-mitt-romney.md)** ran against this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:34](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “Yeah, that Mitt Romney, the former senator of Utah, the one-time presidential nominee who ran against Barack Obama, the co-founder and the former CEO of Bain Capital.”
 
 </details>
 

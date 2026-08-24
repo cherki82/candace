@@ -1,6 +1,6 @@
 ---
 title: "Texas"
-description: "Texas (Places) - 58 mentions"
+description: "Texas (Places) - 69 mentions"
 id: "gpe-texas"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-texas-t-00-37-12">2025-10-09 · 00:37:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-texas-t-00-33-55">2026-03-26 · 00:34:06</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>58</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-texas-t-00-23-58">2026-04-01 · 00:24:09</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>69</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -48,6 +48,7 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-texas-t-00-00-01" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-texas-t-00-03-27" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-texas-t-00-11-18" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-texas-t-00-10-19" style="--pulse-height:44%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 11 mentions" title="2026-04-01 · 11 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -71,6 +72,7 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-texas-t-00-00-01) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-texas-t-00-03-27) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-texas-t-00-11-18) | 2 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-gpe-texas-t-00-10-19) | 11 |
 
 </details>
 </section>
@@ -78,7 +80,45 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (58)</strong></summary>
+<summary><strong class="section-title">Raw mentions (69)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (11 mentions)</summary>
+
+**[00:10:25](/episodes/ep-rupRLXmSndU.md#ent-gpe-texas-t-00-10-19)**
+> "Texas"
+
+**[00:10:40](/episodes/ep-rupRLXmSndU.md#ent-gpe-texas-t-00-10-19)**
+> "...o honorably mention here that Texas seems to be a very common theme in this investiga..."
+
+**[00:10:46](/episodes/ep-rupRLXmSndU.md#ent-gpe-texas-t-00-10-19)**
+> "...Huachuca, that there may be a Texas play in Charlie Kirk's assassination, just like t..."
+
+**[00:10:59](/episodes/ep-rupRLXmSndU.md#ent-gpe-texas-t-00-10-59)**
+> "...CIA ran that operation out of Texas. Anyway, what does Built Incorporated do? That's ..."
+
+**[00:17:20](/episodes/ep-rupRLXmSndU.md#ent-gpe-texas-t-00-17-20)**
+> "...he same house down in Keller, Texas, both the Henderson family and the Qureshi family..."
+
+**[00:17:33](/episodes/ep-rupRLXmSndU.md#ent-gpe-texas-t-00-17-20)**
+> "I mean, they do live in Texas. It's also possible maybe the Hendersons sold the..."
+
+**[00:17:38](/episodes/ep-rupRLXmSndU.md#ent-gpe-texas-t-00-17-20)**
+> "...he same house down in Keller, Texas, and that Nathan Henderson, the co-founder, is ma..."
+
+**[00:23:21](/episodes/ep-rupRLXmSndU.md#ent-gpe-texas-t-00-23-21)**
+> "...search a few times, just like Texas was coming up in my research a few times."
+
+**[00:23:30](/episodes/ep-rupRLXmSndU.md#ent-gpe-texas-t-00-23-21)**
+> "...ersons that are coming out of Texas. coming out of texas our planes are coming out of..."
+
+**[00:23:58](/episodes/ep-rupRLXmSndU.md#ent-gpe-texas-t-00-23-58)**
+> "he was down in Texas. He'd previously been working down in McKinney, T..."
+
+**[00:24:09](/episodes/ep-rupRLXmSndU.md#ent-gpe-texas-t-00-23-58)**
+> "Everyone just, I know Texas is big, but man, yanked and brought back up there..."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (2 mentions)</summary>

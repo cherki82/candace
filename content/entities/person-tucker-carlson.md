@@ -1,6 +1,6 @@
 ---
 title: "Tucker Carlson"
-description: "Tucker Carlson (People) - 465 mentions"
+description: "Tucker Carlson (People) - 487 mentions"
 id: "person-tucker-carlson"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tucker-carlson-t-00-12-57">2025-09-15 · 00:13:18</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-36-07">2026-08-14 · 00:36:36</a></strong></div>
-<div><span>Episodes</span><strong>67</strong></div>
-<div><span>Mentions</span><strong>465</strong></div>
-<div><span>Statements by</span><strong>43</strong></div>
-<div><span>Statements about</span><strong>52</strong></div>
-<div><span>Relationships</span><strong>76</strong></div>
+<div><span>Episodes</span><strong>71</strong></div>
+<div><span>Mentions</span><strong>487</strong></div>
+<div><span>Statements by</span><strong>47</strong></div>
+<div><span>Statements about</span><strong>59</strong></div>
+<div><span>Relationships</span><strong>80</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -101,6 +101,10 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-tucker-carlson-t-00-01-20" style="--pulse-height:18%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 7 mentions" title="2026-03-23 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tucker-carlson-t-00-01-06" style="--pulse-height:12%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 5 mentions" title="2026-03-25 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-tucker-carlson-t-00-51-07" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-tucker-carlson-t-00-21-40" style="--pulse-height:8%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-tucker-carlson-t-00-50-50" style="--pulse-height:8%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-03-51" style="--pulse-height:40%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 16 mentions" title="2026-04-10 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-tucker-carlson-t-00-52-23" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-28-54" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -173,6 +177,10 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-tucker-carlson-t-00-01-20) | 7 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tucker-carlson-t-00-01-06) | 5 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-tucker-carlson-t-00-51-07) | 2 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-tucker-carlson-t-00-21-40) | 2 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-tucker-carlson-t-00-50-50) | 2 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-03-51) | 16 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-tucker-carlson-t-00-52-23) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-28-54) | 3 |
 
 </details>
@@ -181,7 +189,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (465)</strong></summary>
+<summary><strong class="section-title">Raw mentions (487)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -194,6 +202,92 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 **[00:36:36](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-36-07)**
 > "Tucker Carlson then comes out and confirms the conversations tha..."
+
+</details>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2 mentions)</summary>
+
+**[00:52:23](/episodes/ep-eLgD5yUVbko.md#ent-person-tucker-carlson-t-00-52-23)**
+> "Tucker Carlson"
+
+**[00:51:17](/episodes/ep-eLgD5yUVbko.md#ent-person-tucker-carlson-t-00-51-17)**
+> "...t he accuses me and Megan and Tucker of being because we're calling for peace."
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (16 mentions)</summary>
+
+**[00:03:51](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-03-51)**
+> "Alex Jones, Tucker Carlson, Megyn Kelly, Candace Owens, different instrument..."
+
+**[00:04:12](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-03-51)**
+> "I know why Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have ..."
+
+**[00:06:10](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-06-00)**
+> "Really? Tucker Carlson? Low IQ? Me? Low IQ? The three of us unsuccessful..."
+
+**[00:07:24](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-07-24)**
+> "...end something that you don't. Tucker Carlson is more powerful than you."
+
+**[00:07:40](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-07-24)**
+> "... not hand-flailing fools like Tucker Carlson who couldn't even finish college."
+
+**[00:08:02](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-07-24)**
+> "Obviously, Tucker Carlson is in his prime. The whole world understands that..."
+
+**[00:14:30](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-14-18)**
+> "...han Kelly's fault. That's not Tucker Carlson's fault."
+
+**[00:26:31](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-26-31)**
+> "Well, Megan, I think Tucker actually has the right idea. So he published this..."
+
+**[00:32:31](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-32-10)**
+> "... especially in the context of Tucker saying we should have some grace."
+
+**[00:34:01](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-33-38)**
+> "... and Tucker and Megan, but to Tucker Carlson in particular, take a listen to her being braggad..."
+
+**[00:34:19](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-34-19)**
+> "...dmit it. I sent the president Tucker Carlson's clip so he can see the shit that he says about hi..."
+
+**[00:34:31](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-34-19)**
+> "I do. And I want that mother Tucker Carlson to know that I'm the one who knifed him from the ..."
+
+**[00:34:36](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-34-19)**
+> "...t sent the president all your Tucker because he deserves to see the fact that you are ..."
+
+**[00:34:48](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-34-48)**
+> "...t hope that he knows that yes tucker there are people out there who actually"
+
+**[00:35:20](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-34-48)**
+> "I don't know who Tucker Carlson thinks he is. He thinks he's so popular. Even Pre..."
+
+**[00:35:26](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-35-26)**
+> "I don't know why Tucker Carlson thinks he's so f**king special. He's not. He's no..."
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (2 mentions)</summary>
+
+**[00:51:15](/episodes/ep-UYkXV9mYbT4.md#ent-person-tucker-carlson-t-00-50-50)**
+> "... Further on the basis of what Tucker Carlson said on stage, questioning Bibi Netanyahu, his ne..."
+
+**[00:54:00](/episodes/ep-UYkXV9mYbT4.md#ent-person-tucker-carlson-t-00-54-00)**
+> "... the truth on they're rooting Tucker Carlson on and Megyn Kelly on when they told the truth ab..."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (2 mentions)</summary>
+
+**[00:22:18](/episodes/ep-7ERqbYElOfs.md#ent-person-tucker-carlson-t-00-21-40)**
+> "That's when Tucker (Tucker Carlson) got up and said some true things. He asked about where the heck Bill Ackman's money comes from. He said Bill Ackman is not impressive."
+
+**[00:56:51](/episodes/ep-7ERqbYElOfs.md#ent-person-tucker-carlson-t-00-56-51)**
+> "I called Tucker Carlson, called Andrew Kolvet, texted with both of them, ..."
 
 </details>
 
@@ -2015,7 +2109,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>Criticized By (8)</summary>
+<summary>Criticized By (10)</summary>
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -2072,6 +2166,20 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:20:06](/episodes/ep-CEF7gQRWYCE.md#t-00-20-00): “Naftali Bennett, the former Israeli prime minister. Said, quote, as a former Israeli Prime Minister, with the Mossad having reported directly to me, I say to you with 100% certainty, the accusation that Jeffrey Epstein somehow worked for Israel or the Mossad running a blackmail ring is categorically and totally false. This accusation is a lie being peddled by prominent online personalities such as Tucker Carlson, pretending they know things they don't.”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51): “I know why Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have all been fighting me for years... they have one thing in common, low IQs. They are stupid people.”
+
+</details>
+
+- **[Laura Loomer](/entities/person-laura-loomer.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:33:08](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54): “one of them being Laura Loomer. ... she yesterday proudly promoted the fact that she was behind his tweet last night to me and Tucker and Megan, but to Tucker Carlson in particular, take a listen to her being braggadocious. ... I don't know who Tucker Carlson thinks he is. He thinks he's so popular.”
 
 </details>
 
@@ -2270,7 +2378,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>Referenced By (38)</summary>
+<summary>Referenced By (40)</summary>
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -2371,6 +2479,20 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:20:06](/episodes/ep-CEF7gQRWYCE.md#t-00-20-00): “Naftali Bennett, the former Israeli prime minister. Said, quote, as a former Israeli Prime Minister, with the Mossad having reported directly to me, I say to you with 100% certainty, the accusation that Jeffrey Epstein somehow worked for Israel or the Mossad running a blackmail ring is categorically and totally false. This accusation is a lie being peddled by prominent online personalities such as Tucker Carlson, pretending they know things they don't.”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51): “I know why Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have all been fighting me for years... they have one thing in common, low IQs. They are stupid people.”
+
+</details>
+
+- **[Laura Loomer](/entities/person-laura-loomer.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:33:08](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54): “one of them being Laura Loomer. ... she yesterday proudly promoted the fact that she was behind his tweet last night to me and Tucker and Megan, but to Tucker Carlson in particular, take a listen to her being braggadocious. ... I don't know who Tucker Carlson thinks he is. He thinks he's so popular.”
 
 </details>
 
@@ -2559,7 +2681,24 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Tucker Carlson (43)</strong></summary>
+<summary><strong class="section-title">Statements by Tucker Carlson (47)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (4)</summary>
+
+- [00:26:43](/episodes/ep-ZIH5-V6UPkg.md#t-00-26-31) [○] (Accusation) ["The Israeli government has a history of blackmailing U.S. presidents."](/statements/statement-e6c51d0b0c47.md)
+  - About: [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
+
+- [00:26:43](/episodes/ep-ZIH5-V6UPkg.md#t-00-26-31) [○] (Claim) ["Israel used recordings of Bill Clinton and Monica Lewinsky's phone-sex sessions ..."](/statements/statement-1ad2cbf015a8.md)
+  - About: [Israel](/entities/gpe-israel.md), [Bill Clinton](/entities/person-bill-clinton.md), [Monica Lewinsky](/entities/person-monica-lewinsky.md)
+
+- [00:27:27](/episodes/ep-ZIH5-V6UPkg.md#t-00-27-13) [◐] (Accusation) ["Israel wants the United States to fight its war so it can expand its borders and..."](/statements/statement-4f887d8a59ce.md)
+  - About: [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md), [Greater Israel](/entities/concept-greater-israel.md)
+
+- [00:27:42](/episodes/ep-ZIH5-V6UPkg.md#t-00-27-42) [○] (Opinion) ["Israel may be using Clinton-style blackmail or something more morbid against Don..."](/statements/statement-59d621e55ff6.md)
+  - About: [Israel](/entities/gpe-israel.md), [Donald J. Trump](/entities/person-donald-trump.md), [Bill Clinton](/entities/person-bill-clinton.md)
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (4)</summary>
@@ -2752,7 +2891,33 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tucker Carlson (52)</strong></summary>
+<summary><strong class="section-title">Statements about Tucker Carlson (59)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (7)</summary>
+
+- [00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51) (Opinion) **Donald J. Trump** (via quoted post): ["Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have fought..."](/statements/statement-6e15836da95b.md)
+  - Also about: [Megyn Kelly](/entities/person-megyn-kelly.md), [Candace Owens](/entities/person-candace-owens.md), [Alex Jones](/entities/person-alex-jones.md)
+
+- [00:04:41](/episodes/ep-ZIH5-V6UPkg.md#t-00-04-35) (Claim) **Donald J. Trump** (via quoted post): ["Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have been t..."](/statements/statement-96380b58c1d8.md)
+  - Also about: [Megyn Kelly](/entities/person-megyn-kelly.md), [Candace Owens](/entities/person-candace-owens.md), [Alex Jones](/entities/person-alex-jones.md)
+
+- [00:07:24](/episodes/ep-ZIH5-V6UPkg.md#t-00-07-24) (Opinion) **Candace Owens**: ["Tucker Carlson is more powerful than Donald Trump."](/statements/statement-00f6b04eb1ee.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:07:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-07-24) (Opinion) **Donald J. Trump** (via quoted post): ["Tucker Carlson was broken after being fired from Fox and should see a ..."](/statements/statement-6fefc965fff7.md)
+  - Also about: [Fox News](/entities/org-fox-news.md)
+
+- [00:34:19](/episodes/ep-ZIH5-V6UPkg.md#t-00-34-19) (Claim) **Laura Loomer** (via quoted speech): ["Laura Loomer sent Donald Trump a Tucker Carlson clip so the president ..."](/statements/statement-854fa1a9f63d.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:34:48](/episodes/ep-ZIH5-V6UPkg.md#t-00-34-48) (Accusation) **Laura Loomer** (via quoted speech): ["Tucker Carlson is lying about Donald Trump, smearing him, creating cha..."](/statements/statement-c0feb2dbd3e5.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [United States](/entities/gpe-united-states.md)
+
+- [00:35:36](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-26) (Accusation) **Laura Loomer** (via quoted speech): ["Tucker Carlson incites violence against evangelicals, Jewish Americans..."](/statements/statement-1d4fb271ea2b.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Jewish people](/entities/concept-jewish-people.md), [Christianity](/entities/concept-christianity.md)
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (6)</summary>

@@ -11,7 +11,11 @@ object: "person-andrew-kolvet"
 
 ## [Candace Owens](/entities/person-candace-owens) warned by [Andrew Kolvet](/entities/person-andrew-kolvet)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs)**
+
+- [00:14:23](/episodes/ep-7ERqbYElOfs#t-00-14-23): _tell me as soon as Charlie (Charlie Kirk) gets killed that I better lay low, as Andrew Kolvet did, because my name is on some list and I'm going to be next._
 
 **[Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY)**
 

@@ -1,6 +1,6 @@
 ---
 title: "PDS Debt"
-description: "PDS Debt (Organizations) - 48 mentions"
+description: "PDS Debt (Organizations) - 57 mentions"
 id: "org-pds-debt"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-11">2025-09-25 · 00:25:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-pds-debt-t-00-28-54">2026-03-24 · 00:28:54</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>48</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-org-pds-debt-t-00-26-26">2026-04-13 · 00:26:53</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>57</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -48,6 +48,9 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-pds-debt-t-00-30-57" style="--pulse-height:75%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 3 mentions" title="2026-02-25 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-pds-debt-t-00-28-37" style="--pulse-height:100%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 4 mentions" title="2026-03-11 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-pds-debt-t-00-28-11" style="--pulse-height:75%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 3 mentions" title="2026-03-24 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-pds-debt-t-00-25-49" style="--pulse-height:100%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 4 mentions" title="2026-03-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-pds-debt-t-00-29-36" style="--pulse-height:75%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 3 mentions" title="2026-04-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-pds-debt-t-00-26-26" style="--pulse-height:50%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -66,6 +69,9 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-pds-debt-t-00-30-57) | 3 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-pds-debt-t-00-28-37) | 4 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-pds-debt-t-00-28-11) | 3 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-pds-debt-t-00-25-49) | 4 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-pds-debt-t-00-29-36) | 3 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-pds-debt-t-00-26-26) | 2 |
 
 </details>
 </section>
@@ -73,7 +79,49 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (48)</strong></summary>
+<summary><strong class="section-title">Raw mentions (57)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2 mentions)</summary>
+
+**[00:26:26](/episodes/ep-eLgD5yUVbko.md#ent-org-pds-debt-t-00-26-26)**
+> "PDS Debt"
+
+**[00:26:53](/episodes/ep-eLgD5yUVbko.md#ent-org-pds-debt-t-00-26-26)**
+> "PDS debt is A-plus rated by the Better Business Bureau. It..."
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (3 mentions)</summary>
+
+**[00:29:45](/episodes/ep-q1NRQQAYS_Q.md#ent-org-pds-debt-t-00-29-36)**
+> "check out PDS Debt."
+
+**[00:30:07](/episodes/ep-q1NRQQAYS_Q.md#ent-org-pds-debt-t-00-29-36)**
+> "PDS Debt is A plus rated by the Better Business Bureau. It..."
+
+**[00:30:15](/episodes/ep-q1NRQQAYS_Q.md#ent-org-pds-debt-t-00-30-15)**
+> "Why? Because PDS has helped hundreds of thousands of people get ou..."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (4 mentions)</summary>
+
+**[00:26:03](/episodes/ep-7ERqbYElOfs.md#ent-org-pds-debt-t-00-25-49)**
+> "Balance is rising and fees piling up. Minimum payments are designed to stretch debt out for years. That's why you need to check out PDS debt."
+
+**[00:26:10](/episodes/ep-7ERqbYElOfs.md#ent-org-pds-debt-t-00-25-49)**
+> "...sonal loans or medical bills, PDS debt has custom options to help you get out of debt."
+
+**[00:26:30](/episodes/ep-7ERqbYElOfs.md#ent-org-pds-debt-t-00-26-30)**
+> "PDS Debt is A-plus rated by the Better Business Bureau. It..."
+
+**[00:26:38](/episodes/ep-7ERqbYElOfs.md#ent-org-pds-debt-t-00-26-30)**
+> "Why? Because PDS has helped hundreds of thousands of people get ou..."
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (3 mentions)</summary>

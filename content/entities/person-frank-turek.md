@@ -1,6 +1,6 @@
 ---
 title: "Frank Turek"
-description: "Frank Turek (People) - 98 mentions"
+description: "Frank Turek (People) - 103 mentions"
 id: "person-frank-turek"
 type: "PERSON"
 aliases:
@@ -24,10 +24,10 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-frank-turek-t-00-54-23">2025-09-22 · 00:54:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-frank-turek-t-00-48-56">2026-03-26 · 00:49:22</a></strong></div>
-<div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>98</strong></div>
-<div><span>Statements by</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-frank-turek-t-00-59-12">2026-03-31 · 00:59:12</a></strong></div>
+<div><span>Episodes</span><strong>30</strong></div>
+<div><span>Mentions</span><strong>103</strong></div>
+<div><span>Statements by</span><strong>20</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>22</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -65,6 +65,8 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-frank-turek-t-00-35-54" style="--pulse-height:13%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-frank-turek-t-00-00-00" style="--pulse-height:100%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 15 mentions" title="2026-03-25 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-frank-turek-t-00-01-24" style="--pulse-height:27%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 4 mentions" title="2026-03-26 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-frank-turek-t-00-13-17" style="--pulse-height:20%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-frank-turek-t-00-59-12" style="--pulse-height:13%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -98,6 +100,8 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-frank-turek-t-00-35-54) | 2 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-frank-turek-t-00-00-00) | 15 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-frank-turek-t-00-01-24) | 4 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-frank-turek-t-00-13-17) | 3 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-frank-turek-t-00-59-12) | 2 |
 
 </details>
 </section>
@@ -105,7 +109,32 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (98)</strong></summary>
+<summary><strong class="section-title">Raw mentions (103)</strong></summary>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (2 mentions)</summary>
+
+**[00:59:12](/episodes/ep-UYkXV9mYbT4.md#ent-person-frank-turek-t-00-59-12)**
+> "frankly frank turek is absolutely a liar she asserts now um another t..."
+
+**[00:58:46](/episodes/ep-UYkXV9mYbT4.md#ent-person-frank-turek-t-00-58-29)**
+> "Frank Tarek"
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (3 mentions)</summary>
+
+**[00:13:40](/episodes/ep-7ERqbYElOfs.md#ent-person-frank-turek-t-00-13-17)**
+> "It never stops. It is a global trillion dollar industry. These are the facts. And no, it is not a coincidence that everyone involved on September 10th happens to have a military connection, former military, military intelligence, Frank Turek, the McCoys, naval intelligence. It's not a coincidence that Kash Patel kept stressing the number 33."
+
+**[00:19:27](/episodes/ep-7ERqbYElOfs.md#ent-person-frank-turek-t-00-19-03)**
+> "I'm going to include Frank Turek in that who just recently went back to UVU and he..."
+
+**[00:43:36](/episodes/ep-7ERqbYElOfs.md#ent-person-frank-turek-t-00-43-36)**
+> "...g it for money. Let's just be frank. They're all doing it for money. Anyway, I want t..."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (4 mentions)</summary>
@@ -576,10 +605,12 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:40:25](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-58): “I never bought that, that he was just suddenly in need of so much debate help.”
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:19:27](/episodes/ep-7ERqbYElOfs.md#t-00-19-03): “I'm going to include Frank Turek in that who just recently went back to UVU and he was very snippy with the audience.”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:58:46](/episodes/ep-UYkXV9mYbT4.md#t-00-58-29): “Okay, so top comments from yesterday's episode. This was another really funny thing about Frank Tarek and his very over dramatized telling of what happened at the hospital. Like I said, they're all very bad actors, not even on the D-list.”
 
 </details>
 
@@ -688,10 +719,12 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:40:25](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-58): “I never bought that, that he was just suddenly in need of so much debate help.”
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:19:27](/episodes/ep-7ERqbYElOfs.md#t-00-19-03): “I'm going to include Frank Turek in that who just recently went back to UVU and he was very snippy with the audience.”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:58:46](/episodes/ep-UYkXV9mYbT4.md#t-00-58-29): “Okay, so top comments from yesterday's episode. This was another really funny thing about Frank Tarek and his very over dramatized telling of what happened at the hospital. Like I said, they're all very bad actors, not even on the D-list.”
 
 </details>
 
@@ -766,7 +799,18 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Frank Turek (18)</strong></summary>
+<summary><strong class="section-title">Statements by Frank Turek (20)</strong></summary>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (2)</summary>
+
+- [00:20:31](/episodes/ep-7ERqbYElOfs.md#t-00-19-58) [✓] (Claim) ["Michael McCoy arranged a plane to bring Erika Kirk after Charlie Kirk was pronou..."](/statements/statement-8e072d3b4eee.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:20:49](/episodes/ep-7ERqbYElOfs.md#t-00-20-43) [✓] (Claim) ["Stacey Sheridan and Katherine LoCastro were with Erika Kirk."](/statements/statement-07e76c9fc08f.md)
+  - About: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Katherine Locastro](/entities/person-katherine-locastro.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1)</summary>

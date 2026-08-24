@@ -1,6 +1,6 @@
 ---
 title: "Kanye West"
-description: "Kanye West (People) - 159 mentions"
+description: "Kanye West (People) - 160 mentions"
 id: "person-kanye-west"
 type: "PERSON"
 aliases:
@@ -24,9 +24,9 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-09-13">2025-09-11 · 00:09:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-48-49">2026-03-18 · 00:48:56</a></strong></div>
-<div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>159</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-kanye-west-t-01-02-08">2026-04-13 · 01:02:34</a></strong></div>
+<div><span>Episodes</span><strong>32</strong></div>
+<div><span>Mentions</span><strong>160</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
 <div><span>Statements about</span><strong>27</strong></div>
 <div><span>Relationships</span><strong>13</strong></div>
@@ -68,6 +68,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-kanye-west-t-00-04-02" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-kanye-west-t-00-04-02" style="--pulse-height:8%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-20-15" style="--pulse-height:46%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 16 mentions" title="2026-03-18 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-kanye-west-t-01-02-08" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -104,6 +105,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-kanye-west-t-00-04-02) | 2 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-kanye-west-t-00-04-02) | 2 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-20-15) | 16 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-kanye-west-t-01-02-08) | 1 |
 
 </details>
 </section>
@@ -111,7 +113,15 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (159)</strong></summary>
+<summary><strong class="section-title">Raw mentions (160)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
+
+**[01:02:34](/episodes/ep-eLgD5yUVbko.md#ent-person-kanye-west-t-01-02-08)**
+> "when Kanye said that"
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (16 mentions)</summary>

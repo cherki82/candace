@@ -1,6 +1,6 @@
 ---
 title: "Judaism"
-description: "Judaism (Concepts) - 114 mentions"
+description: "Judaism (Concepts) - 121 mentions"
 id: "concept-judaism"
 type: "CONCEPT"
 aliases:
@@ -22,10 +22,10 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-22-23">2026-01-12 · 00:22:34</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12">2026-08-14 · 00:28:34</a></strong></div>
-<div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>114</strong></div>
+<div><span>Episodes</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>121</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>16</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -59,6 +59,8 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-concept-judaism-t-01-01-21" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-judaism-t-00-07-07" style="--pulse-height:12%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-judaism-t-00-02-24" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 2 mentions" title="2026-03-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-judaism-t-00-33-38" style="--pulse-height:25%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 6 mentions" title="2026-04-10 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-judaism-t-00-18-22" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -90,6 +92,8 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-concept-judaism-t-01-01-21) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-concept-judaism-t-00-07-07) | 3 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-concept-judaism-t-00-02-24) | 2 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-judaism-t-00-33-38) | 6 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-concept-judaism-t-00-18-22) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12) | 1 |
 
 </details>
@@ -98,13 +102,44 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (114)</strong></summary>
+<summary><strong class="section-title">Raw mentions (121)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:28:34](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12)**
 > "... sent a text message reading, Jewish donors play into all the stereotypes."
+
+</details>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
+
+**[00:18:50](/episodes/ep-eLgD5yUVbko.md#ent-concept-judaism-t-00-18-22)**
+> "Jewish network of donors"
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (6 mentions)</summary>
+
+**[00:33:38](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-judaism-t-00-33-38)**
+> "She's not even Jewish. If you ask her to produce a photo of her bat mit..."
+
+**[00:35:36](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-judaism-t-00-35-26)**
+> "...ence against evangelicals and Jewish Americans and even the president himself."
+
+**[00:36:48](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-judaism-t-00-36-32)**
+> "...day would get the support. of Jewish Americans. The majority is aware of Jewish Americ..."
+
+**[00:36:56](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-judaism-t-00-36-32)**
+> "...to the brim of people who are Jewish Americans, rabbis even who write me and say, you ..."
+
+**[00:37:09](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-judaism-t-00-37-09)**
+> "...his battle for decades to get Jewish Americans and Jewish people worldwide to recogniz..."
+
+**[00:37:18](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-judaism-t-00-37-09)**
+> "to be Jewish and they are not, and that they are emerging, it'..."
 
 </details>
 
@@ -576,7 +611,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Judaism (16)</strong></summary>
+<summary><strong class="section-title">Statements about Judaism (17)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1)</summary>
+
+- [00:33:38](/episodes/ep-ZIH5-V6UPkg.md#t-00-33-38) (Claim) **Candace Owens**: ["Laura Loomer was not bat mitzvahed and is not Jewish."](/statements/statement-85265c9dd8e8.md)
+  - Also about: [Laura Loomer](/entities/person-laura-loomer.md)
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1)</summary>

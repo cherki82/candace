@@ -1,6 +1,6 @@
 ---
 title: "Mexico"
-description: "Mexico (Places) - 17 mentions"
+description: "Mexico (Places) - 20 mentions"
 id: "gpe-mexico"
 type: "GPE"
 aliases:
@@ -23,9 +23,9 @@ Source: [Government of Mexico: GOB.MX](https://www.gob.mx/en/index)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-mexico-t-00-07-30">2025-12-09 · 00:01:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-mexico-t-00-16-15">2026-03-18 · 00:16:15</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-mexico-t-00-35-02">2026-04-01 · 00:35:02</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -41,6 +41,7 @@ Source: [Government of Mexico: GOB.MX](https://www.gob.mx/en/index)
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-mexico-t-00-40-43" style="--pulse-height:25%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-mexico-t-00-44-13" style="--pulse-height:12%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-mexico-t-00-16-15" style="--pulse-height:12%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-mexico-t-00-22-38" style="--pulse-height:38%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 3 mentions" title="2026-04-01 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [Government of Mexico: GOB.MX](https://www.gob.mx/en/index)
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-mexico-t-00-40-43) | 2 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-mexico-t-00-44-13) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-mexico-t-00-16-15) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-gpe-mexico-t-00-22-38) | 3 |
 
 </details>
 </section>
@@ -58,7 +60,21 @@ Source: [Government of Mexico: GOB.MX](https://www.gob.mx/en/index)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (3 mentions)</summary>
+
+**[00:23:10](/episodes/ep-rupRLXmSndU.md#ent-gpe-mexico-t-00-22-38)**
+> "Mexico"
+
+**[00:34:34](/episodes/ep-rupRLXmSndU.md#ent-gpe-mexico-t-00-22-38)**
+> "... that went down to Chihuahua, Mexico because polygamy."
+
+**[00:35:02](/episodes/ep-rupRLXmSndU.md#ent-gpe-mexico-t-00-35-02)**
+> "...ll go start our own colony in Mexico, Chihuahua, Mexico."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>

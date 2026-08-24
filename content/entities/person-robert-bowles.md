@@ -1,6 +1,6 @@
 ---
 title: "Robert Bowles"
-description: "Robert Bowles (People) - 3 mentions"
+description: "Robert Bowles (People) - 4 mentions"
 id: "person-robert-bowles"
 type: "PERSON"
 ---
@@ -9,11 +9,11 @@ _Type: People_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-robert-bowles-t-00-32-13">2025-09-30 · 00:32:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-robert-bowles-t-00-05-01">2025-10-01 · 00:05:19</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-robert-bowles-t-00-37-20">2026-04-13 · 00:37:29</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -24,6 +24,7 @@ _Type: People_
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-robert-bowles-t-00-32-13" style="--pulse-height:100%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 2 mentions" title="2025-09-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-person-robert-bowles-t-00-05-01" style="--pulse-height:50%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-robert-bowles-t-00-37-20" style="--pulse-height:50%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -31,6 +32,7 @@ _Type: People_
 |---|---|---:|
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-person-robert-bowles-t-00-32-13) | 2 |
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-robert-bowles-t-00-05-01) | 1 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-robert-bowles-t-00-37-20) | 1 |
 
 </details>
 </section>
@@ -38,7 +40,15 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
+
+**[00:37:29](/episodes/ep-eLgD5yUVbko.md#ent-person-robert-bowles-t-00-37-20)**
+> "Robert Bowles"
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
@@ -134,7 +144,15 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Robert Bowles (1)</strong></summary>
+<summary><strong class="section-title">Statements about Robert Bowles (2)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>
+
+- [00:35:51](/episodes/ep-eLgD5yUVbko.md#t-00-35-25) (Accusation) **Candace Owens**: ["Candace Owens argued that the FBI released suspect photos and sought p..."](/statements/statement-3d4ae6743ef6.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Spencer Cox](/entities/person-spencer-cox.md)
+
+</details>
 
 <details>
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1)</summary>

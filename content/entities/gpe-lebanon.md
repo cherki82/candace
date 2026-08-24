@@ -1,6 +1,6 @@
 ---
 title: "Lebanon"
-description: "Lebanon (Places) - 9 mentions"
+description: "Lebanon (Places) - 11 mentions"
 id: "gpe-lebanon"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-lebanon-t-00-20-27">2026-01-20 · 00:20:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-lebanon-t-00-40-36">2026-03-09 · 00:41:01</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-lebanon-t-00-36-32">2026-04-10 · 00:36:40</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -41,6 +41,7 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-lebanon-t-00-05-17" style="--pulse-height:50%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-lebanon-t-00-05-43" style="--pulse-height:50%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-lebanon-t-00-40-36" style="--pulse-height:50%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-lebanon-t-00-35-54" style="--pulse-height:100%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-lebanon-t-00-05-17) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-lebanon-t-00-05-43) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-lebanon-t-00-40-36) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-lebanon-t-00-35-54) | 2 |
 
 </details>
 </section>
@@ -59,7 +61,18 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (2 mentions)</summary>
+
+**[00:36:18](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-lebanon-t-00-35-54)**
+> "...ing there poisoning people in Lebanon. If you're wondering with what, pay attention, Ma..."
+
+**[00:36:40](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-lebanon-t-00-36-32)**
+> "That's poison people in Lebanon. That's that's the reality of the circumstances t..."
+
+</details>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>

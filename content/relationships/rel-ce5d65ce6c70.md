@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) has CEO [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (24 mentions)
+### Evidence (25 mentions)
 
 **[EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM)**
 
@@ -97,6 +97,10 @@ object: "person-erika-kirk"
 **[An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ)**
 
 - [00:02:58](/episodes/ep-mFuno0TuuQQ#t-00-02-58): _plea to the courts, I don't know, I think that it stands in stark contrast to the actions that are available to Erika Kirk as the CEO and chairman of this massive organization._
+
+**[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
+
+- [00:19:05](/episodes/ep-q1NRQQAYS_Q#t-00-19-05): _Why does that feel more like a confession to me? Like they're trying to get ahead of something like this might be the reason they didn't release it in the first place. And also, was I like under the influence or high or was it not Erica, the CEO of Turning Point USA and the team that guaranteed us that they were going to release tons of never before seen speeches and videos? They had a whole supply of them._
 
 **[Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA)**
 

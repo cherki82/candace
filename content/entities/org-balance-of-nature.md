@@ -1,6 +1,6 @@
 ---
 title: "Balance of Nature"
-description: "Balance of Nature (Organizations) - 13 mentions"
+description: "Balance of Nature (Organizations) - 15 mentions"
 id: "org-balance-of-nature"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-38-39">2026-01-19 · 00:39:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-balance-of-nature-t-00-30-41">2026-03-10 · 00:31:13</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-org-balance-of-nature-t-00-37-01">2026-04-01 · 00:37:30</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -36,6 +36,7 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 <a href="/episodes/ep-4YgrOhhy708.md#ent-org-balance-of-nature-t-00-27-23" style="--pulse-height:75%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 3 mentions" title="2026-02-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-org-balance-of-nature-t-00-34-08" style="--pulse-height:25%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-balance-of-nature-t-00-30-41" style="--pulse-height:75%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 3 mentions" title="2026-03-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-balance-of-nature-t-00-37-01" style="--pulse-height:50%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-balance-of-nature-t-00-27-23) | 3 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-balance-of-nature-t-00-34-08) | 1 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-balance-of-nature-t-00-30-41) | 3 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-balance-of-nature-t-00-37-01) | 2 |
 
 </details>
 </section>
@@ -53,7 +55,18 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2 mentions)</summary>
+
+**[00:37:13](/episodes/ep-rupRLXmSndU.md#ent-org-balance-of-nature-t-00-37-01)**
+> "balance of nature"
+
+**[00:37:30](/episodes/ep-rupRLXmSndU.md#ent-org-balance-of-nature-t-00-37-01)**
+> "Balance of nature takes produce through a tailored vacuum cold proc..."
+
+</details>
 
 <details>
 <summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (3 mentions)</summary>

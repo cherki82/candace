@@ -4,9 +4,10 @@ description: "\"Andrew Kolvet fed information to obscure podcasters to get them 
 statement_id: "statement-357c331f9c8f"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Later reporting supports that Andrew Kolvet privately supplied Fort Huachuca material and messaging to a relatively obscure YouTuber and asked not to be named. That supports the information-feeding portion, but the purpose of getting podcasters to attack Owens is an inference not independently established.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Candace reacts to Jeremy Boreing accusations and Fort Huachuca messaging](https://candaceowensfan.substack.com/p/candace-reacts-to-jeremy-boreing)
+
+*Verified: 2026-08-24T10:57:39.922426*
 
 ---
 

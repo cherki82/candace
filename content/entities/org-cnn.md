@@ -1,6 +1,6 @@
 ---
 title: "CNN"
-description: "CNN (Organizations) - 33 mentions"
+description: "CNN (Organizations) - 40 mentions"
 id: "org-cnn"
 type: "ORG"
 aliases:
@@ -23,32 +23,33 @@ Source: [About CNN](https://www.cnn.com/about)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-org-cnn-t-00-20-16">2025-10-27 · 00:20:54</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-cnn-t-02-38-31">2026-08-14 · 02:38:34</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-r1PS67aRmcA.md#ent-org-cnn-t-00-00-44">Ben Shapiro Is Crying Again. | Candace Ep 261</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-cnn-t-00-06-43">An Open Letter To President Donald Trump (My Response) | Candace Ep 322</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-c5BcKF91iec.md#ent-org-cnn-t-00-20-16" style="--pulse-height:20%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-cnn-t-00-27-09" style="--pulse-height:20%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-cnn-t-00-33-30" style="--pulse-height:40%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-org-cnn-t-00-14-30" style="--pulse-height:60%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 3 mentions" title="2025-11-05 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-r1PS67aRmcA.md#ent-org-cnn-t-00-00-44" style="--pulse-height:100%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 5 mentions" title="2025-11-08 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-cnn-t-00-06-06" style="--pulse-height:60%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 3 mentions" title="2025-11-10 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-org-cnn-t-00-11-38" style="--pulse-height:80%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 4 mentions" title="2025-11-18 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-DqGNvi36ol8.md#ent-org-cnn-t-00-36-25" style="--pulse-height:20%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-cnn-t-00-29-22" style="--pulse-height:40%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 2 mentions" title="2025-12-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-org-cnn-t-00-22-01" style="--pulse-height:20%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-org-cnn-t-00-18-46" style="--pulse-height:20%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-cnn-t-00-35-23" style="--pulse-height:80%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-cnn-t-00-21-43" style="--pulse-height:20%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-cnn-t-01-37-04" style="--pulse-height:80%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-org-cnn-t-00-20-16" style="--pulse-height:14%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-cnn-t-00-27-09" style="--pulse-height:14%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-cnn-t-00-33-30" style="--pulse-height:29%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-org-cnn-t-00-14-30" style="--pulse-height:43%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 3 mentions" title="2025-11-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-org-cnn-t-00-00-44" style="--pulse-height:71%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 5 mentions" title="2025-11-08 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-cnn-t-00-06-06" style="--pulse-height:43%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 3 mentions" title="2025-11-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-org-cnn-t-00-11-38" style="--pulse-height:57%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 4 mentions" title="2025-11-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-org-cnn-t-00-36-25" style="--pulse-height:14%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-cnn-t-00-29-22" style="--pulse-height:29%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 2 mentions" title="2025-12-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-cnn-t-00-22-01" style="--pulse-height:14%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-org-cnn-t-00-18-46" style="--pulse-height:14%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-cnn-t-00-35-23" style="--pulse-height:57%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-cnn-t-00-21-43" style="--pulse-height:14%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-cnn-t-00-06-43" style="--pulse-height:100%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 7 mentions" title="2026-04-10 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-cnn-t-01-37-04" style="--pulse-height:57%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -67,6 +68,7 @@ Source: [About CNN](https://www.cnn.com/about)
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-cnn-t-00-18-46) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-cnn-t-00-35-23) | 4 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-cnn-t-00-21-43) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-cnn-t-00-06-43) | 7 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-cnn-t-01-37-04) | 4 |
 
 </details>
@@ -75,7 +77,7 @@ Source: [About CNN](https://www.cnn.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -91,6 +93,32 @@ Source: [About CNN](https://www.cnn.com/about)
 
 **[02:38:31](/episodes/ep-nPhCKwJ6ye8.md#ent-org-cnn-t-02-38-31)**
 > "...ing news. is funny So well is CNN allowed to have sources, hang on but i have we ca..."
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (7 mentions)</summary>
+
+**[00:07:15](/episodes/ep-ZIH5-V6UPkg.md#ent-org-cnn-t-00-06-43)**
+> "...s? He is not trying to get on CNN. None of us are. I don't know how else to help yo..."
+
+**[00:07:40](/episodes/ep-ZIH5-V6UPkg.md#ent-org-cnn-t-00-07-24)**
+> "... agrees with me and just gave CNN a 100% approval rating of Trump, not hand-flailin..."
+
+**[00:09:01](/episodes/ep-ZIH5-V6UPkg.md#ent-org-cnn-t-00-08-45)**
+> "But let's continue because CNN says you've got 100% support."
+
+**[00:11:26](/episodes/ep-ZIH5-V6UPkg.md#ent-org-cnn-t-00-10-49)**
+> "...lways will be. Now, fake news CNN."
+
+**[00:11:33](/episodes/ep-ZIH5-V6UPkg.md#ent-org-cnn-t-00-11-33)**
+> "...real Trump Now, the fake news CNN, the failing New York Times and all of the other ..."
+
+**[00:13:09](/episodes/ep-ZIH5-V6UPkg.md#ent-org-cnn-t-00-12-54)**
+> "You're citing CNN, but you're also dissing CNN for having produced ..."
+
+**[00:23:58](/episodes/ep-ZIH5-V6UPkg.md#ent-org-cnn-t-00-23-58)**
+> "And CNN actually, which I guess Trump is watching for the..."
 
 </details>
 
@@ -278,7 +306,15 @@ Source: [About CNN](https://www.cnn.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about CNN (3)</strong></summary>
+<summary><strong class="section-title">Statements about CNN (4)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1)</summary>
+
+- [00:13:09](/episodes/ep-ZIH5-V6UPkg.md#t-00-12-54) (Opinion) **Candace Owens**: ["Donald Trump's message was internally incoherent because it both cited..."](/statements/statement-5cfaf16a2500.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (2)</summary>

@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (9 mentions)
+### Evidence (12 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -29,6 +29,10 @@ object: "person-candace-owens"
 
 - [00:17:49](/episodes/ep-5m-Wn6Pr5rM#t-00-17-49): _It's Turning Point USA. You don't need to take anything they say as fact._
 
+**[The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs)**
+
+- [00:21:33](/episodes/ep-7ERqbYElOfs#t-00-21-33): _almost like this TPUSA cult of people, which is unnatural._
+
 **[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
 
 - [00:13:27](/episodes/ep-B9TyCs-6o_0#t-00-13-27): _angry because this made both them and the new CEO and chairman who also happens to be Charlie Kirk's wife look bad. ... Liars hate when they get caught._
@@ -45,9 +49,17 @@ object: "person-candace-owens"
 
 - [00:02:18](/episodes/ep-SgVcnx4Oh30#t-00-02-18): _the Turning Point USA alibis that we have pointed out and when they respond they choose only respond to like the minor details that they can debunk_
 
+**[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
+
+- [00:02:02](/episodes/ep-UYkXV9mYbT4#t-00-02-02): _I have to go back to the beginning to fully comprehend how this case fell apart so quickly for Turning Point USA, for Erica Kirk, and what I think is fair to refer to as also their federal accomplices, because that's what it looks like to me._
+
 **[They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw)**
 
 - [00:22:14](/episodes/ep-ZGxnf5cj4Uw#t-00-22-14): _Even Turning Point USA, they're just like, we've accepted, obviously there are holes in this narrative_
+
+**[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
+
+- [00:18:38](/episodes/ep-q1NRQQAYS_Q#t-00-18-38): _So why is this particular one you're worried about people thinking it's AI? They even share outdated videos and try to pretend that he's supporting the Iranian war, like they're getting fact checked on X because they're sharing outdated videos and misrepresenting Charlie's._
 
 ### Related
 

@@ -1,19 +1,28 @@
 ---
 title: "Utah Valley Hospital"
-description: "Utah Valley Hospital (Organizations) - 8 mentions"
+description: "Utah Valley Hospital (Organizations) - 10 mentions"
 id: "org-utah-valley-hospital"
 type: "ORG"
+categories:
+  - "hospital"
+  - "Utah healthcare"
 ---
 
 _Type: Organizations_
 
+**Categories:** hospital, Utah healthcare
+
+**Entity verification:** verified
+> Intermountain Health's official location page confirms the canonical hospital name and Provo location.
+Source: [Utah Valley Hospital | Intermountain Health](https://prod.intermountainhealth.org/locations/utah-valley-hospital)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-utah-valley-hospital-t-00-39-20">2025-10-28 · 00:32:00</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59">2025-12-18 · 00:07:23</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-org-utah-valley-hospital-t-00-05-56">2026-04-01 · 00:06:20</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -26,6 +35,8 @@ _Type: Organizations_
 <a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-utah-valley-hospital-t-00-42-38" style="--pulse-height:33%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-utah-valley-hospital-t-00-29-28" style="--pulse-height:100%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59" style="--pulse-height:33%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#t-00-56-25" style="--pulse-height:33%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-utah-valley-hospital-t-00-05-56" style="--pulse-height:33%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -35,6 +46,8 @@ _Type: Organizations_
 | 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-utah-valley-hospital-t-00-42-38) | 1 |
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-org-utah-valley-hospital-t-00-29-28) | 3 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) | 1 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#t-00-56-25) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-utah-valley-hospital-t-00-05-56) | 1 |
 
 </details>
 </section>
@@ -42,7 +55,23 @@ _Type: Organizations_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
+
+**[00:06:20](/episodes/ep-rupRLXmSndU.md#ent-org-utah-valley-hospital-t-00-05-56)**
+> "She went to Utah Valley Hospital and she sent her colleague over to Timpanogos and they were just staging outside waiting for something to happen. And she was sort of remarking about how odd it was that they had locked down both hospitals, something that I brought up."
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
+
+**[00:56:25](/episodes/ep-UYkXV9mYbT4.md#t-00-56-25)**
+> "Utah Valley"
+
+</details>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
@@ -98,7 +127,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah Valley Hospital (1)</strong></summary>
+<summary><strong class="section-title">Statements about Utah Valley Hospital (3)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2)</summary>
+
+- [00:06:20](/episodes/ep-rupRLXmSndU.md#t-00-05-56) (Claim) **Candace Owens** (via paraphrase): ["Elizabeth Lane reported that both Utah Valley Hospital and Timpanogos ..."](/statements/statement-35bef448927a.md)
+  - Also about: [Elizabeth Lane](/entities/person-elizabeth-lane.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:07:29](/episodes/ep-rupRLXmSndU.md#t-00-07-03) (Claim) **Candace Owens** (via paraphrase): ["George Zinn later told people at Utah Valley Hospital that he had been..."](/statements/statement-4d8f4d4ea21e.md)
+  - Also about: [George Zinn](/entities/person-george-zinn.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>

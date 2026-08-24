@@ -1,6 +1,6 @@
 ---
 title: "Greenland"
-description: "Greenland (Places) - 10 mentions"
+description: "Greenland (Places) - 11 mentions"
 id: "gpe-greenland"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [About Greenland | Government of Greenland](https://naalakkersuisut.gl/e
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-greenland-t-00-57-41">2026-01-16 · 00:57:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-greenland-t-00-39-11">2026-03-09 · 00:39:11</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-greenland-t-00-25-12">2026-04-10 · 00:25:12</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [About Greenland | Government of Greenland](https://naalakkersuisut.gl/e
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-greenland-t-00-18-18" style="--pulse-height:25%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-greenland-t-00-16-47" style="--pulse-height:25%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-greenland-t-00-39-11" style="--pulse-height:25%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-greenland-t-00-25-12" style="--pulse-height:25%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [About Greenland | Government of Greenland](https://naalakkersuisut.gl/e
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-greenland-t-00-18-18) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-greenland-t-00-16-47) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-greenland-t-00-39-11) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-greenland-t-00-25-12) | 1 |
 
 </details>
 </section>
@@ -55,7 +57,15 @@ Source: [About Greenland | Government of Greenland](https://naalakkersuisut.gl/e
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:25:12](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-greenland-t-00-25-12)**
+> "...ela, why we're speaking about Greenland and all of a sudden, oh okay here we are going to..."
+
+</details>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>

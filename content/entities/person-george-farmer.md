@@ -1,6 +1,6 @@
 ---
 title: "George Farmer"
-description: "George Farmer (People) - 45 mentions"
+description: "George Farmer (People) - 50 mentions"
 id: "person-george-farmer"
 type: "PERSON"
 aliases:
@@ -23,8 +23,8 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-00-37">2025-09-11 · 00:00:37</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-george-farmer-t-02-51-04">2026-08-14 · 02:51:14</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>45</strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>50</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>1</strong></div>
@@ -48,6 +48,8 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-george-farmer-t-01-06-00" style="--pulse-height:9%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-george-farmer-t-00-39-26" style="--pulse-height:9%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-george-farmer-t-00-23-05" style="--pulse-height:18%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-george-farmer-t-00-57-24" style="--pulse-height:18%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-george-farmer-t-00-07-25" style="--pulse-height:18%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-george-farmer-t-01-32-20" style="--pulse-height:36%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -67,6 +69,8 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-george-farmer-t-01-06-00) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-george-farmer-t-00-39-26) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-george-farmer-t-00-23-05) | 2 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-george-farmer-t-00-57-24) | 2 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-george-farmer-t-00-07-25) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-george-farmer-t-01-32-20) | 4 |
 
 </details>
@@ -75,7 +79,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+<summary><strong class="section-title">Raw mentions (50)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -91,6 +95,28 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 
 **[02:51:14](/episodes/ep-nPhCKwJ6ye8.md#ent-person-george-farmer-t-02-51-04)**
 > "George and I were planning our marriage."
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (2 mentions)</summary>
+
+**[00:07:37](/episodes/ep-UYkXV9mYbT4.md#ent-person-george-farmer-t-00-07-25)**
+> "...as sitting in my living room. George came to me and said, hey, I don't know what's goi..."
+
+**[01:03:14](/episodes/ep-UYkXV9mYbT4.md#ent-person-george-farmer-t-01-03-14)**
+> "...ourself a hat i forgot to ask george about the"
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (2 mentions)</summary>
+
+**[00:57:46](/episodes/ep-7ERqbYElOfs.md#ent-person-george-farmer-t-00-57-24)**
+> "That's not right. That's not right. I'll talk to George (George Farmer) about that."
+
+**[00:03:31](/episodes/ep-7ERqbYElOfs.md#ent-person-george-farmer-t-00-57-24)**
+> "The one that is in St. George, Utah, which is where Tyler Robinson was. was bro..."
 
 </details>
 
@@ -285,13 +311,15 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** married to this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:06:24](/episodes/ep-BKcOm32ZEGk.md#t-00-06-16): “The story had my husband. I've told it many times how I got engaged 18 days later... But I already knew George... I looked at my husband's face and I already knew him.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:46:12](/episodes/ep-GY6GWceEqtQ.md#t-00-45-47): “I could bake cookies with any of George (George Farmer)'s exes. I just don't care. He's my husband.”
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 01:32:35](/episodes/ep-nPhCKwJ6ye8.md#t-01-32-20): “George could be sending text messages right now. We are married. He has every login that I have.”
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:27:51](/episodes/ep-5-HUyv9LyMg.md#t-00-27-35): “my husband George Farmer”
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:23:05](/episodes/ep-DEtFh2Ff-58.md#t-00-22-23): “Nic Nac is something that has become a regular in our house lately, mostly because my husband, George (George Farmer), keeps them stocked everywhere.”
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:57:24](/episodes/ep-7ERqbYElOfs.md#t-00-57-24): “the boss man's a husband ... I'll talk to George (George Farmer) about that.”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:07:25](/episodes/ep-UYkXV9mYbT4.md#t-00-07-25): “Do you want to know how I know that it caused panic? Because the very next day on September 20th, Justin Strife was contacting my husband several times while asking him if I had recorded that FaceTime call with Terrell. It came across like an urgent matter. I was sitting in my living room. George came to me and said, hey, I don't know what's going on, but like Justin Strife is hitting me up.”
 
 </details>
 

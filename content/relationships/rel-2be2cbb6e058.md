@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [The Daily Wire](/entities/org-the-daily-wire) formerly employed [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (12 mentions)
+### Evidence (13 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -48,6 +48,10 @@ object: "person-candace-owens"
 **[AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo)**
 
 - [00:55:05](/episodes/ep-Wjul6YV6izo#t-00-55-05): _it's the same way that I say like i'm so grateful that i worked for prageru and turning point usa and um Daily Wire_
+
+**[Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko)**
+
+- [00:23:59](/episodes/ep-eLgD5yUVbko#t-00-23-59): _wire has in my view and my understanding of what gang stalking is has been doing this since the day they fired me it has not stopped it's been an onslaught of my life every way trying to stop speeches trying to get people to say things about me having articles written uh you know trying to have other people reach out and go after my advertisers it has been non i was fired from daily wire in 2020 we're in 2020_
 
 **[Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM)**
 

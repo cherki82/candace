@@ -1,6 +1,6 @@
 ---
 title: "Saint Michael the Archangel"
-description: "Saint Michael the Archangel (People) - 5 mentions"
+description: "Saint Michael the Archangel (People) - 7 mentions"
 id: "person-saint-michael-the-archangel"
 type: "PERSON"
 aliases:
@@ -24,9 +24,9 @@ Source: [Vatican News — Saints Michael, Gabriel and Raphael](https://www.vatic
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-saint-michael-the-archangel-t-00-13-56">2026-01-06 · 00:14:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-saint-michael-the-archangel-t-00-07-54">2026-02-04 · 00:07:54</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-saint-michael-the-archangel-t-01-06-59">2026-04-13 · 01:07:10</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,6 +40,7 @@ Source: [Vatican News — Saints Michael, Gabriel and Raphael](https://www.vatic
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-saint-michael-the-archangel-t-00-13-56" style="--pulse-height:33%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-person-saint-michael-the-archangel-t-00-29-14" style="--pulse-height:100%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 3 mentions" title="2026-01-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-saint-michael-the-archangel-t-00-07-54" style="--pulse-height:33%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-saint-michael-the-archangel-t-01-06-59" style="--pulse-height:67%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Vatican News — Saints Michael, Gabriel and Raphael](https://www.vatic
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-saint-michael-the-archangel-t-00-13-56) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-saint-michael-the-archangel-t-00-29-14) | 3 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-saint-michael-the-archangel-t-00-07-54) | 1 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-saint-michael-the-archangel-t-01-06-59) | 2 |
 
 </details>
 </section>
@@ -55,7 +57,18 @@ Source: [Vatican News — Saints Michael, Gabriel and Raphael](https://www.vatic
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2 mentions)</summary>
+
+**[01:07:05](/episodes/ep-eLgD5yUVbko.md#ent-person-saint-michael-the-archangel-t-01-06-59)**
+> "protection of St. Michael"
+
+**[01:07:10](/episodes/ep-eLgD5yUVbko.md#ent-person-saint-michael-the-archangel-t-01-06-59)**
+> "...sus loves you all. Thank you. St. Michael prayer works. I'm also keeping a novena right now..."
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1 mentions)</summary>

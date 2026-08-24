@@ -1,24 +1,33 @@
 ---
 title: "Lyndon Baines Johnson"
-description: "Lyndon Baines Johnson (People) - 10 mentions"
+description: "Lyndon Baines Johnson (People) - 11 mentions"
 id: "person-lyndon-baines-johnson"
 type: "PERSON"
 aliases:
   - "LBJ"
   - "Lyndon Johnson"
+categories:
+  - "United States politics"
+  - "president"
 ---
 
 _Type: People_
 
 **Also known as:** LBJ, Lyndon Johnson
 
+**Categories:** United States politics, president
+
 > **Possibly overlapping entity records:** [Lyndon B. Johnson](/entities/person-lyndon-b-johnson). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> Full canonical name Lyndon Baines Johnson verified against the official LBJ Presidential Library biography.
+Source: [Lyndon B. Johnson - Biography](https://www.lbjlibrary.org/life-and-legacy/the-man-himself/biography)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-person-lyndon-baines-johnson-t-00-05-52">2025-10-27 · 00:05:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-person-lyndon-baines-johnson-t-00-56-20">2025-12-17 · 00:56:37</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-person-lyndon-baines-johnson-t-00-50-08">2026-04-01 · 00:50:22</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -33,6 +42,7 @@ _Type: People_
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-lyndon-baines-johnson-t-00-59-18" style="--pulse-height:25%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-lyndon-baines-johnson-t-00-01-46" style="--pulse-height:100%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 4 mentions" title="2025-12-08 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-person-lyndon-baines-johnson-t-00-56-20" style="--pulse-height:25%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-person-lyndon-baines-johnson-t-00-50-08" style="--pulse-height:25%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +52,7 @@ _Type: People_
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-lyndon-baines-johnson-t-00-59-18) | 1 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-lyndon-baines-johnson-t-00-01-46) | 4 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-lyndon-baines-johnson-t-00-56-20) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-lyndon-baines-johnson-t-00-50-08) | 1 |
 
 </details>
 </section>
@@ -49,7 +60,15 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
+
+**[00:50:22](/episodes/ep-rupRLXmSndU.md#ent-person-lyndon-baines-johnson-t-00-50-08)**
+> "LBJ"
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>

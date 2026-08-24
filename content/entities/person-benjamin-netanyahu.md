@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Netanyahu"
-description: "Benjamin Netanyahu (People) - 279 mentions"
+description: "Benjamin Netanyahu (People) - 308 mentions"
 id: "person-benjamin-netanyahu"
 type: "PERSON"
 aliases:
@@ -29,11 +29,11 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-06-16">2025-09-15 · 00:01:28</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-02-52-41">2026-08-14 · 02:52:41</a></strong></div>
-<div><span>Episodes</span><strong>60</strong></div>
-<div><span>Mentions</span><strong>279</strong></div>
+<div><span>Episodes</span><strong>66</strong></div>
+<div><span>Mentions</span><strong>308</strong></div>
 <div><span>Statements by</span><strong>15</strong></div>
-<div><span>Statements about</span><strong>86</strong></div>
-<div><span>Relationships</span><strong>28</strong></div>
+<div><span>Statements about</span><strong>93</strong></div>
+<div><span>Relationships</span><strong>36</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -100,6 +100,12 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-benjamin-netanyahu-t-00-12-12" style="--pulse-height:57%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 16 mentions" title="2026-03-17 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-benjamin-netanyahu-t-00-48-08" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-benjamin-netanyahu-t-00-39-50" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-benjamin-netanyahu-t-00-13-17" style="--pulse-height:11%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-benjamin-netanyahu-t-00-50-50" style="--pulse-height:8%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-person-benjamin-netanyahu-t-00-00-54" style="--pulse-height:46%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 13 mentions" title="2026-04-01 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-benjamin-netanyahu-t-00-03-35" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-benjamin-netanyahu-t-00-16-19" style="--pulse-height:25%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 7 mentions" title="2026-04-10 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-benjamin-netanyahu-t-00-53-40" style="--pulse-height:11%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 3 mentions" title="2026-04-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-00-35-32" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -165,6 +171,12 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-benjamin-netanyahu-t-00-12-12) | 16 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-benjamin-netanyahu-t-00-48-08) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-benjamin-netanyahu-t-00-39-50) | 2 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-benjamin-netanyahu-t-00-13-17) | 3 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-benjamin-netanyahu-t-00-50-50) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-benjamin-netanyahu-t-00-00-54) | 13 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-benjamin-netanyahu-t-00-03-35) | 2 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-benjamin-netanyahu-t-00-16-19) | 7 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-benjamin-netanyahu-t-00-53-40) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-00-35-32) | 3 |
 
 </details>
@@ -173,7 +185,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (279)</strong></summary>
+<summary><strong class="section-title">Raw mentions (308)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -186,6 +198,123 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 **[02:52:41](/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-02-52-41)**
 > "...ld take a supporter like owen benjamin he called you bad names and one and called your h..."
+
+</details>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (3 mentions)</summary>
+
+**[00:51:58](/episodes/ep-eLgD5yUVbko.md#ent-person-benjamin-netanyahu-t-00-53-40)**
+> "Bibi tells you"
+
+**[00:53:40](/episodes/ep-eLgD5yUVbko.md#ent-person-benjamin-netanyahu-t-00-53-40)**
+> "...e last 25 years, according to BBNet and Yahoo, I don't want a pope who thinks it's te..."
+
+**[01:05:25](/episodes/ep-eLgD5yUVbko.md#ent-person-benjamin-netanyahu-t-01-05-03)**
+> "...thought it would be Trump and Netanyahu to bring Protestants and Catholics back together ..."
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (7 mentions)</summary>
+
+**[00:16:31](/episodes/ep-ZIH5-V6UPkg.md#ent-person-benjamin-netanyahu-t-00-16-19)**
+> "... leader of a foreign country, Benjamin Netanyahu, stands above him, convincing him that Iran repre..."
+
+**[00:17:02](/episodes/ep-ZIH5-V6UPkg.md#ent-person-benjamin-netanyahu-t-00-16-19)**
+> "Bibi is your master. Maybe it's Miriam Adelson that li..."
+
+**[00:18:18](/episodes/ep-ZIH5-V6UPkg.md#ent-person-benjamin-netanyahu-t-00-17-56)**
+> "...came a creature of Israel and Benjamin Netanyahu, and all of his never-Trumper enemies are now the..."
+
+**[00:18:56](/episodes/ep-ZIH5-V6UPkg.md#ent-person-benjamin-netanyahu-t-00-18-34)**
+> "... them losers when you lose to Bibi Netanyahu in Israel every single day?"
+
+**[00:19:00](/episodes/ep-ZIH5-V6UPkg.md#ent-person-benjamin-netanyahu-t-00-19-00)**
+> "Who's the Bibi Netanyahu in Israel every single day? When's the ..."
+
+**[00:25:48](/episodes/ep-ZIH5-V6UPkg.md#ent-person-benjamin-netanyahu-t-00-25-48)**
+> "...e in that situation room when Bibi Netanyahu, who was seated as an equal,"
+
+**[00:25:55](/episodes/ep-ZIH5-V6UPkg.md#ent-person-benjamin-netanyahu-t-00-25-48)**
+> "... at the side of the table and Bibi was across from him as an equal in the American s..."
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (2 mentions)</summary>
+
+**[00:03:43](/episodes/ep-q1NRQQAYS_Q.md#ent-person-benjamin-netanyahu-t-00-03-35)**
+> "Bibi Netanyahu"
+
+**[00:24:07](/episodes/ep-q1NRQQAYS_Q.md#ent-person-benjamin-netanyahu-t-00-24-07)**
+> "...pr like pr like you know like netanyahu's team could do this for us we're gonna have erica ..."
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (13 mentions)</summary>
+
+**[00:01:18](/episodes/ep-rupRLXmSndU.md#ent-person-benjamin-netanyahu-t-00-00-54)**
+> "add with Bibi Netanyahu, the one that took place in the Hamptons, the one that nobody, while they were offering these long-winded tweets explaining that we didn't do nothing, tweets that were overseen by lawyers and PR agents,"
+
+**[00:01:34](/episodes/ep-rupRLXmSndU.md#ent-person-benjamin-netanyahu-t-00-01-34)**
+> "no one wanted to address Bibi Netanyahu's call. Charlie described it, as I told..."
+
+**[00:01:42](/episodes/ep-rupRLXmSndU.md#ent-person-benjamin-netanyahu-t-00-01-34)**
+> "Bibi offered, as I said, to take Turning Point to the ..."
+
+**[00:02:06](/episodes/ep-rupRLXmSndU.md#ent-person-benjamin-netanyahu-t-00-01-34)**
+> "..., particularly the issue that Bibi and Charlie."
+
+**[00:02:29](/episodes/ep-rupRLXmSndU.md#ent-person-benjamin-netanyahu-t-00-01-34)**
+> "...Middle East, war in Iran, and Bibi is doing the most, right?"
+
+**[00:02:45](/episodes/ep-rupRLXmSndU.md#ent-person-benjamin-netanyahu-t-00-02-45)**
+> "Bibi is doing the rounds saying, I didn't kill him imm..."
+
+**[00:02:58](/episodes/ep-rupRLXmSndU.md#ent-person-benjamin-netanyahu-t-00-02-45)**
+> "...stablish a connection between Bibi Netanyahu and Utah, right? Israel and Utah."
+
+**[00:03:16](/episodes/ep-rupRLXmSndU.md#ent-person-benjamin-netanyahu-t-00-02-45)**
+> "How is this working? What's Bibi got to do with Provo? Does he have anything to do..."
+
+**[00:03:24](/episodes/ep-rupRLXmSndU.md#ent-person-benjamin-netanyahu-t-00-03-24)**
+> "...erstate to you just how close Bibi Netanyahu is to Mitt Romney."
+
+**[00:03:46](/episodes/ep-rupRLXmSndU.md#ent-person-benjamin-netanyahu-t-00-03-24)**
+> "...n his 50 year friendship with Bibi Netanyahu, their intense political support for on..."
+
+**[00:20:06](/episodes/ep-rupRLXmSndU.md#ent-person-benjamin-netanyahu-t-00-03-24)**
+> "... how close Mitt Romney was to Bibi Net and Yahoo."
+
+**[00:31:29](/episodes/ep-rupRLXmSndU.md#ent-person-benjamin-netanyahu-t-00-03-24)**
+> "Was Bibi helping his friend?"
+
+**[00:36:17](/episodes/ep-rupRLXmSndU.md#ent-person-benjamin-netanyahu-t-00-03-24)**
+> "And my sense was this is BB. this is bb hiding in provo but i'm like what who..."
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
+
+**[00:51:15](/episodes/ep-UYkXV9mYbT4.md#ent-person-benjamin-netanyahu-t-00-50-50)**
+> "...on said on stage, questioning Bibi Netanyahu, his network of people, the Epstein fil..."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (3 mentions)</summary>
+
+**[00:13:33](/episodes/ep-7ERqbYElOfs.md#ent-person-benjamin-netanyahu-t-00-13-17)**
+> "My friend Charlie Kirk stepped on the toes of Bibi (Benjamin Netanyahu) and the CIA's war for profit machine."
+
+**[00:24:47](/episodes/ep-7ERqbYElOfs.md#ent-person-benjamin-netanyahu-t-00-24-21)**
+> "...e Kirk)'s showdown with Bibi (Benjamin Netanyahu)."
+
+**[00:25:38](/episodes/ep-7ERqbYElOfs.md#ent-person-benjamin-netanyahu-t-00-25-03)**
+> "...boots on the ground for Bibi (Benjamin Netanyahu). But the IDF won't be joining."
 
 </details>
 
@@ -1355,9 +1484,34 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:19:26](/episodes/ep-I0OaY6Gryqk.md#t-00-19-26): “of people that will greet Bibi (Benjamin Netanyahu), who is a literal war criminal, wanted by the ICC in the White House.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:17:02](/episodes/ep-ZIH5-V6UPkg.md#t-00-17-02): “Bibi is your master. Maybe it's Miriam Adelson that lights the fire and Bibi that makes the shadows on the wall.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Formerly Worked For (1)</summary>
+
+- **[Boston Consulting Group](/entities/org-boston-consulting-group.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi Netanyahu, their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Friend Of (1)</summary>
+
+- **[Mitt Romney](/entities/person-mitt-romney.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:24](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “presented itself in the form of this lifelong friendship. Now, it would be difficult for me to overstate to you just how close Bibi Netanyahu is to Mitt Romney.”
 
 </details>
 
@@ -1409,7 +1563,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
-<summary>Met With (2)</summary>
+<summary>Met With (3)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (6)</summary>
@@ -1430,6 +1584,13 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 </details>
 
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:25:48](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-48): “Bibi Netanyahu, who was seated as an equal... Trump sat at the side of the table and Bibi was across from him as an equal in the American situation room.”
+
+</details>
+
 </details>
 
 <details>
@@ -1446,7 +1607,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
-<summary>Political Ally Of (1)</summary>
+<summary>Political Ally Of (2)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1455,10 +1616,17 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 </details>
 
+- **[Mitt Romney](/entities/person-mitt-romney.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi Netanyahu, their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (14)</summary>
+<summary>Referenced By (18)</summary>
 
 - **[Yair Netanyahu](/entities/person-yair-netanyahu.md)** child of this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -1484,9 +1652,10 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:19:26](/episodes/ep-I0OaY6Gryqk.md#t-00-19-26): “of people that will greet Bibi (Benjamin Netanyahu), who is a literal war criminal, wanted by the ICC in the White House.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:17:02](/episodes/ep-ZIH5-V6UPkg.md#t-00-17-02): “Bibi is your master. Maybe it's Miriam Adelson that lights the fire and Bibi that makes the shadows on the wall.”
 
 </details>
 
@@ -1501,6 +1670,20 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:54:23](/episodes/ep-9k2xrAC0H88.md#t-00-54-08): “They want me and Tucker. You don't want to be name checked with Bibi”
+
+</details>
+
+- **[Boston Consulting Group](/entities/org-boston-consulting-group.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi Netanyahu, their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
+
+</details>
+
+- **[Mitt Romney](/entities/person-mitt-romney.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:24](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “presented itself in the form of this lifelong friendship. Now, it would be difficult for me to overstate to you just how close Bibi Netanyahu is to Mitt Romney.”
 
 </details>
 
@@ -1561,10 +1744,24 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 </details>
 
+- **[Donald J. Trump](/entities/person-donald-trump.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:25:48](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-48): “Bibi Netanyahu, who was seated as an equal... Trump sat at the side of the table and Bibi was across from him as an equal in the American situation room.”
+
+</details>
+
 - **[Donald J. Trump](/entities/person-donald-trump.md)** political ally of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:52:46](/episodes/ep-I0OaY6Gryqk.md#t-00-52-46): “I checked that and I'm happy to see that but he wanted to make sure because you know you guys get along too well”
+
+</details>
+
+- **[Mitt Romney](/entities/person-mitt-romney.md)** political ally of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi Netanyahu, their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
 
 </details>
 
@@ -1643,7 +1840,43 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Benjamin Netanyahu (86)</strong></summary>
+<summary><strong class="section-title">Statements about Benjamin Netanyahu (93)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (2)</summary>
+
+- [00:17:02](/episodes/ep-ZIH5-V6UPkg.md#t-00-17-02) (Opinion) **Candace Owens**: ["Benjamin Netanyahu is Donald Trump's master."](/statements/statement-40f2603b502e.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:25:55](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-55) (Claim) **Candace Owens**: ["Donald Trump sat at the side of the table in the White House Situation..."](/statements/statement-a96ed1eeec64.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [White House](/entities/org-white-house.md)
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (4)</summary>
+
+- [00:01:34](/episodes/ep-rupRLXmSndU.md#t-00-01-34) (Claim) **Candace Owens** (via paraphrase): ["Charlie Kirk described his final call with Benjamin Netanyahu as an in..."](/statements/statement-cea35d129a59.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+
+- [00:01:42](/episodes/ep-rupRLXmSndU.md#t-00-01-34) (Claim) **Candace Owens** (via paraphrase): ["Benjamin Netanyahu offered to take Turning Point USA to the next level..."](/statements/statement-d5e1913333f1.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24) (Claim) **Candace Owens**: ["Benjamin Netanyahu and Mitt Romney have been close friends since they ..."](/statements/statement-487487ee59d1.md)
+  - Also about: [Mitt Romney](/entities/person-mitt-romney.md), [Boston Consulting Group](/entities/org-boston-consulting-group.md)
+
+- [00:36:17](/episodes/ep-rupRLXmSndU.md#t-00-36-17) (Opinion) **Candace Owens**: ["Candace Owens said she was not claiming Benjamin Netanyahu was aboard ..."](/statements/statement-f1817735b17d.md)
+  - Also about: [Egypt](/entities/gpe-egypt.md), [Provo](/entities/gpe-provo.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1)</summary>
+
+- [00:25:34](/episodes/ep-7ERqbYElOfs.md#t-00-25-03) (Claim) **Candace Owens**: ["Donald Trump was sending U.S. Marines into Iran for Benjamin Netanyahu..."](/statements/statement-a668190d0262.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md)
+
+</details>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (5)</summary>

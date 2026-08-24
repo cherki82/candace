@@ -1,6 +1,6 @@
 ---
 title: "New York City"
-description: "New York City (Places) - 35 mentions"
+description: "New York City (Places) - 37 mentions"
 id: "gpe-new-york-city"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [City of New York](https://www.nyc.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-gpe-new-york-city-t-00-02-10">2025-09-22 · 00:02:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-city-t-00-12-20">2026-03-18 · 00:12:20</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-new-york-city-t-00-26-46">2026-04-02 · 00:26:46</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>37</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -51,6 +51,7 @@ Source: [City of New York](https://www.nyc.gov/)
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-city-t-00-07-55" style="--pulse-height:100%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 5 mentions" title="2026-03-11 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-new-york-city-t-00-03-00" style="--pulse-height:60%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-city-t-00-09-18" style="--pulse-height:60%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-new-york-city-t-00-26-46" style="--pulse-height:20%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -72,6 +73,7 @@ Source: [City of New York](https://www.nyc.gov/)
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-city-t-00-07-55) | 5 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-new-york-city-t-00-03-00) | 3 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-city-t-00-09-18) | 3 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-new-york-city-t-00-26-46) | 1 |
 
 </details>
 </section>
@@ -79,7 +81,15 @@ Source: [City of New York](https://www.nyc.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:26:46](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-new-york-city-t-00-26-46)**
+> "...ntially plucked me out of the New York City orbit and was like I have a healthier way of view..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (3 mentions)</summary>

@@ -1,29 +1,39 @@
 ---
 title: "Andrew Zenger"
-description: "Andrew Zenger (People) - 3 mentions"
+description: "Andrew Zenger (People) - 11 mentions"
 id: "person-andrew-zenger"
 type: "PERSON"
+categories:
+  - "healthcare executive"
+  - "hospital administration"
 ---
 
 _Type: People_
 
+**Categories:** healthcare executive, hospital administration
+
+**Entity verification:** verified
+> Canonical name and executive role verified against the hospital system's official appointment announcement.
+Source: [Andrew Zenger named CEO of Timpanogos Regional Hospital](https://www.mountainstar.com/about-us/newsroom/andrew-zenger-named-ceo-of-timpanogos-regional-hospital)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-andrew-zenger-t-00-30-44">2025-09-30 · 00:30:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-andrew-zenger-t-00-05-34">2025-10-01 · 00:05:34</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-person-andrew-zenger-t-00-47-40">2026-04-01 · 00:48:06</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-andrew-zenger-t-00-30-44">DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-rupRLXmSndU.md#ent-person-andrew-zenger-t-00-23-58">Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-andrew-zenger-t-00-30-44" style="--pulse-height:100%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 2 mentions" title="2025-09-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-andrew-zenger-t-00-05-34" style="--pulse-height:50%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-andrew-zenger-t-00-30-44" style="--pulse-height:25%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 2 mentions" title="2025-09-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-andrew-zenger-t-00-05-34" style="--pulse-height:12%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-person-andrew-zenger-t-00-23-58" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 8 mentions" title="2026-04-01 · 8 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -31,6 +41,7 @@ _Type: People_
 |---|---|---:|
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-person-andrew-zenger-t-00-30-44) | 2 |
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-andrew-zenger-t-00-05-34) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-andrew-zenger-t-00-23-58) | 8 |
 
 </details>
 </section>
@@ -38,7 +49,36 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (8 mentions)</summary>
+
+**[00:24:16](/episodes/ep-rupRLXmSndU.md#ent-person-andrew-zenger-t-00-23-58)**
+> "Just like I said, ahead of September 10th. Now, of course, Andrew Zenger, just like Karashi and Harris."
+
+**[00:23:30](/episodes/ep-rupRLXmSndU.md#ent-person-andrew-zenger-t-00-23-21)**
+> "...os don't think i forgot about andrew zenger remember he was appointed the ceo of timpanogos j..."
+
+**[00:25:01](/episodes/ep-rupRLXmSndU.md#ent-person-andrew-zenger-t-00-25-01)**
+> "Which is exactly where Andrew Zenger attended school. He lived in Jerusalem, and I'm n..."
+
+**[00:25:56](/episodes/ep-rupRLXmSndU.md#ent-person-andrew-zenger-t-00-25-43)**
+> "Andrew Zenger was out there and he was out there, I should ment..."
+
+**[00:27:00](/episodes/ep-rupRLXmSndU.md#ent-person-andrew-zenger-t-00-26-20)**
+> "The question is, was Andrew Zenger recruited?"
+
+**[00:27:27](/episodes/ep-rupRLXmSndU.md#ent-person-andrew-zenger-t-00-27-04)**
+> "...l this guy's name up, who was Andrew Zenger's roommate who went on to work for the CIA."
+
+**[00:31:15](/episodes/ep-rupRLXmSndU.md#ent-person-andrew-zenger-t-00-30-59)**
+> "...ng on. This is like 2011 when Andrew Zenger's there and you've got advisors and all these peopl..."
+
+**[00:48:06](/episodes/ep-rupRLXmSndU.md#ent-person-andrew-zenger-t-00-47-40)**
+> "And that was happening when Andrew Zenger was over there. So it is a fair question to ask i..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
@@ -68,23 +108,96 @@ _Type: People_
 <summary>Ceo Of (1)</summary>
 
 - **[Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:31:05](/episodes/ep-YA1FxrDWNIo.md#t-00-30-44): “brand-new CEO and head surgeon named Andrew Zenger”
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:30](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “the hospital that Charlie was taken to... had just announced that they had a brand-new CEO and head surgeon named Andrew Zenger”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:23:30](/episodes/ep-rupRLXmSndU.md#t-00-23-21): “our brand spanking new ceo of timpanogos don't think i forgot about andrew zenger remember he was appointed the ceo of timpanogos just ahead of charlie's assassination”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Attended (2)</summary>
+
+- **[BYU](/entities/org-byu.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:24:16](/episodes/ep-rupRLXmSndU.md#t-00-23-58): “Just like I said, ahead of September 10th. Now, of course, Andrew Zenger, just like Karashi and Harris. Henderson and our Gina Romney, he attended BYU.”
+
+</details>
+
+- **[Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:25:01](/episodes/ep-rupRLXmSndU.md#t-00-24-36): “Which is exactly where Andrew Zenger attended school. He lived in Jerusalem, and I'm now going to tell you that BYU, the Jerusalem Center, this person told me, is where the elite of the Mormon culture, the cream of the pie, they get introduced to one another.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Formerly Worked For (1)</summary>
+
+- **[Medical City McKinney](/entities/org-medical-city-mckinney.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:23:58](/episodes/ep-rupRLXmSndU.md#t-00-23-21): “he was down in Texas. He'd previously been working down in McKinney, Texas as the COO of Medical City, which is north of Dallas.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Roommate Of (1)</summary>
+
+- **[Michael Sean Covey](/entities/person-michael-sean-covey.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:27:04](/episodes/ep-rupRLXmSndU.md#t-00-26-20): “I am telling you that his roommates were he's got a roommate who did contract work, went on to do contract work for the CIA as well. For the CIA's Department of Education, I didn't even know the CIA had a Department of Education. I actually want to find that person's name to see you understand I have this as an absolute fact. What was this guy's name? They always switch it with his grandfather. I want to make sure, pull this guy's name up, who was Andrew Zenger's roommate who went on to work for the CIA. Yes, Michael Sean Covey.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (5)</summary>
+
+- **[BYU](/entities/org-byu.md)** attended by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:24:16](/episodes/ep-rupRLXmSndU.md#t-00-23-58): “Just like I said, ahead of September 10th. Now, of course, Andrew Zenger, just like Karashi and Harris. Henderson and our Gina Romney, he attended BYU.”
+
+</details>
+
+- **[Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md)** attended by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:25:01](/episodes/ep-rupRLXmSndU.md#t-00-24-36): “Which is exactly where Andrew Zenger attended school. He lived in Jerusalem, and I'm now going to tell you that BYU, the Jerusalem Center, this person told me, is where the elite of the Mormon culture, the cream of the pie, they get introduced to one another.”
+
+</details>
+
+- **[Medical City McKinney](/entities/org-medical-city-mckinney.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:23:58](/episodes/ep-rupRLXmSndU.md#t-00-23-21): “he was down in Texas. He'd previously been working down in McKinney, Texas as the COO of Medical City, which is north of Dallas.”
+
+</details>
 
 - **[Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)** has CEO this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:31:05](/episodes/ep-YA1FxrDWNIo.md#t-00-30-44): “brand-new CEO and head surgeon named Andrew Zenger”
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:30](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “the hospital that Charlie was taken to... had just announced that they had a brand-new CEO and head surgeon named Andrew Zenger”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:23:30](/episodes/ep-rupRLXmSndU.md#t-00-23-21): “our brand spanking new ceo of timpanogos don't think i forgot about andrew zenger remember he was appointed the ceo of timpanogos just ahead of charlie's assassination”
+
+</details>
+
+- **[Michael Sean Covey](/entities/person-michael-sean-covey.md)** roommate of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:27:04](/episodes/ep-rupRLXmSndU.md#t-00-26-20): “I am telling you that his roommates were he's got a roommate who did contract work, went on to do contract work for the CIA as well. For the CIA's Department of Education, I didn't even know the CIA had a Department of Education. I actually want to find that person's name to see you understand I have this as an absolute fact. What was this guy's name? They always switch it with his grandfather. I want to make sure, pull this guy's name up, who was Andrew Zenger's roommate who went on to work for the CIA. Yes, Michael Sean Covey.”
 
 </details>
 
@@ -93,7 +206,18 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Zenger (1)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Zenger (3)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2)</summary>
+
+- [00:23:30](/episodes/ep-rupRLXmSndU.md#t-00-23-21) (Claim) **Candace Owens**: ["Andrew Zenger was appointed CEO of Timpanogos Regional Hospital on Aug..."](/statements/statement-a9204a5bd0b6.md)
+  - Also about: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Medical City McKinney](/entities/org-medical-city-mckinney.md), [McKinney, Texas](/entities/gpe-mckinney-texas.md)
+
+- [00:27:04](/episodes/ep-rupRLXmSndU.md#t-00-27-04) (Claim) **Candace Owens**: ["Michael Sean Covey, who roomed with Andrew Zenger in Jerusalem, later ..."](/statements/statement-aa6071978dd3.md)
+  - Also about: [Michael Sean Covey](/entities/person-michael-sean-covey.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Jerusalem](/entities/gpe-jerusalem.md)
+
+</details>
 
 <details>
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1)</summary>

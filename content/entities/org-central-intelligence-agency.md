@@ -1,6 +1,6 @@
 ---
 title: "Central Intelligence Agency"
-description: "Central Intelligence Agency (Organizations) - 126 mentions"
+description: "Central Intelligence Agency (Organizations) - 147 mentions"
 id: "org-central-intelligence-agency"
 type: "ORG"
 aliases:
@@ -24,62 +24,66 @@ Source: [About CIA](https://www.cia.gov/about/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-central-intelligence-agency-t-01-11-09">2025-09-16 · 01:11:17</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25">2026-08-14 · 00:37:25</a></strong></div>
-<div><span>Episodes</span><strong>45</strong></div>
-<div><span>Mentions</span><strong>126</strong></div>
+<div><span>Episodes</span><strong>49</strong></div>
+<div><span>Mentions</span><strong>147</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>44</strong></div>
-<div><span>Relationships</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>50</strong></div>
+<div><span>Relationships</span><strong>13</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ja26iltROkM.md#ent-org-central-intelligence-agency-t-00-23-16">Erika Kirk Forgives. The Feds Forget... | Candace Ep 240</a> (13 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-rupRLXmSndU.md#ent-org-central-intelligence-agency-t-00-10-59">Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320</a> (17 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-q7f8r-THr84.md#ent-org-central-intelligence-agency-t-01-11-09" style="--pulse-height:8%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sreYYcID-QY.md#ent-org-central-intelligence-agency-t-00-11-44" style="--pulse-height:15%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 2 mentions" title="2025-09-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-central-intelligence-agency-t-00-16-10" style="--pulse-height:31%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 4 mentions" title="2025-09-19 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-ja26iltROkM.md#ent-org-central-intelligence-agency-t-00-23-16" style="--pulse-height:100%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 13 mentions" title="2025-09-22 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-org-central-intelligence-agency-t-00-11-44" style="--pulse-height:12%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 2 mentions" title="2025-09-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-central-intelligence-agency-t-00-16-10" style="--pulse-height:24%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 4 mentions" title="2025-09-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-org-central-intelligence-agency-t-00-23-16" style="--pulse-height:76%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 13 mentions" title="2025-09-22 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-central-intelligence-agency-t-00-46-51" style="--pulse-height:8%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-org-central-intelligence-agency-t-00-20-14" style="--pulse-height:8%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-central-intelligence-agency-t-00-29-07" style="--pulse-height:15%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-central-intelligence-agency-t-00-29-07" style="--pulse-height:12%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-org-central-intelligence-agency-t-00-44-43" style="--pulse-height:8%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-org-central-intelligence-agency-t-01-03-16" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-central-intelligence-agency-t-01-15-04" style="--pulse-height:23%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 3 mentions" title="2025-10-08 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-central-intelligence-agency-t-00-51-24" style="--pulse-height:15%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 2 mentions" title="2025-10-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-central-intelligence-agency-t-01-15-04" style="--pulse-height:18%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 3 mentions" title="2025-10-08 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-central-intelligence-agency-t-00-51-24" style="--pulse-height:12%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 2 mentions" title="2025-10-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-central-intelligence-agency-t-00-10-09" style="--pulse-height:8%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-central-intelligence-agency-t-00-28-43" style="--pulse-height:15%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 2 mentions" title="2025-11-13 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-central-intelligence-agency-t-00-14-40" style="--pulse-height:31%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 4 mentions" title="2025-11-15 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-central-intelligence-agency-t-00-28-43" style="--pulse-height:12%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 2 mentions" title="2025-11-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-central-intelligence-agency-t-00-14-40" style="--pulse-height:24%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 4 mentions" title="2025-11-15 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-central-intelligence-agency-t-00-00-00" style="--pulse-height:8%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sImMM04XdWY.md#ent-org-central-intelligence-agency-t-00-04-12" style="--pulse-height:8%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-central-intelligence-agency-t-00-13-15" style="--pulse-height:15%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-central-intelligence-agency-t-00-13-15" style="--pulse-height:12%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-central-intelligence-agency-t-00-57-57" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-his-JBjlkh8.md#ent-org-central-intelligence-agency-t-00-11-15" style="--pulse-height:23%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-org-central-intelligence-agency-t-00-11-15" style="--pulse-height:18%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-org-central-intelligence-agency-t-00-16-48" style="--pulse-height:8%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-central-intelligence-agency-t-00-23-05" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-central-intelligence-agency-t-00-05-54" style="--pulse-height:31%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 4 mentions" title="2025-12-09 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-central-intelligence-agency-t-00-26-00" style="--pulse-height:38%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 5 mentions" title="2025-12-10 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-central-intelligence-agency-t-00-32-10" style="--pulse-height:15%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-central-intelligence-agency-t-00-35-51" style="--pulse-height:54%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 7 mentions" title="2026-01-05 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-central-intelligence-agency-t-00-48-07" style="--pulse-height:38%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 5 mentions" title="2026-01-09 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-central-intelligence-agency-t-00-10-58" style="--pulse-height:54%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 7 mentions" title="2026-01-12 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-central-intelligence-agency-t-00-05-54" style="--pulse-height:24%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 4 mentions" title="2025-12-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-central-intelligence-agency-t-00-26-00" style="--pulse-height:29%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 5 mentions" title="2025-12-10 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-central-intelligence-agency-t-00-32-10" style="--pulse-height:12%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-central-intelligence-agency-t-00-35-51" style="--pulse-height:41%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 7 mentions" title="2026-01-05 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-central-intelligence-agency-t-00-48-07" style="--pulse-height:29%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 5 mentions" title="2026-01-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-central-intelligence-agency-t-00-10-58" style="--pulse-height:41%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 7 mentions" title="2026-01-12 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-central-intelligence-agency-t-00-13-05" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-central-intelligence-agency-t-00-01-59" style="--pulse-height:69%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 9 mentions" title="2026-01-14 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-central-intelligence-agency-t-00-01-59" style="--pulse-height:53%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 9 mentions" title="2026-01-14 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-central-intelligence-agency-t-00-32-03" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-org-central-intelligence-agency-t-00-04-29" style="--pulse-height:15%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-central-intelligence-agency-t-00-03-23" style="--pulse-height:15%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-A39g5oqB_eM.md#ent-org-central-intelligence-agency-t-00-36-32" style="--pulse-height:15%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 2 mentions" title="2026-01-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-central-intelligence-agency-t-00-22-52" style="--pulse-height:23%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-Wjul6YV6izo.md#ent-org-central-intelligence-agency-t-00-50-31" style="--pulse-height:15%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 2 mentions" title="2026-01-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-central-intelligence-agency-t-00-17-50" style="--pulse-height:15%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-central-intelligence-agency-t-00-13-33" style="--pulse-height:15%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-central-intelligence-agency-t-00-18-19" style="--pulse-height:15%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-central-intelligence-agency-t-00-31-13" style="--pulse-height:15%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-k8ueJdPFel4.md#ent-org-central-intelligence-agency-t-00-01-03" style="--pulse-height:31%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 4 mentions" title="2026-03-17 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-central-intelligence-agency-t-00-13-49" style="--pulse-height:31%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 4 mentions" title="2026-03-18 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-central-intelligence-agency-t-00-42-44" style="--pulse-height:31%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 4 mentions" title="2026-03-23 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-central-intelligence-agency-t-00-04-29" style="--pulse-height:12%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-central-intelligence-agency-t-00-03-23" style="--pulse-height:12%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-org-central-intelligence-agency-t-00-36-32" style="--pulse-height:12%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 2 mentions" title="2026-01-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-central-intelligence-agency-t-00-22-52" style="--pulse-height:18%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-org-central-intelligence-agency-t-00-50-31" style="--pulse-height:12%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 2 mentions" title="2026-01-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-central-intelligence-agency-t-00-17-50" style="--pulse-height:12%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-central-intelligence-agency-t-00-13-33" style="--pulse-height:12%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-central-intelligence-agency-t-00-18-19" style="--pulse-height:12%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-central-intelligence-agency-t-00-31-13" style="--pulse-height:12%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-org-central-intelligence-agency-t-00-01-03" style="--pulse-height:24%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 4 mentions" title="2026-03-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-central-intelligence-agency-t-00-13-49" style="--pulse-height:24%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 4 mentions" title="2026-03-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-central-intelligence-agency-t-00-42-44" style="--pulse-height:24%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 4 mentions" title="2026-03-23 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-central-intelligence-agency-t-00-15-12" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-central-intelligence-agency-t-00-20-48" style="--pulse-height:23%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 3 mentions" title="2026-03-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-central-intelligence-agency-t-00-20-48" style="--pulse-height:18%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 3 mentions" title="2026-03-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-central-intelligence-agency-t-00-13-17" style="--pulse-height:8%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-central-intelligence-agency-t-01-03-14" style="--pulse-height:8%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-central-intelligence-agency-t-00-10-59" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 17 mentions" title="2026-04-01 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-central-intelligence-agency-t-00-13-33" style="--pulse-height:12%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -130,6 +134,10 @@ Source: [About CIA](https://www.cia.gov/about/)
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-central-intelligence-agency-t-00-42-44) | 4 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-central-intelligence-agency-t-00-15-12) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-central-intelligence-agency-t-00-20-48) | 3 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-central-intelligence-agency-t-00-13-17) | 1 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-org-central-intelligence-agency-t-01-03-14) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-central-intelligence-agency-t-00-10-59) | 17 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-central-intelligence-agency-t-00-13-33) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25) | 1 |
 
 </details>
@@ -138,13 +146,96 @@ Source: [About CIA](https://www.cia.gov/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (126)</strong></summary>
+<summary><strong class="section-title">Raw mentions (147)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:37:25](/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25)**
 > "...ntire term was created by the CIA to gaslight people after the assassination of JFK..."
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (2 mentions)</summary>
+
+**[00:13:33](/episodes/ep-q1NRQQAYS_Q.md#ent-org-central-intelligence-agency-t-00-13-33)**
+> "CIA"
+
+**[01:01:31](/episodes/ep-q1NRQQAYS_Q.md#ent-org-central-intelligence-agency-t-01-00-56)**
+> "...earing a sweatshirt that says CIA? Why wouldn't you be drinking out of a mug that s..."
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (17 mentions)</summary>
+
+**[00:10:59](/episodes/ep-rupRLXmSndU.md#ent-org-central-intelligence-agency-t-00-10-59)**
+> "The CIA ran that operation out of Texas. Anyway, what does Built Incorporated do? That's interesting, right? It tells us that the award-winning built app provides 3D interactive and XRE immersive intelligent instructions that are voice and text guided."
+
+**[00:20:35](/episodes/ep-rupRLXmSndU.md#ent-org-central-intelligence-agency-t-00-20-35)**
+> "...We're going to talk about the CIA and what they have to do with that Utah Universit..."
+
+**[00:24:36](/episodes/ep-rupRLXmSndU.md#ent-org-central-intelligence-agency-t-00-24-36)**
+> "...k. BYU has direct ties to the CIA."
+
+**[00:25:26](/episodes/ep-rupRLXmSndU.md#ent-org-central-intelligence-agency-t-00-25-01)**
+> "...am is Israeli to work for the CIA."
+
+**[00:25:43](/episodes/ep-rupRLXmSndU.md#ent-org-central-intelligence-agency-t-00-25-43)**
+> "...ng approached to work for the CIA in Jerusalem by Israelis?"
+
+**[00:26:30](/episodes/ep-rupRLXmSndU.md#ent-org-central-intelligence-agency-t-00-26-20)**
+> "...me is of the company that the CIA uses to bring some of this youth talent on board."
+
+**[00:26:39](/episodes/ep-rupRLXmSndU.md#ent-org-central-intelligence-agency-t-00-26-20)**
+> "...em on the path to joining the CIA."
+
+**[00:27:04](/episodes/ep-rupRLXmSndU.md#ent-org-central-intelligence-agency-t-00-27-04)**
+> "...n to do contract work for the CIA as well."
+
+**[00:27:16](/episodes/ep-rupRLXmSndU.md#ent-org-central-intelligence-agency-t-00-27-04)**
+> "For the CIA's Department of Education, I didn't even know the..."
+
+**[00:27:27](/episodes/ep-rupRLXmSndU.md#ent-org-central-intelligence-agency-t-00-27-04)**
+> "...e who went on to work for the CIA."
+
+**[00:27:41](/episodes/ep-rupRLXmSndU.md#ent-org-central-intelligence-agency-t-00-27-04)**
+> "...t yeah, he contracts with the CIA. It's very interesting."
+
+**[00:27:57](/episodes/ep-rupRLXmSndU.md#ent-org-central-intelligence-agency-t-00-27-50)**
+> "...to work contractually for the CIA."
+
+**[00:30:44](/episodes/ep-rupRLXmSndU.md#ent-org-central-intelligence-agency-t-00-30-18)**
+> "... I have learned about how the CIA is paying these people, how they are approaching ..."
+
+**[00:42:23](/episodes/ep-rupRLXmSndU.md#ent-org-central-intelligence-agency-t-00-41-46)**
+> "..., I want to tell you guys the CIA tumblers. I forgot who commented that a few shows..."
+
+**[00:47:30](/episodes/ep-rupRLXmSndU.md#ent-org-central-intelligence-agency-t-00-46-56)**
+> "...one who goes to BYU is in the CIA."
+
+**[00:47:56](/episodes/ep-rupRLXmSndU.md#ent-org-central-intelligence-agency-t-00-47-40)**
+> "...ch them about working for the CIA. And that can be in Hollywood, in movies, that ca..."
+
+**[00:48:06](/episodes/ep-rupRLXmSndU.md#ent-org-central-intelligence-agency-t-00-47-40)**
+> "...pacity or has worked with the CIA doing contract work for them."
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
+
+**[01:03:40](/episodes/ep-UYkXV9mYbT4.md#ent-org-central-intelligence-agency-t-01-03-14)**
+> "...row, I won't forget about the CIA restock of the Stannis Cups. I got to get that co..."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1 mentions)</summary>
+
+**[00:13:33](/episodes/ep-7ERqbYElOfs.md#ent-org-central-intelligence-agency-t-00-13-17)**
+> "My friend Charlie Kirk stepped on the toes of Bibi (Benjamin Netanyahu) and the CIA's war for profit machine."
 
 </details>
 
@@ -746,6 +837,25 @@ Source: [About CIA](https://www.cia.gov/about/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Affiliated With (2)</summary>
+
+- **[BYU](/entities/org-byu.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:24:36](/episodes/ep-rupRLXmSndU.md#t-00-24-36): “Again, I am not saying allegedly here. So you can take this to the bank. BYU has direct ties to the CIA. They recruit directly from BYU.”
+
+</details>
+
+- **[Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:24:45](/episodes/ep-rupRLXmSndU.md#t-00-24-36): “They recruit directly from BYU. And I am saying this with 100% certainty, it is not a conspiracy, and what is even more odd is that they recruit specifically from BYU Jerusalem in Israel.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized By (1)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
@@ -758,12 +868,19 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details>
-<summary>Employs (1)</summary>
+<summary>Employs (2)</summary>
 
 - **[Liz Lyon](/entities/person-liz-lyon.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:10:34](/episodes/ep-YaZfwLQ7vrI.md#t-00-10-09): “A CIA spokeswoman, Liz Lyon”
+
+</details>
+
+- **[Michael Sean Covey](/entities/person-michael-sean-covey.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:27:41](/episodes/ep-rupRLXmSndU.md#t-00-27-04): “Yes, Michael Sean Covey. That is correct. Sorry, Michael, to put you on blast, but yeah, he contracts with the CIA.”
 
 </details>
 
@@ -794,7 +911,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Project Looking Glass](/entities/concept-project-looking-glass.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -831,12 +948,41 @@ Source: [About CIA](https://www.cia.gov/about/)
 
 </details>
 
+- **[Michael Sean Covey](/entities/person-michael-sean-covey.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:27:41](/episodes/ep-rupRLXmSndU.md#t-00-27-04): “Yes, Michael Sean Covey. That is correct. Sorry, Michael, to put you on blast, but yeah, he contracts with the CIA.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Central Intelligence Agency (44)</strong></summary>
+<summary><strong class="section-title">Statements about Central Intelligence Agency (50)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (6)</summary>
+
+- [00:24:16](/episodes/ep-rupRLXmSndU.md#t-00-23-58) (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)** (via read message): ["The CIA recruits directly from BYU and specifically from BYU's Jerusal..."](/statements/statement-862b7ba82e4c.md)
+  - Also about: [BYU](/entities/org-byu.md), [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md), [Jerusalem](/entities/gpe-jerusalem.md)
+
+- [00:25:01](/episodes/ep-rupRLXmSndU.md#t-00-25-01) (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)** (via read message): ["Elite Mormon students at BYU's Jerusalem Center are introduced to one ..."](/statements/statement-ddfdb9405887.md)
+  - Also about: [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md), [Knesset](/entities/org-knesset.md), [Mormonism](/entities/concept-mormonism.md)
+
+- [00:26:30](/episodes/ep-rupRLXmSndU.md#t-00-26-20) (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)** (via read message): ["The CIA uses a company called Metro One Talent to interview young recr..."](/statements/statement-6a06b35888db.md)
+
+- [00:27:04](/episodes/ep-rupRLXmSndU.md#t-00-27-04) (Claim) **Candace Owens**: ["Michael Sean Covey, who roomed with Andrew Zenger in Jerusalem, later ..."](/statements/statement-aa6071978dd3.md)
+  - Also about: [Michael Sean Covey](/entities/person-michael-sean-covey.md), [Andrew Zenger](/entities/person-andrew-zenger.md), [Jerusalem](/entities/gpe-jerusalem.md)
+
+- [00:47:40](/episodes/ep-rupRLXmSndU.md#t-00-47-40) (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)** (via read message): ["The CIA approaches selected students at BYU's Hawaii and Jerusalem cam..."](/statements/statement-55fc338c7349.md)
+  - Also about: [BYU](/entities/org-byu.md), [Hawaii](/entities/gpe-hawaii.md), [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md)
+
+- [00:48:20](/episodes/ep-rupRLXmSndU.md#t-00-48-20) (Opinion) **Candace Owens**: ["The CIA apparatus was being used to socially engineer support for Isra..."](/statements/statement-252982585ec2.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1)</summary>

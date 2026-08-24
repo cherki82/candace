@@ -1,6 +1,6 @@
 ---
 title: "Baal"
-description: "Baal (Concepts) - 17 mentions"
+description: "Baal (Concepts) - 18 mentions"
 id: "concept-baal"
 type: "CONCEPT"
 categories:
@@ -17,11 +17,11 @@ Source: [Encyclopaedia Britannica: Baal](https://www.britannica.com/topic/Baal-a
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-baal-t-01-39-19">2026-01-29 · 01:39:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-baal-t-00-52-31">2026-03-17 · 00:52:45</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-concept-baal-t-00-04-41">2026-03-30 · 00:04:47</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -37,6 +37,7 @@ Source: [Encyclopaedia Britannica: Baal](https://www.britannica.com/topic/Baal-a
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-concept-baal-t-00-57-26" style="--pulse-height:17%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-baal-t-00-14-24" style="--pulse-height:33%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-baal-t-00-52-31" style="--pulse-height:17%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-concept-baal-t-00-04-41" style="--pulse-height:17%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +50,7 @@ Source: [Encyclopaedia Britannica: Baal](https://www.britannica.com/topic/Baal-a
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-concept-baal-t-00-57-26) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-concept-baal-t-00-14-24) | 2 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-concept-baal-t-00-52-31) | 1 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-concept-baal-t-00-04-41) | 1 |
 
 </details>
 </section>
@@ -56,7 +58,15 @@ Source: [Encyclopaedia Britannica: Baal](https://www.britannica.com/topic/Baal-a
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1 mentions)</summary>
+
+**[00:04:47](/episodes/ep-7ERqbYElOfs.md#ent-concept-baal-t-00-04-41)**
+> "But the Scottish Rite Freemasonry actually originated in France, okay? It was after Jacques de Molay, we would say Jack de Molay, was hung or burned at the stake because the French king was looking at what the Knights Templar were doing and the pope had dissolved the Freemason group because they were accused of worshiping Baal. Baal worship,"
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
@@ -150,5 +160,18 @@ Source: [Encyclopaedia Britannica: Baal](https://www.britannica.com/topic/Baal-a
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Baal (1)</strong></summary>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1)</summary>
+
+- [00:04:47](/episodes/ep-7ERqbYElOfs.md#t-00-04-41) (Claim) **Candace Owens**: ["Scottish Rite Freemasonry originated in France after the Knights Templ..."](/statements/statement-7bde537e92c5.md)
+  - Also about: [Scottish Rite Freemasonry](/entities/concept-scottish-rite-freemasonry.md), [France](/entities/gpe-france.md), [Knights Templar](/entities/org-knights-templar.md)
+
+</details>
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Utah Valley University"
-description: "Utah Valley University (Organizations) - 164 mentions"
+description: "Utah Valley University (Organizations) - 173 mentions"
 id: "org-utah-valley-university"
 type: "ORG"
 aliases:
@@ -28,10 +28,10 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-utah-valley-university-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-utah-valley-university-t-02-01-40">2026-08-14 · 02:02:13</a></strong></div>
-<div><span>Episodes</span><strong>46</strong></div>
-<div><span>Mentions</span><strong>164</strong></div>
+<div><span>Episodes</span><strong>49</strong></div>
+<div><span>Mentions</span><strong>173</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -85,6 +85,9 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-utah-valley-university-t-00-44-39" style="--pulse-height:44%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 4 mentions" title="2026-02-25 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-utah-valley-university-t-00-54-22" style="--pulse-height:11%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-utah-valley-university-t-00-10-20" style="--pulse-height:22%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-utah-valley-university-t-00-02-41" style="--pulse-height:33%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-utah-valley-university-t-00-56-25" style="--pulse-height:11%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-utah-valley-university-t-00-14-40" style="--pulse-height:44%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 4 mentions" title="2026-04-01 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-utah-valley-university-t-01-08-52" style="--pulse-height:22%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -136,6 +139,9 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-utah-valley-university-t-00-44-39) | 4 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-utah-valley-university-t-00-54-22) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-utah-valley-university-t-00-10-20) | 2 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-utah-valley-university-t-00-02-41) | 3 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-org-utah-valley-university-t-00-56-25) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-utah-valley-university-t-00-14-40) | 4 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-utah-valley-university-t-01-08-52) | 2 |
 
 </details>
@@ -144,7 +150,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (164)</strong></summary>
+<summary><strong class="section-title">Raw mentions (173)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -154,6 +160,45 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 **[02:02:13](/episodes/ep-nPhCKwJ6ye8.md#ent-org-utah-valley-university-t-02-01-40)**
 > "UVU's washed their hands of it. And what he's saying ..."
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (4 mentions)</summary>
+
+**[00:14:57](/episodes/ep-rupRLXmSndU.md#ent-org-utah-valley-university-t-00-14-40)**
+> "I'll tell you what, I'll be really suspicious if these contracts were in the planning phases of the Charlie Kirk event at Utah Valley University."
+
+**[00:06:20](/episodes/ep-rupRLXmSndU.md#ent-org-utah-valley-university-t-00-07-03)**
+> "She went to Utah Valley Hospital and she sent her colleague over to Timpa..."
+
+**[00:07:29](/episodes/ep-rupRLXmSndU.md#ent-org-utah-valley-university-t-00-07-03)**
+> "...He would later tell people at Utah Valley where he was being treated that he was paid to do..."
+
+**[00:15:06](/episodes/ep-rupRLXmSndU.md#ent-org-utah-valley-university-t-00-14-40)**
+> "...uspicious because we said the Utah Valley University event was probably beginning to be planned around..."
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
+
+**[00:56:25](/episodes/ep-UYkXV9mYbT4.md#ent-org-utah-valley-university-t-00-56-25)**
+> "... evidence that Charlie was at Utah Valley initially and then at some point got transported."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (3 mentions)</summary>
+
+**[00:02:41](/episodes/ep-7ERqbYElOfs.md#ent-org-utah-valley-university-t-00-02-41)**
+> "Charlie Kirk was assassinated at UVU in the afternoon. About a 33-hour manhunt ensued."
+
+**[00:19:27](/episodes/ep-7ERqbYElOfs.md#ent-org-utah-valley-university-t-00-19-03)**
+> "...ho just recently went back to UVU and he was very snippy with the audience."
+
+**[00:40:45](/episodes/ep-7ERqbYElOfs.md#ent-org-utah-valley-university-t-00-40-25)**
+> "...and on-scene investigators at Utah Valley University. This information was also conveyed to the FBI."
 
 </details>
 
@@ -971,13 +1016,21 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah Valley University (14)</strong></summary>
+<summary><strong class="section-title">Statements about Utah Valley University (15)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
 
 - [01:58:01](/episodes/ep-nPhCKwJ6ye8.md#t-01-58-01) (Claim) **Candace Owens** (via paraphrase): ["An unnamed source told Candace Owens that Tyler Robinson did not set f..."](/statements/statement-82eb250891a7.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1)</summary>
+
+- [00:40:29](/episodes/ep-7ERqbYElOfs.md#t-00-40-25) (Claim) **Spencer Cox** (via quoted speech): ["A Tyler Robinson family member told a family friend that Robinson had ..."](/statements/statement-15993351894a.md)
+  - Also about: [Spencer Cox](/entities/person-spencer-cox.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md)
 
 </details>
 

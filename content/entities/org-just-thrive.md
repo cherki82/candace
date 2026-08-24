@@ -1,6 +1,6 @@
 ---
 title: "Just Thrive"
-description: "Just Thrive (Organizations) - 34 mentions"
+description: "Just Thrive (Organizations) - 37 mentions"
 id: "org-just-thrive"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Our Story – Just Thrive](https://justthrivehealth.com/pages/our-story
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-just-thrive-t-00-34-41">2025-09-15 · 00:34:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-org-just-thrive-t-00-46-52">2026-03-03 · 00:46:52</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>34</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-just-thrive-t-00-30-55">2026-04-02 · 00:31:27</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>37</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -41,6 +41,7 @@ Source: [Our Story – Just Thrive](https://justthrivehealth.com/pages/our-story
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-just-thrive-t-00-27-29" style="--pulse-height:71%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 5 mentions" title="2026-01-05 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-just-thrive-t-00-19-40" style="--pulse-height:86%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 6 mentions" title="2026-02-04 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-org-just-thrive-t-00-46-09" style="--pulse-height:71%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 5 mentions" title="2026-03-03 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-just-thrive-t-00-30-15" style="--pulse-height:43%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 3 mentions" title="2026-04-02 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [Our Story – Just Thrive](https://justthrivehealth.com/pages/our-story
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-just-thrive-t-00-27-29) | 5 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-org-just-thrive-t-00-19-40) | 6 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-just-thrive-t-00-46-09) | 5 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-just-thrive-t-00-30-15) | 3 |
 
 </details>
 </section>
@@ -59,7 +61,21 @@ Source: [Our Story – Just Thrive](https://justthrivehealth.com/pages/our-story
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (3 mentions)</summary>
+
+**[00:30:39](/episodes/ep-q1NRQQAYS_Q.md#ent-org-just-thrive-t-00-30-15)**
+> "Just Thrive"
+
+**[00:31:13](/episodes/ep-q1NRQQAYS_Q.md#ent-org-just-thrive-t-00-30-55)**
+> "...ing like your best self fast. Just Thrive has been trusted for over a decade, helping thous..."
+
+**[00:31:27](/episodes/ep-q1NRQQAYS_Q.md#ent-org-just-thrive-t-00-30-55)**
+> "...urself, then you can take the Just Thrive Feel Better Challenge and you'll get 20% off your..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (5 mentions)</summary>

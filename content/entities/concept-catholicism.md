@@ -1,6 +1,6 @@
 ---
 title: "Catholicism"
-description: "Catholicism (Concepts) - 121 mentions"
+description: "Catholicism (Concepts) - 133 mentions"
 id: "concept-catholicism"
 type: "CONCEPT"
 aliases:
@@ -21,11 +21,11 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-catholicism-t-00-13-56">2026-01-06 · 00:14:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-catholicism-t-00-45-26">2026-03-25 · 00:45:57</a></strong></div>
-<div><span>Episodes</span><strong>30</strong></div>
-<div><span>Mentions</span><strong>121</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-catholicism-t-00-57-00">2026-04-13 · 00:57:23</a></strong></div>
+<div><span>Episodes</span><strong>32</strong></div>
+<div><span>Mentions</span><strong>133</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -64,6 +64,8 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-catholicism-t-00-02-24" style="--pulse-height:56%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 10 mentions" title="2026-03-18 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-concept-catholicism-t-00-57-37" style="--pulse-height:11%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-catholicism-t-00-40-43" style="--pulse-height:78%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 14 mentions" title="2026-03-25 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-concept-catholicism-t-00-51-01" style="--pulse-height:28%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 5 mentions" title="2026-03-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-catholicism-t-00-51-58" style="--pulse-height:39%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 7 mentions" title="2026-04-13 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -99,6 +101,8 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-concept-catholicism-t-00-02-24) | 10 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-concept-catholicism-t-00-57-37) | 2 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-catholicism-t-00-40-43) | 14 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-concept-catholicism-t-00-51-01) | 5 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-concept-catholicism-t-00-51-58) | 7 |
 
 </details>
 </section>
@@ -106,7 +110,53 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (121)</strong></summary>
+<summary><strong class="section-title">Raw mentions (133)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (7 mentions)</summary>
+
+**[00:52:13](/episodes/ep-eLgD5yUVbko.md#ent-concept-catholicism-t-00-51-58)**
+> "remove Catholicism"
+
+**[00:51:58](/episodes/ep-eLgD5yUVbko.md#ent-concept-catholicism-t-00-51-58)**
+> "the Catholic perspective is that this is an unjust war because..."
+
+**[00:53:07](/episodes/ep-eLgD5yUVbko.md#ent-concept-catholicism-t-00-51-58)**
+> "...n't mention the fear that the Catholic church and all other Christian organizations had ..."
+
+**[00:54:34](/episodes/ep-eLgD5yUVbko.md#ent-concept-catholicism-t-00-53-57)**
+> "... a theologian, that I've been Catholic for a long time, but..."
+
+**[00:55:21](/episodes/ep-eLgD5yUVbko.md#ent-concept-catholicism-t-00-53-57)**
+> "...rayers of like she's like the catholic church should thank you for pope the 14 what"
+
+**[00:56:48](/episodes/ep-eLgD5yUVbko.md#ent-concept-catholicism-t-00-53-57)**
+> "... a role here that I think the Catholic Church should step in a really big way."
+
+**[00:57:23](/episodes/ep-eLgD5yUVbko.md#ent-concept-catholicism-t-00-57-00)**
+> "...s the faith, everybody, every Catholic bishop, every Catholic cardinal, but Catholics in..."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (5 mentions)</summary>
+
+**[00:51:28](/episodes/ep-7ERqbYElOfs.md#ent-concept-catholicism-t-00-51-01)**
+> "Thank God for my Catholic aunt who made me realize I am not an outsider. I can talk to Jesus anytime that I want."
+
+**[00:01:49](/episodes/ep-7ERqbYElOfs.md#ent-concept-catholicism-t-00-01-33)**
+> "...d from their battles with the Catholic Empire, who were kind of..."
+
+**[00:51:50](/episodes/ep-7ERqbYElOfs.md#ent-concept-catholicism-t-00-51-40)**
+> "...'t expecting this to be about catholicism at all and we somehow and in each book they're li..."
+
+**[00:55:14](/episodes/ep-7ERqbYElOfs.md#ent-concept-catholicism-t-00-55-14)**
+> "... attacking me like this whole catholic conspiracy to russia i had House Inhabit to be in..."
+
+**[00:59:41](/episodes/ep-7ERqbYElOfs.md#ent-concept-catholicism-t-00-59-14)**
+> "...o pray. Even though he wasn't Catholic, he didn't go to Tahitian Catholic."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (14 mentions)</summary>
@@ -631,7 +681,23 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Catholicism (7)</strong></summary>
+<summary><strong class="section-title">Statements about Catholicism (9)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>
+
+- [00:57:23](/episodes/ep-eLgD5yUVbko.md#t-00-57-00) (Opinion) **Candace Owens**: ["Candace Owens said Catholics cannot support Donald Trump in this momen..."](/statements/statement-cd30c664e00a.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1)</summary>
+
+- [00:01:49](/episodes/ep-7ERqbYElOfs.md#t-00-01-33) (Claim) **Candace Owens**: ["America was founded by warring factions of Freemasons seeking to estab..."](/statements/statement-5a53345c6fd9.md)
+  - Also about: [United States](/entities/gpe-united-states.md), [Freemasonry](/entities/concept-freemasonry.md)
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2)</summary>

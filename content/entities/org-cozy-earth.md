@@ -1,6 +1,6 @@
 ---
 title: "Cozy Earth"
-description: "Cozy Earth (Organizations) - 17 mentions"
+description: "Cozy Earth (Organizations) - 23 mentions"
 id: "org-cozy-earth"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-cozy-earth-t-00-39-00">2026-01-13 · 00:39:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-cozy-earth-t-00-51-58">2026-03-24 · 00:52:27</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-org-cozy-earth-t-00-29-39">2026-04-13 · 00:29:55</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -39,6 +39,7 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 <a href="/episodes/ep-4YgrOhhy708.md#ent-org-cozy-earth-t-00-41-35" style="--pulse-height:67%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 4 mentions" title="2026-02-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-cozy-earth-t-00-39-06" style="--pulse-height:67%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 4 mentions" title="2026-03-11 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-cozy-earth-t-00-51-19" style="--pulse-height:100%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 6 mentions" title="2026-03-24 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-cozy-earth-t-00-28-36" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 6 mentions" title="2026-04-13 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-cozy-earth-t-00-41-35) | 4 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-cozy-earth-t-00-39-06) | 4 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-cozy-earth-t-00-51-19) | 6 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-cozy-earth-t-00-28-36) | 6 |
 
 </details>
 </section>
@@ -55,7 +57,30 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (6 mentions)</summary>
+
+**[00:28:36](/episodes/ep-eLgD5yUVbko.md#ent-org-cozy-earth-t-00-28-36)**
+> "Cozy Earth"
+
+**[00:29:02](/episodes/ep-eLgD5yUVbko.md#ent-org-cozy-earth-t-00-29-02)**
+> "...serves a little extra comfort cozy earth pieces feel like a hug that they can wear every s..."
+
+**[00:29:29](/episodes/ep-eLgD5yUVbko.md#ent-org-cozy-earth-t-00-29-02)**
+> "...serves care too, discover how Cozy Earth turns everyday routines into moments of softness ..."
+
+**[00:29:39](/episodes/ep-eLgD5yUVbko.md#ent-org-cozy-earth-t-00-29-39)**
+> "... mention that you heard about Cozy Earth right here."
+
+**[00:29:50](/episodes/ep-eLgD5yUVbko.md#ent-org-cozy-earth-t-00-29-39)**
+> "Again, that's codecandace at cozyearth.com for an exclusive 20% off."
+
+**[00:29:55](/episodes/ep-eLgD5yUVbko.md#ent-org-cozy-earth-t-00-29-39)**
+> "...bly state that it was not the cozy earth slipper that I slipped in it was actually a pair ..."
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (6 mentions)</summary>

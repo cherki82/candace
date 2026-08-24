@@ -1,0 +1,23 @@
+---
+title: "United States Air Force funded BILT Incorporated"
+description: "Evidence for the relationship: United States Air Force funded BILT Incorporated"
+relationship_id: "rel-a6f0e9d6ea09"
+subject: "org-united-states-air-force"
+predicate: "funded"
+object: "org-bilt-incorporated"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [United States Air Force](/entities/org-united-states-air-force) funded [BILT Incorporated](/entities/org-bilt-incorporated)
+
+### Evidence (1 mentions)
+
+**[Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU)**
+
+- [00:16:05](/episodes/ep-rupRLXmSndU#t-00-16-05): _And also the top one as well. I can show you here on the website that the BILT was awarded that money from the Department of Defense, particularly from the Air Force. The majority came in from the Air Force, 7.4 million from the Air Force and just under a quarter million from the Navy, bringing the total actually closer to $8 million that came in to them in June of this year._
+
+### Related
+
+- [United States Air Force](/entities/org-united-states-air-force)
+- [BILT Incorporated](/entities/org-bilt-incorporated)

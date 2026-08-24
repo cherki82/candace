@@ -1,19 +1,27 @@
 ---
 title: "Paris"
-description: "Paris (Places) - 21 mentions"
+description: "Paris (Places) - 26 mentions"
 id: "gpe-paris"
 type: "GPE"
+categories:
+  - "French capital and Athanor case location"
 ---
 
 _Type: Places_
 
+**Categories:** French capital and Athanor case location
+
 > **Possibly overlapping entity records:** [Paris](/entities/gpe-paris-france). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> The official City of Paris site identifies Paris as the capital of France; transcript context places the Athanor case in Paris.
+Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pages/paris-a-l-international-2433)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-paris-t-01-01-35">2025-10-06 · 01:01:56</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-paris-t-00-43-07">2026-02-13 · 00:43:36</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-paris-t-00-14-46">2026-03-30 · 00:14:46</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,6 +41,7 @@ _Type: Places_
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-paris-t-00-10-47" style="--pulse-height:17%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#t-00-39-28" style="--pulse-height:33%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-paris-t-00-43-07" style="--pulse-height:17%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-paris-t-00-03-31" style="--pulse-height:83%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 5 mentions" title="2026-03-30 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +56,7 @@ _Type: Places_
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-paris-t-00-10-47) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#t-00-39-28) | 2 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-paris-t-00-43-07) | 1 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-paris-t-00-03-31) | 5 |
 
 </details>
 </section>
@@ -54,7 +64,27 @@ _Type: Places_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (5 mentions)</summary>
+
+**[00:03:31](/episodes/ep-7ERqbYElOfs.md#ent-gpe-paris-t-00-03-31)**
+> "The one that is in St. George, Utah, which is where Tyler Robinson was. was brought in is lodge number 33 okay 33 also being the country code for paris now americans are not used to the discussion about freemasonry so this all felt very new and i feel like people weren't really ready to have this conversation because we go to public school we're told like paul revere they don't tell you that he was like a rosha crucial freemason but he was like the british are coming the british are coming he actually never actually said that either"
+
+**[00:06:20](/episodes/ep-7ERqbYElOfs.md#ent-gpe-paris-t-00-06-09)**
+> "...side the Athenor Lodge in the Paris suburb of Puteaux, at least four Freemasons."
+
+**[00:10:16](/episodes/ep-7ERqbYElOfs.md#ent-gpe-paris-t-00-10-16)**
+> "...allegedly betrayed France and Paris working on behalf of Israel."
+
+**[00:10:31](/episodes/ep-7ERqbYElOfs.md#ent-gpe-paris-t-00-10-16)**
+> "...o killing of Mossad agents in Paris while he is the first lady."
+
+**[00:14:46](/episodes/ep-7ERqbYElOfs.md#ent-gpe-paris-t-00-14-46)**
+> "... told people that the DGSE in Paris was involved and had also put a hit on me. Here t..."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>

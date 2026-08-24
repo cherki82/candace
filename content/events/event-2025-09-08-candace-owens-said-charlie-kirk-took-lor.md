@@ -12,7 +12,7 @@ time: "10:45"
 
 > Candace Owens said Charlie Kirk took Lori Frantzve to a clinic for Lyme disease treatment.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301
 
@@ -29,3 +29,11 @@ time: "10:45"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2362);return false;">▶️ Play</a>
 
 > Lori Frantzve has an appointment at the clinic, and Charlie allegedly meets up with her
+
+### 3. SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | ...
+
+**Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
+**Timestamp:** [00:40:02](/episodes/ep-q1NRQQAYS_Q.md#event-event-2025-09-08-candace-owens-said-charlie-kirk-took-lor-t-00-39-48) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2402);return false;">▶️ Play</a>
+
+> she went in for a treatment two days earlier on September 8th because people sent me records

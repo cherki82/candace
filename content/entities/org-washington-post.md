@@ -1,6 +1,6 @@
 ---
 title: "The Washington Post"
-description: "The Washington Post (Organizations) - 7 mentions"
+description: "The Washington Post (Organizations) - 8 mentions"
 id: "org-washington-post"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [About The Washington Post](https://www.washingtonpost.com/about-the-pos
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-washington-post-t-00-26-10">2026-01-07 · 00:26:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-washington-post-t-00-40-36">2026-03-09 · 00:40:50</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-org-washington-post-t-00-32-16">2026-04-01 · 00:32:25</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,6 +39,7 @@ Source: [About The Washington Post](https://www.washingtonpost.com/about-the-pos
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-washington-post-t-00-44-01" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-washington-post-t-00-50-52" style="--pulse-height:33%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-washington-post-t-00-39-51" style="--pulse-height:67%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-washington-post-t-00-32-16" style="--pulse-height:33%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [About The Washington Post](https://www.washingtonpost.com/about-the-pos
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-washington-post-t-00-44-01) | 3 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-washington-post-t-00-50-52) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-washington-post-t-00-39-51) | 2 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-washington-post-t-00-32-16) | 1 |
 
 </details>
 </section>
@@ -55,7 +57,15 @@ Source: [About The Washington Post](https://www.washingtonpost.com/about-the-pos
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
+
+**[00:32:25](/episodes/ep-rupRLXmSndU.md#ent-org-washington-post-t-00-32-16)**
+> "Check out this headline in the Washington Post from 2007. FBI's forensic test is full of holes. The article goes on to say the science, which is known as comparative bullet-led analysis, was first used after President John F."
+
+</details>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (2 mentions)</summary>

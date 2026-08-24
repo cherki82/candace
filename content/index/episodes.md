@@ -2,7 +2,7 @@
 title: "Episodes"
 ---
 
-_Total episodes: 95_
+_Total episodes: 101_
 
 <div class="page-filter-container">
   <input type="text" class="page-filter" placeholder="Filter episodes..." autocomplete="off">
@@ -26,6 +26,21 @@ _Total episodes: 95_
 ## Week of Aug 10 - 16, 2026
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md) — Fri, Aug 14
+
+## Week of Apr 13 - 19, 2026
+
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md) — Mon, Apr 13
+
+## Week of Apr 06 - 12, 2026
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md) — Fri, Apr 10
+
+## Week of Mar 30 - Apr 05, 2026
+
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md) — Thu, Apr 02
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md) — Wed, Apr 01
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md) — Tue, Mar 31
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md) — Mon, Mar 30
 
 ## Week of Mar 23 - 29, 2026
 

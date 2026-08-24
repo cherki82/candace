@@ -1,24 +1,33 @@
 ---
 title: "Timpanogos Regional Hospital"
-description: "Timpanogos Regional Hospital (Organizations) - 12 mentions"
+description: "Timpanogos Regional Hospital (Organizations) - 16 mentions"
 id: "org-timpanogos-regional-hospital"
 type: "ORG"
 aliases:
   - "Timpanogos Hospital"
+categories:
+  - "hospital"
+  - "Utah healthcare"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Timpanogos Hospital
 
+**Categories:** hospital, Utah healthcare
+
+**Entity verification:** verified
+> HCA Healthcare's official location page confirms the canonical hospital name and Orem location.
+Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealthcare.com/pages/timpanogos-regional-hospital)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-timpanogos-regional-hospital-t-00-30-44">2025-09-30 · 00:30:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-timpanogos-regional-hospital-t-00-14-43">2026-03-26 · 00:14:52</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-02-10">2026-04-02 · 00:02:10</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -34,6 +43,9 @@ _Type: Organizations_
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-timpanogos-regional-hospital-t-00-06-59" style="--pulse-height:33%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-timpanogos-regional-hospital-t-00-06-54" style="--pulse-height:33%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-timpanogos-regional-hospital-t-00-14-43" style="--pulse-height:33%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#t-00-56-25" style="--pulse-height:33%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#t-00-04-38" style="--pulse-height:33%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-02-10" style="--pulse-height:33%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +59,9 @@ _Type: Organizations_
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-timpanogos-regional-hospital-t-00-06-59) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-timpanogos-regional-hospital-t-00-06-54) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-org-timpanogos-regional-hospital-t-00-14-43) | 1 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#t-00-56-25) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#t-00-04-38) | 1 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-02-10) | 1 |
 
 </details>
 </section>
@@ -54,7 +69,31 @@ _Type: Organizations_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:02:10](/episodes/ep-q1NRQQAYS_Q.md#t-00-02-10)**
+> "Tim Panogas hospital"
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
+
+**[00:04:50](/episodes/ep-rupRLXmSndU.md#t-00-04-38)**
+> "Timponogos hospital"
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
+
+**[00:56:25](/episodes/ep-UYkXV9mYbT4.md#t-00-56-25)**
+> "Timpanagos staff at the hospital"
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
@@ -150,26 +189,47 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Has Ceo (1)</summary>
+<summary>Formerly Employed (1)</summary>
 
-- **[Andrew Zenger](/entities/person-andrew-zenger.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+- **[Connor Henderson](/entities/person-connor-henderson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:31:05](/episodes/ep-YA1FxrDWNIo.md#t-00-30-44): “brand-new CEO and head surgeon named Andrew Zenger”
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:30](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “the hospital that Charlie was taken to... had just announced that they had a brand-new CEO and head surgeon named Andrew Zenger”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:41](/episodes/ep-rupRLXmSndU.md#t-00-18-41): “Connor had been working as an emergency room department scribe. I can confirm. Go ahead. Tippinogos. Tippinogos emergency room.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Has Ceo (1)</summary>
 
-- **[Andrew Zenger](/entities/person-andrew-zenger.md)** CEO of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+- **[Andrew Zenger](/entities/person-andrew-zenger.md)**
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:31:05](/episodes/ep-YA1FxrDWNIo.md#t-00-30-44): “brand-new CEO and head surgeon named Andrew Zenger”
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:30](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “the hospital that Charlie was taken to... had just announced that they had a brand-new CEO and head surgeon named Andrew Zenger”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:23:30](/episodes/ep-rupRLXmSndU.md#t-00-23-21): “our brand spanking new ceo of timpanogos don't think i forgot about andrew zenger remember he was appointed the ceo of timpanogos just ahead of charlie's assassination”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
+
+- **[Andrew Zenger](/entities/person-andrew-zenger.md)** CEO of this
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:31:05](/episodes/ep-YA1FxrDWNIo.md#t-00-30-44): “brand-new CEO and head surgeon named Andrew Zenger”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:30](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “the hospital that Charlie was taken to... had just announced that they had a brand-new CEO and head surgeon named Andrew Zenger”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:23:30](/episodes/ep-rupRLXmSndU.md#t-00-23-21): “our brand spanking new ceo of timpanogos don't think i forgot about andrew zenger remember he was appointed the ceo of timpanogos just ahead of charlie's assassination”
+
+</details>
+
+- **[Connor Henderson](/entities/person-connor-henderson.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:41](/episodes/ep-rupRLXmSndU.md#t-00-18-41): “Connor had been working as an emergency room department scribe. I can confirm. Go ahead. Tippinogos. Tippinogos emergency room.”
 
 </details>
 
@@ -185,7 +245,27 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (7)</strong></summary>
+<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (12)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (5)</summary>
+
+- [00:05:41](/episodes/ep-rupRLXmSndU.md#t-00-05-14) (Opinion) **Candace Owens**: ["It appeared as though the Timpanogos emergency room had been cleared f..."](/statements/statement-965fbb4f8f8b.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:05:41](/episodes/ep-rupRLXmSndU.md#t-00-05-14) (Claim) **Candace Owens**: ["Kash Patel had the FBI immediately seize footage from inside the hospi..."](/statements/statement-08af5755b967.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [FBI](/entities/org-fbi.md)
+
+- [00:06:20](/episodes/ep-rupRLXmSndU.md#t-00-05-56) (Claim) **Candace Owens** (via paraphrase): ["Elizabeth Lane reported that both Utah Valley Hospital and Timpanogos ..."](/statements/statement-35bef448927a.md)
+  - Also about: [Elizabeth Lane](/entities/person-elizabeth-lane.md), [Utah Valley Hospital](/entities/org-utah-valley-hospital.md)
+
+- [00:18:41](/episodes/ep-rupRLXmSndU.md#t-00-18-41) (Claim) **Candace Owens**: ["Connor Henderson worked as an emergency-room scribe at Timpanogos Regi..."](/statements/statement-741e9bfcb950.md)
+  - Also about: [Connor Henderson](/entities/person-connor-henderson.md)
+
+- [00:23:30](/episodes/ep-rupRLXmSndU.md#t-00-23-21) (Claim) **Candace Owens**: ["Andrew Zenger was appointed CEO of Timpanogos Regional Hospital on Aug..."](/statements/statement-a9204a5bd0b6.md)
+  - Also about: [Andrew Zenger](/entities/person-andrew-zenger.md), [Medical City McKinney](/entities/org-medical-city-mckinney.md), [McKinney, Texas](/entities/gpe-mckinney-texas.md)
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (3)</summary>

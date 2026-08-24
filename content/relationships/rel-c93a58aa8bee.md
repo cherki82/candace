@@ -11,7 +11,7 @@ object: "org-turning-point-usa"
 
 ## [Blake Neff](/entities/person-blake-neff) works for [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4)**
 
@@ -25,6 +25,10 @@ object: "org-turning-point-usa"
 **[Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w)**
 
 - [00:00:57](/episodes/ep-ZAuuSq_j2_w#t-00-00-57): _I opened the tweets, which went out from Blake Neff around midnight last night_
+
+**[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
+
+- [00:00:11](/episodes/ep-q1NRQQAYS_Q#t-00-00-11): _But I'm still wondering how Blake Neff is still employed. Blake Neff, he is my favorite of the shady bunch over at Turning Point USA because I just don't know how he does it, right?_
 
 ### Related
 

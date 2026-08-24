@@ -384,7 +384,7 @@ youtube_url: "https://www.youtube.com/watch?v=czVBmqZP6Ss"
   - About: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:51:05](#t-00-50-22) [○] (Claim) **Spencer Cox**: ["Tyler Robinson has not confessed to authorities. He is not cooperating"](/statements/statement-14dff9533569.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
-- [00:54:24](#t-00-54-20) [○] (Claim) **Candace Owens**: ["Discord says there is no evidence that the suspect planned this incident or prom..."](/statements/statement-6fbddf863af1.md)
+- [00:54:24](#t-00-54-20) [○] (Claim) **Discord**: ["Discord says there is no evidence that the suspect planned this incident or prom..."](/statements/statement-6fbddf863af1.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [01:00:51](#t-01-00-47) [○] (Claim) **Candace Owens**: ["At the university when Charlie was shot, someone stood up and cheered"](/statements/statement-981c3fb9ce53.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)

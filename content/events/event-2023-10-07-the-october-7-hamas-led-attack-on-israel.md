@@ -11,7 +11,7 @@ date: "2023-10-07"
 
 > The October 7 Hamas-led attack on Israel occurred.
 
-## Mentioned In (9 times)
+## Mentioned In (10 times)
 
 ### 1. Myron Gaines x Candace Owens
 
@@ -84,3 +84,11 @@ date: "2023-10-07"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(5642);return false;">▶️ Play</a>
 
 > he told me I could have a private screening of October 7th.
+
+### 10. An Open Letter To President Donald Trump (My Response) | Can...
+
+**Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
+**Timestamp:** [00:30:32](/episodes/ep-ZIH5-V6UPkg.md#event-event-2023-10-07-the-october-7-hamas-led-attack-on-israel-t-00-30-22) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1832);return false;">▶️ Play</a>
+
+> But of course, this is like a totally different pretense than October 7th.

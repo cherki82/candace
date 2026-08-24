@@ -4,9 +4,10 @@ description: "\"The 3:30 police pickup means Erika Kirk did not wait an hour on 
 statement_id: "statement-babfa5b6ff1b"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The radio transmission says officers were en route to Provo Airport and the victim wife was arriving at 3:30. Taken as the pickup time, that is incompatible with remaining on the tarmac until an alleged 4:40 arrival. Confidence is medium because the original dispatch log and actual departure time were not independently obtained.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Wave transcript: Candace Ep 317](https://pod.wave.co/podcast/candace-cc79581b-6fe8-428e-ac65-6f1bc0d005e4/viral-its-okay-not-to-believe-a-word-erika-kirk-says-candace-ep-317)
+
+*Verified: 2026-08-24T10:57:36.855716*
 
 ---
 

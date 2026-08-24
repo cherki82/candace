@@ -1,6 +1,6 @@
 ---
 title: "Lori Frantzve"
-description: "Lori Frantzve (People) - 207 mentions"
+description: "Lori Frantzve (People) - 212 mentions"
 id: "person-lori-frantzve"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-27-36">2026-01-06 · 00:27:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-lori-frantzve-t-00-52-28">2026-03-25 · 00:52:51</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>207</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-59-01">2026-04-02 · 00:59:28</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>212</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>83</strong></div>
+<div><span>Statements about</span><strong>93</strong></div>
 <div><span>Relationships</span><strong>46</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -55,6 +55,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-lori-frantzve-t-00-01-46" style="--pulse-height:19%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 11 mentions" title="2026-03-18 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-lori-frantzve-t-00-32-04" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-lori-frantzve-t-00-52-28" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-41-37" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 5 mentions" title="2026-04-02 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -80,6 +81,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-lori-frantzve-t-00-01-46) | 11 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-lori-frantzve-t-00-32-04) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-lori-frantzve-t-00-52-28) | 1 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-41-37) | 5 |
 
 </details>
 </section>
@@ -87,7 +89,27 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (207)</strong></summary>
+<summary><strong class="section-title">Raw mentions (212)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (5 mentions)</summary>
+
+**[00:41:37](/episodes/ep-q1NRQQAYS_Q.md#t-00-41-37)**
+> "Nobody would confirm Lori in the story."
+
+**[00:42:40](/episodes/ep-q1NRQQAYS_Q.md#t-00-42-13)**
+> "...at she and not Erica was with Lori when when Lori got the news that her son-in-law h..."
+
+**[00:43:00](/episodes/ep-q1NRQQAYS_Q.md#t-00-42-54)**
+> "Erica and Lori are not together. I'm again going to also decline..."
+
+**[00:43:09](/episodes/ep-q1NRQQAYS_Q.md#t-00-42-54)**
+> "...f you will, is that Erica and Lori were apart on September 10th. So a couple of ques..."
+
+**[00:59:28](/episodes/ep-q1NRQQAYS_Q.md#t-00-59-01)**
+> "...ore tips at CandaceOwens.com. Lori's whereabouts on September 10th. We think we're p..."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
@@ -1040,7 +1062,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <summary>Parent Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-26): “Senator David Farnsworth. introduced Erika (Erika Kirk)'s mother to the house floor with concerns over EMPs”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:11:59](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-22): “Lori Frantzve. Erika (Erika Kirk)'s mom, Lori Frantzve.”
@@ -1053,6 +1075,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:55:08](/episodes/ep-DdPjoy5W-wY.md#t-00-54-57): “Erika (Erika Kirk)'s mom”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:26:08](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53): “Erika (Erika Kirk)'s strange attachment to Tyler Bowyer, but lack of a memory regarding Tyler Bowyer? Superfeed incorporated where Erika (Erika Kirk)'s mother is serving as a board member with Tyler Bowyer?”
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:08:39](/episodes/ep-_vg7ucP1E0g.md#t-00-08-39): “We have that in November. Her mother establishes G-Tech Industries LLC. I know you're going to say, what is it do? ... You know, it's Lori (Lori Frantzve). So it's like this. She's doing this whole EMP thing and she's getting money and she's.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:49](/episodes/ep-q1NRQQAYS_Q.md#t-00-35-33): “It continues. Ms. Kirk was sitting in her mother's hospital room at 1123 a.m. local time in Phoenix when she saw the number of her husband's longtime assistant, Michael McCoy, appear on her phone.”
 
 </details>
 
@@ -1111,7 +1134,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** child of this
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-26): “Senator David Farnsworth. introduced Erika (Erika Kirk)'s mother to the house floor with concerns over EMPs”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:11:59](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-22): “Lori Frantzve. Erika (Erika Kirk)'s mom, Lori Frantzve.”
@@ -1124,6 +1147,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:55:08](/episodes/ep-DdPjoy5W-wY.md#t-00-54-57): “Erika (Erika Kirk)'s mom”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:26:08](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53): “Erika (Erika Kirk)'s strange attachment to Tyler Bowyer, but lack of a memory regarding Tyler Bowyer? Superfeed incorporated where Erika (Erika Kirk)'s mother is serving as a board member with Tyler Bowyer?”
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:08:39](/episodes/ep-_vg7ucP1E0g.md#t-00-08-39): “We have that in November. Her mother establishes G-Tech Industries LLC. I know you're going to say, what is it do? ... You know, it's Lori (Lori Frantzve). So it's like this. She's doing this whole EMP thing and she's getting money and she's.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:49](/episodes/ep-q1NRQQAYS_Q.md#t-00-35-33): “It continues. Ms. Kirk was sitting in her mother's hospital room at 1123 a.m. local time in Phoenix when she saw the number of her husband's longtime assistant, Michael McCoy, appear on her phone.”
 
 </details>
 
@@ -1273,7 +1297,42 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lori Frantzve (83)</strong></summary>
+<summary><strong class="section-title">Statements about Lori Frantzve (93)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (10)</summary>
+
+- [00:10:21](/episodes/ep-q1NRQQAYS_Q.md#t-00-10-21) (Accusation) **Candace Owens**: ["Erika Kirk was not raised by a single mother; she had a stepfather in ..."](/statements/statement-562d5c2ba1f0.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:25:22](/episodes/ep-q1NRQQAYS_Q.md#t-00-25-22) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk's parents divorced when she was five, and she grew up with ..."](/statements/statement-3178ff8d83c3.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:35:14](/episodes/ep-q1NRQQAYS_Q.md#t-00-34-48) (Claim) **The New York Times** (via quoted article): ["Erika Kirk had planned to accompany Charlie Kirk to Utah, but instead ..."](/statements/statement-5e641d2827ce.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah](/entities/gpe-utah.md)
+
+- [00:35:49](/episodes/ep-q1NRQQAYS_Q.md#t-00-35-33) (Claim) **The New York Times** (via quoted article): ["Erika Kirk was in her mother's hospital room in Phoenix at 11:23 a.m. ..."](/statements/statement-2d74b37b7029.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Phoenix, Arizona](/entities/gpe-phoenix-arizona.md)
+
+- [00:36:56](/episodes/ep-q1NRQQAYS_Q.md#t-00-36-56) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk was at her mother's doctor's appointment when Michael McCoy..."](/statements/statement-ef1c158aaaca.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:39:53](/episodes/ep-q1NRQQAYS_Q.md#t-00-39-48) (Claim) **Candace Owens**: ["Lori Frantzve received treatment at the Phoenix clinic on September 8,..."](/statements/statement-8be506596509.md)
+  - Also about: [Phoenix, Arizona](/entities/gpe-phoenix-arizona.md)
+
+- [00:42:08](/episodes/ep-q1NRQQAYS_Q.md#t-00-41-37) (Claim) **Candace Owens** (via paraphrase): ["A doctor and his wife told friends that Erika Kirk was in the doctor's..."](/statements/statement-8f640ccb4258.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:42:28](/episodes/ep-q1NRQQAYS_Q.md#t-00-42-13) (Claim) **Candace Owens** (via paraphrase): ["A source claimed Erika Kirk was with her security guard when she learn..."](/statements/statement-314eb75d5c16.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:42:40](/episodes/ep-q1NRQQAYS_Q.md#t-00-42-13) (Claim) **Candace Owens** (via paraphrase): ["A woman from Dassel, Minnesota claimed that she, rather than Erika Kir..."](/statements/statement-04a77136224d.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dassel, Minnesota](/entities/gpe-dassel-minnesota.md)
+
+- [00:44:29](/episodes/ep-q1NRQQAYS_Q.md#t-00-44-07) (Opinion) **Candace Owens**: ["Candace Owens does not believe Erika Kirk was with her mother on Septe..."](/statements/statement-ed2126b3b2c0.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (1)</summary>

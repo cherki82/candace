@@ -1,0 +1,41 @@
+---
+title: "Erika lied. Erika and Andrew colluded on how to message the ..."
+description: "\"Erika lied. Erika and Andrew colluded on how to message the public about the bullet not passing through Charlie.\" — Candace Owens"
+statement_id: "statement-45def5a9eabe"
+speaker: "Candace Owens"
+type: "accusation"
+---
+
+**Status:** ○ Not yet verified
+
+## Statement
+
+> Erika lied. Erika and Andrew colluded on how to message the public about the bullet not passing through Charlie.
+
+## Attribution
+
+**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+
+**Delivery:** Made directly
+
+## About
+
+- [Erika Kirk](/entities/person-erika-kirk.md) (person)
+- [Andrew Kolvet](/entities/person-andrew-kolvet.md) (person)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+
+## Source
+
+**Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
+**Timestamp:** [00:10:17](/episodes/ep-UYkXV9mYbT4.md#t-00-10-02) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(617);return false;">Play</a>
+
+> Erica lied. Erica and Andrew colluded. on how to message to the public about this little fact that was never meant to be known to us.
+
+## Verification
+
+_This statement has not yet been verified._
+
+---
+
+**Type:** Accusation | **Verifiable:** Yes

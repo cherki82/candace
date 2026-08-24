@@ -1,6 +1,6 @@
 ---
 title: "America's Warrior Partnership"
-description: "America's Warrior Partnership (Organizations) - 3 mentions"
+description: "America's Warrior Partnership (Organizations) - 5 mentions"
 id: "org-americas-warrior-partnership"
 type: "ORG"
 categories:
@@ -17,9 +17,9 @@ Source: [Our Mission | America's Warrior Partnership](https://www.americaswarrio
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-americas-warrior-partnership-t-00-47-24">2025-12-20 · 00:47:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-americas-warrior-partnership-t-00-23-45">2026-03-26 · 00:23:55</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-americas-warrior-partnership-t-00-22-37">2026-04-10 · 00:23:05</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -32,6 +32,8 @@ Source: [Our Mission | America's Warrior Partnership](https://www.americaswarrio
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-americas-warrior-partnership-t-00-47-24" style="--pulse-height:100%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-americas-warrior-partnership-t-00-23-45" style="--pulse-height:50%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-americas-warrior-partnership-t-00-48-40" style="--pulse-height:50%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-americas-warrior-partnership-t-00-22-37" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -39,6 +41,8 @@ Source: [Our Mission | America's Warrior Partnership](https://www.americaswarrio
 |---|---|---:|
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-americas-warrior-partnership-t-00-47-24) | 2 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-org-americas-warrior-partnership-t-00-23-45) | 1 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-americas-warrior-partnership-t-00-48-40) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-americas-warrior-partnership-t-00-22-37) | 1 |
 
 </details>
 </section>
@@ -46,7 +50,23 @@ Source: [Our Mission | America's Warrior Partnership](https://www.americaswarrio
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:23:05](/episodes/ep-ZIH5-V6UPkg.md#ent-org-americas-warrior-partnership-t-00-22-37)**
+> "...ver half a million dollars to America's Warrior Partnership, which is a fantastic organization that is on the..."
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:48:40](/episodes/ep-q1NRQQAYS_Q.md#ent-org-americas-warrior-partnership-t-00-48-40)**
+> "America's warrior partnership"
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
@@ -76,9 +96,11 @@ Source: [Our Mission | America's Warrior Partnership](https://www.americaswarrio
 <summary>Funded By (1)</summary>
 
 - **[Pure Talk](/entities/org-pure-talk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:23:55](/episodes/ep-DEtFh2Ff-58.md#t-00-23-45): “PureTalk is veteran-led, so helping veterans is their North Star. They've donated over half a million dollars to America's Warrior Partnership.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:48:40](/episodes/ep-q1NRQQAYS_Q.md#t-00-48-40): “PeerTalk is veteran-led, so helping veterans is their North Star. They have donated over half a million dollars to America's warrior partnership, a fantastic organization that is on the front lines of preventing veteran suicide.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:23:05](/episodes/ep-ZIH5-V6UPkg.md#t-00-22-37): “They donate over half a million dollars to America's Warrior Partnership, which is a fantastic organization that is on the front lines of preventing veteran suicide.”
 
 </details>
 
@@ -88,9 +110,11 @@ Source: [Our Mission | America's Warrior Partnership](https://www.americaswarrio
 <summary>Referenced By (1)</summary>
 
 - **[Pure Talk](/entities/org-pure-talk.md)** funded this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:23:55](/episodes/ep-DEtFh2Ff-58.md#t-00-23-45): “PureTalk is veteran-led, so helping veterans is their North Star. They've donated over half a million dollars to America's Warrior Partnership.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:48:40](/episodes/ep-q1NRQQAYS_Q.md#t-00-48-40): “PeerTalk is veteran-led, so helping veterans is their North Star. They have donated over half a million dollars to America's warrior partnership, a fantastic organization that is on the front lines of preventing veteran suicide.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:23:05](/episodes/ep-ZIH5-V6UPkg.md#t-00-22-37): “They donate over half a million dollars to America's Warrior Partnership, which is a fantastic organization that is on the front lines of preventing veteran suicide.”
 
 </details>
 

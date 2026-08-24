@@ -1,6 +1,6 @@
 ---
 title: "Andrew Kolvet"
-description: "Andrew Kolvet (People) - 435 mentions"
+description: "Andrew Kolvet (People) - 456 mentions"
 id: "person-andrew-kolvet"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-andrew-kolvet-t-00-13-27">2025-09-11 · 00:14:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-02-41-45">2026-08-14 · 02:41:45</a></strong></div>
-<div><span>Episodes</span><strong>62</strong></div>
-<div><span>Mentions</span><strong>435</strong></div>
-<div><span>Statements by</span><strong>39</strong></div>
-<div><span>Statements about</span><strong>120</strong></div>
-<div><span>Relationships</span><strong>59</strong></div>
+<div><span>Episodes</span><strong>67</strong></div>
+<div><span>Mentions</span><strong>456</strong></div>
+<div><span>Statements by</span><strong>42</strong></div>
+<div><span>Statements about</span><strong>123</strong></div>
+<div><span>Relationships</span><strong>62</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -96,6 +96,11 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-06-48" style="--pulse-height:100%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 43 mentions" title="2026-03-24 · 43 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-andrew-kolvet-t-00-00-00" style="--pulse-height:26%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 11 mentions" title="2026-03-25 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-andrew-kolvet-t-00-00-01" style="--pulse-height:19%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 8 mentions" title="2026-03-26 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-andrew-kolvet-t-00-14-01" style="--pulse-height:8%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#t-00-03-20" style="--pulse-height:35%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 15 mentions" title="2026-03-31 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-56-52" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#t-00-28-57" style="--pulse-height:8%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#t-00-13-05" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-00-38-09" style="--pulse-height:9%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -163,6 +168,11 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-06-48) | 43 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-andrew-kolvet-t-00-00-00) | 11 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-andrew-kolvet-t-00-00-01) | 8 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-andrew-kolvet-t-00-14-01) | 3 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#t-00-03-20) | 15 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-56-52) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-57) | 1 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#t-00-13-05) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-00-38-09) | 4 |
 
 </details>
@@ -171,7 +181,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (435)</strong></summary>
+<summary><strong class="section-title">Raw mentions (456)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -187,6 +197,94 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 **[02:41:45](/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-02-41-45)**
 > "I mean, I'm talking about Andrew Kolvet at his position as he's a spokesperson for Turnin..."
+
+</details>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
+
+**[00:13:17](/episodes/ep-eLgD5yUVbko.md#t-00-13-05)**
+> "Andrew Colbett"
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:29:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-57)**
+> "something that Andrew Colbett confirmed to me"
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:57:13](/episodes/ep-q1NRQQAYS_Q.md#t-00-56-52)**
+> "with Andrew Kolbe is probably the latter."
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (15 mentions)</summary>
+
+**[00:03:20](/episodes/ep-UYkXV9mYbT4.md#t-00-03-20)**
+> "Andrew"
+
+**[00:03:38](/episodes/ep-UYkXV9mYbT4.md#t-00-03-20)**
+> "Andrew"
+
+**[00:09:30](/episodes/ep-UYkXV9mYbT4.md#t-00-09-30)**
+> "Andrew"
+
+**[00:09:48](/episodes/ep-UYkXV9mYbT4.md#t-00-09-30)**
+> "Andrew"
+
+**[00:10:02](/episodes/ep-UYkXV9mYbT4.md#t-00-10-02)**
+> "Andrew"
+
+**[00:10:17](/episodes/ep-UYkXV9mYbT4.md#t-00-10-02)**
+> "Andrew"
+
+**[00:10:32](/episodes/ep-UYkXV9mYbT4.md#t-00-10-02)**
+> "Andrew"
+
+**[00:10:56](/episodes/ep-UYkXV9mYbT4.md#t-00-10-44)**
+> "Andrew"
+
+**[00:11:38](/episodes/ep-UYkXV9mYbT4.md#t-00-11-23)**
+> "Andrew"
+
+**[00:12:41](/episodes/ep-UYkXV9mYbT4.md#t-00-12-05)**
+> "Andrew"
+
+**[00:13:23](/episodes/ep-UYkXV9mYbT4.md#t-00-13-23)**
+> "Andrew"
+
+**[00:13:36](/episodes/ep-UYkXV9mYbT4.md#t-00-13-23)**
+> "Andrew"
+
+**[00:14:49](/episodes/ep-UYkXV9mYbT4.md#t-00-14-49)**
+> "Andrew"
+
+**[01:02:06](/episodes/ep-UYkXV9mYbT4.md#t-01-01-29)**
+> "Andrew"
+
+**[01:02:51](/episodes/ep-UYkXV9mYbT4.md#t-01-02-51)**
+> "Andrew"
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (3 mentions)</summary>
+
+**[00:14:23](/episodes/ep-7ERqbYElOfs.md#ent-person-andrew-kolvet-t-00-14-01)**
+> "The goal was to break me down psychologically, tell me as soon as Charlie (Charlie Kirk) gets killed that I better lay low, as Andrew Kolvet did, because my name is on some list and I'm going to be next. That's meant to psychologically traumatize you to make you afraid to go outside."
+
+**[00:55:36](/episodes/ep-7ERqbYElOfs.md#ent-person-andrew-kolvet-t-00-55-36)**
+> "dealing with Andrew Kolvet and I was like okay turning point's upset again t..."
+
+**[00:56:51](/episodes/ep-7ERqbYElOfs.md#ent-person-andrew-kolvet-t-00-56-51)**
+> "...called Tucker Carlson, called Andrew Kolvet, texted with both of them, figured out what was g..."
 
 </details>
 
@@ -1797,10 +1895,11 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Accused By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:33:24](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24): “we now know that Andrew Kolvet is in the business of faking live shows in order to give himself an alibi.”
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:09:23](/episodes/ep-DEtFh2Ff-58.md#t-00-08-45): “it suggests, certainly, that there may have been some sort of a foreknowledge because for what other reason would Andrew be sitting on a tarmac just about to fly to Scottsdale when Charlie gets shot?”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:10:17](/episodes/ep-UYkXV9mYbT4.md#t-00-10-02): “Erica lied. Erica and Andrew colluded. on how to message to the public about this little fact that was never meant to be known to us.”
 
 </details>
 
@@ -1897,11 +1996,12 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:06](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:36](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “The man who had to deal with the full brunt of Andrew (Andrew Kolvet) and Erika (Erika Kirk)'s PR machine, ... they were digging up his past, claiming that he was a habitual liar.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:48:39](/episodes/ep-B9TyCs-6o_0.md#t-00-48-19): “it's an absurd allegation that she was not ever pursuing the spotlight. It is just pointedly wrong, and I don't know why he would say it, but he just says stuff a lot of the time, and that's our guy, Andrew Kolvet.”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:03:38](/episodes/ep-UYkXV9mYbT4.md#t-00-03-20): “SD card? Yeah, we know Andrew Colbett's lying because Terrell did not take the expensive camera.”
 
 </details>
 
@@ -2041,7 +2141,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>Met With (3)</summary>
+<summary>Met With (4)</summary>
 
 - **[White House](/entities/org-white-house.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -2065,6 +2165,13 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 </details>
 
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:29:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38): “I was told by Charlie that he and Andrew Colvette were present for that meeting with Donald Trump.”
+
+</details>
+
 </details>
 
 <details>
@@ -2083,9 +2190,22 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Warned (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:03:31](/episodes/ep-sImMM04XdWY.md#t-00-03-29): “Andrew trying to maybe communicate to me... while Charlie was in the hospital, he told me that there was a list and that me and Tucker Carlson were on it”
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:14:23](/episodes/ep-7ERqbYElOfs.md#t-00-14-01): “tell me as soon as Charlie (Charlie Kirk) gets killed that I better lay low, as Andrew Kolvet did, because my name is on some list and I'm going to be next.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Worked With (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:14:10](/episodes/ep-eLgD5yUVbko.md#t-00-13-39): “yeah i just want to be very clear that i don't see myself as that i've uh you know i worked with charlie just about every day for eight years and i feel like i have a charlie gpt or something in the back of my head i mean for truly i i hear”
 
 </details>
 
@@ -2129,13 +2249,14 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>Referenced By (30)</summary>
+<summary>Referenced By (31)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:33:24](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24): “we now know that Andrew Kolvet is in the business of faking live shows in order to give himself an alibi.”
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:09:23](/episodes/ep-DEtFh2Ff-58.md#t-00-08-45): “it suggests, certainly, that there may have been some sort of a foreknowledge because for what other reason would Andrew be sitting on a tarmac just about to fly to Scottsdale when Charlie gets shot?”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:10:17](/episodes/ep-UYkXV9mYbT4.md#t-00-10-02): “Erica lied. Erica and Andrew colluded. on how to message to the public about this little fact that was never meant to be known to us.”
 
 </details>
 
@@ -2175,11 +2296,12 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:06](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:36](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “The man who had to deal with the full brunt of Andrew (Andrew Kolvet) and Erika (Erika Kirk)'s PR machine, ... they were digging up his past, claiming that he was a habitual liar.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:48:39](/episodes/ep-B9TyCs-6o_0.md#t-00-48-19): “it's an absurd allegation that she was not ever pursuing the spotlight. It is just pointedly wrong, and I don't know why he would say it, but he just says stuff a lot of the time, and that's our guy, Andrew Kolvet.”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:03:38](/episodes/ep-UYkXV9mYbT4.md#t-00-03-20): “SD card? Yeah, we know Andrew Colbett's lying because Terrell did not take the expensive camera.”
 
 </details>
 
@@ -2336,6 +2458,13 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 </details>
 
+- **[Donald J. Trump](/entities/person-donald-trump.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:29:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38): “I was told by Charlie that he and Andrew Colvette were present for that meeting with Donald Trump.”
+
+</details>
+
 - **[The ATK Company](/entities/org-the-atk-company.md)** owned by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -2351,17 +2480,19 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** warned by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:03:31](/episodes/ep-sImMM04XdWY.md#t-00-03-29): “Andrew trying to maybe communicate to me... while Charlie was in the hospital, he told me that there was a list and that me and Tucker Carlson were on it”
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:14:23](/episodes/ep-7ERqbYElOfs.md#t-00-14-01): “tell me as soon as Charlie (Charlie Kirk) gets killed that I better lay low, as Andrew Kolvet did, because my name is on some list and I'm going to be next.”
 
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:05:15](/episodes/ep-QdM9jLwjwLw.md#t-00-05-15): “meetings come out and say like yes this Hamptons Summit did happen yes Bibi (Benjamin Netanyahu) did call and try to work through with Andrew (Andrew Kolvet) why they have different memories of whether or not he called to fund things to the next level we have also confirmed that Erika (Erika Kirk) and Andrew (Andrew Kolvet) were working together on that Fort Huachuca PR response we got the craziest attacks I've ever endured Alex Jones quite entertainingly he's coming for me my whole life everything”
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:22:46](/episodes/ep-DYD_QHMPwqM.md#t-00-22-31): “The reality is her and Andrew (Andrew Kolvet) called the doctor together through a call on the day of Charlie (Charlie Kirk)'s funeral”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:10:17](/episodes/ep-UYkXV9mYbT4.md#t-00-10-02): “Erica lied. Erica and Andrew colluded. on how to message to the public about this little fact that was never meant to be known to us.”
 
 </details>
 
@@ -2370,7 +2501,26 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Andrew Kolvet (39)</strong></summary>
+<summary><strong class="section-title">Statements by Andrew Kolvet (42)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>
+
+- [00:14:10](/episodes/ep-eLgD5yUVbko.md#t-00-13-39) [○] (Claim) ["Andrew Kolvet said Turning Point USA had been pitched multiple times on a "weird..."](/statements/statement-516fcc69ba15.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Artificial intelligence](/entities/concept-artificial-intelligence.md)
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (2)</summary>
+
+- [00:12:41](/episodes/ep-UYkXV9mYbT4.md#t-00-12-05) [✓] (Claim) ["In the end, the coroner did find the bullet just beneath the skin."](/statements/statement-efefb0925053.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:13:36](/episodes/ep-UYkXV9mYbT4.md#t-00-13-23) [○] (Claim) ["The bullet traveled from C2 to C6 and then moved downward into Charlie's thorax,..."](/statements/statement-28ba667d2ca6.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (3)</summary>
@@ -2381,7 +2531,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [00:05:41](/episodes/ep-DEtFh2Ff-58.md#t-00-05-26) [○] (Claim) ["He has a pulse, but I know nothing else."](/statements/statement-d3eb8c2243e8.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:07:03](/episodes/ep-DEtFh2Ff-58.md#t-00-07-03) [○] (Claim) ["I learned Charlie Kirk had died probably 30 or 40 minutes after he was shot, bef..."](/statements/statement-7566be50f71f.md)
+- [00:07:03](/episodes/ep-DEtFh2Ff-58.md#t-00-07-03) [✓] (Claim) ["I learned Charlie Kirk had died probably 30 or 40 minutes after he was shot, bef..."](/statements/statement-7566be50f71f.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Truth Social](/entities/org-truth-social.md)
 
 </details>
@@ -2572,7 +2722,31 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Kolvet (120)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Kolvet (123)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>
+
+- [00:19:00](/episodes/ep-eLgD5yUVbko.md#t-00-19-00) (Accusation) **Candace Owens**: ["Andrew Kolvet effectively forced Charlie Kirk to interview Ben Shapiro..."](/statements/statement-32b5e729b94a.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [The New York Times](/entities/org-the-new-york-times.md)
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1)</summary>
+
+- [00:29:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38) (Claim) **Candace Owens**: ["Charlie Kirk and Andrew Kolvet were present at Donald Trump's meeting ..."](/statements/statement-808db6b3cb4f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Miriam Adelson](/entities/person-miriam-adelson.md)
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1)</summary>
+
+- [00:10:17](/episodes/ep-UYkXV9mYbT4.md#t-00-10-02) (Accusation) **Candace Owens**: ["Erika lied. Erika and Andrew colluded on how to message the public abo..."](/statements/statement-45def5a9eabe.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (8)</summary>

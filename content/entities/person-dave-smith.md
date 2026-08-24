@@ -1,6 +1,6 @@
 ---
 title: "Dave Smith"
-description: "Dave Smith (People) - 32 mentions"
+description: "Dave Smith (People) - 33 mentions"
 id: "person-dave-smith"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Part of the Problem - About](https://partoftheproblem.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-dave-smith-t-00-11-22">2025-09-15 · 00:11:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-dave-smith-t-00-59-28">2026-03-24 · 00:59:28</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-person-dave-smith-t-00-22-24">2026-03-30 · 00:22:24</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -50,6 +50,7 @@ Source: [Part of the Problem - About](https://partoftheproblem.com/about)
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-dave-smith-t-01-00-37" style="--pulse-height:14%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-dave-smith-t-00-13-18" style="--pulse-height:29%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-dave-smith-t-00-58-48" style="--pulse-height:29%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-dave-smith-t-00-22-24" style="--pulse-height:14%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -69,6 +70,7 @@ Source: [Part of the Problem - About](https://partoftheproblem.com/about)
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-dave-smith-t-01-00-37) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-dave-smith-t-00-13-18) | 2 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-dave-smith-t-00-58-48) | 2 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-dave-smith-t-00-22-24) | 1 |
 
 </details>
 </section>
@@ -76,7 +78,15 @@ Source: [Part of the Problem - About](https://partoftheproblem.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1 mentions)</summary>
+
+**[00:22:24](/episodes/ep-7ERqbYElOfs.md#ent-person-dave-smith-t-00-22-24)**
+> "A couple of weeks later, Bill Ackman would be hosting the Notorious Summit in the Hamptons and that he started asking about Epstein and Dave Smith had beat Josh Hammer in a debate. In fact, on this July 14th episode, Charlie (Charlie Kirk) has Josh Hammer on the episode asking about the evening because that evening of July 14th, Erika Kirk, who did not attend SAS in Florida, boarded a private plane with."
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (2 mentions)</summary>
@@ -253,9 +263,10 @@ Source: [Part of the Problem - About](https://partoftheproblem.com/about)
 <summary>Debated (1)</summary>
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:58](/episodes/ep-his-JBjlkh8.md#t-00-03-40): “"he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer,"”
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:22:24](/episodes/ep-7ERqbYElOfs.md#t-00-22-24): “Dave Smith had beat Josh Hammer in a debate.”
 
 </details>
 
@@ -278,9 +289,10 @@ Source: [Part of the Problem - About](https://partoftheproblem.com/about)
 <summary>Referenced By (2)</summary>
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)** debated this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:58](/episodes/ep-his-JBjlkh8.md#t-00-03-40): “"he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer,"”
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:22:24](/episodes/ep-7ERqbYElOfs.md#t-00-22-24): “Dave Smith had beat Josh Hammer in a debate.”
 
 </details>
 

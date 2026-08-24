@@ -1,6 +1,6 @@
 ---
 title: "Mark Levin"
-description: "Mark Levin (People) - 17 mentions"
+description: "Mark Levin (People) - 21 mentions"
 id: "person-mark-levin"
 type: "PERSON"
 categories:
@@ -17,9 +17,9 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-mark-levin-t-00-37-10">2025-11-04 · 00:37:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-mark-levin-t-00-43-11">2026-03-23 · 00:43:33</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-mark-levin-t-00-24-24">2026-04-13 · 00:24:40</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -37,6 +37,8 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-mark-levin-t-00-00-23" style="--pulse-height:83%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 5 mentions" title="2026-03-17 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-mark-levin-t-00-14-38" style="--pulse-height:33%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-mark-levin-t-00-43-11" style="--pulse-height:17%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-mark-levin-t-00-12-12" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 3 mentions" title="2026-04-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-mark-levin-t-00-24-24" style="--pulse-height:17%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +51,8 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-mark-levin-t-00-00-23) | 5 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-mark-levin-t-00-14-38) | 2 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-mark-levin-t-00-43-11) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-mark-levin-t-00-12-12) | 3 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-mark-levin-t-00-24-24) | 1 |
 
 </details>
 </section>
@@ -56,7 +60,29 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
+
+**[00:24:40](/episodes/ep-eLgD5yUVbko.md#ent-person-mark-levin-t-00-24-24)**
+> "talking about Mark Levin"
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (3 mentions)</summary>
+
+**[00:12:28](/episodes/ep-ZIH5-V6UPkg.md#ent-person-mark-levin-t-00-12-12)**
+> "...J. Trump. Was that written by Mark Levin? Like when he was six or who put this message tog..."
+
+**[00:17:34](/episodes/ep-ZIH5-V6UPkg.md#ent-person-mark-levin-t-00-17-26)**
+> "...nt are not on Ben Shapiro and Mark Levin's team, okay?"
+
+**[00:44:58](/episodes/ep-ZIH5-V6UPkg.md#ent-person-mark-levin-t-00-44-48)**
+> "... don't know ranting like he's mark levin and being mark levin yay yeah this is what the cr..."
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "God"
-description: "God (Concepts) - 360 mentions"
+description: "God (Concepts) - 371 mentions"
 id: "concept-god"
 type: "CONCEPT"
 categories:
@@ -18,10 +18,10 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-57-16">2025-09-15 · 00:57:42</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-04-03-55">2026-08-14 · 04:03:55</a></strong></div>
-<div><span>Episodes</span><strong>68</strong></div>
-<div><span>Mentions</span><strong>360</strong></div>
+<div><span>Episodes</span><strong>72</strong></div>
+<div><span>Mentions</span><strong>371</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -97,6 +97,10 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <a href="/episodes/ep-I0OaY6Gryqk.md#t-01-03-36" style="--pulse-height:23%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 7 mentions" title="2026-03-17 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#t-00-49-40" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-25" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#t-00-52-41" style="--pulse-height:13%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 4 mentions" title="2026-03-31 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-17-13" style="--pulse-height:13%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 4 mentions" title="2026-04-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#t-00-43-29" style="--pulse-height:8%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#t-00-12-56" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34" style="--pulse-height:13%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -170,6 +174,10 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#t-01-03-36) | 7 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#t-00-49-40) | 2 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-25) | 2 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#t-00-52-41) | 4 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-17-13) | 4 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#t-00-43-29) | 1 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#t-00-12-56) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34) | 4 |
 
 </details>
@@ -178,7 +186,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (360)</strong></summary>
+<summary><strong class="section-title">Raw mentions (371)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -194,6 +202,59 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 
 **[04:03:55](/episodes/ep-nPhCKwJ6ye8.md#t-04-03-55)**
 > "...eing said take care everybody god bless have a great weekend"
+
+</details>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2 mentions)</summary>
+
+**[00:12:56](/episodes/ep-eLgD5yUVbko.md#t-00-12-56)**
+> "God forbid"
+
+**[00:22:56](/episodes/ep-eLgD5yUVbko.md#t-00-22-32)**
+> "...s like it was a reminder that God uses all of those things for his purposes."
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:43:54](/episodes/ep-ZIH5-V6UPkg.md#t-00-43-29)**
+> "God bless and protect you and your family. Yeah, than..."
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (4 mentions)</summary>
+
+**[00:17:51](/episodes/ep-q1NRQQAYS_Q.md#t-00-17-13)**
+> "God"
+
+**[00:09:00](/episodes/ep-q1NRQQAYS_Q.md#t-00-09-00)**
+> "...irst questions they asked was god forbid if something happens to you like what what..."
+
+**[00:12:17](/episodes/ep-q1NRQQAYS_Q.md#t-00-11-54)**
+> "But we have a great board and God forbid if something happens, they'll figure it ou..."
+
+**[00:55:40](/episodes/ep-q1NRQQAYS_Q.md#t-00-55-40)**
+> "... of that man happy easter and god bless you happy easter and i so agree he led with..."
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (4 mentions)</summary>
+
+**[00:53:13](/episodes/ep-UYkXV9mYbT4.md#t-00-52-41)**
+> "God makes us in his image and one of his attributes i..."
+
+**[00:53:20](/episodes/ep-UYkXV9mYbT4.md#t-00-53-20)**
+> "... may you rest in knowing that God is in charge of ultimate justice."
+
+**[00:54:27](/episodes/ep-UYkXV9mYbT4.md#t-00-54-27)**
+> "...re that we are we are made in god's image and part of that of course is suffering a..."
+
+**[00:54:52](/episodes/ep-UYkXV9mYbT4.md#t-00-54-27)**
+> "...nt and it's like, it's just a God mission."
 
 </details>
 
@@ -1610,7 +1671,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about God (3)</strong></summary>
+<summary><strong class="section-title">Statements about God (4)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1)</summary>
+
+- [00:27:34](/episodes/ep-q1NRQQAYS_Q.md#t-00-27-29) (Claim) **Erika Kirk** (via quoted speech): ["Charlie Kirk, the Turning Point USA team, and God entrusted Erika Kirk..."](/statements/statement-84a0653e5f0e.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1)</summary>

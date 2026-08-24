@@ -1,6 +1,6 @@
 ---
 title: "Discord"
-description: "Discord (Organizations) - 24 mentions"
+description: "Discord (Organizations) - 32 mentions"
 id: "org-discord"
 type: "ORG"
 aliases:
@@ -23,28 +23,29 @@ Source: [Discord — About Discord](https://discord.com/company)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-discord-t-00-51-44">2025-09-15 · 00:52:03</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-discord-t-01-48-55">2026-08-14 · 01:48:55</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>24</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-discord-t-00-51-44">They Are Lying About Charlie Kirk. | Candace Ep 235</a> (7 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-discord-t-00-40-55">Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-discord-t-00-51-44" style="--pulse-height:100%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 7 mentions" title="2025-09-15 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-discord-t-00-16-59" style="--pulse-height:57%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 4 mentions" title="2025-09-17 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-ja26iltROkM.md#ent-org-discord-t-00-15-13" style="--pulse-height:14%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-discord-t-00-06-51" style="--pulse-height:43%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 3 mentions" title="2025-09-24 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-5autG89PW6w.md#ent-org-discord-t-00-38-02" style="--pulse-height:14%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-discord-t-00-42-32" style="--pulse-height:14%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-discord-t-00-01-24" style="--pulse-height:29%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-his-JBjlkh8.md#ent-org-discord-t-00-22-05" style="--pulse-height:14%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-discord-t-00-37-12" style="--pulse-height:29%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-discord-t-01-32-20" style="--pulse-height:29%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-discord-t-00-51-44" style="--pulse-height:88%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 7 mentions" title="2025-09-15 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-discord-t-00-16-59" style="--pulse-height:50%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 4 mentions" title="2025-09-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-org-discord-t-00-15-13" style="--pulse-height:12%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-discord-t-00-06-51" style="--pulse-height:38%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 3 mentions" title="2025-09-24 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-org-discord-t-00-38-02" style="--pulse-height:12%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-discord-t-00-42-32" style="--pulse-height:12%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-discord-t-00-01-24" style="--pulse-height:25%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-org-discord-t-00-22-05" style="--pulse-height:12%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-discord-t-00-37-12" style="--pulse-height:25%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-discord-t-00-40-55" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 8 mentions" title="2026-04-13 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-discord-t-01-32-20" style="--pulse-height:25%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -59,6 +60,7 @@ Source: [Discord — About Discord](https://discord.com/company)
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-org-discord-t-00-01-24) | 2 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-discord-t-00-22-05) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-org-discord-t-00-37-12) | 2 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-discord-t-00-40-55) | 8 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-discord-t-01-32-20) | 2 |
 
 </details>
@@ -67,7 +69,7 @@ Source: [Discord — About Discord](https://discord.com/company)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -77,6 +79,35 @@ Source: [Discord — About Discord](https://discord.com/company)
 
 **[01:48:55](/episodes/ep-nPhCKwJ6ye8.md#ent-org-discord-t-01-48-55)**
 > "...ying in fact i've had tons of discord calls about this My position's always been clear."
+
+</details>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (8 mentions)</summary>
+
+**[00:41:09](/episodes/ep-eLgD5yUVbko.md#ent-org-discord-t-00-40-55)**
+> "messages were on discord"
+
+**[00:41:37](/episodes/ep-eLgD5yUVbko.md#ent-org-discord-t-00-41-37)**
+> "...e text messages were found on Discord. Take a listen."
+
+**[00:41:44](/episodes/ep-eLgD5yUVbko.md#ent-org-discord-t-00-41-44)**
+> "...g to Robinson, made a joke on Discord."
+
+**[00:41:56](/episodes/ep-eLgD5yUVbko.md#ent-org-discord-t-00-41-44)**
+> "...uld show them the messages on Discord. He opened it and showed several messages to inve..."
+
+**[00:43:00](/episodes/ep-eLgD5yUVbko.md#ent-org-discord-t-00-43-00)**
+> "He said discord, we understood discord, we all said discord, but ..."
+
+**[00:43:09](/episodes/ep-eLgD5yUVbko.md#ent-org-discord-t-00-43-00)**
+> "Discord gave a statement on September 12th, they publishe..."
+
+**[00:43:17](/episodes/ep-eLgD5yUVbko.md#ent-org-discord-t-00-43-00)**
+> "...mily and everyone affected. A discord person said in a statement in the course of our i..."
+
+**[00:43:25](/episodes/ep-eLgD5yUVbko.md#ent-org-discord-t-00-43-00)**
+> "...ident or promoted violence on Discord."
 
 </details>
 
@@ -201,7 +232,31 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Discord (2)</strong></summary>
+<summary><strong class="section-title">Statements by Discord (1)</strong></summary>
+
+<details>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1)</summary>
+
+- [00:54:24](/episodes/ep-czVBmqZP6Ss.md#t-00-54-20) [○] (Claim) ["Discord says there is no evidence that the suspect planned this incident or prom..."](/statements/statement-6fbddf863af1.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Discord (4)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2)</summary>
+
+- [00:41:44](/episodes/ep-eLgD5yUVbko.md#t-00-41-37) (Claim) **Spencer Cox** (via quoted speech): ["Spencer Cox said investigators were shown Discord messages between Tyl..."](/statements/statement-9e5da808822c.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+- [00:43:00](/episodes/ep-eLgD5yUVbko.md#t-00-42-52) (Accusation) **Candace Owens**: ["Candace Owens accused federal authorities of changing their account fr..."](/statements/statement-377e9550e3a3.md)
+  - Also about: [FBI](/entities/org-fbi.md), [iMessage](/entities/work-imessage.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
 
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2)</summary>

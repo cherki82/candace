@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Blake Neff](/entities/person-blake-neff) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (5 mentions)
+### Evidence (6 mentions)
 
 **[Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY)**
 
@@ -32,6 +32,10 @@ object: "person-candace-owens"
 **[WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4)**
 
 - [00:14:48](/episodes/ep-k8ueJdPFel4#t-00-14-48): _Actually, I just got mad, okay? He's a liar. Blake (Blake Neff), you are a liar and you should be ashamed of yourself._
+
+**[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
+
+- [00:32:10](/episodes/ep-q1NRQQAYS_Q#t-00-32-10): _The opinion, which was shared by Elizabeth Lane, that Erica has psychopathic tendencies. By the way, Blake, looking back at you, buddy, I'm not the one who had an employer that got allegedly shot in front of my face and I didn't think to call 911._
 
 ### Related
 

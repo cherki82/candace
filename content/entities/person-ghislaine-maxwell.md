@@ -1,6 +1,6 @@
 ---
 title: "Ghislaine Maxwell"
-description: "Ghislaine Maxwell (People) - 9 mentions"
+description: "Ghislaine Maxwell (People) - 10 mentions"
 id: "person-ghislaine-maxwell"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-28-54">2025-09-15 · 00:29:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-ghislaine-maxwell-t-00-43-52">2026-02-13 · 00:43:55</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-ghislaine-maxwell-t-00-46-50">2026-04-02 · 00:46:50</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -37,6 +37,7 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-ghislaine-maxwell-t-00-15-24" style="--pulse-height:33%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-ghislaine-maxwell-t-00-36-11" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-ghislaine-maxwell-t-00-41-41" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-ghislaine-maxwell-t-00-46-50" style="--pulse-height:33%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-ghislaine-maxwell-t-00-15-24) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-ghislaine-maxwell-t-00-36-11) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-ghislaine-maxwell-t-00-41-41) | 3 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-ghislaine-maxwell-t-00-46-50) | 1 |
 
 </details>
 </section>
@@ -55,7 +57,15 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:46:50](/episodes/ep-q1NRQQAYS_Q.md#ent-person-ghislaine-maxwell-t-00-46-50)**
+> "Ghislaine Maxwell"
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (3 mentions)</summary>

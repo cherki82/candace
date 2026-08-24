@@ -1,17 +1,26 @@
 ---
 title: "Caldera Engineering"
-description: "Caldera Engineering (Organizations) - 22 mentions"
+description: "Caldera Engineering (Organizations) - 23 mentions"
 id: "org-caldera-engineering"
 type: "ORG"
+categories:
+  - "industrial engineering"
+  - "valve manufacturer"
 ---
 
 _Type: Organizations_
 
+**Categories:** industrial engineering, valve manufacturer
+
+**Entity verification:** verified
+> Canonical company name and Provo industrial-engineering identity verified against the company's official site.
+Source: [About Us - Caldera Engineering](https://calderaengineering.com/about-caldera/about-us/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-caldera-engineering-t-00-14-56">2025-09-18 · 00:15:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-caldera-engineering-t-00-32-53">2025-10-09 · 00:33:19</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#t-00-28-29">2026-04-01 · 00:28:29</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -28,6 +37,7 @@ _Type: Organizations_
 <a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-caldera-engineering-t-00-01-57" style="--pulse-height:17%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 2 mentions" title="2025-09-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-caldera-engineering-t-00-44-08" style="--pulse-height:17%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 2 mentions" title="2025-09-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-caldera-engineering-t-00-28-43" style="--pulse-height:100%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 12 mentions" title="2025-10-09 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#t-00-28-29" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -39,6 +49,7 @@ _Type: Organizations_
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-org-caldera-engineering-t-00-01-57) | 2 |
 | 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-org-caldera-engineering-t-00-44-08) | 2 |
 | 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-org-caldera-engineering-t-00-28-43) | 12 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#t-00-28-29) | 1 |
 
 </details>
 </section>
@@ -46,7 +57,15 @@ _Type: Organizations_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
+
+**[00:28:29](/episodes/ep-rupRLXmSndU.md#t-00-28-29)**
+> "Caldira engineering"
+
+</details>
 
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (12 mentions)</summary>

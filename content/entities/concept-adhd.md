@@ -1,6 +1,6 @@
 ---
 title: "Attention-deficit/hyperactivity disorder"
-description: "Attention-deficit/hyperactivity disorder (Concepts) - 2 mentions"
+description: "Attention-deficit/hyperactivity disorder (Concepts) - 3 mentions"
 id: "concept-adhd"
 type: "CONCEPT"
 aliases:
@@ -21,9 +21,9 @@ Source: [ADHD | CDC](https://www.cdc.gov/adhd/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-adhd-t-00-25-58">2026-01-13 · 00:26:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-adhd-t-00-48-21">2026-01-13 · 00:48:45</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-adhd-t-00-46-13">2026-04-10 · 00:46:44</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,12 +35,14 @@ Source: [ADHD | CDC](https://www.cdc.gov/adhd/)
 <p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-adhd-t-00-25-58">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-adhd-t-00-25-58" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-adhd-t-00-46-13" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-adhd-t-00-25-58) | 2 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-adhd-t-00-46-13) | 1 |
 
 </details>
 </section>
@@ -48,7 +50,15 @@ Source: [ADHD | CDC](https://www.cdc.gov/adhd/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:46:44](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-adhd-t-00-46-13)**
+> "...ey kind of want this cycle of ADHD. Nobody's able to hold on to a thought or a story..."
+
+</details>
 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2 mentions)</summary>

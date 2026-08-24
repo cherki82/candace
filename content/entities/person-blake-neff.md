@@ -1,6 +1,6 @@
 ---
 title: "Blake Neff"
-description: "Blake Neff (People) - 122 mentions"
+description: "Blake Neff (People) - 131 mentions"
 id: "person-blake-neff"
 type: "PERSON"
 aliases:
@@ -23,10 +23,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-person-blake-neff-t-00-15-02">2025-10-07 · 00:15:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-blake-neff-t-00-49-39">2026-03-26 · 00:50:04</a></strong></div>
-<div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>122</strong></div>
-<div><span>Statements by</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-blake-neff-t-00-39-34">2026-04-13 · 00:39:45</a></strong></div>
+<div><span>Episodes</span><strong>30</strong></div>
+<div><span>Mentions</span><strong>131</strong></div>
+<div><span>Statements by</span><strong>17</strong></div>
 <div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -64,6 +64,8 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-blake-neff-t-00-13-50" style="--pulse-height:14%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-blake-neff-t-00-43-28" style="--pulse-height:64%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 9 mentions" title="2026-03-24 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-blake-neff-t-00-49-39" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-blake-neff-t-00-00-00" style="--pulse-height:29%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 4 mentions" title="2026-04-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-blake-neff-t-00-11-16" style="--pulse-height:36%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 5 mentions" title="2026-04-13 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -97,6 +99,8 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-blake-neff-t-00-13-50) | 2 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-blake-neff-t-00-43-28) | 9 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-blake-neff-t-00-49-39) | 1 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-blake-neff-t-00-00-00) | 4 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-blake-neff-t-00-11-16) | 5 |
 
 </details>
 </section>
@@ -104,7 +108,44 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (122)</strong></summary>
+<summary><strong class="section-title">Raw mentions (131)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (5 mentions)</summary>
+
+**[00:11:16](/episodes/ep-eLgD5yUVbko.md#ent-person-blake-neff-t-00-11-16)**
+> "Blake freaked out Blake Neff"
+
+**[00:11:53](/episodes/ep-eLgD5yUVbko.md#ent-person-blake-neff-t-00-11-16)**
+> "Little too much emotion, Blake. I know how to read rums. You're not acting right..."
+
+**[00:16:17](/episodes/ep-eLgD5yUVbko.md#ent-person-blake-neff-t-00-15-53)**
+> "...hey used an AI program, which Blake Neff's reaction to me, I've been around, suggests that t..."
+
+**[00:39:28](/episodes/ep-eLgD5yUVbko.md#ent-person-blake-neff-t-00-38-59)**
+> "...t of all mine, something that Blake Neff was cutting apart about, you think there's symbol..."
+
+**[00:39:45](/episodes/ep-eLgD5yUVbko.md#ent-person-blake-neff-t-00-39-34)**
+> "... I would be pretty surprised, Blake. You wouldn't be so, so angry if you didn't know ..."
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (4 mentions)</summary>
+
+**[00:00:11](/episodes/ep-q1NRQQAYS_Q.md#ent-person-blake-neff-t-00-00-00)**
+> "Blake Neff is still employed ... at Turning Point USA."
+
+**[00:13:33](/episodes/ep-q1NRQQAYS_Q.md#ent-person-blake-neff-t-00-13-33)**
+> "...e. Okay Anyway, so yesterday, Blake Neff, he went to, or maybe it wasn't yesterday, it was..."
+
+**[00:13:57](/episodes/ep-q1NRQQAYS_Q.md#ent-person-blake-neff-t-00-13-33)**
+> "...his, what's going on here and Blake Neff was very emotionally."
+
+**[00:14:05](/episodes/ep-q1NRQQAYS_Q.md#ent-person-blake-neff-t-00-13-33)**
+> "...want to take a listen to what Blake Neff said back to the student"
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
@@ -630,9 +671,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Criticized (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:43:35](/episodes/ep-2tFYJf1klgY.md#t-00-43-25): “I have avoided commenting on most of what Candace Owens' claims are the past few months. However, her last episode contained such a blatant untruth about Charlie (Charlie Kirk)'s daily life that I feel compelled to correct it.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:16:58](/episodes/ep-q1NRQQAYS_Q.md#t-00-16-28): “Some would say he got a little too complex, okay? He said this, Candace, we haven't bothered playing it because we know psychopathic predators like yourself do not care what is true or false and normal evidentiary logic has no effect on you.”
 
 </details>
 
@@ -649,13 +691,14 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:14:48](/episodes/ep-k8ueJdPFel4.md#t-00-14-30): “Actually, I just got mad, okay? He's a liar. Blake (Blake Neff), you are a liar and you should be ashamed of yourself.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:35:14](/episodes/ep-I0OaY6Gryqk.md#t-00-34-47): “that Blake Neff now somehow holds the keys and knows what Charlie (Charlie Kirk) would have wanted. Mikey McCoy, this kid who came out of nowhere, knows exactly—like we were his best friends—so much so that we won't even”
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:55:29](/episodes/ep-SgVcnx4Oh30.md#t-00-55-07): “Blake (Blake Neff) let me tell you do not quit your day job man you do not have what it takes in Hollywood”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:32:10](/episodes/ep-q1NRQQAYS_Q.md#t-00-32-10): “The opinion, which was shared by Elizabeth Lane, that Erica has psychopathic tendencies. By the way, Blake, looking back at you, buddy, I'm not the one who had an employer that got allegedly shot in front of my face and I didn't think to call 911.”
 
 </details>
 
@@ -689,12 +732,13 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Works For (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:31:31](/episodes/ep-581dILVcEE4.md#t-00-31-27): “Blake Neff was the Turning Point USA employee that was standing directly next to super-Mikey McCoy”
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:31:54](/episodes/ep-581dILVcEE4.md#t-00-31-27): “Blake Neff was the Turning Point USA employee that was standing directly next to Mikey McCoy”
 - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:00:57](/episodes/ep-ZAuuSq_j2_w.md#t-00-00-43): “I opened the tweets, which went out from Blake Neff around midnight last night”
 - [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 @ 00:03:53](/episodes/ep-DqGNvi36ol8.md#t-00-03-41)
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:00:11](/episodes/ep-q1NRQQAYS_Q.md#t-00-00-00): “But I'm still wondering how Blake Neff is still employed. Blake Neff, he is my favorite of the shady bunch over at Turning Point USA because I just don't know how he does it, right?”
 
 </details>
 
@@ -719,20 +763,22 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:14:48](/episodes/ep-k8ueJdPFel4.md#t-00-14-30): “Actually, I just got mad, okay? He's a liar. Blake (Blake Neff), you are a liar and you should be ashamed of yourself.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:35:14](/episodes/ep-I0OaY6Gryqk.md#t-00-34-47): “that Blake Neff now somehow holds the keys and knows what Charlie (Charlie Kirk) would have wanted. Mikey McCoy, this kid who came out of nowhere, knows exactly—like we were his best friends—so much so that we won't even”
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:55:29](/episodes/ep-SgVcnx4Oh30.md#t-00-55-07): “Blake (Blake Neff) let me tell you do not quit your day job man you do not have what it takes in Hollywood”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:32:10](/episodes/ep-q1NRQQAYS_Q.md#t-00-32-10): “The opinion, which was shared by Elizabeth Lane, that Erica has psychopathic tendencies. By the way, Blake, looking back at you, buddy, I'm not the one who had an employer that got allegedly shot in front of my face and I didn't think to call 911.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:43:35](/episodes/ep-2tFYJf1klgY.md#t-00-43-25): “I have avoided commenting on most of what Candace Owens' claims are the past few months. However, her last episode contained such a blatant untruth about Charlie (Charlie Kirk)'s daily life that I feel compelled to correct it.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:16:58](/episodes/ep-q1NRQQAYS_Q.md#t-00-16-28): “Some would say he got a little too complex, okay? He said this, Candace, we haven't bothered playing it because we know psychopathic predators like yourself do not care what is true or false and normal evidentiary logic has no effect on you.”
 
 </details>
 
@@ -744,9 +790,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:31:31](/episodes/ep-581dILVcEE4.md#t-00-31-27): “Blake Neff was the Turning Point USA employee that was standing directly next to super-Mikey McCoy”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:00:11](/episodes/ep-q1NRQQAYS_Q.md#t-00-00-00): “But I'm still wondering how Blake Neff is still employed. Blake Neff, he is my favorite of the shady bunch over at Turning Point USA because I just don't know how he does it, right?”
 
 </details>
 
@@ -777,7 +824,27 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Blake Neff (12)</strong></summary>
+<summary><strong class="section-title">Statements by Blake Neff (17)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (5)</summary>
+
+- [00:14:16](/episodes/ep-q1NRQQAYS_Q.md#t-00-14-16) [✓] (Claim) ["Charlie Kirk repeatedly said that Erika Kirk would take over for him if somethin..."](/statements/statement-4d8e860cd794.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:14:44](/episodes/ep-q1NRQQAYS_Q.md#t-00-14-38) [○] (Opinion) ["Charlie and Erika Kirk were partners, and their marriage was exceptional."](/statements/statement-4257ea904ff5.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:15:11](/episodes/ep-q1NRQQAYS_Q.md#t-00-15-11) [◐] (Claim) ["There was no pressure for Erika Kirk to become Turning Point USA's CEO; everyone..."](/statements/statement-7a2bed4e4b4e.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:16:58](/episodes/ep-q1NRQQAYS_Q.md#t-00-16-28) [○] (Accusation) ["Candace Owens is a psychopathic predator who does not care what is true or false..."](/statements/statement-075a07b48b27.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:17:13](/episodes/ep-q1NRQQAYS_Q.md#t-00-17-13) [○] (Accusation) ["Candace Owens ignores evidence including DNA on a rifle and Tyler Robinson's fam..."](/statements/statement-dc9d47b1fdb2.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Deoxyribonucleic acid](/entities/concept-dna.md)
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (3)</summary>

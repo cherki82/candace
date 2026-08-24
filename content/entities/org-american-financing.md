@@ -1,6 +1,6 @@
 ---
 title: "American Financing"
-description: "American Financing (Organizations) - 257 mentions"
+description: "American Financing (Organizations) - 275 mentions"
 id: "org-american-financing"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-56-30">2025-09-15 · 00:56:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-american-financing-t-00-40-59">2026-03-26 · 00:41:07</a></strong></div>
-<div><span>Episodes</span><strong>65</strong></div>
-<div><span>Mentions</span><strong>257</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-50-35">2026-04-13 · 00:50:56</a></strong></div>
+<div><span>Episodes</span><strong>69</strong></div>
+<div><span>Mentions</span><strong>275</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -101,6 +101,10 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-american-financing-t-00-31-15" style="--pulse-height:38%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-american-financing-t-00-24-43" style="--pulse-height:50%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 4 mentions" title="2026-03-25 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-american-financing-t-00-40-14" style="--pulse-height:62%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 5 mentions" title="2026-03-26 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-american-financing-t-00-57-44" style="--pulse-height:50%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 4 mentions" title="2026-03-31 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-american-financing-t-00-49-14" style="--pulse-height:62%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 5 mentions" title="2026-04-02 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-american-financing-t-00-40-28" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 4 mentions" title="2026-04-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-49-56" style="--pulse-height:62%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 5 mentions" title="2026-04-13 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -171,6 +175,10 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-org-american-financing-t-00-31-15) | 3 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-american-financing-t-00-24-43) | 4 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-org-american-financing-t-00-40-14) | 5 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-org-american-financing-t-00-57-44) | 4 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-american-financing-t-00-49-14) | 5 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-american-financing-t-00-40-28) | 4 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-49-56) | 5 |
 
 </details>
 </section>
@@ -178,7 +186,81 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (257)</strong></summary>
+<summary><strong class="section-title">Raw mentions (275)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (5 mentions)</summary>
+
+**[00:50:10](/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-49-56)**
+> "American financing"
+
+**[00:50:19](/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-49-56)**
+> "...ve considered reaching out to American financing but hesitated because you don't want to give up y..."
+
+**[00:50:28](/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-49-56)**
+> "Well, that's why American financing created the smart equity loan, a simple, smart wa..."
+
+**[00:50:49](/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-50-35)**
+> "...d out if you qualify, so call American Financing today at 800-795-1210."
+
+**[00:50:56](/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-50-35)**
+> "... that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, that's American. American..."
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (4 mentions)</summary>
+
+**[00:40:40](/episodes/ep-ZIH5-V6UPkg.md#ent-org-american-financing-t-00-40-28)**
+> "Also remind you guys about American financing because between groceries, travel and higher pric..."
+
+**[00:40:48](/episodes/ep-ZIH5-V6UPkg.md#ent-org-american-financing-t-00-40-28)**
+> "...ve considered reaching out to American Financing, but hesitated because you don't want to give up ..."
+
+**[00:41:19](/episodes/ep-ZIH5-V6UPkg.md#ent-org-american-financing-t-00-41-12)**
+> "...d out if you qualify, so call American Financing today at 800-795-1210."
+
+**[00:41:26](/episodes/ep-ZIH5-V6UPkg.md#ent-org-american-financing-t-00-41-12)**
+> "...that's 800-795-1210, or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing...."
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (5 mentions)</summary>
+
+**[00:49:14](/episodes/ep-q1NRQQAYS_Q.md#ent-org-american-financing-t-00-49-14)**
+> "American financing"
+
+**[00:49:30](/episodes/ep-q1NRQQAYS_Q.md#ent-org-american-financing-t-00-49-14)**
+> "...be considered reaching out to American Financing, but hesitated because you don't want to give up ..."
+
+**[00:49:38](/episodes/ep-q1NRQQAYS_Q.md#ent-org-american-financing-t-00-49-14)**
+> "Well, that's why American Financing created the SMART Equity Loan, which is a simple ..."
+
+**[00:49:59](/episodes/ep-q1NRQQAYS_Q.md#ent-org-american-financing-t-00-49-59)**
+> "...d out if you qualify, so call American Financing today at 800-795-1210."
+
+**[00:50:05](/episodes/ep-q1NRQQAYS_Q.md#ent-org-american-financing-t-00-49-59)**
+> "...that's 800-795-1210. Or visit AmericanFinancing.net slash Owens. AmericanFinancing.net slash Owen..."
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (4 mentions)</summary>
+
+**[00:57:44](/episodes/ep-UYkXV9mYbT4.md#ent-org-american-financing-t-00-57-44)**
+> "...want to remind you guys about American financing because between groceries, travel and higher pric..."
+
+**[00:58:00](/episodes/ep-UYkXV9mYbT4.md#ent-org-american-financing-t-00-57-44)**
+> "...ve considered reaching out to American financing, but maybe hesitated because you don't want to gi..."
+
+**[00:58:09](/episodes/ep-UYkXV9mYbT4.md#ent-org-american-financing-t-00-57-44)**
+> "Well, that's why American financing has now created the smart equity loan, which is a..."
+
+**[00:58:29](/episodes/ep-UYkXV9mYbT4.md#ent-org-american-financing-t-00-58-29)**
+> "...d out if you qualify, so call American Financing today at 800-795-1210. Again, that's 800-795-1210..."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (5 mentions)</summary>
@@ -1273,13 +1355,14 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:45:46](/episodes/ep-ZzAT2xijKGQ.md#t-00-45-23): “Also going to remind you guys about American financing because have you looked at your credit card statements lately?”
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:46:59](/episodes/ep-5-HUyv9LyMg.md#t-00-46-59): “I remind you guys about American Financing”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:56:42](/episodes/ep-I0OaY6Gryqk.md#t-00-56-29): “So call American Financing today at 800-795-1210. Again, that's 800-795-1210. Or visit AmericanFinancing.net slash Owens, AmericanFinancing.net slash Owens.”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:58:29](/episodes/ep-UYkXV9mYbT4.md#t-00-58-29): “There are no upfront fees to find out if you qualify, so call American Financing today at 800-795-1210.”
 
 </details>
 
@@ -1289,13 +1372,14 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:45:46](/episodes/ep-ZzAT2xijKGQ.md#t-00-45-23): “Also going to remind you guys about American financing because have you looked at your credit card statements lately?”
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:46:59](/episodes/ep-5-HUyv9LyMg.md#t-00-46-59): “I remind you guys about American Financing”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:56:42](/episodes/ep-I0OaY6Gryqk.md#t-00-56-29): “So call American Financing today at 800-795-1210. Again, that's 800-795-1210. Or visit AmericanFinancing.net slash Owens, AmericanFinancing.net slash Owens.”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:58:29](/episodes/ep-UYkXV9mYbT4.md#t-00-58-29): “There are no upfront fees to find out if you qualify, so call American Financing today at 800-795-1210.”
 
 </details>
 

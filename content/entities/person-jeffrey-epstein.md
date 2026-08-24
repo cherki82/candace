@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Epstein"
-description: "Jeffrey Epstein (People) - 254 mentions"
+description: "Jeffrey Epstein (People) - 272 mentions"
 id: "person-jeffrey-epstein"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-28-54">2025-09-15 · 00:29:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-jeffrey-epstein-t-00-37-32">2026-03-25 · 00:38:00</a></strong></div>
-<div><span>Episodes</span><strong>57</strong></div>
-<div><span>Mentions</span><strong>254</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-jeffrey-epstein-t-00-41-46">2026-04-10 · 00:41:46</a></strong></div>
+<div><span>Episodes</span><strong>61</strong></div>
+<div><span>Mentions</span><strong>272</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>61</strong></div>
+<div><span>Statements about</span><strong>66</strong></div>
 <div><span>Relationships</span><strong>28</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -92,6 +92,10 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-jeffrey-epstein-t-00-48-08" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-jeffrey-epstein-t-00-33-24" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-jeffrey-epstein-t-00-28-01" style="--pulse-height:23%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 6 mentions" title="2026-03-25 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-jeffrey-epstein-t-00-04-41" style="--pulse-height:12%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-person-jeffrey-epstein-t-00-40-20" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-jeffrey-epstein-t-00-45-32" style="--pulse-height:31%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 8 mentions" title="2026-04-02 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-jeffrey-epstein-t-00-10-49" style="--pulse-height:19%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 5 mentions" title="2026-04-10 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -154,6 +158,10 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-jeffrey-epstein-t-00-48-08) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-jeffrey-epstein-t-00-33-24) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-jeffrey-epstein-t-00-28-01) | 6 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-jeffrey-epstein-t-00-04-41) | 3 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-jeffrey-epstein-t-00-40-20) | 2 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-jeffrey-epstein-t-00-45-32) | 8 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-jeffrey-epstein-t-00-10-49) | 5 |
 
 </details>
 </section>
@@ -161,7 +169,81 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (254)</strong></summary>
+<summary><strong class="section-title">Raw mentions (272)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (5 mentions)</summary>
+
+**[00:10:49](/episodes/ep-ZIH5-V6UPkg.md#ent-person-jeffrey-epstein-t-00-10-49)**
+> "...st you saying, what about the Epstein files? That seems to be a theme with you, protect..."
+
+**[00:14:01](/episodes/ep-ZIH5-V6UPkg.md#ent-person-jeffrey-epstein-t-00-13-37)**
+> "You belong to the Epstein class. That is your legacy now. People will see y..."
+
+**[00:18:05](/episodes/ep-ZIH5-V6UPkg.md#ent-person-jeffrey-epstein-t-00-17-56)**
+> "... corrupt kid, Howard Ludnick, Jeffrey Epstein class table. Thank you so much for delineating th..."
+
+**[00:19:57](/episodes/ep-ZIH5-V6UPkg.md#ent-person-jeffrey-epstein-t-00-19-57)**
+> "...im to win just because of the Epstein files and being at war with Iran for Israel. They..."
+
+**[00:41:46](/episodes/ep-ZIH5-V6UPkg.md#ent-person-jeffrey-epstein-t-00-41-46)**
+> "...comfortable. What is in those Epstein files?"
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (8 mentions)</summary>
+
+**[00:45:38](/episodes/ep-q1NRQQAYS_Q.md#ent-person-jeffrey-epstein-t-00-45-32)**
+> "the Epstein files."
+
+**[00:45:46](/episodes/ep-q1NRQQAYS_Q.md#ent-person-jeffrey-epstein-t-00-45-32)**
+> "...of friends who are all in the Epstein files."
+
+**[00:45:55](/episodes/ep-q1NRQQAYS_Q.md#ent-person-jeffrey-epstein-t-00-45-32)**
+> "They protected the Epstein files together, okay? It was under her watch, and..."
+
+**[00:46:06](/episodes/ep-q1NRQQAYS_Q.md#ent-person-jeffrey-epstein-t-00-46-06)**
+> "... a fake, a deep fake video of Jeffrey Epstein in his cell committing suicide."
+
+**[00:46:26](/episodes/ep-q1NRQQAYS_Q.md#ent-person-jeffrey-epstein-t-00-46-06)**
+> "... comment on it. Yeah, because Jeffrey Epstein is clearly alive."
+
+**[00:47:25](/episodes/ep-q1NRQQAYS_Q.md#ent-person-jeffrey-epstein-t-00-46-50)**
+> "...ow I kind of backed you up on Jeffrey Epstein but you know how Trump is you're in or you're out..."
+
+**[00:47:30](/episodes/ep-q1NRQQAYS_Q.md#ent-person-jeffrey-epstein-t-00-47-30)**
+> "...ow i kind of backed you up on jeffrey epstein but you know how trump is you're in or you're out..."
+
+**[00:47:56](/episodes/ep-q1NRQQAYS_Q.md#ent-person-jeffrey-epstein-t-00-47-56)**
+> "...hole everybody is sleazy post epstein but don't don't get excited guys it certainly is ..."
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2 mentions)</summary>
+
+**[00:40:20](/episodes/ep-rupRLXmSndU.md#ent-person-jeffrey-epstein-t-00-40-20)**
+> "what a way to honor holy week sue them sue them everybody's just jealous of you it's like there's something that's just so middle school about this it's no um we want to know who killed charlie kirk so could you park aside the lawyers and get information for us trump no you can't do that can you right you obviously can't do that you know if you're gonna sue somebody maybe people that are in the epstein files"
+
+**[00:43:52](/episodes/ep-rupRLXmSndU.md#ent-person-jeffrey-epstein-t-00-43-46)**
+> "...are not being answered by the Epstein class."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (3 mentions)</summary>
+
+**[00:05:16](/episodes/ep-7ERqbYElOfs.md#ent-person-jeffrey-epstein-t-00-04-41)**
+> "doing all sorts of weird. sexual rights. All the stuff that we are establishing today is actually happening with the elites Jeffrey Epstein type stuff was going on."
+
+**[00:22:24](/episodes/ep-7ERqbYElOfs.md#ent-person-jeffrey-epstein-t-00-22-24)**
+> "... that he started asking about Epstein and Dave Smith had beat Josh Hammer in a debate. ..."
+
+**[00:34:22](/episodes/ep-7ERqbYElOfs.md#ent-person-jeffrey-epstein-t-00-34-13)**
+> "...d to the billionaire class of Epstein type people who lie about everything."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (6 mentions)</summary>
@@ -1485,7 +1567,32 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jeffrey Epstein (61)</strong></summary>
+<summary><strong class="section-title">Statements about Jeffrey Epstein (66)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (2)</summary>
+
+- [00:10:49](/episodes/ep-ZIH5-V6UPkg.md#t-00-10-49) (Accusation) **Candace Owens**: ["Did Donald Trump's response to demands for the Epstein files reveal a ..."](/statements/statement-6d2e298531b6.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:14:01](/episodes/ep-ZIH5-V6UPkg.md#t-00-13-37) (Opinion) **Candace Owens**: ["Donald Trump belongs to the Epstein class, and that is now his legacy."](/statements/statement-4903284b7038.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (3)</summary>
+
+- [00:45:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-45-32) (Accusation) **Candace Owens**: ["Pam Bondi acted on Donald Trump's instructions regarding the Epstein f..."](/statements/statement-2d7928bb1128.md)
+  - Also about: [Pam Bondi](/entities/person-pam-bondi.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:46:06](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-06) (Accusation) **Candace Owens**: ["Officials released a deepfake video of Jeffrey Epstein in his cell, th..."](/statements/statement-318a4f1575a4.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Pam Bondi](/entities/person-pam-bondi.md), [Kash Patel](/entities/person-kash-patel.md)
+
+- [00:46:37](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-06) (Accusation) **Candace Owens**: ["Jeffrey Epstein is alive, and his removal from custody was an Israeli ..."](/statements/statement-732fff5e8528.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (3)</summary>

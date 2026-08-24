@@ -4,9 +4,10 @@ description: "\"Charlie Kirk's parents were not aboard N582MM because J.D. Vance
 statement_id: "statement-719ea2a38654"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Reliable reporting confirms Air Force Two carried Charlie Kirk casket and family from Utah to Arizona on September 11. It does not identify his parents as passengers or establish that they could not have flown on N582MM on September 10, so the stated reason does not prove the exclusion.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Charlie Kirk casket flown home aboard Air Force Two](https://www.scrippsnews.com/us-news/charlie-kirks-casket-to-be-flown-home-to-arizona-aboard-air-force-two)
+
+*Verified: 2026-08-24T10:57:41.271295*
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Frankism"
-description: "Frankism (Concepts) - 6 mentions"
+description: "Frankism (Concepts) - 7 mentions"
 id: "concept-frankism"
 type: "CONCEPT"
 aliases:
@@ -18,11 +18,11 @@ _Type: Concepts_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-concept-frankism-t-00-52-11">2025-10-28 · 00:00:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-concept-frankism-t-00-40-56">2026-03-12 · 00:41:14</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-frankism-t-00-36-32">2026-04-10 · 00:36:56</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -35,6 +35,7 @@ _Type: Concepts_
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-frankism-t-01-02-09" style="--pulse-height:50%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-concept-frankism-t-00-11-33" style="--pulse-height:100%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-concept-frankism-t-00-40-56" style="--pulse-height:50%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-frankism-t-00-36-32" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ _Type: Concepts_
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-concept-frankism-t-01-02-09) | 1 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-concept-frankism-t-00-11-33) | 2 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-concept-frankism-t-00-40-56) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-frankism-t-00-36-32) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:36:56](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-frankism-t-00-36-32)**
+> "...e right about Sabatianism and Frankism and the Likud party is not at all, it's not a ref..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>
@@ -101,7 +111,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Frankism (1)</strong></summary>
+<summary><strong class="section-title">Statements about Frankism (2)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1)</summary>
+
+- [00:36:56](/episodes/ep-ZIH5-V6UPkg.md#t-00-36-32) (Claim) **Candace Owens**: ["Jewish Americans and rabbis have written Candace Owens saying she is r..."](/statements/statement-7272ca9671b8.md)
+  - Also about: [Jewish people](/entities/concept-jewish-people.md), [Sabbateanism](/entities/concept-sabbateanism.md), [Likud](/entities/org-likud.md)
+
+</details>
 
 <details>
 <summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1)</summary>

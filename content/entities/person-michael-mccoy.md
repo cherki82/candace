@@ -1,6 +1,6 @@
 ---
 title: "Michael McCoy"
-description: "Michael McCoy (People) - 240 mentions"
+description: "Michael McCoy (People) - 256 mentions"
 id: "person-michael-mccoy"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-michael-mccoy-t-00-19-30">2025-10-01 · 00:19:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-michael-mccoy-t-00-43-07">2026-03-26 · 00:43:22</a></strong></div>
-<div><span>Episodes</span><strong>44</strong></div>
-<div><span>Mentions</span><strong>240</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-michael-mccoy-t-00-51-08">2026-04-02 · 00:51:29</a></strong></div>
+<div><span>Episodes</span><strong>46</strong></div>
+<div><span>Mentions</span><strong>256</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>42</strong></div>
-<div><span>Relationships</span><strong>19</strong></div>
+<div><span>Statements about</span><strong>47</strong></div>
+<div><span>Relationships</span><strong>21</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -81,6 +81,8 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-michael-mccoy-t-00-32-43" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-12-33" style="--pulse-height:18%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 7 mentions" title="2026-03-25 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-michael-mccoy-t-00-12-37" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-michael-mccoy-t-00-19-58" style="--pulse-height:18%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 7 mentions" title="2026-03-30 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-michael-mccoy-t-00-00-22" style="--pulse-height:23%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 9 mentions" title="2026-04-02 · 9 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -130,6 +132,8 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-michael-mccoy-t-00-32-43) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-michael-mccoy-t-00-12-33) | 7 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-michael-mccoy-t-00-12-37) | 2 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-michael-mccoy-t-00-19-58) | 7 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-michael-mccoy-t-00-00-22) | 9 |
 
 </details>
 </section>
@@ -137,7 +141,65 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (240)</strong></summary>
+<summary><strong class="section-title">Raw mentions (256)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (9 mentions)</summary>
+
+**[00:00:52](/episodes/ep-q1NRQQAYS_Q.md#ent-person-michael-mccoy-t-00-00-22)**
+> "Mikey McCoy"
+
+**[00:20:54](/episodes/ep-q1NRQQAYS_Q.md#ent-person-michael-mccoy-t-00-20-40)**
+> "...ing. He's in Korea. He's with Mikey McCoy. Why is it suddenly that this one particular and ..."
+
+**[00:32:27](/episodes/ep-q1NRQQAYS_Q.md#ent-person-michael-mccoy-t-00-32-10)**
+> "...just running to the back with Mikey and Mikey calls his wife and you call your mom an..."
+
+**[00:33:25](/episodes/ep-q1NRQQAYS_Q.md#ent-person-michael-mccoy-t-00-33-25)**
+> "...en she received the news from mikey mccoy that charlie was shot because i cannot ignore my ..."
+
+**[00:35:49](/episodes/ep-q1NRQQAYS_Q.md#ent-person-michael-mccoy-t-00-35-33)**
+> "...husband's longtime assistant, Michael McCoy, appear on her phone."
+
+**[00:37:15](/episodes/ep-q1NRQQAYS_Q.md#ent-person-michael-mccoy-t-00-37-15)**
+> "...grab my phone and that's when Mikey started calling me, called me within seconds."
+
+**[00:37:43](/episodes/ep-q1NRQQAYS_Q.md#ent-person-michael-mccoy-t-00-37-43)**
+> "...e there she got the call with Mikey she collapses in a parking lot also I was just if..."
+
+**[00:51:08](/episodes/ep-q1NRQQAYS_Q.md#ent-person-michael-mccoy-t-00-51-08)**
+> "...very like i said little edits mikey calling within seconds oh actually no mikey did n..."
+
+**[00:51:29](/episodes/ep-q1NRQQAYS_Q.md#ent-person-michael-mccoy-t-00-51-08)**
+> "... more thing did charlie train mikey mccoy to call his wife that's weird That was the initia..."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (7 mentions)</summary>
+
+**[00:13:40](/episodes/ep-7ERqbYElOfs.md#ent-person-michael-mccoy-t-00-19-58)**
+> "It never stops. It is a global trillion dollar industry. These are the facts. And no, it is not a coincidence that everyone involved on September 10th happens to have a military connection, former military, military intelligence, Frank Turek, the McCoys, naval intelligence. It's not a coincidence that Kash Patel kept stressing the number 33."
+
+**[00:20:28](/episodes/ep-7ERqbYElOfs.md#ent-person-michael-mccoy-t-00-19-58)**
+> "Mikey (Michael McCoy)'s on the phone."
+
+**[00:20:31](/episodes/ep-7ERqbYElOfs.md#ent-person-michael-mccoy-t-00-19-58)**
+> "Somehow Mikey (Michael McCoy) pulled himself together, called who needed to be..."
+
+**[00:21:01](/episodes/ep-7ERqbYElOfs.md#ent-person-michael-mccoy-t-00-21-01)**
+> "...y. So I don't know how Mikey (Michael McCoy) arranged what Justin (Justin Streiff) arranged o..."
+
+**[00:21:21](/episodes/ep-7ERqbYElOfs.md#ent-person-michael-mccoy-t-00-21-01)**
+> "...irk) get so close with Mikey (Michael McCoy)'s assistant and Stacey Sheridan that they would ..."
+
+**[00:22:51](/episodes/ep-7ERqbYElOfs.md#ent-person-michael-mccoy-t-00-22-24)**
+> "...oCastro, again, that's Mikey (Michael McCoy)'s assistant, and she headed to Long Beach alongs..."
+
+**[00:24:21](/episodes/ep-7ERqbYElOfs.md#ent-person-michael-mccoy-t-00-24-21)**
+> "...4th to Long Beach with Mikey (Michael McCoy)'s assistants who was very young."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (2 mentions)</summary>
@@ -1147,9 +1209,22 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <summary>Employs (1)</summary>
 
 - **[Katherine Locastro](/entities/person-katherine-locastro.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:18:09](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-09): “Mikey McCoy's assistant”
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:21:21](/episodes/ep-7ERqbYElOfs.md#t-00-21-01): “When did Erica (Erika Kirk) get so close with Mikey (Michael McCoy)'s assistant and Stacey Sheridan”
+
+</details>
+
+</details>
+
+<details>
+<summary>Formerly Worked For (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:49](/episodes/ep-q1NRQQAYS_Q.md#t-00-35-33): “It continues. Ms. Kirk was sitting in her mother's hospital room at 1123 a.m. local time in Phoenix when she saw the number of her husband's longtime assistant, Michael McCoy, appear on her phone.”
 
 </details>
 
@@ -1207,7 +1282,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 <details>
-<summary>Referenced By (10)</summary>
+<summary>Referenced By (11)</summary>
 
 - **[Blake Neff](/entities/person-blake-neff.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1238,6 +1313,13 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-17): “She has suggested that Michael McCoy, Charlie Kirk's chief of staff,”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:49](/episodes/ep-q1NRQQAYS_Q.md#t-00-35-33): “It continues. Ms. Kirk was sitting in her mother's hospital room at 1123 a.m. local time in Phoenix when she saw the number of her husband's longtime assistant, Michael McCoy, appear on her phone.”
 
 </details>
 
@@ -1287,9 +1369,10 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 - **[Katherine Locastro](/entities/person-katherine-locastro.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:18:09](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-09): “Mikey McCoy's assistant”
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:21:21](/episodes/ep-7ERqbYElOfs.md#t-00-21-01): “When did Erica (Erika Kirk) get so close with Mikey (Michael McCoy)'s assistant and Stacey Sheridan”
 
 </details>
 
@@ -1327,7 +1410,32 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Michael McCoy (42)</strong></summary>
+<summary><strong class="section-title">Statements about Michael McCoy (47)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (3)</summary>
+
+- [00:35:49](/episodes/ep-q1NRQQAYS_Q.md#t-00-35-33) (Claim) **The New York Times** (via quoted article): ["Erika Kirk was in her mother's hospital room in Phoenix at 11:23 a.m. ..."](/statements/statement-2d74b37b7029.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Phoenix, Arizona](/entities/gpe-phoenix-arizona.md)
+
+- [00:36:56](/episodes/ep-q1NRQQAYS_Q.md#t-00-36-56) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk was at her mother's doctor's appointment when Michael McCoy..."](/statements/statement-ef1c158aaaca.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:51:29](/episodes/ep-q1NRQQAYS_Q.md#t-00-51-08) (Claim) **Candace Owens**: ["Michael McCoy called his wife before three-way calling Erika Kirk minu..."](/statements/statement-1ee87eddbc0a.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (2)</summary>
+
+- [00:20:31](/episodes/ep-7ERqbYElOfs.md#t-00-19-58) (Claim) **Frank Turek** (via quoted speech): ["Michael McCoy arranged a plane to bring Erika Kirk after Charlie Kirk ..."](/statements/statement-8e072d3b4eee.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:21:01](/episodes/ep-7ERqbYElOfs.md#t-00-21-01) (Claim) **Candace Owens** (via paraphrase): ["Justin Streiff told Candace Owens that he arranged all the planes on t..."](/statements/statement-a16bbd080976.md)
+  - Also about: [Justin Streiff](/entities/person-justin-streiff.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>

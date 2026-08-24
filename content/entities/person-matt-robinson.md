@@ -1,6 +1,6 @@
 ---
 title: "Matt Robinson"
-description: "Matt Robinson (People) - 15 mentions"
+description: "Matt Robinson (People) - 17 mentions"
 id: "person-matt-robinson"
 type: "PERSON"
 categories:
@@ -17,12 +17,12 @@ _Type: People_
 Source: [Investigator details surveillance of Tyler Robinson on the day Charlie Kirk was shot](https://www.kpcw.org/state-regional/2026-07-08/investigator-details-surveillance-of-tyler-robinson-on-the-day-charlie-kirk-was-shot)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-matt-robinson-t-00-48-43">2026-08-14 · 00:48:43</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-person-matt-robinson-t-00-41-34">2026-03-30 · 00:41:34</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-matt-robinson-t-03-25-12">2026-08-14 · 03:25:17</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -31,12 +31,16 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-matt-robinson-t-00-48-43">Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast</a> (15 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-matt-robinson-t-00-41-34" style="--pulse-height:8%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-matt-robinson-t-00-21-30" style="--pulse-height:8%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-matt-robinson-t-00-48-43" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 15 mentions" title="2026-08-14 · 15 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-matt-robinson-t-00-41-34) | 1 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-matt-robinson-t-00-21-30) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-matt-robinson-t-00-48-43) | 15 |
 
 </details>
@@ -45,7 +49,7 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (15 mentions)</summary>
@@ -97,6 +101,22 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 
 </details>
 
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
+
+**[00:21:37](/episodes/ep-UYkXV9mYbT4.md#ent-person-matt-robinson-t-00-21-30)**
+> "...ant to the stand. And because Matt Robinson. He says, this is my gun that I gave to Tyler Rob..."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1 mentions)</summary>
+
+**[00:41:34](/episodes/ep-7ERqbYElOfs.md#ent-person-matt-robinson-t-00-41-34)**
+> "But we got to talk to Mike Mitchell. Mike Mitchell is now speaking on behalf of Matt Robinson. Didn't Mike Mitchell sign a statement at the police station?"
+
+</details>
+
 </details>
 
 <details open>
@@ -106,9 +126,11 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 <summary>Parent Of (1)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 01:35:26](/episodes/ep-nPhCKwJ6ye8.md#t-01-35-14): “They went to the parents as well to Matt Robinson. Amber basically said your life's at risk. risk there could be somebody who jumps up and wants to avenge Charlie Kirk and you know we're going to watch you and they went into a federal safe house what happens next is that they started thinking that the feds were maybe gonna like maybe not as honest as they thought and they”
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:41:28](/episodes/ep-7ERqbYElOfs.md#t-00-40-57): “Tyler Robinson ... his dad recognized him. ... Mike Mitchell is now speaking on behalf of Matt Robinson.”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:21:37](/episodes/ep-UYkXV9mYbT4.md#t-00-21-30): “And because Matt Robinson. He says, this is my gun that I gave to Tyler Robinson. It is common sense to me that they would put him on the stand and they say, do you recognize this gun? Yes, I recognize the gun. You can't lie about that. Is this your gun? Yes. You're going to contain your questions just to get him to identify that that's his son and that is his gun and that he gave his gun to his son.”
 
 </details>
 
@@ -118,9 +140,11 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 <summary>Referenced By (1)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)** child of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 01:35:26](/episodes/ep-nPhCKwJ6ye8.md#t-01-35-14): “They went to the parents as well to Matt Robinson. Amber basically said your life's at risk. risk there could be somebody who jumps up and wants to avenge Charlie Kirk and you know we're going to watch you and they went into a federal safe house what happens next is that they started thinking that the feds were maybe gonna like maybe not as honest as they thought and they”
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:41:28](/episodes/ep-7ERqbYElOfs.md#t-00-40-57): “Tyler Robinson ... his dad recognized him. ... Mike Mitchell is now speaking on behalf of Matt Robinson.”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:21:37](/episodes/ep-UYkXV9mYbT4.md#t-00-21-30): “And because Matt Robinson. He says, this is my gun that I gave to Tyler Robinson. It is common sense to me that they would put him on the stand and they say, do you recognize this gun? Yes, I recognize the gun. You can't lie about that. Is this your gun? Yes. You're going to contain your questions just to get him to identify that that's his son and that is his gun and that he gave his gun to his son.”
 
 </details>
 
@@ -129,7 +153,7 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Matt Robinson (3)</strong></summary>
+<summary><strong class="section-title">Statements about Matt Robinson (5)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3)</summary>
@@ -142,6 +166,17 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 
 - [03:25:17](/episodes/ep-nPhCKwJ6ye8.md#t-03-25-12) (Citation) **Candace Owens**: ["After rewatching the testimony, Candace Owens corrected her earlier cl..."](/statements/statement-7d36617db0e1.md)
   - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Amber Robinson](/entities/person-amber-robinson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (2)</summary>
+
+- [00:29:40](/episodes/ep-7ERqbYElOfs.md#t-00-29-32) (Claim) **Candace Owens**: ["There is no evidence that Tyler Robinson's father turned him in or tha..."](/statements/statement-0c5eb922496d.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:42:07](/episodes/ep-7ERqbYElOfs.md#t-00-42-07) (Claim) **Nate Brooksby** (via quoted speech): ["A friend drove Tyler Robinson and his parents to Nate Brooksby's offic..."](/statements/statement-ee7afef39cc7.md)
+  - Also about: [Nate Brooksby](/entities/person-nate-brooksby.md), [Mike Mitchell](/entities/person-mike-mitchell.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>
 

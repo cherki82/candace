@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [PreBorn!](/entities/org-preborn) endorsed by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
+
+- [00:34:20](/episodes/ep-UYkXV9mYbT4#t-00-34-20): _Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash candid. Candace, again, that's preborn.com slash Candace._
 
 **[Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ)**
 

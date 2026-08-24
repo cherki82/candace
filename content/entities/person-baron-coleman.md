@@ -1,6 +1,6 @@
 ---
 title: "Baron Coleman"
-description: "Baron Coleman (People) - 78 mentions"
+description: "Baron Coleman (People) - 87 mentions"
 id: "person-baron-coleman"
 type: "PERSON"
 aliases:
@@ -22,10 +22,10 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-51">2025-12-16 · 00:14:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-baron-coleman-t-00-48-11">2026-03-26 · 00:48:30</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>78</strong></div>
-<div><span>Statements by</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-baron-coleman-t-00-32-13">2026-04-13 · 00:32:13</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>87</strong></div>
+<div><span>Statements by</span><strong>22</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -49,6 +49,10 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-baron-coleman-t-00-31-03" style="--pulse-height:11%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-00-01" style="--pulse-height:74%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 14 mentions" title="2026-03-24 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-baron-coleman-t-00-00-01" style="--pulse-height:47%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 9 mentions" title="2026-03-26 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-baron-coleman-t-01-00-47" style="--pulse-height:11%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-person-baron-coleman-t-00-08-59" style="--pulse-height:16%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 3 mentions" title="2026-04-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-baron-coleman-t-00-01-20" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-baron-coleman-t-00-00-26" style="--pulse-height:16%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 3 mentions" title="2026-04-13 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +72,10 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-baron-coleman-t-00-31-03) | 2 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-00-01) | 14 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-baron-coleman-t-00-00-01) | 9 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-baron-coleman-t-01-00-47) | 2 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-baron-coleman-t-00-08-59) | 3 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-baron-coleman-t-00-01-20) | 1 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-baron-coleman-t-00-00-26) | 3 |
 
 </details>
 </section>
@@ -75,7 +83,54 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (78)</strong></summary>
+<summary><strong class="section-title">Raw mentions (87)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (3 mentions)</summary>
+
+**[00:00:26](/episodes/ep-eLgD5yUVbko.md#ent-person-baron-coleman-t-00-00-26)**
+> "baron coleman made a shocking discovery"
+
+**[00:30:32](/episodes/ep-eLgD5yUVbko.md#ent-person-baron-coleman-t-00-30-22)**
+> "..., you guys, getting into what Baron Coleman discovered. So one of the earliest stories that w..."
+
+**[00:32:13](/episodes/ep-eLgD5yUVbko.md#ent-person-baron-coleman-t-00-32-13)**
+> "...resting. So rather amazingly, Baron Coleman was climbing through documents which were filed b..."
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:01:38](/episodes/ep-q1NRQQAYS_Q.md#ent-person-baron-coleman-t-00-01-20)**
+> "Baron Coleman"
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (3 mentions)</summary>
+
+**[00:09:30](/episodes/ep-rupRLXmSndU.md#ent-person-baron-coleman-t-00-08-59)**
+> "Well, apparently I'm a little late to the party because I was talking to Baron Coleman this weekend and he's like, yeah, I did an episode on Zachariah Qureshi."
+
+**[00:13:04](/episodes/ep-rupRLXmSndU.md#ent-person-baron-coleman-t-00-13-04)**
+> "And I'm going to let Baron Coleman explain to you their... curious pattern of federa..."
+
+**[00:51:28](/episodes/ep-rupRLXmSndU.md#ent-person-baron-coleman-t-00-51-28)**
+> "...so what i appreciate about uh baron and also lionel is their experience as lawyers th..."
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (2 mentions)</summary>
+
+**[01:00:47](/episodes/ep-UYkXV9mYbT4.md#ent-person-baron-coleman-t-01-00-47)**
+> "... smaller YouTubers from Nisi, Baron, Coleman everybody everybody just just gave somet..."
+
+**[01:02:28](/episodes/ep-UYkXV9mYbT4.md#ent-person-baron-coleman-t-01-02-10)**
+> "Right. Baron Coleman does a very good job of explaining that there's l..."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (9 mentions)</summary>
@@ -440,7 +495,15 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Baron Coleman (21)</strong></summary>
+<summary><strong class="section-title">Statements by Baron Coleman (22)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1)</summary>
+
+- [00:15:27](/episodes/ep-rupRLXmSndU.md#t-00-15-13) [✓] (Citation) ["BILT received approximately $7.5 million in federal contracts dated June 1 and J..."](/statements/statement-e62d55f45502.md)
+  - About: [BILT Incorporated](/entities/org-bilt-incorporated.md), [USAspending.gov](/entities/org-usaspending-gov.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (4)</summary>

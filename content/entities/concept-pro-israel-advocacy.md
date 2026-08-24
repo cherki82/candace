@@ -1,6 +1,6 @@
 ---
 title: "Pro-Israel advocacy"
-description: "Pro-Israel advocacy (Concepts) - 16 mentions"
+description: "Pro-Israel advocacy (Concepts) - 18 mentions"
 id: "concept-pro-israel-advocacy"
 type: "CONCEPT"
 aliases:
@@ -23,10 +23,10 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-pro-israel-advocacy-t-00-12-29">2026-01-06 · 00:12:39</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12">2026-08-14 · 00:28:48</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -45,6 +45,7 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-pro-israel-advocacy-t-00-44-06" style="--pulse-height:33%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-concept-pro-israel-advocacy-t-00-04-23" style="--pulse-height:33%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-concept-pro-israel-advocacy-t-00-03-17" style="--pulse-height:33%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-concept-pro-israel-advocacy-t-00-49-25" style="--pulse-height:67%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12" style="--pulse-height:33%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -61,6 +62,7 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-concept-pro-israel-advocacy-t-00-44-06) | 1 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-concept-pro-israel-advocacy-t-00-04-23) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-concept-pro-israel-advocacy-t-00-03-17) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-concept-pro-israel-advocacy-t-00-49-25) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12) | 1 |
 
 </details>
@@ -69,13 +71,24 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:28:48](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12)**
 > "...me no choice but to leave the pro-Israel cause."
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2 mentions)</summary>
+
+**[00:49:25](/episodes/ep-rupRLXmSndU.md#ent-concept-pro-israel-advocacy-t-00-49-25)**
+> "They're lying about what he was going through. He was under immense pressure and he was done, as he wrote, as he said, he was done with the pro-Israel cause."
+
+**[00:49:33](/episodes/ep-rupRLXmSndU.md#ent-concept-pro-israel-advocacy-t-00-49-25)**
+> "... no choice but to abandon the pro-Israel cause."
 
 </details>
 
@@ -184,7 +197,17 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pro-Israel advocacy (7)</strong></summary>
+<summary><strong class="section-title">Statements about Pro-Israel advocacy (9)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2)</summary>
+
+- [00:49:33](/episodes/ep-rupRLXmSndU.md#t-00-49-25) (Opinion) **Charlie Kirk** (via quoted document): ["You've left me no choice but to abandon the pro-Israel cause."](/statements/statement-49c8a4f7094b.md)
+
+- [00:49:54](/episodes/ep-rupRLXmSndU.md#t-00-49-25) (Accusation) **Candace Owens**: ["Charlie Kirk was under tremendous stress because people were pulling m..."](/statements/statement-2c08dfa2e499.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1)</summary>

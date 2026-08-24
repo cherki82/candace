@@ -1,6 +1,6 @@
 ---
 title: "Blake Lively"
-description: "Blake Lively (People) - 18 mentions"
+description: "Blake Lively (People) - 21 mentions"
 id: "person-blake-lively"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-blake-lively-t-00-44-32">2025-10-28 · 00:44:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-blake-lively-t-00-59-55">2026-01-21 · 00:59:55</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-blake-lively-t-01-00-56">2026-04-02 · 01:00:56</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -36,6 +36,8 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 <a href="/episodes/ep-his-JBjlkh8.md#ent-person-blake-lively-t-00-26-34" style="--pulse-height:20%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-blake-lively-t-00-15-52" style="--pulse-height:10%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-blake-lively-t-00-24-46" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 10 mentions" title="2026-01-21 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-blake-lively-t-00-24-50" style="--pulse-height:10%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-blake-lively-t-00-59-37" style="--pulse-height:20%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +48,8 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-blake-lively-t-00-26-34) | 2 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-blake-lively-t-00-15-52) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-blake-lively-t-00-24-46) | 10 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-blake-lively-t-00-24-50) | 1 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-blake-lively-t-00-59-37) | 2 |
 
 </details>
 </section>
@@ -53,7 +57,26 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (2 mentions)</summary>
+
+**[00:59:48](/episodes/ep-q1NRQQAYS_Q.md#ent-person-blake-lively-t-00-59-37)**
+> "Blake Lively's"
+
+**[01:00:56](/episodes/ep-q1NRQQAYS_Q.md#ent-person-blake-lively-t-01-00-56)**
+> "I would say Blake Lively was grieving differently, too. After her alleged ..."
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
+
+**[00:25:08](/episodes/ep-UYkXV9mYbT4.md#ent-person-blake-lively-t-00-24-50)**
+> "for two years, remember when Blake Lively requested that for me? And then I'm like, I don't..."
+
+</details>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (10 mentions)</summary>
@@ -176,7 +199,19 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Sued (1)</summary>
+
+- **[Justin Baldoni](/entities/person-justin-baldoni.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:59:48](/episodes/ep-q1NRQQAYS_Q.md#t-00-59-37): “adjusting Baldoni's case, Blake Lively's case against him for sexual harassment.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (5)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -196,6 +231,13 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46): “looking at the Justin Baldoni case I couldn't believe it it was just mean girls Blake Lively never told no very bratty wanted some publishing rights”
+
+</details>
+
+- **[Justin Baldoni](/entities/person-justin-baldoni.md)** sued by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:59:48](/episodes/ep-q1NRQQAYS_Q.md#t-00-59-37): “adjusting Baldoni's case, Blake Lively's case against him for sexual harassment.”
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Pure Talk"
-description: "Pure Talk (Organizations) - 110 mentions"
+description: "Pure Talk (Organizations) - 117 mentions"
 id: "org-pure-talk"
 type: "ORG"
 aliases:
@@ -24,12 +24,12 @@ Source: [PureTalk](https://www.puretalk.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-pure-talk-t-00-55-47">2025-09-15 · 00:55:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-pure-talk-t-00-24-28">2026-03-26 · 00:24:49</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>110</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-pure-talk-t-00-23-13">2026-04-10 · 00:23:38</a></strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>117</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -58,6 +58,8 @@ Source: [PureTalk](https://www.puretalk.com/)
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-pure-talk-t-00-44-46" style="--pulse-height:57%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 4 mentions" title="2026-03-10 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-pure-talk-t-00-27-37" style="--pulse-height:71%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 5 mentions" title="2026-03-17 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-pure-talk-t-00-23-45" style="--pulse-height:57%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 4 mentions" title="2026-03-26 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-pure-talk-t-00-48-40" style="--pulse-height:29%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-pure-talk-t-00-22-37" style="--pulse-height:71%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 5 mentions" title="2026-04-10 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -84,6 +86,8 @@ Source: [PureTalk](https://www.puretalk.com/)
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-pure-talk-t-00-44-46) | 4 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-pure-talk-t-00-27-37) | 5 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-org-pure-talk-t-00-23-45) | 4 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-pure-talk-t-00-48-40) | 2 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-pure-talk-t-00-22-37) | 5 |
 
 </details>
 </section>
@@ -91,7 +95,38 @@ Source: [PureTalk](https://www.puretalk.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (110)</strong></summary>
+<summary><strong class="section-title">Raw mentions (117)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (5 mentions)</summary>
+
+**[00:22:47](/episodes/ep-ZIH5-V6UPkg.md#ent-org-pure-talk-t-00-22-37)**
+> "...o want to tell you guys about PureTalk because PureTalk was one of the very first compan..."
+
+**[00:22:58](/episodes/ep-ZIH5-V6UPkg.md#ent-org-pure-talk-t-00-22-37)**
+> "...ompany that shares my values. PureTalk is veteran-led, so helping veterans is their Nort..."
+
+**[00:23:13](/episodes/ep-ZIH5-V6UPkg.md#ent-org-pure-talk-t-00-23-13)**
+> "And PureTalk creates American jobs with a U.S.-only workforce...."
+
+**[00:23:24](/episodes/ep-ZIH5-V6UPkg.md#ent-org-pure-talk-t-00-23-13)**
+> "I love PureTalk service. They give you the same towers, the same ..."
+
+**[00:23:38](/episodes/ep-ZIH5-V6UPkg.md#ent-org-pure-talk-t-00-23-13)**
+> "... make the switch today. Go to puretalk.com slash Owens. Again, that's puretalk.com slash..."
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (2 mentions)</summary>
+
+**[00:48:58](/episodes/ep-q1NRQQAYS_Q.md#ent-org-pure-talk-t-00-48-40)**
+> "Pure Talk"
+
+**[00:49:14](/episodes/ep-q1NRQQAYS_Q.md#ent-org-pure-talk-t-00-49-14)**
+> "...ake the switch today. Head to puretalk.com slash Owens. Again, that's puretalk.com slash..."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (4 mentions)</summary>
@@ -534,15 +569,28 @@ Source: [PureTalk](https://www.puretalk.com/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Endorsed (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:22:47](/episodes/ep-ZIH5-V6UPkg.md#t-00-22-37): “PureTalk was one of the very first companies that ever endorsed me almost five years ago now.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:24:44](/episodes/ep-DdPjoy5W-wY.md#t-00-24-16): “switching to PureTalk, which is my wireless company.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:45:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-44-46): “Go drag your old wireless contract out of the closet and toss it in the trash, then freshen things up by switching to Pure Talk, which is my wireless company.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:28:52](/episodes/ep-I0OaY6Gryqk.md#t-00-28-52): “Head to puretalk.com slash Owens and you'll save 50% off your first month. Again, that is puretalk.com slash Owens and switch to a wireless company that shares your values.”
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:23:55](/episodes/ep-DEtFh2Ff-58.md#t-00-23-45): “PureTalk was one of the first companies that I ever endorsed almost five years ago.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:48:29](/episodes/ep-q1NRQQAYS_Q.md#t-00-47-56): “So there was that. We'll take a brief break before I get to some of your comments. All right, you guys, PeerTalk was one of the first companies I ever endorsed almost five years ago when I wanted to work with a wireless company that shares my values.”
 
 </details>
 
@@ -552,31 +600,43 @@ Source: [PureTalk](https://www.puretalk.com/)
 <summary>Funded (1)</summary>
 
 - **[America's Warrior Partnership](/entities/org-americas-warrior-partnership.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:23:55](/episodes/ep-DEtFh2Ff-58.md#t-00-23-45): “PureTalk is veteran-led, so helping veterans is their North Star. They've donated over half a million dollars to America's Warrior Partnership.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:48:40](/episodes/ep-q1NRQQAYS_Q.md#t-00-48-40): “PeerTalk is veteran-led, so helping veterans is their North Star. They have donated over half a million dollars to America's warrior partnership, a fantastic organization that is on the front lines of preventing veteran suicide.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:23:05](/episodes/ep-ZIH5-V6UPkg.md#t-00-22-37): “They donate over half a million dollars to America's Warrior Partnership, which is a fantastic organization that is on the front lines of preventing veteran suicide.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:24:44](/episodes/ep-DdPjoy5W-wY.md#t-00-24-16): “switching to PureTalk, which is my wireless company.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:45:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-44-46): “Go drag your old wireless contract out of the closet and toss it in the trash, then freshen things up by switching to Pure Talk, which is my wireless company.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:28:52](/episodes/ep-I0OaY6Gryqk.md#t-00-28-52): “Head to puretalk.com slash Owens and you'll save 50% off your first month. Again, that is puretalk.com slash Owens and switch to a wireless company that shares your values.”
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:23:55](/episodes/ep-DEtFh2Ff-58.md#t-00-23-45): “PureTalk was one of the first companies that I ever endorsed almost five years ago.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:48:29](/episodes/ep-q1NRQQAYS_Q.md#t-00-47-56): “So there was that. We'll take a brief break before I get to some of your comments. All right, you guys, PeerTalk was one of the first companies I ever endorsed almost five years ago when I wanted to work with a wireless company that shares my values.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** endorsed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:22:47](/episodes/ep-ZIH5-V6UPkg.md#t-00-22-37): “PureTalk was one of the very first companies that ever endorsed me almost five years ago now.”
 
 </details>
 
 - **[America's Warrior Partnership](/entities/org-americas-warrior-partnership.md)** funded by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:23:55](/episodes/ep-DEtFh2Ff-58.md#t-00-23-45): “PureTalk is veteran-led, so helping veterans is their North Star. They've donated over half a million dollars to America's Warrior Partnership.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:48:40](/episodes/ep-q1NRQQAYS_Q.md#t-00-48-40): “PeerTalk is veteran-led, so helping veterans is their North Star. They have donated over half a million dollars to America's warrior partnership, a fantastic organization that is on the front lines of preventing veteran suicide.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:23:05](/episodes/ep-ZIH5-V6UPkg.md#t-00-22-37): “They donate over half a million dollars to America's Warrior Partnership, which is a fantastic organization that is on the front lines of preventing veteran suicide.”
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Josh Hammer"
-description: "Josh Hammer (People) - 164 mentions"
+description: "Josh Hammer (People) - 165 mentions"
 id: "person-josh-hammer"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-josh-hammer-t-00-41-03">2025-09-16 · 00:41:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-josh-hammer-t-00-44-25">2026-03-23 · 00:44:25</a></strong></div>
-<div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>164</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-person-josh-hammer-t-00-22-24">2026-03-30 · 00:22:24</a></strong></div>
+<div><span>Episodes</span><strong>32</strong></div>
+<div><span>Mentions</span><strong>165</strong></div>
 <div><span>Statements by</span><strong>12</strong></div>
 <div><span>Statements about</span><strong>30</strong></div>
-<div><span>Relationships</span><strong>24</strong></div>
+<div><span>Relationships</span><strong>26</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -67,6 +67,7 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-josh-hammer-t-00-05-00" style="--pulse-height:8%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-josh-hammer-t-00-02-29" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-josh-hammer-t-00-12-27" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 3 mentions" title="2026-03-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-josh-hammer-t-00-22-24" style="--pulse-height:8%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -103,6 +104,7 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-person-josh-hammer-t-00-05-00) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-josh-hammer-t-00-02-29) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-josh-hammer-t-00-12-27) | 3 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-josh-hammer-t-00-22-24) | 1 |
 
 </details>
 </section>
@@ -110,7 +112,15 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (164)</strong></summary>
+<summary><strong class="section-title">Raw mentions (165)</strong></summary>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1 mentions)</summary>
+
+**[00:22:24](/episodes/ep-7ERqbYElOfs.md#ent-person-josh-hammer-t-00-22-24)**
+> "A couple of weeks later, Bill Ackman would be hosting the Notorious Summit in the Hamptons and that he started asking about Epstein and Dave Smith had beat Josh Hammer in a debate. In fact, on this July 14th episode, Charlie (Charlie Kirk) has Josh Hammer on the episode asking about the evening because that evening of July 14th, Erika Kirk, who did not attend SAS in Florida, boarded a private plane with."
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (3 mentions)</summary>
@@ -816,9 +826,10 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 <summary>Debated (1)</summary>
 
 - **[Dave Smith](/entities/person-dave-smith.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:58](/episodes/ep-his-JBjlkh8.md#t-00-03-40): “"he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer,"”
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:22:24](/episodes/ep-7ERqbYElOfs.md#t-00-22-24): “Dave Smith had beat Josh Hammer in a debate.”
 
 </details>
 
@@ -832,6 +843,18 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:13](/episodes/ep-ja26iltROkM.md#t-00-29-48): “I'm going to guess it's either Seth Dillon or Josh Hammer...these messages...a close friend of Charlie Kirk shared these messages”
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:38](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): “If you are a Christian and you purport to have been a good friend to Charlie”
+
+</details>
+
+</details>
+
+<details>
+<summary>Interviewed By (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:22:24](/episodes/ep-7ERqbYElOfs.md#t-00-22-24): “Charlie (Charlie Kirk) has Josh Hammer on the episode asking about the evening”
 
 </details>
 
@@ -895,7 +918,7 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 </details>
 
 <details>
-<summary>Referenced By (12)</summary>
+<summary>Referenced By (13)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -927,9 +950,10 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 </details>
 
 - **[Dave Smith](/entities/person-dave-smith.md)** debated this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:58](/episodes/ep-his-JBjlkh8.md#t-00-03-40): “"he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer,"”
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:22:24](/episodes/ep-7ERqbYElOfs.md#t-00-22-24): “Dave Smith had beat Josh Hammer in a debate.”
 
 </details>
 
@@ -952,6 +976,13 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:13](/episodes/ep-ja26iltROkM.md#t-00-29-48): “I'm going to guess it's either Seth Dillon or Josh Hammer...these messages...a close friend of Charlie Kirk shared these messages”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:18](/episodes/ep-ja26iltROkM.md#t-00-29-48): “I'm going to guess it's either Seth Dillon or Josh Hammer [as Charlie's close friend who shared the messages]”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:22:24](/episodes/ep-7ERqbYElOfs.md#t-00-22-24): “Charlie (Charlie Kirk) has Josh Hammer on the episode asking about the evening”
 
 </details>
 

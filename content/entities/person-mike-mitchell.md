@@ -1,6 +1,6 @@
 ---
 title: "Mike Mitchell"
-description: "Mike Mitchell (People) - 24 mentions"
+description: "Mike Mitchell (People) - 36 mentions"
 id: "person-mike-mitchell"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-mike-mitchell-t-00-18-41">2025-09-29 · 00:18:57</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-mike-mitchell-t-01-44-07">2026-08-14 · 01:44:07</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>36</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -39,6 +39,8 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-mike-mitchell-t-00-20-22" style="--pulse-height:60%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 6 mentions" title="2025-09-30 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-person-mike-mitchell-t-00-19-30" style="--pulse-height:20%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-person-mike-mitchell-t-00-38-46" style="--pulse-height:10%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-mike-mitchell-t-00-30-51" style="--pulse-height:90%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 9 mentions" title="2026-03-30 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-mike-mitchell-t-00-38-00" style="--pulse-height:30%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 3 mentions" title="2026-04-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-mike-mitchell-t-01-37-41" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 10 mentions" title="2026-08-14 · 10 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -49,6 +51,8 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-person-mike-mitchell-t-00-20-22) | 6 |
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-mike-mitchell-t-00-19-30) | 2 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-mike-mitchell-t-00-38-46) | 1 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-mike-mitchell-t-00-30-51) | 9 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-mike-mitchell-t-00-38-00) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-mike-mitchell-t-01-37-41) | 10 |
 
 </details>
@@ -57,7 +61,7 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+<summary><strong class="section-title">Raw mentions (36)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (10 mentions)</summary>
@@ -91,6 +95,52 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 
 **[01:42:14](/episodes/ep-nPhCKwJ6ye8.md#ent-person-mike-mitchell-t-01-42-14)**
 > "...ot interviewed on that night. Mike Mitchell got interviewed."
+
+</details>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (3 mentions)</summary>
+
+**[00:38:18](/episodes/ep-eLgD5yUVbko.md#ent-person-mike-mitchell-t-00-38-00)**
+> "Mike Mitchell"
+
+**[00:38:00](/episodes/ep-eLgD5yUVbko.md#ent-person-mike-mitchell-t-00-38-00)**
+> "... received the phone call from Mike Mitchell."
+
+**[00:38:26](/episodes/ep-eLgD5yUVbko.md#ent-person-mike-mitchell-t-00-38-00)**
+> "...he call that he just got from Mike Mitchell. They're all excited."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (9 mentions)</summary>
+
+**[00:30:51](/episodes/ep-7ERqbYElOfs.md#ent-person-mike-mitchell-t-00-30-51)**
+> "And I thought, was it Sheriff Brooksby? Because I told you that I had a source that was very close to Tyler Robinson's family, and the story goes that Tyler Robinson repeatedly said that he And that he was not guilty, that he was surprised when he was confronted by the family friend who we know is Mike Mitchell."
+
+**[00:35:19](/episodes/ep-7ERqbYElOfs.md#ent-person-mike-mitchell-t-00-34-49)**
+> "Basically, that this Mike Mitchell guy came in, there was pressure and Tyler Robinso..."
+
+**[00:37:12](/episodes/ep-7ERqbYElOfs.md#ent-person-mike-mitchell-t-00-37-12)**
+> "...d suicide ideation, why would Mike Mitchell tell you that?"
+
+**[00:37:28](/episodes/ep-7ERqbYElOfs.md#ent-person-mike-mitchell-t-00-37-12)**
+> "...ost important person, this is Mike Mitchell. Who is Mike Mitchell? Who is Mike Mitchell? The ..."
+
+**[00:37:41](/episodes/ep-7ERqbYElOfs.md#ent-person-mike-mitchell-t-00-37-12)**
+> "Who is Mike Mitchell? Who is the Boy Scout leader, Mike Mitchell? I ha..."
+
+**[00:37:57](/episodes/ep-7ERqbYElOfs.md#ent-person-mike-mitchell-t-00-37-57)**
+> "I believe that Mike Mitchell was the one who went there. He knew who Tyler was..."
+
+**[00:41:28](/episodes/ep-7ERqbYElOfs.md#ent-person-mike-mitchell-t-00-40-57)**
+> "...d he was guilty. He said that Mike Mitchell told him his dad recognized him."
+
+**[00:41:34](/episodes/ep-7ERqbYElOfs.md#ent-person-mike-mitchell-t-00-41-34)**
+> "But we got to talk to Mike Mitchell. Mike Mitchell is now speaking on behalf of Matt ..."
+
+**[00:41:44](/episodes/ep-7ERqbYElOfs.md#ent-person-mike-mitchell-t-00-41-34)**
+> "Mike Mitchell is a suspicious individual. We need more informat..."
 
 </details>
 
@@ -162,12 +212,43 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Formerly Worked For (1)</summary>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:41:44](/episodes/ep-7ERqbYElOfs.md#t-00-41-34): “Mike Mitchell is a suspicious individual. We need more information about Mike Mitchell.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Formerly Worked For (2)</summary>
 
 - **[Washington County](/entities/gpe-washington-county.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:11](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04): “After over 24 years of serving Washington County, he is retiring”
+
+</details>
+
+- **[Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:30:51](/episodes/ep-7ERqbYElOfs.md#t-00-30-51): “the family friend who we know is Mike Mitchell. ... who used to work for the sheriff's department”
+
+</details>
+
+</details>
+
+<details>
+<summary>Friend Of (1)</summary>
+
+- **[Nate Brooksby](/entities/person-nate-brooksby.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:35:19](/episodes/ep-7ERqbYElOfs.md#t-00-34-49): “this Mike Mitchell guy ... Take a listen to Sheriff Brooksby. ... I received a call from a friend of mine who happens to be a retired detective that worked for me for many years.”
 
 </details>
 
@@ -201,7 +282,14 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (7)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:41:44](/episodes/ep-7ERqbYElOfs.md#t-00-41-34): “Mike Mitchell is a suspicious individual. We need more information about Mike Mitchell.”
+
+</details>
 
 - **[Nate Brooksby](/entities/person-nate-brooksby.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -232,18 +320,52 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 
 </details>
 
+- **[Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:30:51](/episodes/ep-7ERqbYElOfs.md#t-00-30-51): “the family friend who we know is Mike Mitchell. ... who used to work for the sheriff's department”
+
+</details>
+
+- **[Nate Brooksby](/entities/person-nate-brooksby.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:35:19](/episodes/ep-7ERqbYElOfs.md#t-00-34-49): “this Mike Mitchell guy ... Take a listen to Sheriff Brooksby. ... I received a call from a friend of mine who happens to be a retired detective that worked for me for many years.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mike Mitchell (2)</strong></summary>
+<summary><strong class="section-title">Statements about Mike Mitchell (7)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
 
 - [01:39:29](/episodes/ep-nPhCKwJ6ye8.md#t-01-38-59) (Claim) **Candace Owens**: ["Mike Mitchell had worked as an undercover police officer for more than..."](/statements/statement-2018b40928fe.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (5)</summary>
+
+- [00:30:51](/episodes/ep-7ERqbYElOfs.md#t-00-30-51) (Claim) **Anonymous Source #3 (Ep 7ERqbYElOfs)** (via read message): ["Tyler Robinson repeatedly said he was not guilty and was surprised whe..."](/statements/statement-1b41de1c930f.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:31:09](/episodes/ep-7ERqbYElOfs.md#t-00-30-51) (Claim) **Anonymous Source #3 (Ep 7ERqbYElOfs)** (via read message): ["Mike Mitchell told Tyler Robinson that police said Robinson's prints w..."](/statements/statement-cee5d4c3ffb9.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:35:31](/episodes/ep-7ERqbYElOfs.md#t-00-35-31) (Claim) **Nate Brooksby** (via quoted speech): ["At 8:02 p.m. on September 11, a retired detective told Nate Brooksby t..."](/statements/statement-a857c7bb9553.md)
+  - Also about: [Nate Brooksby](/entities/person-nate-brooksby.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:37:41](/episodes/ep-7ERqbYElOfs.md#t-00-37-12) (Opinion) **Candace Owens**: ["Mike Mitchell was working with federal agents to put the Charlie Kirk ..."](/statements/statement-4f479f057f03.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:42:07](/episodes/ep-7ERqbYElOfs.md#t-00-42-07) (Claim) **Nate Brooksby** (via quoted speech): ["A friend drove Tyler Robinson and his parents to Nate Brooksby's offic..."](/statements/statement-ee7afef39cc7.md)
+  - Also about: [Nate Brooksby](/entities/person-nate-brooksby.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Matt Robinson](/entities/person-matt-robinson.md)
 
 </details>
 

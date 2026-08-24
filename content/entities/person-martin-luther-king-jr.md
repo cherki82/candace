@@ -1,6 +1,6 @@
 ---
 title: "Martin Luther King Jr."
-description: "Martin Luther King Jr. (People) - 9 mentions"
+description: "Martin Luther King Jr. (People) - 11 mentions"
 id: "person-martin-luther-king-jr"
 type: "PERSON"
 aliases:
@@ -24,9 +24,9 @@ Source: [Introduction | The Martin Luther King, Jr. Research and Education Insti
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-martin-luther-king-jr-t-00-00-55">2025-09-19 · 00:01:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-A39g5oqB_eM.md#ent-person-martin-luther-king-jr-t-00-50-04">2026-01-27 · 00:50:26</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-martin-luther-king-jr-t-00-49-52">2026-03-31 · 00:50:20</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -43,6 +43,7 @@ Source: [Introduction | The Martin Luther King, Jr. Research and Education Insti
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-martin-luther-king-jr-t-00-14-01" style="--pulse-height:100%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 3 mentions" title="2025-10-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-martin-luther-king-jr-t-00-08-30" style="--pulse-height:67%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-person-martin-luther-king-jr-t-00-50-04" style="--pulse-height:33%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-martin-luther-king-jr-t-00-00-42" style="--pulse-height:67%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [Introduction | The Martin Luther King, Jr. Research and Education Insti
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-martin-luther-king-jr-t-00-14-01) | 3 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-person-martin-luther-king-jr-t-00-08-30) | 2 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-person-martin-luther-king-jr-t-00-50-04) | 1 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-martin-luther-king-jr-t-00-00-42) | 2 |
 
 </details>
 </section>
@@ -61,7 +63,18 @@ Source: [Introduction | The Martin Luther King, Jr. Research and Education Insti
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (2 mentions)</summary>
+
+**[00:01:01](/episodes/ep-UYkXV9mYbT4.md#ent-person-martin-luther-king-jr-t-00-00-42)**
+> "... do mean the FBI. From JFK to MLK, now to CJK, this is, in my opinion, an undeniabl..."
+
+**[00:50:20](/episodes/ep-UYkXV9mYbT4.md#ent-person-martin-luther-king-jr-t-00-49-52)**
+> "...just like JFK, just like with MLK."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1 mentions)</summary>

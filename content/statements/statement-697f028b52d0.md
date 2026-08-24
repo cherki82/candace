@@ -4,9 +4,10 @@ description: "\"Erika Kirk and Andrew Kolvet did not hug in Provo; Candace Owens
 statement_id: "statement-697f028b52d0"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The 3:30 pickup audio supports a timing problem for a late Provo reunion, but later reporting cites a manifest and account placing Kolvet and his wife on a direct Santa Barbara-to-Provo flight and the reunion in Provo. The competing accounts are not resolved by a publicly inspectable manifest.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Factual errors: Jessica Reed Kraus challenges Candace Owens timeline](https://www.inkl.com/news/factual-errors-jessica-reed-kraus-challenges-candace-owens-timeline-on-andrew-kolvet-and-erika-kirk-claims-with-flight-record-details)
+
+*Verified: 2026-08-24T10:57:39.088511*
 
 ---
 

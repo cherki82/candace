@@ -11,7 +11,7 @@ object: "org-turning-point-usa"
 
 ## [Candace Owens](/entities/person-candace-owens) accused [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (6 mentions)
+### Evidence (8 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -36,6 +36,14 @@ object: "org-turning-point-usa"
 **[EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A)**
 
 - [00:31:55](/episodes/ep-H9p2ZGHAs9A#t-00-31-55): _There's got to be money somewhere, right? There's got to be ka-ching, ka-ching somewhere._
+
+**[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
+
+- [00:17:52](/episodes/ep-UYkXV9mYbT4#t-00-17-52): _Because I think it's pretty clear that the feds are working with Turning Point USA and all evidence points to the fact that the feds are dirty in this case._
+
+**[Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko)**
+
+- [00:15:43](/episodes/ep-eLgD5yUVbko#t-00-15-43): _They asked him about his future plans for turning point, and Erica was never mentioned. When I say they are stunned, they are stunned. They are saying, you need to pursue this further. Because they're lying. This did not happen at the Aspen events. It would be very easy for them to drop this video and they want it dropped. Okay. These are donors to Turning Point USA. What can I say there? How evil are the implications there? Do you understand? Are you comprehending? Because I don't think I am fully comprehending how evil. That would be, if true, that they used an AI program, which Blake Neff's reaction to me, I've been around, suggests that they did because it's just so much easier. Why would you just release the audio and not the video? This is crucial. Okay, this is crucial and I'm not going to let this go. I'm like a dog with a bone on this. Turning Point must release the video and disprove the notion that they made this up. Because the notion signifies that there was a plot, a plot to remove Charlie and then to use Charlie GPT to convince the world that it was effectively Charlie's dying wish for his wife to replace him, right?_
 
 ### Related
 

@@ -1,6 +1,6 @@
 ---
 title: "Phoenix, Arizona"
-description: "Phoenix, Arizona (Places) - 5 mentions"
+description: "Phoenix, Arizona (Places) - 8 mentions"
 id: "gpe-phoenix-arizona"
 type: "GPE"
 aliases:
@@ -24,11 +24,11 @@ Source: [City of Phoenix](https://www.phoenix.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-phoenix-arizona-t-00-25-18">2026-02-05 · 00:25:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-phoenix-arizona-t-00-08-39">2026-03-18 · 00:08:59</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-phoenix-arizona-t-00-35-33">2026-04-02 · 00:35:49</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -40,6 +40,8 @@ Source: [City of Phoenix](https://www.phoenix.gov/)
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-phoenix-arizona-t-00-25-18" style="--pulse-height:33%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-phoenix-arizona-t-00-17-40" style="--pulse-height:33%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-phoenix-arizona-t-00-08-39" style="--pulse-height:100%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-gpe-phoenix-arizona-t-00-52-00" style="--pulse-height:33%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-phoenix-arizona-t-00-34-48" style="--pulse-height:67%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +50,8 @@ Source: [City of Phoenix](https://www.phoenix.gov/)
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-phoenix-arizona-t-00-25-18) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-phoenix-arizona-t-00-17-40) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-phoenix-arizona-t-00-08-39) | 3 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-phoenix-arizona-t-00-52-00) | 1 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-phoenix-arizona-t-00-34-48) | 2 |
 
 </details>
 </section>
@@ -55,7 +59,26 @@ Source: [City of Phoenix](https://www.phoenix.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (2 mentions)</summary>
+
+**[00:35:26](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-phoenix-arizona-t-00-34-48)**
+> "Phoenix"
+
+**[00:35:49](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-phoenix-arizona-t-00-35-33)**
+> "...om at 1123 a.m. local time in Phoenix when she saw the number of her husband's longtime..."
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
+
+**[00:52:00](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-phoenix-arizona-t-00-52-00)**
+> "...m the public. The flight from Phoenix is just over an hour."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (3 mentions)</summary>
@@ -93,5 +116,26 @@ Source: [City of Phoenix](https://www.phoenix.gov/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Phoenix, Arizona (4)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (4)</summary>
+
+- [00:35:14](/episodes/ep-q1NRQQAYS_Q.md#t-00-34-48) (Claim) **The New York Times** (via quoted article): ["Erika Kirk had planned to accompany Charlie Kirk to Utah, but instead ..."](/statements/statement-5e641d2827ce.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+- [00:35:49](/episodes/ep-q1NRQQAYS_Q.md#t-00-35-33) (Claim) **The New York Times** (via quoted article): ["Erika Kirk was in her mother's hospital room in Phoenix at 11:23 a.m. ..."](/statements/statement-2d74b37b7029.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [00:39:27](/episodes/ep-q1NRQQAYS_Q.md#t-00-39-06) (Claim) **Candace Owens**: ["The Phoenix treatment location was not a hospital but an IV-therapy ho..."](/statements/statement-a9d248ec3fd8.md)
+
+- [00:39:53](/episodes/ep-q1NRQQAYS_Q.md#t-00-39-48) (Claim) **Candace Owens**: ["Lori Frantzve received treatment at the Phoenix clinic on September 8,..."](/statements/statement-8be506596509.md)
+  - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</details>
 
 </details>

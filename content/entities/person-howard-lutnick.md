@@ -1,6 +1,6 @@
 ---
 title: "Howard Lutnick"
-description: "Howard Lutnick (People) - 4 mentions"
+description: "Howard Lutnick (People) - 5 mentions"
 id: "person-howard-lutnick"
 type: "PERSON"
 aliases:
@@ -24,9 +24,9 @@ Source: [Howard Lutnick | U.S. Department of Commerce](https://www.commerce.gov/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-howard-lutnick-t-00-43-52">2026-02-13 · 00:44:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-howard-lutnick-t-00-45-46">2026-02-13 · 00:45:50</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-howard-lutnick-t-00-17-56">2026-04-10 · 00:18:05</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>1</strong></div>
@@ -38,12 +38,14 @@ Source: [Howard Lutnick | U.S. Department of Commerce](https://www.commerce.gov/
 <p>Highest activity: <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-howard-lutnick-t-00-43-52">Okay…These Text Messages Are Crazy! | Candace Ep 307</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-howard-lutnick-t-00-43-52" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 4 mentions" title="2026-02-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-howard-lutnick-t-00-17-56" style="--pulse-height:25%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-howard-lutnick-t-00-43-52) | 4 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-howard-lutnick-t-00-17-56) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [Howard Lutnick | U.S. Department of Commerce](https://www.commerce.gov/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:18:05](/episodes/ep-ZIH5-V6UPkg.md#ent-person-howard-lutnick-t-00-17-56)**
+> "...be at your cool, corrupt kid, Howard Ludnick, Jeffrey Epstein class table. Thank you s..."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (4 mentions)</summary>

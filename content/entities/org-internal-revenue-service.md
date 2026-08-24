@@ -1,6 +1,6 @@
 ---
 title: "Internal Revenue Service"
-description: "Internal Revenue Service (Organizations) - 91 mentions"
+description: "Internal Revenue Service (Organizations) - 97 mentions"
 id: "org-internal-revenue-service"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-internal-revenue-service-t-01-06-07">2025-09-16 · 01:06:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-internal-revenue-service-t-00-44-44">2026-03-25 · 00:45:06</a></strong></div>
-<div><span>Episodes</span><strong>27</strong></div>
-<div><span>Mentions</span><strong>91</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-internal-revenue-service-t-00-39-45">2026-04-10 · 00:40:23</a></strong></div>
+<div><span>Episodes</span><strong>29</strong></div>
+<div><span>Mentions</span><strong>97</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -62,6 +62,8 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-internal-revenue-service-t-00-52-54" style="--pulse-height:50%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 3 mentions" title="2026-03-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-internal-revenue-service-t-00-54-32" style="--pulse-height:50%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-internal-revenue-service-t-00-44-03" style="--pulse-height:50%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 3 mentions" title="2026-03-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-internal-revenue-service-t-00-26-56" style="--pulse-height:50%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-internal-revenue-service-t-00-39-45" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 3 mentions" title="2026-04-10 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -94,6 +96,8 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-internal-revenue-service-t-00-52-54) | 3 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-internal-revenue-service-t-00-54-32) | 3 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-internal-revenue-service-t-00-44-03) | 3 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-internal-revenue-service-t-00-26-56) | 3 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-internal-revenue-service-t-00-39-45) | 3 |
 
 </details>
 </section>
@@ -101,7 +105,35 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (91)</strong></summary>
+<summary><strong class="section-title">Raw mentions (97)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (3 mentions)</summary>
+
+**[00:39:45](/episodes/ep-ZIH5-V6UPkg.md#ent-org-internal-revenue-service-t-00-39-45)**
+> "And now the IRS wants its share. However your tax issue started, ..."
+
+**[00:40:17](/episodes/ep-ZIH5-V6UPkg.md#ent-org-internal-revenue-service-t-00-39-45)**
+> "...e investigative call with the IRS and after that investigation, they can put a clea..."
+
+**[00:40:23](/episodes/ep-ZIH5-V6UPkg.md#ent-org-internal-revenue-service-t-00-39-45)**
+> "...k. So do not wait for another IRS letter or a frozen bank account."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (3 mentions)</summary>
+
+**[00:26:56](/episodes/ep-7ERqbYElOfs.md#ent-org-internal-revenue-service-t-00-26-56)**
+> "pdsdebt.com slash candace again that's pdsdebt.com slash candace and i also want to tell you guys about tax network usa because maybe you owe back taxes maybe you have unfiled returns or maybe you've filed every year but you still keep owing somehow maybe you retired and suddenly you got hit with a tax bill that you didn't expect or pulled money out of your 401k or ira early and now the irs wants their share however your tax issue started the outcome is always the same your balance is"
+
+**[00:27:48](/episodes/ep-7ERqbYElOfs.md#ent-org-internal-revenue-service-t-00-27-36)**
+> "...e investigative call with the IRS."
+
+**[00:27:59](/episodes/ep-7ERqbYElOfs.md#ent-org-internal-revenue-service-t-00-27-36)**
+> "So don't wait for another IRS letter or a frozen bank account. Call 866-686-165..."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (3 mentions)</summary>

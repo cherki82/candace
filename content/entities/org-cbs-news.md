@@ -1,6 +1,6 @@
 ---
 title: "CBS News"
-description: "CBS News (Organizations) - 11 mentions"
+description: "CBS News (Organizations) - 12 mentions"
 id: "org-cbs-news"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-org-cbs-news-t-00-28-48">2025-11-21 · 00:28:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-cbs-news-t-01-12-16">2026-01-29 · 01:12:16</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-cbs-news-t-00-12-12">2026-04-10 · 00:12:28</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -42,6 +42,7 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-cbs-news-t-00-15-33" style="--pulse-height:67%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-cbs-news-t-00-35-55" style="--pulse-height:33%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-cbs-news-t-01-12-16" style="--pulse-height:67%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-cbs-news-t-00-12-12" style="--pulse-height:33%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-cbs-news-t-00-15-33) | 2 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-cbs-news-t-00-35-55) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-cbs-news-t-01-12-16) | 2 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-cbs-news-t-00-12-12) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:12:28](/episodes/ep-ZIH5-V6UPkg.md#ent-org-cbs-news-t-00-12-12)**
+> "... and they had to leak that to CBS News that you were lying about what was happening. Is ..."
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
@@ -185,7 +195,15 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about CBS News (3)</strong></summary>
+<summary><strong class="section-title">Statements about CBS News (4)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1)</summary>
+
+- [00:12:28](/episodes/ep-ZIH5-V6UPkg.md#t-00-12-12) (Accusation) **Candace Owens**: ["Is the United States "hot" because officials lied about six servicemen..."](/statements/statement-b0935f34fce0.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [United States](/entities/gpe-united-states.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>

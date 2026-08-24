@@ -1,6 +1,6 @@
 ---
 title: "Make Him a Sandwich"
-description: "Make Him a Sandwich (Works & Media) - 59 mentions"
+description: "Make Him a Sandwich (Works & Media) - 63 mentions"
 id: "work-make-him-a-sandwich"
 type: "WORK"
 aliases:
@@ -25,9 +25,9 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-work-make-him-a-sandwich-t-00-49-29">2025-10-27 · 00:49:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-work-make-him-a-sandwich-t-00-53-37">2026-02-13 · 00:53:39</a></strong></div>
-<div><span>Episodes</span><strong>36</strong></div>
-<div><span>Mentions</span><strong>59</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-work-make-him-a-sandwich-t-01-04-37">2026-04-13 · 01:04:37</a></strong></div>
+<div><span>Episodes</span><strong>39</strong></div>
+<div><span>Mentions</span><strong>63</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -74,6 +74,9 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <a href="/episodes/ep-QRS_hR7NXaQ.md#t-00-44-18" style="--pulse-height:25%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-work-make-him-a-sandwich-t-00-36-29" style="--pulse-height:50%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-work-make-him-a-sandwich-t-00-53-37" style="--pulse-height:25%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-work-make-him-a-sandwich-t-00-52-21" style="--pulse-height:50%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-work-make-him-a-sandwich-t-00-42-29" style="--pulse-height:25%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-work-make-him-a-sandwich-t-01-04-37" style="--pulse-height:25%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -115,6 +118,9 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#t-00-44-18) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-work-make-him-a-sandwich-t-00-36-29) | 2 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-work-make-him-a-sandwich-t-00-53-37) | 1 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-work-make-him-a-sandwich-t-00-52-21) | 2 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-work-make-him-a-sandwich-t-00-42-29) | 1 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-work-make-him-a-sandwich-t-01-04-37) | 1 |
 
 </details>
 </section>
@@ -122,7 +128,34 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (59)</strong></summary>
+<summary><strong class="section-title">Raw mentions (63)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
+
+**[01:04:37](/episodes/ep-eLgD5yUVbko.md#ent-work-make-him-a-sandwich-t-01-04-37)**
+> "my book ... make them a sandwich"
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
+
+**[00:42:29](/episodes/ep-rupRLXmSndU.md#ent-work-make-him-a-sandwich-t-00-42-29)**
+> "Make Him a Sandwich"
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (2 mentions)</summary>
+
+**[00:52:21](/episodes/ep-7ERqbYElOfs.md#ent-work-make-him-a-sandwich-t-00-52-21)**
+> "I will do that. I promise. Make him a sandwich, which is, I love you guys that are writing me emails about it. It was a really, really fun book to read, I mean to write, and it's taken me like years actually to write it."
+
+**[00:52:33](/episodes/ep-7ERqbYElOfs.md#ent-work-make-him-a-sandwich-t-00-52-21)**
+> "...at in the book club actually. Make him a sandwich."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
@@ -484,13 +517,15 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <summary>Authored By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-33): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
 - [Myron Gaines x Candace Owens @ 00:06:01](/episodes/ep-2T39-oADLj0.md#t-00-05-45): “In your book, Make Them a Sandwich.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:25:25](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46): “If you guys have my book, Make Him a Sandwich, I have a whole chapter on Taylor Swift just documenting the things that she does.”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:55:07](/episodes/ep-CEF7gQRWYCE.md#t-00-55-01): “You can also buy the hard copied bundle, both of our books, my books, pardon, Make Him a Sandwich and Blackout, both of them.”
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:52:21](/episodes/ep-7ERqbYElOfs.md#t-00-52-21): “Make him a sandwich, which is, I love you guys that are writing me emails about it. It was a really, really fun book to read, I mean to write, and it's taken me like years actually to write it.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 01:04:37](/episodes/ep-eLgD5yUVbko.md#t-01-04-11): “going to be on friday i did not appreciate that we had an open friday and it just made more sense to make it on friday to bump it um so yeah uh that will be on friday to make up for it and thank you guys for your patience um we only have two more meetings for this book so this friday and then one more and we'll be done and then the next book we're going to read is my book so i'm super excited about that make them a sandwich so buy that ahead of time if you guys want to jump in and join the book the book club the next book we're going to read is making a sandwich which i have just been very happy about um i i might be a little biased but i think the author's great and that is uh that's a signed copy you can also buy regular copies on amazon and yeah anyway you guys uh some of your comments let's do did i just read no i just read the comments from yesterday A few before we go.”
 
 </details>
 
@@ -500,13 +535,15 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** authored this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-33): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
 - [Myron Gaines x Candace Owens @ 00:06:01](/episodes/ep-2T39-oADLj0.md#t-00-05-45): “In your book, Make Them a Sandwich.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:25:25](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46): “If you guys have my book, Make Him a Sandwich, I have a whole chapter on Taylor Swift just documenting the things that she does.”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:55:07](/episodes/ep-CEF7gQRWYCE.md#t-00-55-01): “You can also buy the hard copied bundle, both of our books, my books, pardon, Make Him a Sandwich and Blackout, both of them.”
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:52:21](/episodes/ep-7ERqbYElOfs.md#t-00-52-21): “Make him a sandwich, which is, I love you guys that are writing me emails about it. It was a really, really fun book to read, I mean to write, and it's taken me like years actually to write it.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 01:04:37](/episodes/ep-eLgD5yUVbko.md#t-01-04-11): “going to be on friday i did not appreciate that we had an open friday and it just made more sense to make it on friday to bump it um so yeah uh that will be on friday to make up for it and thank you guys for your patience um we only have two more meetings for this book so this friday and then one more and we'll be done and then the next book we're going to read is my book so i'm super excited about that make them a sandwich so buy that ahead of time if you guys want to jump in and join the book the book club the next book we're going to read is making a sandwich which i have just been very happy about um i i might be a little biased but i think the author's great and that is uh that's a signed copy you can also buy regular copies on amazon and yeah anyway you guys uh some of your comments let's do did i just read no i just read the comments from yesterday A few before we go.”
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Kash Patel"
-description: "Kash Patel (People) - 160 mentions"
+description: "Kash Patel (People) - 176 mentions"
 id: "person-kash-patel"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-kash-patel-t-00-08-42">2025-09-17 · 00:09:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-kash-patel-t-00-50-29">2026-03-25 · 00:51:07</a></strong></div>
-<div><span>Episodes</span><strong>43</strong></div>
-<div><span>Mentions</span><strong>160</strong></div>
-<div><span>Statements by</span><strong>9</strong></div>
-<div><span>Statements about</span><strong>27</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-kash-patel-t-00-37-20">2026-04-13 · 00:37:29</a></strong></div>
+<div><span>Episodes</span><strong>48</strong></div>
+<div><span>Mentions</span><strong>176</strong></div>
+<div><span>Statements by</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>32</strong></div>
 <div><span>Relationships</span><strong>33</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -80,6 +80,11 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-kash-patel-t-00-03-52" style="--pulse-height:15%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-kash-patel-t-00-33-24" style="--pulse-height:23%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 3 mentions" title="2026-03-24 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-kash-patel-t-00-00-41" style="--pulse-height:85%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 11 mentions" title="2026-03-25 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-kash-patel-t-00-13-17" style="--pulse-height:38%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 5 mentions" title="2026-03-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-kash-patel-t-00-48-39" style="--pulse-height:8%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-person-kash-patel-t-00-05-14" style="--pulse-height:31%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 4 mentions" title="2026-04-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-kash-patel-t-00-01-20" style="--pulse-height:23%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 3 mentions" title="2026-04-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-kash-patel-t-00-35-25" style="--pulse-height:15%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -128,6 +133,11 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-kash-patel-t-00-03-52) | 2 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-kash-patel-t-00-33-24) | 3 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-kash-patel-t-00-00-41) | 11 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-kash-patel-t-00-13-17) | 5 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-kash-patel-t-00-48-39) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-kash-patel-t-00-05-14) | 4 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-kash-patel-t-00-01-20) | 3 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-kash-patel-t-00-35-25) | 2 |
 
 </details>
 </section>
@@ -135,7 +145,77 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (160)</strong></summary>
+<summary><strong class="section-title">Raw mentions (176)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2 mentions)</summary>
+
+**[00:35:51](/episodes/ep-eLgD5yUVbko.md#ent-person-kash-patel-t-00-35-25)**
+> "Cash Patel"
+
+**[00:37:29](/episodes/ep-eLgD5yUVbko.md#ent-person-kash-patel-t-00-37-20)**
+> "...leads a press conference with Kash Patel and Robert Bowles, you know, the new FBI guy they..."
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (3 mentions)</summary>
+
+**[00:01:29](/episodes/ep-q1NRQQAYS_Q.md#ent-person-kash-patel-t-00-01-20)**
+> "Cash Patel"
+
+**[00:17:56](/episodes/ep-q1NRQQAYS_Q.md#ent-person-kash-patel-t-00-17-56)**
+> "...act of life. I don't know why Cash Patel kept saying it other than the fact that he was si..."
+
+**[00:45:55](/episodes/ep-q1NRQQAYS_Q.md#ent-person-kash-patel-t-00-45-32)**
+> "...because if that was the case, Cash Patel would be gone too under her watch and under Cash ..."
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (4 mentions)</summary>
+
+**[00:05:41](/episodes/ep-rupRLXmSndU.md#ent-person-kash-patel-t-00-05-14)**
+> "it's almost as if the emergency room had been completely cleared for Turning Point USA. We'll never know, of course, because when Cash Patel arrived, he had the FBI immediately seize the footage from inside the hospital. What a bizarre priority, right?"
+
+**[00:07:03](/episodes/ep-rupRLXmSndU.md#ent-person-kash-patel-t-00-07-03)**
+> "They moved to detain a young man named Zachariah Qureshi. We almost forget, but it was after Zachariah was detained that Kash Patel rather gloriously issued a tweet which effectively ended the manhunt prematurely. In many ways, we should start to think of Zachariah Qureshi as decoy boy number two. OK, first it was George Zinn."
+
+**[00:08:09](/episodes/ep-rupRLXmSndU.md#ent-person-kash-patel-t-00-07-43)**
+> "Kash Patel authored this tweet. The subject for the horrific..."
+
+**[00:08:38](/episodes/ep-rupRLXmSndU.md#ent-person-kash-patel-t-00-08-25)**
+> "...tayed for an hour and a half. Cash Patel's mistake provided the true assassin or the assassi..."
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
+
+**[00:49:10](/episodes/ep-UYkXV9mYbT4.md#ent-person-kash-patel-t-00-48-39)**
+> "You can't just have Kash Patel throwing up 33s and say that's enough. You can't ..."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (5 mentions)</summary>
+
+**[00:13:40](/episodes/ep-7ERqbYElOfs.md#ent-person-kash-patel-t-00-13-17)**
+> "It never stops. It is a global trillion dollar industry. These are the facts. And no, it is not a coincidence that everyone involved on September 10th happens to have a military connection, former military, military intelligence, Frank Turek, the McCoys, naval intelligence. It's not a coincidence that Kash Patel kept stressing the number 33."
+
+**[00:34:49](/episodes/ep-7ERqbYElOfs.md#ent-person-kash-patel-t-00-34-49)**
+> "... because the best you have is Kash Patel said 33 and Governor Cox, who had nothing to do w..."
+
+**[00:38:41](/episodes/ep-7ERqbYElOfs.md#ent-person-kash-patel-t-00-38-41)**
+> "Kash Patel delayed. We got them. We got them. It was the Qur..."
+
+**[00:38:53](/episodes/ep-7ERqbYElOfs.md#ent-person-kash-patel-t-00-38-41)**
+> "Kash Patel is central in delaying everything that happened o..."
+
+**[00:39:09](/episodes/ep-7ERqbYElOfs.md#ent-person-kash-patel-t-00-38-41)**
+> "Why are they not angry at Kash Patel? Why are they hosting Kash Patel on the Charlie K..."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (11 mentions)</summary>
@@ -854,9 +934,10 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <summary>Accused By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:29:15](/episodes/ep-I0OaY6Gryqk.md#t-00-28-52): “Kash Patel blocked any investigation into whether or not foreign actors could have been involved, said, oh, there's no evidence for that, because that would have shifted the investigation into Tulsi's office, which is where Joe Kent was working.”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:49:10](/episodes/ep-UYkXV9mYbT4.md#t-00-48-39): “You can't just have Kash Patel throwing up 33s and say that's enough. You can't just have Governor Cox up there with the Fed saying, oh, we got them.”
 
 </details>
 
@@ -893,9 +974,11 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:28:15](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-01): “when Kash Patel went in to the FBI, there was kind of this ideal he was going to write the wrongs and make sure that he took down the deep state and then he just bumbled every plausible.”
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:38:53](/episodes/ep-7ERqbYElOfs.md#t-00-38-41): “Kash Patel is central in delaying everything that happened on that day.”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:49:10](/episodes/ep-UYkXV9mYbT4.md#t-00-48-39): “You can't just have Kash Patel throwing up 33s and say that's enough. You can't just have Governor Cox up there with the Fed saying, oh, we got them.”
 
 </details>
 
@@ -918,10 +1001,11 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <summary>Director Of (2)</summary>
 
 - **[FBI](/entities/org-fbi.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:08:06](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “she praises the FBI director, Kash Patel”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:32:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31): “She's literally dating the FBI director”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:07:52](/episodes/ep-rupRLXmSndU.md#t-00-07-43): “But next came the public declaration from our director of the FBI, which held a lot more weight, claiming officially that they had the guy. He wrote this at 4.21 p.m. Mountain Standard, so almost exactly four hours to the minute that Charlie was shot. Kash Patel authored this tweet.”
 
 </details>
 
@@ -1029,9 +1113,10 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <summary>Referenced By (16)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:29:15](/episodes/ep-I0OaY6Gryqk.md#t-00-28-52): “Kash Patel blocked any investigation into whether or not foreign actors could have been involved, said, oh, there's no evidence for that, because that would have shifted the investigation into Tulsi's office, which is where Joe Kent was working.”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:49:10](/episodes/ep-UYkXV9mYbT4.md#t-00-48-39): “You can't just have Kash Patel throwing up 33s and say that's enough. You can't just have Governor Cox up there with the Fed saying, oh, we got them.”
 
 </details>
 
@@ -1045,9 +1130,11 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:28:15](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-01): “when Kash Patel went in to the FBI, there was kind of this ideal he was going to write the wrongs and make sure that he took down the deep state and then he just bumbled every plausible.”
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:38:53](/episodes/ep-7ERqbYElOfs.md#t-00-38-41): “Kash Patel is central in delaying everything that happened on that day.”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:49:10](/episodes/ep-UYkXV9mYbT4.md#t-00-48-39): “You can't just have Kash Patel throwing up 33s and say that's enough. You can't just have Governor Cox up there with the Fed saying, oh, we got them.”
 
 </details>
 
@@ -1087,10 +1174,11 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 - **[FBI](/entities/org-fbi.md)** has director this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:08:06](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “she praises the FBI director, Kash Patel”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:32:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31): “She's literally dating the FBI director”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:07:52](/episodes/ep-rupRLXmSndU.md#t-00-07-43): “But next came the public declaration from our director of the FBI, which held a lot more weight, claiming officially that they had the guy. He wrote this at 4.21 p.m. Mountain Standard, so almost exactly four hours to the minute that Charlie was shot. Kash Patel authored this tweet.”
 
 </details>
 
@@ -1150,7 +1238,18 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Kash Patel (9)</strong></summary>
+<summary><strong class="section-title">Statements by Kash Patel (11)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2)</summary>
+
+- [00:08:09](/episodes/ep-rupRLXmSndU.md#t-00-07-43) [✓] (Claim) ["The subject for the shooting that killed Charlie Kirk was in custody."](/statements/statement-a36d199d39d4.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Zachariah Qureshi](/entities/person-zachariah-qureshi.md), [FBI](/entities/org-fbi.md)
+
+- [00:08:59](/episodes/ep-rupRLXmSndU.md#t-00-08-59) [✓] (Claim) ["The subject in custody had been released after interrogation, and the investigat..."](/statements/statement-3ee1c0ed9168.md)
+  - About: [Zachariah Qureshi](/entities/person-zachariah-qureshi.md), [FBI](/entities/org-fbi.md)
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>
@@ -1202,7 +1301,37 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Kash Patel (27)</strong></summary>
+<summary><strong class="section-title">Statements about Kash Patel (32)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>
+
+- [00:35:51](/episodes/ep-eLgD5yUVbko.md#t-00-35-25) (Accusation) **Candace Owens**: ["Candace Owens argued that the FBI released suspect photos and sought p..."](/statements/statement-3d4ae6743ef6.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Spencer Cox](/entities/person-spencer-cox.md)
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (2)</summary>
+
+- [00:01:29](/episodes/ep-q1NRQQAYS_Q.md#t-00-01-20) (Accusation) **Candace Owens**: ["Zachariah Qureshi was detained, Kash Patel shut down the investigation..."](/statements/statement-2703495f9c4f.md)
+  - Also about: [Zachariah Qureshi](/entities/person-zachariah-qureshi.md)
+
+- [00:46:06](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-06) (Accusation) **Candace Owens**: ["Officials released a deepfake video of Jeffrey Epstein in his cell, th..."](/statements/statement-318a4f1575a4.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [FBI](/entities/org-fbi.md), [Pam Bondi](/entities/person-pam-bondi.md)
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2)</summary>
+
+- [00:05:41](/episodes/ep-rupRLXmSndU.md#t-00-05-14) (Claim) **Candace Owens**: ["Kash Patel had the FBI immediately seize footage from inside the hospi..."](/statements/statement-08af5755b967.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:08:38](/episodes/ep-rupRLXmSndU.md#t-00-08-25) (Accusation) **Candace Owens**: ["Kash Patel's premature custody announcement gave the true assassin or ..."](/statements/statement-25c322faf319.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2)</summary>

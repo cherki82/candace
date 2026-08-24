@@ -1,6 +1,6 @@
 ---
 title: "Miriam Adelson"
-description: "Miriam Adelson (People) - 15 mentions"
+description: "Miriam Adelson (People) - 17 mentions"
 id: "person-miriam-adelson"
 type: "PERSON"
 categories:
@@ -19,12 +19,12 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-miriam-adelson-t-01-07-05">2025-10-28 · 01:06:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-miriam-adelson-t-00-46-26">2026-03-09 · 00:46:26</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-miriam-adelson-t-00-29-38">2026-04-10 · 00:29:38</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -39,6 +39,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 <a href="/episodes/ep-CEF7gQRWYCE.md#t-00-20-42" style="--pulse-height:33%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-person-miriam-adelson-t-00-17-52" style="--pulse-height:67%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-miriam-adelson-t-00-00-00" style="--pulse-height:100%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 3 mentions" title="2026-03-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-miriam-adelson-t-00-17-02" style="--pulse-height:67%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#t-00-20-42) | 1 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-person-miriam-adelson-t-00-17-52) | 2 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-miriam-adelson-t-00-00-00) | 3 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-miriam-adelson-t-00-17-02) | 2 |
 
 </details>
 </section>
@@ -58,7 +60,18 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (2 mentions)</summary>
+
+**[00:17:02](/episodes/ep-ZIH5-V6UPkg.md#ent-person-miriam-adelson-t-00-17-02)**
+> "...bi is your master. Maybe it's Miriam Adelson that lights the fire and Bibi that makes the shad..."
+
+**[00:29:38](/episodes/ep-ZIH5-V6UPkg.md#ent-person-miriam-adelson-t-00-29-38)**
+> "... before it was announced that Miriam Adelson gave Trump $100 million, this was, I think it was..."
+
+</details>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (3 mentions)</summary>
@@ -162,27 +175,41 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 <summary>Funded (1)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Myron Gaines x Candace Owens @ 00:23:36](/episodes/ep-2T39-oADLj0.md#t-00-23-26): “he took a lot of money from miriam adelson the adelson Hundreds family of millions. hundreds of millions of dollars from miriam adelson”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:48:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-48-09): “yeah it's I don't even know what we're doing anymore and I'm like we I was got behind Trump (Donald J. Trump) we're supposed to do no new wars and then it's like Bibi (Benjamin Netanyahu)'s like here's what you're going to do here's what you're going to do obviously look he took Miriam Adelson's money and so I don't even pay attention to it anymore”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:21:12](/episodes/ep-CEF7gQRWYCE.md#t-00-20-42): “miriam adel said ... she's doing her thing and just giving trump 200 million dollars”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:37:50](/episodes/ep-i8m_6D4QGmk.md#t-00-37-50): “So Trump is saying that the person that he took $100 million, $200 million from, I think in the end, loves Israel more than she loves America.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:29:38](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38): “But before it was announced that Miriam Adelson gave Trump $100 million, this was, I think it was announced in July or just before July of 2024.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Met With (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:30:14](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38): “So I knew that that money went through and I knew what she wanted in exchange for $100 million. ... After she said this to Trump”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** funded by this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Myron Gaines x Candace Owens @ 00:23:36](/episodes/ep-2T39-oADLj0.md#t-00-23-26): “he took a lot of money from miriam adelson the adelson Hundreds family of millions. hundreds of millions of dollars from miriam adelson”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:48:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-48-09): “yeah it's I don't even know what we're doing anymore and I'm like we I was got behind Trump (Donald J. Trump) we're supposed to do no new wars and then it's like Bibi (Benjamin Netanyahu)'s like here's what you're going to do here's what you're going to do obviously look he took Miriam Adelson's money and so I don't even pay attention to it anymore”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:21:12](/episodes/ep-CEF7gQRWYCE.md#t-00-20-42): “miriam adel said ... she's doing her thing and just giving trump 200 million dollars”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:37:50](/episodes/ep-i8m_6D4QGmk.md#t-00-37-50): “So Trump is saying that the person that he took $100 million, $200 million from, I think in the end, loves Israel more than she loves America.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:29:38](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38): “But before it was announced that Miriam Adelson gave Trump $100 million, this was, I think it was announced in July or just before July of 2024.”
 
 </details>
 
@@ -194,12 +221,42 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 
 </details>
 
+- **[Donald J. Trump](/entities/person-donald-trump.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:30:14](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38): “So I knew that that money went through and I knew what she wanted in exchange for $100 million. ... After she said this to Trump”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Miriam Adelson (6)</strong></summary>
+<summary><strong class="section-title">Statements by Miriam Adelson (1)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1)</summary>
+
+- [00:30:22](/episodes/ep-ZIH5-V6UPkg.md#t-00-30-22) [◐] (Claim) ["Miriam Adelson wanted Donald Trump, in exchange for $100 million, to allow annex..."](/statements/statement-2ae031f5f3f2.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [West Bank](/entities/gpe-west-bank.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Miriam Adelson (8)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (2)</summary>
+
+- [00:29:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38) (Claim) **Candace Owens**: ["Charlie Kirk and Andrew Kolvet were present at Donald Trump's meeting ..."](/statements/statement-808db6b3cb4f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:30:40](/episodes/ep-ZIH5-V6UPkg.md#t-00-30-22) (Promise) **Donald J. Trump** (via quoted speech): ["Donald Trump said he would take Miriam Adelson's money and then "F her..."](/statements/statement-09f5baebb93b.md)
+
+</details>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (3)</summary>

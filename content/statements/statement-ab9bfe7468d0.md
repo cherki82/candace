@@ -4,9 +4,10 @@ description: "\"I will try to identify and reach out to Charlie Kirk's pilot, kn
 statement_id: "statement-ab9bfe7468d0"
 speaker: "Candace Owens"
 type: "promise"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -32,7 +33,20 @@ type: "promise"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The promise was to try to identify and reach the pilot. The public appeal in the source appearance itself was an attempt, and a Real Baron Podcast episode two days later states that it answered the identification request. Public evidence does not establish that the pilot spoke with Owens.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Real Baron Podcast: Charlie Kirk Pilot Identified; 9/10 Timeline Revisited](https://podcasts.apple.com/us/podcast/charle-kirk-pilot-identified-9-10-timeline-revisited-87/id1865794721?i=1000757898079)
+
+*Verified: 2026-08-24T10:57:38.269390*
 
 ---
 

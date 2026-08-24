@@ -1,27 +1,36 @@
 ---
 title: "America Fest"
-description: "America Fest (Events) - 12 mentions"
+description: "America Fest (Events) - 14 mentions"
 id: "event-america-fest"
 type: "EVENT"
 aliases:
   - "AmericaFest"
   - "Amfest"
   - "AmFest"
+categories:
+  - "Turning Point USA conference"
+  - "conservative political conference"
 ---
 
 _Type: Events_
 
 **Also known as:** AmericaFest, Amfest, AmFest
 
+**Categories:** Turning Point USA conference, conservative political conference
+
 > **Possibly overlapping entity records:** [AmericaFest 2025](/entities/event-americafest-2025). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> Official AmericaFest site identifies AmericaFest as Turning Point annual conference in Phoenix.
+Source: [Home | AmericaFest](https://www.amfest.com/home)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-event-america-fest-t-00-12-57">2025-09-15 · 00:13:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-event-america-fest-t-00-02-30">2025-12-20 · 00:02:30</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-event-america-fest-t-00-17-13">2026-04-02 · 00:17:22</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -36,6 +45,7 @@ _Type: Events_
 <a href="/episodes/ep-UBkFkg4UNY8.md#ent-event-america-fest-t-00-43-33" style="--pulse-height:25%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-event-america-fest-t-00-04-36" style="--pulse-height:25%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-event-america-fest-t-00-00-42" style="--pulse-height:75%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 3 mentions" title="2025-12-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-event-america-fest-t-00-10-21" style="--pulse-height:50%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +57,7 @@ _Type: Events_
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-event-america-fest-t-00-43-33) | 1 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-event-america-fest-t-00-04-36) | 1 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-event-america-fest-t-00-00-42) | 3 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-event-america-fest-t-00-10-21) | 2 |
 
 </details>
 </section>
@@ -54,7 +65,18 @@ _Type: Events_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (2 mentions)</summary>
+
+**[00:10:46](/episodes/ep-q1NRQQAYS_Q.md#ent-event-america-fest-t-00-10-21)**
+> "making matters more interesting was AmFest."
+
+**[00:17:22](/episodes/ep-q1NRQQAYS_Q.md#ent-event-america-fest-t-00-17-13)**
+> "Playing the audio at AmFest already was not enough. You'll obviously just say..."
+
+</details>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
@@ -154,7 +176,15 @@ _Type: Events_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about America Fest (3)</strong></summary>
+<summary><strong class="section-title">Statements about America Fest (4)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1)</summary>
+
+- [00:10:53](/episodes/ep-q1NRQQAYS_Q.md#t-00-10-21) (Accusation) **Candace Owens**: ["Turning Point USA stripped the video and used only the alleged audio o..."](/statements/statement-b60cce8d9a8c.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>

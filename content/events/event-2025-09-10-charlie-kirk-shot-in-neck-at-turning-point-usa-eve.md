@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University
 
-## Mentioned In (394 times)
+## Mentioned In (396 times)
 
 ### 1. REVELATIONS: The Truth About Charlie's Medical Report | Cand...
 
@@ -3164,3 +3164,19 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(715);return false;">▶️ Play</a>
 
 > It was 12:23 p.m. Mountain Standard Time when the shot rang out.
+
+### 395. PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319
+
+**Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
+**Timestamp:** [00:02:18](/episodes/ep-UYkXV9mYbT4.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-02-02) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(138);return false;">▶️ Play</a>
+
+> Charlie Kirk was shot on September 10th, 12.23 p.m. in the afternoon mountain time.
+
+### 396. Trump Attacks The Pope. The Tyler Robinson Narrative Collaps...
+
+**Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
+**Timestamp:** [01:06:25](/episodes/ep-eLgD5yUVbko.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-01-06-15) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3985);return false;">▶️ Play</a>
+
+> getting to the truth of what happened on September 10th because we know we're not getting it

@@ -1,6 +1,6 @@
 ---
 title: "Ben Shapiro"
-description: "Ben Shapiro (People) - 324 mentions"
+description: "Ben Shapiro (People) - 338 mentions"
 id: "person-ben-shapiro"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-ben-shapiro-t-00-30-51">2025-09-24 · 00:31:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-ben-shapiro-t-00-58-19">2026-03-24 · 00:58:43</a></strong></div>
-<div><span>Episodes</span><strong>36</strong></div>
-<div><span>Mentions</span><strong>324</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-ben-shapiro-t-00-25-41">2026-04-13 · 00:25:41</a></strong></div>
+<div><span>Episodes</span><strong>39</strong></div>
+<div><span>Mentions</span><strong>338</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
-<div><span>Statements about</span><strong>57</strong></div>
-<div><span>Relationships</span><strong>64</strong></div>
+<div><span>Statements about</span><strong>61</strong></div>
+<div><span>Relationships</span><strong>69</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -71,6 +71,9 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-ben-shapiro-t-00-02-29" style="--pulse-height:65%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 35 mentions" title="2026-03-17 · 35 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-ben-shapiro-t-00-48-19" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-ben-shapiro-t-00-30-50" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 4 mentions" title="2026-03-24 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-person-ben-shapiro-t-00-38-57" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-ben-shapiro-t-00-17-26" style="--pulse-height:8%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-ben-shapiro-t-00-17-43" style="--pulse-height:22%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 12 mentions" title="2026-04-13 · 12 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -112,6 +115,9 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-ben-shapiro-t-00-02-29) | 35 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-ben-shapiro-t-00-48-19) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-ben-shapiro-t-00-30-50) | 4 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-ben-shapiro-t-00-38-57) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-ben-shapiro-t-00-17-26) | 1 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-ben-shapiro-t-00-17-43) | 12 |
 
 </details>
 </section>
@@ -119,7 +125,64 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (324)</strong></summary>
+<summary><strong class="section-title">Raw mentions (338)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (12 mentions)</summary>
+
+**[00:17:57](/episodes/ep-eLgD5yUVbko.md#ent-person-ben-shapiro-t-00-17-43)**
+> "Erica Kirk and Ben Shapiro"
+
+**[00:18:22](/episodes/ep-eLgD5yUVbko.md#ent-person-ben-shapiro-t-00-17-43)**
+> "...times over that charlie hated ben everybody knows that uh even jeremy boring when h..."
+
+**[00:18:50](/episodes/ep-eLgD5yUVbko.md#ent-person-ben-shapiro-t-00-17-43)**
+> "...in a very big and public way. Ben then set to work behind the scenes, getting like ..."
+
+**[00:19:00](/episodes/ep-eLgD5yUVbko.md#ent-person-ben-shapiro-t-00-17-43)**
+> "...y forced Charlie to interview Ben a few days before his death."
+
+**[00:19:14](/episodes/ep-eLgD5yUVbko.md#ent-person-ben-shapiro-t-00-17-43)**
+> "...ie dies. A couple days later, Ben says he's going to pick up the bloody mic."
+
+**[00:19:23](/episodes/ep-eLgD5yUVbko.md#ent-person-ben-shapiro-t-00-17-43)**
+> "...Robinson to negotiate to have Ben on Charlie's show."
+
+**[00:21:20](/episodes/ep-eLgD5yUVbko.md#ent-person-ben-shapiro-t-00-20-58)**
+> "...e and they're like, you know, Ben is working with Erica on ways to sue you. He's be..."
+
+**[00:21:36](/episodes/ep-eLgD5yUVbko.md#ent-person-ben-shapiro-t-00-20-58)**
+> "What are you talking about? Ben Shapiro is working with Erica Kirk and turning point with..."
+
+**[00:23:33](/episodes/ep-eLgD5yUVbko.md#ent-person-ben-shapiro-t-00-20-58)**
+> "...now, almost a silent seat for Ben."
+
+**[00:23:37](/episodes/ep-eLgD5yUVbko.md#ent-person-ben-shapiro-t-00-20-58)**
+> "...xperience. And they said that Ben was driving the bus gunning for me through lines ..."
+
+**[00:24:51](/episodes/ep-eLgD5yUVbko.md#ent-person-ben-shapiro-t-00-24-24)**
+> "...s is exactly how I feel about Ben Shapiro."
+
+**[00:25:41](/episodes/ep-eLgD5yUVbko.md#ent-person-ben-shapiro-t-00-25-41)**
+> "...ce defending freedom all said ben shapiro but um yeah it's just going on and i i just Just ..."
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:17:34](/episodes/ep-ZIH5-V6UPkg.md#ent-person-ben-shapiro-t-00-17-26)**
+> "...h in this movement are not on Ben Shapiro and Mark Levin's team, okay?"
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
+
+**[00:39:18](/episodes/ep-rupRLXmSndU.md#ent-person-ben-shapiro-t-00-38-57)**
+> "Ben Shapiro"
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (4 mentions)</summary>
@@ -1406,13 +1469,14 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <summary>Criticized By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:40:59](/episodes/ep-QRS_hR7NXaQ.md#t-00-40-59): “Benny (Ben Shapiro) boy i'm i'm ignorant but not that ignorant ... just get it off your chest Ben (Ben Shapiro)”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:04:37](/episodes/ep-H9p2ZGHAs9A.md#t-00-04-23): “And his wife did a complete 180 like LBJ, inviting, frankly, deranged Zionists into the fold immediately. Ben Shapiro, who was, in fact, an enemy to her husband, effectively opened AmFest. She came out first and then Ben Shapiro came out second.”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:23](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “Ben (Ben Shapiro) should be given a swirly every single day of his life. Ben Shapiro's head belongs in a toilet permanently.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:24:40](/episodes/ep-eLgD5yUVbko.md#t-00-24-24): “I don't remember who she had in her show, but she was talking about Mark Levin and she said there is a piece of her that feels like he genuinely wants to like hurt her like he would want harm to come to Megyn Kelly. Like if someone killed her, he would be happy. And I watched this and I went, yes, like my head, obviously, I said, I agree with this. And this is exactly how I feel about Ben Shapiro. I can't explain to you, but like there was an obsession here. He brought back my socials. They make videos. It has not stopped.”
 
 </details>
 
@@ -1554,13 +1618,20 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>Interviewed By (1)</summary>
+<summary>Interviewed By (2)</summary>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:04:37](/episodes/ep-MUA9ebCF4Ow.md#t-00-04-35): “you had Ben Shapiro as a guest”
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:18](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): “Ben Shapiro (Ben Shapiro), who was invited as a guest to join Megyn Kelly on her tour”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:19:00](/episodes/ep-eLgD5yUVbko.md#t-00-19-00): “writers to peer pressure Charlie to distance from me because of anti-Semitism. Andrew admitted in that same New York Times interview that we just showed you that he effectively forced Charlie to interview Ben a few days before his death.”
 
 </details>
 
@@ -1587,12 +1658,36 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
+<summary>Sued (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:19:58](/episodes/ep-eLgD5yUVbko.md#t-00-19-40): “He then is radical and instant in his demands for Megyn Kelly to say something about me to do not look into Erica Kirk. Like he was one of the reasons that I actually looked into Erica Kirk because I thought this is very weird. Why is he he's almost signaling to us that we should look into Erica. No, Megan, demand you say this. Michael Knowles, even now, calling her evil, looking into the wife as a potential suspect, which is like what happens all the time in the course of any investigation. That's evil. He was too emotionally invested. And I started asking myself, is he also financially invested in some manner? He went on his show and he demanded that Erica sue me for dropping a two minute trailer. That was his response to the trailer. Erica should sue Candace for a trailer that just has Erica's own words in it. This is after he's been suing me for two years, okay, in arbitration court. So people can't read and see how mentally unstable he is and what he wants money over.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Supporter Of (1)</summary>
 
 - **[Ron DeSantis](/entities/person-ron-desantis.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:14:12](/episodes/ep-k8ueJdPFel4.md#t-00-13-51): “Charlie (Charlie Kirk) and Ben (Ben Shapiro) deferred about the best direction for the conservative movement. Ben (Ben Shapiro) supported Ron DeSantis in the 2024 primary while Charlie (Charlie Kirk) was all in for Trump (Donald J. Trump) from the start.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Worked With (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:21:20](/episodes/ep-eLgD5yUVbko.md#t-00-20-58): “So they, again, touch some of these people and they're like, you know, Ben is working with Erica on ways to sue you. He's become suddenly very influential in Alliance defending freedom.”
 
 </details>
 
@@ -1611,7 +1706,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>Referenced By (32)</summary>
+<summary>Referenced By (34)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -1643,13 +1738,14 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:40:59](/episodes/ep-QRS_hR7NXaQ.md#t-00-40-59): “Benny (Ben Shapiro) boy i'm i'm ignorant but not that ignorant ... just get it off your chest Ben (Ben Shapiro)”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:04:37](/episodes/ep-H9p2ZGHAs9A.md#t-00-04-23): “And his wife did a complete 180 like LBJ, inviting, frankly, deranged Zionists into the fold immediately. Ben Shapiro, who was, in fact, an enemy to her husband, effectively opened AmFest. She came out first and then Ben Shapiro came out second.”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:23](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “Ben (Ben Shapiro) should be given a swirly every single day of his life. Ben Shapiro's head belongs in a toilet permanently.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:24:40](/episodes/ep-eLgD5yUVbko.md#t-00-24-24): “I don't remember who she had in her show, but she was talking about Mark Levin and she said there is a piece of her that feels like he genuinely wants to like hurt her like he would want harm to come to Megyn Kelly. Like if someone killed her, he would be happy. And I watched this and I went, yes, like my head, obviously, I said, I agree with this. And this is exactly how I feel about Ben Shapiro. I can't explain to you, but like there was an obsession here. He brought back my socials. They make videos. It has not stopped.”
 
 </details>
 
@@ -1818,6 +1914,13 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 </details>
 
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:19:00](/episodes/ep-eLgD5yUVbko.md#t-00-19-00): “writers to peer pressure Charlie to distance from me because of anti-Semitism. Andrew admitted in that same New York Times interview that we just showed you that he effectively forced Charlie to interview Ben a few days before his death.”
+
+</details>
+
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -1836,6 +1939,13 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:09:54](/episodes/ep-w1oqQbR_bYs.md#t-00-09-20): “Ben had his team reach out and schedule an interview with Thomas Soul”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** sued by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:19:58](/episodes/ep-eLgD5yUVbko.md#t-00-19-40): “He then is radical and instant in his demands for Megyn Kelly to say something about me to do not look into Erica Kirk. Like he was one of the reasons that I actually looked into Erica Kirk because I thought this is very weird. Why is he he's almost signaling to us that we should look into Erica. No, Megan, demand you say this. Michael Knowles, even now, calling her evil, looking into the wife as a potential suspect, which is like what happens all the time in the course of any investigation. That's evil. He was too emotionally invested. And I started asking myself, is he also financially invested in some manner? He went on his show and he demanded that Erica sue me for dropping a two minute trailer. That was his response to the trailer. Erica should sue Candace for a trailer that just has Erica's own words in it. This is after he's been suing me for two years, okay, in arbitration court. So people can't read and see how mentally unstable he is and what he wants money over.”
 
 </details>
 
@@ -1899,7 +2009,24 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ben Shapiro (57)</strong></summary>
+<summary><strong class="section-title">Statements about Ben Shapiro (61)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (4)</summary>
+
+- [00:18:50](/episodes/ep-eLgD5yUVbko.md#t-00-18-22) (Accusation) **Candace Owens**: ["Ben Shapiro worked behind the scenes to have Jewish donors and writers..."](/statements/statement-c1750cd12c62.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Antisemitism](/entities/concept-antisemitism.md)
+
+- [00:19:00](/episodes/ep-eLgD5yUVbko.md#t-00-19-00) (Accusation) **Candace Owens**: ["Andrew Kolvet effectively forced Charlie Kirk to interview Ben Shapiro..."](/statements/statement-32b5e729b94a.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [The New York Times](/entities/org-the-new-york-times.md)
+
+- [00:20:58](/episodes/ep-eLgD5yUVbko.md#t-00-20-19) (Accusation) **Anonymous Source #3 (Ep eLgD5yUVbko)** (via read message): ["Alliance Defending Freedom insiders told Candace Owens that Ben Shapir..."](/statements/statement-73534409fe2f.md)
+  - Also about: [Alliance Defending Freedom](/entities/org-alliance-defending-freedom.md), [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:26:09](/episodes/ep-eLgD5yUVbko.md#t-00-25-41) (Opinion) **Candace Owens**: ["Candace Owens said Ben Shapiro feels dangerous to her."](/statements/statement-028f6a73b05e.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (5)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Monsanto Company"
-description: "Monsanto Company (Organizations) - 5 mentions"
+description: "Monsanto Company (Organizations) - 6 mentions"
 id: "org-monsanto"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Monsanto — Bayer](https://www.bayer.com/en/us/monsanto-home)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-monsanto-t-00-50-55">2026-02-25 · 00:51:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-monsanto-t-00-40-36">2026-03-09 · 00:40:50</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-monsanto-t-00-36-32">2026-04-10 · 00:36:32</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>1</strong></div>
@@ -39,6 +39,7 @@ Source: [Monsanto — Bayer](https://www.bayer.com/en/us/monsanto-home)
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-monsanto-t-00-50-55" style="--pulse-height:100%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-monsanto-t-00-31-31" style="--pulse-height:50%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-monsanto-t-00-39-11" style="--pulse-height:100%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-monsanto-t-00-36-32" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [Monsanto — Bayer](https://www.bayer.com/en/us/monsanto-home)
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-monsanto-t-00-50-55) | 2 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-monsanto-t-00-31-31) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-monsanto-t-00-39-11) | 2 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-monsanto-t-00-36-32) | 1 |
 
 </details>
 </section>
@@ -54,7 +56,15 @@ Source: [Monsanto — Bayer](https://www.bayer.com/en/us/monsanto-home)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:36:32](/episodes/ep-ZIH5-V6UPkg.md#ent-org-monsanto-t-00-36-32)**
+> "Remember when the Monsanto thing, oh, Trump went back on phosphorus and Mons..."
+
+</details>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (2 mentions)</summary>

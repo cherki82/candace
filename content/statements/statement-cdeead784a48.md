@@ -23,7 +23,7 @@ type: "opinion"
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Appearances (2)
+## Appearances (3)
 
 ### 1. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
 
@@ -40,6 +40,14 @@ type: "opinion"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1230);return false;">Play</a>
 
 > I am very confident stating the opposite of all of my, I guess, well-paid peers in that I don't believe that Tyler (Tyler (Tyler Robinson)) Robinson pulled the trigger.
+
+### 3. The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318
+
+**Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
+**Timestamp:** [00:33:41](/episodes/ep-7ERqbYElOfs.md#t-00-33-33) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2021);return false;">Play</a>
+
+> I feel almost certain that Tyler Robinson did not shoot. I would say I would say I feel 90. ... 99.9% certain that Tyler Robinson did not shoot Charlie Kirk from a rooftop by himself. How about that?
 
 ## Verification
 

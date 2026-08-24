@@ -11,7 +11,7 @@ object: "org-pure-talk"
 
 ## [Candace Owens](/entities/person-candace-owens) endorsed [Pure Talk](/entities/org-pure-talk)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58)**
 
@@ -28,6 +28,10 @@ object: "org-pure-talk"
 **[Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ)**
 
 - [00:45:02](/episodes/ep-ZzAT2xijKGQ#t-00-45-02): _Go drag your old wireless contract out of the closet and toss it in the trash, then freshen things up by switching to Pure Talk, which is my wireless company._
+
+**[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
+
+- [00:48:29](/episodes/ep-q1NRQQAYS_Q#t-00-48-29): _So there was that. We'll take a brief break before I get to some of your comments. All right, you guys, PeerTalk was one of the first companies I ever endorsed almost five years ago when I wanted to work with a wireless company that shares my values._
 
 ### Related
 

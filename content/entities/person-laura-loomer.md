@@ -1,6 +1,6 @@
 ---
 title: "Laura Loomer"
-description: "Laura Loomer (People) - 32 mentions"
+description: "Laura Loomer (People) - 36 mentions"
 id: "person-laura-loomer"
 type: "PERSON"
 categories:
@@ -17,12 +17,12 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-laura-loomer-t-01-03-56">2025-09-16 · 01:04:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-laura-loomer-t-00-52-49">2026-03-26 · 00:52:49</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>32</strong></div>
-<div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-laura-loomer-t-00-55-21">2026-04-13 · 00:55:21</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>36</strong></div>
+<div><span>Statements by</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -45,6 +45,9 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-laura-loomer-t-00-15-14" style="--pulse-height:20%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-laura-loomer-t-00-06-25" style="--pulse-height:20%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-laura-loomer-t-00-49-39" style="--pulse-height:40%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-laura-loomer-t-00-55-36" style="--pulse-height:20%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-laura-loomer-t-00-32-54" style="--pulse-height:20%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-laura-loomer-t-00-51-17" style="--pulse-height:40%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,6 +68,9 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-laura-loomer-t-00-15-14) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-laura-loomer-t-00-06-25) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-laura-loomer-t-00-49-39) | 2 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-laura-loomer-t-00-55-36) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-laura-loomer-t-00-32-54) | 1 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-laura-loomer-t-00-51-17) | 2 |
 
 </details>
 </section>
@@ -72,7 +78,34 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2 mentions)</summary>
+
+**[00:51:25](/episodes/ep-eLgD5yUVbko.md#ent-person-laura-loomer-t-00-51-17)**
+> "Laura Loomer"
+
+**[00:55:21](/episodes/ep-eLgD5yUVbko.md#ent-person-laura-loomer-t-00-55-21)**
+> "that's what laura loomer said to him i think that is she text him and she'..."
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:33:08](/episodes/ep-ZIH5-V6UPkg.md#ent-person-laura-loomer-t-00-32-54)**
+> "...e lunatics, one of them being Laura Loomer."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1 mentions)</summary>
+
+**[00:55:36](/episodes/ep-7ERqbYElOfs.md#ent-person-laura-loomer-t-00-55-36)**
+> "dealing with Andrew Kolvet and I was like okay turning point's upset again they send the lowest IQ people like just like people that you have to lower yourself and have nothing left in the PR uh realm you have no tricks left when you go to Laura Loomer and say can you attack someone you are you are just scraping the bottom of the barrel Laura Loomer in House Inhabit you're just you've just you've hit the bottom you've hit the there's no way you can't go lower than that"
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (2 mentions)</summary>
@@ -267,7 +300,20 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 <details>
-<summary>Criticized (3)</summary>
+<summary>Advisor To (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:33:08](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54): “one of them being Laura Loomer. ... Trump's closest advisor.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:51:25](/episodes/ep-eLgD5yUVbko.md#t-00-51-17): “We're calling for peace. And he's like, these people are nut jobs. And then he has people like Laura Loomer who have. has been forcibly placed on site 5150 holds as his number one advisor she's like i'm advising him you got paula white who's telling him he's akin to jesus christ which is absolutely blasphemous and he thinks these people are totally sane again very scary to be that far in the cave he is so in the cave he is so convinced of his own invincibility it is completely unhinged that he was deeply upset by the pope Telling him the truth,”
+
+</details>
+
+</details>
+
+<details>
+<summary>Criticized (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
@@ -293,10 +339,31 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 
 </details>
 
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:33:08](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54): “one of them being Laura Loomer. ... she yesterday proudly promoted the fact that she was behind his tweet last night to me and Tucker and Megan, but to Tucker Carlson in particular, take a listen to her being braggadocious. ... I don't know who Tucker Carlson thinks he is. He thinks he's so popular.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:55:36](/episodes/ep-7ERqbYElOfs.md#t-00-55-36): “when you go to Laura Loomer and say can you attack someone you are you are just scraping the bottom of the barrel”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:33:08](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54): “He is definitively surrounded by certifiable lunatics, one of them being Laura Loomer.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:51:17](/episodes/ep-eLgD5yUVbko.md#t-00-50-35): “I mean, he is surrounded by, ironically, the very thing that he accuses me and Megan and Tucker of being because we're calling for peace. We're calling for peace. And he's like, these people are nut jobs. And then he has people like Laura Loomer who have. has been forcibly placed on site 5150 holds as his number one advisor she's like i'm advising him you got paula white who's telling him he's akin to jesus christ which is absolutely blasphemous and he thinks these people are totally sane again very scary to be that far in the cave he is so in the cave he is so convinced of his own invincibility it is completely unhinged that he was deeply upset by the pope Telling him the truth,”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (8)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** accused by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -309,6 +376,23 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:06:31](/episodes/ep-B9TyCs-6o_0.md#t-00-06-25): “Laura Loomer ... why are you defending a known leaker who is undermining President Trump? There is now speculation that Joe Kent may have been leaking information to Candace Owens”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** advised by this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:33:08](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54): “one of them being Laura Loomer. ... Trump's closest advisor.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:51:25](/episodes/ep-eLgD5yUVbko.md#t-00-51-17): “We're calling for peace. And he's like, these people are nut jobs. And then he has people like Laura Loomer who have. has been forcibly placed on site 5150 holds as his number one advisor she's like i'm advising him you got paula white who's telling him he's akin to jesus christ which is absolutely blasphemous and he thinks these people are totally sane again very scary to be that far in the cave he is so in the cave he is so convinced of his own invincibility it is completely unhinged that he was deeply upset by the pope Telling him the truth,”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:55:36](/episodes/ep-7ERqbYElOfs.md#t-00-55-36): “when you go to Laura Loomer and say can you attack someone you are you are just scraping the bottom of the barrel”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:33:08](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54): “He is definitively surrounded by certifiable lunatics, one of them being Laura Loomer.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:51:17](/episodes/ep-eLgD5yUVbko.md#t-00-50-35): “I mean, he is surrounded by, ironically, the very thing that he accuses me and Megan and Tucker of being because we're calling for peace. We're calling for peace. And he's like, these people are nut jobs. And then he has people like Laura Loomer who have. has been forcibly placed on site 5150 holds as his number one advisor she's like i'm advising him you got paula white who's telling him he's akin to jesus christ which is absolutely blasphemous and he thinks these people are totally sane again very scary to be that far in the cave he is so in the cave he is so convinced of his own invincibility it is completely unhinged that he was deeply upset by the pope Telling him the truth,”
 
 </details>
 
@@ -334,12 +418,33 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 
 </details>
 
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:33:08](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54): “one of them being Laura Loomer. ... she yesterday proudly promoted the fact that she was behind his tweet last night to me and Tucker and Megan, but to Tucker Carlson in particular, take a listen to her being braggadocious. ... I don't know who Tucker Carlson thinks he is. He thinks he's so popular.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Laura Loomer (4)</strong></summary>
+<summary><strong class="section-title">Statements by Laura Loomer (7)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (3)</summary>
+
+- [00:34:19](/episodes/ep-ZIH5-V6UPkg.md#t-00-34-19) [✓] (Claim) ["Laura Loomer sent Donald Trump a Tucker Carlson clip so the president could see ..."](/statements/statement-854fa1a9f63d.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+- [00:34:48](/episodes/ep-ZIH5-V6UPkg.md#t-00-34-48) [○] (Accusation) ["Tucker Carlson is lying about Donald Trump, smearing him, creating chaos, and en..."](/statements/statement-c0feb2dbd3e5.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Donald J. Trump](/entities/person-donald-trump.md), [United States](/entities/gpe-united-states.md)
+
+- [00:35:36](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-26) [○] (Accusation) ["Tucker Carlson incites violence against evangelicals, Jewish Americans, and Dona..."](/statements/statement-1d4fb271ea2b.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Donald J. Trump](/entities/person-donald-trump.md), [Jewish people](/entities/concept-jewish-people.md)
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1)</summary>
@@ -376,7 +481,17 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Laura Loomer (3)</strong></summary>
+<summary><strong class="section-title">Statements about Laura Loomer (5)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (2)</summary>
+
+- [00:33:21](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54) (Claim) **Candace Owens**: ["Laura Loomer has been committed multiple times."](/statements/statement-b9ab454b1bd9.md)
+
+- [00:33:38](/episodes/ep-ZIH5-V6UPkg.md#t-00-33-38) (Claim) **Candace Owens**: ["Laura Loomer was not bat mitzvahed and is not Jewish."](/statements/statement-85265c9dd8e8.md)
+  - Also about: [Judaism](/entities/concept-judaism.md)
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1)</summary>

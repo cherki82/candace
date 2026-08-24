@@ -4,9 +4,10 @@ description: "\"Mitch Snow's story was that he was almost certain he saw Brian H
 statement_id: "statement-75ce7d0d0c2c"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,21 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The original December 2025 interview is publicly listed, and later transcript coverage directly summarizes Mitch Snow as saying he was at Fort Huachuca on September 8 and 9 and was highly but not completely certain he saw Brian Harpole. This verifies what Snow story was, not whether the sighting was accurate.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Exclusive Interview: What He Saw on Fort Huachuca the Day Before Charlie Died](https://podcasts.apple.com/us/podcast/exclusive-interview-what-he-saw-on-fort-huachuca-the/id1750591415?i=1000741923956)
+- [Real Baron Podcast: Explosive Documents FOIA](https://podscan.fm/podcasts/real-baron-podcast/episodes/explosive-documents-foia-aes-documents-produced-ep-135)
+
+*Verified: 2026-08-24T10:57:40.125740*
 
 ---
 

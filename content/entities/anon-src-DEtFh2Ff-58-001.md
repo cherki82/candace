@@ -38,7 +38,7 @@ _No relationships extracted yet._
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>
 
-- [00:02:44](/episodes/ep-DEtFh2Ff-58.md#t-00-02-35) [○] (Claim) ["The victim's wife is arriving at 3:30."](/statements/statement-599ccdf40310.md)
+- [00:02:44](/episodes/ep-DEtFh2Ff-58.md#t-00-02-35) [✓] (Claim) ["The victim's wife is arriving at 3:30."](/statements/statement-599ccdf40310.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Provo Airport](/entities/org-provo-airport.md)
 
 </details>

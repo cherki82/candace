@@ -1,6 +1,6 @@
 ---
 title: "Club Candace"
-description: "Club Candace (Organizations) - 84 mentions"
+description: "Club Candace (Organizations) - 90 mentions"
 id: "org-club-candace"
 type: "ORG"
 aliases:
@@ -25,9 +25,9 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-club-candace-t-01-01-30">2025-09-15 · 01:01:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-club-candace-t-00-56-25">2026-03-24 · 00:56:25</a></strong></div>
-<div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>84</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-org-club-candace-t-00-52-21">2026-03-30 · 00:52:33</a></strong></div>
+<div><span>Episodes</span><strong>32</strong></div>
+<div><span>Mentions</span><strong>90</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -69,6 +69,7 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-club-candace-t-00-50-49" style="--pulse-height:30%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 3 mentions" title="2025-12-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-club-candace-t-00-55-39" style="--pulse-height:20%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-club-candace-t-00-56-25" style="--pulse-height:10%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-club-candace-t-00-04-41" style="--pulse-height:60%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 6 mentions" title="2026-03-30 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -105,6 +106,7 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-club-candace-t-00-50-49) | 3 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-club-candace-t-00-55-39) | 2 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-club-candace-t-00-56-25) | 1 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-club-candace-t-00-04-41) | 6 |
 
 </details>
 </section>
@@ -112,7 +114,30 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (84)</strong></summary>
+<summary><strong class="section-title">Raw mentions (90)</strong></summary>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (6 mentions)</summary>
+
+**[00:04:41](/episodes/ep-7ERqbYElOfs.md#ent-org-club-candace-t-00-04-41)**
+> "And this part is really important. I actually only recently learned this thanks to my book club. If you were in my book club, you would know this."
+
+**[00:05:40](/episodes/ep-7ERqbYElOfs.md#ent-org-club-candace-t-00-05-25)**
+> "You should join the book club. It's fascinating. So this article today was defi..."
+
+**[00:51:35](/episodes/ep-7ERqbYElOfs.md#ent-org-club-candace-t-00-51-01)**
+> "...reemasonry. This is the first book club book that I'm reading with the book club."
+
+**[00:51:50](/episodes/ep-7ERqbYElOfs.md#ent-org-club-candace-t-00-51-40)**
+> "...ng to rant on it but join the book club is what i'm saying join the book club go to canas..."
+
+**[00:52:16](/episodes/ep-7ERqbYElOfs.md#ent-org-club-candace-t-00-51-40)**
+> "To the book club, we do need book club merch. I need to get on tha..."
+
+**[00:52:33](/episodes/ep-7ERqbYElOfs.md#ent-org-club-candace-t-00-52-21)**
+> "...uld probably read that in the book club actually. Make him a sandwich."
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>

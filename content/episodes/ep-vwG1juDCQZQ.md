@@ -311,7 +311,7 @@ youtube_url: "https://www.youtube.com/watch?v=vwG1juDCQZQ"
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:09:52](#t-00-09-23) [○] (Opinion) **Candace Owens**: ["Candace doesn't believe Tyler Robinson was the lone person involved in Charlie K..."](/statements/statement-c74b87f46747.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
-- [00:12:38](#t-00-12-18) [○] (Claim) **Erika Kirk**: ["Erika Kirk has seen the autopsy report and different evidence portions that have..."](/statements/statement-fd9c3a9d04cf.md)
+- [00:12:38](#t-00-12-18) [✓] (Claim) **Erika Kirk**: ["Erika Kirk has seen the autopsy report and different evidence portions that have..."](/statements/statement-fd9c3a9d04cf.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:14:07](#t-00-13-30) [○] (Claim) **Tyler Bowyer**: ["Tyler Bowyer claimed they have 4K footage of the Charlie Kirk assassination from..."](/statements/statement-7d7ba3312e1a.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)

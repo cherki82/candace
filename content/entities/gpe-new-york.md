@@ -1,6 +1,6 @@
 ---
 title: "New York"
-description: "New York (Places) - 123 mentions"
+description: "New York (Places) - 130 mentions"
 id: "gpe-new-york"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [State of New York](https://www.ny.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-50-22">2025-09-15 · 00:50:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-new-york-t-00-25-46">2026-03-26 · 00:26:21</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>123</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-new-york-t-00-28-11">2026-04-02 · 00:56:43</a></strong></div>
+<div><span>Episodes</span><strong>33</strong></div>
+<div><span>Mentions</span><strong>130</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -62,6 +62,7 @@ Source: [State of New York](https://www.ny.gov/)
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-new-york-t-00-39-36" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-t-00-24-50" style="--pulse-height:77%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 10 mentions" title="2026-03-18 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-new-york-t-00-25-46" style="--pulse-height:77%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 10 mentions" title="2026-03-26 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-new-york-t-00-28-11" style="--pulse-height:54%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 7 mentions" title="2026-04-02 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -99,6 +100,7 @@ Source: [State of New York](https://www.ny.gov/)
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-new-york-t-00-39-36) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-t-00-24-50) | 10 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-new-york-t-00-25-46) | 10 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-new-york-t-00-28-11) | 7 |
 
 </details>
 </section>
@@ -106,7 +108,33 @@ Source: [State of New York](https://www.ny.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (123)</strong></summary>
+<summary><strong class="section-title">Raw mentions (130)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (7 mentions)</summary>
+
+**[00:28:36](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-new-york-t-00-28-11)**
+> "New York"
+
+**[00:24:34](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-new-york-t-00-28-11)**
+> "...ention she tried to do at the New York Times book summit when someone raised it."
+
+**[00:26:46](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-new-york-t-00-28-11)**
+> "...ntially plucked me out of the New York City orbit and was like I have a healthier way of..."
+
+**[00:35:14](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-new-york-t-00-28-11)**
+> "Erica sat down with the New York Times, as we have many times covered over, just d..."
+
+**[00:46:42](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-new-york-t-00-28-11)**
+> "It's the reason why the New York Post had the exclusive photos in the story, this ..."
+
+**[00:46:50](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-new-york-t-00-28-11)**
+> "...work on behalf of Israel. The New York Post exclusively finds Ghislaine Maxwell every si..."
+
+**[00:56:43](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-new-york-t-00-28-11)**
+> "...oast to Erica's answer at the New York Times book summit."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (10 mentions)</summary>

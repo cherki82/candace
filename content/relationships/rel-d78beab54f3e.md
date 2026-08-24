@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [Elizabeth Lane](/entities/person-elizabeth-lane) criticized [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -20,6 +20,10 @@ object: "person-erika-kirk"
 **[Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM)**
 
 - [00:04:57](/episodes/ep-ZAsV0fHGBiM#t-00-04-57): _Elizabeth Lane ... authored about Erica (Erika Kirk) ... Elizabeth Lane wrote ... I have reached the point where I find Erika Kirk to be deeply disturbing_
+
+**[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
+
+- [00:32:10](/episodes/ep-q1NRQQAYS_Q#t-00-32-10): _The opinion, which was shared by Elizabeth Lane, that Erica has psychopathic tendencies. By the way, Blake, looking back at you, buddy, I'm not the one who had an employer that got allegedly shot in front of my face and I didn't think to call 911._
 
 ### Related
 

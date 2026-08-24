@@ -1,0 +1,20 @@
+---
+title: "2024: Charlie Kirk publicly supported Candace Owens afte..."
+description: "2024 - Charlie Kirk publicly supported Candace Owens after she was fired from The Daily Wire."
+event_id: "event-2024-charlie-kirk-publicly-supported-candace-"
+date: "2024"
+---
+
+**Date:** 2024
+
+## Event
+
+> Charlie Kirk publicly supported Candace Owens after she was fired from The Daily Wire.
+
+## Mentioned In
+
+**Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
+**Timestamp:** [00:18:22](/episodes/ep-eLgD5yUVbko.md#event-event-2024-charlie-kirk-publicly-supported-candace--t-00-18-22) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1102);return false;">▶️ Play</a>
+
+> beginning of 2024, Charlie took my side in a very big and public way.

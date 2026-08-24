@@ -1,6 +1,6 @@
 ---
 title: "Schuyler Pryor"
-description: "Schuyler Pryor (People) - 46 mentions"
+description: "Schuyler Pryor (People) - 51 mentions"
 id: "person-schuyler-pryor"
 type: "PERSON"
 aliases:
@@ -23,8 +23,8 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-schuyler-pryor-t-00-01-28">2025-09-17 · 00:01:30</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-schuyler-pryor-t-01-11-02">2026-08-14 · 01:11:02</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>46</strong></div>
+<div><span>Episodes</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>51</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -59,6 +59,9 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-schuyler-pryor-t-00-35-18" style="--pulse-height:50%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-schuyler-pryor-t-00-29-02" style="--pulse-height:50%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 3 mentions" title="2026-03-23 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-schuyler-pryor-t-00-15-52" style="--pulse-height:33%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-schuyler-pryor-t-00-57-24" style="--pulse-height:17%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-schuyler-pryor-t-00-28-47" style="--pulse-height:17%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-schuyler-pryor-t-00-37-43" style="--pulse-height:17%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-schuyler-pryor-t-01-11-02" style="--pulse-height:17%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -89,6 +92,9 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-schuyler-pryor-t-00-35-18) | 3 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-schuyler-pryor-t-00-29-02) | 3 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-schuyler-pryor-t-00-15-52) | 2 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-schuyler-pryor-t-00-57-24) | 1 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-schuyler-pryor-t-00-28-47) | 1 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-schuyler-pryor-t-00-37-43) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-schuyler-pryor-t-01-11-02) | 1 |
 
 </details>
@@ -97,13 +103,37 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (46)</strong></summary>
+<summary><strong class="section-title">Raw mentions (51)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[01:11:02](/episodes/ep-nPhCKwJ6ye8.md#ent-person-schuyler-pryor-t-01-11-02)**
 > "But first go to what Candace is asking about Skylar."
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:37:43](/episodes/ep-q1NRQQAYS_Q.md#ent-person-schuyler-pryor-t-00-37-43)**
+> "Skylar"
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
+
+**[00:29:07](/episodes/ep-UYkXV9mYbT4.md#ent-person-schuyler-pryor-t-00-28-47)**
+> "And Skylar on page 11 now and they write here there are mate..."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1 mentions)</summary>
+
+**[00:57:24](/episodes/ep-7ERqbYElOfs.md#ent-person-schuyler-pryor-t-00-57-24)**
+> "i really didn't know what Skylar (Schuyler Pryor) pull up the website what like forever should we do like a soft drop i mean like a hundred more or something i'll talk i'll talk to the boss man upstairs the boss man's a husband I'll see what he says."
 
 </details>
 

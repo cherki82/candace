@@ -1,6 +1,6 @@
 ---
 title: "Mormonism"
-description: "Mormonism (Concepts) - 18 mentions"
+description: "Mormonism (Concepts) - 22 mentions"
 id: "concept-mormonism"
 type: "CONCEPT"
 aliases:
@@ -25,11 +25,11 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-mormonism-t-00-12-29">2026-02-27 · 00:12:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-mormonism-t-00-01-21">2026-03-18 · 00:01:38</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-concept-mormonism-t-00-47-40">2026-04-01 · 00:47:56</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -42,6 +42,7 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-mormonism-t-00-09-39" style="--pulse-height:9%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-mormonism-t-00-41-21" style="--pulse-height:45%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 5 mentions" title="2026-03-06 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-mormonism-t-00-01-21" style="--pulse-height:9%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-concept-mormonism-t-00-22-38" style="--pulse-height:36%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 4 mentions" title="2026-04-01 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-concept-mormonism-t-00-09-39) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-concept-mormonism-t-00-41-21) | 5 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-concept-mormonism-t-00-01-21) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-concept-mormonism-t-00-22-38) | 4 |
 
 </details>
 </section>
@@ -58,7 +60,24 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (4 mentions)</summary>
+
+**[00:23:10](/episodes/ep-rupRLXmSndU.md#ent-concept-mormonism-t-00-22-38)**
+> "Mormon"
+
+**[00:25:01](/episodes/ep-rupRLXmSndU.md#ent-concept-mormonism-t-00-25-01)**
+> "...me, is where the elite of the Mormon culture, the cream of the pie, they get introduce..."
+
+**[00:34:34](/episodes/ep-rupRLXmSndU.md#ent-concept-mormonism-t-00-34-18)**
+> "...rly was a part of sort of the Mormon tribe that went down to Chihuahua, Mexico because..."
+
+**[00:47:56](/episodes/ep-rupRLXmSndU.md#ent-concept-mormonism-t-00-47-40)**
+> "crop of the Mormon pie that go there and they approach them about wo..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
@@ -144,7 +163,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mormonism (3)</strong></summary>
+<summary><strong class="section-title">Statements about Mormonism (4)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1)</summary>
+
+- [00:25:01](/episodes/ep-rupRLXmSndU.md#t-00-25-01) (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)** (via read message): ["Elite Mormon students at BYU's Jerusalem Center are introduced to one ..."](/statements/statement-ddfdb9405887.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md), [Knesset](/entities/org-knesset.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (3)</summary>

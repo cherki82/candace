@@ -1,6 +1,6 @@
 ---
 title: "Kikoff"
-description: "Kikoff (Organizations) - 16 mentions"
+description: "Kikoff (Organizations) - 22 mentions"
 id: "org-kikoff"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [Kikoff](https://getkikoff.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-17-53">2026-01-29 · 01:18:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-kikoff-t-00-30-35">2026-02-25 · 00:30:43</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-kikoff-t-00-35-37">2026-03-31 · 00:35:41</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -38,6 +38,7 @@ Source: [Kikoff](https://getkikoff.com/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-19-00" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 9 mentions" title="2026-01-29 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-kikoff-t-00-29-27" style="--pulse-height:78%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 7 mentions" title="2026-02-25 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-kikoff-t-00-34-30" style="--pulse-height:67%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 6 mentions" title="2026-03-31 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [Kikoff](https://getkikoff.com/)
 |---|---|---:|
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-19-00) | 9 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-kikoff-t-00-29-27) | 7 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-org-kikoff-t-00-34-30) | 6 |
 
 </details>
 </section>
@@ -52,7 +54,30 @@ Source: [Kikoff](https://getkikoff.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (6 mentions)</summary>
+
+**[00:34:30](/episodes/ep-UYkXV9mYbT4.md#ent-org-kikoff-t-00-34-30)**
+> "...o want to tell you guys about Kickoff because right now tax refunds are hitting bank ac..."
+
+**[00:34:40](/episodes/ep-UYkXV9mYbT4.md#ent-org-kikoff-t-00-34-30)**
+> "That's where Kickoff comes in. Kickoff is the number one credit buildi..."
+
+**[00:35:03](/episodes/ep-UYkXV9mYbT4.md#ent-org-kikoff-t-00-34-30)**
+> "Plus, Kickoff even lets you build credit with rent that you are..."
+
+**[00:35:20](/episodes/ep-UYkXV9mYbT4.md#ent-org-kikoff-t-00-35-10)**
+> "...e normal price when you go to getkickoff.com slash candace today that's kickoff k-i-k-o-f-..."
+
+**[00:35:37](/episodes/ep-UYkXV9mYbT4.md#ent-org-kikoff-t-00-35-37)**
+> "Must sign up via kickoff.com slash Candace to activate offer. Offer applie..."
+
+**[00:35:41](/episodes/ep-UYkXV9mYbT4.md#ent-org-kikoff-t-00-35-37)**
+> "...gust 2024 and August 2025 for kickoff credit account users."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (7 mentions)</summary>
@@ -117,6 +142,28 @@ Source: [Kikoff](https://getkikoff.com/)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Endorsed By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:40](/episodes/ep-UYkXV9mYbT4.md#t-00-34-30): “That's where Kickoff comes in. Kickoff is the number one credit building app in the App Store and plans start at just five bucks a month.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:40](/episodes/ep-UYkXV9mYbT4.md#t-00-34-30): “That's where Kickoff comes in. Kickoff is the number one credit building app in the App Store and plans start at just five bucks a month.”
+
+</details>
+
+</details>
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Brigitte Macron"
-description: "Brigitte Macron (People) - 201 mentions"
+description: "Brigitte Macron (People) - 221 mentions"
 id: "person-brigitte-macron"
 type: "PERSON"
 aliases:
@@ -25,10 +25,10 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#t-00-19-31">2025-09-11 · 00:19:57</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-brigitte-macron-t-02-20-16">2026-08-14 · 02:22:25</a></strong></div>
-<div><span>Episodes</span><strong>43</strong></div>
-<div><span>Mentions</span><strong>201</strong></div>
+<div><span>Episodes</span><strong>47</strong></div>
+<div><span>Mentions</span><strong>221</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>28</strong></div>
+<div><span>Statements about</span><strong>31</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -79,6 +79,10 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-brigitte-macron-t-00-50-34" style="--pulse-height:8%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#t-00-28-10" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-brigitte-macron-t-00-38-21" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-brigitte-macron-t-00-09-00" style="--pulse-height:14%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 6 mentions" title="2026-03-30 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-brigitte-macron-t-00-19-29" style="--pulse-height:8%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-brigitte-macron-t-00-09-34" style="--pulse-height:20%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 9 mentions" title="2026-04-10 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-brigitte-macron-t-00-03-00" style="--pulse-height:9%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 4 mentions" title="2026-04-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-brigitte-macron-t-02-20-16" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -127,6 +131,10 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-brigitte-macron-t-00-50-34) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#t-00-28-10) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-brigitte-macron-t-00-38-21) | 1 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-brigitte-macron-t-00-09-00) | 6 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-brigitte-macron-t-00-19-29) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-brigitte-macron-t-00-09-34) | 9 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-brigitte-macron-t-00-03-00) | 4 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-brigitte-macron-t-02-20-16) | 2 |
 
 </details>
@@ -135,7 +143,7 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (201)</strong></summary>
+<summary><strong class="section-title">Raw mentions (221)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -145,6 +153,86 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 
 **[02:22:25](/episodes/ep-nPhCKwJ6ye8.md#ent-person-brigitte-macron-t-02-20-16)**
 > "...ke I can't hack into Emmanuel Macron's bank accounts and say whether or not the informat..."
+
+</details>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (4 mentions)</summary>
+
+**[00:03:00](/episodes/ep-eLgD5yUVbko.md#ent-person-brigitte-macron-t-00-03-00)**
+> "Brigitte Macron"
+
+**[01:02:50](/episodes/ep-eLgD5yUVbko.md#ent-person-brigitte-macron-t-01-02-50)**
+> "... presented more evidence that Brigitte is a man than Trump has presented that Iran is a ..."
+
+**[01:03:12](/episodes/ep-eLgD5yUVbko.md#ent-person-brigitte-macron-t-01-02-50)**
+> "... have a type and your type is Brigitte Macron. It's fine. If you think you can make fetch happe..."
+
+**[01:03:43](/episodes/ep-eLgD5yUVbko.md#ent-person-brigitte-macron-t-01-03-27)**
+> "...ful trump trumpy trumpy loves brigitte"
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (9 mentions)</summary>
+
+**[00:09:34](/episodes/ep-ZIH5-V6UPkg.md#ent-person-brigitte-macron-t-00-09-34)**
+> "This Brigitte Macron."
+
+**[00:09:38](/episodes/ep-ZIH5-V6UPkg.md#ent-person-brigitte-macron-t-00-09-34)**
+> "...e that sentence for? Not even Brigitte Macron and Emmanuel Macron applauded that sentence, okay..."
+
+**[00:09:53](/episodes/ep-ZIH5-V6UPkg.md#ent-person-brigitte-macron-t-00-09-34)**
+> "..., what is your obsession with Brigitte, this Brigitte McCrone in the swimsuit? You think..."
+
+**[00:10:06](/episodes/ep-ZIH5-V6UPkg.md#ent-person-brigitte-macron-t-00-09-34)**
+> "...ite House? Stop talking about Brigitte."
+
+**[00:12:54](/episodes/ep-ZIH5-V6UPkg.md#ent-person-brigitte-macron-t-00-12-54)**
+> "... hot girl summer being led by Brigitte Macron? And people who attack people, other journalists ..."
+
+**[00:19:05](/episodes/ep-ZIH5-V6UPkg.md#ent-person-brigitte-macron-t-00-19-05)**
+> "He said Brigitte McCrone is far more beautiful than Candace Owens."
+
+**[00:28:57](/episodes/ep-ZIH5-V6UPkg.md#ent-person-brigitte-macron-t-00-28-57)**
+> "...'s going to be upset about... Brigitte Macron is hot. There's something that is so fundamentall..."
+
+**[00:41:36](/episodes/ep-ZIH5-V6UPkg.md#ent-person-brigitte-macron-t-00-41-12)**
+> "...ys you're more beautiful than Brigitte Macron."
+
+**[00:41:58](/episodes/ep-ZIH5-V6UPkg.md#ent-person-brigitte-macron-t-00-41-46)**
+> "...said, like not even. Not even Brigitte Macaron of the Elize Palace was like, yes, that's..."
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
+
+**[00:19:37](/episodes/ep-UYkXV9mYbT4.md#ent-person-brigitte-macron-t-00-19-29)**
+> "I filed for them in the Brigitte case. It is so beyond standard that it is you sho..."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (6 mentions)</summary>
+
+**[00:09:25](/episodes/ep-7ERqbYElOfs.md#ent-person-brigitte-macron-t-00-09-00)**
+> "Those three businessmen Freemasons high up that organized her hit, her hit, they had watched this show, they probably would have been aware of the fact that there is this persistent rumor that Brigitte Macron is actually Mossad."
+
+**[00:09:39](/episodes/ep-7ERqbYElOfs.md#ent-person-brigitte-macron-t-00-09-39)**
+> "...that was shared with me about Brigitte's background was very on par with my research into ..."
+
+**[00:09:57](/episodes/ep-7ERqbYElOfs.md#ent-person-brigitte-macron-t-00-09-39)**
+> "... short, they had alleged that Brigitte's family was working on behalf of Israel for a very..."
+
+**[00:10:16](/episodes/ep-7ERqbYElOfs.md#ent-person-brigitte-macron-t-00-10-16)**
+> "...ort and the thick of it, that Brigitte's family has worked for Israel since and now, yeah,..."
+
+**[00:15:25](/episodes/ep-7ERqbYElOfs.md#ent-person-brigitte-macron-t-00-15-25)**
+> "...der, I have an open case with Brigitte Macron. Now, if you're going to sue for defamation, the ..."
+
+**[00:15:36](/episodes/ep-7ERqbYElOfs.md#ent-person-brigitte-macron-t-00-15-25)**
+> "If Brigitte felt that I was lying about that and I was making..."
 
 </details>
 
@@ -976,7 +1064,7 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 <summary>Sued (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:46:11](/episodes/ep-sreYYcID-QY.md#t-00-45-49): “Brigitte Macron comes out and says they have offered scientific evidence to the U.S. court”
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:17:22](/episodes/ep-sImMM04XdWY.md#t-00-16-53): “Brigitte and Emmanuel Macron released to the Financial Times that they are suing me in a Delaware court”
@@ -987,6 +1075,7 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:34:22](/episodes/ep-t1YtLS1n8Vs.md#t-00-34-19): “Brigitte Macron has hired feds, former federal prosecutors, and she's hiring a firm here.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:50](/episodes/ep-his-JBjlkh8.md#t-00-10-16): “"Inside the economics of Candace Owens' media empire and the Macron lawsuit threatening to unravel it."”
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:10:29](/episodes/ep-sreYYcID-QY.md#t-00-10-23): “Out of nowhere, Brigitte Macron just lies.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:09:06](/episodes/ep-ZIH5-V6UPkg.md#t-00-08-45): “Crazy Candace Owens, who accuses the highly respected First Lady of France of being a man when she is not and will hopefully win lots of money in the ongoing lawsuit.”
 
 </details>
 
@@ -1010,7 +1099,7 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** sued by this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:46:11](/episodes/ep-sreYYcID-QY.md#t-00-45-49): “Brigitte Macron comes out and says they have offered scientific evidence to the U.S. court”
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:17:22](/episodes/ep-sImMM04XdWY.md#t-00-16-53): “Brigitte and Emmanuel Macron released to the Financial Times that they are suing me in a Delaware court”
@@ -1020,6 +1109,7 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:02:12](/episodes/ep-7RLtGgkTh9o.md#t-00-02-03): “Brigitte Macron and Emmanuel had a heart attack when I started discussing MKUltra. They brought it up 18 times in the lawsuit against me”
 - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:34:22](/episodes/ep-t1YtLS1n8Vs.md#t-00-34-19): “Brigitte Macron has hired feds, former federal prosecutors, and she's hiring a firm here.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:50](/episodes/ep-his-JBjlkh8.md#t-00-10-16): “"Inside the economics of Candace Owens' media empire and the Macron lawsuit threatening to unravel it."”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:09:06](/episodes/ep-ZIH5-V6UPkg.md#t-00-08-45): “Crazy Candace Owens, who accuses the highly respected First Lady of France of being a man when she is not and will hopefully win lots of money in the ongoing lawsuit.”
 
 </details>
 
@@ -1028,7 +1118,25 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brigitte Macron (28)</strong></summary>
+<summary><strong class="section-title">Statements about Brigitte Macron (31)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1)</summary>
+
+- [00:09:06](/episodes/ep-ZIH5-V6UPkg.md#t-00-08-45) (Claim) **Donald J. Trump** (via quoted post): ["Brigitte Macron is not a man."](/statements/statement-0d0c16a1c0bc.md)
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (2)</summary>
+
+- [00:09:39](/episodes/ep-7ERqbYElOfs.md#t-00-09-39) (Accusation) **Anonymous Source #2 (Ep 7ERqbYElOfs)** (via read message): ["Brigitte Macron's family had worked for Israel for a long time because..."](/statements/statement-260837072c2a.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Germany](/entities/gpe-germany.md), [Nazism](/entities/concept-nazism.md)
+
+- [00:10:09](/episodes/ep-7ERqbYElOfs.md#t-00-09-39) (Accusation) **Anonymous Source #2 (Ep 7ERqbYElOfs)** (via read message): ["The Israeli government covered up a 1950s story about Brigitte Macron'..."](/statements/statement-7f432fc03ef1.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [France](/entities/gpe-france.md), [Nazism](/entities/concept-nazism.md)
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1)</summary>

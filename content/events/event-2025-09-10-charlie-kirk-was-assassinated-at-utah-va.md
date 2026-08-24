@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Charlie Kirk was assassinated at Utah Valley University.
 
-## Mentioned In (34 times)
+## Mentioned In (37 times)
 
 ### 1. You Won't Believe What Happened While We Were Off Air... | C...
 
@@ -284,3 +284,27 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(101);return false;">▶️ Play</a>
 
 > group project to figure out what actually happened on September 10th.
+
+### 35. The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318
+
+**Episode:** [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md)
+**Timestamp:** [00:02:41](/episodes/ep-7ERqbYElOfs.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-02-41) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(161);return false;">▶️ Play</a>
+
+> Charlie Kirk was assassinated at UVU in the afternoon. About a 33-hour manhunt ensued.
+
+### 36. Friends In High Temples: Charlie's Final Call With Bibi... |...
+
+**Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
+**Timestamp:** [00:19:00](/episodes/ep-rupRLXmSndU.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-18-41) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1140);return false;">▶️ Play</a>
+
+> just before Charlie's assassination or maybe even just after Charlie's assassination.
+
+### 37. An Open Letter To President Donald Trump (My Response) | Can...
+
+**Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
+**Timestamp:** [00:03:01](/episodes/ep-ZIH5-V6UPkg.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-02-27) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(181);return false;">▶️ Play</a>
+
+> he's been dead for seven months and the crowd still moves on his behalf.

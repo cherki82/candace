@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "United States (Places) - 1405 mentions"
+description: "United States (Places) - 1469 mentions"
 id: "gpe-united-states"
 type: "GPE"
 aliases:
@@ -30,11 +30,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-gpe-united-states-t-00-01-09">2025-09-15 · 00:01:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-01-19-17">2026-08-14 · 01:19:28</a></strong></div>
-<div><span>Episodes</span><strong>88</strong></div>
-<div><span>Mentions</span><strong>1,405</strong></div>
+<div><span>Episodes</span><strong>94</strong></div>
+<div><span>Mentions</span><strong>1,469</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>87</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>95</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -129,6 +129,12 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-united-states-t-00-35-28" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 3 mentions" title="2026-03-24 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-united-states-t-00-31-31" style="--pulse-height:21%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 8 mentions" title="2026-03-25 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-united-states-t-00-24-28" style="--pulse-height:34%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 13 mentions" title="2026-03-26 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-united-states-t-00-01-33" style="--pulse-height:18%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 7 mentions" title="2026-03-30 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-gpe-united-states-t-00-52-00" style="--pulse-height:21%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 8 mentions" title="2026-03-31 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-united-states-t-00-35-02" style="--pulse-height:11%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 4 mentions" title="2026-04-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-48-40" style="--pulse-height:29%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 11 mentions" title="2026-04-02 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-12-12" style="--pulse-height:63%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 24 mentions" title="2026-04-10 · 24 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-00-53-40" style="--pulse-height:26%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 10 mentions" title="2026-04-13 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-00-28-12" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -222,6 +228,12 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-united-states-t-00-35-28) | 3 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-united-states-t-00-31-31) | 8 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-united-states-t-00-24-28) | 13 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-united-states-t-00-01-33) | 7 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-united-states-t-00-52-00) | 8 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-gpe-united-states-t-00-35-02) | 4 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-48-40) | 11 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-12-12) | 24 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-00-53-40) | 10 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-00-28-12) | 3 |
 
 </details>
@@ -230,7 +242,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1405)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1469)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -243,6 +255,228 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[01:19:28](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-01-19-17)**
 > "Kits are available for United States residents only."
+
+</details>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (10 mentions)</summary>
+
+**[00:53:40](/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-00-53-40)**
+> "United States"
+
+**[00:50:10](/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-00-50-35)**
+> "...want to remind you guys about American financing because between groceries, travel, and ..."
+
+**[00:50:19](/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-00-50-35)**
+> "...ve considered reaching out to American financing but hesitated because you don't want to..."
+
+**[00:50:28](/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-00-50-35)**
+> "Well, that's why American financing created the smart equity loan, a simple..."
+
+**[00:50:49](/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-00-50-35)**
+> "...d out if you qualify, so call American Financing today at 800-795-1210."
+
+**[00:50:56](/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-00-50-35)**
+> "...et slash Owens. Again, that's American. AmericanFinancing.net slash Owens."
+
+**[00:51:58](/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-00-51-58)**
+> "...en you just do it and you put American lives at risk."
+
+**[00:53:57](/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-00-53-57)**
+> "The president of the United States, because I'm doing exactly what I was elected in ..."
+
+**[00:54:14](/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-00-53-57)**
+> "... the church because he wasn't American and they thought that that would be the best way ..."
+
+**[01:03:27](/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-01-03-27)**
+> "... the new, it really says Make America Christian Again hat, but it looks like it says MA..."
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (24 mentions)</summary>
+
+**[00:12:12](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-12-12)**
+> "...do that, but I do because the United States is now the hottest country anywhere in the world."
+
+**[00:17:41](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-12-12)**
+> "... We aren't war hawks. We want America first, and if you make me choose between America ..."
+
+**[00:18:18](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-17-56)**
+> "He wasn't loyal to America, and he became a creature of Israel and Benjamin ..."
+
+**[00:19:51](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-17-56)**
+> "...g in your ear and get back to America first."
+
+**[00:23:05](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-17-56)**
+> "...ver half a million dollars to America's Warrior Partnership, which is a fantastic organiz..."
+
+**[00:23:13](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-23-13)**
+> "And PureTalk creates American jobs with a U.S.-only workforce. Sure, it would b..."
+
+**[00:23:32](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-23-13)**
+> "...every single day and creating American jobs."
+
+**[00:25:55](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-25-55)**
+> "...s from him as an equal in the American situation room."
+
+**[00:26:43](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-26-31)**
+> "...oried history of blackmailing U.S. presidents. Perhaps the most jarring example occu..."
+
+**[00:27:06](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-26-31)**
+> "...srael has done, it shows that America's special allies willing to play very dirty to achi..."
+
+**[00:27:27](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-27-13)**
+> "They know the U.S. fighting their war for them is the best chance at..."
+
+**[00:27:35](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-27-13)**
+> "Based on the country's past, its leaders are doubtlessly willing to push..."
+
+**[00:35:36](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-35-26)**
+> "...ainst evangelicals and Jewish Americans and even the president himself."
+
+**[00:35:59](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-35-54)**
+> "... think by now the majority of Americans understand that the true death cult is Israel. Yo..."
+
+**[00:36:48](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-36-32)**
+> "...ld get the support. of Jewish Americans. The majority is aware of Jewish Americans."
+
+**[00:36:56](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-36-32)**
+> "...brim of people who are Jewish Americans, rabbis even who write me and say, you are right ..."
+
+**[00:37:09](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-37-09)**
+> "...tle for decades to get Jewish Americans and Jewish people worldwide to recognize that, th..."
+
+**[00:38:36](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-38-28)**
+> "...like it is uh we need to make america christian again that is the vibe that is why i se..."
+
+**[00:40:40](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-38-28)**
+> "Also remind you guys about American financing because between groceries, travel and h..."
+
+**[00:40:48](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-38-28)**
+> "...ve considered reaching out to American Financing, but hesitated because you don't want t..."
+
+**[00:41:19](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-38-28)**
+> "...d out if you qualify, so call American Financing today at 800-795-1210."
+
+**[00:47:20](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-46-58)**
+> "...we really love these new make america christian again hats because they look like they ..."
+
+**[00:47:30](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-47-30)**
+> "...we really love these new make america christian again hats because they look like they ..."
+
+**[00:47:54](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-47-54)**
+> "... the sitting president of the united states who says we are so unimportant that he pens a lit..."
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (11 mentions)</summary>
+
+**[00:48:51](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-48-40)**
+> "American"
+
+**[00:03:52](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-03-35)**
+> "...n before the president of the united states that you're praying for charlie that will definit..."
+
+**[00:45:03](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-44-43)**
+> "...a saying Pam Bondi is a great American patriot, a loyal friend who faithfully served as ..."
+
+**[00:45:12](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-44-43)**
+> "...ive crackdown in crime across the country with murders plummeting to their lowest level sin..."
+
+**[00:48:40](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-48-40)**
+> "...ver half a million dollars to America's warrior partnership, a fantastic organization tha..."
+
+**[00:49:09](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-48-40)**
+> "...every single day and creating American jobs."
+
+**[00:49:14](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-48-40)**
+> "...want to remind you guys about American financing because between groceries, travel and a..."
+
+**[00:49:30](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-48-40)**
+> "...be considered reaching out to American Financing, but hesitated because you don't want t..."
+
+**[00:49:38](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-48-40)**
+> "Well, that's why American Financing created the SMART Equity Loan, which is..."
+
+**[00:49:59](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-48-40)**
+> "...d out if you qualify, so call American Financing today at 800-795-1210."
+
+**[00:53:28](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-53-01)**
+> "...eight if the president of the United States says it actually make it diminishes it. It dimini..."
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (4 mentions)</summary>
+
+**[00:35:02](/episodes/ep-rupRLXmSndU.md#ent-gpe-united-states-t-00-35-02)**
+> "United States"
+
+**[00:12:05](/episodes/ep-rupRLXmSndU.md#ent-gpe-united-states-t-00-11-43)**
+> "Continental U.S. It tells us he's a captain and that he has all th..."
+
+**[00:39:35](/episodes/ep-rupRLXmSndU.md#ent-gpe-united-states-t-00-39-35)**
+> "...e countless Christians across the country and around the world as we prepare to celebrate."
+
+**[00:39:52](/episodes/ep-rupRLXmSndU.md#ent-gpe-united-states-t-00-39-35)**
+> "...somebody. They're so jealous, America."
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (8 mentions)</summary>
+
+**[00:52:14](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-united-states-t-00-52-00)**
+> "U.S. government officials"
+
+**[00:41:23](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-united-states-t-00-41-23)**
+> "...re by it in courtrooms across America for decades, a type of forensic science called bu..."
+
+**[00:42:38](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-united-states-t-00-42-24)**
+> "... in hundreds of trials across America."
+
+**[00:57:44](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-united-states-t-00-52-00)**
+> "...want to remind you guys about American financing because between groceries, travel and h..."
+
+**[00:58:00](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-united-states-t-00-52-00)**
+> "...ve considered reaching out to American financing, but maybe hesitated because you don't ..."
+
+**[00:58:09](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-united-states-t-00-52-00)**
+> "Well, that's why American financing has now created the smart equity loan, ..."
+
+**[00:58:29](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-united-states-t-00-58-29)**
+> "...d out if you qualify, so call American Financing today at 800-795-1210. Again, that's 80..."
+
+**[01:03:49](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-united-states-t-00-58-29)**
+> "...eading The Secret Founding of America by Nicholas Hager."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (7 mentions)</summary>
+
+**[00:01:49](/episodes/ep-7ERqbYElOfs.md#ent-gpe-united-states-t-00-01-33)**
+> "You have to wake up, okay? America was, in fact, founded by warring factions of Freemasons. Freemasons pursued America in the hopes of establishing a new Atlantis, which was going to be removed from their battles with the Catholic Empire, who were kind of..."
+
+**[00:03:31](/episodes/ep-7ERqbYElOfs.md#ent-gpe-united-states-t-00-03-31)**
+> "... number 33 okay 33 also being the country code for paris now americans are not used to the ..."
+
+**[00:05:25](/episodes/ep-7ERqbYElOfs.md#ent-gpe-united-states-t-00-05-25)**
+> "...nd eventually this ends up in America. That's the short and thick version."
+
+**[00:15:58](/episodes/ep-7ERqbYElOfs.md#ent-gpe-united-states-t-00-15-25)**
+> "The United States government is not dumb enough when they want to p..."
+
+**[00:16:03](/episodes/ep-7ERqbYElOfs.md#ent-gpe-united-states-t-00-16-03)**
+> "...verseas. So maybe France uses American forces, maybe American forces use French forces, ..."
+
+**[00:46:33](/episodes/ep-7ERqbYElOfs.md#ent-gpe-united-states-t-00-46-27)**
+> "...pto IRA designed for everyday Americans, especially if you're new to crypto or you don't ..."
+
+**[00:49:02](/episodes/ep-7ERqbYElOfs.md#ent-gpe-united-states-t-00-46-27)**
+> "...was maga really we gotta make america great again harder like what's wrong with these p..."
 
 </details>
 
@@ -2643,6 +2877,19 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
+<summary>Has President (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:53:28](/episodes/ep-q1NRQQAYS_Q.md#t-00-53-01): “You know, somehow bear more weight if the president of the United States says it actually make it diminishes it. It diminishes it. That's not like you want Trump to mention your company.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:53:57](/episodes/ep-eLgD5yUVbko.md#t-00-53-40): “The president of the United States, because I'm doing exactly what I was elected in a landslide to do, setting record low numbers in crime and creating the greatest stock market in history, Leo should be thankful because, as everyone knows, he was a shocking surprise. He wasn't on any list to be pope and was only put there by the church because he wasn't American and they thought that that would be the best way to deal with President Donald J. Trump. Trump, if I wasn't in the White House, Leo wouldn't be in the Vatican.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Location Of (1)</summary>
 
 - **[Riverbend Ranch](/entities/org-riverbend-ranch.md)**
@@ -2667,7 +2914,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Israel](/entities/gpe-israel.md)** attacked this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -2697,12 +2944,59 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 </details>
 
+- **[Donald J. Trump](/entities/person-donald-trump.md)** president of this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:53:28](/episodes/ep-q1NRQQAYS_Q.md#t-00-53-01): “You know, somehow bear more weight if the president of the United States says it actually make it diminishes it. It diminishes it. That's not like you want Trump to mention your company.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:53:57](/episodes/ep-eLgD5yUVbko.md#t-00-53-40): “The president of the United States, because I'm doing exactly what I was elected in a landslide to do, setting record low numbers in crime and creating the greatest stock market in history, Leo should be thankful because, as everyone knows, he was a shocking surprise. He wasn't on any list to be pope and was only put there by the church because he wasn't American and they thought that that would be the best way to deal with President Donald J. Trump. Trump, if I wasn't in the White House, Leo wouldn't be in the Vatican.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States (87)</strong></summary>
+<summary><strong class="section-title">Statements about United States (95)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>
+
+- [00:51:58](/episodes/ep-eLgD5yUVbko.md#t-00-51-17) (Opinion) **Candace Owens**: ["Candace Owens said the war against Iran is unjust and morally contempt..."](/statements/statement-1fa070e7f5a4.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md), [Middle East](/entities/gpe-middle-east.md)
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (6)</summary>
+
+- [00:12:28](/episodes/ep-ZIH5-V6UPkg.md#t-00-12-12) (Accusation) **Candace Owens**: ["Is the United States "hot" because it is bombing children and killed 1..."](/statements/statement-8ceb94ca700d.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:12:28](/episodes/ep-ZIH5-V6UPkg.md#t-00-12-12) (Accusation) **Candace Owens**: ["Is the United States "hot" because officials lied about six servicemen..."](/statements/statement-b0935f34fce0.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [CBS News](/entities/org-cbs-news.md)
+
+- [00:26:43](/episodes/ep-ZIH5-V6UPkg.md#t-00-26-31) (Accusation) **Tucker Carlson** (via quoted post): ["The Israeli government has a history of blackmailing U.S. presidents."](/statements/statement-e6c51d0b0c47.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+- [00:27:27](/episodes/ep-ZIH5-V6UPkg.md#t-00-27-13) (Accusation) **Tucker Carlson** (via quoted post): ["Israel wants the United States to fight its war so it can expand its b..."](/statements/statement-4f887d8a59ce.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Greater Israel](/entities/concept-greater-israel.md)
+
+- [00:34:48](/episodes/ep-ZIH5-V6UPkg.md#t-00-34-48) (Accusation) **Laura Loomer** (via quoted speech): ["Tucker Carlson is lying about Donald Trump, smearing him, creating cha..."](/statements/statement-c0feb2dbd3e5.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:44:11](/episodes/ep-ZIH5-V6UPkg.md#t-00-44-11) (Accusation) **Candace Owens**: ["Politicians send U.S. tax money overseas, launder it, return it to the..."](/statements/statement-7ee1138bcbc4.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1)</summary>
+
+- [00:01:49](/episodes/ep-7ERqbYElOfs.md#t-00-01-33) (Claim) **Candace Owens**: ["America was founded by warring factions of Freemasons seeking to estab..."](/statements/statement-5a53345c6fd9.md)
+  - Also about: [Freemasonry](/entities/concept-freemasonry.md), [Catholicism](/entities/concept-catholicism.md)
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1)</summary>

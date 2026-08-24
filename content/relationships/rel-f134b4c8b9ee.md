@@ -11,11 +11,15 @@ object: "person-erika-kirk"
 
 ## [Cabot Phillips](/entities/person-cabot-phillips) formerly dated [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
 
 **[Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g)**
 
 - [00:17:06](/episodes/ep-_vg7ucP1E0g#t-00-17-06): _This year, Erika (Erika Kirk) is dating Cabot Phillips, by the way. I told you she has a boyfriend._
+
+**[Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko)**
+
+- [00:04:38](/episodes/ep-eLgD5yUVbko#t-00-04-38): _Erica's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erica at Fort Wachuka back in September._
 
 ### Related
 

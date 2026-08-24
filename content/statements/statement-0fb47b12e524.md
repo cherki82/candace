@@ -4,9 +4,10 @@ description: "\"The 3:30 pickup only makes sense if Andrew Kolvet was aboard Cha
 statement_id: "statement-0fb47b12e524"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The 3:30 radio pickup supports an earlier airport departure, but it does not establish that Andrew Kolvet was aboard the earlier Scottsdale flight. Later reporting cites a September 10 manifest saying Kolvet and his wife instead flew directly from Santa Barbara to Provo, so the inference is disputed.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Factual errors: Jessica Reed Kraus challenges Candace Owens timeline](https://www.inkl.com/news/factual-errors-jessica-reed-kraus-challenges-candace-owens-timeline-on-andrew-kolvet-and-erika-kirk-claims-with-flight-record-details)
+
+*Verified: 2026-08-24T10:57:37.061646*
 
 ---
 

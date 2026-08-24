@@ -1,6 +1,6 @@
 ---
 title: "China"
-description: "China (Places) - 46 mentions"
+description: "China (Places) - 47 mentions"
 id: "gpe-china"
 type: "GPE"
 categories:
@@ -20,7 +20,7 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-42">2025-10-01 · 00:30:58</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-china-t-00-27-09">2026-03-17 · 00:27:19</a></strong></div>
 <div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>46</strong></div>
+<div><span>Mentions</span><strong>47</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -67,7 +67,7 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (46)</strong></summary>
+<summary><strong class="section-title">Raw mentions (47)</strong></summary>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (2 mentions)</summary>

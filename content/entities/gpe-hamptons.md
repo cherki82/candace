@@ -1,19 +1,28 @@
 ---
 title: "Hamptons"
-description: "Hamptons (Places) - 55 mentions"
+description: "Hamptons (Places) - 56 mentions"
 id: "gpe-hamptons"
 type: "GPE"
+categories:
+  - "New York region"
+  - "Long Island"
 ---
 
 _Type: Places_
 
+**Categories:** New York region, Long Island
+
 > **Possibly overlapping entity records:** [The Hamptons](/entities/gpe-the-hamptons). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> Canonical regional name verified from Suffolk County government materials identifying the Hamptons on Long Island's South Fork; this is a region rather than a single municipality.
+Source: [Suffolk County Government - Towns and Villages](https://suffolkcountyny.gov/Visiting/Towns-and-Villages)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-gpe-hamptons-t-00-15-01">2025-09-15 · 00:15:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-hamptons-t-00-21-13">2025-12-02 · 00:21:40</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>55</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-hamptons-t-00-00-54">2026-04-01 · 00:01:18</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>56</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -43,6 +52,7 @@ _Type: Places_
 <a href="/episodes/ep-581dILVcEE4.md#ent-gpe-hamptons-t-00-02-51" style="--pulse-height:22%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-hamptons-t-00-19-39" style="--pulse-height:11%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-hamptons-t-00-21-13" style="--pulse-height:11%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-hamptons-t-00-00-54" style="--pulse-height:11%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -67,6 +77,7 @@ _Type: Places_
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-gpe-hamptons-t-00-02-51) | 2 |
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-hamptons-t-00-19-39) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-hamptons-t-00-21-13) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-gpe-hamptons-t-00-00-54) | 1 |
 
 </details>
 </section>
@@ -74,7 +85,15 @@ _Type: Places_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+<summary><strong class="section-title">Raw mentions (56)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
+
+**[00:01:18](/episodes/ep-rupRLXmSndU.md#ent-gpe-hamptons-t-00-00-54)**
+> "Hamptons"
+
+</details>
 
 <details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>

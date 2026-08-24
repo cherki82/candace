@@ -1,6 +1,6 @@
 ---
 title: "United States Navy"
-description: "United States Navy (Organizations) - 18 mentions"
+description: "United States Navy (Organizations) - 21 mentions"
 id: "org-united-states-navy"
 type: "ORG"
 aliases:
@@ -25,12 +25,12 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#t-00-48-05">2025-09-22 · 00:48:35</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#t-00-04-59">2026-03-25 · 00:05:05</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-01-45">2026-04-02 · 00:01:45</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -50,6 +50,8 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 <a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-22-52" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#t-00-20-00" style="--pulse-height:50%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#t-00-04-59" style="--pulse-height:100%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#t-00-09-38" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-01-45" style="--pulse-height:50%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -67,6 +69,8 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#t-00-22-52) | 2 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#t-00-20-00) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#t-00-04-59) | 2 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#t-00-09-38) | 2 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-01-45) | 1 |
 
 </details>
 </section>
@@ -74,7 +78,26 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:01:45](/episodes/ep-q1NRQQAYS_Q.md#t-00-01-45)**
+> "Navy"
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2 mentions)</summary>
+
+**[00:09:53](/episodes/ep-rupRLXmSndU.md#t-00-09-38)**
+> "Navy"
+
+**[00:16:05](/episodes/ep-rupRLXmSndU.md#t-00-16-05)**
+> "...er a quarter million from the Navy, bringing the total actually closer to $8 million..."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2 mentions)</summary>
@@ -196,6 +219,18 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Employs (1)</summary>
+
+- **[Ahmed Qureshi](/entities/person-ahmed-qureshi.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:09:53](/episodes/ep-rupRLXmSndU.md#t-00-09-38): “Well, Ahmed Qureshi, that is Zachariah's father, he is an 06 in the Navy.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Formerly Employed (2)</summary>
 
 - **[Bill Wood](/entities/person-bill-wood.md)**
@@ -215,6 +250,18 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 </details>
 
 <details>
+<summary>Funded (1)</summary>
+
+- **[BILT Incorporated](/entities/org-bilt-incorporated.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:16:05](/episodes/ep-rupRLXmSndU.md#t-00-16-05): “And also the top one as well. I can show you here on the website that the BILT was awarded that money from the Department of Defense, particularly from the Air Force. The majority came in from the Air Force, 7.4 million from the Air Force and just under a quarter million from the Navy, bringing the total actually closer to $8 million that came in to them in June of this year.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Headquartered In (1)</summary>
 
 - **[United States Pentagon](/entities/org-united-states-pentagon.md)**
@@ -227,7 +274,7 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Bill Wood](/entities/person-bill-wood.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -243,10 +290,24 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 
 </details>
 
+- **[BILT Incorporated](/entities/org-bilt-incorporated.md)** funded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:16:05](/episodes/ep-rupRLXmSndU.md#t-00-16-05): “And also the top one as well. I can show you here on the website that the BILT was awarded that money from the Department of Defense, particularly from the Air Force. The majority came in from the Air Force, 7.4 million from the Air Force and just under a quarter million from the Navy, bringing the total actually closer to $8 million that came in to them in June of this year.”
+
+</details>
+
 - **[United States Pentagon](/entities/org-united-states-pentagon.md)** headquarters of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): “"It's headquarters for the Army, the Navy, and the Air Force."”
+
+</details>
+
+- **[Ahmed Qureshi](/entities/person-ahmed-qureshi.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:09:53](/episodes/ep-rupRLXmSndU.md#t-00-09-38): “Well, Ahmed Qureshi, that is Zachariah's father, he is an 06 in the Navy.”
 
 </details>
 
@@ -255,7 +316,18 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Navy (2)</strong></summary>
+<summary><strong class="section-title">Statements about United States Navy (4)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2)</summary>
+
+- [00:09:45](/episodes/ep-rupRLXmSndU.md#t-00-09-38) (Claim) **Candace Owens**: ["Ahmed Qureshi, Zachariah Qureshi's father, is an O-6 in the U.S. Navy ..."](/statements/statement-d5a489fc7771.md)
+  - Also about: [Ahmed Qureshi](/entities/person-ahmed-qureshi.md), [Zachariah Qureshi](/entities/person-zachariah-qureshi.md)
+
+- [00:16:05](/episodes/ep-rupRLXmSndU.md#t-00-16-05) (Citation) **Candace Owens**: ["BILT received nearly $8 million in June 2025 from the Department of De..."](/statements/statement-9dc82c68913f.md)
+  - Also about: [BILT Incorporated](/entities/org-bilt-incorporated.md), [United States Department of Defense](/entities/org-us-department-of-defense.md), [United States Air Force](/entities/org-united-states-air-force.md)
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (2)</summary>

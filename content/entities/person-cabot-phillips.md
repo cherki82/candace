@@ -1,6 +1,6 @@
 ---
 title: "Cabot Phillips"
-description: "Cabot Phillips (People) - 18 mentions"
+description: "Cabot Phillips (People) - 30 mentions"
 id: "person-cabot-phillips"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-cabot-phillips-t-00-41-05">2025-12-20 · 00:41:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-cabot-phillips-t-00-18-50">2026-03-18 · 00:18:50</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-cabot-phillips-t-00-12-01">2026-04-13 · 00:12:21</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>30</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
@@ -33,13 +33,14 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-cabot-phillips-t-00-41-49">What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283</a> (9 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-cabot-phillips-t-00-04-21">Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</a> (12 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-cabot-phillips-t-00-41-49" style="--pulse-height:100%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 9 mentions" title="2025-12-20 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-cabot-phillips-t-00-37-47" style="--pulse-height:44%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 4 mentions" title="2026-01-05 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-cabot-phillips-t-00-06-24" style="--pulse-height:11%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-4YgrOhhy708.md#ent-person-cabot-phillips-t-00-18-36" style="--pulse-height:11%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-cabot-phillips-t-00-16-56" style="--pulse-height:33%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-cabot-phillips-t-00-41-49" style="--pulse-height:75%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 9 mentions" title="2025-12-20 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-cabot-phillips-t-00-37-47" style="--pulse-height:33%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 4 mentions" title="2026-01-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-cabot-phillips-t-00-06-24" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-person-cabot-phillips-t-00-18-36" style="--pulse-height:8%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-cabot-phillips-t-00-16-56" style="--pulse-height:25%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-cabot-phillips-t-00-04-21" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 12 mentions" title="2026-04-13 · 12 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-cabot-phillips-t-00-06-24) | 1 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-cabot-phillips-t-00-18-36) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-cabot-phillips-t-00-16-56) | 3 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-cabot-phillips-t-00-04-21) | 12 |
 
 </details>
 </section>
@@ -57,7 +59,48 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (12 mentions)</summary>
+
+**[00:04:28](/episodes/ep-eLgD5yUVbko.md#ent-person-cabot-phillips-t-00-04-21)**
+> "I see Cabot Phillips"
+
+**[00:04:53](/episodes/ep-eLgD5yUVbko.md#ent-person-cabot-phillips-t-00-04-21)**
+> "You will recall that I texted Cabot Phillips before we mentioned him on the podcast looking fo..."
+
+**[00:05:23](/episodes/ep-eLgD5yUVbko.md#ent-person-cabot-phillips-t-00-05-23)**
+> "...ut he did so I said I said hi Cabot because what else would you say when someone's li..."
+
+**[00:06:35](/episodes/ep-eLgD5yUVbko.md#ent-person-cabot-phillips-t-00-06-35)**
+> "...podcast, but the paternity of Cabot Phillips' son. Not this show."
+
+**[00:06:42](/episodes/ep-eLgD5yUVbko.md#ent-person-cabot-phillips-t-00-06-35)**
+> "...e bit out of line. So I said, Cabot, this is not the appropriate place. We are on a t..."
+
+**[00:07:37](/episodes/ep-eLgD5yUVbko.md#ent-person-cabot-phillips-t-00-07-10)**
+> "... a broken foot, the inside of Cabot's bottom lip, all happening in like 85 degree muggy..."
+
+**[00:07:52](/episodes/ep-eLgD5yUVbko.md#ent-person-cabot-phillips-t-00-07-52)**
+> "...ously going on in my head was Cabot, please put your lip back inside of your mouth be..."
+
+**[00:07:58](/episodes/ep-eLgD5yUVbko.md#ent-person-cabot-phillips-t-00-07-52)**
+> "...ad reinforced to him, I said, Cabot, we are on a toddler playground."
+
+**[00:08:26](/episodes/ep-eLgD5yUVbko.md#ent-person-cabot-phillips-t-00-07-52)**
+> "...this podcast have I discussed Cabot Phillips tattoos or his inner lips."
+
+**[00:08:39](/episodes/ep-eLgD5yUVbko.md#ent-person-cabot-phillips-t-00-08-34)**
+> "...'s basically the same size as Cabot looks like he's two-year-old and the two of them ..."
+
+**[00:09:31](/episodes/ep-eLgD5yUVbko.md#ent-person-cabot-phillips-t-00-09-13)**
+> "...e that I believe that that is Cabot Phillips' child. I never made the claim otherwise, but he ..."
+
+**[00:12:21](/episodes/ep-eLgD5yUVbko.md#ent-person-cabot-phillips-t-00-12-01)**
+> "...they're watching my show like Cabot Phillips are like, uh-uh. A jar. Because while they had he..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (3 mentions)</summary>
@@ -159,9 +202,10 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 <summary>Formerly Dated (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:17:06](/episodes/ep-_vg7ucP1E0g.md#t-00-16-56): “This year, Erika (Erika Kirk) is dating Cabot Phillips, by the way. I told you she has a boyfriend.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erica's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erica at Fort Wachuka back in September.”
 
 </details>
 
@@ -171,9 +215,10 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 <summary>Works For (1)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:42:04](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49): “I know that he does the morning wire at Daily Wire”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erica's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erica at Fort Wachuka back in September.”
 
 </details>
 
@@ -183,16 +228,18 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 <summary>Referenced By (2)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:42:04](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49): “I know that he does the morning wire at Daily Wire”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erica's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erica at Fort Wachuka back in September.”
 
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** formerly dated this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:17:06](/episodes/ep-_vg7ucP1E0g.md#t-00-16-56): “This year, Erika (Erika Kirk) is dating Cabot Phillips, by the way. I told you she has a boyfriend.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erica's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erica at Fort Wachuka back in September.”
 
 </details>
 

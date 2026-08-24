@@ -1,6 +1,6 @@
 ---
 title: "Alex Jones"
-description: "Alex Jones (People) - 27 mentions"
+description: "Alex Jones (People) - 35 mentions"
 id: "person-alex-jones"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-alex-jones-t-00-11-35">2025-09-22 · 00:12:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Wjul6YV6izo.md#ent-person-alex-jones-t-00-54-08">2026-01-30 · 00:54:18</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>27</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-alex-jones-t-00-59-43">2026-04-13 · 00:59:55</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -42,6 +42,8 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-39-50" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 12 mentions" title="2026-01-05 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-alex-jones-t-00-05-15" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-person-alex-jones-t-00-54-08" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-alex-jones-t-00-03-51" style="--pulse-height:58%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 7 mentions" title="2026-04-10 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-alex-jones-t-00-59-43" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +60,8 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-39-50) | 12 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-alex-jones-t-00-05-15) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-alex-jones-t-00-54-08) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-alex-jones-t-00-03-51) | 7 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-alex-jones-t-00-59-43) | 1 |
 
 </details>
 </section>
@@ -65,7 +69,41 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
+
+**[00:59:55](/episodes/ep-eLgD5yUVbko.md#ent-person-alex-jones-t-00-59-43)**
+> "Alex Jones"
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (7 mentions)</summary>
+
+**[00:03:51](/episodes/ep-ZIH5-V6UPkg.md#ent-person-alex-jones-t-00-03-51)**
+> "Alex Jones, Tucker Carlson, Megyn Kelly, Candace Owens, diff..."
+
+**[00:04:12](/episodes/ep-ZIH5-V6UPkg.md#ent-person-alex-jones-t-00-03-51)**
+> "...gyn Kelly, Candace Owens, and Alex Jones have all been fighting me for years, especially b..."
+
+**[00:11:07](/episodes/ep-ZIH5-V6UPkg.md#ent-person-alex-jones-t-00-10-49)**
+> "...clusively, right? Or bankrupt Alex Jones, who says some of the dumbest things and lost his..."
+
+**[00:19:34](/episodes/ep-ZIH5-V6UPkg.md#ent-person-alex-jones-t-00-19-17)**
+> "...t of these people, especially Alex Jones, have been your day ones."
+
+**[00:19:41](/episodes/ep-ZIH5-V6UPkg.md#ent-person-alex-jones-t-00-19-17)**
+> "...ia company would have you on, Alex Jones had you on his show."
+
+**[00:28:20](/episodes/ep-ZIH5-V6UPkg.md#ent-person-alex-jones-t-00-28-20)**
+> "...han Kelly, Candace Owens, and Alex Jones, each of whom supported him for years."
+
+**[00:48:54](/episodes/ep-ZIH5-V6UPkg.md#ent-person-alex-jones-t-00-48-35)**
+> "I think mostly owed to Alex Jones. I thought that was probably the most vicious of ..."
+
+</details>
 
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (1 mentions)</summary>
@@ -226,7 +264,38 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Criticized By (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51): “I know why Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have all been fighting me for years... they have one thing in common, low IQs. They are stupid people.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Supporter Of (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:28:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-20): “We decided to write this after Trump published a true social post attacking our company, Meghan Kelly, Candace Owens, and Alex Jones, each of whom supported him for years.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (4)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51): “I know why Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have all been fighting me for years... they have one thing in common, low IQs. They are stupid people.”
+
+</details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -240,6 +309,13 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:40:54](/episodes/ep-OEAHy3SsIiI.md#t-00-40-45): “She's a globalist agent.”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** supported by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:28:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-20): “We decided to write this after Trump published a true social post attacking our company, Meghan Kelly, Candace Owens, and Alex Jones, each of whom supported him for years.”
 
 </details>
 
@@ -289,7 +365,28 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Alex Jones (1)</strong></summary>
+<summary><strong class="section-title">Statements about Alex Jones (5)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>
+
+- [00:59:47](/episodes/ep-eLgD5yUVbko.md#t-00-59-43) (Claim) **Candace Owens**: ["Candace Owens said Donald Trump had lost support from the Make America..."](/statements/statement-cdcdb0b37222.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Make America Healthy Again](/entities/concept-make-america-healthy-again.md), [Megyn Kelly](/entities/person-megyn-kelly.md)
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (3)</summary>
+
+- [00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51) (Opinion) **Donald J. Trump** (via quoted post): ["Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have fought..."](/statements/statement-6e15836da95b.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:04:41](/episodes/ep-ZIH5-V6UPkg.md#t-00-04-35) (Claim) **Donald J. Trump** (via quoted post): ["Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have been t..."](/statements/statement-96380b58c1d8.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:11:18](/episodes/ep-ZIH5-V6UPkg.md#t-00-10-49) (Opinion) **Donald J. Trump** (via quoted post): ["Alex Jones deserved to lose his fortune for claiming the Sandy Hook sh..."](/statements/statement-3653c0700536.md)
+
+</details>
 
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1)</summary>

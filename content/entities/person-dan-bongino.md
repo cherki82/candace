@@ -1,6 +1,6 @@
 ---
 title: "Dan Bongino"
-description: "Dan Bongino (People) - 13 mentions"
+description: "Dan Bongino (People) - 14 mentions"
 id: "person-dan-bongino"
 type: "PERSON"
 aliases:
@@ -23,8 +23,8 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-00-24-22">2025-12-17 · 00:24:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-dan-bongino-t-02-36-32">2026-08-14 · 02:36:32</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -38,6 +38,7 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-00-24-22" style="--pulse-height:100%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 7 mentions" title="2025-12-17 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-dan-bongino-t-01-01-04" style="--pulse-height:29%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-dan-bongino-t-00-52-47" style="--pulse-height:14%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-dan-bongino-t-00-35-25" style="--pulse-height:14%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-dan-bongino-t-02-36-24" style="--pulse-height:29%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -47,6 +48,7 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-00-24-22) | 7 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-person-dan-bongino-t-01-01-04) | 2 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-dan-bongino-t-00-52-47) | 1 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-dan-bongino-t-00-35-25) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-dan-bongino-t-02-36-24) | 2 |
 
 </details>
@@ -55,7 +57,7 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -64,6 +66,14 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 > "I even texted Dan Bongino."
 
 **[02:36:32](/episodes/ep-nPhCKwJ6ye8.md#ent-person-dan-bongino-t-02-36-32)**
+> "Dan Bongino"
+
+</details>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
+
+**[00:35:51](/episodes/ep-eLgD5yUVbko.md#ent-person-dan-bongino-t-00-35-25)**
 > "Dan Bongino"
 
 </details>

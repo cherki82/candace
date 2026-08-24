@@ -5,6 +5,30 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-08-24 18:14:59
+
+**Added 6 episode(s):**
+  - `7ERqbYElOfs`: The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318
+  - `UYkXV9mYbT4`: PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319
+  - `ZIH5-V6UPkg`: An Open Letter To President Donald Trump (My Response) | Candace Ep 322
+  - `eLgD5yUVbko`: Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323
+  - `q1NRQQAYS_Q`: SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321
+  - `rupRLXmSndU`: Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320
+**Added 111 new entity/entities**
+**Removed 1 entity/entities**
+**Added 85 new event(s)**
+**Removed 1 event(s)**
+**Added 196 new relationship(s)**
+
+**Totals:**
+- Episodes: 101
+- Entities: 2669
+- Events: 1185
+- Claims: 1461
+- Relationships: 2696
+
+---
+
 ## 2026-08-24 10:52:11
 
 **Added 1 episode(s):**

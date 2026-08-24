@@ -1,23 +1,31 @@
 ---
 title: "Élysée Palace"
-description: "Élysée Palace (Places) - 5 mentions"
+description: "Élysée Palace (Places) - 6 mentions"
 id: "gpe-elysee-palace"
 type: "GPE"
 aliases:
   - "the Élysée Palace"
   - "the Elysee Palace"
   - "Elysee Palace"
+categories:
+  - "French presidency"
 ---
 
 _Type: Places_
 
 **Also known as:** the Élysée Palace, the Elysee Palace, Elysee Palace
 
+**Categories:** French presidency
+
+**Entity verification:** verified
+> The official French presidency site uses the canonical name Élysée Palace; the transcript's 'Elize Palace' is an ASR spelling.
+Source: [History of presidential residences | Élysée](https://www.elysee.fr/en/cultural-space/patrimoine)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-elysee-palace-t-00-08-00">2025-12-01 · 00:08:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-elysee-palace-t-00-06-27">2025-12-08 · 00:06:50</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#t-00-41-46">2026-04-10 · 00:41:58</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -31,6 +39,7 @@ _Type: Places_
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-elysee-palace-t-00-08-00" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-elysee-palace-t-00-24-28" style="--pulse-height:100%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-elysee-palace-t-00-06-27" style="--pulse-height:50%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#t-00-41-46" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -39,6 +48,7 @@ _Type: Places_
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-elysee-palace-t-00-08-00) | 2 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-elysee-palace-t-00-24-28) | 2 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-elysee-palace-t-00-06-27) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#t-00-41-46) | 1 |
 
 </details>
 </section>
@@ -46,7 +56,15 @@ _Type: Places_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:41:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-41-46)**
+> "Brigitte Macaron of the Elize Palace"
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>

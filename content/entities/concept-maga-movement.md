@@ -1,6 +1,6 @@
 ---
 title: "MAGA movement"
-description: "MAGA movement (Concepts) - 85 mentions"
+description: "MAGA movement (Concepts) - 98 mentions"
 id: "concept-maga-movement"
 type: "CONCEPT"
 aliases:
@@ -23,11 +23,11 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-36-23">2025-09-15 · 00:36:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-maga-movement-t-00-37-32">2026-03-25 · 00:37:37</a></strong></div>
-<div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>85</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-maga-movement-t-01-03-27">2026-04-13 · 01:03:27</a></strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>98</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -64,6 +64,9 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-concept-maga-movement-t-00-42-56" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-maga-movement-t-00-23-40" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-maga-movement-t-00-31-10" style="--pulse-height:42%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 5 mentions" title="2026-03-25 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-concept-maga-movement-t-00-49-02" style="--pulse-height:8%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-maga-movement-t-00-04-35" style="--pulse-height:83%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 10 mentions" title="2026-04-10 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-maga-movement-t-00-53-07" style="--pulse-height:17%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -97,6 +100,9 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-concept-maga-movement-t-00-42-56) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-concept-maga-movement-t-00-23-40) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-maga-movement-t-00-31-10) | 5 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-concept-maga-movement-t-00-49-02) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-maga-movement-t-00-04-35) | 10 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-concept-maga-movement-t-00-53-07) | 2 |
 
 </details>
 </section>
@@ -104,7 +110,61 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (85)</strong></summary>
+<summary><strong class="section-title">Raw mentions (98)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2 mentions)</summary>
+
+**[00:53:29](/episodes/ep-eLgD5yUVbko.md#ent-concept-maga-movement-t-00-53-07)**
+> "Lewis is all MAGA"
+
+**[01:03:27](/episodes/ep-eLgD5yUVbko.md#ent-concept-maga-movement-t-01-03-27)**
+> "...at, but it looks like it says MAGA because we have the crucifix there, which is, I l..."
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (10 mentions)</summary>
+
+**[00:04:59](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-maga-movement-t-00-04-35)**
+> "...eir views are the opposite of MAGA, or I wouldn't have won the presidential election..."
+
+**[00:07:40](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-maga-movement-t-00-07-24)**
+> "You continue, MAGA agrees with me and just gave CNN a 100% approval ..."
+
+**[00:10:41](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-maga-movement-t-00-10-15)**
+> "...you understand that no one in MAGA, in true MAGA, cares about money above truth and ..."
+
+**[00:11:48](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-maga-movement-t-00-11-33)**
+> "They are not MAGA. They are losers. Just trying to latch onto MAGA ..."
+
+**[00:12:12](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-maga-movement-t-00-12-12)**
+> "MAGA is about winning and strength in not allowing Ira..."
+
+**[00:13:53](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-maga-movement-t-00-13-37)**
+> "...do it quietly, Trump, because MAGA is no longer commanded by you and you know it, yo..."
+
+**[00:17:41](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-maga-movement-t-00-17-26)**
+> "...ose between America first and MAGA, it's America first all day. That's what MAGA was..."
+
+**[00:19:57](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-maga-movement-t-00-19-57)**
+> "...for Israel. They didn't leave MAGA. MAGA left them."
+
+**[00:38:28](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-maga-movement-t-00-38-28)**
+> "...e merch sales? We need merch. MAGA is dead. It's over."
+
+**[00:39:02](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-maga-movement-t-00-39-02)**
+> "... are the the four horsemen of MAGA that should be yeah make sure they they fix that ..."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1 mentions)</summary>
+
+**[00:49:02](/episodes/ep-7ERqbYElOfs.md#ent-concept-maga-movement-t-00-49-02)**
+> "alex clark she was like she said she was on a plane too and she was like the first thing i thought was like too bad the second thing i thought was maga like it was totally bonkers i was like the second thing you thought was maga really we gotta make america great again harder like what's wrong with these people what is what is running turning point usa it's not who it's what what spirits"
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (5 mentions)</summary>
@@ -511,7 +571,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about MAGA movement (3)</strong></summary>
+<summary><strong class="section-title">Statements about MAGA movement (5)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (2)</summary>
+
+- [00:12:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-12-12) (Opinion) **Donald J. Trump** (via quoted post): ["MAGA is about strength and not allowing Iran to have nuclear weapons."](/statements/statement-36571d39f9e0.md)
+  - Also about: [Iran](/entities/gpe-iran.md)
+
+- [00:13:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-13-37) (Opinion) **Candace Owens**: ["MAGA is no longer commanded by Donald Trump."](/statements/statement-5ff7cb8aef69.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
 
 <details>
 <summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1)</summary>

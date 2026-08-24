@@ -1,6 +1,6 @@
 ---
 title: "Utah"
-description: "Utah (Places) - 231 mentions"
+description: "Utah (Places) - 259 mentions"
 id: "gpe-utah"
 type: "GPE"
 aliases:
@@ -22,10 +22,10 @@ Source: [State of Utah official website](https://utah.gov/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-utah-t-00-05-31">2025-09-16 · 00:05:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-03-48-13">2026-08-14 · 03:48:13</a></strong></div>
-<div><span>Episodes</span><strong>46</strong></div>
-<div><span>Mentions</span><strong>231</strong></div>
+<div><span>Episodes</span><strong>51</strong></div>
+<div><span>Mentions</span><strong>259</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -79,6 +79,11 @@ Source: [State of Utah official website](https://utah.gov/)
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-utah-t-00-06-48" style="--pulse-height:44%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 8 mentions" title="2026-03-24 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-utah-t-00-09-39" style="--pulse-height:11%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-utah-t-00-13-58" style="--pulse-height:22%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 4 mentions" title="2026-03-26 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-utah-t-00-03-31" style="--pulse-height:11%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-gpe-utah-t-00-22-15" style="--pulse-height:28%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 5 mentions" title="2026-03-31 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-utah-t-00-02-45" style="--pulse-height:83%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 15 mentions" title="2026-04-01 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-utah-t-00-02-10" style="--pulse-height:11%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-utah-t-00-33-38" style="--pulse-height:22%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 4 mentions" title="2026-04-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-00-52-44" style="--pulse-height:94%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -130,6 +135,11 @@ Source: [State of Utah official website](https://utah.gov/)
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-utah-t-00-06-48) | 8 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-utah-t-00-09-39) | 2 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-utah-t-00-13-58) | 4 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-utah-t-00-03-31) | 2 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-utah-t-00-22-15) | 5 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-gpe-utah-t-00-02-45) | 15 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-utah-t-00-02-10) | 2 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-gpe-utah-t-00-33-38) | 4 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-00-52-44) | 17 |
 
 </details>
@@ -138,7 +148,7 @@ Source: [State of Utah official website](https://utah.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (231)</strong></summary>
+<summary><strong class="section-title">Raw mentions (259)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (17 mentions)</summary>
@@ -193,6 +203,115 @@ Source: [State of Utah official website](https://utah.gov/)
 
 **[03:48:13](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-03-48-13)**
 > "...that there's enough under the Utah 1102 rule for me to keep it there."
+
+</details>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (4 mentions)</summary>
+
+**[00:33:45](/episodes/ep-eLgD5yUVbko.md#ent-gpe-utah-t-00-33-38)**
+> "a fellow in Utah"
+
+**[00:37:29](/episodes/ep-eLgD5yUVbko.md#ent-gpe-utah-t-00-37-20)**
+> "...ght him over and put him into Utah."
+
+**[00:38:26](/episodes/ep-eLgD5yUVbko.md#ent-gpe-utah-t-00-37-20)**
+> "...n Sheriff Brooksby. calls the Utah County Sheriff Mike Smith to tell him about the c..."
+
+**[00:40:19](/episodes/ep-eLgD5yUVbko.md#ent-gpe-utah-t-00-40-19)**
+> "...eo footage, I believe a local Utah press attempted to get the video footage of Tyler..."
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (2 mentions)</summary>
+
+**[00:02:10](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-utah-t-00-02-10)**
+> "Utah"
+
+**[00:35:26](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-utah-t-00-34-48)**
+> "...n to accompany her husband to Utah, but her mother would be undergoing medical or tr..."
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (15 mentions)</summary>
+
+**[00:02:58](/episodes/ep-rupRLXmSndU.md#ent-gpe-utah-t-00-02-45)**
+> "Utah"
+
+**[00:03:07](/episodes/ep-rupRLXmSndU.md#ent-gpe-utah-t-00-02-45)**
+> "...is a connection to Israel and Utah. But why?"
+
+**[00:03:34](/episodes/ep-rupRLXmSndU.md#ent-gpe-utah-t-00-03-24)**
+> "...Romney, the former senator of Utah, the one-time presidential nominee who ran agains..."
+
+**[00:04:13](/episodes/ep-rupRLXmSndU.md#ent-gpe-utah-t-00-04-03)**
+> "...s are very powerful family in Utah and I want you to park that information in the ba..."
+
+**[00:06:20](/episodes/ep-rupRLXmSndU.md#ent-gpe-utah-t-00-04-03)**
+> "She went to Utah Valley Hospital and she sent her colleague over t..."
+
+**[00:07:29](/episodes/ep-rupRLXmSndU.md#ent-gpe-utah-t-00-04-03)**
+> "...He would later tell people at Utah Valley where he was being treated that he was pai..."
+
+**[00:08:16](/episodes/ep-rupRLXmSndU.md#ent-gpe-utah-t-00-07-43)**
+> "...ocal and state authorities in Utah for your partnership with the FBI. We will provid..."
+
+**[00:14:57](/episodes/ep-rupRLXmSndU.md#ent-gpe-utah-t-00-07-43)**
+> "... of the Charlie Kirk event at Utah Valley University."
+
+**[00:15:06](/episodes/ep-rupRLXmSndU.md#ent-gpe-utah-t-00-07-43)**
+> "...uspicious because we said the Utah Valley University event was probably beginning to..."
+
+**[00:20:06](/episodes/ep-rupRLXmSndU.md#ent-gpe-utah-t-00-19-56)**
+> "...Romney family, they're big in Utah, that's not that weird until I realized how close..."
+
+**[00:20:35](/episodes/ep-rupRLXmSndU.md#ent-gpe-utah-t-00-20-35)**
+> "...hat they have to do with that Utah University when we get back from a brief break."
+
+**[00:22:53](/episodes/ep-rupRLXmSndU.md#ent-gpe-utah-t-00-22-38)**
+> "...xceedingly powerful family in Utah."
+
+**[00:23:10](/episodes/ep-rupRLXmSndU.md#ent-gpe-utah-t-00-22-38)**
+> "...k to any person that lives in Utah, they will tell you that. And they're also extrao..."
+
+**[00:36:17](/episodes/ep-rupRLXmSndU.md#ent-gpe-utah-t-00-36-17)**
+> "...w in provo why would he be in utah again we will show you all that um i've been very..."
+
+**[00:46:09](/episodes/ep-rupRLXmSndU.md#ent-gpe-utah-t-00-45-36)**
+> "...sed the friendship of Romney. Utah is like his state."
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (5 mentions)</summary>
+
+**[00:22:15](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-utah-t-00-22-15)**
+> "... of hearsay identified in the Utah rule of evidence at a preliminary hearing."
+
+**[00:27:08](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-utah-t-00-22-15)**
+> "...ab files and UCAO, that's the Utah County Attorney's Office, informed the defense th..."
+
+**[00:48:01](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-utah-t-00-48-01)**
+> "This is hearsay under Utah rule of evidence. You can't just give us summarie..."
+
+**[00:56:25](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-utah-t-00-48-01)**
+> "... evidence that Charlie was at Utah Valley initially and then at some point got trans..."
+
+**[00:59:38](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-utah-t-00-59-12)**
+> "is not from Utah. He does not know this man. Yes, it was a very, y..."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (2 mentions)</summary>
+
+**[00:03:31](/episodes/ep-7ERqbYElOfs.md#ent-gpe-utah-t-00-03-31)**
+> "The one that is in St. George, Utah, which is where Tyler Robinson was. was brought in is lodge number 33 okay 33 also being the country code for paris now americans are not used to the discussion about freemasonry so this all felt very new and i feel like people weren't really ready to have this conversation because we go to public school we're told like paul revere they don't tell you that he was like a rosha crucial freemason but he was like the british are coming the british are coming he actually never actually said that either"
+
+**[00:40:45](/episodes/ep-7ERqbYElOfs.md#ent-gpe-utah-t-00-03-31)**
+> "...nformation was relayed to the Utah County Sheriff's Office and on-scene investigator..."
 
 </details>
 
@@ -1072,9 +1191,10 @@ Source: [State of Utah official website](https://utah.gov/)
 <summary>Has Governor (1)</summary>
 
 - **[Spencer Cox](/entities/person-spencer-cox.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:53](/episodes/ep-ZGxnf5cj4Uw.md#t-00-25-45): “Phil Lyman ran against the current Governor Cox”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:31:03](/episodes/ep-eLgD5yUVbko.md#t-00-30-22): “Anyway, you guys, getting into what Baron Coleman discovered. So one of the earliest stories that we broke actually back on September 29th, to be precise, was that we had a source with direct knowledge regarding Tyler Robinson's arrest. And they had insisted to us that it was known to the police that Tyler Robinson was their guy before 7 o'clock p.m. on September 11th. Okay, I'm going to show you on a timeline why that's important. The second thing that they noted to us was that Governor Cox and the police, they were lying about the clothing that he was wearing when he was brought in.”
 
 </details>
 
@@ -1138,9 +1258,10 @@ Source: [State of Utah official website](https://utah.gov/)
 <summary>Referenced By (7)</summary>
 
 - **[Spencer Cox](/entities/person-spencer-cox.md)** governor of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:53](/episodes/ep-ZGxnf5cj4Uw.md#t-00-25-45): “Phil Lyman ran against the current Governor Cox”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:31:03](/episodes/ep-eLgD5yUVbko.md#t-00-30-22): “Anyway, you guys, getting into what Baron Coleman discovered. So one of the earliest stories that we broke actually back on September 29th, to be precise, was that we had a source with direct knowledge regarding Tyler Robinson's arrest. And they had insisted to us that it was known to the police that Tyler Robinson was their guy before 7 o'clock p.m. on September 11th. Okay, I'm going to show you on a timeline why that's important. The second thing that they noted to us was that Governor Cox and the police, they were lying about the clothing that he was wearing when he was brought in.”
 
 </details>
 
@@ -1193,7 +1314,15 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah (10)</strong></summary>
+<summary><strong class="section-title">Statements about Utah (11)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1)</summary>
+
+- [00:35:14](/episodes/ep-q1NRQQAYS_Q.md#t-00-34-48) (Claim) **The New York Times** (via quoted article): ["Erika Kirk had planned to accompany Charlie Kirk to Utah, but instead ..."](/statements/statement-5e641d2827ce.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>

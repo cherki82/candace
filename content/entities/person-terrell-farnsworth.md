@@ -1,6 +1,6 @@
 ---
 title: "Terrell Farnsworth"
-description: "Terrell Farnsworth (People) - 19 mentions"
+description: "Terrell Farnsworth (People) - 29 mentions"
 id: "person-terrell-farnsworth"
 type: "PERSON"
 categories:
@@ -19,26 +19,28 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-16-41">2025-11-12 · 00:16:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-terrell-farnsworth-t-03-02-07">2026-08-14 · 03:02:25</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-terrell-farnsworth-t-00-11-13">Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-02-02">PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-16-41" style="--pulse-height:25%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-terrell-farnsworth-t-00-11-52" style="--pulse-height:50%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-terrell-farnsworth-t-00-11-13" style="--pulse-height:100%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 4 mentions" title="2025-12-12 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-terrell-farnsworth-t-00-09-22" style="--pulse-height:75%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 3 mentions" title="2025-12-16 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-terrell-farnsworth-t-00-06-18" style="--pulse-height:75%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 3 mentions" title="2025-12-18 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-terrell-farnsworth-t-00-41-21" style="--pulse-height:50%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-terrell-farnsworth-t-00-33-00" style="--pulse-height:75%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-terrell-farnsworth-t-03-02-07" style="--pulse-height:25%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-16-41" style="--pulse-height:11%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-terrell-farnsworth-t-00-11-52" style="--pulse-height:22%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-terrell-farnsworth-t-00-11-13" style="--pulse-height:44%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 4 mentions" title="2025-12-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-terrell-farnsworth-t-00-09-22" style="--pulse-height:33%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 3 mentions" title="2025-12-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-terrell-farnsworth-t-00-06-18" style="--pulse-height:33%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 3 mentions" title="2025-12-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-terrell-farnsworth-t-00-41-21" style="--pulse-height:22%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-terrell-farnsworth-t-00-33-00" style="--pulse-height:33%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-02-02" style="--pulse-height:100%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 9 mentions" title="2026-03-31 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#t-00-42-29" style="--pulse-height:11%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-terrell-farnsworth-t-03-02-07" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +53,8 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-person-terrell-farnsworth-t-00-06-18) | 3 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-terrell-farnsworth-t-00-41-21) | 2 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-terrell-farnsworth-t-00-33-00) | 3 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-02-02) | 9 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#t-00-42-29) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-terrell-farnsworth-t-03-02-07) | 1 |
 
 </details>
@@ -59,13 +63,53 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[03:02:25](/episodes/ep-nPhCKwJ6ye8.md#ent-person-terrell-farnsworth-t-03-02-07)**
 > "...makes sense, without question Terrell Farnsworth is someone who made me think that we were missing..."
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
+
+**[00:42:42](/episodes/ep-rupRLXmSndU.md#t-00-42-29)**
+> "Tarell Farnsworth"
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (9 mentions)</summary>
+
+**[00:02:18](/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-02-02)**
+> "... body was carried to the SUV, Terrell Farnsworth, the man who runs the audio visual company that T..."
+
+**[00:02:45](/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-02-45)**
+> "...ation? I don't know. Anyways, Terrell Farnsworth raced down from his nearby grassy knoll where he ..."
+
+**[00:03:58](/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-03-58)**
+> "Terrell Farnsworth seemed to be moving with precision as if he were ..."
+
+**[00:03:20](/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-02-45)**
+> "Terrell"
+
+**[00:03:32](/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-02-45)**
+> "Terrell"
+
+**[00:03:38](/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-02-45)**
+> "Terrell"
+
+**[00:05:37](/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-03-58)**
+> "Terrell"
+
+**[00:06:38](/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-03-58)**
+> "Terrell"
+
+**[00:07:25](/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-03-58)**
+> "Terrell"
 
 </details>
 
@@ -193,7 +237,31 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Terrell Farnsworth (14)</strong></summary>
+<summary><strong class="section-title">Statements by Terrell Farnsworth (1)</strong></summary>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1)</summary>
+
+- [00:04:28](/episodes/ep-UYkXV9mYbT4.md#t-00-03-58) [○] (Claim) ["I wanted to secure the footage for Erika so that she wouldn't have to see the fo..."](/statements/statement-aae0307c2c42.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Terrell Farnsworth (16)</strong></summary>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (2)</summary>
+
+- [00:02:55](/episodes/ep-UYkXV9mYbT4.md#t-00-02-45) (Claim) **Candace Owens**: ["Terrell Farnsworth returned to the crime scene, used Charlie Kirk's ch..."](/statements/statement-3ae26b37ac75.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:05:37](/episodes/ep-UYkXV9mYbT4.md#t-00-05-20) (Opinion) **Candace Owens**: ["I am going to speculate this boldly: they were hiding the fact that th..."](/statements/statement-8db33ee5af32.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Provo"
-description: "Provo (Places) - 113 mentions"
+description: "Provo (Places) - 118 mentions"
 id: "gpe-provo"
 type: "GPE"
 aliases:
@@ -24,11 +24,11 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-gpe-provo-t-00-18-15">2025-09-19 · 00:18:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-38-21">2026-03-26 · 00:38:45</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>113</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-provo-t-00-36-17">2026-04-01 · 00:36:47</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>118</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -56,6 +56,8 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-provo-t-00-09-57" style="--pulse-height:39%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 7 mentions" title="2026-03-24 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-provo-t-00-02-23" style="--pulse-height:17%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 3 mentions" title="2026-03-25 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-00-36" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 18 mentions" title="2026-03-26 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-provo-t-00-49-45" style="--pulse-height:8%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-provo-t-00-02-45" style="--pulse-height:22%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 4 mentions" title="2026-04-01 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -80,6 +82,8 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-provo-t-00-09-57) | 7 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-provo-t-00-02-23) | 3 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-00-36) | 18 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-provo-t-00-49-45) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-gpe-provo-t-00-02-45) | 4 |
 
 </details>
 </section>
@@ -87,7 +91,32 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (113)</strong></summary>
+<summary><strong class="section-title">Raw mentions (118)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (4 mentions)</summary>
+
+**[00:03:16](/episodes/ep-rupRLXmSndU.md#ent-gpe-provo-t-00-02-45)**
+> "Provo"
+
+**[00:35:55](/episodes/ep-rupRLXmSndU.md#ent-gpe-provo-t-00-35-55)**
+> "...rrying someone from Israel to Provo."
+
+**[00:36:17](/episodes/ep-rupRLXmSndU.md#ent-gpe-provo-t-00-36-17)**
+> "...s is BB. this is bb hiding in provo but i'm like what who does bb know in provo why w..."
+
+**[00:36:47](/episodes/ep-rupRLXmSndU.md#ent-gpe-provo-t-00-36-17)**
+> "...there. He'd be pretty safe in Provo, they've got a whole underground city in Provo."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1 mentions)</summary>
+
+**[00:50:21](/episodes/ep-7ERqbYElOfs.md#ent-gpe-provo-t-00-49-45)**
+> "Oh yeah, they're going to pull a New York Times article, Mr. Kirk's chartered plane traveled back to Scottsdale to ferry his wife to Provo. He was pronounced dead as she was airborne."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (18 mentions)</summary>
@@ -555,7 +584,25 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Provo (15)</strong></summary>
+<summary><strong class="section-title">Statements about Provo (18)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2)</summary>
+
+- [00:36:17](/episodes/ep-rupRLXmSndU.md#t-00-36-17) (Opinion) **Candace Owens**: ["Candace Owens said she was not claiming Benjamin Netanyahu was aboard ..."](/statements/statement-f1817735b17d.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Egypt](/entities/gpe-egypt.md), [Israel](/entities/gpe-israel.md)
+
+- [00:36:47](/episodes/ep-rupRLXmSndU.md#t-00-36-17) (Claim) **Candace Owens**: ["Provo has an underground city."](/statements/statement-8f524c4e04cd.md)
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1)</summary>
+
+- [00:50:30](/episodes/ep-7ERqbYElOfs.md#t-00-50-30) (Claim) **Erika Kirk** (via quoted article): ["While flying to Provo after Charlie Kirk was killed, Erika Kirk looked..."](/statements/statement-89a1e54daea1.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (4)</summary>

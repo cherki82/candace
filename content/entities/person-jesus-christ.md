@@ -1,6 +1,6 @@
 ---
 title: "Jesus Christ"
-description: "Jesus Christ (People) - 126 mentions"
+description: "Jesus Christ (People) - 140 mentions"
 id: "person-jesus-christ"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-08-02">2025-09-15 · 00:08:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-jesus-christ-t-00-48-11">2026-03-26 · 00:48:37</a></strong></div>
-<div><span>Episodes</span><strong>47</strong></div>
-<div><span>Mentions</span><strong>126</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-jesus-christ-t-01-06-59">2026-04-13 · 01:07:10</a></strong></div>
+<div><span>Episodes</span><strong>51</strong></div>
+<div><span>Mentions</span><strong>140</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -82,6 +82,10 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-jesus-christ-t-00-45-55" style="--pulse-height:33%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-jesus-christ-t-00-45-26" style="--pulse-height:22%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-jesus-christ-t-00-48-11" style="--pulse-height:22%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-jesus-christ-t-00-57-24" style="--pulse-height:33%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-jesus-christ-t-00-52-41" style="--pulse-height:44%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 4 mentions" title="2026-03-31 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-jesus-christ-t-00-54-54" style="--pulse-height:11%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-jesus-christ-t-00-56-25" style="--pulse-height:67%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 6 mentions" title="2026-04-13 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -134,6 +138,10 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-jesus-christ-t-00-45-55) | 3 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-jesus-christ-t-00-45-26) | 2 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-jesus-christ-t-00-48-11) | 2 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-jesus-christ-t-00-57-24) | 3 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-jesus-christ-t-00-52-41) | 4 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-jesus-christ-t-00-54-54) | 1 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-jesus-christ-t-00-56-25) | 6 |
 
 </details>
 </section>
@@ -141,7 +149,69 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (126)</strong></summary>
+<summary><strong class="section-title">Raw mentions (140)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (6 mentions)</summary>
+
+**[00:56:48](/episodes/ep-eLgD5yUVbko.md#ent-person-jesus-christ-t-00-56-25)**
+> "nothing like Jesus Christ"
+
+**[00:51:32](/episodes/ep-eLgD5yUVbko.md#ent-person-jesus-christ-t-00-51-17)**
+> "...ho's telling him he's akin to jesus christ which is absolutely blasphemous and he thinks the..."
+
+**[01:00:08](/episodes/ep-eLgD5yUVbko.md#ent-person-jesus-christ-t-00-59-43)**
+> "...opped a picture of himself as Jesus Christ on top of that and got even backlash from the Pro..."
+
+**[01:00:26](/episodes/ep-eLgD5yUVbko.md#ent-person-jesus-christ-t-01-00-26)**
+> "... that that was supposed to be Jesus and that he thought that the AI image was suggest..."
+
+**[01:00:59](/episodes/ep-eLgD5yUVbko.md#ent-person-jesus-christ-t-01-00-59)**
+> "...cture of yourself depicted as Jesus Christ?"
+
+**[01:07:10](/episodes/ep-eLgD5yUVbko.md#ent-person-jesus-christ-t-01-06-59)**
+> "...re squealing. Christ is king. Jesus loves you all. Thank you. St. Michael prayer work..."
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:54:59](/episodes/ep-q1NRQQAYS_Q.md#ent-person-jesus-christ-t-00-54-54)**
+> "Christ is king."
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (4 mentions)</summary>
+
+**[00:52:48](/episodes/ep-UYkXV9mYbT4.md#ent-person-jesus-christ-t-00-52-41)**
+> "...omforted. You have really met Jesus in his suffering since September 2025."
+
+**[00:54:00](/episodes/ep-UYkXV9mYbT4.md#ent-person-jesus-christ-t-00-54-00)**
+> "...w not Charlie's obviously but Jesus Christ his burden was greater and we there was something..."
+
+**[00:56:10](/episodes/ep-UYkXV9mYbT4.md#ent-person-jesus-christ-t-00-55-46)**
+> "..., like just being reminded of Christ's suffering."
+
+**[01:03:14](/episodes/ep-UYkXV9mYbT4.md#ent-person-jesus-christ-t-01-03-14)**
+> "j-lopez writes my sister in christ samia zoom out for being such a great soul she gi..."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (3 mentions)</summary>
+
+**[00:57:50](/episodes/ep-7ERqbYElOfs.md#ent-person-jesus-christ-t-00-57-24)**
+> "Linda LaBelle writes, today marks the anniversary of Jesus flipping over tables in the temple. Okay, so it was fine that I just freaked out."
+
+**[00:51:28](/episodes/ep-7ERqbYElOfs.md#ent-person-jesus-christ-t-00-51-01)**
+> "...ot an outsider. I can talk to Jesus anytime that I want."
+
+**[00:57:57](/episodes/ep-7ERqbYElOfs.md#ent-person-jesus-christ-t-00-57-24)**
+> "...as marking the anniversary of Jesus flipping over tables in the temple."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (2 mentions)</summary>
@@ -760,7 +830,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jesus Christ (2)</strong></summary>
+<summary><strong class="section-title">Statements about Jesus Christ (4)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2)</summary>
+
+- [00:56:41](/episodes/ep-eLgD5yUVbko.md#t-00-56-25) (Opinion) **Candace Owens**: ["Candace Owens said Donald Trump is not a Christian and that the Cathol..."](/statements/statement-ecb6b851885c.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Catholic Church](/entities/org-catholic-church.md), [Christianity](/entities/concept-christianity.md)
+
+- [01:01:04](/episodes/ep-eLgD5yUVbko.md#t-01-00-59) (Claim) **Donald J. Trump** (via quoted speech): ["Donald Trump said he posted an AI image because he thought it depicted..."](/statements/statement-90beac51be54.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [American Red Cross](/entities/org-american-red-cross.md)
+
+</details>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>

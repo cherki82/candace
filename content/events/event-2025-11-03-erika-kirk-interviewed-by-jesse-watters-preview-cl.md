@@ -11,7 +11,7 @@ date: "2025-11-03"
 
 > Erika Kirk interviewed by Jesse Watters; preview clip calls for cameras in trial.
 
-## Mentioned In (31 times)
+## Mentioned In (32 times)
 
 ### 1. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
 
@@ -260,3 +260,11 @@ date: "2025-11-03"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1796);return false;">▶️ Play</a>
 
 > have Stacey Sheridan, who's the chief finance person. We hav
+
+### 32. SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | ...
+
+**Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
+**Timestamp:** [00:36:46](/episodes/ep-q1NRQQAYS_Q.md#event-event-2025-11-03-erika-kirk-interviewed-by-jesse-watters-preview-cl-t-00-36-13) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2206);return false;">▶️ Play</a>
+
+> Erica in November, a little more detail during her sit down with Jesse Waters.

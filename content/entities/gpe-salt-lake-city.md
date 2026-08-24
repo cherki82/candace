@@ -1,6 +1,6 @@
 ---
 title: "Salt Lake City"
-description: "Salt Lake City (Places) - 29 mentions"
+description: "Salt Lake City (Places) - 31 mentions"
 id: "gpe-salt-lake-city"
 type: "GPE"
 categories:
@@ -19,8 +19,8 @@ Source: [SLC.gov](https://www.slc.gov/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-salt-lake-city-t-00-18-53">2025-09-17 · 00:19:25</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-salt-lake-city-t-01-38-09">2026-08-14 · 01:38:09</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>29</strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>31</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -41,6 +41,7 @@ Source: [SLC.gov](https://www.slc.gov/)
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-gpe-salt-lake-city-t-00-31-57" style="--pulse-height:33%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 4 mentions" title="2025-12-05 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-t4U7NjnUEgc.md#t-00-03-26" style="--pulse-height:8%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 1 mentions" title="2025-12-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-salt-lake-city-t-00-54-05" style="--pulse-height:8%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-salt-lake-city-t-00-35-25" style="--pulse-height:17%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-salt-lake-city-t-01-38-09" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -57,6 +58,7 @@ Source: [SLC.gov](https://www.slc.gov/)
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-gpe-salt-lake-city-t-00-31-57) | 4 |
 | 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#t-00-03-26) | 1 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-salt-lake-city-t-00-54-05) | 1 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-gpe-salt-lake-city-t-00-35-25) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-salt-lake-city-t-01-38-09) | 1 |
 
 </details>
@@ -65,13 +67,24 @@ Source: [SLC.gov](https://www.slc.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+<summary><strong class="section-title">Raw mentions (31)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[01:38:09](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-salt-lake-city-t-01-38-09)**
 > "I think it's Salt Lake City,"
+
+</details>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2 mentions)</summary>
+
+**[00:35:25](/episodes/ep-eLgD5yUVbko.md#ent-gpe-salt-lake-city-t-00-35-25)**
+> "FBI Salt Lake City"
+
+**[00:35:51](/episodes/ep-eLgD5yUVbko.md#ent-gpe-salt-lake-city-t-00-35-25)**
+> "...n the scene. At 6.17, the FBI Salt Lake City releases another round of photos of the alleged s..."
 
 </details>
 

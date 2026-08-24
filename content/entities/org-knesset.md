@@ -1,6 +1,6 @@
 ---
 title: "Knesset"
-description: "Knesset (Organizations) - 4 mentions"
+description: "Knesset (Organizations) - 5 mentions"
 id: "org-knesset"
 type: "ORG"
 aliases:
@@ -15,13 +15,17 @@ _Type: Organizations_
 
 **Categories:** government
 
+**Entity verification:** verified
+> Canonical organization name and role as Israel's legislative authority verified against the Knesset's official site.
+Source: [The Work of the Knesset](https://main.knesset.gov.il/EN/about/pages/knessetwork.aspx)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-org-knesset-t-00-34-00">2026-01-12 · 00:34:07</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-knesset-t-00-10-22">2026-02-02 · 00:10:22</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -48,7 +52,7 @@ _Type: Organizations_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>
@@ -128,7 +132,15 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Knesset (1)</strong></summary>
+<summary><strong class="section-title">Statements about Knesset (2)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1)</summary>
+
+- [00:25:01](/episodes/ep-rupRLXmSndU.md#t-00-25-01) (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)** (via read message): ["Elite Mormon students at BYU's Jerusalem Center are introduced to one ..."](/statements/statement-ddfdb9405887.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md), [Mormonism](/entities/concept-mormonism.md)
+
+</details>
 
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1)</summary>

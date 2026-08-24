@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Andrew Kolvet](/entities/person-andrew-kolvet) accused by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
 
 **[VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58)**
 
@@ -20,6 +20,10 @@ object: "person-candace-owens"
 **[REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30)**
 
 - [00:33:24](/episodes/ep-SgVcnx4Oh30#t-00-33-24): _we now know that Andrew Kolvet is in the business of faking live shows in order to give himself an alibi._
+
+**[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
+
+- [00:10:17](/episodes/ep-UYkXV9mYbT4#t-00-10-17): _Erica lied. Erica and Andrew colluded. on how to message to the public about this little fact that was never meant to be known to us._
 
 ### Related
 

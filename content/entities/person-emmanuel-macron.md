@@ -1,6 +1,6 @@
 ---
 title: "Emmanuel Macron"
-description: "Emmanuel Macron (People) - 107 mentions"
+description: "Emmanuel Macron (People) - 108 mentions"
 id: "person-emmanuel-macron"
 type: "PERSON"
 aliases:
@@ -23,8 +23,8 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#t-00-45-49">2025-09-18 · 00:46:01</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-emmanuel-macron-t-02-21-59">2026-08-14 · 02:22:25</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>107</strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>108</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
@@ -57,6 +57,7 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-emmanuel-macron-t-00-14-13" style="--pulse-height:8%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-emmanuel-macron-t-00-28-10" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#t-00-41-08" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-emmanuel-macron-t-00-09-34" style="--pulse-height:8%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-emmanuel-macron-t-02-21-59" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -85,6 +86,7 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-emmanuel-macron-t-00-14-13) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-emmanuel-macron-t-00-28-10) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#t-00-41-08) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-emmanuel-macron-t-00-09-34) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-emmanuel-macron-t-02-21-59) | 1 |
 
 </details>
@@ -93,13 +95,21 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (107)</strong></summary>
+<summary><strong class="section-title">Raw mentions (108)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[02:22:25](/episodes/ep-nPhCKwJ6ye8.md#ent-person-emmanuel-macron-t-02-21-59)**
 > "...h this like I can't hack into Emmanuel Macron's bank accounts and say whether or not the informat..."
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:09:38](/episodes/ep-ZIH5-V6UPkg.md#ent-person-emmanuel-macron-t-00-09-34)**
+> "... Not even Brigitte Macron and Emmanuel Macron applauded that sentence, okay?"
 
 </details>
 

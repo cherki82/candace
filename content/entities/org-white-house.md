@@ -1,6 +1,6 @@
 ---
 title: "White House"
-description: "White House (Organizations) - 90 mentions"
+description: "White House (Organizations) - 98 mentions"
 id: "org-white-house"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-white-house-t-00-04-16">2025-09-11 · 00:04:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-white-house-t-00-31-25">2026-03-26 · 00:31:45</a></strong></div>
-<div><span>Episodes</span><strong>37</strong></div>
-<div><span>Mentions</span><strong>90</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-org-white-house-t-00-53-57">2026-04-13 · 00:54:23</a></strong></div>
+<div><span>Episodes</span><strong>41</strong></div>
+<div><span>Mentions</span><strong>98</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>22</strong></div>
+<div><span>Statements about</span><strong>24</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -73,6 +73,10 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-white-house-t-00-12-27" style="--pulse-height:29%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-white-house-t-00-33-24" style="--pulse-height:29%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-white-house-t-00-31-25" style="--pulse-height:14%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-white-house-t-00-08-14" style="--pulse-height:29%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-white-house-t-00-41-46" style="--pulse-height:14%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-white-house-t-00-09-34" style="--pulse-height:57%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 4 mentions" title="2026-04-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-white-house-t-00-53-57" style="--pulse-height:14%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -115,6 +119,10 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-white-house-t-00-12-27) | 2 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-white-house-t-00-33-24) | 2 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-org-white-house-t-00-31-25) | 1 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-white-house-t-00-08-14) | 2 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-white-house-t-00-41-46) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-white-house-t-00-09-34) | 4 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-white-house-t-00-53-57) | 1 |
 
 </details>
 </section>
@@ -122,7 +130,51 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (90)</strong></summary>
+<summary><strong class="section-title">Raw mentions (98)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
+
+**[00:54:23](/episodes/ep-eLgD5yUVbko.md#ent-org-white-house-t-00-53-57)**
+> "in the White House"
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (4 mentions)</summary>
+
+**[00:10:06](/episodes/ep-ZIH5-V6UPkg.md#ent-org-white-house-t-00-09-34)**
+> "... obsessed calling me from the White House? Stop talking about Brigitte."
+
+**[00:16:31](/episodes/ep-ZIH5-V6UPkg.md#ent-org-white-house-t-00-16-19)**
+> "... in the situation room at the White House while the leader of a foreign country, Benjamin N..."
+
+**[00:28:03](/episodes/ep-ZIH5-V6UPkg.md#ent-org-white-house-t-00-27-42)**
+> "...story, no matter how well the White House White House has treated them in the past. They ar..."
+
+**[00:45:53](/episodes/ep-ZIH5-V6UPkg.md#ent-org-white-house-t-00-45-32)**
+> "... the opportunity to be in the White House again, whatever it was, he sold us out. And we ju..."
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
+
+**[00:41:46](/episodes/ep-rupRLXmSndU.md#ent-org-white-house-t-00-41-46)**
+> "And they're not going to do that, right? It's just we're powerful. We have money. Scott Besson can issue letters on the spot and say they're great. Look, we are at the White House celebrating Easter."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (2 mentions)</summary>
+
+**[00:08:50](/episodes/ep-7ERqbYElOfs.md#ent-org-white-house-t-00-08-14)**
+> "I sent something to the FBI. I sent it to the White House. I told you this was real and that they were on the ground that day. Anyways, let's continue in our article."
+
+**[00:34:13](/episodes/ep-7ERqbYElOfs.md#ent-org-white-house-t-00-34-13)**
+> "... 33 behind her. She's got the White House Scott Bessent that'll publish letters saying that..."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
@@ -649,7 +701,23 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about White House (22)</strong></summary>
+<summary><strong class="section-title">Statements about White House (24)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>
+
+- [00:53:57](/episodes/ep-eLgD5yUVbko.md#t-00-53-40) (Claim) **Donald J. Trump** (via quoted post): ["Donald Trump claimed that Pope Leo XIV was chosen because he was Ameri..."](/statements/statement-4b315897c442.md)
+  - Also about: [Pope Leo XIV](/entities/person-pope-leo-xiv.md), [Donald J. Trump](/entities/person-donald-trump.md), [Catholic Church](/entities/org-catholic-church.md)
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1)</summary>
+
+- [00:25:55](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-55) (Claim) **Candace Owens**: ["Donald Trump sat at the side of the table in the White House Situation..."](/statements/statement-a96ed1eeec64.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Justin Baldoni"
-description: "Justin Baldoni (People) - 11 mentions"
+description: "Justin Baldoni (People) - 14 mentions"
 id: "person-justin-baldoni"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-justin-baldoni-t-00-44-32">2025-10-28 · 00:44:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-justin-baldoni-t-00-29-36">2026-01-21 · 00:29:36</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-justin-baldoni-t-01-00-13">2026-04-02 · 01:00:37</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -34,6 +34,7 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-justin-baldoni-t-00-44-32" style="--pulse-height:29%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-justin-baldoni-t-00-15-52" style="--pulse-height:29%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 2 mentions" title="2026-01-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-justin-baldoni-t-00-24-46" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 7 mentions" title="2026-01-21 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-justin-baldoni-t-01-00-13" style="--pulse-height:43%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 3 mentions" title="2026-04-02 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +43,7 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-justin-baldoni-t-00-44-32) | 2 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-justin-baldoni-t-00-15-52) | 2 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-justin-baldoni-t-00-24-46) | 7 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-justin-baldoni-t-01-00-13) | 3 |
 
 </details>
 </section>
@@ -49,7 +51,21 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (3 mentions)</summary>
+
+**[00:59:48](/episodes/ep-q1NRQQAYS_Q.md#ent-person-justin-baldoni-t-01-00-13)**
+> "Baldoni"
+
+**[01:00:13](/episodes/ep-q1NRQQAYS_Q.md#ent-person-justin-baldoni-t-01-00-13)**
+> "...ltimately being served you go justin baldoni that is my cousin you know and he knows we're thi..."
+
+**[01:00:37](/episodes/ep-q1NRQQAYS_Q.md#ent-person-justin-baldoni-t-01-00-13)**
+> "... with me. So congratulations, Justin Baldoni. The sexual assault claims were insane."
+
+</details>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (7 mentions)</summary>
@@ -129,7 +145,19 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Sued By (1)</summary>
+
+- **[Blake Lively](/entities/person-blake-lively.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:59:48](/episodes/ep-q1NRQQAYS_Q.md#t-00-59-37): “adjusting Baldoni's case, Blake Lively's case against him for sexual harassment.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
 
 - **[Blake Lively](/entities/person-blake-lively.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -142,6 +170,13 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-26-58): “But now her messages are out and it turns out that Taylor Swift called Justin Baldoni a B-I-T-C-H with a tiny violin and she knew that Blake Lively was going to file that sexual harassment complaint to get these publishing rights,”
+
+</details>
+
+- **[Blake Lively](/entities/person-blake-lively.md)** sued this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:59:48](/episodes/ep-q1NRQQAYS_Q.md#t-00-59-37): “adjusting Baldoni's case, Blake Lively's case against him for sexual harassment.”
 
 </details>
 

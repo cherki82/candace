@@ -1,6 +1,6 @@
 ---
 title: "Lindsey Graham"
-description: "Lindsey Graham (People) - 24 mentions"
+description: "Lindsey Graham (People) - 30 mentions"
 id: "person-lindsey-graham"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-lindsey-graham-t-00-00-46">2025-11-03 · 00:01:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-lindsey-graham-t-00-13-58">2026-03-17 · 00:13:58</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-person-lindsey-graham-t-00-58-07">2026-03-30 · 00:58:12</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>30</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -42,6 +42,7 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-lindsey-graham-t-00-02-47" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 4 mentions" title="2026-03-02 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-lindsey-graham-t-00-57-39" style="--pulse-height:12%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-lindsey-graham-t-00-13-58" style="--pulse-height:12%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-lindsey-graham-t-00-43-36" style="--pulse-height:75%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 6 mentions" title="2026-03-30 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-lindsey-graham-t-00-02-47) | 4 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-lindsey-graham-t-00-57-39) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-lindsey-graham-t-00-13-58) | 1 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-lindsey-graham-t-00-43-36) | 6 |
 
 </details>
 </section>
@@ -61,7 +63,30 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (6 mentions)</summary>
+
+**[00:43:36](/episodes/ep-7ERqbYElOfs.md#ent-person-lindsey-graham-t-00-43-36)**
+> "And they're doing it for money. Let's just be frank. They're all doing it for money. Anyway, I want to do a shout out here to the disgusting Lindsey Graham."
+
+**[00:44:18](/episodes/ep-7ERqbYElOfs.md#ent-person-lindsey-graham-t-00-44-18)**
+> "... just want nothing to do with Lindsey Graham at Disney World. I don't want Lindsey Graham havi..."
+
+**[00:44:25](/episodes/ep-7ERqbYElOfs.md#ent-person-lindsey-graham-t-00-44-18)**
+> "... typically when we hear about Lindsey Graham and children, he's watched them blown up."
+
+**[00:44:31](/episodes/ep-7ERqbYElOfs.md#ent-person-lindsey-graham-t-00-44-18)**
+> "...three days i just want to say lindsey graham in general is disgusting i don't want him anywher..."
+
+**[00:44:54](/episodes/ep-7ERqbYElOfs.md#ent-person-lindsey-graham-t-00-44-18)**
+> "...that everything is wrong with Lindsey Graham."
+
+**[00:58:12](/episodes/ep-7ERqbYElOfs.md#ent-person-lindsey-graham-t-00-58-07)**
+> "...like insane war war it's like lindsey graham times two million i tweeted about charlie kirk an..."
+
+</details>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>
@@ -206,9 +231,10 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:13:58](/episodes/ep-I0OaY6Gryqk.md#t-00-13-58): “totally true it just it's always totally true just a couple of weeks they're going to have nuclear bombs they just lie they lie they lie because they need the bodies they need the people like Joe Kent and then to see him be so disrespected disrespected i mean it's just what they do you know and you know what they're going to do now which what they're already doing they're going to smear and they're going to attack and they're going to threaten Joe Kent here are some of the immediate responses that are already floating online okay you have lindsey graham who's so blackmail blackmail it hurts he wrote the resignation of Joe Kent as the director”
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:43:36](/episodes/ep-7ERqbYElOfs.md#t-00-43-36): “the disgusting Lindsey Graham. ... who's just a traitor he's treacherous he's disgusting”
 
 </details>
 
@@ -246,9 +272,10 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:13:58](/episodes/ep-I0OaY6Gryqk.md#t-00-13-58): “totally true it just it's always totally true just a couple of weeks they're going to have nuclear bombs they just lie they lie they lie because they need the bodies they need the people like Joe Kent and then to see him be so disrespected disrespected i mean it's just what they do you know and you know what they're going to do now which what they're already doing they're going to smear and they're going to attack and they're going to threaten Joe Kent here are some of the immediate responses that are already floating online okay you have lindsey graham who's so blackmail blackmail it hurts he wrote the resignation of Joe Kent as the director”
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:43:36](/episodes/ep-7ERqbYElOfs.md#t-00-43-36): “the disgusting Lindsey Graham. ... who's just a traitor he's treacherous he's disgusting”
 
 </details>
 
@@ -301,7 +328,15 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lindsey Graham (5)</strong></summary>
+<summary><strong class="section-title">Statements about Lindsey Graham (6)</strong></summary>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1)</summary>
+
+- [00:44:31](/episodes/ep-7ERqbYElOfs.md#t-00-44-18) (Accusation) **Candace Owens**: ["Lindsey Graham said he only stopped by Walt Disney World, but TMZ show..."](/statements/statement-7aaf31aed2a8.md)
+  - Also about: [Walt Disney World Resort](/entities/org-walt-disney-world-resort.md), [TMZ](/entities/org-tmz.md)
+
+</details>
 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (4)</summary>

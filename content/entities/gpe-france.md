@@ -1,6 +1,6 @@
 ---
 title: "France"
-description: "France (Places) - 251 mentions"
+description: "France (Places) - 275 mentions"
 id: "gpe-france"
 type: "GPE"
 aliases:
@@ -23,11 +23,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-france-t-00-01-27">2025-10-06 · 00:01:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-04-01-26">2026-08-14 · 04:01:41</a></strong></div>
-<div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>251</strong></div>
+<div><span>Episodes</span><strong>35</strong></div>
+<div><span>Mentions</span><strong>275</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>22</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>33</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -65,6 +65,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-france-t-00-47-22" style="--pulse-height:8%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 3 mentions" title="2026-03-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-france-t-01-00-54" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-france-t-00-27-44" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-france-t-00-00-00" style="--pulse-height:25%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 18 mentions" title="2026-03-30 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-gpe-france-t-00-00-00" style="--pulse-height:8%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-france-t-00-08-45" style="--pulse-height:8%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-france-t-01-03-27" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-21-59" style="--pulse-height:24%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -101,6 +105,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-france-t-00-47-22) | 3 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-france-t-01-00-54) | 3 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-france-t-00-27-44) | 2 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-france-t-00-00-00) | 18 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-france-t-00-00-00) | 2 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-france-t-00-08-45) | 2 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-gpe-france-t-01-03-27) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-21-59) | 17 |
 
 </details>
@@ -109,7 +117,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (251)</strong></summary>
+<summary><strong class="section-title">Raw mentions (275)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (17 mentions)</summary>
@@ -164,6 +172,98 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[04:01:41](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-04-01-26)**
 > "...ckly and to speak to me about France and to talk about this penguin receipt and my tim..."
+
+</details>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2 mentions)</summary>
+
+**[01:03:36](/episodes/ep-eLgD5yUVbko.md#ent-gpe-france-t-01-03-27)**
+> "First Lady of France"
+
+**[00:38:59](/episodes/ep-eLgD5yUVbko.md#ent-gpe-france-t-00-38-59)**
+> "...ed that a couple of weeks ago france assassin squads tied to freemasonry so we can sto..."
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (2 mentions)</summary>
+
+**[00:09:06](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-france-t-00-08-45)**
+> "...ighly respected First Lady of France of being a man when she is not and will hopefully..."
+
+**[00:09:22](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-france-t-00-08-45)**
+> "...lly, to me, the First Lady of France is a far more beautiful woman than Candace. In fa..."
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (2 mentions)</summary>
+
+**[00:00:00](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-france-t-00-00-00)**
+> "...ut the Freemason hit squad in France. Then we wrap up the episode yesterday and the In..."
+
+**[01:03:58](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-france-t-01-03-58)**
+> "...now that Freemasonry began in France. So that has been very interesting."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (18 mentions)</summary>
+
+**[00:00:10](/episodes/ep-7ERqbYElOfs.md#ent-gpe-france-t-00-00-00)**
+> "I do have to say today is a great day to be Candace Owens. It's a great day also to be a Candace Owens podcast listener, because back in November, I was telling you guys that France was, in fact, involved in Charlie Kirk's assassination, specifically that their intelligence agency, also known as DGSE, was involved."
+
+**[00:00:28](/episodes/ep-7ERqbYElOfs.md#ent-gpe-france-t-00-00-28)**
+> "...s and gentlemen, 22 people in France are on trial for running a Freemason military hit..."
+
+**[00:00:56](/episodes/ep-7ERqbYElOfs.md#ent-gpe-france-t-00-00-56)**
+> "...freemasonry all roads lead to france and israel welcome back to candace"
+
+**[00:04:47](/episodes/ep-7ERqbYElOfs.md#ent-gpe-france-t-00-04-41)**
+> "...asonry actually originated in France, okay? It was after Jacques de Molay, we would sa..."
+
+**[00:05:25](/episodes/ep-7ERqbYElOfs.md#ent-gpe-france-t-00-05-25)**
+> "...y long time. And so they left France and they went into Scotland and they fought for R..."
+
+**[00:05:40](/episodes/ep-7ERqbYElOfs.md#ent-gpe-france-t-00-05-25)**
+> "...was definitely something. The French AP broke it. They broke the story regarding a tri..."
+
+**[00:06:09](/episodes/ep-7ERqbYElOfs.md#ent-gpe-france-t-00-06-09)**
+> "... people have gone on trial in France on charges of murder and other serious crimes cen..."
+
+**[00:06:46](/episodes/ep-7ERqbYElOfs.md#ent-gpe-france-t-00-06-46)**
+> "...ts include four officers from France's DGSE, Foreign Intelligence Service, three police ..."
+
+**[00:07:38](/episodes/ep-7ERqbYElOfs.md#ent-gpe-france-t-00-07-30)**
+> "...ait, what? They're saying the French Foreign Legion and the military was involved in m..."
+
+**[00:07:52](/episodes/ep-7ERqbYElOfs.md#ent-gpe-france-t-00-07-30)**
+> "...y of 2020 when two members of France's Parachute Regiment were arrested in possession of..."
+
+**[00:09:00](/episodes/ep-7ERqbYElOfs.md#ent-gpe-france-t-00-09-00)**
+> "...murder Denis on behalf of the French state and they were targeting Denis on the ground..."
+
+**[00:10:16](/episodes/ep-7ERqbYElOfs.md#ent-gpe-france-t-00-10-16)**
+> "...ow she has allegedly betrayed France and Paris working on behalf of Israel."
+
+**[00:11:27](/episodes/ep-7ERqbYElOfs.md#ent-gpe-france-t-00-11-27)**
+> "... was murdering people for the French government."
+
+**[00:14:46](/episodes/ep-7ERqbYElOfs.md#ent-gpe-france-t-00-14-46)**
+> "... I had a source inside of the French government because I did that told me that their ..."
+
+**[00:15:11](/episodes/ep-7ERqbYElOfs.md#ent-gpe-france-t-00-14-46)**
+> "The French Legion 13th Brigade with multi-state involvement...."
+
+**[00:16:03](/episodes/ep-7ERqbYElOfs.md#ent-gpe-france-t-00-16-03)**
+> "... do things overseas. So maybe France uses American forces, maybe American forces use F..."
+
+**[00:25:10](/episodes/ep-7ERqbYElOfs.md#ent-gpe-france-t-00-25-03)**
+> "... could Israel have to do with France? What are we talking about? The French military d..."
+
+**[00:51:50](/episodes/ep-7ERqbYElOfs.md#ent-gpe-france-t-00-51-40)**
+> "france um but it is it's always been a war in the cathol..."
 
 </details>
 
@@ -1061,12 +1161,19 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Location Of (1)</summary>
+<summary>Location Of (2)</summary>
 
 - **[Satis](/entities/org-satis.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12): “"Satis, which is a French company, injected $1.5 million..."”
+
+</details>
+
+- **[Direction générale de la sécurité extérieure](/entities/org-dgse.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:00:10](/episodes/ep-7ERqbYElOfs.md#t-00-00-00): “France was, in fact, involved in Charlie Kirk's assassination, specifically that their intelligence agency, also known as DGSE, was involved.”
 
 </details>
 
@@ -1085,7 +1192,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1098,6 +1205,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12): “"Satis, which is a French company, injected $1.5 million..."”
+
+</details>
+
+- **[Direction générale de la sécurité extérieure](/entities/org-dgse.md)** based in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:00:10](/episodes/ep-7ERqbYElOfs.md#t-00-00-00): “France was, in fact, involved in Charlie Kirk's assassination, specifically that their intelligence agency, also known as DGSE, was involved.”
 
 </details>
 
@@ -1127,13 +1241,51 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about France (22)</strong></summary>
+<summary><strong class="section-title">Statements about France (33)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
 
 - [02:33:22](/episodes/ep-nPhCKwJ6ye8.md#t-02-33-18) (Accusation) **Anonymous Source #1 (Ep nPhCKwJ6ye8)** (via quoted speech): ["French Foreign Legion personnel were on the ground during Charlie Kirk..."](/statements/statement-0ccadf24fcfc.md)
   - Also about: [French Foreign Legion](/entities/org-french-foreign-legion.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (11)</summary>
+
+- [00:00:10](/episodes/ep-7ERqbYElOfs.md#t-00-00-00) (Accusation) **Candace Owens**: ["France and its DGSE intelligence agency were involved in Charlie Kirk'..."](/statements/statement-77c08333ae83.md)
+  - Also about: [Direction générale de la sécurité extérieure](/entities/org-dgse.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:03:31](/episodes/ep-7ERqbYElOfs.md#t-00-03-09) (Claim) **Candace Owens**: ["The Freemason lodge in St. George, Utah, where Tyler Robinson was brou..."](/statements/statement-28a7438fd6ff.md)
+  - Also about: [Freemasonry](/entities/concept-freemasonry.md), [St. George](/entities/gpe-st-george.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:04:47](/episodes/ep-7ERqbYElOfs.md#t-00-04-41) (Claim) **Candace Owens**: ["Scottish Rite Freemasonry originated in France after the Knights Templ..."](/statements/statement-7bde537e92c5.md)
+  - Also about: [Scottish Rite Freemasonry](/entities/concept-scottish-rite-freemasonry.md), [Knights Templar](/entities/org-knights-templar.md), [Jacques de Molay](/entities/person-jacques-de-molay.md)
+
+- [00:06:09](/episodes/ep-7ERqbYElOfs.md#t-00-06-09) (Citation) **Candace Owens**: ["The Guardian reported that 22 people went on trial in France on murder..."](/statements/statement-b414d8bc3466.md)
+  - Also about: [The Guardian](/entities/org-the-guardian.md), [Freemasonry](/entities/concept-freemasonry.md)
+
+- [00:06:20](/episodes/ep-7ERqbYElOfs.md#t-00-06-09) (Citation) **Candace Owens**: ["The Guardian reported that 13 defendants faced possible life sentences..."](/statements/statement-f2304b7df1e2.md)
+  - Also about: [The Guardian](/entities/org-the-guardian.md), [Athanor lodge](/entities/org-athanor-lodge.md), [Freemasonry](/entities/concept-freemasonry.md)
+
+- [00:06:46](/episodes/ep-7ERqbYElOfs.md#t-00-06-46) (Citation) **Candace Owens**: ["The defendants included four DGSE officers, three police officers, six..."](/statements/statement-c26ddf2a89c7.md)
+  - Also about: [Direction générale de la sécurité extérieure](/entities/org-dgse.md), [Athanor lodge](/entities/org-athanor-lodge.md)
+
+- [00:07:52](/episodes/ep-7ERqbYElOfs.md#t-00-07-30) (Citation) **Candace Owens**: ["The case began with a failed July 2020 contract killing in which two m..."](/statements/statement-7edf1b571499.md)
+  - Also about: [Marie-Hélène Dini](/entities/person-marie-helene-dini.md)
+
+- [00:09:00](/episodes/ep-7ERqbYElOfs.md#t-00-09-00) (Citation) **Candace Owens**: ["The two arrested men told investigators they believed they had been as..."](/statements/statement-0087554e0b8e.md)
+  - Also about: [Marie-Hélène Dini](/entities/person-marie-helene-dini.md), [Mossad](/entities/org-mossad.md)
+
+- [00:10:09](/episodes/ep-7ERqbYElOfs.md#t-00-09-39) (Accusation) **Anonymous Source #2 (Ep 7ERqbYElOfs)** (via read message): ["The Israeli government covered up a 1950s story about Brigitte Macron'..."](/statements/statement-7f432fc03ef1.md)
+  - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md), [Israel](/entities/gpe-israel.md), [Nazism](/entities/concept-nazism.md)
+
+- [00:11:27](/episodes/ep-7ERqbYElOfs.md#t-00-11-27) (Claim) **Candace Owens**: ["Daniel Beaulieu was impaired after an apparent suicide attempt in pris..."](/statements/statement-57fb4b6211b4.md)
+  - Also about: [Daniel Beaulieu](/entities/person-daniel-beaulieu.md)
+
+- [00:14:46](/episodes/ep-7ERqbYElOfs.md#t-00-14-46) (Accusation) **Anonymous Source #1 (Ep 7ERqbYElOfs)** (via read message): ["A source inside the French government said the GIGN intervention group..."](/statements/statement-aed830dfceb1.md)
+  - Also about: [Groupe d'intervention de la Gendarmerie nationale](/entities/org-gign.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Jean-Michel Trogneux"
-description: "Jean-Michel Trogneux (People) - 20 mentions"
+description: "Jean-Michel Trogneux (People) - 21 mentions"
 id: "person-jean-michel-trogneux"
 type: "PERSON"
 aliases:
@@ -24,9 +24,9 @@ Source: [Picture doesn't prove baseless conspiracy theory Brigitte Macron is a m
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-jean-michel-trogneux-t-00-56-19">2025-10-28 · 00:56:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-person-jean-michel-trogneux-t-00-04-42">2026-03-03 · 00:05:00</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-jean-michel-trogneux-t-00-09-34">2026-04-10 · 00:10:06</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -44,6 +44,7 @@ Source: [Picture doesn't prove baseless conspiracy theory Brigitte Macron is a m
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-jean-michel-trogneux-t-00-00-01" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 10 mentions" title="2025-12-01 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-jean-michel-trogneux-t-00-23-18" style="--pulse-height:10%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-person-jean-michel-trogneux-t-00-04-42" style="--pulse-height:10%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-jean-michel-trogneux-t-00-09-34" style="--pulse-height:10%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [Picture doesn't prove baseless conspiracy theory Brigitte Macron is a m
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-jean-michel-trogneux-t-00-00-01) | 10 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-jean-michel-trogneux-t-00-23-18) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-jean-michel-trogneux-t-00-04-42) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-jean-michel-trogneux-t-00-09-34) | 1 |
 
 </details>
 </section>
@@ -63,7 +65,15 @@ Source: [Picture doesn't prove baseless conspiracy theory Brigitte Macron is a m
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:10:06](/episodes/ep-ZIH5-V6UPkg.md#ent-person-jean-michel-trogneux-t-00-09-34)**
+> "Did you date Jean-Michel Trogneau? Are you gay? Why are you so obsessed ca..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1 mentions)</summary>

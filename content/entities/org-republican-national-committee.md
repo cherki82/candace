@@ -1,6 +1,6 @@
 ---
 title: "Republican National Committee"
-description: "Republican National Committee (Organizations) - 2 mentions"
+description: "Republican National Committee (Organizations) - 4 mentions"
 id: "org-republican-national-committee"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [Republican National Committee | RNC](https://www.rnc.org/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-republican-national-committee-t-00-43-49">2026-01-22 · 00:44:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-republican-national-committee-t-00-43-49">2026-01-22 · 00:44:25</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-org-republican-national-committee-t-00-45-36">2026-04-01 · 00:45:45</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,12 +38,14 @@ Source: [Republican National Committee | RNC](https://www.rnc.org/)
 <p>Highest activity: <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-republican-national-committee-t-00-43-49">Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-republican-national-committee-t-00-43-49" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-republican-national-committee-t-00-45-36" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-republican-national-committee-t-00-43-49) | 2 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-republican-national-committee-t-00-45-36) | 2 |
 
 </details>
 </section>
@@ -51,7 +53,18 @@ Source: [Republican National Committee | RNC](https://www.rnc.org/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2 mentions)</summary>
+
+**[00:45:36](/episodes/ep-rupRLXmSndU.md#ent-org-republican-national-committee-t-00-45-36)**
+> "RNC"
+
+**[00:45:45](/episodes/ep-rupRLXmSndU.md#ent-org-republican-national-committee-t-00-45-36)**
+> "The RNC also refused to recognize Paul's delegates from M..."
+
+</details>
 
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (2 mentions)</summary>
@@ -74,7 +87,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Republican National Committee (1)</strong></summary>
+<summary><strong class="section-title">Statements about Republican National Committee (2)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1)</summary>
+
+- [00:45:36](/episodes/ep-rupRLXmSndU.md#t-00-45-36) (Citation) **Candace Owens**: ["The Republican National Committee changed its convention rules to bind..."](/statements/statement-600b45824157.md)
+  - Also about: [Ron Paul](/entities/person-ron-paul.md), [Maine](/entities/gpe-maine.md)
+
+</details>
 
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1)</summary>

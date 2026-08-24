@@ -1,6 +1,6 @@
 ---
 title: "Pam Bondi"
-description: "Pam Bondi (People) - 14 mentions"
+description: "Pam Bondi (People) - 18 mentions"
 id: "person-pam-bondi"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-pam-bondi-t-00-34-12">2025-09-19 · 00:34:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-pam-bondi-t-00-28-01">2026-03-25 · 00:28:26</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-pam-bondi-t-00-45-32">2026-04-02 · 00:45:46</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -43,6 +43,7 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-pam-bondi-t-00-46-30" style="--pulse-height:25%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-pam-bondi-t-00-06-20" style="--pulse-height:25%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-pam-bondi-t-00-28-01" style="--pulse-height:25%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-pam-bondi-t-00-00-00" style="--pulse-height:100%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 4 mentions" title="2026-04-02 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-pam-bondi-t-00-46-30) | 1 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-pam-bondi-t-00-06-20) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-pam-bondi-t-00-28-01) | 1 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-pam-bondi-t-00-00-00) | 4 |
 
 </details>
 </section>
@@ -63,7 +65,24 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (4 mentions)</summary>
+
+**[00:00:00](/episodes/ep-q1NRQQAYS_Q.md#ent-person-pam-bondi-t-00-00-00)**
+> "Pam Bondi has been fired."
+
+**[00:44:55](/episodes/ep-q1NRQQAYS_Q.md#ent-person-pam-bondi-t-00-44-43)**
+> "...ant to honorably mention that Pam Bondi was fired."
+
+**[00:45:03](/episodes/ep-q1NRQQAYS_Q.md#ent-person-pam-bondi-t-00-44-43)**
+> "...cement on social media saying Pam Bondi is a great American patriot, a loyal friend who f..."
+
+**[00:45:46](/episodes/ep-q1NRQQAYS_Q.md#ent-person-pam-bondi-t-00-45-32)**
+> "Please do not put that on Pam Bondi. Pam Bondi was doing as she was instructed to do ..."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
@@ -165,6 +184,30 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 </details>
 
 <details>
+<summary>Fired By (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:46:57](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-50): “And so, yeah. This is not the reason she's being fired. We then learn actually that the reason that Trump fired her is because he's upset with her because he believes that she is the one that tipped off Eric Swalwell regarding an investigation into his relationship.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Formerly Worked For (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:45:03](/episodes/ep-q1NRQQAYS_Q.md#t-00-44-43): “Trump made the announcement on social media saying Pam Bondi is a great American patriot, a loyal friend who faithfully served as my attorney general over the past year.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Interviewed By (1)</summary>
 
 - **[Katie Miller](/entities/person-katie-miller.md)**
@@ -177,12 +220,26 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:47:48](/episodes/ep-Wjul6YV6izo.md#t-00-47-40): “Pam Bondi trying to grab headlines was equally as annoying and who also kind of needs a swirly, if we're being honest, ... Shut up, Pam Bondi. Just shut up.”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** fired this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:46:57](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-50): “And so, yeah. This is not the reason she's being fired. We then learn actually that the reason that Trump fired her is because he's upset with her because he believes that she is the one that tipped off Eric Swalwell regarding an investigation into his relationship.”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:45:03](/episodes/ep-q1NRQQAYS_Q.md#t-00-44-43): “Trump made the announcement on social media saying Pam Bondi is a great American patriot, a loyal friend who faithfully served as my attorney general over the past year.”
 
 </details>
 
@@ -233,7 +290,26 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pam Bondi (7)</strong></summary>
+<summary><strong class="section-title">Statements about Pam Bondi (12)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (5)</summary>
+
+- [00:00:00](/episodes/ep-q1NRQQAYS_Q.md#t-00-00-00) (Claim) **Candace Owens**: ["Pam Bondi has been fired."](/statements/statement-451810050ba6.md)
+
+- [00:45:03](/episodes/ep-q1NRQQAYS_Q.md#t-00-44-43) (Claim) **Donald J. Trump** (via quoted post): ["Pam Bondi would leave the attorney-general role for a private-sector j..."](/statements/statement-0223ff995031.md)
+  - Also about: [Todd Blanche](/entities/person-todd-blanche.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:45:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-45-32) (Accusation) **Candace Owens**: ["Pam Bondi acted on Donald Trump's instructions regarding the Epstein f..."](/statements/statement-2d7928bb1128.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+- [00:46:06](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-06) (Accusation) **Candace Owens**: ["Officials released a deepfake video of Jeffrey Epstein in his cell, th..."](/statements/statement-318a4f1575a4.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [FBI](/entities/org-fbi.md), [Kash Patel](/entities/person-kash-patel.md)
+
+- [00:46:57](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-50) (Accusation) **Candace Owens**: ["Donald Trump fired Pam Bondi because he believed she tipped off Eric S..."](/statements/statement-3d9873b599c9.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Eric Swalwell](/entities/person-eric-swalwell.md), [Christine Fang](/entities/person-christine-fang.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (3)</summary>

@@ -1,0 +1,23 @@
+---
+title: "Mitt Romney political ally of Benjamin Netanyahu"
+description: "Evidence for the relationship: Mitt Romney political ally of Benjamin Netanyahu"
+relationship_id: "rel-7f11d2ce82aa"
+subject: "person-mitt-romney"
+predicate: "political ally of"
+object: "person-benjamin-netanyahu"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Mitt Romney](/entities/person-mitt-romney) political ally of [Benjamin Netanyahu](/entities/person-benjamin-netanyahu)
+
+### Evidence (1 mentions)
+
+**[Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU)**
+
+- [00:03:46](/episodes/ep-rupRLXmSndU#t-00-03-46): _I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi Netanyahu, their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group._
+
+### Related
+
+- [Mitt Romney](/entities/person-mitt-romney)
+- [Benjamin Netanyahu](/entities/person-benjamin-netanyahu)

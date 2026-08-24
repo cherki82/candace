@@ -1,6 +1,6 @@
 ---
 title: "Dose"
-description: "Dose (Organizations) - 13 mentions"
+description: "Dose (Organizations) - 17 mentions"
 id: "org-dose"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-dose-t-00-41-05">2026-01-06 · 00:41:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-dose-t-00-24-16">2026-03-06 · 00:24:16</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-org-dose-t-00-28-11">2026-04-13 · 00:28:11</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -38,6 +38,7 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-dose-t-00-41-05" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 5 mentions" title="2026-01-06 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-dose-t-00-26-09" style="--pulse-height:80%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 4 mentions" title="2026-02-27 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-dose-t-00-22-59" style="--pulse-height:80%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 4 mentions" title="2026-03-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-dose-t-00-27-05" style="--pulse-height:80%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 4 mentions" title="2026-04-13 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-dose-t-00-41-05) | 5 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-dose-t-00-26-09) | 4 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-dose-t-00-22-59) | 4 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-dose-t-00-27-05) | 4 |
 
 </details>
 </section>
@@ -53,7 +55,24 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (4 mentions)</summary>
+
+**[00:27:25](/episodes/ep-eLgD5yUVbko.md#ent-org-dose-t-00-27-05)**
+> "about Dose"
+
+**[00:27:39](/episodes/ep-eLgD5yUVbko.md#ent-org-dose-t-00-27-39)**
+> "...ted it before problems began? Dose is a powerful all-in-one wellness shot that helps..."
+
+**[00:27:54](/episodes/ep-eLgD5yUVbko.md#ent-org-dose-t-00-27-39)**
+> "...ay long. Their best seller is Dose for your liver, which was formulated to cleanse y..."
+
+**[00:28:11](/episodes/ep-eLgD5yUVbko.md#ent-org-dose-t-00-28-11)**
+> "One shot of dose for your liver is equivalent to 17 shots of turme..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Crazy In Love | Episode 7 (4 mentions)</summary>

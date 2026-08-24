@@ -1,6 +1,6 @@
 ---
 title: "Justin Streiff"
-description: "Justin Streiff (People) - 61 mentions"
+description: "Justin Streiff (People) - 67 mentions"
 id: "person-justin-streiff"
 type: "PERSON"
 aliases:
@@ -25,10 +25,10 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-21-13">2025-09-25 · 00:06:45</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-justin-streiff-t-02-46-50">2026-08-14 · 02:46:56</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>61</strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>67</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Statements about</span><strong>20</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -58,6 +58,9 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-justin-streiff-t-00-19-47" style="--pulse-height:15%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-justin-streiff-t-00-12-33" style="--pulse-height:23%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 3 mentions" title="2026-03-25 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-justin-streiff-t-00-13-58" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-justin-streiff-t-00-21-01" style="--pulse-height:8%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-justin-streiff-t-00-07-25" style="--pulse-height:31%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 4 mentions" title="2026-03-31 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-justin-streiff-t-00-05-43" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-justin-streiff-t-02-46-50" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -85,6 +88,9 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-justin-streiff-t-00-19-47) | 2 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-justin-streiff-t-00-12-33) | 3 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-justin-streiff-t-00-13-58) | 1 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-justin-streiff-t-00-21-01) | 1 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-justin-streiff-t-00-07-25) | 4 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-justin-streiff-t-00-05-43) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-justin-streiff-t-02-46-50) | 1 |
 
 </details>
@@ -93,13 +99,46 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (61)</strong></summary>
+<summary><strong class="section-title">Raw mentions (67)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[02:46:56](/episodes/ep-nPhCKwJ6ye8.md#ent-person-justin-streiff-t-02-46-50)**
 > "her and Justin Strife."
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:06:15](/episodes/ep-q1NRQQAYS_Q.md#ent-person-justin-streiff-t-00-05-43)**
+> "Justin Strife"
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (4 mentions)</summary>
+
+**[00:07:25](/episodes/ep-UYkXV9mYbT4.md#ent-person-justin-streiff-t-00-07-25)**
+> "...y next day on September 20th, Justin Strife was contacting my husband several times wh..."
+
+**[00:07:37](/episodes/ep-UYkXV9mYbT4.md#ent-person-justin-streiff-t-00-07-25)**
+> "...now what's going on, but like Justin Strife is hitting me up. He's asking me if he rec..."
+
+**[00:08:03](/episodes/ep-UYkXV9mYbT4.md#ent-person-justin-streiff-t-00-08-03)**
+> "... that was placing pressure on Justin Streif and Frank Carney to determine whether or n..."
+
+**[00:08:17](/episodes/ep-UYkXV9mYbT4.md#ent-person-justin-streiff-t-00-08-03)**
+> "...The FBI was on the phone with Justin Streif, Frank Carney, and they were apparently sp..."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1 mentions)</summary>
+
+**[00:21:01](/episodes/ep-7ERqbYElOfs.md#ent-person-justin-streiff-t-00-21-01)**
+> "You know, it's just super interesting because Justin (Justin Streiff) told me he arranged all the planes that day. So I don't know how Mikey (Michael McCoy) arranged what Justin (Justin Streiff) arranged or who's telling the truth doesn't even matter anymore."
 
 </details>
 
@@ -538,7 +577,23 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Justin Streiff (18)</strong></summary>
+<summary><strong class="section-title">Statements about Justin Streiff (20)</strong></summary>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1)</summary>
+
+- [00:08:17](/episodes/ep-UYkXV9mYbT4.md#t-00-08-03) (Claim) **Candace Owens**: ["The FBI was on the phone with Justin Streiff and Frank Carni about whe..."](/statements/statement-53b46473615f.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Frank Carni](/entities/person-frank-carni.md)
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1)</summary>
+
+- [00:21:01](/episodes/ep-7ERqbYElOfs.md#t-00-21-01) (Claim) **Candace Owens** (via paraphrase): ["Justin Streiff told Candace Owens that he arranged all the planes on t..."](/statements/statement-a16bbd080976.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>

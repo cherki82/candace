@@ -1,6 +1,6 @@
 ---
 title: "Artificial intelligence"
-description: "Artificial intelligence (Concepts) - 45 mentions"
+description: "Artificial intelligence (Concepts) - 55 mentions"
 id: "concept-artificial-intelligence"
 type: "CONCEPT"
 aliases:
@@ -22,11 +22,11 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#t-00-11-36">2026-01-05 · 00:12:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#t-00-39-43">2026-03-26 · 00:39:43</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>45</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#t-01-00-26">2026-04-13 · 01:00:38</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>55</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -53,6 +53,9 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 <a href="/episodes/ep-B9TyCs-6o_0.md#t-00-37-38" style="--pulse-height:88%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 7 mentions" title="2026-03-23 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#t-00-50-42" style="--pulse-height:12%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#t-00-02-58" style="--pulse-height:38%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 3 mentions" title="2026-03-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#t-00-46-27" style="--pulse-height:12%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-17-13" style="--pulse-height:50%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 4 mentions" title="2026-04-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#t-00-15-53" style="--pulse-height:62%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 5 mentions" title="2026-04-13 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -76,6 +79,9 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#t-00-37-38) | 7 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#t-00-50-42) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#t-00-02-58) | 3 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#t-00-46-27) | 1 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-17-13) | 4 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#t-00-15-53) | 5 |
 
 </details>
 </section>
@@ -83,7 +89,52 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (5 mentions)</summary>
+
+**[00:16:17](/episodes/ep-eLgD5yUVbko.md#t-00-15-53)**
+> "used an AI program"
+
+**[00:14:24](/episodes/ep-eLgD5yUVbko.md#t-00-14-24)**
+> "...ong as you don't do the weird AI thing."
+
+**[00:14:51](/episodes/ep-eLgD5yUVbko.md#t-00-14-34)**
+> "...re they've pitched me on like AI Candace hologram Candace because it helps you not..."
+
+**[01:00:26](/episodes/ep-eLgD5yUVbko.md#t-01-00-26)**
+> "... and that he thought that the AI image was suggesting that he is a healer and a do..."
+
+**[01:00:38](/episodes/ep-eLgD5yUVbko.md#t-01-00-26)**
+> "...to just saying I'm sorry this AI image was not appropriate it went out people were..."
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (4 mentions)</summary>
+
+**[00:17:22](/episodes/ep-q1NRQQAYS_Q.md#t-00-17-13)**
+> "AI"
+
+**[00:18:28](/episodes/ep-q1NRQQAYS_Q.md#t-00-17-56)**
+> "...tion, why are you bringing up AI? And am I hallucinating or does Turning Point reg..."
+
+**[00:18:38](/episodes/ep-q1NRQQAYS_Q.md#t-00-18-38)**
+> "...ed about people thinking it's AI? They even share outdated videos and try to prete..."
+
+**[00:18:54](/episodes/ep-q1NRQQAYS_Q.md#t-00-18-38)**
+> "...will think it's a hologram or AI or an Israeli actor."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1 mentions)</summary>
+
+**[00:46:42](/episodes/ep-7ERqbYElOfs.md#t-00-46-27)**
+> "Their system uses smart AI technology to monitor the market 24-7, automatically adjusting your portfolio to help manage risk and protect your gains when things get volatile."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (3 mentions)</summary>
@@ -320,7 +371,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Artificial intelligence (4)</strong></summary>
+<summary><strong class="section-title">Statements about Artificial intelligence (6)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2)</summary>
+
+- [00:14:10](/episodes/ep-eLgD5yUVbko.md#t-00-13-39) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet said Turning Point USA had been pitched multiple times o..."](/statements/statement-516fcc69ba15.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:16:38](/episodes/ep-eLgD5yUVbko.md#t-00-15-53) (Accusation) **Candace Owens**: ["Candace Owens suggested that the released Aspen succession audio may h..."](/statements/statement-d983a9e98b02.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>

@@ -1,24 +1,32 @@
 ---
 title: "HIPAA"
-description: "HIPAA (Laws & Legislation) - 4 mentions"
+description: "HIPAA (Laws & Legislation) - 5 mentions"
 id: "law-hipaa"
 type: "LAW"
 aliases:
   - "Health Insurance Portability and Accountability Act"
   - "HIPAA"
+categories:
+  - "United States health privacy law"
 ---
 
 _Type: Laws & Legislation_
 
 **Also known as:** Health Insurance Portability and Accountability Act, HIPAA
 
+**Categories:** United States health privacy law
+
 > **Possibly overlapping entity records:** [Health Insurance Portability and Accountability Act](/entities/law-health-insurance-portability-accountability-act). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> HHS identifies HIPAA as the Health Insurance Portability and Accountability Act of 1996 and describes its privacy and security rules.
+Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-professionals/index.html)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-law-hipaa-t-00-13-27">2025-12-16 · 00:03:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-law-hipaa-t-00-05-31">2025-12-17 · 00:05:31</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-law-hipaa-t-00-39-48">2026-04-02 · 00:40:10</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -31,6 +39,7 @@ _Type: Laws & Legislation_
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-es7PWdFGoFI.md#ent-law-hipaa-t-00-13-27" style="--pulse-height:100%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 2 mentions" title="2025-12-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-law-hipaa-t-00-04-09" style="--pulse-height:100%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-law-hipaa-t-00-39-48" style="--pulse-height:50%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -38,6 +47,7 @@ _Type: Laws & Legislation_
 |---|---|---:|
 | 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-law-hipaa-t-00-13-27) | 2 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-law-hipaa-t-00-04-09) | 2 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-law-hipaa-t-00-39-48) | 1 |
 
 </details>
 </section>
@@ -45,7 +55,15 @@ _Type: Laws & Legislation_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:40:10](/episodes/ep-q1NRQQAYS_Q.md#ent-law-hipaa-t-00-39-48)**
+> "HIPAA"
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>

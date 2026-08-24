@@ -4,9 +4,10 @@ description: "\"Erika Kirk's mother was not in the hospital on September 8th, Se
 statement_id: "statement-4063bc832e03"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -33,7 +34,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The blanket claim conflicts with contemporaneous New York Times reporting based on Erika Kirk account that she was in her mother hospital room on September 10. No medical or hospital record was found to conclusively resolve the conflict or the September 8 and 9 dates.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Erika Kirk Grants Candid Interview to NYT](https://www.mediaite.com/media/news/erika-kirk-grants-candid-interview-to-nyt-in-advance-of-massive-memorial-service-for-charlie/)
+
+*Verified: 2026-08-24T10:57:39.299307*
 
 ---
 

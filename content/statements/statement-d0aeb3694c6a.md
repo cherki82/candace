@@ -23,13 +23,23 @@ type: "accusation"
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
 - [Lori Frantzve](/entities/person-lori-frantzve.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2
 
 **Episode:** [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md)
 **Timestamp:** [00:39:42](/episodes/ep-1IY2oD-_xVA.md#t-00-39-15) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2382);return false;">Play</a>
 
 > is also without question willing to lie to make her mother look better. I mean, to say I grew up with a single mother is not true.
+
+### 2. Trump Attacks The Pope. The Tyler Robinson Narrative Collaps...
+
+**Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
+**Timestamp:** [00:17:09](/episodes/ep-eLgD5yUVbko.md#t-00-16-38) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1029);return false;">Play</a>
+
+> And to add to that totally unlikely scenario, they also kept insisting immediately and through various interviews that Erica was raised by a single mother, something that is objectively untrue. We have proven that a thousand times over it is objectively untrue for them to even suggest that Erica was raised by a single mother. It's not true.
 
 ## Verification
 

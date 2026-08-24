@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Erika Kirk](/entities/person-erika-kirk) widow of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (29 mentions)
+### Evidence (33 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -28,6 +28,10 @@ object: "person-charlie-kirk"
 **[EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg)**
 
 - [00:12:50](/episodes/ep-5-HUyv9LyMg#t-00-12-50): _foist Erika Kirk upon the masses, right? The widow_
+
+**[The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs)**
+
+- [00:33:33](/episodes/ep-7ERqbYElOfs#t-00-33-33): _I feel the opposite of how Erika Kirk felt sitting next to Bari Weiss. With everything I have collected, I feel the exact opposite as Charlie Kirk's wife._
 
 **[EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM)**
 
@@ -73,6 +77,10 @@ object: "person-charlie-kirk"
 
 - [00:08:58](/episodes/ep-SgVcnx4Oh30#t-00-08-58): _it is not every day that you see the widow of Charlie Kirk accompanied by a man in clerical robes at an airport terminal._
 
+**[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
+
+- [00:05:28](/episodes/ep-UYkXV9mYbT4#t-00-05-28): _He was telling me he was trying to save Erica from seeing her husband die, but yet this was the most mild shot of all. There was not a drop of blood on Charlie's back as he went down._
+
 **[AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo)**
 
 - [00:10:13](/episodes/ep-Wjul6YV6izo#t-00-10-13): _36 hours after Charlie was assassinated? Maybe it was 48 hours after he was assassinated. Take a listen. ... but my husband's favorite word in the English language was earn._
@@ -92,6 +100,10 @@ object: "person-charlie-kirk"
 **[Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g)**
 
 - [00:32:42](/episodes/ep-_vg7ucP1E0g#t-00-32-42): _There may have been this billion dollar motive to have Charlie Kirk killed that Erika (Erika Kirk) lied about the fact her husband texted multiple people the night before he said he feared he was going to be killed. His overriding point is that._
+
+**[Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko)**
+
+- [00:10:17](/episodes/ep-eLgD5yUVbko#t-00-10-17): _That's a totally normal question to ask that Charlie declared that he wanted to appoint Erica as the CEO and the chairman of his company. Didn't pass the sniff test for obvious reasons. Okay, number one, no husband ever, no man ever would say if I am killed on the job, I want my wife to assume the dangerous position that I just occupied, right?_
 
 **[Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8)**
 
@@ -116,6 +128,10 @@ object: "person-charlie-kirk"
 **[An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ)**
 
 - [00:01:11](/episodes/ep-mFuno0TuuQQ#t-00-01-11): _I want there to be no hesitation in understanding of what happened to my husband that day. ... you've met with him in the wake of Charlie (Charlie Kirk)'s death._
+
+**[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
+
+- [00:14:57](/episodes/ep-q1NRQQAYS_Q#t-00-14-57): _They were on the same wavelength. I saw how much that relationship, I didn't know Erica as well prior to Charlie's death, but especially in the wake of it, I saw how much everything he'd done meant to her and how completely committed she was._
 
 **[Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno)**
 

@@ -1,6 +1,6 @@
 ---
 title: "Iran"
-description: "Iran (Places) - 134 mentions"
+description: "Iran (Places) - 154 mentions"
 id: "gpe-iran"
 type: "GPE"
 aliases:
@@ -24,10 +24,10 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-gpe-iran-t-00-35-19">2025-09-22 · 00:35:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54">2026-08-14 · 00:28:54</a></strong></div>
-<div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>134</strong></div>
+<div><span>Episodes</span><strong>32</strong></div>
+<div><span>Mentions</span><strong>154</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>52</strong></div>
+<div><span>Statements about</span><strong>63</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -61,6 +61,12 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-iran-t-00-02-04" style="--pulse-height:17%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 4 mentions" title="2026-03-23 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-iran-t-00-36-50" style="--pulse-height:13%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 3 mentions" title="2026-03-25 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-iran-t-00-27-45" style="--pulse-height:9%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-iran-t-00-25-03" style="--pulse-height:13%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-gpe-iran-t-00-50-50" style="--pulse-height:8%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-iran-t-00-02-06" style="--pulse-height:17%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 4 mentions" title="2026-04-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-18-38" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-iran-t-00-03-51" style="--pulse-height:30%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 7 mentions" title="2026-04-10 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-iran-t-00-51-58" style="--pulse-height:17%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 4 mentions" title="2026-04-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -92,6 +98,12 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-iran-t-00-02-04) | 4 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-iran-t-00-36-50) | 3 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-iran-t-00-27-45) | 2 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-iran-t-00-25-03) | 3 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-iran-t-00-50-50) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-gpe-iran-t-00-02-06) | 4 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-18-38) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-iran-t-00-03-51) | 7 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-gpe-iran-t-00-51-58) | 4 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54) | 1 |
 
 </details>
@@ -100,13 +112,103 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (134)</strong></summary>
+<summary><strong class="section-title">Raw mentions (154)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:28:54](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54)**
 > "opposed the Iranian war"
+
+</details>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (4 mentions)</summary>
+
+**[00:51:58](/episodes/ep-eLgD5yUVbko.md#ent-gpe-iran-t-00-51-58)**
+> "take things from Iran"
+
+**[00:53:29](/episodes/ep-eLgD5yUVbko.md#ent-gpe-iran-t-00-53-07)**
+> "...a pope who thinks it's OK for Iran to have a nuclear weapon."
+
+**[01:02:50](/episodes/ep-eLgD5yUVbko.md#ent-gpe-iran-t-01-02-50)**
+> "...than Trump has presented that Iran is a threat to the USA."
+
+**[01:02:57](/episodes/ep-eLgD5yUVbko.md#ent-gpe-iran-t-01-02-50)**
+> "...ly crazy that you keep saying Iran is a threat to the USA."
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (7 mentions)</summary>
+
+**[00:04:12](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-iran-t-00-03-51)**
+> "...hey think it is wonderful for Iran, the number one state sponsor of terror, to have ..."
+
+**[00:12:12](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-iran-t-00-12-12)**
+> "... and strength in not allowing Iran to have nuclear weapons. MAGA is about making Ame..."
+
+**[00:16:31](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-iran-t-00-16-19)**
+> "...bove him, convincing him that Iran represents an imminent threat which can be crippl..."
+
+**[00:19:57](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-iran-t-00-19-57)**
+> "...n files and being at war with Iran for Israel. They didn't leave MAGA. MAGA left the..."
+
+**[00:25:12](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-iran-t-00-25-12)**
+> "... oh okay here we are going to Iran despite the fact that nobody wants to go, not eve..."
+
+**[00:27:01](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-iran-t-00-26-31)**
+> "...ent Trump attempts to end the Iran war."
+
+**[00:48:35](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-iran-t-00-48-35)**
+> "Trump, you're amazing and Iran is bad and scary and we're going to get nukes wit..."
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:18:38](/episodes/ep-q1NRQQAYS_Q.md#t-00-18-38)**
+> "Iranian"
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (4 mentions)</summary>
+
+**[00:02:06](/episodes/ep-rupRLXmSndU.md#ent-gpe-iran-t-00-02-06)**
+> "Iran"
+
+**[00:02:29](/episodes/ep-rupRLXmSndU.md#ent-gpe-iran-t-00-02-06)**
+> "...ar in the Middle East, war in Iran, and Bibi is doing the most, right?"
+
+**[00:20:18](/episodes/ep-rupRLXmSndU.md#ent-gpe-iran-t-00-19-56)**
+> "...strated with Charlie over the Iran war, I found myself wondering, and then I realize..."
+
+**[00:35:28](/episodes/ep-rupRLXmSndU.md#ent-gpe-iran-t-00-35-28)**
+> "... Trump, do not go to war with Iran, how many players were involved?"
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
+
+**[00:50:50](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-iran-t-00-50-50)**
+> "...l Charlie on the basis of the Iran war."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (3 mentions)</summary>
+
+**[00:25:24](/episodes/ep-7ERqbYElOfs.md#ent-gpe-iran-t-00-25-03)**
+> "Okay, this is how it works. Charlie (Charlie Kirk) was taken out. He was stepping on the toes of very powerful people who were going to make a lot of money off of this Iran war."
+
+**[00:14:01](/episodes/ep-7ERqbYElOfs.md#ent-gpe-iran-t-00-14-01)**
+> "...was the first casualty of the Iran war."
+
+**[00:25:34](/episodes/ep-7ERqbYElOfs.md#ent-gpe-iran-t-00-25-03)**
+> "...to put boots on the ground in Iran."
 
 </details>
 
@@ -723,7 +825,65 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Iran (52)</strong></summary>
+<summary><strong class="section-title">Statements about Iran (63)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2)</summary>
+
+- [00:51:58](/episodes/ep-eLgD5yUVbko.md#t-00-51-17) (Opinion) **Candace Owens**: ["Candace Owens said the war against Iran is unjust and morally contempt..."](/statements/statement-1fa070e7f5a4.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Middle East](/entities/gpe-middle-east.md), [United States](/entities/gpe-united-states.md)
+
+- [00:52:55](/episodes/ep-eLgD5yUVbko.md#t-00-52-23) (Opinion) **Donald J. Trump** (via quoted post): ["Pope Leo XIV is weak on crime and terrible for foreign policy, and wro..."](/statements/statement-131150fb7620.md)
+  - Also about: [Pope Leo XIV](/entities/person-pope-leo-xiv.md)
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (4)</summary>
+
+- [00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51) (Opinion) **Donald J. Trump** (via quoted post): ["Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have fought..."](/statements/statement-6e15836da95b.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:12:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-12-12) (Opinion) **Donald J. Trump** (via quoted post): ["MAGA is about strength and not allowing Iran to have nuclear weapons."](/statements/statement-36571d39f9e0.md)
+  - Also about: [MAGA movement](/entities/concept-maga-movement.md)
+
+- [00:25:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-12) (Accusation) **Candace Owens**: ["Donald Trump promised no new wars in the Middle East but now pursues c..."](/statements/statement-8eb161990c66.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Middle East](/entities/gpe-middle-east.md)
+
+- [00:37:43](/episodes/ep-ZIH5-V6UPkg.md#t-00-37-43) (Opinion) **Candace Owens**: ["The first casualty of the Iranian war was Charlie Kirk, whom Candace O..."](/statements/statement-3c65604ff9a1.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1)</summary>
+
+- [00:18:38](/episodes/ep-q1NRQQAYS_Q.md#t-00-18-38) (Accusation) **Candace Owens**: ["Turning Point USA has shared outdated Charlie Kirk videos and misrepre..."](/statements/statement-208d5263a9b3.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2)</summary>
+
+- [00:02:06](/episodes/ep-rupRLXmSndU.md#t-00-01-34) (Opinion) **Candace Owens**: ["The offer to take Turning Point USA to the next level may have been gu..."](/statements/statement-5215789fbfe8.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:02:29](/episodes/ep-rupRLXmSndU.md#t-00-02-06) (Accusation) **Candace Owens**: ["Turning Point USA is trying to reimagine Charlie Kirk's legacy as supp..."](/statements/statement-8ac4073f16d4.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Middle East](/entities/gpe-middle-east.md)
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (2)</summary>
+
+- [00:25:24](/episodes/ep-7ERqbYElOfs.md#t-00-25-03) (Accusation) **Candace Owens**: ["Charlie Kirk was killed because he had challenged powerful people who ..."](/statements/statement-e1e64e6221f9.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:25:34](/episodes/ep-7ERqbYElOfs.md#t-00-25-03) (Claim) **Candace Owens**: ["Donald Trump was sending U.S. Marines into Iran for Benjamin Netanyahu..."](/statements/statement-a668190d0262.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md)
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (2)</summary>

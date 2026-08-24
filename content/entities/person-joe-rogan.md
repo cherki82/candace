@@ -1,6 +1,6 @@
 ---
 title: "Joe Rogan"
-description: "Joe Rogan (People) - 25 mentions"
+description: "Joe Rogan (People) - 26 mentions"
 id: "person-joe-rogan"
 type: "PERSON"
 categories:
@@ -19,8 +19,8 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-person-joe-rogan-t-00-02-20">2025-10-27 · 00:02:20</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-rogan-t-02-57-14">2026-08-14 · 02:57:14</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -40,6 +40,7 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-joe-rogan-t-00-40-17" style="--pulse-height:50%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-joe-rogan-t-00-26-45" style="--pulse-height:50%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-joe-rogan-t-00-26-31" style="--pulse-height:25%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-joe-rogan-t-00-06-43" style="--pulse-height:25%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-rogan-t-00-24-41" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -55,6 +56,7 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-joe-rogan-t-00-40-17) | 2 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-joe-rogan-t-00-26-45) | 2 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-joe-rogan-t-00-26-31) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-joe-rogan-t-00-06-43) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-rogan-t-00-24-41) | 4 |
 
 </details>
@@ -63,7 +65,7 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -79,6 +81,14 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 
 **[02:57:14](/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-rogan-t-02-57-14)**
 > "joe rogan and you're like like soft explaining away why eri..."
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:07:09](/episodes/ep-ZIH5-V6UPkg.md#ent-person-joe-rogan-t-00-06-43)**
+> "...at what you don't comprehend. Joe Rogan is not going to do Fox News hits."
 
 </details>
 

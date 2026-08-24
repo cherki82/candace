@@ -1,6 +1,6 @@
 ---
 title: "Deoxyribonucleic acid"
-description: "Deoxyribonucleic acid (Concepts) - 26 mentions"
+description: "Deoxyribonucleic acid (Concepts) - 38 mentions"
 id: "concept-dna"
 type: "CONCEPT"
 aliases:
@@ -23,10 +23,10 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-dna-t-00-02-59">2026-02-04 · 00:03:00</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-dna-t-03-32-34">2026-08-14 · 03:32:48</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,6 +38,9 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-dna-t-00-02-59" style="--pulse-height:26%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 5 mentions" title="2026-02-04 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-dna-t-00-58-52" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-concept-dna-t-00-45-39" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-concept-dna-t-00-16-50" style="--pulse-height:37%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 7 mentions" title="2026-03-31 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-concept-dna-t-00-17-13" style="--pulse-height:16%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 3 mentions" title="2026-04-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-dna-t-00-47-08" style="--pulse-height:11%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-dna-t-00-43-25" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 19 mentions" title="2026-08-14 · 19 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -47,6 +50,9 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-concept-dna-t-00-02-59) | 5 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-concept-dna-t-00-58-52) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-concept-dna-t-00-45-39) | 1 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-concept-dna-t-00-16-50) | 7 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-concept-dna-t-00-17-13) | 3 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-concept-dna-t-00-47-08) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-dna-t-00-43-25) | 19 |
 
 </details>
@@ -55,7 +61,7 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (19 mentions)</summary>
@@ -120,6 +126,57 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 </details>
 
 <details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2 mentions)</summary>
+
+**[00:47:24](/episodes/ep-eLgD5yUVbko.md#ent-concept-dna-t-00-47-08)**
+> "a DNA report"
+
+**[00:47:38](/episodes/ep-eLgD5yUVbko.md#ent-concept-dna-t-00-47-08)**
+> "...minary hearing, including the DNA report regarding the rifle found at the scene, wa..."
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (3 mentions)</summary>
+
+**[00:17:13](/episodes/ep-q1NRQQAYS_Q.md#ent-concept-dna-t-00-17-13)**
+> "DNA on a rifle."
+
+**[00:18:04](/episodes/ep-q1NRQQAYS_Q.md#ent-concept-dna-t-00-17-56)**
+> "...condly, we have addressed the DNA on a rifle. Actually, you guys haven't. And I hav..."
+
+**[00:18:14](/episodes/ep-q1NRQQAYS_Q.md#ent-concept-dna-t-00-17-56)**
+> "... were also five other sets of DNA found on the rifle. We know it's Tyler Robinson's..."
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (7 mentions)</summary>
+
+**[00:16:50](/episodes/ep-UYkXV9mYbT4.md#ent-concept-dna-t-00-16-50)**
+> "...t they found Tyler Robinson's DNA on the gun."
+
+**[00:20:54](/episodes/ep-UYkXV9mYbT4.md#ent-concept-dna-t-00-20-47)**
+> "...o include conclusory forensic DNA and ballistics reports authored by the FBI and th..."
+
+**[00:27:22](/episodes/ep-UYkXV9mYbT4.md#ent-concept-dna-t-00-27-01)**
+> "... they are saying they got the DNA. They're just telling us conclusions and we can't..."
+
+**[00:29:39](/episodes/ep-UYkXV9mYbT4.md#ent-concept-dna-t-00-29-32)**
+> "Of the FBI's and the ATF's DNA analysis, including but not limited to validation..."
+
+**[00:32:17](/episodes/ep-UYkXV9mYbT4.md#ent-concept-dna-t-00-32-17)**
+> "...ues exist with respect to the DNA and the ballistics report that the state has indi..."
+
+**[00:32:32](/episodes/ep-UYkXV9mYbT4.md#ent-concept-dna-t-00-32-17)**
+> "...summary, again, just summary, DNA reports produced by the FBI and the ATF indicate ..."
+
+**[00:44:56](/episodes/ep-UYkXV9mYbT4.md#ent-concept-dna-t-00-44-34)**
+> "...nd Georgia's prints on it and DNA on it because our prints carry oil and that's our..."
+
+</details>
+
+<details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>
 
 **[00:45:39](/episodes/ep-SgVcnx4Oh30.md#ent-concept-dna-t-00-45-39)**
@@ -165,7 +222,26 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Deoxyribonucleic acid (2)</strong></summary>
+<summary><strong class="section-title">Statements about Deoxyribonucleic acid (5)</strong></summary>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (2)</summary>
+
+- [00:17:13](/episodes/ep-q1NRQQAYS_Q.md#t-00-17-13) (Accusation) **Blake Neff** (via quoted tweet): ["Candace Owens ignores evidence including DNA on a rifle and Tyler Robi..."](/statements/statement-dc9d47b1fdb2.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:18:14](/episodes/ep-q1NRQQAYS_Q.md#t-00-17-56) (Claim) **Candace Owens**: ["Five other sets of DNA were found on the rifle associated with Tyler R..."](/statements/statement-ba4ef08f9d34.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1)</summary>
+
+- [00:32:32](/episodes/ep-UYkXV9mYbT4.md#t-00-32-17) (Citation) **Candace Owens**: ["FBI and ATF summary DNA reports said minute quantities of DNA recovere..."](/statements/statement-6f05019158ad.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1)</summary>

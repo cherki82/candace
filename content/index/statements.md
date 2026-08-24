@@ -1,11 +1,11 @@
 ---
 title: "Claims & Statements"
-description: "Browse 1866 factual claims and 3271 attributed statements"
+description: "Browse 1969 factual claims and 3512 attributed statements"
 ---
 
 # Claims & Statements
 
-_1866 factual claims within 3271 attributed statements._
+_1969 factual claims within 3512 attributed statements._
 
 [Open the filterable Claims Explorer](/index/claims) to browse claims by date, speaker, entity, and verification outcome.
 
@@ -36,7 +36,7 @@ _1866 factual claims within 3271 attributed statements._
 
 <div class="tab-controls">
   <label for="tab-bytype" class="tab-btn">By Type</label>
-  <label for="tab-byepisode" class="tab-btn">By Episode (86)</label>
+  <label for="tab-byepisode" class="tab-btn">By Episode (92)</label>
 </div>
 
 <style>
@@ -53,7 +53,7 @@ _1866 factual claims within 3271 attributed statements._
 <div class="tab-content tab-content-bytype">
 
 <details open>
-<summary><strong class="section-title">Factual Claims (1866)</strong></summary>
+<summary><strong class="section-title">Factual Claims (1969)</strong></summary>
 
 <details>
 <summary>2026-08-14 · Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (18)</summary>
@@ -169,29 +169,677 @@ _1866 factual claims within 3271 attributed statements._
 </details>
 
 <details>
+<summary>2026-04-13 · Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (9)</summary>
+
+<div class="filter-item">
+
+- [00:12:11](/episodes/ep-eLgD5yUVbko.md#t-00-12-01) [○] **Anonymous Source #1 (Ep eLgD5yUVbko)**: ["Two Turning Point USA donors who attended the Aspen presentation told Candace Ow..."](/statements/statement-dfd940c34f36.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:10](/episodes/ep-eLgD5yUVbko.md#t-00-13-39) [○] **Andrew Kolvet**: ["Andrew Kolvet said Turning Point USA had been pitched multiple times on a "weird..."](/statements/statement-516fcc69ba15.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Artificial intelligence](/entities/concept-artificial-intelligence.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:33](/episodes/ep-eLgD5yUVbko.md#t-00-15-12) [○] **Anonymous Source #1 (Ep eLgD5yUVbko)**: ["The Aspen donors told Candace Owens that Charlie Kirk did not mention Erika Kirk..."](/statements/statement-f9f4e64d6158.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:30:32](/episodes/ep-eLgD5yUVbko.md#t-00-30-22) [○] **Anonymous Source #4 (Ep 2WEHTk0Xewg)**: ["A source with direct knowledge of Tyler Robinson's arrest told Candace Owens tha..."](/statements/statement-5952e7cf3c63.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:13](/episodes/ep-eLgD5yUVbko.md#t-00-31-03) [○] **Anonymous Source #4 (Ep 2WEHTk0Xewg)**: ["The arrest source told Candace Owens that police initially planned to pick Tyler..."](/statements/statement-cb379db076a1.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Warner Valley](/entities/gpe-warner-valley.md)
+
+</div>
+<div class="filter-item">
+
+- [00:41:44](/episodes/ep-eLgD5yUVbko.md#t-00-41-37) [○] **Spencer Cox**: ["Spencer Cox said investigators were shown Discord messages between Tyler Robinso..."](/statements/statement-9e5da808822c.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Discord](/entities/org-discord.md)
+
+</div>
+<div class="filter-item">
+
+- [00:53:57](/episodes/ep-eLgD5yUVbko.md#t-00-53-40) [○] **Donald J. Trump**: ["Donald Trump claimed that Pope Leo XIV was chosen because he was American and th..."](/statements/statement-4b315897c442.md)
+  - About: [Pope Leo XIV](/entities/person-pope-leo-xiv.md), [Donald J. Trump](/entities/person-donald-trump.md), [Catholic Church](/entities/org-catholic-church.md)
+
+</div>
+<div class="filter-item">
+
+- [00:59:47](/episodes/ep-eLgD5yUVbko.md#t-00-59-43) [○] **Candace Owens**: ["Candace Owens said Donald Trump had lost support from the Make America Healthy A..."](/statements/statement-cdcdb0b37222.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Make America Healthy Again](/entities/concept-make-america-healthy-again.md), [Megyn Kelly](/entities/person-megyn-kelly.md)
+
+</div>
+<div class="filter-item">
+
+- [01:01:04](/episodes/ep-eLgD5yUVbko.md#t-01-00-59) [○] **Donald J. Trump**: ["Donald Trump said he posted an AI image because he thought it depicted him as a ..."](/statements/statement-90beac51be54.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [American Red Cross](/entities/org-american-red-cross.md), [Jesus Christ](/entities/person-jesus-christ.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-04-10 · An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (10)</summary>
+
+<div class="filter-item">
+
+- [00:04:41](/episodes/ep-ZIH5-V6UPkg.md#t-00-04-35) [◐] **Donald J. Trump**: ["Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have been thrown off ..."](/statements/statement-96380b58c1d8.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:06](/episodes/ep-ZIH5-V6UPkg.md#t-00-08-45) [✓] **Donald J. Trump**: ["Brigitte Macron is not a man."](/statements/statement-0d0c16a1c0bc.md)
+  - About: [Brigitte Macron](/entities/person-brigitte-macron.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:55](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-55) [✓] **Candace Owens**: ["Donald Trump sat at the side of the table in the White House Situation Room whil..."](/statements/statement-a96ed1eeec64.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [White House](/entities/org-white-house.md)
+
+</div>
+<div class="filter-item">
+
+- [00:26:43](/episodes/ep-ZIH5-V6UPkg.md#t-00-26-31) [○] **Tucker Carlson**: ["Israel used recordings of Bill Clinton and Monica Lewinsky's phone-sex sessions ..."](/statements/statement-1ad2cbf015a8.md)
+  - About: [Israel](/entities/gpe-israel.md), [Bill Clinton](/entities/person-bill-clinton.md), [Monica Lewinsky](/entities/person-monica-lewinsky.md)
+
+</div>
+<div class="filter-item">
+
+- [00:29:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38) [○] **Candace Owens**: ["Charlie Kirk and Andrew Kolvet were present at Donald Trump's meeting tied to Mi..."](/statements/statement-808db6b3cb4f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item">
+
+- [00:30:22](/episodes/ep-ZIH5-V6UPkg.md#t-00-30-22) [◐] **Miriam Adelson**: ["Miriam Adelson wanted Donald Trump, in exchange for $100 million, to allow annex..."](/statements/statement-2ae031f5f3f2.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [West Bank](/entities/gpe-west-bank.md)
+
+</div>
+<div class="filter-item">
+
+- [00:33:21](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54) [○] **Candace Owens**: ["Laura Loomer has been committed multiple times."](/statements/statement-b9ab454b1bd9.md)
+  - About: [Laura Loomer](/entities/person-laura-loomer.md)
+
+</div>
+<div class="filter-item">
+
+- [00:33:38](/episodes/ep-ZIH5-V6UPkg.md#t-00-33-38) [✗] **Candace Owens**: ["Laura Loomer was not bat mitzvahed and is not Jewish."](/statements/statement-85265c9dd8e8.md)
+  - About: [Laura Loomer](/entities/person-laura-loomer.md), [Judaism](/entities/concept-judaism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:34:19](/episodes/ep-ZIH5-V6UPkg.md#t-00-34-19) [✓] **Laura Loomer**: ["Laura Loomer sent Donald Trump a Tucker Carlson clip so the president could see ..."](/statements/statement-854fa1a9f63d.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:56](/episodes/ep-ZIH5-V6UPkg.md#t-00-36-32) [○] **Candace Owens**: ["Jewish Americans and rabbis have written Candace Owens saying she is right about..."](/statements/statement-7272ca9671b8.md)
+  - About: [Jewish people](/entities/concept-jewish-people.md), [Sabbateanism](/entities/concept-sabbateanism.md), [Frankism](/entities/concept-frankism.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-04-02 · SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (26)</summary>
+
+<div class="filter-item">
+
+- [00:00:00](/episodes/ep-q1NRQQAYS_Q.md#t-00-00-00) [✓] **Candace Owens**: ["Pam Bondi has been fired."](/statements/statement-451810050ba6.md)
+  - About: [Pam Bondi](/entities/person-pam-bondi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:02:33](/episodes/ep-q1NRQQAYS_Q.md#t-00-02-10) [◐] **Candace Owens**: ["Tor Qureshi was stationed at Fort Huachuca and trained there using reconnaissanc..."](/statements/statement-c7bf6b2fdab4.md)
+  - About: [Tor Qureshi](/entities/person-tor-qureshi.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:12](/episodes/ep-q1NRQQAYS_Q.md#t-00-05-01) [✓] **Candace Owens**: ["Erika Kirk publicly told Glenn Beck that she had Charlie Kirk's phone and that h..."](/statements/statement-64082b43c55a.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Glenn Beck](/entities/person-glenn-beck.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:20](/episodes/ep-q1NRQQAYS_Q.md#t-00-07-09) [✓] **Candace Owens**: ["Erika Kirk had confirmed that a video showed Charlie Kirk saying, weeks before h..."](/statements/statement-3550ca6c4346.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:35](/episodes/ep-q1NRQQAYS_Q.md#t-00-07-09) [◐] **Candace Owens**: ["Charlie Kirk repeatedly told audiences that women should not aspire to climb the..."](/statements/statement-fe116d14331e.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:00](/episodes/ep-q1NRQQAYS_Q.md#t-00-09-00) [✓] **Erika Kirk**: ["At an August donor event, Charlie Kirk said Erika Kirk would do a great job runn..."](/statements/statement-6140f8b36d0f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:25](/episodes/ep-q1NRQQAYS_Q.md#t-00-10-21) [○] **Candace Owens**: ["The Turning Point USA investor meeting in Aspen took place from August 15 throug..."](/statements/statement-d6d74af92926.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Aspen, Colorado](/entities/gpe-aspen-colorado.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:54](/episodes/ep-q1NRQQAYS_Q.md#t-00-12-27) [○] **Candace Owens**: ["Three of four people Candace Owens contacted about the Aspen event did not remem..."](/statements/statement-011d3daa9319.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:16](/episodes/ep-q1NRQQAYS_Q.md#t-00-14-16) [✓] **Blake Neff**: ["Charlie Kirk repeatedly said that Erika Kirk would take over for him if somethin..."](/statements/statement-4d8e860cd794.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:11](/episodes/ep-q1NRQQAYS_Q.md#t-00-15-11) [◐] **Blake Neff**: ["There was no pressure for Erika Kirk to become Turning Point USA's CEO; everyone..."](/statements/statement-7a2bed4e4b4e.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:14](/episodes/ep-q1NRQQAYS_Q.md#t-00-17-56) [○] **Candace Owens**: ["Five other sets of DNA were found on the rifle associated with Tyler Robinson."](/statements/statement-ba4ef08f9d34.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Deoxyribonucleic acid](/entities/concept-dna.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:21](/episodes/ep-q1NRQQAYS_Q.md#t-00-17-56) [✗] **Candace Owens**: ["There is no evidence that the rifle associated with Tyler Robinson was fired."](/statements/statement-bd38410d0efa.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:22](/episodes/ep-q1NRQQAYS_Q.md#t-00-25-22) [✓] **Erika Kirk**: ["Erika Kirk's parents divorced when she was five, and she grew up with a mother w..."](/statements/statement-3178ff8d83c3.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:27:34](/episodes/ep-q1NRQQAYS_Q.md#t-00-27-29) [○] **Erika Kirk**: ["Charlie Kirk, the Turning Point USA team, and God entrusted Erika Kirk with Char..."](/statements/statement-84a0653e5f0e.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:14](/episodes/ep-q1NRQQAYS_Q.md#t-00-34-48) [✓] **The New York Times**: ["Erika Kirk had planned to accompany Charlie Kirk to Utah, but instead stayed in ..."](/statements/statement-5e641d2827ce.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:49](/episodes/ep-q1NRQQAYS_Q.md#t-00-35-33) [✓] **The New York Times**: ["Erika Kirk was in her mother's hospital room in Phoenix at 11:23 a.m. local time..."](/statements/statement-2d74b37b7029.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:56](/episodes/ep-q1NRQQAYS_Q.md#t-00-36-56) [✓] **Erika Kirk**: ["Erika Kirk was at her mother's doctor's appointment when Michael McCoy called to..."](/statements/statement-ef1c158aaaca.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+</div>
+<div class="filter-item">
+
+- [00:39:27](/episodes/ep-q1NRQQAYS_Q.md#t-00-39-06) [○] **Candace Owens**: ["The Phoenix treatment location was not a hospital but an IV-therapy holistic cli..."](/statements/statement-a9d248ec3fd8.md)
+  - About: [Phoenix, Arizona](/entities/gpe-phoenix-arizona.md)
+
+</div>
+<div class="filter-item">
+
+- [00:39:53](/episodes/ep-q1NRQQAYS_Q.md#t-00-39-48) [○] **Candace Owens**: ["Lori Frantzve received treatment at the Phoenix clinic on September 8, according..."](/statements/statement-8be506596509.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Phoenix, Arizona](/entities/gpe-phoenix-arizona.md)
+
+</div>
+<div class="filter-item">
+
+- [00:40:17](/episodes/ep-q1NRQQAYS_Q.md#t-00-40-17) [○] **Candace Owens**: ["No nurse contacted during Candace Owens's investigation could confirm firsthand ..."](/statements/statement-d340d0d5c75e.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:08](/episodes/ep-q1NRQQAYS_Q.md#t-00-41-37) [○] **Candace Owens**: ["A doctor and his wife told friends that Erika Kirk was in the doctor's office wi..."](/statements/statement-8f640ccb4258.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:28](/episodes/ep-q1NRQQAYS_Q.md#t-00-42-13) [○] **Candace Owens**: ["A source claimed Erika Kirk was with her security guard when she learned Charlie..."](/statements/statement-314eb75d5c16.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:40](/episodes/ep-q1NRQQAYS_Q.md#t-00-42-13) [○] **Candace Owens**: ["A woman from Dassel, Minnesota claimed that she, rather than Erika Kirk, was wit..."](/statements/statement-04a77136224d.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:03](/episodes/ep-q1NRQQAYS_Q.md#t-00-44-43) [✓] **Donald J. Trump**: ["Pam Bondi would leave the attorney-general role for a private-sector job, and To..."](/statements/statement-0223ff995031.md)
+  - About: [Pam Bondi](/entities/person-pam-bondi.md), [Todd Blanche](/entities/person-todd-blanche.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item">
+
+- [00:50:38](/episodes/ep-q1NRQQAYS_Q.md#t-00-50-38) [✗] **Candace Owens**: ["There is no evidence Charlie Kirk was shot."](/statements/statement-7654c362de7a.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item">
+
+- [00:51:29](/episodes/ep-q1NRQQAYS_Q.md#t-00-51-08) [○] **Candace Owens**: ["Michael McCoy called his wife before three-way calling Erika Kirk minutes later."](/statements/statement-1ee87eddbc0a.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-04-01 · Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (21)</summary>
+
+<div class="filter-item">
+
+- [00:01:34](/episodes/ep-rupRLXmSndU.md#t-00-01-34) [○] **Candace Owens**: ["Charlie Kirk described his final call with Benjamin Netanyahu as an intervention..."](/statements/statement-cea35d129a59.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:01:42](/episodes/ep-rupRLXmSndU.md#t-00-01-34) [○] **Candace Owens**: ["Benjamin Netanyahu offered to take Turning Point USA to the next level."](/statements/statement-d5e1913333f1.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24) [◐] **Candace Owens**: ["Benjamin Netanyahu and Mitt Romney have been close friends since they worked tog..."](/statements/statement-487487ee59d1.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Mitt Romney](/entities/person-mitt-romney.md), [Boston Consulting Group](/entities/org-boston-consulting-group.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:41](/episodes/ep-rupRLXmSndU.md#t-00-05-14) [○] **Candace Owens**: ["Kash Patel had the FBI immediately seize footage from inside the hospital."](/statements/statement-08af5755b967.md)
+  - About: [Kash Patel](/entities/person-kash-patel.md), [FBI](/entities/org-fbi.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:20](/episodes/ep-rupRLXmSndU.md#t-00-05-56) [○] **Candace Owens**: ["Elizabeth Lane reported that both Utah Valley Hospital and Timpanogos Regional H..."](/statements/statement-35bef448927a.md)
+  - About: [Elizabeth Lane](/entities/person-elizabeth-lane.md), [Utah Valley Hospital](/entities/org-utah-valley-hospital.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:29](/episodes/ep-rupRLXmSndU.md#t-00-07-03) [?] **Candace Owens**: ["George Zinn later told people at Utah Valley Hospital that he had been paid to c..."](/statements/statement-4d8f4d4ea21e.md)
+  - About: [George Zinn](/entities/person-george-zinn.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley Hospital](/entities/org-utah-valley-hospital.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:09](/episodes/ep-rupRLXmSndU.md#t-00-07-43) [✓] **Kash Patel**: ["The subject for the shooting that killed Charlie Kirk was in custody."](/statements/statement-a36d199d39d4.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Zachariah Qureshi](/entities/person-zachariah-qureshi.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:59](/episodes/ep-rupRLXmSndU.md#t-00-08-59) [✓] **Kash Patel**: ["The subject in custody had been released after interrogation, and the investigat..."](/statements/statement-3ee1c0ed9168.md)
+  - About: [Zachariah Qureshi](/entities/person-zachariah-qureshi.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:45](/episodes/ep-rupRLXmSndU.md#t-00-09-38) [◐] **Candace Owens**: ["Ahmed Qureshi, Zachariah Qureshi's father, is an O-6 in the U.S. Navy and a comm..."](/statements/statement-d5a489fc7771.md)
+  - About: [Ahmed Qureshi](/entities/person-ahmed-qureshi.md), [Zachariah Qureshi](/entities/person-zachariah-qureshi.md), [United States Navy](/entities/org-united-states-navy.md)
+
+</div>
+<div class="filter-item">
+
+- [00:16:39](/episodes/ep-rupRLXmSndU.md#t-00-16-05) [✓] **Candace Owens**: ["Nathan Henderson co-founded BILT with Ahmed Qureshi."](/statements/statement-94f33dacfaae.md)
+  - About: [Nathan Henderson](/entities/person-nathan-henderson.md), [Ahmed Qureshi](/entities/person-ahmed-qureshi.md), [BILT Incorporated](/entities/org-bilt-incorporated.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:20](/episodes/ep-rupRLXmSndU.md#t-00-16-47) [○] **Candace Owens**: ["The Henderson and Qureshi families both lived in the same house in Keller, Texas..."](/statements/statement-bc9fda4b2225.md)
+  - About: [Nathan Henderson](/entities/person-nathan-henderson.md), [Ahmed Qureshi](/entities/person-ahmed-qureshi.md), [Keller, Texas](/entities/gpe-keller-texas.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:07](/episodes/ep-rupRLXmSndU.md#t-00-18-00) [✓] **Candace Owens**: ["Connor Henderson and Zachariah Qureshi attended BYU at the same time and both in..."](/statements/statement-869a9611ac9f.md)
+  - About: [Connor Henderson](/entities/person-connor-henderson.md), [Zachariah Qureshi](/entities/person-zachariah-qureshi.md), [BYU](/entities/org-byu.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:41](/episodes/ep-rupRLXmSndU.md#t-00-18-41) [◐] **Candace Owens**: ["Connor Henderson worked as an emergency-room scribe at Timpanogos Regional Hospi..."](/statements/statement-741e9bfcb950.md)
+  - About: [Connor Henderson](/entities/person-connor-henderson.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:30](/episodes/ep-rupRLXmSndU.md#t-00-23-21) [✓] **Candace Owens**: ["Andrew Zenger was appointed CEO of Timpanogos Regional Hospital on August 19, af..."](/statements/statement-a9204a5bd0b6.md)
+  - About: [Andrew Zenger](/entities/person-andrew-zenger.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Medical City McKinney](/entities/org-medical-city-mckinney.md)
+
+</div>
+<div class="filter-item">
+
+- [00:24:16](/episodes/ep-rupRLXmSndU.md#t-00-23-58) [◐] **Anonymous Source #1 (Ep rupRLXmSndU)**: ["The CIA recruits directly from BYU and specifically from BYU's Jerusalem Center."](/statements/statement-862b7ba82e4c.md)
+  - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [BYU](/entities/org-byu.md), [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:01](/episodes/ep-rupRLXmSndU.md#t-00-25-01) [◐] **Anonymous Source #1 (Ep rupRLXmSndU)**: ["Elite Mormon students at BYU's Jerusalem Center are introduced to one another an..."](/statements/statement-ddfdb9405887.md)
+  - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md), [Knesset](/entities/org-knesset.md)
+
+</div>
+<div class="filter-item">
+
+- [00:26:30](/episodes/ep-rupRLXmSndU.md#t-00-26-20) [?] **Anonymous Source #1 (Ep rupRLXmSndU)**: ["The CIA uses a company called Metro One Talent to interview young recruits and p..."](/statements/statement-6a06b35888db.md)
+  - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+</div>
+<div class="filter-item">
+
+- [00:27:04](/episodes/ep-rupRLXmSndU.md#t-00-27-04) [?] **Candace Owens**: ["Michael Sean Covey, who roomed with Andrew Zenger in Jerusalem, later did contra..."](/statements/statement-aa6071978dd3.md)
+  - About: [Michael Sean Covey](/entities/person-michael-sean-covey.md), [Andrew Zenger](/entities/person-andrew-zenger.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:47](/episodes/ep-rupRLXmSndU.md#t-00-36-17) [◐] **Candace Owens**: ["Provo has an underground city."](/statements/statement-8f524c4e04cd.md)
+  - About: [Provo](/entities/gpe-provo.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:50](/episodes/ep-rupRLXmSndU.md#t-00-44-50) [◐] **Candace Owens**: ["Turning Point USA sent fundraising text messages invoking Charlie Kirk's legacy ..."](/statements/statement-2d8d728db653.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:47:40](/episodes/ep-rupRLXmSndU.md#t-00-47-40) [?] **Anonymous Source #1 (Ep rupRLXmSndU)**: ["The CIA approaches selected students at BYU's Hawaii and Jerusalem campuses abou..."](/statements/statement-55fc338c7349.md)
+  - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [BYU](/entities/org-byu.md), [Hawaii](/entities/gpe-hawaii.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-03-31 · PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (12)</summary>
+
+<div class="filter-item">
+
+- [00:02:18](/episodes/ep-UYkXV9mYbT4.md#t-00-02-02) [✓] **Candace Owens**: ["Charlie Kirk was shot on September 10th at 12:23 p.m. Mountain Time."](/statements/statement-2be12d516a6b.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:02:55](/episodes/ep-UYkXV9mYbT4.md#t-00-02-45) [✓] **Candace Owens**: ["Terrell Farnsworth returned to the crime scene, used Charlie Kirk's chair to rea..."](/statements/statement-3ae26b37ac75.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:04:28](/episodes/ep-UYkXV9mYbT4.md#t-00-03-58) [○] **Terrell Farnsworth**: ["I wanted to secure the footage for Erika so that she wouldn't have to see the fo..."](/statements/statement-aae0307c2c42.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:17](/episodes/ep-UYkXV9mYbT4.md#t-00-08-03) [○] **Candace Owens**: ["The FBI was on the phone with Justin Streiff and Frank Carni about whether I had..."](/statements/statement-53b46473615f.md)
+  - About: [FBI](/entities/org-fbi.md), [Justin Streiff](/entities/person-justin-streiff.md), [Frank Carni](/entities/person-frank-carni.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:41](/episodes/ep-UYkXV9mYbT4.md#t-00-12-05) [✓] **Andrew Kolvet**: ["In the end, the coroner did find the bullet just beneath the skin."](/statements/statement-efefb0925053.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:36](/episodes/ep-UYkXV9mYbT4.md#t-00-13-23) [○] **Andrew Kolvet**: ["The bullet traveled from C2 to C6 and then moved downward into Charlie's thorax,..."](/statements/statement-28ba667d2ca6.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:49](/episodes/ep-UYkXV9mYbT4.md#t-00-14-49) [○] **Anonymous Source #1 (Ep UYkXV9mYbT4)**: ["The Robinson family-heirloom gun takes special bullets, and there was no way the..."](/statements/statement-4fc13f1ba0b3.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:16:31](/episodes/ep-UYkXV9mYbT4.md#t-00-16-08) [○] **Candace Owens**: ["The gun that was eventually found was not fired on September 10th."](/statements/statement-10673b2ca25d.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:03](/episodes/ep-UYkXV9mYbT4.md#t-00-16-50) [◐] **Candace Owens**: ["They found a total of six sets of prints on the gun."](/statements/statement-66fe1f90c5b3.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:39:53](/episodes/ep-UYkXV9mYbT4.md#t-00-39-53) [◐] **Candace Owens**: ["Comparative bullet lead analysis was primarily used by the FBI until 2004 and ab..."](/statements/statement-0c6b54c50eb3.md)
+  - About: [FBI](/entities/org-fbi.md), [Comparative bullet lead analysis](/entities/concept-comparative-bullet-lead-analysis.md)
+
+</div>
+<div class="filter-item">
+
+- [00:51:46](/episodes/ep-UYkXV9mYbT4.md#t-00-51-24) [◐] **Anonymous Source #3 (Ep UYkXV9mYbT4)**: ["Long Beach Airport is a 10-to-15-minute drive from Joint Forces Training Base Lo..."](/statements/statement-d7a07075f6b5.md)
+  - About: [Long Beach Airport](/entities/org-long-beach-airport.md), [Joint Forces Training Base Los Alamitos](/entities/org-joint-forces-training-base-los-alamitos.md), [Los Alamitos, California](/entities/gpe-los-alamitos-california.md)
+
+</div>
+<div class="filter-item">
+
+- [00:54:52](/episodes/ep-UYkXV9mYbT4.md#t-00-54-27) [○] **Candace Owens**: ["Charlie had carefully explained to me that he was going to die."](/statements/statement-444970934f2d.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-03-30 · The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (25)</summary>
+
+<div class="filter-item">
+
+- [00:01:49](/episodes/ep-7ERqbYElOfs.md#t-00-01-33) [◐] **Candace Owens**: ["America was founded by warring factions of Freemasons seeking to establish a new..."](/statements/statement-5a53345c6fd9.md)
+  - About: [United States](/entities/gpe-united-states.md), [Freemasonry](/entities/concept-freemasonry.md), [Catholicism](/entities/concept-catholicism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:03:31](/episodes/ep-7ERqbYElOfs.md#t-00-03-09) [✓] **Candace Owens**: ["The Freemason lodge in St. George, Utah, where Tyler Robinson was brought in is ..."](/statements/statement-28a7438fd6ff.md)
+  - About: [Freemasonry](/entities/concept-freemasonry.md), [St. George](/entities/gpe-st-george.md), [France](/entities/gpe-france.md)
+
+</div>
+<div class="filter-item">
+
+- [00:04:47](/episodes/ep-7ERqbYElOfs.md#t-00-04-41) [◐] **Candace Owens**: ["Scottish Rite Freemasonry originated in France after the Knights Templar were di..."](/statements/statement-7bde537e92c5.md)
+  - About: [Scottish Rite Freemasonry](/entities/concept-scottish-rite-freemasonry.md), [France](/entities/gpe-france.md), [Knights Templar](/entities/org-knights-templar.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:27](/episodes/ep-7ERqbYElOfs.md#t-00-11-27) [◐] **Candace Owens**: ["Daniel Beaulieu was impaired after an apparent suicide attempt in prison and wou..."](/statements/statement-57fb4b6211b4.md)
+  - About: [Daniel Beaulieu](/entities/person-daniel-beaulieu.md), [France](/entities/gpe-france.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:04](/episodes/ep-7ERqbYElOfs.md#t-00-17-04) [?] **Erika Kirk**: ["Tyler Robinson murdered Charlie Kirk."](/statements/statement-903e76853b1e.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:20:31](/episodes/ep-7ERqbYElOfs.md#t-00-19-58) [✓] **Frank Turek**: ["Michael McCoy arranged a plane to bring Erika Kirk after Charlie Kirk was pronou..."](/statements/statement-8e072d3b4eee.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:20:49](/episodes/ep-7ERqbYElOfs.md#t-00-20-43) [✓] **Frank Turek**: ["Stacey Sheridan and Katherine LoCastro were with Erika Kirk."](/statements/statement-07e76c9fc08f.md)
+  - About: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Katherine Locastro](/entities/person-katherine-locastro.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:21:01](/episodes/ep-7ERqbYElOfs.md#t-00-21-01) [○] **Candace Owens**: ["Justin Streiff told Candace Owens that he arranged all the planes on the day Cha..."](/statements/statement-a16bbd080976.md)
+  - About: [Justin Streiff](/entities/person-justin-streiff.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:22:24](/episodes/ep-7ERqbYElOfs.md#t-00-22-24) [○] **Candace Owens**: ["On July 14, Erika Kirk flew by private plane to Long Beach with Katherine LoCast..."](/statements/statement-7ae0c89afbe8.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Katherine Locastro](/entities/person-katherine-locastro.md), [Jonathan Barcelo](/entities/person-jonathan-barcelo.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:01](/episodes/ep-7ERqbYElOfs.md#t-00-23-01) [✓] **Candace Owens**: ["Jonathan Barcelo served in the U.S. Marine Corps from about 2013 to 2017, provid..."](/statements/statement-e43a8d56e492.md)
+  - About: [Jonathan Barcelo](/entities/person-jonathan-barcelo.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md), [Chile](/entities/gpe-chile.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:27](/episodes/ep-7ERqbYElOfs.md#t-00-23-01) [◐] **Candace Owens**: ["Jonathan Barcelo ran a private-investigation firm from 2017 to 2022, graduated f..."](/statements/statement-c5803cc7f231.md)
+  - About: [Jonathan Barcelo](/entities/person-jonathan-barcelo.md), [Arizona State University](/entities/org-arizona-state-university.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:24:36](/episodes/ep-7ERqbYElOfs.md#t-00-24-21) [○] **Candace Owens**: ["Erika Kirk, Katherine LoCastro, Jonathan Barcelo, and Derek Neukirk stayed in Lo..."](/statements/statement-c29d1d6c1ab1.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Katherine Locastro](/entities/person-katherine-locastro.md), [Jonathan Barcelo](/entities/person-jonathan-barcelo.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:34](/episodes/ep-7ERqbYElOfs.md#t-00-25-03) [◐] **Candace Owens**: ["Donald Trump was sending U.S. Marines into Iran for Benjamin Netanyahu, while th..."](/statements/statement-a668190d0262.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+</div>
+<div class="filter-item">
+
+- [00:28:14](/episodes/ep-7ERqbYElOfs.md#t-00-28-14) [◐] **Candace Owens**: ["Washington County Sheriff Nate Brooksby abruptly resigned during an election, le..."](/statements/statement-cb0cf1a88246.md)
+  - About: [Nate Brooksby](/entities/person-nate-brooksby.md), [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md), [Washington County](/entities/gpe-washington-county.md)
+
+</div>
+<div class="filter-item">
+
+- [00:29:40](/episodes/ep-7ERqbYElOfs.md#t-00-29-32) [✗] **Candace Owens**: ["There is no evidence that Tyler Robinson's father turned him in or that Robinson..."](/statements/statement-0c5eb922496d.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Matt Robinson](/entities/person-matt-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:30:51](/episodes/ep-7ERqbYElOfs.md#t-00-30-51) [○] **Anonymous Source #3 (Ep 7ERqbYElOfs)**: ["Tyler Robinson repeatedly said he was not guilty and was surprised when family f..."](/statements/statement-1b41de1c930f.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Mike Mitchell](/entities/person-mike-mitchell.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:09](/episodes/ep-7ERqbYElOfs.md#t-00-30-51) [○] **Anonymous Source #3 (Ep 7ERqbYElOfs)**: ["Mike Mitchell told Tyler Robinson that police said Robinson's prints were on a g..."](/statements/statement-cee5d4c3ffb9.md)
+  - About: [Mike Mitchell](/entities/person-mike-mitchell.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:10](/episodes/ep-7ERqbYElOfs.md#t-00-32-10) [?] **Anonymous Source #6 (Ep 7ERqbYElOfs)**: ["Bomb dogs could not find the gun."](/statements/statement-1215b85e0036.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:31](/episodes/ep-7ERqbYElOfs.md#t-00-35-31) [✓] **Nate Brooksby**: ["At 8:02 p.m. on September 11, a retired detective told Nate Brooksby that he kne..."](/statements/statement-a857c7bb9553.md)
+  - About: [Nate Brooksby](/entities/person-nate-brooksby.md), [Mike Mitchell](/entities/person-mike-mitchell.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:49](/episodes/ep-7ERqbYElOfs.md#t-00-36-14) [✓] **Nate Brooksby**: ["Tyler Robinson may have had suicidal thoughts and was headed to a remote part of..."](/statements/statement-6d374c5ff6d9.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Washington County](/entities/gpe-washington-county.md)
+
+</div>
+<div class="filter-item">
+
+- [00:40:29](/episodes/ep-7ERqbYElOfs.md#t-00-40-25) [✓] **Spencer Cox**: ["A Tyler Robinson family member told a family friend that Robinson had confessed ..."](/statements/statement-15993351894a.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:07](/episodes/ep-7ERqbYElOfs.md#t-00-42-07) [✓] **Nate Brooksby**: ["A friend drove Tyler Robinson and his parents to Nate Brooksby's office, where p..."](/statements/statement-ee7afef39cc7.md)
+  - About: [Nate Brooksby](/entities/person-nate-brooksby.md), [Mike Mitchell](/entities/person-mike-mitchell.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:31](/episodes/ep-7ERqbYElOfs.md#t-00-42-26) [✓] **Nate Brooksby**: ["Tyler Robinson agreed to come to Nate Brooksby's office after a negotiation beca..."](/statements/statement-5aebb9144a43.md)
+  - About: [Nate Brooksby](/entities/person-nate-brooksby.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:50:30](/episodes/ep-7ERqbYElOfs.md#t-00-50-30) [✓] **Erika Kirk**: ["While flying to Provo after Charlie Kirk was killed, Erika Kirk looked at the cl..."](/statements/statement-89a1e54daea1.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Provo](/entities/gpe-provo.md)
+
+</div>
+<div class="filter-item">
+
+- [00:58:12](/episodes/ep-7ERqbYElOfs.md#t-00-58-07) [◐] **Candace Owens**: ["Israel runs X, which is populated by Israeli bots."](/statements/statement-eed4e2b07ae3.md)
+  - About: [Israel](/entities/gpe-israel.md), [X](/entities/org-x-platform.md)
+
+</div>
+</details>
+
+<details>
 <summary>2026-03-26 · VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (24)</summary>
 
 <div class="filter-item">
 
-- [00:02:44](/episodes/ep-DEtFh2Ff-58.md#t-00-02-35) [○] **Anonymous Source #1 (Ep DEtFh2Ff-58)**: ["The victim's wife is arriving at 3:30."](/statements/statement-599ccdf40310.md)
+- [00:02:44](/episodes/ep-DEtFh2Ff-58.md#t-00-02-35) [✓] **Anonymous Source #1 (Ep DEtFh2Ff-58)**: ["The victim's wife is arriving at 3:30."](/statements/statement-599ccdf40310.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Provo Airport](/entities/org-provo-airport.md)
 
 </div>
 <div class="filter-item">
 
-- [00:03:07](/episodes/ep-DEtFh2Ff-58.md#t-00-02-58) [○] **Candace Owens**: ["The 3:30 police pickup means Erika Kirk did not wait an hour on the Provo tarmac..."](/statements/statement-babfa5b6ff1b.md)
+- [00:03:07](/episodes/ep-DEtFh2Ff-58.md#t-00-02-58) [✓] **Candace Owens**: ["The 3:30 police pickup means Erika Kirk did not wait an hour on the Provo tarmac..."](/statements/statement-babfa5b6ff1b.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Provo Airport](/entities/org-provo-airport.md)
 
 </div>
 <div class="filter-item">
 
-- [00:03:23](/episodes/ep-DEtFh2Ff-58.md#t-00-02-58) [○] **Candace Owens**: ["The 3:30 pickup only makes sense if Andrew Kolvet was aboard Charlie Kirk's plan..."](/statements/statement-0fb47b12e524.md)
+- [00:03:23](/episodes/ep-DEtFh2Ff-58.md#t-00-02-58) [◐] **Candace Owens**: ["The 3:30 pickup only makes sense if Andrew Kolvet was aboard Charlie Kirk's plan..."](/statements/statement-0fb47b12e524.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </div>
 <div class="filter-item">
 
-- [00:05:12](/episodes/ep-DEtFh2Ff-58.md#t-00-04-46) [○] **Candace Owens**: ["I feel very confident that Andrew Kolvet was aboard the Santa Barbara-to-Scottsd..."](/statements/statement-5ee21def6ba6.md)
+- [00:05:12](/episodes/ep-DEtFh2Ff-58.md#t-00-04-46) [◐] **Candace Owens**: ["I feel very confident that Andrew Kolvet was aboard the Santa Barbara-to-Scottsd..."](/statements/statement-5ee21def6ba6.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Scottsdale Airport](/entities/org-scottsdale-airport.md)
 
 </div>
@@ -209,13 +857,13 @@ _1866 factual claims within 3271 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:07:03](/episodes/ep-DEtFh2Ff-58.md#t-00-07-03) [○] **Andrew Kolvet**: ["I learned Charlie Kirk had died probably 30 or 40 minutes after he was shot, bef..."](/statements/statement-7566be50f71f.md)
+- [00:07:03](/episodes/ep-DEtFh2Ff-58.md#t-00-07-03) [✓] **Andrew Kolvet**: ["I learned Charlie Kirk had died probably 30 or 40 minutes after he was shot, bef..."](/statements/statement-7566be50f71f.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Truth Social](/entities/org-truth-social.md)
 
 </div>
 <div class="filter-item">
 
-- [00:12:47](/episodes/ep-DEtFh2Ff-58.md#t-00-12-37) [○] **Candace Owens**: ["My theory is that Andrew Kolvet departed Santa Barbara for Scottsdale at approxi..."](/statements/statement-292c8e97cfc2.md)
+- [00:12:47](/episodes/ep-DEtFh2Ff-58.md#t-00-12-37) [◐] **Candace Owens**: ["My theory is that Andrew Kolvet departed Santa Barbara for Scottsdale at approxi..."](/statements/statement-292c8e97cfc2.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Scottsdale Airport](/entities/org-scottsdale-airport.md)
 
 </div>
@@ -233,19 +881,19 @@ _1866 factual claims within 3271 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:16:14](/episodes/ep-DEtFh2Ff-58.md#t-00-16-14) [○] **Candace Owens**: ["Erika Kirk and Andrew Kolvet did not hug in Provo; Candace Owens concludes the t..."](/statements/statement-697f028b52d0.md)
+- [00:16:14](/episodes/ep-DEtFh2Ff-58.md#t-00-16-14) [◐] **Candace Owens**: ["Erika Kirk and Andrew Kolvet did not hug in Provo; Candace Owens concludes the t..."](/statements/statement-697f028b52d0.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Provo Airport](/entities/org-provo-airport.md)
 
 </div>
 <div class="filter-item">
 
-- [00:18:27](/episodes/ep-DEtFh2Ff-58.md#t-00-18-00) [○] **Candace Owens**: ["Erika Kirk's mother was not in the hospital on September 8th, September 9th, or ..."](/statements/statement-4063bc832e03.md)
+- [00:18:27](/episodes/ep-DEtFh2Ff-58.md#t-00-18-00) [◐] **Candace Owens**: ["Erika Kirk's mother was not in the hospital on September 8th, September 9th, or ..."](/statements/statement-4063bc832e03.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [The New York Times](/entities/org-the-new-york-times.md)
 
 </div>
 <div class="filter-item">
 
-- [00:19:00](/episodes/ep-DEtFh2Ff-58.md#t-00-18-34) [○] **The New York Times**: ["The New York Times reported that Charlie Kirk's chartered plane returned to Scot..."](/statements/statement-d56cc652819a.md)
+- [00:19:00](/episodes/ep-DEtFh2Ff-58.md#t-00-18-34) [✓] **The New York Times**: ["The New York Times reported that Charlie Kirk's chartered plane returned to Scot..."](/statements/statement-d56cc652819a.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Scottsdale Airport](/entities/org-scottsdale-airport.md)
 
 </div>
@@ -257,7 +905,7 @@ _1866 factual claims within 3271 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:32:57](/episodes/ep-DEtFh2Ff-58.md#t-00-32-41) [○] **Candace Owens**: ["Mitch Snow's story was that he was almost certain he saw Brian Harpole at a Fort..."](/statements/statement-75ce7d0d0c2c.md)
+- [00:32:57](/episodes/ep-DEtFh2Ff-58.md#t-00-32-41) [✓] **Candace Owens**: ["Mitch Snow's story was that he was almost certain he saw Brian Harpole at a Fort..."](/statements/statement-75ce7d0d0c2c.md)
   - About: [Mitch Snow](/entities/person-mitch-snow.md), [Brian Harpole](/entities/person-brian-harpole.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </div>
@@ -287,7 +935,7 @@ _1866 factual claims within 3271 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:37:42](/episodes/ep-DEtFh2Ff-58.md#t-00-37-42) [○] **Candace Owens**: ["Charlie Kirk's parents were not aboard N582MM because J.D. Vance sent Air Force ..."](/statements/statement-719ea2a38654.md)
+- [00:37:42](/episodes/ep-DEtFh2Ff-58.md#t-00-37-42) [◐] **Candace Owens**: ["Charlie Kirk's parents were not aboard N582MM because J.D. Vance sent Air Force ..."](/statements/statement-719ea2a38654.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [JD Vance](/entities/person-jd-vance.md), [Air Force Two](/entities/org-air-force-two.md)
 
 </div>
@@ -305,13 +953,13 @@ _1866 factual claims within 3271 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:50:19](/episodes/ep-DEtFh2Ff-58.md#t-00-49-39) [○] **Candace Owens**: ["Tyler Robinson had not yet entered a plea or had his arraignment."](/statements/statement-4a1f623051ad.md)
+- [00:50:19](/episodes/ep-DEtFh2Ff-58.md#t-00-49-39) [✓] **Candace Owens**: ["Tyler Robinson had not yet entered a plea or had his arraignment."](/statements/statement-4a1f623051ad.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </div>
 <div class="filter-item">
 
-- [00:50:51](/episodes/ep-DEtFh2Ff-58.md#t-00-50-22) [○] **Candace Owens**: ["Charlie Kirk's perspective on Israel had shifted completely before he died."](/statements/statement-0f4fae6e0072.md)
+- [00:50:51](/episodes/ep-DEtFh2Ff-58.md#t-00-50-22) [◐] **Candace Owens**: ["Charlie Kirk's perspective on Israel had shifted completely before he died."](/statements/statement-0f4fae6e0072.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
 </div>
@@ -6575,7 +7223,7 @@ _1866 factual claims within 3271 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:18:09](/episodes/ep-es7PWdFGoFI.md#t-00-17-41) [○] **Candace Owens**: ["Turning Point USA and Erika Kirk have not seen any evidence beyond what is publi..."](/statements/statement-ca6b4e9ab8ae.md)
+- [00:18:09](/episodes/ep-es7PWdFGoFI.md#t-00-17-41) [◐] **Candace Owens**: ["Turning Point USA and Erika Kirk have not seen any evidence beyond what is publi..."](/statements/statement-ca6b4e9ab8ae.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </div>
@@ -8777,7 +9425,7 @@ _1866 factual claims within 3271 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:12:38](/episodes/ep-vwG1juDCQZQ.md#t-00-12-18) [○] **Erika Kirk**: ["Erika Kirk has seen the autopsy report and different evidence portions that have..."](/statements/statement-fd9c3a9d04cf.md)
+- [00:12:38](/episodes/ep-vwG1juDCQZQ.md#t-00-12-18) [✓] **Erika Kirk**: ["Erika Kirk has seen the autopsy report and different evidence portions that have..."](/statements/statement-fd9c3a9d04cf.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </div>
@@ -11582,7 +12230,7 @@ _1866 factual claims within 3271 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:54:24](/episodes/ep-czVBmqZP6Ss.md#t-00-54-20) [○] **Candace Owens**: ["Discord says there is no evidence that the suspect planned this incident or prom..."](/statements/statement-6fbddf863af1.md)
+- [00:54:24](/episodes/ep-czVBmqZP6Ss.md#t-00-54-20) [○] **Discord**: ["Discord says there is no evidence that the suspect planned this incident or prom..."](/statements/statement-6fbddf863af1.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </div>
@@ -11662,7 +12310,7 @@ _1866 factual claims within 3271 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Accusations (829)</strong></summary>
+<summary><strong class="section-title">Accusations (888)</strong></summary>
 
 <details>
 <summary>2026-08-14 · Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (9)</summary>
@@ -11724,11 +12372,395 @@ _1866 factual claims within 3271 attributed statements._
 </details>
 
 <details>
+<summary>2026-04-13 · Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (13)</summary>
+
+<div class="filter-item">
+
+- [00:00:55](/episodes/ep-eLgD5yUVbko.md#t-00-00-26) [○] **Anonymous Source #1 (Ep eLgD5yUVbko)**: ["Turning Point USA donors who attended the Aspen presentation told Candace Owens ..."](/statements/statement-f3b720a9754e.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:16:38](/episodes/ep-eLgD5yUVbko.md#t-00-15-53) [○] **Candace Owens**: ["Candace Owens suggested that the released Aspen succession audio may have been g..."](/statements/statement-d983a9e98b02.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:50](/episodes/ep-eLgD5yUVbko.md#t-00-18-22) [○] **Candace Owens**: ["Ben Shapiro worked behind the scenes to have Jewish donors and writers pressure ..."](/statements/statement-c1750cd12c62.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:19:00](/episodes/ep-eLgD5yUVbko.md#t-00-19-00) [○] **Candace Owens**: ["Andrew Kolvet effectively forced Charlie Kirk to interview Ben Shapiro a few day..."](/statements/statement-32b5e729b94a.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+</div>
+<div class="filter-item">
+
+- [00:20:58](/episodes/ep-eLgD5yUVbko.md#t-00-20-19) [○] **Anonymous Source #3 (Ep eLgD5yUVbko)**: ["Alliance Defending Freedom insiders told Candace Owens that Ben Shapiro was work..."](/statements/statement-73534409fe2f.md)
+  - About: [Alliance Defending Freedom](/entities/org-alliance-defending-freedom.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:59](/episodes/ep-eLgD5yUVbko.md#t-00-23-45) [○] **Candace Owens**: ["Candace Owens accused The Daily Wire of conducting a sustained gang-stalking cam..."](/statements/statement-5b6c1d0fcccf.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:03](/episodes/ep-eLgD5yUVbko.md#t-00-30-22) [○] **Anonymous Source #4 (Ep 2WEHTk0Xewg)**: ["The arrest source told Candace Owens that Governor Spencer Cox and police were l..."](/statements/statement-a3c20629d66e.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:51](/episodes/ep-eLgD5yUVbko.md#t-00-35-25) [○] **Candace Owens**: ["Candace Owens argued that the FBI released suspect photos and sought public iden..."](/statements/statement-3d4ae6743ef6.md)
+  - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Spencer Cox](/entities/person-spencer-cox.md)
+
+</div>
+<div class="filter-item">
+
+- [00:43:00](/episodes/ep-eLgD5yUVbko.md#t-00-42-52) [○] **Candace Owens**: ["Candace Owens accused federal authorities of changing their account from Discord..."](/statements/statement-377e9550e3a3.md)
+  - About: [FBI](/entities/org-fbi.md), [Discord](/entities/org-discord.md), [iMessage](/entities/work-imessage.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:32](/episodes/ep-eLgD5yUVbko.md#t-00-45-03) [○] **Candace Owens**: ["Candace Owens accused Lance Twiggs of being a federal informant working on behal..."](/statements/statement-3d9aac692b7f.md)
+  - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:40](/episodes/ep-eLgD5yUVbko.md#t-00-45-03) [○] **Anonymous Source #2 (Ep eLgD5yUVbko)**: ["Members of Lance Twiggs's family told Candace Owens that it was "completely insa..."](/statements/statement-f109089222e8.md)
+  - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:48:33](/episodes/ep-eLgD5yUVbko.md#t-00-47-49) [○] **Candace Owens**: ["Candace Owens said the Tyler Robinson case is a setup and that Robinson is a pat..."](/statements/statement-1eecc57afa84.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [01:07:37](/episodes/ep-eLgD5yUVbko.md#t-01-06-59) [○] **Candace Owens**: ["Candace Owens accused Erika Kirk's events of using fake, pre-planned question-an..."](/statements/statement-2a61ec0f217f.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-04-10 · An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (12)</summary>
+
+<div class="filter-item">
+
+- [00:02:36](/episodes/ep-ZIH5-V6UPkg.md#t-00-02-27) [○] **Candace Owens**: ["Whoever decided to kill Charlie Kirk correctly assessed that he was a threat bec..."](/statements/statement-33732dcb88cb.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:49](/episodes/ep-ZIH5-V6UPkg.md#t-00-10-49) [○] **Candace Owens**: ["Did Donald Trump's response to demands for the Epstein files reveal a pattern of..."](/statements/statement-6d2e298531b6.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:28](/episodes/ep-ZIH5-V6UPkg.md#t-00-12-12) [◐] **Candace Owens**: ["Is the United States "hot" because it is bombing children and killed 150 schoolg..."](/statements/statement-8ceb94ca700d.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [United States](/entities/gpe-united-states.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:28](/episodes/ep-ZIH5-V6UPkg.md#t-00-12-12) [◐] **Candace Owens**: ["Is the United States "hot" because officials lied about six servicemen who died ..."](/statements/statement-b0935f34fce0.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [United States](/entities/gpe-united-states.md), [CBS News](/entities/org-cbs-news.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-12) [◐] **Candace Owens**: ["Donald Trump promised no new wars in the Middle East but now pursues continuing ..."](/statements/statement-8eb161990c66.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md), [Middle East](/entities/gpe-middle-east.md)
+
+</div>
+<div class="filter-item">
+
+- [00:26:43](/episodes/ep-ZIH5-V6UPkg.md#t-00-26-31) [○] **Tucker Carlson**: ["The Israeli government has a history of blackmailing U.S. presidents."](/statements/statement-e6c51d0b0c47.md)
+  - About: [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
+
+</div>
+<div class="filter-item">
+
+- [00:27:27](/episodes/ep-ZIH5-V6UPkg.md#t-00-27-13) [◐] **Tucker Carlson**: ["Israel wants the United States to fight its war so it can expand its borders and..."](/statements/statement-4f887d8a59ce.md)
+  - About: [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md), [Greater Israel](/entities/concept-greater-israel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:29](/episodes/ep-ZIH5-V6UPkg.md#t-00-31-29) [○] **Candace Owens**: ["Donald Trump appeared completely disinterested in determining who fired the shot..."](/statements/statement-2c6aee41dded.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+</div>
+<div class="filter-item">
+
+- [00:34:48](/episodes/ep-ZIH5-V6UPkg.md#t-00-34-48) [○] **Laura Loomer**: ["Tucker Carlson is lying about Donald Trump, smearing him, creating chaos, and en..."](/statements/statement-c0feb2dbd3e5.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Donald J. Trump](/entities/person-donald-trump.md), [United States](/entities/gpe-united-states.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:36](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-26) [○] **Laura Loomer**: ["Tucker Carlson incites violence against evangelicals, Jewish Americans, and Dona..."](/statements/statement-1d4fb271ea2b.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Donald J. Trump](/entities/person-donald-trump.md), [Jewish people](/entities/concept-jewish-people.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:10](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-54) [◐] **Candace Owens**: ["The Likud government is murderous and has a particular knack for murdering child..."](/statements/statement-dd48f45143b4.md)
+  - About: [Likud](/entities/org-likud.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:11](/episodes/ep-ZIH5-V6UPkg.md#t-00-44-11) [○] **Candace Owens**: ["Politicians send U.S. tax money overseas, launder it, return it to themselves, a..."](/statements/statement-7ee1138bcbc4.md)
+  - About: [United States](/entities/gpe-united-states.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-04-02 · SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (12)</summary>
+
+<div class="filter-item">
+
+- [00:01:29](/episodes/ep-q1NRQQAYS_Q.md#t-00-01-20) [◐] **Candace Owens**: ["Zachariah Qureshi was detained, Kash Patel shut down the investigation for an ho..."](/statements/statement-2703495f9c4f.md)
+  - About: [Zachariah Qureshi](/entities/person-zachariah-qureshi.md), [Kash Patel](/entities/person-kash-patel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:21](/episodes/ep-q1NRQQAYS_Q.md#t-00-10-21) [◐] **Candace Owens**: ["Erika Kirk was not raised by a single mother; she had a stepfather in the home a..."](/statements/statement-562d5c2ba1f0.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:53](/episodes/ep-q1NRQQAYS_Q.md#t-00-10-21) [○] **Candace Owens**: ["Turning Point USA stripped the video and used only the alleged audio of Charlie ..."](/statements/statement-b60cce8d9a8c.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [America Fest](/entities/event-america-fest.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:38](/episodes/ep-q1NRQQAYS_Q.md#t-00-12-27) [○] **Candace Owens**: ["The released audio of Charlie Kirk discussing Erika Kirk's succession was clearl..."](/statements/statement-f5607fce7fee.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:16:58](/episodes/ep-q1NRQQAYS_Q.md#t-00-16-28) [○] **Blake Neff**: ["Candace Owens is a psychopathic predator who does not care what is true or false..."](/statements/statement-075a07b48b27.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:13](/episodes/ep-q1NRQQAYS_Q.md#t-00-17-13) [○] **Blake Neff**: ["Candace Owens ignores evidence including DNA on a rifle and Tyler Robinson's fam..."](/statements/statement-dc9d47b1fdb2.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Deoxyribonucleic acid](/entities/concept-dna.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:38](/episodes/ep-q1NRQQAYS_Q.md#t-00-18-38) [◐] **Candace Owens**: ["Turning Point USA has shared outdated Charlie Kirk videos and misrepresented his..."](/statements/statement-208d5263a9b3.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-45-32) [◐] **Candace Owens**: ["Pam Bondi acted on Donald Trump's instructions regarding the Epstein files, and ..."](/statements/statement-2d7928bb1128.md)
+  - About: [Pam Bondi](/entities/person-pam-bondi.md), [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:06](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-06) [◐] **Candace Owens**: ["Officials released a deepfake video of Jeffrey Epstein in his cell, then removed..."](/statements/statement-318a4f1575a4.md)
+  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [FBI](/entities/org-fbi.md), [Pam Bondi](/entities/person-pam-bondi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:37](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-06) [✗] **Candace Owens**: ["Jeffrey Epstein is alive, and his removal from custody was an Israeli operation."](/statements/statement-732fff5e8528.md)
+  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:42](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-06) [○] **Candace Owens**: ["The New York Post is effectively a Mossad outlet that works on behalf of Israel."](/statements/statement-5f946e77b3bb.md)
+  - About: [New York Post](/entities/org-new-york-post.md), [Mossad](/entities/org-mossad.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:57](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-50) [◐] **Candace Owens**: ["Donald Trump fired Pam Bondi because he believed she tipped off Eric Swalwell ab..."](/statements/statement-3d9873b599c9.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Pam Bondi](/entities/person-pam-bondi.md), [Eric Swalwell](/entities/person-eric-swalwell.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-04-01 · Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (4)</summary>
+
+<div class="filter-item">
+
+- [00:02:29](/episodes/ep-rupRLXmSndU.md#t-00-02-06) [◐] **Candace Owens**: ["Turning Point USA is trying to reimagine Charlie Kirk's legacy as supporting war..."](/statements/statement-8ac4073f16d4.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Middle East](/entities/gpe-middle-east.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:38](/episodes/ep-rupRLXmSndU.md#t-00-08-25) [?] **Candace Owens**: ["Kash Patel's premature custody announcement gave the true assassin or assassins ..."](/statements/statement-25c322faf319.md)
+  - About: [Kash Patel](/entities/person-kash-patel.md), [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:50](/episodes/ep-rupRLXmSndU.md#t-00-35-28) [○] **Candace Owens**: ["How many private equity firms wanted Charlie Kirk gone?"](/statements/statement-7a7488bb8882.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:49:54](/episodes/ep-rupRLXmSndU.md#t-00-49-25) [◐] **Candace Owens**: ["Charlie Kirk was under tremendous stress because people were pulling money, thre..."](/statements/statement-2c08dfa2e499.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-03-31 · PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (3)</summary>
+
+<div class="filter-item">
+
+- [00:10:17](/episodes/ep-UYkXV9mYbT4.md#t-00-10-02) [○] **Candace Owens**: ["Erika lied. Erika and Andrew colluded on how to message the public about the bul..."](/statements/statement-45def5a9eabe.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:16:31](/episodes/ep-UYkXV9mYbT4.md#t-00-16-08) [○] **Anonymous Source #2 (Ep UYkXV9mYbT4)**: ["Federal agents planted the gun when they arrived."](/statements/statement-8694331bb2fc.md)
+  - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:34](/episodes/ep-UYkXV9mYbT4.md#t-00-44-34) [◐] **Candace Owens**: ["The FBI is bringing back an already debunked technique so that it can give Erika..."](/statements/statement-1c85bab3416e.md)
+  - About: [FBI](/entities/org-fbi.md), [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-03-30 · The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (15)</summary>
+
+<div class="filter-item">
+
+- [00:00:10](/episodes/ep-7ERqbYElOfs.md#t-00-00-00) [○] **Candace Owens**: ["France and its DGSE intelligence agency were involved in Charlie Kirk's assassin..."](/statements/statement-77c08333ae83.md)
+  - About: [France](/entities/gpe-france.md), [Direction générale de la sécurité extérieure](/entities/org-dgse.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:03:09](/episodes/ep-7ERqbYElOfs.md#t-00-03-09) [○] **Candace Owens**: ["The repeated use of the number 33 after Charlie Kirk's assassination was signali..."](/statements/statement-6a56f89676b2.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Freemasonry](/entities/concept-freemasonry.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:39](/episodes/ep-7ERqbYElOfs.md#t-00-09-39) [○] **Anonymous Source #2 (Ep 7ERqbYElOfs)**: ["Brigitte Macron's family had worked for Israel for a long time because they owed..."](/statements/statement-260837072c2a.md)
+  - About: [Brigitte Macron](/entities/person-brigitte-macron.md), [Israel](/entities/gpe-israel.md), [Germany](/entities/gpe-germany.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:09](/episodes/ep-7ERqbYElOfs.md#t-00-09-39) [○] **Anonymous Source #2 (Ep 7ERqbYElOfs)**: ["The Israeli government covered up a 1950s story about Brigitte Macron's family w..."](/statements/statement-7f432fc03ef1.md)
+  - About: [Brigitte Macron](/entities/person-brigitte-macron.md), [Israel](/entities/gpe-israel.md), [France](/entities/gpe-france.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:46](/episodes/ep-7ERqbYElOfs.md#t-00-14-46) [○] **Anonymous Source #1 (Ep 7ERqbYElOfs)**: ["A source inside the French government said the GIGN intervention group was invol..."](/statements/statement-aed830dfceb1.md)
+  - About: [Groupe d'intervention de la Gendarmerie nationale](/entities/org-gign.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [France](/entities/gpe-france.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:11](/episodes/ep-7ERqbYElOfs.md#t-00-14-46) [?] **Anonymous Source #1 (Ep 7ERqbYElOfs)**: ["Charlie Kirk's assassin trained with the French Foreign Legion's 13th Demi-Briga..."](/statements/statement-625bb1068b92.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [French Foreign Legion](/entities/org-french-foreign-legion.md), [13e Demi-brigade de Légion étrangère](/entities/org-13e-demi-brigade-foreign-legion.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:35](/episodes/ep-7ERqbYElOfs.md#t-00-17-35) [○] **Candace Owens**: ["Erika Kirk was lying and acting when she said she had seen the case and believed..."](/statements/statement-c0d316148608.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:57](/episodes/ep-7ERqbYElOfs.md#t-00-23-46) [○] **Candace Owens**: ["Why does everybody feel like a military infiltration at Turning Point USA?"](/statements/statement-1e043e4fb450.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Jonathan Barcelo](/entities/person-jonathan-barcelo.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:24](/episodes/ep-7ERqbYElOfs.md#t-00-25-03) [?] **Candace Owens**: ["Charlie Kirk was killed because he had challenged powerful people who expected t..."](/statements/statement-e1e64e6221f9.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:10](/episodes/ep-7ERqbYElOfs.md#t-00-32-10) [?] **Anonymous Source #5 (Ep 7ERqbYElOfs)**: ["Federal agents planted the gun."](/statements/statement-d3390c78435e.md)
+  - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:32](/episodes/ep-7ERqbYElOfs.md#t-00-32-10) [○] **Candace Owens**: ["There is overwhelming evidence that federal agents set Tyler Robinson up as a pa..."](/statements/statement-04295cf433e9.md)
+  - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:48](/episodes/ep-7ERqbYElOfs.md#t-00-32-48) [○] **Anonymous Source #4 (Ep 7ERqbYElOfs)**: ["Local sheriff's departments, the SWAT team, and other firsthand sources believed..."](/statements/statement-0ddcd12c3624.md)
+  - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:40:11](/episodes/ep-7ERqbYElOfs.md#t-00-40-05) [○] **Candace Owens**: ["Spencer Cox was complicit in lying about how Tyler Robinson was apprehended."](/statements/statement-9a3ad9ef4ed5.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:31](/episodes/ep-7ERqbYElOfs.md#t-00-44-18) [✓] **Candace Owens**: ["Lindsey Graham said he only stopped by Walt Disney World, but TMZ showed he was ..."](/statements/statement-7aaf31aed2a8.md)
+  - About: [Lindsey Graham](/entities/person-lindsey-graham.md), [Walt Disney World Resort](/entities/org-walt-disney-world-resort.md), [TMZ](/entities/org-tmz.md)
+
+</div>
+<div class="filter-item">
+
+- [00:54:30](/episodes/ep-7ERqbYElOfs.md#t-00-54-30) [○] **Candace Owens**: ["Turning Point USA is behind attacks on the people investigating Charlie Kirk's a..."](/statements/statement-30ac9fce2ce3.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
+
+<details>
 <summary>2026-03-26 · VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (4)</summary>
 
 <div class="filter-item">
 
-- [00:06:13](/episodes/ep-DEtFh2Ff-58.md#t-00-06-09) [○] **Candace Owens**: ["Erika Kirk is lying when she claims Andrew Kolvet was on the flight that landed ..."](/statements/statement-ea7d4363449c.md)
+- [00:06:13](/episodes/ep-DEtFh2Ff-58.md#t-00-06-09) [◐] **Candace Owens**: ["Erika Kirk is lying when she claims Andrew Kolvet was on the flight that landed ..."](/statements/statement-ea7d4363449c.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Provo Airport](/entities/org-provo-airport.md)
 
 </div>
@@ -11746,7 +12778,7 @@ _1866 factual claims within 3271 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:32:33](/episodes/ep-DEtFh2Ff-58.md#t-00-32-05) [○] **Candace Owens**: ["Andrew Kolvet fed information to obscure podcasters to get them to attack Candac..."](/statements/statement-357c331f9c8f.md)
+- [00:32:33](/episodes/ep-DEtFh2Ff-58.md#t-00-32-05) [◐] **Candace Owens**: ["Andrew Kolvet fed information to obscure podcasters to get them to attack Candac..."](/statements/statement-357c331f9c8f.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
@@ -17037,7 +18069,7 @@ _1866 factual claims within 3271 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Predictions (29)</strong></summary>
+<summary><strong class="section-title">Predictions (30)</strong></summary>
 
 <details>
 <summary>2026-08-14 · Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
@@ -17046,6 +18078,17 @@ _1866 factual claims within 3271 attributed statements._
 
 - [02:37:26](/episodes/ep-nPhCKwJ6ye8.md#t-02-37-26) [○] **Candace Owens**: ["Candace Owens predicts that Israel will ultimately be found to have been involve..."](/statements/statement-d5c74ed071c8.md)
   - About: [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-04-02 · SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1)</summary>
+
+<div class="filter-item">
+
+- [00:12:17](/episodes/ep-q1NRQQAYS_Q.md#t-00-11-54) [○] **Charlie Kirk**: ["If something happened to Charlie Kirk, Erika Kirk would do a great job leading T..."](/statements/statement-a04abbeac2e1.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
 </details>
@@ -17311,7 +18354,7 @@ _1866 factual claims within 3271 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Promises (43)</strong></summary>
+<summary><strong class="section-title">Promises (48)</strong></summary>
 
 <details>
 <summary>2026-08-14 · Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
@@ -17325,11 +18368,61 @@ _1866 factual claims within 3271 attributed statements._
 </details>
 
 <details>
+<summary>2026-04-13 · Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2)</summary>
+
+<div class="filter-item">
+
+- [00:12:56](/episodes/ep-eLgD5yUVbko.md#t-00-12-41) [○] **Charlie Kirk**: ["I appoint my wife to run Turning Point USA if something happens to me; Erika wou..."](/statements/statement-a0fcbbba06ce.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [01:06:55](/episodes/ep-eLgD5yUVbko.md#t-01-06-15) [○] **Candace Owens**: ["Candace Owens promised to identify who asked Charlie Kirk whom he wanted to repl..."](/statements/statement-d357fafc0d7a.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-04-10 · An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1)</summary>
+
+<div class="filter-item">
+
+- [00:30:40](/episodes/ep-ZIH5-V6UPkg.md#t-00-30-22) [○] **Donald J. Trump**: ["Donald Trump said he would take Miriam Adelson's money and then "F her over.""](/statements/statement-09f5baebb93b.md)
+  - About: [Miriam Adelson](/entities/person-miriam-adelson.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-04-02 · SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1)</summary>
+
+<div class="filter-item">
+
+- [00:19:30](/episodes/ep-q1NRQQAYS_Q.md#t-00-19-30) [✓] **Erika Kirk**: ["Turning Point USA had decades of Charlie Kirk's voice, unused speeches, and unre..."](/statements/statement-06db4bff274b.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-04-01 · Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1)</summary>
+
+<div class="filter-item">
+
+- [00:43:27](/episodes/ep-rupRLXmSndU.md#t-00-43-05) [✓] **Candace Owens**: ["Candace Owens promised to review all 600,000 documents from Tyler Robinson's def..."](/statements/statement-167d0a1ace68.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+</details>
+
+<details>
 <summary>2026-03-26 · VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>
 
 <div class="filter-item">
 
-- [00:11:58](/episodes/ep-DEtFh2Ff-58.md#t-00-11-58) [○] **Candace Owens**: ["I will try to identify and reach out to Charlie Kirk's pilot, known only as Jami..."](/statements/statement-ab9bfe7468d0.md)
+- [00:11:58](/episodes/ep-DEtFh2Ff-58.md#t-00-11-58) [✓] **Candace Owens**: ["I will try to identify and reach out to Charlie Kirk's pilot, known only as Jami..."](/statements/statement-ab9bfe7468d0.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
@@ -17727,7 +18820,7 @@ _1866 factual claims within 3271 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Citations (187)</strong></summary>
+<summary><strong class="section-title">Citations (215)</strong></summary>
 
 <details>
 <summary>2026-08-14 · Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (8)</summary>
@@ -17783,11 +18876,199 @@ _1866 factual claims within 3271 attributed statements._
 </details>
 
 <details>
+<summary>2026-04-13 · Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (5)</summary>
+
+<div class="filter-item">
+
+- [00:21:42](/episodes/ep-eLgD5yUVbko.md#t-00-20-58) [○] **Candace Owens**: ["Candace Owens said an internal Alliance Defending Freedom video showed its CEO d..."](/statements/statement-f9cef95848d6.md)
+  - About: [Alliance Defending Freedom](/entities/org-alliance-defending-freedom.md), [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:07](/episodes/ep-eLgD5yUVbko.md#t-00-22-32) [○] **Candace Owens**: ["Caleb Robinson, CEO of The Daily Wire, holds a seat on the board of Alliance Def..."](/statements/statement-75891a8d6858.md)
+  - About: [Caleb Robinson](/entities/person-caleb-robinson.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Alliance Defending Freedom](/entities/org-alliance-defending-freedom.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:13](/episodes/ep-eLgD5yUVbko.md#t-00-31-40) [○] **Candace Owens**: ["Candace Owens said a defense motion indicates Tyler Robinson had been Mirandized..."](/statements/statement-d2e836242bc0.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:38:41](/episodes/ep-eLgD5yUVbko.md#t-00-38-00) [○] **Candace Owens**: ["Candace Owens said public records conflict on Tyler Robinson's arrival time: She..."](/statements/statement-bd303a44e87d.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Nate Brooksby](/entities/person-nate-brooksby.md), [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md)
+
+</div>
+<div class="filter-item">
+
+- [00:47:49](/episodes/ep-eLgD5yUVbko.md#t-00-47-08) [○] **Candace Owens**: ["Candace Owens cited a state filing saying the prosecution did not intend to offe..."](/statements/statement-69c641e20bd3.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-04-01 · Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (6)</summary>
+
+<div class="filter-item">
+
+- [00:10:25](/episodes/ep-rupRLXmSndU.md#t-00-10-19) [✓] **Candace Owens**: ["Ahmed Qureshi is president and COO of BILT Incorporated."](/statements/statement-afc7b2581f40.md)
+  - About: [Ahmed Qureshi](/entities/person-ahmed-qureshi.md), [BILT Incorporated](/entities/org-bilt-incorporated.md), [LinkedIn](/entities/org-linkedin.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:27](/episodes/ep-rupRLXmSndU.md#t-00-12-27) [◐] **Candace Owens**: ["Ahmed Qureshi co-founded BILT in 2015 while serving full-time as an O-5 in the m..."](/statements/statement-4bf958f5ad4c.md)
+  - About: [Ahmed Qureshi](/entities/person-ahmed-qureshi.md), [BILT Incorporated](/entities/org-bilt-incorporated.md), [LinkedIn](/entities/org-linkedin.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:27](/episodes/ep-rupRLXmSndU.md#t-00-15-13) [✓] **Baron Coleman**: ["BILT received approximately $7.5 million in federal contracts dated June 1 and J..."](/statements/statement-e62d55f45502.md)
+  - About: [BILT Incorporated](/entities/org-bilt-incorporated.md), [USAspending.gov](/entities/org-usaspending-gov.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+</div>
+<div class="filter-item">
+
+- [00:16:05](/episodes/ep-rupRLXmSndU.md#t-00-16-05) [◐] **Candace Owens**: ["BILT received nearly $8 million in June 2025 from the Department of Defense, inc..."](/statements/statement-9dc82c68913f.md)
+  - About: [BILT Incorporated](/entities/org-bilt-incorporated.md), [United States Department of Defense](/entities/org-us-department-of-defense.md), [United States Air Force](/entities/org-united-states-air-force.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:38](/episodes/ep-rupRLXmSndU.md#t-00-17-20) [✓] **Candace Owens**: ["Gina Romney Henderson is married to BILT co-founder Nathan Henderson and works a..."](/statements/statement-465aa7e9aafc.md)
+  - About: [Gina Romney Henderson](/entities/person-gina-romney-henderson.md), [Nathan Henderson](/entities/person-nathan-henderson.md), [BILT Incorporated](/entities/org-bilt-incorporated.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:36](/episodes/ep-rupRLXmSndU.md#t-00-45-36) [✓] **Candace Owens**: ["The Republican National Committee changed its convention rules to bind delegates..."](/statements/statement-600b45824157.md)
+  - About: [Republican National Committee](/entities/org-republican-national-committee.md), [Ron Paul](/entities/person-ron-paul.md), [Maine](/entities/gpe-maine.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-03-31 · PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (10)</summary>
+
+<div class="filter-item">
+
+- [00:20:05](/episodes/ep-UYkXV9mYbT4.md#t-00-20-05) [✓] **Candace Owens**: ["Mr. Robinson seeks to continue the May 2026 preliminary hearing to a setting tha..."](/statements/statement-b54eabdeaada.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:20:54](/episodes/ep-UYkXV9mYbT4.md#t-00-20-47) [✓] **Candace Owens**: ["The state intended to present conclusory FBI and ATF forensic DNA and ballistics..."](/statements/statement-e713942a76ce.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md), [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:40](/episodes/ep-UYkXV9mYbT4.md#t-00-23-30) [✓] **Candace Owens**: ["On March 12, the defense received approximately 12 terabytes of data containing ..."](/statements/statement-5de594ed8d28.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Utah County Attorney's Office](/entities/org-utah-county-attorneys-office.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:54](/episodes/ep-UYkXV9mYbT4.md#t-00-25-34) [✓] **Candace Owens**: ["Mr. Robinson had not received the forensic case files and underlying data needed..."](/statements/statement-28689207beb3.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Utah County Attorney's Office](/entities/org-utah-county-attorneys-office.md)
+
+</div>
+<div class="filter-item">
+
+- [00:30:41](/episodes/ep-UYkXV9mYbT4.md#t-00-30-16) [✓] **Candace Owens**: ["The autopsy report was completed September 16, 2025 but not given to the defense..."](/statements/statement-fd9ed9231873.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Utah County Attorney's Office](/entities/org-utah-county-attorneys-office.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:32](/episodes/ep-UYkXV9mYbT4.md#t-00-32-17) [✓] **Candace Owens**: ["FBI and ATF summary DNA reports said minute quantities of DNA recovered from evi..."](/statements/statement-6f05019158ad.md)
+  - About: [FBI](/entities/org-fbi.md), [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:37:26](/episodes/ep-UYkXV9mYbT4.md#t-00-37-05) [◐] **Candace Owens**: ["The ATF summary indicated that the agency was unable to identify the bullets rec..."](/statements/statement-22e9b4f4a3c0.md)
+  - About: [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:38:51](/episodes/ep-UYkXV9mYbT4.md#t-00-38-32) [✓] **Candace Owens**: ["The ATF case file and examination protocols had not been provided to the defense..."](/statements/statement-66f945dd09e3.md)
+  - About: [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:39:04](/episodes/ep-UYkXV9mYbT4.md#t-00-38-32) [✓] **Candace Owens**: ["The FBI was conducting a second comparative bullet analysis and a bullet lead an..."](/statements/statement-b34cd0916393.md)
+  - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Comparative bullet lead analysis](/entities/concept-comparative-bullet-lead-analysis.md)
+
+</div>
+<div class="filter-item">
+
+- [00:48:08](/episodes/ep-UYkXV9mYbT4.md#t-00-48-01) [✓] **Candace Owens**: ["Unless the requested materials were produced by April 17, 2026, the defense soug..."](/statements/statement-445b1720981b.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Utah County Attorney's Office](/entities/org-utah-county-attorneys-office.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-03-30 · The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (7)</summary>
+
+<div class="filter-item">
+
+- [00:06:09](/episodes/ep-7ERqbYElOfs.md#t-00-06-09) [✓] **Candace Owens**: ["The Guardian reported that 22 people went on trial in France on murder and other..."](/statements/statement-b414d8bc3466.md)
+  - About: [The Guardian](/entities/org-the-guardian.md), [France](/entities/gpe-france.md), [Freemasonry](/entities/concept-freemasonry.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:20](/episodes/ep-7ERqbYElOfs.md#t-00-06-09) [✓] **Candace Owens**: ["The Guardian reported that 13 defendants faced possible life sentences and that ..."](/statements/statement-f2304b7df1e2.md)
+  - About: [The Guardian](/entities/org-the-guardian.md), [Athanor lodge](/entities/org-athanor-lodge.md), [France](/entities/gpe-france.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:46](/episodes/ep-7ERqbYElOfs.md#t-00-06-46) [✓] **Candace Owens**: ["The defendants included four DGSE officers, three police officers, six executive..."](/statements/statement-c26ddf2a89c7.md)
+  - About: [Direction générale de la sécurité extérieure](/entities/org-dgse.md), [Athanor lodge](/entities/org-athanor-lodge.md), [France](/entities/gpe-france.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:52](/episodes/ep-7ERqbYElOfs.md#t-00-07-30) [✓] **Candace Owens**: ["The case began with a failed July 2020 contract killing in which two members of ..."](/statements/statement-7edf1b571499.md)
+  - About: [France](/entities/gpe-france.md), [Marie-Hélène Dini](/entities/person-marie-helene-dini.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:00](/episodes/ep-7ERqbYElOfs.md#t-00-09-00) [✓] **Candace Owens**: ["The two arrested men told investigators they believed they had been asked to kil..."](/statements/statement-0087554e0b8e.md)
+  - About: [France](/entities/gpe-france.md), [Marie-Hélène Dini](/entities/person-marie-helene-dini.md), [Mossad](/entities/org-mossad.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:49](/episodes/ep-7ERqbYElOfs.md#t-00-10-49) [✓] **Candace Owens**: ["Jean-Luc Bagur, Frédéric Vaglio, and Daniel Beaulieu organized the attempted hit..."](/statements/statement-ed0631702ef8.md)
+  - About: [Jean-Luc Bagur](/entities/person-jean-luc-bagur.md), [Frédéric Vaglio](/entities/person-frederic-vaglio.md), [Daniel Beaulieu](/entities/person-daniel-beaulieu.md)
+
+</div>
+<div class="filter-item">
+
+- [00:29:32](/episodes/ep-7ERqbYElOfs.md#t-00-29-32) [✓] **Candace Owens**: ["The Washington County Commission confirmed that Nate Brooksby resigned on Friday..."](/statements/statement-1e7fc8e95de2.md)
+  - About: [Nate Brooksby](/entities/person-nate-brooksby.md), [Washington County Commission](/entities/org-washington-county-commission.md)
+
+</div>
+</details>
+
+<details>
 <summary>2026-03-26 · VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>
 
 <div class="filter-item">
 
-- [00:38:45](/episodes/ep-DEtFh2Ff-58.md#t-00-38-21) [○] **Candace Owens**: ["The aircraft under discussion has tail number N582MM."](/statements/statement-36c14f1e0f50.md)
+- [00:38:45](/episodes/ep-DEtFh2Ff-58.md#t-00-38-21) [✓] **Candace Owens**: ["The aircraft under discussion has tail number N582MM."](/statements/statement-36c14f1e0f50.md)
   - About: [N582MM](/entities/vehicle-n582mm.md)
 
 </div>
@@ -19086,7 +20367,7 @@ _1866 factual claims within 3271 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Opinions (317)</strong></summary>
+<summary><strong class="section-title">Opinions (362)</strong></summary>
 
 <details>
 <summary>2026-08-14 · Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (5)</summary>
@@ -19119,6 +20400,306 @@ _1866 factual claims within 3271 attributed statements._
 
 - [03:57:47](/episodes/ep-nPhCKwJ6ye8.md#t-03-57-15) [○] **Andrew Wilson**: ["Andrew Wilson concluded that no alternative theory presented in the debate had e..."](/statements/statement-d32537eb2441.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-04-13 · Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (7)</summary>
+
+<div class="filter-item">
+
+- [00:00:26](/episodes/ep-eLgD5yUVbko.md#t-00-00-26) [○] **Candace Owens**: ["In Candace Owens's view, Tyler Robinson did not commit Charlie Kirk's murder."](/statements/statement-71dd61a0b518.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:26:09](/episodes/ep-eLgD5yUVbko.md#t-00-25-41) [○] **Candace Owens**: ["Candace Owens said Ben Shapiro feels dangerous to her."](/statements/statement-028f6a73b05e.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:51:58](/episodes/ep-eLgD5yUVbko.md#t-00-51-17) [○] **Candace Owens**: ["Candace Owens said the war against Iran is unjust and morally contemptible, puts..."](/statements/statement-1fa070e7f5a4.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md), [Middle East](/entities/gpe-middle-east.md)
+
+</div>
+<div class="filter-item">
+
+- [00:52:55](/episodes/ep-eLgD5yUVbko.md#t-00-52-23) [○] **Donald J. Trump**: ["Pope Leo XIV is weak on crime and terrible for foreign policy, and wrongly accep..."](/statements/statement-131150fb7620.md)
+  - About: [Pope Leo XIV](/entities/person-pope-leo-xiv.md), [Iran](/entities/gpe-iran.md)
+
+</div>
+<div class="filter-item">
+
+- [00:56:41](/episodes/ep-eLgD5yUVbko.md#t-00-56-25) [○] **Candace Owens**: ["Candace Owens said Donald Trump is not a Christian and that the Catholic Church ..."](/statements/statement-ecb6b851885c.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Jesus Christ](/entities/person-jesus-christ.md), [Catholic Church](/entities/org-catholic-church.md)
+
+</div>
+<div class="filter-item">
+
+- [00:57:23](/episodes/ep-eLgD5yUVbko.md#t-00-57-00) [○] **Candace Owens**: ["Candace Owens said Catholics cannot support Donald Trump in this moment."](/statements/statement-cd30c664e00a.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Catholicism](/entities/concept-catholicism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:57:53](/episodes/ep-eLgD5yUVbko.md#t-00-57-35) [○] **Pope Leo XIV**: ["Pope Leo XIV said the Gospel's message is "blessed are the peacemakers" and that..."](/statements/statement-e7a6e05acf90.md)
+  - About: [Christianity](/entities/concept-christianity.md), [Catholic Church](/entities/org-catholic-church.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-04-10 · An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (18)</summary>
+
+<div class="filter-item">
+
+- [00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51) [○] **Donald J. Trump**: ["Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have fought Donald Tr..."](/statements/statement-6e15836da95b.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:24](/episodes/ep-ZIH5-V6UPkg.md#t-00-07-24) [○] **Candace Owens**: ["Tucker Carlson is more powerful than Donald Trump."](/statements/statement-00f6b04eb1ee.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-07-24) [○] **Donald J. Trump**: ["Tucker Carlson was broken after being fired from Fox and should see a psychiatri..."](/statements/statement-6fefc965fff7.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Fox News](/entities/org-fox-news.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:18](/episodes/ep-ZIH5-V6UPkg.md#t-00-10-49) [○] **Donald J. Trump**: ["Alex Jones deserved to lose his fortune for claiming the Sandy Hook shooting was..."](/statements/statement-3653c0700536.md)
+  - About: [Alex Jones](/entities/person-alex-jones.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-12-12) [○] **Donald J. Trump**: ["MAGA is about strength and not allowing Iran to have nuclear weapons."](/statements/statement-36571d39f9e0.md)
+  - About: [MAGA movement](/entities/concept-maga-movement.md), [Iran](/entities/gpe-iran.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:09](/episodes/ep-ZIH5-V6UPkg.md#t-00-12-54) [○] **Candace Owens**: ["Donald Trump's message was internally incoherent because it both cited and attac..."](/statements/statement-5cfaf16a2500.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [CNN](/entities/org-cnn.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-13-37) [○] **Candace Owens**: ["MAGA is no longer commanded by Donald Trump."](/statements/statement-5ff7cb8aef69.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [MAGA movement](/entities/concept-maga-movement.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:01](/episodes/ep-ZIH5-V6UPkg.md#t-00-13-37) [○] **Candace Owens**: ["Donald Trump belongs to the Epstein class, and that is now his legacy."](/statements/statement-4903284b7038.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:37](/episodes/ep-ZIH5-V6UPkg.md#t-00-14-18) [○] **Candace Owens**: ["Donald Trump chose money over respect."](/statements/statement-5e62c028c38e.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:02](/episodes/ep-ZIH5-V6UPkg.md#t-00-17-02) [○] **Candace Owens**: ["Benjamin Netanyahu is Donald Trump's master."](/statements/statement-40f2603b502e.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item">
+
+- [00:21:29](/episodes/ep-ZIH5-V6UPkg.md#t-00-21-17) [○] **Candace Owens**: ["Donald Trump's advisers know how to insulate him and encourage him to self-destr..."](/statements/statement-cd75f35f5159.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item">
+
+- [00:27:42](/episodes/ep-ZIH5-V6UPkg.md#t-00-27-42) [○] **Tucker Carlson**: ["Israel may be using Clinton-style blackmail or something more morbid against Don..."](/statements/statement-59d621e55ff6.md)
+  - About: [Israel](/entities/gpe-israel.md), [Donald J. Trump](/entities/person-donald-trump.md), [Bill Clinton](/entities/person-bill-clinton.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:59](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-54) [○] **Candace Owens**: ["Israel is the true death cult."](/statements/statement-dce8dc9532fa.md)
+  - About: [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:18](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-54) [○] **Candace Owens**: ["Candace Owens believes the Likud government celebrates murdering children, based..."](/statements/statement-62008193f486.md)
+  - About: [Likud](/entities/org-likud.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:37:43](/episodes/ep-ZIH5-V6UPkg.md#t-00-37-43) [○] **Candace Owens**: ["The first casualty of the Iranian war was Charlie Kirk, whom Candace Owens belie..."](/statements/statement-3c65604ff9a1.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:43:29](/episodes/ep-ZIH5-V6UPkg.md#t-00-43-29) [○] **Candace Owens**: ["Candace Owens is Christian first and will not support killing people to pursue a..."](/statements/statement-70ef91047b44.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Christianity](/entities/concept-christianity.md), [Greater Israel](/entities/concept-greater-israel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-45-32) [○] **Candace Owens**: ["Donald Trump betrayed his supporters for more money, deals, and the opportunity ..."](/statements/statement-6491134e966b.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-46-58) [○] **Candace Owens**: ["Charlie Kirk was betrayed by the closest people he helped put into power."](/statements/statement-a4328f5a0ff5.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-04-02 · SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (3)</summary>
+
+<div class="filter-item">
+
+- [00:14:44](/episodes/ep-q1NRQQAYS_Q.md#t-00-14-38) [○] **Blake Neff**: ["Charlie and Erika Kirk were partners, and their marriage was exceptional."](/statements/statement-4257ea904ff5.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:28:11](/episodes/ep-q1NRQQAYS_Q.md#t-00-28-11) [○] **Candace Owens**: ["Erika Kirk's response about balancing family and leadership was hypocritical and..."](/statements/statement-c9c2303d35dd.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:29](/episodes/ep-q1NRQQAYS_Q.md#t-00-44-07) [○] **Candace Owens**: ["Candace Owens does not believe Erika Kirk was with her mother on September 10 an..."](/statements/statement-ed2126b3b2c0.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-04-01 · Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (7)</summary>
+
+<div class="filter-item">
+
+- [00:02:06](/episodes/ep-rupRLXmSndU.md#t-00-01-34) [○] **Candace Owens**: ["The offer to take Turning Point USA to the next level may have been guaranteed t..."](/statements/statement-5215789fbfe8.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Iran](/entities/gpe-iran.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:41](/episodes/ep-rupRLXmSndU.md#t-00-05-14) [○] **Candace Owens**: ["It appeared as though the Timpanogos emergency room had been cleared for Turning..."](/statements/statement-965fbb4f8f8b.md)
+  - About: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:34:11](/episodes/ep-rupRLXmSndU.md#t-00-33-34) [○] **Candace Owens**: ["The FBI knows Tyler Robinson did not kill Charlie Kirk."](/statements/statement-ee577096d11a.md)
+  - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:17](/episodes/ep-rupRLXmSndU.md#t-00-36-17) [○] **Candace Owens**: ["Candace Owens said she was not claiming Benjamin Netanyahu was aboard the Egypti..."](/statements/statement-f1817735b17d.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Egypt](/entities/gpe-egypt.md), [Provo](/entities/gpe-provo.md)
+
+</div>
+<div class="filter-item">
+
+- [00:39:52](/episodes/ep-rupRLXmSndU.md#t-00-39-35) [○] **Donald J. Trump**: ["Erika Kirk should sue the people criticizing her because they are jealous."](/statements/statement-f37df3ab74ff.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:48:20](/episodes/ep-rupRLXmSndU.md#t-00-48-20) [○] **Candace Owens**: ["The CIA apparatus was being used to socially engineer support for Israel after C..."](/statements/statement-252982585ec2.md)
+  - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:49:33](/episodes/ep-rupRLXmSndU.md#t-00-49-25) [○] **Charlie Kirk**: ["You've left me no choice but to abandon the pro-Israel cause."](/statements/statement-49c8a4f7094b.md)
+  - About: [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-03-31 · PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (8)</summary>
+
+<div class="filter-item">
+
+- [00:00:50](/episodes/ep-UYkXV9mYbT4.md#t-00-00-42) [○] **Candace Owens**: ["In my opinion, it is definitive proof that Tyler Robinson is a patsy."](/statements/statement-5d0d4715d2cc.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:01:01](/episodes/ep-UYkXV9mYbT4.md#t-00-00-42) [○] **Candace Owens**: ["The feds are just putting this on him, and I do mean the FBI. From JFK to MLK, n..."](/statements/statement-e8c331305ff4.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:37](/episodes/ep-UYkXV9mYbT4.md#t-00-05-20) [○] **Candace Owens**: ["I am going to speculate this boldly: they were hiding the fact that the bullet d..."](/statements/statement-8db33ee5af32.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:26](/episodes/ep-UYkXV9mYbT4.md#t-00-12-05) [○] **Lee Trotter**: ["It was an absolute miracle that someone else didn't get killed; his bone was so ..."](/statements/statement-3baf1bbe44ad.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:01](/episodes/ep-UYkXV9mYbT4.md#t-00-18-01) [○] **Candace Owens**: ["Based on the evidence and the people I have spoken to, I believe the feds are pa..."](/statements/statement-8d024ceb9198.md)
+  - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:41](/episodes/ep-UYkXV9mYbT4.md#t-00-31-35) [○] **Erika Kirk**: ["Please, I just want the case to be fast. This is hard. I'm asking them to move a..."](/statements/statement-004c0674c000.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:50:05](/episodes/ep-UYkXV9mYbT4.md#t-00-49-52) [○] **Candace Owens**: ["Everything they are doing signals to me that this is a federal job from start to..."](/statements/statement-8f1130905af2.md)
+  - About: [FBI](/entities/org-fbi.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:53:27](/episodes/ep-UYkXV9mYbT4.md#t-00-53-20) [○] **Candace Owens**: ["The people Charlie put into positions of power turned on him for money."](/statements/statement-b66582de7705.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-03-30 · The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (2)</summary>
+
+<div class="filter-item">
+
+- [00:18:45](/episodes/ep-7ERqbYElOfs.md#t-00-18-17) [○] **Candace Owens**: ["Erika Kirk's performance makes it impossible for Candace Owens to think Kirk is ..."](/statements/statement-2888ee2fdab4.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:37:41](/episodes/ep-7ERqbYElOfs.md#t-00-37-12) [○] **Candace Owens**: ["Mike Mitchell was working with federal agents to put the Charlie Kirk killing on..."](/statements/statement-4f479f057f03.md)
+  - About: [Mike Mitchell](/entities/person-mike-mitchell.md), [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </div>
 </details>
@@ -21625,29 +23206,1505 @@ _1866 factual claims within 3271 attributed statements._
 </details>
 
 <details>
+<summary><strong>2026-04-13 · Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</strong> (36)</summary>
+
+<div class="filter-item">
+
+- [00:00:26](/episodes/ep-eLgD5yUVbko.md#t-00-00-26) [○] (Opinion) **Candace Owens**: ["In Candace Owens's view, Tyler Robinson did not commit Charlie Kirk's murder."](/statements/statement-71dd61a0b518.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:00:55](/episodes/ep-eLgD5yUVbko.md#t-00-00-26) [○] (Accusation) **Anonymous Source #1 (Ep eLgD5yUVbko)**: ["Turning Point USA donors who attended the Aspen presentation told Candace Owens ..."](/statements/statement-f3b720a9754e.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:11](/episodes/ep-eLgD5yUVbko.md#t-00-12-01) [○] (Claim) **Anonymous Source #1 (Ep eLgD5yUVbko)**: ["Two Turning Point USA donors who attended the Aspen presentation told Candace Ow..."](/statements/statement-dfd940c34f36.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:56](/episodes/ep-eLgD5yUVbko.md#t-00-12-41) [○] (Promise) **Charlie Kirk**: ["I appoint my wife to run Turning Point USA if something happens to me; Erika wou..."](/statements/statement-a0fcbbba06ce.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:10](/episodes/ep-eLgD5yUVbko.md#t-00-13-39) [○] (Claim) **Andrew Kolvet**: ["Andrew Kolvet said Turning Point USA had been pitched multiple times on a "weird..."](/statements/statement-516fcc69ba15.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Artificial intelligence](/entities/concept-artificial-intelligence.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:33](/episodes/ep-eLgD5yUVbko.md#t-00-15-12) [○] (Claim) **Anonymous Source #1 (Ep eLgD5yUVbko)**: ["The Aspen donors told Candace Owens that Charlie Kirk did not mention Erika Kirk..."](/statements/statement-f9f4e64d6158.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:16:38](/episodes/ep-eLgD5yUVbko.md#t-00-15-53) [○] (Accusation) **Candace Owens**: ["Candace Owens suggested that the released Aspen succession audio may have been g..."](/statements/statement-d983a9e98b02.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:50](/episodes/ep-eLgD5yUVbko.md#t-00-18-22) [○] (Accusation) **Candace Owens**: ["Ben Shapiro worked behind the scenes to have Jewish donors and writers pressure ..."](/statements/statement-c1750cd12c62.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:19:00](/episodes/ep-eLgD5yUVbko.md#t-00-19-00) [○] (Accusation) **Candace Owens**: ["Andrew Kolvet effectively forced Charlie Kirk to interview Ben Shapiro a few day..."](/statements/statement-32b5e729b94a.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+</div>
+<div class="filter-item">
+
+- [00:20:58](/episodes/ep-eLgD5yUVbko.md#t-00-20-19) [○] (Accusation) **Anonymous Source #3 (Ep eLgD5yUVbko)**: ["Alliance Defending Freedom insiders told Candace Owens that Ben Shapiro was work..."](/statements/statement-73534409fe2f.md)
+  - About: [Alliance Defending Freedom](/entities/org-alliance-defending-freedom.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:21:42](/episodes/ep-eLgD5yUVbko.md#t-00-20-58) [○] (Citation) **Candace Owens**: ["Candace Owens said an internal Alliance Defending Freedom video showed its CEO d..."](/statements/statement-f9cef95848d6.md)
+  - About: [Alliance Defending Freedom](/entities/org-alliance-defending-freedom.md), [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:07](/episodes/ep-eLgD5yUVbko.md#t-00-22-32) [○] (Citation) **Candace Owens**: ["Caleb Robinson, CEO of The Daily Wire, holds a seat on the board of Alliance Def..."](/statements/statement-75891a8d6858.md)
+  - About: [Caleb Robinson](/entities/person-caleb-robinson.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Alliance Defending Freedom](/entities/org-alliance-defending-freedom.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:59](/episodes/ep-eLgD5yUVbko.md#t-00-23-45) [○] (Accusation) **Candace Owens**: ["Candace Owens accused The Daily Wire of conducting a sustained gang-stalking cam..."](/statements/statement-5b6c1d0fcccf.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:26:09](/episodes/ep-eLgD5yUVbko.md#t-00-25-41) [○] (Opinion) **Candace Owens**: ["Candace Owens said Ben Shapiro feels dangerous to her."](/statements/statement-028f6a73b05e.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:30:32](/episodes/ep-eLgD5yUVbko.md#t-00-30-22) [○] (Claim) **Anonymous Source #4 (Ep 2WEHTk0Xewg)**: ["A source with direct knowledge of Tyler Robinson's arrest told Candace Owens tha..."](/statements/statement-5952e7cf3c63.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:03](/episodes/ep-eLgD5yUVbko.md#t-00-30-22) [○] (Accusation) **Anonymous Source #4 (Ep 2WEHTk0Xewg)**: ["The arrest source told Candace Owens that Governor Spencer Cox and police were l..."](/statements/statement-a3c20629d66e.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:13](/episodes/ep-eLgD5yUVbko.md#t-00-31-03) [○] (Claim) **Anonymous Source #4 (Ep 2WEHTk0Xewg)**: ["The arrest source told Candace Owens that police initially planned to pick Tyler..."](/statements/statement-cb379db076a1.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Warner Valley](/entities/gpe-warner-valley.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:13](/episodes/ep-eLgD5yUVbko.md#t-00-31-40) [○] (Citation) **Candace Owens**: ["Candace Owens said a defense motion indicates Tyler Robinson had been Mirandized..."](/statements/statement-d2e836242bc0.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:51](/episodes/ep-eLgD5yUVbko.md#t-00-35-25) [○] (Accusation) **Candace Owens**: ["Candace Owens argued that the FBI released suspect photos and sought public iden..."](/statements/statement-3d4ae6743ef6.md)
+  - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Spencer Cox](/entities/person-spencer-cox.md)
+
+</div>
+<div class="filter-item">
+
+- [00:38:41](/episodes/ep-eLgD5yUVbko.md#t-00-38-00) [○] (Citation) **Candace Owens**: ["Candace Owens said public records conflict on Tyler Robinson's arrival time: She..."](/statements/statement-bd303a44e87d.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Nate Brooksby](/entities/person-nate-brooksby.md), [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md)
+
+</div>
+<div class="filter-item">
+
+- [00:41:44](/episodes/ep-eLgD5yUVbko.md#t-00-41-37) [○] (Claim) **Spencer Cox**: ["Spencer Cox said investigators were shown Discord messages between Tyler Robinso..."](/statements/statement-9e5da808822c.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Discord](/entities/org-discord.md)
+
+</div>
+<div class="filter-item">
+
+- [00:43:00](/episodes/ep-eLgD5yUVbko.md#t-00-42-52) [○] (Accusation) **Candace Owens**: ["Candace Owens accused federal authorities of changing their account from Discord..."](/statements/statement-377e9550e3a3.md)
+  - About: [FBI](/entities/org-fbi.md), [Discord](/entities/org-discord.md), [iMessage](/entities/work-imessage.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:32](/episodes/ep-eLgD5yUVbko.md#t-00-45-03) [○] (Accusation) **Candace Owens**: ["Candace Owens accused Lance Twiggs of being a federal informant working on behal..."](/statements/statement-3d9aac692b7f.md)
+  - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:40](/episodes/ep-eLgD5yUVbko.md#t-00-45-03) [○] (Accusation) **Anonymous Source #2 (Ep eLgD5yUVbko)**: ["Members of Lance Twiggs's family told Candace Owens that it was "completely insa..."](/statements/statement-f109089222e8.md)
+  - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:47:49](/episodes/ep-eLgD5yUVbko.md#t-00-47-08) [○] (Citation) **Candace Owens**: ["Candace Owens cited a state filing saying the prosecution did not intend to offe..."](/statements/statement-69c641e20bd3.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+</div>
+<div class="filter-item">
+
+- [00:48:33](/episodes/ep-eLgD5yUVbko.md#t-00-47-49) [○] (Accusation) **Candace Owens**: ["Candace Owens said the Tyler Robinson case is a setup and that Robinson is a pat..."](/statements/statement-1eecc57afa84.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:51:58](/episodes/ep-eLgD5yUVbko.md#t-00-51-17) [○] (Opinion) **Candace Owens**: ["Candace Owens said the war against Iran is unjust and morally contemptible, puts..."](/statements/statement-1fa070e7f5a4.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md), [Middle East](/entities/gpe-middle-east.md)
+
+</div>
+<div class="filter-item">
+
+- [00:52:55](/episodes/ep-eLgD5yUVbko.md#t-00-52-23) [○] (Opinion) **Donald J. Trump**: ["Pope Leo XIV is weak on crime and terrible for foreign policy, and wrongly accep..."](/statements/statement-131150fb7620.md)
+  - About: [Pope Leo XIV](/entities/person-pope-leo-xiv.md), [Iran](/entities/gpe-iran.md)
+
+</div>
+<div class="filter-item">
+
+- [00:53:57](/episodes/ep-eLgD5yUVbko.md#t-00-53-40) [○] (Claim) **Donald J. Trump**: ["Donald Trump claimed that Pope Leo XIV was chosen because he was American and th..."](/statements/statement-4b315897c442.md)
+  - About: [Pope Leo XIV](/entities/person-pope-leo-xiv.md), [Donald J. Trump](/entities/person-donald-trump.md), [Catholic Church](/entities/org-catholic-church.md)
+
+</div>
+<div class="filter-item">
+
+- [00:56:41](/episodes/ep-eLgD5yUVbko.md#t-00-56-25) [○] (Opinion) **Candace Owens**: ["Candace Owens said Donald Trump is not a Christian and that the Catholic Church ..."](/statements/statement-ecb6b851885c.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Jesus Christ](/entities/person-jesus-christ.md), [Catholic Church](/entities/org-catholic-church.md)
+
+</div>
+<div class="filter-item">
+
+- [00:57:23](/episodes/ep-eLgD5yUVbko.md#t-00-57-00) [○] (Opinion) **Candace Owens**: ["Candace Owens said Catholics cannot support Donald Trump in this moment."](/statements/statement-cd30c664e00a.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Catholicism](/entities/concept-catholicism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:57:53](/episodes/ep-eLgD5yUVbko.md#t-00-57-35) [○] (Opinion) **Pope Leo XIV**: ["Pope Leo XIV said the Gospel's message is "blessed are the peacemakers" and that..."](/statements/statement-e7a6e05acf90.md)
+  - About: [Christianity](/entities/concept-christianity.md), [Catholic Church](/entities/org-catholic-church.md)
+
+</div>
+<div class="filter-item">
+
+- [00:59:47](/episodes/ep-eLgD5yUVbko.md#t-00-59-43) [○] (Claim) **Candace Owens**: ["Candace Owens said Donald Trump had lost support from the Make America Healthy A..."](/statements/statement-cdcdb0b37222.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Make America Healthy Again](/entities/concept-make-america-healthy-again.md), [Megyn Kelly](/entities/person-megyn-kelly.md)
+
+</div>
+<div class="filter-item">
+
+- [01:01:04](/episodes/ep-eLgD5yUVbko.md#t-01-00-59) [○] (Claim) **Donald J. Trump**: ["Donald Trump said he posted an AI image because he thought it depicted him as a ..."](/statements/statement-90beac51be54.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [American Red Cross](/entities/org-american-red-cross.md), [Jesus Christ](/entities/person-jesus-christ.md)
+
+</div>
+<div class="filter-item">
+
+- [01:06:55](/episodes/ep-eLgD5yUVbko.md#t-01-06-15) [○] (Promise) **Candace Owens**: ["Candace Owens promised to identify who asked Charlie Kirk whom he wanted to repl..."](/statements/statement-d357fafc0d7a.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [01:07:37](/episodes/ep-eLgD5yUVbko.md#t-01-06-59) [○] (Accusation) **Candace Owens**: ["Candace Owens accused Erika Kirk's events of using fake, pre-planned question-an..."](/statements/statement-2a61ec0f217f.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+</details>
+
+<details>
+<summary><strong>2026-04-10 · An Open Letter To President Donald Trump (My Response) | Candace Ep 322</strong> (41)</summary>
+
+<div class="filter-item">
+
+- [00:02:36](/episodes/ep-ZIH5-V6UPkg.md#t-00-02-27) [○] (Accusation) **Candace Owens**: ["Whoever decided to kill Charlie Kirk correctly assessed that he was a threat bec..."](/statements/statement-33732dcb88cb.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51) [○] (Opinion) **Donald J. Trump**: ["Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have fought Donald Tr..."](/statements/statement-6e15836da95b.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:04:41](/episodes/ep-ZIH5-V6UPkg.md#t-00-04-35) [◐] (Claim) **Donald J. Trump**: ["Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have been thrown off ..."](/statements/statement-96380b58c1d8.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:24](/episodes/ep-ZIH5-V6UPkg.md#t-00-07-24) [○] (Opinion) **Candace Owens**: ["Tucker Carlson is more powerful than Donald Trump."](/statements/statement-00f6b04eb1ee.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-07-24) [○] (Opinion) **Donald J. Trump**: ["Tucker Carlson was broken after being fired from Fox and should see a psychiatri..."](/statements/statement-6fefc965fff7.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Fox News](/entities/org-fox-news.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:06](/episodes/ep-ZIH5-V6UPkg.md#t-00-08-45) [✓] (Claim) **Donald J. Trump**: ["Brigitte Macron is not a man."](/statements/statement-0d0c16a1c0bc.md)
+  - About: [Brigitte Macron](/entities/person-brigitte-macron.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:49](/episodes/ep-ZIH5-V6UPkg.md#t-00-10-49) [○] (Accusation) **Candace Owens**: ["Did Donald Trump's response to demands for the Epstein files reveal a pattern of..."](/statements/statement-6d2e298531b6.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:18](/episodes/ep-ZIH5-V6UPkg.md#t-00-10-49) [○] (Opinion) **Donald J. Trump**: ["Alex Jones deserved to lose his fortune for claiming the Sandy Hook shooting was..."](/statements/statement-3653c0700536.md)
+  - About: [Alex Jones](/entities/person-alex-jones.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-12-12) [○] (Opinion) **Donald J. Trump**: ["MAGA is about strength and not allowing Iran to have nuclear weapons."](/statements/statement-36571d39f9e0.md)
+  - About: [MAGA movement](/entities/concept-maga-movement.md), [Iran](/entities/gpe-iran.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:28](/episodes/ep-ZIH5-V6UPkg.md#t-00-12-12) [◐] (Accusation) **Candace Owens**: ["Is the United States "hot" because it is bombing children and killed 150 schoolg..."](/statements/statement-8ceb94ca700d.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [United States](/entities/gpe-united-states.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:28](/episodes/ep-ZIH5-V6UPkg.md#t-00-12-12) [◐] (Accusation) **Candace Owens**: ["Is the United States "hot" because officials lied about six servicemen who died ..."](/statements/statement-b0935f34fce0.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [United States](/entities/gpe-united-states.md), [CBS News](/entities/org-cbs-news.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:09](/episodes/ep-ZIH5-V6UPkg.md#t-00-12-54) [○] (Opinion) **Candace Owens**: ["Donald Trump's message was internally incoherent because it both cited and attac..."](/statements/statement-5cfaf16a2500.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [CNN](/entities/org-cnn.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-13-37) [○] (Opinion) **Candace Owens**: ["MAGA is no longer commanded by Donald Trump."](/statements/statement-5ff7cb8aef69.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [MAGA movement](/entities/concept-maga-movement.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:01](/episodes/ep-ZIH5-V6UPkg.md#t-00-13-37) [○] (Opinion) **Candace Owens**: ["Donald Trump belongs to the Epstein class, and that is now his legacy."](/statements/statement-4903284b7038.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:37](/episodes/ep-ZIH5-V6UPkg.md#t-00-14-18) [○] (Opinion) **Candace Owens**: ["Donald Trump chose money over respect."](/statements/statement-5e62c028c38e.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:02](/episodes/ep-ZIH5-V6UPkg.md#t-00-17-02) [○] (Opinion) **Candace Owens**: ["Benjamin Netanyahu is Donald Trump's master."](/statements/statement-40f2603b502e.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item">
+
+- [00:21:29](/episodes/ep-ZIH5-V6UPkg.md#t-00-21-17) [○] (Opinion) **Candace Owens**: ["Donald Trump's advisers know how to insulate him and encourage him to self-destr..."](/statements/statement-cd75f35f5159.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-12) [◐] (Accusation) **Candace Owens**: ["Donald Trump promised no new wars in the Middle East but now pursues continuing ..."](/statements/statement-8eb161990c66.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md), [Middle East](/entities/gpe-middle-east.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:55](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-55) [✓] (Claim) **Candace Owens**: ["Donald Trump sat at the side of the table in the White House Situation Room whil..."](/statements/statement-a96ed1eeec64.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [White House](/entities/org-white-house.md)
+
+</div>
+<div class="filter-item">
+
+- [00:26:43](/episodes/ep-ZIH5-V6UPkg.md#t-00-26-31) [○] (Accusation) **Tucker Carlson**: ["The Israeli government has a history of blackmailing U.S. presidents."](/statements/statement-e6c51d0b0c47.md)
+  - About: [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
+
+</div>
+<div class="filter-item">
+
+- [00:26:43](/episodes/ep-ZIH5-V6UPkg.md#t-00-26-31) [○] (Claim) **Tucker Carlson**: ["Israel used recordings of Bill Clinton and Monica Lewinsky's phone-sex sessions ..."](/statements/statement-1ad2cbf015a8.md)
+  - About: [Israel](/entities/gpe-israel.md), [Bill Clinton](/entities/person-bill-clinton.md), [Monica Lewinsky](/entities/person-monica-lewinsky.md)
+
+</div>
+<div class="filter-item">
+
+- [00:27:27](/episodes/ep-ZIH5-V6UPkg.md#t-00-27-13) [◐] (Accusation) **Tucker Carlson**: ["Israel wants the United States to fight its war so it can expand its borders and..."](/statements/statement-4f887d8a59ce.md)
+  - About: [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md), [Greater Israel](/entities/concept-greater-israel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:27:42](/episodes/ep-ZIH5-V6UPkg.md#t-00-27-42) [○] (Opinion) **Tucker Carlson**: ["Israel may be using Clinton-style blackmail or something more morbid against Don..."](/statements/statement-59d621e55ff6.md)
+  - About: [Israel](/entities/gpe-israel.md), [Donald J. Trump](/entities/person-donald-trump.md), [Bill Clinton](/entities/person-bill-clinton.md)
+
+</div>
+<div class="filter-item">
+
+- [00:29:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38) [○] (Claim) **Candace Owens**: ["Charlie Kirk and Andrew Kolvet were present at Donald Trump's meeting tied to Mi..."](/statements/statement-808db6b3cb4f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item">
+
+- [00:30:22](/episodes/ep-ZIH5-V6UPkg.md#t-00-30-22) [◐] (Claim) **Miriam Adelson**: ["Miriam Adelson wanted Donald Trump, in exchange for $100 million, to allow annex..."](/statements/statement-2ae031f5f3f2.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [West Bank](/entities/gpe-west-bank.md)
+
+</div>
+<div class="filter-item">
+
+- [00:30:40](/episodes/ep-ZIH5-V6UPkg.md#t-00-30-22) [○] (Promise) **Donald J. Trump**: ["Donald Trump said he would take Miriam Adelson's money and then "F her over.""](/statements/statement-09f5baebb93b.md)
+  - About: [Miriam Adelson](/entities/person-miriam-adelson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:29](/episodes/ep-ZIH5-V6UPkg.md#t-00-31-29) [○] (Accusation) **Candace Owens**: ["Donald Trump appeared completely disinterested in determining who fired the shot..."](/statements/statement-2c6aee41dded.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+</div>
+<div class="filter-item">
+
+- [00:33:21](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54) [○] (Claim) **Candace Owens**: ["Laura Loomer has been committed multiple times."](/statements/statement-b9ab454b1bd9.md)
+  - About: [Laura Loomer](/entities/person-laura-loomer.md)
+
+</div>
+<div class="filter-item">
+
+- [00:33:38](/episodes/ep-ZIH5-V6UPkg.md#t-00-33-38) [✗] (Claim) **Candace Owens**: ["Laura Loomer was not bat mitzvahed and is not Jewish."](/statements/statement-85265c9dd8e8.md)
+  - About: [Laura Loomer](/entities/person-laura-loomer.md), [Judaism](/entities/concept-judaism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:34:19](/episodes/ep-ZIH5-V6UPkg.md#t-00-34-19) [✓] (Claim) **Laura Loomer**: ["Laura Loomer sent Donald Trump a Tucker Carlson clip so the president could see ..."](/statements/statement-854fa1a9f63d.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:34:48](/episodes/ep-ZIH5-V6UPkg.md#t-00-34-48) [○] (Accusation) **Laura Loomer**: ["Tucker Carlson is lying about Donald Trump, smearing him, creating chaos, and en..."](/statements/statement-c0feb2dbd3e5.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Donald J. Trump](/entities/person-donald-trump.md), [United States](/entities/gpe-united-states.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:36](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-26) [○] (Accusation) **Laura Loomer**: ["Tucker Carlson incites violence against evangelicals, Jewish Americans, and Dona..."](/statements/statement-1d4fb271ea2b.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Donald J. Trump](/entities/person-donald-trump.md), [Jewish people](/entities/concept-jewish-people.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:59](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-54) [○] (Opinion) **Candace Owens**: ["Israel is the true death cult."](/statements/statement-dce8dc9532fa.md)
+  - About: [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:10](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-54) [◐] (Accusation) **Candace Owens**: ["The Likud government is murderous and has a particular knack for murdering child..."](/statements/statement-dd48f45143b4.md)
+  - About: [Likud](/entities/org-likud.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:18](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-54) [○] (Opinion) **Candace Owens**: ["Candace Owens believes the Likud government celebrates murdering children, based..."](/statements/statement-62008193f486.md)
+  - About: [Likud](/entities/org-likud.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:56](/episodes/ep-ZIH5-V6UPkg.md#t-00-36-32) [○] (Claim) **Candace Owens**: ["Jewish Americans and rabbis have written Candace Owens saying she is right about..."](/statements/statement-7272ca9671b8.md)
+  - About: [Jewish people](/entities/concept-jewish-people.md), [Sabbateanism](/entities/concept-sabbateanism.md), [Frankism](/entities/concept-frankism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:37:43](/episodes/ep-ZIH5-V6UPkg.md#t-00-37-43) [○] (Opinion) **Candace Owens**: ["The first casualty of the Iranian war was Charlie Kirk, whom Candace Owens belie..."](/statements/statement-3c65604ff9a1.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:43:29](/episodes/ep-ZIH5-V6UPkg.md#t-00-43-29) [○] (Opinion) **Candace Owens**: ["Candace Owens is Christian first and will not support killing people to pursue a..."](/statements/statement-70ef91047b44.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Christianity](/entities/concept-christianity.md), [Greater Israel](/entities/concept-greater-israel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:11](/episodes/ep-ZIH5-V6UPkg.md#t-00-44-11) [○] (Accusation) **Candace Owens**: ["Politicians send U.S. tax money overseas, launder it, return it to themselves, a..."](/statements/statement-7ee1138bcbc4.md)
+  - About: [United States](/entities/gpe-united-states.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-45-32) [○] (Opinion) **Candace Owens**: ["Donald Trump betrayed his supporters for more money, deals, and the opportunity ..."](/statements/statement-6491134e966b.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-46-58) [○] (Opinion) **Candace Owens**: ["Charlie Kirk was betrayed by the closest people he helped put into power."](/statements/statement-a4328f5a0ff5.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
+
+<details>
+<summary><strong>2026-04-02 · SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321</strong> (43)</summary>
+
+<div class="filter-item">
+
+- [00:00:00](/episodes/ep-q1NRQQAYS_Q.md#t-00-00-00) [✓] (Claim) **Candace Owens**: ["Pam Bondi has been fired."](/statements/statement-451810050ba6.md)
+  - About: [Pam Bondi](/entities/person-pam-bondi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:01:29](/episodes/ep-q1NRQQAYS_Q.md#t-00-01-20) [◐] (Accusation) **Candace Owens**: ["Zachariah Qureshi was detained, Kash Patel shut down the investigation for an ho..."](/statements/statement-2703495f9c4f.md)
+  - About: [Zachariah Qureshi](/entities/person-zachariah-qureshi.md), [Kash Patel](/entities/person-kash-patel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:02:33](/episodes/ep-q1NRQQAYS_Q.md#t-00-02-10) [◐] (Claim) **Candace Owens**: ["Tor Qureshi was stationed at Fort Huachuca and trained there using reconnaissanc..."](/statements/statement-c7bf6b2fdab4.md)
+  - About: [Tor Qureshi](/entities/person-tor-qureshi.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:12](/episodes/ep-q1NRQQAYS_Q.md#t-00-05-01) [✓] (Claim) **Candace Owens**: ["Erika Kirk publicly told Glenn Beck that she had Charlie Kirk's phone and that h..."](/statements/statement-64082b43c55a.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Glenn Beck](/entities/person-glenn-beck.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:20](/episodes/ep-q1NRQQAYS_Q.md#t-00-07-09) [✓] (Claim) **Candace Owens**: ["Erika Kirk had confirmed that a video showed Charlie Kirk saying, weeks before h..."](/statements/statement-3550ca6c4346.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:35](/episodes/ep-q1NRQQAYS_Q.md#t-00-07-09) [◐] (Claim) **Candace Owens**: ["Charlie Kirk repeatedly told audiences that women should not aspire to climb the..."](/statements/statement-fe116d14331e.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:00](/episodes/ep-q1NRQQAYS_Q.md#t-00-09-00) [✓] (Claim) **Erika Kirk**: ["At an August donor event, Charlie Kirk said Erika Kirk would do a great job runn..."](/statements/statement-6140f8b36d0f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:21](/episodes/ep-q1NRQQAYS_Q.md#t-00-10-21) [◐] (Accusation) **Candace Owens**: ["Erika Kirk was not raised by a single mother; she had a stepfather in the home a..."](/statements/statement-562d5c2ba1f0.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:25](/episodes/ep-q1NRQQAYS_Q.md#t-00-10-21) [○] (Claim) **Candace Owens**: ["The Turning Point USA investor meeting in Aspen took place from August 15 throug..."](/statements/statement-d6d74af92926.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Aspen, Colorado](/entities/gpe-aspen-colorado.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:53](/episodes/ep-q1NRQQAYS_Q.md#t-00-10-21) [○] (Accusation) **Candace Owens**: ["Turning Point USA stripped the video and used only the alleged audio of Charlie ..."](/statements/statement-b60cce8d9a8c.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [America Fest](/entities/event-america-fest.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:17](/episodes/ep-q1NRQQAYS_Q.md#t-00-11-54) [○] (Prediction) **Charlie Kirk**: ["If something happened to Charlie Kirk, Erika Kirk would do a great job leading T..."](/statements/statement-a04abbeac2e1.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:38](/episodes/ep-q1NRQQAYS_Q.md#t-00-12-27) [○] (Accusation) **Candace Owens**: ["The released audio of Charlie Kirk discussing Erika Kirk's succession was clearl..."](/statements/statement-f5607fce7fee.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:54](/episodes/ep-q1NRQQAYS_Q.md#t-00-12-27) [○] (Claim) **Candace Owens**: ["Three of four people Candace Owens contacted about the Aspen event did not remem..."](/statements/statement-011d3daa9319.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:16](/episodes/ep-q1NRQQAYS_Q.md#t-00-14-16) [✓] (Claim) **Blake Neff**: ["Charlie Kirk repeatedly said that Erika Kirk would take over for him if somethin..."](/statements/statement-4d8e860cd794.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:44](/episodes/ep-q1NRQQAYS_Q.md#t-00-14-38) [○] (Opinion) **Blake Neff**: ["Charlie and Erika Kirk were partners, and their marriage was exceptional."](/statements/statement-4257ea904ff5.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:11](/episodes/ep-q1NRQQAYS_Q.md#t-00-15-11) [◐] (Claim) **Blake Neff**: ["There was no pressure for Erika Kirk to become Turning Point USA's CEO; everyone..."](/statements/statement-7a2bed4e4b4e.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:16:58](/episodes/ep-q1NRQQAYS_Q.md#t-00-16-28) [○] (Accusation) **Blake Neff**: ["Candace Owens is a psychopathic predator who does not care what is true or false..."](/statements/statement-075a07b48b27.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:13](/episodes/ep-q1NRQQAYS_Q.md#t-00-17-13) [○] (Accusation) **Blake Neff**: ["Candace Owens ignores evidence including DNA on a rifle and Tyler Robinson's fam..."](/statements/statement-dc9d47b1fdb2.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Deoxyribonucleic acid](/entities/concept-dna.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:14](/episodes/ep-q1NRQQAYS_Q.md#t-00-17-56) [○] (Claim) **Candace Owens**: ["Five other sets of DNA were found on the rifle associated with Tyler Robinson."](/statements/statement-ba4ef08f9d34.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Deoxyribonucleic acid](/entities/concept-dna.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:21](/episodes/ep-q1NRQQAYS_Q.md#t-00-17-56) [✗] (Claim) **Candace Owens**: ["There is no evidence that the rifle associated with Tyler Robinson was fired."](/statements/statement-bd38410d0efa.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:38](/episodes/ep-q1NRQQAYS_Q.md#t-00-18-38) [◐] (Accusation) **Candace Owens**: ["Turning Point USA has shared outdated Charlie Kirk videos and misrepresented his..."](/statements/statement-208d5263a9b3.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md)
+
+</div>
+<div class="filter-item">
+
+- [00:19:30](/episodes/ep-q1NRQQAYS_Q.md#t-00-19-30) [✓] (Promise) **Erika Kirk**: ["Turning Point USA had decades of Charlie Kirk's voice, unused speeches, and unre..."](/statements/statement-06db4bff274b.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:22](/episodes/ep-q1NRQQAYS_Q.md#t-00-25-22) [✓] (Claim) **Erika Kirk**: ["Erika Kirk's parents divorced when she was five, and she grew up with a mother w..."](/statements/statement-3178ff8d83c3.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:27:34](/episodes/ep-q1NRQQAYS_Q.md#t-00-27-29) [○] (Claim) **Erika Kirk**: ["Charlie Kirk, the Turning Point USA team, and God entrusted Erika Kirk with Char..."](/statements/statement-84a0653e5f0e.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:28:11](/episodes/ep-q1NRQQAYS_Q.md#t-00-28-11) [○] (Opinion) **Candace Owens**: ["Erika Kirk's response about balancing family and leadership was hypocritical and..."](/statements/statement-c9c2303d35dd.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:14](/episodes/ep-q1NRQQAYS_Q.md#t-00-34-48) [✓] (Claim) **The New York Times**: ["Erika Kirk had planned to accompany Charlie Kirk to Utah, but instead stayed in ..."](/statements/statement-5e641d2827ce.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:49](/episodes/ep-q1NRQQAYS_Q.md#t-00-35-33) [✓] (Claim) **The New York Times**: ["Erika Kirk was in her mother's hospital room in Phoenix at 11:23 a.m. local time..."](/statements/statement-2d74b37b7029.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:56](/episodes/ep-q1NRQQAYS_Q.md#t-00-36-56) [✓] (Claim) **Erika Kirk**: ["Erika Kirk was at her mother's doctor's appointment when Michael McCoy called to..."](/statements/statement-ef1c158aaaca.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+</div>
+<div class="filter-item">
+
+- [00:39:27](/episodes/ep-q1NRQQAYS_Q.md#t-00-39-06) [○] (Claim) **Candace Owens**: ["The Phoenix treatment location was not a hospital but an IV-therapy holistic cli..."](/statements/statement-a9d248ec3fd8.md)
+  - About: [Phoenix, Arizona](/entities/gpe-phoenix-arizona.md)
+
+</div>
+<div class="filter-item">
+
+- [00:39:53](/episodes/ep-q1NRQQAYS_Q.md#t-00-39-48) [○] (Claim) **Candace Owens**: ["Lori Frantzve received treatment at the Phoenix clinic on September 8, according..."](/statements/statement-8be506596509.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Phoenix, Arizona](/entities/gpe-phoenix-arizona.md)
+
+</div>
+<div class="filter-item">
+
+- [00:40:17](/episodes/ep-q1NRQQAYS_Q.md#t-00-40-17) [○] (Claim) **Candace Owens**: ["No nurse contacted during Candace Owens's investigation could confirm firsthand ..."](/statements/statement-d340d0d5c75e.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:08](/episodes/ep-q1NRQQAYS_Q.md#t-00-41-37) [○] (Claim) **Candace Owens**: ["A doctor and his wife told friends that Erika Kirk was in the doctor's office wi..."](/statements/statement-8f640ccb4258.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:28](/episodes/ep-q1NRQQAYS_Q.md#t-00-42-13) [○] (Claim) **Candace Owens**: ["A source claimed Erika Kirk was with her security guard when she learned Charlie..."](/statements/statement-314eb75d5c16.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:40](/episodes/ep-q1NRQQAYS_Q.md#t-00-42-13) [○] (Claim) **Candace Owens**: ["A woman from Dassel, Minnesota claimed that she, rather than Erika Kirk, was wit..."](/statements/statement-04a77136224d.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:29](/episodes/ep-q1NRQQAYS_Q.md#t-00-44-07) [○] (Opinion) **Candace Owens**: ["Candace Owens does not believe Erika Kirk was with her mother on September 10 an..."](/statements/statement-ed2126b3b2c0.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:03](/episodes/ep-q1NRQQAYS_Q.md#t-00-44-43) [✓] (Claim) **Donald J. Trump**: ["Pam Bondi would leave the attorney-general role for a private-sector job, and To..."](/statements/statement-0223ff995031.md)
+  - About: [Pam Bondi](/entities/person-pam-bondi.md), [Todd Blanche](/entities/person-todd-blanche.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-45-32) [◐] (Accusation) **Candace Owens**: ["Pam Bondi acted on Donald Trump's instructions regarding the Epstein files, and ..."](/statements/statement-2d7928bb1128.md)
+  - About: [Pam Bondi](/entities/person-pam-bondi.md), [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:06](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-06) [◐] (Accusation) **Candace Owens**: ["Officials released a deepfake video of Jeffrey Epstein in his cell, then removed..."](/statements/statement-318a4f1575a4.md)
+  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [FBI](/entities/org-fbi.md), [Pam Bondi](/entities/person-pam-bondi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:37](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-06) [✗] (Accusation) **Candace Owens**: ["Jeffrey Epstein is alive, and his removal from custody was an Israeli operation."](/statements/statement-732fff5e8528.md)
+  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:42](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-06) [○] (Accusation) **Candace Owens**: ["The New York Post is effectively a Mossad outlet that works on behalf of Israel."](/statements/statement-5f946e77b3bb.md)
+  - About: [New York Post](/entities/org-new-york-post.md), [Mossad](/entities/org-mossad.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:57](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-50) [◐] (Accusation) **Candace Owens**: ["Donald Trump fired Pam Bondi because he believed she tipped off Eric Swalwell ab..."](/statements/statement-3d9873b599c9.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Pam Bondi](/entities/person-pam-bondi.md), [Eric Swalwell](/entities/person-eric-swalwell.md)
+
+</div>
+<div class="filter-item">
+
+- [00:50:38](/episodes/ep-q1NRQQAYS_Q.md#t-00-50-38) [✗] (Claim) **Candace Owens**: ["There is no evidence Charlie Kirk was shot."](/statements/statement-7654c362de7a.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item">
+
+- [00:51:29](/episodes/ep-q1NRQQAYS_Q.md#t-00-51-08) [○] (Claim) **Candace Owens**: ["Michael McCoy called his wife before three-way calling Erika Kirk minutes later."](/statements/statement-1ee87eddbc0a.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+</details>
+
+<details>
+<summary><strong>2026-04-01 · Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320</strong> (39)</summary>
+
+<div class="filter-item">
+
+- [00:01:34](/episodes/ep-rupRLXmSndU.md#t-00-01-34) [○] (Claim) **Candace Owens**: ["Charlie Kirk described his final call with Benjamin Netanyahu as an intervention..."](/statements/statement-cea35d129a59.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:01:42](/episodes/ep-rupRLXmSndU.md#t-00-01-34) [○] (Claim) **Candace Owens**: ["Benjamin Netanyahu offered to take Turning Point USA to the next level."](/statements/statement-d5e1913333f1.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:02:06](/episodes/ep-rupRLXmSndU.md#t-00-01-34) [○] (Opinion) **Candace Owens**: ["The offer to take Turning Point USA to the next level may have been guaranteed t..."](/statements/statement-5215789fbfe8.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Iran](/entities/gpe-iran.md)
+
+</div>
+<div class="filter-item">
+
+- [00:02:29](/episodes/ep-rupRLXmSndU.md#t-00-02-06) [◐] (Accusation) **Candace Owens**: ["Turning Point USA is trying to reimagine Charlie Kirk's legacy as supporting war..."](/statements/statement-8ac4073f16d4.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Middle East](/entities/gpe-middle-east.md)
+
+</div>
+<div class="filter-item">
+
+- [00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24) [◐] (Claim) **Candace Owens**: ["Benjamin Netanyahu and Mitt Romney have been close friends since they worked tog..."](/statements/statement-487487ee59d1.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Mitt Romney](/entities/person-mitt-romney.md), [Boston Consulting Group](/entities/org-boston-consulting-group.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:41](/episodes/ep-rupRLXmSndU.md#t-00-05-14) [○] (Opinion) **Candace Owens**: ["It appeared as though the Timpanogos emergency room had been cleared for Turning..."](/statements/statement-965fbb4f8f8b.md)
+  - About: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:41](/episodes/ep-rupRLXmSndU.md#t-00-05-14) [○] (Claim) **Candace Owens**: ["Kash Patel had the FBI immediately seize footage from inside the hospital."](/statements/statement-08af5755b967.md)
+  - About: [Kash Patel](/entities/person-kash-patel.md), [FBI](/entities/org-fbi.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:20](/episodes/ep-rupRLXmSndU.md#t-00-05-56) [○] (Claim) **Candace Owens**: ["Elizabeth Lane reported that both Utah Valley Hospital and Timpanogos Regional H..."](/statements/statement-35bef448927a.md)
+  - About: [Elizabeth Lane](/entities/person-elizabeth-lane.md), [Utah Valley Hospital](/entities/org-utah-valley-hospital.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:29](/episodes/ep-rupRLXmSndU.md#t-00-07-03) [?] (Claim) **Candace Owens**: ["George Zinn later told people at Utah Valley Hospital that he had been paid to c..."](/statements/statement-4d8f4d4ea21e.md)
+  - About: [George Zinn](/entities/person-george-zinn.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley Hospital](/entities/org-utah-valley-hospital.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:09](/episodes/ep-rupRLXmSndU.md#t-00-07-43) [✓] (Claim) **Kash Patel**: ["The subject for the shooting that killed Charlie Kirk was in custody."](/statements/statement-a36d199d39d4.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Zachariah Qureshi](/entities/person-zachariah-qureshi.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:38](/episodes/ep-rupRLXmSndU.md#t-00-08-25) [?] (Accusation) **Candace Owens**: ["Kash Patel's premature custody announcement gave the true assassin or assassins ..."](/statements/statement-25c322faf319.md)
+  - About: [Kash Patel](/entities/person-kash-patel.md), [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:59](/episodes/ep-rupRLXmSndU.md#t-00-08-59) [✓] (Claim) **Kash Patel**: ["The subject in custody had been released after interrogation, and the investigat..."](/statements/statement-3ee1c0ed9168.md)
+  - About: [Zachariah Qureshi](/entities/person-zachariah-qureshi.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:45](/episodes/ep-rupRLXmSndU.md#t-00-09-38) [◐] (Claim) **Candace Owens**: ["Ahmed Qureshi, Zachariah Qureshi's father, is an O-6 in the U.S. Navy and a comm..."](/statements/statement-d5a489fc7771.md)
+  - About: [Ahmed Qureshi](/entities/person-ahmed-qureshi.md), [Zachariah Qureshi](/entities/person-zachariah-qureshi.md), [United States Navy](/entities/org-united-states-navy.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:25](/episodes/ep-rupRLXmSndU.md#t-00-10-19) [✓] (Citation) **Candace Owens**: ["Ahmed Qureshi is president and COO of BILT Incorporated."](/statements/statement-afc7b2581f40.md)
+  - About: [Ahmed Qureshi](/entities/person-ahmed-qureshi.md), [BILT Incorporated](/entities/org-bilt-incorporated.md), [LinkedIn](/entities/org-linkedin.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:27](/episodes/ep-rupRLXmSndU.md#t-00-12-27) [◐] (Citation) **Candace Owens**: ["Ahmed Qureshi co-founded BILT in 2015 while serving full-time as an O-5 in the m..."](/statements/statement-4bf958f5ad4c.md)
+  - About: [Ahmed Qureshi](/entities/person-ahmed-qureshi.md), [BILT Incorporated](/entities/org-bilt-incorporated.md), [LinkedIn](/entities/org-linkedin.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:27](/episodes/ep-rupRLXmSndU.md#t-00-15-13) [✓] (Citation) **Baron Coleman**: ["BILT received approximately $7.5 million in federal contracts dated June 1 and J..."](/statements/statement-e62d55f45502.md)
+  - About: [BILT Incorporated](/entities/org-bilt-incorporated.md), [USAspending.gov](/entities/org-usaspending-gov.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+</div>
+<div class="filter-item">
+
+- [00:16:05](/episodes/ep-rupRLXmSndU.md#t-00-16-05) [◐] (Citation) **Candace Owens**: ["BILT received nearly $8 million in June 2025 from the Department of Defense, inc..."](/statements/statement-9dc82c68913f.md)
+  - About: [BILT Incorporated](/entities/org-bilt-incorporated.md), [United States Department of Defense](/entities/org-us-department-of-defense.md), [United States Air Force](/entities/org-united-states-air-force.md)
+
+</div>
+<div class="filter-item">
+
+- [00:16:39](/episodes/ep-rupRLXmSndU.md#t-00-16-05) [✓] (Claim) **Candace Owens**: ["Nathan Henderson co-founded BILT with Ahmed Qureshi."](/statements/statement-94f33dacfaae.md)
+  - About: [Nathan Henderson](/entities/person-nathan-henderson.md), [Ahmed Qureshi](/entities/person-ahmed-qureshi.md), [BILT Incorporated](/entities/org-bilt-incorporated.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:20](/episodes/ep-rupRLXmSndU.md#t-00-16-47) [○] (Claim) **Candace Owens**: ["The Henderson and Qureshi families both lived in the same house in Keller, Texas..."](/statements/statement-bc9fda4b2225.md)
+  - About: [Nathan Henderson](/entities/person-nathan-henderson.md), [Ahmed Qureshi](/entities/person-ahmed-qureshi.md), [Keller, Texas](/entities/gpe-keller-texas.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:38](/episodes/ep-rupRLXmSndU.md#t-00-17-20) [✓] (Citation) **Candace Owens**: ["Gina Romney Henderson is married to BILT co-founder Nathan Henderson and works a..."](/statements/statement-465aa7e9aafc.md)
+  - About: [Gina Romney Henderson](/entities/person-gina-romney-henderson.md), [Nathan Henderson](/entities/person-nathan-henderson.md), [BILT Incorporated](/entities/org-bilt-incorporated.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:07](/episodes/ep-rupRLXmSndU.md#t-00-18-00) [✓] (Claim) **Candace Owens**: ["Connor Henderson and Zachariah Qureshi attended BYU at the same time and both in..."](/statements/statement-869a9611ac9f.md)
+  - About: [Connor Henderson](/entities/person-connor-henderson.md), [Zachariah Qureshi](/entities/person-zachariah-qureshi.md), [BYU](/entities/org-byu.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:41](/episodes/ep-rupRLXmSndU.md#t-00-18-41) [◐] (Claim) **Candace Owens**: ["Connor Henderson worked as an emergency-room scribe at Timpanogos Regional Hospi..."](/statements/statement-741e9bfcb950.md)
+  - About: [Connor Henderson](/entities/person-connor-henderson.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:30](/episodes/ep-rupRLXmSndU.md#t-00-23-21) [✓] (Claim) **Candace Owens**: ["Andrew Zenger was appointed CEO of Timpanogos Regional Hospital on August 19, af..."](/statements/statement-a9204a5bd0b6.md)
+  - About: [Andrew Zenger](/entities/person-andrew-zenger.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Medical City McKinney](/entities/org-medical-city-mckinney.md)
+
+</div>
+<div class="filter-item">
+
+- [00:24:16](/episodes/ep-rupRLXmSndU.md#t-00-23-58) [◐] (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)**: ["The CIA recruits directly from BYU and specifically from BYU's Jerusalem Center."](/statements/statement-862b7ba82e4c.md)
+  - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [BYU](/entities/org-byu.md), [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:01](/episodes/ep-rupRLXmSndU.md#t-00-25-01) [◐] (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)**: ["Elite Mormon students at BYU's Jerusalem Center are introduced to one another an..."](/statements/statement-ddfdb9405887.md)
+  - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md), [Knesset](/entities/org-knesset.md)
+
+</div>
+<div class="filter-item">
+
+- [00:26:30](/episodes/ep-rupRLXmSndU.md#t-00-26-20) [?] (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)**: ["The CIA uses a company called Metro One Talent to interview young recruits and p..."](/statements/statement-6a06b35888db.md)
+  - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+</div>
+<div class="filter-item">
+
+- [00:27:04](/episodes/ep-rupRLXmSndU.md#t-00-27-04) [?] (Claim) **Candace Owens**: ["Michael Sean Covey, who roomed with Andrew Zenger in Jerusalem, later did contra..."](/statements/statement-aa6071978dd3.md)
+  - About: [Michael Sean Covey](/entities/person-michael-sean-covey.md), [Andrew Zenger](/entities/person-andrew-zenger.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+</div>
+<div class="filter-item">
+
+- [00:34:11](/episodes/ep-rupRLXmSndU.md#t-00-33-34) [○] (Opinion) **Candace Owens**: ["The FBI knows Tyler Robinson did not kill Charlie Kirk."](/statements/statement-ee577096d11a.md)
+  - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:50](/episodes/ep-rupRLXmSndU.md#t-00-35-28) [○] (Accusation) **Candace Owens**: ["How many private equity firms wanted Charlie Kirk gone?"](/statements/statement-7a7488bb8882.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:17](/episodes/ep-rupRLXmSndU.md#t-00-36-17) [○] (Opinion) **Candace Owens**: ["Candace Owens said she was not claiming Benjamin Netanyahu was aboard the Egypti..."](/statements/statement-f1817735b17d.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Egypt](/entities/gpe-egypt.md), [Provo](/entities/gpe-provo.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:47](/episodes/ep-rupRLXmSndU.md#t-00-36-17) [◐] (Claim) **Candace Owens**: ["Provo has an underground city."](/statements/statement-8f524c4e04cd.md)
+  - About: [Provo](/entities/gpe-provo.md)
+
+</div>
+<div class="filter-item">
+
+- [00:39:52](/episodes/ep-rupRLXmSndU.md#t-00-39-35) [○] (Opinion) **Donald J. Trump**: ["Erika Kirk should sue the people criticizing her because they are jealous."](/statements/statement-f37df3ab74ff.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:43:27](/episodes/ep-rupRLXmSndU.md#t-00-43-05) [✓] (Promise) **Candace Owens**: ["Candace Owens promised to review all 600,000 documents from Tyler Robinson's def..."](/statements/statement-167d0a1ace68.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:50](/episodes/ep-rupRLXmSndU.md#t-00-44-50) [◐] (Claim) **Candace Owens**: ["Turning Point USA sent fundraising text messages invoking Charlie Kirk's legacy ..."](/statements/statement-2d8d728db653.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:36](/episodes/ep-rupRLXmSndU.md#t-00-45-36) [✓] (Citation) **Candace Owens**: ["The Republican National Committee changed its convention rules to bind delegates..."](/statements/statement-600b45824157.md)
+  - About: [Republican National Committee](/entities/org-republican-national-committee.md), [Ron Paul](/entities/person-ron-paul.md), [Maine](/entities/gpe-maine.md)
+
+</div>
+<div class="filter-item">
+
+- [00:47:40](/episodes/ep-rupRLXmSndU.md#t-00-47-40) [?] (Claim) **Anonymous Source #1 (Ep rupRLXmSndU)**: ["The CIA approaches selected students at BYU's Hawaii and Jerusalem campuses abou..."](/statements/statement-55fc338c7349.md)
+  - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [BYU](/entities/org-byu.md), [Hawaii](/entities/gpe-hawaii.md)
+
+</div>
+<div class="filter-item">
+
+- [00:48:20](/episodes/ep-rupRLXmSndU.md#t-00-48-20) [○] (Opinion) **Candace Owens**: ["The CIA apparatus was being used to socially engineer support for Israel after C..."](/statements/statement-252982585ec2.md)
+  - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:49:33](/episodes/ep-rupRLXmSndU.md#t-00-49-25) [○] (Opinion) **Charlie Kirk**: ["You've left me no choice but to abandon the pro-Israel cause."](/statements/statement-49c8a4f7094b.md)
+  - About: [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
+
+</div>
+<div class="filter-item">
+
+- [00:49:54](/episodes/ep-rupRLXmSndU.md#t-00-49-25) [◐] (Accusation) **Candace Owens**: ["Charlie Kirk was under tremendous stress because people were pulling money, thre..."](/statements/statement-2c08dfa2e499.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
+
+</div>
+</details>
+
+<details>
+<summary><strong>2026-03-31 · PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319</strong> (33)</summary>
+
+<div class="filter-item">
+
+- [00:00:50](/episodes/ep-UYkXV9mYbT4.md#t-00-00-42) [○] (Opinion) **Candace Owens**: ["In my opinion, it is definitive proof that Tyler Robinson is a patsy."](/statements/statement-5d0d4715d2cc.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:01:01](/episodes/ep-UYkXV9mYbT4.md#t-00-00-42) [○] (Opinion) **Candace Owens**: ["The feds are just putting this on him, and I do mean the FBI. From JFK to MLK, n..."](/statements/statement-e8c331305ff4.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:02:18](/episodes/ep-UYkXV9mYbT4.md#t-00-02-02) [✓] (Claim) **Candace Owens**: ["Charlie Kirk was shot on September 10th at 12:23 p.m. Mountain Time."](/statements/statement-2be12d516a6b.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:02:55](/episodes/ep-UYkXV9mYbT4.md#t-00-02-45) [✓] (Claim) **Candace Owens**: ["Terrell Farnsworth returned to the crime scene, used Charlie Kirk's chair to rea..."](/statements/statement-3ae26b37ac75.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:04:28](/episodes/ep-UYkXV9mYbT4.md#t-00-03-58) [○] (Claim) **Terrell Farnsworth**: ["I wanted to secure the footage for Erika so that she wouldn't have to see the fo..."](/statements/statement-aae0307c2c42.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:37](/episodes/ep-UYkXV9mYbT4.md#t-00-05-20) [○] (Opinion) **Candace Owens**: ["I am going to speculate this boldly: they were hiding the fact that the bullet d..."](/statements/statement-8db33ee5af32.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:17](/episodes/ep-UYkXV9mYbT4.md#t-00-08-03) [○] (Claim) **Candace Owens**: ["The FBI was on the phone with Justin Streiff and Frank Carni about whether I had..."](/statements/statement-53b46473615f.md)
+  - About: [FBI](/entities/org-fbi.md), [Justin Streiff](/entities/person-justin-streiff.md), [Frank Carni](/entities/person-frank-carni.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:17](/episodes/ep-UYkXV9mYbT4.md#t-00-10-02) [○] (Accusation) **Candace Owens**: ["Erika lied. Erika and Andrew colluded on how to message the public about the bul..."](/statements/statement-45def5a9eabe.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:26](/episodes/ep-UYkXV9mYbT4.md#t-00-12-05) [○] (Opinion) **Lee Trotter**: ["It was an absolute miracle that someone else didn't get killed; his bone was so ..."](/statements/statement-3baf1bbe44ad.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:41](/episodes/ep-UYkXV9mYbT4.md#t-00-12-05) [✓] (Claim) **Andrew Kolvet**: ["In the end, the coroner did find the bullet just beneath the skin."](/statements/statement-efefb0925053.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:36](/episodes/ep-UYkXV9mYbT4.md#t-00-13-23) [○] (Claim) **Andrew Kolvet**: ["The bullet traveled from C2 to C6 and then moved downward into Charlie's thorax,..."](/statements/statement-28ba667d2ca6.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:49](/episodes/ep-UYkXV9mYbT4.md#t-00-14-49) [○] (Claim) **Anonymous Source #1 (Ep UYkXV9mYbT4)**: ["The Robinson family-heirloom gun takes special bullets, and there was no way the..."](/statements/statement-4fc13f1ba0b3.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:16:31](/episodes/ep-UYkXV9mYbT4.md#t-00-16-08) [○] (Accusation) **Anonymous Source #2 (Ep UYkXV9mYbT4)**: ["Federal agents planted the gun when they arrived."](/statements/statement-8694331bb2fc.md)
+  - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:16:31](/episodes/ep-UYkXV9mYbT4.md#t-00-16-08) [○] (Claim) **Candace Owens**: ["The gun that was eventually found was not fired on September 10th."](/statements/statement-10673b2ca25d.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:03](/episodes/ep-UYkXV9mYbT4.md#t-00-16-50) [◐] (Claim) **Candace Owens**: ["They found a total of six sets of prints on the gun."](/statements/statement-66fe1f90c5b3.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:01](/episodes/ep-UYkXV9mYbT4.md#t-00-18-01) [○] (Opinion) **Candace Owens**: ["Based on the evidence and the people I have spoken to, I believe the feds are pa..."](/statements/statement-8d024ceb9198.md)
+  - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:20:05](/episodes/ep-UYkXV9mYbT4.md#t-00-20-05) [✓] (Citation) **Candace Owens**: ["Mr. Robinson seeks to continue the May 2026 preliminary hearing to a setting tha..."](/statements/statement-b54eabdeaada.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:20:54](/episodes/ep-UYkXV9mYbT4.md#t-00-20-47) [✓] (Citation) **Candace Owens**: ["The state intended to present conclusory FBI and ATF forensic DNA and ballistics..."](/statements/statement-e713942a76ce.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md), [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:40](/episodes/ep-UYkXV9mYbT4.md#t-00-23-30) [✓] (Citation) **Candace Owens**: ["On March 12, the defense received approximately 12 terabytes of data containing ..."](/statements/statement-5de594ed8d28.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Utah County Attorney's Office](/entities/org-utah-county-attorneys-office.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:54](/episodes/ep-UYkXV9mYbT4.md#t-00-25-34) [✓] (Citation) **Candace Owens**: ["Mr. Robinson had not received the forensic case files and underlying data needed..."](/statements/statement-28689207beb3.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Utah County Attorney's Office](/entities/org-utah-county-attorneys-office.md)
+
+</div>
+<div class="filter-item">
+
+- [00:30:41](/episodes/ep-UYkXV9mYbT4.md#t-00-30-16) [✓] (Citation) **Candace Owens**: ["The autopsy report was completed September 16, 2025 but not given to the defense..."](/statements/statement-fd9ed9231873.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Utah County Attorney's Office](/entities/org-utah-county-attorneys-office.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:41](/episodes/ep-UYkXV9mYbT4.md#t-00-31-35) [○] (Opinion) **Erika Kirk**: ["Please, I just want the case to be fast. This is hard. I'm asking them to move a..."](/statements/statement-004c0674c000.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:32](/episodes/ep-UYkXV9mYbT4.md#t-00-32-17) [✓] (Citation) **Candace Owens**: ["FBI and ATF summary DNA reports said minute quantities of DNA recovered from evi..."](/statements/statement-6f05019158ad.md)
+  - About: [FBI](/entities/org-fbi.md), [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:37:26](/episodes/ep-UYkXV9mYbT4.md#t-00-37-05) [◐] (Citation) **Candace Owens**: ["The ATF summary indicated that the agency was unable to identify the bullets rec..."](/statements/statement-22e9b4f4a3c0.md)
+  - About: [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:38:51](/episodes/ep-UYkXV9mYbT4.md#t-00-38-32) [✓] (Citation) **Candace Owens**: ["The ATF case file and examination protocols had not been provided to the defense..."](/statements/statement-66f945dd09e3.md)
+  - About: [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:39:04](/episodes/ep-UYkXV9mYbT4.md#t-00-38-32) [✓] (Citation) **Candace Owens**: ["The FBI was conducting a second comparative bullet analysis and a bullet lead an..."](/statements/statement-b34cd0916393.md)
+  - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Comparative bullet lead analysis](/entities/concept-comparative-bullet-lead-analysis.md)
+
+</div>
+<div class="filter-item">
+
+- [00:39:53](/episodes/ep-UYkXV9mYbT4.md#t-00-39-53) [◐] (Claim) **Candace Owens**: ["Comparative bullet lead analysis was primarily used by the FBI until 2004 and ab..."](/statements/statement-0c6b54c50eb3.md)
+  - About: [FBI](/entities/org-fbi.md), [Comparative bullet lead analysis](/entities/concept-comparative-bullet-lead-analysis.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:34](/episodes/ep-UYkXV9mYbT4.md#t-00-44-34) [◐] (Accusation) **Candace Owens**: ["The FBI is bringing back an already debunked technique so that it can give Erika..."](/statements/statement-1c85bab3416e.md)
+  - About: [FBI](/entities/org-fbi.md), [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:48:08](/episodes/ep-UYkXV9mYbT4.md#t-00-48-01) [✓] (Citation) **Candace Owens**: ["Unless the requested materials were produced by April 17, 2026, the defense soug..."](/statements/statement-445b1720981b.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Utah County Attorney's Office](/entities/org-utah-county-attorneys-office.md)
+
+</div>
+<div class="filter-item">
+
+- [00:50:05](/episodes/ep-UYkXV9mYbT4.md#t-00-49-52) [○] (Opinion) **Candace Owens**: ["Everything they are doing signals to me that this is a federal job from start to..."](/statements/statement-8f1130905af2.md)
+  - About: [FBI](/entities/org-fbi.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:51:46](/episodes/ep-UYkXV9mYbT4.md#t-00-51-24) [◐] (Claim) **Anonymous Source #3 (Ep UYkXV9mYbT4)**: ["Long Beach Airport is a 10-to-15-minute drive from Joint Forces Training Base Lo..."](/statements/statement-d7a07075f6b5.md)
+  - About: [Long Beach Airport](/entities/org-long-beach-airport.md), [Joint Forces Training Base Los Alamitos](/entities/org-joint-forces-training-base-los-alamitos.md), [Los Alamitos, California](/entities/gpe-los-alamitos-california.md)
+
+</div>
+<div class="filter-item">
+
+- [00:53:27](/episodes/ep-UYkXV9mYbT4.md#t-00-53-20) [○] (Opinion) **Candace Owens**: ["The people Charlie put into positions of power turned on him for money."](/statements/statement-b66582de7705.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:54:52](/episodes/ep-UYkXV9mYbT4.md#t-00-54-27) [○] (Claim) **Candace Owens**: ["Charlie had carefully explained to me that he was going to die."](/statements/statement-444970934f2d.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
+
+<details>
+<summary><strong>2026-03-30 · The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318</strong> (49)</summary>
+
+<div class="filter-item">
+
+- [00:00:10](/episodes/ep-7ERqbYElOfs.md#t-00-00-00) [○] (Accusation) **Candace Owens**: ["France and its DGSE intelligence agency were involved in Charlie Kirk's assassin..."](/statements/statement-77c08333ae83.md)
+  - About: [France](/entities/gpe-france.md), [Direction générale de la sécurité extérieure](/entities/org-dgse.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:01:49](/episodes/ep-7ERqbYElOfs.md#t-00-01-33) [◐] (Claim) **Candace Owens**: ["America was founded by warring factions of Freemasons seeking to establish a new..."](/statements/statement-5a53345c6fd9.md)
+  - About: [United States](/entities/gpe-united-states.md), [Freemasonry](/entities/concept-freemasonry.md), [Catholicism](/entities/concept-catholicism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:03:09](/episodes/ep-7ERqbYElOfs.md#t-00-03-09) [○] (Accusation) **Candace Owens**: ["The repeated use of the number 33 after Charlie Kirk's assassination was signali..."](/statements/statement-6a56f89676b2.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Freemasonry](/entities/concept-freemasonry.md)
+
+</div>
+<div class="filter-item">
+
+- [00:03:31](/episodes/ep-7ERqbYElOfs.md#t-00-03-09) [✓] (Claim) **Candace Owens**: ["The Freemason lodge in St. George, Utah, where Tyler Robinson was brought in is ..."](/statements/statement-28a7438fd6ff.md)
+  - About: [Freemasonry](/entities/concept-freemasonry.md), [St. George](/entities/gpe-st-george.md), [France](/entities/gpe-france.md)
+
+</div>
+<div class="filter-item">
+
+- [00:04:47](/episodes/ep-7ERqbYElOfs.md#t-00-04-41) [◐] (Claim) **Candace Owens**: ["Scottish Rite Freemasonry originated in France after the Knights Templar were di..."](/statements/statement-7bde537e92c5.md)
+  - About: [Scottish Rite Freemasonry](/entities/concept-scottish-rite-freemasonry.md), [France](/entities/gpe-france.md), [Knights Templar](/entities/org-knights-templar.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:09](/episodes/ep-7ERqbYElOfs.md#t-00-06-09) [✓] (Citation) **Candace Owens**: ["The Guardian reported that 22 people went on trial in France on murder and other..."](/statements/statement-b414d8bc3466.md)
+  - About: [The Guardian](/entities/org-the-guardian.md), [France](/entities/gpe-france.md), [Freemasonry](/entities/concept-freemasonry.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:20](/episodes/ep-7ERqbYElOfs.md#t-00-06-09) [✓] (Citation) **Candace Owens**: ["The Guardian reported that 13 defendants faced possible life sentences and that ..."](/statements/statement-f2304b7df1e2.md)
+  - About: [The Guardian](/entities/org-the-guardian.md), [Athanor lodge](/entities/org-athanor-lodge.md), [France](/entities/gpe-france.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:46](/episodes/ep-7ERqbYElOfs.md#t-00-06-46) [✓] (Citation) **Candace Owens**: ["The defendants included four DGSE officers, three police officers, six executive..."](/statements/statement-c26ddf2a89c7.md)
+  - About: [Direction générale de la sécurité extérieure](/entities/org-dgse.md), [Athanor lodge](/entities/org-athanor-lodge.md), [France](/entities/gpe-france.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:52](/episodes/ep-7ERqbYElOfs.md#t-00-07-30) [✓] (Citation) **Candace Owens**: ["The case began with a failed July 2020 contract killing in which two members of ..."](/statements/statement-7edf1b571499.md)
+  - About: [France](/entities/gpe-france.md), [Marie-Hélène Dini](/entities/person-marie-helene-dini.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:00](/episodes/ep-7ERqbYElOfs.md#t-00-09-00) [✓] (Citation) **Candace Owens**: ["The two arrested men told investigators they believed they had been asked to kil..."](/statements/statement-0087554e0b8e.md)
+  - About: [France](/entities/gpe-france.md), [Marie-Hélène Dini](/entities/person-marie-helene-dini.md), [Mossad](/entities/org-mossad.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:39](/episodes/ep-7ERqbYElOfs.md#t-00-09-39) [○] (Accusation) **Anonymous Source #2 (Ep 7ERqbYElOfs)**: ["Brigitte Macron's family had worked for Israel for a long time because they owed..."](/statements/statement-260837072c2a.md)
+  - About: [Brigitte Macron](/entities/person-brigitte-macron.md), [Israel](/entities/gpe-israel.md), [Germany](/entities/gpe-germany.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:09](/episodes/ep-7ERqbYElOfs.md#t-00-09-39) [○] (Accusation) **Anonymous Source #2 (Ep 7ERqbYElOfs)**: ["The Israeli government covered up a 1950s story about Brigitte Macron's family w..."](/statements/statement-7f432fc03ef1.md)
+  - About: [Brigitte Macron](/entities/person-brigitte-macron.md), [Israel](/entities/gpe-israel.md), [France](/entities/gpe-france.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:49](/episodes/ep-7ERqbYElOfs.md#t-00-10-49) [✓] (Citation) **Candace Owens**: ["Jean-Luc Bagur, Frédéric Vaglio, and Daniel Beaulieu organized the attempted hit..."](/statements/statement-ed0631702ef8.md)
+  - About: [Jean-Luc Bagur](/entities/person-jean-luc-bagur.md), [Frédéric Vaglio](/entities/person-frederic-vaglio.md), [Daniel Beaulieu](/entities/person-daniel-beaulieu.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:27](/episodes/ep-7ERqbYElOfs.md#t-00-11-27) [◐] (Claim) **Candace Owens**: ["Daniel Beaulieu was impaired after an apparent suicide attempt in prison and wou..."](/statements/statement-57fb4b6211b4.md)
+  - About: [Daniel Beaulieu](/entities/person-daniel-beaulieu.md), [France](/entities/gpe-france.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:46](/episodes/ep-7ERqbYElOfs.md#t-00-14-46) [○] (Accusation) **Anonymous Source #1 (Ep 7ERqbYElOfs)**: ["A source inside the French government said the GIGN intervention group was invol..."](/statements/statement-aed830dfceb1.md)
+  - About: [Groupe d'intervention de la Gendarmerie nationale](/entities/org-gign.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [France](/entities/gpe-france.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:11](/episodes/ep-7ERqbYElOfs.md#t-00-14-46) [?] (Accusation) **Anonymous Source #1 (Ep 7ERqbYElOfs)**: ["Charlie Kirk's assassin trained with the French Foreign Legion's 13th Demi-Briga..."](/statements/statement-625bb1068b92.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [French Foreign Legion](/entities/org-french-foreign-legion.md), [13e Demi-brigade de Légion étrangère](/entities/org-13e-demi-brigade-foreign-legion.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:04](/episodes/ep-7ERqbYElOfs.md#t-00-17-04) [?] (Claim) **Erika Kirk**: ["Tyler Robinson murdered Charlie Kirk."](/statements/statement-903e76853b1e.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:35](/episodes/ep-7ERqbYElOfs.md#t-00-17-35) [○] (Accusation) **Candace Owens**: ["Erika Kirk was lying and acting when she said she had seen the case and believed..."](/statements/statement-c0d316148608.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:45](/episodes/ep-7ERqbYElOfs.md#t-00-18-17) [○] (Opinion) **Candace Owens**: ["Erika Kirk's performance makes it impossible for Candace Owens to think Kirk is ..."](/statements/statement-2888ee2fdab4.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:20:31](/episodes/ep-7ERqbYElOfs.md#t-00-19-58) [✓] (Claim) **Frank Turek**: ["Michael McCoy arranged a plane to bring Erika Kirk after Charlie Kirk was pronou..."](/statements/statement-8e072d3b4eee.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:20:49](/episodes/ep-7ERqbYElOfs.md#t-00-20-43) [✓] (Claim) **Frank Turek**: ["Stacey Sheridan and Katherine LoCastro were with Erika Kirk."](/statements/statement-07e76c9fc08f.md)
+  - About: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Katherine Locastro](/entities/person-katherine-locastro.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:21:01](/episodes/ep-7ERqbYElOfs.md#t-00-21-01) [○] (Claim) **Candace Owens**: ["Justin Streiff told Candace Owens that he arranged all the planes on the day Cha..."](/statements/statement-a16bbd080976.md)
+  - About: [Justin Streiff](/entities/person-justin-streiff.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:22:24](/episodes/ep-7ERqbYElOfs.md#t-00-22-24) [○] (Claim) **Candace Owens**: ["On July 14, Erika Kirk flew by private plane to Long Beach with Katherine LoCast..."](/statements/statement-7ae0c89afbe8.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Katherine Locastro](/entities/person-katherine-locastro.md), [Jonathan Barcelo](/entities/person-jonathan-barcelo.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:01](/episodes/ep-7ERqbYElOfs.md#t-00-23-01) [✓] (Claim) **Candace Owens**: ["Jonathan Barcelo served in the U.S. Marine Corps from about 2013 to 2017, provid..."](/statements/statement-e43a8d56e492.md)
+  - About: [Jonathan Barcelo](/entities/person-jonathan-barcelo.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md), [Chile](/entities/gpe-chile.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:27](/episodes/ep-7ERqbYElOfs.md#t-00-23-01) [◐] (Claim) **Candace Owens**: ["Jonathan Barcelo ran a private-investigation firm from 2017 to 2022, graduated f..."](/statements/statement-c5803cc7f231.md)
+  - About: [Jonathan Barcelo](/entities/person-jonathan-barcelo.md), [Arizona State University](/entities/org-arizona-state-university.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:57](/episodes/ep-7ERqbYElOfs.md#t-00-23-46) [○] (Accusation) **Candace Owens**: ["Why does everybody feel like a military infiltration at Turning Point USA?"](/statements/statement-1e043e4fb450.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Jonathan Barcelo](/entities/person-jonathan-barcelo.md)
+
+</div>
+<div class="filter-item">
+
+- [00:24:36](/episodes/ep-7ERqbYElOfs.md#t-00-24-21) [○] (Claim) **Candace Owens**: ["Erika Kirk, Katherine LoCastro, Jonathan Barcelo, and Derek Neukirk stayed in Lo..."](/statements/statement-c29d1d6c1ab1.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Katherine Locastro](/entities/person-katherine-locastro.md), [Jonathan Barcelo](/entities/person-jonathan-barcelo.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:24](/episodes/ep-7ERqbYElOfs.md#t-00-25-03) [?] (Accusation) **Candace Owens**: ["Charlie Kirk was killed because he had challenged powerful people who expected t..."](/statements/statement-e1e64e6221f9.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:34](/episodes/ep-7ERqbYElOfs.md#t-00-25-03) [◐] (Claim) **Candace Owens**: ["Donald Trump was sending U.S. Marines into Iran for Benjamin Netanyahu, while th..."](/statements/statement-a668190d0262.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+</div>
+<div class="filter-item">
+
+- [00:28:14](/episodes/ep-7ERqbYElOfs.md#t-00-28-14) [◐] (Claim) **Candace Owens**: ["Washington County Sheriff Nate Brooksby abruptly resigned during an election, le..."](/statements/statement-cb0cf1a88246.md)
+  - About: [Nate Brooksby](/entities/person-nate-brooksby.md), [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md), [Washington County](/entities/gpe-washington-county.md)
+
+</div>
+<div class="filter-item">
+
+- [00:29:32](/episodes/ep-7ERqbYElOfs.md#t-00-29-32) [✓] (Citation) **Candace Owens**: ["The Washington County Commission confirmed that Nate Brooksby resigned on Friday..."](/statements/statement-1e7fc8e95de2.md)
+  - About: [Nate Brooksby](/entities/person-nate-brooksby.md), [Washington County Commission](/entities/org-washington-county-commission.md)
+
+</div>
+<div class="filter-item">
+
+- [00:29:40](/episodes/ep-7ERqbYElOfs.md#t-00-29-32) [✗] (Claim) **Candace Owens**: ["There is no evidence that Tyler Robinson's father turned him in or that Robinson..."](/statements/statement-0c5eb922496d.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Matt Robinson](/entities/person-matt-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:30:51](/episodes/ep-7ERqbYElOfs.md#t-00-30-51) [○] (Claim) **Anonymous Source #3 (Ep 7ERqbYElOfs)**: ["Tyler Robinson repeatedly said he was not guilty and was surprised when family f..."](/statements/statement-1b41de1c930f.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Mike Mitchell](/entities/person-mike-mitchell.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:09](/episodes/ep-7ERqbYElOfs.md#t-00-30-51) [○] (Claim) **Anonymous Source #3 (Ep 7ERqbYElOfs)**: ["Mike Mitchell told Tyler Robinson that police said Robinson's prints were on a g..."](/statements/statement-cee5d4c3ffb9.md)
+  - About: [Mike Mitchell](/entities/person-mike-mitchell.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:10](/episodes/ep-7ERqbYElOfs.md#t-00-32-10) [?] (Accusation) **Anonymous Source #5 (Ep 7ERqbYElOfs)**: ["Federal agents planted the gun."](/statements/statement-d3390c78435e.md)
+  - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:10](/episodes/ep-7ERqbYElOfs.md#t-00-32-10) [?] (Claim) **Anonymous Source #6 (Ep 7ERqbYElOfs)**: ["Bomb dogs could not find the gun."](/statements/statement-1215b85e0036.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:32](/episodes/ep-7ERqbYElOfs.md#t-00-32-10) [○] (Accusation) **Candace Owens**: ["There is overwhelming evidence that federal agents set Tyler Robinson up as a pa..."](/statements/statement-04295cf433e9.md)
+  - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:48](/episodes/ep-7ERqbYElOfs.md#t-00-32-48) [○] (Accusation) **Anonymous Source #4 (Ep 7ERqbYElOfs)**: ["Local sheriff's departments, the SWAT team, and other firsthand sources believed..."](/statements/statement-0ddcd12c3624.md)
+  - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:31](/episodes/ep-7ERqbYElOfs.md#t-00-35-31) [✓] (Claim) **Nate Brooksby**: ["At 8:02 p.m. on September 11, a retired detective told Nate Brooksby that he kne..."](/statements/statement-a857c7bb9553.md)
+  - About: [Nate Brooksby](/entities/person-nate-brooksby.md), [Mike Mitchell](/entities/person-mike-mitchell.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:49](/episodes/ep-7ERqbYElOfs.md#t-00-36-14) [✓] (Claim) **Nate Brooksby**: ["Tyler Robinson may have had suicidal thoughts and was headed to a remote part of..."](/statements/statement-6d374c5ff6d9.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Washington County](/entities/gpe-washington-county.md)
+
+</div>
+<div class="filter-item">
+
+- [00:37:41](/episodes/ep-7ERqbYElOfs.md#t-00-37-12) [○] (Opinion) **Candace Owens**: ["Mike Mitchell was working with federal agents to put the Charlie Kirk killing on..."](/statements/statement-4f479f057f03.md)
+  - About: [Mike Mitchell](/entities/person-mike-mitchell.md), [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:40:11](/episodes/ep-7ERqbYElOfs.md#t-00-40-05) [○] (Accusation) **Candace Owens**: ["Spencer Cox was complicit in lying about how Tyler Robinson was apprehended."](/statements/statement-9a3ad9ef4ed5.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:40:29](/episodes/ep-7ERqbYElOfs.md#t-00-40-25) [✓] (Claim) **Spencer Cox**: ["A Tyler Robinson family member told a family friend that Robinson had confessed ..."](/statements/statement-15993351894a.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:07](/episodes/ep-7ERqbYElOfs.md#t-00-42-07) [✓] (Claim) **Nate Brooksby**: ["A friend drove Tyler Robinson and his parents to Nate Brooksby's office, where p..."](/statements/statement-ee7afef39cc7.md)
+  - About: [Nate Brooksby](/entities/person-nate-brooksby.md), [Mike Mitchell](/entities/person-mike-mitchell.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:31](/episodes/ep-7ERqbYElOfs.md#t-00-42-26) [✓] (Claim) **Nate Brooksby**: ["Tyler Robinson agreed to come to Nate Brooksby's office after a negotiation beca..."](/statements/statement-5aebb9144a43.md)
+  - About: [Nate Brooksby](/entities/person-nate-brooksby.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:31](/episodes/ep-7ERqbYElOfs.md#t-00-44-18) [✓] (Accusation) **Candace Owens**: ["Lindsey Graham said he only stopped by Walt Disney World, but TMZ showed he was ..."](/statements/statement-7aaf31aed2a8.md)
+  - About: [Lindsey Graham](/entities/person-lindsey-graham.md), [Walt Disney World Resort](/entities/org-walt-disney-world-resort.md), [TMZ](/entities/org-tmz.md)
+
+</div>
+<div class="filter-item">
+
+- [00:50:30](/episodes/ep-7ERqbYElOfs.md#t-00-50-30) [✓] (Claim) **Erika Kirk**: ["While flying to Provo after Charlie Kirk was killed, Erika Kirk looked at the cl..."](/statements/statement-89a1e54daea1.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Provo](/entities/gpe-provo.md)
+
+</div>
+<div class="filter-item">
+
+- [00:54:30](/episodes/ep-7ERqbYElOfs.md#t-00-54-30) [○] (Accusation) **Candace Owens**: ["Turning Point USA is behind attacks on the people investigating Charlie Kirk's a..."](/statements/statement-30ac9fce2ce3.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:58:12](/episodes/ep-7ERqbYElOfs.md#t-00-58-07) [◐] (Claim) **Candace Owens**: ["Israel runs X, which is populated by Israeli bots."](/statements/statement-eed4e2b07ae3.md)
+  - About: [Israel](/entities/gpe-israel.md), [X](/entities/org-x-platform.md)
+
+</div>
+</details>
+
+<details>
 <summary><strong>2026-03-26 · VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317</strong> (34)</summary>
 
 <div class="filter-item">
 
-- [00:02:44](/episodes/ep-DEtFh2Ff-58.md#t-00-02-35) [○] (Claim) **Anonymous Source #1 (Ep DEtFh2Ff-58)**: ["The victim's wife is arriving at 3:30."](/statements/statement-599ccdf40310.md)
+- [00:02:44](/episodes/ep-DEtFh2Ff-58.md#t-00-02-35) [✓] (Claim) **Anonymous Source #1 (Ep DEtFh2Ff-58)**: ["The victim's wife is arriving at 3:30."](/statements/statement-599ccdf40310.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Provo Airport](/entities/org-provo-airport.md)
 
 </div>
 <div class="filter-item">
 
-- [00:03:07](/episodes/ep-DEtFh2Ff-58.md#t-00-02-58) [○] (Claim) **Candace Owens**: ["The 3:30 police pickup means Erika Kirk did not wait an hour on the Provo tarmac..."](/statements/statement-babfa5b6ff1b.md)
+- [00:03:07](/episodes/ep-DEtFh2Ff-58.md#t-00-02-58) [✓] (Claim) **Candace Owens**: ["The 3:30 police pickup means Erika Kirk did not wait an hour on the Provo tarmac..."](/statements/statement-babfa5b6ff1b.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Provo Airport](/entities/org-provo-airport.md)
 
 </div>
 <div class="filter-item">
 
-- [00:03:23](/episodes/ep-DEtFh2Ff-58.md#t-00-02-58) [○] (Claim) **Candace Owens**: ["The 3:30 pickup only makes sense if Andrew Kolvet was aboard Charlie Kirk's plan..."](/statements/statement-0fb47b12e524.md)
+- [00:03:23](/episodes/ep-DEtFh2Ff-58.md#t-00-02-58) [◐] (Claim) **Candace Owens**: ["The 3:30 pickup only makes sense if Andrew Kolvet was aboard Charlie Kirk's plan..."](/statements/statement-0fb47b12e524.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </div>
 <div class="filter-item">
 
-- [00:05:12](/episodes/ep-DEtFh2Ff-58.md#t-00-04-46) [○] (Claim) **Candace Owens**: ["I feel very confident that Andrew Kolvet was aboard the Santa Barbara-to-Scottsd..."](/statements/statement-5ee21def6ba6.md)
+- [00:05:12](/episodes/ep-DEtFh2Ff-58.md#t-00-04-46) [◐] (Claim) **Candace Owens**: ["I feel very confident that Andrew Kolvet was aboard the Santa Barbara-to-Scottsd..."](/statements/statement-5ee21def6ba6.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Scottsdale Airport](/entities/org-scottsdale-airport.md)
 
 </div>
@@ -21665,13 +24722,13 @@ _1866 factual claims within 3271 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:06:13](/episodes/ep-DEtFh2Ff-58.md#t-00-06-09) [○] (Accusation) **Candace Owens**: ["Erika Kirk is lying when she claims Andrew Kolvet was on the flight that landed ..."](/statements/statement-ea7d4363449c.md)
+- [00:06:13](/episodes/ep-DEtFh2Ff-58.md#t-00-06-09) [◐] (Accusation) **Candace Owens**: ["Erika Kirk is lying when she claims Andrew Kolvet was on the flight that landed ..."](/statements/statement-ea7d4363449c.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Provo Airport](/entities/org-provo-airport.md)
 
 </div>
 <div class="filter-item">
 
-- [00:07:03](/episodes/ep-DEtFh2Ff-58.md#t-00-07-03) [○] (Claim) **Andrew Kolvet**: ["I learned Charlie Kirk had died probably 30 or 40 minutes after he was shot, bef..."](/statements/statement-7566be50f71f.md)
+- [00:07:03](/episodes/ep-DEtFh2Ff-58.md#t-00-07-03) [✓] (Claim) **Andrew Kolvet**: ["I learned Charlie Kirk had died probably 30 or 40 minutes after he was shot, bef..."](/statements/statement-7566be50f71f.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Truth Social](/entities/org-truth-social.md)
 
 </div>
@@ -21689,7 +24746,7 @@ _1866 factual claims within 3271 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:11:58](/episodes/ep-DEtFh2Ff-58.md#t-00-11-58) [○] (Promise) **Candace Owens**: ["I will try to identify and reach out to Charlie Kirk's pilot, known only as Jami..."](/statements/statement-ab9bfe7468d0.md)
+- [00:11:58](/episodes/ep-DEtFh2Ff-58.md#t-00-11-58) [✓] (Promise) **Candace Owens**: ["I will try to identify and reach out to Charlie Kirk's pilot, known only as Jami..."](/statements/statement-ab9bfe7468d0.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
@@ -21701,7 +24758,7 @@ _1866 factual claims within 3271 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:12:47](/episodes/ep-DEtFh2Ff-58.md#t-00-12-37) [○] (Claim) **Candace Owens**: ["My theory is that Andrew Kolvet departed Santa Barbara for Scottsdale at approxi..."](/statements/statement-292c8e97cfc2.md)
+- [00:12:47](/episodes/ep-DEtFh2Ff-58.md#t-00-12-37) [◐] (Claim) **Candace Owens**: ["My theory is that Andrew Kolvet departed Santa Barbara for Scottsdale at approxi..."](/statements/statement-292c8e97cfc2.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Scottsdale Airport](/entities/org-scottsdale-airport.md)
 
 </div>
@@ -21719,7 +24776,7 @@ _1866 factual claims within 3271 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:16:14](/episodes/ep-DEtFh2Ff-58.md#t-00-16-14) [○] (Claim) **Candace Owens**: ["Erika Kirk and Andrew Kolvet did not hug in Provo; Candace Owens concludes the t..."](/statements/statement-697f028b52d0.md)
+- [00:16:14](/episodes/ep-DEtFh2Ff-58.md#t-00-16-14) [◐] (Claim) **Candace Owens**: ["Erika Kirk and Andrew Kolvet did not hug in Provo; Candace Owens concludes the t..."](/statements/statement-697f028b52d0.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Provo Airport](/entities/org-provo-airport.md)
 
 </div>
@@ -21731,13 +24788,13 @@ _1866 factual claims within 3271 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:18:27](/episodes/ep-DEtFh2Ff-58.md#t-00-18-00) [○] (Claim) **Candace Owens**: ["Erika Kirk's mother was not in the hospital on September 8th, September 9th, or ..."](/statements/statement-4063bc832e03.md)
+- [00:18:27](/episodes/ep-DEtFh2Ff-58.md#t-00-18-00) [◐] (Claim) **Candace Owens**: ["Erika Kirk's mother was not in the hospital on September 8th, September 9th, or ..."](/statements/statement-4063bc832e03.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [The New York Times](/entities/org-the-new-york-times.md)
 
 </div>
 <div class="filter-item">
 
-- [00:19:00](/episodes/ep-DEtFh2Ff-58.md#t-00-18-34) [○] (Claim) **The New York Times**: ["The New York Times reported that Charlie Kirk's chartered plane returned to Scot..."](/statements/statement-d56cc652819a.md)
+- [00:19:00](/episodes/ep-DEtFh2Ff-58.md#t-00-18-34) [✓] (Claim) **The New York Times**: ["The New York Times reported that Charlie Kirk's chartered plane returned to Scot..."](/statements/statement-d56cc652819a.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Scottsdale Airport](/entities/org-scottsdale-airport.md)
 
 </div>
@@ -21755,13 +24812,13 @@ _1866 factual claims within 3271 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:32:33](/episodes/ep-DEtFh2Ff-58.md#t-00-32-05) [○] (Accusation) **Candace Owens**: ["Andrew Kolvet fed information to obscure podcasters to get them to attack Candac..."](/statements/statement-357c331f9c8f.md)
+- [00:32:33](/episodes/ep-DEtFh2Ff-58.md#t-00-32-05) [◐] (Accusation) **Candace Owens**: ["Andrew Kolvet fed information to obscure podcasters to get them to attack Candac..."](/statements/statement-357c331f9c8f.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
 
-- [00:32:57](/episodes/ep-DEtFh2Ff-58.md#t-00-32-41) [○] (Claim) **Candace Owens**: ["Mitch Snow's story was that he was almost certain he saw Brian Harpole at a Fort..."](/statements/statement-75ce7d0d0c2c.md)
+- [00:32:57](/episodes/ep-DEtFh2Ff-58.md#t-00-32-41) [✓] (Claim) **Candace Owens**: ["Mitch Snow's story was that he was almost certain he saw Brian Harpole at a Fort..."](/statements/statement-75ce7d0d0c2c.md)
   - About: [Mitch Snow](/entities/person-mitch-snow.md), [Brian Harpole](/entities/person-brian-harpole.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </div>
@@ -21791,13 +24848,13 @@ _1866 factual claims within 3271 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:37:42](/episodes/ep-DEtFh2Ff-58.md#t-00-37-42) [○] (Claim) **Candace Owens**: ["Charlie Kirk's parents were not aboard N582MM because J.D. Vance sent Air Force ..."](/statements/statement-719ea2a38654.md)
+- [00:37:42](/episodes/ep-DEtFh2Ff-58.md#t-00-37-42) [◐] (Claim) **Candace Owens**: ["Charlie Kirk's parents were not aboard N582MM because J.D. Vance sent Air Force ..."](/statements/statement-719ea2a38654.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [JD Vance](/entities/person-jd-vance.md), [Air Force Two](/entities/org-air-force-two.md)
 
 </div>
 <div class="filter-item">
 
-- [00:38:45](/episodes/ep-DEtFh2Ff-58.md#t-00-38-21) [○] (Citation) **Candace Owens**: ["The aircraft under discussion has tail number N582MM."](/statements/statement-36c14f1e0f50.md)
+- [00:38:45](/episodes/ep-DEtFh2Ff-58.md#t-00-38-21) [✓] (Citation) **Candace Owens**: ["The aircraft under discussion has tail number N582MM."](/statements/statement-36c14f1e0f50.md)
   - About: [N582MM](/entities/vehicle-n582mm.md)
 
 </div>
@@ -21815,7 +24872,7 @@ _1866 factual claims within 3271 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:50:19](/episodes/ep-DEtFh2Ff-58.md#t-00-49-39) [○] (Claim) **Candace Owens**: ["Tyler Robinson had not yet entered a plea or had his arraignment."](/statements/statement-4a1f623051ad.md)
+- [00:50:19](/episodes/ep-DEtFh2Ff-58.md#t-00-49-39) [✓] (Claim) **Candace Owens**: ["Tyler Robinson had not yet entered a plea or had his arraignment."](/statements/statement-4a1f623051ad.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </div>
@@ -21827,7 +24884,7 @@ _1866 factual claims within 3271 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:50:51](/episodes/ep-DEtFh2Ff-58.md#t-00-50-22) [○] (Claim) **Candace Owens**: ["Charlie Kirk's perspective on Israel had shifted completely before he died."](/statements/statement-0f4fae6e0072.md)
+- [00:50:51](/episodes/ep-DEtFh2Ff-58.md#t-00-50-22) [◐] (Claim) **Candace Owens**: ["Charlie Kirk's perspective on Israel had shifted completely before he died."](/statements/statement-0f4fae6e0072.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
 </div>
@@ -33863,7 +36920,7 @@ _1866 factual claims within 3271 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:18:09](/episodes/ep-es7PWdFGoFI.md#t-00-17-41) [○] (Claim) **Candace Owens**: ["Turning Point USA and Erika Kirk have not seen any evidence beyond what is publi..."](/statements/statement-ca6b4e9ab8ae.md)
+- [00:18:09](/episodes/ep-es7PWdFGoFI.md#t-00-17-41) [◐] (Claim) **Candace Owens**: ["Turning Point USA and Erika Kirk have not seen any evidence beyond what is publi..."](/statements/statement-ca6b4e9ab8ae.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </div>
@@ -37038,7 +40095,7 @@ _1866 factual claims within 3271 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:12:38](/episodes/ep-vwG1juDCQZQ.md#t-00-12-18) [○] (Claim) **Erika Kirk**: ["Erika Kirk has seen the autopsy report and different evidence portions that have..."](/statements/statement-fd9c3a9d04cf.md)
+- [00:12:38](/episodes/ep-vwG1juDCQZQ.md#t-00-12-18) [✓] (Claim) **Erika Kirk**: ["Erika Kirk has seen the autopsy report and different evidence portions that have..."](/statements/statement-fd9c3a9d04cf.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </div>
@@ -41294,7 +44351,7 @@ _1866 factual claims within 3271 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:54:24](/episodes/ep-czVBmqZP6Ss.md#t-00-54-20) [○] (Claim) **Candace Owens**: ["Discord says there is no evidence that the suspect planned this incident or prom..."](/statements/statement-6fbddf863af1.md)
+- [00:54:24](/episodes/ep-czVBmqZP6Ss.md#t-00-54-20) [○] (Claim) **Discord**: ["Discord says there is no evidence that the suspect planned this incident or prom..."](/statements/statement-6fbddf863af1.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </div>
@@ -41387,4 +44444,4 @@ _1866 factual claims within 3271 attributed statements._
 
 ---
 
-*Generated: 2026-08-24 10:52:10*
+*Generated: 2026-08-24 18:14:59*

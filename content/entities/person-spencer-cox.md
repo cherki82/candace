@@ -1,26 +1,34 @@
 ---
 title: "Spencer Cox"
-description: "Spencer Cox (People) - 34 mentions"
+description: "Spencer Cox (People) - 46 mentions"
 id: "person-spencer-cox"
 type: "PERSON"
 aliases:
   - "Governor Spencer Cox"
   - "Spencer Cox"
   - "Governor Cox"
+categories:
+  - "Utah governor and public official"
 ---
 
 _Type: People_
 
 **Also known as:** Governor Spencer Cox, Spencer Cox, Governor Cox
 
+**Categories:** Utah governor and public official
+
+**Entity verification:** verified
+> The official Utah governor biography confirms Spencer J. Cox as Utah’s 18th governor; transcript clips identify him as Governor Cox.
+Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-gov-spencer-j-cox/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-spencer-cox-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-person-spencer-cox-t-00-38-02">2025-10-07 · 00:38:16</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>34</strong></div>
-<div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-spencer-cox-t-00-41-37">2026-04-13 · 00:41:37</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>46</strong></div>
+<div><span>Statements by</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -36,6 +44,9 @@ _Type: People_
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-spencer-cox-t-00-25-45" style="--pulse-height:89%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 8 mentions" title="2025-09-29 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-person-spencer-cox-t-00-06-18" style="--pulse-height:11%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-person-spencer-cox-t-00-38-02" style="--pulse-height:11%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-spencer-cox-t-00-34-49" style="--pulse-height:56%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 5 mentions" title="2026-03-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-spencer-cox-t-00-48-39" style="--pulse-height:11%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-spencer-cox-t-00-31-03" style="--pulse-height:56%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 5 mentions" title="2026-04-13 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +60,9 @@ _Type: People_
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-spencer-cox-t-00-25-45) | 8 |
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-spencer-cox-t-00-06-18) | 1 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-spencer-cox-t-00-38-02) | 1 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-spencer-cox-t-00-34-49) | 5 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-spencer-cox-t-00-48-39) | 1 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-spencer-cox-t-00-31-03) | 5 |
 
 </details>
 </section>
@@ -56,7 +70,55 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+<summary><strong class="section-title">Raw mentions (46)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (5 mentions)</summary>
+
+**[00:31:03](/episodes/ep-eLgD5yUVbko.md#ent-person-spencer-cox-t-00-31-03)**
+> "Governor Cox"
+
+**[00:37:11](/episodes/ep-eLgD5yUVbko.md#ent-person-spencer-cox-t-00-36-35)**
+> "George. And then we have Governor Cox at eight o'clock p.m., which makes this very stra..."
+
+**[00:37:29](/episodes/ep-eLgD5yUVbko.md#ent-person-spencer-cox-t-00-37-20)**
+> "...e that at eight o'clock p.m., Governor Cox then leads a press conference with Kash Patel and..."
+
+**[00:41:09](/episodes/ep-eLgD5yUVbko.md#ent-person-spencer-cox-t-00-40-55)**
+> ".... You may have forgotten, but Governor Cox also initially told us that the messages were on ..."
+
+**[00:41:37](/episodes/ep-eLgD5yUVbko.md#ent-person-spencer-cox-t-00-41-37)**
+> "You can hear Governor Cox say that the text messages were found on Discord...."
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
+
+**[00:49:10](/episodes/ep-UYkXV9mYbT4.md#ent-person-spencer-cox-t-00-48-39)**
+> "...s enough. You can't just have Governor Cox up there with the Fed saying, oh, we got them."
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (5 mentions)</summary>
+
+**[00:34:49](/episodes/ep-7ERqbYElOfs.md#ent-person-spencer-cox-t-00-34-49)**
+> "...ave is Kash Patel said 33 and Governor Cox, who had nothing to do with the arrest or the."
+
+**[00:39:39](/episodes/ep-7ERqbYElOfs.md#ent-person-spencer-cox-t-00-39-21)**
+> "...nd we got him? Yeah, that was Governor Cox. And like I said, he is the one that seeded the p..."
+
+**[00:40:11](/episodes/ep-7ERqbYElOfs.md#ent-person-spencer-cox-t-00-40-05)**
+> "Governor Cox is a bad man. I'm telling you that right now, Gov..."
+
+**[00:40:16](/episodes/ep-7ERqbYElOfs.md#ent-person-spencer-cox-t-00-40-05)**
+> "...hended. Take a listen to what Governor Cox said."
+
+**[00:41:03](/episodes/ep-7ERqbYElOfs.md#ent-person-spencer-cox-t-00-40-57)**
+> "...g about that picture is wrong governor cox is a problem and when i went back and looked at w..."
+
+</details>
 
 <details>
 <summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
@@ -218,19 +280,33 @@ _Type: People_
 </details>
 
 <details>
-<summary>Governor Of (1)</summary>
+<summary>Criticized By (1)</summary>
 
-- **[Utah](/entities/gpe-utah.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:53](/episodes/ep-ZGxnf5cj4Uw.md#t-00-25-45): “Phil Lyman ran against the current Governor Cox”
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:40:11](/episodes/ep-7ERqbYElOfs.md#t-00-40-05): “Governor Cox is a bad man. I'm telling you that right now, Governor Cox is a very bad man.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:31:03](/episodes/ep-eLgD5yUVbko.md#t-00-30-22): “Anyway, you guys, getting into what Baron Coleman discovered. So one of the earliest stories that we broke actually back on September 29th, to be precise, was that we had a source with direct knowledge regarding Tyler Robinson's arrest. And they had insisted to us that it was known to the police that Tyler Robinson was their guy before 7 o'clock p.m. on September 11th. Okay, I'm going to show you on a timeline why that's important. The second thing that they noted to us was that Governor Cox and the police, they were lying about the clothing that he was wearing when he was brought in. It just, it struck. struck them as odd that they would they were saying what he was wearing an outfit that he was not wearing so we had included uh that little tidbit on our original timeline when the police the washington county police knew that it was tyler robinson which was again by seven o'clock p.m they were all texting each other they had said they initially had planned to pick him up in warner valley but and this is a part that has not come out since that he was buying a gun that tyler”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Governor Of (1)</summary>
+
+- **[Utah](/entities/gpe-utah.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:53](/episodes/ep-ZGxnf5cj4Uw.md#t-00-25-45): “Phil Lyman ran against the current Governor Cox”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:31:03](/episodes/ep-eLgD5yUVbko.md#t-00-30-22): “Anyway, you guys, getting into what Baron Coleman discovered. So one of the earliest stories that we broke actually back on September 29th, to be precise, was that we had a source with direct knowledge regarding Tyler Robinson's arrest. And they had insisted to us that it was known to the police that Tyler Robinson was their guy before 7 o'clock p.m. on September 11th. Okay, I'm going to show you on a timeline why that's important. The second thing that they noted to us was that Governor Cox and the police, they were lying about the clothing that he was wearing when he was brought in.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
 
 - **[Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)** appointed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -239,10 +315,19 @@ _Type: People_
 
 </details>
 
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:40:11](/episodes/ep-7ERqbYElOfs.md#t-00-40-05): “Governor Cox is a bad man. I'm telling you that right now, Governor Cox is a very bad man.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:31:03](/episodes/ep-eLgD5yUVbko.md#t-00-30-22): “Anyway, you guys, getting into what Baron Coleman discovered. So one of the earliest stories that we broke actually back on September 29th, to be precise, was that we had a source with direct knowledge regarding Tyler Robinson's arrest. And they had insisted to us that it was known to the police that Tyler Robinson was their guy before 7 o'clock p.m. on September 11th. Okay, I'm going to show you on a timeline why that's important. The second thing that they noted to us was that Governor Cox and the police, they were lying about the clothing that he was wearing when he was brought in. It just, it struck. struck them as odd that they would they were saying what he was wearing an outfit that he was not wearing so we had included uh that little tidbit on our original timeline when the police the washington county police knew that it was tyler robinson which was again by seven o'clock p.m they were all texting each other they had said they initially had planned to pick him up in warner valley but and this is a part that has not come out since that he was buying a gun that tyler”
+
+</details>
+
 - **[Utah](/entities/gpe-utah.md)** has governor this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:53](/episodes/ep-ZGxnf5cj4Uw.md#t-00-25-45): “Phil Lyman ran against the current Governor Cox”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:31:03](/episodes/ep-eLgD5yUVbko.md#t-00-30-22): “Anyway, you guys, getting into what Baron Coleman discovered. So one of the earliest stories that we broke actually back on September 29th, to be precise, was that we had a source with direct knowledge regarding Tyler Robinson's arrest. And they had insisted to us that it was known to the police that Tyler Robinson was their guy before 7 o'clock p.m. on September 11th. Okay, I'm going to show you on a timeline why that's important. The second thing that they noted to us was that Governor Cox and the police, they were lying about the clothing that he was wearing when he was brought in.”
 
 </details>
 
@@ -251,7 +336,23 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Spencer Cox (3)</strong></summary>
+<summary><strong class="section-title">Statements by Spencer Cox (5)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>
+
+- [00:41:44](/episodes/ep-eLgD5yUVbko.md#t-00-41-37) [○] (Claim) ["Spencer Cox said investigators were shown Discord messages between Tyler Robinso..."](/statements/statement-9e5da808822c.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Discord](/entities/org-discord.md)
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1)</summary>
+
+- [00:40:29](/episodes/ep-7ERqbYElOfs.md#t-00-40-25) [✓] (Claim) ["A Tyler Robinson family member told a family friend that Robinson had confessed ..."](/statements/statement-15993351894a.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md)
+
+</details>
 
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2)</summary>
@@ -275,7 +376,29 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Spencer Cox (7)</strong></summary>
+<summary><strong class="section-title">Statements about Spencer Cox (11)</strong></summary>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2)</summary>
+
+- [00:31:03](/episodes/ep-eLgD5yUVbko.md#t-00-30-22) (Accusation) **Anonymous Source #4 (Ep 2WEHTk0Xewg)** (via read message): ["The arrest source told Candace Owens that Governor Spencer Cox and pol..."](/statements/statement-a3c20629d66e.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:35:51](/episodes/ep-eLgD5yUVbko.md#t-00-35-25) (Accusation) **Candace Owens**: ["Candace Owens argued that the FBI released suspect photos and sought p..."](/statements/statement-3d4ae6743ef6.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Kash Patel](/entities/person-kash-patel.md)
+
+</details>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (2)</summary>
+
+- [00:40:11](/episodes/ep-7ERqbYElOfs.md#t-00-40-05) (Accusation) **Candace Owens**: ["Spencer Cox was complicit in lying about how Tyler Robinson was appreh..."](/statements/statement-9a3ad9ef4ed5.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:40:29](/episodes/ep-7ERqbYElOfs.md#t-00-40-25) (Claim) **Spencer Cox** (via quoted speech): ["A Tyler Robinson family member told a family friend that Robinson had ..."](/statements/statement-15993351894a.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md), [Utah County Sheriff's Office](/entities/org-utah-county-sheriff-s-office.md)
+
+</details>
 
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (6)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Jonathan Jay Pollard"
-description: "Jonathan Jay Pollard (People) - 2 mentions"
+description: "Jonathan Jay Pollard (People) - 3 mentions"
 id: "person-jonathan-jay-pollard"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [FBI: Year of the Spy (1985)](https://www.fbi.gov/history/cases-and-crim
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jonathan-jay-pollard-t-00-20-00">2026-02-02 · 00:20:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-jonathan-jay-pollard-t-01-03-09">2026-03-17 · 01:03:09</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-jonathan-jay-pollard-t-00-26-31">2026-04-10 · 00:26:43</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -39,6 +39,7 @@ Source: [FBI: Year of the Spy (1985)](https://www.fbi.gov/history/cases-and-crim
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jonathan-jay-pollard-t-00-20-00" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-jonathan-jay-pollard-t-01-03-09" style="--pulse-height:100%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-jonathan-jay-pollard-t-00-26-31" style="--pulse-height:100%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [FBI: Year of the Spy (1985)](https://www.fbi.gov/history/cases-and-crim
 |---|---|---:|
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-jonathan-jay-pollard-t-00-20-00) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-jonathan-jay-pollard-t-01-03-09) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-jonathan-jay-pollard-t-00-26-31) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [FBI: Year of the Spy (1985)](https://www.fbi.gov/history/cases-and-crim
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:26:43](/episodes/ep-ZIH5-V6UPkg.md#ent-person-jonathan-jay-pollard-t-00-26-31)**
+> "... into releasing convicted spy Jonathan Pollard from prison."
+
+</details>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>
@@ -103,7 +113,15 @@ Source: [FBI: Year of the Spy (1985)](https://www.fbi.gov/history/cases-and-crim
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jonathan Jay Pollard (1)</strong></summary>
+<summary><strong class="section-title">Statements about Jonathan Jay Pollard (2)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1)</summary>
+
+- [00:26:43](/episodes/ep-ZIH5-V6UPkg.md#t-00-26-31) (Claim) **Tucker Carlson** (via quoted post): ["Israel used recordings of Bill Clinton and Monica Lewinsky's phone-sex..."](/statements/statement-1ad2cbf015a8.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Bill Clinton](/entities/person-bill-clinton.md), [Monica Lewinsky](/entities/person-monica-lewinsky.md)
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1)</summary>

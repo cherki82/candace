@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) friend of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (19 mentions)
+### Evidence (21 mentions)
 
 **[Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708)**
 
@@ -20,6 +20,10 @@ object: "person-charlie-kirk"
 **[Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk)**
 
 - [00:07:43](/episodes/ep-6J6lRZPQ4jk#t-00-07-43): _At one time, a friend of Charlie's._
+
+**[The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs)**
+
+- [00:13:33](/episodes/ep-7ERqbYElOfs#t-00-13-33): _My friend Charlie Kirk stepped on the toes of Bibi (Benjamin Netanyahu) and the CIA's war for profit machine._
 
 **[Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE)**
 
@@ -44,6 +48,10 @@ object: "person-charlie-kirk"
 **[INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0)**
 
 - [00:00:10](/episodes/ep-YFmRH8p5lt0#t-00-00-10): _This is real life: the assassination of my friend, Charlie (Charlie Kirk)._
+
+**[An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg)**
+
+- [00:02:27](/episodes/ep-ZIH5-V6UPkg#t-00-02-27): _I think about this a lot now, very often, mostly in the context of our late mutual friend, Charlie Kirk._
 
 **[To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co)**
 

@@ -1,6 +1,6 @@
 ---
 title: "California"
-description: "California (Places) - 40 mentions"
+description: "California (Places) - 41 mentions"
 id: "gpe-california"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-california-t-00-04-56">2025-09-11 · 00:05:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-california-t-00-41-11">2026-03-24 · 00:41:11</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>40</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-california-t-00-54-30">2026-03-30 · 00:54:56</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -49,6 +49,7 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-california-t-00-44-57" style="--pulse-height:60%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 3 mentions" title="2026-03-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-california-t-00-19-29" style="--pulse-height:20%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-california-t-00-41-11" style="--pulse-height:20%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-california-t-00-54-30" style="--pulse-height:20%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -73,6 +74,7 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-california-t-00-44-57) | 3 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-california-t-00-19-29) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-california-t-00-41-11) | 1 |
+| 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-california-t-00-54-30) | 1 |
 
 </details>
 </section>
@@ -80,7 +82,15 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+
+<details>
+<summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1 mentions)</summary>
+
+**[00:54:56](/episodes/ep-7ERqbYElOfs.md#ent-gpe-california-t-00-54-30)**
+> "which still goes on that's like the teenage like from 16 to 21 you're in the Freemasonic club all throughout California that's her granddad was a Freemason her dad was in the DeMolay club her aunt was in the DeMolay club I don't know why she's lying about that it's weird okay it's like in the newspaper it's something you can just like deny"
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>

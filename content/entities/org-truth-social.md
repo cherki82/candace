@@ -1,17 +1,26 @@
 ---
 title: "Truth Social"
-description: "Truth Social (Organizations) - 6 mentions"
+description: "Truth Social (Organizations) - 9 mentions"
 id: "org-truth-social"
 type: "ORG"
+categories:
+  - "social media platform"
+  - "Trump media"
 ---
 
 _Type: Organizations_
 
+**Categories:** social media platform, Trump media
+
+**Entity verification:** verified
+> Truth Social's official about page confirms the canonical platform name used in the transcript.
+Source: [Truth Social — About Us](https://truthsocial.com/about-us/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-truth-social-t-00-11-16">2025-10-29 · 00:11:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-truth-social-t-00-13-58">2026-03-26 · 00:14:36</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-truth-social-t-00-28-57">2026-04-10 · 00:28:57</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -24,6 +33,7 @@ _Type: Organizations_
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-truth-social-t-00-11-16" style="--pulse-height:100%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 4 mentions" title="2025-10-29 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-truth-social-t-00-13-58" style="--pulse-height:50%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-truth-social-t-00-03-51" style="--pulse-height:75%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 3 mentions" title="2026-04-10 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -31,6 +41,7 @@ _Type: Organizations_
 |---|---|---:|
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-org-truth-social-t-00-11-16) | 4 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-org-truth-social-t-00-13-58) | 2 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-truth-social-t-00-03-51) | 3 |
 
 </details>
 </section>
@@ -38,7 +49,21 @@ _Type: Organizations_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (3 mentions)</summary>
+
+**[00:03:51](/episodes/ep-ZIH5-V6UPkg.md#ent-org-truth-social-t-00-03-51)**
+> "...send on what you published on Truth Social last night. And I think that we should read it to..."
+
+**[00:19:27](/episodes/ep-ZIH5-V6UPkg.md#ent-org-truth-social-t-00-19-17)**
+> "I mean, even on truth social, your very own platform, they've turned on you. L..."
+
+**[00:28:57](/episodes/ep-ZIH5-V6UPkg.md#ent-org-truth-social-t-00-28-57)**
+> "Ironically, being posted on Truth Social, who's going to be upset about... Brigitte Macron..."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (2 mentions)</summary>

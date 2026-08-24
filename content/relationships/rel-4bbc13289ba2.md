@@ -11,11 +11,15 @@ object: "person-brigitte-macron"
 
 ## [Candace Owens](/entities/person-candace-owens) sued by [Brigitte Macron](/entities/person-brigitte-macron)
 
-### Evidence (8 mentions)
+### Evidence (9 mentions)
 
 **[From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o)**
 
 - [00:02:12](/episodes/ep-7RLtGgkTh9o#t-00-02-12): _Brigitte Macron and Emmanuel had a heart attack when I started discussing MKUltra. They brought it up 18 times in the lawsuit against me_
+
+**[An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg)**
+
+- [00:09:06](/episodes/ep-ZIH5-V6UPkg#t-00-09-06): _Crazy Candace Owens, who accuses the highly respected First Lady of France of being a man when she is not and will hopefully win lots of money in the ongoing lawsuit._
 
 **[Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8)**
 

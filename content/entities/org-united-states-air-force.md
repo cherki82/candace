@@ -1,6 +1,6 @@
 ---
 title: "United States Air Force"
-description: "United States Air Force (Organizations) - 57 mentions"
+description: "United States Air Force (Organizations) - 60 mentions"
 id: "org-united-states-air-force"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-united-states-air-force-t-00-50-29">2025-09-29 · 00:50:39</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#t-00-37-42">2026-03-26 · 00:37:42</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>57</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-org-united-states-air-force-t-00-16-47">2026-04-01 · 00:16:47</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>60</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -57,6 +57,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-air-force-t-00-05-32" style="--pulse-height:33%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 4 mentions" title="2026-03-10 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-united-states-air-force-t-00-04-59" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#t-00-37-42" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-united-states-air-force-t-00-09-38" style="--pulse-height:25%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 3 mentions" title="2026-04-01 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -83,6 +84,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-air-force-t-00-05-32) | 4 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-united-states-air-force-t-00-04-59) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#t-00-37-42) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-united-states-air-force-t-00-09-38) | 3 |
 
 </details>
 </section>
@@ -90,7 +92,21 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (57)</strong></summary>
+<summary><strong class="section-title">Raw mentions (60)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (3 mentions)</summary>
+
+**[00:10:09](/episodes/ep-rupRLXmSndU.md#ent-org-united-states-air-force-t-00-09-38)**
+> "That means he's a commanding officer. That's the equivalent to a colonel. in the Air Force. And he has extensive ties to the Middle East as well, I might add. You might have gathered that from his name."
+
+**[00:16:05](/episodes/ep-rupRLXmSndU.md#ent-org-united-states-air-force-t-00-16-05)**
+> "...efense, particularly from the Air Force. The majority came in from the Air Force, 7.4 mil..."
+
+**[00:16:47](/episodes/ep-rupRLXmSndU.md#ent-org-united-states-air-force-t-00-16-47)**
+> "...ce injection of cash from the Air Force in June?"
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
@@ -398,6 +414,18 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 </details>
 
 <details>
+<summary>Funded (1)</summary>
+
+- **[BILT Incorporated](/entities/org-bilt-incorporated.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:16:05](/episodes/ep-rupRLXmSndU.md#t-00-16-05): “And also the top one as well. I can show you here on the website that the BILT was awarded that money from the Department of Defense, particularly from the Air Force. The majority came in from the Air Force, 7.4 million from the Air Force and just under a quarter million from the Navy, bringing the total actually closer to $8 million that came in to them in June of this year.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Has Member (2)</summary>
 
 - **[Dr. Deidre Amaro](/entities/person-dr-deidre-amaro.md)**
@@ -429,12 +457,19 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Bill Montgomery](/entities/person-bill-montgomery.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:28:56](/episodes/ep-A39g5oqB_eM.md#t-00-28-43): “Now, Bill Montgomery was Air Force. He's in the Air Force Reserves. Bill Montgomery also happened to be from Lincoln,”
+
+</details>
+
+- **[BILT Incorporated](/entities/org-bilt-incorporated.md)** funded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:16:05](/episodes/ep-rupRLXmSndU.md#t-00-16-05): “And also the top one as well. I can show you here on the website that the BILT was awarded that money from the Department of Defense, particularly from the Air Force. The majority came in from the Air Force, 7.4 million from the Air Force and just under a quarter million from the Navy, bringing the total actually closer to $8 million that came in to them in June of this year.”
 
 </details>
 
@@ -471,7 +506,15 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Air Force (6)</strong></summary>
+<summary><strong class="section-title">Statements about United States Air Force (7)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1)</summary>
+
+- [00:16:05](/episodes/ep-rupRLXmSndU.md#t-00-16-05) (Citation) **Candace Owens**: ["BILT received nearly $8 million in June 2025 from the Department of De..."](/statements/statement-9dc82c68913f.md)
+  - Also about: [BILT Incorporated](/entities/org-bilt-incorporated.md), [United States Department of Defense](/entities/org-us-department-of-defense.md), [United States Navy](/entities/org-united-states-navy.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (2)</summary>

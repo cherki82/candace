@@ -367,7 +367,7 @@ youtube_url: "https://www.youtube.com/watch?v=es7PWdFGoFI"
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Brian Harpole](/entities/person-brian-harpole.md)
 - [00:15:28](#t-00-14-53) [○] (Claim) **Candace Owens**: ["Brian Harpole no longer works at Turning Point USA"](/statements/statement-96f90fe477d4.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-- [00:18:09](#t-00-17-41) [○] (Claim) **Candace Owens**: ["Turning Point USA and Erika Kirk have not seen any evidence beyond what is publi..."](/statements/statement-ca6b4e9ab8ae.md)
+- [00:18:09](#t-00-17-41) [◐] (Claim) **Candace Owens**: ["Turning Point USA and Erika Kirk have not seen any evidence beyond what is publi..."](/statements/statement-ca6b4e9ab8ae.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:18:09](#t-00-17-41) [○] (Claim) **Candace Owens**: ["Turning Point USA's lawyer said they have nothing but the affidavit regarding ev..."](/statements/statement-2494e31e1557.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
