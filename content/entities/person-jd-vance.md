@@ -1,6 +1,6 @@
 ---
 title: "JD Vance"
-description: "JD Vance (People) - 21 mentions"
+description: "JD Vance (People) - 25 mentions"
 id: "person-jd-vance"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-person-jd-vance-t-00-45-07">2025-09-18 · 00:45:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jd-vance-t-00-28-30">2026-02-02 · 00:29:08</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#t-01-00-42">2026-03-24 · 01:00:42</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -46,6 +46,10 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-jd-vance-t-00-05-24" style="--pulse-height:40%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jd-vance-t-00-42-32" style="--pulse-height:20%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jd-vance-t-00-25-10" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 5 mentions" title="2026-02-02 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#t-00-38-27" style="--pulse-height:20%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-jd-vance-t-00-51-19" style="--pulse-height:20%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-person-jd-vance-t-00-13-51" style="--pulse-height:20%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#t-01-00-42" style="--pulse-height:20%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -61,6 +65,10 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-jd-vance-t-00-05-24) | 2 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-jd-vance-t-00-42-32) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-jd-vance-t-00-25-10) | 5 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#t-00-38-27) | 1 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-jd-vance-t-00-51-19) | 1 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-jd-vance-t-00-13-51) | 1 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#t-01-00-42) | 1 |
 
 </details>
 </section>
@@ -68,7 +76,39 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>
+
+**[01:00:42](/episodes/ep-SgVcnx4Oh30.md#t-01-00-42)**
+> "much which by the way makes me laugh even more when they suggest that Joe Kent was trying to set up Erika (Erika Kirk) nobody least of all me thought Erika (Erika Kirk) was guilty until i know some of you guys i mean the tiktok had her clocked but i was like okay you don't like her pants you don't like her hot pants next to jd you don't like the way she's hugging yeah is her hair is her fingers in his head a little disrespectful it's vice president united states don't put your fingers in his hair"
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
+
+**[00:14:22](/episodes/ep-k8ueJdPFel4.md#ent-person-jd-vance-t-00-13-51)**
+> "J.D. Vance was one of Charlie (Charlie Kirk)'s favorite poli..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>
+
+**[00:51:49](/episodes/ep-5-HUyv9LyMg.md#ent-person-jd-vance-t-00-51-19)**
+> "J.D. Vance, Donald Trump Jr., Karoline Leavitt, Lawrence Jon..."
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
+
+**[00:38:27](/episodes/ep-i8m_6D4QGmk.md#t-00-38-27)**
+> "him and Vance. That was the ticket that they ran on"
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (5 mentions)</summary>
@@ -198,7 +238,7 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 
 </details>
 
-- **[Donald Trump](/entities/person-donald-trump.md)**
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:10:11](/episodes/ep-sreYYcID-QY.md#t-00-09-40): “I was not invited to speak alongside President Donald Trump and JD Vance on the stage with Tucker at a memorial event.”
@@ -209,6 +249,18 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:10:11](/episodes/ep-sreYYcID-QY.md#t-00-09-40): “I was not invited to speak alongside President Donald Trump and JD Vance on the stage with Tucker at a memorial event.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Criticized By (1)</summary>
+
+- **[Ben Shapiro](/entities/person-ben-shapiro.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:14:22](/episodes/ep-k8ueJdPFel4.md#t-00-13-51): “J.D. Vance was one of Charlie (Charlie Kirk)'s favorite politicians while Ben (Ben Shapiro) had been critical of him. Charlie (Charlie Kirk) saw Ben (Ben Shapiro) as a rival.”
 
 </details>
 
@@ -227,7 +279,7 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -236,7 +288,7 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 
 </details>
 
-- **[Donald Trump](/entities/person-donald-trump.md)** appeared with this
+- **[Donald J. Trump](/entities/person-donald-trump.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:10:11](/episodes/ep-sreYYcID-QY.md#t-00-09-40): “I was not invited to speak alongside President Donald Trump and JD Vance on the stage with Tucker at a memorial event.”
@@ -247,6 +299,13 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:10:11](/episodes/ep-sreYYcID-QY.md#t-00-09-40): “I was not invited to speak alongside President Donald Trump and JD Vance on the stage with Tucker at a memorial event.”
+
+</details>
+
+- **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:14:22](/episodes/ep-k8ueJdPFel4.md#t-00-13-51): “J.D. Vance was one of Charlie (Charlie Kirk)'s favorite politicians while Ben (Ben Shapiro) had been critical of him. Charlie (Charlie Kirk) saw Ben (Ben Shapiro) as a rival.”
 
 </details>
 
@@ -262,7 +321,23 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about JD Vance (2)</strong></summary>
+<summary><strong class="section-title">Statements about JD Vance (4)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1)</summary>
+
+- [00:14:02](/episodes/ep-k8ueJdPFel4.md#t-00-13-51) (Claim) **Blake Neff** (via quoted tweet): ["Charlie Kirk and Ben Shapiro differed about the conservative movement:..."](/statements/statement-84b4b3b48a57.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Ron DeSantis](/entities/person-ron-desantis.md)
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
+
+- [00:22:21](/episodes/ep-i8m_6D4QGmk.md#t-00-22-21) (Prediction) **Michael McCoy** (via quoted speech): ["Maybe there still will be a Vance-Kirk presidential ticket."](/statements/statement-8f26986bfc02.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1)</summary>

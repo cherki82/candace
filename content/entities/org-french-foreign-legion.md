@@ -1,6 +1,6 @@
 ---
 title: "French Foreign Legion"
-description: "French Foreign Legion (Organizations) - 36 mentions"
+description: "French Foreign Legion (Organizations) - 38 mentions"
 id: "org-french-foreign-legion"
 type: "ORG"
 aliases:
@@ -25,10 +25,10 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-org-french-foreign-legion-t-00-13-39">2025-11-21 · 00:14:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-french-foreign-legion-t-02-36-52">2026-08-14 · 02:36:52</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>36</strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -45,6 +45,7 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-org-french-foreign-legion-t-00-58-24" style="--pulse-height:11%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-french-foreign-legion-t-01-04-24" style="--pulse-height:11%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-french-foreign-legion-t-00-14-04" style="--pulse-height:11%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-french-foreign-legion-t-01-00-54" style="--pulse-height:11%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-french-foreign-legion-t-02-28-25" style="--pulse-height:22%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -59,6 +60,7 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-french-foreign-legion-t-00-58-24) | 2 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-french-foreign-legion-t-01-04-24) | 2 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-org-french-foreign-legion-t-00-14-04) | 2 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-french-foreign-legion-t-01-00-54) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-french-foreign-legion-t-02-28-25) | 4 |
 
 </details>
@@ -67,7 +69,7 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -83,6 +85,17 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 
 **[02:36:52](/episodes/ep-nPhCKwJ6ye8.md#ent-org-french-foreign-legion-t-02-36-52)**
 > "...it was saying that it was the French foreign legion that was on the ground that"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (2 mentions)</summary>
+
+**[01:00:54](/episodes/ep-5-HUyv9LyMg.md#ent-org-french-foreign-legion-t-01-00-54)**
+> "...say that that's not true? The French Foreign Legion, which is a legion made up of, in part, a lot of ..."
+
+**[01:01:21](/episodes/ep-5-HUyv9LyMg.md#ent-org-french-foreign-legion-t-01-01-21)**
+> "...thug in life you can join the french foreign legion this is what they do globally they work together ..."
 
 </details>
 
@@ -296,7 +309,7 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about French Foreign Legion (2)</strong></summary>
+<summary><strong class="section-title">Statements about French Foreign Legion (3)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2)</summary>
@@ -306,6 +319,14 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 
 - [02:33:22](/episodes/ep-nPhCKwJ6ye8.md#t-02-33-18) (Accusation) **Anonymous Source #1 (Ep nPhCKwJ6ye8)** (via quoted speech): ["French Foreign Legion personnel were on the ground during Charlie Kirk..."](/statements/statement-0ccadf24fcfc.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [France](/entities/gpe-france.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1)</summary>
+
+- [01:00:54](/episodes/ep-5-HUyv9LyMg.md#t-01-00-54) (Accusation) **Candace Owens**: ["France, specifically the French Foreign Legion, was present on the day..."](/statements/statement-4c07adc38894.md)
+  - Also about: [France](/entities/gpe-france.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [White House](/entities/org-white-house.md)
 
 </details>
 

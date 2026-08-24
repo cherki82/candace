@@ -1,6 +1,6 @@
 ---
 title: "Active Skin Repair"
-description: "Active Skin Repair (Organizations) - 4 mentions"
+description: "Active Skin Repair (Organizations) - 8 mentions"
 id: "org-active-skin-repair"
 type: "ORG"
 categories:
@@ -18,12 +18,12 @@ Source: [Active Skin Repair: Repair Hydrogel](https://activeskinrepair.com/colle
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-active-skin-repair-t-00-42-41">2026-02-11 · 00:42:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-active-skin-repair-t-00-44-08">2026-02-11 · 00:44:08</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-active-skin-repair-t-00-46-59">2026-03-12 · 00:46:59</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -32,12 +32,14 @@ Source: [Active Skin Repair: Repair Hydrogel](https://activeskinrepair.com/colle
 <p>Highest activity: <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-active-skin-repair-t-00-42-41">VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-active-skin-repair-t-00-42-41" style="--pulse-height:100%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 4 mentions" title="2026-02-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-active-skin-repair-t-00-45-49" style="--pulse-height:100%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 4 mentions" title="2026-03-12 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-active-skin-repair-t-00-42-41) | 4 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-active-skin-repair-t-00-45-49) | 4 |
 
 </details>
 </section>
@@ -45,7 +47,24 @@ Source: [Active Skin Repair: Repair Hydrogel](https://activeskinrepair.com/colle
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (4 mentions)</summary>
+
+**[00:46:04](/episodes/ep-5-HUyv9LyMg.md#ent-org-active-skin-repair-t-00-45-49)**
+> "That's why Active Skin Repair is the product that I always keep on hand. What m..."
+
+**[00:46:24](/episodes/ep-5-HUyv9LyMg.md#ent-org-active-skin-repair-t-00-46-24)**
+> "Active skin repair can be used to treat a wide range of skin issues,..."
+
+**[00:46:42](/episodes/ep-5-HUyv9LyMg.md#ent-org-active-skin-repair-t-00-46-24)**
+> "Active skin repair is the product that I trust to help my family get..."
+
+**[00:46:59](/episodes/ep-5-HUyv9LyMg.md#ent-org-active-skin-repair-t-00-46-59)**
+> "...t checkout. You can also find Active Skin Repair on Amazon and at your local CVS. Also, I remind y..."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (4 mentions)</summary>
@@ -69,6 +88,28 @@ Source: [Active Skin Repair: Repair Hydrogel](https://activeskinrepair.com/colle
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Endorsed By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:46:04](/episodes/ep-5-HUyv9LyMg.md#t-00-45-49): “That's why Active Skin Repair is the product that I always keep on hand”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:46:04](/episodes/ep-5-HUyv9LyMg.md#t-00-45-49): “That's why Active Skin Repair is the product that I always keep on hand”
+
+</details>
+
+</details>
 
 </details>

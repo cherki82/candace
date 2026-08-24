@@ -20,7 +20,7 @@ type: "factual_claim"
 
 ## About
 
-- [Mikey McCoy](/entities/person-mikey-mccoy.md) (person)
+- [Michael McCoy](/entities/person-michael-mccoy.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Martha MacCallum](/entities/person-martha-maccallum.md) (person)
 - [Fox News](/entities/org-fox-news.md) (org)

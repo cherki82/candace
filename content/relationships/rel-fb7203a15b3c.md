@@ -11,7 +11,11 @@ object: "person-ben-shapiro"
 
 ## [AmericaFest 2025](/entities/event-americafest-2025) hosted speaker [Ben Shapiro](/entities/person-ben-shapiro)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A)**
+
+- [00:04:37](/episodes/ep-H9p2ZGHAs9A#t-00-04-37): _Ben Shapiro, who was, in fact, an enemy to her husband, effectively opened AmFest. She came out first and then Ben Shapiro came out second._
 
 **[Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno)**
 

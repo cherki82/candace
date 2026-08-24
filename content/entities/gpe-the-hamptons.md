@@ -1,6 +1,6 @@
 ---
 title: "The Hamptons"
-description: "The Hamptons (Places) - 23 mentions"
+description: "The Hamptons (Places) - 25 mentions"
 id: "gpe-the-hamptons"
 type: "GPE"
 aliases:
@@ -26,8 +26,8 @@ Source: [Towns & Regions on Long Island | Discover Long Island](https://www.disc
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-the-hamptons-t-00-57-01">2026-01-20 · 00:57:01</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-the-hamptons-t-02-26-33">2026-08-14 · 02:26:42</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -42,6 +42,7 @@ Source: [Towns & Regions on Long Island | Discover Long Island](https://www.disc
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-the-hamptons-t-00-16-39" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-gpe-the-hamptons-t-00-30-13" style="--pulse-height:100%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 14 mentions" title="2026-02-09 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-gpe-the-hamptons-t-00-14-24" style="--pulse-height:21%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 3 mentions" title="2026-02-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-the-hamptons-t-00-26-36" style="--pulse-height:8%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-the-hamptons-t-02-25-29" style="--pulse-height:14%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -52,6 +53,7 @@ Source: [Towns & Regions on Long Island | Discover Long Island](https://www.disc
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-the-hamptons-t-00-16-39) | 1 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-gpe-the-hamptons-t-00-30-13) | 14 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-gpe-the-hamptons-t-00-14-24) | 3 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-the-hamptons-t-00-26-36) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-the-hamptons-t-02-25-29) | 2 |
 
 </details>
@@ -64,7 +66,7 @@ Source: [Towns & Regions on Long Island | Discover Long Island](https://www.disc
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -74,6 +76,14 @@ Source: [Towns & Regions on Long Island | Discover Long Island](https://www.disc
 
 **[02:26:42](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-the-hamptons-t-02-26-33)**
 > "The Hamptons thing was weird."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1 mentions)</summary>
+
+**[00:26:49](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-the-hamptons-t-00-26-36)**
+> "Charlie (Charlie Kirk) establishing a DOGE seven days before he died, Bibi (Benjamin Netanyahu)'s phone call in the Hamptons, Donald Trump, pageantry world, the Epstein files."
 
 </details>
 
@@ -157,6 +167,14 @@ Source: [Towns & Regions on Long Island | Discover Long Island](https://www.disc
 
 **[00:58:01](/episodes/ep-9naMwS0kMBE.md#ent-gpe-the-hamptons-t-00-58-01)**
 > "...n you die question was out of the Hamptons."
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
+
+**[00:10:39](/episodes/ep-5m-Wn6Pr5rM.md#t-00-10-39)**
+> "Hamptons"
 
 </details>
 

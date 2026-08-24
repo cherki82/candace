@@ -1,6 +1,6 @@
 ---
 title: "Islamic State"
-description: "Islamic State (Organizations) - 2 mentions"
+description: "Islamic State (Organizations) - 4 mentions"
 id: "org-islamic-state"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [National Counterterrorism Center: ISIS](https://www.dni.gov/nctc/groups
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-islamic-state-t-00-18-15">2026-01-29 · 00:18:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-islamic-state-t-00-40-25">2026-01-29 · 00:40:25</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-islamic-state-t-00-05-30">2026-03-17 · 00:05:37</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,12 +37,14 @@ Source: [National Counterterrorism Center: ISIS](https://www.dni.gov/nctc/groups
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-islamic-state-t-00-18-15">Candace x Bassem Youssef | Candace Ep 298</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-islamic-state-t-00-18-15" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-islamic-state-t-00-04-02" style="--pulse-height:100%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-islamic-state-t-00-18-15) | 2 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-islamic-state-t-00-04-02) | 2 |
 
 </details>
 </section>
@@ -50,7 +52,18 @@ Source: [National Counterterrorism Center: ISIS](https://www.dni.gov/nctc/groups
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (2 mentions)</summary>
+
+**[00:04:02](/episodes/ep-I0OaY6Gryqk.md#ent-org-islamic-state-t-00-04-02)**
+> "combat operations began against ISIS"
+
+**[00:05:37](/episodes/ep-I0OaY6Gryqk.md#ent-org-islamic-state-t-00-05-30)**
+> "...em Soleimani and by defeating ISIS. Early in this administration, high-ranking Israe..."
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>

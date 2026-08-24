@@ -2,14 +2,14 @@
 title: "Michael McCoy works for Charlie Kirk"
 description: "Evidence for the relationship: Michael McCoy works for Charlie Kirk"
 relationship_id: "rel-4ffec33bd3f4"
-subject: "person-mikey-mccoy"
+subject: "person-michael-mccoy"
 predicate: "works for"
 object: "person-charlie-kirk"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Michael McCoy](/entities/person-mikey-mccoy) works for [Charlie Kirk](/entities/person-charlie-kirk)
+## [Michael McCoy](/entities/person-michael-mccoy) works for [Charlie Kirk](/entities/person-charlie-kirk)
 
 ### Evidence (1 mentions)
 
@@ -19,5 +19,5 @@ object: "person-charlie-kirk"
 
 ### Related
 
-- [Michael McCoy](/entities/person-mikey-mccoy)
+- [Michael McCoy](/entities/person-michael-mccoy)
 - [Charlie Kirk](/entities/person-charlie-kirk)

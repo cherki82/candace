@@ -1,15 +1,15 @@
 ---
-title: "Charlie Kirk has chief of staff Mikey McCoy"
-description: "Evidence for the relationship: Charlie Kirk has chief of staff Mikey McCoy"
+title: "Charlie Kirk has chief of staff Michael McCoy"
+description: "Evidence for the relationship: Charlie Kirk has chief of staff Michael McCoy"
 relationship_id: "rel-d4b1d34152cb"
 subject: "person-charlie-kirk"
 predicate: "has chief of staff"
-object: "person-mikey-mccoy"
+object: "person-michael-mccoy"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Charlie Kirk](/entities/person-charlie-kirk) has chief of staff [Mikey McCoy](/entities/person-mikey-mccoy)
+## [Charlie Kirk](/entities/person-charlie-kirk) has chief of staff [Michael McCoy](/entities/person-michael-mccoy)
 
 ### Evidence (2 mentions)
 
@@ -24,4 +24,4 @@ object: "person-mikey-mccoy"
 ### Related
 
 - [Charlie Kirk](/entities/person-charlie-kirk)
-- [Mikey McCoy](/entities/person-mikey-mccoy)
+- [Michael McCoy](/entities/person-michael-mccoy)

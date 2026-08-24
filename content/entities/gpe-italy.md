@@ -1,6 +1,6 @@
 ---
 title: "Italy"
-description: "Italy (Places) - 12 mentions"
+description: "Italy (Places) - 14 mentions"
 id: "gpe-italy"
 type: "GPE"
 categories:
@@ -18,8 +18,8 @@ Source: [Italy – EU country | European Union](https://european-union.europa.eu
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-italy-t-00-47-50">2026-01-28 · 00:48:16</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-italy-t-03-51-36">2026-08-14 · 03:51:36</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,6 +33,8 @@ Source: [Italy – EU country | European Union](https://european-union.europa.eu
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-italy-t-00-47-50" style="--pulse-height:33%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-gpe-italy-t-00-37-46" style="--pulse-height:17%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-italy-t-00-29-57" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 3 mentions" title="2026-03-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-italy-t-00-27-09" style="--pulse-height:17%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-italy-t-00-11-42" style="--pulse-height:17%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-italy-t-02-05-30" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 6 mentions" title="2026-08-14 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -42,6 +44,8 @@ Source: [Italy – EU country | European Union](https://european-union.europa.eu
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-italy-t-00-47-50) | 2 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-gpe-italy-t-00-37-46) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-italy-t-00-29-57) | 3 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-italy-t-00-27-09) | 1 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-italy-t-00-11-42) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-italy-t-02-05-30) | 6 |
 
 </details>
@@ -50,7 +54,7 @@ Source: [Italy – EU country | European Union](https://european-union.europa.eu
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (6 mentions)</summary>
@@ -72,6 +76,22 @@ Source: [Italy – EU country | European Union](https://european-union.europa.eu
 
 **[03:51:36](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-italy-t-03-51-36)**
 > "...aunched the flb shoes made in italy we have a marketing department"
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
+
+**[00:12:08](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-italy-t-00-11-42)**
+> "And in August, we find Erika (Erika Kirk) somewhere in the Mediterranean. I could not figure out where she was. My guess would be Croatia or Italy based on the water that certainly is the Mediterranean Sea."
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
+
+**[00:27:30](/episodes/ep-k8ueJdPFel4.md#ent-gpe-italy-t-00-27-09)**
+> "Italy's Prime Minister Giorgia Meloni on Wednesday—and sh..."
 
 </details>
 

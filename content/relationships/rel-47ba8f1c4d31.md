@@ -1,6 +1,6 @@
 ---
-title: "Wilmington, Delaware location of Department of Justice"
-description: "Evidence for the relationship: Wilmington, Delaware location of Department of Justice"
+title: "Wilmington location of Department of Justice"
+description: "Evidence for the relationship: Wilmington location of Department of Justice"
 relationship_id: "rel-47ba8f1c4d31"
 subject: "gpe-wilmington"
 predicate: "location of"
@@ -9,7 +9,7 @@ object: "org-department-of-justice"
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Wilmington, Delaware](/entities/gpe-wilmington) location of [Department of Justice](/entities/org-department-of-justice)
+## [Wilmington](/entities/gpe-wilmington) location of [Department of Justice](/entities/org-department-of-justice)
 
 ### Evidence (1 mentions)
 
@@ -19,5 +19,5 @@ object: "org-department-of-justice"
 
 ### Related
 
-- [Wilmington, Delaware](/entities/gpe-wilmington)
+- [Wilmington](/entities/gpe-wilmington)
 - [Department of Justice](/entities/org-department-of-justice)

@@ -11,11 +11,19 @@ object: "person-erika-kirk"
 
 ## [Everyday Heroes Like You](/entities/org-everyday-heroes-like-you) founded by [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (3 mentions)
+### Evidence (5 mentions)
 
 **[Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY)**
 
 - [00:20:09](/episodes/ep-2tFYJf1klgY#t-00-20-09): _I decided to create something called Everyday Heroes Like You_
+
+**[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
+
+- [00:32:42](/episodes/ep-DdPjoy5W-wY#t-00-32-42): _I decided to create something called Everyday Heroes Like You_
+
+**[EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A)**
+
+- [00:12:42](/episodes/ep-H9p2ZGHAs9A#t-00-12-42): _Erika (Erika Kirk) is also the founder and CEO of Everyday Heroes Like You, a 501c3 charitable organization that assists other nonprofits globally._
 
 **[A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g)**
 

@@ -1,6 +1,6 @@
 ---
 title: "YouTube"
-description: "YouTube (Organizations) - 91 mentions"
+description: "YouTube (Organizations) - 102 mentions"
 id: "org-youtube"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [About YouTube](https://about.youtube/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-youtube-t-00-41-28">2025-09-18 · 00:42:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-youtube-t-01-05-52">2026-02-28 · 01:05:52</a></strong></div>
-<div><span>Episodes</span><strong>34</strong></div>
-<div><span>Mentions</span><strong>91</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-youtube-t-00-56-25">2026-03-24 · 00:56:33</a></strong></div>
+<div><span>Episodes</span><strong>40</strong></div>
+<div><span>Mentions</span><strong>102</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -65,6 +65,11 @@ Source: [About YouTube](https://about.youtube/)
 <a href="/episodes/ep-4YgrOhhy708.md#ent-org-youtube-t-00-09-05" style="--pulse-height:100%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 19 mentions" title="2026-02-09 · 19 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-youtube-t-00-25-26" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-youtube-t-00-45-40" style="--pulse-height:16%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 3 mentions" title="2026-02-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-youtube-t-01-06-42" style="--pulse-height:8%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-youtube-t-00-29-42" style="--pulse-height:11%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-youtube-t-00-56-43" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-youtube-t-00-25-18" style="--pulse-height:11%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-youtube-t-00-35-00" style="--pulse-height:21%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 4 mentions" title="2026-03-24 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -104,6 +109,11 @@ Source: [About YouTube](https://about.youtube/)
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-youtube-t-00-09-05) | 19 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-youtube-t-00-25-26) | 1 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-youtube-t-00-45-40) | 3 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-youtube-t-01-06-42) | 1 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-youtube-t-00-29-42) | 2 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-youtube-t-00-56-43) | 1 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-youtube-t-00-25-18) | 2 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-youtube-t-00-35-00) | 4 |
 
 </details>
 </section>
@@ -111,7 +121,62 @@ Source: [About YouTube](https://about.youtube/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (91)</strong></summary>
+<summary><strong class="section-title">Raw mentions (102)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (4 mentions)</summary>
+
+**[00:35:00](/episodes/ep-SgVcnx4Oh30.md#ent-org-youtube-t-00-35-00)**
+> "on YouTube at Nick Shirley"
+
+**[00:35:07](/episodes/ep-SgVcnx4Oh30.md#ent-org-youtube-t-00-35-00)**
+> "... that second why. And then on YouTube at Nick Shirley as well."
+
+**[00:35:28](/episodes/ep-SgVcnx4Oh30.md#ent-org-youtube-t-00-35-28)**
+> "...k Shirley. I'm an independent YouTube journalist and I go all across the world, not jus..."
+
+**[00:56:33](/episodes/ep-SgVcnx4Oh30.md#ent-org-youtube-t-00-56-25)**
+> "...w clips channel that is up on YouTube and we have a link in the description. So if we d..."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (2 mentions)</summary>
+
+**[00:25:18](/episodes/ep-I0OaY6Gryqk.md#ent-org-youtube-t-00-25-18)**
+> "why we have to be censored from YouTube"
+
+**[00:45:19](/episodes/ep-I0OaY6Gryqk.md#ent-org-youtube-t-00-45-19)**
+> "... the men who are just like on YouTube gaslighting us about like everything that's happe..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>
+
+**[00:56:43](/episodes/ep-5-HUyv9LyMg.md#ent-org-youtube-t-00-56-43)**
+> ".... I mean, whether it's Missy (YouTube researcher; surname/channel unverified), who look..."
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (2 mentions)</summary>
+
+**[00:29:49](/episodes/ep-i8m_6D4QGmk.md#ent-org-youtube-t-00-29-42)**
+> "on YouTube"
+
+**[01:08:36](/episodes/ep-i8m_6D4QGmk.md#ent-org-youtube-t-01-08-36)**
+> "...y, by the way, if you were on YouTube and that first few minutes of the show got cut of..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>
+
+**[01:07:08](/episodes/ep-DdPjoy5W-wY.md#ent-org-youtube-t-01-06-42)**
+> "...ust gave him a huge tip on on youtube and then i was like but they didn't give me enoug..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (3 mentions)</summary>
@@ -553,6 +618,14 @@ Source: [About YouTube](https://about.youtube/)
 
 **[00:55:51](/episodes/ep-sreYYcID-QY.md#ent-org-youtube-t-00-55-46)**
 > "...d your family. Keep going." Jasmine, these donations are huge. I've never had donations this big on YouTube, and I just want to thank all of you guys for that. Three Diglets writes, "I support Candace (Canda..."
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
+
+**[00:48:57](/episodes/ep-5m-Wn6Pr5rM.md#t-00-48-57)**
+> "YouTube"
 
 </details>
 

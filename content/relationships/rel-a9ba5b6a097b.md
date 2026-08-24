@@ -1,6 +1,6 @@
 ---
-title: "Turning Point USA employs Blake Lively"
-description: "Evidence for the relationship: Turning Point USA employs Blake Lively"
+title: "Turning Point USA employs Blake Neff"
+description: "Evidence for the relationship: Turning Point USA employs Blake Neff"
 relationship_id: "rel-a9ba5b6a097b"
 subject: "org-turning-point-usa"
 predicate: "employs"
@@ -9,7 +9,7 @@ object: "person-blake-neff"
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Turning Point USA](/entities/org-turning-point-usa) employs [Blake Lively](/entities/person-blake-neff)
+## [Turning Point USA](/entities/org-turning-point-usa) employs [Blake Neff](/entities/person-blake-neff)
 
 ### Evidence (1 mentions)
 
@@ -20,4 +20,4 @@ object: "person-blake-neff"
 ### Related
 
 - [Turning Point USA](/entities/org-turning-point-usa)
-- [Blake Lively](/entities/person-blake-neff)
+- [Blake Neff](/entities/person-blake-neff)

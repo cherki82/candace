@@ -43,7 +43,7 @@ Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-covid-19-t-00-22-04" style="--pulse-height:50%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-concept-covid-19-t-00-47-33" style="--pulse-height:25%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-covid-19-t-00-24-58" style="--pulse-height:25%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-yt-koVDYXSIfYo.md#ent-concept-covid-19-t-00-00-00" style="--pulse-height:25%" aria-label="Judy Fan - DISI 2021 - Cognitive Technologies for Making the Invisible Visible: 1 mentions" title="2026-06-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-covid-19-t-00-06-20" style="--pulse-height:25%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-covid-19-t-01-29-47" style="--pulse-height:75%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -56,7 +56,7 @@ Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-concept-covid-19-t-00-22-04) | 2 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-concept-covid-19-t-00-47-33) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-concept-covid-19-t-00-24-58) | 1 |
-| 2026-06-19 | [Judy Fan - DISI 2021 - Cognitive Technologies for Making the Invisible Visible](/episodes/ep-yt-koVDYXSIfYo.md#ent-concept-covid-19-t-00-00-00) | 1 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-concept-covid-19-t-00-06-20) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-covid-19-t-01-29-47) | 3 |
 
 </details>
@@ -82,10 +82,10 @@ Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics
 </details>
 
 <details>
-<summary>Judy Fan - DISI 2021 - Cognitive Technologies for Making the Invisible Visible (1 mentions)</summary>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
 
-**[00:00:04](/episodes/ep-yt-koVDYXSIfYo.md#ent-concept-covid-19-t-00-00-00)**
-> "maps visualizing the density of COVID-19 cases around the world"
+**[00:06:33](/episodes/ep-i8m_6D4QGmk.md#ent-concept-covid-19-t-00-06-20)**
+> "in the middle of COVID"
 
 </details>
 

@@ -11,11 +11,15 @@ object: "person-dan-flood"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) employs [Dan Flood](/entities/person-dan-flood)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
 
 **[Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE)**
 
 - [00:05:32](/episodes/ep-9naMwS0kMBE#t-00-05-32): _tip yesterday that Dan Flood, not only has he not been fired, he's been promoted at Turning Point USA._
+
+**[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
+
+- [01:05:40](/episodes/ep-DdPjoy5W-wY#t-01-05-40): _Dan Flood right who was offered a raise at Turning Point USA_
 
 **[A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g)**
 

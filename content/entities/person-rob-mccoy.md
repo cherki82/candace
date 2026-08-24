@@ -1,6 +1,6 @@
 ---
 title: "Rob McCoy"
-description: "Rob McCoy (People) - 157 mentions"
+description: "Rob McCoy (People) - 158 mentions"
 id: "person-rob-mccoy"
 type: "PERSON"
 aliases:
@@ -26,12 +26,12 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-rob-mccoy-t-00-56-12">2025-09-17 · 00:56:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-rob-mccoy-t-01-03-51">2026-02-28 · 01:03:51</a></strong></div>
-<div><span>Episodes</span><strong>35</strong></div>
-<div><span>Mentions</span><strong>157</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-rob-mccoy-t-00-33-09">2026-03-23 · 00:33:27</a></strong></div>
+<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>158</strong></div>
 <div><span>Statements by</span><strong>9</strong></div>
-<div><span>Statements about</span><strong>34</strong></div>
-<div><span>Relationships</span><strong>48</strong></div>
+<div><span>Statements about</span><strong>36</strong></div>
+<div><span>Relationships</span><strong>46</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -73,6 +73,8 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-rob-mccoy-t-00-12-25" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-rob-mccoy-t-00-27-33" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-rob-mccoy-t-01-03-51" style="--pulse-height:8%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-person-rob-mccoy-t-00-39-31" style="--pulse-height:23%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 3 mentions" title="2026-03-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-rob-mccoy-t-00-33-09" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -112,6 +114,8 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-rob-mccoy-t-00-12-25) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-rob-mccoy-t-00-27-33) | 1 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-person-rob-mccoy-t-01-03-51) | 1 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-person-rob-mccoy-t-00-39-31) | 3 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-rob-mccoy-t-00-33-09) | 1 |
 
 </details>
 </section>
@@ -119,7 +123,29 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (157)</strong></summary>
+<summary><strong class="section-title">Raw mentions (158)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1 mentions)</summary>
+
+**[00:33:27](/episodes/ep-B9TyCs-6o_0.md#ent-person-rob-mccoy-t-00-33-09)**
+> "He calls Rob McCoy"
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (3 mentions)</summary>
+
+**[00:39:48](/episodes/ep-y8lak3CRwDw.md#ent-person-rob-mccoy-t-00-39-31)**
+> "...who was in the theater. Okay. Rob McCoy, he lost two congregants in the Thousand Oaks sho..."
+
+**[00:40:38](/episodes/ep-y8lak3CRwDw.md#ent-person-rob-mccoy-t-00-40-10)**
+> "But again, so Rob McCoy knows these, whatever. But there's another Rob Mc..."
+
+**[00:40:49](/episodes/ep-y8lak3CRwDw.md#ent-person-rob-mccoy-t-00-40-49)**
+> "Rob McCoy was the person who organized the Nashville Covena..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (1 mentions)</summary>
@@ -753,20 +779,6 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 
 </details>
 
-<details>
-<summary>ep-y8lak3CRwDw (3 mentions)</summary>
-
-**[00:39:48](/episodes/ep-y8lak3CRwDw.md#t-00-39-48)**
-> "...who was in the theater. Okay. Rob McCoy, he lost two congregants in the Thousand Oaks sho..."
-
-**[00:40:38](/episodes/ep-y8lak3CRwDw.md#t-00-40-38)**
-> "But again, so Rob McCoy knows these, whatever. But there's another Rob Mc..."
-
-**[00:40:49](/episodes/ep-y8lak3CRwDw.md#t-00-40-49)**
-> "Rob McCoy was the person who organized the Nashville Covena..."
-
-</details>
-
 </details>
 
 <details open>
@@ -946,22 +958,17 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 <details>
-<summary>Parent Of (2)</summary>
+<summary>Parent Of (1)</summary>
 
-- **[Mikey McCoy](/entities/person-mikey-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+- **[Michael McCoy](/entities/person-michael-mccoy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:12](/episodes/ep-c5BcKF91iec.md#t-00-07-38): “It's a video of, of course, Pastor Rob McCoy's son.”
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:16:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-15-57): “Mikey McCoy called his dad first. That's a lie. Rob McCoy told that lie”
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:03:14](/episodes/ep-Qfwr08Ebczo.md#t-00-02-50): “I used to be known as Charlie Kirk's pastor. Now I'm known as Mikey McCoy's dad.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:05:25](/episodes/ep-his-JBjlkh8.md#t-00-05-03): “his own father, Rob McCoy—who I think is highly suspicious”
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:34:47](/episodes/ep-581dILVcEE4.md#t-00-34-30): “Blake Neff says Mikey called his dad Rob McCoy after the shooting”
-
-</details>
-
-- **[Michael McCoy](/entities/person-michael-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
-
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:32:43](/episodes/ep-B9TyCs-6o_0.md#t-00-32-43): “he was defending Mikey McCoy and talked about how he ran and after he ran, he called his mom. ... And around the time I put that phone away and then he immediately calls his dad. ... He calls Rob McCoy.”
 - [Myron Gaines x Candace Owens @ 00:59:59](/episodes/ep-2T39-oADLj0.md#t-00-59-40): “And you're brought in by Rob, your dad,”
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:00](/episodes/ep-wcD2khO3rOA.md#t-00-06-24): “his father, Rob McCoy”
 
@@ -1034,7 +1041,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 <details>
-<summary>Referenced By (24)</summary>
+<summary>Referenced By (23)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1050,8 +1057,8 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 
 </details>
 
-- **[Mikey McCoy](/entities/person-mikey-mccoy.md)** child of this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+- **[Michael McCoy](/entities/person-michael-mccoy.md)** child of this
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:35:03](/episodes/ep-581dILVcEE4.md#t-00-34-30): “He calls Rob McCoy. And he says, "Dad, someone shot Charlie (Charlie Kirk)."”
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:38:52](/episodes/ep-LATnak75Si0.md#t-00-38-18): “he immediately calls his dad. He calls Rob McCoy.”
@@ -1061,12 +1068,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:50](/episodes/ep-yAIb-NuUh_U.md#t-00-00-37): “Mikey McCoy son of Rob McCoy”
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:13:00](/episodes/ep-6J6lRZPQ4jk.md#t-00-12-41): “Mikey (Mikey McCoy) has offered that his dad was confused.”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:05:51](/episodes/ep-es7PWdFGoFI.md#t-00-05-30): “And he immediately calls his dad. He calls Robin McCoy. And he says, dad, someone shot Charlie.”
-
-</details>
-
-- **[Michael McCoy](/entities/person-michael-mccoy.md)** child of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
-
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:32:43](/episodes/ep-B9TyCs-6o_0.md#t-00-32-43): “he was defending Mikey McCoy and talked about how he ran and after he ran, he called his mom. ... And around the time I put that phone away and then he immediately calls his dad. ... He calls Rob McCoy.”
 - [Myron Gaines x Candace Owens @ 00:59:59](/episodes/ep-2T39-oADLj0.md#t-00-59-40): “And you're brought in by Rob, your dad,”
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:00](/episodes/ep-wcD2khO3rOA.md#t-00-06-24): “his father, Rob McCoy”
 
@@ -1231,10 +1233,10 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2)</summary>
 
 - [00:10:20](/episodes/ep-6J6lRZPQ4jk.md#t-00-09-44) [○] (Claim) ["Mikey McCoy had blood all over him"](/statements/statement-248b306069ca.md)
-  - About: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md)
 
 - [00:10:34](/episodes/ep-6J6lRZPQ4jk.md#t-00-10-29) [○] (Claim) ["Mikey McCoy called his father Rob McCoy first after the shooting"](/statements/statement-3ad8bb700479.md)
-  - About: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md)
 
 </details>
 
@@ -1256,10 +1258,10 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:09:03](/episodes/ep-c5BcKF91iec.md#t-00-08-40) [○] (Claim) ["The minute Charlie Kirk was shot, Mikey McCoy called his father Rob McCoy and sa..."](/statements/statement-8cfaecd44f78.md)
-  - About: [Mikey McCoy](/entities/person-mikey-mccoy.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md)
 
 - [00:09:21](/episodes/ep-c5BcKF91iec.md#t-00-08-40) [○] (Claim) ["Mikey McCoy had blood all over him after Charlie Kirk was shot."](/statements/statement-0ae35f7afad9.md)
-  - About: [Mikey McCoy](/entities/person-mikey-mccoy.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md)
 
 </details>
 
@@ -1282,7 +1284,18 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Rob McCoy (34)</strong></summary>
+<summary><strong class="section-title">Statements about Rob McCoy (36)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (2)</summary>
+
+- [00:39:48](/episodes/ep-y8lak3CRwDw.md#t-00-39-31) (Claim) **Candace Owens**: ["Rob McCoy lost two congregants in the 2018 Thousand Oaks Borderline Ba..."](/statements/statement-804704e47bf6.md)
+  - Also about: [Thousand Oaks](/entities/gpe-thousand-oaks.md), [Borderline Bar and Grill](/entities/org-borderline-bar-and-grill.md)
+
+- [00:40:49](/episodes/ep-y8lak3CRwDw.md#t-00-40-49) (Claim) **Candace Owens**: ["Rob McCoy organized the 2023 Covenant School memorial while Turning Po..."](/statements/statement-f09b7d7c00cd.md)
+  - Also about: [The Covenant School](/entities/org-the-covenant-school.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>
@@ -1335,10 +1348,10 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
   - Also about: [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
 
 - [00:25:51](/episodes/ep-es7PWdFGoFI.md#t-00-25-11) (Claim) **Blake Neff** (via quoted speech): ["Mikey called Erika and then immediately called his dad Rob McCoy sayin..."](/statements/statement-03a81f579a0f.md)
-  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md)
 
 - [00:27:24](/episodes/ep-es7PWdFGoFI.md#t-00-26-38) (Claim) **Candace Owens**: ["Mikey three-wayed Erika Kirk three minutes after the shot went off, th..."](/statements/statement-ce698028ec88.md)
-  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 
@@ -1346,10 +1359,10 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2)</summary>
 
 - [00:10:20](/episodes/ep-6J6lRZPQ4jk.md#t-00-09-44) (Claim) **Rob McCoy** (via paraphrase): ["Mikey McCoy had blood all over him"](/statements/statement-248b306069ca.md)
-  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md)
 
 - [00:10:34](/episodes/ep-6J6lRZPQ4jk.md#t-00-10-29) (Claim) **Rob McCoy** (via paraphrase): ["Mikey McCoy called his father Rob McCoy first after the shooting"](/statements/statement-3ad8bb700479.md)
-  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md)
 
 </details>
 

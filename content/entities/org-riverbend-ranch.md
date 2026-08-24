@@ -1,6 +1,6 @@
 ---
 title: "Riverbend Ranch"
-description: "Riverbend Ranch (Organizations) - 152 mentions"
+description: "Riverbend Ranch (Organizations) - 164 mentions"
 id: "org-riverbend-ranch"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-riverbend-ranch-t-00-37-18">2025-09-17 · 00:37:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-riverbend-ranch-t-00-26-18">2026-02-11 · 00:26:39</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>152</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-riverbend-ranch-t-00-31-15">2026-03-18 · 00:31:23</a></strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>164</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -59,6 +59,8 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-riverbend-ranch-t-00-29-43" style="--pulse-height:44%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 4 mentions" title="2026-01-12 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-riverbend-ranch-t-00-25-47" style="--pulse-height:44%" aria-label="Myron Gaines x Candace Owens: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-riverbend-ranch-t-00-25-35" style="--pulse-height:44%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 4 mentions" title="2026-02-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-riverbend-ranch-t-00-26-11" style="--pulse-height:67%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 6 mentions" title="2026-03-12 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-riverbend-ranch-t-00-29-46" style="--pulse-height:67%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 6 mentions" title="2026-03-18 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -86,6 +88,8 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-riverbend-ranch-t-00-29-43) | 4 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-riverbend-ranch-t-00-25-47) | 4 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-riverbend-ranch-t-00-25-35) | 4 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-riverbend-ranch-t-00-26-11) | 6 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-org-riverbend-ranch-t-00-29-46) | 6 |
 
 </details>
 </section>
@@ -93,7 +97,53 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (152)</strong></summary>
+<summary><strong class="section-title">Raw mentions (164)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (6 mentions)</summary>
+
+**[00:30:14](/episodes/ep-_vg7ucP1E0g.md#ent-org-riverbend-ranch-t-00-29-46)**
+> "Anyway, we should take a brief pause before we continue. We'll be right back. All right, you guys, if you've been following me for a while, then you know how much I love Riverbend Ranch steaks. If you have not tried them yet, now is the perfect time because not only are they delicious, but beef has just been placed on the top of the food pyramid by the USDA."
+
+**[00:30:45](/episodes/ep-_vg7ucP1E0g.md#ent-org-riverbend-ranch-t-00-30-30)**
+> "...es for your health this year, Riverbend Ranch is the perfect place to start."
+
+**[00:30:51](/episodes/ep-_vg7ucP1E0g.md#ent-org-riverbend-ranch-t-00-30-30)**
+> "For the last 35 years, Riverbend Ranch has been creating an elite Angus herd by using ul..."
+
+**[00:31:09](/episodes/ep-_vg7ucP1E0g.md#ent-org-riverbend-ranch-t-00-30-30)**
+> "All Riverbend Ranch cattle are born and raised in the USA. They never..."
+
+**[00:31:15](/episodes/ep-_vg7ucP1E0g.md#ent-org-riverbend-ranch-t-00-31-15)**
+> "... difference yourself. Head to riverbendranch.com today and use the promo code Candace at checkout ..."
+
+**[00:31:23](/episodes/ep-_vg7ucP1E0g.md#ent-org-riverbend-ranch-t-00-31-15)**
+> "Again, that's riverbendranch.com promo code Candace. I'll also remind you guys abo..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (6 mentions)</summary>
+
+**[00:26:36](/episodes/ep-5-HUyv9LyMg.md#ent-org-riverbend-ranch-t-00-26-11)**
+> "...ow how much I absolutely love Riverbend Ranch steaks. If you have not yet tried them, now is th..."
+
+**[00:27:01](/episodes/ep-5-HUyv9LyMg.md#ent-org-riverbend-ranch-t-00-26-54)**
+> "...es for your health this year, Riverbend Ranch is the perfect place for you to begin."
+
+**[00:27:11](/episodes/ep-5-HUyv9LyMg.md#ent-org-riverbend-ranch-t-00-26-54)**
+> "For the last 35 years, Riverbend Ranch has been creating an elite Angus herd by using ul..."
+
+**[00:27:31](/episodes/ep-5-HUyv9LyMg.md#ent-org-riverbend-ranch-t-00-26-54)**
+> "All Riverbend Ranch cattle are born and raised in the USA. They never..."
+
+**[00:27:35](/episodes/ep-5-HUyv9LyMg.md#ent-org-riverbend-ranch-t-00-27-35)**
+> "...ference for yourself. Head to riverbendranch.com today and use the promo code Candace at checkout ..."
+
+**[00:27:44](/episodes/ep-5-HUyv9LyMg.md#ent-org-riverbend-ranch-t-00-27-35)**
+> "Again, that's riverbendranch.com, promo code Candace. I also want to introduce you..."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (4 mentions)</summary>
@@ -669,7 +719,7 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 <details>
 <summary>Based In (1)</summary>
 
-- **[USA](/entities/gpe-united-states.md)**
+- **[United States](/entities/gpe-united-states.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:35:38](/episodes/ep-his-JBjlkh8.md#t-00-35-06): “"All Riverbend Ranch cattle were born and raised here in the USA."”
@@ -682,9 +732,10 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:34:52](/episodes/ep-his-JBjlkh8.md#t-00-34-23): “"this holiday season, you can express your love with a very special gift of premium steaks from Riverbend Ranch."”
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:26:36](/episodes/ep-5-HUyv9LyMg.md#t-00-26-11): “you know how much I absolutely love Riverbend Ranch steaks”
 
 </details>
 
@@ -713,13 +764,14 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 <summary>Referenced By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:34:52](/episodes/ep-his-JBjlkh8.md#t-00-34-23): “"this holiday season, you can express your love with a very special gift of premium steaks from Riverbend Ranch."”
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:26:36](/episodes/ep-5-HUyv9LyMg.md#t-00-26-11): “you know how much I absolutely love Riverbend Ranch steaks”
 
 </details>
 
-- **[USA](/entities/gpe-united-states.md)** location of this
+- **[United States](/entities/gpe-united-states.md)** location of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:35:38](/episodes/ep-his-JBjlkh8.md#t-00-35-06): “"All Riverbend Ranch cattle were born and raised here in the USA."”

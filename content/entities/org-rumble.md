@@ -1,6 +1,6 @@
 ---
 title: "Rumble"
-description: "Rumble (Organizations) - 27 mentions"
+description: "Rumble (Organizations) - 28 mentions"
 id: "org-rumble"
 type: "ORG"
 aliases:
@@ -21,11 +21,11 @@ Source: [Rumble corporate site](https://corp.rumble.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-org-rumble-t-00-37-43">2025-12-16 · 00:08:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-rumble-t-00-26-09">2026-02-27 · 00:26:36</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>27</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-rumble-t-00-56-17">2026-03-10 · 00:56:17</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>1</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -40,6 +40,7 @@ Source: [Rumble corporate site](https://corp.rumble.com/)
 <a href="/episodes/ep-4YgrOhhy708.md#ent-org-rumble-t-00-09-05" style="--pulse-height:14%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-rumble-t-00-24-53" style="--pulse-height:86%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 6 mentions" title="2026-02-11 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-rumble-t-00-25-26" style="--pulse-height:71%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 5 mentions" title="2026-02-27 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-rumble-t-00-56-17" style="--pulse-height:14%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [Rumble corporate site](https://corp.rumble.com/)
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-rumble-t-00-09-05) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-rumble-t-00-24-53) | 6 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-rumble-t-00-25-26) | 5 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-rumble-t-00-56-17) | 1 |
 
 </details>
 </section>
@@ -58,7 +60,15 @@ Source: [Rumble corporate site](https://corp.rumble.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1 mentions)</summary>
+
+**[00:56:17](/episodes/ep-ZzAT2xijKGQ.md#ent-org-rumble-t-00-56-17)**
+> "available on the Rumble site"
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (5 mentions)</summary>
@@ -189,7 +199,15 @@ Source: [Rumble corporate site](https://corp.rumble.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Rumble (1)</strong></summary>
+<summary><strong class="section-title">Statements about Rumble (2)</strong></summary>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1)</summary>
+
+- [00:55:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-55-39) (Citation) **Candace Owens**: ["Blake Neff's comments about Erika Kirk and Charlie Kirk remained in th..."](/statements/statement-150c05f6fe76.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (1)</summary>

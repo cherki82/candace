@@ -1,6 +1,6 @@
 ---
 title: "MASA Chips"
-description: "MASA Chips (Organizations) - 8 mentions"
+description: "MASA Chips (Organizations) - 11 mentions"
 id: "org-masa-chips"
 type: "ORG"
 aliases:
@@ -21,9 +21,9 @@ Source: [MASA Chips — About](https://www.masachips.com/pages/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-org-masa-chips-t-00-44-39">2026-01-12 · 00:44:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-masa-chips-t-00-26-16">2026-03-02 · 00:26:40</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-masa-chips-t-00-30-13">2026-03-24 · 00:30:13</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [MASA Chips — About](https://www.masachips.com/pages/about)
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-masa-chips-t-00-44-39" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-masa-chips-t-00-35-47" style="--pulse-height:100%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 3 mentions" title="2026-01-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-masa-chips-t-00-25-37" style="--pulse-height:67%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-masa-chips-t-00-28-54" style="--pulse-height:100%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 3 mentions" title="2026-03-24 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [MASA Chips — About](https://www.masachips.com/pages/about)
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-masa-chips-t-00-44-39) | 3 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-masa-chips-t-00-35-47) | 3 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-masa-chips-t-00-25-37) | 2 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-masa-chips-t-00-28-54) | 3 |
 
 </details>
 </section>
@@ -52,7 +54,21 @@ Source: [MASA Chips — About](https://www.masachips.com/pages/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (3 mentions)</summary>
+
+**[00:29:21](/episodes/ep-SgVcnx4Oh30.md#ent-org-masa-chips-t-00-28-54)**
+> "remind you guys about MASA chips"
+
+**[00:29:52](/episodes/ep-SgVcnx4Oh30.md#ent-org-masa-chips-t-00-29-35)**
+> "Snacking on masa chips is nothing like eating regular chips. With masa, ..."
+
+**[00:30:13](/episodes/ep-SgVcnx4Oh30.md#ent-org-masa-chips-t-00-30-13)**
+> "So if you are ready to give MASA a try, head to MASAchips.com slash Candace and us..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (2 mentions)</summary>

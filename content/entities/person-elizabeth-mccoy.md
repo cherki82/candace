@@ -1,6 +1,6 @@
 ---
 title: "Elizabeth McCoy"
-description: "Elizabeth McCoy (People) - 17 mentions"
+description: "Elizabeth McCoy (People) - 22 mentions"
 id: "person-elizabeth-mccoy"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-elizabeth-mccoy-t-00-42-01">2025-11-05 · 00:42:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-person-elizabeth-mccoy-t-00-02-54">2026-02-10 · 00:02:54</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-elizabeth-mccoy-t-00-09-57">2026-03-24 · 00:10:13</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -41,6 +41,9 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-elizabeth-mccoy-t-01-05-44" style="--pulse-height:25%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-elizabeth-mccoy-t-00-27-33" style="--pulse-height:50%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-elizabeth-mccoy-t-00-02-54" style="--pulse-height:25%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#t-00-13-26" style="--pulse-height:25%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-elizabeth-mccoy-t-00-23-50" style="--pulse-height:25%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-elizabeth-mccoy-t-00-09-57" style="--pulse-height:25%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +59,9 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-elizabeth-mccoy-t-01-05-44) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-elizabeth-mccoy-t-00-27-33) | 2 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-elizabeth-mccoy-t-00-02-54) | 1 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#t-00-13-26) | 1 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-elizabeth-mccoy-t-00-23-50) | 1 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-elizabeth-mccoy-t-00-09-57) | 1 |
 
 </details>
 </section>
@@ -63,7 +69,31 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>
+
+**[00:10:13](/episodes/ep-SgVcnx4Oh30.md#ent-person-elizabeth-mccoy-t-00-09-57)**
+> "Elizabeth McCoy wrote a long post"
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1 mentions)</summary>
+
+**[00:23:50](/episodes/ep-B9TyCs-6o_0.md#ent-person-elizabeth-mccoy-t-00-23-50)**
+> "Erika and Tyler and Elizabeth McCoy and Stacey Sheridan"
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1 mentions)</summary>
+
+**[00:14:00](/episodes/ep-ZzAT2xijKGQ.md#t-00-13-26)**
+> "They asked me to release this information. The next bit is unconfirmed, but they believe Andrew (Andrew Kolvet) was accompanied by Mikey McCoy (Michael McCoy) and his wife Elizabeth."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>
@@ -166,6 +196,17 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 </details>
 
+<details>
+<summary>ep-5m-Wn6Pr5rM (2 mentions)</summary>
+
+**[00:11:39](/episodes/ep-5m-Wn6Pr5rM.md#t-00-11-39)**
+> "Elizabeth Krabchuk"
+
+**[00:16:48](/episodes/ep-5m-Wn6Pr5rM.md#t-00-16-48)**
+> "...at happens next, according to Elizabeth McCoy's alleged narrative, is that she then receives a ph..."
+
+</details>
+
 </details>
 
 <details open>
@@ -188,9 +229,10 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Married To (1)</summary>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:11:46](/episodes/ep-OEAHy3SsIiI.md#t-00-11-36): “potentially more amazing than her husband Michael McCoy.”
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:14:00](/episodes/ep-ZzAT2xijKGQ.md#t-00-13-26): “they believe Andrew (Andrew Kolvet) was accompanied by Mikey McCoy (Michael McCoy) and his wife Elizabeth.”
 
 </details>
 
@@ -199,7 +241,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details>
 <summary>Met With (1)</summary>
 
-- **[Mikey McCoy](/entities/person-mikey-mccoy.md)**
+- **[Michael McCoy](/entities/person-michael-mccoy.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:30:08](/episodes/ep-SKGUzGHymcI.md#t-00-29-52): “Elizabeth McCoy screamed, she grabbed her phone, she ran out. Mikey probably called her, that would make sense.”
@@ -219,7 +261,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 </details>
 
-- **[Mikey McCoy](/entities/person-mikey-mccoy.md)** met with this
+- **[Michael McCoy](/entities/person-michael-mccoy.md)** met with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:30:08](/episodes/ep-SKGUzGHymcI.md#t-00-29-52): “Elizabeth McCoy screamed, she grabbed her phone, she ran out. Mikey probably called her, that would make sense.”
@@ -231,7 +273,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Elizabeth McCoy (7)</strong></summary>
+<summary><strong class="section-title">Statements about Elizabeth McCoy (10)</strong></summary>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (2)</summary>
@@ -267,10 +309,24 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
 
 - [00:27:10](/episodes/ep-es7PWdFGoFI.md#t-00-26-38) (Claim) **Candace Owens**: ["The first person Mikey McCoy called was his wife Elizabeth McCoy, and ..."](/statements/statement-3ce08d878074.md)
-  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md)
 
 - [00:27:10](/episodes/ep-es7PWdFGoFI.md#t-00-26-38) (Claim) **Candace Owens**: ["Mikey McCoy's first call after the shooting was to his wife Elizabeth ..."](/statements/statement-1d5f2448e360.md)
-  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md)
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (3)</summary>
+
+- [00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-47) (Claim) **Candace Owens**: ["After the call, Elizabeth McCoy ran into the office of Frank, a TPUSA ..."](/statements/statement-b034bb78e025.md)
+  - Also about: [Frank (TPUSA lawyer; surname unverified)](/entities/anon-src-5m-Wn6Pr5rM-001.md), [Justin Streiff](/entities/person-justin-streiff.md), [Turning Point Action](/entities/org-turning-point-action.md)
+
+- [00:13:32](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-32) (Claim) **Candace Owens**: ["Lauren Toncich drove Elizabeth McCoy from the TPUSA office to the airp..."](/statements/statement-80320f6c867a.md)
+  - Also about: [Lauren Toncich](/entities/person-lauren-toncich.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:17:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-24) (Claim) **Candace Owens** (via paraphrase): ["According to Elizabeth McCoy's alleged narrative, Elizabeth told Erika..."](/statements/statement-b787aa6e71ce.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Fixed-base operator](/entities/concept-fixed-base-operator.md)
 
 </details>
 

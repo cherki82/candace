@@ -83,7 +83,7 @@ _Type: People_
 <details>
 <summary>Critic Of (1)</summary>
 
-- **[Donald Trump](/entities/person-donald-trump.md)**
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:12:23](/episodes/ep-sreYYcID-QY.md#t-00-11-44): “When he was going on his rant—if you watch the rest of it—when he says something's not right, he says people who are close to Donald Trump in the first administration cannot get close to him.”
@@ -95,7 +95,7 @@ _Type: People_
 <details>
 <summary>Criticized (1)</summary>
 
-- **[Donald Trump](/entities/person-donald-trump.md)**
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:12:23](/episodes/ep-sreYYcID-QY.md#t-00-11-44): “When he was going on his rant—if you watch the rest of it—when he says something's not right, he says people who are close to Donald Trump in the first administration cannot get close to him.”
@@ -107,14 +107,14 @@ _Type: People_
 <details>
 <summary>Referenced By (2)</summary>
 
-- **[Donald Trump](/entities/person-donald-trump.md)** criticized by this
+- **[Donald J. Trump](/entities/person-donald-trump.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:12:23](/episodes/ep-sreYYcID-QY.md#t-00-11-44): “When he was going on his rant—if you watch the rest of it—when he says something's not right, he says people who are close to Donald Trump in the first administration cannot get close to him.”
 
 </details>
 
-- **[Donald Trump](/entities/person-donald-trump.md)** target of criticism from this
+- **[Donald J. Trump](/entities/person-donald-trump.md)** target of criticism from this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:12:23](/episodes/ep-sreYYcID-QY.md#t-00-11-44): “When he was going on his rant—if you watch the rest of it—when he says something's not right, he says people who are close to Donald Trump in the first administration cannot get close to him.”

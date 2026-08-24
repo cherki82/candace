@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Netanyahu"
-description: "Benjamin Netanyahu (People) - 245 mentions"
+description: "Benjamin Netanyahu (People) - 279 mentions"
 id: "person-benjamin-netanyahu"
 type: "PERSON"
 aliases:
@@ -29,11 +29,11 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-06-16">2025-09-15 · 00:01:28</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-02-52-41">2026-08-14 · 02:52:41</a></strong></div>
-<div><span>Episodes</span><strong>54</strong></div>
-<div><span>Mentions</span><strong>245</strong></div>
-<div><span>Statements by</span><strong>11</strong></div>
-<div><span>Statements about</span><strong>73</strong></div>
-<div><span>Relationships</span><strong>20</strong></div>
+<div><span>Episodes</span><strong>60</strong></div>
+<div><span>Mentions</span><strong>279</strong></div>
+<div><span>Statements by</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>86</strong></div>
+<div><span>Relationships</span><strong>28</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -93,6 +93,12 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <a href="/episodes/ep-LKR94FQ5p3o.md#ent-person-benjamin-netanyahu-t-00-01-02" style="--pulse-height:8%" aria-label="Coming soon...: 1 mentions" title="2026-02-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-benjamin-netanyahu-t-00-00-00" style="--pulse-height:21%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 6 mentions" title="2026-03-02 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-person-benjamin-netanyahu-t-00-44-48" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-person-benjamin-netanyahu-t-00-57-26" style="--pulse-height:8%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-benjamin-netanyahu-t-00-00-00" style="--pulse-height:25%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 7 mentions" title="2026-03-09 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-benjamin-netanyahu-t-00-26-36" style="--pulse-height:8%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-person-benjamin-netanyahu-t-00-10-41" style="--pulse-height:25%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 7 mentions" title="2026-03-17 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-benjamin-netanyahu-t-00-12-12" style="--pulse-height:57%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 16 mentions" title="2026-03-17 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-benjamin-netanyahu-t-00-48-08" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-00-35-32" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -151,6 +157,12 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 | 2026-02-23 | [Coming soon...](/episodes/ep-LKR94FQ5p3o.md#ent-person-benjamin-netanyahu-t-00-01-02) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-benjamin-netanyahu-t-00-00-00) | 6 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-benjamin-netanyahu-t-00-44-48) | 1 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-person-benjamin-netanyahu-t-00-57-26) | 1 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-benjamin-netanyahu-t-00-00-00) | 7 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-person-benjamin-netanyahu-t-00-26-36) | 1 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-benjamin-netanyahu-t-00-10-41) | 7 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-benjamin-netanyahu-t-00-12-12) | 16 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-benjamin-netanyahu-t-00-48-08) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-00-35-32) | 3 |
 
 </details>
@@ -159,7 +171,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (245)</strong></summary>
+<summary><strong class="section-title">Raw mentions (279)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -172,6 +184,135 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 **[02:52:41](/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-02-52-41)**
 > "...ld take a supporter like owen benjamin he called you bad names and one and called your h..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
+
+**[00:48:08](/episodes/ep-_vg7ucP1E0g.md#ent-person-benjamin-netanyahu-t-00-48-08)**
+> "What is this? Like, why do we have to account for what Bibi (Benjamin Netanyahu) is doing? He's a criminal, and he's not even a practicing Jew. It's completely absurd. And all that stuff is just meant to divide us. Emin Colin writes, "Romans 12:2 is such a powerful passage. Now it's time we all let the word of Lord Jesus Christ renew our minds and stop being led by the ways of the world." I think that's happening. I'm super optimistic. I think"
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (7 mentions)</summary>
+
+**[00:10:41](/episodes/ep-k8ueJdPFel4.md#ent-person-benjamin-netanyahu-t-00-10-41)**
+> "...ie Kirk) went toe-to-toe with Bibi Netanyahu and won."
+
+**[00:10:54](/episodes/ep-k8ueJdPFel4.md#ent-person-benjamin-netanyahu-t-00-10-41)**
+> "Toe-to-toe with Bibi Netanyahu and the bandit of neocon criminals over..."
+
+**[00:28:42](/episodes/ep-k8ueJdPFel4.md#ent-person-benjamin-netanyahu-t-00-28-42)**
+> "...omeone, and then, well, Bibi (Benjamin Netanyahu) should do it and that's all that matters. And yo..."
+
+**[00:38:10](/episodes/ep-k8ueJdPFel4.md#ent-person-benjamin-netanyahu-t-00-37-36)**
+> "... assassination and Netanyahu (Benjamin Netanyahu)'s response to it was consequential to Israel. Th..."
+
+**[00:44:10](/episodes/ep-k8ueJdPFel4.md#ent-person-benjamin-netanyahu-t-00-43-43)**
+> "...o exit. Why would you die for Bibi Netanyahu? That's senseless."
+
+**[00:47:19](/episodes/ep-k8ueJdPFel4.md#ent-person-benjamin-netanyahu-t-00-46-48)**
+> "...o start another war for Bibi (Benjamin Netanyahu) and just murder another generation of goyim."
+
+**[00:50:57](/episodes/ep-k8ueJdPFel4.md#ent-person-benjamin-netanyahu-t-00-50-39)**
+> "Bell wrote Netanyahu (Benjamin Netanyahu) is the worst president the United States has eve..."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (16 mentions)</summary>
+
+**[00:12:12](/episodes/ep-I0OaY6Gryqk.md#ent-person-benjamin-netanyahu-t-00-12-12)**
+> "Benjamin Netanyahu"
+
+**[00:12:57](/episodes/ep-I0OaY6Gryqk.md#ent-person-benjamin-netanyahu-t-00-12-57)**
+> "So take a listen to Bibi (Benjamin Netanyahu), by the way, warning us about how close Iran was..."
+
+**[00:19:26](/episodes/ep-I0OaY6Gryqk.md#ent-person-benjamin-netanyahu-t-00-19-26)**
+> "... people that will greet Bibi (Benjamin Netanyahu), who is a literal war criminal, wanted by the IC..."
+
+**[00:26:42](/episodes/ep-I0OaY6Gryqk.md#ent-person-benjamin-netanyahu-t-00-26-16)**
+> "...A thing, whether or not Bibi (Benjamin Netanyahu) is alive. I mean, it's a lot for a chapter, Turn..."
+
+**[00:44:13](/episodes/ep-I0OaY6Gryqk.md#ent-person-benjamin-netanyahu-t-00-44-13)**
+> "...here's some rumors that Bibi (Benjamin Netanyahu) might be dead. I don't know if it's true."
+
+**[00:45:53](/episodes/ep-I0OaY6Gryqk.md#ent-person-benjamin-netanyahu-t-00-45-19)**
+> "...ople, some people think Bibi (Benjamin Netanyahu) might be dead. And it is not verified, but there..."
+
+**[00:46:02](/episodes/ep-I0OaY6Gryqk.md#ent-person-benjamin-netanyahu-t-00-46-02)**
+> "...sically, on March 10th, Bibi (Benjamin Netanyahu) had a very verified visit. It was very Bibi (Ben..."
+
+**[00:46:39](/episodes/ep-I0OaY6Gryqk.md#ent-person-benjamin-netanyahu-t-00-46-02)**
+> "...e, but you can see like Bibi (Benjamin Netanyahu) just looks worn and torn and this is the Bibi (B..."
+
+**[00:49:18](/episodes/ep-I0OaY6Gryqk.md#ent-person-benjamin-netanyahu-t-00-46-02)**
+> "...le were going, I really think BB's dead. I think he's dead."
+
+**[00:50:30](/episodes/ep-I0OaY6Gryqk.md#ent-person-benjamin-netanyahu-t-00-50-30)**
+> "...nd then uh finally like Bibi (Benjamin Netanyahu) two days ago on march 15th posts a video and it ..."
+
+**[00:52:17](/episodes/ep-I0OaY6Gryqk.md#ent-person-benjamin-netanyahu-t-00-50-30)**
+> "I don't have a BB tracker, but what we can confirm is that despite ..."
+
+**[00:54:32](/episodes/ep-I0OaY6Gryqk.md#ent-person-benjamin-netanyahu-t-00-54-32)**
+> "...ink that they've killed Bibi (Benjamin Netanyahu) or that Bibi (Benjamin Netanyahu) was killed and..."
+
+**[01:01:03](/episodes/ep-I0OaY6Gryqk.md#ent-person-benjamin-netanyahu-t-01-01-03)**
+> "...t so angry at like what Bibi (Benjamin Netanyahu) has done and the Likud party has done in Gaza th..."
+
+**[01:08:18](/episodes/ep-I0OaY6Gryqk.md#ent-person-benjamin-netanyahu-t-01-08-18)**
+> "... okay. And it's because Bibi (Benjamin Netanyahu) has said that Rome is a problem. They don't like..."
+
+**[00:50:04](/episodes/ep-I0OaY6Gryqk.md#ent-person-benjamin-netanyahu-t-00-46-02)**
+> "...body noted that his son, Yair Netanyahu, who normally tweets or retweets about 30 times a..."
+
+**[00:56:56](/episodes/ep-I0OaY6Gryqk.md#ent-person-benjamin-netanyahu-t-00-56-29)**
+> "Somebody in the comments said Benjamin Button Yahoo. See"
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1 mentions)</summary>
+
+**[00:26:49](/episodes/ep-H9p2ZGHAs9A.md#ent-person-benjamin-netanyahu-t-00-26-36)**
+> "Charlie (Charlie Kirk) establishing a DOGE seven days before he died, Bibi (Benjamin Netanyahu)'s phone call in the Hamptons, Donald Trump, pageantry world, the Epstein files."
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (7 mentions)</summary>
+
+**[00:00:29](/episodes/ep-i8m_6D4QGmk.md#ent-person-benjamin-netanyahu-t-00-00-00)**
+> "Bibi (Benjamin Netanyahu) is"
+
+**[00:36:00](/episodes/ep-i8m_6D4QGmk.md#ent-person-benjamin-netanyahu-t-00-36-00)**
+> "...o could not stand up to Bibi (Benjamin Netanyahu), a person who just loves money and loves the ide..."
+
+**[00:38:27](/episodes/ep-i8m_6D4QGmk.md#ent-person-benjamin-netanyahu-t-00-38-27)**
+> "... that they ran on until Bibi (Benjamin Netanyahu) said Venezuela is anti-Semitic. Then we took out..."
+
+**[00:41:28](/episodes/ep-i8m_6D4QGmk.md#ent-person-benjamin-netanyahu-t-00-41-20)**
+> "Bibi (Benjamin Netanyahu) instructed Trump to bomb Iran almost immediately..."
+
+**[00:46:26](/episodes/ep-i8m_6D4QGmk.md#ent-person-benjamin-netanyahu-t-00-46-26)**
+> "...im to, at the behest of Bibi (Benjamin Netanyahu) or Miriam Adelson, send your sons and daughters ..."
+
+**[00:53:44](/episodes/ep-i8m_6D4QGmk.md#ent-person-benjamin-netanyahu-t-00-53-11)**
+> "...this is messianic, that Bibi (Benjamin Netanyahu) was sent to usher in Armageddon. That's going to..."
+
+**[01:02:44](/episodes/ep-i8m_6D4QGmk.md#ent-person-benjamin-netanyahu-t-01-02-44)**
+> "...unflinchingly following Bibi (Benjamin Netanyahu), who can look at what happened in Gaza and go, t..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
+
+**[00:57:43](/episodes/ep-y8lak3CRwDw.md#ent-person-benjamin-netanyahu-t-00-57-26)**
+> "Yes, yes, that's how Benjamin Mileikowsky, Benjamin Mileikowsky becomes Netanya..."
 
 </details>
 
@@ -1159,10 +1300,13 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
-<summary>ep-y8lak3CRwDw (1 mentions)</summary>
+<summary>ep-5m-Wn6Pr5rM (2 mentions)</summary>
 
-**[00:57:43](/episodes/ep-y8lak3CRwDw.md#t-00-57-43)**
-> "Yes, yes, that's how Benjamin Mileikowsky, Benjamin Mileikowsky becomes Netanya..."
+**[00:39:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-39-50)**
+> "Bibi Netanyahu"
+
+**[00:41:44](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-44)**
+> "...to heaven if we don't support Bibi Netanyahu."
 
 </details>
 
@@ -1191,7 +1335,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
-<summary>Criticized By (2)</summary>
+<summary>Criticized By (3)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1205,6 +1349,13 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:25](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52): “He felt that Benjamin Netanyahu (Benjamin Netanyahu) was a very destructive force.”
 - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:19](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52): “He did not like Benjamin Netanyahu and he said that to me many times and he said that to people around him many times.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:19:26](/episodes/ep-I0OaY6Gryqk.md#t-00-19-26): “of people that will greet Bibi (Benjamin Netanyahu), who is a literal war criminal, wanted by the ICC in the White House.”
 
 </details>
 
@@ -1256,7 +1407,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
-<summary>Met With (1)</summary>
+<summary>Met With (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (6)</summary>
@@ -1270,10 +1421,48 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 </details>
 
+- **[Mike Huckabee](/entities/person-mike-huckabee.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:52:37](/episodes/ep-I0OaY6Gryqk.md#t-00-52-37): “Mr. Prime Minister, I wanted you to know the President asked me to come and make sure you were okay.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (10)</summary>
+<summary>Parent Of (1)</summary>
+
+- **[Yair Netanyahu](/entities/person-yair-netanyahu.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:50:04](/episodes/ep-I0OaY6Gryqk.md#t-00-49-45): “They sent somebody else in his place. I think Israel Katz ran it. Then somebody noted that his son, Yair Netanyahu, who normally tweets or retweets about 30 times a day, like he's constantly retweeting, he went completely radio silent for seven days.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Political Ally Of (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:52:46](/episodes/ep-I0OaY6Gryqk.md#t-00-52-46): “I checked that and I'm happy to see that but he wanted to make sure because you know you guys get along too well”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (14)</summary>
+
+- **[Yair Netanyahu](/entities/person-yair-netanyahu.md)** child of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:50:04](/episodes/ep-I0OaY6Gryqk.md#t-00-49-45): “They sent somebody else in his place. I think Israel Katz ran it. Then somebody noted that his son, Yair Netanyahu, who normally tweets or retweets about 30 times a day, like he's constantly retweeting, he went completely radio silent for seven days.”
+
+</details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1287,6 +1476,13 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:25](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52): “He felt that Benjamin Netanyahu (Benjamin Netanyahu) was a very destructive force.”
 - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:19](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52): “He did not like Benjamin Netanyahu and he said that to me many times and he said that to people around him many times.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:19:26](/episodes/ep-I0OaY6Gryqk.md#t-00-19-26): “of people that will greet Bibi (Benjamin Netanyahu), who is a literal war criminal, wanted by the ICC in the White House.”
 
 </details>
 
@@ -1354,12 +1550,43 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 </details>
 
+- **[Mike Huckabee](/entities/person-mike-huckabee.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:52:37](/episodes/ep-I0OaY6Gryqk.md#t-00-52-37): “Mr. Prime Minister, I wanted you to know the President asked me to come and make sure you were okay.”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** political ally of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:52:46](/episodes/ep-I0OaY6Gryqk.md#t-00-52-46): “I checked that and I'm happy to see that but he wanted to make sure because you know you guys get along too well”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Benjamin Netanyahu (11)</strong></summary>
+<summary><strong class="section-title">Statements by Benjamin Netanyahu (15)</strong></summary>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (4)</summary>
+
+- [00:13:09](/episodes/ep-I0OaY6Gryqk.md#t-00-13-09) [?] (Prediction) ["Iran could produce a nuclear weapon within a year or within a few months if it w..."](/statements/statement-27dbad33ee02.md)
+  - About: [Iran](/entities/gpe-iran.md)
+
+- [00:13:31](/episodes/ep-I0OaY6Gryqk.md#t-00-13-09) [✗] (Prediction) ["Iran was gearing up to produce 25 atomic bombs per year and 250 bombs within a d..."](/statements/statement-0fc010d7510d.md)
+  - About: [Iran](/entities/gpe-iran.md)
+
+- [00:52:42](/episodes/ep-I0OaY6Gryqk.md#t-00-52-42) [✓] (Claim) ["Benjamin Netanyahu said he was alive and had erased two names from a punch card ..."](/statements/statement-2875dca7c262.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+- [00:53:23](/episodes/ep-I0OaY6Gryqk.md#t-00-53-23) [✓] (Claim) ["U.S. forces were doing incredible work alongside Israel, and Israel was wiping o..."](/statements/statement-1f725d1325d2.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [United States Armed Forces](/entities/org-united-states-armed-forces.md), [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1)</summary>
@@ -1412,7 +1639,62 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Benjamin Netanyahu (73)</strong></summary>
+<summary><strong class="section-title">Statements about Benjamin Netanyahu (86)</strong></summary>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (5)</summary>
+
+- [00:50:04](/episodes/ep-I0OaY6Gryqk.md#t-00-49-45) (Claim) **Candace Owens**: ["Yair Netanyahu, who normally tweeted or retweeted about 30 times a day..."](/statements/statement-bd46ce350103.md)
+  - Also about: [Yair Netanyahu](/entities/person-yair-netanyahu.md)
+
+- [00:51:21](/episodes/ep-I0OaY6Gryqk.md#t-00-51-21) (Opinion) **Candace Owens**: ["Candace Owens did not know whether Benjamin Netanyahu was dead but tho..."](/statements/statement-d1d5f407e155.md)
+
+- [00:51:47](/episodes/ep-I0OaY6Gryqk.md#t-00-51-47) (Claim) **Candace Owens** (via paraphrase): ["Benjamin Netanyahu missed a critical military council meeting that he ..."](/statements/statement-b47d921509f4.md)
+  - Also about: [Security Cabinet of Israel](/entities/org-security-cabinet-of-israel.md)
+
+- [00:52:42](/episodes/ep-I0OaY6Gryqk.md#t-00-52-42) (Claim) **Benjamin Netanyahu** (via quoted speech): ["Benjamin Netanyahu said he was alive and had erased two names from a p..."](/statements/statement-2875dca7c262.md)
+
+- [01:08:45](/episodes/ep-I0OaY6Gryqk.md#t-01-08-45) (Accusation) **Candace Owens**: ["Did you murder Charlie Kirk? It feels like you might have murdered him..."](/statements/statement-121420580f1a.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (2)</summary>
+
+- [00:28:42](/episodes/ep-k8ueJdPFel4.md#t-00-28-42) (Opinion) **Candace Owens**: ["There are rumors that Benjamin Netanyahu is dead; Candace Owens thinks..."](/statements/statement-44ff2b7eb4a2.md)
+
+- [00:44:10](/episodes/ep-k8ueJdPFel4.md#t-00-43-43) (Opinion) **Candace Owens**: ["Americans should conscientiously object to the war and use legal means..."](/statements/statement-1bf69b750f6c.md)
+  - Also about: [Iran](/entities/gpe-iran.md)
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (5)</summary>
+
+- [00:00:29](/episodes/ep-i8m_6D4QGmk.md#t-00-00-00) (Accusation) **Candace Owens**: ["Donald Trump is very clearly not the commander of the armed forces; Be..."](/statements/statement-141107d3fbba.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Miriam Adelson](/entities/person-miriam-adelson.md)
+
+- [00:38:27](/episodes/ep-i8m_6D4QGmk.md#t-00-38-27) (Accusation) **Candace Owens**: ["After Benjamin Netanyahu said Venezuela was antisemitic, the United St..."](/statements/statement-6148b19ea025.md)
+  - Also about: [Venezuela](/entities/gpe-venezuela.md), [Nicolás Maduro](/entities/person-nicolas-maduro.md), [United States](/entities/gpe-united-states.md)
+
+- [00:41:28](/episodes/ep-i8m_6D4QGmk.md#t-00-41-20) (Accusation) **Candace Owens**: ["Benjamin Netanyahu instructed Trump to bomb Iran, initially limiting t..."](/statements/statement-e68e8a88e688.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md)
+
+- [00:46:26](/episodes/ep-i8m_6D4QGmk.md#t-00-46-26) (Prediction) **Candace Owens**: ["If Benjamin Netanyahu or Miriam Adelson tells him to, Trump will send ..."](/statements/statement-4acef0455828.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Miriam Adelson](/entities/person-miriam-adelson.md), [Israel](/entities/gpe-israel.md)
+
+- [00:53:44](/episodes/ep-i8m_6D4QGmk.md#t-00-53-11) (Claim) **Candace Owens**: ["Christian Zionists believe Benjamin Netanyahu was sent to usher in Arm..."](/statements/statement-f0df0bdfccf5.md)
+  - Also about: [Christian Zionism](/entities/concept-christian-zionism.md), [Armageddon](/entities/concept-armageddon.md), [Jesus Christ](/entities/person-jesus-christ.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1)</summary>
+
+- [00:57:43](/episodes/ep-y8lak3CRwDw.md#t-00-57-26) (Claim) **Candace Owens**: ["Benjamin Mileikowsky became Benjamin Netanyahu because Netanyahu sound..."](/statements/statement-9c9d9dfb53b2.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (2)</summary>

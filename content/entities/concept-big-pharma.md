@@ -1,23 +1,27 @@
 ---
 title: "Big Pharma"
-description: "Big Pharma (Concepts) - 3 mentions"
+description: "Big Pharma (Concepts) - 4 mentions"
 id: "concept-big-pharma"
 type: "CONCEPT"
 aliases:
   - "pharmaceutical complex"
+categories:
+  - "pharmaceutical industry criticism"
 ---
 
 _Type: Concepts_
 
 **Also known as:** pharmaceutical complex
 
+**Categories:** pharmaceutical industry criticism
+
 > **Possibly overlapping entity records:** [Pharmaceutical industry](/entities/concept-pharmaceutical-industry). These records share a name or alias; compare their histories before treating either count as complete.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-05">2025-12-05 · 00:50:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-48">2025-12-05 · 00:51:03</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-big-pharma-t-00-31-29">2026-03-09 · 00:31:29</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -29,12 +33,14 @@ _Type: Concepts_
 <p>Highest activity: <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-05">Shocking Revelation About The Egyptian Planes... | Candace Ep 274</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-05" style="--pulse-height:100%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-big-pharma-t-00-31-29" style="--pulse-height:33%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-05) | 3 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-concept-big-pharma-t-00-31-29) | 1 |
 
 </details>
 </section>
@@ -42,7 +48,15 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
+
+**[00:31:29](/episodes/ep-i8m_6D4QGmk.md#ent-concept-big-pharma-t-00-31-29)**
+> "Big Pharma's cancer drug revenue"
+
+</details>
 
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3 mentions)</summary>

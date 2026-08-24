@@ -10,13 +10,13 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-home-actions"><a class="primary" href="/index/explorer">Investigate statements</a><a href="/index/threads">Follow a reviewed theory thread</a></div>
 </div>
 
-<p class="kg-freshness"><strong>88 sources</strong> · processed through <time datetime="2026-08-14">2026-08-14</time> · generated <time datetime="2026-08-17">2026-08-17</time></p>
+<p class="kg-freshness"><strong>160 sources</strong> · processed through <time datetime="2026-08-21">2026-08-21</time> · generated <time datetime="2026-08-24">2026-08-24</time></p>
 
 <div class="kg-stat-grid">
-<div><strong>2,790</strong><span>Attributed statements</span></div>
-<div><strong>2,333</strong><span>Tracked entities</span></div>
-<div><strong>941</strong><span>Timeline events</span></div>
-<div><strong>731</strong><span>Research sources</span></div>
+<div><strong>3,237</strong><span>Attributed statements</span></div>
+<div><strong>2,540</strong><span>Tracked entities</span></div>
+<div><strong>1,078</strong><span>Timeline events</span></div>
+<div><strong>997</strong><span>Research sources</span></div>
 </div>
 
 ## Latest source additions
@@ -25,28 +25,28 @@ description: "An evidence-first research workbench for imported video, audio, an
 
 <div class="recent-source-list">
 <article>
+<time datetime="2026-08-21">2026-08-21</time>
+<a href="/episodes/ep-_cNtgris8Ik">Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379</a>
+<span>Candace Owens</span>
+</article>
+<article>
+<time datetime="2026-08-19">2026-08-19</time>
+<a href="/episodes/ep-9hRcfSrri70">EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378</a>
+<span>Candace Owens</span>
+</article>
+<article>
+<time datetime="2026-08-18">2026-08-18</time>
+<a href="/episodes/ep-4JxgOclKzqg">Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377</a>
+<span>Candace Owens</span>
+</article>
+<article>
+<time datetime="2026-08-17">2026-08-17</time>
+<a href="/episodes/ep-E7P2ShoYDUA">Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376</a>
+<span>Candace Owens</span>
+</article>
+<article>
 <time datetime="2026-08-14">2026-08-14</time>
-<a href="/episodes/ep-nPhCKwJ6ye8">Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast</a>
-<span>Unspecified source</span>
-</article>
-<article>
-<time datetime="2026-06-19">2026-06-19</time>
-<a href="/episodes/ep-yt-koVDYXSIfYo">Judy Fan - DISI 2021 - Cognitive Technologies for Making the Invisible Visible</a>
-<span>Unspecified source</span>
-</article>
-<article>
-<time datetime="2026-03-10">2026-03-10</time>
-<a href="/episodes/ep-ZzAT2xijKGQ">Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309</a>
-<span>Candace Owens</span>
-</article>
-<article>
-<time datetime="2026-03-09">2026-03-09</time>
-<a href="/episodes/ep-i8m_6D4QGmk">Donald Trump Has Betrayed America. | Candace Ep 308</a>
-<span>Candace Owens</span>
-</article>
-<article>
-<time datetime="2026-03-06">2026-03-06</time>
-<a href="/episodes/ep-DdPjoy5W-wY">Bride Of Charlie: Crazy In Love | Episode 7</a>
+<a href="/episodes/ep-aPOyk1i2LOc">Candace Owens vs Andrew Wilson: The Great Debate.</a>
 <span>Candace Owens</span>
 </article>
 </div>
@@ -56,12 +56,6 @@ description: "An evidence-first research workbench for imported video, audio, an
 <p class="research-section-note">Entity mentions in the five newest sources compared with the preceding five.</p>
 
 <div class="attention-grid">
-<a href="/entities/person-tyler-robinson"><strong>Tyler Robinson</strong><span>103 recent mentions · +103 vs prior window</span></a>
-<a href="/entities/person-lance-twiggs"><strong>Lance Twiggs</strong><span>35 recent mentions · +35 vs prior window</span></a>
-<a href="/entities/person-andrew-wilson"><strong>Andrew Wilson</strong><span>31 recent mentions · +31 vs prior window</span></a>
-<a href="/entities/gpe-israel"><strong>Israel</strong><span>39 recent mentions · +30 vs prior window</span></a>
-<a href="/entities/concept-dna"><strong>Deoxyribonucleic acid</strong><span>19 recent mentions · +18 vs prior window</span></a>
-<a href="/entities/org-fbi"><strong>FBI</strong><span>17 recent mentions · +17 vs prior window</span></a>
 </div>
 
 ## Latest verification outcomes
@@ -69,33 +63,33 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="verification-feed">
 <article>
 <span class="status-badge status-mixed">mixed</span>
-<a href="/statements/statement-7b6d1a9a7d0e">The Army National Guard disclosed that it gave $2.4 million to Intellimet Laboratories in 2008.</a>
-<small>Bride Of Charlie: The Lost Years... | Episode 5</small>
+<a href="/statements/statement-08889b644e5f">Candace Owens said installing Wi-Fi on a private jet costs about $300,000 and operating it costs about $30,000 to $50,000 per month.</a>
+<small>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315</small>
+</article>
+<article>
+<span class="status-badge status-true">true</span>
+<a href="/statements/statement-10d0c2fdb1cd">Candace Owens promised to stand by what she said and correct statements if she later learned they were not accurate.</a>
+<small>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315</small>
 </article>
 <article>
 <span class="status-badge status-mixed">mixed</span>
-<a href="/statements/statement-209a3ad1a7da">Erika Kirk definitively still has her children.</a>
-<small>Bride Of Charlie: The Lost Years... | Episode 5</small>
+<a href="/statements/statement-dfc476b9af37">Candace Owens said authorities could not prove the gun was fired, bomb dogs did not find it, and they could not connect the weapon to a bullet.</a>
+<small>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315</small>
+</article>
+<article>
+<span class="status-badge status-mixed">mixed</span>
+<a href="/statements/statement-a4af58d18a64">Candace Owens said Tyler Robinson had not been arraigned or pleaded guilty and that the recording of his surrender had been lost.</a>
+<small>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315</small>
+</article>
+<article>
+<span class="status-badge status-mixed">mixed</span>
+<a href="/statements/statement-3844bc271198">Andrew Kolvet said government officials were publicly indicating willingness to testify for Tyler Robinson&#x27;s defense to help get him off the hook.</a>
+<small>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315</small>
 </article>
 <article>
 <span class="status-badge status-true">true</span>
-<a href="/statements/statement-3ac1950a9552">Blake Neff said Charlie Kirk observed an evangelical Christian version of Shabbat throughout the entire period Neff knew him.</a>
-<small>Bride Of Charlie: The Lost Years... | Episode 5</small>
-</article>
-<article>
-<span class="status-badge status-true">true</span>
-<a href="/statements/statement-1c454043fe46">Blake Neff said Candace Owens&#x27;s prior episode contained a blatant untruth about Charlie Kirk&#x27;s daily life.</a>
-<small>Bride Of Charlie: The Lost Years... | Episode 5</small>
-</article>
-<article>
-<span class="status-badge status-true">true</span>
-<a href="/statements/statement-2169a7c2197d">Richard William Erpenbeck&#x27;s Kentucky law license was suspended in August 2009, and the findings treated his conduct as professional negligence rather than criminality.</a>
-<small>Bride Of Charlie: The Lost Years... | Episode 5</small>
-</article>
-<article>
-<span class="status-badge status-true">true</span>
-<a href="/statements/statement-f3cf0c143740">Richard William Erpenbeck prepared but did not record a deed transferring property to Anita Andrews; she had not signed it, and he then transferred the property to his parents.</a>
-<small>Bride Of Charlie: The Lost Years... | Episode 5</small>
+<a href="/statements/statement-bddd884b1e9d">Andrew Kolvet said more evidence would be made public at the May evidentiary hearing and that he had been told prosecutors had Tyler Robinson dead to rights.</a>
+<small>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315</small>
 </article>
 </div>
 

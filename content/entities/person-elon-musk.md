@@ -1,6 +1,6 @@
 ---
 title: "Elon Musk"
-description: "Elon Musk (People) - 25 mentions"
+description: "Elon Musk (People) - 26 mentions"
 id: "person-elon-musk"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-elon-musk-t-00-19-45">2025-09-25 · 00:20:21</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-person-elon-musk-t-00-55-24">2026-03-03 · 00:55:34</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-elon-musk-t-01-00-54">2026-03-09 · 01:00:54</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -50,6 +50,7 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-elon-musk-t-00-36-50" style="--pulse-height:25%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-person-elon-musk-t-00-06-31" style="--pulse-height:50%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-person-elon-musk-t-00-55-24" style="--pulse-height:25%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-elon-musk-t-01-00-54" style="--pulse-height:25%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -70,6 +71,7 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-elon-musk-t-00-36-50) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-person-elon-musk-t-00-06-31) | 2 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-elon-musk-t-00-55-24) | 1 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-elon-musk-t-01-00-54) | 1 |
 
 </details>
 </section>
@@ -77,7 +79,15 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
+
+**[01:00:54](/episodes/ep-i8m_6D4QGmk.md#ent-person-elon-musk-t-01-00-54)**
+> "Elon Musk donated money"
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1 mentions)</summary>

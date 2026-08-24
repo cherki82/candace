@@ -1,6 +1,6 @@
 ---
 title: "American Financing"
-description: "American Financing (Organizations) - 222 mentions"
+description: "American Financing (Organizations) - 252 mentions"
 id: "org-american-financing"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-56-30">2025-09-15 · 00:56:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-org-american-financing-t-00-48-45">2026-03-03 · 00:49:02</a></strong></div>
-<div><span>Episodes</span><strong>56</strong></div>
-<div><span>Mentions</span><strong>222</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-american-financing-t-00-31-54">2026-03-18 · 00:32:03</a></strong></div>
+<div><span>Episodes</span><strong>64</strong></div>
+<div><span>Mentions</span><strong>252</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -91,6 +91,14 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-american-financing-t-00-59-03" style="--pulse-height:38%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 3 mentions" title="2026-02-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-american-financing-t-00-50-11" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 4 mentions" title="2026-03-02 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-org-american-financing-t-00-48-06" style="--pulse-height:38%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 3 mentions" title="2026-03-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-american-financing-t-00-48-46" style="--pulse-height:62%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 5 mentions" title="2026-03-04 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-american-financing-t-00-53-33" style="--pulse-height:50%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 4 mentions" title="2026-03-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-american-financing-t-00-55-18" style="--pulse-height:50%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 4 mentions" title="2026-03-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-american-financing-t-00-45-23" style="--pulse-height:50%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 4 mentions" title="2026-03-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-american-financing-t-00-46-59" style="--pulse-height:50%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 4 mentions" title="2026-03-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-org-american-financing-t-00-49-11" style="--pulse-height:50%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 4 mentions" title="2026-03-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-american-financing-t-00-55-48" style="--pulse-height:38%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-american-financing-t-00-31-15" style="--pulse-height:38%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -151,6 +159,14 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-american-financing-t-00-59-03) | 3 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-american-financing-t-00-50-11) | 4 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-american-financing-t-00-48-06) | 3 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-american-financing-t-00-48-46) | 5 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-american-financing-t-00-53-33) | 4 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-american-financing-t-00-55-18) | 4 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-american-financing-t-00-45-23) | 4 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-american-financing-t-00-46-59) | 4 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-org-american-financing-t-00-49-11) | 4 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-american-financing-t-00-55-48) | 3 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-org-american-financing-t-00-31-15) | 3 |
 
 </details>
 </section>
@@ -158,7 +174,140 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (222)</strong></summary>
+<summary><strong class="section-title">Raw mentions (252)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (3 mentions)</summary>
+
+**[00:31:40](/episodes/ep-_vg7ucP1E0g.md#ent-org-american-financing-t-00-31-15)**
+> "I mean, really think about that. It's designed to keep us underwater. American Financing is doing something that big banks hate. They're actually helping people."
+
+**[00:31:23](/episodes/ep-_vg7ucP1E0g.md#ent-org-american-financing-t-00-31-15)**
+> "...ll also remind you guys about American financing because have you looked at your credit card state..."
+
+**[00:32:03](/episodes/ep-_vg7ucP1E0g.md#ent-org-american-financing-t-00-31-54)**
+> "...y two mortgage payments. Call American Financing today at 800-795-1210. Again, that's 800-795-1210..."
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (4 mentions)</summary>
+
+**[00:49:42](/episodes/ep-k8ueJdPFel4.md#ent-org-american-financing-t-00-49-11)**
+> "...Also, I remind you guys about American financing because maybe you have looked at your credit card..."
+
+**[00:50:03](/episodes/ep-k8ueJdPFel4.md#ent-org-american-financing-t-00-49-55)**
+> "American Financing is doing something that the big banks really hate..."
+
+**[00:50:23](/episodes/ep-k8ueJdPFel4.md#ent-org-american-financing-t-00-49-55)**
+> "...rtgage payments. You can call American Financing today at..."
+
+**[00:50:28](/episodes/ep-k8ueJdPFel4.md#ent-org-american-financing-t-00-49-55)**
+> "...10, MS 800-795-1210, or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing...."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (3 mentions)</summary>
+
+**[00:56:03](/episodes/ep-I0OaY6Gryqk.md#ent-org-american-financing-t-00-55-48)**
+> "remind you guys about American Financing"
+
+**[00:56:16](/episodes/ep-I0OaY6Gryqk.md#ent-org-american-financing-t-00-55-48)**
+> "...igned to keep you underwater. American financing is doing something that big banks hate."
+
+**[00:56:42](/episodes/ep-I0OaY6Gryqk.md#ent-org-american-financing-t-00-56-29)**
+> "So call American Financing today at 800-795-1210. Again, that's 800-795-1210..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (4 mentions)</summary>
+
+**[00:46:59](/episodes/ep-5-HUyv9LyMg.md#ent-org-american-financing-t-00-46-59)**
+> "...Also, I remind you guys about American Financing, because maybe you have looked at your credit car..."
+
+**[00:47:21](/episodes/ep-5-HUyv9LyMg.md#ent-org-american-financing-t-00-46-59)**
+> "...igned to keep you underwater. American Financing is doing something that these big banks hate. The..."
+
+**[00:47:46](/episodes/ep-5-HUyv9LyMg.md#ent-org-american-financing-t-00-47-40)**
+> "So call American Financing today at 800-795-1210. Again, that's 800-795-1210..."
+
+**[00:47:56](/episodes/ep-5-HUyv9LyMg.md#ent-org-american-financing-t-00-47-40)**
+> "Owens American Financing dot net slash Owens."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (4 mentions)</summary>
+
+**[00:45:46](/episodes/ep-ZzAT2xijKGQ.md#ent-org-american-financing-t-00-45-23)**
+> "American financing"
+
+**[00:45:58](/episodes/ep-ZzAT2xijKGQ.md#ent-org-american-financing-t-00-45-23)**
+> "...signed to keep us underwater. American financing is doing something these big banks hate. They are..."
+
+**[00:46:21](/episodes/ep-ZzAT2xijKGQ.md#ent-org-american-financing-t-00-46-06)**
+> "...wo mortgage payments. So call American Financing today at 800-795-1210."
+
+**[00:46:28](/episodes/ep-ZzAT2xijKGQ.md#ent-org-american-financing-t-00-46-06)**
+> "... that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, AmericanFinancing.net sla..."
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (4 mentions)</summary>
+
+**[00:55:27](/episodes/ep-i8m_6D4QGmk.md#ent-org-american-financing-t-00-55-18)**
+> "American Financing"
+
+**[00:55:39](/episodes/ep-i8m_6D4QGmk.md#ent-org-american-financing-t-00-55-18)**
+> "...igned to keep you underwater. American Financing is doing something that these big banks hate."
+
+**[00:56:02](/episodes/ep-i8m_6D4QGmk.md#ent-org-american-financing-t-00-56-02)**
+> "...wo mortgage payments. So call American Financing today at 800-795-1210."
+
+**[00:56:09](/episodes/ep-i8m_6D4QGmk.md#ent-org-american-financing-t-00-56-02)**
+> "...that's 800-795-1210. Or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net sla..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (4 mentions)</summary>
+
+**[00:54:10](/episodes/ep-DdPjoy5W-wY.md#ent-org-american-financing-t-00-53-33)**
+> "...oing to remind you guys about American financing because have you looked at your credit card state..."
+
+**[00:54:29](/episodes/ep-DdPjoy5W-wY.md#ent-org-american-financing-t-00-54-14)**
+> "American financing is doing something that these big banks hate. The..."
+
+**[00:54:49](/episodes/ep-DdPjoy5W-wY.md#ent-org-american-financing-t-00-54-14)**
+> "...wo mortgage payments. So call American Financing today at 800-795-1210."
+
+**[00:54:57](/episodes/ep-DdPjoy5W-wY.md#ent-org-american-financing-t-00-54-57)**
+> "... that's 800-795-1210 or visit AmericanFinancing.net slash Owens. AmericanFinancing.net. It's net ..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (5 mentions)</summary>
+
+**[00:49:14](/episodes/ep-y8lak3CRwDw.md#ent-org-american-financing-t-00-48-46)**
+> "...oing to remind you guys about American financing because between groceries, travel and higher pric..."
+
+**[00:49:23](/episodes/ep-y8lak3CRwDw.md#ent-org-american-financing-t-00-48-46)**
+> "...ve considered reaching out to American financing but maybe hesitated because you don't want to giv..."
+
+**[00:49:31](/episodes/ep-y8lak3CRwDw.md#ent-org-american-financing-t-00-49-31)**
+> "Well, that's why American financing created the smart equity loan, which is a simple ..."
+
+**[00:49:52](/episodes/ep-y8lak3CRwDw.md#ent-org-american-financing-t-00-49-31)**
+> "... that's 800-795-1210 or visit americanfinancing.net slash Owens."
+
+**[00:50:03](/episodes/ep-y8lak3CRwDw.md#ent-org-american-financing-t-00-49-31)**
+> "Again, that's AmericanFinancing.net slash Owens."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (3 mentions)</summary>
@@ -1075,21 +1224,18 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 </details>
 
 <details>
-<summary>ep-y8lak3CRwDw (5 mentions)</summary>
+<summary>ep-5m-Wn6Pr5rM (4 mentions)</summary>
 
-**[00:49:14](/episodes/ep-y8lak3CRwDw.md#t-00-49-14)**
-> "...oing to remind you guys about American financing because between groceries, travel and higher pric..."
+**[00:25:20](/episodes/ep-5m-Wn6Pr5rM.md#t-00-25-20)**
+> "American financing"
 
-**[00:49:23](/episodes/ep-y8lak3CRwDw.md#t-00-49-23)**
-> "...ve considered reaching out to American financing but maybe hesitated because you don't want to giv..."
+**[00:25:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-25-33)**
+> "...igned to keep you underwater. American financing is doing something that the big banks hate."
 
-**[00:49:31](/episodes/ep-y8lak3CRwDw.md#t-00-49-31)**
-> "Well, that's why American financing created the smart equity loan, which is a simple ..."
+**[00:25:57](/episodes/ep-5m-Wn6Pr5rM.md#t-00-25-57)**
+> "So call American Financing today at 800-795-1210. Again, that's 800-795-1210..."
 
-**[00:49:52](/episodes/ep-y8lak3CRwDw.md#t-00-49-52)**
-> "... that's 800-795-1210 or visit americanfinancing.net slash Owens."
-
-**[00:50:03](/episodes/ep-y8lak3CRwDw.md#t-00-50-03)**
+**[00:26:08](/episodes/ep-5m-Wn6Pr5rM.md#t-00-26-08)**
 > "Again, that's AmericanFinancing.net slash Owens."
 
 </details>
@@ -1103,9 +1249,13 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:45:46](/episodes/ep-ZzAT2xijKGQ.md#t-00-45-23): “Also going to remind you guys about American financing because have you looked at your credit card statements lately?”
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:46:59](/episodes/ep-5-HUyv9LyMg.md#t-00-46-59): “I remind you guys about American Financing”
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:56:42](/episodes/ep-I0OaY6Gryqk.md#t-00-56-29): “So call American Financing today at 800-795-1210. Again, that's 800-795-1210. Or visit AmericanFinancing.net slash Owens, AmericanFinancing.net slash Owens.”
 
 </details>
 
@@ -1115,9 +1265,13 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:45:46](/episodes/ep-ZzAT2xijKGQ.md#t-00-45-23): “Also going to remind you guys about American financing because have you looked at your credit card statements lately?”
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:46:59](/episodes/ep-5-HUyv9LyMg.md#t-00-46-59): “I remind you guys about American Financing”
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:56:42](/episodes/ep-I0OaY6Gryqk.md#t-00-56-29): “So call American Financing today at 800-795-1210. Again, that's 800-795-1210. Or visit AmericanFinancing.net slash Owens, AmericanFinancing.net slash Owens.”
 
 </details>
 

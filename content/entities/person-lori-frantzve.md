@@ -1,6 +1,6 @@
 ---
 title: "Lori Frantzve"
-description: "Lori Frantzve (People) - 174 mentions"
+description: "Lori Frantzve (People) - 207 mentions"
 id: "person-lori-frantzve"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-27-36">2026-01-06 · 00:27:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-person-lori-frantzve-t-00-42-40">2026-03-03 · 00:43:01</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>174</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>72</strong></div>
-<div><span>Relationships</span><strong>34</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-lori-frantzve-t-00-32-04">2026-03-23 · 00:32:19</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>207</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>83</strong></div>
+<div><span>Relationships</span><strong>46</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -47,6 +47,13 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-lori-frantzve-t-00-00-01" style="--pulse-height:100%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 59 mentions" title="2026-02-28 · 59 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-lori-frantzve-t-00-10-59" style="--pulse-height:39%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 23 mentions" title="2026-03-02 · 23 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-person-lori-frantzve-t-00-00-01" style="--pulse-height:47%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 28 mentions" title="2026-03-03 · 28 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-person-lori-frantzve-t-00-09-42" style="--pulse-height:12%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 7 mentions" title="2026-03-04 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-lori-frantzve-t-00-03-47" style="--pulse-height:27%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 16 mentions" title="2026-03-06 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-lori-frantzve-t-00-39-15" style="--pulse-height:8%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-lori-frantzve-t-00-08-36" style="--pulse-height:8%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-lori-frantzve-t-00-33-59" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-lori-frantzve-t-00-01-46" style="--pulse-height:19%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 11 mentions" title="2026-03-18 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-lori-frantzve-t-00-32-04" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,6 +71,13 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-person-lori-frantzve-t-00-00-01) | 59 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-lori-frantzve-t-00-10-59) | 23 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-lori-frantzve-t-00-00-01) | 28 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-person-lori-frantzve-t-00-09-42) | 7 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-lori-frantzve-t-00-03-47) | 16 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-lori-frantzve-t-00-39-15) | 2 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-person-lori-frantzve-t-00-08-36) | 1 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-lori-frantzve-t-00-33-59) | 1 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-lori-frantzve-t-00-01-46) | 11 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-lori-frantzve-t-00-32-04) | 1 |
 
 </details>
 </section>
@@ -71,7 +85,159 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (174)</strong></summary>
+<summary><strong class="section-title">Raw mentions (207)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1 mentions)</summary>
+
+**[00:32:19](/episodes/ep-B9TyCs-6o_0.md#ent-person-lori-frantzve-t-00-32-04)**
+> "Lori (Lori Frantzve) is part of the Department of Defense"
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (11 mentions)</summary>
+
+**[00:01:46](/episodes/ep-_vg7ucP1E0g.md#ent-person-lori-frantzve-t-00-01-46)**
+> "Anyway, we had explained to you guys on a previous episode that wherever Erika (Erika Kirk) and Lori (Lori Frantzve) go, accusations of financial fraud tend to follow, right? Throwing it back to the Erpenbeck brothers, Uncle Rick (Richard Erpenbeck), that brand-new glossy Tesseract school—ultimately a charter scam in which money inexplicably vanished."
+
+**[00:07:31](/episodes/ep-_vg7ucP1E0g.md#ent-person-lori-frantzve-t-00-07-31)**
+> "... also have that on July 11th, Lori Frantzve and Tyler Bowyer and Erika (Erika Kirk) are going..."
+
+**[00:08:48](/episodes/ep-_vg7ucP1E0g.md#ent-person-lori-frantzve-t-00-08-39)**
+> "You know, it's Lori (Lori Frantzve). So it's like this. She's doing this whole EMP t..."
+
+**[00:11:25](/episodes/ep-_vg7ucP1E0g.md#ent-person-lori-frantzve-t-00-11-05)**
+> "...uation program. That is Lori (Lori Frantzve), not Erika (Erika Kirk), to be clear. The pictur..."
+
+**[00:11:42](/episodes/ep-_vg7ucP1E0g.md#ent-person-lori-frantzve-t-00-11-42)**
+> "In August, Lori (Lori Frantzve) will then go to Utah and attend an expo, Utah of..."
+
+**[00:12:02](/episodes/ep-_vg7ucP1E0g.md#ent-person-lori-frantzve-t-00-11-42)**
+> "I've said my feelings about Lori Frantzve, so I will leave that alone. But that's what she ..."
+
+**[00:12:32](/episodes/ep-_vg7ucP1E0g.md#ent-person-lori-frantzve-t-00-12-20)**
+> "Lori (Lori Frantzve) then releases an intent to sell G-Tech Industrie..."
+
+**[00:12:42](/episodes/ep-_vg7ucP1E0g.md#ent-person-lori-frantzve-t-00-12-20)**
+> "Lori (Lori Frantzve) is an 86% owner of Saxon Capital Group. They rel..."
+
+**[00:16:15](/episodes/ep-_vg7ucP1E0g.md#ent-person-lori-frantzve-t-00-16-15)**
+> "...eds can do like what is Lori (Lori Frantzve) doing uh with a native american reservation can ..."
+
+**[00:16:56](/episodes/ep-_vg7ucP1E0g.md#ent-person-lori-frantzve-t-00-16-56)**
+> "...he border and the people that Lori Frantzve involves herself with."
+
+**[00:18:50](/episodes/ep-_vg7ucP1E0g.md#ent-person-lori-frantzve-t-00-18-50)**
+> "...ips, her boyfriend, and Lori (Lori Frantzve) are going to ring in the new year together."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>
+
+**[00:33:59](/episodes/ep-5-HUyv9LyMg.md#ent-person-lori-frantzve-t-00-33-59)**
+> "...s and their relationship with Lori Frantzve dating back to 2013, and it's all not looking goo..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1 mentions)</summary>
+
+**[00:08:42](/episodes/ep-H9p2ZGHAs9A.md#ent-person-lori-frantzve-t-00-08-36)**
+> "We can, I think, reasonably assume that she's not referring to her family back in Scottsdale. Lori (Lori Frantzve) doesn't do real estate."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (2 mentions)</summary>
+
+**[00:39:22](/episodes/ep-ZzAT2xijKGQ.md#ent-person-lori-frantzve-t-00-39-15)**
+> "Lori Frantzve has an appointment"
+
+**[00:39:35](/episodes/ep-ZzAT2xijKGQ.md#ent-person-lori-frantzve-t-00-39-15)**
+> "...rlie (Charlie Kirk) and Lori (Lori Frantzve) are together. From 4 o'clock to 5 o'clock p.m., ..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (16 mentions)</summary>
+
+**[00:03:47](/episodes/ep-DdPjoy5W-wY.md#ent-person-lori-frantzve-t-00-03-47)**
+> "...any words. It's sounding like Lori Frantzve bio."
+
+**[00:08:10](/episodes/ep-DdPjoy5W-wY.md#ent-person-lori-frantzve-t-00-07-51)**
+> "...d you got it sustainably made Lori Frantzve wrote it i know Lori Frantzve wrote it it's susta..."
+
+**[00:10:03](/episodes/ep-DdPjoy5W-wY.md#ent-person-lori-frantzve-t-00-09-55)**
+> "You can't just have a Lori (Lori Frantzve) bio in life. Okay. I want you guys to think abou..."
+
+**[00:40:46](/episodes/ep-DdPjoy5W-wY.md#ent-person-lori-frantzve-t-00-40-31)**
+> "...e. More relevant, however, is Lori Frantzve because she gets introduced on the floor in Arizo..."
+
+**[00:41:21](/episodes/ep-DdPjoy5W-wY.md#ent-person-lori-frantzve-t-00-41-21)**
+> "...ey all know each other and so Lori Frantzve is introduced by uh Terrell Farnsworth's family T..."
+
+**[00:41:58](/episodes/ep-DdPjoy5W-wY.md#ent-person-lori-frantzve-t-00-41-21)**
+> "...e you're a tech genius, Lori (Lori Frantzve). And she's like, uh-huh. Uh-huh. Sustainable, su..."
+
+**[00:47:15](/episodes/ep-DdPjoy5W-wY.md#ent-person-lori-frantzve-t-00-47-15)**
+> "..., I'm sure she did meet Lori (Lori Frantzve). Lori (Lori Frantzve)'s always lurking in the co..."
+
+**[00:55:17](/episodes/ep-DdPjoy5W-wY.md#ent-person-lori-frantzve-t-00-54-57)**
+> "...e just everything about Lori (Lori Frantzve) makes my skin crawl. And I am never going to mis..."
+
+**[00:55:28](/episodes/ep-DdPjoy5W-wY.md#ent-person-lori-frantzve-t-00-54-57)**
+> "...t us with the idea that Lori (Lori Frantzve)'s just like at death's door and I'm not sure how..."
+
+**[00:55:53](/episodes/ep-DdPjoy5W-wY.md#ent-person-lori-frantzve-t-00-55-37)**
+> "...ogether and I see where Lori (Lori Frantzve)'s got her sticky fingers in and what Erika (Erik..."
+
+**[01:00:14](/episodes/ep-DdPjoy5W-wY.md#ent-person-lori-frantzve-t-01-00-14)**
+> "... well i love this is so funny Lori Frantzve can do anything but write down erica's correct da..."
+
+**[01:03:46](/episodes/ep-DdPjoy5W-wY.md#ent-person-lori-frantzve-t-01-03-17)**
+> "...think that's natural if Lori (Lori Frantzve) was in her life. That's a very fair assumption. ..."
+
+**[01:03:55](/episodes/ep-DdPjoy5W-wY.md#ent-person-lori-frantzve-t-01-03-55)**
+> "It is my opinion that Lori (Lori Frantzve) has proven to be a... a scam artist i can't make..."
+
+**[01:06:42](/episodes/ep-DdPjoy5W-wY.md#ent-person-lori-frantzve-t-01-06-42)**
+> "... Vince Lombardi it seems like Lori Frantzve is the real person of interest i'm watching this ..."
+
+**[01:07:08](/episodes/ep-DdPjoy5W-wY.md#ent-person-lori-frantzve-t-01-06-42)**
+> "...some interesting things about Lori Frantzve since he's been helping so much the investigation..."
+
+**[00:42:14](/episodes/ep-DdPjoy5W-wY.md#ent-person-lori-frantzve-t-00-42-04)**
+> "That's Lori (Lori Frantzve) to me. Lori (Lori Frantzve) gives me scam artist..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (7 mentions)</summary>
+
+**[00:09:55](/episodes/ep-y8lak3CRwDw.md#ent-person-lori-frantzve-t-00-09-42)**
+> "...emind you again that in 2010, Lori Frantzve reinstates AZ Tech International."
+
+**[00:10:08](/episodes/ep-y8lak3CRwDw.md#ent-person-lori-frantzve-t-00-09-42)**
+> "... Tech International does from Lori."
+
+**[00:10:30](/episodes/ep-y8lak3CRwDw.md#ent-person-lori-frantzve-t-00-09-42)**
+> "...econd paragraph. It says that Lori, for the past 12 years of her career."
+
+**[00:17:06](/episodes/ep-y8lak3CRwDw.md#ent-person-lori-frantzve-t-00-16-37)**
+> "...the same exact operation that Lori Frantzve of E3 Tech, don't ask me what it does, she wins a..."
+
+**[00:17:18](/episodes/ep-y8lak3CRwDw.md#ent-person-lori-frantzve-t-00-17-18)**
+> "I wonder if Lori Frantzve and Dennis Frantzve."
+
+**[00:50:16](/episodes/ep-y8lak3CRwDw.md#ent-person-lori-frantzve-t-00-17-18)**
+> "...going to be involved in this. Lori's doing some interesting stuff. And again, I get ..."
+
+**[00:50:30](/episodes/ep-y8lak3CRwDw.md#ent-person-lori-frantzve-t-00-17-18)**
+> "...ree yeah not when it comes to Lori Chalkray writes Candace is literally single-hande..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (28 mentions)</summary>
@@ -635,28 +801,10 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details>
-<summary>ep-y8lak3CRwDw (7 mentions)</summary>
+<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
 
-**[00:09:55](/episodes/ep-y8lak3CRwDw.md#t-00-09-55)**
-> "...emind you again that in 2010, Lori Frantzve reinstates AZ Tech International."
-
-**[00:10:08](/episodes/ep-y8lak3CRwDw.md#t-00-10-08)**
-> "... Tech International does from Lori."
-
-**[00:10:30](/episodes/ep-y8lak3CRwDw.md#t-00-10-30)**
-> "...econd paragraph. It says that Lori, for the past 12 years of her career."
-
-**[00:17:06](/episodes/ep-y8lak3CRwDw.md#t-00-17-06)**
-> "...the same exact operation that Lori Frantzve of E3 Tech, don't ask me what it does, she wins a..."
-
-**[00:17:18](/episodes/ep-y8lak3CRwDw.md#t-00-17-18)**
-> "I wonder if Lori Frantzve and Dennis Frantzve."
-
-**[00:50:16](/episodes/ep-y8lak3CRwDw.md#t-00-50-16)**
-> "...going to be involved in this. Lori's doing some interesting stuff. And again, I get ..."
-
-**[00:50:30](/episodes/ep-y8lak3CRwDw.md#t-00-50-30)**
-> "...ree yeah not when it comes to Lori Chalkray writes Candace is literally single-hande..."
+**[00:52:51](/episodes/ep-5m-Wn6Pr5rM.md#t-00-52-51)**
+> "Lori"
 
 </details>
 
@@ -678,12 +826,45 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details>
+<summary>Affiliated With (2)</summary>
+
+- **[GTEC Industries](/entities/org-gtec-industries.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:56](/episodes/ep-DdPjoy5W-wY.md#t-00-40-56): “here is what me and my husband Larry Guinta recommend that you do. and it's g-tech industries”
+
+</details>
+
+- **[United States Department of Defense](/entities/org-us-department-of-defense.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:32:19](/episodes/ep-B9TyCs-6o_0.md#t-00-32-04): “the department of defense which is all over the story for some reason Lori (Lori Frantzve) is part of the department of defense”
+
+</details>
+
+</details>
+
+<details>
+<summary>Appeared With (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:07:31](/episodes/ep-_vg7ucP1E0g.md#t-00-06-53): “I'm just wondering how is she affording to live, okay? She's still dating. J.T. Massey. During this time, we also have that on July 11th, Lori Frantzve and Tyler Bowyer and Erika (Erika Kirk) are going to be behind Donald Trump for his presidential campaign rally.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Board Member Of (1)</summary>
 
 - **[Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:00:30](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01): “Lori Frantzve, despite being ill, has recently been put on the board of Superfeed Technologies alongside Turning Point Action's COO.”
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:26:08](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53): “Superfeed incorporated where Erika (Erika Kirk)'s mother is serving as a board member with Tyler Bowyer?”
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:28:46](/episodes/ep-_vg7ucP1E0g.md#t-00-28-35): “We have that in November. Her mother establishes G-Tech Industries LLC. I know you're going to say, what is it do? ... You know, it's Lori (Lori Frantzve). So it's like this. She's doing this whole EMP thing and she's getting money and she's. ... Super Feed Technologies is the company that both Erika's (Erika Kirk's) mother and Tyler Bowyer are on the board of.”
 
 </details>
 
@@ -712,11 +893,12 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:23:28](/episodes/ep-cZxHqYsWRYg.md#t-00-23-14): “I think these people are sick in the head. There is something very wrong with Lori (Lori Frantzve). There is something very wrong with Erika (Erika Kirk).”
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:35:01](/episodes/ep-jTj9Ip46r4w.md#t-00-34-40): “But I'm telling you this because I think Lori Frantzve is rotten to her core and I therefore found it unbelievably interesting that someone located an old interview and asked me anything segment from Charlie Kirk's show”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:19:14](/episodes/ep-2tFYJf1klgY.md#t-00-18-48): “With everything I know about Lori (Lori Frantzve), I don't love it.”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:42:14](/episodes/ep-DdPjoy5W-wY.md#t-00-42-04): “Lori (Lori Frantzve) gives me scam artist”
 
 </details>
 
@@ -736,9 +918,10 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 - **[Larry Guinta](/entities/person-larry-guinta.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:11:41](/episodes/ep-jTj9Ip46r4w.md#t-00-11-41): “Lori (Lori Frantzve) Abbas Stanley, Wallstad, Frantzve, Gwinta. She's even divorced from Larry Ginta, Gwinta, however you say that.”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:56](/episodes/ep-DdPjoy5W-wY.md#t-00-40-56): “me and my husband Larry Guinta recommend that you do”
 
 </details>
 
@@ -771,12 +954,26 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details>
-<summary>Founded (1)</summary>
+<summary>Founded (3)</summary>
 
 - **[Everyday Heroes Like You](/entities/org-everyday-heroes-like-you.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:18:21](/episodes/ep-2tFYJf1klgY.md#t-00-18-13): “In 2009, Lori Frantzve is going to establish Everyday Heroes Like You in April.”
+
+</details>
+
+- **[GTEC Industries](/entities/org-gtec-industries.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:08:39](/episodes/ep-_vg7ucP1E0g.md#t-00-08-39): “We have that in November. Her mother establishes G-Tech Industries LLC. I know you're going to say, what is it do? ... You know, it's Lori (Lori Frantzve). So it's like this. She's doing this whole EMP thing and she's getting money and she's.”
+
+</details>
+
+- **[Desert Spirit Tek, LLC](/entities/org-desert-spirit-tek.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:15:47](/episodes/ep-_vg7ucP1E0g.md#t-00-15-36): “And again, what qualifies her for that? Nobody knows. On July 24th, her mother then opened that mysterious LLC. ... Well, see Desert Spirit Tech LLC. That is the one that should not especially be ignored. Opening up tech in the middle of the, and I hope I'm saying this right, the Tohono O'odham Reservation, Indian Reservation. ... No rules apply. People are trafficked. There's drug traffic. trafficking in fact when she gets involved i think they had just shut down it passes to mexico they had the san miguel gate on the tohono reservation which passed through to mexico and there's nothing the feds can do like what is Lori (Lori Frantzve) doing uh with a native american reservation can anybody tell me what tech she's doing that she's involving herself there is she involved with casinos is desert spirit tech tech casino stuff.”
 
 </details>
 
@@ -795,6 +992,18 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details>
+<summary>Met With (1)</summary>
+
+- **[Tyler Massey](/entities/person-tyler-massey.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:46:53](/episodes/ep-DdPjoy5W-wY.md#t-00-46-53): “later met her mom on the first night”
+
+</details>
+
+</details>
+
+<details>
 <summary>Operates (1)</summary>
 
 - **[Desert Spirit Tek, LLC](/entities/org-desert-spirit-tek.md)**
@@ -807,12 +1016,19 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details>
-<summary>Owns (1)</summary>
+<summary>Owns (2)</summary>
 
 - **[Desert Spirit Tek, LLC](/entities/org-desert-spirit-tek.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:15:30](/episodes/ep-gG4ZoYUjUc8.md#t-00-14-47): “The business that they filed is called Desert Spirit Tech, LLC ... Lorin Frantzve is listed as a 20% stakeholder in the business.”
+
+</details>
+
+- **[Saxon Capital Group Inc.](/entities/org-saxon-capital-group-inc.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:12:32](/episodes/ep-_vg7ucP1E0g.md#t-00-12-20): “Lori (Lori Frantzve) then releases an intent to sell G-Tech Industries to Saxon Capital Group. A little fun fact here, Saxon Capital Group is actually Lori (Lori Frantzve). ... Lori (Lori Frantzve) is an 86% owner of Saxon Capital Group. They released this onto PR Newswire, and then it turns out that years later, Saxon Capital Group, with Lori (Lori Frantzve) as a minor partner, they're going to file for an IPO and they're like, yeah, no, we actually never did that deal. So just a little bit more of, like, you know, Lori (Lori Frantzve) trickery—like, oh, selling my company, and then she doesn't actually sell it to them, according to them.”
 
 </details>
 
@@ -822,7 +1038,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <summary>Parent Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-26): “Senator David Farnsworth. introduced Erika (Erika Kirk)'s mother to the house floor with concerns over EMPs”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:11:59](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-22): “Lori Frantzve. Erika (Erika Kirk)'s mom, Lori Frantzve.”
@@ -832,6 +1048,9 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:11:06](/episodes/ep-1IY2oD-_xVA.md#t-00-10-41): “Now, Erika (Erika Kirk)'s father and her mother, Lori (Lori Frantzve) and Kent Frantzve, as we learned, were married in Marblehead, Massachusetts.”
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:00:01](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01): “So yesterday we told you that by all accounts, the voice that is in Erika (Erika Kirk)'s ear is Lori (Lori Frantzve), her mother.”
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:11:32](/episodes/ep-jTj9Ip46r4w.md#t-00-10-59): “And of course, probably the one that took us on the greatest journey is Lori (Lori Frantzve) Abbas Stanley, Erica (Erika Kirk)'s mom Lori (Lori Frantzve).”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:55:08](/episodes/ep-DdPjoy5W-wY.md#t-00-54-57): “Erika (Erika Kirk)'s mom”
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:26:08](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53): “Erika (Erika Kirk)'s strange attachment to Tyler Bowyer, but lack of a memory regarding Tyler Bowyer? Superfeed incorporated where Erika (Erika Kirk)'s mother is serving as a board member with Tyler Bowyer?”
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:08:39](/episodes/ep-_vg7ucP1E0g.md#t-00-08-39): “We have that in November. Her mother establishes G-Tech Industries LLC. I know you're going to say, what is it do? ... You know, it's Lori (Lori Frantzve). So it's like this. She's doing this whole EMP thing and she's getting money and she's.”
 
 </details>
 
@@ -855,9 +1074,10 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:00:42](/episodes/ep-cZxHqYsWRYg.md#t-00-00-42): “Oh, Tyler Bowyer, shady dude. They're effectively then business partners. They have been for a while, actually. Lori (Lori Frantzve) was at first a director over at Superfeed.”
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:29:11](/episodes/ep-_vg7ucP1E0g.md#t-00-29-11): “We have that in November. Her mother establishes G-Tech Industries LLC. I know you're going to say, what is it do? ... You know, it's Lori (Lori Frantzve). So it's like this. She's doing this whole EMP thing and she's getting money and she's. ... blind spot she just can't that's her one category she can't remember is how she knows Tyler Bowyer even though he is in business with her mother and has her at behind trump in 2015 it is my personal opinion that a deal was done when i look at the evidence when i look at everything i'm looking at when i see how duplicitous she was and i know that Charlie (Charlie Kirk) did not know these things because i was there”
 
 </details>
 
@@ -879,10 +1099,17 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details>
-<summary>Referenced By (14)</summary>
+<summary>Referenced By (19)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:07:31](/episodes/ep-_vg7ucP1E0g.md#t-00-06-53): “I'm just wondering how is she affording to live, okay? She's still dating. J.T. Massey. During this time, we also have that on July 11th, Lori Frantzve and Tyler Bowyer and Erika (Erika Kirk) are going to be behind Donald Trump for his presidential campaign rally.”
+
+</details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** child of this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-26): “Senator David Farnsworth. introduced Erika (Erika Kirk)'s mother to the house floor with concerns over EMPs”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:11:59](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-22): “Lori Frantzve. Erika (Erika Kirk)'s mom, Lori Frantzve.”
@@ -892,6 +1119,9 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:11:06](/episodes/ep-1IY2oD-_xVA.md#t-00-10-41): “Now, Erika (Erika Kirk)'s father and her mother, Lori (Lori Frantzve) and Kent Frantzve, as we learned, were married in Marblehead, Massachusetts.”
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:00:01](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01): “So yesterday we told you that by all accounts, the voice that is in Erika (Erika Kirk)'s ear is Lori (Lori Frantzve), her mother.”
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:11:32](/episodes/ep-jTj9Ip46r4w.md#t-00-10-59): “And of course, probably the one that took us on the greatest journey is Lori (Lori Frantzve) Abbas Stanley, Erica (Erika Kirk)'s mom Lori (Lori Frantzve).”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:55:08](/episodes/ep-DdPjoy5W-wY.md#t-00-54-57): “Erika (Erika Kirk)'s mom”
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:26:08](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53): “Erika (Erika Kirk)'s strange attachment to Tyler Bowyer, but lack of a memory regarding Tyler Bowyer? Superfeed incorporated where Erika (Erika Kirk)'s mother is serving as a board member with Tyler Bowyer?”
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:08:39](/episodes/ep-_vg7ucP1E0g.md#t-00-08-39): “We have that in November. Her mother establishes G-Tech Industries LLC. I know you're going to say, what is it do? ... You know, it's Lori (Lori Frantzve). So it's like this. She's doing this whole EMP thing and she's getting money and she's.”
 
 </details>
 
@@ -910,11 +1140,12 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:23:28](/episodes/ep-cZxHqYsWRYg.md#t-00-23-14): “I think these people are sick in the head. There is something very wrong with Lori (Lori Frantzve). There is something very wrong with Erika (Erika Kirk).”
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:35:01](/episodes/ep-jTj9Ip46r4w.md#t-00-34-40): “But I'm telling you this because I think Lori Frantzve is rotten to her core and I therefore found it unbelievably interesting that someone located an old interview and asked me anything segment from Charlie Kirk's show”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:19:14](/episodes/ep-2tFYJf1klgY.md#t-00-18-48): “With everything I know about Lori (Lori Frantzve), I don't love it.”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:42:14](/episodes/ep-DdPjoy5W-wY.md#t-00-42-04): “Lori (Lori Frantzve) gives me scam artist”
 
 </details>
 
@@ -943,9 +1174,10 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 - **[Larry Guinta](/entities/person-larry-guinta.md)** formerly married to this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:11:41](/episodes/ep-jTj9Ip46r4w.md#t-00-11-41): “Lori (Lori Frantzve) Abbas Stanley, Wallstad, Frantzve, Gwinta. She's even divorced from Larry Ginta, Gwinta, however you say that.”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:56](/episodes/ep-DdPjoy5W-wY.md#t-00-40-56): “me and my husband Larry Guinta recommend that you do”
 
 </details>
 
@@ -963,6 +1195,20 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 
 </details>
 
+- **[GTEC Industries](/entities/org-gtec-industries.md)** founded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:08:39](/episodes/ep-_vg7ucP1E0g.md#t-00-08-39): “We have that in November. Her mother establishes G-Tech Industries LLC. I know you're going to say, what is it do? ... You know, it's Lori (Lori Frantzve). So it's like this. She's doing this whole EMP thing and she's getting money and she's.”
+
+</details>
+
+- **[Desert Spirit Tek, LLC](/entities/org-desert-spirit-tek.md)** founded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:15:47](/episodes/ep-_vg7ucP1E0g.md#t-00-15-36): “And again, what qualifies her for that? Nobody knows. On July 24th, her mother then opened that mysterious LLC. ... Well, see Desert Spirit Tech LLC. That is the one that should not especially be ignored. Opening up tech in the middle of the, and I hope I'm saying this right, the Tohono O'odham Reservation, Indian Reservation. ... No rules apply. People are trafficked. There's drug traffic. trafficking in fact when she gets involved i think they had just shut down it passes to mexico they had the san miguel gate on the tohono reservation which passed through to mexico and there's nothing the feds can do like what is Lori (Lori Frantzve) doing uh with a native american reservation can anybody tell me what tech she's doing that she's involving herself there is she involved with casinos is desert spirit tech tech casino stuff.”
+
+</details>
+
 - **[GTEC Industries](/entities/org-gtec-industries.md)** has CEO this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -971,9 +1217,18 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 - **[Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md)** has board member this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:00:30](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01): “Lori Frantzve, despite being ill, has recently been put on the board of Superfeed Technologies alongside Turning Point Action's COO.”
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:26:08](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53): “Superfeed incorporated where Erika (Erika Kirk)'s mother is serving as a board member with Tyler Bowyer?”
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:28:46](/episodes/ep-_vg7ucP1E0g.md#t-00-28-35): “We have that in November. Her mother establishes G-Tech Industries LLC. I know you're going to say, what is it do? ... You know, it's Lori (Lori Frantzve). So it's like this. She's doing this whole EMP thing and she's getting money and she's. ... Super Feed Technologies is the company that both Erika's (Erika Kirk's) mother and Tyler Bowyer are on the board of.”
+
+</details>
+
+- **[Tyler Massey](/entities/person-tyler-massey.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:46:53](/episodes/ep-DdPjoy5W-wY.md#t-00-46-53): “later met her mom on the first night”
 
 </details>
 
@@ -991,12 +1246,84 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 
 </details>
 
+- **[Saxon Capital Group Inc.](/entities/org-saxon-capital-group-inc.md)** owned by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:12:32](/episodes/ep-_vg7ucP1E0g.md#t-00-12-20): “Lori (Lori Frantzve) then releases an intent to sell G-Tech Industries to Saxon Capital Group. A little fun fact here, Saxon Capital Group is actually Lori (Lori Frantzve). ... Lori (Lori Frantzve) is an 86% owner of Saxon Capital Group. They released this onto PR Newswire, and then it turns out that years later, Saxon Capital Group, with Lori (Lori Frantzve) as a minor partner, they're going to file for an IPO and they're like, yeah, no, we actually never did that deal. So just a little bit more of, like, you know, Lori (Lori Frantzve) trickery—like, oh, selling my company, and then she doesn't actually sell it to them, according to them.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lori Frantzve (72)</strong></summary>
+<summary><strong class="section-title">Statements by Lori Frantzve (1)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1)</summary>
+
+- [00:11:00](/episodes/ep-y8lak3CRwDw.md#t-00-11-00) [✓] (Citation) ["Lori Frantzve's biography said AZ-Tech created a hybrid cyber, electrical, and m..."](/statements/statement-78faf0577b3e.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [AZ-Tech International](/entities/org-az-tech-international.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Lori Frantzve (83)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (1)</summary>
+
+- [00:29:11](/episodes/ep-_vg7ucP1E0g.md#t-00-29-11) (Opinion) **Candace Owens**: ["It is my personal opinion that a deal was done involving Erika Kirk, T..."](/statements/statement-39b32db4ed7d.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (2)</summary>
+
+- [00:33:59](/episodes/ep-5-HUyv9LyMg.md#t-00-33-59) (Claim) **Candace Owens**: ["Terrell Farnsworth's father, uncles, and cousins had a relationship wi..."](/statements/statement-a7e9db718e2d.md)
+  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+- [00:42:56](/episodes/ep-5-HUyv9LyMg.md#t-00-42-56) (Accusation) **Candace Owens**: ["Turning Point Action, which is run by Tyler Bowyer, sends money back t..."](/statements/statement-f8cc12a702c2.md)
+  - Also about: [Turning Point Action](/entities/org-turning-point-action.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (6)</summary>
+
+- [00:40:56](/episodes/ep-DdPjoy5W-wY.md#t-00-40-56) (Claim) **Candace Owens**: ["Lori Frantzve appeared on the Arizona legislative floor in support of ..."](/statements/statement-7e7786b423ca.md)
+  - Also about: [David Farnsworth](/entities/person-david-farnsworth.md), [GTEC Industries](/entities/org-gtec-industries.md), [Electromagnetic pulse](/entities/concept-electromagnetic-pulse.md)
+
+- [00:41:21](/episodes/ep-DdPjoy5W-wY.md#t-00-41-21) (Accusation) **Candace Owens**: ["Candace Owens accuses Lori Frantzve and connected political families o..."](/statements/statement-3f7735856b9f.md)
+  - Also about: [GTEC Industries](/entities/org-gtec-industries.md)
+
+- [00:46:24](/episodes/ep-DdPjoy5W-wY.md#t-00-46-24) (Claim) **Tyler Massey** (via quoted speech): ["JT Massey says his first date with Erika Frantzve was March 1, 2014, a..."](/statements/statement-ae0735a2eb9c.md)
+  - Also about: [Tyler Massey](/entities/person-tyler-massey.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:50:22](/episodes/ep-DdPjoy5W-wY.md#t-00-49-56) (Claim) **Erika Kirk** (via quoted speech): ["Erika Frantzve says she comes from a family of entrepreneurs, learned ..."](/statements/statement-5202b53871e0.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Everyday Heroes Like You](/entities/org-everyday-heroes-like-you.md), [House of DVF](/entities/work-house-of-dvf.md)
+
+- [00:55:08](/episodes/ep-DdPjoy5W-wY.md#t-00-54-57) (Accusation) **Candace Owens**: ["Candace Owens calls Lori Frantzve a shyster and alleges that Frantzve ..."](/statements/statement-622f0389fe4c.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [01:03:55](/episodes/ep-DdPjoy5W-wY.md#t-01-03-55) (Opinion) **Candace Owens**: ["Candace Owens says it is her opinion that Lori Frantzve has proven to ..."](/statements/statement-a026fb0bf20f.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (2)</summary>
+
+- [00:09:55](/episodes/ep-y8lak3CRwDw.md#t-00-09-42) (Claim) **Candace Owens**: ["Lori Frantzve reinstated AZ-Tech International in 2010."](/statements/statement-1de776488709.md)
+  - Also about: [AZ-Tech International](/entities/org-az-tech-international.md)
+
+- [00:11:00](/episodes/ep-y8lak3CRwDw.md#t-00-11-00) (Citation) **Lori Frantzve** (via quoted document): ["Lori Frantzve's biography said AZ-Tech created a hybrid cyber, electri..."](/statements/statement-78faf0577b3e.md)
+  - Also about: [AZ-Tech International](/entities/org-az-tech-international.md), [United States Department of Defense](/entities/org-us-department-of-defense.md), [United States Department of Energy](/entities/org-us-department-of-energy.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (10)</summary>

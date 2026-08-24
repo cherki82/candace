@@ -1,6 +1,6 @@
 ---
 title: "Mike Huckabee"
-description: "Mike Huckabee (People) - 7 mentions"
+description: "Mike Huckabee (People) - 10 mentions"
 id: "person-mike-huckabee"
 type: "PERSON"
 ---
@@ -9,12 +9,12 @@ _Type: People_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-mike-huckabee-t-00-18-27">2025-11-05 · 00:19:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-person-mike-huckabee-t-00-27-32">2025-11-21 · 00:27:34</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-mike-huckabee-t-00-52-42">2026-03-17 · 00:52:42</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -24,6 +24,8 @@ _Type: People_
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-LATnak75Si0.md#ent-person-mike-huckabee-t-00-18-27" style="--pulse-height:17%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-mike-huckabee-t-00-24-49" style="--pulse-height:100%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 6 mentions" title="2025-11-21 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-mike-huckabee-t-00-13-47" style="--pulse-height:17%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-mike-huckabee-t-00-51-47" style="--pulse-height:33%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -31,6 +33,8 @@ _Type: People_
 |---|---|---:|
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-mike-huckabee-t-00-18-27) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-mike-huckabee-t-00-24-49) | 6 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-mike-huckabee-t-00-13-47) | 1 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-mike-huckabee-t-00-51-47) | 2 |
 
 </details>
 </section>
@@ -38,7 +42,26 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (2 mentions)</summary>
+
+**[00:52:17](/episodes/ep-I0OaY6Gryqk.md#ent-person-mike-huckabee-t-00-51-47)**
+> "Mike Huckabee joking about him being alive"
+
+**[00:52:42](/episodes/ep-I0OaY6Gryqk.md#ent-person-mike-huckabee-t-00-52-42)**
+> "Yes, Mike (Mike Huckabee). Yes, I'm alive."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>
+
+**[00:13:47](/episodes/ep-5-HUyv9LyMg.md#ent-person-mike-huckabee-t-00-13-47)**
+> "...bee Sanders, and yes, that is Mike Huckabee's daughter, might be relevant to the theme of Israe..."
+
+</details>
 
 <details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (6 mentions)</summary>
@@ -89,7 +112,50 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Met With (1)</summary>
+
+- **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:52:37](/episodes/ep-I0OaY6Gryqk.md#t-00-52-37): “Mr. Prime Minister, I wanted you to know the President asked me to come and make sure you were okay.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Parent Of (1)</summary>
+
+- **[Sarah Huckabee Sanders](/entities/person-sarah-huckabee-sanders.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:13:47](/episodes/ep-5-HUyv9LyMg.md#t-00-13-47): “Sarah Huckabee Sanders, and yes, that is Mike Huckabee's daughter”
+
+</details>
+
+</details>
+
+<details>
+<summary>Supporter Of (1)</summary>
+
+- **[Jonathan Jay Pollard](/entities/person-jonathan-jay-pollard.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 01:03:09](/episodes/ep-I0OaY6Gryqk.md#t-01-03-09): “But he's always in that way. I mean, he notoriously supported Jonathan Pollard, who was a literal American spy.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (4)</summary>
+
+- **[Sarah Huckabee Sanders](/entities/person-sarah-huckabee-sanders.md)** child of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:13:47](/episodes/ep-5-HUyv9LyMg.md#t-00-13-47): “Sarah Huckabee Sanders, and yes, that is Mike Huckabee's daughter”
+
+</details>
 
 - **[Israel](/entities/gpe-israel.md)** has ambassador from this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -97,6 +163,33 @@ _Type: People_
 - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:25:22](/episodes/ep-mKXdKV-OBog.md#t-00-24-49): “Mike Huckabee is the ambassador to Israel”
 
 </details>
+
+- **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:52:37](/episodes/ep-I0OaY6Gryqk.md#t-00-52-37): “Mr. Prime Minister, I wanted you to know the President asked me to come and make sure you were okay.”
+
+</details>
+
+- **[Jonathan Jay Pollard](/entities/person-jonathan-jay-pollard.md)** supported by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 01:03:09](/episodes/ep-I0OaY6Gryqk.md#t-01-03-09): “But he's always in that way. I mean, he notoriously supported Jonathan Pollard, who was a literal American spy.”
+
+</details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Mike Huckabee (1)</strong></summary>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1)</summary>
+
+- [01:03:09](/episodes/ep-I0OaY6Gryqk.md#t-01-03-09) (Claim) **Candace Owens**: ["Mike Huckabee notoriously supported Jonathan Pollard, an American spy."](/statements/statement-ff3e0d8d5d57.md)
+  - Also about: [Jonathan Pollard](/entities/person-jonathan-pollard.md)
 
 </details>
 

@@ -1,15 +1,15 @@
 ---
-title: "Mikey McCoy appeared with Blake Neff"
-description: "Evidence for the relationship: Mikey McCoy appeared with Blake Neff"
+title: "Michael McCoy appeared with Blake Neff"
+description: "Evidence for the relationship: Michael McCoy appeared with Blake Neff"
 relationship_id: "rel-aae6989d427b"
-subject: "person-mikey-mccoy"
+subject: "person-michael-mccoy"
 predicate: "appeared with"
 object: "person-blake-neff"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Mikey McCoy](/entities/person-mikey-mccoy) appeared with [Blake Neff](/entities/person-blake-neff)
+## [Michael McCoy](/entities/person-michael-mccoy) appeared with [Blake Neff](/entities/person-blake-neff)
 
 ### Evidence (1 mentions)
 
@@ -19,5 +19,5 @@ object: "person-blake-neff"
 
 ### Related
 
-- [Mikey McCoy](/entities/person-mikey-mccoy)
+- [Michael McCoy](/entities/person-michael-mccoy)
 - [Blake Neff](/entities/person-blake-neff)

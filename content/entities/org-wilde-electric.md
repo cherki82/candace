@@ -68,7 +68,7 @@ Source: [Santa Clara Sun business directory](https://digitallibrary.utah.gov/aw-
 <details>
 <summary>Employs (1)</summary>
 
-- **[Tyler James Robinson](/entities/person-tyler-robinson.md)**
+- **[Tyler Robinson](/entities/person-tyler-robinson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:13:52](/episodes/ep-HYn0P-P1wUw.md#t-00-13-13): “Tyler (Tyler Robinson) was working at Wilde Electric, by the way, in Santa Clara, Utah.”
@@ -80,7 +80,7 @@ Source: [Santa Clara Sun business directory](https://digitallibrary.utah.gov/aw-
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[Tyler James Robinson](/entities/person-tyler-robinson.md)** works for this
+- **[Tyler Robinson](/entities/person-tyler-robinson.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:13:52](/episodes/ep-HYn0P-P1wUw.md#t-00-13-13): “Tyler (Tyler Robinson) was working at Wilde Electric, by the way, in Santa Clara, Utah.”

@@ -1,6 +1,6 @@
 ---
 title: "Vienna"
-description: "Vienna (Places) - 5 mentions"
+description: "Vienna (Places) - 9 mentions"
 id: "gpe-vienna"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [City of Vienna official website](https://www.wien.gv.at/en/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-vienna-t-00-04-55">2026-02-02 · 00:05:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-vienna-t-00-33-58">2026-03-02 · 00:33:58</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-vienna-t-00-59-19">2026-03-12 · 00:59:26</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,6 +34,8 @@ Source: [City of Vienna official website](https://www.wien.gv.at/en/)
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-vienna-t-00-04-55" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-vienna-t-00-14-59" style="--pulse-height:33%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-vienna-t-00-33-58" style="--pulse-height:33%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-vienna-t-00-31-13" style="--pulse-height:33%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-vienna-t-00-58-40" style="--pulse-height:100%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +44,8 @@ Source: [City of Vienna official website](https://www.wien.gv.at/en/)
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-vienna-t-00-04-55) | 3 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-vienna-t-00-14-59) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-vienna-t-00-33-58) | 1 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-vienna-t-00-31-13) | 1 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-vienna-t-00-58-40) | 3 |
 
 </details>
 </section>
@@ -49,7 +53,29 @@ Source: [City of Vienna official website](https://www.wien.gv.at/en/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (3 mentions)</summary>
+
+**[00:59:13](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-vienna-t-00-58-40)**
+> "... Look at what was going on in Vienna."
+
+**[00:59:19](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-vienna-t-00-59-19)**
+> "Look up old Vienna, Sigmund Freud and his boys and what they were do..."
+
+**[00:59:26](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-vienna-t-00-59-19)**
+> "..., these perverts that were in Vienna, hiding what they did, by the way, the descendant..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>
+
+**[00:31:13](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-vienna-t-00-31-13)**
+> "...sported them from places like Vienna throughout Germany and brought them here and then..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Nelda Yaw Buckman"
-description: "Nelda Yaw Buckman (People) - 10 mentions"
+description: "Nelda Yaw Buckman (People) - 13 mentions"
 id: "person-nelda-yaw-buckman"
 type: "PERSON"
 aliases:
@@ -25,9 +25,9 @@ Source: [Founder & CEO | Nelda Studios | National Angels](https://www.nationalan
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-person-nelda-yaw-buckman-t-00-20-05">2026-01-16 · 00:20:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-nelda-yaw-buckman-t-00-12-40">2026-01-19 · 00:12:44</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-nelda-yaw-buckman-t-00-57-24">2026-03-12 · 00:57:53</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
@@ -40,6 +40,7 @@ Source: [Founder & CEO | Nelda Studios | National Angels](https://www.nationalan
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-nelda-yaw-buckman-t-00-20-05" style="--pulse-height:100%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 9 mentions" title="2026-01-16 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-nelda-yaw-buckman-t-00-12-40" style="--pulse-height:11%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-nelda-yaw-buckman-t-00-56-43" style="--pulse-height:33%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [Founder & CEO | Nelda Studios | National Angels](https://www.nationalan
 |---|---|---:|
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-nelda-yaw-buckman-t-00-20-05) | 9 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-nelda-yaw-buckman-t-00-12-40) | 1 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-nelda-yaw-buckman-t-00-56-43) | 3 |
 
 </details>
 </section>
@@ -54,7 +56,21 @@ Source: [Founder & CEO | Nelda Studios | National Angels](https://www.nationalan
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (3 mentions)</summary>
+
+**[00:56:43](/episodes/ep-5-HUyv9LyMg.md#ent-person-nelda-yaw-buckman-t-00-56-43)**
+> "...you should probably look into Nelda Buckman's family. I'm only saying that"
+
+**[00:57:09](/episodes/ep-5-HUyv9LyMg.md#ent-person-nelda-yaw-buckman-t-00-56-43)**
+> "...you should probably look into Nelda Buckman's family. I'm only saying that because, you know, t..."
+
+**[00:57:53](/episodes/ep-5-HUyv9LyMg.md#ent-person-nelda-yaw-buckman-t-00-57-24)**
+> "...just very curious as to where Nelda Buckman adopted her children from. I can't find that info..."
+
+</details>
 
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>

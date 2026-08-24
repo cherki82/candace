@@ -22,7 +22,7 @@ _Type: Events_
 <div><span>Episodes</span><strong>39</strong></div>
 <div><span>Mentions</span><strong>232</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>116</strong></div>
+<div><span>Statements about</span><strong>117</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -1090,7 +1090,15 @@ _Type: Events_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk assassination (116)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk assassination (117)</strong></summary>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1)</summary>
+
+- [00:35:28](/episodes/ep-I0OaY6Gryqk.md#t-00-35-28) (Accusation) **Candace Owens**: ["Turning Point USA would not help the public investigate Charlie Kirk's..."](/statements/statement-d395be83c9bf.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (11)</summary>

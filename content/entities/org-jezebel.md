@@ -1,6 +1,6 @@
 ---
 title: "Jezebel"
-description: "Jezebel (Organizations) - 8 mentions"
+description: "Jezebel (Organizations) - 10 mentions"
 id: "org-jezebel"
 type: "ORG"
 categories:
@@ -17,11 +17,11 @@ Source: [Jezebel](https://www.jezebel.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-jezebel-t-00-33-55">2025-09-24 · 00:33:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-org-jezebel-t-00-48-20">2026-02-10 · 00:48:45</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-jezebel-t-00-38-30">2026-03-10 · 00:38:56</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -33,6 +33,7 @@ Source: [Jezebel](https://www.jezebel.com/)
 <a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-jezebel-t-00-33-55" style="--pulse-height:100%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 4 mentions" title="2025-09-24 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-jezebel-t-00-42-04" style="--pulse-height:75%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-jezebel-t-00-48-20" style="--pulse-height:25%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-jezebel-t-00-38-30" style="--pulse-height:50%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -41,6 +42,7 @@ Source: [Jezebel](https://www.jezebel.com/)
 | 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-org-jezebel-t-00-33-55) | 4 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-jezebel-t-00-42-04) | 3 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-jezebel-t-00-48-20) | 1 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-jezebel-t-00-38-30) | 2 |
 
 </details>
 </section>
@@ -48,7 +50,18 @@ Source: [Jezebel](https://www.jezebel.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (2 mentions)</summary>
+
+**[00:38:45](/episodes/ep-ZzAT2xijKGQ.md#ent-org-jezebel-t-00-38-30)**
+> "article appears in the Jezebel, Jezebel.com"
+
+**[00:38:56](/episodes/ep-ZzAT2xijKGQ.md#ent-org-jezebel-t-00-38-30)**
+> "...a.m., that article appears in Jezebel regarding a witch's curse that was placed on Char..."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>
@@ -99,7 +112,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jezebel (1)</strong></summary>
+<summary><strong class="section-title">Statements about Jezebel (2)</strong></summary>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1)</summary>
+
+- [00:38:45](/episodes/ep-ZzAT2xijKGQ.md#t-00-38-30) (Claim) **Candace Owens**: ["A Jezebel article about a witch's curse on Charlie Kirk appeared at 9:..."](/statements/statement-fa45c3c32bbc.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Twitter](/entities/org-twitter.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Chicago, Illinois"
-description: "Chicago, Illinois (Places) - 16 mentions"
+description: "Chicago, Illinois (Places) - 21 mentions"
 id: "gpe-chicago-illinois"
 type: "GPE"
 aliases:
@@ -23,9 +23,9 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-chicago-illinois-t-00-28-51">2026-01-06 · 00:28:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-chicago-illinois-t-00-31-57">2026-03-02 · 00:32:14</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-chicago-illinois-t-00-23-40">2026-03-18 · 00:24:24</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -44,6 +44,9 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-gpe-chicago-illinois-t-00-16-31" style="--pulse-height:100%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 4 mentions" title="2026-01-30 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-chicago-illinois-t-00-17-00" style="--pulse-height:25%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-chicago-illinois-t-00-31-57" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-chicago-illinois-t-00-15-54" style="--pulse-height:50%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-chicago-illinois-t-00-25-53" style="--pulse-height:25%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-chicago-illinois-t-00-23-40" style="--pulse-height:50%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 2 mentions" title="2026-03-18 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +60,9 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-gpe-chicago-illinois-t-00-16-31) | 4 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-chicago-illinois-t-00-17-00) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-chicago-illinois-t-00-31-57) | 2 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-chicago-illinois-t-00-15-54) | 2 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-chicago-illinois-t-00-25-53) | 1 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-chicago-illinois-t-00-23-40) | 2 |
 
 </details>
 </section>
@@ -64,7 +70,37 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (2 mentions)</summary>
+
+**[00:23:40](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-chicago-illinois-t-00-23-40)**
+> "And out of nowhere, Kanye (Kanye West), who did actually help me design the BLEXIT logo in Chicago, he was getting an insane amount of pressure and told that he could not get involved in politics. He's putting on the MAGA hat, things are going crazy. I think Kim (Kim Kardashian) was threatening divorce at some point, if I recall correctly, and Kanye (Kanye West) cracks and he tweets a series of tweets. He writes, "I introduced Candace to the person who made the logo, and they didn't want their name on it, so she used mine.""
+
+**[00:24:24](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-chicago-illinois-t-00-23-40)**
+> "...e West) at the Trump Hotel in Chicago, and I didn't know what was happening. And I, you..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1 mentions)</summary>
+
+**[00:25:53](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-chicago-illinois-t-00-25-53)**
+> "Turning Point headquarters, a location picked by Tyler Bowyer. Charlie Kirk didn't even open the organization. It started in Chicago."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (2 mentions)</summary>
+
+**[00:16:29](/episodes/ep-y8lak3CRwDw.md#ent-gpe-chicago-illinois-t-00-15-54)**
+> "Dennis Frantzve. He is from Chicago."
+
+**[00:24:12](/episodes/ep-y8lak3CRwDw.md#ent-gpe-chicago-illinois-t-00-23-49)**
+> "...tired lieutenant colonel from Chicago, will be there in September."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (2 mentions)</summary>

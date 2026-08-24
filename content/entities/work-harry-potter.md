@@ -1,6 +1,6 @@
 ---
 title: "Harry Potter"
-description: "Harry Potter (Works & Media) - 3 mentions"
+description: "Harry Potter (Works & Media) - 4 mentions"
 id: "work-harry-potter"
 type: "WORK"
 aliases:
@@ -23,9 +23,9 @@ Source: [Writing | J.K. Rowling](https://www.jkrowling.com/writing/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QRS_hR7NXaQ.md#ent-work-harry-potter-t-00-00-53">2026-02-03 · 00:01:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-work-harry-potter-t-00-20-18">2026-03-02 · 00:20:48</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-work-harry-potter-t-00-03-18">2026-03-09 · 00:03:18</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,6 +39,7 @@ Source: [Writing | J.K. Rowling](https://www.jkrowling.com/writing/)
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-work-harry-potter-t-00-00-53" style="--pulse-height:100%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-work-harry-potter-t-00-43-52" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-work-harry-potter-t-00-20-18" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-work-harry-potter-t-00-03-18" style="--pulse-height:100%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [Writing | J.K. Rowling](https://www.jkrowling.com/writing/)
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-work-harry-potter-t-00-00-53) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-work-harry-potter-t-00-43-52) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-work-harry-potter-t-00-20-18) | 1 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-work-harry-potter-t-00-03-18) | 1 |
 
 </details>
 </section>
@@ -54,7 +56,15 @@ Source: [Writing | J.K. Rowling](https://www.jkrowling.com/writing/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
+
+**[00:03:18](/episodes/ep-i8m_6D4QGmk.md#ent-work-harry-potter-t-00-03-18)**
+> "Hocus Pocus or Harry Potter"
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Harvest Christian Fellowship"
-description: "Harvest Christian Fellowship (Organizations) - 8 mentions"
+description: "Harvest Christian Fellowship (Organizations) - 10 mentions"
 id: "org-harvest-christian-fellowship"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-harvest-christian-fellowship-t-00-13-35">2026-01-09 · 00:13:35</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-harvest-christian-fellowship-t-00-34-07">2026-01-13 · 00:34:40</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-harvest-christian-fellowship-t-00-42-44">2026-03-17 · 00:42:44</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>13</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -38,6 +38,7 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-harvest-christian-fellowship-t-00-13-35" style="--pulse-height:14%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-harvest-christian-fellowship-t-00-32-45" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 7 mentions" title="2026-01-13 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-harvest-christian-fellowship-t-00-41-40" style="--pulse-height:29%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 |---|---|---:|
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-harvest-christian-fellowship-t-00-13-35) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-harvest-christian-fellowship-t-00-32-45) | 7 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-harvest-christian-fellowship-t-00-41-40) | 2 |
 
 </details>
 </section>
@@ -52,7 +54,18 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (2 mentions)</summary>
+
+**[00:41:40](/episodes/ep-I0OaY6Gryqk.md#ent-org-harvest-christian-fellowship-t-00-41-40)**
+> "Harvest Church"
+
+**[00:42:44](/episodes/ep-I0OaY6Gryqk.md#ent-org-harvest-christian-fellowship-t-00-42-44)**
+> "...going to partner with Harvard Harvest Church until I see an outcome because this is another la..."
+
+</details>
 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (7 mentions)</summary>
@@ -100,6 +113,18 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:33:52](/episodes/ep-ZZGWo6oDscc.md#t-00-33-28): “Paul Havsgaard, he is a former pastor and a missionary at Harvest Christian Fellowship in Riverside, California.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:41:40](/episodes/ep-I0OaY6Gryqk.md#t-00-41-40): “Okay. I'll keep ignoring somebody who's got like third. 13 adjacent sex trafficking scandals oh no it's fine that Erika (Erika Kirk)'s working uh with harvest church and they're currently being sued for trafficking children from romania that's fine look the other way everybody grieves differently like these people are just disgusting i am like i said earlier my friend was here i said steph did you ever think that we get to this point where like”
 
 </details>
 
@@ -154,12 +179,19 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (7)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:32:53](/episodes/ep-ZZGWo6oDscc.md#t-00-32-45): “which is why she's soon going to be speaking with Greg Laurie's Harvest Church for Turning Point USA's Faith Make Heaven Crowded Tour, okay? I can show you that. I think we have that here on the website so you can see if this is a real thing that's happening. And yeah, they're partnering with the Harvest Church to do this. It says that she is going to be speaking in, is that live streamed in Orange County?”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:41:40](/episodes/ep-I0OaY6Gryqk.md#t-00-41-40): “Okay. I'll keep ignoring somebody who's got like third. 13 adjacent sex trafficking scandals oh no it's fine that Erika (Erika Kirk)'s working uh with harvest church and they're currently being sued for trafficking children from romania that's fine look the other way everybody grieves differently like these people are just disgusting i am like i said earlier my friend was here i said steph did you ever think that we get to this point where like”
 
 </details>
 

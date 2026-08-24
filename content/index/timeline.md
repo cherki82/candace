@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 941_
+_Total events: 1078_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -178,8 +178,6 @@ _Total events: 941_
 #tab-year-1964:checked ~ .tab-controls label[for="tab-year-1964"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1963:checked ~ .tab-content-year-1963 { display: block; }
 #tab-year-1963:checked ~ .tab-controls label[for="tab-year-1963"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
-#tab-year-1955:checked ~ .tab-content-year-1955 { display: block; }
-#tab-year-1955:checked ~ .tab-controls label[for="tab-year-1955"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1954:checked ~ .tab-content-year-1954 { display: block; }
 #tab-year-1954:checked ~ .tab-controls label[for="tab-year-1954"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1950:checked ~ .tab-content-year-1950 { display: block; }
@@ -202,6 +200,8 @@ _Total events: 941_
 #tab-year-1929:checked ~ .tab-controls label[for="tab-year-1929"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1923:checked ~ .tab-content-year-1923 { display: block; }
 #tab-year-1923:checked ~ .tab-controls label[for="tab-year-1923"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
+#tab-year-1919:checked ~ .tab-content-year-1919 { display: block; }
+#tab-year-1919:checked ~ .tab-controls label[for="tab-year-1919"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1918:checked ~ .tab-content-year-1918 { display: block; }
 #tab-year-1918:checked ~ .tab-controls label[for="tab-year-1918"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1913:checked ~ .tab-content-year-1913 { display: block; }
@@ -212,12 +212,8 @@ _Total events: 941_
 #tab-year-1881:checked ~ .tab-controls label[for="tab-year-1881"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1856:checked ~ .tab-content-year-1856 { display: block; }
 #tab-year-1856:checked ~ .tab-controls label[for="tab-year-1856"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
-#tab-year-1854:checked ~ .tab-content-year-1854 { display: block; }
-#tab-year-1854:checked ~ .tab-controls label[for="tab-year-1854"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1848:checked ~ .tab-content-year-1848 { display: block; }
 #tab-year-1848:checked ~ .tab-controls label[for="tab-year-1848"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
-#tab-year-1769:checked ~ .tab-content-year-1769 { display: block; }
-#tab-year-1769:checked ~ .tab-controls label[for="tab-year-1769"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 </style>
 
 <input type="radio" id="tab-year-2026" name="timeline-tab" checked class="tab-radio">
@@ -277,7 +273,6 @@ _Total events: 941_
 <input type="radio" id="tab-year-1965" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1964" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1963" name="timeline-tab" class="tab-radio">
-<input type="radio" id="tab-year-1955" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1954" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1950" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1948" name="timeline-tab" class="tab-radio">
@@ -289,74 +284,72 @@ _Total events: 941_
 <input type="radio" id="tab-year-1935" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1929" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1923" name="timeline-tab" class="tab-radio">
+<input type="radio" id="tab-year-1919" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1918" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1913" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1908" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1881" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1856" name="timeline-tab" class="tab-radio">
-<input type="radio" id="tab-year-1854" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1848" name="timeline-tab" class="tab-radio">
-<input type="radio" id="tab-year-1769" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-year-2026" class="tab-btn">2026 (38)</label>
-  <label for="tab-year-2025" class="tab-btn">2025 (509)</label>
-  <label for="tab-year-2024" class="tab-btn">2024 (59)</label>
-  <label for="tab-year-2023" class="tab-btn">2023 (20)</label>
-  <label for="tab-year-2022" class="tab-btn">2022 (13)</label>
-  <label for="tab-year-2021" class="tab-btn">2021 (12)</label>
+  <label for="tab-year-2026" class="tab-btn">2026 (66)</label>
+  <label for="tab-year-2025" class="tab-btn">2025 (540)</label>
+  <label for="tab-year-2024" class="tab-btn">2024 (61)</label>
+  <label for="tab-year-2023" class="tab-btn">2023 (21)</label>
+  <label for="tab-year-2022" class="tab-btn">2022 (15)</label>
+  <label for="tab-year-2021" class="tab-btn">2021 (15)</label>
   <label for="tab-year-2020" class="tab-btn">2020 (7)</label>
-  <label for="tab-year-2019" class="tab-btn">2019 (18)</label>
-  <label for="tab-year-2018" class="tab-btn">2018 (29)</label>
-  <label for="tab-year-2017" class="tab-btn">2017 (8)</label>
-  <label for="tab-year-2016" class="tab-btn">2016 (6)</label>
-  <label for="tab-year-2015" class="tab-btn">2015 (5)</label>
-  <label for="tab-year-2014" class="tab-btn">2014 (13)</label>
-  <label for="tab-year-2013" class="tab-btn">2013 (9)</label>
-  <label for="tab-year-2012" class="tab-btn">2012 (12)</label>
-  <label for="tab-year-2011" class="tab-btn">2011 (3)</label>
-  <label for="tab-year-2010" class="tab-btn">2010 (8)</label>
-  <label for="tab-year-2009" class="tab-btn">2009 (11)</label>
-  <label for="tab-year-2008" class="tab-btn">2008 (6)</label>
-  <label for="tab-year-2007" class="tab-btn">2007 (9)</label>
+  <label for="tab-year-2019" class="tab-btn">2019 (20)</label>
+  <label for="tab-year-2018" class="tab-btn">2018 (38)</label>
+  <label for="tab-year-2017" class="tab-btn">2017 (15)</label>
+  <label for="tab-year-2016" class="tab-btn">2016 (11)</label>
+  <label for="tab-year-2015" class="tab-btn">2015 (8)</label>
+  <label for="tab-year-2014" class="tab-btn">2014 (19)</label>
+  <label for="tab-year-2013" class="tab-btn">2013 (13)</label>
+  <label for="tab-year-2012" class="tab-btn">2012 (19)</label>
+  <label for="tab-year-2011" class="tab-btn">2011 (11)</label>
+  <label for="tab-year-2010" class="tab-btn">2010 (13)</label>
+  <label for="tab-year-2009" class="tab-btn">2009 (12)</label>
+  <label for="tab-year-2008" class="tab-btn">2008 (8)</label>
+  <label for="tab-year-2007" class="tab-btn">2007 (10)</label>
   <label for="tab-year-2006" class="tab-btn">2006 (9)</label>
   <label for="tab-year-2005" class="tab-btn">2005 (7)</label>
   <label for="tab-year-2004" class="tab-btn">2004 (1)</label>
-  <label for="tab-year-2003" class="tab-btn">2003 (8)</label>
-  <label for="tab-year-2002" class="tab-btn">2002 (4)</label>
-  <label for="tab-year-2001" class="tab-btn">2001 (6)</label>
+  <label for="tab-year-2003" class="tab-btn">2003 (9)</label>
+  <label for="tab-year-2002" class="tab-btn">2002 (5)</label>
+  <label for="tab-year-2001" class="tab-btn">2001 (7)</label>
   <label for="tab-year-2000" class="tab-btn">2000 (2)</label>
   <label for="tab-year-1999" class="tab-btn">1999 (12)</label>
   <label for="tab-year-1998" class="tab-btn">1998 (5)</label>
-  <label for="tab-year-1997" class="tab-btn">1997 (4)</label>
+  <label for="tab-year-1997" class="tab-btn">1997 (5)</label>
   <label for="tab-year-1996" class="tab-btn">1996 (3)</label>
   <label for="tab-year-1995" class="tab-btn">1995 (6)</label>
   <label for="tab-year-1994" class="tab-btn">1994 (4)</label>
   <label for="tab-year-1993" class="tab-btn">1993 (2)</label>
-  <label for="tab-year-1990" class="tab-btn">1990 (8)</label>
-  <label for="tab-year-1989" class="tab-btn">1989 (1)</label>
+  <label for="tab-year-1990" class="tab-btn">1990 (9)</label>
+  <label for="tab-year-1989" class="tab-btn">1989 (3)</label>
   <label for="tab-year-1988" class="tab-btn">1988 (3)</label>
   <label for="tab-year-1987" class="tab-btn">1987 (1)</label>
   <label for="tab-year-1986" class="tab-btn">1986 (2)</label>
   <label for="tab-year-1985" class="tab-btn">1985 (2)</label>
   <label for="tab-year-1983" class="tab-btn">1983 (2)</label>
-  <label for="tab-year-1982" class="tab-btn">1982 (1)</label>
+  <label for="tab-year-1982" class="tab-btn">1982 (2)</label>
   <label for="tab-year-1981" class="tab-btn">1981 (2)</label>
   <label for="tab-year-1980" class="tab-btn">1980 (1)</label>
   <label for="tab-year-1979" class="tab-btn">1979 (3)</label>
   <label for="tab-year-1978" class="tab-btn">1978 (1)</label>
-  <label for="tab-year-1976" class="tab-btn">1976 (1)</label>
+  <label for="tab-year-1976" class="tab-btn">1976 (2)</label>
   <label for="tab-year-1975" class="tab-btn">1975 (2)</label>
-  <label for="tab-year-1974" class="tab-btn">1974 (3)</label>
-  <label for="tab-year-1971" class="tab-btn">1971 (2)</label>
-  <label for="tab-year-1970" class="tab-btn">1970 (3)</label>
+  <label for="tab-year-1974" class="tab-btn">1974 (4)</label>
+  <label for="tab-year-1971" class="tab-btn">1971 (3)</label>
+  <label for="tab-year-1970" class="tab-btn">1970 (4)</label>
   <label for="tab-year-1969" class="tab-btn">1969 (2)</label>
   <label for="tab-year-1968" class="tab-btn">1968 (2)</label>
   <label for="tab-year-1967" class="tab-btn">1967 (2)</label>
   <label for="tab-year-1965" class="tab-btn">1965 (2)</label>
   <label for="tab-year-1964" class="tab-btn">1964 (1)</label>
   <label for="tab-year-1963" class="tab-btn">1963 (4)</label>
-  <label for="tab-year-1955" class="tab-btn">1955 (1)</label>
   <label for="tab-year-1954" class="tab-btn">1954 (2)</label>
   <label for="tab-year-1950" class="tab-btn">1950 (1)</label>
   <label for="tab-year-1948" class="tab-btn">1948 (2)</label>
@@ -368,14 +361,13 @@ _Total events: 941_
   <label for="tab-year-1935" class="tab-btn">1935 (1)</label>
   <label for="tab-year-1929" class="tab-btn">1929 (1)</label>
   <label for="tab-year-1923" class="tab-btn">1923 (1)</label>
+  <label for="tab-year-1919" class="tab-btn">1919 (1)</label>
   <label for="tab-year-1918" class="tab-btn">1918 (1)</label>
   <label for="tab-year-1913" class="tab-btn">1913 (1)</label>
   <label for="tab-year-1908" class="tab-btn">1908 (1)</label>
   <label for="tab-year-1881" class="tab-btn">1881 (1)</label>
   <label for="tab-year-1856" class="tab-btn">1856 (1)</label>
-  <label for="tab-year-1854" class="tab-btn">1854 (1)</label>
   <label for="tab-year-1848" class="tab-btn">1848 (1)</label>
-  <label for="tab-year-1769" class="tab-btn">1769 (1)</label>
 </div>
 
 <div class="tab-content tab-content-year-2026">
@@ -465,6 +457,307 @@ _Total events: 941_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-03-university-of-arkansas-turning-point-usa">
+<div class="timeline-date">2026-03</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-university-of-arkansas-turning-point-usa.md">University of Arkansas Turning Point USA chapter disaffiliates and rebrands as Young American Revival</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03: University of Arkansas Turning Point USA chapter disaffiliates and rebrands as Young American Revival - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk... @ 00:31:01](/episodes/ep-I0OaY6Gryqk.md#t-00-31-01)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-19-candace-owens-spoke-at-the-catholics-for">
+<div class="timeline-date">2026-03-19</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-19-candace-owens-spoke-at-the-catholics-for.md">Candace Owens spoke at the Catholics for Catholics Catholic Prayer for America Gala.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-19: Candace Owens spoke at the Catholics for Catholics Catholic Prayer for America Gala. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:50:05](/episodes/ep-B9TyCs-6o_0.md#t-00-49-40)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-17-joe-kent-resigns-as-director-of-the-nati">
+<div class="timeline-date">2026-03-17</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-17-joe-kent-resigns-as-director-of-the-nati.md">Joe Kent resigns as director of the National Counterterrorism Center</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-17: Joe Kent resigns as director of the National Counterterrorism Center - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk... @ 00:03:10](/episodes/ep-I0OaY6Gryqk.md#t-00-02-45)
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:00:00](/episodes/ep-B9TyCs-6o_0.md#t-00-00-00)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-17-benjamin-netanyahu-misses-a-critical-mil">
+<div class="timeline-date">2026-03-17</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-17-benjamin-netanyahu-misses-a-critical-mil.md">Benjamin Netanyahu misses a critical military council meeting</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-17: Benjamin Netanyahu misses a critical military council meeting - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk... @ 00:51:47](/episodes/ep-I0OaY6Gryqk.md#t-00-51-47)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-17-benjamin-netanyahu-and-mike-huckabee-pos">
+<div class="timeline-date">2026-03-17</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-17-benjamin-netanyahu-and-mike-huckabee-pos.md">Benjamin Netanyahu and Mike Huckabee post a video addressing rumors that Netanyahu is dead</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-17: Benjamin Netanyahu and Mike Huckabee post a video addressing rumors that Netanyahu is dead - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk... @ 00:52:17](/episodes/ep-I0OaY6Gryqk.md#t-00-51-47)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-17-andrew-kolvet-appeared-on-dave-rubins-sh">
+<div class="timeline-date">2026-03-17</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-17-andrew-kolvet-appeared-on-dave-rubins-sh.md">Andrew Kolvet appeared on Dave Rubin's show and said Erika Kirk had never sought the limelight.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-17: Andrew Kolvet appeared on Dave Rubin\'s show and said Erika Kirk had never sought the limelight. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:00:00](/episodes/ep-_vg7ucP1E0g.md#t-00-00-00)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-17-matt-walsh-posted-that-kouri-richins-sho">
+<div class="timeline-date">2026-03-17</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-17-matt-walsh-posted-that-kouri-richins-sho.md">Matt Walsh posted that Kouri Richins should be hanged after her conviction.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-17: Matt Walsh posted that Kouri Richins should be hanged after her conviction. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:33:24](/episodes/ep-_vg7ucP1E0g.md#t-00-33-13)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-17-michael-flynn-published-a-substack-about">
+<div class="timeline-date">2026-03-17</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-17-michael-flynn-published-a-substack-about.md">Michael Flynn published a Substack about attacks on Catholics.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-17: Michael Flynn published a Substack about attacks on Catholics. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:47:41](/episodes/ep-_vg7ucP1E0g.md#t-00-47-41)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-15-benjamin-netanyahu-posts-a-produced-coff">
+<div class="timeline-date">2026-03-15</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-15-benjamin-netanyahu-posts-a-produced-coff.md">Benjamin Netanyahu posts a produced coffee-shop video</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-15: Benjamin Netanyahu posts a produced coffee-shop video - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk... @ 00:50:30](/episodes/ep-I0OaY6Gryqk.md#t-00-50-30)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-14-israeli-prime-ministers-official-account">
+<div class="timeline-date">2026-03-14</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-14-israeli-prime-ministers-official-account.md">Israeli prime minister's official account posts a video of Benjamin Netanyahu</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-14: Israeli prime minister\'s official account posts a video of Benjamin Netanyahu - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk... @ 00:49:31](/episodes/ep-I0OaY6Gryqk.md#t-00-49-03)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-13-four-washington-area-airports-temporaril">
+<div class="timeline-date">2026-03-13</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-13-four-washington-area-airports-temporaril.md">Four Washington-area airports temporarily shut down</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-13: Four Washington-area airports temporarily shut down - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk... @ 00:48:32](/episodes/ep-I0OaY6Gryqk.md#t-00-48-20)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-12-scott-bessent-is-pulled-from-an-intervie">
+<div class="timeline-date">2026-03-12</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-12-scott-bessent-is-pulled-from-an-intervie.md">Scott Bessent is pulled from an interview and called to the White House Situation Room</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-12: Scott Bessent is pulled from an interview and called to the White House Situation Room - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk... @ 00:47:04](/episodes/ep-I0OaY6Gryqk.md#t-00-46-45)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-11-arizona-governor-katie-hobbs-vetoed-sb-1">
+<div class="timeline-date">2026-03-11</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-11-arizona-governor-katie-hobbs-vetoed-sb-1.md">Arizona Governor Katie Hobbs vetoed SB 1439, the Charlie Kirk memorial license plate bill.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-11: Arizona Governor Katie Hobbs vetoed SB 1439, the Charlie Kirk memorial license plate bill. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein... @ 00:33:32](/episodes/ep-H9p2ZGHAs9A.md#t-00-33-15)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-11-arkansas-governor-sarah-huckabee-sanders">
+<div class="timeline-date">2026-03-11</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-11-arkansas-governor-sarah-huckabee-sanders.md">Arkansas Governor Sarah Huckabee Sanders signed a proclamation supporting Club America chapters in Arkansas high schools.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-11: Arkansas Governor Sarah Huckabee Sanders signed a proclamation supporting Club America chapters in Arkansas high schools. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's H... @ 00:13:47](/episodes/ep-5-HUyv9LyMg.md#t-00-13-47)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-10-president-donald-trump-appointed-erika-k">
+<div class="timeline-date">2026-03-10</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-10-president-donald-trump-appointed-erika-k.md">President Donald Trump appointed Erika Kirk to the U.S. Air Force Academy Board of Visitors.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-10: President Donald Trump appointed Erika Kirk to the U.S. Air Force Academy Board of Visitors. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:00:16](/episodes/ep-ZzAT2xijKGQ.md#t-00-00-01)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-10-blake-neff-relayed-erika-kirks-statement">
+<div class="timeline-date">2026-03-10</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-10-blake-neff-relayed-erika-kirks-statement.md">Blake Neff relayed Erika Kirk's statement that Charlie Kirk would choose not to return from death.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-10: Blake Neff relayed Erika Kirk\'s statement that Charlie Kirk would choose not to return from death. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:33:43](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-39)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-10-blake-neffs-remarks-remained-on-rumble-b">
+<div class="timeline-date">2026-03-10</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-10-blake-neffs-remarks-remained-on-rumble-b.md">Blake Neff's remarks remained on Rumble but were removed from the Charlie Kirk Show X stream.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-10: Blake Neff\'s remarks remained on Rumble but were removed from the Charlie Kirk Show X stream. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:56:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-56-17)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-10-benjamin-netanyahu-visits-israels-nation">
+<div class="timeline-date">2026-03-10</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-10-benjamin-netanyahu-visits-israels-nation.md">Benjamin Netanyahu visits Israel's National Health Command Center</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-10: Benjamin Netanyahu visits Israel\'s National Health Command Center - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk... @ 00:46:15](/episodes/ep-I0OaY6Gryqk.md#t-00-46-02)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-09-a-jury-convicted-the-alexander-brothers-">
+<div class="timeline-date">2026-03-09</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-09-a-jury-convicted-the-alexander-brothers-.md">A jury convicted the Alexander brothers of sex trafficking.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-09: A jury convicted the Alexander brothers of sex trafficking. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's H... @ 00:08:25](/episodes/ep-5-HUyv9LyMg.md#t-00-08-25)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-08-candace-owens-messaged-turning-point-usa">
+<div class="timeline-date">2026-03-08</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-08-candace-owens-messaged-turning-point-usa.md">Candace Owens messaged Turning Point USA's PR and legal team about Erika Kirk's modeling-company involvement.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-08: Candace Owens messaged Turning Point USA\'s PR and legal team about Erika Kirk\'s modeling-company involvement. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:00:55](/episodes/ep-ZzAT2xijKGQ.md#t-00-00-47)
+
+</details>
+</div>
+
 **February**
 
 <div class="timeline-event filter-item" id="event-2026-02-aubrey-leitch-posted-a-public-video-desc">
@@ -512,6 +805,36 @@ _Total events: 941_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-02-24-candace-owens-emailed-erika-kirk-asking-">
+<div class="timeline-date">2026-02-24</div>
+<div class="timeline-desc"><a href="/events/event-2026-02-24-candace-owens-emailed-erika-kirk-asking-.md">Candace Owens emailed Erika Kirk asking about her past visits to Romania.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-02-24: Candace Owens emailed Erika Kirk asking about her past visits to Romania. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:00:18](/episodes/ep-y8lak3CRwDw.md#t-00-00-00)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-02-18-donald-trump-signed-an-executive-order-i">
+<div class="timeline-date">2026-02-18</div>
+<div class="timeline-desc"><a href="/events/event-2026-02-18-donald-trump-signed-an-executive-order-i.md">Donald Trump signed an executive order invoking the Defense Production Act for elemental phosphorus and glyphosate-based herbicide production</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-02-18: Donald Trump signed an executive order invoking the Defense Production Act for elemental phosphorus and glyphosate-based herbicide production - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Donald Trump Has Betrayed America. | Candace Ep... @ 00:39:38](/episodes/ep-i8m_6D4QGmk.md#t-00-39-11)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2026-02-11-dan-patrick-announced-carrie-prejean-bol">
 <div class="timeline-date">2026-02-11</div>
 <div class="timeline-desc"><a href="/events/event-2026-02-11-dan-patrick-announced-carrie-prejean-bol.md">Dan Patrick announced Carrie Prejean Boller had been removed from the Religious Liberty Commission.</a></div>
@@ -523,6 +846,21 @@ _Total events: 941_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [VIRAL: Who Removed Charlie's Wedding Photo, And... @ 00:35:41](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-02-11-turning-point-usa-held-a-corporate-call-">
+<div class="timeline-date">2026-02-11</div>
+<div class="timeline-desc"><a href="/events/event-2026-02-11-turning-point-usa-held-a-corporate-call-.md">Turning Point USA held a corporate call later cited by Candace Owens.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-02-11: Turning Point USA held a corporate call later cited by Candace Owens. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:15:53](/episodes/ep-DdPjoy5W-wY.md#t-00-15-53)
 
 </details>
 </div>
@@ -757,6 +1095,21 @@ _Total events: 941_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-01-30-epstein-files-were-released">
+<div class="timeline-date">2026-01-30</div>
+<div class="timeline-desc"><a href="/events/event-2026-01-30-epstein-files-were-released.md">Epstein files were released.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-01-30: Epstein files were released. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:15:48](/episodes/ep-ZzAT2xijKGQ.md#t-00-15-18)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2026-01-29-federal-agents-arrested-journalist-don-l">
 <div class="timeline-date">2026-01-29</div>
 <div class="timeline-desc"><a href="/events/event-2026-01-29-federal-agents-arrested-journalist-don-l.md">Federal agents arrested journalist Don Lemon in connection with a Minnesota church protest.</a></div>
@@ -774,15 +1127,62 @@ _Total events: 941_
 
 <div class="timeline-event filter-item" id="event-2026-01-29-candace-owens-said-andrew-kolvet-michael">
 <div class="timeline-date">2026-01-29</div>
-<div class="timeline-desc"><a href="/events/event-2026-01-29-candace-owens-said-andrew-kolvet-michael.md">Candace Owens said Andrew Kolvet, Michael McCoy, and McCoy's wife met with senior White House officials.</a></div>
+<div class="timeline-desc"><a href="/events/event-2026-01-29-candace-owens-said-andrew-kolvet-michael.md">Candace Owens said Andrew Kolvet met with senior White House officials and alleged that Michael McCoy and McCoy's wife accompanied him.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('2026-01-29: Candace Owens said Andrew Kolvet, Michael McCoy, and McCoy\'s wife met with senior White House officials. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-01-29: Candace Owens said Andrew Kolvet met with senior White House officials and alleged that Michael McCoy and McCoy\'s wife accompanied him. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:30:17](/episodes/ep-CEF7gQRWYCE.md#t-00-29-56)
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:13:26](/episodes/ep-ZzAT2xijKGQ.md#t-00-12-49)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-01-29-candace-owens-published-an-x-post-saying">
+<div class="timeline-date">2026-01-29</div>
+<div class="timeline-desc"><a href="/events/event-2026-01-29-candace-owens-published-an-x-post-saying.md">Candace Owens published an X post saying Andrew Kolvet was in the West Wing while a prerecorded Charlie Kirk Show episode appeared live.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-01-29: Candace Owens published an X post saying Andrew Kolvet was in the West Wing while a prerecorded Charlie Kirk Show episode appeared live. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:12:04](/episodes/ep-ZzAT2xijKGQ.md#t-00-11-33)
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:14:36](/episodes/ep-ZzAT2xijKGQ.md#t-00-14-07)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-01-29-candace-owens-said-andrew-kolvet-visited">
+<div class="timeline-date">2026-01-29</div>
+<div class="timeline-desc"><a href="/events/event-2026-01-29-candace-owens-said-andrew-kolvet-visited.md">Candace Owens said Andrew Kolvet visited the White House the day before the January 30, 2026 Epstein-files release.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-01-29: Candace Owens said Andrew Kolvet visited the White House the day before the January 30, 2026 Epstein-files release. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:33:38](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-01-28-arizona-senator-jake-hoffman-introduced-">
+<div class="timeline-date">2026-01-28</div>
+<div class="timeline-desc"><a href="/events/event-2026-01-28-arizona-senator-jake-hoffman-introduced-.md">Arizona Senator Jake Hoffman introduced a bill for a Charlie Kirk memorial license plate.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-01-28: Arizona Senator Jake Hoffman introduced a bill for a Charlie Kirk memorial license plate. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein... @ 00:30:38](/episodes/ep-H9p2ZGHAs9A.md#t-00-30-38)
 
 </details>
 </div>
@@ -873,6 +1273,21 @@ _Total events: 941_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:38:12](/episodes/ep-ZZGWo6oDscc.md#t-00-37-38)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-01-12-justin-streiff-told-candace-owens-that-e">
+<div class="timeline-date">2026-01-12</div>
+<div class="timeline-desc"><a href="/events/event-2026-01-12-justin-streiff-told-candace-owens-that-e.md">Justin Streiff told Candace Owens that Erika Kirk did not live in China.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-01-12: Justin Streiff told Candace Owens that Erika Kirk did not live in China. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:37:58](/episodes/ep-DdPjoy5W-wY.md#t-00-37-58)
 
 </details>
 </div>
@@ -1312,13 +1727,14 @@ _Total events: 941_
 <div class="timeline-date">2025-12-15</div>
 <div class="timeline-desc"><a href="/events/event-2025-12-15-candace-owens-and-erika-kirk-meeting.md">Candace Owens and Erika Kirk meeting</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-15: Candace Owens and Erika Kirk meeting - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Erika And I Sat Down. Here’s What Happened. | C... @ 00:02:10](/episodes/ep-es7PWdFGoFI.md#t-00-02-04)
+- [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:55:46](/episodes/ep-SgVcnx4Oh30.md#t-00-55-46)
 
 </details>
 </div>
@@ -10291,6 +10707,21 @@ _Total events: 941_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-10-07-frank-turek-endorsed-a-possible-vance-ki">
+<div class="timeline-date">2025-10-07</div>
+<div class="timeline-desc"><a href="/events/event-2025-10-07-frank-turek-endorsed-a-possible-vance-ki.md">Frank Turek endorsed a possible Vance-Kirk presidential ticket and said Erika Kirk could be president someday</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-10-07: Frank Turek endorsed a possible Vance-Kirk presidential ticket and said Erika Kirk could be president someday - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Donald Trump Has Betrayed America. | Candace Ep... @ 00:21:03](/episodes/ep-i8m_6D4QGmk.md#t-00-21-03)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-10-06-candace-owens-releases-screenshots-of-charlie-kirk">
 <div class="timeline-date">2025-10-06</div>
 <div class="timeline-desc"><a href="/events/event-2025-10-06-candace-owens-releases-screenshots-of-charlie-kirk.md">Candace Owens releases screenshots of Charlie Kirk's text messages criticizing Israel</a></div>
@@ -10682,6 +11113,21 @@ _Total events: 941_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:22:51](/episodes/ep-jTj9Ip46r4w.md#t-00-22-18)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-andrew-kolvet-said-he-provided-private-g">
+<div class="timeline-date">2025-09</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-andrew-kolvet-said-he-provided-private-g.md">Andrew Kolvet said he provided private group chat screenshots to Joe Kent in the immediate aftermath of Charlie Kirk's murder.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09: Andrew Kolvet said he provided private group chat screenshots to Joe Kent in the immediate aftermath of Charlie Kirk\'s murder. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:09:49](/episodes/ep-B9TyCs-6o_0.md#t-00-09-43)
 
 </details>
 </div>
@@ -11741,6 +12187,21 @@ _Total events: 941_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace E... @ 00:38:40](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-22-tyler-bowyer-said-charlie-kirk-believed-">
+<div class="timeline-date">2025-09-22</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-22-tyler-bowyer-said-charlie-kirk-believed-.md">Tyler Bowyer said Charlie Kirk believed Erika Kirk would be president someday</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-22: Tyler Bowyer said Charlie Kirk believed Erika Kirk would be president someday - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Donald Trump Has Betrayed America. | Candace Ep... @ 00:19:44](/episodes/ep-i8m_6D4QGmk.md#t-00-19-44)
 
 </details>
 </div>
@@ -18128,6 +18589,116 @@ _Total events: 941_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-10-flight-n8724a-was-shown-flying-from-sant">
+<div class="timeline-date">2025-09-10 <span class='time'>16:36</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-flight-n8724a-was-shown-flying-from-sant.md">Flight N8724A was shown flying from Santa Barbara to Provo and landing at about 4:36 p.m. Mountain time.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 16:36: Flight N8724A was shown flying from Santa Barbara to Provo and landing at about 4:36 p.m. Mountain time. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:40:54](/episodes/ep-SgVcnx4Oh30.md#t-00-40-26)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-andrew-kolvet-told-the-communications-gr">
+<div class="timeline-date">2025-09-10 <span class='time'>16:25</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-andrew-kolvet-told-the-communications-gr.md">Andrew Kolvet told the communications group that his internet had just returned.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 16:25: Andrew Kolvet told the communications group that his internet had just returned. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:34:30](/episodes/ep-B9TyCs-6o_0.md#t-00-34-11)
+- [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:21:02](/episodes/ep-SgVcnx4Oh30.md#t-00-20-28)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-aubrey-asked-whether-to-confirm-or-deny-">
+<div class="timeline-date">2025-09-10 <span class='time'>15:49</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-aubrey-asked-whether-to-confirm-or-deny-.md">Aubrey asked whether to confirm or deny the leaked Turning Point USA employee email.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 15:49: Aubrey asked whether to confirm or deny the leaked Turning Point USA employee email. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:27:36](/episodes/ep-B9TyCs-6o_0.md#t-00-27-10)
+- [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:19:55](/episodes/ep-SgVcnx4Oh30.md#t-00-19-47)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-andrew-kolvet-replied-to-the-communicati">
+<div class="timeline-date">2025-09-10 <span class='time'>15:26</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-andrew-kolvet-replied-to-the-communicati.md">Andrew Kolvet replied to the communications group that he was on a plane and a message had just loaded.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 15:26: Andrew Kolvet replied to the communications group that he was on a plane and a message had just loaded. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:23:05](/episodes/ep-B9TyCs-6o_0.md#t-00-23-05)
+- [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:21:44](/episodes/ep-SgVcnx4Oh30.md#t-00-21-14)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-a-plane-candace-owens-identified-as-char">
+<div class="timeline-date">2025-09-10 <span class='time'>14:31</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-a-plane-candace-owens-identified-as-char.md">A plane Candace Owens identified as Charlie Kirk's plane flew from Scottsdale to Provo between 2:31 and 3:31 p.m. Utah time.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 14:31: A plane Candace Owens identified as Charlie Kirk\'s plane flew from Scottsdale to Provo between 2:31 and 3:31 p.m. Utah time. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:23:40](/episodes/ep-B9TyCs-6o_0.md#t-00-23-05)
+- [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:23:36](/episodes/ep-SgVcnx4Oh30.md#t-00-23-36)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-flight-n40jd-was-shown-flying-from-scott">
+<div class="timeline-date">2025-09-10 <span class='time'>14:29</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-flight-n40jd-was-shown-flying-from-scott.md">Flight N40JD was shown flying from Scottsdale to Provo and landing at about 2:29 p.m. Mountain time.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 14:29: Flight N40JD was shown flying from Scottsdale to Provo and landing at about 2:29 p.m. Mountain time. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:39:16](/episodes/ep-SgVcnx4Oh30.md#t-00-39-08)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-turning-point-usa-emailed-employees-conf">
+<div class="timeline-date">2025-09-10 <span class='time'>14:27</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-turning-point-usa-emailed-employees-conf.md">Turning Point USA emailed employees confirming Charlie Kirk's death and closing the office for the day.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 14:27: Turning Point USA emailed employees confirming Charlie Kirk\'s death and closing the office for the day. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:26:45](/episodes/ep-B9TyCs-6o_0.md#t-00-26-26)
+- [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:20:07](/episodes/ep-SgVcnx4Oh30.md#t-00-19-47)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-10-candace-owens-said-a-plane-carrying-erik">
 <div class="timeline-date">2025-09-10 <span class='time'>14:19</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-said-a-plane-carrying-erik.md">Candace Owens said a plane carrying Erika Kirk, Tyler Bowyer, Elizabeth McCoy, and a priest departed for Provo after Charlie Kirk's assassination.</a></div>
@@ -18139,6 +18710,51 @@ _Total events: 941_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 01:08:51](/episodes/ep-9naMwS0kMBE.md#t-01-08-36)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-marina-minas-called-aubrey-and-asked-her">
+<div class="timeline-date">2025-09-10 <span class='time'>14:05</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-marina-minas-called-aubrey-and-asked-her.md">Marina Minas called Aubrey and asked her to draft the employee announcement of Charlie Kirk's death.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 14:05: Marina Minas called Aubrey and asked her to draft the employee announcement of Charlie Kirk\'s death. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:24:10](/episodes/ep-B9TyCs-6o_0.md#t-00-23-50)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-at-130-pm-utah-time-the-turning-point-us">
+<div class="timeline-date">2025-09-10 <span class='time'>13:30</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-at-130-pm-utah-time-the-turning-point-us.md">At 1:30 p.m. Utah time, the Turning Point USA communications group asked whether Morgan could appear on Fox News.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 13:30: At 1:30 p.m. Utah time, the Turning Point USA communications group asked whether Morgan could appear on Fox News. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:22:23](/episodes/ep-B9TyCs-6o_0.md#t-00-22-23)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-the-turning-point-usa-communications-gro">
+<div class="timeline-date">2025-09-10 <span class='time'>13:29</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-the-turning-point-usa-communications-gro.md">The Turning Point USA communications group was told that CNN wanted someone to appear about Charlie Kirk's shooting.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 13:29: The Turning Point USA communications group was told that CNN wanted someone to appear about Charlie Kirk\'s shooting. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:22:14](/episodes/ep-B9TyCs-6o_0.md#t-00-21-43)
 
 </details>
 </div>
@@ -18158,11 +18774,26 @@ _Total events: 941_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-10-andrew-kolvet-messaged-the-turning-point">
+<div class="timeline-date">2025-09-10 <span class='time'>13:02</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-andrew-kolvet-messaged-the-turning-point.md">Andrew Kolvet messaged the Turning Point USA communications group that Charlie Kirk's shooting could be publicly confirmed.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 13:02: Andrew Kolvet messaged the Turning Point USA communications group that Charlie Kirk\'s shooting could be publicly confirmed. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:21:43](/episodes/ep-B9TyCs-6o_0.md#t-00-21-43)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-10-blake-neff-calls-mother-45-seconds-after-charlie-k">
 <div class="timeline-date">2025-09-10 <span class='time'>12:24</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-blake-neff-calls-mother-45-seconds-after-charlie-k.md">Blake Neff calls mother 45 seconds after Charlie Kirk shooting at UVU event.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">263× in 40 eps</span>
+<span class="timeline-badge mentions">264× in 41 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 12:24: Blake Neff calls mother 45 seconds after Charlie Kirk shooting at UVU event. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -18431,6 +19062,7 @@ _Total events: 941_
 - [To My Friend, Charlie Kirk. @ 00:14:33](/episodes/ep-_dRaEO47-co.md#t-00-14-11)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:10:37](/episodes/ep-K5GjF53bfN4.md#t-00-09-59)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:31:10](/episodes/ep-ZAuuSq_j2_w.md#t-00-30-34)
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:33:09](/episodes/ep-B9TyCs-6o_0.md#t-00-32-43)
 
 </details>
 </div>
@@ -18746,17 +19378,33 @@ _Total events: 941_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-10-candace-owens-said-a-yrefy-linked-plane-">
+<div class="timeline-date">2025-09-10 <span class='time'>10:24</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-said-a-yrefy-linked-plane-.md">Candace Owens said a Yrefy-linked plane flew from Provo to Santa Barbara and then Scottsdale.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 10:24: Candace Owens said a Yrefy-linked plane flew from Provo to Santa Barbara and then Scottsdale. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:35:49](/episodes/ep-B9TyCs-6o_0.md#t-00-35-29)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-10-flight-n560tw-lands-in-provo-from-scottsdale-arizo">
 <div class="timeline-date">2025-09-10 <span class='time'>10:06</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-flight-n560tw-lands-in-provo-from-scottsdale-arizo.md">Flight N560TW lands in Provo from Scottsdale, Arizona</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 10:06: Flight N560TW lands in Provo from Scottsdale, Arizona - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Operation Mocking-Plane: The Charlie Kirk Plot ... @ 00:26:33](/episodes/ep-JQjCAsfoXEE.md#t-00-26-14)
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:35:49](/episodes/ep-B9TyCs-6o_0.md#t-00-35-29)
 
 </details>
 </div>
@@ -19343,6 +19991,21 @@ _Total events: 941_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Operation Mocking-Plane: The Charlie Kirk Plot ... @ 00:21:07](/episodes/ep-JQjCAsfoXEE.md#t-00-21-01)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-andrew-kolvet-guest-hosted-the-first-hou">
+<div class="timeline-date">2025-09-10 <span class='time'>09:00</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-andrew-kolvet-guest-hosted-the-first-hou.md">Andrew Kolvet guest-hosted the first hour of The Charlie Kirk Show.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 09:00: Andrew Kolvet guest-hosted the first hour of The Charlie Kirk Show. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:30:50](/episodes/ep-SgVcnx4Oh30.md#t-00-30-50)
 
 </details>
 </div>
@@ -21094,7 +21757,7 @@ _Total events: 941_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va.md">Charlie Kirk was assassinated at Utah Valley University.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">28× in 22 eps</span>
+<span class="timeline-badge mentions">34× in 27 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk was assassinated at Utah Valley University. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -21128,6 +21791,12 @@ _Total events: 941_
 - [Candace Owens vs. Andrew Wilson: The Charlie Ki... @ 00:27:36](/episodes/ep-nPhCKwJ6ye8.md#t-00-27-27)
 - [Candace Owens vs. Andrew Wilson: The Charlie Ki... @ 00:34:18](/episodes/ep-nPhCKwJ6ye8.md#t-00-34-10)
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:22:51](/episodes/ep-jTj9Ip46r4w.md#t-00-22-18)
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:45:33](/episodes/ep-y8lak3CRwDw.md#t-00-45-25)
+- [Donald Trump Has Betrayed America. | Candace Ep... @ 00:33:54](/episodes/ep-i8m_6D4QGmk.md#t-00-33-30)
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's H... @ 00:26:27](/episodes/ep-5-HUyv9LyMg.md#t-00-26-11)
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:19:50](/episodes/ep-B9TyCs-6o_0.md#t-00-19-35)
+- [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:59:38](/episodes/ep-SgVcnx4Oh30.md#t-00-59-28)
+- [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:01:41](/episodes/ep-SgVcnx4Oh30.md#t-00-01-22)
 
 </details>
 </div>
@@ -21168,7 +21837,7 @@ _Total events: 941_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-said-andrew-kolvet-arrived.md">Candace Owens said Andrew Kolvet arrived by plane in Provo on September 10 and collapsed crying into Erika Kirk's arms.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens said Andrew Kolvet arrived by plane in Provo on September 10 and collapsed crying into Erika Kirk\'s arms. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -21177,6 +21846,7 @@ _Total events: 941_
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…... @ 00:06:53](/episodes/ep-QdM9jLwjwLw.md#t-00-06-35)
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfr... @ 00:25:17](/episodes/ep-DYD_QHMPwqM.md#t-00-24-40)
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:20:05](/episodes/ep-mFuno0TuuQQ.md#t-00-20-05)
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:16:13](/episodes/ep-B9TyCs-6o_0.md#t-00-16-13)
 
 </details>
 </div>
@@ -21234,13 +21904,14 @@ _Total events: 941_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-said-another-egyptian-plan.md">Candace Owens said another Egyptian plane remained on the tarmac and transmitted intermittently on the day of Charlie Kirk's assassination.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens said another Egyptian plane remained on the tarmac and transmitted intermittently on the day of Charlie Kirk\'s assassination. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfr... @ 00:35:14](/episodes/ep-DYD_QHMPwqM.md#t-00-35-14)
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:30:25](/episodes/ep-B9TyCs-6o_0.md#t-00-30-25)
 
 </details>
 </div>
@@ -21333,6 +22004,52 @@ _Total events: 941_
 
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:25:22](/episodes/ep-4YgrOhhy708.md#t-00-25-22)
 - [Here’s Why It’s Time For The Police To Question... @ 00:04:15](/episodes/ep-ti5Fxrvegno.md#t-00-03-37)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-candace-owens-spoke-with-andrew-kolvet-o">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-spoke-with-andrew-kolvet-o.md">Candace Owens spoke with Andrew Kolvet on September 10 and in the immediate days afterward.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens spoke with Andrew Kolvet on September 10 and in the immediate days afterward. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:15:24](/episodes/ep-B9TyCs-6o_0.md#t-00-15-11)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-erika-kirk-was-allegedly-at-hopkinson-ai">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-erika-kirk-was-allegedly-at-hopkinson-ai.md">Erika Kirk was allegedly at Hopkinson Aircraft Sales in Scottsdale before departing for Utah, according to Candace Owens.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Erika Kirk was allegedly at Hopkinson Aircraft Sales in Scottsdale before departing for Utah, according to Candace Owens. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:09:57](/episodes/ep-SgVcnx4Oh30.md#t-00-09-57)
+- [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:00:53](/episodes/ep-SgVcnx4Oh30.md#t-00-00-38)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-andrew-kolvet-said-charlie-kirk-texted-h">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-andrew-kolvet-said-charlie-kirk-texted-h.md">Andrew Kolvet said Charlie Kirk texted him talking points about 33 minutes before Kirk was killed.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Andrew Kolvet said Charlie Kirk texted him talking points about 33 minutes before Kirk was killed. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:32:28](/episodes/ep-SgVcnx4Oh30.md#t-00-32-28)
 
 </details>
 </div>
@@ -22329,7 +23046,7 @@ _Total events: 941_
 <div class="timeline-date">2025-09-09</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-candace-owens-reported-that-charlie-kirk.md">Candace Owens reported that Charlie Kirk sent Andrew Kolvet a text expressing fear that he would be killed.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">7× in 7 eps</span>
+<span class="timeline-badge mentions">8× in 8 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: Candace Owens reported that Charlie Kirk sent Andrew Kolvet a text expressing fear that he would be killed. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -22342,6 +23059,7 @@ _Total events: 941_
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:43:56](/episodes/ep-CEF7gQRWYCE.md#t-00-43-43)
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfr... @ 00:23:21](/episodes/ep-DYD_QHMPwqM.md#t-00-23-11)
 - [Here’s Why It’s Time For The Police To Question... @ 00:07:59](/episodes/ep-ti5Fxrvegno.md#t-00-07-26)
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:13:11](/episodes/ep-B9TyCs-6o_0.md#t-00-13-11)
 
 </details>
 </div>
@@ -22487,17 +23205,65 @@ _Total events: 941_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-09-andrew-kolvet-said-he-booked-an-intervie">
+<div class="timeline-date">2025-09-09</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-09-andrew-kolvet-said-he-booked-an-intervie.md">Andrew Kolvet said he booked an interview for Charlie Kirk that Kirk was not pleased about.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: Andrew Kolvet said he booked an interview for Charlie Kirk that Kirk was not pleased about. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:31:33](/episodes/ep-SgVcnx4Oh30.md#t-00-31-33)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-08-locals-reportedly-saw-charlie-kirk-walki">
+<div class="timeline-date">2025-09-08 <span class='time'>21:00</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-08-locals-reportedly-saw-charlie-kirk-walki.md">Locals reportedly saw Charlie Kirk walking with bodyguard Heath and an unidentified tall man around 9 p.m.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08 21:00: Locals reportedly saw Charlie Kirk walking with bodyguard Heath and an unidentified tall man around 9 p.m. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:42:34](/episodes/ep-ZzAT2xijKGQ.md#t-00-42-21)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-08-frank-turek-said-he-took-a-long-walk-wit">
 <div class="timeline-date">2025-09-08 <span class='time'>20:00</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-08-frank-turek-said-he-took-a-long-walk-wit.md">Frank Turek said he took a long walk with Charlie Kirk around 8 p.m.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08 20:00: Frank Turek said he took a long walk with Charlie Kirk around 8 p.m. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:46:29](/episodes/ep-CEF7gQRWYCE.md#t-00-46-11)
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:35:44](/episodes/ep-ZzAT2xijKGQ.md#t-00-35-44)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-08-candace-owens-said-charlie-kirk-shouted-">
+<div class="timeline-date">2025-09-08 <span class='time'>19:16</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-08-candace-owens-said-charlie-kirk-shouted-.md">Candace Owens said Charlie Kirk shouted at the Bears game on television around 7:16 p.m.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">3× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08 19:16: Candace Owens said Charlie Kirk shouted at the Bears game on television around 7:16 p.m. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:41:45](/episodes/ep-ZzAT2xijKGQ.md#t-00-41-45)
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:36:30](/episodes/ep-ZzAT2xijKGQ.md#t-00-36-30)
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:37:10](/episodes/ep-ZzAT2xijKGQ.md#t-00-36-30)
 
 </details>
 </div>
@@ -22506,13 +23272,60 @@ _Total events: 941_
 <div class="timeline-date">2025-09-08 <span class='time'>18:06</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-08-candace-owens-said-erika-kirk-texted-cha.md">Candace Owens said Erika Kirk texted Charlie Kirk that dinner was ready at 6:06 p.m. Arizona time.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08 18:06: Candace Owens said Erika Kirk texted Charlie Kirk that dinner was ready at 6:06 p.m. Arizona time. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:46:19](/episodes/ep-CEF7gQRWYCE.md#t-00-46-11)
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:41:06](/episodes/ep-ZzAT2xijKGQ.md#t-00-40-37)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-08-charlie-kirk-allegedly-texted-erika-kirk">
+<div class="timeline-date">2025-09-08 <span class='time'>17:41</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-08-charlie-kirk-allegedly-texted-erika-kirk.md">Charlie Kirk allegedly texted Erika Kirk at 5:41 p.m. asking when dinner would be ready.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08 17:41: Charlie Kirk allegedly texted Erika Kirk at 5:41 p.m. asking when dinner would be ready. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:40:37](/episodes/ep-ZzAT2xijKGQ.md#t-00-40-37)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-08-erika-kirk-alleged-that-she-arrived-home">
+<div class="timeline-date">2025-09-08 <span class='time'>17:24</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-08-erika-kirk-alleged-that-she-arrived-home.md">Erika Kirk alleged that she arrived home at 5:24 p.m. Arizona time.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08 17:24: Erika Kirk alleged that she arrived home at 5:24 p.m. Arizona time. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:40:37](/episodes/ep-ZzAT2xijKGQ.md#t-00-40-37)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-08-candace-owens-said-charlie-kirk-appeared">
+<div class="timeline-date">2025-09-08 <span class='time'>16:00</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-08-candace-owens-said-charlie-kirk-appeared.md">Candace Owens said Charlie Kirk appeared on The Ingraham Angle from his home studio.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08 16:00: Candace Owens said Charlie Kirk appeared on The Ingraham Angle from his home studio. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:45:32](/episodes/ep-CEF7gQRWYCE.md#t-00-45-32)
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:39:35](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-15)
 
 </details>
 </div>
@@ -22521,13 +23334,30 @@ _Total events: 941_
 <div class="timeline-date">2025-09-08 <span class='time'>10:49</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-08-erika-kirk-authored-an-x-post-after-a-po.md">Erika Kirk authored an X post after a posting silence dating to 2023.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08 10:49: Erika Kirk authored an X post after a posting silence dating to 2023. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace E... @ 00:22:02](/episodes/ep-1hcjQGgvxUY.md#t-00-21-36)
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:39:04](/episodes/ep-ZzAT2xijKGQ.md#t-00-38-30)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-08-candace-owens-said-charlie-kirk-took-lor">
+<div class="timeline-date">2025-09-08 <span class='time'>10:45</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-08-candace-owens-said-charlie-kirk-took-lor.md">Candace Owens said Charlie Kirk took Lori Frantzve to a clinic for Lyme disease treatment.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08 10:45: Candace Owens said Charlie Kirk took Lori Frantzve to a clinic for Lyme disease treatment. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace ... @ 00:28:23](/episodes/ep-QRS_hR7NXaQ.md#t-00-27-58)
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:39:22](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-15)
 
 </details>
 </div>
@@ -22536,7 +23366,7 @@ _Total events: 941_
 <div class="timeline-date">2025-09-08 <span class='time'>10:00</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-08-candace-owens-said-charlie-kirk-hosted-h.md">Candace Owens said Charlie Kirk hosted his show from his home studio from 10 to 11 a.m. Arizona time.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08 10:00: Candace Owens said Charlie Kirk hosted his show from his home studio from 10 to 11 a.m. Arizona time. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -22545,6 +23375,23 @@ _Total events: 941_
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:45:24](/episodes/ep-CEF7gQRWYCE.md#t-00-45-12)
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace ... @ 00:29:35](/episodes/ep-QRS_hR7NXaQ.md#t-00-29-18)
 - [VIRAL: Who Removed Charlie's Wedding Photo, And... @ 00:03:11](/episodes/ep-hWTdXHGQ8R4.md#t-00-02-51)
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:39:15](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-15)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-08-candace-owens-said-jezebel-published-an-">
+<div class="timeline-date">2025-09-08 <span class='time'>09:49</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-08-candace-owens-said-jezebel-published-an-.md">Candace Owens said Jezebel published an article about a witch's curse targeting Charlie Kirk.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08 09:49: Candace Owens said Jezebel published an article about a witch\'s curse targeting Charlie Kirk. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:46:06](/episodes/ep-CEF7gQRWYCE.md#t-00-45-32)
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:38:45](/episodes/ep-ZzAT2xijKGQ.md#t-00-38-30)
 
 </details>
 </div>
@@ -23268,7 +24115,7 @@ _Total events: 941_
 <div class="timeline-date">2025-09-08</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-08-mitch-snow-alleged-that-he-saw-erika-kir.md">Mitch Snow alleged that he saw Erika Kirk leaving the Candlewood Suites hotel at Fort Huachuca with someone resembling Cabot Phillips.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08: Mitch Snow alleged that he saw Erika Kirk leaving the Candlewood Suites hotel at Fort Huachuca with someone resembling Cabot Phillips. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -23277,6 +24124,7 @@ _Total events: 941_
 - [You Won't Believe What Happened While We Were O... @ 00:38:11](/episodes/ep-OEAHy3SsIiI.md#t-00-37-47)
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:51](/episodes/ep-4YgrOhhy708.md#t-00-18-36)
 - [Okay…These Text Messages Are Crazy! | Candace E... @ 00:21:24](/episodes/ep-1hcjQGgvxUY.md#t-00-20-53)
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:34:37](/episodes/ep-ZzAT2xijKGQ.md#t-00-34-37)
 
 </details>
 </div>
@@ -23312,36 +24160,6 @@ _Total events: 941_
 </details>
 </div>
 
-<div class="timeline-event filter-item" id="event-2025-09-08-candace-owens-said-charlie-kirk-appeared">
-<div class="timeline-date">2025-09-08</div>
-<div class="timeline-desc"><a href="/events/event-2025-09-08-candace-owens-said-charlie-kirk-appeared.md">Candace Owens said Charlie Kirk appeared on The Ingraham Angle from his home studio.</a></div>
-<div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08: Candace Owens said Charlie Kirk appeared on The Ingraham Angle from his home studio. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
-</div>
-<details>
-<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
-
-- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:45:32](/episodes/ep-CEF7gQRWYCE.md#t-00-45-32)
-
-</details>
-</div>
-
-<div class="timeline-event filter-item" id="event-2025-09-08-candace-owens-said-jezebel-published-an-">
-<div class="timeline-date">2025-09-08</div>
-<div class="timeline-desc"><a href="/events/event-2025-09-08-candace-owens-said-jezebel-published-an-.md">Candace Owens said Jezebel published an article about a witch's curse targeting Charlie Kirk.</a></div>
-<div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08: Candace Owens said Jezebel published an article about a witch\'s curse targeting Charlie Kirk. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
-</div>
-<details>
-<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
-
-- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:46:06](/episodes/ep-CEF7gQRWYCE.md#t-00-45-32)
-
-</details>
-</div>
-
 <div class="timeline-event filter-item" id="event-2025-09-08-candace-owens-said-charlie-kirk-returned">
 <div class="timeline-date">2025-09-08</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-08-candace-owens-said-charlie-kirk-returned.md">Candace Owens said Charlie Kirk returned from Korea and Tokyo via California late September 7 or early September 8 and continued to Arizona.</a></div>
@@ -23358,21 +24176,6 @@ _Total events: 941_
 </details>
 </div>
 
-<div class="timeline-event filter-item" id="event-2025-09-08-candace-owens-said-charlie-kirk-took-lor">
-<div class="timeline-date">2025-09-08</div>
-<div class="timeline-desc"><a href="/events/event-2025-09-08-candace-owens-said-charlie-kirk-took-lor.md">Candace Owens said Charlie Kirk took Lori Frantzve to a clinic for Lyme disease treatment.</a></div>
-<div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08: Candace Owens said Charlie Kirk took Lori Frantzve to a clinic for Lyme disease treatment. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
-</div>
-<details>
-<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
-
-- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace ... @ 00:28:23](/episodes/ep-QRS_hR7NXaQ.md#t-00-27-58)
-
-</details>
-</div>
-
 <div class="timeline-event filter-item" id="event-2025-09-08-erika-kirk-posted-an-image-of-her-ill-mo">
 <div class="timeline-date">2025-09-08</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-08-erika-kirk-posted-an-image-of-her-ill-mo.md">Erika Kirk posted an image of her ill mother and a ten-day countdown to September 16.</a></div>
@@ -23384,6 +24187,21 @@ _Total events: 941_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace ... @ 00:23:53](/episodes/ep-QRS_hR7NXaQ.md#t-00-23-23)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-08-frank-turek-said-charlie-kirk-had-dinner">
+<div class="timeline-date">2025-09-08</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-08-frank-turek-said-charlie-kirk-had-dinner.md">Frank Turek said Charlie Kirk had dinner with his family before their walk.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08: Frank Turek said Charlie Kirk had dinner with his family before their walk. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:35:50](/episodes/ep-ZzAT2xijKGQ.md#t-00-35-44)
 
 </details>
 </div>
@@ -23491,6 +24309,21 @@ _Total events: 941_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:29:08](/episodes/ep-t4U7NjnUEgc.md#t-00-28-37)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-05-rabbi-pesach-wolicki-held-a-call-with-ju">
+<div class="timeline-date">2025-09-05</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-05-rabbi-pesach-wolicki-held-a-call-with-ju.md">Rabbi Pesach Wolicki held a call with Justin Streiff and Andrew Kolvet while Charlie Kirk was in Asia.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-05: Rabbi Pesach Wolicki held a call with Justin Streiff and Andrew Kolvet while Charlie Kirk was in Asia. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:14:25](/episodes/ep-B9TyCs-6o_0.md#t-00-14-25)
 
 </details>
 </div>
@@ -24295,6 +25128,21 @@ _Total events: 941_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:44:22](/episodes/ep-ZZGWo6oDscc.md#t-00-43-53)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-03-justin-streiff-was-promoted-to-turning-p">
+<div class="timeline-date">2025-09-03</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-03-justin-streiff-was-promoted-to-turning-p.md">Justin Streiff was promoted to Turning Point USA chief operating officer.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-03: Justin Streiff was promoted to Turning Point USA chief operating officer. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:19:58](/episodes/ep-B9TyCs-6o_0.md#t-00-19-58)
 
 </details>
 </div>
@@ -27820,6 +28668,21 @@ _Total events: 941_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-07-arizona-announced-it-would-become-the-fi">
+<div class="timeline-date">2025-07</div>
+<div class="timeline-desc"><a href="/events/event-2025-07-arizona-announced-it-would-become-the-fi.md">Arizona announced it would become the first U.S. state to open a trade office in Romania.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-07: Arizona announced it would become the first U.S. state to open a trade office in Romania. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein... @ 00:25:12](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-12)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-07-25-satis-subsidiary-in-hamburg-germany-underwent-ceo">
 <div class="timeline-date">2025-07-25</div>
 <div class="timeline-desc"><a href="/events/event-2025-07-25-satis-subsidiary-in-hamburg-germany-underwent-ceo.md">Satis subsidiary in Hamburg, Germany underwent CEO switch.</a></div>
@@ -30104,13 +30967,14 @@ _Total events: 941_
 <div class="timeline-date">2025-06</div>
 <div class="timeline-desc"><a href="/events/event-2025-06-charlie-kirk-lobbied-president-trump-aga.md">Charlie Kirk lobbied President Trump against expanded U.S. involvement in Israel's war with Iran.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-06: Charlie Kirk lobbied President Trump against expanded U.S. involvement in Israel\'s war with Iran. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:03:48](/episodes/ep-ZZGWo6oDscc.md#t-00-03-48)
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:03:30](/episodes/ep-B9TyCs-6o_0.md#t-00-03-17)
 
 </details>
 </div>
@@ -30126,6 +30990,21 @@ _Total events: 941_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [A Legal Turning Point? | Candace Ep 292 @ 00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-06-joe-kent-last-saw-charlie-kirk-in-the-we">
+<div class="timeline-date">2025-06</div>
+<div class="timeline-desc"><a href="/events/event-2025-06-joe-kent-last-saw-charlie-kirk-in-the-we.md">Joe Kent last saw Charlie Kirk in the West Wing in June 2025.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-06: Joe Kent last saw Charlie Kirk in the West Wing in June 2025. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:01:51](/episodes/ep-B9TyCs-6o_0.md#t-00-01-51)
 
 </details>
 </div>
@@ -30181,13 +31060,14 @@ _Total events: 941_
 <div class="timeline-date">2025-06-18</div>
 <div class="timeline-desc"><a href="/events/event-2025-06-18-candace-owens-said-charlie-kirk-argued-a.md">Candace Owens said Charlie Kirk argued at the White House against expanded U.S. military action in Iran.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-06-18: Candace Owens said Charlie Kirk argued at the White House against expanded U.S. military action in Iran. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:29:28](/episodes/ep-4YgrOhhy708.md#t-00-29-28)
+- [WORLD WAR BIBI: Trump Betrays America (And Char... @ 00:11:05](/episodes/ep-k8ueJdPFel4.md#t-00-10-41)
 
 </details>
 </div>
@@ -30808,6 +31688,23 @@ _Total events: 941_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [OH SNAP! We Were Right About Fort Huachuca. | C... @ 00:25:27](/episodes/ep-X92MllIHDzw.md#t-00-25-17)
+
+</details>
+</div>
+
+**March**
+
+<div class="timeline-event filter-item" id="event-2025-03-17-president-donald-trump-appointed-charlie">
+<div class="timeline-date">2025-03-17</div>
+<div class="timeline-desc"><a href="/events/event-2025-03-17-president-donald-trump-appointed-charlie.md">President Donald Trump appointed Charlie Kirk to the U.S. Air Force Academy Board of Visitors.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-03-17: President Donald Trump appointed Charlie Kirk to the U.S. Air Force Academy Board of Visitors. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:04:58](/episodes/ep-ZzAT2xijKGQ.md#t-00-04-48)
 
 </details>
 </div>
@@ -31779,6 +32676,21 @@ _Total events: 941_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-beekeepers-naturals-launched-a-kid-frien">
+<div class="timeline-date">2025</div>
+<div class="timeline-desc"><a href="/events/event-2025-beekeepers-naturals-launched-a-kid-frien.md">Beekeeper's Naturals launched a kid-friendly version of its nasal spray.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025: Beekeeper\'s Naturals launched a kid-friendly version of its nasal spray. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:38:03](/episodes/ep-y8lak3CRwDw.md#t-00-37-39)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -31817,6 +32729,21 @@ _Total events: 941_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist'... @ 00:29:17](/episodes/ep-GY6GWceEqtQ.md#t-00-28-53)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2024-12-the-alexander-brothers-were-arrested-on-">
+<div class="timeline-date">2024-12</div>
+<div class="timeline-desc"><a href="/events/event-2024-12-the-alexander-brothers-were-arrested-on-.md">The Alexander brothers were arrested on charges including sex trafficking.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024-12: The Alexander brothers were arrested on charges including sex trafficking. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's H... @ 00:09:45](/episodes/ep-5-HUyv9LyMg.md#t-00-09-45)
 
 </details>
 </div>
@@ -33490,6 +34417,21 @@ _Total events: 941_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2024-călin-georgescu-won-a-romanian-election-">
+<div class="timeline-date">2024</div>
+<div class="timeline-desc"><a href="/events/event-2024-călin-georgescu-won-a-romanian-election-.md">Călin Georgescu won a Romanian election, according to a viewer comment read by Candace Owens.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024: Călin Georgescu won a Romanian election, according to a viewer comment read by Candace Owens. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:57:40](/episodes/ep-DdPjoy5W-wY.md#t-00-57-25)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -33864,6 +34806,23 @@ _Total events: 941_
 </details>
 </div>
 
+**May**
+
+<div class="timeline-event filter-item" id="event-2023-05-kouri-richins-was-charged-in-connection-">
+<div class="timeline-date">2023-05</div>
+<div class="timeline-desc"><a href="/events/event-2023-05-kouri-richins-was-charged-in-connection-.md">Kouri Richins was charged in connection with Eric Richins's murder.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2023-05: Kouri Richins was charged in connection with Eric Richins\'s murder. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:36:38](/episodes/ep-_vg7ucP1E0g.md#t-00-36-24)
+
+</details>
+</div>
+
 **April**
 
 <div class="timeline-event filter-item" id="event-2023-04-03-egyptian-president-el-sisi-flies-on-su-btu-to-riya">
@@ -33889,7 +34848,7 @@ _Total events: 941_
 <div class="timeline-date">2023-03-27</div>
 <div class="timeline-desc"><a href="/events/event-2023-03-27-transgender-shooter-kills-six-at-covenant-christia.md">Transgender shooter kills six at Covenant Christian elementary school in Nashville</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 1 ep</span>
+<span class="timeline-badge mentions">3× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2023-03-27: Transgender shooter kills six at Covenant Christian elementary school in Nashville - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -33897,6 +34856,7 @@ _Total events: 941_
 
 - [INFILTRATION: Charlie Kirk Was Being Tracked Fo... @ 00:14:42](/episodes/ep-YFmRH8p5lt0.md#t-00-14-25)
 - [INFILTRATION: Charlie Kirk Was Being Tracked Fo... @ 00:17:23](/episodes/ep-YFmRH8p5lt0.md#t-00-16-57)
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:40:49](/episodes/ep-y8lak3CRwDw.md#t-00-40-49)
 
 </details>
 </div>
@@ -34177,6 +35137,23 @@ _Total events: 941_
 </details>
 </div>
 
+**March**
+
+<div class="timeline-event filter-item" id="event-2022-03-04-eric-richins-was-murdered">
+<div class="timeline-date">2022-03-04</div>
+<div class="timeline-desc"><a href="/events/event-2022-03-04-eric-richins-was-murdered.md">Eric Richins was murdered.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2022-03-04: Eric Richins was murdered. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:36:38](/episodes/ep-_vg7ucP1E0g.md#t-00-36-24)
+
+</details>
+</div>
+
 ****
 
 <div class="timeline-event filter-item" id="event-2022-eddie-farnsworth-left-public-office">
@@ -34239,6 +35216,21 @@ _Total events: 941_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2022-an-epstein-victim-gave-an-account-descri">
+<div class="timeline-date">2022</div>
+<div class="timeline-desc"><a href="/events/event-2022-an-epstein-victim-gave-an-account-descri.md">An Epstein victim gave an account describing arrival at Epstein's apartment building.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2022: An Epstein victim gave an account describing arrival at Epstein\'s apartment building. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's H... @ 00:04:09](/episodes/ep-5-HUyv9LyMg.md#t-00-03-37)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -34261,6 +35253,40 @@ _Total events: 941_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:12:40](/episodes/ep-SKGUzGHymcI.md#t-00-12-23)
+
+</details>
+</div>
+
+**September**
+
+<div class="timeline-event filter-item" id="event-2021-09-20-erika-kirk-released-the-bible-365-app">
+<div class="timeline-date">2021-09-20</div>
+<div class="timeline-desc"><a href="/events/event-2021-09-20-erika-kirk-released-the-bible-365-app.md">Erika Kirk released the Bible 365 app.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2021-09-20: Erika Kirk released the Bible 365 app. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:08:57](/episodes/ep-DdPjoy5W-wY.md#t-00-08-35)
+
+</details>
+</div>
+
+**May**
+
+<div class="timeline-event filter-item" id="event-2021-05-erika-kirk-married-charlie-kirk">
+<div class="timeline-date">2021-05</div>
+<div class="timeline-desc"><a href="/events/event-2021-05-erika-kirk-married-charlie-kirk.md">Erika Kirk married Charlie Kirk.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2021-05: Erika Kirk married Charlie Kirk. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:08:46](/episodes/ep-DdPjoy5W-wY.md#t-00-08-35)
 
 </details>
 </div>
@@ -34541,17 +35567,33 @@ _Total events: 941_
 
 **January**
 
+<div class="timeline-event filter-item" id="event-2021-01-16-proclaim-streetwear-products-first-appea">
+<div class="timeline-date">2021-01-16</div>
+<div class="timeline-desc"><a href="/events/event-2021-01-16-proclaim-streetwear-products-first-appea.md">Proclaim Streetwear products first appeared available for sale in the Wayback Machine.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2021-01-16: Proclaim Streetwear products first appeared available for sale in the Wayback Machine. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:07:30](/episodes/ep-DdPjoy5W-wY.md#t-00-07-09)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2021-01-06-pro-trump-stop-the-steal-rally-leads-to-us-capitol">
 <div class="timeline-date">2021-01-06</div>
 <div class="timeline-desc"><a href="/events/event-2021-01-06-pro-trump-stop-the-steal-rally-leads-to-us-capitol.md">Pro-Trump Stop the Steal rally leads to US Capitol riot</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2021-01-06: Pro-Trump Stop the Steal rally leads to US Capitol riot - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Why Is Everyone Crashing Out Over The Charlie K... @ 00:06:12](/episodes/ep-YaZfwLQ7vrI.md#t-00-06-06)
+- [Donald Trump Has Betrayed America. | Candace Ep... @ 00:35:04](/episodes/ep-i8m_6D4QGmk.md#t-00-34-41)
 
 </details>
 </div>
@@ -34758,21 +35800,6 @@ _Total events: 941_
 </details>
 </div>
 
-<div class="timeline-event filter-item" id="event-2020-01-01-covid-19-case-density-maps-became-a-comm">
-<div class="timeline-date">2020-01-01</div>
-<div class="timeline-desc"><a href="/events/event-2020-01-01-covid-19-case-density-maps-became-a-comm.md">COVID-19 case-density maps became a common public visualization during 2020 and 2021.</a></div>
-<div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('2020-01-01: COVID-19 case-density maps became a common public visualization during 2020 and 2021. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
-</div>
-<details>
-<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
-
-- [Judy Fan - DISI 2021 - Cognitive Technologies f... @ 00:00:04](/episodes/ep-yt-koVDYXSIfYo.md#t-00-00-00)
-
-</details>
-</div>
-
 ****
 
 <div class="timeline-event filter-item" id="event-2020-alton-c-jennings-began-showing-signs-of-">
@@ -34807,15 +35834,31 @@ _Total events: 941_
 
 <div class="timeline-event filter-item" id="event-2020-erika-kirk-gave-an-interview-reflecting-">
 <div class="timeline-date">2020</div>
-<div class="timeline-desc"><a href="/events/event-2020-erika-kirk-gave-an-interview-reflecting-.md">Erika Kirk discussed her eight-month isolation in a 2020 interview</a></div>
+<div class="timeline-desc"><a href="/events/event-2020-erika-kirk-gave-an-interview-reflecting-.md">Erika Kirk gave a 2020 interview discussing her past, including her isolation and time in Romania.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('2020: Erika Kirk discussed her eight-month isolation in a 2020 interview - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2020: Erika Kirk gave a 2020 interview discussing her past, including her isolation and time in Romania. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. |... @ 00:40:45](/episodes/ep-cZxHqYsWRYg.md#t-00-40-45)
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:20:28](/episodes/ep-y8lak3CRwDw.md#t-00-20-28)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2020-the-aircraft-candace-owens-called-the-yr">
+<div class="timeline-date">2020</div>
+<div class="timeline-desc"><a href="/events/event-2020-the-aircraft-candace-owens-called-the-yr.md">The aircraft Candace Owens called the Yrefy plane was advertised for charter in 2020 without Wi-Fi listed among its amenities.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2020: The aircraft Candace Owens called the Yrefy plane was advertised for charter in 2020 without Wi-Fi listed among its amenities. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:24:42](/episodes/ep-SgVcnx4Oh30.md#t-00-24-42)
 
 </details>
 </div>
@@ -35230,6 +36273,36 @@ _Total events: 941_
 
 **January**
 
+<div class="timeline-event filter-item" id="event-2019-01-proclaim-streetwear-filed-formation-pape">
+<div class="timeline-date">2019-01</div>
+<div class="timeline-desc"><a href="/events/event-2019-01-proclaim-streetwear-filed-formation-pape.md">Proclaim Streetwear filed formation paperwork as an LLC.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2019-01: Proclaim Streetwear filed formation paperwork as an LLC. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:06:44](/episodes/ep-DdPjoy5W-wY.md#t-00-06-30)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2019-01-shannon-kent-is-killed-by-a-suicide-bomb">
+<div class="timeline-date">2019-01</div>
+<div class="timeline-desc"><a href="/events/event-2019-01-shannon-kent-is-killed-by-a-suicide-bomb.md">Shannon Kent is killed by a suicide bomber while serving in Syria</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2019-01: Shannon Kent is killed by a suicide bomber while serving in Syria - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk... @ 00:03:51](/episodes/ep-I0OaY6Gryqk.md#t-00-03-25)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2019-01-01-calvary-chapel-fort-lauderdale-employee-arrested-f">
 <div class="timeline-date">2019-01-17</div>
 <div class="timeline-desc"><a href="/events/event-2019-01-01-calvary-chapel-fort-lauderdale-employee-arrested-f.md">Calvary Chapel Fort Lauderdale employee arrested for child pornography</a></div>
@@ -35378,6 +36451,21 @@ _Total events: 941_
 
 **December**
 
+<div class="timeline-event filter-item" id="event-2018-12-31-feed-me-incorporated-was-formed">
+<div class="timeline-date">2018-12-31</div>
+<div class="timeline-desc"><a href="/events/event-2018-12-31-feed-me-incorporated-was-formed.md">Feed Me Incorporated was formed.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2018-12-31: Feed Me Incorporated was formed. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:28:35](/episodes/ep-_vg7ucP1E0g.md#t-00-28-35)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2018-12-11-candace-owens-meets-george-farmer-at-uk-">
 <div class="timeline-date">2018-12-11</div>
 <div class="timeline-desc"><a href="/events/event-2018-12-11-candace-owens-meets-george-farmer-at-uk-.md">Candace Owens meets George Farmer at UK event</a></div>
@@ -35415,7 +36503,7 @@ _Total events: 941_
 <div class="timeline-date">2018-11-07</div>
 <div class="timeline-desc"><a href="/events/event-2018-11-07-thousand-oaks-borderline-bar-shooting-by-ian-long.md">Thousand Oaks Borderline Bar shooting by Ian Long kills 12</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">4× in 2 eps</span>
+<span class="timeline-badge mentions">5× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2018-11-07: Thousand Oaks Borderline Bar shooting by Ian Long kills 12 - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -35425,6 +36513,7 @@ _Total events: 941_
 - [INFILTRATION: Charlie Kirk Was Being Tracked Fo... @ 00:16:17](/episodes/ep-YFmRH8p5lt0.md#t-00-15-41)
 - [Why Is Everyone Crashing Out Over The Charlie K... @ 00:21:55](/episodes/ep-YaZfwLQ7vrI.md#t-00-21-31)
 - [INFILTRATION: Charlie Kirk Was Being Tracked Fo... @ 00:16:19](/episodes/ep-YFmRH8p5lt0.md#t-00-15-41)
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:39:48](/episodes/ep-y8lak3CRwDw.md#t-00-39-31)
 
 </details>
 </div>
@@ -35435,13 +36524,14 @@ _Total events: 941_
 <div class="timeline-date">2018-10-30</div>
 <div class="timeline-desc"><a href="/events/event-2018-10-30-kanye-west-distances-himself-from-blexit.md">Kanye West distances himself from Blexit and Trump</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2018-10-30: Kanye West distances himself from Blexit and Trump - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:14:48](/episodes/ep-Cq7nj9rxPdo.md#t-00-14-16)
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:24:10](/episodes/ep-_vg7ucP1E0g.md#t-00-23-40)
 
 </details>
 </div>
@@ -35461,17 +36551,36 @@ _Total events: 941_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2018-10-26-erika-kirk-registered-the-proclaim-stree">
+<div class="timeline-date">2018-10-26</div>
+<div class="timeline-desc"><a href="/events/event-2018-10-26-erika-kirk-registered-the-proclaim-stree.md">Erika Kirk registered the Proclaim Streetwear domain.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2018-10-26: Erika Kirk registered the Proclaim Streetwear domain. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:05:20](/episodes/ep-DdPjoy5W-wY.md#t-00-05-07)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2018-10-24-candace-owens-inferred-that-erika-kirk-r">
 <div class="timeline-date">2018-10-24</div>
 <div class="timeline-desc"><a href="/events/event-2018-10-24-candace-owens-inferred-that-erika-kirk-r.md">Candace Owens inferred that Erika Kirk received her New York real estate license on October 24, 2018.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">5× in 5 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2018-10-24: Candace Owens inferred that Erika Kirk received her New York real estate license on October 24, 2018. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Here’s Why It’s Time For The Police To Question... @ 00:31:28](/episodes/ep-ti5Fxrvegno.md#t-00-30-54)
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:05:39](/episodes/ep-DdPjoy5W-wY.md#t-00-05-07)
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:26:56](/episodes/ep-ZzAT2xijKGQ.md#t-00-26-36)
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein... @ 00:15:22](/episodes/ep-H9p2ZGHAs9A.md#t-00-15-22)
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:22:57](/episodes/ep-_vg7ucP1E0g.md#t-00-22-57)
 
 </details>
 </div>
@@ -35508,6 +36617,21 @@ _Total events: 941_
 
 **September**
 
+<div class="timeline-event filter-item" id="event-2018-09-erika-kirk-met-charlie-kirk-one-on-one-f">
+<div class="timeline-date">2018-09</div>
+<div class="timeline-desc"><a href="/events/event-2018-09-erika-kirk-met-charlie-kirk-one-on-one-f.md">Erika Kirk met Charlie Kirk one-on-one for a job interview in New York.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2018-09: Erika Kirk met Charlie Kirk one-on-one for a job interview in New York. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:22:12](/episodes/ep-_vg7ucP1E0g.md#t-00-22-12)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2018-09-25-tyler-bowyer-posted-that-turning-point-u">
 <div class="timeline-date">2018-09-25</div>
 <div class="timeline-desc"><a href="/events/event-2018-09-25-tyler-bowyer-posted-that-turning-point-u.md">Tyler Bowyer posted that Turning Point USA ran everything like a military operation and its people had military backgrounds.</a></div>
@@ -35527,7 +36651,7 @@ _Total events: 941_
 <div class="timeline-date">2018-09-05</div>
 <div class="timeline-desc"><a href="/events/event-2018-09-05-erika-kirk-and-charlie-kirk-began-dating.md">Erika Kirk and Charlie Kirk went on their first date on September 5, 2018.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2018-09-05: Erika Kirk and Charlie Kirk went on their first date on September 5, 2018. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -35535,11 +36659,27 @@ _Total events: 941_
 
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:04:02](/episodes/ep-mFuno0TuuQQ.md#t-00-04-02)
 - [Here’s Why It’s Time For The Police To Question... @ 00:30:11](/episodes/ep-ti5Fxrvegno.md#t-00-30-11)
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:05:07](/episodes/ep-DdPjoy5W-wY.md#t-00-05-07)
 
 </details>
 </div>
 
 **August**
+
+<div class="timeline-event filter-item" id="event-2018-08-10-erika-kirk-attended-turning-point-usas-o">
+<div class="timeline-date">2018-08-10</div>
+<div class="timeline-desc"><a href="/events/event-2018-08-10-erika-kirk-attended-turning-point-usas-o.md">Erika Kirk attended Turning Point USA's office grand opening and met Charlie Kirk.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2018-08-10: Erika Kirk attended Turning Point USA\'s office grand opening and met Charlie Kirk. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:21:27](/episodes/ep-_vg7ucP1E0g.md#t-00-21-00)
+
+</details>
+</div>
 
 <div class="timeline-event filter-item" id="event-2018-08-06-antifa-protesters-confront-charlie-kirk-">
 <div class="timeline-date">2018-08-06</div>
@@ -35575,17 +36715,18 @@ _Total events: 941_
 
 **May**
 
-<div class="timeline-event filter-item" id="event-2018-05-01-erika-kirk-first-sees-charlie-kirk-at-ai">
-<div class="timeline-date">2018-05-01</div>
-<div class="timeline-desc"><a href="/events/event-2018-05-01-erika-kirk-first-sees-charlie-kirk-at-ai.md">Erika Kirk first sees Charlie Kirk at airport in Israel</a></div>
+<div class="timeline-event filter-item" id="event-2018-05-erika-kirk-first-sees-charlie-kirk-at-ai">
+<div class="timeline-date">2018-05</div>
+<div class="timeline-desc"><a href="/events/event-2018-05-erika-kirk-first-sees-charlie-kirk-at-ai.md">Erika Kirk first sees Charlie Kirk at airport in Israel</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('2018-05-01: Erika Kirk first sees Charlie Kirk at airport in Israel - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2018-05: Erika Kirk first sees Charlie Kirk at airport in Israel - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interv... @ 01:00:09](/episodes/ep-vwG1juDCQZQ.md#t-00-59-48)
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:21:00](/episodes/ep-_vg7ucP1E0g.md#t-00-21-00)
 
 </details>
 </div>
@@ -35596,7 +36737,7 @@ _Total events: 941_
 <div class="timeline-date">2018-04-21</div>
 <div class="timeline-desc"><a href="/events/event-2018-04-21-kanye-west-tweets-i-love-the-way-candace.md">Kanye West tweets 'I love the way Candace Owens thinks'</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2018-04-21: Kanye West tweets \'I love the way Candace Owens thinks\' - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -35604,6 +36745,7 @@ _Total events: 941_
 
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:07:42](/episodes/ep-Cq7nj9rxPdo.md#t-00-07-05)
 - [To My Friend, Charlie Kirk. @ 00:10:20](/episodes/ep-_dRaEO47-co.md#t-00-09-57)
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:20:32](/episodes/ep-_vg7ucP1E0g.md#t-00-20-15)
 
 </details>
 </div>
@@ -35653,6 +36795,21 @@ _Total events: 941_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2018-04-07-candace-owens-said-charlie-kirk-messaged">
+<div class="timeline-date">2018-04-07</div>
+<div class="timeline-desc"><a href="/events/event-2018-04-07-candace-owens-said-charlie-kirk-messaged.md">Candace Owens said Charlie Kirk messaged her that he feared dying in connection with Turning Point USA.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2018-04-07: Candace Owens said Charlie Kirk messaged her that he feared dying in connection with Turning Point USA. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:20:08](/episodes/ep-_vg7ucP1E0g.md#t-00-19-34)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2018-04-06-charlie-kirk-sends-text-messages-to-cand">
 <div class="timeline-date">2018-04-06</div>
 <div class="timeline-desc"><a href="/events/event-2018-04-06-charlie-kirk-sends-text-messages-to-cand.md">Charlie Kirk sends text messages to Candace Owens about Turning Point and future</a></div>
@@ -35687,6 +36844,21 @@ _Total events: 941_
 </div>
 
 **January**
+
+<div class="timeline-event filter-item" id="event-2018-01-erika-kirk-rang-in-2018-with-cabot-phill">
+<div class="timeline-date">2018-01</div>
+<div class="timeline-desc"><a href="/events/event-2018-01-erika-kirk-rang-in-2018-with-cabot-phill.md">Erika Kirk rang in 2018 with Cabot Phillips and Lori Frantzve.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2018-01: Erika Kirk rang in 2018 with Cabot Phillips and Lori Frantzve. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:18:50](/episodes/ep-_vg7ucP1E0g.md#t-00-18-50)
+
+</details>
+</div>
 
 <div class="timeline-event filter-item" id="event-2018-01-01-bank-of-america-pulled-out-of-several-wilmington-o">
 <div class="timeline-date">2018-01-01</div>
@@ -35836,6 +37008,51 @@ _Total events: 941_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. |... @ 00:58:13](/episodes/ep-cZxHqYsWRYg.md#t-00-57-41)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2018-the-black-sea-rotational-force-base-move">
+<div class="timeline-date">2018</div>
+<div class="timeline-desc"><a href="/events/event-2018-the-black-sea-rotational-force-base-move.md">The Black Sea Rotational Force base moved to Norway.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2018: The Black Sea Rotational Force base moved to Norway. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's H... @ 00:16:03](/episodes/ep-5-HUyv9LyMg.md#t-00-16-03)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2018-megyn-kelly-interviewed-christina-babin-">
+<div class="timeline-date">2018</div>
+<div class="timeline-desc"><a href="/events/event-2018-megyn-kelly-interviewed-christina-babin-.md">Megyn Kelly interviewed Christina Babin about her upbringing in the Children of God.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2018: Megyn Kelly interviewed Christina Babin about her upbringing in the Children of God. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's H... @ 00:21:37](/episodes/ep-5-HUyv9LyMg.md#t-00-21-25)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2018-erika-kirk-filmed-summer-house">
+<div class="timeline-date">2018</div>
+<div class="timeline-desc"><a href="/events/event-2018-erika-kirk-filmed-summer-house.md">Erika Kirk filmed Summer House.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2018: Erika Kirk filmed Summer House. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:28:20](/episodes/ep-_vg7ucP1E0g.md#t-00-28-00)
 
 </details>
 </div>
@@ -36268,7 +37485,7 @@ _Total events: 941_
 <div class="timeline-date">2017-10-01</div>
 <div class="timeline-desc"><a href="/events/event-2017-10-01-las-vegas-mass-shooting-by-stephen-paddock-kills-5.md">Las Vegas mass shooting by Stephen Paddock kills 58 people</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">4× in 2 eps</span>
+<span class="timeline-badge mentions">5× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2017-10-01: Las Vegas mass shooting by Stephen Paddock kills 58 people - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -36278,6 +37495,24 @@ _Total events: 941_
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:10:13](/episodes/ep-a-e7HC6SeK8.md#t-00-09-45)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:10:20](/episodes/ep-a-e7HC6SeK8.md#t-00-09-45)
 - [Why Is Everyone Crashing Out Over The Charlie K... @ 00:21:11](/episodes/ep-YaZfwLQ7vrI.md#t-00-20-48)
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:40:10](/episodes/ep-y8lak3CRwDw.md#t-00-40-10)
+
+</details>
+</div>
+
+**July**
+
+<div class="timeline-event filter-item" id="event-2017-07-24-lori-frantzve-opened-desert-spirit-tech-">
+<div class="timeline-date">2017-07-24</div>
+<div class="timeline-desc"><a href="/events/event-2017-07-24-lori-frantzve-opened-desert-spirit-tech-.md">Lori Frantzve opened Desert Spirit Tech LLC.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2017-07-24: Lori Frantzve opened Desert Spirit Tech LLC. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:15:47](/episodes/ep-_vg7ucP1E0g.md#t-00-15-36)
 
 </details>
 </div>
@@ -36302,7 +37537,39 @@ _Total events: 941_
 </details>
 </div>
 
+**February**
+
+<div class="timeline-event filter-item" id="event-2017-02-01-erika-kirk-appeared-in-the-documentary-b">
+<div class="timeline-date">2017-02-01</div>
+<div class="timeline-desc"><a href="/events/event-2017-02-01-erika-kirk-appeared-in-the-documentary-b.md">Erika Kirk appeared in the documentary Blackstart by Petria Patrick.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2017-02-01: Erika Kirk appeared in the documentary Blackstart by Petria Patrick. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:13:53](/episodes/ep-_vg7ucP1E0g.md#t-00-13-49)
+
+</details>
+</div>
+
 **January**
+
+<div class="timeline-event filter-item" id="event-2017-01-12-erika-kirk-established-the-elm-group-llc">
+<div class="timeline-date">2017-01-12</div>
+<div class="timeline-desc"><a href="/events/event-2017-01-12-erika-kirk-established-the-elm-group-llc.md">Erika Kirk established the Elm Group LLC.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2017-01-12: Erika Kirk established the Elm Group LLC. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:13:33](/episodes/ep-_vg7ucP1E0g.md#t-00-13-07)
+
+</details>
+</div>
 
 <div class="timeline-event filter-item" id="event-2017-01-01-calvary-global-network-branched-off-from">
 <div class="timeline-date">2017-01-01</div>
@@ -36366,6 +37633,66 @@ _Total events: 941_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2017-erika-kirk-published-an-instagram-tribut">
+<div class="timeline-date">2017</div>
+<div class="timeline-desc"><a href="/events/event-2017-erika-kirk-published-an-instagram-tribut.md">Erika Kirk published an Instagram tribute to Alan Rothstein.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2017: Erika Kirk published an Instagram tribute to Alan Rothstein. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein... @ 00:09:17](/episodes/ep-H9p2ZGHAs9A.md#t-00-09-17)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2017-a-romanian-article-about-united-hands-ro">
+<div class="timeline-date">2017</div>
+<div class="timeline-desc"><a href="/events/event-2017-a-romanian-article-about-united-hands-ro.md">A Romanian article about United Hands Romania was published.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2017: A Romanian article about United Hands Romania was published. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's H... @ 00:17:45](/episodes/ep-5-HUyv9LyMg.md#t-00-17-45)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2017-erika-kirk-began-attending-liberty-unive">
+<div class="timeline-date">2017</div>
+<div class="timeline-desc"><a href="/events/event-2017-erika-kirk-began-attending-liberty-unive.md">Erika Kirk began attending Liberty University for a master's degree.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2017: Erika Kirk began attending Liberty University for a master\'s degree. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:17:20](/episodes/ep-_vg7ucP1E0g.md#t-00-16-56)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2017-erika-kirk-was-pictured-at-a-celebrity-d">
+<div class="timeline-date">2017</div>
+<div class="timeline-desc"><a href="/events/event-2017-erika-kirk-was-pictured-at-a-celebrity-d.md">Erika Kirk was pictured at a celebrity dentist's office.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2017: Erika Kirk was pictured at a celebrity dentist\'s office. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:17:28](/episodes/ep-_vg7ucP1E0g.md#t-00-17-28)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -36374,6 +37701,55 @@ _Total events: 941_
 <div class="timeline-container">
 
 <h2 id="year-2016">2016</h2>
+
+**August**
+
+<div class="timeline-event filter-item" id="event-2016-08-lori-frantzve-attended-a-utah-expo-for-g">
+<div class="timeline-date">2016-08</div>
+<div class="timeline-desc"><a href="/events/event-2016-08-lori-frantzve-attended-a-utah-expo-for-g.md">Lori Frantzve attended a Utah expo for G-Tech Industries.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2016-08: Lori Frantzve attended a Utah expo for G-Tech Industries. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:11:42](/episodes/ep-_vg7ucP1E0g.md#t-00-11-42)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2016-08-erika-kirk-traveled-in-the-mediterranean">
+<div class="timeline-date">2016-08</div>
+<div class="timeline-desc"><a href="/events/event-2016-08-erika-kirk-traveled-in-the-mediterranean.md">Erika Kirk traveled in the Mediterranean.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2016-08: Erika Kirk traveled in the Mediterranean. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:12:08](/episodes/ep-_vg7ucP1E0g.md#t-00-11-42)
+
+</details>
+</div>
+
+**May**
+
+<div class="timeline-event filter-item" id="event-2016-05-09-erika-kirk-shared-that-she-was-location-">
+<div class="timeline-date">2016-05-09</div>
+<div class="timeline-desc"><a href="/events/event-2016-05-09-erika-kirk-shared-that-she-was-location-.md">Erika Kirk shared that she was location scouting in Williamsburg, Brooklyn.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2016-05-09: Erika Kirk shared that she was location scouting in Williamsburg, Brooklyn. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:10:24](/episodes/ep-_vg7ucP1E0g.md#t-00-09-54)
+
+</details>
+</div>
 
 **March**
 
@@ -36469,6 +37845,36 @@ _Total events: 941_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2016-lori-frantzve-received-an-honorary-degre">
+<div class="timeline-date">2016</div>
+<div class="timeline-desc"><a href="/events/event-2016-lori-frantzve-received-an-honorary-degre.md">Lori Frantzve received an honorary degree from AATC University.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2016: Lori Frantzve received an honorary degree from AATC University. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:11:05](/episodes/ep-_vg7ucP1E0g.md#t-00-11-05)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2016-lori-frantzve-released-an-intent-to-sell">
+<div class="timeline-date">2016</div>
+<div class="timeline-desc"><a href="/events/event-2016-lori-frantzve-released-an-intent-to-sell.md">Lori Frantzve released an intent to sell G-Tech Industries to Saxon Capital Group.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2016: Lori Frantzve released an intent to sell G-Tech Industries to Saxon Capital Group. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:12:32](/episodes/ep-_vg7ucP1E0g.md#t-00-12-20)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -36479,6 +37885,21 @@ _Total events: 941_
 <h2 id="year-2015">2015</h2>
 
 **November**
+
+<div class="timeline-event filter-item" id="event-2015-11-lori-frantzve-established-g-tech-industr">
+<div class="timeline-date">2015-11</div>
+<div class="timeline-desc"><a href="/events/event-2015-11-lori-frantzve-established-g-tech-industr.md">Lori Frantzve established G-Tech Industries LLC.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2015-11: Lori Frantzve established G-Tech Industries LLC. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:08:39](/episodes/ep-_vg7ucP1E0g.md#t-00-08-39)
+
+</details>
+</div>
 
 <div class="timeline-event filter-item" id="event-2015-11-13-a-series-of-coordinated-attacks-struck-p">
 <div class="timeline-date">2015-11-13</div>
@@ -36495,19 +37916,37 @@ _Total events: 941_
 </details>
 </div>
 
-**July**
+**August**
 
-<div class="timeline-event filter-item" id="event-2015-07-tyler-bowyer-hosted-donald-trumps-first-">
-<div class="timeline-date">2015-07</div>
-<div class="timeline-desc"><a href="/events/event-2015-07-tyler-bowyer-hosted-donald-trumps-first-.md">Tyler Bowyer hosted Donald Trump's first Arizona rally, where Erika Kirk stood behind Trump after offering to help.</a></div>
+<div class="timeline-event filter-item" id="event-2015-08-erika-kirk-traveled-to-montreal-and-esté">
+<div class="timeline-date">2015-08</div>
+<div class="timeline-desc"><a href="/events/event-2015-08-erika-kirk-traveled-to-montreal-and-esté.md">Erika Kirk traveled to Montreal and Estérel, Quebec with Nicole Rothstein.</a></div>
 <div class="timeline-meta">
 <span class="timeline-badge mentions">1× in 1 ep</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('2015-07: Tyler Bowyer hosted Donald Trump\'s first Arizona rally, where Erika Kirk stood behind Trump after offering to help. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2015-08: Erika Kirk traveled to Montreal and Estérel, Quebec with Nicole Rothstein. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:08:01](/episodes/ep-_vg7ucP1E0g.md#t-00-08-01)
+
+</details>
+</div>
+
+**July**
+
+<div class="timeline-event filter-item" id="event-2015-07-11-tyler-bowyer-hosted-donald-trumps-first-">
+<div class="timeline-date">2015-07-11</div>
+<div class="timeline-desc"><a href="/events/event-2015-07-11-tyler-bowyer-hosted-donald-trumps-first-.md">Tyler Bowyer hosted Donald Trump's first Arizona rally, where Erika Kirk stood behind Trump after offering to help.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2015-07-11: Tyler Bowyer hosted Donald Trump\'s first Arizona rally, where Erika Kirk stood behind Trump after offering to help. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The... @ 00:29:07](/episodes/ep-HYn0P-P1wUw.md#t-00-28-51)
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:07:31](/episodes/ep-_vg7ucP1E0g.md#t-00-06-53)
 
 </details>
 </div>
@@ -36557,6 +37996,21 @@ _Total events: 941_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [American Horror Story: Charlie Kirk’s “Shining”... @ 00:19:27](/episodes/ep-CMcktj3Egfo.md#t-00-19-10)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2015-erika-kirk-soft-launched-the-for-the-cau">
+<div class="timeline-date">2015</div>
+<div class="timeline-desc"><a href="/events/event-2015-erika-kirk-soft-launched-the-for-the-cau.md">Erika Kirk soft-launched the For the Cause charity in Phoenix.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2015: Erika Kirk soft-launched the For the Cause charity in Phoenix. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:08:59](/episodes/ep-_vg7ucP1E0g.md#t-00-08-39)
 
 </details>
 </div>
@@ -36699,6 +38153,22 @@ _Total events: 941_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2014-03-01-erika-kirk-began-dating-jt-massey">
+<div class="timeline-date">2014-03-01</div>
+<div class="timeline-desc"><a href="/events/event-2014-03-01-erika-kirk-began-dating-jt-massey.md">Erika Kirk began dating JT Massey.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2014-03-01: Erika Kirk began dating JT Massey. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:44:47](/episodes/ep-DdPjoy5W-wY.md#t-00-44-13)
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:46:24](/episodes/ep-DdPjoy5W-wY.md#t-00-46-24)
+
+</details>
+</div>
+
 **February**
 
 <div class="timeline-event filter-item" id="event-2014-02-jillian-falcon-took-a-family-trip-to-pue">
@@ -36782,6 +38252,81 @@ _Total events: 941_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2014-johnny-moore-left-liberty-university-and">
+<div class="timeline-date">2014</div>
+<div class="timeline-desc"><a href="/events/event-2014-johnny-moore-left-liberty-university-and.md">Johnny Moore left Liberty University and started the Kairos Company with Andrew Kolvet.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2014: Johnny Moore left Liberty University and started the Kairos Company with Andrew Kolvet. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:31](/episodes/ep-DdPjoy5W-wY.md#t-00-40-31)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2014-tyler-bowyer-met-charlie-kirk-according-">
+<div class="timeline-date">2014</div>
+<div class="timeline-desc"><a href="/events/event-2014-tyler-bowyer-met-charlie-kirk-according-.md">Tyler Bowyer met Charlie Kirk, according to Candace Owens.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2014: Tyler Bowyer met Charlie Kirk, according to Candace Owens. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:43:30](/episodes/ep-DdPjoy5W-wY.md#t-00-43-30)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2014-erika-kirk-and-jt-massey-auditioned-for-">
+<div class="timeline-date">2014</div>
+<div class="timeline-desc"><a href="/events/event-2014-erika-kirk-and-jt-massey-auditioned-for-.md">Erika Kirk and JT Massey auditioned for The Amazing Race.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2014: Erika Kirk and JT Massey auditioned for The Amazing Race. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:44:57](/episodes/ep-DdPjoy5W-wY.md#t-00-44-57)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2014-erika-kirk-auditioned-for-house-of-dvf">
+<div class="timeline-date">2014</div>
+<div class="timeline-desc"><a href="/events/event-2014-erika-kirk-auditioned-for-house-of-dvf.md">Erika Kirk auditioned for House of DVF.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2014: Erika Kirk auditioned for House of DVF. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:48:41](/episodes/ep-DdPjoy5W-wY.md#t-00-48-41)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2014-erika-kirk-began-publicly-describing-her">
+<div class="timeline-date">2014</div>
+<div class="timeline-desc"><a href="/events/event-2014-erika-kirk-began-publicly-describing-her.md">Erika Kirk began publicly describing herself as a casting director or recruiter in Los Angeles.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2014: Erika Kirk began publicly describing herself as a casting director or recruiter in Los Angeles. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:21:19](/episodes/ep-ZzAT2xijKGQ.md#t-00-21-09)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -36808,6 +38353,23 @@ _Total events: 941_
 </details>
 </div>
 
+**June**
+
+<div class="timeline-event filter-item" id="event-2013-06-erika-kirk-moved-to-china-while-dating-j">
+<div class="timeline-date">2013-06</div>
+<div class="timeline-desc"><a href="/events/event-2013-06-erika-kirk-moved-to-china-while-dating-j.md">Erika Kirk moved to China while dating Josh Harrellson, according to Candace Owens.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2013-06: Erika Kirk moved to China while dating Josh Harrellson, according to Candace Owens. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:37:21](/episodes/ep-DdPjoy5W-wY.md#t-00-37-21)
+
+</details>
+</div>
+
 **May**
 
 <div class="timeline-event filter-item" id="event-2013-05-01-two-recently-baptized-christians-open-gy">
@@ -36826,6 +38388,21 @@ _Total events: 941_
 </div>
 
 **April**
+
+<div class="timeline-event filter-item" id="event-2013-04-romania-established-its-national-office-">
+<div class="timeline-date">2013-04</div>
+<div class="timeline-desc"><a href="/events/event-2013-04-romania-established-its-national-office-.md">Romania established its National Office for Gambling Games.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2013-04: Romania established its National Office for Gambling Games. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:39:07](/episodes/ep-DdPjoy5W-wY.md#t-00-38-36)
+
+</details>
+</div>
 
 <div class="timeline-event filter-item" id="event-2013-04-19-donald-trump-tweets-calling-for-public-executions">
 <div class="timeline-date">2013-04-19</div>
@@ -36895,6 +38472,40 @@ _Total events: 941_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Charlie's Final Hours. What Else Is Josh Hammer... @ 00:14:39](/episodes/ep-2Riv3I7D0Yk.md#t-00-14-29)
+
+</details>
+</div>
+
+**February**
+
+<div class="timeline-event filter-item" id="event-2013-02-black-sea-rotational-force-13-began-a-si">
+<div class="timeline-date">2013-02</div>
+<div class="timeline-desc"><a href="/events/event-2013-02-black-sea-rotational-force-13-began-a-si.md">Black Sea Rotational Force 13 began a six-month deployment.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2013-02: Black Sea Rotational Force 13 began a six-month deployment. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:39:26](/episodes/ep-DdPjoy5W-wY.md#t-00-39-17)
+
+</details>
+</div>
+
+**January**
+
+<div class="timeline-event filter-item" id="event-2013-01-josh-harrellson-joined-the-brujos-de-gua">
+<div class="timeline-date">2013-01</div>
+<div class="timeline-desc"><a href="/events/event-2013-01-josh-harrellson-joined-the-brujos-de-gua.md">Josh Harrellson joined the Brujos de Guayama basketball team.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2013-01: Josh Harrellson joined the Brujos de Guayama basketball team. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:36:47](/episodes/ep-DdPjoy5W-wY.md#t-00-36-47)
 
 </details>
 </div>
@@ -36985,19 +38596,54 @@ _Total events: 941_
 
 <h2 id="year-2012">2012</h2>
 
+**November**
+
+<div class="timeline-event filter-item" id="event-2012-11-erika-kirk-began-the-romanian-angels-pro">
+<div class="timeline-date">2012-11</div>
+<div class="timeline-desc"><a href="/events/event-2012-11-erika-kirk-began-the-romanian-angels-pro.md">Erika Kirk began the Romanian Angels Project in November 2012; an earlier source gave late 2012 or early 2013.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">3× in 3 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2012-11: Erika Kirk began the Romanian Angels Project in November 2012; an earlier source gave late 2012 or early 2013. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murd... @ 00:10:34](/episodes/ep-wcD2khO3rOA.md#t-00-10-04)
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:30:42](/episodes/ep-y8lak3CRwDw.md#t-00-30-42)
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:20:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-19-45)
+
+</details>
+</div>
+
 **July**
+
+<div class="timeline-event filter-item" id="event-2012-07-erika-frantzve-appeared-in-emerson-drive">
+<div class="timeline-date">2012-07</div>
+<div class="timeline-desc"><a href="/events/event-2012-07-erika-frantzve-appeared-in-emerson-drive.md">Erika Frantzve appeared in Emerson Drive's She's My Kind of Crazy music video.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2012-07: Erika Frantzve appeared in Emerson Drive\'s She\'s My Kind of Crazy music video. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:28:34](/episodes/ep-y8lak3CRwDw.md#t-00-28-01)
+
+</details>
+</div>
 
 <div class="timeline-event filter-item" id="event-2012-07-20-jessica-ghawi-was-killed-in-the-aurora-t">
 <div class="timeline-date">2012-07-20</div>
 <div class="timeline-desc"><a href="/events/event-2012-07-20-jessica-ghawi-was-killed-in-the-aurora-t.md">Jessica Ghawi was killed in the Aurora theater mass shooting.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2012-07-20: Jessica Ghawi was killed in the Aurora theater mass shooting. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:12:53](/episodes/ep-9naMwS0kMBE.md#t-00-12-25)
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:30:13](/episodes/ep-y8lak3CRwDw.md#t-00-29-57)
 
 </details>
 </div>
@@ -37015,6 +38661,21 @@ _Total events: 941_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:28:41](/episodes/ep-A39g5oqB_eM.md#t-00-27-58)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2012-06-07-erika-frantzve-teamed-up-with-tracy-mart">
+<div class="timeline-date">2012-06-07</div>
+<div class="timeline-desc"><a href="/events/event-2012-06-07-erika-frantzve-teamed-up-with-tracy-mart.md">Erika Frantzve teamed up with Tracy Martin for an Everyday Heroes Like You fundraiser.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2012-06-07: Erika Frantzve teamed up with Tracy Martin for an Everyday Heroes Like You fundraiser. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:28:01](/episodes/ep-y8lak3CRwDw.md#t-00-28-01)
 
 </details>
 </div>
@@ -37047,6 +38708,37 @@ _Total events: 941_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:28:23](/episodes/ep-A39g5oqB_eM.md#t-00-27-58)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2012-05-erika-frantzve-graduated-magna-cum-laude">
+<div class="timeline-date">2012-05</div>
+<div class="timeline-desc"><a href="/events/event-2012-05-erika-frantzve-graduated-magna-cum-laude.md">Erika Frantzve graduated magna cum laude from Arizona State University.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2012-05: Erika Frantzve graduated magna cum laude from Arizona State University. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:27:27](/episodes/ep-y8lak3CRwDw.md#t-00-27-18)
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:28:30](/episodes/ep-DdPjoy5W-wY.md#t-00-28-15)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2012-05-30-erika-frantzve-was-scheduled-to-compete-">
+<div class="timeline-date">2012-05-30</div>
+<div class="timeline-desc"><a href="/events/event-2012-05-30-erika-frantzve-was-scheduled-to-compete-.md">Erika Frantzve was scheduled to compete in the Miss USA pageant in Las Vegas.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2012-05-30: Erika Frantzve was scheduled to compete in the Miss USA pageant in Las Vegas. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:27:38](/episodes/ep-y8lak3CRwDw.md#t-00-27-18)
 
 </details>
 </div>
@@ -37085,22 +38777,22 @@ _Total events: 941_
 </details>
 </div>
 
-****
-
-<div class="timeline-event filter-item" id="event-2012-erika-kirk-began-the-romanian-angels-pro">
-<div class="timeline-date">2012</div>
-<div class="timeline-desc"><a href="/events/event-2012-erika-kirk-began-the-romanian-angels-pro.md">Erika Kirk began the Romanian Angels Project in late 2012 or early 2013, and it operated through 2015.</a></div>
+<div class="timeline-event filter-item" id="event-2012-02-everyday-heroes-like-you-began-johnnys-l">
+<div class="timeline-date">2012-02</div>
+<div class="timeline-desc"><a href="/events/event-2012-02-everyday-heroes-like-you-began-johnnys-l.md">Everyday Heroes Like You began Johnny's Locker Ministry.</a></div>
 <div class="timeline-meta">
 <span class="timeline-badge mentions">1× in 1 ep</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('2012: Erika Kirk began the Romanian Angels Project in late 2012 or early 2013, and it operated through 2015. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2012-02: Everyday Heroes Like You began Johnny\'s Locker Ministry. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [The Past Is Prologue: Why Charlie Kirk Was Murd... @ 00:10:34](/episodes/ep-wcD2khO3rOA.md#t-00-10-04)
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:25:52](/episodes/ep-y8lak3CRwDw.md#t-00-25-52)
 
 </details>
 </div>
+
+****
 
 <div class="timeline-event filter-item" id="event-2012-candace-owens-said-alleged-outcome-predi">
 <div class="timeline-date">2012</div>
@@ -37162,17 +38854,48 @@ _Total events: 941_
 </details>
 </div>
 
-<div class="timeline-event filter-item" id="event-2012-erika-kirk-won-miss-arizona">
+<div class="timeline-event filter-item" id="event-2012-everyday-heroes-like-you-visited-the-bla">
 <div class="timeline-date">2012</div>
-<div class="timeline-desc"><a href="/events/event-2012-erika-kirk-won-miss-arizona.md">Erika Kirk won Miss Arizona</a></div>
+<div class="timeline-desc"><a href="/events/event-2012-everyday-heroes-like-you-visited-the-bla.md">Everyday Heroes Like You visited the Black Sea Air Support Team in Constanta; the transcript gives conflicting recollections of 2012 and 2013.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('2012: Erika Kirk won Miss Arizona - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+<span class="timeline-badge mentions">2× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2012: Everyday Heroes Like You visited the Black Sea Air Support Team in Constanta; the transcript gives conflicting recollections of 2012 and 2013. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:15:23](/episodes/ep-jTj9Ip46r4w.md#t-00-15-23)
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:30:20](/episodes/ep-y8lak3CRwDw.md#t-00-29-57)
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:22:03](/episodes/ep-y8lak3CRwDw.md#t-00-21-49)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2012-erika-kirk-began-dating-josh-harrellson">
+<div class="timeline-date">2012</div>
+<div class="timeline-desc"><a href="/events/event-2012-erika-kirk-began-dating-josh-harrellson.md">Erika Kirk began dating Josh Harrellson.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2012: Erika Kirk began dating Josh Harrellson. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:36:38](/episodes/ep-DdPjoy5W-wY.md#t-00-36-20)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2012-jeffrey-epstein-and-the-princess-of-norw">
+<div class="timeline-date">2012</div>
+<div class="timeline-desc"><a href="/events/event-2012-jeffrey-epstein-and-the-princess-of-norw.md">Jeffrey Epstein and the princess of Norway discussed lab-designed humans in an email exchange.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2012: Jeffrey Epstein and the princess of Norway discussed lab-designed humans in an email exchange. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:07:15](/episodes/ep-ZzAT2xijKGQ.md#t-00-06-48)
 
 </details>
 </div>
@@ -37185,6 +38908,113 @@ _Total events: 941_
 <div class="timeline-container">
 
 <h2 id="year-2011">2011</h2>
+
+**November**
+
+<div class="timeline-event filter-item" id="event-2011-11-erika-frantzve-won-the-miss-arizona-usa-">
+<div class="timeline-date">2011-11</div>
+<div class="timeline-desc"><a href="/events/event-2011-11-erika-frantzve-won-the-miss-arizona-usa-.md">Erika Frantzve won the Miss Arizona USA competition in November 2011, beginning her 2012 title year.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">3× in 3 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2011-11: Erika Frantzve won the Miss Arizona USA competition in November 2011, beginning her 2012 title year. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:15:23](/episodes/ep-jTj9Ip46r4w.md#t-00-15-23)
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:24:36](/episodes/ep-y8lak3CRwDw.md#t-00-24-29)
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:19:45](/episodes/ep-ZzAT2xijKGQ.md#t-00-19-45)
+
+</details>
+</div>
+
+**September**
+
+<div class="timeline-event filter-item" id="event-2011-09-dennis-frantzve-served-with-the-black-se">
+<div class="timeline-date">2011-09</div>
+<div class="timeline-desc"><a href="/events/event-2011-09-dennis-frantzve-served-with-the-black-se.md">Dennis Frantzve served with the Black Sea Rotational Force in Constanta.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2011-09: Dennis Frantzve served with the Black Sea Rotational Force in Constanta. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:24:12](/episodes/ep-y8lak3CRwDw.md#t-00-23-49)
+
+</details>
+</div>
+
+**July**
+
+<div class="timeline-event filter-item" id="event-2011-07-01-tyler-bowyer-began-a-two-year-term-as-st">
+<div class="timeline-date">2011-07-01</div>
+<div class="timeline-desc"><a href="/events/event-2011-07-01-tyler-bowyer-began-a-two-year-term-as-st.md">Tyler Bowyer began a two-year term as student regent on the Arizona Board of Regents.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2011-07-01: Tyler Bowyer began a two-year term as student regent on the Arizona Board of Regents. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:15:15](/episodes/ep-y8lak3CRwDw.md#t-00-15-08)
+
+</details>
+</div>
+
+**June**
+
+<div class="timeline-event filter-item" id="event-2011-06-12-a-report-described-reno-marines-in-black">
+<div class="timeline-date">2011-06-12</div>
+<div class="timeline-desc"><a href="/events/event-2011-06-12-a-report-described-reno-marines-in-black.md">A report described Reno Marines in Black Sea Rotational Force 11 training Eastern European militaries.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2011-06-12: A report described Reno Marines in Black Sea Rotational Force 11 training Eastern European militaries. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:24:01](/episodes/ep-y8lak3CRwDw.md#t-00-23-49)
+
+</details>
+</div>
+
+**May**
+
+<div class="timeline-event filter-item" id="event-2011-05-04-an-article-reported-that-a-student-cohor">
+<div class="timeline-date">2011-05-04</div>
+<div class="timeline-desc"><a href="/events/event-2011-05-04-an-article-reported-that-a-student-cohor.md">An article reported that a student cohort including Nevada graduates would teach in Romania.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2011-05-04: An article reported that a student cohort including Nevada graduates would teach in Romania. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:13:56](/episodes/ep-y8lak3CRwDw.md#t-00-13-48)
+
+</details>
+</div>
+
+**April**
+
+<div class="timeline-event filter-item" id="event-2011-04-the-arizona-senate-confirmed-tyler-bowye">
+<div class="timeline-date">2011-04</div>
+<div class="timeline-desc"><a href="/events/event-2011-04-the-arizona-senate-confirmed-tyler-bowye.md">The Arizona Senate confirmed Tyler Bowyer as a student regent.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2011-04: The Arizona Senate confirmed Tyler Bowyer as a student regent. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:15:15](/episodes/ep-y8lak3CRwDw.md#t-00-15-08)
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:19:23](/episodes/ep-ZzAT2xijKGQ.md#t-00-19-14)
+
+</details>
+</div>
+
+****
 
 <div class="timeline-event filter-item" id="event-2011-otto-busher-iii-was-accused-of-running-a">
 <div class="timeline-date">2011</div>
@@ -37231,6 +39061,37 @@ _Total events: 941_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2011-erika-frantzve-enrolled-at-arizona-state">
+<div class="timeline-date">2011</div>
+<div class="timeline-desc"><a href="/events/event-2011-erika-frantzve-enrolled-at-arizona-state.md">Erika Frantzve enrolled at Arizona State University for her final college year.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2011: Erika Frantzve enrolled at Arizona State University for her final college year. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:15:54](/episodes/ep-y8lak3CRwDw.md#t-00-15-54)
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:19:45](/episodes/ep-ZzAT2xijKGQ.md#t-00-19-45)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2011-arizona-state-universitys-romanian-progr">
+<div class="timeline-date">2011</div>
+<div class="timeline-desc"><a href="/events/event-2011-arizona-state-universitys-romanian-progr.md">Arizona State University's Romanian program inaugurated its first Romanian lectureship.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2011: Arizona State University\'s Romanian program inaugurated its first Romanian lectureship. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein... @ 00:24:15](/episodes/ep-H9p2ZGHAs9A.md#t-00-23-53)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -37239,6 +39100,41 @@ _Total events: 941_
 <div class="timeline-container">
 
 <h2 id="year-2010">2010</h2>
+
+**December**
+
+<div class="timeline-event filter-item" id="event-2010-12-jeffrey-epstein-began-donating-to-arizon">
+<div class="timeline-date">2010-12</div>
+<div class="timeline-desc"><a href="/events/event-2010-12-jeffrey-epstein-began-donating-to-arizon.md">Jeffrey Epstein began donating to Arizona State University, according to Candace Owens.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2010-12: Jeffrey Epstein began donating to Arizona State University, according to Candace Owens. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:30:28](/episodes/ep-DdPjoy5W-wY.md#t-00-30-11)
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:19:14](/episodes/ep-ZzAT2xijKGQ.md#t-00-19-14)
+
+</details>
+</div>
+
+**September**
+
+<div class="timeline-event filter-item" id="event-2010-09-tyler-bowyer-returned-from-romania-aroun">
+<div class="timeline-date">2010-09</div>
+<div class="timeline-desc"><a href="/events/event-2010-09-tyler-bowyer-returned-from-romania-aroun.md">Tyler Bowyer returned from Romania around September 2010.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2010-09: Tyler Bowyer returned from Romania around September 2010. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:19:06](/episodes/ep-ZzAT2xijKGQ.md#t-00-18-32)
+
+</details>
+</div>
 
 **August**
 
@@ -37263,13 +39159,15 @@ _Total events: 941_
 <div class="timeline-date">2010-05-17</div>
 <div class="timeline-desc"><a href="/events/event-2010-05-17-black-sea-rotational-force-2010-began-a-.md">Black Sea Rotational Force 2010 began a three-month engagement at Mihail Kogălniceanu Airfield.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2010-05-17: Black Sea Rotational Force 2010 began a three-month engagement at Mihail Kogălniceanu Airfield. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:27:51](/episodes/ep-2tFYJf1klgY.md#t-00-27-51)
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:09:42](/episodes/ep-y8lak3CRwDw.md#t-00-09-42)
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:18:50](/episodes/ep-ZzAT2xijKGQ.md#t-00-18-32)
 
 </details>
 </div>
@@ -37330,7 +39228,7 @@ _Total events: 941_
 <div class="timeline-date">2010</div>
 <div class="timeline-desc"><a href="/events/event-2010-tyler-bowyer-traveled-to-romania-to-work.md">Tyler Bowyer traveled to Romania to work with the Romanian government.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">5× in 5 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2010: Tyler Bowyer traveled to Romania to work with the Romanian government. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -37338,6 +39236,9 @@ _Total events: 941_
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murd... @ 00:12:19](/episodes/ep-wcD2khO3rOA.md#t-00-12-10)
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:28:56](/episodes/ep-2tFYJf1klgY.md#t-00-28-30)
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:09:42](/episodes/ep-y8lak3CRwDw.md#t-00-09-42)
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:26:19](/episodes/ep-DdPjoy5W-wY.md#t-00-26-19)
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:18:56](/episodes/ep-ZzAT2xijKGQ.md#t-00-18-32)
 
 </details>
 </div>
@@ -37361,13 +39262,59 @@ _Total events: 941_
 <div class="timeline-date">2010</div>
 <div class="timeline-desc"><a href="/events/event-2010-lori-frantzve-reinstated-az-tech-interna.md">Lori Frantzve reinstated AZ Tech International Incorporated.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2010: Lori Frantzve reinstated AZ Tech International Incorporated. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:27:28](/episodes/ep-2tFYJf1klgY.md#t-00-27-28)
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:09:55](/episodes/ep-y8lak3CRwDw.md#t-00-09-42)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2010-the-european-union-required-romania-to-r">
+<div class="timeline-date">2010</div>
+<div class="timeline-desc"><a href="/events/event-2010-the-european-union-required-romania-to-r.md">The European Union required Romania to remove online gambling restrictions.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2010: The European Union required Romania to remove online gambling restrictions. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:09:30](/episodes/ep-y8lak3CRwDw.md#t-00-09-09)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2010-candace-owens-said-jeffrey-epstein-began">
+<div class="timeline-date">2010</div>
+<div class="timeline-desc"><a href="/events/event-2010-candace-owens-said-jeffrey-epstein-began.md">Candace Owens said Jeffrey Epstein began procuring models from Romania.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2010: Candace Owens said Jeffrey Epstein began procuring models from Romania. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:18:32](/episodes/ep-ZzAT2xijKGQ.md#t-00-18-32)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2010-an-honorary-consulate-general-of-romania">
+<div class="timeline-date">2010</div>
+<div class="timeline-desc"><a href="/events/event-2010-an-honorary-consulate-general-of-romania.md">An Honorary Consulate General of Romania was established on Arizona State University's campus.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2010: An Honorary Consulate General of Romania was established on Arizona State University\'s campus. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein... @ 00:24:15](/episodes/ep-H9p2ZGHAs9A.md#t-00-23-53)
 
 </details>
 </div>
@@ -37404,13 +39351,14 @@ _Total events: 941_
 <div class="timeline-date">2009-10</div>
 <div class="timeline-desc"><a href="/events/event-2009-10-the-romanian-government-agreed-to-allow-.md">The Romanian government agreed to allow the United States to establish a Black Sea military base.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2009-10: The Romanian government agreed to allow the United States to establish a Black Sea military base. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:19:20](/episodes/ep-2tFYJf1klgY.md#t-00-18-48)
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:09:19](/episodes/ep-y8lak3CRwDw.md#t-00-09-09)
 
 </details>
 </div>
@@ -37549,13 +39497,29 @@ _Total events: 941_
 <div class="timeline-date">2009</div>
 <div class="timeline-desc"><a href="/events/event-2009-jeffrey-epstein-emails-documented-effort.md">Jeffrey Epstein emails documented efforts to procure models from Romania.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2009: Jeffrey Epstein emails documented efforts to procure models from Romania. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:23:14](/episodes/ep-2tFYJf1klgY.md#t-00-23-14)
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:33:53](/episodes/ep-y8lak3CRwDw.md#t-00-33-53)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2009-the-romanian-parliament-passed-a-law-reg">
+<div class="timeline-date">2009</div>
+<div class="timeline-desc"><a href="/events/event-2009-the-romanian-parliament-passed-a-law-reg.md">The Romanian parliament passed a law regulating casino gambling.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2009: The Romanian parliament passed a law regulating casino gambling. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:08:11](/episodes/ep-y8lak3CRwDw.md#t-00-07-49)
 
 </details>
 </div>
@@ -37569,7 +39533,40 @@ _Total events: 941_
 
 <h2 id="year-2008">2008</h2>
 
+**September**
+
+<div class="timeline-event filter-item" id="event-2008-09-kirkwood-mayor-mike-swoboda-died-from-co">
+<div class="timeline-date">2008-09</div>
+<div class="timeline-desc"><a href="/events/event-2008-09-kirkwood-mayor-mike-swoboda-died-from-co.md">The Kirkwood mayor died from complications of wounds suffered in the City Hall shooting.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2008-09: The Kirkwood mayor died from complications of wounds suffered in the City Hall shooting. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:41:49](/episodes/ep-y8lak3CRwDw.md#t-00-41-30)
+
+</details>
+</div>
+
 **February**
+
+<div class="timeline-event filter-item" id="event-2008-02-07-charles-thornton-carried-out-the-kirkwoo">
+<div class="timeline-date">2008-02-07</div>
+<div class="timeline-desc"><a href="/events/event-2008-02-07-charles-thornton-carried-out-the-kirkwoo.md">Charles Thornton carried out the Kirkwood City Hall shooting.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2008-02-07: Charles Thornton carried out the Kirkwood City Hall shooting. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:41:30](/episodes/ep-y8lak3CRwDw.md#t-00-41-30)
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:42:38](/episodes/ep-y8lak3CRwDw.md#t-00-42-10)
+
+</details>
+</div>
 
 <div class="timeline-event filter-item" id="event-2008-02-01-britney-spears-conservatorship-implemented-by-fath">
 <div class="timeline-date">2008-02-01</div>
@@ -37728,6 +39725,21 @@ _Total events: 941_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [From Britney To Charlie. With Pastors Like Thes... @ 00:06:16](/episodes/ep-7RLtGgkTh9o.md#t-00-06-14)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2007-01-01-romania-and-bulgaria-joined-the-european">
+<div class="timeline-date">2007-01-01</div>
+<div class="timeline-desc"><a href="/events/event-2007-01-01-romania-and-bulgaria-joined-the-european.md">Romania and Bulgaria joined the European Union.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2007-01-01: Romania and Bulgaria joined the European Union. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:07:10](/episodes/ep-y8lak3CRwDw.md#t-00-07-03)
 
 </details>
 </div>
@@ -38268,6 +40280,21 @@ _Total events: 941_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2003-thomas-j-obrien-was-arrested-for-a-hit-a">
+<div class="timeline-date">2003</div>
+<div class="timeline-desc"><a href="/events/event-2003-thomas-j-obrien-was-arrested-for-a-hit-a.md">Thomas J. O'Brien was arrested for a hit-and-run that killed Jim Lee Reed.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2003: Thomas J. O\'Brien was arrested for a hit-and-run that killed Jim Lee Reed. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:04:35](/episodes/ep-_vg7ucP1E0g.md#t-00-04-24)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -38337,6 +40364,21 @@ _Total events: 941_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2002-prosecutors-initiated-a-grand-jury-inves">
+<div class="timeline-date">2002</div>
+<div class="timeline-desc"><a href="/events/event-2002-prosecutors-initiated-a-grand-jury-inves.md">Prosecutors initiated a grand jury investigation into sexual abuse allegations involving Catholic priests staffed by Thomas J. O'Brien.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2002: Prosecutors initiated a grand jury investigation into sexual abuse allegations involving Catholic priests staffed by Thomas J. O\'Brien. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:05:34](/episodes/ep-_vg7ucP1E0g.md#t-00-05-34)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -38367,13 +40409,14 @@ _Total events: 941_
 <div class="timeline-date">2001-10-07</div>
 <div class="timeline-desc"><a href="/events/event-2001-10-07-operation-enduring-freedom-began.md">Operation Enduring Freedom began.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2001-10-07: Operation Enduring Freedom began. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:09:07](/episodes/ep-2tFYJf1klgY.md#t-00-09-07)
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:17:52](/episodes/ep-y8lak3CRwDw.md#t-00-17-52)
 
 </details>
 </div>
@@ -38399,7 +40442,7 @@ _Total events: 941_
 <div class="timeline-date">2001-09-11</div>
 <div class="timeline-desc"><a href="/events/event-2001-09-11-september-11-attacks.md">September 11 attacks</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2001-09-11: September 11 attacks - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -38407,6 +40450,7 @@ _Total events: 941_
 
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAG... @ 01:12:00](/episodes/ep-LATnak75Si0.md#t-01-03-34)
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:04:30](/episodes/ep-sreYYcID-QY.md#t-00-04-09)
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:17:52](/episodes/ep-y8lak3CRwDw.md#t-00-17-52)
 
 </details>
 </div>
@@ -38439,6 +40483,21 @@ _Total events: 941_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:42:55](/episodes/ep-xjzb_t5Tk9o.md#t-01-42-45)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2001-tesseract-school-filed-for-bankruptcy">
+<div class="timeline-date">2001</div>
+<div class="timeline-desc"><a href="/events/event-2001-tesseract-school-filed-for-bankruptcy.md">Tesseract school filed for bankruptcy.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2001: Tesseract school filed for bankruptcy. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:02:56](/episodes/ep-_vg7ucP1E0g.md#t-00-02-56)
 
 </details>
 </div>
@@ -38864,6 +40923,23 @@ _Total events: 941_
 </details>
 </div>
 
+****
+
+<div class="timeline-event filter-item" id="event-1997-a-lawsuit-involving-a-pageant-company-wa">
+<div class="timeline-date">1997</div>
+<div class="timeline-desc"><a href="/events/event-1997-a-lawsuit-involving-a-pageant-company-wa.md">A lawsuit involving a pageant company was filed.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1997: A lawsuit involving a pageant company was filed. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:16:32](/episodes/ep-ZzAT2xijKGQ.md#t-00-15-58)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -39204,6 +41280,23 @@ _Total events: 941_
 </details>
 </div>
 
+**March**
+
+<div class="timeline-event filter-item" id="event-1990-03-gica-popa-died-by-suicide-three-months-a">
+<div class="timeline-date">1990-03</div>
+<div class="timeline-desc"><a href="/events/event-1990-03-gica-popa-died-by-suicide-three-months-a.md">Gica Popa died by suicide three months after the Ceaușescus' execution, according to a viewer comment.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1990-03: Gica Popa died by suicide three months after the Ceaușescus\' execution, according to a viewer comment. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:57:00](/episodes/ep-DdPjoy5W-wY.md#t-00-56-43)
+
+</details>
+</div>
+
 **January**
 
 <div class="timeline-event filter-item" id="event-1990-01-01-thomas-michael-camino-placed-on-probation-for-lewd">
@@ -39292,6 +41385,24 @@ _Total events: 941_
 
 <h2 id="year-1989">1989</h2>
 
+**December**
+
+<div class="timeline-event filter-item" id="event-1989-12-25-nicolae-and-elena-ceaușescu-were-execute">
+<div class="timeline-date">1989-12-25</div>
+<div class="timeline-desc"><a href="/events/event-1989-12-25-nicolae-and-elena-ceaușescu-were-execute.md">Nicolae and Elena Ceaușescu were executed after a show trial.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1989-12-25: Nicolae and Elena Ceaușescu were executed after a show trial. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:02:57](/episodes/ep-y8lak3CRwDw.md#t-00-02-30)
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:56:29](/episodes/ep-DdPjoy5W-wY.md#t-00-56-02)
+
+</details>
+</div>
+
 **November**
 
 <div class="timeline-event filter-item" id="event-1989-11-13-joint-task-force-six-jtf-6-established-a">
@@ -39306,6 +41417,23 @@ _Total events: 941_
 
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:05:05](/episodes/ep-t4U7NjnUEgc.md#t-00-04-35)
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachu... @ 00:26:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-26-10)
+
+</details>
+</div>
+
+****
+
+<div class="timeline-event filter-item" id="event-1989-the-berlin-wall-fell">
+<div class="timeline-date">1989</div>
+<div class="timeline-desc"><a href="/events/event-1989-the-berlin-wall-fell.md">The Berlin Wall fell.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1989: The Berlin Wall fell. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | E... @ 00:02:30](/episodes/ep-y8lak3CRwDw.md#t-00-02-30)
 
 </details>
 </div>
@@ -39543,6 +41671,21 @@ _Total events: 941_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-1982-thomas-j-obrien-began-his-leadership-of-">
+<div class="timeline-date">1982</div>
+<div class="timeline-desc"><a href="/events/event-1982-thomas-j-obrien-began-his-leadership-of-.md">Thomas J. O'Brien began his leadership of the Diocese of Phoenix.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1982: Thomas J. O\'Brien began his leadership of the Diocese of Phoenix. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:03:41](/episodes/ep-_vg7ucP1E0g.md#t-00-03-41)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -39719,6 +41862,23 @@ _Total events: 941_
 </details>
 </div>
 
+****
+
+<div class="timeline-event filter-item" id="event-1976-david-berg-introduced-flirty-fishing">
+<div class="timeline-date">1976</div>
+<div class="timeline-desc"><a href="/events/event-1976-david-berg-introduced-flirty-fishing.md">David Berg introduced flirty fishing.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1976: David Berg introduced flirty fishing. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's H... @ 00:21:54](/episodes/ep-5-HUyv9LyMg.md#t-00-21-54)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -39812,6 +41972,21 @@ _Total events: 941_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-1974-marina-abramovic-used-a-lit-petroleum-dr">
+<div class="timeline-date">1974</div>
+<div class="timeline-desc"><a href="/events/event-1974-marina-abramovic-used-a-lit-petroleum-dr.md">Marina Abramovic used a lit petroleum-drenched pentagram in a performance</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1974: Marina Abramovic used a lit petroleum-drenched pentagram in a performance - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Donald Trump Has Betrayed America. | Candace Ep... @ 00:04:28](/episodes/ep-i8m_6D4QGmk.md#t-00-04-28)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -39848,6 +42023,21 @@ _Total events: 941_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episo... @ 00:17:00](/episodes/ep-1IY2oD-_xVA.md#t-00-17-00)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-1971-david-berg-instructed-children-of-god-me">
+<div class="timeline-date">1971</div>
+<div class="timeline-desc"><a href="/events/event-1971-david-berg-instructed-children-of-god-me.md">David Berg instructed Children of God members to spread to Europe.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1971: David Berg instructed Children of God members to spread to Europe. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's H... @ 00:20:25](/episodes/ep-5-HUyv9LyMg.md#t-00-20-01)
 
 </details>
 </div>
@@ -39902,6 +42092,21 @@ _Total events: 941_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:38:57](/episodes/ep-jTj9Ip46r4w.md#t-00-38-32)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-1970-david-berg-began-aggressive-proselytizin">
+<div class="timeline-date">1970</div>
+<div class="timeline-desc"><a href="/events/event-1970-david-berg-began-aggressive-proselytizin.md">David Berg began aggressive proselytizing among young hippies.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1970: David Berg began aggressive proselytizing among young hippies. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's H... @ 00:19:45](/episodes/ep-5-HUyv9LyMg.md#t-00-19-29)
 
 </details>
 </div>
@@ -40176,32 +42381,6 @@ _Total events: 941_
 
 - [Operation Mocking-Plane: The Charlie Kirk Plot ... @ 00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00)
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:12:24](/episodes/ep-sreYYcID-QY.md#t-00-11-44)
-
-</details>
-</div>
-
-</div>
-</div>
-
-<div class="tab-content tab-content-year-1955">
-
-<div class="timeline-container">
-
-<h2 id="year-1955">1955</h2>
-
-**January**
-
-<div class="timeline-event filter-item" id="event-1955-01-01-crockett-johnson-published-harold-and-th">
-<div class="timeline-date">1955-01-01</div>
-<div class="timeline-desc"><a href="/events/event-1955-01-01-crockett-johnson-published-harold-and-th.md">Crockett Johnson published Harold and the Purple Crayon in 1955.</a></div>
-<div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('1955-01-01: Crockett Johnson published Harold and the Purple Crayon in 1955. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
-</div>
-<details>
-<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
-
-- [Judy Fan - DISI 2021 - Cognitive Technologies f... @ 00:00:00](/episodes/ep-yt-koVDYXSIfYo.md#t-00-00-00)
 
 </details>
 </div>
@@ -40508,6 +42687,30 @@ _Total events: 941_
 </div>
 </div>
 
+<div class="tab-content tab-content-year-1919">
+
+<div class="timeline-container">
+
+<h2 id="year-1919">1919</h2>
+
+<div class="timeline-event filter-item" id="event-1919-david-berg-was-born-in-california">
+<div class="timeline-date">1919</div>
+<div class="timeline-desc"><a href="/events/event-1919-david-berg-was-born-in-california.md">David Berg was born in California.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1919: David Berg was born in California. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's H... @ 00:19:29](/episodes/ep-5-HUyv9LyMg.md#t-00-19-29)
+
+</details>
+</div>
+
+</div>
+</div>
+
 <div class="tab-content tab-content-year-1918">
 
 <div class="timeline-container">
@@ -40638,32 +42841,6 @@ _Total events: 941_
 </div>
 </div>
 
-<div class="tab-content tab-content-year-1854">
-
-<div class="timeline-container">
-
-<h2 id="year-1854">1854</h2>
-
-**January**
-
-<div class="timeline-event filter-item" id="event-1854-01-01-john-snow-hand-drew-his-cholera-dot-map-">
-<div class="timeline-date">1854-01-01</div>
-<div class="timeline-desc"><a href="/events/event-1854-01-01-john-snow-hand-drew-his-cholera-dot-map-.md">John Snow hand-drew his cholera dot map of London in 1854.</a></div>
-<div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('1854-01-01: John Snow hand-drew his cholera dot map of London in 1854. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
-</div>
-<details>
-<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
-
-- [Judy Fan - DISI 2021 - Cognitive Technologies f... @ 00:00:04](/episodes/ep-yt-koVDYXSIfYo.md#t-00-00-00)
-
-</details>
-</div>
-
-</div>
-</div>
-
 <div class="tab-content tab-content-year-1848">
 
 <div class="timeline-container">
@@ -40681,32 +42858,6 @@ _Total events: 941_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:31:37](/episodes/ep-jTj9Ip46r4w.md#t-00-31-17)
-
-</details>
-</div>
-
-</div>
-</div>
-
-<div class="tab-content tab-content-year-1769">
-
-<div class="timeline-container">
-
-<h2 id="year-1769">1769</h2>
-
-**January**
-
-<div class="timeline-event filter-item" id="event-1769-01-01-joseph-priestleys-world-history-chart-ga">
-<div class="timeline-date">1769-01-01</div>
-<div class="timeline-desc"><a href="/events/event-1769-01-01-joseph-priestleys-world-history-chart-ga.md">Joseph Priestley's world history chart gave eighteenth-century viewers a new way to see global powers across time and space.</a></div>
-<div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('1769-01-01: Joseph Priestley\'s world history chart gave eighteenth-century viewers a new way to see global powers across time and space. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
-</div>
-<details>
-<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
-
-- [Judy Fan - DISI 2021 - Cognitive Technologies f... @ 00:00:05](/episodes/ep-yt-koVDYXSIfYo.md#t-00-00-00)
 
 </details>
 </div>

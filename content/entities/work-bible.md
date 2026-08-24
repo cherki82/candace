@@ -1,6 +1,6 @@
 ---
 title: "Bible"
-description: "Bible (Works & Media) - 45 mentions"
+description: "Bible (Works & Media) - 47 mentions"
 id: "work-bible"
 type: "WORK"
 aliases:
@@ -22,9 +22,9 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-work-bible-t-00-54-48">2026-01-16 · 00:55:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-work-bible-t-00-16-06">2026-03-03 · 00:16:13</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>45</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DdPjoy5W-wY.md#ent-work-bible-t-00-08-35">2026-03-06 · 00:08:57</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>47</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -46,6 +46,7 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-work-bible-t-00-28-09" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-work-bible-t-00-28-15" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 19 mentions" title="2026-03-02 · 19 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-work-bible-t-00-16-06" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-work-bible-t-00-04-27" style="--pulse-height:11%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +63,7 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-work-bible-t-00-28-09) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-work-bible-t-00-28-15) | 19 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-work-bible-t-00-16-06) | 1 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-work-bible-t-00-04-27) | 2 |
 
 </details>
 </section>
@@ -69,7 +71,18 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (2 mentions)</summary>
+
+**[00:04:34](/episodes/ep-DdPjoy5W-wY.md#ent-work-bible-t-00-04-27)**
+> "that prints bible verses onto t-shirts effectively just bible verse..."
+
+**[00:08:57](/episodes/ep-DdPjoy5W-wY.md#ent-work-bible-t-00-08-35)**
+> "...ease an associated app called Bible 365."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Jared Kushner"
-description: "Jared Kushner (People) - 16 mentions"
+description: "Jared Kushner (People) - 27 mentions"
 id: "person-jared-kushner"
 type: "PERSON"
 aliases:
@@ -22,23 +22,26 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-46-58">2025-10-09 · 00:47:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-kushner-t-00-45-46">2026-02-13 · 00:45:50</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-jared-kushner-t-00-56-29">2026-03-17 · 00:57:02</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>27</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-jared-kushner-t-00-31-07">Candace x Baron Coleman LIVE!! | Candace Ep 293</a> (7 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-jared-kushner-t-00-00-01">EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-46-58" style="--pulse-height:57%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 4 mentions" title="2025-10-09 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-jared-kushner-t-00-31-07" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 7 mentions" title="2026-01-20 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-jared-kushner-t-00-11-06" style="--pulse-height:14%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-kushner-t-00-45-46" style="--pulse-height:57%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 4 mentions" title="2026-02-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-46-58" style="--pulse-height:50%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 4 mentions" title="2025-10-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-jared-kushner-t-00-31-07" style="--pulse-height:88%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 7 mentions" title="2026-01-20 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-jared-kushner-t-00-11-06" style="--pulse-height:12%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-kushner-t-00-45-46" style="--pulse-height:50%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 4 mentions" title="2026-02-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-jared-kushner-t-00-00-01" style="--pulse-height:100%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 8 mentions" title="2026-03-12 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-person-jared-kushner-t-00-53-38" style="--pulse-height:12%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-jared-kushner-t-00-03-25" style="--pulse-height:25%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +51,9 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-jared-kushner-t-00-31-07) | 7 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jared-kushner-t-00-11-06) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-kushner-t-00-45-46) | 4 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-jared-kushner-t-00-00-01) | 8 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-jared-kushner-t-00-53-38) | 1 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-jared-kushner-t-00-03-25) | 2 |
 
 </details>
 </section>
@@ -55,7 +61,55 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
+
+**[00:53:38](/episodes/ep-k8ueJdPFel4.md#ent-person-jared-kushner-t-00-53-38)**
+> "...cky this is what happens when jared kushner um is running the white house with his father who..."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (2 mentions)</summary>
+
+**[00:03:25](/episodes/ep-I0OaY6Gryqk.md#ent-person-jared-kushner-t-00-03-25)**
+> "Jared Kushner"
+
+**[00:57:02](/episodes/ep-I0OaY6Gryqk.md#ent-person-jared-kushner-t-00-56-29)**
+> "...said, can we get an expose on Jared Kushner next?"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (8 mentions)</summary>
+
+**[00:00:01](/episodes/ep-5-HUyv9LyMg.md#ent-person-jared-kushner-t-00-00-01)**
+> "...p (Donald Trump), Kash Patel, Jared Kushner. Why does it now feel like everyone is implicated..."
+
+**[00:06:40](/episodes/ep-5-HUyv9LyMg.md#ent-person-jared-kushner-t-00-06-20)**
+> "... intentionally covered up for Jared Kushner's Israeli business friends who sold Ivanka and Jare..."
+
+**[00:07:10](/episodes/ep-5-HUyv9LyMg.md#ent-person-jared-kushner-t-00-06-57)**
+> "...se of their relationship with Jared Kushner, they enjoyed a warm relationship with Donald Tru..."
+
+**[00:07:43](/episodes/ep-5-HUyv9LyMg.md#ent-person-jared-kushner-t-00-07-32)**
+> "his friends. He's protecting Jared Kushner's friends, he is protecting Israel, and I gotta tel..."
+
+**[00:10:38](/episodes/ep-5-HUyv9LyMg.md#ent-person-jared-kushner-t-00-10-31)**
+> "...nstruction of his son-in-law, Jared Kushner, who everybody knows is running the White House. ..."
+
+**[00:10:57](/episodes/ep-5-HUyv9LyMg.md#ent-person-jared-kushner-t-00-10-31)**
+> "Everything he does is because Jared Kushner tells him to. So Trump (Donald Trump) is essentia..."
+
+**[00:11:03](/episodes/ep-5-HUyv9LyMg.md#ent-person-jared-kushner-t-00-10-31)**
+> "...e House, but it's always been Jared Kushner, okay? He was the one that also told him to lock ..."
+
+**[01:00:12](/episodes/ep-5-HUyv9LyMg.md#ent-person-jared-kushner-t-01-00-12)**
+> "...now what else that tells you? Jared Kushner's dad,"
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (4 mentions)</summary>
@@ -131,7 +185,45 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Son-In-Law Of (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:10:38](/episodes/ep-5-HUyv9LyMg.md#t-00-10-31): “the president of the United States, likely under the instruction of his son-in-law, Jared Kushner”
+
+</details>
+
+</details>
+
+<details>
+<summary>Works For (1)</summary>
+
+- **[White House](/entities/org-white-house.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:53:38](/episodes/ep-k8ueJdPFel4.md#t-00-53-38): “um for tucker carlson you know like real ghetto real soon uh lauren it's already pretty ghetto here but that's just gonna send that's really gonna send people like you're angry at him because he doesn't want american men and women to die overseas for israel like what is wrong with this administration it's totally wacky this is what happens when jared kushner um is running the white house with his father who is in Paris.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
+
+- **[White House](/entities/org-white-house.md)** employs this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:53:38](/episodes/ep-k8ueJdPFel4.md#t-00-53-38): “um for tucker carlson you know like real ghetto real soon uh lauren it's already pretty ghetto here but that's just gonna send that's really gonna send people like you're angry at him because he doesn't want american men and women to die overseas for israel like what is wrong with this administration it's totally wacky this is what happens when jared kushner um is running the white house with his father who is in Paris.”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** parent-in-law of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:10:38](/episodes/ep-5-HUyv9LyMg.md#t-00-10-31): “the president of the United States, likely under the instruction of his son-in-law, Jared Kushner”
+
+</details>
 
 - **[Howard Lutnick](/entities/person-howard-lutnick.md)** worked with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -145,7 +237,24 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jared Kushner (1)</strong></summary>
+<summary><strong class="section-title">Statements about Jared Kushner (5)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (4)</summary>
+
+- [00:06:40](/episodes/ep-5-HUyv9LyMg.md#t-00-06-20) (Accusation) **Candace Owens**: ["Donald Trump, Kash Patel, and Pam Bondi intentionally covered up for J..."](/statements/statement-28e106a196c3.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Kash Patel](/entities/person-kash-patel.md), [Pam Bondi](/entities/person-pam-bondi.md)
+
+- [00:10:38](/episodes/ep-5-HUyv9LyMg.md#t-00-10-31) (Accusation) **Candace Owens**: ["Jared Kushner is effectively running the White House for Donald Trump ..."](/statements/statement-80d9a99eb30e.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [White House](/entities/org-white-house.md)
+
+- [00:10:38](/episodes/ep-5-HUyv9LyMg.md#t-00-10-31) (Claim) **Candace Owens**: ["Donald Trump admitted that Jared Kushner told him to bomb Iran and tha..."](/statements/statement-f432a013f318.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md)
+
+- [00:11:03](/episodes/ep-5-HUyv9LyMg.md#t-00-10-31) (Claim) **Candace Owens**: ["Jared Kushner told Donald Trump to impose COVID lockdowns."](/statements/statement-96de63c74c2f.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [COVID-19 Pandemic](/entities/event-covid-19-pandemic.md)
+
+</details>
 
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1)</summary>

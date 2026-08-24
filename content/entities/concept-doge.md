@@ -1,19 +1,23 @@
 ---
 title: "Doge"
-description: "Doge (Concepts) - 23 mentions"
+description: "Doge (Concepts) - 24 mentions"
 id: "concept-doge"
 type: "CONCEPT"
+categories:
+  - "Turning Point USA internal audit initiative"
 ---
 
 _Type: Concepts_
+
+**Categories:** Turning Point USA internal audit initiative
 
 > **Possibly overlapping entity records:** [Department of Government Efficiency](/entities/org-department-of-government-efficiency). These records share a name or alias; compare their histories before treating either count as complete.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-concept-doge-t-00-19-45">2025-09-25 · 00:20:19</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-concept-doge-t-00-37-59">2025-12-08 · 00:38:13</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#ent-concept-doge-t-00-26-36">2026-03-11 · 00:26:49</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,6 +38,7 @@ _Type: Concepts_
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-concept-doge-t-00-54-00" style="--pulse-height:20%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-concept-doge-t-00-15-43" style="--pulse-height:100%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 5 mentions" title="2025-12-03 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-concept-doge-t-00-37-59" style="--pulse-height:20%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-concept-doge-t-00-26-36" style="--pulse-height:20%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +54,7 @@ _Type: Concepts_
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-concept-doge-t-00-54-00) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-concept-doge-t-00-15-43) | 5 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-concept-doge-t-00-37-59) | 1 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-concept-doge-t-00-26-36) | 1 |
 
 </details>
 </section>
@@ -56,7 +62,15 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1 mentions)</summary>
+
+**[00:26:49](/episodes/ep-H9p2ZGHAs9A.md#ent-concept-doge-t-00-26-36)**
+> "Charlie (Charlie Kirk) establishing a DOGE seven days before he died, Bibi (Benjamin Netanyahu)'s phone call in the Hamptons, Donald Trump, pageantry world, the Epstein files."
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>

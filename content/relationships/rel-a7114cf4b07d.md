@@ -11,7 +11,11 @@ object: "org-turning-point-usa"
 
 ## [Aubrey Laitsch](/entities/person-aubrey-laitsch) fired by [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
+
+**[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
+
+- [00:21:43](/episodes/ep-B9TyCs-6o_0#t-00-21-43): _we have Marina Minas, and we have Aubrey, who is later going to be fired over an Uber ride that Marina overhears_
 
 **[An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ)**
 

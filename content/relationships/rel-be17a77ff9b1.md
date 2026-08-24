@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Erika Kirk](/entities/person-erika-kirk) widow of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (19 mentions)
+### Evidence (28 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -25,9 +25,25 @@ object: "person-charlie-kirk"
 
 - [00:15:10](/episodes/ep-4YgrOhhy708#t-00-15-10): _Erika (Erika Kirk) first addressed the nation, ... and she did this in Charlie (Charlie Kirk)'s studio. ... waiting to see what she was going to say as the widow._
 
+**[EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg)**
+
+- [00:12:50](/episodes/ep-5-HUyv9LyMg#t-00-12-50): _foist Erika Kirk upon the masses, right? The widow_
+
 **[EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM)**
 
 - [00:12:47](/episodes/ep-A39g5oqB_eM#t-00-12-47): _20-hour days for a week during the time of us grieving the loss of my husband and honestly I know several staff that didn't even sleep um again you guys are breathing angels and I'm so grateful for all of you and obviously a huge thank you to the Mosaic team VI you guys are 10 out of 10 like there's we have ... Just lay it to rest and we are moving forward turning point USA 2.0 with Charlie (Charlie Kirk) in our hearts and that's what he would want._
+
+**[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
+
+- [00:00:28](/episodes/ep-B9TyCs-6o_0#t-00-00-28): _something made Erika Kirk, Charlie's wife, look very foolish. ... The one that's been living inside of me since Charlie's death._
+
+**[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
+
+- [00:11:24](/episodes/ep-DdPjoy5W-wY#t-00-11-24): _Charlie (Charlie Kirk). had a life insurance policy both at home, at work, which she would have benefited tremendously from. ... Erika (Erika Kirk) was set to receive $10 million from his work policy. ... if anything happens to me, I hope my wife is able to assume my role._
+
+**[EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A)**
+
+- [00:04:37](/episodes/ep-H9p2ZGHAs9A#t-00-04-37): _And his wife did a complete 180 like LBJ, inviting, frankly, deranged Zionists into the fold immediately._
 
 **[Coming soon...](/episodes/ep-LKR94FQ5p3o)**
 
@@ -49,6 +65,10 @@ object: "person-charlie-kirk"
 
 - [00:17:10](/episodes/ep-QdM9jLwjwLw#t-00-17-10): _in the context of Charlie (Charlie Kirk) and how he must be feeling in heaven. ... I'm going to let this play out for five minutes straight and there is no context needed other than this is five and a half days after her husband was publicly assassinated._
 
+**[REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30)**
+
+- [00:08:58](/episodes/ep-SgVcnx4Oh30#t-00-08-58): _it is not every day that you see the widow of Charlie Kirk accompanied by a man in clerical robes at an airport terminal._
+
 **[AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo)**
 
 - [00:10:13](/episodes/ep-Wjul6YV6izo#t-00-10-13): _36 hours after Charlie was assassinated? Maybe it was 48 hours after he was assassinated. Take a listen. ... but my husband's favorite word in the English language was earn._
@@ -61,6 +81,14 @@ object: "person-charlie-kirk"
 
 - [00:09:04](/episodes/ep-ZAsV0fHGBiM#t-00-09-04): _Erica (Erika Kirk) saw a brand with Charlie (Charlie Kirk). ... Her husband died a few days ago..._
 
+**[Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ)**
+
+- [00:02:10](/episodes/ep-ZzAT2xijKGQ#t-00-02-10): _In case you missed it, her husband died._
+
+**[Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g)**
+
+- [00:32:42](/episodes/ep-_vg7ucP1E0g#t-00-32-42): _There may have been this billion dollar motive to have Charlie Kirk killed that Erika (Erika Kirk) lied about the fact her husband texted multiple people the night before he said he feared he was going to be killed. His overriding point is that._
+
 **[Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8)**
 
 - [00:35:19](/episodes/ep-gG4ZoYUjUc8#t-00-35-19): _uh time to grieve that they take time off what's strange about that is the employees are like maybe you need to take time off because your husband just got publicly they thought it was very strange and apparently she didn't now everyone's saying she was in the office every day with Stacey Sheridan I told you that's like the chief fundraiser lady they're in the office every day following Charlie (Charlie Kirk)'s assassination_
@@ -69,9 +97,17 @@ object: "person-charlie-kirk"
 
 - [00:06:17](/episodes/ep-hWTdXHGQ8R4#t-00-06-17): _No person in their right mind would go into the home of a grieving widow and move a photo of her and her husband from their wedding day without explicit permission._
 
+**[Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk)**
+
+- [00:24:45](/episodes/ep-i8m_6D4QGmk#t-00-24-45): _I think nearly everyone in the world felt a little less safe in the days following Charlie's assassination, but not his wife, Erika Kirk, no._
+
 **[Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w)**
 
 - [00:01:52](/episodes/ep-jTj9Ip46r4w#t-00-01-52): _So Charlie (Charlie Kirk) was removed and in his place, we got a Shabbat Shalom and not so grieving widow._
+
+**[WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4)**
+
+- [00:05:58](/episodes/ep-k8ueJdPFel4#t-00-05-58): _She's been clear that she supports Israel. um she supports Erika Kirk turning point usa like but they can't do it it's so all or nothing that they just demand 100% groveling or they just push you out and then stalk you and gang stalk you and harass you so then this just has to mention me allude to me in his response to her and again he's gonna white knight for charlie kirk here and he says don't worry megan i would never ask you to protect me you won't even protect charlie kirk's widow_
 
 **[An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ)**
 

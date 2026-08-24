@@ -1,6 +1,6 @@
 ---
-title: "United States Secret Service based in Wilmington, Delaware"
-description: "Evidence for the relationship: United States Secret Service based in Wilmington, Delaware"
+title: "United States Secret Service based in Wilmington"
+description: "Evidence for the relationship: United States Secret Service based in Wilmington"
 relationship_id: "rel-7a03abbae22c"
 subject: "org-united-states-secret-service"
 predicate: "based in"
@@ -9,7 +9,7 @@ object: "gpe-wilmington"
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [United States Secret Service](/entities/org-united-states-secret-service) based in [Wilmington, Delaware](/entities/gpe-wilmington)
+## [United States Secret Service](/entities/org-united-states-secret-service) based in [Wilmington](/entities/gpe-wilmington)
 
 ### Evidence (1 mentions)
 
@@ -20,4 +20,4 @@ object: "gpe-wilmington"
 ### Related
 
 - [United States Secret Service](/entities/org-united-states-secret-service)
-- [Wilmington, Delaware](/entities/gpe-wilmington)
+- [Wilmington](/entities/gpe-wilmington)

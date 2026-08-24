@@ -54,7 +54,7 @@ _Type: People_
 <details>
 <summary>Works For (1)</summary>
 
-- **[CIA](/entities/org-central-intelligence-agency.md)**
+- **[Central Intelligence Agency](/entities/org-central-intelligence-agency.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:10:34](/episodes/ep-YaZfwLQ7vrI.md#t-00-10-09): “A CIA spokeswoman, Liz Lyon”
@@ -66,7 +66,7 @@ _Type: People_
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[CIA](/entities/org-central-intelligence-agency.md)** employs this
+- **[Central Intelligence Agency](/entities/org-central-intelligence-agency.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:10:34](/episodes/ep-YaZfwLQ7vrI.md#t-00-10-09): “A CIA spokeswoman, Liz Lyon”

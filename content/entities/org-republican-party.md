@@ -1,6 +1,6 @@
 ---
 title: "Republican Party"
-description: "Republican Party (Organizations) - 8 mentions"
+description: "Republican Party (Organizations) - 9 mentions"
 id: "org-republican-party"
 type: "ORG"
 aliases:
@@ -23,10 +23,10 @@ Source: [Republican National Committee](https://gop.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-republican-party-t-00-07-38">2026-01-05 · 00:07:41</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-33-14">2026-08-14 · 00:33:52</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -59,7 +59,7 @@ Source: [Republican National Committee](https://gop.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -112,11 +112,35 @@ Source: [Republican National Committee](https://gop.com/)
 
 </details>
 
+<details>
+<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
+
+**[00:32:19](/episodes/ep-5m-Wn6Pr5rM.md#t-00-32-19)**
+> "Republican Party"
+
+</details>
+
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Republican Party (2)</strong></summary>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (2)</summary>
+
+- [00:31:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31) (Accusation) **Alexis Wilkins** (via quoted tweet): ["A foreign-linked influence network has run coordinated operations agai..."](/statements/statement-ab51d0c96f29.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Alexis Wilkins](/entities/person-alexis-wilkins.md)
+
+- [00:32:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-32-47) (Accusation) **Alexis Wilkins** (via quoted tweet): ["Catholics for Catholics lists Michael Flynn as its senior adviser, and..."](/statements/statement-344288f8937f.md)
+  - Also about: [Catholics for Catholics](/entities/org-catholics-for-catholics.md), [Michael T. Flynn](/entities/person-michael-t-flynn.md)
+
+</details>
 
 </details>

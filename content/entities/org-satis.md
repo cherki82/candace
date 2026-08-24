@@ -18,7 +18,7 @@ _Type: Organizations_
 <div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -138,19 +138,6 @@ _Type: Organizations_
 
 <details>
 <summary>Has Investor (1)</summary>
-
-- **[ACE Partners](/entities/org-ace-partners.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
-
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00): “the second-largest shareholder for Satis is Israel. Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners. They are the second-largest shareholder to Satis.”
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:47](/episodes/ep-tB5SXXmd9vU.md#t-00-38-43): “"They are the second-largest shareholder to Satis."”
-
-</details>
-
-</details>
-
-<details>
-<summary>Investor Includes (1)</summary>
 
 - **[ACE Partners](/entities/org-ace-partners.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>

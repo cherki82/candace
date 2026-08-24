@@ -1,6 +1,6 @@
 ---
 title: "Operation Midnight Hammer"
-description: "Operation Midnight Hammer (Events) - 2 mentions"
+description: "Operation Midnight Hammer (Events) - 4 mentions"
 id: "event-operation-midnight-hammer"
 type: "EVENT"
 categories:
@@ -18,11 +18,11 @@ Source: [U.S. Department of Defense: Operation Midnight Hammer press conference]
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-4YgrOhhy708.md#ent-event-operation-midnight-hammer-t-00-28-49">2026-02-09 · 00:29:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-event-operation-midnight-hammer-t-00-00-00">2026-03-02 · 00:00:17</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#t-00-03-17">2026-03-23 · 00:03:30</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -33,6 +33,8 @@ Source: [U.S. Department of Defense: Operation Midnight Hammer press conference]
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-4YgrOhhy708.md#ent-event-operation-midnight-hammer-t-00-28-49" style="--pulse-height:100%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-event-operation-midnight-hammer-t-00-00-00" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-event-operation-midnight-hammer-t-00-49-48" style="--pulse-height:100%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#t-00-03-17" style="--pulse-height:100%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +42,8 @@ Source: [U.S. Department of Defense: Operation Midnight Hammer press conference]
 |---|---|---:|
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-event-operation-midnight-hammer-t-00-28-49) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-event-operation-midnight-hammer-t-00-00-00) | 1 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-event-operation-midnight-hammer-t-00-49-48) | 1 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#t-00-03-17) | 1 |
 
 </details>
 </section>
@@ -47,7 +51,23 @@ Source: [U.S. Department of Defense: Operation Midnight Hammer press conference]
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1 mentions)</summary>
+
+**[00:03:30](/episodes/ep-B9TyCs-6o_0.md#t-00-03-17)**
+> "at the end of Midnight Hammer"
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
+
+**[00:50:13](/episodes/ep-i8m_6D4QGmk.md#ent-event-operation-midnight-hammer-t-00-49-48)**
+> "Operation Midnight Hammer"
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1 mentions)</summary>
@@ -75,7 +95,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Operation Midnight Hammer (1)</strong></summary>
+<summary><strong class="section-title">Statements about Operation Midnight Hammer (2)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1)</summary>
+
+- [00:03:30](/episodes/ep-B9TyCs-6o_0.md#t-00-03-17) (Claim) **Joe Kent** (via quoted speech): ["Charlie Kirk advocated to President Trump against war with Iran, and I..."](/statements/statement-949bf4e50b9e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md)
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (1)</summary>

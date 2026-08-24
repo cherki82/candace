@@ -11,7 +11,7 @@ date: "2017-10-01"
 
 > Las Vegas mass shooting by Stephen Paddock kills 58 people
 
-## Mentioned In (4 times)
+## Mentioned In (5 times)
 
 ### 1. Why Is Everyone Crashing Out Over The Charlie Kirk Investiga...
 
@@ -44,3 +44,11 @@ date: "2017-10-01"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1271);return false;">▶️ Play</a>
 
 > We can call it the militant faith pipeline because it's getting a little much for me.
+
+### 5. Bride Of Charlie: What Happened In Romania? | Episode 6
+
+**Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
+**Timestamp:** [00:40:10](/episodes/ep-y8lak3CRwDw.md#event-event-2017-10-01-las-vegas-mass-shooting-by-stephen-paddock-kills-5-t-00-40-10) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2410);return false;">▶️ Play</a>
+
+> The Vegas shooting of October of 2017 apparently that had to do with the Middle East

@@ -1,6 +1,6 @@
 ---
 title: "Max Blumenthal"
-description: "Max Blumenthal (People) - 13 mentions"
+description: "Max Blumenthal (People) - 14 mentions"
 id: "person-max-blumenthal"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Max Blumenthal - The Grayzone](https://thegrayzone.com/author/max-blume
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-max-blumenthal-t-00-15-45">2025-09-15 · 00:16:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4YgrOhhy708.md#ent-person-max-blumenthal-t-00-30-58">2026-02-09 · 00:31:03</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-max-blumenthal-t-00-15-14">2026-03-17 · 00:15:14</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -38,6 +38,7 @@ Source: [Max Blumenthal - The Grayzone](https://thegrayzone.com/author/max-blume
 <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-max-blumenthal-t-00-52-41" style="--pulse-height:100%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 3 mentions" title="2025-10-08 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-max-blumenthal-t-00-53-16" style="--pulse-height:33%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-max-blumenthal-t-00-30-13" style="--pulse-height:67%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-max-blumenthal-t-00-15-14" style="--pulse-height:33%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [Max Blumenthal - The Grayzone](https://thegrayzone.com/author/max-blume
 | 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-max-blumenthal-t-00-52-41) | 3 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-max-blumenthal-t-00-53-16) | 1 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-max-blumenthal-t-00-30-13) | 2 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-max-blumenthal-t-00-15-14) | 1 |
 
 </details>
 </section>
@@ -57,7 +59,15 @@ Source: [Max Blumenthal - The Grayzone](https://thegrayzone.com/author/max-blume
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>
+
+**[00:15:14](/episodes/ep-I0OaY6Gryqk.md#ent-person-max-blumenthal-t-00-15-14)**
+> "radical left Jew hater Max Blumenthal"
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (2 mentions)</summary>
@@ -151,7 +161,26 @@ Source: [Max Blumenthal - The Grayzone](https://thegrayzone.com/author/max-blume
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Criticized By (1)</summary>
+
+- **[Laura Loomer](/entities/person-laura-loomer.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:15:14](/episodes/ep-I0OaY6Gryqk.md#t-00-15-14): “Laura Loomer follows up. It's so disrespectful to President Trump (Donald Trump), but don't say I didn't warn you about Joe Kent and his wife who works for the Trump (Donald Trump) hater and radical left Jew hater Max Blumenthal. Why does the White House allow these people to have wins?”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Laura Loomer](/entities/person-laura-loomer.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:15:14](/episodes/ep-I0OaY6Gryqk.md#t-00-15-14): “Laura Loomer follows up. It's so disrespectful to President Trump (Donald Trump), but don't say I didn't warn you about Joe Kent and his wife who works for the Trump (Donald Trump) hater and radical left Jew hater Max Blumenthal. Why does the White House allow these people to have wins?”
+
+</details>
 
 - **[Bill Ackman](/entities/person-bill-ackman.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -165,7 +194,15 @@ Source: [Max Blumenthal - The Grayzone](https://thegrayzone.com/author/max-blume
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Max Blumenthal (1)</strong></summary>
+<summary><strong class="section-title">Statements about Max Blumenthal (2)</strong></summary>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1)</summary>
+
+- [00:15:14](/episodes/ep-I0OaY6Gryqk.md#t-00-15-14) (Accusation) **Laura Loomer** (via quoted post): ["Joe Kent was disrespectful to Donald Trump, and Laura Loomer had warne..."](/statements/statement-995c2a6aa995.md)
+  - Also about: [Joe Kent](/entities/person-joe-kent.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
 
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Zionism"
-description: "Zionism (Concepts) - 233 mentions"
+description: "Zionism (Concepts) - 268 mentions"
 id: "concept-zionism"
 type: "CONCEPT"
 aliases:
@@ -28,11 +28,11 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-concept-zionism-t-00-31-15">2025-09-18 · 00:31:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-zionism-t-00-00-00">2026-03-02 · 00:00:30</a></strong></div>
-<div><span>Episodes</span><strong>42</strong></div>
-<div><span>Mentions</span><strong>233</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-concept-zionism-t-00-12-27">2026-03-23 · 00:12:53</a></strong></div>
+<div><span>Episodes</span><strong>51</strong></div>
+<div><span>Mentions</span><strong>268</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Statements about</span><strong>27</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -83,6 +83,14 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-zionism-t-00-00-46" style="--pulse-height:79%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 11 mentions" title="2026-02-11 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-concept-zionism-t-00-01-29" style="--pulse-height:14%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-zionism-t-00-00-00" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-concept-zionism-t-00-59-26" style="--pulse-height:8%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-zionism-t-00-52-34" style="--pulse-height:29%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 4 mentions" title="2026-03-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-concept-zionism-t-00-04-23" style="--pulse-height:29%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 4 mentions" title="2026-03-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-concept-zionism-t-00-08-06" style="--pulse-height:21%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-zionism-t-00-00-23" style="--pulse-height:57%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 8 mentions" title="2026-03-17 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-concept-zionism-t-00-12-12" style="--pulse-height:50%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 7 mentions" title="2026-03-17 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-zionism-t-00-47-41" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-concept-zionism-t-00-12-27" style="--pulse-height:14%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -130,6 +138,14 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-zionism-t-00-00-46) | 11 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-zionism-t-00-01-29) | 2 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-concept-zionism-t-00-00-00) | 1 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-concept-zionism-t-00-59-26) | 1 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-concept-zionism-t-00-52-34) | 4 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-concept-zionism-t-00-04-23) | 4 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-concept-zionism-t-00-08-06) | 3 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-concept-zionism-t-00-00-23) | 8 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-concept-zionism-t-00-12-12) | 7 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-concept-zionism-t-00-47-41) | 1 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-concept-zionism-t-00-12-27) | 2 |
 
 </details>
 </section>
@@ -137,7 +153,137 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (233)</strong></summary>
+<summary><strong class="section-title">Raw mentions (268)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (2 mentions)</summary>
+
+**[00:12:27](/episodes/ep-B9TyCs-6o_0.md#ent-concept-zionism-t-00-12-27)**
+> "allowed a force of Zionists who were harassing him"
+
+**[00:12:53](/episodes/ep-B9TyCs-6o_0.md#ent-concept-zionism-t-00-12-27)**
+> "...id not confirm it and allowed Zionists to lie about that."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
+
+**[00:47:41](/episodes/ep-_vg7ucP1E0g.md#ent-concept-zionism-t-00-47-41)**
+> "For everyone who's not a Zionist, there are also a ton of Jewish people who are not Zionists."
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (8 mentions)</summary>
+
+**[00:00:23](/episodes/ep-k8ueJdPFel4.md#ent-concept-zionism-t-00-00-23)**
+> "...engaged in treachery with his Zionist cabal. We are currently engaged in a war in the M..."
+
+**[00:05:49](/episodes/ep-k8ueJdPFel4.md#ent-concept-zionism-t-00-05-49)**
+> "...rfect example of someone that Zionists could have won the support of."
+
+**[00:36:23](/episodes/ep-k8ueJdPFel4.md#ent-concept-zionism-t-00-36-23)**
+> "...t is happening right now with Zionists and how Trump (Donald J. Trump) has been infected..."
+
+**[00:37:10](/episodes/ep-k8ueJdPFel4.md#ent-concept-zionism-t-00-36-57)**
+> "...s, especially we have watched Zionists bend the fabric of reality. They have purchase vi..."
+
+**[00:38:19](/episodes/ep-k8ueJdPFel4.md#ent-concept-zionism-t-00-38-19)**
+> "... supported Israel and thought Zionism was a moral position to hold. We may have been."
+
+**[00:38:49](/episodes/ep-k8ueJdPFel4.md#ent-concept-zionism-t-00-38-19)**
+> "...ing to restore relationships, Zionists continue to use tactics of slander, deception, la..."
+
+**[00:39:13](/episodes/ep-k8ueJdPFel4.md#ent-concept-zionism-t-00-39-04)**
+> "Zionists are quite literally their own worst enemy right n..."
+
+**[00:43:43](/episodes/ep-k8ueJdPFel4.md#ent-concept-zionism-t-00-43-43)**
+> "... this video went up, deranged Zionists started saying they hoped he went to prison."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (7 mentions)</summary>
+
+**[00:12:39](/episodes/ep-I0OaY6Gryqk.md#ent-concept-zionism-t-00-12-12)**
+> "Zionists"
+
+**[00:18:44](/episodes/ep-I0OaY6Gryqk.md#ent-concept-zionism-t-00-18-44)**
+> "...le the attacks have been from Zionists. This is not an anti-Zionist conference."
+
+**[00:19:33](/episodes/ep-I0OaY6Gryqk.md#ent-concept-zionism-t-00-19-26)**
+> "...ity that is not controlled by Zionism, the nastiness that we have to deal with on the b..."
+
+**[00:20:22](/episodes/ep-I0OaY6Gryqk.md#ent-concept-zionism-t-00-20-01)**
+> "... you know, the same bandit of Zionists, because how dare you have a feeling about."
+
+**[01:00:35](/episodes/ep-I0OaY6Gryqk.md#ent-concept-zionism-t-01-00-27)**
+> "... like mafia hive mentality uh zionist i'm referring to by the way by the way i got a no..."
+
+**[01:01:26](/episodes/ep-I0OaY6Gryqk.md#ent-concept-zionism-t-01-01-03)**
+> "...the Hormuz is only closed for Zionists."
+
+**[01:01:38](/episodes/ep-I0OaY6Gryqk.md#ent-concept-zionism-t-01-01-03)**
+> "... chill. I'm chilling. I'm not Zionist."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (3 mentions)</summary>
+
+**[00:08:06](/episodes/ep-5-HUyv9LyMg.md#ent-concept-zionism-t-00-08-06)**
+> "He's not a Zionist. The brothers were revealed because of him and th..."
+
+**[00:29:28](/episodes/ep-5-HUyv9LyMg.md#ent-concept-zionism-t-00-28-53)**
+> "Zionists are in there. They didn't kill him. But they are ..."
+
+**[00:45:06](/episodes/ep-5-HUyv9LyMg.md#ent-concept-zionism-t-00-45-06)**
+> "...bout it, if I was staging the Zionist takeover, the Zionist ideology takeover, I would ..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (4 mentions)</summary>
+
+**[00:04:37](/episodes/ep-H9p2ZGHAs9A.md#ent-concept-zionism-t-00-04-23)**
+> "..., inviting, frankly, deranged Zionists into the fold immediately. Ben Shapiro, who was, ..."
+
+**[00:37:53](/episodes/ep-H9p2ZGHAs9A.md#ent-concept-zionism-t-00-37-53)**
+> "...ve all that going on with the Zionists at the end."
+
+**[00:45:06](/episodes/ep-H9p2ZGHAs9A.md#ent-concept-zionism-t-00-44-46)**
+> "...in the middle on the topic of Zionism, very much so."
+
+**[00:04:12](/episodes/ep-H9p2ZGHAs9A.md#ent-concept-zionism-t-00-03-42)**
+> "Zionism was therefore their platitude. Zionists were also the people that were squeezing Charlie Kirk at the end of his life."
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (4 mentions)</summary>
+
+**[00:52:34](/episodes/ep-i8m_6D4QGmk.md#ent-concept-zionism-t-00-52-34)**
+> "because Zionists didn't like her Catholic perspectives"
+
+**[00:53:38](/episodes/ep-i8m_6D4QGmk.md#ent-concept-zionism-t-00-53-11)**
+> "Allow the Christian Zionists, the ones who make videos telling you how devilis..."
+
+**[00:53:52](/episodes/ep-i8m_6D4QGmk.md#ent-concept-zionism-t-00-53-52)**
+> "...rge you, all of you Christian Zionists, sign up for the military today. Please, you guys..."
+
+**[01:02:25](/episodes/ep-i8m_6D4QGmk.md#ent-concept-zionism-t-01-02-09)**
+> "...ple, similar to the Christian Zionists, that are, like, unhinged. Look at Paula White, t..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
+
+**[00:59:26](/episodes/ep-y8lak3CRwDw.md#ent-concept-zionism-t-00-59-26)**
+> "Zionist is just swarming him telling him how wonderful he is"
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1 mentions)</summary>
@@ -1048,6 +1194,26 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 
 </details>
 
+<details>
+<summary>ep-5m-Wn6Pr5rM (5 mentions)</summary>
+
+**[00:26:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-26-12)**
+> "Zionists"
+
+**[00:41:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-05)**
+> "...cause Catholic does not imply Zionism in the way that Southern Baptists might imply."
+
+**[00:41:25](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-25)**
+> "imply Zionism. And so elsewhere in the article, that's what he ..."
+
+**[00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-33)**
+> "...hat the faithful be committed Zionists to receive God's blessing."
+
+**[00:43:22](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-22)**
+> "...re feeling disenfranchised by Zionism? Yeah."
+
+</details>
+
 </details>
 
 <details open>
@@ -1080,7 +1246,56 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Zionism (18)</strong></summary>
+<summary><strong class="section-title">Statements about Zionism (27)</strong></summary>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (2)</summary>
+
+- [00:18:44](/episodes/ep-I0OaY6Gryqk.md#t-00-18-44) (Accusation) **Candace Owens**: ["Zionist opponents were emailing and calling people to seek cancellatio..."](/statements/statement-714c3f1f977b.md)
+  - Also about: [Catholics for Catholics](/entities/org-catholics-for-catholics.md), [Israel](/entities/gpe-israel.md)
+
+- [00:59:46](/episodes/ep-I0OaY6Gryqk.md#t-00-59-46) (Accusation) **Candace Owens**: ["Megyn Kelly has been subjected to literal stalking because she tells t..."](/statements/statement-95baa53f53fc.md)
+  - Also about: [Megyn Kelly](/entities/person-megyn-kelly.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (2)</summary>
+
+- [00:37:10](/episodes/ep-k8ueJdPFel4.md#t-00-36-57) (Accusation) **Candace Owens**: ["Zionists purchased views, influencers, and journalists, activated mill..."](/statements/statement-e7bc2974418d.md)
+  - Also about: [TikTok](/entities/org-tiktok.md), [Palestine](/entities/gpe-palestine.md)
+
+- [00:38:49](/episodes/ep-k8ueJdPFel4.md#t-00-38-19) (Accusation) **Candace Owens**: ["Zionists use slander, deception, lawfare, and murder to force their pe..."](/statements/statement-c35e4f6a880c.md)
+  - Also about: [Lawfare](/entities/concept-lawfare.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1)</summary>
+
+- [00:44:54](/episodes/ep-5-HUyv9LyMg.md#t-00-44-23) (Accusation) **Candace Owens**: ["Turning Point USA has been taken over and is reversing Charlie Kirk's ..."](/statements/statement-a4ca7ed4aa4b.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (2)</summary>
+
+- [00:04:23](/episodes/ep-H9p2ZGHAs9A.md#t-00-04-23) (Accusation) **Candace Owens**: ["Candace Owens accused Zionists of morally blackmailing and stressing C..."](/statements/statement-e08951f1a2c1.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:45:11](/episodes/ep-H9p2ZGHAs9A.md#t-00-44-46) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Charlie Kirk had made clear that he was tired of be..."](/statements/statement-169aee42e551.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
+
+- [00:52:34](/episodes/ep-i8m_6D4QGmk.md#t-00-52-34) (Accusation) **Candace Owens**: ["Trump fired Carrie Prejean Boller from a religious committee because Z..."](/statements/statement-9d059cffd52f.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Carrie Prejean Boller](/entities/person-carrie-prejean-boller.md), [Catholicism](/entities/concept-catholicism.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1)</summary>
@@ -1183,6 +1398,14 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 
 - [00:31:52](/episodes/ep-sreYYcID-QY.md#t-00-31-15) (Opinion) **Candace Owens**: ["Zionists control a lot of publications in America"](/statements/statement-5e65d2d7c15f.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (1)</summary>
+
+- [00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-33) (Claim) **The Daily Wire** (via quoted article): ["The Catholic Church does not demand that the faithful be committed Zio..."](/statements/statement-8180d1208c22.md)
+  - Also about: [Catholic Church](/entities/org-catholic-church.md), [God](/entities/concept-god.md)
 
 </details>
 

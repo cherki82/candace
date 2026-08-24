@@ -1,6 +1,6 @@
 ---
 title: "Christianity"
-description: "Christianity (Concepts) - 139 mentions"
+description: "Christianity (Concepts) - 159 mentions"
 id: "concept-christianity"
 type: "CONCEPT"
 aliases:
@@ -23,8 +23,8 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-07-28">2026-01-07 · 00:04:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10">2026-08-14 · 02:57:10</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>139</strong></div>
+<div><span>Episodes</span><strong>30</strong></div>
+<div><span>Mentions</span><strong>159</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -57,6 +57,12 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-concept-christianity-t-00-41-29" style="--pulse-height:11%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 4 mentions" title="2026-02-28 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-christianity-t-00-29-57" style="--pulse-height:23%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 8 mentions" title="2026-03-02 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-christianity-t-00-30-17" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 2 mentions" title="2026-03-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-concept-christianity-t-00-57-26" style="--pulse-height:8%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-christianity-t-00-34-48" style="--pulse-height:23%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 8 mentions" title="2026-03-06 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-christianity-t-00-11-29" style="--pulse-height:14%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 5 mentions" title="2026-03-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-concept-christianity-t-00-35-21" style="--pulse-height:8%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-christianity-t-00-09-12" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-concept-christianity-t-00-31-01" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -85,6 +91,12 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-concept-christianity-t-00-41-29) | 4 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-concept-christianity-t-00-29-57) | 8 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-concept-christianity-t-00-30-17) | 2 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-concept-christianity-t-00-57-26) | 1 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-concept-christianity-t-00-34-48) | 8 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-concept-christianity-t-00-11-29) | 5 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-concept-christianity-t-00-35-21) | 1 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-concept-christianity-t-00-09-12) | 2 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-concept-christianity-t-00-31-01) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10) | 1 |
 
 </details>
@@ -93,13 +105,100 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (139)</strong></summary>
+<summary><strong class="section-title">Raw mentions (159)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[02:57:10](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10)**
 > "lot of the actual. So I'm a Christian ethicist. and I then always"
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (2 mentions)</summary>
+
+**[00:09:24](/episodes/ep-k8ueJdPFel4.md#ent-concept-christianity-t-00-09-12)**
+> "..., its inherent vitriol toward Christianity. If you don't serve them, then it's problematic."
+
+**[00:52:19](/episodes/ep-k8ueJdPFel4.md#ent-concept-christianity-t-00-51-53)**
+> "...has God-given purpose. I am a Christian, a patriot, a mother, a lesbian, and a small busi..."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (2 mentions)</summary>
+
+**[00:31:09](/episodes/ep-I0OaY6Gryqk.md#ent-concept-christianity-t-00-31-01)**
+> "advocating for Christian conservative values"
+
+**[01:03:59](/episodes/ep-I0OaY6Gryqk.md#ent-concept-christianity-t-01-03-36)**
+> "I've always been a Christian, but the pull is getting stronger. I know everyon..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1 mentions)</summary>
+
+**[00:35:35](/episodes/ep-H9p2ZGHAs9A.md#ent-concept-christianity-t-00-35-21)**
+> "We have one from Alliance Defending Freedom, you know, talking about conservative Christian legal advocacy, yet"
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (5 mentions)</summary>
+
+**[00:11:49](/episodes/ep-i8m_6D4QGmk.md#ent-concept-christianity-t-00-11-29)**
+> "Christianity is one of the masks"
+
+**[00:13:09](/episodes/ep-i8m_6D4QGmk.md#ent-concept-christianity-t-00-12-57)**
+> "...in, it has nothing to do with Christianity."
+
+**[00:53:38](/episodes/ep-i8m_6D4QGmk.md#ent-concept-christianity-t-00-53-11)**
+> "Allow the Christian Zionists, the ones who make videos telling you ho..."
+
+**[00:53:52](/episodes/ep-i8m_6D4QGmk.md#ent-concept-christianity-t-00-53-52)**
+> "I urge you, all of you Christian Zionists, sign up for the military today. Please,..."
+
+**[01:02:25](/episodes/ep-i8m_6D4QGmk.md#ent-concept-christianity-t-01-02-09)**
+> "...ent of people, similar to the Christian Zionists, that are, like, unhinged. Look at Paula..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (8 mentions)</summary>
+
+**[00:34:48](/episodes/ep-DdPjoy5W-wY.md#ent-concept-christianity-t-00-34-48)**
+> "...ally and far from this deeply Christian story that she's going to spin uh in the future s..."
+
+**[00:35:14](/episodes/ep-DdPjoy5W-wY.md#ent-concept-christianity-t-00-35-14)**
+> "...is why it feels like chat gbt christianity like someone did the program thing again the algo..."
+
+**[00:35:40](/episodes/ep-DdPjoy5W-wY.md#ent-concept-christianity-t-00-35-14)**
+> "oh gosh no christian one would never date a guy live with him"
+
+**[00:35:45](/episodes/ep-DdPjoy5W-wY.md#ent-concept-christianity-t-00-35-45)**
+> "...u know your mother taught you christianity my mother taught me christianity no your mother a..."
+
+**[00:47:30](/episodes/ep-DdPjoy5W-wY.md#ent-concept-christianity-t-00-47-15)**
+> "...er happened when she hits the Christian button,"
+
+**[00:47:58](/episodes/ep-DdPjoy5W-wY.md#ent-concept-christianity-t-00-47-58)**
+> "the Christian button when she meets Charlie (Charlie Kirk), tha..."
+
+**[00:56:43](/episodes/ep-DdPjoy5W-wY.md#ent-concept-christianity-t-00-56-43)**
+> "We are a Christian country, an Orthodox Christian country with a ver..."
+
+**[00:58:16](/episodes/ep-DdPjoy5W-wY.md#ent-concept-christianity-t-00-57-51)**
+> "...vent to happen to such a dear Christian."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
+
+**[00:57:26](/episodes/ep-y8lak3CRwDw.md#ent-concept-christianity-t-00-57-26)**
+> "It was a mass Christian slaughter."
 
 </details>
 
@@ -621,6 +720,14 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 
 **[00:55:55](/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-55-24)**
 > "I want Christianity to win. I want goodness and truth to win,"
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
+
+**[00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-33)**
+> "Christianity"
 
 </details>
 

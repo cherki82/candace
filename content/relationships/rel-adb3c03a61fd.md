@@ -1,15 +1,15 @@
 ---
-title: "United States Pentagon headquarters of Department of Defense"
-description: "Evidence for the relationship: United States Pentagon headquarters of Department of Defense"
+title: "United States Pentagon headquarters of United States Department of Defense"
+description: "Evidence for the relationship: United States Pentagon headquarters of United States Department of Defense"
 relationship_id: "rel-adb3c03a61fd"
 subject: "org-united-states-pentagon"
 predicate: "headquarters of"
-object: "org-department-of-defense"
+object: "org-us-department-of-defense"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [United States Pentagon](/entities/org-united-states-pentagon) headquarters of [Department of Defense](/entities/org-department-of-defense)
+## [United States Pentagon](/entities/org-united-states-pentagon) headquarters of [United States Department of Defense](/entities/org-us-department-of-defense)
 
 ### Evidence (1 mentions)
 
@@ -20,4 +20,4 @@ object: "org-department-of-defense"
 ### Related
 
 - [United States Pentagon](/entities/org-united-states-pentagon)
-- [Department of Defense](/entities/org-department-of-defense)
+- [United States Department of Defense](/entities/org-us-department-of-defense)

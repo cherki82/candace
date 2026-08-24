@@ -1,0 +1,116 @@
+---
+title: "Strait of Hormuz"
+description: "Strait of Hormuz (Places) - 6 mentions"
+id: "gpe-strait-of-hormuz"
+type: "GPE"
+aliases:
+  - "the Strait"
+  - "the Straits"
+categories:
+  - "maritime chokepoint"
+  - "Middle East geography"
+---
+
+_Type: Places_
+
+**Also known as:** the Strait, the Straits
+
+**Categories:** maritime chokepoint, Middle East geography
+
+**Entity verification:** verified
+> The U.S. EIA confirms the canonical geographic name Strait of Hormuz and its location between Oman and Iran.
+Source: [World Oil Transit Chokepoints | U.S. EIA](https://www.eia.gov/international/analysis/special-topics/World_Oil_Transit_Chokepoints)
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-strait-of-hormuz-t-00-02-06">2026-03-17 · 00:02:20</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-strait-of-hormuz-t-00-27-09">2026-03-17 · 00:27:09</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-strait-of-hormuz-t-00-22-43">WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312</a> (5 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-strait-of-hormuz-t-00-22-43" style="--pulse-height:100%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 5 mentions" title="2026-03-17 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-strait-of-hormuz-t-00-02-06" style="--pulse-height:20%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-strait-of-hormuz-t-00-22-43) | 5 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-strait-of-hormuz-t-00-02-06) | 1 |
+
+</details>
+</section>
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (5 mentions)</summary>
+
+**[00:22:43](/episodes/ep-k8ueJdPFel4.md#ent-gpe-strait-of-hormuz-t-00-22-43)**
+> "...hat Iran could just close the Strait of Hormuz okay now in case you guys are not aware of how si..."
+
+**[00:24:56](/episodes/ep-k8ueJdPFel4.md#ent-gpe-strait-of-hormuz-t-00-24-56)**
+> "... thing prohibiting transit in the Straits right now is Iran shooting at shipping. It is ope..."
+
+**[00:26:28](/episodes/ep-k8ueJdPFel4.md#ent-gpe-strait-of-hormuz-t-00-26-28)**
+> "...s in our interest to keep the Strait of Hormuz open, and that's why we are also discussing what ..."
+
+**[00:26:47](/episodes/ep-k8ueJdPFel4.md#ent-gpe-strait-of-hormuz-t-00-26-28)**
+> "...intend to send ships into the Strait of Hormuz. We know how incredibly important that is."
+
+**[00:27:09](/episodes/ep-k8ueJdPFel4.md#ent-gpe-strait-of-hormuz-t-00-27-09)**
+> "...the recent tense situation in the Strait and the waters nearby has impacted the route for ..."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>
+
+**[00:02:20](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-strait-of-hormuz-t-00-02-06)**
+> "Strait of Hormuz"
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+_No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Strait of Hormuz (3)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (2)</summary>
+
+- [00:22:43](/episodes/ep-k8ueJdPFel4.md#t-00-22-43) (Claim) **Candace Owens**: ["Roughly 25 percent of global liquid petroleum moves through the Strait..."](/statements/statement-4dd135a2d5dd.md)
+  - Also about: [Iran](/entities/gpe-iran.md)
+
+- [00:24:56](/episodes/ep-k8ueJdPFel4.md#t-00-24-56) (Claim) **Pete Hegseth** (via quoted speech): ["The only thing prohibiting transit in the Strait of Hormuz is Iran sho..."](/statements/statement-7806b00a98a6.md)
+  - Also about: [Iran](/entities/gpe-iran.md)
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1)</summary>
+
+- [00:02:20](/episodes/ep-I0OaY6Gryqk.md#t-00-02-06) (Claim) **Candace Owens** (via paraphrase): ["India refused Donald Trump's request to send troops to the Strait of H..."](/statements/statement-ff0edd9ce8a7.md)
+  - Also about: [India](/entities/gpe-india.md), [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md)
+
+</details>
+
+</details>

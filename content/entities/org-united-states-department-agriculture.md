@@ -1,6 +1,6 @@
 ---
 title: "United States Department of Agriculture"
-description: "United States Department of Agriculture (Organizations) - 3 mentions"
+description: "United States Department of Agriculture (Organizations) - 5 mentions"
 id: "org-united-states-department-agriculture"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [About USDA](https://www.usda.gov/about-usda)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-department-agriculture-t-00-29-43">2026-01-12 · 00:29:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-united-states-department-agriculture-t-00-25-35">2026-02-11 · 00:25:54</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-united-states-department-agriculture-t-00-29-46">2026-03-18 · 00:30:14</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,6 +40,8 @@ Source: [About USDA](https://www.usda.gov/about-usda)
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-department-agriculture-t-00-29-43" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-united-states-department-agriculture-t-00-25-47" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-united-states-department-agriculture-t-00-25-35" style="--pulse-height:100%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-united-states-department-agriculture-t-00-26-11" style="--pulse-height:100%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-united-states-department-agriculture-t-00-29-46" style="--pulse-height:100%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +50,8 @@ Source: [About USDA](https://www.usda.gov/about-usda)
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-department-agriculture-t-00-29-43) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-united-states-department-agriculture-t-00-25-47) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-united-states-department-agriculture-t-00-25-35) | 1 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-united-states-department-agriculture-t-00-26-11) | 1 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-org-united-states-department-agriculture-t-00-29-46) | 1 |
 
 </details>
 </section>
@@ -55,7 +59,23 @@ Source: [About USDA](https://www.usda.gov/about-usda)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
+
+**[00:30:14](/episodes/ep-_vg7ucP1E0g.md#ent-org-united-states-department-agriculture-t-00-29-46)**
+> "Beef has just been placed on the top of the food pyramid by the USDA."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>
+
+**[00:26:36](/episodes/ep-5-HUyv9LyMg.md#ent-org-united-states-department-agriculture-t-00-26-11)**
+> "...op of the food pyramid by the USDA."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>

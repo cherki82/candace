@@ -1,6 +1,6 @@
 ---
-title: "Donald Trump parent of Ivanka Trump"
-description: "Evidence for the relationship: Donald Trump parent of Ivanka Trump"
+title: "Donald J. Trump parent of Ivanka Trump"
+description: "Evidence for the relationship: Donald J. Trump parent of Ivanka Trump"
 relationship_id: "rel-670a59becfd4"
 subject: "person-donald-trump"
 predicate: "parent of"
@@ -9,7 +9,7 @@ object: "person-ivanka-trump"
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Donald Trump](/entities/person-donald-trump) parent of [Ivanka Trump](/entities/person-ivanka-trump)
+## [Donald J. Trump](/entities/person-donald-trump) parent of [Ivanka Trump](/entities/person-ivanka-trump)
 
 ### Evidence (1 mentions)
 
@@ -19,5 +19,5 @@ object: "person-ivanka-trump"
 
 ### Related
 
-- [Donald Trump](/entities/person-donald-trump)
+- [Donald J. Trump](/entities/person-donald-trump)
 - [Ivanka Trump](/entities/person-ivanka-trump)

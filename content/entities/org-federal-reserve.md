@@ -200,7 +200,7 @@ _Type: Organizations_
 <details>
 <summary>Based In (1)</summary>
 
-- **[Wilmington, Delaware](/entities/gpe-wilmington.md)**
+- **[Wilmington](/entities/gpe-wilmington.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:15:30](/episodes/ep-SKGUzGHymcI.md#t-00-14-53): “When you Google FBI Wilmington Resident Agency, you will likely get 920 North King Street with the label Federal Bureau of Investigation.”
@@ -212,7 +212,7 @@ _Type: Organizations_
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[Wilmington, Delaware](/entities/gpe-wilmington.md)** location of this
+- **[Wilmington](/entities/gpe-wilmington.md)** location of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:15:30](/episodes/ep-SKGUzGHymcI.md#t-00-14-53): “When you Google FBI Wilmington Resident Agency, you will likely get 920 North King Street with the label Federal Bureau of Investigation.”

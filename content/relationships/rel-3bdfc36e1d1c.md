@@ -11,7 +11,11 @@ object: "person-nicole-rothstein"
 
 ## [Allan P. Rothstein](/entities/person-allan-p-rothstein) parent of [Nicole Rothstein](/entities/person-nicole-rothstein)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A)**
+
+- [00:09:10](/episodes/ep-H9p2ZGHAs9A#t-00-09-10): _She went to school for real estate and she currently runs her own real estate company. And her father, Alan Rothstein._
 
 **[Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM)**
 

@@ -1,6 +1,6 @@
 ---
-title: "Donald Trump criticized by Michael Savage"
-description: "Evidence for the relationship: Donald Trump criticized by Michael Savage"
+title: "Donald J. Trump criticized by Michael Savage"
+description: "Evidence for the relationship: Donald J. Trump criticized by Michael Savage"
 relationship_id: "rel-29b6edf6a348"
 subject: "person-donald-trump"
 predicate: "criticized by"
@@ -9,7 +9,7 @@ object: "person-michael-savage"
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Donald Trump](/entities/person-donald-trump) criticized by [Michael Savage](/entities/person-michael-savage)
+## [Donald J. Trump](/entities/person-donald-trump) criticized by [Michael Savage](/entities/person-michael-savage)
 
 ### Evidence (1 mentions)
 
@@ -19,5 +19,5 @@ object: "person-michael-savage"
 
 ### Related
 
-- [Donald Trump](/entities/person-donald-trump)
+- [Donald J. Trump](/entities/person-donald-trump)
 - [Michael Savage](/entities/person-michael-savage)

@@ -20,7 +20,7 @@ type: "factual_claim"
 
 ## About
 
-- [Mikey McCoy](/entities/person-mikey-mccoy.md) (person)
+- [Michael McCoy](/entities/person-michael-mccoy.md) (person)
 - [Blake Neff](/entities/person-blake-neff.md) (person)
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
 

@@ -1,6 +1,6 @@
 ---
 title: "Colorado"
-description: "Colorado (Places) - 17 mentions"
+description: "Colorado (Places) - 20 mentions"
 id: "gpe-colorado"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [State Information - Colorado.gov](https://co.colorado.gov/state-informa
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-colorado-t-00-09-13">2025-09-11 · 00:09:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-colorado-t-00-21-58">2026-03-03 · 00:22:04</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-colorado-t-00-29-16">2026-03-04 · 00:30:13</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [State Information - Colorado.gov](https://co.colorado.gov/state-informa
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-colorado-t-00-24-05" style="--pulse-height:50%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-colorado-t-00-36-51" style="--pulse-height:50%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-colorado-t-00-21-13" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 4 mentions" title="2026-03-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-colorado-t-00-29-16" style="--pulse-height:75%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 3 mentions" title="2026-03-04 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [State Information - Colorado.gov](https://co.colorado.gov/state-informa
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-colorado-t-00-24-05) | 2 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-colorado-t-00-36-51) | 2 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-colorado-t-00-21-13) | 4 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-colorado-t-00-29-16) | 3 |
 
 </details>
 </section>
@@ -58,7 +60,21 @@ Source: [State Information - Colorado.gov](https://co.colorado.gov/state-informa
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (3 mentions)</summary>
+
+**[00:29:32](/episodes/ep-y8lak3CRwDw.md#ent-gpe-colorado-t-00-29-16)**
+> "...edged the theater shooting in Colorado."
+
+**[00:30:13](/episodes/ep-y8lak3CRwDw.md#ent-gpe-colorado-t-00-29-16)**
+> "...he Batman shooting in Aurora, Colorado."
+
+**[00:28:53](/episodes/ep-y8lak3CRwDw.md#ent-gpe-colorado-t-00-29-16)**
+> "that Batman shooting that took place in Aurora, Colorado"
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (4 mentions)</summary>

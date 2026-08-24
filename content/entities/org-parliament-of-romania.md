@@ -1,6 +1,6 @@
 ---
 title: "Parliament of Romania"
-description: "Parliament of Romania (Organizations) - 4 mentions"
+description: "Parliament of Romania (Organizations) - 7 mentions"
 id: "org-parliament-of-romania"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [Constitution of Romania — Article 61](https://legislatie.just.ro/Publ
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-org-parliament-of-romania-t-00-28-30">2026-03-03 · 00:28:56</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-org-parliament-of-romania-t-00-54-40">2026-03-03 · 00:55:16</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-org-parliament-of-romania-t-00-52-36">2026-03-04 · 00:52:36</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>1</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -37,12 +37,14 @@ Source: [Constitution of Romania — Article 61](https://legislatie.just.ro/Publ
 <p>Highest activity: <a href="/episodes/ep-2tFYJf1klgY.md#ent-org-parliament-of-romania-t-00-30-43">Bride Of Charlie: The Lost Years... | Episode 5</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-org-parliament-of-romania-t-00-30-43" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 4 mentions" title="2026-03-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-parliament-of-romania-t-00-07-49" style="--pulse-height:75%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 3 mentions" title="2026-03-04 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-parliament-of-romania-t-00-30-43) | 4 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-parliament-of-romania-t-00-07-49) | 3 |
 
 </details>
 </section>
@@ -50,7 +52,21 @@ Source: [Constitution of Romania — Article 61](https://legislatie.just.ro/Publ
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (3 mentions)</summary>
+
+**[00:02:09](/episodes/ep-y8lak3CRwDw.md#ent-org-parliament-of-romania-t-00-07-49)**
+> "Who exactly is Tyler Bowyer working with in parliament? In Romania"
+
+**[00:08:11](/episodes/ep-y8lak3CRwDw.md#ent-org-parliament-of-romania-t-00-07-49)**
+> "...after they joined the EU, the Romanian parliament passes a law to regulate gambling."
+
+**[00:52:36](/episodes/ep-y8lak3CRwDw.md#ent-org-parliament-of-romania-t-00-52-36)**
+> "...the person in parliament, the Romanian parliament that Tyler was meeting with."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (4 mentions)</summary>
@@ -83,6 +99,19 @@ Source: [Constitution of Romania — Article 61](https://legislatie.just.ro/Publ
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:28:56](/episodes/ep-2tFYJf1klgY.md#t-00-28-30): “Tyler Bowyer in 2010, just when this gets established, is going to make an appearance in Romania to work with the Romanian parliament.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Parliament of Romania (1)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1)</summary>
+
+- [00:08:11](/episodes/ep-y8lak3CRwDw.md#t-00-07-49) (Claim) **Candace Owens**: ["In 2009 the Romanian Parliament passed a gambling law requiring casino..."](/statements/statement-994620ffa6aa.md)
+  - Also about: [Romania](/entities/gpe-romania.md)
 
 </details>
 

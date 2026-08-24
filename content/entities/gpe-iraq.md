@@ -1,6 +1,6 @@
 ---
 title: "Iraq"
-description: "Iraq (Places) - 40 mentions"
+description: "Iraq (Places) - 46 mentions"
 id: "gpe-iraq"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iraq-t-00-09-46">2025-11-12 · 00:10:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-iraq-t-00-04-53">2026-03-02 · 00:04:53</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>40</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-iraq-t-00-48-10">2026-03-17 · 00:48:10</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>46</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -40,6 +40,9 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-iraq-t-00-02-20" style="--pulse-height:100%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 12 mentions" title="2026-02-03 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-iraq-t-00-02-15" style="--pulse-height:33%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 4 mentions" title="2026-02-04 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-iraq-t-00-04-53" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-iraq-t-00-08-22" style="--pulse-height:8%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-iraq-t-00-33-55" style="--pulse-height:33%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 4 mentions" title="2026-03-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iraq-t-00-06-12" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +57,9 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-iraq-t-00-02-20) | 12 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-iraq-t-00-02-15) | 4 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-iraq-t-00-04-53) | 1 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-iraq-t-00-08-22) | 1 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iraq-t-00-33-55) | 4 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iraq-t-00-06-12) | 1 |
 
 </details>
 </section>
@@ -61,7 +67,40 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+<summary><strong class="section-title">Raw mentions (46)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (4 mentions)</summary>
+
+**[00:33:55](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iraq-t-00-33-55)**
+> "...e fact that we're also losing Iraq now. So check out this headline."
+
+**[00:34:19](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iraq-t-00-33-55)**
+> "... U.S. urges citizens to leave Iraq after attack on the embassy in Baghdad because se..."
+
+**[00:47:56](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iraq-t-00-47-25)**
+> "...over. See what's happening in Iraq? It doesn't matter if you've just got oil in Isra..."
+
+**[00:48:10](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iraq-t-00-48-10)**
+> "... middle of in the middle east iraq ever i mean no but we've got our own oil and it's..."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>
+
+**[00:06:12](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iraq-t-00-06-12)**
+> "Iraq"
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1 mentions)</summary>
+
+**[00:08:22](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-iraq-t-00-08-22)**
+> "like we did in Iraq"
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1 mentions)</summary>
@@ -238,7 +277,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Iraq (14)</strong></summary>
+<summary><strong class="section-title">Statements about Iraq (15)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1)</summary>
+
+- [00:34:19](/episodes/ep-k8ueJdPFel4.md#t-00-33-55) (Citation) **Candace Owens**: ["The United States urged citizens to leave Iraq after a drone struck th..."](/statements/statement-265cdbcd40ad.md)
+  - Also about: [United States](/entities/gpe-united-states.md), [U.S. Embassy Baghdad](/entities/org-us-embassy-baghdad.md), [Kata’ib Hizballah](/entities/org-kataib-hizballah.md)
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (5)</summary>

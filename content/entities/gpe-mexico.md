@@ -1,6 +1,6 @@
 ---
 title: "Mexico"
-description: "Mexico (Places) - 15 mentions"
+description: "Mexico (Places) - 17 mentions"
 id: "gpe-mexico"
 type: "GPE"
 aliases:
@@ -23,9 +23,9 @@ Source: [Government of Mexico: GOB.MX](https://www.gob.mx/en/index)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-mexico-t-00-07-30">2025-12-09 · 00:01:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-mexico-t-00-40-43">2026-02-11 · 00:48:46</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-mexico-t-00-16-15">2026-03-18 · 00:16:15</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,6 +39,8 @@ Source: [Government of Mexico: GOB.MX](https://www.gob.mx/en/index)
 <a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-mexico-t-00-07-30" style="--pulse-height:100%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 8 mentions" title="2025-12-09 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-mexico-t-00-29-32" style="--pulse-height:62%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 5 mentions" title="2025-12-18 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-mexico-t-00-40-43" style="--pulse-height:25%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-mexico-t-00-44-13" style="--pulse-height:12%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-mexico-t-00-16-15" style="--pulse-height:12%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +49,8 @@ Source: [Government of Mexico: GOB.MX](https://www.gob.mx/en/index)
 | 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-mexico-t-00-07-30) | 8 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-mexico-t-00-29-32) | 5 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-mexico-t-00-40-43) | 2 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-mexico-t-00-44-13) | 1 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-mexico-t-00-16-15) | 1 |
 
 </details>
 </section>
@@ -54,7 +58,23 @@ Source: [Government of Mexico: GOB.MX](https://www.gob.mx/en/index)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
+
+**[00:16:15](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-mexico-t-00-16-15)**
+> "No rules apply. People are trafficked. There's drug traffic. trafficking in fact when she gets involved i think they had just shut down it passes to mexico they had the san miguel gate on the tohono reservation which passed through to mexico and there's nothing the feds can do like what is Lori (Lori Frantzve) doing uh with a native american reservation can anybody tell me what tech she's doing that she's involving herself there is she involved with casinos is desert spirit tech tech casino stuff."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>
+
+**[00:44:20](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-mexico-t-00-44-13)**
+> "Roots down into Mexico. They've been around since day one."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (2 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "New York"
-description: "New York (Places) - 77 mentions"
+description: "New York (Places) - 113 mentions"
 id: "gpe-new-york"
 type: "GPE"
 categories:
@@ -17,11 +17,11 @@ Source: [State of New York](https://www.ny.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-50-22">2025-09-15 · 00:50:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-new-york-t-00-52-57">2026-03-02 · 00:52:57</a></strong></div>
-<div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>77</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-t-00-26-12">2026-03-18 · 00:33:13</a></strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>113</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -56,6 +56,11 @@ Source: [State of New York](https://www.ny.gov/)
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-new-york-t-00-24-28" style="--pulse-height:15%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-new-york-t-00-13-19" style="--pulse-height:46%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 6 mentions" title="2026-02-28 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-new-york-t-00-52-57" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-new-york-t-00-26-36" style="--pulse-height:31%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 4 mentions" title="2026-03-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-t-00-06-45" style="--pulse-height:100%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 13 mentions" title="2026-03-11 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-new-york-t-00-01-17" style="--pulse-height:62%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 8 mentions" title="2026-03-12 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-new-york-t-00-39-36" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-t-00-24-50" style="--pulse-height:77%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 10 mentions" title="2026-03-18 · 10 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -87,6 +92,11 @@ Source: [State of New York](https://www.ny.gov/)
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-new-york-t-00-24-28) | 2 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-new-york-t-00-13-19) | 6 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-new-york-t-00-52-57) | 1 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-new-york-t-00-26-36) | 4 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-t-00-06-45) | 13 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-new-york-t-00-01-17) | 8 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-new-york-t-00-39-36) | 1 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-t-00-24-50) | 10 |
 
 </details>
 </section>
@@ -94,7 +104,140 @@ Source: [State of New York](https://www.ny.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (77)</strong></summary>
+<summary><strong class="section-title">Raw mentions (113)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (10 mentions)</summary>
+
+**[00:24:50](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-t-00-24-50)**
+> "what sort of pressure he's going through and Charlie (Charlie Kirk) and me were just devastated we were devastated by this because it made us look like we were liars okay and it we were in a position where people wanted to see us fall okay why am I telling you this I get reached out somebody reached out to me get reached out to by a young woman in New York And she says to me that at this time, she said, you know, Erika (Erika Kirk) knew Kanye (Kanye West)."
+
+**[00:09:38](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-t-00-18-50)**
+> "...work. And now she's living in New York City, one of the most expensive cities in the wor..."
+
+**[00:10:58](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-t-00-18-50)**
+> "... I started Bible in 365 in my New York City apartment."
+
+**[00:12:20](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-t-00-18-50)**
+> "...rts of things while living in New York City and not having a job that is apparent to us."
+
+**[00:18:57](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-t-00-18-50)**
+> "... never dated while she was in New York."
+
+**[00:21:50](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-t-00-21-43)**
+> "...use remember, she's living in New York. I guess in her family's area, go back home, but ..."
+
+**[00:22:12](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-t-00-22-12)**
+> "...he company at a restaurant in New York."
+
+**[00:22:57](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-t-00-22-57)**
+> "...licensed real estate agent in New York and is immediately employed by Corcoran Real Esta..."
+
+**[00:26:15](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-t-00-26-12)**
+> "And this young woman in New York got me the proof of that proof that at the very l..."
+
+**[00:33:13](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-t-00-26-12)**
+> "...is regarding Kouri Richins, a New York Post article that said grief author Kouri Richins..."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>
+
+**[00:39:36](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-new-york-t-00-39-36)**
+> "when I lived in New York"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (8 mentions)</summary>
+
+**[00:01:17](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-new-york-t-00-01-17)**
+> "...ch other through the world of New York real estate, beauty pageants, Israelis and Easter..."
+
+**[00:03:10](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-new-york-t-00-01-17)**
+> "...le which was published by the New York Post."
+
+**[00:03:17](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-new-york-t-00-01-17)**
+> "...this is the title, inside the New York City condo building where Jeffrey Epstein secretl..."
+
+**[00:06:02](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-new-york-t-00-01-17)**
+> "...yers who were involved in the New York City real estate scene and who also happened to r..."
+
+**[00:08:37](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-new-york-t-00-08-25)**
+> "...high-end real estate deals in New York and Miami. Tom Hanson joins us now with more."
+
+**[00:09:17](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-new-york-t-00-08-25)**
+> "...with a splashy profile in the New York Times and appearances on cable business shows abo..."
+
+**[00:45:39](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-new-york-t-00-08-25)**
+> "...and doing interviews with the New York Times, everyone who gave him grief while he was a..."
+
+**[00:49:30](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-new-york-t-00-08-25)**
+> "...back when you were working in New York City that you had keys to a White House and you w..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (13 mentions)</summary>
+
+**[00:06:45](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-t-00-06-45)**
+> "...ls to stay while they were in New York. They tell me, and I'm going to quote this here, ..."
+
+**[00:08:06](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-t-00-06-45)**
+> "... the top modeling agencies in New York City, full stop, regarding what would you describ..."
+
+**[00:08:55](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-t-00-08-36)**
+> "...uch more likely that she's in New York and she's saying this, that she's referring to th..."
+
+**[00:10:01](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-t-00-10-01)**
+> "...now that if the Rothsteins in New York are at all related to Alan—to the Rothstein who w..."
+
+**[00:11:49](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-t-00-10-01)**
+> "...he bought a one-way ticket to New York City and made it home."
+
+**[00:11:59](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-t-00-10-01)**
+> "... on the developer side of the New York City real estate industry is a tremendous asset t..."
+
+**[00:14:38](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-t-00-14-38)**
+> "... confirm Erika (Erika Kirk)'s New York real estate license? I am indeed able to find a r..."
+
+**[00:14:53](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-t-00-14-38)**
+> "The New York State is from what I'm seeing at first glance sup..."
+
+**[00:15:34](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-t-00-15-22)**
+> "...nything real estate people in New York, let me know what you can find if you can confirm..."
+
+**[00:16:35](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-t-00-16-35)**
+> "... Kirk) was, in fact, while in New York, doing real estate deals with fiduciary responsib..."
+
+**[00:42:14](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-t-00-42-14)**
+> "New York real estate, the politics of it all, reality TV. ..."
+
+**[00:46:18](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-t-00-42-14)**
+> "... Next Model, but it's a small New York City world."
+
+**[00:00:34](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-t-00-00-22)**
+> "Okay. It has to stop right now because we received some follow-up information regarding Erika (Erika Kirk)'s time in New York, confusing time in New York, specifically more details pertaining to What the hell Erika (Erika Kirk) was doing parked at a modeling agency that was frequented by Jeffrey Epstein."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (4 mentions)</summary>
+
+**[00:26:56](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-new-york-t-00-26-36)**
+> "she also unusually receives her New York real estate license"
+
+**[00:22:10](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-new-york-t-00-26-36)**
+> "...heir Next Model Management in New York City, Faith Cates, who was the co-founder of it, ..."
+
+**[00:24:58](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-new-york-t-00-26-36)**
+> "...g at Next Model Management in new york city what's up what are you doing did you run int..."
+
+**[00:27:18](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-new-york-t-00-27-18)**
+> "...ika (Erika Kirk) completed in New York and real estate agents are reaching out to me say..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1 mentions)</summary>
@@ -467,7 +610,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about New York (1)</strong></summary>
+<summary><strong class="section-title">Statements about New York (3)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (2)</summary>
+
+- [00:15:11](/episodes/ep-H9p2ZGHAs9A.md#t-00-14-38) (Citation) **Candace Owens**: ["Candace Owens cited a third-party relic of New York real-estate licens..."](/statements/statement-58bd5320383b.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:15:22](/episodes/ep-H9p2ZGHAs9A.md#t-00-15-22) (Claim) **Candace Owens**: ["Candace Owens inferred from the license record that Erika Kirk's New Y..."](/statements/statement-047db67badb7.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1)</summary>

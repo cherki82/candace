@@ -1,6 +1,6 @@
 ---
 title: "Paris"
-description: "Paris (Places) - 7 mentions"
+description: "Paris (Places) - 11 mentions"
 id: "gpe-paris-france"
 type: "GPE"
 aliases:
@@ -23,9 +23,9 @@ Source: [Ville de Paris](https://www.paris.fr/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-paris-france-t-00-36-16">2026-01-16 · 00:36:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-paris-france-t-00-02-27">2026-02-27 · 00:02:39</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-paris-france-t-00-53-38">2026-03-17 · 00:53:38</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,6 +40,9 @@ Source: [Ville de Paris](https://www.paris.fr/)
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-paris-france-t-01-07-52" style="--pulse-height:67%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-paris-france-t-00-07-04" style="--pulse-height:100%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 3 mentions" title="2026-02-04 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-paris-france-t-00-02-27" style="--pulse-height:33%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-paris-france-t-00-03-18" style="--pulse-height:67%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-paris-france-t-00-17-19" style="--pulse-height:33%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-paris-france-t-00-53-38" style="--pulse-height:33%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +52,9 @@ Source: [Ville de Paris](https://www.paris.fr/)
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-paris-france-t-01-07-52) | 2 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-paris-france-t-00-07-04) | 3 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-paris-france-t-00-02-27) | 1 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-paris-france-t-00-03-18) | 2 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-paris-france-t-00-17-19) | 1 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-paris-france-t-00-53-38) | 1 |
 
 </details>
 </section>
@@ -56,7 +62,34 @@ Source: [Ville de Paris](https://www.paris.fr/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
+
+**[00:53:38](/episodes/ep-k8ueJdPFel4.md#ent-gpe-paris-france-t-00-53-38)**
+> "...use with his father who is in Paris."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1 mentions)</summary>
+
+**[00:17:19](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-paris-france-t-00-17-19)**
+> "Jean-Luc Brunel in Paris"
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (2 mentions)</summary>
+
+**[00:03:46](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-paris-france-t-00-03-18)**
+> "recent Paris fashion show"
+
+**[01:03:18](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-paris-france-t-01-03-18)**
+> "...ets into—because they visited Paris. I mean, France is problematic for a ton of reaso..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1 mentions)</summary>

@@ -11,7 +11,7 @@ date: "2018-11-07"
 
 > Thousand Oaks Borderline Bar shooting by Ian Long kills 12
 
-## Mentioned In (4 times)
+## Mentioned In (5 times)
 
 ### 1. Why Is Everyone Crashing Out Over The Charlie Kirk Investiga...
 
@@ -44,3 +44,11 @@ date: "2018-11-07"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(979);return false;">▶️ Play</a>
 
 > This is on November 7th, 2018. A former machine gunner in the Marines, okay, opens fire on patrons at the Borderline Bar and Grill. It kills 11 patrons and then himself.
+
+### 5. Bride Of Charlie: What Happened In Romania? | Episode 6
+
+**Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
+**Timestamp:** [00:39:48](/episodes/ep-y8lak3CRwDw.md#event-event-2018-11-07-thousand-oaks-borderline-bar-shooting-by-ian-long-t-00-39-31) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2388);return false;">▶️ Play</a>
+
+> he lost two congregants in the Thousand Oaks shooting at the Borderline Bar in 2018.

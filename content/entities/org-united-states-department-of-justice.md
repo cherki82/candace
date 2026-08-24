@@ -1,6 +1,6 @@
 ---
 title: "United States Department of Justice"
-description: "United States Department of Justice (Organizations) - 10 mentions"
+description: "United States Department of Justice (Organizations) - 14 mentions"
 id: "org-united-states-department-of-justice"
 type: "ORG"
 aliases:
@@ -26,11 +26,11 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-united-states-department-of-justice-t-00-13-21">2026-01-22 · 00:13:56</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-united-states-department-of-justice-t-00-43-07">2026-02-13 · 00:43:43</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-org-united-states-department-of-justice-t-00-45-40">2026-03-17 · 00:46:04</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -43,6 +43,8 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-united-states-department-of-justice-t-00-46-05" style="--pulse-height:20%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-united-states-department-of-justice-t-00-16-06" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 5 mentions" title="2026-02-02 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-united-states-department-of-justice-t-00-29-58" style="--pulse-height:60%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-org-united-states-department-of-justice-t-00-41-38" style="--pulse-height:60%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-united-states-department-of-justice-t-00-15-57" style="--pulse-height:20%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +54,8 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-united-states-department-of-justice-t-00-46-05) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-united-states-department-of-justice-t-00-16-06) | 5 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-united-states-department-of-justice-t-00-29-58) | 3 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-org-united-states-department-of-justice-t-00-41-38) | 3 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-united-states-department-of-justice-t-00-15-57) | 1 |
 
 </details>
 </section>
@@ -59,7 +63,29 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (3 mentions)</summary>
+
+**[00:41:38](/episodes/ep-k8ueJdPFel4.md#ent-org-united-states-department-of-justice-t-00-41-38)**
+> "...against me, a crime report to Department of Justice."
+
+**[00:45:50](/episodes/ep-k8ueJdPFel4.md#ent-org-united-states-department-of-justice-t-00-45-40)**
+> "...rting evidence. As I told the DOJ, Tucker Carlson isn't the only one who is likely ..."
+
+**[00:46:04](/episodes/ep-k8ueJdPFel4.md#ent-org-united-states-department-of-justice-t-00-45-40)**
+> "...do you have to give it to the DOJ? Why don't you just publish on X? It doesn't chan..."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>
+
+**[00:16:19](/episodes/ep-I0OaY6Gryqk.md#ent-org-united-states-department-of-justice-t-00-15-57)**
+> "the DOJ should open a criminal investigation"
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (3 mentions)</summary>
@@ -143,7 +169,18 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Department of Justice (5)</strong></summary>
+<summary><strong class="section-title">Statements about United States Department of Justice (7)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (2)</summary>
+
+- [00:41:38](/episodes/ep-k8ueJdPFel4.md#t-00-41-38) (Accusation) **Tucker Carlson** (via quoted speech): ["The CIA is preparing a criminal referral against Tucker Carlson to the..."](/statements/statement-f7a505a28269.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Iran](/entities/gpe-iran.md)
+
+- [00:45:40](/episodes/ep-k8ueJdPFel4.md#t-00-45-40) (Accusation) **Laura Loomer** (via quoted tweet): ["Laura Loomer created a list of conservative influencers she believes t..."](/statements/statement-9aff611619c4.md)
+  - Also about: [Laura Loomer](/entities/person-laura-loomer.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Iran](/entities/gpe-iran.md)
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2)</summary>

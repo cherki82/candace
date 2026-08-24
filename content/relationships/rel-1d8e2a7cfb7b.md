@@ -1,6 +1,6 @@
 ---
-title: "Jason Chavitz lives in Utah"
-description: "Evidence for the relationship: Jason Chavitz lives in Utah"
+title: "Jason Chaffetz lives in Utah"
+description: "Evidence for the relationship: Jason Chaffetz lives in Utah"
 relationship_id: "rel-1d8e2a7cfb7b"
 subject: "person-jason-chavitz"
 predicate: "lives in"
@@ -9,7 +9,7 @@ object: "gpe-utah"
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Jason Chavitz](/entities/person-jason-chavitz) lives in [Utah](/entities/gpe-utah)
+## [Jason Chaffetz](/entities/person-jason-chavitz) lives in [Utah](/entities/gpe-utah)
 
 ### Evidence (1 mentions)
 
@@ -19,5 +19,5 @@ object: "gpe-utah"
 
 ### Related
 
-- [Jason Chavitz](/entities/person-jason-chavitz)
+- [Jason Chaffetz](/entities/person-jason-chavitz)
 - [Utah](/entities/gpe-utah)

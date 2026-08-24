@@ -1,8 +1,8 @@
 ---
 title: "Jeffrey Epstein said in an email that he worked on behalf of..."
-description: "\"Jeffrey Epstein said in an email that he worked on behalf of the Rothschilds.\" — Candace Owens"
+description: "\"Jeffrey Epstein said in an email that he worked on behalf of the Rothschilds.\" — Jeffrey Epstein"
 statement_id: "statement-3fee9cb5f3f2"
-speaker: "Candace Owens"
+speaker: "Jeffrey Epstein"
 type: "citation"
 veracity: "true"
 ---
@@ -15,9 +15,11 @@ veracity: "true"
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Jeffrey Epstein](/entities/person-jeffrey-epstein.md) (Quoted)
 
-**Delivery:** Made directly
+**Delivery:** Read from message
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Email from Jeffrey Epstein regarding the Rothschilds
 
 ## About
 

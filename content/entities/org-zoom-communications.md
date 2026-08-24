@@ -1,6 +1,6 @@
 ---
 title: "Zoom Communications"
-description: "Zoom Communications (Organizations) - 13 mentions"
+description: "Zoom Communications (Organizations) - 15 mentions"
 id: "org-zoom-communications"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [About Zoom](https://www.zoom.com/en/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#t-00-00-00">2026-01-28 · 00:00:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#t-00-54-15">2026-03-02 · 00:54:39</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#t-01-01-08">2026-03-24 · 01:01:08</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -42,6 +42,7 @@ Source: [About Zoom](https://www.zoom.com/en/about/)
 <a href="/episodes/ep-1hcjQGgvxUY.md#t-00-38-46" style="--pulse-height:20%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#t-00-10-44" style="--pulse-height:20%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#t-00-54-15" style="--pulse-height:20%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#t-01-00-10" style="--pulse-height:40%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [About Zoom](https://www.zoom.com/en/about/)
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#t-00-38-46) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#t-00-10-44) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#t-00-54-15) | 1 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#t-01-00-10) | 2 |
 
 </details>
 </section>
@@ -61,7 +63,18 @@ Source: [About Zoom](https://www.zoom.com/en/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (2 mentions)</summary>
+
+**[01:00:16](/episodes/ep-SgVcnx4Oh30.md#t-01-00-10)**
+> "before I knew about the Zoom calls"
+
+**[01:01:08](/episodes/ep-SgVcnx4Oh30.md#t-01-01-08)**
+> "...ng on now i got giggly emojis zoom call and uh march hats and it just it just i wish..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1 mentions)</summary>

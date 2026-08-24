@@ -14,7 +14,7 @@ _Type: People_
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -86,7 +86,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -103,13 +103,6 @@ _Type: People_
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** has investor this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:02:06](/episodes/ep-c5BcKF91iec.md#t-00-01-39): “Foster Friess's funeral—who was a big-time donor to Turning Point USA, still is, I believe.”
-
-</details>
-
-- **[Turning Point USA](/entities/org-turning-point-usa.md)** investor includes this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:02:06](/episodes/ep-c5BcKF91iec.md#t-00-01-39): “Foster Friess's funeral—who was a big-time donor to Turning Point USA, still is, I believe.”

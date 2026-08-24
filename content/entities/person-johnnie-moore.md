@@ -1,6 +1,6 @@
 ---
 title: "Johnnie Moore"
-description: "Johnnie Moore (People) - 35 mentions"
+description: "Johnnie Moore (People) - 37 mentions"
 id: "person-johnnie-moore"
 type: "PERSON"
 aliases:
@@ -25,12 +25,12 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-johnnie-moore-t-00-07-06">2026-01-09 · 00:07:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-johnnie-moore-t-00-43-53">2026-01-13 · 00:43:53</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-johnnie-moore-t-00-21-28">2026-03-10 · 00:21:56</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>37</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
-<div><span>Relationships</span><strong>17</strong></div>
+<div><span>Relationships</span><strong>19</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -41,6 +41,8 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-johnnie-moore-t-00-07-06" style="--pulse-height:21%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 6 mentions" title="2026-01-09 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-17-45" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 28 mentions" title="2026-01-12 · 28 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-johnnie-moore-t-00-43-53" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-johnnie-moore-t-00-40-31" style="--pulse-height:8%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-johnnie-moore-t-00-21-28" style="--pulse-height:8%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +51,8 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-johnnie-moore-t-00-07-06) | 6 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-17-45) | 28 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-johnnie-moore-t-00-43-53) | 1 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-johnnie-moore-t-00-40-31) | 1 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-johnnie-moore-t-00-21-28) | 1 |
 
 </details>
 </section>
@@ -56,7 +60,23 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1 mentions)</summary>
+
+**[00:21:56](/episodes/ep-ZzAT2xijKGQ.md#ent-person-johnnie-moore-t-00-21-28)**
+> "working with Mark Burnett via Johnny Moore"
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>
+
+**[00:40:31](/episodes/ep-DdPjoy5W-wY.md#ent-person-johnnie-moore-t-00-40-31)**
+> "that Johnny Moore is going to leave Liberty University and start th..."
+
+</details>
 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
@@ -239,13 +259,21 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 </details>
 
 <details>
-<summary>Formerly Worked For (1)</summary>
+<summary>Formerly Worked For (2)</summary>
 
 - **[Liberty University](/entities/org-liberty-university.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:20](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “Johnnie Moore was the lead pastor at Liberty University prior to then leaving Liberty University to start the PR firm.”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “when Johnnie left Liberty University in 2014, he went to Hollywood to start the PR company, the KAIROS Company.”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:31](/episodes/ep-DdPjoy5W-wY.md#t-00-40-31): “Johnny Moore is going to leave Liberty University”
+
+</details>
+
+- **[Mark Burnett](/entities/person-mark-burnett.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:31](/episodes/ep-DdPjoy5W-wY.md#t-00-40-31): “Johnny Moore is working for Mark Burnett”
 
 </details>
 
@@ -255,9 +283,10 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <summary>Founded (1)</summary>
 
 - **[KAIROS Company](/entities/org-kairos-company.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “he went to Hollywood to start the PR company, the KAIROS Company.”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:31](/episodes/ep-DdPjoy5W-wY.md#t-00-40-31): “start the Kairos company with Andrew”
 
 </details>
 
@@ -288,7 +317,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[Aspen Institute](/entities/org-aspen-institute.md)** advised by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -319,17 +348,26 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 </details>
 
 - **[Liberty University](/entities/org-liberty-university.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:20](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “Johnnie Moore was the lead pastor at Liberty University prior to then leaving Liberty University to start the PR firm.”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “when Johnnie left Liberty University in 2014, he went to Hollywood to start the PR company, the KAIROS Company.”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:31](/episodes/ep-DdPjoy5W-wY.md#t-00-40-31): “Johnny Moore is going to leave Liberty University”
+
+</details>
+
+- **[Mark Burnett](/entities/person-mark-burnett.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:31](/episodes/ep-DdPjoy5W-wY.md#t-00-40-31): “Johnny Moore is working for Mark Burnett”
 
 </details>
 
 - **[KAIROS Company](/entities/org-kairos-company.md)** founded by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “he went to Hollywood to start the PR company, the KAIROS Company.”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:31](/episodes/ep-DdPjoy5W-wY.md#t-00-40-31): “start the Kairos company with Andrew”
 
 </details>
 

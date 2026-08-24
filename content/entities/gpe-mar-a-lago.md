@@ -1,6 +1,6 @@
 ---
 title: "Mar-a-Lago"
-description: "Mar-a-Lago (Places) - 10 mentions"
+description: "Mar-a-Lago (Places) - 11 mentions"
 id: "gpe-mar-a-lago"
 type: "GPE"
 categories:
@@ -20,9 +20,9 @@ Source: [Mar-a-Lago National Historic Landmark - NPS](https://www.nps.gov/places
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-mar-a-lago-t-00-26-44">2026-01-05 · 00:27:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-mar-a-lago-t-00-08-24">2026-03-02 · 00:08:24</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-mar-a-lago-t-00-15-18">2026-03-10 · 00:15:18</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,6 +40,7 @@ Source: [Mar-a-Lago National Historic Landmark - NPS](https://www.nps.gov/places
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-mar-a-lago-t-00-41-22" style="--pulse-height:33%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-mar-a-lago-t-01-06-56" style="--pulse-height:33%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-mar-a-lago-t-00-08-24" style="--pulse-height:33%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-mar-a-lago-t-00-15-18" style="--pulse-height:33%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [Mar-a-Lago National Historic Landmark - NPS](https://www.nps.gov/places
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-mar-a-lago-t-00-41-22) | 1 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-mar-a-lago-t-01-06-56) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-mar-a-lago-t-00-08-24) | 1 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-mar-a-lago-t-00-15-18) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [Mar-a-Lago National Historic Landmark - NPS](https://www.nps.gov/places
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1 mentions)</summary>
+
+**[00:15:18](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-mar-a-lago-t-00-15-18)**
+> "events at the White House, Mar-a-Lago"
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1 mentions)</summary>

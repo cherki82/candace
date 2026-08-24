@@ -1,6 +1,6 @@
 ---
-title: "Eric Trump child of Donald Trump"
-description: "Evidence for the relationship: Eric Trump child of Donald Trump"
+title: "Eric Trump child of Donald J. Trump"
+description: "Evidence for the relationship: Eric Trump child of Donald J. Trump"
 relationship_id: "rel-c11cf6a99eed"
 subject: "person-eric-trump"
 predicate: "child of"
@@ -9,7 +9,7 @@ object: "person-donald-trump"
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Eric Trump](/entities/person-eric-trump) child of [Donald Trump](/entities/person-donald-trump)
+## [Eric Trump](/entities/person-eric-trump) child of [Donald J. Trump](/entities/person-donald-trump)
 
 ### Evidence (1 mentions)
 
@@ -20,4 +20,4 @@ object: "person-donald-trump"
 ### Related
 
 - [Eric Trump](/entities/person-eric-trump)
-- [Donald Trump](/entities/person-donald-trump)
+- [Donald J. Trump](/entities/person-donald-trump)

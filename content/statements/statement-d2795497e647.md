@@ -25,13 +25,23 @@ type: "citation"
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Fort Huachuca](/entities/gpe-fort-huachuca.md) (gpe)
 
-## Source
+## Appearances (2)
+
+### 1. CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
 **Timestamp:** [00:30:54](/episodes/ep-QRS_hR7NXaQ.md#t-00-30-39) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1854);return false;">Play</a>
 
 > Again, that Erika (Erika Kirk) says that she made Charlie (Charlie Kirk) dinner, that has been the alibi for Fort Huachuca. I have questions about that. I have a lot of questions about that particular timeline and whether or not she was indeed at home making him dinner.
+
+### 2. Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309
+
+**Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
+**Timestamp:** [00:34:37](/episodes/ep-ZzAT2xijKGQ.md#t-00-34-37) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2077);return false;">Play</a>
+
+> Allegedly, Erika (Erika Kirk), he saw her on September 8th, Fort Huachuca ... remember Erika (Erika Kirk)'s claim before they sent me a cease and desist was that she was making dinner for Charlie (Charlie Kirk).
 
 ## Verification
 

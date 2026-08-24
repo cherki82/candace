@@ -11,7 +11,7 @@ date: "2018-04-21"
 
 > Kanye West tweets 'I love the way Candace Owens thinks'
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. Charlie Ripped A Hole In Reality | Candace Ep 253
 
@@ -28,3 +28,11 @@ date: "2018-04-21"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(620);return false;">▶️ Play</a>
 
 > The excitement, okay?
+
+### 3. Bride Of Charlie: Red Sparrow | Episode 8
+
+**Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
+**Timestamp:** [00:20:32](/episodes/ep-_vg7ucP1E0g.md#t-00-20-15) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1232);return false;">▶️ Play</a>
+
+> Kanye tweets, "I love the way Candace Owens thinks,"

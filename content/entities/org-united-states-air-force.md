@@ -1,6 +1,6 @@
 ---
 title: "United States Air Force"
-description: "United States Air Force (Organizations) - 51 mentions"
+description: "United States Air Force (Organizations) - 56 mentions"
 id: "org-united-states-air-force"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-united-states-air-force-t-00-50-29">2025-09-29 · 00:50:39</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-air-force-t-00-05-25">2026-03-03 · 00:05:31</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>51</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-air-force-t-00-05-32">2026-03-10 · 00:05:32</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>56</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -54,6 +54,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-org-united-states-air-force-t-00-28-43" style="--pulse-height:42%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 5 mentions" title="2026-01-27 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19" style="--pulse-height:8%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-air-force-t-00-05-25" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-air-force-t-00-05-32" style="--pulse-height:33%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 4 mentions" title="2026-03-10 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -77,6 +78,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-org-united-states-air-force-t-00-28-43) | 5 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-air-force-t-00-05-25) | 1 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-air-force-t-00-05-32) | 4 |
 
 </details>
 </section>
@@ -84,7 +86,24 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+<summary><strong class="section-title">Raw mentions (56)</strong></summary>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (4 mentions)</summary>
+
+**[00:05:32](/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-air-force-t-00-05-32)**
+> "the army, the Air Force, Marines, the Space Force"
+
+**[00:00:16](/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-air-force-t-00-05-32)**
+> "...s appointed Erika Kirk to the Air Force Academy's Board of Visitors. Now, if you would li..."
+
+**[00:01:43](/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-air-force-t-00-05-32)**
+> "...irk has been appointed to the Air Force Academy board."
+
+**[00:02:35](/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-air-force-t-00-05-32)**
+> "regarding changes to the Air Force Academy. They're also tasked with providing an an..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1 mentions)</summary>
@@ -326,6 +345,14 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 
 **[00:50:39](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-united-states-air-force-t-00-50-29)**
 > "... family. I don't know if it's his family, but the Mitchell name in that area was coming up for like Air Force. And so I—again—when I get into these places where I can't find any more information, I turn to you..."
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
+
+**[00:05:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-05-05)**
+> "Air Force"
 
 </details>
 

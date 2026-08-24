@@ -25,7 +25,7 @@ _Type: Concepts_
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -81,7 +81,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel lobby (2)</strong></summary>
+<summary><strong class="section-title">Statements about Israel lobby (3)</strong></summary>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1)</summary>
+
+- [00:04:57](/episodes/ep-I0OaY6Gryqk.md#t-00-04-47) (Accusation) **Joe Kent** (via quoted document): ["Iran posed no imminent threat to the United States, and the war was st..."](/statements/statement-f11b07d63dca.md)
+  - Also about: [Iran](/entities/gpe-iran.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
+
+</details>
 
 <details>
 <summary>Myron Gaines x Candace Owens (1)</summary>

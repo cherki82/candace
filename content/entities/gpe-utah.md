@@ -1,6 +1,6 @@
 ---
 title: "Utah"
-description: "Utah (Places) - 198 mentions"
+description: "Utah (Places) - 227 mentions"
 id: "gpe-utah"
 type: "GPE"
 aliases:
@@ -22,10 +22,10 @@ Source: [State of Utah official website](https://utah.gov/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-utah-t-00-05-31">2025-09-16 · 00:05:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-03-48-13">2026-08-14 · 03:48:13</a></strong></div>
-<div><span>Episodes</span><strong>41</strong></div>
-<div><span>Mentions</span><strong>198</strong></div>
+<div><span>Episodes</span><strong>45</strong></div>
+<div><span>Mentions</span><strong>227</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -74,6 +74,9 @@ Source: [State of Utah official website](https://utah.gov/)
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-utah-t-00-19-56" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-utah-t-00-43-57" style="--pulse-height:22%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 4 mentions" title="2026-02-25 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-utah-t-00-54-22" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-utah-t-00-02-56" style="--pulse-height:17%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-utah-t-00-02-42" style="--pulse-height:89%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 16 mentions" title="2026-03-23 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-utah-t-00-06-48" style="--pulse-height:44%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 8 mentions" title="2026-03-24 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-00-52-44" style="--pulse-height:94%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -120,6 +123,9 @@ Source: [State of Utah official website](https://utah.gov/)
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-utah-t-00-19-56) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-utah-t-00-43-57) | 4 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-utah-t-00-54-22) | 1 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-utah-t-00-02-56) | 3 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-utah-t-00-02-42) | 16 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-utah-t-00-06-48) | 8 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-00-52-44) | 17 |
 
 </details>
@@ -128,7 +134,7 @@ Source: [State of Utah official website](https://utah.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (198)</strong></summary>
+<summary><strong class="section-title">Raw mentions (227)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (17 mentions)</summary>
@@ -183,6 +189,102 @@ Source: [State of Utah official website](https://utah.gov/)
 
 **[03:48:13](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-03-48-13)**
 > "...that there's enough under the Utah 1102 rule for me to keep it there."
+
+</details>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (8 mentions)</summary>
+
+**[00:06:48](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-utah-t-00-06-48)**
+> "an earlier flight to Utah"
+
+**[00:17:33](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-utah-t-00-06-48)**
+> "... from Scottsdale on to Provo, Utah, two flights that day."
+
+**[00:21:26](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-utah-t-00-21-14)**
+> "...ane, and again, I'm doing all Utah time, guys. Everything I'm saying to you is Utah ..."
+
+**[00:21:34](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-utah-t-00-21-14)**
+> "...s easier to think in terms of Utah time when Andrew (Andrew Kolvet) explicitly menti..."
+
+**[00:31:54](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-utah-t-00-31-33)**
+> "...olygamy because he's going to Utah and why is monogamy important and, you know, we'r..."
+
+**[00:37:39](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-utah-t-00-37-39)**
+> "...nd he also happens to be from Utah so I thought since I don't really care about what..."
+
+**[00:39:00](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-utah-t-00-38-24)**
+> "...ay and had taken a meeting in Utah."
+
+**[00:39:16](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-utah-t-00-39-08)**
+> "...is N40JD plane that gets into utah again all of this is adjusted for mountain time o..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (16 mentions)</summary>
+
+**[00:02:56](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-utah-t-00-02-42)**
+> "turn everything over to the Utah state authorities"
+
+**[00:17:00](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-utah-t-00-16-52)**
+> "... he wanted her to then fly to Utah and he told her, of course."
+
+**[00:20:34](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-utah-t-00-20-34)**
+> "...te with his wife at 3.19 p.m. Utah time."
+
+**[00:20:45](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-utah-t-00-20-34)**
+> "...m going to keep everything in Utah time today because it's just easier that way beca..."
+
+**[00:21:43](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-utah-t-00-21-43)**
+> "...thing is crystal clear at 102 utah time so 39 minutes after charlie is shot at 12 23..."
+
+**[00:22:14](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-utah-t-00-21-43)**
+> "... again, I'm adjusting forward Utah time, he is then informed that CNN wants to have ..."
+
+**[00:22:34](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-utah-t-00-22-23)**
+> "...is is mountain time, 325 p.m. Utah time, he asks back, is she on Fox?"
+
+**[00:23:40](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-utah-t-00-23-05)**
+> "This time frame from 1.30 Utah time up until 3.25 Utah time matches within the t..."
+
+**[00:24:10](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-utah-t-00-23-50)**
+> "...ly called Aubrey at 2.05 p.m. Utah time and asked her to draft the death statement, ..."
+
+**[00:26:45](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-utah-t-00-26-26)**
+> "...ber, this is all adjusted for Utah time. The email goes out to the employees, confir..."
+
+**[00:27:36](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-utah-t-00-27-10)**
+> "But 349 Utah time, she's going to ask her boss, he's been unav..."
+
+**[00:28:30](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-utah-t-00-28-30)**
+> "...ew uh until 4 25 p.m mountain utah time and when he finally replies he again is goin..."
+
+**[00:30:25](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-utah-t-00-30-25)**
+> "....m. to 11.34 a.m. This is all Utah, Mountain Standard Time, guys, okay?"
+
+**[00:31:32](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-utah-t-00-31-32)**
+> "All times adjusted for Utah. I'm just going to keep saying that because inevi..."
+
+**[00:31:37](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-utah-t-00-31-32)**
+> "...flect mountain standard time, Utah time, so that we could get it all on board."
+
+**[00:34:30](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-utah-t-00-34-11)**
+> "...e. At what would be 4.25 p.m. Utah time that Andrew jumps in and says, my internet j..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (3 mentions)</summary>
+
+**[00:02:56](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-utah-t-00-02-56)**
+> "But there we have seen there is a current Catholicism that is. That is floating in this story. Obviously, as I told you, the church that Charlie (Charlie Kirk) was attending, the priest that she takes with her everywhere, despite denying that she's Catholic or whatever, she took him with her to Utah when Charlie (Charlie Kirk) died. Well, the story goes regarding Tesseract that after they filed for bankruptcy in 2001, they put their old campus up for sale and it was."
+
+**[00:11:42](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-utah-t-00-11-42)**
+> "...ori Frantzve) will then go to Utah and attend an expo, Utah of all places, for G-Tec..."
+
+**[00:33:04](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-utah-t-00-32-29)**
+> "...g a murder that took place in Utah. I was just... Very interested."
 
 </details>
 
@@ -929,6 +1031,17 @@ Source: [State of Utah official website](https://utah.gov/)
 
 </details>
 
+<details>
+<summary>ep-5m-Wn6Pr5rM (2 mentions)</summary>
+
+**[00:09:39](/episodes/ep-5m-Wn6Pr5rM.md#t-00-09-39)**
+> "Utah"
+
+**[00:18:23](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-23)**
+> "...day. And she also went out to Utah."
+
+</details>
+
 </details>
 
 <details open>
@@ -969,7 +1082,7 @@ Source: [State of Utah official website](https://utah.gov/)
 <details>
 <summary>Residence Of (4)</summary>
 
-- **[Jason Chavitz](/entities/person-jason-chavitz.md)**
+- **[Jason Chaffetz](/entities/person-jason-chavitz.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:22:17](/episodes/ep-pc3pxRyNFZk.md#t-00-22-13): “Jason Chavitz is a former politician and a Fox News contributor who was a witness to this event because he is from Utah.”
@@ -1010,7 +1123,7 @@ Source: [State of Utah official website](https://utah.gov/)
 
 </details>
 
-- **[Jason Chavitz](/entities/person-jason-chavitz.md)** lives in this
+- **[Jason Chaffetz](/entities/person-jason-chavitz.md)** lives in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:22:17](/episodes/ep-pc3pxRyNFZk.md#t-00-22-13): “Jason Chavitz is a former politician and a Fox News contributor who was a witness to this event because he is from Utah.”
@@ -1059,7 +1172,15 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah (7)</strong></summary>
+<summary><strong class="section-title">Statements about Utah (9)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1)</summary>
+
+- [00:39:00](/episodes/ep-SgVcnx4Oh30.md#t-00-38-24) (Claim) **Candace Owens**: ["Candace Owens said she believed Erika Kirk flew with Tyler Bowyer, tho..."](/statements/statement-6b09857af0b5.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+</details>
 
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (1)</summary>
@@ -1096,6 +1217,14 @@ Source: [State of Utah official website](https://utah.gov/)
 
 - [00:17:09](/episodes/ep-QZWSsq8ZWzw.md#t-00-16-32) (Claim) **Candace Owens**: ["Utah recently modernized their beehive flag, and Utah has always been ..."](/statements/statement-8d437af36e74.md)
   - Also about: [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md)
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (1)</summary>
+
+- [00:18:09](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-09) (Claim) **Candace Owens**: ["Katherine Locastro was part of the team that transported Erika Kirk to..."](/statements/statement-2bf82b4d32a9.md)
+  - Also about: [Katherine Locastro](/entities/person-katherine-locastro.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 

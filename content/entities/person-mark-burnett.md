@@ -1,6 +1,6 @@
 ---
 title: "Mark Burnett"
-description: "Mark Burnett (People) - 3 mentions"
+description: "Mark Burnett (People) - 8 mentions"
 id: "person-mark-burnett"
 type: "PERSON"
 categories:
@@ -12,14 +12,18 @@ _Type: People_
 
 **Categories:** media, business
 
+**Entity verification:** verified
+> Television Academy and Paramount biographies confirm canonical name and reality television producer role.
+Source: [Television Academy — Mark Burnett](https://www.televisionacademy.com/bios/mark-burnett)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-person-mark-burnett-t-00-19-10">2026-01-12 · 00:19:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-person-mark-burnett-t-00-19-52">2026-01-12 · 00:19:52</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-mark-burnett-t-00-21-28">2026-03-10 · 00:21:56</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -28,12 +32,16 @@ _Type: People_
 <p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-mark-burnett-t-00-19-10">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-mark-burnett-t-00-19-10" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-mark-burnett-t-00-39-58" style="--pulse-height:100%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 3 mentions" title="2026-03-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-mark-burnett-t-00-21-28" style="--pulse-height:67%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-mark-burnett-t-00-19-10) | 3 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-mark-burnett-t-00-39-58) | 3 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-mark-burnett-t-00-21-28) | 2 |
 
 </details>
 </section>
@@ -41,7 +49,32 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (2 mentions)</summary>
+
+**[00:21:28](/episodes/ep-ZzAT2xijKGQ.md#ent-person-mark-burnett-t-00-21-28)**
+> "floating around Mark Burnett"
+
+**[00:21:56](/episodes/ep-ZzAT2xijKGQ.md#ent-person-mark-burnett-t-00-21-28)**
+> "...iro's company is working with Mark Burnett via Johnny Moore. It's very weird around this tim..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (3 mentions)</summary>
+
+**[00:39:58](/episodes/ep-DdPjoy5W-wY.md#ent-person-mark-burnett-t-00-39-58)**
+> "...e post. And that is, in fact, Mark Burnett's wife."
+
+**[00:40:07](/episodes/ep-DdPjoy5W-wY.md#ent-person-mark-burnett-t-00-39-58)**
+> "OK, Mark Burnett being the person who created Survivor, the person..."
+
+**[00:40:31](/episodes/ep-DdPjoy5W-wY.md#ent-person-mark-burnett-t-00-40-31)**
+> ".... Johnny Moore is working for Mark Burnett. There is a chance that in 2014, again, Erika (Er..."
+
+</details>
 
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (3 mentions)</summary>
@@ -75,12 +108,50 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Formerly Employed (1)</summary>
+
+- **[Johnnie Moore](/entities/person-johnnie-moore.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:31](/episodes/ep-DdPjoy5W-wY.md#t-00-40-31): “Johnny Moore is working for Mark Burnett”
+
+</details>
+
+</details>
+
+<details>
+<summary>Operates (1)</summary>
+
+- **[The Apprentice](/entities/work-the-apprentice.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:21:28](/episodes/ep-ZzAT2xijKGQ.md#t-00-21-28): “Mark Burnett is also running uh Mark Burnett Productions he's running Trump (Donald J. Trump)'s Apprentice Show”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
+
+- **[Johnnie Moore](/entities/person-johnnie-moore.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:31](/episodes/ep-DdPjoy5W-wY.md#t-00-40-31): “Johnny Moore is working for Mark Burnett”
+
+</details>
 
 - **[Metro-Goldwyn-Mayer](/entities/org-metro-goldwyn-mayer.md)** has chairman this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:52](/episodes/ep-CMcktj3Egfo.md#t-00-19-10): “when Mark Burnett took over MGM became a chairperson of MGM”
+
+</details>
+
+- **[The Apprentice](/entities/work-the-apprentice.md)** operated by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:21:28](/episodes/ep-ZzAT2xijKGQ.md#t-00-21-28): “Mark Burnett is also running uh Mark Burnett Productions he's running Trump (Donald J. Trump)'s Apprentice Show”
 
 </details>
 

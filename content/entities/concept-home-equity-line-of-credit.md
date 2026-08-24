@@ -22,7 +22,7 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-home-equity-line-of-credit-t-00-53-56">2026-01-07 · 00:54:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-home-equity-line-of-credit-t-00-48-45">2026-03-03 · 00:48:45</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-concept-home-equity-line-of-credit-t-00-49-31">2026-03-04 · 00:49:37</a></strong></div>
 <div><span>Episodes</span><strong>17</strong></div>
 <div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -51,6 +51,7 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-concept-home-equity-line-of-credit-t-00-59-03" style="--pulse-height:100%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-home-equity-line-of-credit-t-00-50-53" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-home-equity-line-of-credit-t-00-48-45" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-concept-home-equity-line-of-credit-t-00-49-31" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -72,6 +73,7 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-concept-home-equity-line-of-credit-t-00-59-03) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-concept-home-equity-line-of-credit-t-00-50-53) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-concept-home-equity-line-of-credit-t-00-48-45) | 1 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-concept-home-equity-line-of-credit-t-00-49-31) | 1 |
 
 </details>
 </section>
@@ -80,6 +82,14 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 
 <details>
 <summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
+
+**[00:49:37](/episodes/ep-y8lak3CRwDw.md#ent-concept-home-equity-line-of-credit-t-00-49-31)**
+> "...r low mortgage rate. Unlike a HELOC, which can fluctuate with the market, the Smart E..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1 mentions)</summary>
@@ -206,14 +216,6 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 
 **[00:54:17](/episodes/ep-zSKrxIUMNqw.md#ent-concept-home-equity-line-of-credit-t-00-53-56)**
 > "Unlike a HELOC, which can fluctuate with the market,"
-
-</details>
-
-<details>
-<summary>ep-y8lak3CRwDw (1 mentions)</summary>
-
-**[00:49:37](/episodes/ep-y8lak3CRwDw.md#t-00-49-37)**
-> "...r low mortgage rate. Unlike a HELOC, which can fluctuate with the market, the Smart E..."
 
 </details>
 

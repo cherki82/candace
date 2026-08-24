@@ -1,6 +1,6 @@
 ---
 title: "Fort Huachuca"
-description: "Fort Huachuca (Places) - 125 mentions"
+description: "Fort Huachuca (Places) - 128 mentions"
 id: "gpe-fort-huachuca"
 type: "GPE"
 aliases:
@@ -23,9 +23,9 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-fort-huachuca-t-00-12-36">2025-12-09 · 00:01:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-fort-huachuca-t-00-25-27">2026-03-03 · 00:25:27</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>125</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-fort-huachuca-t-00-44-04">2026-03-10 · 00:44:04</a></strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>128</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>69</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -60,6 +60,8 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-fort-huachuca-t-00-41-29" style="--pulse-height:8%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-fort-huachuca-t-00-51-36" style="--pulse-height:10%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-fort-huachuca-t-00-25-27" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-fort-huachuca-t-00-31-12" style="--pulse-height:10%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-fort-huachuca-t-00-33-58" style="--pulse-height:14%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 3 mentions" title="2026-03-10 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -89,6 +91,8 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-fort-huachuca-t-00-41-29) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-fort-huachuca-t-00-51-36) | 2 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-fort-huachuca-t-00-25-27) | 1 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-fort-huachuca-t-00-31-12) | 2 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-fort-huachuca-t-00-33-58) | 3 |
 
 </details>
 </section>
@@ -96,7 +100,32 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (125)</strong></summary>
+<summary><strong class="section-title">Raw mentions (128)</strong></summary>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (3 mentions)</summary>
+
+**[00:34:24](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-fort-huachuca-t-00-33-58)**
+> "Okay, let's talk about it. Let's actually talk about September 8th because I now feel like now that we've learned more about Erika (Erika Kirk), the Fort Huachuca story, I'm leaning towards Mitch."
+
+**[00:34:37](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-fort-huachuca-t-00-34-37)**
+> "... he saw her on September 8th, Fort Huachuca, it caused a mass panic. They spent tons of money..."
+
+**[00:44:04](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-fort-huachuca-t-00-44-04)**
+> "... was when we merely mentioned Fort Huachuca and I had not yet dropped the fact that he though..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (2 mentions)</summary>
+
+**[00:31:12](/episodes/ep-y8lak3CRwDw.md#ent-gpe-fort-huachuca-t-00-31-12)**
+> "...ing mitch no telling us about Fort Huachuca and how generals were working with the cartels in..."
+
+**[00:31:41](/episodes/ep-y8lak3CRwDw.md#ent-gpe-fort-huachuca-t-00-31-12)**
+> "...y that Erika is familiar with Fort Huachuca. I think, Andrew, you might be too."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1 mentions)</summary>
@@ -584,17 +613,6 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 
 </details>
 
-<details>
-<summary>ep-y8lak3CRwDw (2 mentions)</summary>
-
-**[00:31:12](/episodes/ep-y8lak3CRwDw.md#t-00-31-12)**
-> "...ing mitch no telling us about Fort Huachuca and how generals were working with the cartels in..."
-
-**[00:31:41](/episodes/ep-y8lak3CRwDw.md#t-00-31-41)**
-> "...y that Erika is familiar with Fort Huachuca. I think, Andrew, you might be too."
-
-</details>
-
 </details>
 
 <details open>
@@ -933,7 +951,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 - [00:45:12](/episodes/ep-9k2xrAC0H88.md#t-00-44-50) (Claim) **Candace Owens**: ["Fort Huachuca is an intelligence base where they train people in the i..."](/statements/statement-6a1675de503a.md)
 
 - [01:02:06](/episodes/ep-9k2xrAC0H88.md#t-01-01-55) (Claim) **Candace Owens**: ["One of the congressmen that the Fort Huachuca eyewitness believes he s..."](/statements/statement-ff98d3afb248.md)
-  - Also about: [Las Vegas](/entities/gpe-las-vegas.md), [Harry Myers](/entities/person-harry-myers.md)
+  - Also about: [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md), [Harry Myers](/entities/person-harry-myers.md)
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Greenland"
-description: "Greenland (Places) - 9 mentions"
+description: "Greenland (Places) - 10 mentions"
 id: "gpe-greenland"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [About Greenland | Government of Greenland](https://naalakkersuisut.gl/e
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-greenland-t-00-57-41">2026-01-16 · 00:57:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-greenland-t-00-16-47">2026-02-04 · 00:17:03</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-greenland-t-00-39-11">2026-03-09 · 00:39:11</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -36,6 +36,7 @@ Source: [About Greenland | Government of Greenland](https://naalakkersuisut.gl/e
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-greenland-t-00-47-40" style="--pulse-height:25%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-greenland-t-00-18-18" style="--pulse-height:25%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-greenland-t-00-16-47" style="--pulse-height:25%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-greenland-t-00-39-11" style="--pulse-height:25%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [About Greenland | Government of Greenland](https://naalakkersuisut.gl/e
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-greenland-t-00-47-40) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-greenland-t-00-18-18) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-greenland-t-00-16-47) | 1 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-greenland-t-00-39-11) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [About Greenland | Government of Greenland](https://naalakkersuisut.gl/e
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
+
+**[00:39:11](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-greenland-t-00-39-11)**
+> "acquiring Greenland"
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1 mentions)</summary>
@@ -117,7 +127,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Greenland (1)</strong></summary>
+<summary><strong class="section-title">Statements about Greenland (2)</strong></summary>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
+
+- [00:39:11](/episodes/ep-i8m_6D4QGmk.md#t-00-39-11) (Accusation) **Candace Owens**: ["Greenland has an estimated 31 billion barrels of untapped crude oil, w..."](/statements/statement-97a500be3bb1.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
 
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1)</summary>

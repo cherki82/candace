@@ -23,7 +23,7 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-work-smart-equity-loan-t-00-53-56">2026-01-07 · 00:54:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-work-smart-equity-loan-t-00-48-45">2026-03-03 · 00:48:45</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-work-smart-equity-loan-t-00-49-31">2026-03-04 · 00:49:37</a></strong></div>
 <div><span>Episodes</span><strong>16</strong></div>
 <div><span>Mentions</span><strong>30</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -51,6 +51,7 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-work-smart-equity-loan-t-00-59-03" style="--pulse-height:50%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-work-smart-equity-loan-t-00-50-53" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-work-smart-equity-loan-t-00-48-06" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 2 mentions" title="2026-03-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-work-smart-equity-loan-t-00-49-31" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -71,6 +72,7 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-work-smart-equity-loan-t-00-59-03) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-work-smart-equity-loan-t-00-50-53) | 2 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-work-smart-equity-loan-t-00-48-06) | 2 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-work-smart-equity-loan-t-00-49-31) | 2 |
 
 </details>
 </section>
@@ -79,6 +81,17 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 
 <details>
 <summary><strong class="section-title">Raw mentions (30)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (2 mentions)</summary>
+
+**[00:49:31](/episodes/ep-y8lak3CRwDw.md#ent-work-smart-equity-loan-t-00-49-31)**
+> "...merican financing created the smart equity loan, which is a simple smart way to get your finances..."
+
+**[00:49:37](/episodes/ep-y8lak3CRwDw.md#ent-work-smart-equity-loan-t-00-49-31)**
+> "...luctuate with the market, the Smart Equity Loan offers a fixed rate so you'll have one predictabl..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (2 mentions)</summary>
@@ -236,17 +249,6 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 
 **[00:54:20](/episodes/ep-zSKrxIUMNqw.md#ent-work-smart-equity-loan-t-00-53-56)**
 > "the SMART equity loan offers a fixed rate,"
-
-</details>
-
-<details>
-<summary>ep-y8lak3CRwDw (2 mentions)</summary>
-
-**[00:49:31](/episodes/ep-y8lak3CRwDw.md#t-00-49-31)**
-> "...merican financing created the smart equity loan, which is a simple smart way to get your finances..."
-
-**[00:49:37](/episodes/ep-y8lak3CRwDw.md#t-00-49-37)**
-> "...luctuate with the market, the Smart Equity Loan offers a fixed rate so you'll have one predictabl..."
 
 </details>
 

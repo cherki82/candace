@@ -22,13 +22,23 @@ type: "accusation"
 
 - [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
 
 **Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
 **Timestamp:** [00:09:43](/episodes/ep-es7PWdFGoFI.md#t-00-09-22) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(583);return false;">Play</a>
 
 > I explained to them, which felt good to have that direct communication, how Terrell lied multiple times
+
+### 2. EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace...
+
+**Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
+**Timestamp:** [00:33:16](/episodes/ep-5-HUyv9LyMg.md#t-00-33-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1996);return false;">Play</a>
+
+> That all changed after I had a phone call with Terrell Farnsworth. I recognized he was acting very strange, very strange on the phone, lying, saying he didn't know how to send a file. ... Just excuse after excuse. And I didn't understand why there would be any reason he was lying, saying he didn't know how to send a file.
 
 ## Verification
 

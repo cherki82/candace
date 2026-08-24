@@ -1,6 +1,6 @@
 ---
-title: "Donald Trump political ally of Charlie Kirk"
-description: "Evidence for the relationship: Donald Trump political ally of Charlie Kirk"
+title: "Donald J. Trump political ally of Charlie Kirk"
+description: "Evidence for the relationship: Donald J. Trump political ally of Charlie Kirk"
 relationship_id: "rel-83b169ebef9b"
 subject: "person-donald-trump"
 predicate: "political ally of"
@@ -9,7 +9,7 @@ object: "person-charlie-kirk"
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Donald Trump](/entities/person-donald-trump) political ally of [Charlie Kirk](/entities/person-charlie-kirk)
+## [Donald J. Trump](/entities/person-donald-trump) political ally of [Charlie Kirk](/entities/person-charlie-kirk)
 
 ### Evidence (4 mentions)
 
@@ -28,5 +28,5 @@ object: "person-charlie-kirk"
 
 ### Related
 
-- [Donald Trump](/entities/person-donald-trump)
+- [Donald J. Trump](/entities/person-donald-trump)
 - [Charlie Kirk](/entities/person-charlie-kirk)

@@ -1,6 +1,6 @@
 ---
 title: "Turning Point Action"
-description: "Turning Point Action (Organizations) - 22 mentions"
+description: "Turning Point Action (Organizations) - 26 mentions"
 id: "org-turning-point-action"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-org-turning-point-action-t-00-23-46">2025-10-06 · 00:24:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-turning-point-action-t-00-20-19">2026-02-28 · 00:20:19</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-turning-point-action-t-00-42-56">2026-03-12 · 00:42:56</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -47,6 +47,8 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-turning-point-action-t-00-24-36" style="--pulse-height:14%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-turning-point-action-t-00-45-57" style="--pulse-height:29%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-turning-point-action-t-00-00-01" style="--pulse-height:43%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 3 mentions" title="2026-02-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-turning-point-action-t-00-16-51" style="--pulse-height:29%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-turning-point-action-t-00-42-56" style="--pulse-height:14%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,6 +66,8 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-org-turning-point-action-t-00-24-36) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-turning-point-action-t-00-45-57) | 2 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-turning-point-action-t-00-00-01) | 3 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-turning-point-action-t-00-16-51) | 2 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-turning-point-action-t-00-42-56) | 1 |
 
 </details>
 </section>
@@ -71,7 +75,26 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>
+
+**[00:42:56](/episodes/ep-5-HUyv9LyMg.md#ent-org-turning-point-action-t-00-42-56)**
+> "...assie was a bit confused when Turning Point Action, which is run by Tyler Bowyer and which kicks mon..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (2 mentions)</summary>
+
+**[00:16:51](/episodes/ep-DdPjoy5W-wY.md#ent-org-turning-point-action-t-00-16-51)**
+> "...st thing I'll say is this. At Turning Point Action, we have a ton of jobs posting in Arizona, Nevada..."
+
+**[00:16:58](/episodes/ep-DdPjoy5W-wY.md#ent-org-turning-point-action-t-00-16-51)**
+> "...ally just locked down, Jonah (Turning Point Action staff; surname unverified) just got back from the..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (3 mentions)</summary>
@@ -199,6 +222,14 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 
 </details>
 
+<details>
+<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
+
+**[00:13:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-07)**
+> "Turning Point Action"
+
+</details>
+
 </details>
 
 <details open>
@@ -217,12 +248,25 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 </details>
 
 <details>
+<summary>Based In (1)</summary>
+
+- **[Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:16:58](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51): “got the keys to a new building that we have in Las Vegas”
+
+</details>
+
+</details>
+
+<details>
 <summary>Employs (1)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:57](/episodes/ep-1IY2oD-_xVA.md#t-00-45-57): “And they specifically said that the money was missing out of Turning Point Action, which is headed up by Tyler Bowyer.”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:16:51](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51): “At Turning Point Action, we have a ton of jobs posting”
 
 </details>
 
@@ -265,7 +309,7 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** COO of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -295,10 +339,18 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 
 </details>
 
-- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** works for this
+- **[Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)** location of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:16:58](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51): “got the keys to a new building that we have in Las Vegas”
+
+</details>
+
+- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:57](/episodes/ep-1IY2oD-_xVA.md#t-00-45-57): “And they specifically said that the money was missing out of Turning Point Action, which is headed up by Tyler Bowyer.”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:16:51](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51): “At Turning Point Action, we have a ton of jobs posting”
 
 </details>
 
@@ -307,7 +359,32 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point Action (9)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point Action (15)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (2)</summary>
+
+- [00:42:56](/episodes/ep-5-HUyv9LyMg.md#t-00-42-56) (Accusation) **Candace Owens**: ["Turning Point Action, which is run by Tyler Bowyer, sends money back t..."](/statements/statement-f8cc12a702c2.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md)
+
+- [00:43:13](/episodes/ep-5-HUyv9LyMg.md#t-00-42-56) (Accusation) **Candace Owens**: ["Turning Point Action called Thomas Massie a RINO who should be replace..."](/statements/statement-e8f11996a3eb.md)
+  - Also about: [Thomas Massie](/entities/person-thomas-massie.md), [Ukraine](/entities/gpe-ukraine.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (3)</summary>
+
+- [00:16:51](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51) (Claim) **Tyler Bowyer** (via quoted speech): ["Turning Point Action has many job openings in Arizona, Nevada, and New..."](/statements/statement-94eac730510f.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Arizona](/entities/gpe-arizona.md), [Nevada](/entities/gpe-nevada.md)
+
+- [00:16:58](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51) (Claim) **Tyler Bowyer** (via quoted speech): ["Turning Point Action secured the keys to a new building in Las Vegas."](/statements/statement-ca2b97368e6d.md)
+  - Also about: [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
+
+- [00:17:16](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51) (Prediction) **Tyler Bowyer** (via quoted speech): ["Turning Point Action will need one thousand more people in the room by..."](/statements/statement-c6a655147a82.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (1)</summary>
@@ -357,6 +434,14 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 
 - [00:50:28](/episodes/ep-zSKrxIUMNqw.md#t-00-50-17) (Accusation) **Anonymous Source #5 (Ep zSKrxIUMNqw)** (via paraphrase): ["A Turning Point USA insider alleged that substantial funds were missin..."](/statements/statement-a5d9ef0a6156.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (1)</summary>
+
+- [00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-47) (Claim) **Candace Owens**: ["After the call, Elizabeth McCoy ran into the office of Frank, a TPUSA ..."](/statements/statement-b034bb78e025.md)
+  - Also about: [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Frank (TPUSA lawyer; surname unverified)](/entities/anon-src-5m-Wn6Pr5rM-001.md), [Justin Streiff](/entities/person-justin-streiff.md)
 
 </details>
 

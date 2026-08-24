@@ -1,6 +1,6 @@
 ---
 title: "Pro-Israel advocacy"
-description: "Pro-Israel advocacy (Concepts) - 14 mentions"
+description: "Pro-Israel advocacy (Concepts) - 16 mentions"
 id: "concept-pro-israel-advocacy"
 type: "CONCEPT"
 aliases:
@@ -23,10 +23,10 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-pro-israel-advocacy-t-00-12-29">2026-01-06 · 00:12:39</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12">2026-08-14 · 00:28:48</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -43,6 +43,8 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-concept-pro-israel-advocacy-t-00-04-56" style="--pulse-height:67%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-pro-israel-advocacy-t-00-19-32" style="--pulse-height:33%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-pro-israel-advocacy-t-00-44-06" style="--pulse-height:33%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-concept-pro-israel-advocacy-t-00-04-23" style="--pulse-height:33%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-concept-pro-israel-advocacy-t-00-03-17" style="--pulse-height:33%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12" style="--pulse-height:33%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -57,6 +59,8 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-concept-pro-israel-advocacy-t-00-04-56) | 2 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-pro-israel-advocacy-t-00-19-32) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-concept-pro-israel-advocacy-t-00-44-06) | 1 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-concept-pro-israel-advocacy-t-00-04-23) | 1 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-concept-pro-israel-advocacy-t-00-03-17) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12) | 1 |
 
 </details>
@@ -65,13 +69,29 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:28:48](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12)**
 > "...me no choice but to leave the pro-Israel cause."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1 mentions)</summary>
+
+**[00:03:21](/episodes/ep-B9TyCs-6o_0.md#ent-concept-pro-israel-advocacy-t-00-03-17)**
+> "Charlie was under a lot of pressure from a lot of pro-Israel donors"
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1 mentions)</summary>
+
+**[00:04:23](/episodes/ep-H9p2ZGHAs9A.md#ent-concept-pro-israel-advocacy-t-00-04-23)**
+> "morally blackmailing Charlie Kirk, stressing out Charlie Kirk, pulling money away from Charlie Kirk and the organization. Charlie (Charlie Kirk) himself said that he was done with the pro-Israel cause, but then he was murdered."
 
 </details>
 
@@ -164,7 +184,30 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pro-Israel advocacy (4)</strong></summary>
+<summary><strong class="section-title">Statements about Pro-Israel advocacy (7)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1)</summary>
+
+- [00:03:21](/episodes/ep-B9TyCs-6o_0.md#t-00-03-17) (Claim) **Joe Kent** (via quoted speech): ["Public text messages show Charlie Kirk was under substantial pressure ..."](/statements/statement-1b1b7d9e9287.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1)</summary>
+
+- [00:34:04](/episodes/ep-I0OaY6Gryqk.md#t-00-33-49) (Opinion) **Dino Fantegrossi** (via quoted speech): ["Using biblical prophecy as public policy is theologically problematic."](/statements/statement-660995512606.md)
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1)</summary>
+
+- [00:04:23](/episodes/ep-H9p2ZGHAs9A.md#t-00-04-23) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Charlie Kirk had said he was done with the pro-Isra..."](/statements/statement-e1a16587194a.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1)</summary>

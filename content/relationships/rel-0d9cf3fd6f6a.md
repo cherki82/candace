@@ -11,7 +11,11 @@ object: "person-george-farmer"
 
 ## [Candace Owens](/entities/person-candace-owens) married to [George Farmer](/entities/person-george-farmer)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
+
+**[EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg)**
+
+- [00:27:51](/episodes/ep-5-HUyv9LyMg#t-00-27-51): _my husband George Farmer_
 
 **[PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk)**
 

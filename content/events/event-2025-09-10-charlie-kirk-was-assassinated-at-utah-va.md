@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Charlie Kirk was assassinated at Utah Valley University.
 
-## Mentioned In (28 times)
+## Mentioned In (34 times)
 
 ### 1. You Won't Believe What Happened While We Were Off Air... | C...
 
@@ -236,3 +236,51 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1371);return false;">▶️ Play</a>
 
 > a mere days before Charlie's assassinated.
+
+### 29. Bride Of Charlie: What Happened In Romania? | Episode 6
+
+**Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
+**Timestamp:** [00:45:33](/episodes/ep-y8lak3CRwDw.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-45-25) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2733);return false;">▶️ Play</a>
+
+> tragedies, including the one that happened on September 10th, in which all of them.
+
+### 30. Donald Trump Has Betrayed America. | Candace Ep 308
+
+**Episode:** [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md)
+**Timestamp:** [00:33:54](/episodes/ep-i8m_6D4QGmk.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-33-30) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2034);return false;">▶️ Play</a>
+
+> when Charlie Kirk is assassinated in front of the world, Trump dedicates a total of
+
+### 31. EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace...
+
+**Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
+**Timestamp:** [00:26:27](/episodes/ep-5-HUyv9LyMg.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-26-11) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1587);return false;">▶️ Play</a>
+
+> the remaining photos and the video evidence that we have from September 10th
+
+### 32. EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! ...
+
+**Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
+**Timestamp:** [00:19:50](/episodes/ep-B9TyCs-6o_0.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-19-35) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1190);return false;">▶️ Play</a>
+
+> How are you going to explain to them that Charlie Kirk has passed away?
+
+### 33. REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 3...
+
+**Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
+**Timestamp:** [00:59:38](/episodes/ep-SgVcnx4Oh30.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-01-22) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3578);return false;">▶️ Play</a>
+
+> I remember days after Charlie was killed, one of the TPUSA guys
+
+### 34. REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 3...
+
+**Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
+**Timestamp:** [00:01:41](/episodes/ep-SgVcnx4Oh30.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-01-22) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(101);return false;">▶️ Play</a>
+
+> group project to figure out what actually happened on September 10th.

@@ -20,7 +20,7 @@ type: "opinion"
 
 ## About
 
-- [Mikey McCoy](/entities/person-mikey-mccoy.md) (person)
+- [Michael McCoy](/entities/person-michael-mccoy.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source

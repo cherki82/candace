@@ -1,6 +1,6 @@
 ---
 title: "Sweden"
-description: "Sweden (Places) - 7 mentions"
+description: "Sweden (Places) - 8 mentions"
 id: "gpe-sweden"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [Sweden.se — official site of Sweden](https://sweden.se/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-sweden-t-00-28-06">2026-02-25 · 00:28:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-sweden-t-00-00-01">2026-02-27 · 00:00:10</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-sweden-t-00-51-08">2026-03-06 · 00:51:08</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -33,6 +33,7 @@ Source: [Sweden.se — official site of Sweden](https://sweden.se/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-sweden-t-00-28-06" style="--pulse-height:100%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 6 mentions" title="2026-02-25 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-sweden-t-00-00-01" style="--pulse-height:17%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-sweden-t-00-51-08" style="--pulse-height:17%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [Sweden.se — official site of Sweden](https://sweden.se/)
 |---|---|---:|
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-sweden-t-00-28-06) | 6 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-sweden-t-00-00-01) | 1 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-sweden-t-00-51-08) | 1 |
 
 </details>
 </section>
@@ -47,7 +49,15 @@ Source: [Sweden.se — official site of Sweden](https://sweden.se/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>
+
+**[00:51:08](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-sweden-t-00-51-08)**
+> "...akhstan in the Philippines in Sweden she says okay 2014 I see you and then someone has..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1 mentions)</summary>
@@ -90,7 +100,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Sweden (5)</strong></summary>
+<summary><strong class="section-title">Statements about Sweden (6)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1)</summary>
+
+- [00:51:08](/episodes/ep-DdPjoy5W-wY.md#t-00-51-08) (Citation) **Candace Owens**: ["Candace Owens cites a 2014 X post in which Erika Kirk listed Romania, ..."](/statements/statement-4fd33708a0fc.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Romania](/entities/gpe-romania.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (5)</summary>

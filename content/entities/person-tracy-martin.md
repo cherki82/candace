@@ -1,6 +1,6 @@
 ---
 title: "Tracy Martin"
-description: "Tracy Martin (People) - 36 mentions"
+description: "Tracy Martin (People) - 38 mentions"
 id: "person-tracy-martin"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-tracy-martin-t-00-26-52">2026-02-04 · 00:27:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-tracy-martin-t-00-18-57">2026-02-13 · 00:19:03</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>36</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-tracy-martin-t-00-43-35">2026-03-10 · 00:43:35</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
@@ -39,6 +39,9 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-tracy-martin-t-00-19-19" style="--pulse-height:91%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 10 mentions" title="2026-02-09 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-tracy-martin-t-00-02-15" style="--pulse-height:100%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 11 mentions" title="2026-02-10 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-tracy-martin-t-00-18-57" style="--pulse-height:9%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-person-tracy-martin-t-00-28-01" style="--pulse-height:36%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 4 mentions" title="2026-03-04 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-tracy-martin-t-00-39-17" style="--pulse-height:9%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-tracy-martin-t-00-43-35" style="--pulse-height:9%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +51,9 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-tracy-martin-t-00-19-19) | 10 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-tracy-martin-t-00-02-15) | 11 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-tracy-martin-t-00-18-57) | 1 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-person-tracy-martin-t-00-28-01) | 4 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-tracy-martin-t-00-39-17) | 1 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-tracy-martin-t-00-43-35) | 1 |
 
 </details>
 </section>
@@ -55,7 +61,40 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1 mentions)</summary>
+
+**[00:43:35](/episodes/ep-ZzAT2xijKGQ.md#ent-person-tracy-martin-t-00-43-35)**
+> "No one can confirm seeing her anywhere. And she was very well known in this neighborhood. Charlie (Charlie Kirk)'s entire family is well known. People will tell me when they see the kids, who they saw the kids with, that they saw the kids with Tracy Martin's husband."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>
+
+**[00:39:51](/episodes/ep-DdPjoy5W-wY.md#ent-person-tracy-martin-t-00-39-17)**
+> "...ing down with her best friend Tracy Martin on a talk show."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (4 mentions)</summary>
+
+**[00:28:01](/episodes/ep-y8lak3CRwDw.md#ent-person-tracy-martin-t-00-28-01)**
+> "...is going to team up with that Tracy Martin. Tracy says they met backstage and they just deci..."
+
+**[00:28:13](/episodes/ep-y8lak3CRwDw.md#ent-person-tracy-martin-t-00-28-01)**
+> "Tracy's making handbags. She's what we refer to as a seri..."
+
+**[00:52:54](/episodes/ep-y8lak3CRwDw.md#ent-person-tracy-martin-t-00-52-36)**
+> "... you go hmm well she did have tracy barton say that she's been friends with her um yo..."
+
+**[00:53:19](/episodes/ep-y8lak3CRwDw.md#ent-person-tracy-martin-t-00-53-19)**
+> "And I mean, I asked Tracy Martin when I spoke to her on the phone, I'm like, are y..."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
@@ -173,23 +212,6 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 
 </details>
 
-<details>
-<summary>ep-y8lak3CRwDw (4 mentions)</summary>
-
-**[00:28:01](/episodes/ep-y8lak3CRwDw.md#t-00-28-01)**
-> "...is going to team up with that Tracy Martin. Tracy says they met backstage and they just deci..."
-
-**[00:28:13](/episodes/ep-y8lak3CRwDw.md#t-00-28-13)**
-> "Tracy's making handbags. She's what we refer to as a seri..."
-
-**[00:52:54](/episodes/ep-y8lak3CRwDw.md#t-00-52-54)**
-> "... you go hmm well she did have tracy barton say that she's been friends with her um yo..."
-
-**[00:53:19](/episodes/ep-y8lak3CRwDw.md#t-00-53-19)**
-> "And I mean, I asked Tracy Martin when I spoke to her on the phone, I'm like, are y..."
-
-</details>
-
 </details>
 
 <details open>
@@ -211,12 +233,13 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 <summary>Friend Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:28:25](/episodes/ep-DYD_QHMPwqM.md#t-00-28-25): “Erika Kirk has been a dear friend of mine for almost 15 years.”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:20:01](/episodes/ep-4YgrOhhy708.md#t-00-19-19): “Tracy Martin is Erika (Erika Kirk)'s best friend for over 15 years.”
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:05:01](/episodes/ep-ti5Fxrvegno.md#t-00-04-56): “Tracy (Tracy Martin), Erika (Erika Kirk)'s best friend, told people in their orbit.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:19:03](/episodes/ep-1hcjQGgvxUY.md#t-00-18-57): “Tracy Martin, Erica (Erika Kirk)'s best friend”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:39:51](/episodes/ep-DdPjoy5W-wY.md#t-00-39-17): “her best friend Tracy Martin”
 
 </details>
 
@@ -233,19 +256,21 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:28:25](/episodes/ep-DYD_QHMPwqM.md#t-00-28-25): “Erika Kirk has been a dear friend of mine for almost 15 years.”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:20:01](/episodes/ep-4YgrOhhy708.md#t-00-19-19): “Tracy Martin is Erika (Erika Kirk)'s best friend for over 15 years.”
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:05:01](/episodes/ep-ti5Fxrvegno.md#t-00-04-56): “Tracy (Tracy Martin), Erika (Erika Kirk)'s best friend, told people in their orbit.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:19:03](/episodes/ep-1hcjQGgvxUY.md#t-00-18-57): “Tracy Martin, Erica (Erika Kirk)'s best friend”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:39:51](/episodes/ep-DdPjoy5W-wY.md#t-00-39-17): “her best friend Tracy Martin”
 
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:28:25](/episodes/ep-DYD_QHMPwqM.md#t-00-28-25): “Erika Kirk has been a dear friend of mine for almost 15 years. We have done multiple projects together.”
+- [Bride Of Charlie: What Happened In Romania? | Episode 6 @ 00:28:01](/episodes/ep-y8lak3CRwDw.md#t-00-28-01): “On June 7th of 2012, Erika is going to team up with that Tracy Martin. Tracy says they met backstage and they just decided to go in to do some good together.”
 
 </details>
 

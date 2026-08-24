@@ -1,6 +1,6 @@
 ---
-title: "Wilmington, Delaware location of DEA"
-description: "Evidence for the relationship: Wilmington, Delaware location of DEA"
+title: "Wilmington location of DEA"
+description: "Evidence for the relationship: Wilmington location of DEA"
 relationship_id: "rel-df9ae883bb81"
 subject: "gpe-wilmington"
 predicate: "location of"
@@ -9,7 +9,7 @@ object: "org-dea"
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Wilmington, Delaware](/entities/gpe-wilmington) location of [DEA](/entities/org-dea)
+## [Wilmington](/entities/gpe-wilmington) location of [DEA](/entities/org-dea)
 
 ### Evidence (1 mentions)
 
@@ -19,5 +19,5 @@ object: "org-dea"
 
 ### Related
 
-- [Wilmington, Delaware](/entities/gpe-wilmington)
+- [Wilmington](/entities/gpe-wilmington)
 - [DEA](/entities/org-dea)

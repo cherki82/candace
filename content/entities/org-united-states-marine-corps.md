@@ -1,6 +1,6 @@
 ---
 title: "United States Marine Corps"
-description: "United States Marine Corps (Organizations) - 18 mentions"
+description: "United States Marine Corps (Organizations) - 40 mentions"
 id: "org-united-states-marine-corps"
 type: "ORG"
 aliases:
@@ -26,30 +26,35 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#t-00-55-02">2025-09-22 · 00:55:07</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07">2026-08-14 · 03:04:07</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
-<div><span>Relationships</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-united-states-marine-corps-t-00-09-56">Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-16-35">EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ja26iltROkM.md#t-00-55-02" style="--pulse-height:25%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-united-states-marine-corps-t-00-16-19" style="--pulse-height:50%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-marine-corps-t-00-16-09" style="--pulse-height:25%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-united-states-marine-corps-t-00-26-10" style="--pulse-height:25%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#ent-org-united-states-marine-corps-t-00-17-16" style="--pulse-height:25%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-united-states-marine-corps-t-00-31-25" style="--pulse-height:25%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-united-states-marine-corps-t-01-27-19" style="--pulse-height:25%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-united-states-marine-corps-t-00-12-15" style="--pulse-height:25%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-united-states-marine-corps-t-00-27-22" style="--pulse-height:25%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-united-states-marine-corps-t-00-09-56" style="--pulse-height:100%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 4 mentions" title="2026-02-27 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-marine-corps-t-00-20-44" style="--pulse-height:75%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 3 mentions" title="2026-03-03 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07" style="--pulse-height:25%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#t-00-55-02" style="--pulse-height:12%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-united-states-marine-corps-t-00-16-19" style="--pulse-height:25%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-marine-corps-t-00-16-09" style="--pulse-height:12%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-united-states-marine-corps-t-00-26-10" style="--pulse-height:12%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-org-united-states-marine-corps-t-00-17-16" style="--pulse-height:12%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-united-states-marine-corps-t-00-31-25" style="--pulse-height:12%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-united-states-marine-corps-t-01-27-19" style="--pulse-height:12%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-united-states-marine-corps-t-00-12-15" style="--pulse-height:12%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-united-states-marine-corps-t-00-27-22" style="--pulse-height:12%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-united-states-marine-corps-t-00-09-56" style="--pulse-height:50%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 4 mentions" title="2026-02-27 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-marine-corps-t-00-20-44" style="--pulse-height:38%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 3 mentions" title="2026-03-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-united-states-marine-corps-t-00-12-32" style="--pulse-height:50%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 4 mentions" title="2026-03-04 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-united-states-marine-corps-t-00-33-17" style="--pulse-height:12%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-marine-corps-t-00-05-32" style="--pulse-height:75%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 6 mentions" title="2026-03-10 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-16-35" style="--pulse-height:100%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 8 mentions" title="2026-03-11 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-united-states-marine-corps-t-00-15-03" style="--pulse-height:38%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07" style="--pulse-height:12%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -66,6 +71,11 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-united-states-marine-corps-t-00-27-22) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-united-states-marine-corps-t-00-09-56) | 4 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-marine-corps-t-00-20-44) | 3 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-united-states-marine-corps-t-00-12-32) | 4 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-united-states-marine-corps-t-00-33-17) | 1 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-marine-corps-t-00-05-32) | 6 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-16-35) | 8 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-united-states-marine-corps-t-00-15-03) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07) | 1 |
 
 </details>
@@ -74,13 +84,104 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[03:04:07](/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07)**
 > "...ing forward uh we have former marines that have gotten on and said it looks to me like ..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (3 mentions)</summary>
+
+**[00:15:21](/episodes/ep-5-HUyv9LyMg.md#ent-org-united-states-marine-corps-t-00-15-03)**
+> "...It's never her. It's the U.S. Marines Colonel Otto Buscher. You know, it's everyone aro..."
+
+**[00:22:55](/episodes/ep-5-HUyv9LyMg.md#ent-org-united-states-marine-corps-t-00-22-46)**
+> "... any wrongdoing. No, the U.S. Marines that she partnered with were going to be accused ..."
+
+**[00:23:13](/episodes/ep-5-HUyv9LyMg.md#ent-org-united-states-marine-corps-t-00-22-46)**
+> "...e. Are we to believe the U.S. Marines didn't catch that in a background check on Renee ..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (8 mentions)</summary>
+
+**[00:17:03](/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-16-35)**
+> "... in partnership with the U.S. Marines halfway around the world and in China while also ..."
+
+**[00:17:51](/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-17-19)**
+> "...Romania and the United States Marines? And today I should be clear. She presents it as ..."
+
+**[00:18:04](/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-17-59)**
+> "... support of the United States Marines."
+
+**[00:18:54](/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-18-54)**
+> "...omania and teamed up with the Marine Corps to open up and sustain an orphanage with 75 beaut..."
+
+**[00:19:00](/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-18-54)**
+> "...omania and teamed up with the Marine Corps to open up and sustain an orphanage with 75 beaut..."
+
+**[00:19:15](/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-19-15)**
+> "...d up, in partnership with the Marines, she opened up, and she sustained an orphanage. S..."
+
+**[00:22:19](/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-21-54)**
+> "Was the U.S. Marines operating it or were they just pretending to give..."
+
+**[00:12:49](/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-12-32)**
+> "The organization celebrates their 12th year and their longstanding partnership with the United States Marine Corps by expanding into China and Costa Rica while continuing their community outreach programs in the United States and Constanta, Romania."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (6 mentions)</summary>
+
+**[00:05:32](/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-marine-corps-t-00-05-32)**
+> "the army, the Air Force, Marines, the Space Force"
+
+**[00:20:02](/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-marine-corps-t-00-19-45)**
+> "...ing partnership with the U.S. Marines Black Sea Rotational Force in Constanta, teaming ..."
+
+**[00:20:27](/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-marine-corps-t-00-20-27)**
+> "...did she partner with the U.S. Marines at all?"
+
+**[00:20:34](/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-marine-corps-t-00-20-27)**
+> "...have to team up with the U.S. Marines this is a EU member state okay you don't need the..."
+
+**[00:21:03](/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-marine-corps-t-00-20-27)**
+> "...eded to team up with the U.S. Marines."
+
+**[00:21:15](/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-marine-corps-t-00-21-09)**
+> "...d a partnership with the U.S. Marines. It's very strange."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>
+
+**[00:33:17](/episodes/ep-DdPjoy5W-wY.md#ent-org-united-states-marine-corps-t-00-33-17)**
+> "...se that into working with the Marine Corps and the Army and then was able to work with a orp..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (4 mentions)</summary>
+
+**[00:12:41](/episodes/ep-y8lak3CRwDw.md#ent-org-united-states-marine-corps-t-00-12-32)**
+> "the chosen Marines were sent majority from that area"
+
+**[00:13:07](/episodes/ep-y8lak3CRwDw.md#ent-org-united-states-marine-corps-t-00-13-07)**
+> "... us at a glance a unit of six Marines, six Marines from Reno, part of the Black Sea Rot..."
+
+**[00:30:42](/episodes/ep-y8lak3CRwDw.md#ent-org-united-states-marine-corps-t-00-30-42)**
+> "... in partnership with the U.S. Marines and she is working. Working with Colonel Otto Bus..."
+
+**[00:56:13](/episodes/ep-y8lak3CRwDw.md#ent-org-united-states-marine-corps-t-00-56-01)**
+> "... information. I know a lot of Marines and retired military here."
 
 </details>
 
@@ -227,7 +328,21 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (7)</summary>
+
+- **[Romanian Angels Project](/entities/org-romanian-angels-project.md)** affiliated with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | Episode 6 @ 00:30:42](/episodes/ep-y8lak3CRwDw.md#t-00-30-42): “The Romanian Angels Project officially begins in partnership with the U.S. Marines and she is working. Working with Colonel Otto Busher III.”
+
+</details>
+
+- **[Everyday Heroes Like You](/entities/org-everyday-heroes-like-you.md)** affiliated with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:12:49](/episodes/ep-H9p2ZGHAs9A.md#t-00-12-32): “The organization celebrates their 12th year and their longstanding partnership with the United States Marine Corps by expanding into China and Costa Rica while continuing their community outreach programs in the United States and Constanta, Romania.”
+
+</details>
 
 - **[Robert Eugene Flood](/entities/person-robert-eugene-flood.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -251,11 +366,20 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:17:16](/episodes/ep-X92MllIHDzw.md#t-00-17-16): “I was living in China and doing a lot of work with the victims from sex trafficking and then began to phase that into working with the Marine Corps and the army”
 - [A Legal Turning Point? | Candace Ep 292 @ 00:31:25](/episodes/ep-NIEbqsLAK8g.md#t-00-30-58): “I was living in China and doing a lot of work with the victims from sex trafficking and then began to phase that into working with the Marine Corps and the Army”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:20:44](/episodes/ep-2tFYJf1klgY.md#t-00-20-44): “began to phase that into working with the Marine Corps and the Army”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:33:17](/episodes/ep-DdPjoy5W-wY.md#t-00-33-17): “began to phase that into working with the Marine Corps and the Army”
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:18:54](/episodes/ep-H9p2ZGHAs9A.md#t-00-18-54): “We just have a borderless heart to help people and to give back. And, you know, I have been to Romania and teamed up with the Marine Corps to open up and sustain an orphanage with 75 beautiful children.”
+
+</details>
+
+- **[Renee Crossman](/entities/person-renee-crossman.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:22:55](/episodes/ep-5-HUyv9LyMg.md#t-00-22-46): “To be clear, Renee Crossman ... No, the U.S. Marines that she partnered with”
 
 </details>
 
@@ -264,7 +388,40 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Marine Corps (10)</strong></summary>
+<summary><strong class="section-title">Statements about United States Marine Corps (16)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1)</summary>
+
+- [00:19:00](/episodes/ep-H9p2ZGHAs9A.md#t-00-18-54) (Claim) **Erika Kirk**: ["Erika Kirk said she teamed with the United States Marine Corps in Roma..."](/statements/statement-088ef4c0e1c8.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Romania](/entities/gpe-romania.md), [Romanian Angels Project](/entities/org-romanian-angels-project.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (2)</summary>
+
+- [00:33:17](/episodes/ep-DdPjoy5W-wY.md#t-00-33-17) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk says she lived in China while working with sex-trafficking ..."](/statements/statement-671b65b02715.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [China](/entities/gpe-china.md), [Romania](/entities/gpe-romania.md)
+
+- [00:39:17](/episodes/ep-DdPjoy5W-wY.md#t-00-39-17) (Claim) **Candace Owens**: ["The Black Sea Rotational Force 13 deployed from February through Augus..."](/statements/statement-f15711f6c43f.md)
+  - Also about: [Black Sea Rotational Force](/entities/org-black-sea-rotational-force.md), [Black Sea](/entities/gpe-black-sea.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (3)</summary>
+
+- [00:12:41](/episodes/ep-y8lak3CRwDw.md#t-00-12-32) (Citation) **Candace Owens**: ["An article said six Marines from Reno in Black Sea Rotational Force 11..."](/statements/statement-fe4d6dfc21c7.md)
+  - Also about: [Black Sea Rotational Force](/entities/org-black-sea-rotational-force.md), [Reno, Nevada](/entities/gpe-reno-nevada.md), [Eastern Europe](/entities/gpe-eastern-europe.md)
+
+- [00:16:29](/episodes/ep-y8lak3CRwDw.md#t-00-15-54) (Claim) **Candace Owens**: ["Dennis Frantzve was a retired Marine reservist who returned from retir..."](/statements/statement-4f770a4a767a.md)
+  - Also about: [Dennis Frantzve](/entities/person-dennis-frantzve.md), [Constanța](/entities/gpe-constanta.md), [Afghanistan](/entities/gpe-afghanistan.md)
+
+- [00:30:42](/episodes/ep-y8lak3CRwDw.md#t-00-30-42) (Claim) **Candace Owens**: ["The Romanian Angels Project began in November 2012 in partnership with..."](/statements/statement-d20b381b368c.md)
+  - Also about: [Romanian Angels Project](/entities/org-romanian-angels-project.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1)</summary>

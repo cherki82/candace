@@ -21,7 +21,7 @@ type: "factual_claim"
 ## About
 
 - [Fort Huachuca](/entities/gpe-fort-huachuca.md) (gpe)
-- [Las Vegas](/entities/gpe-las-vegas.md) (gpe)
+- [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md) (gpe)
 - [Harry Myers](/entities/person-harry-myers.md) (person)
 
 ## Source

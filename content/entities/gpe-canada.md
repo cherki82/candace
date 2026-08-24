@@ -1,6 +1,6 @@
 ---
 title: "Canada"
-description: "Canada (Places) - 15 mentions"
+description: "Canada (Places) - 19 mentions"
 id: "gpe-canada"
 type: "GPE"
 categories:
@@ -17,12 +17,12 @@ Source: [Government of Canada](https://www.canada.ca/en.html)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-canada-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-canada-t-00-32-12">2026-02-13 · 00:32:24</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-canada-t-00-10-38">2026-03-24 · 00:11:04</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -42,6 +42,10 @@ Source: [Government of Canada](https://www.canada.ca/en.html)
 <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-canada-t-00-53-52" style="--pulse-height:100%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-canada-t-00-50-04" style="--pulse-height:100%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 2 mentions" title="2026-01-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-canada-t-00-32-12" style="--pulse-height:50%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-canada-t-00-07-49" style="--pulse-height:50%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-canada-t-00-20-01" style="--pulse-height:50%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-canada-t-00-08-01" style="--pulse-height:50%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-canada-t-00-10-38" style="--pulse-height:50%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -59,6 +63,10 @@ Source: [Government of Canada](https://www.canada.ca/en.html)
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-canada-t-00-53-52) | 2 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-gpe-canada-t-00-50-04) | 2 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-canada-t-00-32-12) | 1 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-canada-t-00-07-49) | 1 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-canada-t-00-20-01) | 1 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-canada-t-00-08-01) | 1 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-canada-t-00-10-38) | 1 |
 
 </details>
 </section>
@@ -66,7 +74,39 @@ Source: [Government of Canada](https://www.canada.ca/en.html)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>
+
+**[00:11:04](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-canada-t-00-10-38)**
+> "They have locations in Canada and in Scottsdale."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
+
+**[00:08:01](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-canada-t-00-08-01)**
+> "before that rally and offered to help so the details get murky she can't remember how she met him kind of thinking it was years earlier when her mother was doing deals with the uh the Farnsworth family for EMPs and getting money again from the government for fear-mongering was going to be these EMP attacks anyway in mid-August of that year Erika (Erika Kirk) goes to Canada she As she travels to Montreal, through to Estrel,"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>
+
+**[00:20:01](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-canada-t-00-20-01)**
+> "In the United States and Canada, as well as in London and other major cities of E..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
+
+**[00:07:56](/episodes/ep-y8lak3CRwDw.md#ent-gpe-canada-t-00-07-49)**
+> "this outside bureau up in Canada"
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
@@ -178,6 +218,41 @@ Source: [Government of Canada](https://www.canada.ca/en.html)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Location Of (1)</summary>
+
+- **[Hopkinson Aircraft Sales](/entities/org-hopkinson-aircraft-sales.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:11:04](/episodes/ep-SgVcnx4Oh30.md#t-00-10-38): “They have locations in Canada and in Scottsdale.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Hopkinson Aircraft Sales](/entities/org-hopkinson-aircraft-sales.md)** based in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:11:04](/episodes/ep-SgVcnx4Oh30.md#t-00-10-38): “They have locations in Canada and in Scottsdale.”
+
+</details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Canada (1)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1)</summary>
+
+- [00:20:59](/episodes/ep-y8lak3CRwDw.md#t-00-20-59) (Claim) **Randy Hoppes** (via quoted speech): ["The Romanian base Randy Hoppes described was a NATO joint base hosting..."](/statements/statement-7bd9c7bd0fab.md)
+  - Also about: [Randy Hoppes](/entities/person-randy-hoppes.md), [North Atlantic Treaty Organization](/entities/org-north-atlantic-treaty-organization.md), [Romania](/entities/gpe-romania.md)
+
+</details>
 
 </details>

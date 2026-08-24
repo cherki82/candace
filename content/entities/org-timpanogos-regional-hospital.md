@@ -1,6 +1,6 @@
 ---
 title: "Timpanogos Regional Hospital"
-description: "Timpanogos Regional Hospital (Organizations) - 10 mentions"
+description: "Timpanogos Regional Hospital (Organizations) - 11 mentions"
 id: "org-timpanogos-regional-hospital"
 type: "ORG"
 aliases:
@@ -14,10 +14,10 @@ _Type: Organizations_
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-timpanogos-regional-hospital-t-00-30-44">2025-09-30 · 00:30:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-timpanogos-regional-hospital-t-00-06-59">2025-12-18 · 00:07:29</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -50,7 +50,7 @@ _Type: Organizations_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
@@ -112,6 +112,14 @@ _Type: Organizations_
 
 </details>
 
+<details>
+<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
+
+**[00:06:54](/episodes/ep-5m-Wn6Pr5rM.md#t-00-06-54)**
+> "Timpanogos Hospital"
+
+</details>
+
 </details>
 
 <details open>
@@ -165,7 +173,7 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (4)</strong></summary>
+<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (7)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
@@ -196,6 +204,20 @@ _Type: Organizations_
 
 - [00:30:31](/episodes/ep-YA1FxrDWNIo.md#t-00-30-08) (Claim) **Candace Owens**: ["Charlie Kirk was taken to Timpanogos Regional Hospital, a trauma III c..."](/statements/statement-efc70119a7d4.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Zenger](/entities/person-andrew-zenger.md)
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (3)</summary>
+
+- [00:05:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-05-47) (Claim) **Frank Turek** (via quoted speech): ["Erika Kirk probably arrived at the hospital around 4 p.m."](/statements/statement-138fff1e852b.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:07:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-07-31) (Claim) **Candace Owens**: ["Even with a police escort, Erika Kirk and the others would have arrive..."](/statements/statement-acf39f460fa9.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Provo Airport](/entities/org-provo-airport.md)
+
+- [00:47:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-12) (Claim) **Candace Owens**: ["Erika Kirk asked whether Joe Kent was my source at the hospital, and I..."](/statements/statement-49ddf25219af.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Joe Kent](/entities/person-joe-kent.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 </details>
 

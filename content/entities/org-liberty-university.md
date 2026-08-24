@@ -1,6 +1,6 @@
 ---
 title: "Liberty University"
-description: "Liberty University (Organizations) - 67 mentions"
+description: "Liberty University (Organizations) - 72 mentions"
 id: "org-liberty-university"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-liberty-university-t-00-04-24">2025-10-29 · 00:04:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-org-liberty-university-t-00-36-05">2026-02-10 · 00:36:05</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>67</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-liberty-university-t-00-16-56">2026-03-18 · 00:17:20</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>72</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>19</strong></div>
 <div><span>Relationships</span><strong>17</strong></div>
@@ -45,6 +45,9 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-liberty-university-t-00-09-30" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-liberty-university-t-00-14-06" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-liberty-university-t-00-32-21" style="--pulse-height:8%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-liberty-university-t-00-05-48" style="--pulse-height:8%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-liberty-university-t-00-13-16" style="--pulse-height:8%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 2 mentions" title="2026-03-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-liberty-university-t-00-16-56" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +63,9 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-liberty-university-t-00-09-30) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-liberty-university-t-00-14-06) | 2 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-liberty-university-t-00-32-21) | 2 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-liberty-university-t-00-05-48) | 2 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-liberty-university-t-00-13-16) | 2 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-org-liberty-university-t-00-16-56) | 1 |
 
 </details>
 </section>
@@ -67,7 +73,37 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (67)</strong></summary>
+<summary><strong class="section-title">Raw mentions (72)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
+
+**[00:17:20](/episodes/ep-_vg7ucP1E0g.md#ent-org-liberty-university-t-00-16-56)**
+> "And per her LinkedIn, she begins attending Liberty University for her master's degree. So you can see that there."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (2 mentions)</summary>
+
+**[00:13:41](/episodes/ep-H9p2ZGHAs9A.md#ent-org-liberty-university-t-00-13-16)**
+> "Liberty University."
+
+**[00:16:35](/episodes/ep-H9p2ZGHAs9A.md#ent-org-liberty-university-t-00-16-35)**
+> "...followed by her law degree at Liberty while also studying the mandatory 77 hours."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (2 mentions)</summary>
+
+**[00:05:48](/episodes/ep-DdPjoy5W-wY.md#ent-org-liberty-university-t-00-05-48)**
+> "...rsuing her master's degree at Liberty University."
+
+**[00:40:31](/episodes/ep-DdPjoy5W-wY.md#ent-org-liberty-university-t-00-40-31)**
+> "...ohnny Moore is going to leave Liberty University and start the Kairos company with Andrew (Andrew ..."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (2 mentions)</summary>
@@ -341,10 +377,11 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 <summary>Formerly Employed (2)</summary>
 
 - **[Johnnie Moore](/entities/person-johnnie-moore.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:20](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “Johnnie Moore was the lead pastor at Liberty University prior to then leaving Liberty University to start the PR firm.”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “when Johnnie left Liberty University in 2014, he went to Hollywood to start the PR company, the KAIROS Company.”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:31](/episodes/ep-DdPjoy5W-wY.md#t-00-40-31): “Johnny Moore is going to leave Liberty University”
 
 </details>
 
@@ -406,9 +443,10 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** affiliated with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:06:38](/episodes/ep-wcD2khO3rOA.md#t-00-06-24): “Erika Kirk attended and she graduated”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:05:48](/episodes/ep-DdPjoy5W-wY.md#t-00-05-48): “So when Erika (Erika Kirk) meets Charlie (Charlie Kirk), just to paint this picture for you, we're supposed to believe that she's pursuing her master's degree at Liberty University.”
 
 </details>
 
@@ -420,10 +458,11 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 </details>
 
 - **[Johnnie Moore](/entities/person-johnnie-moore.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:20](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “Johnnie Moore was the lead pastor at Liberty University prior to then leaving Liberty University to start the PR firm.”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “when Johnnie left Liberty University in 2014, he went to Hollywood to start the PR company, the KAIROS Company.”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:31](/episodes/ep-DdPjoy5W-wY.md#t-00-40-31): “Johnny Moore is going to leave Liberty University”
 
 </details>
 

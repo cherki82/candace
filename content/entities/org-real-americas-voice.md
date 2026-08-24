@@ -68,7 +68,7 @@ Source: [About | Real America's Voice](https://americasvoice.news/about/)
 <details>
 <summary>Interviewed (1)</summary>
 
-- **[Mikey McCoy](/entities/person-mikey-mccoy.md)**
+- **[Michael McCoy](/entities/person-michael-mccoy.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:38:03](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03): “the marvelous Mikey (Mikey McCoy) on November 8th, giving an interview to Real America's Voice.”
@@ -80,7 +80,7 @@ Source: [About | Real America's Voice](https://americasvoice.news/about/)
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[Mikey McCoy](/entities/person-mikey-mccoy.md)** interviewed by this
+- **[Michael McCoy](/entities/person-michael-mccoy.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:38:03](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03): “the marvelous Mikey (Mikey McCoy) on November 8th, giving an interview to Real America's Voice.”
@@ -98,7 +98,7 @@ Source: [About | Real America's Voice](https://americasvoice.news/about/)
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>
 
 - [00:38:03](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03) (Claim) **Candace Owens**: ["The wedding photo was absent from Charlie Kirk's home studio during Mi..."](/statements/statement-466c43c50dc3.md)
-  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

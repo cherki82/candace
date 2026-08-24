@@ -20,7 +20,7 @@ _Type: Events_
 <div><span>Episodes</span><strong>12</strong></div>
 <div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -200,7 +200,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about COVID-19 Pandemic (1)</strong></summary>
+<summary><strong class="section-title">Statements about COVID-19 Pandemic (2)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1)</summary>
+
+- [00:11:03](/episodes/ep-5-HUyv9LyMg.md#t-00-10-31) (Claim) **Candace Owens**: ["Jared Kushner told Donald Trump to impose COVID lockdowns."](/statements/statement-96de63c74c2f.md)
+  - Also about: [Jared Kushner](/entities/person-jared-kushner.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (1)</summary>

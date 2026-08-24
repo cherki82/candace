@@ -1,21 +1,30 @@
 ---
 title: "Falkirk Center"
-description: "Falkirk Center (Organizations) - 12 mentions"
+description: "Falkirk Center (Organizations) - 13 mentions"
 id: "org-falkirk-center"
 type: "ORG"
 aliases:
   - "Falkirk Center for Faith and Liberty"
+categories:
+  - "political advocacy"
+  - "religion"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Falkirk Center for Faith and Liberty
 
+**Categories:** political advocacy, religion
+
+**Entity verification:** verified
+> Liberty University's official journal confirms the canonical Falkirk Center for Faith and Liberty name and its later renaming to the Standing for Freedom Center.
+Source: [Newly renamed Standing for Freedom Center holds steady to its mission | Liberty Journal](https://www.liberty.edu/journal/2021/03/10/newly-renamed-standing-for-freedom-center-holds-steady-to-its-mission/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-falkirk-center-t-00-08-36">2026-01-09 · 00:08:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-org-falkirk-center-t-00-47-54">2026-01-12 · 00:47:54</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-falkirk-center-t-00-07-09">2026-03-06 · 00:07:17</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -28,6 +37,7 @@ _Type: Organizations_
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-falkirk-center-t-00-08-36" style="--pulse-height:50%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-falkirk-center-t-00-00-00" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 8 mentions" title="2026-01-12 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-falkirk-center-t-00-07-09" style="--pulse-height:12%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -35,6 +45,7 @@ _Type: Organizations_
 |---|---|---:|
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-falkirk-center-t-00-08-36) | 4 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-falkirk-center-t-00-00-00) | 8 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-falkirk-center-t-00-07-09) | 1 |
 
 </details>
 </section>
@@ -42,7 +53,15 @@ _Type: Organizations_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>
+
+**[00:07:17](/episodes/ep-DdPjoy5W-wY.md#ent-org-falkirk-center-t-00-07-09)**
+> "...ng, becoming a fellow for the Falkirk center, speaking for various faith ministries and pursui..."
+
+</details>
 
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (8 mentions)</summary>
@@ -120,9 +139,10 @@ _Type: Organizations_
 <summary>Referenced By (4)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** affiliated with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:09:14](/episodes/ep-wcD2khO3rOA.md#t-00-08-36): “She became a Falkirk fellow.”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:07:17](/episodes/ep-DdPjoy5W-wY.md#t-00-07-09): “becoming a fellow for the Falkirk center”
 
 </details>
 

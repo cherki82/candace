@@ -22,7 +22,7 @@ Source: [Bee Propolis-Powered Wellness | Beekeeper's Naturals](https://www.beeke
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-beekeepers-naturals-t-00-38-20">2025-09-17 · 00:38:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-beekeepers-naturals-t-00-26-21">2026-02-28 · 00:26:27</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-org-beekeepers-naturals-t-00-37-39">2026-03-04 · 00:38:09</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -40,6 +40,7 @@ Source: [Bee Propolis-Powered Wellness | Beekeeper's Naturals](https://www.beeke
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-beekeepers-naturals-t-00-35-34" style="--pulse-height:17%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-beekeepers-naturals-t-00-55-49" style="--pulse-height:83%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 5 mentions" title="2026-01-21 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-beekeepers-naturals-t-00-25-37" style="--pulse-height:67%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 4 mentions" title="2026-02-28 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-beekeepers-naturals-t-00-36-58" style="--pulse-height:50%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 3 mentions" title="2026-03-04 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [Bee Propolis-Powered Wellness | Beekeeper's Naturals](https://www.beeke
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-beekeepers-naturals-t-00-35-34) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-beekeepers-naturals-t-00-55-49) | 5 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-beekeepers-naturals-t-00-25-37) | 4 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-beekeepers-naturals-t-00-36-58) | 3 |
 
 </details>
 </section>
@@ -58,6 +60,20 @@ Source: [Bee Propolis-Powered Wellness | Beekeeper's Naturals](https://www.beeke
 
 <details>
 <summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (3 mentions)</summary>
+
+**[00:37:22](/episodes/ep-y8lak3CRwDw.md#ent-org-beekeepers-naturals-t-00-36-58)**
+> "...I have to tell you guys about Beekeeper's Naturals because if you are a parent, you know exactly wha..."
+
+**[00:37:31](/episodes/ep-y8lak3CRwDw.md#ent-org-beekeepers-naturals-t-00-36-58)**
+> "...ut being prepared. That's why Beekeeper's Naturals is always stocked in our home, especially at this..."
+
+**[00:38:09](/episodes/ep-y8lak3CRwDw.md#ent-org-beekeepers-naturals-t-00-37-39)**
+> "Today, Beekeepers Naturals is giving my viewers an exclusive offer. Go to be..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (4 mentions)</summary>
@@ -132,20 +148,6 @@ Source: [Bee Propolis-Powered Wellness | Beekeeper's Naturals](https://www.beeke
 
 **[00:39:22](/episodes/ep-2WEHTk0Xewg.md#ent-org-beekeepers-naturals-t-00-39-04)**
 > "Beekeeper's Naturals products are also available at Target, Whole Food..."
-
-</details>
-
-<details>
-<summary>ep-y8lak3CRwDw (3 mentions)</summary>
-
-**[00:37:22](/episodes/ep-y8lak3CRwDw.md#t-00-37-22)**
-> "...I have to tell you guys about Beekeeper's Naturals because if you are a parent, you know exactly wha..."
-
-**[00:37:31](/episodes/ep-y8lak3CRwDw.md#t-00-37-31)**
-> "...ut being prepared. That's why Beekeeper's Naturals is always stocked in our home, especially at this..."
-
-**[00:38:09](/episodes/ep-y8lak3CRwDw.md#t-00-38-09)**
-> "Today, Beekeepers Naturals is giving my viewers an exclusive offer. Go to be..."
 
 </details>
 

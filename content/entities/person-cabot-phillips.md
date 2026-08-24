@@ -1,6 +1,6 @@
 ---
 title: "Cabot Phillips"
-description: "Cabot Phillips (People) - 15 mentions"
+description: "Cabot Phillips (People) - 18 mentions"
 id: "person-cabot-phillips"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-cabot-phillips-t-00-41-05">2025-12-20 · 00:41:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4YgrOhhy708.md#ent-person-cabot-phillips-t-00-18-36">2026-02-09 · 00:18:51</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-cabot-phillips-t-00-18-50">2026-03-18 · 00:18:50</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -39,6 +39,7 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-cabot-phillips-t-00-37-47" style="--pulse-height:44%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 4 mentions" title="2026-01-05 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-cabot-phillips-t-00-06-24" style="--pulse-height:11%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-cabot-phillips-t-00-18-36" style="--pulse-height:11%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-cabot-phillips-t-00-16-56" style="--pulse-height:33%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-cabot-phillips-t-00-37-47) | 4 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-cabot-phillips-t-00-06-24) | 1 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-cabot-phillips-t-00-18-36) | 1 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-cabot-phillips-t-00-16-56) | 3 |
 
 </details>
 </section>
@@ -55,7 +57,21 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (3 mentions)</summary>
+
+**[00:17:06](/episodes/ep-_vg7ucP1E0g.md#ent-person-cabot-phillips-t-00-16-56)**
+> "This year, Erika (Erika Kirk) is dating Cabot Phillips, by the way. I told you she has a boyfriend."
+
+**[00:17:11](/episodes/ep-_vg7ucP1E0g.md#ent-person-cabot-phillips-t-00-16-56)**
+> "Every single year, Cabot Phillips is her boyfriend. At this time, they're painting ..."
+
+**[00:18:50](/episodes/ep-_vg7ucP1E0g.md#ent-person-cabot-phillips-t-00-18-50)**
+> "... ringing in the new year with Cabot Phillips, her boyfriend, and Lori (Lori Frantzve) are goin..."
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (1 mentions)</summary>
@@ -140,6 +156,18 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 </details>
 
 <details>
+<summary>Formerly Dated (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:17:06](/episodes/ep-_vg7ucP1E0g.md#t-00-16-56): “This year, Erika (Erika Kirk) is dating Cabot Phillips, by the way. I told you she has a boyfriend.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Works For (1)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
@@ -152,12 +180,19 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:42:04](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49): “I know that he does the morning wire at Daily Wire”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** formerly dated this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:17:06](/episodes/ep-_vg7ucP1E0g.md#t-00-16-56): “This year, Erika (Erika Kirk) is dating Cabot Phillips, by the way. I told you she has a boyfriend.”
 
 </details>
 

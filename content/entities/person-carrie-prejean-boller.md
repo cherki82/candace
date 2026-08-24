@@ -1,6 +1,6 @@
 ---
 title: "Carrie Prejean Boller"
-description: "Carrie Prejean Boller (People) - 11 mentions"
+description: "Carrie Prejean Boller (People) - 16 mentions"
 id: "person-carrie-prejean-boller"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [DOJ: Fifth Hearing of the Religious Liberty Commission transcript](http
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-4YgrOhhy708.md#ent-person-carrie-prejean-boller-t-00-31-24">2026-02-09 · 00:31:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-carrie-prejean-boller-t-00-35-57">2026-02-11 · 00:36:37</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-carrie-prejean-boller-t-00-46-58">2026-03-18 · 00:46:58</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -38,6 +38,10 @@ Source: [DOJ: Fifth Hearing of the Religious Liberty Commission transcript](http
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-carrie-prejean-boller-t-00-31-24" style="--pulse-height:29%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-carrie-prejean-boller-t-00-42-56" style="--pulse-height:29%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-carrie-prejean-boller-t-00-00-01" style="--pulse-height:100%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 7 mentions" title="2026-02-11 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-carrie-prejean-boller-t-00-52-34" style="--pulse-height:14%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-carrie-prejean-boller-t-00-54-54" style="--pulse-height:14%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-carrie-prejean-boller-t-00-18-07" style="--pulse-height:29%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-carrie-prejean-boller-t-00-46-58" style="--pulse-height:14%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +50,10 @@ Source: [DOJ: Fifth Hearing of the Religious Liberty Commission transcript](http
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-carrie-prejean-boller-t-00-31-24) | 2 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-carrie-prejean-boller-t-00-42-56) | 2 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-carrie-prejean-boller-t-00-00-01) | 7 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-carrie-prejean-boller-t-00-52-34) | 1 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-carrie-prejean-boller-t-00-54-54) | 1 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-carrie-prejean-boller-t-00-18-07) | 2 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-carrie-prejean-boller-t-00-46-58) | 1 |
 
 </details>
 </section>
@@ -53,7 +61,42 @@ Source: [DOJ: Fifth Hearing of the Religious Liberty Commission transcript](http
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
+
+**[00:46:58](/episodes/ep-_vg7ucP1E0g.md#ent-person-carrie-prejean-boller-t-00-46-58)**
+> "You guys can head to candaceowens.com, and, yeah, there's a lot of great stuff. We are really trying to step up the merch game this year, so I hope you guys enjoy that. Josie writes—oh, I'm sorry, James first. James the Least writes, "Joe Kent, Carrie Prejean Boller, Candace, and others are going to witness for faith tomorrow on enemy territory. Surround and protect them with your prayers. Christ is King." Truly, do pray. I mean, it's just like I said, so crazy the way that"
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (2 mentions)</summary>
+
+**[00:18:37](/episodes/ep-I0OaY6Gryqk.md#ent-person-carrie-prejean-boller-t-00-18-07)**
+> "we have Carrie Prejean Bowler speaking"
+
+**[00:18:55](/episodes/ep-I0OaY6Gryqk.md#ent-person-carrie-prejean-boller-t-00-18-44)**
+> "...ry that there can be life for Carrie Prejean Bowler after she says, actually, no, Catholic doc..."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1 mentions)</summary>
+
+**[00:55:05](/episodes/ep-ZzAT2xijKGQ.md#ent-person-carrie-prejean-boller-t-00-54-54)**
+> "pray for Carrie Prejean Baller"
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
+
+**[00:52:34](/episodes/ep-i8m_6D4QGmk.md#ent-person-carrie-prejean-boller-t-00-52-34)**
+> "Carrie Prejean Boller"
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (7 mentions)</summary>
@@ -109,12 +152,19 @@ Source: [DOJ: Fifth Hearing of the Religious Liberty Commission transcript](http
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Fired By (1)</summary>
+<summary>Fired By (2)</summary>
 
 - **[Dan Patrick](/entities/person-dan-patrick.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:35:38](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12): “Here is how Dan Patrick announced it on X, ... Carrie Prejean Boller has been removed from President Trump (Donald J. Trump)'s Religious Liberty Commission. ... This was my decision.”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:52:34](/episodes/ep-i8m_6D4QGmk.md#t-00-52-34): “I don't really see that happening right now. I don't even see Trump doing that from his flagrant violations of free speech to freedom of religion, Trump recently firing Carrie Prejean Boller from the religious committee because Zionists didn't like her Catholic perspectives.”
 
 </details>
 
@@ -133,12 +183,19 @@ Source: [DOJ: Fifth Hearing of the Religious Liberty Commission transcript](http
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Dan Patrick](/entities/person-dan-patrick.md)** fired this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:35:38](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12): “Here is how Dan Patrick announced it on X, ... Carrie Prejean Boller has been removed from President Trump (Donald J. Trump)'s Religious Liberty Commission. ... This was my decision.”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** fired this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:52:34](/episodes/ep-i8m_6D4QGmk.md#t-00-52-34): “I don't really see that happening right now. I don't even see Trump doing that from his flagrant violations of free speech to freedom of religion, Trump recently firing Carrie Prejean Boller from the religious committee because Zionists didn't like her Catholic perspectives.”
 
 </details>
 
@@ -178,7 +235,15 @@ Source: [DOJ: Fifth Hearing of the Religious Liberty Commission transcript](http
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Carrie Prejean Boller (4)</strong></summary>
+<summary><strong class="section-title">Statements about Carrie Prejean Boller (5)</strong></summary>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
+
+- [00:52:34](/episodes/ep-i8m_6D4QGmk.md#t-00-52-34) (Accusation) **Candace Owens**: ["Trump fired Carrie Prejean Boller from a religious committee because Z..."](/statements/statement-9d059cffd52f.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Zionism](/entities/concept-zionism.md), [Catholicism](/entities/concept-catholicism.md)
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (4)</summary>

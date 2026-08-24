@@ -260,7 +260,7 @@ Source: [About ADL](https://www.adl.org/about)
 <details>
 <summary>Founded By (1)</summary>
 
-- **[B'nai B'rith](/entities/org-b-nai-b-rith.md)**
+- **[B'nai B'rith International](/entities/org-bnai-brith-international.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:02](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): “the ADL was born out of a Jewish Freemason organization known as B'nai B'rith.”
@@ -320,7 +320,7 @@ Source: [About ADL](https://www.adl.org/about)
 
 </details>
 
-- **[B'nai B'rith](/entities/org-b-nai-b-rith.md)** founded this
+- **[B'nai B'rith International](/entities/org-bnai-brith-international.md)** founded this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:02](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): “the ADL was born out of a Jewish Freemason organization known as B'nai B'rith.”

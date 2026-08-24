@@ -11,7 +11,19 @@ object: "org-corcoran-group"
 
 ## [Erika Kirk](/entities/person-erika-kirk) formerly worked for [The Corcoran Group](/entities/org-corcoran-group)
 
-### Evidence (1 mentions)
+### Evidence (4 mentions)
+
+**[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
+
+- [00:05:55](/episodes/ep-DdPjoy5W-wY#t-00-05-55): _She's also working in real estate for the Corcoran Real Estate Group_
+
+**[Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ)**
+
+- [00:26:56](/episodes/ep-ZzAT2xijKGQ#t-00-26-56): _she also unusually receives her New York real estate license to work with Corcoran Real Estate._
+
+**[Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g)**
+
+- [00:22:57](/episodes/ep-_vg7ucP1E0g#t-00-22-57): _Then comes October 24th, and Erika (Erika Kirk) somehow becomes a licensed real estate agent in New York and is immediately employed by Corcoran Real Estate Group._
 
 **[Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno)**
 

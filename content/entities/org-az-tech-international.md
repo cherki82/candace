@@ -24,11 +24,11 @@ Source: [DHS FY2006 FOIA Log](https://www.dhs.gov/xlibrary/assets/foia/priv_fy_2
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-az-tech-international-t-00-34-55">2026-02-28 · 00:34:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-org-az-tech-international-t-00-27-28">2026-03-03 · 00:27:28</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-org-az-tech-international-t-00-09-42">2026-03-04 · 00:10:08</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -39,6 +39,7 @@ Source: [DHS FY2006 FOIA Log](https://www.dhs.gov/xlibrary/assets/foia/priv_fy_2
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-az-tech-international-t-00-34-55" style="--pulse-height:67%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-org-az-tech-international-t-00-15-25" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 3 mentions" title="2026-03-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-az-tech-international-t-00-09-42" style="--pulse-height:67%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [DHS FY2006 FOIA Log](https://www.dhs.gov/xlibrary/assets/foia/priv_fy_2
 |---|---|---:|
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-az-tech-international-t-00-34-55) | 2 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-az-tech-international-t-00-15-25) | 3 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-az-tech-international-t-00-09-42) | 2 |
 
 </details>
 </section>
@@ -54,6 +56,17 @@ Source: [DHS FY2006 FOIA Log](https://www.dhs.gov/xlibrary/assets/foia/priv_fy_2
 
 <details>
 <summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (2 mentions)</summary>
+
+**[00:09:55](/episodes/ep-y8lak3CRwDw.md#ent-org-az-tech-international-t-00-09-42)**
+> "...010, Lori Frantzve reinstates AZ Tech International."
+
+**[00:10:08](/episodes/ep-y8lak3CRwDw.md#ent-org-az-tech-international-t-00-09-42)**
+> "...ly find a description of what AZ Tech International does from Lori."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (3 mentions)</summary>
@@ -80,17 +93,6 @@ Source: [DHS FY2006 FOIA Log](https://www.dhs.gov/xlibrary/assets/foia/priv_fy_2
 
 </details>
 
-<details>
-<summary>ep-y8lak3CRwDw (2 mentions)</summary>
-
-**[00:09:55](/episodes/ep-y8lak3CRwDw.md#t-00-09-55)**
-> "...010, Lori Frantzve reinstates AZ Tech International."
-
-**[00:10:08](/episodes/ep-y8lak3CRwDw.md#t-00-10-08)**
-> "...ly find a description of what AZ Tech International does from Lori."
-
-</details>
-
 </details>
 
 <details open>
@@ -101,7 +103,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about AZ-Tech International (1)</strong></summary>
+<summary><strong class="section-title">Statements about AZ-Tech International (3)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (2)</summary>
+
+- [00:09:55](/episodes/ep-y8lak3CRwDw.md#t-00-09-42) (Claim) **Candace Owens**: ["Lori Frantzve reinstated AZ-Tech International in 2010."](/statements/statement-1de776488709.md)
+  - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+- [00:11:00](/episodes/ep-y8lak3CRwDw.md#t-00-11-00) (Citation) **Lori Frantzve** (via quoted document): ["Lori Frantzve's biography said AZ-Tech created a hybrid cyber, electri..."](/statements/statement-78faf0577b3e.md)
+  - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [United States Department of Defense](/entities/org-us-department-of-defense.md), [United States Department of Energy](/entities/org-us-department-of-energy.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (1)</summary>

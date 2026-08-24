@@ -11,7 +11,7 @@ date: "2010"
 
 > Tyler Bowyer traveled to Romania to work with the Romanian government.
 
-## Mentioned In (2 times)
+## Mentioned In (5 times)
 
 ### 1. The Past Is Prologue: Why Charlie Kirk Was Murdered | Candac...
 
@@ -28,3 +28,27 @@ date: "2010"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1736);return false;">▶️ Play</a>
 
 > Tyler Bowyer. Tyler Bowyer in 2010, just when this gets established, is going to make an appearance in Romania to work with the Romanian parliament.
+
+### 3. Bride Of Charlie: What Happened In Romania? | Episode 6
+
+**Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
+**Timestamp:** [00:09:42](/episodes/ep-y8lak3CRwDw.md#event-event-2010-tyler-bowyer-traveled-to-romania-to-work-t-00-09-42) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(582);return false;">▶️ Play</a>
+
+> Tyler Bowyer makes his first appearance in Romania.
+
+### 4. Bride Of Charlie: Crazy In Love | Episode 7
+
+**Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
+**Timestamp:** [00:26:19](/episodes/ep-DdPjoy5W-wY.md#event-event-2010-tyler-bowyer-traveled-to-romania-to-work-t-00-26-19) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1579);return false;">▶️ Play</a>
+
+> after Tyler Bowyer's trip to Romania in 2010, he then gets magically elected
+
+### 5. Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309
+
+**Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
+**Timestamp:** [00:18:56](/episodes/ep-ZzAT2xijKGQ.md#event-event-2010-tyler-bowyer-traveled-to-romania-to-work-t-00-18-32) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1136);return false;">▶️ Play</a>
+
+> Tyler Bowyer goes out to Constanta, Romania, and he's hanging out and he's partying

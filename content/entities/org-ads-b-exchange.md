@@ -1,21 +1,30 @@
 ---
 title: "ADS-B Exchange"
-description: "ADS-B Exchange (Organizations) - 2 mentions"
+description: "ADS-B Exchange (Organizations) - 3 mentions"
 id: "org-ads-b-exchange"
 type: "ORG"
 aliases:
   - "ADSB Exchange"
+categories:
+  - "flight tracking"
+  - "aviation data"
 ---
 
 _Type: Organizations_
 
 **Also known as:** ADSB Exchange
 
+**Categories:** flight tracking, aviation data
+
+**Entity verification:** verified
+> Official ADS-B Exchange site confirms the canonical name and its real-time aircraft-tracking platform.
+Source: [About - ADS-B Exchange](https://www.adsbexchange.com/about/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-ads-b-exchange-t-00-20-19">2025-11-17 · 00:20:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-ads-b-exchange-t-00-20-19">2025-11-17 · 00:20:44</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-ads-b-exchange-t-00-23-36">2026-03-24 · 00:23:36</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -27,12 +36,14 @@ _Type: Organizations_
 <p>Highest activity: <a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-ads-b-exchange-t-00-20-19">Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-ads-b-exchange-t-00-20-19" style="--pulse-height:100%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-ads-b-exchange-t-00-23-36" style="--pulse-height:50%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-org-ads-b-exchange-t-00-20-19) | 2 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-ads-b-exchange-t-00-23-36) | 1 |
 
 </details>
 </section>
@@ -40,7 +51,15 @@ _Type: Organizations_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>
+
+**[00:23:36](/episodes/ep-SgVcnx4Oh30.md#ent-org-ads-b-exchange-t-00-23-36)**
+> "go onto the ADS-B Exchange website"
+
+</details>
 
 <details>
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2 mentions)</summary>

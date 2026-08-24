@@ -1,6 +1,6 @@
 ---
 title: "Emma Goldman"
-description: "Emma Goldman (People) - 5 mentions"
+description: "Emma Goldman (People) - 6 mentions"
 id: "person-emma-goldman"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Emma Goldman | Biography | Britannica](https://www.britannica.com/biogr
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-emma-goldman-t-00-12-07">2025-11-03 · 00:12:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-emma-goldman-t-00-32-39">2026-03-02 · 00:32:44</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-emma-goldman-t-00-07-56">2026-03-10 · 00:07:56</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -38,6 +38,7 @@ Source: [Emma Goldman | Biography | Britannica](https://www.britannica.com/biogr
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-emma-goldman-t-00-12-07" style="--pulse-height:100%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 2 mentions" title="2025-11-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-emma-goldman-t-00-05-13" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-emma-goldman-t-00-31-57" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-emma-goldman-t-00-07-56" style="--pulse-height:50%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Emma Goldman | Biography | Britannica](https://www.britannica.com/biogr
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-emma-goldman-t-00-12-07) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-emma-goldman-t-00-05-13) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-emma-goldman-t-00-31-57) | 2 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-emma-goldman-t-00-07-56) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [Emma Goldman | Biography | Britannica](https://www.britannica.com/biogr
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1 mentions)</summary>
+
+**[00:07:56](/episodes/ep-ZzAT2xijKGQ.md#ent-person-emma-goldman-t-00-07-56)**
+> "go down the Emma Goldman rabbit hole"
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (2 mentions)</summary>

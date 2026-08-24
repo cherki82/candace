@@ -1,6 +1,6 @@
 ---
 title: "Milo Yiannopoulos"
-description: "Milo Yiannopoulos (People) - 14 mentions"
+description: "Milo Yiannopoulos (People) - 17 mentions"
 id: "person-milo-yiannopoulos"
 type: "PERSON"
 aliases:
@@ -22,10 +22,10 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-milo-yiannopoulos-t-00-19-43">2025-11-04 · 00:20:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-milo-yiannopoulos-t-00-47-30">2026-02-11 · 00:47:53</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
-<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-person-milo-yiannopoulos-t-00-07-50">2026-03-17 · 00:08:02</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -42,6 +42,7 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-milo-yiannopoulos-t-00-39-31" style="--pulse-height:25%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#t-01-31-04" style="--pulse-height:25%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-milo-yiannopoulos-t-00-46-47" style="--pulse-height:75%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 3 mentions" title="2026-02-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-person-milo-yiannopoulos-t-00-07-07" style="--pulse-height:75%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-milo-yiannopoulos-t-00-39-31) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#t-01-31-04) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-milo-yiannopoulos-t-00-46-47) | 3 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-milo-yiannopoulos-t-00-07-07) | 3 |
 
 </details>
 </section>
@@ -61,7 +63,21 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (3 mentions)</summary>
+
+**[00:07:28](/episodes/ep-k8ueJdPFel4.md#ent-person-milo-yiannopoulos-t-00-07-07)**
+> "... he was still jealous. And so Milo Yiannopoulos shared this back and forth. He wrote Ben Shapiro ..."
+
+**[00:07:54](/episodes/ep-k8ueJdPFel4.md#ent-person-milo-yiannopoulos-t-00-07-50)**
+> "Milo (Milo Yiannopoulos) says, this is Ben (Ben Shapiro). It's his finger..."
+
+**[00:08:02](/episodes/ep-k8ueJdPFel4.md#ent-person-milo-yiannopoulos-t-00-07-50)**
+> "...ly um and he then he's asking milo for advice on how to deal with ben because he was..."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (3 mentions)</summary>
@@ -243,7 +259,15 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Milo Yiannopoulos (2)</strong></summary>
+<summary><strong class="section-title">Statements by Milo Yiannopoulos (3)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1)</summary>
+
+- [00:07:28](/episodes/ep-k8ueJdPFel4.md#t-00-07-07) [✓] (Accusation) ["Ben Shapiro began seeking to secretly commission hit jobs on Turning Point USA a..."](/statements/statement-1bcbf7965829.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>

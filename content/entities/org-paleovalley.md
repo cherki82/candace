@@ -1,6 +1,6 @@
 ---
 title: "Paleovalley"
-description: "Paleovalley (Organizations) - 19 mentions"
+description: "Paleovalley (Organizations) - 22 mentions"
 id: "org-paleovalley"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [Paleovalley](https://paleovalley.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Wjul6YV6izo.md#ent-org-paleovalley-t-00-49-03">2026-01-30 · 00:49:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-paleovalley-t-00-52-52">2026-02-13 · 00:53:31</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-org-paleovalley-t-00-49-11">2026-03-17 · 00:49:42</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,6 +39,8 @@ Source: [Paleovalley](https://paleovalley.com/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-paleovalley-t-00-49-03" style="--pulse-height:67%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 6 mentions" title="2026-01-30 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-paleovalley-t-00-50-14" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 9 mentions" title="2026-02-13 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-paleovalley-t-00-46-35" style="--pulse-height:44%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 4 mentions" title="2026-03-04 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-org-paleovalley-t-00-48-51" style="--pulse-height:33%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +48,8 @@ Source: [Paleovalley](https://paleovalley.com/)
 |---|---|---:|
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-paleovalley-t-00-49-03) | 6 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-paleovalley-t-00-50-14) | 9 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-paleovalley-t-00-46-35) | 4 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-org-paleovalley-t-00-48-51) | 3 |
 
 </details>
 </section>
@@ -53,7 +57,38 @@ Source: [Paleovalley](https://paleovalley.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (3 mentions)</summary>
+
+**[00:48:51](/episodes/ep-k8ueJdPFel4.md#ent-org-paleovalley-t-00-48-51)**
+> "That's why I have been loving Paleo Valley. Recently, my manager has been nonstop talking ab..."
+
+**[00:49:11](/episodes/ep-k8ueJdPFel4.md#ent-org-paleovalley-t-00-49-11)**
+> "...'s packed with the good stuff paleo valley offers their bone broth protein and a variety of ..."
+
+**[00:49:42](/episodes/ep-k8ueJdPFel4.md#ent-org-paleovalley-t-00-49-11)**
+> "Again, that's paleo valley.com with promo code Candace at checkout. Also, I ..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (4 mentions)</summary>
+
+**[00:47:05](/episodes/ep-y8lak3CRwDw.md#ent-org-paleovalley-t-00-46-35)**
+> "That's why I have been loving Paleo Valley. Recently, my manager has been nonstop talking ab..."
+
+**[00:47:30](/episodes/ep-y8lak3CRwDw.md#ent-org-paleovalley-t-00-47-18)**
+> "... it's packed with good stuff. Paleo Valley offers their bone broth protein in a variety of f..."
+
+**[00:47:39](/episodes/ep-y8lak3CRwDw.md#ent-org-paleovalley-t-00-47-18)**
+> "...t 20% off your first order at paleovalley.com."
+
+**[00:47:55](/episodes/ep-y8lak3CRwDw.md#ent-org-paleovalley-t-00-47-18)**
+> "...e Candace at checkout. That's paleovalley.com with promo code Candace at checkout."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (9 mentions)</summary>
@@ -107,23 +142,6 @@ Source: [Paleovalley](https://paleovalley.com/)
 
 **[00:50:05](/episodes/ep-Wjul6YV6izo.md#ent-org-paleovalley-t-00-49-47)**
 > "that's paleovalley.com with promo code Candace at checkout."
-
-</details>
-
-<details>
-<summary>ep-y8lak3CRwDw (4 mentions)</summary>
-
-**[00:47:05](/episodes/ep-y8lak3CRwDw.md#t-00-47-05)**
-> "That's why I have been loving Paleo Valley. Recently, my manager has been nonstop talking ab..."
-
-**[00:47:30](/episodes/ep-y8lak3CRwDw.md#t-00-47-30)**
-> "... it's packed with good stuff. Paleo Valley offers their bone broth protein in a variety of f..."
-
-**[00:47:39](/episodes/ep-y8lak3CRwDw.md#t-00-47-39)**
-> "...t 20% off your first order at paleovalley.com."
-
-**[00:47:55](/episodes/ep-y8lak3CRwDw.md#t-00-47-55)**
-> "...e Candace at checkout. That's paleovalley.com with promo code Candace at checkout."
 
 </details>
 

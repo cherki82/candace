@@ -1,23 +1,31 @@
 ---
 title: "Wikipedia"
-description: "Wikipedia (Organizations) - 14 mentions"
+description: "Wikipedia (Organizations) - 16 mentions"
 id: "org-wikipedia"
 type: "ORG"
 aliases:
   - "Wiki"
+categories:
+  - "online encyclopedia"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Wiki
 
+**Categories:** online encyclopedia
+
+**Entity verification:** verified
+> The Wikimedia Foundation's official project page verifies Wikipedia as the canonical name of its free online encyclopedia.
+Source: [Wikipedia | Wikimedia Foundation](https://wikimediafoundation.org/what-we-do/wikimedia-projects/wikipedia/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-00-00">2025-10-29 · 00:00:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-wikipedia-t-00-01-48">2026-02-27 · 00:01:48</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-wikipedia-t-00-12-57">2026-03-09 · 00:13:21</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -28,6 +36,7 @@ _Type: Organizations_
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-00-00" style="--pulse-height:100%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 13 mentions" title="2025-10-29 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-wikipedia-t-00-01-48" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-wikipedia-t-00-12-11" style="--pulse-height:15%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -35,6 +44,7 @@ _Type: Organizations_
 |---|---|---:|
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-00-00) | 13 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-wikipedia-t-00-01-48) | 1 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-wikipedia-t-00-12-11) | 2 |
 
 </details>
 </section>
@@ -42,7 +52,18 @@ _Type: Organizations_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (2 mentions)</summary>
+
+**[00:12:16](/episodes/ep-i8m_6D4QGmk.md#ent-org-wikipedia-t-00-12-11)**
+> "This is on Wikipedia."
+
+**[00:13:21](/episodes/ep-i8m_6D4QGmk.md#ent-org-wikipedia-t-00-12-57)**
+> "...is further stipulated on this Wikipedia page, the Seal of Solomon was once featured on th..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1 mentions)</summary>
@@ -102,5 +123,18 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Wikipedia (1)</strong></summary>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
+
+- [00:12:16](/episodes/ep-i8m_6D4QGmk.md#t-00-12-11) (Citation) **Candace Owens**: ["Wikipedia says the Seal of Solomon is often depicted as a hexagram or ..."](/statements/statement-9fd8103f8b04.md)
+  - Also about: [Star of David](/entities/concept-star-of-david.md), [King Solomon](/entities/person-king-solomon.md)
+
+</details>
 
 </details>

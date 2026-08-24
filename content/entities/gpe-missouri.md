@@ -1,6 +1,6 @@
 ---
 title: "Missouri"
-description: "Missouri (Places) - 8 mentions"
+description: "Missouri (Places) - 11 mentions"
 id: "gpe-missouri"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [USA.gov — Missouri](https://www.usa.gov/states/missouri)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-missouri-t-00-18-51">2025-10-09 · 00:19:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-missouri-t-00-29-39">2026-02-04 · 00:29:52</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-missouri-t-00-42-57">2026-03-04 · 00:42:57</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,7 @@ Source: [USA.gov — Missouri](https://www.usa.gov/states/missouri)
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-missouri-t-00-09-40" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 5 mentions" title="2025-10-31 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-missouri-t-00-16-57" style="--pulse-height:20%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-missouri-t-00-29-39" style="--pulse-height:20%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-missouri-t-00-42-10" style="--pulse-height:60%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 3 mentions" title="2026-03-04 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [USA.gov — Missouri](https://www.usa.gov/states/missouri)
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-missouri-t-00-09-40) | 5 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-missouri-t-00-16-57) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-missouri-t-00-29-39) | 1 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-missouri-t-00-42-10) | 3 |
 
 </details>
 </section>
@@ -51,7 +53,21 @@ Source: [USA.gov — Missouri](https://www.usa.gov/states/missouri)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (3 mentions)</summary>
+
+**[00:41:23](/episodes/ep-y8lak3CRwDw.md#ent-gpe-missouri-t-00-42-10)**
+> "one that took place in Kirkwood, Missouri"
+
+**[00:42:38](/episodes/ep-y8lak3CRwDw.md#ent-gpe-missouri-t-00-42-10)**
+> "...at regarding that shooting in Missouri in 2008, he appears in news clip and he speaks ab..."
+
+**[00:42:57](/episodes/ep-y8lak3CRwDw.md#ent-gpe-missouri-t-00-42-57)**
+> "...outside Kirkwood City Hall in Missouri. The building that usually houses mundane civic m..."
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1 mentions)</summary>

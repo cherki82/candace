@@ -11,7 +11,7 @@ date: "2025-09-09"
 
 > Candace Owens reported that Charlie Kirk sent Andrew Kolvet a text expressing fear that he would be killed.
 
-## Mentioned In (7 times)
+## Mentioned In (8 times)
 
 ### 1. You Won't Believe What Happened While We Were Off Air... | C...
 
@@ -68,3 +68,11 @@ date: "2025-09-09"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(479);return false;">▶️ Play</a>
 
 > he says to them that they are going to kill me. Who is they?
+
+### 8. EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! ...
+
+**Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
+**Timestamp:** [00:13:11](/episodes/ep-B9TyCs-6o_0.md#event-event-2025-09-09-candace-owens-reported-that-charlie-kirk-t-00-13-11) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(791);return false;">▶️ Play</a>
+
+> which he also told me about, that he thought they were going to kill him.

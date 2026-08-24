@@ -1,6 +1,6 @@
 ---
 title: "PreBorn!"
-description: "PreBorn! (Organizations) - 122 mentions"
+description: "PreBorn! (Organizations) - 132 mentions"
 id: "org-preborn"
 type: "ORG"
 aliases:
@@ -24,12 +24,12 @@ Source: [PreBorn!](https://preborn.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-32-31">2025-09-15 · 00:31:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-preborn-t-00-24-58">2026-03-02 · 00:24:58</a></strong></div>
-<div><span>Episodes</span><strong>36</strong></div>
-<div><span>Mentions</span><strong>122</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-org-preborn-t-00-30-09">2026-03-17 · 00:30:15</a></strong></div>
+<div><span>Episodes</span><strong>40</strong></div>
+<div><span>Mentions</span><strong>132</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -73,6 +73,9 @@ Source: [PreBorn!](https://preborn.com/)
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-preborn-t-00-29-27" style="--pulse-height:14%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-preborn-t-00-23-14" style="--pulse-height:57%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 4 mentions" title="2026-02-28 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-preborn-t-00-23-40" style="--pulse-height:43%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 3 mentions" title="2026-03-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-preborn-t-00-36-22" style="--pulse-height:14%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-preborn-t-00-30-41" style="--pulse-height:14%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-org-preborn-t-00-29-24" style="--pulse-height:43%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -114,6 +117,9 @@ Source: [PreBorn!](https://preborn.com/)
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-preborn-t-00-29-27) | 1 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-preborn-t-00-23-14) | 4 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-preborn-t-00-23-40) | 3 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-preborn-t-00-36-22) | 1 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-preborn-t-00-30-41) | 1 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-org-preborn-t-00-29-24) | 3 |
 
 </details>
 </section>
@@ -121,7 +127,37 @@ Source: [PreBorn!](https://preborn.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (122)</strong></summary>
+<summary><strong class="section-title">Raw mentions (132)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (3 mentions)</summary>
+
+**[00:29:24](/episodes/ep-k8ueJdPFel4.md#ent-org-preborn-t-00-29-24)**
+> "...uys, thanks to you last year, preborn helped to rescue over 80,000 babies."
+
+**[00:29:39](/episodes/ep-k8ueJdPFel4.md#ent-org-preborn-t-00-29-24)**
+> "...mother in crisis walks into a preborn network clinic and sees her baby on an ultrasound..."
+
+**[00:30:15](/episodes/ep-k8ueJdPFel4.md#ent-org-preborn-t-00-30-09)**
+> "...say the keyword baby or visit preborn.com slash Candace. Again, that's preborn.com slas..."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1 mentions)</summary>
+
+**[00:30:48](/episodes/ep-ZzAT2xijKGQ.md#ent-org-preborn-t-00-30-41)**
+> "Or visit preborn.com slash Candace. Again, that's preborn.com slas..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
+
+**[00:36:22](/episodes/ep-y8lak3CRwDw.md#ent-org-preborn-t-00-36-22)**
+> "or visit preborn.com slash candace again that's preborn.com slash ..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (3 mentions)</summary>
@@ -666,11 +702,47 @@ Source: [PreBorn!](https://preborn.com/)
 
 </details>
 
+<details>
+<summary>ep-5m-Wn6Pr5rM (3 mentions)</summary>
+
+**[00:24:18](/episodes/ep-5m-Wn6Pr5rM.md#t-00-24-18)**
+> "Preborn"
+
+**[00:24:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-24-36)**
+> "...mother in crisis walks into a Preborn network clinic and sees her baby on an ultrasound..."
+
+**[00:25:11](/episodes/ep-5m-Wn6Pr5rM.md#t-00-25-11)**
+> "...ay the keyword baby, or visit Preborn.com/Candace. Again, that's Preborn.com/Candace."
+
+</details>
+
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Endorsed By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
+
+</details>
+
+</details>
 
 </details>

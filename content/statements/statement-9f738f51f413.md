@@ -20,7 +20,7 @@ type: "factual_claim"
 
 ## About
 
-- [Las Vegas](/entities/gpe-las-vegas.md) (gpe)
+- [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md) (gpe)
 
 ## Source
 

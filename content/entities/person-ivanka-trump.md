@@ -1,6 +1,6 @@
 ---
 title: "Ivanka Trump"
-description: "Ivanka Trump (People) - 11 mentions"
+description: "Ivanka Trump (People) - 12 mentions"
 id: "person-ivanka-trump"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Ivanka Trump | Archived White House](https://trumpwhitehouse.archives.g
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-ivanka-trump-t-01-06-20">2025-10-28 · 01:06:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-person-ivanka-trump-t-00-33-17">2026-01-20 · 00:33:25</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-ivanka-trump-t-00-06-20">2026-03-12 · 00:06:40</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -39,6 +39,7 @@ Source: [Ivanka Trump | Archived White House](https://trumpwhitehouse.archives.g
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-ivanka-trump-t-00-38-57" style="--pulse-height:14%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-person-ivanka-trump-t-00-41-57" style="--pulse-height:14%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-ivanka-trump-t-00-31-07" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 7 mentions" title="2026-01-20 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-ivanka-trump-t-00-06-20" style="--pulse-height:14%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Ivanka Trump | Archived White House](https://trumpwhitehouse.archives.g
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-ivanka-trump-t-00-38-57) | 1 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-person-ivanka-trump-t-00-41-57) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-ivanka-trump-t-00-31-07) | 7 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-ivanka-trump-t-00-06-20) | 1 |
 
 </details>
 </section>
@@ -55,7 +57,15 @@ Source: [Ivanka Trump | Archived White House](https://trumpwhitehouse.archives.g
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>
+
+**[00:06:40](/episodes/ep-5-HUyv9LyMg.md#ent-person-ivanka-trump-t-00-06-20)**
+> "...eli business friends who sold Ivanka and Jared (Jared Kushner) their Miami mansion and..."
+
+</details>
 
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (7 mentions)</summary>
@@ -118,7 +128,7 @@ Source: [Ivanka Trump | Archived White House](https://trumpwhitehouse.archives.g
 <details>
 <summary>Child Of (1)</summary>
 
-- **[Donald Trump](/entities/person-donald-trump.md)**
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:08:30](/episodes/ep-r1PS67aRmcA.md#t-00-07-46): “Ivanka and the Middle East”
@@ -130,7 +140,7 @@ Source: [Ivanka Trump | Archived White House](https://trumpwhitehouse.archives.g
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[Donald Trump](/entities/person-donald-trump.md)** parent of this
+- **[Donald J. Trump](/entities/person-donald-trump.md)** parent of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:08:30](/episodes/ep-r1PS67aRmcA.md#t-00-07-46): “Ivanka and the Middle East”

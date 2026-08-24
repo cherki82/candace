@@ -1,6 +1,6 @@
 ---
 title: "Baal"
-description: "Baal (Concepts) - 13 mentions"
+description: "Baal (Concepts) - 17 mentions"
 id: "concept-baal"
 type: "CONCEPT"
 categories:
@@ -17,9 +17,9 @@ Source: [Encyclopaedia Britannica: Baal](https://www.britannica.com/topic/Baal-a
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-baal-t-01-39-19">2026-01-29 · 01:39:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-concept-baal-t-00-48-03">2026-02-13 · 00:48:27</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-baal-t-00-52-31">2026-03-17 · 00:52:45</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,6 +34,9 @@ Source: [Encyclopaedia Britannica: Baal](https://www.britannica.com/topic/Baal-a
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-baal-t-00-00-45" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 6 mentions" title="2026-02-02 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-baal-t-00-07-27" style="--pulse-height:33%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-concept-baal-t-00-40-58" style="--pulse-height:33%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-concept-baal-t-00-57-26" style="--pulse-height:17%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-baal-t-00-14-24" style="--pulse-height:33%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-baal-t-00-52-31" style="--pulse-height:17%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -43,6 +46,9 @@ Source: [Encyclopaedia Britannica: Baal](https://www.britannica.com/topic/Baal-a
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-baal-t-00-00-45) | 6 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-concept-baal-t-00-07-27) | 2 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-concept-baal-t-00-40-58) | 2 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-concept-baal-t-00-57-26) | 1 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-concept-baal-t-00-14-24) | 2 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-concept-baal-t-00-52-31) | 1 |
 
 </details>
 </section>
@@ -50,7 +56,34 @@ Source: [Encyclopaedia Britannica: Baal](https://www.britannica.com/topic/Baal-a
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
+
+**[00:52:45](/episodes/ep-k8ueJdPFel4.md#ent-concept-baal-t-00-52-31)**
+> "...ath. This Israel worship—it's Baal worship. I mean, they have to sacrifice children...."
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (2 mentions)</summary>
+
+**[00:14:24](/episodes/ep-i8m_6D4QGmk.md#ent-concept-baal-t-00-14-24)**
+> "Baal worship"
+
+**[00:41:49](/episodes/ep-i8m_6D4QGmk.md#ent-concept-baal-t-00-41-20)**
+> "...er because it's never ending. Baal requires constant blood sacrifice. The obstacle o..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
+
+**[00:57:59](/episodes/ep-y8lak3CRwDw.md#ent-concept-baal-t-00-57-26)**
+> "there is never enough sacrifice to Baal"
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>

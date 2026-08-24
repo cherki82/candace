@@ -18,7 +18,7 @@ _Type: Organizations_
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -74,16 +74,9 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (1)</summary>
 
 - **[TikTok](/entities/org-tiktok.md)** has investor this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:43:49](/episodes/ep-aDlhjfW6hz8.md#t-00-43-41): “Marc Andreessen—in on a deal with...Silver Lake—they're all coming together”
-
-</details>
-
-- **[TikTok](/entities/org-tiktok.md)** investor includes this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:43:49](/episodes/ep-aDlhjfW6hz8.md#t-00-43-41): “Marc Andreessen—in on a deal with...Silver Lake—they're all coming together”

@@ -1,6 +1,6 @@
 ---
 title: "FBI"
-description: "FBI (Organizations) - 428 mentions"
+description: "FBI (Organizations) - 442 mentions"
 id: "org-fbi"
 type: "ORG"
 aliases:
@@ -28,10 +28,10 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-fbi-t-00-36-23">2025-09-15 · 00:36:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-02-22-33">2026-08-14 · 02:22:33</a></strong></div>
-<div><span>Episodes</span><strong>44</strong></div>
-<div><span>Mentions</span><strong>428</strong></div>
+<div><span>Episodes</span><strong>47</strong></div>
+<div><span>Mentions</span><strong>442</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>65</strong></div>
+<div><span>Statements about</span><strong>69</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -83,6 +83,8 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-fbi-t-00-50-01" style="--pulse-height:17%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 5 mentions" title="2025-12-12 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-02-01" style="--pulse-height:76%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 22 mentions" title="2025-12-17 · 22 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-fbi-t-00-35-08" style="--pulse-height:17%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 5 mentions" title="2025-12-18 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-fbi-t-00-02-42" style="--pulse-height:10%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 3 mentions" title="2026-03-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-fbi-t-00-54-24" style="--pulse-height:14%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 4 mentions" title="2026-03-24 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-00-31-26" style="--pulse-height:59%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -132,6 +134,8 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-fbi-t-00-50-01) | 5 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-02-01) | 22 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-fbi-t-00-35-08) | 5 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-fbi-t-00-02-42) | 3 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-fbi-t-00-54-24) | 4 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-00-31-26) | 17 |
 
 </details>
@@ -140,7 +144,7 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (428)</strong></summary>
+<summary><strong class="section-title">Raw mentions (442)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (17 mentions)</summary>
@@ -195,6 +199,37 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 
 **[01:59:17](/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-01-59-17)**
 > "...nto evidence they took it The FBI,"
+
+</details>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (4 mentions)</summary>
+
+**[00:54:59](/episodes/ep-SgVcnx4Oh30.md#ent-org-fbi-t-00-54-24)**
+> "wants the FBI to investigate Joe Kent"
+
+**[00:44:32](/episodes/ep-SgVcnx4Oh30.md#ent-org-fbi-t-00-44-02)**
+> "...ould happen. He is saying the feds did not thoroughly investigate other leads becaus..."
+
+**[00:48:51](/episodes/ep-SgVcnx4Oh30.md#ent-org-fbi-t-00-48-24)**
+> "... He touched this gun that the feds then pointed to where the bomb dogs failed and pu..."
+
+**[00:50:02](/episodes/ep-SgVcnx4Oh30.md#ent-org-fbi-t-00-50-02)**
+> "...like they were written by the feds it's over I am overwhelmed I am so overwhelmed th..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (3 mentions)</summary>
+
+**[00:02:56](/episodes/ep-B9TyCs-6o_0.md#ent-org-fbi-t-00-02-42)**
+> "the FBI will say that they stopped that"
+
+**[00:01:36](/episodes/ep-B9TyCs-6o_0.md#ent-org-fbi-t-00-01-20)**
+> "... right? He basically says the FBI stopped him from investigating. I'll let you list..."
+
+**[00:07:54](/episodes/ep-B9TyCs-6o_0.md#ent-org-fbi-t-00-07-49)**
+> "That should hurt the feds if they're lying. It could only hurt someone who ..."
 
 </details>
 
@@ -1469,6 +1504,32 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 
 </details>
 
+<details>
+<summary>ep-5m-Wn6Pr5rM (7 mentions)</summary>
+
+**[00:28:15](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-15)**
+> "FBI"
+
+**[00:07:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-07-31)**
+> "The feds are crawling all over. I would say you are lookin..."
+
+**[00:20:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-20-03)**
+> "...lvet in that narrative or the feds who we were told by Frank Turek were guarding the..."
+
+**[00:32:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-32-05)**
+> "...p. She's literally dating the FBI director and has a government security force foll..."
+
+**[00:34:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-03)**
+> "... narrative falsely identifies FBI director's girlfriend. So it's as a Mossad honeyp..."
+
+**[00:43:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-36)**
+> "...nd that thread and having the FBI's girlfriend do that really shows you how there's..."
+
+**[00:50:21](/episodes/ep-5m-Wn6Pr5rM.md#t-00-50-21)**
+> "...it. She's coming for you. The FBI is coming for you, Nicole."
+
+</details>
+
 </details>
 
 <details open>
@@ -1606,7 +1667,7 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about FBI (65)</strong></summary>
+<summary><strong class="section-title">Statements about FBI (69)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (5)</summary>
@@ -1625,6 +1686,22 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 
 - [04:01:26](/episodes/ep-nPhCKwJ6ye8.md#t-04-01-26) (Accusation) **Candace Owens**: ["Candace Owens still believes there is more evidence that multiple peop..."](/statements/statement-4735330c37c9.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1)</summary>
+
+- [00:48:24](/episodes/ep-SgVcnx4Oh30.md#t-00-48-24) (Accusation) **Candace Owens**: ["Candace Owens said authorities could not prove the gun was fired, bomb..."](/statements/statement-dfc476b9af37.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1)</summary>
+
+- [00:02:42](/episodes/ep-B9TyCs-6o_0.md#t-00-02-37) (Claim) **Joe Kent** (via quoted speech): ["The National Counterterrorism Center was stopped from continuing to in..."](/statements/statement-6cb26b41836f.md)
+  - Also about: [National Counterterrorism Center](/entities/org-national-counterterrorism-center.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>
 
@@ -1850,6 +1927,17 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 
 - [00:37:17](/episodes/ep-czVBmqZP6Ss.md#t-00-37-05) (Opinion) **Michael Savage** (via quoted speech): ["The FBI's story doesn't add up. They're trying to claim he removed the..."](/statements/statement-3a59ee990192.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (2)</summary>
+
+- [00:29:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-29-10) (Accusation) **Candace Owens**: ["Kash Patel used an FBI plane to fly to see Alexis Wilkins and sent a p..."](/statements/statement-201c56acbf00.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Alexis Wilkins](/entities/person-alexis-wilkins.md)
+
+- [00:43:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-36) (Opinion) **Candace Owens**: ["Catholics are fully under attack, and Alexis Wilkins's thread illustra..."](/statements/statement-e59064ae496a.md)
+  - Also about: [Catholicism](/entities/concept-catholicism.md), [Alexis Wilkins](/entities/person-alexis-wilkins.md)
 
 </details>
 

@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Candace Owens said Andrew Kolvet arrived by plane in Provo on September 10 and collapsed crying into Erika Kirk's arms.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace E...
 
@@ -36,3 +36,11 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1205);return false;">▶️ Play</a>
 
 > when he deplaned, you guys embraced on the tarmac and he boohoo cried in your arms
+
+### 4. EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! ...
+
+**Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
+**Timestamp:** [00:16:13](/episodes/ep-B9TyCs-6o_0.md#event-event-2025-09-10-candace-owens-said-andrew-kolvet-arrived-t-00-16-13) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(973);return false;">▶️ Play</a>
+
+> He collapsed into Erika's arms. Somebody told me this. painted a picture in my mind

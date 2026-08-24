@@ -1,6 +1,6 @@
 ---
 title: "Dave Rubin"
-description: "Dave Rubin (People) - 25 mentions"
+description: "Dave Rubin (People) - 26 mentions"
 id: "person-dave-rubin"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-dave-rubin-t-00-07-08">2025-09-11 · 00:07:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-dave-rubin-t-01-05-01">2026-01-21 · 01:05:01</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-dave-rubin-t-00-00-00">2026-03-18 · 00:00:00</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>9</strong></div>
@@ -44,6 +44,7 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-dave-rubin-t-00-13-30" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-28-19" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 16 mentions" title="2026-01-20 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-dave-rubin-t-01-05-01" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-dave-rubin-t-00-00-00" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +58,7 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-dave-rubin-t-00-13-30) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-28-19) | 16 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-dave-rubin-t-01-05-01) | 1 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-dave-rubin-t-00-00-00) | 1 |
 
 </details>
 </section>
@@ -64,7 +66,15 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
+
+**[00:00:00](/episodes/ep-_vg7ucP1E0g.md#ent-person-dave-rubin-t-00-00-00)**
+> "All right, you guys, happy Wednesday to everyone except Andrew Kolvet. Yeah, because yesterday he went on to Dave Rubin's show and he said that Erika (Erika Kirk) was not seeking the spotlight."
+
+</details>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>

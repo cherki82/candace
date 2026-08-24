@@ -20,7 +20,7 @@ type: "factual_claim"
 
 ## About
 
-- [Mikey McCoy](/entities/person-mikey-mccoy.md) (person)
+- [Michael McCoy](/entities/person-michael-mccoy.md) (person)
 - [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md) (person)
 
 ## Source

@@ -1,6 +1,6 @@
 ---
 title: "Norman Finkelstein"
-description: "Norman Finkelstein (People) - 18 mentions"
+description: "Norman Finkelstein (People) - 19 mentions"
 id: "person-norman-finkelstein"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Candace Owens x Norman Finkelstein | Norman Finkelstein](https://www.no
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-norman-finkelstein-t-00-38-57">2025-10-29 · 00:39:19</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-norman-finkelstein-t-00-51-03">2026-02-03 · 00:51:03</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-norman-finkelstein-t-00-44-48">2026-03-09 · 00:44:48</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -43,6 +43,7 @@ Source: [Candace Owens x Norman Finkelstein | Norman Finkelstein](https://www.no
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-norman-finkelstein-t-00-33-39" style="--pulse-height:20%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-norman-finkelstein-t-01-24-01" style="--pulse-height:40%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-norman-finkelstein-t-00-50-37" style="--pulse-height:80%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 4 mentions" title="2026-02-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-norman-finkelstein-t-00-44-48" style="--pulse-height:20%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +56,7 @@ Source: [Candace Owens x Norman Finkelstein | Norman Finkelstein](https://www.no
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-norman-finkelstein-t-00-33-39) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-norman-finkelstein-t-01-24-01) | 2 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-norman-finkelstein-t-00-50-37) | 4 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-norman-finkelstein-t-00-44-48) | 1 |
 
 </details>
 </section>
@@ -62,7 +64,15 @@ Source: [Candace Owens x Norman Finkelstein | Norman Finkelstein](https://www.no
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
+
+**[00:44:48](/episodes/ep-i8m_6D4QGmk.md#ent-person-norman-finkelstein-t-00-44-48)**
+> "Norman Finkelstein informing me"
+
+</details>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (4 mentions)</summary>
@@ -211,7 +221,15 @@ Source: [Candace Owens x Norman Finkelstein | Norman Finkelstein](https://www.no
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Norman Finkelstein (1)</strong></summary>
+<summary><strong class="section-title">Statements about Norman Finkelstein (2)</strong></summary>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
+
+- [00:44:48](/episodes/ep-i8m_6D4QGmk.md#t-00-44-48) (Claim) **Candace Owens** (via paraphrase): ["Norman Finkelstein said Israel had a government policy called 'mowing ..."](/statements/statement-38d396825ea7.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Gaza](/entities/gpe-gaza.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md)
+
+</details>
 
 <details>
 <summary>Myron Gaines x Candace Owens (1)</summary>

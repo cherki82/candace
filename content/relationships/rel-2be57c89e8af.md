@@ -1,6 +1,6 @@
 ---
-title: "Judge Tony F. Graf Jr. appointed by Spencer Cox"
-description: "Evidence for the relationship: Judge Tony F. Graf Jr. appointed by Spencer Cox"
+title: "Tony F. Graf Jr. appointed by Spencer Cox"
+description: "Evidence for the relationship: Tony F. Graf Jr. appointed by Spencer Cox"
 relationship_id: "rel-2be57c89e8af"
 subject: "person-tony-f-graf-jr"
 predicate: "appointed by"
@@ -9,7 +9,7 @@ object: "person-spencer-cox"
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Judge Tony F. Graf Jr.](/entities/person-tony-f-graf-jr) appointed by [Spencer Cox](/entities/person-spencer-cox)
+## [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr) appointed by [Spencer Cox](/entities/person-spencer-cox)
 
 ### Evidence (1 mentions)
 
@@ -19,5 +19,5 @@ object: "person-spencer-cox"
 
 ### Related
 
-- [Judge Tony F. Graf Jr.](/entities/person-tony-f-graf-jr)
+- [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr)
 - [Spencer Cox](/entities/person-spencer-cox)

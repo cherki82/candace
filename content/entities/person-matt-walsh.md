@@ -1,6 +1,6 @@
 ---
 title: "Matt Walsh"
-description: "Matt Walsh (People) - 16 mentions"
+description: "Matt Walsh (People) - 20 mentions"
 id: "person-matt-walsh"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-matt-walsh-t-00-13-03">2025-10-08 · 00:13:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-matt-walsh-t-01-00-26">2026-02-28 · 01:00:49</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
-<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-matt-walsh-t-00-33-13">2026-03-18 · 00:33:24</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -39,6 +39,8 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-matt-walsh-t-00-31-00" style="--pulse-height:50%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-matt-walsh-t-00-44-50" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-matt-walsh-t-01-00-26" style="--pulse-height:25%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-matt-walsh-t-00-51-19" style="--pulse-height:25%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-matt-walsh-t-00-00-28" style="--pulse-height:75%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +54,8 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-matt-walsh-t-00-31-00) | 2 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-matt-walsh-t-00-44-50) | 1 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-person-matt-walsh-t-01-00-26) | 1 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-matt-walsh-t-00-51-19) | 1 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-matt-walsh-t-00-00-28) | 3 |
 
 </details>
 </section>
@@ -59,7 +63,29 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (3 mentions)</summary>
+
+**[00:00:53](/episodes/ep-_vg7ucP1E0g.md#ent-person-matt-walsh-t-00-00-28)**
+> "You should know more about how they met. Plus, later on, on that same topic, Matt Walsh tweeted a thing."
+
+**[00:32:21](/episodes/ep-_vg7ucP1E0g.md#ent-person-matt-walsh-t-00-31-54)**
+> "...absolutely have to comment on Matt Walsh for a tweet that he put out yesterday. I just bec..."
+
+**[00:33:24](/episodes/ep-_vg7ucP1E0g.md#ent-person-matt-walsh-t-00-33-13)**
+> "Matt Walsh comments and writes, there is no good moral reaso..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>
+
+**[00:51:49](/episodes/ep-5-HUyv9LyMg.md#ent-person-matt-walsh-t-00-51-19)**
+> "...line Leavitt, Lawrence Jones, Matt Walsh, et cetera, et cetera. I received it via email, a..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (1 mentions)</summary>
@@ -154,12 +180,79 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Criticized (1)</summary>
+
+- **[Kouri Richins](/entities/person-kouri-richins.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:33:13](/episodes/ep-_vg7ucP1E0g.md#t-00-33-13): “He wrote, and this is regarding Kouri Richins, a New York Post article that said grief author Kouri Richins found guilty of fatally poisoning her husband for his four million dollar estate. ... Matt Walsh comments and writes, there is no good moral reason why she should not simply be taken outside the morning after her conviction and hanged. This woman has lost her right to exist.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:32:21](/episodes/ep-_vg7ucP1E0g.md#t-00-31-54): “OK, so I absolutely have to comment on Matt Walsh for a tweet that he put out yesterday. I just because I was like. ... OK, that's strong words. So I was just stunned by it because I have to assume he did exactly zero due diligence on this case, a case that I actually followed because it was completely nutty. Now, I'm assuming he was not aware that after Kouri Richins murdered her husband, fentanyl overdose, she at first played the role of a grieving widow for an entire year.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Defended (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:00:53](/episodes/ep-_vg7ucP1E0g.md#t-00-00-28): “You should know more about how they met. Plus, later on, on that same topic, Matt Walsh tweeted a thing. ... He's a staunch defender of Erika (Erika Kirk), which made the thing that he tweeted last night ironic to say the least. Welcome back to Bride of Charlie (Charlie Kirk).”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:32:21](/episodes/ep-_vg7ucP1E0g.md#t-00-31-54): “OK, so I absolutely have to comment on Matt Walsh for a tweet that he put out yesterday. I just because I was like. ... OK, that's strong words. So I was just stunned by it because I have to assume he did exactly zero due diligence on this case, a case that I actually followed because it was completely nutty. Now, I'm assuming he was not aware that after Kouri Richins murdered her husband, fentanyl overdose, she at first played the role of a grieving widow for an entire year.”
+
+</details>
+
+- **[Kouri Richins](/entities/person-kouri-richins.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:33:13](/episodes/ep-_vg7ucP1E0g.md#t-00-33-13): “He wrote, and this is regarding Kouri Richins, a New York Post article that said grief author Kouri Richins found guilty of fatally poisoning her husband for his four million dollar estate. ... Matt Walsh comments and writes, there is no good moral reason why she should not simply be taken outside the morning after her conviction and hanged. This woman has lost her right to exist.”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** defended by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:00:53](/episodes/ep-_vg7ucP1E0g.md#t-00-00-28): “You should know more about how they met. Plus, later on, on that same topic, Matt Walsh tweeted a thing. ... He's a staunch defender of Erika (Erika Kirk), which made the thing that he tweeted last night ironic to say the least. Welcome back to Bride of Charlie (Charlie Kirk).”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Matt Walsh (1)</strong></summary>
+<summary><strong class="section-title">Statements by Matt Walsh (2)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (1)</summary>
+
+- [00:33:24](/episodes/ep-_vg7ucP1E0g.md#t-00-33-13) [○] (Opinion) ["There is no good moral reason why Kouri Richins should not be taken outside the ..."](/statements/statement-608e16b7dda8.md)
+
+</details>
 
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1)</summary>

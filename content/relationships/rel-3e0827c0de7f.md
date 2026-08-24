@@ -11,7 +11,7 @@ object: "org-turning-point-usa"
 
 ## [Andrew Kolvet](/entities/person-andrew-kolvet) works for [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (25 mentions)
+### Evidence (26 mentions)
 
 **[TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w)**
 
@@ -20,6 +20,10 @@ object: "org-turning-point-usa"
 **[Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE)**
 
 - [00:25:07](/episodes/ep-9naMwS0kMBE#t-00-25-07): _that was told to me from andrew colbet okay that's not some random conspiracy theorist uh it's the spokesperson for turning point usa_
+
+**[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
+
+- [00:19:58](/episodes/ep-B9TyCs-6o_0#t-00-19-58): _our public relations—our longtime spokesperson Andrew Kolvet—and their chief marketing officer, Marina Minas_
 
 **[American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo)**
 

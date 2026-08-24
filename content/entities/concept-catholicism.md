@@ -1,6 +1,6 @@
 ---
 title: "Catholicism"
-description: "Catholicism (Concepts) - 86 mentions"
+description: "Catholicism (Concepts) - 121 mentions"
 id: "concept-catholicism"
 type: "CONCEPT"
 aliases:
@@ -21,11 +21,11 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-catholicism-t-00-13-56">2026-01-06 · 00:14:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-catholicism-t-00-47-30">2026-03-02 · 00:47:30</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>86</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-concept-catholicism-t-00-58-48">2026-03-24 · 00:59:21</a></strong></div>
+<div><span>Episodes</span><strong>30</strong></div>
+<div><span>Mentions</span><strong>121</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -58,6 +58,11 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-catholicism-t-00-28-09" style="--pulse-height:11%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-concept-catholicism-t-00-29-56" style="--pulse-height:11%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-catholicism-t-00-43-15" style="--pulse-height:22%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 4 mentions" title="2026-03-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-catholicism-t-00-52-34" style="--pulse-height:8%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-catholicism-t-00-18-37" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-concept-catholicism-t-00-18-44" style="--pulse-height:39%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 7 mentions" title="2026-03-17 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-catholicism-t-00-02-24" style="--pulse-height:56%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 10 mentions" title="2026-03-18 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-concept-catholicism-t-00-57-37" style="--pulse-height:11%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -87,6 +92,11 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-concept-catholicism-t-00-28-09) | 2 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-concept-catholicism-t-00-29-56) | 2 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-concept-catholicism-t-00-43-15) | 4 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-concept-catholicism-t-00-52-34) | 1 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-concept-catholicism-t-00-18-37) | 1 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-concept-catholicism-t-00-18-44) | 7 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-concept-catholicism-t-00-02-24) | 10 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-concept-catholicism-t-00-57-37) | 2 |
 
 </details>
 </section>
@@ -94,7 +104,95 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (86)</strong></summary>
+<summary><strong class="section-title">Raw mentions (121)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (2 mentions)</summary>
+
+**[00:58:01](/episodes/ep-SgVcnx4Oh30.md#ent-concept-catholicism-t-00-57-37)**
+> "in that Catholic household"
+
+**[00:59:21](/episodes/ep-SgVcnx4Oh30.md#ent-concept-catholicism-t-00-58-48)**
+> "...e, please interview the great Catholic non-interventionist Pat Buchanan. Dave Smith tell..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (10 mentions)</summary>
+
+**[00:01:21](/episodes/ep-_vg7ucP1E0g.md#ent-concept-catholicism-t-00-02-24)**
+> "OK, so first thing I want to say at the top here is that this Erika Kirk story would not be complete if it did not also feature a few questionable Catholics, right?"
+
+**[00:02:41](/episodes/ep-_vg7ucP1E0g.md#ent-concept-catholicism-t-00-02-24)**
+> "...Kirk) can be at various times Catholic, evangelical or Jewish. It just depends on the au..."
+
+**[00:02:56](/episodes/ep-_vg7ucP1E0g.md#ent-concept-catholicism-t-00-02-56)**
+> "... have seen there is a current Catholicism that is. That is floating in this story. Obviousl..."
+
+**[00:03:41](/episodes/ep-_vg7ucP1E0g.md#ent-concept-catholicism-t-00-03-41)**
+> "...ignificant in building up the Catholic community in Phoenix, I mean, under his leadershi..."
+
+**[00:04:09](/episodes/ep-_vg7ucP1E0g.md#ent-concept-catholicism-t-00-03-41)**
+> "...or of becoming the very first Catholic bishop."
+
+**[00:05:34](/episodes/ep-_vg7ucP1E0g.md#ent-concept-catholicism-t-00-05-34)**
+> "...to charges of sexual abuse by Catholic priests, priests that were staffed by O'Brien."
+
+**[00:45:55](/episodes/ep-_vg7ucP1E0g.md#ent-concept-catholicism-t-00-45-55)**
+> "...peak and pray tomorrow at the Catholic for Catholics event I have been offering my daily..."
+
+**[00:46:04](/episodes/ep-_vg7ucP1E0g.md#ent-concept-catholicism-t-00-45-55)**
+> "... also, all of the emails from Catholic world make me so happy. I did want to show this e..."
+
+**[00:46:20](/episodes/ep-_vg7ucP1E0g.md#ent-concept-catholicism-t-00-45-55)**
+> "... just one of our fans, Cradle Catholic. She purchased our I Told My Priest I Would Chill..."
+
+**[00:49:43](/episodes/ep-_vg7ucP1E0g.md#ent-concept-catholicism-t-00-49-21)**
+> "...u guys because I'm doing this Catholic event. We will not see you guys tomorrow."
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
+
+**[00:18:37](/episodes/ep-k8ueJdPFel4.md#ent-concept-catholicism-t-00-18-37)**
+> "A strong and faithful Catholic, and he's a good person. So for Ben (Ben Shapiro)..."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (7 mentions)</summary>
+
+**[00:19:33](/episodes/ep-I0OaY6Gryqk.md#ent-concept-catholicism-t-00-18-44)**
+> "Catholics"
+
+**[00:18:55](/episodes/ep-I0OaY6Gryqk.md#ent-concept-catholicism-t-00-18-44)**
+> "...after she says, actually, no, Catholic doctrine does not teach that I'm supposed to subj..."
+
+**[00:58:33](/episodes/ep-I0OaY6Gryqk.md#ent-concept-catholicism-t-00-58-25)**
+> "...e when I spoke at a different Catholic conference two years ago."
+
+**[01:03:36](/episodes/ep-I0OaY6Gryqk.md#ent-concept-catholicism-t-01-03-36)**
+> "...ething has been pulling me to Catholicism for months now."
+
+**[01:04:05](/episodes/ep-I0OaY6Gryqk.md#ent-concept-catholicism-t-01-04-05)**
+> "... feeling I ever had about the Catholic church, I kind of sat across from him and I was l..."
+
+**[01:05:02](/episodes/ep-I0OaY6Gryqk.md#ent-concept-catholicism-t-01-04-50)**
+> "... like I I've technically been Catholic for two minutes and that's why I don't often spea..."
+
+**[01:05:24](/episodes/ep-I0OaY6Gryqk.md#ent-concept-catholicism-t-01-05-24)**
+> "people who have been Catholic forever if I make a mistake will be oh well this ..."
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
+
+**[00:52:34](/episodes/ep-i8m_6D4QGmk.md#ent-concept-catholicism-t-00-52-34)**
+> "because Zionists didn't like her Catholic perspectives"
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (4 mentions)</summary>
@@ -474,6 +572,53 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 
 </details>
 
+<details>
+<summary>ep-5m-Wn6Pr5rM (14 mentions)</summary>
+
+**[00:42:04](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-04)**
+> "Catholic church"
+
+**[00:01:06](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-06)**
+> "...d Putin's philosopher and the Catholic Church and Candace Owens and Tucker Carlson all w..."
+
+**[00:31:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-10)**
+> "...they are doing it through the Catholic Church, even though Russia is an Eastern Orthodox..."
+
+**[00:41:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-05)**
+> "And it says the Catholic convert boom is real, but a trouble pattern is em..."
+
+**[00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-33)**
+> "..., this is in the article, the Catholic Church does not demand that the faithful be commi..."
+
+**[00:42:18](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-18)**
+> "this is great the uh the catholic church was in april last year oh it's so great al..."
+
+**[00:42:44](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-44)**
+> "...popular narrative is that the Catholicism is booming, but this is not true."
+
+**[00:42:56](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-56)**
+> "...es now that show how much the Catholic Church is growing. We can just show you a few of ..."
+
+**[00:43:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-02)**
+> "But U.S. Catholic population shows growth trends southward, which i..."
+
+**[00:43:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-10)**
+> "...ugust, more Americans joining Catholic church than leaving for the first time in decades..."
+
+**[00:43:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-36)**
+> "... doesn't like that Joe Kent's Catholic and I'm Catholic"
+
+**[00:44:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-44-03)**
+> "catholic or something and tucker who she mentioned is epis..."
+
+**[00:45:26](/episodes/ep-5m-Wn6Pr5rM.md#t-00-45-26)**
+> "...le, which is is a traditional Catholic book company called Loreto Publications, and thei..."
+
+**[00:45:57](/episodes/ep-5m-Wn6Pr5rM.md#t-00-45-57)**
+> "...ks, even works that dive into Catholic social teaching and the kingship of Christ in tod..."
+
+</details>
+
 </details>
 
 <details open>
@@ -484,7 +629,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Catholicism (4)</strong></summary>
+<summary><strong class="section-title">Statements about Catholicism (7)</strong></summary>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
+
+- [00:52:34](/episodes/ep-i8m_6D4QGmk.md#t-00-52-34) (Accusation) **Candace Owens**: ["Trump fired Carrie Prejean Boller from a religious committee because Z..."](/statements/statement-9d059cffd52f.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Carrie Prejean Boller](/entities/person-carrie-prejean-boller.md), [Zionism](/entities/concept-zionism.md)
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (3)</summary>
@@ -505,6 +658,17 @@ _No relationships extracted yet._
 
 - [00:50:32](/episodes/ep-ZZGWo6oDscc.md#t-00-50-30) (Claim) **Candace Owens**: ["Pornography is part of a psychological operation and renders men weake..."](/statements/statement-e501a3b4e04d.md)
   - Also about: [Pornography](/entities/concept-pornography.md), [Psychological operations](/entities/concept-psychological-operations.md)
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (2)</summary>
+
+- [00:43:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-10) (Citation) **Candace Owens**: ["The Times reported that Catholics outnumber Anglicans two to one among..."](/statements/statement-1e6b20aec987.md)
+  - Also about: [The Times](/entities/org-the-times.md)
+
+- [00:43:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-36) (Opinion) **Candace Owens**: ["Catholics are fully under attack, and Alexis Wilkins's thread illustra..."](/statements/statement-e59064ae496a.md)
+  - Also about: [Alexis Wilkins](/entities/person-alexis-wilkins.md), [FBI](/entities/org-fbi.md)
 
 </details>
 

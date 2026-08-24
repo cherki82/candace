@@ -1,6 +1,6 @@
 ---
 title: "Mark Levin"
-description: "Mark Levin (People) - 8 mentions"
+description: "Mark Levin (People) - 17 mentions"
 id: "person-mark-levin"
 type: "PERSON"
 categories:
@@ -17,12 +17,12 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-mark-levin-t-00-37-10">2025-11-04 · 00:37:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-mark-levin-t-00-17-50">2026-02-02 · 00:18:05</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
-<div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-mark-levin-t-00-43-11">2026-03-23 · 00:43:33</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -33,6 +33,10 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 <a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-mark-levin-t-00-37-10" style="--pulse-height:17%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-mark-levin-t-00-38-20" style="--pulse-height:100%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 6 mentions" title="2025-11-10 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-mark-levin-t-00-17-50" style="--pulse-height:17%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#t-00-53-11" style="--pulse-height:17%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-person-mark-levin-t-00-00-23" style="--pulse-height:83%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 5 mentions" title="2026-03-17 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-mark-levin-t-00-14-38" style="--pulse-height:33%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-mark-levin-t-00-43-11" style="--pulse-height:17%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -41,6 +45,10 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 | 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-person-mark-levin-t-00-37-10) | 1 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-mark-levin-t-00-38-20) | 6 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-mark-levin-t-00-17-50) | 1 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#t-00-53-11) | 1 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-mark-levin-t-00-00-23) | 5 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-mark-levin-t-00-14-38) | 2 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-mark-levin-t-00-43-11) | 1 |
 
 </details>
 </section>
@@ -48,7 +56,54 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1 mentions)</summary>
+
+**[00:43:33](/episodes/ep-B9TyCs-6o_0.md#ent-person-mark-levin-t-00-43-11)**
+> "The Israel Firsters, Mark Levin, tweeted this"
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (5 mentions)</summary>
+
+**[00:00:53](/episodes/ep-k8ueJdPFel4.md#ent-person-mark-levin-t-00-00-23)**
+> "...cide to listen to people like Mark Levin, psychos like Mark Levin."
+
+**[00:01:03](/episodes/ep-k8ueJdPFel4.md#ent-person-mark-levin-t-00-01-03)**
+> "...Trump) has apparently allowed Mark Levin's special class of psychos to go after Tucker Carls..."
+
+**[00:13:15](/episodes/ep-k8ueJdPFel4.md#ent-person-mark-levin-t-00-13-15)**
+> "The idea of people like Mark Levin, the McCains, and the Shapiros coming out and pre..."
+
+**[00:37:57](/episodes/ep-k8ueJdPFel4.md#ent-person-mark-levin-t-00-37-36)**
+> "...lishes or how many monologues Mark Levin stammers through, the overwhelming majority of pe..."
+
+**[00:39:38](/episodes/ep-k8ueJdPFel4.md#ent-person-mark-levin-t-00-39-38)**
+> "... like they'll say things like mark levin is a top podcast they're buying those things thro..."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (2 mentions)</summary>
+
+**[00:14:44](/episodes/ep-I0OaY6Gryqk.md#ent-person-mark-levin-t-00-14-38)**
+> "Mark Levin"
+
+**[00:16:19](/episodes/ep-I0OaY6Gryqk.md#ent-person-mark-levin-t-00-15-57)**
+> "... family. And then, of course, Mark Levin again is going to say, now the DOJ should open a ..."
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
+
+**[00:53:31](/episodes/ep-i8m_6D4QGmk.md#t-00-53-11)**
+> "the Mark Levins"
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>
@@ -94,12 +149,78 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Criticized (2)</summary>
+
+- **[Joe Kent](/entities/person-joe-kent.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:16:19](/episodes/ep-I0OaY6Gryqk.md#t-00-15-57): “He's an absolute loser. We only wanted him when he was willing to sacrifice his family. And then, of course, Mark Levin again is going to say, now the DOJ should open a criminal investigation to determine if Kent leaked any classified information.”
+
+</details>
+
+- **[Joe Rogan](/entities/person-joe-rogan.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:43:33](/episodes/ep-B9TyCs-6o_0.md#t-00-43-11): “Mark Levin, tweeted this. Is this some AI production? If not, what a total disgrace. ... this is some sick stuff from Joe Rogan”
+
+</details>
+
+</details>
+
+<details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:14:44](/episodes/ep-I0OaY6Gryqk.md#t-00-14-38): “Okay. Next up, we have Mark Levin, a resident psycho. I wonder if this guy Joe Kent was about to be fired.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:14:44](/episodes/ep-I0OaY6Gryqk.md#t-00-14-38): “Okay. Next up, we have Mark Levin, a resident psycho. I wonder if this guy Joe Kent was about to be fired.”
+
+</details>
+
+- **[Joe Kent](/entities/person-joe-kent.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:16:19](/episodes/ep-I0OaY6Gryqk.md#t-00-15-57): “He's an absolute loser. We only wanted him when he was willing to sacrifice his family. And then, of course, Mark Levin again is going to say, now the DOJ should open a criminal investigation to determine if Kent leaked any classified information.”
+
+</details>
+
+- **[Joe Rogan](/entities/person-joe-rogan.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:43:33](/episodes/ep-B9TyCs-6o_0.md#t-00-43-11): “Mark Levin, tweeted this. Is this some AI production? If not, what a total disgrace. ... this is some sick stuff from Joe Rogan”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Mark Levin (1)</strong></summary>
+<summary><strong class="section-title">Statements by Mark Levin (3)</strong></summary>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (2)</summary>
+
+- [00:14:44](/episodes/ep-I0OaY6Gryqk.md#t-00-14-38) [◐] (Accusation) ["Was Joe Kent about to be fired but resigned first, and was he one of the adminis..."](/statements/statement-11df7ff51ef6.md)
+  - About: [Joe Kent](/entities/person-joe-kent.md)
+
+- [00:16:19](/episodes/ep-I0OaY6Gryqk.md#t-00-15-57) [?] (Accusation) ["The Department of Justice should open a criminal investigation to determine whet..."](/statements/statement-83445a0989bf.md)
+  - About: [Joe Kent](/entities/person-joe-kent.md), [Department of Justice](/entities/org-department-of-justice.md)
+
+</details>
 
 <details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1)</summary>
@@ -112,7 +233,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mark Levin (1)</strong></summary>
+<summary><strong class="section-title">Statements about Mark Levin (2)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1)</summary>
+
+- [00:01:03](/episodes/ep-k8ueJdPFel4.md#t-00-01-03) (Accusation) **Candace Owens**: ["Mark Levin's allies want Tucker Carlson imprisoned, and Carlson has re..."](/statements/statement-cb3020427351.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
 
 <details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1)</summary>

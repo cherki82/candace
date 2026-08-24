@@ -23,7 +23,7 @@ veracity: "mixed"
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Appearances (2)
+## Appearances (3)
 
 ### 1. Myron Gaines x Candace Owens
 
@@ -40,6 +40,14 @@ veracity: "mixed"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2392);return false;">Play</a>
 
 > was definitely hit with a projectile of some description. If we're talking about was he shot from a gun, a 30-odd-6, I would say definitively no.
+
+### 3. EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace...
+
+**Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
+**Timestamp:** [00:37:25](/episodes/ep-5-HUyv9LyMg.md#t-00-37-19) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2245);return false;">Play</a>
+
+> I've never bought the narrative that a .30-06 is what killed Charlie Kirk. I'm just not accepting that narrative whatsoever.
 
 ## Verification
 

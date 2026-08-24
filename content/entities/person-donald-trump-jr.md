@@ -1,6 +1,6 @@
 ---
 title: "Donald Trump Jr."
-description: "Donald Trump Jr. (People) - 19 mentions"
+description: "Donald Trump Jr. (People) - 21 mentions"
 id: "person-donald-trump-jr"
 type: "PERSON"
 aliases:
@@ -13,12 +13,12 @@ _Type: People_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52">2025-09-11 · 00:08:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-donald-trump-jr-t-00-32-39">2025-11-06 · 00:33:02</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-donald-trump-jr-t-00-51-19">2026-03-12 · 00:51:49</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -31,6 +31,7 @@ _Type: People_
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-donald-trump-jr-t-01-06-20" style="--pulse-height:8%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-donald-trump-jr-t-00-00-46" style="--pulse-height:100%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 13 mentions" title="2025-10-29 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-donald-trump-jr-t-00-32-39" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-donald-trump-jr-t-00-51-19" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -41,6 +42,7 @@ _Type: People_
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-donald-trump-jr-t-01-06-20) | 1 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-donald-trump-jr-t-00-00-46) | 13 |
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-donald-trump-jr-t-00-32-39) | 1 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-donald-trump-jr-t-00-51-19) | 1 |
 
 </details>
 </section>
@@ -48,7 +50,15 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>
+
+**[00:51:49](/episodes/ep-5-HUyv9LyMg.md#ent-person-donald-trump-jr-t-00-51-19)**
+> "J.D. Vance, Donald Trump Jr., Karoline Leavitt, Lawrence Jones, Matt Walsh, et..."
+
+</details>
 
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
@@ -135,6 +145,18 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Child Of (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:10:50](/episodes/ep-I0OaY6Gryqk.md#t-00-10-50): “they're playing like monopoly right they like figurines on a board they don't care okay how many do we need out here okay how many like they're like they're playing battleship it's not real it's not real because they have never had any true stake in the game right they don't have any skin in the game If does he have sons who know how to shoot? Yeah, actually, Don does.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Founded (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
@@ -171,7 +193,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** founded by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -191,6 +213,13 @@ _Type: People_
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:33:26](/episodes/ep-Qt0VHV-POCg.md#t-00-33-12): “Megyn Kelly: How do you feel about the investigation into Charlie's death? Can we have faith in it?”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** parent of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:10:50](/episodes/ep-I0OaY6Gryqk.md#t-00-10-50): “they're playing like monopoly right they like figurines on a board they don't care okay how many do we need out here okay how many like they're like they're playing battleship it's not real it's not real because they have never had any true stake in the game right they don't have any skin in the game If does he have sons who know how to shoot? Yeah, actually, Don does.”
 
 </details>
 

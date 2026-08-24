@@ -23,13 +23,23 @@ veracity: "mixed"
 
 - [Tesseract School](/entities/org-tesseract-school.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. Bride Of Charlie: The Lost Years... | Episode 5
 
 **Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
 **Timestamp:** [00:11:28](/episodes/ep-2tFYJf1klgY.md#t-00-11-13) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(688);return false;">Play</a>
 
 > Go to year 2000, Tesseract School goes bankrupt. Millions are apparently missing.
+
+### 2. Bride Of Charlie: Red Sparrow | Episode 8
+
+**Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
+**Timestamp:** [00:01:46](/episodes/ep-_vg7ucP1E0g.md#t-00-01-46) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(106);return false;">Play</a>
+
+> Anyway, we had explained to you guys on a previous episode that wherever Erika (Erika Kirk) and Lori (Lori Frantzve) go, accusations of financial fraud tend to follow, right? Throwing it back to the Erpenbeck brothers, Uncle Rick (Richard Erpenbeck), that brand-new glossy Tesseract school—ultimately a charter scam in which money inexplicably vanished. just evaporated into thin air. The school went bankrupt and that's where Erika (Erika Kirk) went for elementary school.
 
 ## Verification
 

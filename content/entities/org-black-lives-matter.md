@@ -22,7 +22,7 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-black-lives-matter-t-00-04-16">2025-09-11 · 00:04:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-org-black-lives-matter-t-00-20-50">2026-02-10 · 00:21:25</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-org-black-lives-matter-t-00-44-44">2026-03-04 · 00:44:54</a></strong></div>
 <div><span>Episodes</span><strong>15</strong></div>
 <div><span>Mentions</span><strong>31</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -49,6 +49,7 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-black-lives-matter-t-00-39-48" style="--pulse-height:86%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 6 mentions" title="2026-01-28 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-black-lives-matter-t-00-57-00" style="--pulse-height:43%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-black-lives-matter-t-00-20-50" style="--pulse-height:14%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-black-lives-matter-t-00-44-44" style="--pulse-height:14%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +69,7 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-black-lives-matter-t-00-39-48) | 6 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-black-lives-matter-t-00-57-00) | 3 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-black-lives-matter-t-00-20-50) | 1 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-black-lives-matter-t-00-44-44) | 1 |
 
 </details>
 </section>
@@ -76,6 +78,14 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 
 <details>
 <summary><strong class="section-title">Raw mentions (31)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
+
+**[00:44:54](/episodes/ep-y8lak3CRwDw.md#ent-org-black-lives-matter-t-00-44-44)**
+> "...08, so it was more about like BLM narrative."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>
@@ -234,14 +244,6 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 
 **[00:04:47](/episodes/ep-_dRaEO47-co.md#ent-org-black-lives-matter-t-00-04-16)**
 > "...te House and what this person does, things I'd never even heard before. I was just passionate about Black Lives Matter. I knew it was going to be harmful for Black Americans, and I wanted to share that message. And Cha..."
-
-</details>
-
-<details>
-<summary>ep-y8lak3CRwDw (1 mentions)</summary>
-
-**[00:44:54](/episodes/ep-y8lak3CRwDw.md#t-00-44-54)**
-> "...08, so it was more about like BLM narrative."
 
 </details>
 

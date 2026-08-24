@@ -358,7 +358,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[Tyler James Robinson](/entities/person-tyler-robinson.md)** dating this
+- **[Tyler Robinson](/entities/person-tyler-robinson.md)** dating this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:09:34](/episodes/ep-HYn0P-P1wUw.md#t-00-08-57): “is when we are gauging the first correspondence to have taken place between Tyler (Tyler Robinson) and Lance (Lance Twiggs) based on the conversation that they were having.”

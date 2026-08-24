@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Megyn Kelly](/entities/person-megyn-kelly) defended by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk)**
+
+- [00:59:46](/episodes/ep-I0OaY6Gryqk#t-00-59-46): _years. It's literal stalking, and there has not been an off tap. I have just become very used to it, and I can tell people ahead of time, 'Yeah, here's what you're gonna do. Here's what you're gonna do. Here's what I'm gonna do.' This is just what they do. I speak about it so people know that's happening, because it's important for people to understand what Megyn Kelly is going through is very real. It's psychotic. She's done nothing wrong other than tell the truth and not bend the knee to Israel._
 
 **[Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno)**
 

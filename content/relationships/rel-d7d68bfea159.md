@@ -1,6 +1,6 @@
 ---
-title: "Tucker Carlson appeared with Donald Trump"
-description: "Evidence for the relationship: Tucker Carlson appeared with Donald Trump"
+title: "Tucker Carlson appeared with Donald J. Trump"
+description: "Evidence for the relationship: Tucker Carlson appeared with Donald J. Trump"
 relationship_id: "rel-d7d68bfea159"
 subject: "person-tucker-carlson"
 predicate: "appeared with"
@@ -9,7 +9,7 @@ object: "person-donald-trump"
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Tucker Carlson](/entities/person-tucker-carlson) appeared with [Donald Trump](/entities/person-donald-trump)
+## [Tucker Carlson](/entities/person-tucker-carlson) appeared with [Donald J. Trump](/entities/person-donald-trump)
 
 ### Evidence (1 mentions)
 
@@ -20,4 +20,4 @@ object: "person-donald-trump"
 ### Related
 
 - [Tucker Carlson](/entities/person-tucker-carlson)
-- [Donald Trump](/entities/person-donald-trump)
+- [Donald J. Trump](/entities/person-donald-trump)

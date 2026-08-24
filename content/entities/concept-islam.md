@@ -1,6 +1,6 @@
 ---
 title: "Islam"
-description: "Islam (Concepts) - 30 mentions"
+description: "Islam (Concepts) - 37 mentions"
 id: "concept-islam"
 type: "CONCEPT"
 aliases:
@@ -18,9 +18,9 @@ _Type: Concepts_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-islam-t-00-04-51">2026-01-12 · 00:05:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-islam-t-00-31-48">2026-02-11 · 00:32:11</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-islam-t-00-34-36">2026-03-17 · 00:35:02</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>37</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,6 +39,9 @@ _Type: Concepts_
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-concept-islam-t-00-02-20" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-concept-islam-t-00-34-43" style="--pulse-height:11%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-islam-t-00-29-09" style="--pulse-height:17%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 3 mentions" title="2026-02-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-islam-t-00-59-35" style="--pulse-height:8%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-islam-t-00-20-30" style="--pulse-height:28%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 5 mentions" title="2026-03-17 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-concept-islam-t-00-06-58" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +55,9 @@ _Type: Concepts_
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-concept-islam-t-00-02-20) | 1 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-concept-islam-t-00-34-43) | 2 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-islam-t-00-29-09) | 3 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-concept-islam-t-00-59-35) | 1 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-concept-islam-t-00-20-30) | 5 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-concept-islam-t-00-06-58) | 1 |
 
 </details>
 </section>
@@ -59,7 +65,43 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (5 mentions)</summary>
+
+**[00:20:30](/episodes/ep-k8ueJdPFel4.md#ent-concept-islam-t-00-20-30)**
+> "Question, how many Muslim kids do you think had to be murdered for her trus..."
+
+**[00:32:45](/episodes/ep-k8ueJdPFel4.md#ent-concept-islam-t-00-32-41)**
+> "...t sort of like mass murdering muslims like that's just kind of what we do we've been it..."
+
+**[00:33:12](/episodes/ep-k8ueJdPFel4.md#ent-concept-islam-t-00-33-12)**
+> "to not murder muslim kids for no reason but then we just like saw the ..."
+
+**[00:33:30](/episodes/ep-k8ueJdPFel4.md#ent-concept-islam-t-00-33-12)**
+> "... of going to be a lot of dead muslims and christians and you can put your building on t..."
+
+**[00:35:02](/episodes/ep-k8ueJdPFel4.md#ent-concept-islam-t-00-34-36)**
+> "... kick this habit of murdering Muslims for no reason because Israel says so because they..."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>
+
+**[00:07:24](/episodes/ep-I0OaY6Gryqk.md#ent-concept-islam-t-00-06-58)**
+> "Muslim"
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
+
+**[00:59:42](/episodes/ep-i8m_6D4QGmk.md#ent-concept-islam-t-00-59-35)**
+> "always the Muslims"
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (3 mentions)</summary>

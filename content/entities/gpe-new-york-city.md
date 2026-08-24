@@ -1,6 +1,6 @@
 ---
 title: "New York City"
-description: "New York City (Places) - 21 mentions"
+description: "New York City (Places) - 35 mentions"
 id: "gpe-new-york-city"
 type: "GPE"
 aliases:
@@ -22,30 +22,35 @@ Source: [City of New York](https://www.nyc.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-gpe-new-york-city-t-00-02-10">2025-09-22 · 00:02:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-new-york-city-t-00-57-02">2026-02-28 · 00:57:09</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-city-t-00-12-20">2026-03-18 · 00:12:20</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-LATnak75Si0.md#ent-gpe-new-york-city-t-00-00-00">Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-city-t-00-07-55">EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ja26iltROkM.md#ent-gpe-new-york-city-t-00-02-10" style="--pulse-height:25%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-gpe-new-york-city-t-00-00-00" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 4 mentions" title="2025-11-05 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-city-t-00-06-42" style="--pulse-height:50%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 2 mentions" title="2025-11-08 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-new-york-city-t-00-11-40" style="--pulse-height:25%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-new-york-city-t-00-08-05" style="--pulse-height:25%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-new-york-city-t-01-02-43" style="--pulse-height:25%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#t-00-52-04" style="--pulse-height:25%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-new-york-city-t-00-48-34" style="--pulse-height:25%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-new-york-city-t-00-17-12" style="--pulse-height:50%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-gpe-new-york-city-t-00-26-55" style="--pulse-height:75%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 3 mentions" title="2026-02-10 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-new-york-city-t-00-53-43" style="--pulse-height:100%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 4 mentions" title="2026-02-28 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-gpe-new-york-city-t-00-02-10" style="--pulse-height:20%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-gpe-new-york-city-t-00-00-00" style="--pulse-height:80%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 4 mentions" title="2025-11-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-city-t-00-06-42" style="--pulse-height:40%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 2 mentions" title="2025-11-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-new-york-city-t-00-11-40" style="--pulse-height:20%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-new-york-city-t-00-08-05" style="--pulse-height:20%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-new-york-city-t-01-02-43" style="--pulse-height:20%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#t-00-52-04" style="--pulse-height:20%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-new-york-city-t-00-48-34" style="--pulse-height:20%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-new-york-city-t-00-17-12" style="--pulse-height:40%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-gpe-new-york-city-t-00-26-55" style="--pulse-height:60%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 3 mentions" title="2026-02-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-new-york-city-t-00-53-43" style="--pulse-height:80%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 4 mentions" title="2026-02-28 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-new-york-city-t-00-04-27" style="--pulse-height:20%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-new-york-city-t-00-22-10" style="--pulse-height:40%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-city-t-00-07-55" style="--pulse-height:100%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 5 mentions" title="2026-03-11 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-new-york-city-t-00-03-00" style="--pulse-height:60%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-city-t-00-09-18" style="--pulse-height:60%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +67,11 @@ Source: [City of New York](https://www.nyc.gov/)
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-new-york-city-t-00-17-12) | 2 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-gpe-new-york-city-t-00-26-55) | 3 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-new-york-city-t-00-53-43) | 4 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-new-york-city-t-00-04-27) | 1 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-new-york-city-t-00-22-10) | 2 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-city-t-00-07-55) | 5 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-new-york-city-t-00-03-00) | 3 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-city-t-00-09-18) | 3 |
 
 </details>
 </section>
@@ -69,7 +79,74 @@ Source: [City of New York](https://www.nyc.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (3 mentions)</summary>
+
+**[00:09:38](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-city-t-00-09-18)**
+> "We jump into 2016 and now you should know that Erika (Erika Kirk) is 28. She's going to be 28 years old and we still have no idea what she is doing for work. And now she's living in New York City, one of the most expensive cities in the world."
+
+**[00:10:58](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-city-t-00-10-33)**
+> "... I started Bible in 365 in my New York City apartment."
+
+**[00:12:20](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-city-t-00-12-20)**
+> "...rts of things while living in New York City and not having a job that is apparent to us."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (3 mentions)</summary>
+
+**[00:03:17](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-new-york-city-t-00-03-00)**
+> "...this is the title, inside the New York City condo building where Jeffrey Epstein secretly kep..."
+
+**[00:06:02](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-new-york-city-t-00-05-42)**
+> "...yers who were involved in the New York City real estate scene and who also happened to radica..."
+
+**[00:49:30](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-new-york-city-t-00-49-30)**
+> "...back when you were working in New York City that you had keys to a White House and you were u..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (5 mentions)</summary>
+
+**[00:08:06](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-city-t-00-07-55)**
+> "... the top modeling agencies in New York City, full stop, regarding what would you describe it ..."
+
+**[00:11:49](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-city-t-00-11-49)**
+> "...he bought a one-way ticket to New York City and made it home."
+
+**[00:11:59](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-city-t-00-11-49)**
+> "... on the developer side of the New York City real estate industry is a tremendous asset to her..."
+
+**[00:46:18](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-city-t-00-46-11)**
+> "... Next Model, but it's a small New York City world."
+
+**[00:06:45](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-new-york-city-t-00-06-45)**
+> "Now, on background, in case you're not familiar with the modeling industry, as I am not, the sources confirm that what is typical in the modeling world was for agencies to find places for girls to stay while they were in New York. They tell me, and I'm going to quote this here, I quote, younger girls, when they first get to New York City."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (2 mentions)</summary>
+
+**[00:22:10](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-new-york-city-t-00-22-10)**
+> "Next Model Management in New York City"
+
+**[00:24:58](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-new-york-city-t-00-24-58)**
+> "...g at Next Model Management in new york city what's up what are you doing did you run into eps..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>
+
+**[00:04:59](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-new-york-city-t-00-04-27)**
+> "...how new and inventive here in New York City where on every corner someone is hawking t-shirts..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (4 mentions)</summary>
@@ -195,6 +272,18 @@ Source: [City of New York](https://www.nyc.gov/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Former Residence Of (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:11:49](/episodes/ep-H9p2ZGHAs9A.md#t-00-11-49): “Several years ago, after her heart was captured by the contagious inspiration of America's most transnational city, she bought a one-way ticket to New York City and made it home.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Location Of (1)</summary>
 
 - **[33 Thomas Street](/entities/gpe-33-thomas-street.md)**
@@ -214,9 +303,16 @@ Source: [City of New York](https://www.nyc.gov/)
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[33 Thomas Street](/entities/gpe-33-thomas-street.md)** based in this
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** formerly lived in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:11:49](/episodes/ep-H9p2ZGHAs9A.md#t-00-11-49): “Several years ago, after her heart was captured by the contagious inspiration of America's most transnational city, she bought a one-way ticket to New York City and made it home.”
+
+</details>
 
 - **[Zohran Mamdani](/entities/person-zohran-mamdani.md)** ran against this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -230,7 +326,31 @@ Source: [City of New York](https://www.nyc.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about New York City (3)</strong></summary>
+<summary><strong class="section-title">Statements about New York City (6)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1)</summary>
+
+- [00:11:59](/episodes/ep-H9p2ZGHAs9A.md#t-00-11-49) (Citation) **Candace Owens**: ["Candace Owens cited Erika Kirk's real-estate biography as claiming tha..."](/statements/statement-cc45b450f9d6.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1)</summary>
+
+- [00:26:56](/episodes/ep-ZzAT2xijKGQ.md#t-00-26-36) (Claim) **Candace Owens**: ["In 2018 Erika Kirk obtained a New York real-estate license to work wit..."](/statements/statement-4b949cc4219d.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [The Corcoran Group](/entities/org-corcoran-group.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1)</summary>
+
+- [00:05:39](/episodes/ep-DdPjoy5W-wY.md#t-00-05-07) (Claim) **Candace Owens**: ["Erika Kirk received her New York real-estate license two days before a..."](/statements/statement-d080d6083d91.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [PROCLAIM STREETWEAR](/entities/org-proclaim-streetwear.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (2)</summary>

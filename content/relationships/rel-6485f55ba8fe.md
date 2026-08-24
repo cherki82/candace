@@ -1,6 +1,6 @@
 ---
-title: "UVU students member of UVU"
-description: "Evidence for the relationship: UVU students member of UVU"
+title: "UVU students member of Utah Valley University"
+description: "Evidence for the relationship: UVU students member of Utah Valley University"
 relationship_id: "rel-6485f55ba8fe"
 subject: "org-uvu-students"
 predicate: "member of"
@@ -9,7 +9,7 @@ object: "org-utah-valley-university"
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [UVU students](/entities/org-uvu-students) member of [UVU](/entities/org-utah-valley-university)
+## [UVU students](/entities/org-uvu-students) member of [Utah Valley University](/entities/org-utah-valley-university)
 
 ### Evidence (1 mentions)
 
@@ -20,4 +20,4 @@ object: "org-utah-valley-university"
 ### Related
 
 - [UVU students](/entities/org-uvu-students)
-- [UVU](/entities/org-utah-valley-university)
+- [Utah Valley University](/entities/org-utah-valley-university)

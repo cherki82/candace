@@ -1,6 +1,6 @@
 ---
 title: "Tesseract School"
-description: "Tesseract School (Organizations) - 34 mentions"
+description: "Tesseract School (Organizations) - 38 mentions"
 id: "org-tesseract-school"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Town of Paradise Valley — Tesseract School special-use record](https:
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-tesseract-school-t-00-51-40">2026-02-25 · 00:52:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-org-tesseract-school-t-00-42-40">2026-03-03 · 00:43:01</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>34</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-tesseract-school-t-00-02-56">2026-03-18 · 00:02:56</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>15</strong></div>
@@ -41,6 +41,7 @@ Source: [Town of Paradise Valley — Tesseract School special-use record](https:
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-tesseract-school-t-00-19-45" style="--pulse-height:45%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 5 mentions" title="2026-02-28 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-tesseract-school-t-00-09-39" style="--pulse-height:18%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-org-tesseract-school-t-00-00-56" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 11 mentions" title="2026-03-03 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-tesseract-school-t-00-01-46" style="--pulse-height:36%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 4 mentions" title="2026-03-18 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [Town of Paradise Valley — Tesseract School special-use record](https:
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-tesseract-school-t-00-19-45) | 5 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-tesseract-school-t-00-09-39) | 2 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-tesseract-school-t-00-00-56) | 11 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-org-tesseract-school-t-00-01-46) | 4 |
 
 </details>
 </section>
@@ -58,7 +60,24 @@ Source: [Town of Paradise Valley — Tesseract School special-use record](https:
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (4 mentions)</summary>
+
+**[00:01:46](/episodes/ep-_vg7ucP1E0g.md#ent-org-tesseract-school-t-00-01-46)**
+> "Anyway, we had explained to you guys on a previous episode that wherever Erika (Erika Kirk) and Lori (Lori Frantzve) go, accusations of financial fraud tend to follow, right? Throwing it back to the Erpenbeck brothers, Uncle Rick (Richard Erpenbeck), that brand-new glossy Tesseract school—ultimately a charter scam in which money inexplicably vanished."
+
+**[00:02:24](/episodes/ep-_vg7ucP1E0g.md#ent-org-tesseract-school-t-00-02-24)**
+> "... information. We learned that Tesseract afterward became Notre Dame Prep."
+
+**[00:02:41](/episodes/ep-_vg7ucP1E0g.md#ent-org-tesseract-school-t-00-02-24)**
+> "Tesseract school was definitely a very Jewish school in general. W..."
+
+**[00:02:56](/episodes/ep-_vg7ucP1E0g.md#ent-org-tesseract-school-t-00-02-56)**
+> "...ell, the story goes regarding Tesseract that after they filed for bankruptcy in 2001, the..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (11 mentions)</summary>

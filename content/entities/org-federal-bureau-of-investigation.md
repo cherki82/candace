@@ -24,7 +24,7 @@ Source: [About - FBI](https://www.fbi.gov/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-federal-bureau-of-investigation-t-00-14-17">2026-01-05 · 00:14:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-federal-bureau-of-investigation-t-00-49-34">2026-03-02 · 00:49:44</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-org-federal-bureau-of-investigation-t-00-50-16">2026-03-04 · 00:50:30</a></strong></div>
 <div><span>Episodes</span><strong>16</strong></div>
 <div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -52,6 +52,7 @@ Source: [About - FBI](https://www.fbi.gov/about)
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-federal-bureau-of-investigation-t-00-07-03" style="--pulse-height:29%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-federal-bureau-of-investigation-t-00-10-40" style="--pulse-height:86%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 6 mentions" title="2026-02-28 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-federal-bureau-of-investigation-t-00-49-34" style="--pulse-height:14%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-federal-bureau-of-investigation-t-00-50-16" style="--pulse-height:14%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -72,6 +73,7 @@ Source: [About - FBI](https://www.fbi.gov/about)
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-federal-bureau-of-investigation-t-00-07-03) | 2 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-federal-bureau-of-investigation-t-00-10-40) | 6 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-federal-bureau-of-investigation-t-00-49-34) | 1 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-federal-bureau-of-investigation-t-00-50-16) | 1 |
 
 </details>
 </section>
@@ -80,6 +82,14 @@ Source: [About - FBI](https://www.fbi.gov/about)
 
 <details>
 <summary><strong class="section-title">Raw mentions (40)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
+
+**[00:50:30](/episodes/ep-y8lak3CRwDw.md#ent-org-federal-bureau-of-investigation-t-00-50-16)**
+> "...ndedly better than the entire FBI and they know it well I mean where is uh Kash Pat..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1 mentions)</summary>
@@ -270,14 +280,6 @@ Source: [About - FBI](https://www.fbi.gov/about)
 
 **[00:36:27](/episodes/ep-OEAHy3SsIiI.md#ent-org-federal-bureau-of-investigation-t-00-36-06)**
 > "... own thing out in langley the federal bureau of investigation they run the country the intel agencies run the c..."
-
-</details>
-
-<details>
-<summary>ep-y8lak3CRwDw (1 mentions)</summary>
-
-**[00:50:30](/episodes/ep-y8lak3CRwDw.md#t-00-50-30)**
-> "...ndedly better than the entire FBI and they know it well I mean where is uh Kash Pat..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Pamela Liebman"
-description: "Pamela Liebman (People) - 1 mention"
+description: "Pamela Liebman (People) - 2 mentions"
 id: "person-pamela-liebman"
 type: "PERSON"
 aliases:
@@ -24,10 +24,10 @@ Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inha
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-person-pamela-liebman-t-00-26-55">2026-02-10 · 00:27:11</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-person-pamela-liebman-t-00-26-55">2026-02-10 · 00:27:11</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -49,7 +49,7 @@ Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inha
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>
@@ -83,6 +83,18 @@ Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inha
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:27:11](/episodes/ep-ti5Fxrvegno.md#t-00-26-55): “Pamela (Pamela Liebman) has been the president and CEO of the Corcoran Group since...”
+
+</details>
+
+</details>
+
+<details>
+<summary>Worked With (1)</summary>
+
+- **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:27:18](/episodes/ep-ZzAT2xijKGQ.md#t-00-26-36): “Pam Lehman, featured in the Epstein (Jeffrey Epstein). Epstein (Jeffrey Epstein) files was helping him with real estate deals”
 
 </details>
 

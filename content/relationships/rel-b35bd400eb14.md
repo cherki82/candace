@@ -11,7 +11,11 @@ object: "person-marina-minas"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) employs [Marina Minas](/entities/person-marina-minas)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
+
+**[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
+
+- [00:19:58](/episodes/ep-B9TyCs-6o_0#t-00-19-58): _our public relations—our longtime spokesperson Andrew Kolvet—and their chief marketing officer, Marina Minas_
 
 **[An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ)**
 

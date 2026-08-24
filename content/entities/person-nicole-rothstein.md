@@ -1,6 +1,6 @@
 ---
 title: "Nicole Rothstein"
-description: "Nicole Rothstein (People) - 11 mentions"
+description: "Nicole Rothstein (People) - 15 mentions"
 id: "person-nicole-rothstein"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-nicole-rothstein-t-00-44-30">2025-12-20 · 00:44:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-nicole-rothstein-t-00-55-42">2026-03-02 · 00:55:49</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-nicole-rothstein-t-00-26-40">2026-03-18 · 00:26:40</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -34,6 +34,8 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-nicole-rothstein-t-00-44-30" style="--pulse-height:25%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-nicole-rothstein-t-00-39-57" style="--pulse-height:100%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 8 mentions" title="2026-02-25 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-nicole-rothstein-t-00-55-42" style="--pulse-height:12%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-nicole-rothstein-t-00-08-36" style="--pulse-height:12%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-nicole-rothstein-t-00-08-01" style="--pulse-height:25%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 2 mentions" title="2026-03-18 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +44,8 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-nicole-rothstein-t-00-44-30) | 2 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-nicole-rothstein-t-00-39-57) | 8 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-nicole-rothstein-t-00-55-42) | 1 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-person-nicole-rothstein-t-00-08-36) | 1 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-nicole-rothstein-t-00-08-01) | 2 |
 
 </details>
 </section>
@@ -49,7 +53,26 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (2 mentions)</summary>
+
+**[00:08:30](/episodes/ep-_vg7ucP1E0g.md#ent-person-nicole-rothstein-t-00-08-01)**
+> "Quebec, again, not knowing how she is affording this lifestyle, she is traveling with Nicole Rothstein."
+
+**[00:26:40](/episodes/ep-_vg7ucP1E0g.md#ent-person-nicole-rothstein-t-00-26-40)**
+> "...f it's her real family or her Nicole Rothstein family or she just calls everybody family but you..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1 mentions)</summary>
+
+**[00:09:01](/episodes/ep-H9p2ZGHAs9A.md#ent-person-nicole-rothstein-t-00-08-36)**
+> "Now, you will remember Erika (Erika Kirk) at this time was living with Nicole Rothstein, and it is a fact that Nicole Rothstein did work in real estate, not at the Corcoran Group, but she has a long career in real estate."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1 mentions)</summary>
@@ -99,6 +122,14 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 
 </details>
 
+<details>
+<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
+
+**[00:16:19](/episodes/ep-5m-Wn6Pr5rM.md#t-00-16-19)**
+> "Nicole Rothstein"
+
+</details>
+
 </details>
 
 <details open>
@@ -108,9 +139,10 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <summary>Child Of (1)</summary>
 
 - **[Allan P. Rothstein](/entities/person-allan-p-rothstein.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:41:42](/episodes/ep-ZAsV0fHGBiM.md#t-00-41-26): “Alan Rothstein ... Nicole (Nicole Rothstein)'s father”
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:09:10](/episodes/ep-H9p2ZGHAs9A.md#t-00-08-36): “She went to school for real estate and she currently runs her own real estate company. And her father, Alan Rothstein.”
 
 </details>
 
@@ -177,9 +209,10 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 </details>
 
 - **[Allan P. Rothstein](/entities/person-allan-p-rothstein.md)** parent of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:41:42](/episodes/ep-ZAsV0fHGBiM.md#t-00-41-26): “Alan Rothstein ... Nicole (Nicole Rothstein)'s father”
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:09:10](/episodes/ep-H9p2ZGHAs9A.md#t-00-08-36): “She went to school for real estate and she currently runs her own real estate company. And her father, Alan Rothstein.”
 
 </details>
 

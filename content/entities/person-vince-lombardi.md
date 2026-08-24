@@ -1,6 +1,6 @@
 ---
 title: "Vince Lombardi"
-description: "Vince Lombardi (People) - 12 mentions"
+description: "Vince Lombardi (People) - 13 mentions"
 id: "person-vince-lombardi"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Green Bay Packers — Vince Lombardi](https://www.packers.com/history/h
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-vince-lombardi-t-00-35-23">2026-03-02 · 00:35:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-person-vince-lombardi-t-00-42-40">2026-03-03 · 00:42:52</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-vince-lombardi-t-01-06-42">2026-03-06 · 01:06:42</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [Green Bay Packers — Vince Lombardi](https://www.packers.com/history/h
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-vince-lombardi-t-00-35-23" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 10 mentions" title="2026-03-02 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-person-vince-lombardi-t-00-00-01" style="--pulse-height:20%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 2 mentions" title="2026-03-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-vince-lombardi-t-01-06-42" style="--pulse-height:10%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [Green Bay Packers — Vince Lombardi](https://www.packers.com/history/h
 |---|---|---:|
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-vince-lombardi-t-00-35-23) | 10 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-vince-lombardi-t-00-00-01) | 2 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-vince-lombardi-t-01-06-42) | 1 |
 
 </details>
 </section>
@@ -52,7 +54,15 @@ Source: [Green Bay Packers — Vince Lombardi](https://www.packers.com/history/h
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>
+
+**[01:06:42](/episodes/ep-DdPjoy5W-wY.md#ent-person-vince-lombardi-t-01-06-42)**
+> "...r text came through regarding Vince Lombardi it seems like Lori Frantzve is the real person of..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (2 mentions)</summary>

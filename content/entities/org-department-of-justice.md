@@ -19,7 +19,7 @@ _Type: Organizations_
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -142,7 +142,7 @@ _Type: Organizations_
 <details>
 <summary>Based In (1)</summary>
 
-- **[Wilmington, Delaware](/entities/gpe-wilmington.md)**
+- **[Wilmington](/entities/gpe-wilmington.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:10:15](/episodes/ep-SKGUzGHymcI.md#t-00-09-44): “the Department of Justice's own directory lists, quote, Wilmington Residence Office, 1 Rodney Square, Suite 404, 920 King Street, Wilmington, Delaware, 19801.”
@@ -154,12 +154,25 @@ _Type: Organizations_
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[Wilmington, Delaware](/entities/gpe-wilmington.md)** location of this
+- **[Wilmington](/entities/gpe-wilmington.md)** location of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:10:15](/episodes/ep-SKGUzGHymcI.md#t-00-09-44): “the Department of Justice's own directory lists, quote, Wilmington Residence Office, 1 Rodney Square, Suite 404, 920 King Street, Wilmington, Delaware, 19801.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Department of Justice (1)</strong></summary>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1)</summary>
+
+- [00:16:19](/episodes/ep-I0OaY6Gryqk.md#t-00-15-57) (Accusation) **Mark Levin** (via quoted post): ["The Department of Justice should open a criminal investigation to dete..."](/statements/statement-83445a0989bf.md)
+  - Also about: [Joe Kent](/entities/person-joe-kent.md)
 
 </details>
 

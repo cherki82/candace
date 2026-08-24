@@ -1,6 +1,6 @@
 ---
 title: "Romanian Angels Project"
-description: "Romanian Angels Project (Organizations) - 7 mentions"
+description: "Romanian Angels Project (Organizations) - 16 mentions"
 id: "org-romanian-angels-project"
 type: "ORG"
 aliases:
@@ -21,22 +21,27 @@ Source: [An Ideal Day According to Erika Frantzve](https://www.arizonafoothillsm
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-romanian-angels-project-t-00-10-04">2026-01-09 · 00:10:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-org-romanian-angels-project-t-00-21-13">2026-03-03 · 00:21:21</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-romanian-angels-project-t-00-49-52">2026-03-12 · 00:49:52</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-romanian-angels-project-t-00-10-04">The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-romanian-angels-project-t-00-18-54">EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-romanian-angels-project-t-00-10-04" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-romanian-angels-project-t-00-28-25" style="--pulse-height:33%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2tFYJf1klgY.md#ent-org-romanian-angels-project-t-00-21-13" style="--pulse-height:33%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-romanian-angels-project-t-00-10-04" style="--pulse-height:75%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-romanian-angels-project-t-00-28-25" style="--pulse-height:25%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-org-romanian-angels-project-t-00-21-13" style="--pulse-height:25%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-romanian-angels-project-t-00-30-42" style="--pulse-height:50%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-romanian-angels-project-t-00-38-36" style="--pulse-height:25%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-romanian-angels-project-t-00-19-45" style="--pulse-height:25%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-romanian-angels-project-t-00-18-54" style="--pulse-height:100%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 4 mentions" title="2026-03-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-romanian-angels-project-t-00-15-03" style="--pulse-height:75%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +50,11 @@ Source: [An Ideal Day According to Erika Frantzve](https://www.arizonafoothillsm
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-romanian-angels-project-t-00-10-04) | 3 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-org-romanian-angels-project-t-00-28-25) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-romanian-angels-project-t-00-21-13) | 1 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-romanian-angels-project-t-00-30-42) | 2 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-romanian-angels-project-t-00-38-36) | 1 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-romanian-angels-project-t-00-19-45) | 1 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-romanian-angels-project-t-00-18-54) | 4 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-romanian-angels-project-t-00-15-03) | 3 |
 
 </details>
 </section>
@@ -52,7 +62,65 @@ Source: [An Ideal Day According to Erika Frantzve](https://www.arizonafoothillsm
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (3 mentions)</summary>
+
+**[00:15:31](/episodes/ep-5-HUyv9LyMg.md#ent-org-romanian-angels-project-t-00-15-03)**
+> "...ka Kirk partnered with on her Romanian Angels project, okay?"
+
+**[00:22:46](/episodes/ep-5-HUyv9LyMg.md#ent-org-romanian-angels-project-t-00-22-46)**
+> "...ika (Erika Kirk)'s partner on Romanian Angels, who the children, according to Erika (Erika Kirk..."
+
+**[00:49:52](/episodes/ep-5-HUyv9LyMg.md#ent-org-romanian-angels-project-t-00-49-52)**
+> "...'s not doing that at all. Um, Romanian Angels, this woman Renee Crossman—everywhere she goes. M..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (4 mentions)</summary>
+
+**[00:19:09](/episodes/ep-H9p2ZGHAs9A.md#ent-org-romanian-angels-project-t-00-18-54)**
+> "So and that's called Romanian Angels through my nonprofit Everyday Heroes Like You."
+
+**[00:19:53](/episodes/ep-H9p2ZGHAs9A.md#ent-org-romanian-angels-project-t-00-19-53)**
+> "...projects. This was called the Romanian Angels Project, and the Romanian Angels, so to speak, were livin..."
+
+**[00:20:21](/episodes/ep-H9p2ZGHAs9A.md#ent-org-romanian-angels-project-t-00-19-53)**
+> "...porting on Erika Kirk and the Romanian Angels Project."
+
+**[00:18:38](/episodes/ep-H9p2ZGHAs9A.md#ent-org-romanian-angels-project-t-00-18-38)**
+> "that she was a bit more involved, a lot more involved. I'll let you take a listen to Erika (Erika Kirk) in her own words during her audition tape for the American race with her ex-boyfriend. Here's what she says about Romanian angels. Take a listen."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1 mentions)</summary>
+
+**[00:20:02](/episodes/ep-ZzAT2xijKGQ.md#ent-org-romanian-angels-project-t-00-19-45)**
+> "run the Romanian Angels Project"
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>
+
+**[00:38:36](/episodes/ep-DdPjoy5W-wY.md#ent-org-romanian-angels-project-t-00-38-36)**
+> "...post a video of her promoting Romanian Angels and in that video she thanks Colonel Otto Busher ..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (2 mentions)</summary>
+
+**[00:30:42](/episodes/ep-y8lak3CRwDw.md#ent-org-romanian-angels-project-t-00-30-42)**
+> "The Romanian Angels Project officially begins in partnership with the U.S. Ma..."
+
+**[00:52:54](/episodes/ep-y8lak3CRwDw.md#ent-org-romanian-angels-project-t-00-52-36)**
+> "...ds with her um you know since romanian angels and she met her apparently backstage and like the..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1 mentions)</summary>
@@ -84,21 +152,22 @@ Source: [An Ideal Day According to Erika Frantzve](https://www.arizonafoothillsm
 
 </details>
 
-<details>
-<summary>ep-y8lak3CRwDw (2 mentions)</summary>
-
-**[00:30:42](/episodes/ep-y8lak3CRwDw.md#t-00-30-42)**
-> "The Romanian Angels Project officially begins in partnership with the U.S. Ma..."
-
-**[00:52:54](/episodes/ep-y8lak3CRwDw.md#t-00-52-54)**
-> "...ds with her um you know since romanian angels and she met her apparently backstage and like the..."
-
-</details>
-
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Affiliated With (1)</summary>
+
+- **[United States Marine Corps](/entities/org-united-states-marine-corps.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | Episode 6 @ 00:30:42](/episodes/ep-y8lak3CRwDw.md#t-00-30-42): “The Romanian Angels Project officially begins in partnership with the U.S. Marines and she is working. Working with Colonel Otto Busher III.”
+
+</details>
+
+</details>
 
 <details>
 <summary>Founded By (1)</summary>
@@ -107,6 +176,34 @@ Source: [An Ideal Day According to Erika Frantzve](https://www.arizonafoothillsm
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:28:50](/episodes/ep-DYD_QHMPwqM.md#t-00-28-25): “Oh, and the Romanian angels? ... that was a project ... because Erika (Erika Kirk) put it together”
+
+</details>
+
+</details>
+
+<details>
+<summary>Operated By (3)</summary>
+
+- **[Everyday Heroes Like You](/entities/org-everyday-heroes-like-you.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:20:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-19-45): “teaming up with them to run the Romanian Angels Project through her 501c3 Everyday Heroes”
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:19:09](/episodes/ep-H9p2ZGHAs9A.md#t-00-18-54): “So and that's called Romanian Angels through my nonprofit Everyday Heroes Like You.”
+
+</details>
+
+- **[Black Sea Rotational Force](/entities/org-black-sea-rotational-force.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:20:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-19-45): “she is going to establish this working partnership with the U.S. Marines Black Sea Rotational Force in Constanta, teaming up with them to run the Romanian Angels Project”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:20:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-19-45): “teaming up with them to run the Romanian Angels Project through her 501c3 Everyday Heroes”
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:19:09](/episodes/ep-H9p2ZGHAs9A.md#t-00-18-54): “So and that's called Romanian Angels through my nonprofit Everyday Heroes Like You.”
 
 </details>
 
@@ -137,7 +234,7 @@ Source: [An Ideal Day According to Erika Frantzve](https://www.arizonafoothillsm
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** founded this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -153,12 +250,54 @@ Source: [An Ideal Day According to Erika Frantzve](https://www.arizonafoothillsm
 
 </details>
 
+- **[Everyday Heroes Like You](/entities/org-everyday-heroes-like-you.md)** operates this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:20:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-19-45): “teaming up with them to run the Romanian Angels Project through her 501c3 Everyday Heroes”
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:19:09](/episodes/ep-H9p2ZGHAs9A.md#t-00-18-54): “So and that's called Romanian Angels through my nonprofit Everyday Heroes Like You.”
+
+</details>
+
+- **[Black Sea Rotational Force](/entities/org-black-sea-rotational-force.md)** operates this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:20:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-19-45): “she is going to establish this working partnership with the U.S. Marines Black Sea Rotational Force in Constanta, teaming up with them to run the Romanian Angels Project”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** operates this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:20:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-19-45): “teaming up with them to run the Romanian Angels Project through her 501c3 Everyday Heroes”
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:19:09](/episodes/ep-H9p2ZGHAs9A.md#t-00-18-54): “So and that's called Romanian Angels through my nonprofit Everyday Heroes Like You.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Romanian Angels Project (2)</strong></summary>
+<summary><strong class="section-title">Statements about Romanian Angels Project (5)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (2)</summary>
+
+- [00:19:00](/episodes/ep-H9p2ZGHAs9A.md#t-00-18-54) (Claim) **Erika Kirk**: ["Erika Kirk said she teamed with the United States Marine Corps in Roma..."](/statements/statement-088ef4c0e1c8.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md), [Romania](/entities/gpe-romania.md)
+
+- [00:21:02](/episodes/ep-H9p2ZGHAs9A.md#t-00-20-32) (Citation) **Larissa (Email Correspondent; Surname Unverified)** (via read message): ["Larissa wrote that Erika Kirk's promotional materials from approximate..."](/statements/statement-fcfdf496c647.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Antonio Placement Center](/entities/org-antonio-placement-center.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1)</summary>
+
+- [00:30:42](/episodes/ep-y8lak3CRwDw.md#t-00-30-42) (Claim) **Candace Owens**: ["The Romanian Angels Project began in November 2012 in partnership with..."](/statements/statement-d20b381b368c.md)
+  - Also about: [United States Marine Corps](/entities/org-united-states-marine-corps.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1)</summary>

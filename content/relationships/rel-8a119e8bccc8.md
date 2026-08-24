@@ -1,15 +1,15 @@
 ---
-title: "Mikey McCoy met with Elizabeth McCoy"
-description: "Evidence for the relationship: Mikey McCoy met with Elizabeth McCoy"
+title: "Michael McCoy met with Elizabeth McCoy"
+description: "Evidence for the relationship: Michael McCoy met with Elizabeth McCoy"
 relationship_id: "rel-8a119e8bccc8"
-subject: "person-mikey-mccoy"
+subject: "person-michael-mccoy"
 predicate: "met with"
 object: "person-elizabeth-mccoy"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Mikey McCoy](/entities/person-mikey-mccoy) met with [Elizabeth McCoy](/entities/person-elizabeth-mccoy)
+## [Michael McCoy](/entities/person-michael-mccoy) met with [Elizabeth McCoy](/entities/person-elizabeth-mccoy)
 
 ### Evidence (1 mentions)
 
@@ -19,5 +19,5 @@ object: "person-elizabeth-mccoy"
 
 ### Related
 
-- [Mikey McCoy](/entities/person-mikey-mccoy)
+- [Michael McCoy](/entities/person-michael-mccoy)
 - [Elizabeth McCoy](/entities/person-elizabeth-mccoy)

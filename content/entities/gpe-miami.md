@@ -1,6 +1,6 @@
 ---
 title: "Miami"
-description: "Miami (Places) - 11 mentions"
+description: "Miami (Places) - 13 mentions"
 id: "gpe-miami"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [City of Miami](https://www.miami.gov/Home)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-miami-t-00-22-23">2026-01-16 · 00:22:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-miami-t-01-43-59">2026-01-29 · 01:43:59</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-miami-t-00-08-25">2026-03-12 · 00:08:37</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,6 +34,7 @@ Source: [City of Miami](https://www.miami.gov/Home)
 <a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-miami-t-00-22-23" style="--pulse-height:33%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-miami-t-00-31-07" style="--pulse-height:50%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 3 mentions" title="2026-01-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-miami-t-00-57-00" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 6 mentions" title="2026-01-29 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-miami-t-00-06-20" style="--pulse-height:33%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +43,7 @@ Source: [City of Miami](https://www.miami.gov/Home)
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-miami-t-00-22-23) | 2 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-miami-t-00-31-07) | 3 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-miami-t-00-57-00) | 6 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-miami-t-00-06-20) | 2 |
 
 </details>
 </section>
@@ -49,7 +51,18 @@ Source: [City of Miami](https://www.miami.gov/Home)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (2 mentions)</summary>
+
+**[00:06:40](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-miami-t-00-06-20)**
+> "...d Jared (Jared Kushner) their Miami mansion and they were just found guilty of sex tr..."
+
+**[00:08:37](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-miami-t-00-08-25)**
+> "... estate deals in New York and Miami. Tom Hanson joins us now with more."
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (6 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Gaza"
-description: "Gaza (Places) - 81 mentions"
+description: "Gaza (Places) - 98 mentions"
 id: "gpe-gaza"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03">2025-09-18 · 00:35:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-gpe-gaza-t-00-49-04">2026-02-10 · 00:49:30</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>81</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-gaza-t-01-03-09">2026-03-17 · 01:03:31</a></strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>98</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -55,6 +55,9 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-00-01-59" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 14 mentions" title="2026-01-29 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-gaza-t-00-17-34" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-gpe-gaza-t-00-20-06" style="--pulse-height:57%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 8 mentions" title="2026-02-10 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-gaza-t-00-34-41" style="--pulse-height:36%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 5 mentions" title="2026-03-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-gaza-t-00-33-12" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-gaza-t-00-20-01" style="--pulse-height:71%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 10 mentions" title="2026-03-17 · 10 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -80,6 +83,9 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-00-01-59) | 14 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-gaza-t-00-17-34) | 1 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-gpe-gaza-t-00-20-06) | 8 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-gaza-t-00-34-41) | 5 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-gaza-t-00-33-12) | 1 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-gaza-t-00-20-01) | 10 |
 
 </details>
 </section>
@@ -87,7 +93,70 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (81)</strong></summary>
+<summary><strong class="section-title">Raw mentions (98)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
+
+**[00:33:30](/episodes/ep-k8ueJdPFel4.md#ent-gpe-gaza-t-00-33-12)**
+> "...ut your name on a building in gaza and then put the building on top of all the dead ..."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (10 mentions)</summary>
+
+**[00:20:12](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-gaza-t-00-20-01)**
+> "what I see happening in Gaza feels really wrong"
+
+**[00:20:31](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-gaza-t-00-20-01)**
+> "about a child in Gaza. And there is something that I feel is so especia..."
+
+**[00:21:23](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-gaza-t-00-20-55)**
+> "...now where all the bodies from Gaza are and they're already moved on to other places ..."
+
+**[00:23:31](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-gaza-t-00-23-31)**
+> "...h like after what happened in Gaza I don't see to me I don't I don't see how there c..."
+
+**[00:24:05](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-gaza-t-00-23-57)**
+> "... can look at what they did in Gaza and believe that that's."
+
+**[00:24:54](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-gaza-t-00-24-36)**
+> "...oesn't support mass murder in Gaza."
+
+**[00:33:17](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-gaza-t-00-33-17)**
+> "...where he discussed Israel and Gaza."
+
+**[00:44:48](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-gaza-t-00-44-13)**
+> "...l and not say something about Gaza?"
+
+**[01:01:03](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-gaza-t-01-01-03)**
+> "...d the Likud party has done in Gaza that I can kind of paint with a broad stroke."
+
+**[01:03:31](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-gaza-t-01-03-09)**
+> "...like I said, you just look at Gaza and."
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (5 mentions)</summary>
+
+**[00:34:41](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-gaza-t-00-34-41)**
+> "real estate in Gaza"
+
+**[00:44:48](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-gaza-t-00-44-48)**
+> "...y known as mowing the lawn in Gaza, where the IDF would just at random begin shootin..."
+
+**[00:54:08](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-gaza-t-00-53-52)**
+> "...en from beneath the rubble in Gaza so that Trump can build his hotel."
+
+**[01:02:44](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-gaza-t-01-02-44)**
+> "... can look at what happened in Gaza and go, this was by God's design. Who is the God ..."
+
+**[01:03:07](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-gaza-t-01-02-44)**
+> "...tors, by the way, property in Gaza, they've already got like homes that are promised..."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (8 mentions)</summary>
@@ -426,6 +495,14 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 
 </details>
 
+<details>
+<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
+
+**[00:41:40](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-40)**
+> "Gaza"
+
+</details>
+
 </details>
 
 <details open>
@@ -436,7 +513,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Gaza (12)</strong></summary>
+<summary><strong class="section-title">Statements about Gaza (14)</strong></summary>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (2)</summary>
+
+- [00:44:48](/episodes/ep-i8m_6D4QGmk.md#t-00-44-48) (Claim) **Candace Owens** (via paraphrase): ["Norman Finkelstein said Israel had a government policy called 'mowing ..."](/statements/statement-38d396825ea7.md)
+  - Also about: [Norman Finkelstein](/entities/person-norman-finkelstein.md), [Israel](/entities/gpe-israel.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md)
+
+- [01:03:07](/episodes/ep-i8m_6D4QGmk.md#t-01-02-44) (Accusation) **Candace Owens**: ["Pastors have already been promised homes or property in Gaza to convin..."](/statements/statement-9bb3ae28e0de.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Christian Zionism](/entities/concept-christian-zionism.md)
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1)</summary>

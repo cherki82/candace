@@ -1,6 +1,6 @@
 ---
-title: "Turning Point criticized Candace Owens"
-description: "Evidence for the relationship: Turning Point criticized Candace Owens"
+title: "Turning Point USA criticized Candace Owens"
+description: "Evidence for the relationship: Turning Point USA criticized Candace Owens"
 relationship_id: "rel-2bcca683afb1"
 subject: "org-turning-point-usa"
 predicate: "criticized"
@@ -9,7 +9,7 @@ object: "person-candace-owens"
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Turning Point](/entities/org-turning-point-usa) criticized [Candace Owens](/entities/person-candace-owens)
+## [Turning Point USA](/entities/org-turning-point-usa) criticized [Candace Owens](/entities/person-candace-owens)
 
 ### Evidence (2 mentions)
 
@@ -23,5 +23,5 @@ object: "person-candace-owens"
 
 ### Related
 
-- [Turning Point](/entities/org-turning-point-usa)
+- [Turning Point USA](/entities/org-turning-point-usa)
 - [Candace Owens](/entities/person-candace-owens)

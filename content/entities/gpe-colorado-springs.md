@@ -115,7 +115,7 @@ _No relationships extracted yet._
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:38:18](/episodes/ep-9k2xrAC0H88.md#t-00-38-03) (Claim) **Baron Coleman** (via quoted speech): ["The SAM000 flight went from Colorado Springs to Las Vegas, arriving at..."](/statements/statement-cf82c67961c5.md)
-  - Also about: [Las Vegas](/entities/gpe-las-vegas.md)
+  - Also about: [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
 
 </details>
 

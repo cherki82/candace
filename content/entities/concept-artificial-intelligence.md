@@ -1,6 +1,6 @@
 ---
 title: "Artificial intelligence"
-description: "Artificial intelligence (Concepts) - 30 mentions"
+description: "Artificial intelligence (Concepts) - 42 mentions"
 id: "concept-artificial-intelligence"
 type: "CONCEPT"
 aliases:
@@ -22,11 +22,11 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#t-00-11-36">2026-01-05 · 00:12:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#t-00-49-04">2026-02-10 · 00:49:10</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#t-00-50-42">2026-03-24 · 00:50:51</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>42</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -47,6 +47,11 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 <a href="/episodes/ep-CEF7gQRWYCE.md#t-00-35-10" style="--pulse-height:12%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#t-00-37-47" style="--pulse-height:12%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#t-00-49-04" style="--pulse-height:12%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#t-00-34-00" style="--pulse-height:12%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#t-00-28-42" style="--pulse-height:12%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#t-00-49-03" style="--pulse-height:25%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#t-00-37-38" style="--pulse-height:88%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 7 mentions" title="2026-03-23 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#t-00-50-42" style="--pulse-height:12%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,6 +69,11 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#t-00-35-10) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#t-00-37-47) | 1 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#t-00-49-04) | 1 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#t-00-34-00) | 1 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#t-00-28-42) | 1 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#t-00-49-03) | 2 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#t-00-37-38) | 7 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#t-00-50-42) | 1 |
 
 </details>
 </section>
@@ -71,7 +81,68 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>
+
+**[00:50:51](/episodes/ep-SgVcnx4Oh30.md#t-00-50-42)**
+> "uses smart AI technology"
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (7 mentions)</summary>
+
+**[00:38:06](/episodes/ep-B9TyCs-6o_0.md#t-00-37-38)**
+> "2026 and AI is already changing how we work"
+
+**[00:38:11](/episodes/ep-B9TyCs-6o_0.md#t-00-37-38)**
+> "...e people who learn how to use AI now are the ones who get ahead."
+
+**[00:38:20](/episodes/ep-B9TyCs-6o_0.md#t-00-38-20)**
+> "... comes in. Outskill is a free AI learning platform that's designed to help you act..."
+
+**[00:38:28](/episodes/ep-B9TyCs-6o_0.md#t-00-38-20)**
+> "...hey're hosting a two-day live AI mastermind. In just 16 hours, you will learn how ..."
+
+**[00:38:40](/episodes/ep-B9TyCs-6o_0.md#t-00-38-20)**
+> "...get access to their exclusive AI survival hackbook, which will keep you informed a..."
+
+**[00:38:50](/episodes/ep-B9TyCs-6o_0.md#t-00-38-20)**
+> "...ve been meaning to figure out AI but didn't know where to start, check out OutSkil..."
+
+**[00:43:33](/episodes/ep-B9TyCs-6o_0.md#t-00-43-11)**
+> "...n, tweeted this. Is this some AI production? If not, what a total disgrace."
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
+
+**[00:28:42](/episodes/ep-k8ueJdPFel4.md#t-00-28-42)**
+> "...hy these weird videos look so AI when he's speaking. I mean, there are rumors that..."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (2 mentions)</summary>
+
+**[00:49:31](/episodes/ep-I0OaY6Gryqk.md#t-00-49-03)**
+> "it just feels AI"
+
+**[00:54:32](/episodes/ep-I0OaY6Gryqk.md#t-00-54-32)**
+> "...ey're using stunt doubles and AI and they're now doing a lot to show that he is al..."
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
+
+**[00:34:00](/episodes/ep-i8m_6D4QGmk.md#t-00-34-00)**
+> "an AI image"
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>
@@ -233,7 +304,14 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Artificial intelligence (3)</strong></summary>
+<summary><strong class="section-title">Statements about Artificial intelligence (4)</strong></summary>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
+
+- [00:57:19](/episodes/ep-i8m_6D4QGmk.md#t-00-57-19) (Accusation) **Candace Owens**: ["Bots and fake online accounts are being deployed to create the appeara..."](/statements/statement-9060a4aead35.md)
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>

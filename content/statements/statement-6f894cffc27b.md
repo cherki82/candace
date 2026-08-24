@@ -23,7 +23,7 @@ type: "factual_claim"
 ## About
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
-- [Mikey McCoy](/entities/person-mikey-mccoy.md) (person)
+- [Michael McCoy](/entities/person-michael-mccoy.md) (person)
 
 ## Source
 

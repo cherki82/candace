@@ -1,6 +1,6 @@
 ---
 title: "Notre Dame Preparatory High School"
-description: "Notre Dame Preparatory High School (Organizations) - 5 mentions"
+description: "Notre Dame Preparatory High School (Organizations) - 7 mentions"
 id: "org-notre-dame-preparatory-high-school"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Notre Dame Preparatory High School 2024–2025 School Profile](https://
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-notre-dame-preparatory-high-school-t-00-08-29">2026-02-28 · 00:08:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-org-notre-dame-preparatory-high-school-t-00-15-25">2026-03-03 · 00:15:37</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-notre-dame-preparatory-high-school-t-00-02-56">2026-03-18 · 00:03:25</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [Notre Dame Preparatory High School 2024–2025 School Profile](https://
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-notre-dame-preparatory-high-school-t-00-08-29" style="--pulse-height:100%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 4 mentions" title="2026-02-28 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-org-notre-dame-preparatory-high-school-t-00-15-25" style="--pulse-height:25%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-notre-dame-preparatory-high-school-t-00-02-24" style="--pulse-height:50%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 2 mentions" title="2026-03-18 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Notre Dame Preparatory High School 2024–2025 School Profile](https://
 |---|---|---:|
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-notre-dame-preparatory-high-school-t-00-08-29) | 4 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-notre-dame-preparatory-high-school-t-00-15-25) | 1 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-org-notre-dame-preparatory-high-school-t-00-02-24) | 2 |
 
 </details>
 </section>
@@ -51,7 +53,18 @@ Source: [Notre Dame Preparatory High School 2024–2025 School Profile](https://
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (2 mentions)</summary>
+
+**[00:02:24](/episodes/ep-_vg7ucP1E0g.md#ent-org-notre-dame-preparatory-high-school-t-00-02-24)**
+> "And then we happened upon some interesting information. We learned that Tesseract afterward became Notre Dame Prep."
+
+**[00:03:25](/episodes/ep-_vg7ucP1E0g.md#ent-org-notre-dame-preparatory-high-school-t-00-02-56)**
+> "...when they then turned it into Notre Dame Prep, where Erika (Erika Kirk) then enrolls for high s..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1 mentions)</summary>

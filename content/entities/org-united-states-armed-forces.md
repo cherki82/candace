@@ -1,6 +1,6 @@
 ---
 title: "United States Armed Forces"
-description: "United States Armed Forces (Organizations) - 6 mentions"
+description: "United States Armed Forces (Organizations) - 13 mentions"
 id: "org-united-states-armed-forces"
 type: "ORG"
 aliases:
@@ -19,42 +19,50 @@ _Type: Organizations_
 
 **Categories:** government, military
 
-> **Possibly overlapping entity records:** [United States military](/entities/org-united-states-military). These records share a name or alias; compare their histories before treating either count as complete.
-
 **Entity verification:** verified
 > The Department of Defense official branches page identifies the armed forces of the United States and their constituent services.
 Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branches/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-armed-forces-t-00-32-35">2026-01-12 · 00:32:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-armed-forces-t-00-18-13">2026-03-03 · 00:18:13</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-org-united-states-armed-forces-t-00-50-59">2025-11-05 · 00:51:29</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-united-states-armed-forces-t-00-57-25">2026-03-06 · 00:57:34</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>19</strong></div>
 <div><span>Relationships</span><strong>7</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-united-states-armed-forces-t-00-16-16">REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-armed-forces-t-00-18-18">Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-LATnak75Si0.md#ent-org-united-states-armed-forces-t-00-50-59" style="--pulse-height:50%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-armed-forces-t-00-18-18" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-united-states-armed-forces-t-00-24-09" style="--pulse-height:50%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-org-united-states-armed-forces-t-00-18-15" style="--pulse-height:50%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-armed-forces-t-00-32-35" style="--pulse-height:50%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-armed-forces-t-00-35-31" style="--pulse-height:50%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-united-states-armed-forces-t-00-13-05" style="--pulse-height:50%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-united-states-armed-forces-t-00-16-16" style="--pulse-height:100%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-armed-forces-t-00-18-13" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-united-states-armed-forces-t-00-57-25" style="--pulse-height:50%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-org-united-states-armed-forces-t-00-50-59) | 1 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-armed-forces-t-00-18-18) | 2 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-united-states-armed-forces-t-00-24-09) | 1 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-united-states-armed-forces-t-00-18-15) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-armed-forces-t-00-32-35) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-armed-forces-t-00-35-31) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-united-states-armed-forces-t-00-13-05) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-org-united-states-armed-forces-t-00-16-16) | 2 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-armed-forces-t-00-18-13) | 1 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-united-states-armed-forces-t-00-57-25) | 1 |
 
 </details>
 </section>
@@ -62,7 +70,15 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>
+
+**[00:57:34](/episodes/ep-DdPjoy5W-wY.md#ent-org-united-states-armed-forces-t-00-57-25)**
+> "... join the EU. We never wanted American military bases on our soil and we never wanted our money s..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1 mentions)</summary>
@@ -104,6 +120,41 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 
 **[00:32:46](/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-armed-forces-t-00-32-35)**
 > "...ate despite having the entire United States military at their beck and call and being able to mass mur..."
+
+</details>
+
+<details>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>
+
+**[00:18:28](/episodes/ep-DqGNvi36ol8.md#ent-org-united-states-armed-forces-t-00-18-15)**
+> "It was not another United States military color revolution."
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
+
+**[00:24:34](/episodes/ep-a-e7HC6SeK8.md#ent-org-united-states-armed-forces-t-00-24-09)**
+> "...hich commences—that joint operation that we told you about, which is biennial between Egypt and the United States military and other countries that are coming together. And it is being reported that it is going to run thro..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+
+**[00:18:42](/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-armed-forces-t-00-18-18)**
+> "...his for you: "Tyler Robinson was never part of the French Foreign Legion. If he did not serve in an American military unit, he could not have trained with the French Foreign Legion," end quote. That's quite a way to d..."
+
+**[00:56:02](/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-armed-forces-t-00-55-54)**
+> "...ng behind the scenes? It's almost like Tucker (Tucker Carlson) and I were being threatened from the United States military. And I should really say the global state military, because I do believe that we are run by the mil..."
+
+</details>
+
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
+
+**[00:51:29](/episodes/ep-LATnak75Si0.md#ent-org-united-states-armed-forces-t-00-50-59)**
+> "...dministration has been infiltrated, and there are extremely evil people that are at the helm of the United States military and that are... not caring at all about American lives in my viewpoint—not taking a stance whatsoev..."
 
 </details>
 
@@ -179,7 +230,29 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Armed Forces (14)</strong></summary>
+<summary><strong class="section-title">Statements about United States Armed Forces (19)</strong></summary>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (3)</summary>
+
+- [00:04:02](/episodes/ep-I0OaY6Gryqk.md#t-00-04-02) (Claim) **Candace Owens**: ["Shannon Kent was the first female combat death in Syria since operatio..."](/statements/statement-d489dcb7ed70.md)
+  - Also about: [Joe Kent](/entities/person-joe-kent.md), [Syria](/entities/gpe-syria.md)
+
+- [00:06:19](/episodes/ep-I0OaY6Gryqk.md#t-00-06-12) (Accusation) **Joe Kent** (via quoted document): ["Joe Kent described the war in which Shannon Kent died as manufactured ..."](/statements/statement-68ade835613a.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
+
+- [00:53:23](/episodes/ep-I0OaY6Gryqk.md#t-00-53-23) (Claim) **Benjamin Netanyahu** (via quoted speech): ["U.S. forces were doing incredible work alongside Israel, and Israel wa..."](/statements/statement-1f725d1325d2.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Israel](/entities/gpe-israel.md), [Iran](/entities/gpe-iran.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1)</summary>
+
+- [00:57:34](/episodes/ep-DdPjoy5W-wY.md#t-00-57-25) (Opinion) **Anonymous Source #1 (Ep DdPjoy5W-wY)** (via quoted post): ["A Romanian viewer says Romanians did not want to join the European Uni..."](/statements/statement-97a8cbf297d8.md)
+  - Also about: [Romania](/entities/gpe-romania.md), [European Union](/entities/org-european-union.md), [Ukraine](/entities/gpe-ukraine.md)
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (5)</summary>
@@ -242,6 +315,13 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 - [00:44:03](/episodes/ep-CMcktj3Egfo.md#t-00-43-55) (Accusation) **Candace Owens**: ["Candace Owens said she did not believe the U.S. military’s purpose abr..."](/statements/statement-eb6317325ddc.md)
 
 - [00:50:58](/episodes/ep-CMcktj3Egfo.md#t-00-50-35) (Accusation) **Candace Owens**: ["Senior U.S. military leaders operate as mercenary squads protecting cr..."](/statements/statement-b6ab19afdae2.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1)</summary>
+
+- [00:58:28](/episodes/ep-iHav0PPzUz8.md#t-00-57-53) (Opinion) **Candace Owens**: ["The military is behind psychological operations and the media is suppo..."](/statements/statement-62b8ab904e79.md)
 
 </details>
 

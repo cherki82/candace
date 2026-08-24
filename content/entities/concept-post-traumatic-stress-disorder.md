@@ -21,7 +21,7 @@ Source: [Post-Traumatic Stress Disorder (PTSD) - National Institute of Mental He
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-concept-post-traumatic-stress-disorder-t-00-45-47">2026-02-10 · 00:45:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-concept-post-traumatic-stress-disorder-t-00-45-47">2026-02-10 · 00:45:50</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-concept-post-traumatic-stress-disorder-t-00-54-36">2026-03-04 · 00:54:46</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -35,12 +35,14 @@ Source: [Post-Traumatic Stress Disorder (PTSD) - National Institute of Mental He
 <p>Highest activity: <a href="/episodes/ep-ti5Fxrvegno.md#ent-concept-post-traumatic-stress-disorder-t-00-45-47">Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-concept-post-traumatic-stress-disorder-t-00-45-47" style="--pulse-height:100%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-concept-post-traumatic-stress-disorder-t-00-54-36" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-concept-post-traumatic-stress-disorder-t-00-45-47) | 1 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-concept-post-traumatic-stress-disorder-t-00-54-36) | 1 |
 
 </details>
 </section>
@@ -51,18 +53,18 @@ Source: [Post-Traumatic Stress Disorder (PTSD) - National Institute of Mental He
 <summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 <details>
-<summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
 
-**[00:45:50](/episodes/ep-ti5Fxrvegno.md#ent-concept-post-traumatic-stress-disorder-t-00-45-47)**
-> "Coming back with PTSD."
+**[00:54:46](/episodes/ep-y8lak3CRwDw.md#ent-concept-post-traumatic-stress-disorder-t-00-54-36)**
+> "They come back with PTSD from having served overseas. There's zero benefit..."
 
 </details>
 
 <details>
-<summary>ep-y8lak3CRwDw (1 mentions)</summary>
+<summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>
 
-**[00:54:46](/episodes/ep-y8lak3CRwDw.md#t-00-54-46)**
-> "They come back with PTSD from having served overseas. There's zero benefit..."
+**[00:45:50](/episodes/ep-ti5Fxrvegno.md#ent-concept-post-traumatic-stress-disorder-t-00-45-47)**
+> "Coming back with PTSD."
 
 </details>
 

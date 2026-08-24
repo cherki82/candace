@@ -1,6 +1,6 @@
 ---
 title: "Lyndon B. Johnson"
-description: "Lyndon B. Johnson (People) - 12 mentions"
+description: "Lyndon B. Johnson (People) - 13 mentions"
 id: "person-lyndon-b-johnson"
 type: "PERSON"
 aliases:
@@ -25,9 +25,9 @@ Source: [Lyndon B. Johnson - LBJ Library](https://www.lbjlibrary.org/life-and-le
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-person-lyndon-b-johnson-t-00-49-54">2026-01-12 · 00:49:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-lyndon-b-johnson-t-00-08-24">2026-03-02 · 00:08:54</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-lyndon-b-johnson-t-00-04-23">2026-03-11 · 00:04:37</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -45,6 +45,7 @@ Source: [Lyndon B. Johnson - LBJ Library](https://www.lbjlibrary.org/life-and-le
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-lyndon-b-johnson-t-00-48-38" style="--pulse-height:67%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-lyndon-b-johnson-t-00-15-44" style="--pulse-height:67%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-lyndon-b-johnson-t-00-08-24" style="--pulse-height:67%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-lyndon-b-johnson-t-00-04-23" style="--pulse-height:33%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +58,7 @@ Source: [Lyndon B. Johnson - LBJ Library](https://www.lbjlibrary.org/life-and-le
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-lyndon-b-johnson-t-00-48-38) | 2 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-lyndon-b-johnson-t-00-15-44) | 2 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-lyndon-b-johnson-t-00-08-24) | 2 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-person-lyndon-b-johnson-t-00-04-23) | 1 |
 
 </details>
 </section>
@@ -64,7 +66,15 @@ Source: [Lyndon B. Johnson - LBJ Library](https://www.lbjlibrary.org/life-and-le
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1 mentions)</summary>
+
+**[00:04:37](/episodes/ep-H9p2ZGHAs9A.md#ent-person-lyndon-b-johnson-t-00-04-23)**
+> "And his wife did a complete 180 like LBJ, inviting, frankly, deranged Zionists into the fold immediately. Ben Shapiro, who was, in fact, an enemy to her husband, effectively opened AmFest. She came out first and then Ben Shapiro came out second."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (2 mentions)</summary>

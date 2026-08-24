@@ -1,6 +1,6 @@
 ---
 title: "Kash Patel"
-description: "Kash Patel (People) - 129 mentions"
+description: "Kash Patel (People) - 160 mentions"
 id: "person-kash-patel"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-kash-patel-t-00-08-42">2025-09-17 · 00:09:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-kash-patel-t-00-43-52">2026-02-13 · 00:44:00</a></strong></div>
-<div><span>Episodes</span><strong>36</strong></div>
-<div><span>Mentions</span><strong>129</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-kash-patel-t-00-55-07">2026-03-24 · 00:55:07</a></strong></div>
+<div><span>Episodes</span><strong>43</strong></div>
+<div><span>Mentions</span><strong>160</strong></div>
 <div><span>Statements by</span><strong>9</strong></div>
-<div><span>Statements about</span><strong>16</strong></div>
-<div><span>Relationships</span><strong>27</strong></div>
+<div><span>Statements about</span><strong>27</strong></div>
+<div><span>Relationships</span><strong>31</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -72,6 +72,13 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-kash-patel-t-00-29-56" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-kash-patel-t-00-24-08" style="--pulse-height:15%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-kash-patel-t-00-43-07" style="--pulse-height:15%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-person-kash-patel-t-00-50-16" style="--pulse-height:8%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-kash-patel-t-00-17-51" style="--pulse-height:8%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-kash-patel-t-00-12-49" style="--pulse-height:31%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 4 mentions" title="2026-03-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-kash-patel-t-00-00-01" style="--pulse-height:54%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 7 mentions" title="2026-03-12 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-kash-patel-t-00-28-52" style="--pulse-height:23%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-kash-patel-t-00-03-52" style="--pulse-height:15%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-kash-patel-t-00-33-24" style="--pulse-height:23%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 3 mentions" title="2026-03-24 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -112,6 +119,13 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-kash-patel-t-00-29-56) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-kash-patel-t-00-24-08) | 2 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-kash-patel-t-00-43-07) | 2 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-person-kash-patel-t-00-50-16) | 1 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-kash-patel-t-00-17-51) | 1 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-kash-patel-t-00-12-49) | 4 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-kash-patel-t-00-00-01) | 7 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-kash-patel-t-00-28-52) | 3 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-kash-patel-t-00-03-52) | 2 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-kash-patel-t-00-33-24) | 3 |
 
 </details>
 </section>
@@ -119,7 +133,105 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (129)</strong></summary>
+<summary><strong class="section-title">Raw mentions (160)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (3 mentions)</summary>
+
+**[00:33:38](/episodes/ep-SgVcnx4Oh30.md#ent-person-kash-patel-t-00-33-24)**
+> "interviewing Kash Patel"
+
+**[00:33:50](/episodes/ep-SgVcnx4Oh30.md#ent-person-kash-patel-t-00-33-50)**
+> "cash patel's all like i never do a live show he's calling in l..."
+
+**[00:55:07](/episodes/ep-SgVcnx4Oh30.md#ent-person-kash-patel-t-00-55-07)**
+> "Yeah, they love they love Kash Patel. They cast Sean Michelle. They don't care. You wo..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (2 mentions)</summary>
+
+**[00:04:09](/episodes/ep-B9TyCs-6o_0.md#ent-person-kash-patel-t-00-03-52)**
+> "had it not been for Kash Patel"
+
+**[00:04:18](/episodes/ep-B9TyCs-6o_0.md#ent-person-kash-patel-t-00-04-18)**
+> "...g was brewing between him and Kash Patel right that made it into the daily mail at some po..."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (3 mentions)</summary>
+
+**[00:29:06](/episodes/ep-I0OaY6Gryqk.md#ent-person-kash-patel-t-00-28-52)**
+> "Joe Kent was one of the people who bumped heads with Kash Patel"
+
+**[00:29:15](/episodes/ep-I0OaY6Gryqk.md#ent-person-kash-patel-t-00-28-52)**
+> "Kash Patel blocked any investigation into whether or not for..."
+
+**[00:44:04](/episodes/ep-I0OaY6Gryqk.md#ent-person-kash-patel-t-00-43-37)**
+> "...a disgusting question to ask. Kash Patel, no evidence of any sex trafficking."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (7 mentions)</summary>
+
+**[00:00:01](/episodes/ep-5-HUyv9LyMg.md#ent-person-kash-patel-t-00-00-01)**
+> "...or you? Trump (Donald Trump), Kash Patel, Jared Kushner. Why does it now feel like everyon..."
+
+**[00:06:29](/episodes/ep-5-HUyv9LyMg.md#ent-person-kash-patel-t-00-06-20)**
+> "...t looks like Donald Trump and Kash Patel and Pam Bondi colluded to lie to the American peo..."
+
+**[00:06:57](/episodes/ep-5-HUyv9LyMg.md#ent-person-kash-patel-t-00-06-57)**
+> "Remember, Kash Patel said there was no evidence of trafficking in the ..."
+
+**[00:10:38](/episodes/ep-5-HUyv9LyMg.md#ent-person-kash-patel-t-00-10-31)**
+> "...rate what's going on here. So Kash Patel—Kash 33 Patel—and the president of the United Sta..."
+
+**[00:12:14](/episodes/ep-5-HUyv9LyMg.md#ent-person-kash-patel-t-00-11-54)**
+> "33 Patel (Kash Patel) wanted to help Andrew Kolvet camouflage. By way ..."
+
+**[00:32:50](/episodes/ep-5-HUyv9LyMg.md#ent-person-kash-patel-t-00-32-20)**
+> "...lling us the truth. And also, Kash Patel has been caught lying. I don't understand how Kas..."
+
+**[00:55:48](/episodes/ep-5-HUyv9LyMg.md#ent-person-kash-patel-t-00-55-16)**
+> "...igation, what he thinks about Kash Patel. I should probably go watch his interview with Br..."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (4 mentions)</summary>
+
+**[00:13:15](/episodes/ep-ZzAT2xijKGQ.md#ent-person-kash-patel-t-00-12-49)**
+> "Kash Patel, the NSA director"
+
+**[00:12:33](/episodes/ep-ZzAT2xijKGQ.md#ent-person-kash-patel-t-00-12-14)**
+> "... show doing a phone call with Kash Patel. But actually, he's here."
+
+**[00:13:26](/episodes/ep-ZzAT2xijKGQ.md#ent-person-kash-patel-t-00-13-26)**
+> "...Neff and Andrew Kolvet hosted Kash Patel on Charlie Kirk's show. It appeared as though Kas..."
+
+**[00:14:25](/episodes/ep-ZzAT2xijKGQ.md#ent-person-kash-patel-t-00-14-07)**
+> "33 Kash Patel. Like, why do that at all? In that particular epi..."
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
+
+**[00:18:09](/episodes/ep-i8m_6D4QGmk.md#ent-person-kash-patel-t-00-17-51)**
+> "Kash Patel continually stressing 33 hours"
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
+
+**[00:50:30](/episodes/ep-y8lak3CRwDw.md#ent-person-kash-patel-t-00-50-16)**
+> "...ow it well I mean where is uh Kash Patel from isn't he from Reno or Las Vegas you'll have ..."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
@@ -681,10 +793,40 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 <details>
-<summary>ep-y8lak3CRwDw (1 mentions)</summary>
+<summary>ep-5m-Wn6Pr5rM (11 mentions)</summary>
 
-**[00:50:30](/episodes/ep-y8lak3CRwDw.md#t-00-50-30)**
-> "...ow it well I mean where is uh Kash Patel from isn't he from Reno or Las Vegas you'll have ..."
+**[00:00:58](/episodes/ep-5m-Wn6Pr5rM.md#t-00-00-58)**
+> "Kash Patel"
+
+**[00:28:01](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-01)**
+> "... am just going to see this as Kash Patel's revenge."
+
+**[00:28:15](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-15)**
+> "I think when Kash Patel went in to the FBI, there was kind of this ideal ..."
+
+**[00:31:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-10)**
+> "...th the purpose of taking down Kash Patel."
+
+**[00:35:16](/episodes/ep-5m-Wn6Pr5rM.md#t-00-35-16)**
+> "... that doesn't matter. This is Kash Patel's girlfriend."
+
+**[00:35:35](/episodes/ep-5m-Wn6Pr5rM.md#t-00-35-35)**
+> "...id that he was standing up to cash patel So but she's now woven this all together because ..."
+
+**[00:39:26](/episodes/ep-5m-Wn6Pr5rM.md#t-00-39-26)**
+> "...at we're saying what you what Kash says about the Charlie investigation and they don..."
+
+**[00:46:37](/episodes/ep-5m-Wn6Pr5rM.md#t-00-46-37)**
+> "... telling you, we are watching Kash's revenge. He's angry. It's so obvious that he's ..."
+
+**[00:47:30](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-30)**
+> "...as um and I know that him and Kash are clashing or whatever it is but she mentioned ..."
+
+**[00:50:54](/episodes/ep-5m-Wn6Pr5rM.md#t-00-50-54)**
+> "...ce he was exactly who brought Kash Patel into the Patriot movement through the ReAwaken Am..."
+
+**[00:51:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-51-07)**
+> "... really follow. It seems like Kash Patel is a lot of people."
 
 </details>
 
@@ -701,6 +843,18 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:15:05](/episodes/ep-ja26iltROkM.md#t-00-14-38): “Here, as the Director of the FBI, I am committed to ensuring the investigation into Charlie Kirk's assassination is thorough”
 - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:08:16](/episodes/ep-Kmt6HgRjckU.md#t-00-08-04): “If there's anything to it, this FBI will respond to it.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Accused By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:29:15](/episodes/ep-I0OaY6Gryqk.md#t-00-28-52): “Kash Patel blocked any investigation into whether or not foreign actors could have been involved, said, oh, there's no evidence for that, because that would have shifted the investigation into Tulsi's office, which is where Joe Kent was working.”
 
 </details>
 
@@ -796,7 +950,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 <details>
-<summary>Interviewed By (2)</summary>
+<summary>Interviewed By (4)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -812,21 +966,30 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 
 </details>
 
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:13:26](/episodes/ep-ZzAT2xijKGQ.md#t-00-12-49): “Two days ago, Thursday, January 29th, Blake Neff and Andrew Kolvet hosted Kash Patel on Charlie Kirk's show.”
+- [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:33:38](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24): “Andrew (Andrew Kolvet) visited the White House the day before the Epstein files were released, but he pretended that he was in Arizona live on the Charlie Kirk show interviewing Kash Patel.”
+
+</details>
+
+- **[Blake Neff](/entities/person-blake-neff.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:13:26](/episodes/ep-ZzAT2xijKGQ.md#t-00-12-49): “Two days ago, Thursday, January 29th, Blake Neff and Andrew Kolvet hosted Kash Patel on Charlie Kirk's show.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Lives In (2)</summary>
-
-- **[Las Vegas](/entities/gpe-las-vegas.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:38:20](/episodes/ep-9k2xrAC0H88.md#t-00-38-03): “Las Vegas, you'll recall, is the home of FBI Director Kash Patel.”
-
-</details>
+<summary>Lives In (1)</summary>
 
 - **[Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:38:20](/episodes/ep-9k2xrAC0H88.md#t-00-38-03): “Las Vegas, you'll recall, is the home of FBI Director Kash Patel.”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:34:39](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-39): “He lives in ... Las Vegas with ... a dude.”
 
 </details>
@@ -847,7 +1010,14 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 <details>
-<summary>Referenced By (13)</summary>
+<summary>Referenced By (15)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:29:15](/episodes/ep-I0OaY6Gryqk.md#t-00-28-52): “Kash Patel blocked any investigation into whether or not foreign actors could have been involved, said, oh, there's no evidence for that, because that would have shifted the investigation into Tulsi's office, which is where Joe Kent was working.”
+
+</details>
 
 - **[Robert Bowles](/entities/person-robert-bowles.md)** appointed by this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -928,16 +1098,25 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 
 </details>
 
-- **[Las Vegas](/entities/gpe-las-vegas.md)** residence of this
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:13:26](/episodes/ep-ZzAT2xijKGQ.md#t-00-12-49): “Two days ago, Thursday, January 29th, Blake Neff and Andrew Kolvet hosted Kash Patel on Charlie Kirk's show.”
+- [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:33:38](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24): “Andrew (Andrew Kolvet) visited the White House the day before the Epstein files were released, but he pretended that he was in Arizona live on the Charlie Kirk show interviewing Kash Patel.”
+
+</details>
+
+- **[Blake Neff](/entities/person-blake-neff.md)** interviewed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:38:20](/episodes/ep-9k2xrAC0H88.md#t-00-38-03): “Las Vegas, you'll recall, is the home of FBI Director Kash Patel.”
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:13:26](/episodes/ep-ZzAT2xijKGQ.md#t-00-12-49): “Two days ago, Thursday, January 29th, Blake Neff and Andrew Kolvet hosted Kash Patel on Charlie Kirk's show.”
 
 </details>
 
 - **[Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)** residence of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:38:20](/episodes/ep-9k2xrAC0H88.md#t-00-38-03): “Las Vegas, you'll recall, is the home of FBI Director Kash Patel.”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:34:39](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-39): “He lives in ... Las Vegas with ... a dude.”
 
 </details>
@@ -999,7 +1178,58 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Kash Patel (16)</strong></summary>
+<summary><strong class="section-title">Statements about Kash Patel (27)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1)</summary>
+
+- [00:33:38](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24) (Accusation) **Candace Owens**: ["Candace Owens accused Andrew Kolvet of previously visiting the White H..."](/statements/statement-cdc9c0117a68.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [White House](/entities/org-white-house.md)
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1)</summary>
+
+- [00:29:06](/episodes/ep-I0OaY6Gryqk.md#t-00-28-52) (Accusation) **Candace Owens**: ["Kash Patel blocked investigation into whether foreign actors were invo..."](/statements/statement-c94e2d48b97f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Joe Kent](/entities/person-joe-kent.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (5)</summary>
+
+- [00:06:29](/episodes/ep-5-HUyv9LyMg.md#t-00-06-20) (Accusation) **Candace Owens**: ["Donald Trump, Kash Patel, and Pam Bondi colluded to lie to the America..."](/statements/statement-6d0a71b2d015.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Pam Bondi](/entities/person-pam-bondi.md)
+
+- [00:06:40](/episodes/ep-5-HUyv9LyMg.md#t-00-06-20) (Accusation) **Candace Owens**: ["Donald Trump, Kash Patel, and Pam Bondi intentionally covered up for J..."](/statements/statement-28e106a196c3.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Pam Bondi](/entities/person-pam-bondi.md), [Jared Kushner](/entities/person-jared-kushner.md)
+
+- [00:06:57](/episodes/ep-5-HUyv9LyMg.md#t-00-06-57) (Claim) **Candace Owens**: ["Kash Patel said the Epstein files contained no evidence of trafficking..."](/statements/statement-380248372a51.md)
+  - Also about: [Tal Alexander](/entities/person-tal-alexander.md), [Oren Alexander](/entities/person-oren-alexander.md), [Alon Alexander](/entities/person-alon-alexander.md)
+
+- [00:11:11](/episodes/ep-5-HUyv9LyMg.md#t-00-11-11) (Accusation) **Candace Owens**: ["The Trump administration used Epstein-file redactions to protect rapis..."](/statements/statement-e53db9adb61e.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Pam Bondi](/entities/person-pam-bondi.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md)
+
+- [00:12:07](/episodes/ep-5-HUyv9LyMg.md#t-00-11-54) (Accusation) **Candace Owens**: ["Kash Patel helped Andrew Kolvet camouflage a private Washington meetin..."](/statements/statement-32506093725c.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1)</summary>
+
+- [00:13:26](/episodes/ep-ZzAT2xijKGQ.md#t-00-12-49) (Accusation) **Candace Owens**: ["The January 29 Charlie Kirk Show episode with Kash Patel was prerecord..."](/statements/statement-a29214ade8fb.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Blake Neff](/entities/person-blake-neff.md), [White House](/entities/org-white-house.md)
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
+
+- [00:18:09](/episodes/ep-i8m_6D4QGmk.md#t-00-17-51) (Accusation) **Candace Owens**: ["Kash Patel's repeated emphasis on 33 hours was not random and appeared..."](/statements/statement-e2ff502258ee.md)
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2)</summary>
@@ -1100,6 +1330,16 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 
 - [00:17:31](/episodes/ep-ja26iltROkM.md#t-00-17-09) (Claim) **Candace Owens**: ["Derek Maxfield said they got permission from air traffic control to tu..."](/statements/statement-228561451b18.md)
   - Also about: [Derek Maxfield](/entities/person-derek-maxfield.md)
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (2)</summary>
+
+- [00:29:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-29-10) (Accusation) **Candace Owens**: ["Kash Patel used an FBI plane to fly to see Alexis Wilkins and sent a p..."](/statements/statement-201c56acbf00.md)
+  - Also about: [Alexis Wilkins](/entities/person-alexis-wilkins.md), [FBI](/entities/org-fbi.md)
+
+- [00:46:37](/episodes/ep-5m-Wn6Pr5rM.md#t-00-46-37) (Opinion) **Candace Owens**: ["We are watching Kash Patel's revenge; he is angry."](/statements/statement-9d70db4a8703.md)
 
 </details>
 

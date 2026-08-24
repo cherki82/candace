@@ -1,6 +1,6 @@
 ---
 title: "The Washington Post"
-description: "The Washington Post (Organizations) - 5 mentions"
+description: "The Washington Post (Organizations) - 7 mentions"
 id: "org-washington-post"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [About The Washington Post](https://www.washingtonpost.com/about-the-pos
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-washington-post-t-00-26-10">2026-01-07 · 00:26:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-washington-post-t-00-50-52">2026-02-13 · 00:51:02</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-washington-post-t-00-40-36">2026-03-09 · 00:40:50</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,6 +38,7 @@ Source: [About The Washington Post](https://www.washingtonpost.com/about-the-pos
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-washington-post-t-00-26-10" style="--pulse-height:33%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-washington-post-t-00-44-01" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-washington-post-t-00-50-52" style="--pulse-height:33%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-washington-post-t-00-39-51" style="--pulse-height:67%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [About The Washington Post](https://www.washingtonpost.com/about-the-pos
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-washington-post-t-00-26-10) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-washington-post-t-00-44-01) | 3 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-washington-post-t-00-50-52) | 1 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-washington-post-t-00-39-51) | 2 |
 
 </details>
 </section>
@@ -53,7 +55,18 @@ Source: [About The Washington Post](https://www.washingtonpost.com/about-the-pos
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (2 mentions)</summary>
+
+**[00:39:59](/episodes/ep-i8m_6D4QGmk.md#ent-org-washington-post-t-00-39-51)**
+> "This is from The Washington Post"
+
+**[00:40:50](/episodes/ep-i8m_6D4QGmk.md#ent-org-washington-post-t-00-40-36)**
+> "...h, that's good. I'm glad that the Washington Post noted that people are everyone's talking about Mo..."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
@@ -111,6 +124,19 @@ _No relationships extracted yet._
 
 - [00:55:51](/episodes/ep-wcD2khO3rOA.md#t-00-55-40) [✓] (Claim) ["Money from Japan and Korea funded Moon-affiliated U.S. operations, but investiga..."](/statements/statement-29a1b0212d1b.md)
   - About: [Unification Church](/entities/org-unification-church.md), [Japan](/entities/gpe-japan.md), [South Korea](/entities/gpe-south-korea.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about The Washington Post (1)</strong></summary>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
+
+- [00:39:59](/episodes/ep-i8m_6D4QGmk.md#t-00-39-51) (Citation) **Candace Owens**: ["Bayer is the only U.S. company manufacturing a form of elemental phosp..."](/statements/statement-9b69b5de3d6b.md)
+  - Also about: [Bayer AG](/entities/org-bayer-ag.md), [United States](/entities/gpe-united-states.md)
 
 </details>
 

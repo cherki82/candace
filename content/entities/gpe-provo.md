@@ -1,6 +1,6 @@
 ---
 title: "Provo"
-description: "Provo (Places) - 77 mentions"
+description: "Provo (Places) - 95 mentions"
 id: "gpe-provo"
 type: "GPE"
 aliases:
@@ -24,11 +24,11 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-gpe-provo-t-00-18-15">2025-09-19 · 00:18:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-provo-t-00-24-40">2026-02-04 · 00:24:43</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>77</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-provo-t-00-40-26">2026-03-24 · 00:40:54</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>95</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -52,6 +52,8 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-provo-t-01-07-21" style="--pulse-height:18%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 3 mentions" title="2026-01-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-provo-t-00-06-35" style="--pulse-height:12%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-provo-t-00-24-40" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-provo-t-00-15-11" style="--pulse-height:47%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 8 mentions" title="2026-03-23 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-provo-t-00-09-57" style="--pulse-height:41%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 7 mentions" title="2026-03-24 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -72,6 +74,8 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-provo-t-01-07-21) | 3 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-provo-t-00-06-35) | 2 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-provo-t-00-24-40) | 1 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-provo-t-00-15-11) | 8 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-provo-t-00-09-57) | 7 |
 
 </details>
 </section>
@@ -79,7 +83,62 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (77)</strong></summary>
+<summary><strong class="section-title">Raw mentions (95)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (7 mentions)</summary>
+
+**[00:10:13](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-provo-t-00-09-57)**
+> "right before they flew to Provo"
+
+**[00:17:33](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-provo-t-00-17-16)**
+> "...he flew from Scottsdale on to Provo, Utah, two flights that day."
+
+**[00:19:21](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-provo-t-00-19-08)**
+> "...e that took his wife later to Provo, because then you would chart, you know, that pla..."
+
+**[00:23:36](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-provo-t-00-23-36)**
+> "...lane was coming in to land at Provo, and it tells us you can go onto the ADS-B exchan..."
+
+**[00:39:16](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-provo-t-00-39-08)**
+> "... scottsdale and it lands into provo so that very much could be um Erika (Erika Kirk) ..."
+
+**[00:40:26](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-provo-t-00-40-26)**
+> "...en she would have landed into provo oh no that one doesn't land in provo go down i'm ..."
+
+**[00:40:54](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-provo-t-00-40-26)**
+> "...his one is going to land into Provo at 436 p.m. way too late. Andrew (Andrew Kolvet) ..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (8 mentions)</summary>
+
+**[00:15:39](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-provo-t-00-15-11)**
+> "racing to Provo alone on this plane"
+
+**[00:15:55](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-provo-t-00-15-55)**
+> "Finally, they land in Provo. The plane doors open and the first person he see..."
+
+**[00:23:50](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-provo-t-00-23-50)**
+> "...from Scottsdale and land into Provo at 3.31 p.m. And we're going to be told that Erik..."
+
+**[00:29:47](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-provo-t-00-29-47)**
+> "...t transponding on a tarmac in Provo, mysteriously just turned on. And I always felt l..."
+
+**[00:30:51](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-provo-t-00-30-51)**
+> "... pardon me from scottsdale to provo okay so you can just again screenshot this you ca..."
+
+**[00:35:49](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-provo-t-00-35-29)**
+> "... Scottsdale in the morning to Provo, then from Provo to Santa Barbara at 1024, then f..."
+
+**[00:36:04](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-provo-t-00-36-04)**
+> "...ands, like when it arrives in Provo at 10.06, you know, it happens to land at a time ..."
+
+**[00:36:28](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-provo-t-00-36-28)**
+> "...hen they land see it lands in provo and then right away that egyptian plane starts tr..."
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1 mentions)</summary>
@@ -384,6 +443,20 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 
 </details>
 
+<details>
+<summary>ep-5m-Wn6Pr5rM (3 mentions)</summary>
+
+**[00:02:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-43)**
+> "Provo"
+
+**[00:03:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-03-02)**
+> "...first goes from Scottsdale to Provo and she alleges and I don't believe her that that..."
+
+**[00:06:54](/episodes/ep-5m-Wn6Pr5rM.md#t-00-06-54)**
+> "...ou 20 minutes to get from the Provo Airport to Timpanogos Hospital. OK, now, by the t..."
+
+</details>
+
 </details>
 
 <details open>
@@ -419,7 +492,24 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Provo (11)</strong></summary>
+<summary><strong class="section-title">Statements about Provo (15)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (4)</summary>
+
+- [00:15:39](/episodes/ep-B9TyCs-6o_0.md#t-00-15-11) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet told Candace Owens that he was alone on a large plane an..."](/statements/statement-03794873b04c.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:23:40](/episodes/ep-B9TyCs-6o_0.md#t-00-23-05) (Citation) **Candace Owens**: ["Charlie Kirk's plane left Scottsdale at 2:31 p.m. and landed in Provo ..."](/statements/statement-54708be81601.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md)
+
+- [00:30:25](/episodes/ep-B9TyCs-6o_0.md#t-00-29-47) (Citation) **Candace Owens**: ["An Egyptian plane transponded in Provo from 10:05 a.m. to 11:34 a.m. U..."](/statements/statement-715e0bab86a0.md)
+  - Also about: [Egypt](/entities/gpe-egypt.md)
+
+- [00:35:49](/episodes/ep-B9TyCs-6o_0.md#t-00-35-29) (Citation) **Candace Owens**: ["The Yrefy-associated plane flew from Scottsdale to Provo, then Provo t..."](/statements/statement-8f40df02e151.md)
+  - Also about: [Yrefy](/entities/org-yrefy.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md), [Santa Barbara](/entities/gpe-santa-barbara.md)
+
+</details>
 
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1)</summary>

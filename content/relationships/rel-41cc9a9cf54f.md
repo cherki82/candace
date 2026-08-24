@@ -1,6 +1,6 @@
 ---
-title: "UVU based in Orem"
-description: "Evidence for the relationship: UVU based in Orem"
+title: "Utah Valley University based in Orem"
+description: "Evidence for the relationship: Utah Valley University based in Orem"
 relationship_id: "rel-41cc9a9cf54f"
 subject: "org-utah-valley-university"
 predicate: "based in"
@@ -9,7 +9,7 @@ object: "gpe-orem"
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [UVU](/entities/org-utah-valley-university) based in [Orem](/entities/gpe-orem)
+## [Utah Valley University](/entities/org-utah-valley-university) based in [Orem](/entities/gpe-orem)
 
 ### Evidence (1 mentions)
 
@@ -19,5 +19,5 @@ object: "gpe-orem"
 
 ### Related
 
-- [UVU](/entities/org-utah-valley-university)
+- [Utah Valley University](/entities/org-utah-valley-university)
 - [Orem](/entities/gpe-orem)

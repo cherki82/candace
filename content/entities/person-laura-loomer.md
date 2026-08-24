@@ -1,6 +1,6 @@
 ---
 title: "Laura Loomer"
-description: "Laura Loomer (People) - 26 mentions"
+description: "Laura Loomer (People) - 30 mentions"
 id: "person-laura-loomer"
 type: "PERSON"
 categories:
@@ -17,12 +17,12 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-laura-loomer-t-01-03-56">2025-09-16 · 01:04:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-laura-loomer-t-00-24-08">2026-02-11 · 00:24:34</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
-<div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-laura-loomer-t-00-06-25">2026-03-23 · 00:06:31</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Statements by</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -41,6 +41,9 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-laura-loomer-t-00-32-35" style="--pulse-height:20%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-laura-loomer-t-00-42-56" style="--pulse-height:20%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-laura-loomer-t-00-00-46" style="--pulse-height:80%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 4 mentions" title="2026-02-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-person-laura-loomer-t-00-45-40" style="--pulse-height:20%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-laura-loomer-t-00-15-14" style="--pulse-height:20%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-laura-loomer-t-00-06-25" style="--pulse-height:20%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +60,9 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-laura-loomer-t-00-32-35) | 1 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-laura-loomer-t-00-42-56) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-laura-loomer-t-00-00-46) | 4 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-laura-loomer-t-00-45-40) | 1 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-laura-loomer-t-00-15-14) | 1 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-laura-loomer-t-00-06-25) | 1 |
 
 </details>
 </section>
@@ -64,7 +70,31 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1 mentions)</summary>
+
+**[00:06:31](/episodes/ep-B9TyCs-6o_0.md#ent-person-laura-loomer-t-00-06-25)**
+> "...and I'm going to show you how Laura Loomer responded she he wrote Joe Kent has six bronze st..."
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
+
+**[00:45:40](/episodes/ep-k8ueJdPFel4.md#ent-person-laura-loomer-t-00-45-40)**
+> "Laura Loomer jumps in and she says, I have created a list of c..."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>
+
+**[00:15:14](/episodes/ep-I0OaY6Gryqk.md#ent-person-laura-loomer-t-00-15-14)**
+> "Laura Loomer follows up."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (4 mentions)</summary>
@@ -205,7 +235,26 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Criticized (1)</summary>
+<summary>Accused (2)</summary>
+
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:45:50](/episodes/ep-k8ueJdPFel4.md#t-00-45-40): “I have attached my supporting evidence. As I told the DOJ, Tucker Carlson isn't the only one who is likely violating FARA.”
+
+</details>
+
+- **[Joe Kent](/entities/person-joe-kent.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:06:31](/episodes/ep-B9TyCs-6o_0.md#t-00-06-25): “Laura Loomer ... why are you defending a known leaker who is undermining President Trump? There is now speculation that Joe Kent may have been leaking information to Candace Owens”
+
+</details>
+
+</details>
+
+<details>
+<summary>Criticized (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
@@ -217,10 +266,38 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 
 </details>
 
+- **[Joe Kent](/entities/person-joe-kent.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:15:14](/episodes/ep-I0OaY6Gryqk.md#t-00-15-14): “Laura Loomer follows up. It's so disrespectful to President Trump (Donald Trump), but don't say I didn't warn you about Joe Kent and his wife who works for the Trump (Donald Trump) hater and radical left Jew hater Max Blumenthal. Why does the White House allow these people to have wins?”
+
+</details>
+
+- **[Max Blumenthal](/entities/person-max-blumenthal.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:15:14](/episodes/ep-I0OaY6Gryqk.md#t-00-15-14): “Laura Loomer follows up. It's so disrespectful to President Trump (Donald Trump), but don't say I didn't warn you about Joe Kent and his wife who works for the Trump (Donald Trump) hater and radical left Jew hater Max Blumenthal. Why does the White House allow these people to have wins?”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (5)</summary>
+
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)** accused by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:45:50](/episodes/ep-k8ueJdPFel4.md#t-00-45-40): “I have attached my supporting evidence. As I told the DOJ, Tucker Carlson isn't the only one who is likely violating FARA.”
+
+</details>
+
+- **[Joe Kent](/entities/person-joe-kent.md)** accused by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:06:31](/episodes/ep-B9TyCs-6o_0.md#t-00-06-25): “Laura Loomer ... why are you defending a known leaker who is undermining President Trump? There is now speculation that Joe Kent may have been leaking information to Candace Owens”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -230,12 +307,42 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 
 </details>
 
+- **[Joe Kent](/entities/person-joe-kent.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:15:14](/episodes/ep-I0OaY6Gryqk.md#t-00-15-14): “Laura Loomer follows up. It's so disrespectful to President Trump (Donald Trump), but don't say I didn't warn you about Joe Kent and his wife who works for the Trump (Donald Trump) hater and radical left Jew hater Max Blumenthal. Why does the White House allow these people to have wins?”
+
+</details>
+
+- **[Max Blumenthal](/entities/person-max-blumenthal.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:15:14](/episodes/ep-I0OaY6Gryqk.md#t-00-15-14): “Laura Loomer follows up. It's so disrespectful to President Trump (Donald Trump), but don't say I didn't warn you about Joe Kent and his wife who works for the Trump (Donald Trump) hater and radical left Jew hater Max Blumenthal. Why does the White House allow these people to have wins?”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Laura Loomer (2)</strong></summary>
+<summary><strong class="section-title">Statements by Laura Loomer (4)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1)</summary>
+
+- [00:45:40](/episodes/ep-k8ueJdPFel4.md#t-00-45-40) [✓] (Accusation) ["Laura Loomer created a list of conservative influencers she believes take money ..."](/statements/statement-9aff611619c4.md)
+  - About: [Laura Loomer](/entities/person-laura-loomer.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Iran](/entities/gpe-iran.md)
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1)</summary>
+
+- [00:15:14](/episodes/ep-I0OaY6Gryqk.md#t-00-15-14) [✓] (Accusation) ["Joe Kent was disrespectful to Donald Trump, and Laura Loomer had warned about Ke..."](/statements/statement-995c2a6aa995.md)
+  - About: [Joe Kent](/entities/person-joe-kent.md), [Donald J. Trump](/entities/person-donald-trump.md), [Max Blumenthal](/entities/person-max-blumenthal.md)
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1)</summary>
@@ -256,7 +363,15 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Laura Loomer (2)</strong></summary>
+<summary><strong class="section-title">Statements about Laura Loomer (3)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1)</summary>
+
+- [00:45:40](/episodes/ep-k8ueJdPFel4.md#t-00-45-40) (Accusation) **Laura Loomer** (via quoted tweet): ["Laura Loomer created a list of conservative influencers she believes t..."](/statements/statement-9aff611619c4.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Iran](/entities/gpe-iran.md), [Russia](/entities/gpe-russia.md)
+
+</details>
 
 <details>
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1)</summary>

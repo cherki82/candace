@@ -1,6 +1,6 @@
 ---
 title: "Josh Hammer"
-description: "Josh Hammer (People) - 159 mentions"
+description: "Josh Hammer (People) - 164 mentions"
 id: "person-josh-hammer"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-josh-hammer-t-00-41-03">2025-09-16 · 00:41:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-josh-hammer-t-00-33-24">2026-02-13 · 00:33:53</a></strong></div>
-<div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>159</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-josh-hammer-t-00-44-25">2026-03-23 · 00:44:25</a></strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>164</strong></div>
 <div><span>Statements by</span><strong>12</strong></div>
-<div><span>Statements about</span><strong>29</strong></div>
+<div><span>Statements about</span><strong>30</strong></div>
 <div><span>Relationships</span><strong>24</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -64,6 +64,9 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-josh-hammer-t-00-38-46" style="--pulse-height:8%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 3 mentions" title="2026-02-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-josh-hammer-t-00-06-20" style="--pulse-height:15%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 8 mentions" title="2026-02-10 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-josh-hammer-t-00-33-24" style="--pulse-height:8%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-josh-hammer-t-00-05-00" style="--pulse-height:8%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-person-josh-hammer-t-00-02-29" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-josh-hammer-t-00-12-27" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 3 mentions" title="2026-03-23 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -97,6 +100,9 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-josh-hammer-t-00-38-46) | 3 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-josh-hammer-t-00-06-20) | 8 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-josh-hammer-t-00-33-24) | 2 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-person-josh-hammer-t-00-05-00) | 1 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-josh-hammer-t-00-02-29) | 1 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-josh-hammer-t-00-12-27) | 3 |
 
 </details>
 </section>
@@ -104,7 +110,37 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (159)</strong></summary>
+<summary><strong class="section-title">Raw mentions (164)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (3 mentions)</summary>
+
+**[00:12:27](/episodes/ep-B9TyCs-6o_0.md#ent-person-josh-hammer-t-00-12-27)**
+> "Zionists like Josh Hammer"
+
+**[00:13:50](/episodes/ep-B9TyCs-6o_0.md#ent-person-josh-hammer-t-00-13-50)**
+> "...ed. He's angry he got caught. Josh Hammer was angry he got caught. I'm exploring legal opti..."
+
+**[00:44:25](/episodes/ep-B9TyCs-6o_0.md#ent-person-josh-hammer-t-00-44-25)**
+> "...one of this would be weird if josh hammer came out and was like dang we were you know he wa..."
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
+
+**[00:02:29](/episodes/ep-k8ueJdPFel4.md#ent-person-josh-hammer-t-00-02-29)**
+> "...n Shapiro), you've got Joshy (Josh Hammer), you've got now Meghan McCain. Everybody's just ..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1 mentions)</summary>
+
+**[00:05:00](/episodes/ep-H9p2ZGHAs9A.md#ent-person-josh-hammer-t-00-05-00)**
+> "I want you to park that in your mind. She never came out and said anything about Josh Hammer lying when he said that Charlie Kirk never blinked on Israel. Never. She never said anything at all about what Charlie Kirk was going through. Never said, oh, that donor took money away from him. I'm so angry about that. Not once. Actually, you could argue she did the opposite. She was setting up interviews with the likes of Bari Weiss, pushing Charlie Kirk's final book. Shabbat shalom, shabbat shalom. Okay, we got it."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
@@ -1010,7 +1046,15 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Josh Hammer (29)</strong></summary>
+<summary><strong class="section-title">Statements about Josh Hammer (30)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1)</summary>
+
+- [00:12:20](/episodes/ep-B9TyCs-6o_0.md#t-00-12-00) (Accusation) **Candace Owens**: ["Turning Point USA stayed silent about Charlie Kirk's changing views on..."](/statements/statement-9670acfb776c.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (1)</summary>

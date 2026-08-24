@@ -1,6 +1,6 @@
 ---
 title: "Russia"
-description: "Russia (Places) - 36 mentions"
+description: "Russia (Places) - 49 mentions"
 id: "gpe-russia"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-russia-t-00-00-01">2025-09-16 · 00:00:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-52">2026-08-14 · 03:39:52</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>36</strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>49</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -49,6 +49,9 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-russia-t-00-43-07" style="--pulse-height:14%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-russia-t-01-05-08" style="--pulse-height:14%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-russia-t-00-29-57" style="--pulse-height:29%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-russia-t-00-59-01" style="--pulse-height:29%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-russia-t-00-59-35" style="--pulse-height:14%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-russia-t-00-45-40" style="--pulse-height:14%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-45" style="--pulse-height:29%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -70,6 +73,9 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-russia-t-00-43-07) | 1 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-russia-t-01-05-08) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-russia-t-00-29-57) | 2 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-russia-t-00-59-01) | 2 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-russia-t-00-59-35) | 1 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-russia-t-00-45-40) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-45) | 2 |
 
 </details>
@@ -78,7 +84,7 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+<summary><strong class="section-title">Raw mentions (49)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -88,6 +94,33 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 
 **[03:39:52](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-52)**
 > "Russia."
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
+
+**[00:45:40](/episodes/ep-k8ueJdPFel4.md#ent-gpe-russia-t-00-45-40)**
+> "...e are taking money from Iran, Russia, and Qatar."
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
+
+**[00:59:35](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-russia-t-00-59-35)**
+> "Russia, Russia, Russia"
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (2 mentions)</summary>
+
+**[00:59:32](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-russia-t-00-59-01)**
+> "... Tyler (Tyler Bowyer) went to Russia for two years and someone in Russia told me that ..."
+
+**[00:59:43](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-russia-t-00-59-43)**
+> "... his mission for two years in Russia. He's fluent in Russian."
 
 </details>
 
@@ -268,17 +301,90 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 
 </details>
 
+<details>
+<summary>ep-5m-Wn6Pr5rM (9 mentions)</summary>
+
+**[00:30:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-30-47)**
+> "Russia"
+
+**[00:29:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-29-03)**
+> "...d to resign. If this was like Russia, he would have just disappeared, I think, in gene..."
+
+**[00:30:56](/episodes/ep-5m-Wn6Pr5rM.md#t-00-30-56)**
+> "...laining how she realized that Russia was behind a foreign influence campaign that cont..."
+
+**[00:31:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-10)**
+> "... Catholic Church, even though Russia is an Eastern Orthodox society. Apparently, Vladi..."
+
+**[00:39:00](/episodes/ep-5m-Wn6Pr5rM.md#t-00-39-00)**
+> "Russia even might cover that. So I do just think that so..."
+
+**[00:34:22](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-22)**
+> "...documented she found out that russia today retweeted it ah so a news publication in ru..."
+
+**[00:36:04](/episodes/ep-5m-Wn6Pr5rM.md#t-00-36-04)**
+> "... shows that when he resigned, Russia today covered it."
+
+**[00:50:29](/episodes/ep-5m-Wn6Pr5rM.md#t-00-50-29)**
+> "...ins but I particularly want a Russian blue cat So add it to the data sets."
+
+**[00:50:54](/episodes/ep-5m-Wn6Pr5rM.md#t-00-50-54)**
+> "...ey're very pretty. I love the Russian blue cats. Vani Miriam writes: pretty rich Wilkin..."
+
+</details>
+
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Former Residence Of (1)</summary>
+
+- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:59:43](/episodes/ep-DdPjoy5W-wY.md#t-00-59-43): “But I don't know if it's true whether he was using a different name. It's something a narrative that I am prodding, but he did do his mission for two years in Russia. He's fluent in Russian.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** formerly lived in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:59:43](/episodes/ep-DdPjoy5W-wY.md#t-00-59-43): “But I don't know if it's true whether he was using a different name. It's something a narrative that I am prodding, but he did do his mission for two years in Russia. He's fluent in Russian.”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Russia (2)</strong></summary>
+<summary><strong class="section-title">Statements about Russia (5)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1)</summary>
+
+- [00:45:40](/episodes/ep-k8ueJdPFel4.md#t-00-45-40) (Accusation) **Laura Loomer** (via quoted tweet): ["Laura Loomer created a list of conservative influencers she believes t..."](/statements/statement-9aff611619c4.md)
+  - Also about: [Laura Loomer](/entities/person-laura-loomer.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Iran](/entities/gpe-iran.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (2)</summary>
+
+- [00:59:32](/episodes/ep-DdPjoy5W-wY.md#t-00-59-01) (Accusation) **Anonymous Source #2 (Ep DdPjoy5W-wY)** (via read message): ["An unnamed person in Russia reportedly told Candace Owens that Tyler B..."](/statements/statement-c704fb9650d2.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+- [00:59:43](/episodes/ep-DdPjoy5W-wY.md#t-00-59-43) (Claim) **Candace Owens**: ["Candace Owens says Tyler Bowyer served a two-year mission in Russia an..."](/statements/statement-ad78c630e6c3.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (2)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Shabbat"
-description: "Shabbat (Concepts) - 15 mentions"
+description: "Shabbat (Concepts) - 23 mentions"
 id: "concept-shabbat"
 type: "CONCEPT"
 aliases:
@@ -23,9 +23,9 @@ Source: [CBS News — Erika Kirk town hall](https://www.cbsnews.com/news/cbs-new
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-shabbat-t-00-25-24">2026-02-04 · 00:25:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-shabbat-t-00-45-28">2026-03-03 · 00:45:50</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-concept-shabbat-t-00-55-46">2026-03-24 · 00:56:17</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,6 +40,9 @@ Source: [CBS News — Erika Kirk town hall](https://www.cbsnews.com/news/cbs-new
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-shabbat-t-00-04-14" style="--pulse-height:14%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-shabbat-t-00-01-21" style="--pulse-height:57%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 4 mentions" title="2026-03-02 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-shabbat-t-00-42-40" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 7 mentions" title="2026-03-03 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-shabbat-t-00-00-00" style="--pulse-height:14%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-concept-shabbat-t-00-05-00" style="--pulse-height:57%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 4 mentions" title="2026-03-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-concept-shabbat-t-00-27-27" style="--pulse-height:43%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 3 mentions" title="2026-03-24 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +52,9 @@ Source: [CBS News — Erika Kirk town hall](https://www.cbsnews.com/news/cbs-new
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-shabbat-t-00-04-14) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-concept-shabbat-t-00-01-21) | 4 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-concept-shabbat-t-00-42-40) | 7 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-concept-shabbat-t-00-00-00) | 1 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-concept-shabbat-t-00-05-00) | 4 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-concept-shabbat-t-00-27-27) | 3 |
 
 </details>
 </section>
@@ -56,7 +62,46 @@ Source: [CBS News — Erika Kirk town hall](https://www.cbsnews.com/news/cbs-new
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (3 mentions)</summary>
+
+**[00:27:40](/episodes/ep-SgVcnx4Oh30.md#ent-concept-shabbat-t-00-27-27)**
+> "how much she loves Shabbat shaloming"
+
+**[00:56:02](/episodes/ep-SgVcnx4Oh30.md#ent-concept-shabbat-t-00-55-46)**
+> "...ndaceowens.com, daddy's home, Shabbat shalom, you know, buy that today."
+
+**[00:56:17](/episodes/ep-SgVcnx4Oh30.md#ent-concept-shabbat-t-00-55-46)**
+> "...to candaceowens.com and buy a Shabbat Shalom shirt so that he knows that we're with him..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (4 mentions)</summary>
+
+**[00:05:00](/episodes/ep-H9p2ZGHAs9A.md#ent-concept-shabbat-t-00-05-00)**
+> "...ng Charlie Kirk's final book. Shabbat shalom, shabbat shalom. Okay, we got it."
+
+**[00:45:27](/episodes/ep-H9p2ZGHAs9A.md#ent-concept-shabbat-t-00-45-27)**
+> "...fusal to acknowledge how much Shabbat shalom is real and loved."
+
+**[00:45:38](/episodes/ep-H9p2ZGHAs9A.md#ent-concept-shabbat-t-00-45-27)**
+> "Daddy's home Shabbat Shalom crew necks and we might even start selling..."
+
+**[00:45:21](/episodes/ep-H9p2ZGHAs9A.md#ent-concept-shabbat-t-00-44-46)**
+> "This is my fave. You're going to love this. Daddy's home. Shabbat shalom. We're doing this for Blake (Blake Neff)."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>
+
+**[00:00:00](/episodes/ep-DdPjoy5W-wY.md#ent-concept-shabbat-t-00-00-00)**
+> "...sday, only one more day until Shabbat. Thankfully, gratefully, hello, Blake (Blake Neff..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (7 mentions)</summary>

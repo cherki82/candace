@@ -1,0 +1,27 @@
+---
+title: "Faith Kates founded NEXT Management"
+description: "Evidence for the relationship: Faith Kates founded NEXT Management"
+relationship_id: "rel-fb89dde1609f"
+subject: "person-faith-kates"
+predicate: "founded"
+object: "org-next-management"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Faith Kates](/entities/person-faith-kates) founded [NEXT Management](/entities/org-next-management)
+
+### Evidence (2 mentions)
+
+**[EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A)**
+
+- [00:02:28](/episodes/ep-H9p2ZGHAs9A#t-00-02-28): _Let's get back into this next model management. It was co-founded by Faith Kates. We told you this yesterday, a dear friend to Jeffrey Epstein all over the emails 4000 plus times._
+
+**[Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ)**
+
+- [00:22:10](/episodes/ep-ZzAT2xijKGQ#t-00-22-10): _Next Model Management in New York City, Faith Cates, who was the co-founder of it_
+
+### Related
+
+- [Faith Kates](/entities/person-faith-kates)
+- [NEXT Management](/entities/org-next-management)

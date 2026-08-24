@@ -1,6 +1,6 @@
 ---
 title: "Piers Morgan"
-description: "Piers Morgan (People) - 16 mentions"
+description: "Piers Morgan (People) - 19 mentions"
 id: "person-piers-morgan"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-person-piers-morgan-t-00-55-37">2025-12-17 · 00:55:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-person-piers-morgan-t-00-19-00">2026-02-10 · 00:19:33</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-person-piers-morgan-t-00-04-16">2026-03-17 · 00:04:46</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -39,6 +39,7 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-piers-morgan-t-00-33-05" style="--pulse-height:12%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-piers-morgan-t-00-01-59" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 8 mentions" title="2026-01-29 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-piers-morgan-t-00-17-11" style="--pulse-height:38%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 3 mentions" title="2026-02-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-person-piers-morgan-t-00-03-32" style="--pulse-height:38%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-piers-morgan-t-00-33-05) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-piers-morgan-t-00-01-59) | 8 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-piers-morgan-t-00-17-11) | 3 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-piers-morgan-t-00-03-32) | 3 |
 
 </details>
 </section>
@@ -55,7 +57,21 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (3 mentions)</summary>
+
+**[00:03:59](/episodes/ep-k8ueJdPFel4.md#ent-person-piers-morgan-t-00-03-32)**
+> "...ght with both Megyn Kelly and Piers Morgan and to once again mix in this idea that he cares ..."
+
+**[00:04:36](/episodes/ep-k8ueJdPFel4.md#ent-person-piers-morgan-t-00-04-16)**
+> "...he calls both Megyn Kelly and Piers Morgan."
+
+**[00:04:46](/episodes/ep-k8ueJdPFel4.md#ent-person-piers-morgan-t-00-04-16)**
+> "...alls Megyn Kelly a coward and Piers Morgan a clickbait whore or something. And what is their..."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (3 mentions)</summary>
@@ -131,6 +147,18 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Criticized By (1)</summary>
+
+- **[Ben Shapiro](/entities/person-ben-shapiro.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:46](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “He calls Megyn Kelly a coward and Piers Morgan a clickbait whore or something. And what is their crime?”
+
+</details>
+
+</details>
+
+<details>
 <summary>Interviewed (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -158,7 +186,14 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
+
+- **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:46](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “He calls Megyn Kelly a coward and Piers Morgan a clickbait whore or something. And what is their crime?”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>

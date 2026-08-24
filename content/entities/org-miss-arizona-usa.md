@@ -1,6 +1,6 @@
 ---
 title: "Miss Arizona USA"
-description: "Miss Arizona USA (Organizations) - 8 mentions"
+description: "Miss Arizona USA (Organizations) - 10 mentions"
 id: "org-miss-arizona-usa"
 type: "ORG"
 aliases:
@@ -23,22 +23,25 @@ Source: [Miss Arizona USA — Official site](https://missarizonausa.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-miss-arizona-usa-t-00-48-23">2026-02-27 · 00:48:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-miss-arizona-usa-t-00-43-59">2026-03-02 · 00:43:59</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-miss-arizona-usa-t-00-12-32">2026-03-11 · 00:13:05</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-miss-arizona-usa-t-00-15-23">Bride Of Charlie: The Ties That Bind | Episode 4</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-y8lak3CRwDw.md#ent-org-miss-arizona-usa-t-00-24-29">Bride Of Charlie: What Happened In Romania? | Episode 6</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-miss-arizona-usa-t-00-48-23" style="--pulse-height:50%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-miss-arizona-usa-t-00-32-26" style="--pulse-height:50%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-miss-arizona-usa-t-00-15-23" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-miss-arizona-usa-t-00-48-23" style="--pulse-height:25%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-miss-arizona-usa-t-00-32-26" style="--pulse-height:25%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-miss-arizona-usa-t-00-15-23" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-miss-arizona-usa-t-00-24-29" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 4 mentions" title="2026-03-04 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-miss-arizona-usa-t-00-19-45" style="--pulse-height:25%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-miss-arizona-usa-t-00-12-32" style="--pulse-height:25%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +50,9 @@ Source: [Miss Arizona USA — Official site](https://missarizonausa.com/)
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-miss-arizona-usa-t-00-48-23) | 1 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-miss-arizona-usa-t-00-32-26) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-miss-arizona-usa-t-00-15-23) | 2 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-miss-arizona-usa-t-00-24-29) | 4 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-miss-arizona-usa-t-00-19-45) | 1 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-miss-arizona-usa-t-00-12-32) | 1 |
 
 </details>
 </section>
@@ -54,7 +60,40 @@ Source: [Miss Arizona USA — Official site](https://missarizonausa.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1 mentions)</summary>
+
+**[00:13:05](/episodes/ep-H9p2ZGHAs9A.md#ent-org-miss-arizona-usa-t-00-12-32)**
+> "Miss Arizona USA 2012."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1 mentions)</summary>
+
+**[00:19:45](/episodes/ep-ZzAT2xijKGQ.md#ent-org-miss-arizona-usa-t-00-19-45)**
+> "she wins Miss Arizona USA"
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (4 mentions)</summary>
+
+**[00:24:36](/episodes/ep-y8lak3CRwDw.md#ent-org-miss-arizona-usa-t-00-24-29)**
+> "...s her come up, Erika wins the Miss Arizona competition in November. OK, that makes her Miss ..."
+
+**[00:24:48](/episodes/ep-y8lak3CRwDw.md#ent-org-miss-arizona-usa-t-00-24-29)**
+> "... win in 2011 and then you are Miss Arizona for 2012 for those of you who know nothing about ..."
+
+**[00:25:52](/episodes/ep-y8lak3CRwDw.md#ent-org-miss-arizona-usa-t-00-25-52)**
+> "that begins her year as Miss Arizona. In February, Everyday Heroes Like You begins wha..."
+
+**[00:29:16](/episodes/ep-y8lak3CRwDw.md#ent-org-miss-arizona-usa-t-00-29-16)**
+> "...emind you, the handle is real Miss Arizona USA and who that is changes every year. It's like the..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (2 mentions)</summary>
@@ -83,23 +122,6 @@ Source: [Miss Arizona USA — Official site](https://missarizonausa.com/)
 
 </details>
 
-<details>
-<summary>ep-y8lak3CRwDw (4 mentions)</summary>
-
-**[00:24:36](/episodes/ep-y8lak3CRwDw.md#t-00-24-36)**
-> "...s her come up, Erika wins the Miss Arizona competition in November. OK, that makes her Miss ..."
-
-**[00:24:48](/episodes/ep-y8lak3CRwDw.md#t-00-24-48)**
-> "... win in 2011 and then you are Miss Arizona for 2012 for those of you who know nothing about ..."
-
-**[00:25:52](/episodes/ep-y8lak3CRwDw.md#t-00-25-52)**
-> "that begins her year as Miss Arizona. In February, Everyday Heroes Like You begins wha..."
-
-**[00:29:16](/episodes/ep-y8lak3CRwDw.md#t-00-29-16)**
-> "...emind you, the handle is real Miss Arizona USA and who that is changes every year. It's like the..."
-
-</details>
-
 </details>
 
 <details open>
@@ -110,7 +132,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Miss Arizona USA (8)</strong></summary>
+<summary><strong class="section-title">Statements about Miss Arizona USA (9)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1)</summary>
+
+- [00:24:36](/episodes/ep-y8lak3CRwDw.md#t-00-24-29) (Claim) **Candace Owens**: ["Erika Kirk won the Miss Arizona competition in November 2011 and held ..."](/statements/statement-951202e87a16.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (2)</summary>

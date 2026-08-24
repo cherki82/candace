@@ -14,7 +14,7 @@ _Type: Organizations_
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>9</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -94,18 +94,6 @@ _Type: Organizations_
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:14:33](/episodes/ep-Qfwr08Ebczo.md#t-00-14-10): “Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel”
-
-</details>
-
-</details>
-
-<details>
-<summary>Investor Includes (1)</summary>
-
-- **[Wilks Brothers](/entities/person-wilks-brothers.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:44](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27): “because I didn't know that he was funded; his church was funded by the Wilks Brothers down in Texas.”
 
 </details>
 

@@ -1,17 +1,21 @@
 ---
-title: "Mikey McCoy child of Rob McCoy"
-description: "Evidence for the relationship: Mikey McCoy child of Rob McCoy"
+title: "Michael McCoy child of Rob McCoy"
+description: "Evidence for the relationship: Michael McCoy child of Rob McCoy"
 relationship_id: "rel-174cfe9a6e67"
-subject: "person-mikey-mccoy"
+subject: "person-michael-mccoy"
 predicate: "child of"
 object: "person-rob-mccoy"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Mikey McCoy](/entities/person-mikey-mccoy) child of [Rob McCoy](/entities/person-rob-mccoy)
+## [Michael McCoy](/entities/person-michael-mccoy) child of [Rob McCoy](/entities/person-rob-mccoy)
 
-### Evidence (8 mentions)
+### Evidence (11 mentions)
+
+**[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
+
+- [00:59:59](/episodes/ep-2T39-oADLj0#t-00-59-59): _And you're brought in by Rob, your dad,_
 
 **[The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4)**
 
@@ -20,6 +24,10 @@ object: "person-rob-mccoy"
 **[Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk)**
 
 - [00:13:00](/episodes/ep-6J6lRZPQ4jk#t-00-13-00): _Mikey (Mikey McCoy) has offered that his dad was confused._
+
+**[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
+
+- [00:32:43](/episodes/ep-B9TyCs-6o_0#t-00-32-43): _he was defending Mikey McCoy and talked about how he ran and after he ran, he called his mom. ... And around the time I put that phone away and then he immediately calls his dad. ... He calls Rob McCoy._
 
 **[Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0)**
 
@@ -41,11 +49,15 @@ object: "person-rob-mccoy"
 
 - [00:06:08](/episodes/ep-his-JBjlkh8#t-00-06-08): _his own father, Rob McCoy_
 
+**[The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA)**
+
+- [00:07:00](/episodes/ep-wcD2khO3rOA#t-00-07-00): _his father, Rob McCoy_
+
 **[What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U)**
 
 - [00:00:50](/episodes/ep-yAIb-NuUh_U#t-00-00-50): _Mikey McCoy son of Rob McCoy_
 
 ### Related
 
-- [Mikey McCoy](/entities/person-mikey-mccoy)
+- [Michael McCoy](/entities/person-michael-mccoy)
 - [Rob McCoy](/entities/person-rob-mccoy)

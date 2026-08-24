@@ -1,6 +1,6 @@
 ---
 title: "Satanism"
-description: "Satanism (Concepts) - 15 mentions"
+description: "Satanism (Concepts) - 19 mentions"
 id: "concept-satanism"
 type: "CONCEPT"
 aliases:
@@ -23,11 +23,11 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-satanism-t-00-12-10">2026-01-14 · 00:12:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-satanism-t-00-04-37">2026-02-27 · 00:04:42</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-satanism-t-01-01-30">2026-03-09 · 01:01:51</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -43,6 +43,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-satanism-t-00-38-00" style="--pulse-height:17%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-satanism-t-00-12-39" style="--pulse-height:17%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-satanism-t-00-04-37" style="--pulse-height:17%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-satanism-t-00-14-24" style="--pulse-height:67%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 4 mentions" title="2026-03-09 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +56,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-satanism-t-00-38-00) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-concept-satanism-t-00-12-39) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-concept-satanism-t-00-04-37) | 1 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-concept-satanism-t-00-14-24) | 4 |
 
 </details>
 </section>
@@ -62,7 +64,24 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (4 mentions)</summary>
+
+**[00:14:48](/episodes/ep-i8m_6D4QGmk.md#ent-concept-satanism-t-00-14-24)**
+> "discussing Satanism"
+
+**[00:15:42](/episodes/ep-i8m_6D4QGmk.md#ent-concept-satanism-t-00-15-28)**
+> "...lot of times, the thing about Satanists—and also, even though it's a cult and the fact th..."
+
+**[00:15:54](/episodes/ep-i8m_6D4QGmk.md#ent-concept-satanism-t-00-15-54)**
+> "...s the same thing you see with Satanists. It's the same thing you see with Freemasons when..."
+
+**[01:01:51](/episodes/ep-i8m_6D4QGmk.md#ent-concept-satanism-t-01-01-30)**
+> "...Candace, great job. Kabbalah, Satanism—there are many commonalities. Yes, there are inde..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1 mentions)</summary>
@@ -154,7 +173,20 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Satanism (6)</strong></summary>
+<summary><strong class="section-title">Statements about Satanism (9)</strong></summary>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (3)</summary>
+
+- [00:15:21](/episodes/ep-i8m_6D4QGmk.md#t-00-15-21) (Claim) **Chad Ripperger** (via quoted speech): ["The technical term for Satanists revealing what they are doing is 'the..."](/statements/statement-58311b2e865c.md)
+
+- [00:15:42](/episodes/ep-i8m_6D4QGmk.md#t-00-15-28) (Accusation) **Chad Ripperger** (via quoted speech): ["Satanists and Freemasons tend to reveal themselves even while remainin..."](/statements/statement-d4236742bc46.md)
+  - Also about: [Freemasonry](/entities/concept-freemasonry.md)
+
+- [00:16:23](/episodes/ep-i8m_6D4QGmk.md#t-00-15-54) (Accusation) **Chad Ripperger** (via quoted speech): ["These groups get a sadistic delight from revealing things while people..."](/statements/statement-928d87f983f4.md)
+  - Also about: [Freemasonry](/entities/concept-freemasonry.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (4)</summary>

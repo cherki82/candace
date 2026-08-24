@@ -208,7 +208,7 @@ _Type: People_
 <details>
 <summary>Appointed (1)</summary>
 
-- **[Judge Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)**
+- **[Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#t-00-06-18): “the judge... is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox.”
@@ -232,7 +232,7 @@ _Type: People_
 <details>
 <summary>Referenced By (2)</summary>
 
-- **[Judge Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)** appointed by this
+- **[Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)** appointed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#t-00-06-18): “the judge... is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox.”

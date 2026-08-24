@@ -1,6 +1,6 @@
 ---
 title: "Baron Coleman"
-description: "Baron Coleman (People) - 51 mentions"
+description: "Baron Coleman (People) - 69 mentions"
 id: "person-baron-coleman"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-51">2025-12-16 · 00:14:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-baron-coleman-t-00-59-51">2026-02-13 · 01:00:01</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>51</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-57-37">2026-03-24 · 00:57:55</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>69</strong></div>
 <div><span>Statements by</span><strong>17</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>3</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -45,6 +45,9 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-baron-coleman-t-00-41-07" style="--pulse-height:8%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-baron-coleman-t-00-49-29" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-baron-coleman-t-00-00-00" style="--pulse-height:37%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 7 mentions" title="2026-02-13 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-baron-coleman-t-01-06-42" style="--pulse-height:11%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-baron-coleman-t-00-31-03" style="--pulse-height:11%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-00-01" style="--pulse-height:74%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 14 mentions" title="2026-03-24 · 14 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +63,9 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-baron-coleman-t-00-41-07) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-baron-coleman-t-00-49-29) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-baron-coleman-t-00-00-00) | 7 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-baron-coleman-t-01-06-42) | 2 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-baron-coleman-t-00-31-03) | 2 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-00-01) | 14 |
 
 </details>
 </section>
@@ -67,7 +73,76 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+<summary><strong class="section-title">Raw mentions (69)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (14 mentions)</summary>
+
+**[00:00:01](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-00-01)**
+> "All right, you guys, happy Tuesday. I'm having a happy Tuesday. I woke up and I had a shot of Baron Coleman this morning, just like his podcast got me all fired up because he went off. He had a little Baron (Baron Coleman) crash out and it added another detail to our investigation yesterday into the planes, a detail that I had missed somehow earlier that's rather explosive."
+
+**[00:01:48](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-01-22)**
+> "...illing of Charlie Kirk? Well, Baron Coleman is certainly one of the people that is in our gro..."
+
+**[00:02:18](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-02-04)**
+> "... they pounce right and Baron (Baron Coleman) does a very good job of describing um really wha..."
+
+**[00:02:57](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-02-44)**
+> "...is opening statement. Here is Baron Coleman."
+
+**[00:04:54](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-04-54)**
+> "...s released, not by me, not by Baron Coleman, but somebody released it, claimed it was Erika K..."
+
+**[00:05:35](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-05-35)**
+> "...loved the energy coming. From Baron Coleman, last night I watched it this morning, which I th..."
+
+**[00:06:48](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-06-48)**
+> "...n't cover the crop top Baron (Baron Coleman) didn't cover the crop top we are indeed however ..."
+
+**[00:17:54](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-17-54)**
+> "... to tell you why I, just like Baron Coleman, feel even more convinced that we are correct tha..."
+
+**[00:24:35](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-24-11)**
+> "And I believe, just like Baron Coleman believes, that Andrew (Andrew Kolvet) at first to..."
+
+**[00:30:36](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-30-13)**
+> "...learned while watching Baron (Baron Coleman)'s stream, I don't know how I missed it, is that ..."
+
+**[00:56:52](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-56-25)**
+> "...m his entire statement Baron (Baron Coleman) does these like monologue statements that are re..."
+
+**[00:57:00](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-57-00)**
+> "...m his entire statement Baron (Baron Coleman) does these like monologue statements that are re..."
+
+**[00:57:46](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-57-37)**
+> "...as is your battle bun. Baron (Baron Coleman) was sporting his last night. Yeah, I love him. I..."
+
+**[00:57:55](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-57-37)**
+> "...nnifer Deloach writes, Baron (Baron Coleman)'s red face."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (2 mentions)</summary>
+
+**[00:31:16](/episodes/ep-5-HUyv9LyMg.md#ent-person-baron-coleman-t-00-31-03)**
+> "... know some people are working—Baron Coleman"
+
+**[00:56:43](/episodes/ep-5-HUyv9LyMg.md#ent-person-baron-coleman-t-00-56-43)**
+> "...verified); whether you've got Baron Coleman, um, his monologues and taking us on; John Bray, ..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (2 mentions)</summary>
+
+**[01:06:42](/episodes/ep-DdPjoy5W-wY.md#ent-person-baron-coleman-t-01-06-42)**
+> "...e klaus writes i was watching Baron Coleman live last night when your text came through regar..."
+
+**[01:08:42](/episodes/ep-DdPjoy5W-wY.md#ent-person-baron-coleman-t-01-08-33)**
+> "...tting in a lot of work i mean Baron Coleman's doing three hour episodes um that's a lot and um ..."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (7 mentions)</summary>
@@ -290,12 +365,20 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:00:06](/episodes/ep-9naMwS0kMBE.md#t-00-00-00): “I told you that I was going to be joined by Baron Coleman. None other than Baron Coleman here in studio.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:07:08](/episodes/ep-DdPjoy5W-wY.md#t-01-06-42): “i wrote him some interesting things about Lori Frantzve since he's been helping so much the investigation”
+- [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:01:48](/episodes/ep-SgVcnx4Oh30.md#t-00-01-22): “We kind of build off of each other and the work and the investigation that we're doing.”
 
 </details>
 
@@ -363,7 +446,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
   - About: [Colorado Springs](/entities/gpe-colorado-springs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:38:18](/episodes/ep-9k2xrAC0H88.md#t-00-38-03) [○] (Claim) ["The SAM000 flight went from Colorado Springs to Las Vegas, arriving at 4:48 PM l..."](/statements/statement-cf82c67961c5.md)
-  - About: [Colorado Springs](/entities/gpe-colorado-springs.md), [Las Vegas](/entities/gpe-las-vegas.md)
+  - About: [Colorado Springs](/entities/gpe-colorado-springs.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
 
 </details>
 

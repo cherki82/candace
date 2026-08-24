@@ -4,9 +4,10 @@ description: "\"Our boys were guarding the poppy fields in Afghanistan and then 
 statement_id: "statement-b47022f013d2"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -22,7 +23,9 @@ type: "accusation"
 
 - [Afghanistan](/entities/gpe-afghanistan.md) (gpe)
 
-## Source
+## Appearances (2)
+
+### 1. From Britney To Charlie. With Pastors Like These, Who Needs ...
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 **Timestamp:** [00:58:19](/episodes/ep-7RLtGgkTh9o.md#t-00-58-06) 
@@ -30,9 +33,31 @@ type: "accusation"
 
 > Yeah, our boys were guarding the poppy fields—and then in Afghanistan—and then we got an opioid crisis. And the Sackler family seems to be the only ones that benefited from that opioid crisis.
 
+### 2. Bride Of Charlie: What Happened In Romania? | Episode 6
+
+**Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
+**Timestamp:** [00:56:33](/episodes/ep-y8lak3CRwDw.md#t-00-56-01) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3393);return false;">Play</a>
+
+> Everybody knows they were guarding poppy fields. And everybody knows that we got an opioid crisis following that from the Sackler family.
+
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+SIGAR documents a vast Afghan opium economy and failed U.S. counternarcotics efforts, not a U.S. military mission to guard poppy for American opioids. DOJ separately documents Purdue/Sackler opioid misconduct and billions transferred from Purdue. The statement joins real facts with an unsupported causal chain and the overstatement that only the Sacklers benefited.
+
+**Confidence:** High
+
+**Sources:**
+
+- [SIGAR Quarterly Report to Congress, October 2021](https://www.sigar.mil/pdf/quarterlyreports/2021-10-30qr.pdf)
+- [DOJ: Global Resolution with Purdue Pharma and Sackler Family](https://www.justice.gov/usao-nj/pr/justice-department-announces-global-resolution-criminal-and-civil-investigations-opioid)
+
+*Verified: 2026-08-23T23:57:00.978351*
 
 ---
 

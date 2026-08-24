@@ -83,7 +83,7 @@ _Type: Organizations_
 <details>
 <summary>Member Of (1)</summary>
 
-- **[UVU](/entities/org-utah-valley-university.md)**
+- **[Utah Valley University](/entities/org-utah-valley-university.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:06](/episodes/ep-tB5SXXmd9vU.md#t-00-58-43): “...when you speak to the UVU students, the fact that they didn't recognize anybody...”
@@ -95,7 +95,7 @@ _Type: Organizations_
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[UVU](/entities/org-utah-valley-university.md)** has member this
+- **[Utah Valley University](/entities/org-utah-valley-university.md)** has member this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:06](/episodes/ep-tB5SXXmd9vU.md#t-00-58-43): “...when you speak to the UVU students, the fact that they didn't recognize anybody...”

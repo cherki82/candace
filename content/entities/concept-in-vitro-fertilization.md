@@ -1,6 +1,6 @@
 ---
 title: "In vitro fertilization"
-description: "In vitro fertilization (Concepts) - 2 mentions"
+description: "In vitro fertilization (Concepts) - 3 mentions"
 id: "concept-in-vitro-fertilization"
 type: "CONCEPT"
 aliases:
@@ -23,11 +23,11 @@ Source: [Reproductive medicine | Swiss Federal Office of Public Health](https://
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-in-vitro-fertilization-t-00-34-34">2026-01-14 · 00:35:00</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-in-vitro-fertilization-t-00-17-28">2026-02-04 · 00:17:39</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-concept-in-vitro-fertilization-t-00-09-07">2026-03-10 · 00:09:07</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,6 +38,7 @@ Source: [Reproductive medicine | Swiss Federal Office of Public Health](https://
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-in-vitro-fertilization-t-00-34-34" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-in-vitro-fertilization-t-00-17-28" style="--pulse-height:100%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-concept-in-vitro-fertilization-t-00-09-07" style="--pulse-height:100%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [Reproductive medicine | Swiss Federal Office of Public Health](https://
 |---|---|---:|
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-in-vitro-fertilization-t-00-34-34) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-concept-in-vitro-fertilization-t-00-17-28) | 1 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-concept-in-vitro-fertilization-t-00-09-07) | 1 |
 
 </details>
 </section>
@@ -52,7 +54,15 @@ Source: [Reproductive medicine | Swiss Federal Office of Public Health](https://
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1 mentions)</summary>
+
+**[00:09:07](/episodes/ep-ZzAT2xijKGQ.md#ent-concept-in-vitro-fertilization-t-00-09-07)**
+> "ultimate goal with IVF"
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1 mentions)</summary>
@@ -76,5 +86,18 @@ Source: [Reproductive medicine | Swiss Federal Office of Public Health](https://
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about In vitro fertilization (1)</strong></summary>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1)</summary>
+
+- [00:07:19](/episodes/ep-ZzAT2xijKGQ.md#t-00-06-48) (Prediction) **Anonymous Source #1 (Ep ZzAT2xijKGQ)** (via quoted document): ["Soon people will not be able to make new humans, but that would be gre..."](/statements/statement-d7d24f808734.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
 
 </details>

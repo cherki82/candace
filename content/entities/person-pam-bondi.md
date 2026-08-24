@@ -1,6 +1,6 @@
 ---
 title: "Pam Bondi"
-description: "Pam Bondi (People) - 12 mentions"
+description: "Pam Bondi (People) - 14 mentions"
 id: "person-pam-bondi"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-pam-bondi-t-00-34-12">2025-09-19 · 00:34:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-pam-bondi-t-00-46-30">2026-02-13 · 00:46:30</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-pam-bondi-t-00-06-20">2026-03-12 · 00:06:29</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -41,6 +41,7 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-pam-bondi-t-00-22-23" style="--pulse-height:25%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-person-pam-bondi-t-00-44-46" style="--pulse-height:100%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 4 mentions" title="2026-01-30 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-pam-bondi-t-00-46-30" style="--pulse-height:25%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-pam-bondi-t-00-06-20" style="--pulse-height:25%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-pam-bondi-t-00-22-23) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-pam-bondi-t-00-44-46) | 4 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-pam-bondi-t-00-46-30) | 1 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-pam-bondi-t-00-06-20) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>
+
+**[00:06:29](/episodes/ep-5-HUyv9LyMg.md#ent-person-pam-bondi-t-00-06-20)**
+> "...nald Trump and Kash Patel and Pam Bondi colluded to lie to the American people about the ..."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
@@ -124,6 +134,14 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 
 **[00:38:15](/episodes/ep-aDlhjfW6hz8.md#ent-person-pam-bondi-t-00-37-41)**
 > "...e with them that the next step is more power for the government. And this time we're saying no. No, Pam Bondi. No, thank you. Genuinely, why are you in office? How can this administration pretend that they are..."
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (1 mentions)</summary>
+
+**[00:28:26](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-26)**
+> "pam bondi"
 
 </details>
 
@@ -213,7 +231,21 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pam Bondi (4)</strong></summary>
+<summary><strong class="section-title">Statements about Pam Bondi (7)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (3)</summary>
+
+- [00:06:29](/episodes/ep-5-HUyv9LyMg.md#t-00-06-20) (Accusation) **Candace Owens**: ["Donald Trump, Kash Patel, and Pam Bondi colluded to lie to the America..."](/statements/statement-6d0a71b2d015.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Kash Patel](/entities/person-kash-patel.md)
+
+- [00:06:40](/episodes/ep-5-HUyv9LyMg.md#t-00-06-20) (Accusation) **Candace Owens**: ["Donald Trump, Kash Patel, and Pam Bondi intentionally covered up for J..."](/statements/statement-28e106a196c3.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Kash Patel](/entities/person-kash-patel.md), [Jared Kushner](/entities/person-jared-kushner.md)
+
+- [00:11:11](/episodes/ep-5-HUyv9LyMg.md#t-00-11-11) (Accusation) **Candace Owens**: ["The Trump administration used Epstein-file redactions to protect rapis..."](/statements/statement-e53db9adb61e.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Kash Patel](/entities/person-kash-patel.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md)
+
+</details>
 
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (2)</summary>

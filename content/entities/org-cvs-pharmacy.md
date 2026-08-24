@@ -1,6 +1,6 @@
 ---
 title: "CVS Pharmacy"
-description: "CVS Pharmacy (Organizations) - 4 mentions"
+description: "CVS Pharmacy (Organizations) - 5 mentions"
 id: "org-cvs-pharmacy"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Pharmacy and Drugstore Locations | CVS Pharmacy Locator](https://www.cv
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-cvs-pharmacy-t-00-57-10">2026-01-21 · 00:57:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-cvs-pharmacy-t-00-26-21">2026-02-28 · 00:26:46</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-cvs-pharmacy-t-00-46-59">2026-03-12 · 00:46:59</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,8 @@ Source: [Pharmacy and Drugstore Locations | CVS Pharmacy Locator](https://www.cv
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-cvs-pharmacy-t-00-57-10" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-cvs-pharmacy-t-00-44-08" style="--pulse-height:100%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-cvs-pharmacy-t-00-26-21" style="--pulse-height:100%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-cvs-pharmacy-t-00-38-19" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-cvs-pharmacy-t-00-46-59" style="--pulse-height:100%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +48,8 @@ Source: [Pharmacy and Drugstore Locations | CVS Pharmacy Locator](https://www.cv
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-cvs-pharmacy-t-00-57-10) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-cvs-pharmacy-t-00-44-08) | 1 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-cvs-pharmacy-t-00-26-21) | 1 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-cvs-pharmacy-t-00-38-19) | 1 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-cvs-pharmacy-t-00-46-59) | 1 |
 
 </details>
 </section>
@@ -53,7 +57,23 @@ Source: [Pharmacy and Drugstore Locations | CVS Pharmacy Locator](https://www.cv
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>
+
+**[00:46:59](/episodes/ep-5-HUyv9LyMg.md#ent-org-cvs-pharmacy-t-00-46-59)**
+> "...r on Amazon and at your local CVS. Also, I remind you guys about American Financing..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
+
+**[00:38:19](/episodes/ep-y8lak3CRwDw.md#ent-org-cvs-pharmacy-t-00-38-19)**
+> "...Whole Foods, Walmart, Amazon, CVS, and Walgreens."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (1 mentions)</summary>
@@ -76,14 +96,6 @@ Source: [Pharmacy and Drugstore Locations | CVS Pharmacy Locator](https://www.cv
 
 **[00:57:20](/episodes/ep-GY6GWceEqtQ.md#ent-org-cvs-pharmacy-t-00-57-10)**
 > "CVS"
-
-</details>
-
-<details>
-<summary>ep-y8lak3CRwDw (1 mentions)</summary>
-
-**[00:38:19](/episodes/ep-y8lak3CRwDw.md#t-00-38-19)**
-> "...Whole Foods, Walmart, Amazon, CVS, and Walgreens."
 
 </details>
 

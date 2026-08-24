@@ -14,7 +14,7 @@ _Type: People_
 <div><span>Mentions</span><strong>106</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -454,16 +454,9 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)** has investor this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:20:07](/episodes/ep-YaZfwLQ7vrI.md#t-00-19-33): “he put a ton of money into Turning Point USA Faith operations”
-
-</details>
-
-- **[Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)** investor includes this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:20:07](/episodes/ep-YaZfwLQ7vrI.md#t-00-19-33): “he put a ton of money into Turning Point USA Faith operations”

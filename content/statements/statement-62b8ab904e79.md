@@ -20,7 +20,7 @@ type: "opinion"
 
 ## About
 
-- [United States military](/entities/org-united-states-military.md) (org)
+- [United States Armed Forces](/entities/org-united-states-armed-forces.md) (org)
 
 ## Source
 

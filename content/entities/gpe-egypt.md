@@ -1,6 +1,6 @@
 ---
 title: "Egypt"
-description: "Egypt (Places) - 208 mentions"
+description: "Egypt (Places) - 216 mentions"
 id: "gpe-egypt"
 type: "GPE"
 aliases:
@@ -21,11 +21,11 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-egypt-t-00-47-32">2025-10-09 · 00:47:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-egypt-t-00-21-24">2026-02-27 · 00:21:24</a></strong></div>
-<div><span>Episodes</span><strong>35</strong></div>
-<div><span>Mentions</span><strong>208</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-egypt-t-00-50-59">2026-03-23 · 00:51:19</a></strong></div>
+<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>216</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -69,6 +69,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-egypt-t-00-34-32" style="--pulse-height:22%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 4 mentions" title="2026-02-04 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-egypt-t-00-15-54" style="--pulse-height:28%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 5 mentions" title="2026-02-05 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-egypt-t-00-20-39" style="--pulse-height:11%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-egypt-t-00-29-02" style="--pulse-height:44%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 8 mentions" title="2026-03-23 · 8 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -109,6 +110,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-egypt-t-00-34-32) | 4 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-egypt-t-00-15-54) | 5 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-egypt-t-00-20-39) | 2 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-egypt-t-00-29-02) | 8 |
 
 </details>
 </section>
@@ -116,7 +118,36 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (208)</strong></summary>
+<summary><strong class="section-title">Raw mentions (216)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (8 mentions)</summary>
+
+**[00:29:39](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-egypt-t-00-29-02)**
+> "Some Egyptian planes that were transponding here"
+
+**[00:15:02](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-egypt-t-00-14-25)**
+> "...en involve those pesky little Egyptian planes."
+
+**[00:29:47](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-egypt-t-00-29-47)**
+> "Remember, there was one Egyptian plane that was just transponding on a tarmac in P..."
+
+**[00:30:25](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-egypt-t-00-30-25)**
+> "...st is that early morning that Egyptian plane is going to transpond from 10.05 a.m. to 11..."
+
+**[00:30:51](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-egypt-t-00-30-51)**
+> "...nd block in which we have the egyptian plane transponding in purple and during that time..."
+
+**[00:36:04](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-egypt-t-00-36-04)**
+> "...here suddenly that plane, the Egyptian planes are going to be transponding. OK, same dea..."
+
+**[00:36:28](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-egypt-t-00-36-28)**
+> "...rovo and then right away that egyptian plane starts transponding then it lands in scotts..."
+
+**[00:51:19](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-egypt-t-00-50-59)**
+> "...nd you're surprised about the Egyptian planes. Like you're concerned. You guys have to p..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (2 mentions)</summary>
@@ -962,7 +993,15 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Egypt (10)</strong></summary>
+<summary><strong class="section-title">Statements about Egypt (11)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1)</summary>
+
+- [00:30:25](/episodes/ep-B9TyCs-6o_0.md#t-00-29-47) (Citation) **Candace Owens**: ["An Egyptian plane transponded in Provo from 10:05 a.m. to 11:34 a.m. U..."](/statements/statement-715e0bab86a0.md)
+  - Also about: [Provo](/entities/gpe-provo.md)
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (3)</summary>

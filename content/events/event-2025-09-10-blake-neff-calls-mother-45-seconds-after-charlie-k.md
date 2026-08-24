@@ -12,7 +12,7 @@ time: "12:24"
 
 > Blake Neff calls mother 45 seconds after Charlie Kirk shooting at UVU event.
 
-## Mentioned In (263 times)
+## Mentioned In (264 times)
 
 ### 1. The Great Exodus From Utah? Where Did The "Egyptians" Go On ...
 
@@ -2117,3 +2117,11 @@ time: "12:24"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1870);return false;">▶️ Play</a>
 
 > portions. Who did he think was going to kill him? Andrew Kolvet. Can you tell us, Andrew? Can you tell us, Blake Neff? Can you tell us, Mikey McCoy? Or was he just
+
+### 264. EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! ...
+
+**Episode:** [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md)
+**Timestamp:** [00:33:09](/episodes/ep-B9TyCs-6o_0.md#event-event-2025-09-10-blake-neff-calls-mother-45-seconds-after-charlie-k-t-00-33-09) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1989);return false;">▶️ Play</a>
+
+> I pull out my phone and I call my mom just to say, Mom, there's been a shooting.

@@ -1,8 +1,8 @@
 ---
 title: "Mikey McCoy never traveled with a camera before but decided ..."
-description: "\"Mikey McCoy never traveled with a camera before but decided it would be a good idea to mic Charlie Kirk up and do content with him on the Korea trip t...\" — Mikey McCoy"
+description: "\"Mikey McCoy never traveled with a camera before but decided it would be a good idea to mic Charlie Kirk up and do content with him on the Korea trip t...\" — Michael McCoy"
 statement_id: "statement-6c2dab39f4e0"
-speaker: "Mikey McCoy"
+speaker: "Michael McCoy"
 type: "factual_claim"
 ---
 
@@ -14,13 +14,13 @@ type: "factual_claim"
 
 ## Attribution
 
-**Speaker:** [Mikey McCoy](/entities/person-mikey-mccoy.md) (Quoted)
+**Speaker:** [Michael McCoy](/entities/person-michael-mccoy.md) (Quoted)
 
 **Delivery:** Made directly
 
 ## About
 
-- [Mikey McCoy](/entities/person-mikey-mccoy.md) (person)
+- [Michael McCoy](/entities/person-michael-mccoy.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source

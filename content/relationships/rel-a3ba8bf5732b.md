@@ -1,6 +1,6 @@
 ---
-title: "FBI based in Wilmington, Delaware"
-description: "Evidence for the relationship: FBI based in Wilmington, Delaware"
+title: "Federal Reserve based in Wilmington"
+description: "Evidence for the relationship: Federal Reserve based in Wilmington"
 relationship_id: "rel-a3ba8bf5732b"
 subject: "org-federal-reserve"
 predicate: "based in"
@@ -9,7 +9,7 @@ object: "gpe-wilmington"
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [FBI](/entities/org-federal-reserve) based in [Wilmington, Delaware](/entities/gpe-wilmington)
+## [Federal Reserve](/entities/org-federal-reserve) based in [Wilmington](/entities/gpe-wilmington)
 
 ### Evidence (1 mentions)
 
@@ -19,5 +19,5 @@ object: "gpe-wilmington"
 
 ### Related
 
-- [FBI](/entities/org-federal-reserve)
-- [Wilmington, Delaware](/entities/gpe-wilmington)
+- [Federal Reserve](/entities/org-federal-reserve)
+- [Wilmington](/entities/gpe-wilmington)

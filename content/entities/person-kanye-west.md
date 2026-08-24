@@ -1,6 +1,6 @@
 ---
 title: "Kanye West"
-description: "Kanye West (People) - 143 mentions"
+description: "Kanye West (People) - 159 mentions"
 id: "person-kanye-west"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-09-13">2025-09-11 · 00:09:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4YgrOhhy708.md#ent-person-kanye-west-t-00-48-47">2026-02-09 · 00:48:47</a></strong></div>
-<div><span>Episodes</span><strong>30</strong></div>
-<div><span>Mentions</span><strong>143</strong></div>
-<div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>21</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-48-49">2026-03-18 · 00:48:56</a></strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>159</strong></div>
+<div><span>Statements by</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>27</strong></div>
+<div><span>Relationships</span><strong>13</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -67,6 +67,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-kanye-west-t-00-00-00" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-kanye-west-t-00-04-02" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-kanye-west-t-00-04-02" style="--pulse-height:8%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-20-15" style="--pulse-height:46%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 16 mentions" title="2026-03-18 · 16 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -102,6 +103,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-kanye-west-t-00-00-00) | 2 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-kanye-west-t-00-04-02) | 2 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-kanye-west-t-00-04-02) | 2 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-20-15) | 16 |
 
 </details>
 </section>
@@ -109,7 +111,60 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (143)</strong></summary>
+<summary><strong class="section-title">Raw mentions (159)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (16 mentions)</summary>
+
+**[00:20:15](/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-20-15)**
+> "And then so much happens. I told you, I said to you that there was something about Kanye's (Kanye West's) tweet that sort of ripped a hole in reality."
+
+**[00:20:32](/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-20-15)**
+> "...dicting his death that Kanye (Kanye West) tweets, "I love the way Candace Owens thinks," w..."
+
+**[00:23:34](/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-22-57)**
+> "... trying to pull me and Kanye (Kanye West) and Charlie (Charlie Kirk) apart. You just felt ..."
+
+**[00:23:40](/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-23-40)**
+> "And out of nowhere, Kanye (Kanye West), who did actually help me design the BLEXIT logo..."
+
+**[00:24:24](/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-24-24)**
+> "...ugh. I mean, I love, love Ye (Kanye West), love him now, but, like, it was just—it was unt..."
+
+**[00:24:50](/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-24-50)**
+> "...rika (Erika Kirk) knew Kanye (Kanye West)."
+
+**[00:25:19](/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-24-50)**
+> "...rika Kirk) didn't know Kanye (Kanye West). What are you talking about? Erika (Erika Kirk) ..."
+
+**[00:25:26](/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-25-26)**
+> "...d I were doing all the Kanye (Kanye West) stuff she's never been with him it's not picture..."
+
+**[00:25:52](/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-25-26)**
+> "...eople that were around Kanye (Kanye West), that she had family that was around Kanye (Kany..."
+
+**[00:26:29](/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-26-12)**
+> "...lie (Charlie Kirk) nor Kanye (Kanye West) knew that Erika (Erika Kirk) knew someone on Kan..."
+
+**[00:26:40](/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-26-40)**
+> "... out she knows why why Kanye (Kanye West) like his hand was forced Let me tell you guys ri..."
+
+**[00:27:10](/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-26-40)**
+> "...will find out who in Kanye's (Kanye West's) circle knew Erika (Erika Kirk) when that tweet w..."
+
+**[00:27:14](/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-27-14)**
+> "...ill find out. I will call Ye (Kanye West), and I will find out. I will figure out how dupl..."
+
+**[00:28:20](/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-28-00)**
+> "...real estate license, Kanye's (Kanye West's) tweeting, peace out, BLEXIT, Erika (Erika Kirk) ..."
+
+**[00:29:46](/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-29-46)**
+> "... people that were in Kanye's (Kanye West's) orbit when he sent that tweet out."
+
+**[00:48:56](/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-48-49)**
+> "...ving learned about the Kanye (Kanye West) thing, I can't, I can't even go halfway."
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (2 mentions)</summary>
@@ -767,6 +822,18 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 <details>
+<summary>Worked With (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:23:40](/episodes/ep-_vg7ucP1E0g.md#t-00-23-40): “And out of nowhere, Kanye (Kanye West), who did actually help me design the BLEXIT logo in Chicago, he was getting an insane amount of pressure and told that he could not get involved in politics. He's putting on the MAGA hat, things are going crazy. I think Kim (Kim Kardashian) was threatening divorce at some point, if I recall correctly, and Kanye (Kanye West) cracks and he tweets a series of tweets. He writes, "I introduced Candace to the person who made the logo, and they didn't want their name on it, so she used mine."”
+
+</details>
+
+</details>
+
+<details>
 <summary>Referenced By (6)</summary>
 
 - **[Scott Adams](/entities/person-scott-adams.md)** criticized this
@@ -818,7 +885,18 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Kanye West (3)</strong></summary>
+<summary><strong class="section-title">Statements by Kanye West (5)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (2)</summary>
+
+- [00:24:10](/episodes/ep-_vg7ucP1E0g.md#t-00-23-40) [✓] (Claim) ["I never wanted any association with BLEXIT and I have nothing to do with it"](/statements/statement-c2699df5f8da.md)
+  - About: [Blexit](/entities/org-blexit.md)
+
+- [00:24:10](/episodes/ep-_vg7ucP1E0g.md#t-00-23-40) [○] (Opinion) ["My eyes are now wide open and I now realize that I have been used to spread mess..."](/statements/statement-3291cafbc150.md)
+  - About: [Kanye West](/entities/person-kanye-west.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1)</summary>
@@ -839,7 +917,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <details>
 <summary>To My Friend, Charlie Kirk. (1)</summary>
 
-- [00:10:19](/episodes/ep-_dRaEO47-co.md#t-00-09-57) [○] (Opinion) ["Kanye West tweeted 'I love the way Candace thinks'"](/statements/statement-db65a10129a1.md)
+- [00:10:19](/episodes/ep-_dRaEO47-co.md#t-00-09-57) [✓] (Opinion) ["Kanye West tweeted 'I love the way Candace thinks'"](/statements/statement-db65a10129a1.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
@@ -847,7 +925,29 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Kanye West (21)</strong></summary>
+<summary><strong class="section-title">Statements about Kanye West (27)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (6)</summary>
+
+- [00:23:40](/episodes/ep-_vg7ucP1E0g.md#t-00-23-40) (Claim) **Candace Owens**: ["Kanye West did help me design the BLEXIT logo in Chicago"](/statements/statement-db664f554f84.md)
+  - Also about: [Blexit](/entities/org-blexit.md)
+
+- [00:24:10](/episodes/ep-_vg7ucP1E0g.md#t-00-23-40) (Opinion) **Kanye West** (via quoted tweet): ["My eyes are now wide open and I now realize that I have been used to s..."](/statements/statement-3291cafbc150.md)
+
+- [00:25:52](/episodes/ep-_vg7ucP1E0g.md#t-00-25-26) (Accusation) **Anonymous Source #1 (Ep _vg7ucP1E0g)** (via read message): ["Erika Kirk was back-channeling, claimed to know people and family arou..."](/statements/statement-41bd8b6b88a0.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Blexit](/entities/org-blexit.md)
+
+- [00:26:15](/episodes/ep-_vg7ucP1E0g.md#t-00-26-12) (Claim) **Candace Owens**: ["The proof from the young woman establishes at least that Erika Kirk cl..."](/statements/statement-5c5f81350d80.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:27:10](/episodes/ep-_vg7ucP1E0g.md#t-00-26-40) (Promise) **Candace Owens**: ["I will call Kanye West and find out who in his circle knew Erika Kirk ..."](/statements/statement-a3b0f6faebea.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Blexit](/entities/org-blexit.md)
+
+- [00:29:37](/episodes/ep-_vg7ucP1E0g.md#t-00-29-11) (Claim) **Candace Owens**: ["Charlie Kirk did not know that Erika Kirk was telling people she knew ..."](/statements/statement-cdfbfeacb437.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Blexit](/entities/org-blexit.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (2)</summary>

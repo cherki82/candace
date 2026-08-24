@@ -1,6 +1,6 @@
 ---
 title: "White House"
-description: "White House (Organizations) - 59 mentions"
+description: "White House (Organizations) - 89 mentions"
 id: "org-white-house"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-white-house-t-00-04-16">2025-09-11 · 00:04:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-white-house-t-00-00-38">2026-03-02 · 00:01:11</a></strong></div>
-<div><span>Episodes</span><strong>29</strong></div>
-<div><span>Mentions</span><strong>59</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-white-house-t-00-33-50">2026-03-24 · 00:33:50</a></strong></div>
+<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>89</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>22</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -65,6 +65,13 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-white-house-t-00-27-23" style="--pulse-height:14%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-white-house-t-00-42-25" style="--pulse-height:29%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-white-house-t-00-00-38" style="--pulse-height:29%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-white-house-t-00-23-14" style="--pulse-height:57%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 4 mentions" title="2026-03-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-white-house-t-00-12-14" style="--pulse-height:100%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 7 mentions" title="2026-03-10 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-white-house-t-00-06-57" style="--pulse-height:71%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 5 mentions" title="2026-03-12 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-org-white-house-t-00-00-23" style="--pulse-height:86%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 6 mentions" title="2026-03-17 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-white-house-t-00-15-14" style="--pulse-height:57%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 4 mentions" title="2026-03-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-white-house-t-00-12-27" style="--pulse-height:29%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-white-house-t-00-33-24" style="--pulse-height:29%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -99,6 +106,13 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-white-house-t-00-27-23) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-white-house-t-00-42-25) | 2 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-white-house-t-00-00-38) | 2 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-white-house-t-00-23-14) | 4 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-white-house-t-00-12-14) | 7 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-white-house-t-00-06-57) | 5 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-org-white-house-t-00-00-23) | 6 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-white-house-t-00-15-14) | 4 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-white-house-t-00-12-27) | 2 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-white-house-t-00-33-24) | 2 |
 
 </details>
 </section>
@@ -106,7 +120,132 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (59)</strong></summary>
+<summary><strong class="section-title">Raw mentions (89)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (2 mentions)</summary>
+
+**[00:33:38](/episodes/ep-SgVcnx4Oh30.md#ent-org-white-house-t-00-33-24)**
+> "visited the White House"
+
+**[00:33:50](/episodes/ep-SgVcnx4Oh30.md#ent-org-white-house-t-00-33-50)**
+> "...of a sudden my sources at the white house are like hey Andrew (Andrew Kolvet)'s here it's k..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (2 mentions)</summary>
+
+**[00:12:27](/episodes/ep-B9TyCs-6o_0.md#ent-org-white-house-t-00-12-27)**
+> "the topic of charlie's support for israel instead allowed a force of zionists who were harassing him in his last days zionists like josh hammer to lie about what charlie was going through right so i came out and told the truth uh Megyn Kelly came out and told the truth Tucker Carlson told the truth he was having changing opinions on israel now we're way far down we know how true that is brett weinstein has released his messages about iran you hear joe kent telling you The last time he saw him in the White House,"
+
+**[00:34:11](/episodes/ep-B9TyCs-6o_0.md#ent-org-white-house-t-00-34-11)**
+> "... not been called yet from the White House. Anyway, I'm going to show you guys, by the way, ..."
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (6 mentions)</summary>
+
+**[00:00:23](/episodes/ep-k8ueJdPFel4.md#ent-org-white-house-t-00-00-23)**
+> "... talk about more of that. The White House can keep posting their super-fake Mortal Kombat-t..."
+
+**[00:10:54](/episodes/ep-k8ueJdPFel4.md#ent-org-white-house-t-00-10-41)**
+> "...bout what he was doing at the White House."
+
+**[00:11:05](/episodes/ep-k8ueJdPFel4.md#ent-org-white-house-t-00-10-41)**
+> "...spending two full days at the White House trying to persuade President Trump (Donald J. Tru..."
+
+**[00:12:55](/episodes/ep-k8ueJdPFel4.md#ent-org-white-house-t-00-12-38)**
+> "...ll I can. Truly, I was in the White House all day fighting for America. Same tomorrow."
+
+**[00:40:44](/episodes/ep-k8ueJdPFel4.md#ent-org-white-house-t-00-40-19)**
+> "...ry operation. Get them! Yeah! White House! Girl power!"
+
+**[00:53:38](/episodes/ep-k8ueJdPFel4.md#ent-org-white-house-t-00-53-38)**
+> "...red kushner um is running the white house with his father who is in Paris."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (4 mentions)</summary>
+
+**[00:15:14](/episodes/ep-I0OaY6Gryqk.md#ent-org-white-house-t-00-15-14)**
+> "Why does the White House allow these people to have wins?"
+
+**[00:16:03](/episodes/ep-I0OaY6Gryqk.md#ent-org-white-house-t-00-15-57)**
+> "...ck, who was the former deputy White House chief who called him a crazed egomaniac who was o..."
+
+**[00:19:26](/episodes/ep-I0OaY6Gryqk.md#ent-org-white-house-t-00-19-26)**
+> "...nal, wanted by the ICC in the White House."
+
+**[00:49:03](/episodes/ep-I0OaY6Gryqk.md#ent-org-white-house-t-00-49-03)**
+> "...down four airports around the White House."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (5 mentions)</summary>
+
+**[00:07:19](/episodes/ep-5-HUyv9LyMg.md#ent-org-white-house-t-00-06-57)**
+> "They certainly visited the White House multiple times. They even were invited to the ann..."
+
+**[00:10:38](/episodes/ep-5-HUyv9LyMg.md#ent-org-white-house-t-00-10-31)**
+> "...verybody knows is running the White House. He was running the White House back in 2020. He'..."
+
+**[00:11:03](/episodes/ep-5-HUyv9LyMg.md#ent-org-white-house-t-00-10-31)**
+> "On paper, he's running the White House, but it's always been Jared Kushner, okay? He was..."
+
+**[00:49:30](/episodes/ep-5-HUyv9LyMg.md#ent-org-white-house-t-00-49-30)**
+> "...k City that you had keys to a White House and you were ushering in mobs. I'd be like, I hav..."
+
+**[01:00:54](/episodes/ep-5-HUyv9LyMg.md#ent-org-white-house-t-01-00-54)**
+> "... made that statement, and the White House has not disputed it, have they? People online: oh..."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (7 mentions)</summary>
+
+**[00:12:14](/episodes/ep-ZzAT2xijKGQ.md#ent-org-white-house-t-00-12-14)**
+> "people that follow and watch the show at the White House"
+
+**[00:13:01](/episodes/ep-ZzAT2xijKGQ.md#ent-org-white-house-t-00-12-49)**
+> "...hat general region are senior White House staff."
+
+**[00:13:50](/episodes/ep-ZzAT2xijKGQ.md#ent-org-white-house-t-00-13-26)**
+> "...s pre-recorded. People in the White House and all around the world think Andrew (Andrew Kol..."
+
+**[00:14:36](/episodes/ep-ZzAT2xijKGQ.md#ent-org-white-house-t-00-14-36)**
+> "...ut why Andrew Kolvet's in the White House now Andrew (Andrew Kolvet) the reason why this al..."
+
+**[00:15:08](/episodes/ep-ZzAT2xijKGQ.md#ent-org-white-house-t-00-14-36)**
+> "... were taking a meeting at the White House."
+
+**[00:15:18](/episodes/ep-ZzAT2xijKGQ.md#ent-org-white-house-t-00-15-18)**
+> "...throwing flashy events at the White House, Mar-a-Lago, posing, all glammed up."
+
+**[00:28:52](/episodes/ep-ZzAT2xijKGQ.md#ent-org-white-house-t-00-28-39)**
+> "...t. We got this meeting at the White House that they didn't brag about."
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (4 mentions)</summary>
+
+**[00:23:14](/episodes/ep-i8m_6D4QGmk.md#ent-org-white-house-t-00-23-14)**
+> "The White House"
+
+**[01:04:01](/episodes/ep-i8m_6D4QGmk.md#ent-org-white-house-t-01-04-01)**
+> "...nk that Biden was running the White House?"
+
+**[01:04:09](/episodes/ep-i8m_6D4QGmk.md#ent-org-white-house-t-01-04-01)**
+> "... do you think was running the White House? Biden couldn't even form a sentence."
+
+**[01:04:13](/episodes/ep-i8m_6D4QGmk.md#ent-org-white-house-t-01-04-01)**
+> "...pparatus that was running the White House when Biden was in office, that would have continu..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (2 mentions)</summary>
@@ -436,6 +575,18 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Employs (1)</summary>
+
+- **[Jared Kushner](/entities/person-jared-kushner.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:53:38](/episodes/ep-k8ueJdPFel4.md#t-00-53-38): “um for tucker carlson you know like real ghetto real soon uh lauren it's already pretty ghetto here but that's just gonna send that's really gonna send people like you're angry at him because he doesn't want american men and women to die overseas for israel like what is wrong with this administration it's totally wacky this is what happens when jared kushner um is running the white house with his father who is in Paris.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Met With (1)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
@@ -460,7 +611,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** met with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -476,12 +627,80 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 
 </details>
 
+- **[Jared Kushner](/entities/person-jared-kushner.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:53:38](/episodes/ep-k8ueJdPFel4.md#t-00-53-38): “um for tucker carlson you know like real ghetto real soon uh lauren it's already pretty ghetto here but that's just gonna send that's really gonna send people like you're angry at him because he doesn't want american men and women to die overseas for israel like what is wrong with this administration it's totally wacky this is what happens when jared kushner um is running the white house with his father who is in Paris.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about White House (10)</strong></summary>
+<summary><strong class="section-title">Statements about White House (22)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1)</summary>
+
+- [00:33:38](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24) (Accusation) **Candace Owens**: ["Candace Owens accused Andrew Kolvet of previously visiting the White H..."](/statements/statement-cdc9c0117a68.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Kash Patel](/entities/person-kash-patel.md)
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (2)</summary>
+
+- [00:11:05](/episodes/ep-k8ueJdPFel4.md#t-00-10-41) (Claim) **Bret Weinstein** (via quoted post): ["On June 18, Bret Weinstein had a text exchange with Charlie Kirk, who ..."](/statements/statement-df4e61f1781a.md)
+  - Also about: [Bret Weinstein](/entities/person-bret-weinstein.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:12:55](/episodes/ep-k8ueJdPFel4.md#t-00-12-38) (Claim) **Charlie Kirk** (via read message): ["Charlie Kirk said he was doing all he could and had spent all day at t..."](/statements/statement-5d303a9c1b9c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (4)</summary>
+
+- [00:07:19](/episodes/ep-5-HUyv9LyMg.md#t-00-06-57) (Claim) **Candace Owens**: ["The Alexander brothers visited the White House multiple times, attende..."](/statements/statement-474962338b91.md)
+  - Also about: [Tal Alexander](/entities/person-tal-alexander.md), [Oren Alexander](/entities/person-oren-alexander.md), [Alon Alexander](/entities/person-alon-alexander.md)
+
+- [00:10:38](/episodes/ep-5-HUyv9LyMg.md#t-00-10-31) (Accusation) **Candace Owens**: ["Jared Kushner is effectively running the White House for Donald Trump ..."](/statements/statement-80d9a99eb30e.md)
+  - Also about: [Jared Kushner](/entities/person-jared-kushner.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:11:54](/episodes/ep-5-HUyv9LyMg.md#t-00-11-54) (Claim) **Candace Owens**: ["Andrew Kolvet and other Turning Point USA affiliates met top White Hou..."](/statements/statement-222e6f2772bd.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [01:00:54](/episodes/ep-5-HUyv9LyMg.md#t-01-00-54) (Accusation) **Candace Owens**: ["France, specifically the French Foreign Legion, was present on the day..."](/statements/statement-4c07adc38894.md)
+  - Also about: [France](/entities/gpe-france.md), [French Foreign Legion](/entities/org-french-foreign-legion.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (3)</summary>
+
+- [00:12:14](/episodes/ep-ZzAT2xijKGQ.md#t-00-12-14) (Claim) **Anonymous Source #2 (Ep ZzAT2xijKGQ)** (via read message): ["Andrew Kolvet and Michael McCoy were seen in the West Wing with two wo..."](/statements/statement-0490491f912e.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [00:13:26](/episodes/ep-ZzAT2xijKGQ.md#t-00-12-49) (Accusation) **Candace Owens**: ["The January 29 Charlie Kirk Show episode with Kash Patel was prerecord..."](/statements/statement-a29214ade8fb.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Kash Patel](/entities/person-kash-patel.md), [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:15:48](/episodes/ep-ZzAT2xijKGQ.md#t-00-15-18) (Accusation) **Candace Owens**: ["Is it possible that the West Wing meeting was related to the Epstein f..."](/statements/statement-9b3f8e03f81f.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (2)</summary>
+
+- [00:23:09](/episodes/ep-i8m_6D4QGmk.md#t-00-22-33) (Accusation) **Candace Owens**: ["Erika Kirk's ultimate goal was the White House."](/statements/statement-a8dfd05f6af8.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [01:04:13](/episodes/ep-i8m_6D4QGmk.md#t-01-04-01) (Accusation) **Candace Owens**: ["The same apparatus ran the White House under Joe Biden, would have run..."](/statements/statement-554585975e83.md)
+  - Also about: [Joe Biden](/entities/person-joe-biden.md), [Kamala Harris](/entities/person-kamala-harris.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1)</summary>

@@ -22,7 +22,7 @@ type: "factual_claim"
 ## About
 
 - [Colorado Springs](/entities/gpe-colorado-springs.md) (gpe)
-- [Las Vegas](/entities/gpe-las-vegas.md) (gpe)
+- [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md) (gpe)
 
 ## Source
 

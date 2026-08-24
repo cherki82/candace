@@ -1,6 +1,6 @@
 ---
 title: "Tucker Carlson"
-description: "Tucker Carlson (People) - 418 mentions"
+description: "Tucker Carlson (People) - 463 mentions"
 id: "person-tucker-carlson"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tucker-carlson-t-00-12-57">2025-09-15 · 00:13:18</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-36-07">2026-08-14 · 00:36:36</a></strong></div>
-<div><span>Episodes</span><strong>57</strong></div>
-<div><span>Mentions</span><strong>418</strong></div>
-<div><span>Statements by</span><strong>38</strong></div>
-<div><span>Statements about</span><strong>45</strong></div>
-<div><span>Relationships</span><strong>68</strong></div>
+<div><span>Episodes</span><strong>66</strong></div>
+<div><span>Mentions</span><strong>463</strong></div>
+<div><span>Statements by</span><strong>43</strong></div>
+<div><span>Statements about</span><strong>52</strong></div>
+<div><span>Relationships</span><strong>76</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -90,6 +90,15 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-tucker-carlson-t-00-20-00" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-tucker-carlson-t-00-32-35" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-tucker-carlson-t-00-16-38" style="--pulse-height:8%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 3 mentions" title="2026-02-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-person-tucker-carlson-t-00-58-48" style="--pulse-height:8%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-tucker-carlson-t-00-13-13" style="--pulse-height:8%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 3 mentions" title="2026-03-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-tucker-carlson-t-00-01-17" style="--pulse-height:15%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 6 mentions" title="2026-03-09 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-tucker-carlson-t-00-54-54" style="--pulse-height:8%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-tucker-carlson-t-00-43-22" style="--pulse-height:8%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-tucker-carlson-t-00-53-07" style="--pulse-height:15%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 6 mentions" title="2026-03-12 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-person-tucker-carlson-t-00-01-03" style="--pulse-height:35%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 14 mentions" title="2026-03-17 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-tucker-carlson-t-00-16-40" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-tucker-carlson-t-00-01-20" style="--pulse-height:18%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 7 mentions" title="2026-03-23 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-28-54" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -151,6 +160,15 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-tucker-carlson-t-00-20-00) | 1 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-tucker-carlson-t-00-32-35) | 1 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-tucker-carlson-t-00-16-38) | 3 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-person-tucker-carlson-t-00-58-48) | 1 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-tucker-carlson-t-00-13-13) | 3 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-tucker-carlson-t-00-01-17) | 6 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-tucker-carlson-t-00-54-54) | 2 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-person-tucker-carlson-t-00-43-22) | 1 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-tucker-carlson-t-00-53-07) | 6 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-tucker-carlson-t-00-01-03) | 14 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-tucker-carlson-t-00-16-40) | 1 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-tucker-carlson-t-00-01-20) | 7 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-28-54) | 3 |
 
 </details>
@@ -159,7 +177,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (418)</strong></summary>
+<summary><strong class="section-title">Raw mentions (463)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -172,6 +190,174 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 **[00:36:36](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-36-07)**
 > "Tucker Carlson then comes out and confirms the conversations tha..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (7 mentions)</summary>
+
+**[00:01:27](/episodes/ep-B9TyCs-6o_0.md#ent-person-tucker-carlson-t-00-01-20)**
+> "Joe Kent after resigning went on to Tucker Carlson"
+
+**[00:03:15](/episodes/ep-B9TyCs-6o_0.md#ent-person-tucker-carlson-t-00-03-15)**
+> "Tucker Carlson: No. Joe Kent: That. I— Tucker Carlson: No, I don..."
+
+**[00:04:18](/episodes/ep-B9TyCs-6o_0.md#ent-person-tucker-carlson-t-00-04-18)**
+> "...nk that him sitting down with tucker and revealing this would shock the senses of turn..."
+
+**[00:05:40](/episodes/ep-B9TyCs-6o_0.md#ent-person-tucker-carlson-t-00-05-40)**
+> "...they normally loop me in with tucker carlson megyn kelly Kelly, I stand alone in that group."
+
+**[00:06:09](/episodes/ep-B9TyCs-6o_0.md#ent-person-tucker-carlson-t-00-05-40)**
+> "Tucker Carlson has said he is a friend of Erika Kirk, but Kelly ..."
+
+**[00:12:27](/episodes/ep-B9TyCs-6o_0.md#ent-person-tucker-carlson-t-00-12-27)**
+> "...y came out and told the truth Tucker Carlson told the truth he was having changing opinions on..."
+
+**[00:45:45](/episodes/ep-B9TyCs-6o_0.md#ent-person-tucker-carlson-t-00-45-32)**
+> "Megyn Kelly told the truth. Tucker Carlson told the truth. And you guys hate us for that. Yo..."
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (14 mentions)</summary>
+
+**[00:01:03](/episodes/ep-k8ueJdPFel4.md#ent-person-tucker-carlson-t-00-01-03)**
+> "... class of psychos to go after Tucker Carlson."
+
+**[00:38:19](/episodes/ep-k8ueJdPFel4.md#ent-person-tucker-carlson-t-00-38-19)**
+> "...t people like myself and like Tucker Carlson and Megyn Kelly, however ignorant we may have bee..."
+
+**[00:39:18](/episodes/ep-k8ueJdPFel4.md#ent-person-tucker-carlson-t-00-39-04)**
+> "... to, quote unquote, prosecute Tucker Carlson or to bankrupt Candace Owens register to the publ..."
+
+**[00:40:19](/episodes/ep-k8ueJdPFel4.md#ent-person-tucker-carlson-t-00-40-19)**
+> "...current demands, which is for Tucker Carlson to be arrested."
+
+**[00:40:37](/episodes/ep-k8ueJdPFel4.md#ent-person-tucker-carlson-t-00-40-19)**
+> "...r in the first place, because Tucker Carlson actually listened to the American people and accu..."
+
+**[00:41:22](/episodes/ep-k8ueJdPFel4.md#ent-person-tucker-carlson-t-00-41-02)**
+> "...fter me. They got to go after Tucker Carlson and listen to what Tucker Carlson says that he di..."
+
+**[00:43:52](/episodes/ep-k8ueJdPFel4.md#ent-person-tucker-carlson-t-00-43-43)**
+> "... his own merit, which Tucker (Tucker Carlson) does contends, but he was retweeting when I said..."
+
+**[00:44:32](/episodes/ep-k8ueJdPFel4.md#ent-person-tucker-carlson-t-00-44-17)**
+> "... tweeted this. It sounds like Tucker Carlson is learning the hard way."
+
+**[00:45:50](/episodes/ep-k8ueJdPFel4.md#ent-person-tucker-carlson-t-00-45-40)**
+> "... evidence. As I told the DOJ, Tucker Carlson isn't the only one who is likely violating FARA."
+
+**[00:46:26](/episodes/ep-k8ueJdPFel4.md#ent-person-tucker-carlson-t-00-46-26)**
+> "...promised by foreign actors if Tucker Carlson gets arrested before anybody on the Epstein list."
+
+**[00:46:36](/episodes/ep-k8ueJdPFel4.md#ent-person-tucker-carlson-t-00-46-26)**
+> "...ly, is that it is more likely Tucker Carlson will be arrested than anybody on the Epstein list..."
+
+**[00:51:29](/episodes/ep-k8ueJdPFel4.md#ent-person-tucker-carlson-t-00-51-18)**
+> "... said extend those prayers to tucker and Megyn Kelly i don't know why they have been s..."
+
+**[00:52:45](/episodes/ep-k8ueJdPFel4.md#ent-person-tucker-carlson-t-00-52-31)**
+> "...writes, CIA targeting Tucker (Tucker Carlson) for talking"
+
+**[00:53:38](/episodes/ep-k8ueJdPFel4.md#ent-person-tucker-carlson-t-00-53-38)**
+> "um for tucker carlson you know like real ghetto real soon uh lauren it'..."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>
+
+**[00:17:01](/episodes/ep-I0OaY6Gryqk.md#ent-person-tucker-carlson-t-00-16-40)**
+> "lock up Candace Owens, lock up Tucker Carlson"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (6 mentions)</summary>
+
+**[00:53:16](/episodes/ep-5-HUyv9LyMg.md#ent-person-tucker-carlson-t-00-53-07)**
+> "...s very funny. I think Buckley Carlson is absolutely hilarious."
+
+**[00:54:26](/episodes/ep-5-HUyv9LyMg.md#ent-person-tucker-carlson-t-00-54-13)**
+> ".... Katie Bliss writes, Tucker (Tucker Carlson) has been a voice I look to lately for insight."
+
+**[00:54:34](/episodes/ep-5-HUyv9LyMg.md#ent-person-tucker-carlson-t-00-54-13)**
+> "...story does not add up. I wish Tucker Carlson would open up more on this."
+
+**[00:54:42](/episodes/ep-5-HUyv9LyMg.md#ent-person-tucker-carlson-t-00-54-13)**
+> "...I think it's hard for Tucker (Tucker Carlson) for a couple of reasons. First is he has relatio..."
+
+**[00:54:54](/episodes/ep-5-HUyv9LyMg.md#ent-person-tucker-carlson-t-00-54-54)**
+> "...ybody gets along with Tucker (Tucker Carlson). Like the people that don't get along with Tucke..."
+
+**[00:55:04](/episodes/ep-5-HUyv9LyMg.md#ent-person-tucker-carlson-t-00-54-54)**
+> "And Tucker (Tucker Carlson) just genuinely wants to get along to get along w..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1 mentions)</summary>
+
+**[00:43:47](/episodes/ep-H9p2ZGHAs9A.md#ent-person-tucker-carlson-t-00-43-22)**
+> "I just don't get it. Had I been CK (Charlie Kirk)'s wife, I would have had Candace and Tucker (Tucker Carlson) headlining his memorial and making his donors, who made him so fearful, regret the day that they started threatening him."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (2 mentions)</summary>
+
+**[00:55:05](/episodes/ep-ZzAT2xijKGQ.md#ent-person-tucker-carlson-t-00-54-54)**
+> "pray for Tucker Carlson"
+
+**[00:53:07](/episodes/ep-ZzAT2xijKGQ.md#ent-person-tucker-carlson-t-00-52-58)**
+> "...this person's under psychosis tucker must be stopped they're they're just enraged at a..."
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (6 mentions)</summary>
+
+**[00:01:17](/episodes/ep-i8m_6D4QGmk.md#ent-person-tucker-carlson-t-00-01-17)**
+> "Tucker Carlson, he is trending right now."
+
+**[00:25:37](/episodes/ep-i8m_6D4QGmk.md#ent-person-tucker-carlson-t-00-25-37)**
+> "...eople are feeling inspired by Tucker Carlson to stand up and to recognize what it is we are fi..."
+
+**[00:29:59](/episodes/ep-i8m_6D4QGmk.md#ent-person-tucker-carlson-t-00-29-42)**
+> "... and meltdown on X because of Tucker Carlson's tweet."
+
+**[00:51:17](/episodes/ep-i8m_6D4QGmk.md#ent-person-tucker-carlson-t-00-51-09)**
+> "...n Iran, right? Americans hate Tucker Carlson, they hate Megyn Kelly, they hate Candace Owens, ..."
+
+**[00:54:00](/episodes/ep-i8m_6D4QGmk.md#ent-person-tucker-carlson-t-00-53-52)**
+> "Stop screaming about Tucker Carlson. You have something much more important to do. Th..."
+
+**[01:08:24](/episodes/ep-i8m_6D4QGmk.md#ent-person-tucker-carlson-t-01-07-53)**
+> "Pray for Tucker because he is bringing up these very same topics ..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (3 mentions)</summary>
+
+**[00:13:24](/episodes/ep-DdPjoy5W-wY.md#ent-person-tucker-carlson-t-00-13-13)**
+> "... her and did it publicly like Tucker Carlson. Do you guys remember that? He alone, his alp com..."
+
+**[00:13:56](/episodes/ep-DdPjoy5W-wY.md#ent-person-tucker-carlson-t-00-13-56)**
+> "...rcentage at all. That is what Tucker Carlson was able to provide, just Tucker Carlson."
+
+**[01:02:50](/episodes/ep-DdPjoy5W-wY.md#ent-person-tucker-carlson-t-01-02-38)**
+> "...people that I look up to like Tucker Carlson who is just I mean he is really stepping up right..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
+
+**[00:58:48](/episodes/ep-y8lak3CRwDw.md#ent-person-tucker-carlson-t-00-58-48)**
+> "...e way, not Beecrom's website, Tucker Carlson, man. He is just crushing it. He is just makes me..."
 
 </details>
 
@@ -1693,10 +1879,22 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>ep-y8lak3CRwDw (1 mentions)</summary>
+<summary>ep-5m-Wn6Pr5rM (5 mentions)</summary>
 
-**[00:58:48](/episodes/ep-y8lak3CRwDw.md#t-00-58-48)**
-> "...e way, not Beecrom's website, Tucker Carlson, man. He is just crushing it. He is just makes me..."
+**[00:01:06](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-06)**
+> "Tucker Carlson"
+
+**[00:30:56](/episodes/ep-5m-Wn6Pr5rM.md#t-00-30-56)**
+> "...campaign that controls me and Tucker Carlson and Joe Kent and General Michael Flynn."
+
+**[00:44:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-44-03)**
+> "catholic or something and tucker who she mentioned is episcopalian so he's just al..."
+
+**[00:47:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-12)**
+> "...u know threats against me and Tucker Carlson and for some reason Erika thought that that was J..."
+
+**[00:48:28](/episodes/ep-5m-Wn6Pr5rM.md#t-00-48-28)**
+> "... me. Probably should have put Tucker's face there too, if we're being honest."
 
 </details>
 
@@ -1718,6 +1916,18 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
+<summary>Accused By (1)</summary>
+
+- **[Laura Loomer](/entities/person-laura-loomer.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:45:50](/episodes/ep-k8ueJdPFel4.md#t-00-45-40): “I have attached my supporting evidence. As I told the DOJ, Tucker Carlson isn't the only one who is likely violating FARA.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Appeared With (3)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
@@ -1727,7 +1937,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 </details>
 
-- **[Donald Trump](/entities/person-donald-trump.md)**
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:10:11](/episodes/ep-sreYYcID-QY.md#t-00-09-40): “I was not invited to speak alongside President Donald Trump and JD Vance on the stage with Tucker at a memorial event.”
@@ -1895,16 +2105,17 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:04:43](/episodes/ep-6DhWawD4ZiM.md#t-00-04-36): “He is friends with Erika”
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:06:09](/episodes/ep-B9TyCs-6o_0.md#t-00-05-40): “Tucker Carlson has said he is a friend of Erika Kirk”
 
 </details>
 
 </details>
 
 <details>
-<summary>Interviewed (7)</summary>
+<summary>Interviewed (9)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -1962,6 +2173,20 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 </details>
 
+- **[Bret Weinstein](/entities/person-bret-weinstein.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:54:34](/episodes/ep-5-HUyv9LyMg.md#t-00-54-13): “His latest with Bret Weinstein was one for the books”
+
+</details>
+
+- **[Joe Kent](/entities/person-joe-kent.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:01:27](/episodes/ep-B9TyCs-6o_0.md#t-00-01-20): “Joe Kent after resigning went on to Tucker Carlson”
+
+</details>
+
 </details>
 
 <details>
@@ -2005,6 +2230,18 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
+<summary>Supporter Of (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:13:24](/episodes/ep-DdPjoy5W-wY.md#t-00-13-13): “Forget the complete strangers, but also people who just knew her and did it publicly like Tucker Carlson. Do you guys remember that? He alone, his alp company raised $5.4 million for her.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Target Of Criticism From (1)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
@@ -2018,7 +2255,14 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>Referenced By (34)</summary>
+<summary>Referenced By (38)</summary>
+
+- **[Laura Loomer](/entities/person-laura-loomer.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:45:50](/episodes/ep-k8ueJdPFel4.md#t-00-45-40): “I have attached my supporting evidence. As I told the DOJ, Tucker Carlson isn't the only one who is likely violating FARA.”
+
+</details>
 
 - **[Mike Pompeo](/entities/person-mike-pompeo.md)** accused by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -2034,7 +2278,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 </details>
 
-- **[Donald Trump](/entities/person-donald-trump.md)** appeared with this
+- **[Donald J. Trump](/entities/person-donald-trump.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:10:11](/episodes/ep-sreYYcID-QY.md#t-00-09-40): “I was not invited to speak alongside President Donald Trump and JD Vance on the stage with Tucker at a memorial event.”
@@ -2172,9 +2416,10 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:04:43](/episodes/ep-6DhWawD4ZiM.md#t-00-04-36): “He is friends with Erika”
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:06:09](/episodes/ep-B9TyCs-6o_0.md#t-00-05-40): “Tucker Carlson has said he is a friend of Erika Kirk”
 
 </details>
 
@@ -2265,6 +2510,27 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 </details>
 
+- **[Bret Weinstein](/entities/person-bret-weinstein.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:54:34](/episodes/ep-5-HUyv9LyMg.md#t-00-54-13): “His latest with Bret Weinstein was one for the books”
+
+</details>
+
+- **[Joe Kent](/entities/person-joe-kent.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:01:27](/episodes/ep-B9TyCs-6o_0.md#t-00-01-20): “Joe Kent after resigning went on to Tucker Carlson”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** supported by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:13:24](/episodes/ep-DdPjoy5W-wY.md#t-00-13-13): “Forget the complete strangers, but also people who just knew her and did it publicly like Tucker Carlson. Do you guys remember that? He alone, his alp company raised $5.4 million for her.”
+
+</details>
+
 - **[Israel](/entities/gpe-israel.md)** target of criticism from this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
@@ -2278,7 +2544,31 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Tucker Carlson (38)</strong></summary>
+<summary><strong class="section-title">Statements by Tucker Carlson (43)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (4)</summary>
+
+- [00:41:38](/episodes/ep-k8ueJdPFel4.md#t-00-41-38) [✓] (Accusation) ["The CIA is preparing a criminal referral against Tucker Carlson to the Departmen..."](/statements/statement-f7a505a28269.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md)
+
+- [00:41:55](/episodes/ep-k8ueJdPFel4.md#t-00-41-38) [✓] (Accusation) ["Authorities read Tucker Carlson's texts and were apparently considering the Fore..."](/statements/statement-c4d3ce4007e4.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Foreign Agents Registration Act](/entities/law-fara.md)
+
+- [00:42:12](/episodes/ep-k8ueJdPFel4.md#t-00-42-12) [✓] (Claim) ["Tucker Carlson is not an agent of a foreign power, has only one loyalty—the Unit..."](/statements/statement-06df8cb9dd80.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [United States](/entities/gpe-united-states.md)
+
+- [00:42:57](/episodes/ep-k8ueJdPFel4.md#t-00-42-57) [✓] (Accusation) ["Such investigations are used to leak their existence to the media and humiliate ..."](/statements/statement-b0ee3ab8f654.md)
+  - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
+
+- [00:01:49](/episodes/ep-i8m_6D4QGmk.md#t-00-01-17) [○] (Opinion) ["Pray that the spell breaks and the world is saved."](/statements/statement-58df76d9bd31.md)
+
+</details>
 
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (4)</summary>
@@ -2447,7 +2737,38 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tucker Carlson (45)</strong></summary>
+<summary><strong class="section-title">Statements about Tucker Carlson (52)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (6)</summary>
+
+- [00:01:03](/episodes/ep-k8ueJdPFel4.md#t-00-01-03) (Accusation) **Candace Owens**: ["Mark Levin's allies want Tucker Carlson imprisoned, and Carlson has re..."](/statements/statement-cb3020427351.md)
+  - Also about: [Mark Levin](/entities/person-mark-levin.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:41:38](/episodes/ep-k8ueJdPFel4.md#t-00-41-38) (Accusation) **Tucker Carlson** (via quoted speech): ["The CIA is preparing a criminal referral against Tucker Carlson to the..."](/statements/statement-f7a505a28269.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md), [Iran](/entities/gpe-iran.md)
+
+- [00:41:55](/episodes/ep-k8ueJdPFel4.md#t-00-41-38) (Accusation) **Tucker Carlson** (via quoted speech): ["Authorities read Tucker Carlson's texts and were apparently considerin..."](/statements/statement-c4d3ce4007e4.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Foreign Agents Registration Act](/entities/law-fara.md), [Iran](/entities/gpe-iran.md)
+
+- [00:42:12](/episodes/ep-k8ueJdPFel4.md#t-00-42-12) (Claim) **Tucker Carlson** (via quoted speech): ["Tucker Carlson is not an agent of a foreign power, has only one loyalt..."](/statements/statement-06df8cb9dd80.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+- [00:42:57](/episodes/ep-k8ueJdPFel4.md#t-00-42-57) (Accusation) **Tucker Carlson** (via quoted speech): ["Such investigations are used to leak their existence to the media and ..."](/statements/statement-b0ee3ab8f654.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+- [00:45:40](/episodes/ep-k8ueJdPFel4.md#t-00-45-40) (Accusation) **Laura Loomer** (via quoted tweet): ["Laura Loomer created a list of conservative influencers she believes t..."](/statements/statement-9aff611619c4.md)
+  - Also about: [Laura Loomer](/entities/person-laura-loomer.md), [Iran](/entities/gpe-iran.md), [Russia](/entities/gpe-russia.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1)</summary>
+
+- [00:13:24](/episodes/ep-DdPjoy5W-wY.md#t-00-13-13) (Claim) **Candace Owens**: ["Candace Owens says Tucker Carlson's company raised $5.4 million to hel..."](/statements/statement-a7df0727b9a9.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (2)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Megyn Kelly"
-description: "Megyn Kelly (People) - 160 mentions"
+description: "Megyn Kelly (People) - 186 mentions"
 id: "person-megyn-kelly"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-megyn-kelly-t-00-11-22">2025-09-15 · 00:11:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-02-47-31">2026-08-14 · 02:47:31</a></strong></div>
-<div><span>Episodes</span><strong>37</strong></div>
-<div><span>Mentions</span><strong>160</strong></div>
+<div><span>Episodes</span><strong>43</strong></div>
+<div><span>Mentions</span><strong>186</strong></div>
 <div><span>Statements by</span><strong>15</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
-<div><span>Relationships</span><strong>34</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Relationships</span><strong>40</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -70,6 +70,13 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-megyn-kelly-t-00-31-20" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-megyn-kelly-t-00-37-18" style="--pulse-height:17%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 4 mentions" title="2026-02-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-megyn-kelly-t-00-17-11" style="--pulse-height:30%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 7 mentions" title="2026-02-10 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-person-megyn-kelly-t-00-58-48" style="--pulse-height:8%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-megyn-kelly-t-00-51-09" style="--pulse-height:9%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-megyn-kelly-t-00-35-44" style="--pulse-height:9%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-megyn-kelly-t-00-21-25" style="--pulse-height:9%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-person-megyn-kelly-t-00-03-32" style="--pulse-height:39%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 9 mentions" title="2026-03-17 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-megyn-kelly-t-00-25-18" style="--pulse-height:30%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 7 mentions" title="2026-03-17 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-megyn-kelly-t-00-05-40" style="--pulse-height:13%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 3 mentions" title="2026-03-23 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-00-36-46" style="--pulse-height:9%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -111,6 +118,13 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-megyn-kelly-t-00-31-20) | 1 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-megyn-kelly-t-00-37-18) | 4 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-megyn-kelly-t-00-17-11) | 7 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-person-megyn-kelly-t-00-58-48) | 1 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-megyn-kelly-t-00-51-09) | 2 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-megyn-kelly-t-00-35-44) | 2 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-megyn-kelly-t-00-21-25) | 2 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-megyn-kelly-t-00-03-32) | 9 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-megyn-kelly-t-00-25-18) | 7 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-megyn-kelly-t-00-05-40) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-00-36-46) | 2 |
 
 </details>
@@ -119,7 +133,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (160)</strong></summary>
+<summary><strong class="section-title">Raw mentions (186)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -129,6 +143,119 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 
 **[02:47:31](/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-02-47-31)**
 > "by the way, I remember even Megyn Kelly was like, you know, let's wait,"
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (3 mentions)</summary>
+
+**[00:05:40](/episodes/ep-B9TyCs-6o_0.md#ent-person-megyn-kelly-t-00-05-40)**
+> "...oop me in with tucker carlson megyn kelly Kelly, I stand alone in that group."
+
+**[00:12:27](/episodes/ep-B9TyCs-6o_0.md#ent-person-megyn-kelly-t-00-12-27)**
+> "...ame out and told the truth uh Megyn Kelly came out and told the truth Tucker Carlson told t..."
+
+**[00:45:45](/episodes/ep-B9TyCs-6o_0.md#ent-person-megyn-kelly-t-00-45-32)**
+> "Megyn Kelly told the truth. Tucker Carlson told the truth. An..."
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (9 mentions)</summary>
+
+**[00:03:59](/episodes/ep-k8ueJdPFel4.md#ent-person-megyn-kelly-t-00-03-32)**
+> "fight with both Megyn Kelly and Piers Morgan and to once again mix in this id..."
+
+**[00:04:36](/episodes/ep-k8ueJdPFel4.md#ent-person-megyn-kelly-t-00-04-16)**
+> "...ght for no reason at all with Megyn Kelly. Well, there is a reason. There's always the same..."
+
+**[00:04:46](/episodes/ep-k8ueJdPFel4.md#ent-person-megyn-kelly-t-00-04-16)**
+> "He calls Megyn Kelly a coward and Piers Morgan a clickbait whore or so..."
+
+**[00:05:12](/episodes/ep-k8ueJdPFel4.md#ent-person-megyn-kelly-t-00-05-12)**
+> "...drops this online like i said Megyn Kelly is a coward pierce morgan is a click whore none o..."
+
+**[00:05:49](/episodes/ep-k8ueJdPFel4.md#ent-person-megyn-kelly-t-00-05-49)**
+> "...y been stalking and harassing Megyn Kelly? Nobody knows. Megyn Kelly is a perfect example o..."
+
+**[00:07:02](/episodes/ep-k8ueJdPFel4.md#ent-person-megyn-kelly-t-00-06-32)**
+> "The same way he's treating Megyn Kelly, that is how he treated Charlie Kirk. It's how he..."
+
+**[00:17:35](/episodes/ep-k8ueJdPFel4.md#ent-person-megyn-kelly-t-00-17-11)**
+> "...at's what he initially did to Megyn Kelly on her tour, no less, on stage. It's what he did ..."
+
+**[00:38:19](/episodes/ep-k8ueJdPFel4.md#ent-person-megyn-kelly-t-00-38-19)**
+> "...f and like Tucker Carlson and Megyn Kelly, however ignorant we may have been in our earlier..."
+
+**[00:51:29](/episodes/ep-k8ueJdPFel4.md#ent-person-megyn-kelly-t-00-51-18)**
+> "...d those prayers to tucker and Megyn Kelly i don't know why they have been so obsessed and s..."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (7 mentions)</summary>
+
+**[00:25:29](/episodes/ep-I0OaY6Gryqk.md#ent-person-megyn-kelly-t-00-25-18)**
+> "look at what they are doing to Megyn Kelly"
+
+**[00:25:37](/episodes/ep-I0OaY6Gryqk.md#ent-person-megyn-kelly-t-00-25-18)**
+> "What did Megyn Kelly do? I can't figure out what her crime was that ca..."
+
+**[00:59:20](/episodes/ep-I0OaY6Gryqk.md#ent-person-megyn-kelly-t-00-59-20)**
+> "...I said, what they're doing to Megyn Kelly. I lived that, and they will do the same thing to..."
+
+**[00:59:46](/episodes/ep-I0OaY6Gryqk.md#ent-person-megyn-kelly-t-00-59-46)**
+> "...for people to understand what Megyn Kelly is going through is very real. It's psychotic. Sh..."
+
+**[01:00:17](/episodes/ep-I0OaY6Gryqk.md#ent-person-megyn-kelly-t-00-59-46)**
+> "I certainly do. I bet if Megyn Kelly and I sat down, we'd disagree on so many things, ..."
+
+**[01:00:27](/episodes/ep-I0OaY6Gryqk.md#ent-person-megyn-kelly-t-01-00-27)**
+> "...'s just not normal to not let Megyn Kelly go say what she believes."
+
+**[01:00:32](/episodes/ep-I0OaY6Gryqk.md#ent-person-megyn-kelly-t-01-00-27)**
+> "Megyn Kelly and I disagree on the point of Erika Kirk."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (2 mentions)</summary>
+
+**[00:21:37](/episodes/ep-5-HUyv9LyMg.md#ent-person-megyn-kelly-t-00-21-25)**
+> "...what? Back in 2018, actually, Megyn Kelly did an interview, a profile piece, an interview w..."
+
+**[00:21:48](/episodes/ep-5-HUyv9LyMg.md#ent-person-megyn-kelly-t-00-21-25)**
+> "...listen to what Christina told Megyn Kelly about her upbringing. Take a listen."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (2 mentions)</summary>
+
+**[00:35:44](/episodes/ep-ZzAT2xijKGQ.md#ent-person-megyn-kelly-t-00-35-44)**
+> "the last walk we went on, Megyn"
+
+**[00:55:05](/episodes/ep-ZzAT2xijKGQ.md#ent-person-megyn-kelly-t-00-54-54)**
+> "... for Tucker Carlson, pray for Megyn Kelly, pray for Carrie Prejean Baller, people that are ..."
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (2 mentions)</summary>
+
+**[00:51:17](/episodes/ep-i8m_6D4QGmk.md#ent-person-megyn-kelly-t-00-51-09)**
+> "they hate Megyn Kelly"
+
+**[01:08:19](/episodes/ep-i8m_6D4QGmk.md#ent-person-megyn-kelly-t-01-07-53)**
+> "...ys say make sure you pray for Megyn Kelly. They've been attacking her really hard."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
+
+**[00:58:54](/episodes/ep-y8lak3CRwDw.md#ent-person-megyn-kelly-t-00-58-48)**
+> "... out there. Also shout out to Megyn Kelly."
 
 </details>
 
@@ -778,26 +905,25 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 
 </details>
 
-<details>
-<summary>ep-y8lak3CRwDw (1 mentions)</summary>
-
-**[00:58:54](/episodes/ep-y8lak3CRwDw.md#t-00-58-54)**
-> "... out there. Also shout out to Megyn Kelly."
-
-</details>
-
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Criticized (1)</summary>
+<summary>Criticized (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:20:06](/episodes/ep-ti5Fxrvegno.md#t-00-20-06): “I've criticized Candace (Candace Owens) many times over the years. We've had many public fights over the years.”
+
+</details>
+
+- **[Ben Shapiro](/entities/person-ben-shapiro.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:05:41](/episodes/ep-k8ueJdPFel4.md#t-00-05-12): “She writes, poor little Ben (Ben Shapiro). And I do mean little desperate for me to protect him. Can you imagine being this emasculated? It's sad.”
 
 </details>
 
@@ -807,11 +933,12 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <summary>Criticized By (1)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:06:23](/episodes/ep-MUA9ebCF4Ow.md#t-00-05-50): “lied to Megyn Kelly's face”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-43): “and this time he also attacked Megyn Kelly”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:40:10](/episodes/ep-CMcktj3Egfo.md#t-00-39-38): “I was called a coward by Ben Shapiro at the Turning Point event AmFest in December,”
+- [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:46](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “He calls Megyn Kelly a coward and Piers Morgan a clickbait whore or something. And what is their crime?”
 
 </details>
 
@@ -835,16 +962,17 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <summary>Defended By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:18:13](/episodes/ep-ti5Fxrvegno.md#t-00-17-53): “Megyn Kelly ... at this juncture, I would probably crawl over broken glass to defend her”
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:59:46](/episodes/ep-I0OaY6Gryqk.md#t-00-59-46): “years. It's literal stalking, and there has not been an off tap. I have just become very used to it, and I can tell people ahead of time, 'Yeah, here's what you're gonna do. Here's what you're gonna do. Here's what I'm gonna do.' This is just what they do. I speak about it so people know that's happening, because it's important for people to understand what Megyn Kelly is going through is very real. It's psychotic. She's done nothing wrong other than tell the truth and not bend the knee to Israel.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Friend Of (3)</summary>
+<summary>Friend Of (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -867,10 +995,17 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 
 </details>
 
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:05:40](/episodes/ep-B9TyCs-6o_0.md#t-00-05-40): “megyn kelly Kelly ... Kelly has said she's a friend of Erika Kirk”
+
+</details>
+
 </details>
 
 <details>
-<summary>Interviewed (5)</summary>
+<summary>Interviewed (6)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -907,6 +1042,13 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:07:16](/episodes/ep-Kmt6HgRjckU.md#t-00-07-01): “Kash Patel recently gave an interview to Megyn Kelly”
+
+</details>
+
+- **[Christina Babin](/entities/person-christina-babin.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:21:37](/episodes/ep-5-HUyv9LyMg.md#t-00-21-25): “Megyn Kelly did an interview, a profile piece, an interview with a woman who left the cult and wanted to share her story. ... Her name is Christina Babin”
 
 </details>
 
@@ -963,14 +1105,15 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 <details>
-<summary>Referenced By (17)</summary>
+<summary>Referenced By (20)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:06:23](/episodes/ep-MUA9ebCF4Ow.md#t-00-05-50): “lied to Megyn Kelly's face”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-43): “and this time he also attacked Megyn Kelly”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:40:10](/episodes/ep-CMcktj3Egfo.md#t-00-39-38): “I was called a coward by Ben Shapiro at the Turning Point event AmFest in December,”
+- [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:46](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “He calls Megyn Kelly a coward and Piers Morgan a clickbait whore or something. And what is their crime?”
 
 </details>
 
@@ -981,10 +1124,18 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 
 </details>
 
-- **[Candace Owens](/entities/person-candace-owens.md)** defended this
+- **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:05:41](/episodes/ep-k8ueJdPFel4.md#t-00-05-12): “She writes, poor little Ben (Ben Shapiro). And I do mean little desperate for me to protect him. Can you imagine being this emasculated? It's sad.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** defended this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:18:13](/episodes/ep-ti5Fxrvegno.md#t-00-17-53): “Megyn Kelly ... at this juncture, I would probably crawl over broken glass to defend her”
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:59:46](/episodes/ep-I0OaY6Gryqk.md#t-00-59-46): “years. It's literal stalking, and there has not been an off tap. I have just become very used to it, and I can tell people ahead of time, 'Yeah, here's what you're gonna do. Here's what you're gonna do. Here's what I'm gonna do.' This is just what they do. I speak about it so people know that's happening, because it's important for people to understand what Megyn Kelly is going through is very real. It's psychotic. She's done nothing wrong other than tell the truth and not bend the knee to Israel.”
 
 </details>
 
@@ -1015,6 +1166,13 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:40:19](/episodes/ep-CMcktj3Egfo.md#t-00-39-38): “literally said our friendship,”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:05:40](/episodes/ep-B9TyCs-6o_0.md#t-00-05-40): “megyn kelly Kelly ... Kelly has said she's a friend of Erika Kirk”
 
 </details>
 
@@ -1068,6 +1226,13 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:07:16](/episodes/ep-Kmt6HgRjckU.md#t-00-07-01): “Kash Patel recently gave an interview to Megyn Kelly”
+
+</details>
+
+- **[Christina Babin](/entities/person-christina-babin.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:21:37](/episodes/ep-5-HUyv9LyMg.md#t-00-21-25): “Megyn Kelly did an interview, a profile piece, an interview with a woman who left the cult and wanted to share her story. ... Her name is Christina Babin”
 
 </details>
 
@@ -1181,7 +1346,15 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Megyn Kelly (9)</strong></summary>
+<summary><strong class="section-title">Statements about Megyn Kelly (10)</strong></summary>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1)</summary>
+
+- [00:59:46](/episodes/ep-I0OaY6Gryqk.md#t-00-59-46) (Accusation) **Candace Owens**: ["Megyn Kelly has been subjected to literal stalking because she tells t..."](/statements/statement-95baa53f53fc.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Zionism](/entities/concept-zionism.md)
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1)</summary>

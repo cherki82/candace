@@ -1,6 +1,6 @@
 ---
 title: "Vladimir Putin"
-description: "Vladimir Putin (People) - 8 mentions"
+description: "Vladimir Putin (People) - 13 mentions"
 id: "person-vladimir-putin"
 type: "PERSON"
 aliases:
@@ -23,8 +23,8 @@ Source: [Vladimir Putin | Biography, KGB, Political Career, & Facts | Britannica
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-vladimir-putin-t-00-36-34">2025-11-03 · 00:36:34</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-vladimir-putin-t-00-02-05">2026-01-21 · 00:02:17</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -53,7 +53,7 @@ Source: [Vladimir Putin | Biography, KGB, Political Career, & Facts | Britannica
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (2 mentions)</summary>
@@ -91,6 +91,26 @@ Source: [Vladimir Putin | Biography, KGB, Political Career, & Facts | Britannica
 
 **[00:41:26](/episodes/ep-K1tFD7FfoCU.md#ent-person-vladimir-putin-t-00-40-46)**
 > "Could you imagine Vladimir Putin (Vladimir Putin) sending this tweet?"
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (5 mentions)</summary>
+
+**[00:01:06](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-06)**
+> "Vladimir Putin"
+
+**[00:31:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-10)**
+> "...Orthodox society. Apparently, Vladimir Putin, because he really wanted to go after this countr..."
+
+**[00:34:22](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-22)**
+> "...ening in america it's because vladimir putin is behind the thing that's happening in america"
+
+**[00:36:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-36-12)**
+> "Obviously, Vladimir Putin is doing this and she then shows that the data cl..."
+
+**[00:39:06](/episodes/ep-5m-Wn6Pr5rM.md#t-00-39-06)**
+> "...nderstanding that it could be Vladimir Putin. She also meant his philosopher, Alexander Dugin."
 
 </details>
 

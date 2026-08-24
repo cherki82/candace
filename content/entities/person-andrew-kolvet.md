@@ -1,6 +1,6 @@
 ---
 title: "Andrew Kolvet"
-description: "Andrew Kolvet (People) - 337 mentions"
+description: "Andrew Kolvet (People) - 427 mentions"
 id: "person-andrew-kolvet"
 type: "PERSON"
 aliases:
@@ -23,69 +23,78 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-andrew-kolvet-t-00-13-27">2025-09-11 · 00:14:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-02-41-45">2026-08-14 · 02:41:45</a></strong></div>
-<div><span>Episodes</span><strong>52</strong></div>
-<div><span>Mentions</span><strong>337</strong></div>
-<div><span>Statements by</span><strong>22</strong></div>
-<div><span>Statements about</span><strong>69</strong></div>
-<div><span>Relationships</span><strong>39</strong></div>
+<div><span>Episodes</span><strong>61</strong></div>
+<div><span>Mentions</span><strong>427</strong></div>
+<div><span>Statements by</span><strong>36</strong></div>
+<div><span>Statements about</span><strong>112</strong></div>
+<div><span>Relationships</span><strong>55</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-andrew-kolvet-t-00-01-24">You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</a> (34 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-06-48">REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315</a> (43 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-_dRaEO47-co.md#ent-person-andrew-kolvet-t-00-13-27" style="--pulse-height:8%" aria-label="To My Friend, Charlie Kirk.: 2 mentions" title="2025-09-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-sreYYcID-QY.md#ent-person-andrew-kolvet-t-00-38-58" style="--pulse-height:8%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-andrew-kolvet-t-00-25-42" style="--pulse-height:9%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 3 mentions" title="2025-09-19 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ja26iltROkM.md#ent-person-andrew-kolvet-t-00-08-07" style="--pulse-height:24%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 8 mentions" title="2025-09-22 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-andrew-kolvet-t-00-00-32" style="--pulse-height:24%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 8 mentions" title="2025-09-23 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-andrew-kolvet-t-00-25-42" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 3 mentions" title="2025-09-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-person-andrew-kolvet-t-00-08-07" style="--pulse-height:19%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 8 mentions" title="2025-09-22 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-andrew-kolvet-t-00-00-32" style="--pulse-height:19%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 8 mentions" title="2025-09-23 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-K5GjF53bfN4.md#ent-person-andrew-kolvet-t-00-10-43" style="--pulse-height:8%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-andrew-kolvet-t-00-09-02" style="--pulse-height:18%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 6 mentions" title="2025-10-06 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-5autG89PW6w.md#ent-person-andrew-kolvet-t-00-12-28" style="--pulse-height:29%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 10 mentions" title="2025-10-07 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-andrew-kolvet-t-00-02-11" style="--pulse-height:15%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 5 mentions" title="2025-10-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-andrew-kolvet-t-00-09-02" style="--pulse-height:14%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 6 mentions" title="2025-10-06 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-andrew-kolvet-t-00-12-28" style="--pulse-height:23%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 10 mentions" title="2025-10-07 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-andrew-kolvet-t-00-02-11" style="--pulse-height:12%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 5 mentions" title="2025-10-09 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-c5BcKF91iec.md#ent-person-andrew-kolvet-t-00-03-48" style="--pulse-height:8%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 2 mentions" title="2025-10-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-kolvet-t-00-12-53" style="--pulse-height:29%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 10 mentions" title="2025-10-28 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-andrew-kolvet-t-00-27-03" style="--pulse-height:9%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 3 mentions" title="2025-10-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-kolvet-t-00-12-53" style="--pulse-height:23%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 10 mentions" title="2025-10-28 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-andrew-kolvet-t-00-27-03" style="--pulse-height:8%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 3 mentions" title="2025-10-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-andrew-kolvet-t-00-36-53" style="--pulse-height:8%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-andrew-kolvet-t-00-08-16" style="--pulse-height:15%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 5 mentions" title="2025-11-03 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-kolvet-t-00-21-29" style="--pulse-height:15%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 5 mentions" title="2025-11-06 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-andrew-kolvet-t-00-15-57" style="--pulse-height:9%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-andrew-kolvet-t-00-11-07" style="--pulse-height:15%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 5 mentions" title="2025-11-17 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-andrew-kolvet-t-00-29-09" style="--pulse-height:9%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 3 mentions" title="2025-11-19 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-person-andrew-kolvet-t-00-02-07" style="--pulse-height:15%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 5 mentions" title="2025-11-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-andrew-kolvet-t-00-08-16" style="--pulse-height:12%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 5 mentions" title="2025-11-03 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-kolvet-t-00-21-29" style="--pulse-height:12%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 5 mentions" title="2025-11-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-andrew-kolvet-t-00-15-57" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-andrew-kolvet-t-00-11-07" style="--pulse-height:12%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 5 mentions" title="2025-11-17 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-andrew-kolvet-t-00-29-09" style="--pulse-height:8%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 3 mentions" title="2025-11-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-andrew-kolvet-t-00-02-07" style="--pulse-height:12%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 5 mentions" title="2025-11-20 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-andrew-kolvet-t-00-15-00" style="--pulse-height:8%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-andrew-kolvet-t-00-55-11" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-andrew-kolvet-t-00-33-24" style="--pulse-height:9%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-andrew-kolvet-t-00-33-24" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-person-andrew-kolvet-t-00-02-58" style="--pulse-height:8%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-andrew-kolvet-t-00-08-01" style="--pulse-height:15%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 5 mentions" title="2025-12-05 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-andrew-kolvet-t-00-07-26" style="--pulse-height:12%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 4 mentions" title="2025-12-05 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-04-10" style="--pulse-height:56%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 19 mentions" title="2025-12-16 · 19 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-02-44" style="--pulse-height:29%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 10 mentions" title="2025-12-17 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-kolvet-t-00-02-30" style="--pulse-height:21%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 7 mentions" title="2025-12-20 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-andrew-kolvet-t-00-01-24" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 34 mentions" title="2026-01-05 · 34 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-andrew-kolvet-t-00-15-17" style="--pulse-height:9%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-andrew-kolvet-t-00-07-06" style="--pulse-height:18%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 6 mentions" title="2026-01-09 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-07-03" style="--pulse-height:53%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 18 mentions" title="2026-01-12 · 18 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-andrew-kolvet-t-00-32-45" style="--pulse-height:9%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#ent-person-andrew-kolvet-t-00-02-09" style="--pulse-height:21%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 7 mentions" title="2026-01-16 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-andrew-kolvet-t-00-00-42" style="--pulse-height:15%" aria-label="A Legal Turning Point? | Candace Ep 292: 5 mentions" title="2026-01-19 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-andrew-kolvet-t-00-01-32" style="--pulse-height:62%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 21 mentions" title="2026-01-20 · 21 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-andrew-kolvet-t-00-11-21" style="--pulse-height:21%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 7 mentions" title="2026-01-21 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-andrew-kolvet-t-00-07-10" style="--pulse-height:12%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 4 mentions" title="2026-01-22 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-andrew-kolvet-t-00-08-01" style="--pulse-height:12%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 5 mentions" title="2025-12-05 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-andrew-kolvet-t-00-07-26" style="--pulse-height:9%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 4 mentions" title="2025-12-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-04-10" style="--pulse-height:44%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 19 mentions" title="2025-12-16 · 19 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-02-44" style="--pulse-height:23%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 10 mentions" title="2025-12-17 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-kolvet-t-00-02-30" style="--pulse-height:16%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 7 mentions" title="2025-12-20 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-andrew-kolvet-t-00-01-24" style="--pulse-height:79%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 34 mentions" title="2026-01-05 · 34 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-andrew-kolvet-t-00-15-17" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-andrew-kolvet-t-00-07-06" style="--pulse-height:14%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 6 mentions" title="2026-01-09 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-07-03" style="--pulse-height:42%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 18 mentions" title="2026-01-12 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-andrew-kolvet-t-00-32-45" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-person-andrew-kolvet-t-00-02-09" style="--pulse-height:16%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 7 mentions" title="2026-01-16 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-andrew-kolvet-t-00-00-42" style="--pulse-height:12%" aria-label="A Legal Turning Point? | Candace Ep 292: 5 mentions" title="2026-01-19 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-andrew-kolvet-t-00-01-32" style="--pulse-height:49%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 21 mentions" title="2026-01-20 · 21 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-andrew-kolvet-t-00-11-21" style="--pulse-height:16%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 7 mentions" title="2026-01-21 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-andrew-kolvet-t-00-07-10" style="--pulse-height:9%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 4 mentions" title="2026-01-22 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-person-andrew-kolvet-t-00-47-53" style="--pulse-height:8%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 2 mentions" title="2026-01-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-andrew-kolvet-t-00-02-52" style="--pulse-height:74%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 25 mentions" title="2026-01-28 · 25 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-andrew-kolvet-t-00-02-52" style="--pulse-height:58%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 25 mentions" title="2026-01-28 · 25 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-andrew-kolvet-t-00-28-31" style="--pulse-height:8%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-andrew-kolvet-t-00-54-08" style="--pulse-height:18%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 6 mentions" title="2026-01-30 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-andrew-kolvet-t-00-29-56" style="--pulse-height:18%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 6 mentions" title="2026-02-02 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-andrew-kolvet-t-00-22-31" style="--pulse-height:26%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 9 mentions" title="2026-02-04 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-andrew-kolvet-t-00-07-40" style="--pulse-height:29%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 10 mentions" title="2026-02-05 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-4YgrOhhy708.md#ent-person-andrew-kolvet-t-00-08-22" style="--pulse-height:21%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 7 mentions" title="2026-02-09 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-andrew-kolvet-t-00-07-26" style="--pulse-height:18%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 6 mentions" title="2026-02-10 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-andrew-kolvet-t-00-06-05" style="--pulse-height:9%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 3 mentions" title="2026-02-11 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-andrew-kolvet-t-00-34-01" style="--pulse-height:15%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 5 mentions" title="2026-02-13 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-andrew-kolvet-t-00-53-36" style="--pulse-height:9%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 3 mentions" title="2026-03-02 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-00-38-09" style="--pulse-height:12%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-andrew-kolvet-t-00-54-08" style="--pulse-height:14%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 6 mentions" title="2026-01-30 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-andrew-kolvet-t-00-29-56" style="--pulse-height:14%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 6 mentions" title="2026-02-02 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-andrew-kolvet-t-00-22-31" style="--pulse-height:21%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 9 mentions" title="2026-02-04 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-andrew-kolvet-t-00-07-40" style="--pulse-height:23%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 10 mentions" title="2026-02-05 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-person-andrew-kolvet-t-00-08-22" style="--pulse-height:16%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 7 mentions" title="2026-02-09 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-andrew-kolvet-t-00-07-26" style="--pulse-height:14%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 6 mentions" title="2026-02-10 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-andrew-kolvet-t-00-06-05" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 3 mentions" title="2026-02-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-andrew-kolvet-t-00-34-01" style="--pulse-height:12%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 5 mentions" title="2026-02-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-andrew-kolvet-t-00-53-36" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 3 mentions" title="2026-03-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-person-andrew-kolvet-t-00-18-31" style="--pulse-height:8%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-andrew-kolvet-t-00-40-31" style="--pulse-height:8%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-andrew-kolvet-t-00-12-14" style="--pulse-height:23%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 10 mentions" title="2026-03-10 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-andrew-kolvet-t-00-41-34" style="--pulse-height:8%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-andrew-kolvet-t-00-11-54" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-andrew-kolvet-t-00-32-02" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-andrew-kolvet-t-00-00-00" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-andrew-kolvet-t-00-00-00" style="--pulse-height:44%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 19 mentions" title="2026-03-23 · 19 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-06-48" style="--pulse-height:100%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 43 mentions" title="2026-03-24 · 43 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-00-38-09" style="--pulse-height:9%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -141,6 +150,15 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-andrew-kolvet-t-00-06-05) | 3 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-andrew-kolvet-t-00-34-01) | 5 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-andrew-kolvet-t-00-53-36) | 3 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-person-andrew-kolvet-t-00-18-31) | 2 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-andrew-kolvet-t-00-40-31) | 1 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-andrew-kolvet-t-00-12-14) | 10 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-person-andrew-kolvet-t-00-41-34) | 1 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-andrew-kolvet-t-00-11-54) | 2 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-andrew-kolvet-t-00-32-02) | 1 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-andrew-kolvet-t-00-00-00) | 1 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-andrew-kolvet-t-00-00-00) | 19 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-06-48) | 43 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-00-38-09) | 4 |
 
 </details>
@@ -149,7 +167,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (337)</strong></summary>
+<summary><strong class="section-title">Raw mentions (427)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -165,6 +183,291 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 **[02:41:45](/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-02-41-45)**
 > "I mean, I'm talking about Andrew Kolvet at his position as he's a spokesperson for Turnin..."
+
+</details>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (43 mentions)</summary>
+
+**[00:06:48](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-06-48)**
+> "he's so right and so let's jump back into the substance forget the crop top okay i didn't cover the crop top Baron (Baron Coleman) didn't cover the crop top we are indeed however speculating with a lot of evidence which is mounting that perhaps Andrew (Andrew Kolvet) was not on the plane that he claims he was on we'll have more on that later of course the bigger issue is that it means that Erika (Erika Kirk) went on an earlier flight to utah which flight I don't know. We can't be too certain, but I do now have an explosive tidbit."
+
+**[00:16:52](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-16-34)**
+> "...y the way, to the question of Andrew Kolvet, right?"
+
+**[00:17:01](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-16-34)**
+> "We were surmising that Andrew Kolvet actually flew on Charlie (Charlie Kirk)'s plane. ..."
+
+**[00:17:33](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-17-16)**
+> "Now, moving back to Andrew Kolvet, like I said, we are we are positing that he at f..."
+
+**[00:18:07](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-17-54)**
+> "..., again, I should say Andrew (Andrew Kolvet) has never said he was aboard this jet."
+
+**[00:18:15](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-17-54)**
+> "Andrew (Andrew Kolvet) himself has never said that he took the 319 Sant..."
+
+**[00:18:25](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-17-54)**
+> "Andrew (Andrew Kolvet) did not."
+
+**[00:19:39](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-19-08)**
+> "...ember, whatever plane Andrew (Andrew Kolvet) is on, he doesn't have Wi-Fi, right?"
+
+**[00:20:17](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-19-47)**
+> "... says that it's up to Andrew (Andrew Kolvet) and Andrew (Andrew Kolvet) doesn't answer. And t..."
+
+**[00:20:28](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-20-28)**
+> "...tion is obvious here. Andrew (Andrew Kolvet) is on a plane that does not have Wi-Fi."
+
+**[00:20:50](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-20-28)**
+> "...planes with Wi-Fi. So Andrew (Andrew Kolvet) would not have been out of pocket and unable to ..."
+
+**[00:21:02](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-20-28)**
+> "...interesting that when Andrew (Andrew Kolvet) does come back online, he does not say that he w..."
+
+**[00:21:34](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-21-14)**
+> "...rms of Utah time when Andrew (Andrew Kolvet) explicitly mentions that he is on a plane at 3.2..."
+
+**[00:21:53](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-21-53)**
+> "...ke the dark period of Andrew (Andrew Kolvet), we can we initially said 130."
+
+**[00:22:33](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-22-33)**
+> "...dence that we have of Andrew (Andrew Kolvet)."
+
+**[00:22:49](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-22-33)**
+> "...the left, you can see Andrew (Andrew Kolvet) is unavailable. Marina (Marina Minas) tells her ..."
+
+**[00:23:36](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-23-36)**
+> "...where I remember that Andrew (Andrew Kolvet) was flying from."
+
+**[00:24:24](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-24-11)**
+> "...t thread it would appear that Andrew Kolvet took two flights that day and neither of those fl..."
+
+**[00:24:35](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-24-11)**
+> "...oleman believes, that Andrew (Andrew Kolvet) at first took the plane out of Santa Barbara to ..."
+
+**[00:25:07](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-24-42)**
+> "...ne that we think that Andrew (Andrew Kolvet) took from Santa Barbara to Scottsdale."
+
+**[00:26:43](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-26-43)**
+> "... definitively is that Andrew (Andrew Kolvet) and Erika (Erika Kirk) could just respond, not t..."
+
+**[00:27:05](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-26-43)**
+> "...s the point I was on. Andrew (Andrew Kolvet) could stop focusing on Joe Kent and he could ans..."
+
+**[00:27:52](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-27-27)**
+> "...to this after the break, that Andrew Kolvet does have one possible alibi that day, which coul..."
+
+**[00:30:36](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-30-13)**
+> "... I missed it, is that Andrew (Andrew Kolvet) does have just one thing that could serve as an ..."
+
+**[00:30:50](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-30-50)**
+> "... that's the fact that Andrew (Andrew Kolvet) hosted the first hour of the Charlie Kirk live s..."
+
+**[00:31:18](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-30-50)**
+> "...he day before because Andrew (Andrew Kolvet) is the one that booked him, which I've been sayi..."
+
+**[00:33:24](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-33-24)**
+> "...he fact that we now know that Andrew Kolvet is in the business of faking live shows in order ..."
+
+**[00:33:38](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-33-24)**
+> "... broke the story that Andrew (Andrew Kolvet) visited the White House the day before the Epste..."
+
+**[00:33:50](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-33-50)**
+> "...te house are like hey Andrew (Andrew Kolvet)'s here it's kind of weird he's paying his live o..."
+
+**[00:34:30](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-34-30)**
+> "...d at this moment when Andrew (Andrew Kolvet) was interviewing him, it's before Nick (Nick Shi..."
+
+**[00:34:51](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-34-30)**
+> "So why exactly did Andrew (Andrew Kolvet) book him and interview him? Well, Andrew (Andrew..."
+
+**[00:40:07](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-39-52)**
+> "...ence to at least suggest that Andrew Kolvet flew on that plane alone, actually."
+
+**[00:40:54](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-40-26)**
+> "...36 p.m. way too late. Andrew (Andrew Kolvet) didn't scramble to get a jet for three hours."
+
+**[00:41:20](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-41-11)**
+> "... have their own jets. Andrew (Andrew Kolvet) did not wait for three hours and then Erika (Eri..."
+
+**[00:42:09](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-41-50)**
+> "Andrew (Andrew Kolvet) went to the front and Erika (Erika Kirk) went th..."
+
+**[00:42:16](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-41-50)**
+> "I did not hear that Andrew (Andrew Kolvet) was with his wife."
+
+**[00:42:21](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-42-21)**
+> "Andrew Kolvet's wife is missing. She had to have shown up later. ..."
+
+**[00:44:59](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-44-47)**
+> "So Blake Neff and Andrew Kolvet, worst actors ever, are about to try to sell to y..."
+
+**[00:52:41](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-52-41)**
+> "... it's amazing because Andrew (Andrew Kolvet) says like i've told it's it's a cascade it's a i..."
+
+**[00:52:58](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-52-41)**
+> "...e public had. But now Andrew (Andrew Kolvet) is giving us an update and saying now they since..."
+
+**[00:54:59](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-54-24)**
+> "...mment, writes how ironic that Andrew Kolvet wants the FBI to investigate Joe Kent, but not to..."
+
+**[00:58:23](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-58-19)**
+> "...f you're just hearing Andrew (Andrew Kolvet) he was not very upset about the interview they w..."
+
+**[00:59:38](/episodes/ep-SgVcnx4Oh30.md#ent-person-andrew-kolvet-t-00-59-28)**
+> "... I did not know them, Neff or Andrew Kolvet, said that a large donor called Erika (Erika Kirk..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (19 mentions)</summary>
+
+**[00:00:15](/episodes/ep-B9TyCs-6o_0.md#ent-person-andrew-kolvet-t-00-00-00)**
+> "curiously, Andrew Kolvet retweeted someone"
+
+**[00:00:28](/episodes/ep-B9TyCs-6o_0.md#ent-person-andrew-kolvet-t-00-00-28)**
+> "Whoa. Why is Andrew Kolvet upset with Joe Kent? Is he upset with Joe Kent? I..."
+
+**[00:08:18](/episodes/ep-B9TyCs-6o_0.md#ent-person-andrew-kolvet-t-00-07-49)**
+> "...they're talking about because Andrew Kolvet addressed the claims directly today on Charlie Ki..."
+
+**[00:08:48](/episodes/ep-B9TyCs-6o_0.md#ent-person-andrew-kolvet-t-00-08-48)**
+> "...t to Candace is via Joe Kent. Andrew Kolvet, Andrew was in the chat group as well. He was one..."
+
+**[00:13:11](/episodes/ep-B9TyCs-6o_0.md#ent-person-andrew-kolvet-t-00-13-11)**
+> "...egan texting his security and Andrew Kolvet, which he also told me about, that he thought the..."
+
+**[00:14:19](/episodes/ep-B9TyCs-6o_0.md#ent-person-andrew-kolvet-t-00-13-50)**
+> "...ore truth, Mr. Blake Neff and Andrew Kolvet."
+
+**[00:14:25](/episodes/ep-B9TyCs-6o_0.md#ent-person-andrew-kolvet-t-00-14-25)**
+> "... call with Justin Streiff and Andrew Kolvet. And I find that to be interesting because Rabbi ..."
+
+**[00:15:24](/episodes/ep-B9TyCs-6o_0.md#ent-person-andrew-kolvet-t-00-15-11)**
+> "... told you all that I spoke to Andrew Kolvet. On September 10th and the immediate days thereaf..."
+
+**[00:18:55](/episodes/ep-B9TyCs-6o_0.md#ent-person-andrew-kolvet-t-00-18-15)**
+> "...a should have remembered that Andrew Kolvet's wife was flying with him, but she didn't."
+
+**[00:19:15](/episodes/ep-B9TyCs-6o_0.md#ent-person-andrew-kolvet-t-00-19-00)**
+> "...ait an hour on the tarmac for Andrew Kolvet's plane."
+
+**[00:19:58](/episodes/ep-B9TyCs-6o_0.md#ent-person-andrew-kolvet-t-00-19-58)**
+> "...ons—our longtime spokesperson Andrew Kolvet—and their chief marketing officer, Marina Minas."
+
+**[00:20:27](/episodes/ep-B9TyCs-6o_0.md#ent-person-andrew-kolvet-t-00-19-58)**
+> "Now, if Andrew Kolvet's story that he is now telling the public is true. ..."
+
+**[00:20:57](/episodes/ep-B9TyCs-6o_0.md#ent-person-andrew-kolvet-t-00-20-57)**
+> "...r time frame in santa barbara Andrew Kolvet should have been available right to freely commun..."
+
+**[00:21:43](/episodes/ep-B9TyCs-6o_0.md#ent-person-andrew-kolvet-t-00-21-43)**
+> "...fter charlie is shot at 12 23 Andrew Kolvet messages the group and he says he's telling them ..."
+
+**[00:29:02](/episodes/ep-B9TyCs-6o_0.md#ent-person-andrew-kolvet-t-00-29-02)**
+> "...ave this hour window in which Andrew Kolvet is unavailable to do the most important thing on ..."
+
+**[00:30:35](/episodes/ep-B9TyCs-6o_0.md#ent-person-andrew-kolvet-t-00-30-25)**
+> "...we have these blocks in which Andrew Kolvet is unavailable, okay? Those blue blocks are Andre..."
+
+**[00:48:27](/episodes/ep-B9TyCs-6o_0.md#ent-person-andrew-kolvet-t-00-48-19)**
+> "And that is in response to Andrew Kolvet, who said, you know, Erika didn't ever want limel..."
+
+**[00:48:39](/episodes/ep-B9TyCs-6o_0.md#ent-person-andrew-kolvet-t-00-48-19)**
+> "...the time, and that's our guy, Andrew Kolvet."
+
+**[00:53:00](/episodes/ep-B9TyCs-6o_0.md#ent-person-andrew-kolvet-t-00-52-47)**
+> "...he check chain originally was Andrew Kolvet. So it's so wild to hear him sit up there and be ..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
+
+**[00:00:00](/episodes/ep-_vg7ucP1E0g.md#ent-person-andrew-kolvet-t-00-00-00)**
+> "All right, you guys, happy Wednesday to everyone except Andrew Kolvet. Yeah, because yesterday he went on to Dave Rubin's show and he said that Erika (Erika Kirk) was not seeking the spotlight."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>
+
+**[00:32:02](/episodes/ep-I0OaY6Gryqk.md#ent-person-andrew-kolvet-t-00-32-02)**
+> "the person who's working in Andrew Kolvet's office"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (2 mentions)</summary>
+
+**[00:11:54](/episodes/ep-5-HUyv9LyMg.md#ent-person-andrew-kolvet-t-00-11-54)**
+> "... that mysterious meeting that Andrew Kolvet and other Turning Point USA affiliates had with t..."
+
+**[00:12:14](/episodes/ep-5-HUyv9LyMg.md#ent-person-andrew-kolvet-t-00-11-54)**
+> "...l (Kash Patel) wanted to help Andrew Kolvet camouflage. By way of faking a Charlie Kirk live ..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1 mentions)</summary>
+
+**[00:41:34](/episodes/ep-H9p2ZGHAs9A.md#ent-person-andrew-kolvet-t-00-41-34)**
+> "Anyway, that's just a rhetorical question that's going through my mind. Top comments from last episode. Steph Laura writes, let's all give a warm welcome to Erika Kirk, Blake (Blake Neff), Andrew (Andrew Kolvet), Mikey (Michael McCoy), and everyone else at Turning Point USA who tunes in along with us every day to watch CO."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (10 mentions)</summary>
+
+**[00:12:14](/episodes/ep-ZzAT2xijKGQ.md#ent-person-andrew-kolvet-t-00-12-14)**
+> "Andrew Kolvet, Mikey McCoy"
+
+**[00:12:33](/episodes/ep-ZzAT2xijKGQ.md#ent-person-andrew-kolvet-t-00-12-14)**
+> "...s kind of odd because Andrew (Andrew Kolvet) just presented as though he was live on the Char..."
+
+**[00:12:49](/episodes/ep-ZzAT2xijKGQ.md#ent-person-andrew-kolvet-t-00-12-49)**
+> "...ked them specifically who was Andrew Kolvet and allegedly Mikey McCoy (Michael McCoy) and co ..."
+
+**[00:13:26](/episodes/ep-ZzAT2xijKGQ.md#ent-person-andrew-kolvet-t-00-13-26)**
+> "... January 29th, Blake Neff and Andrew Kolvet hosted Kash Patel on Charlie Kirk's show. It appe..."
+
+**[00:13:50](/episodes/ep-ZzAT2xijKGQ.md#ent-person-andrew-kolvet-t-00-13-26)**
+> "...round the world think Andrew (Andrew Kolvet) is shady and intentionally wanted the public to ..."
+
+**[00:14:00](/episodes/ep-ZzAT2xijKGQ.md#ent-person-andrew-kolvet-t-00-13-26)**
+> "...med, but they believe Andrew (Andrew Kolvet) was accompanied by Mikey McCoy (Michael McCoy) a..."
+
+**[00:14:07](/episodes/ep-ZzAT2xijKGQ.md#ent-person-andrew-kolvet-t-00-14-07)**
+> "...e as immediately odd was that Andrew Kolvet and allegedly Mikey McCoy (Michael McCoy) and his..."
+
+**[00:14:36](/episodes/ep-ZzAT2xijKGQ.md#ent-person-andrew-kolvet-t-00-14-36)**
+> "... I'm trying to figure out why Andrew Kolvet's in the White House now Andrew (Andrew Kolvet) the..."
+
+**[00:14:54](/episodes/ep-ZzAT2xijKGQ.md#ent-person-andrew-kolvet-t-00-14-36)**
+> "...times when traveling, Andrew (Andrew Kolvet) even calls in for a segment. But this was for so..."
+
+**[00:28:52](/episodes/ep-ZzAT2xijKGQ.md#ent-person-andrew-kolvet-t-00-28-39)**
+> "...ot him gaslighting us. We got Andrew Kolvet. We got this meeting at the White House that they..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>
+
+**[00:40:31](/episodes/ep-DdPjoy5W-wY.md#ent-person-andrew-kolvet-t-00-40-31)**
+> "...e Kairos company with Andrew (Andrew Kolvet). Johnny Moore is working for Mark Burnett. There..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (2 mentions)</summary>
+
+**[00:18:56](/episodes/ep-y8lak3CRwDw.md#ent-person-andrew-kolvet-t-00-18-31)**
+> "And yeah, that's Andrew Kolvet's brother. Yeah, they sent the military police from..."
+
+**[00:19:25](/episodes/ep-y8lak3CRwDw.md#ent-person-andrew-kolvet-t-00-18-31)**
+> "In Kabul, Curtis Kolvet, Andrew's brother, was administratively responsible for directing these soldiers through 100 convoy missions across four months, transporting personnel and supplies through the high traffic dangerous environment of Kabul."
 
 </details>
 
@@ -1415,10 +1718,40 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>ep-y8lak3CRwDw (1 mentions)</summary>
+<summary>ep-5m-Wn6Pr5rM (11 mentions)</summary>
 
-**[00:18:56](/episodes/ep-y8lak3CRwDw.md#t-00-18-56)**
-> "And yeah, that's Andrew Kolvet's brother. Yeah, they sent the military police from..."
+**[00:00:29](/episodes/ep-5m-Wn6Pr5rM.md#t-00-00-29)**
+> "Andrew Kolvet"
+
+**[00:02:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-43)**
+> "...y theory is that it picked up Andrew Kolvet, that was its dead leg from Provo."
+
+**[00:08:09](/episodes/ep-5m-Wn6Pr5rM.md#t-00-08-09)**
+> "...going to also add here, so is Andrew Kolvet."
+
+**[00:08:16](/episodes/ep-5m-Wn6Pr5rM.md#t-00-08-16)**
+> "Andrew Kolvet did not make the story up to me on the phone. He ..."
+
+**[00:09:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-09-02)**
+> "...p.m.-ish at the hospital, and Andrew Kolvet told the truth that he hugged her and she was the..."
+
+**[00:18:54](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-54)**
+> "Yes, nobody waited for Andrew Kolvet, except they did. Andrew Kolvet is to be believed..."
+
+**[00:20:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-20-03)**
+> "...re is curiously no mention of Andrew Kolvet in that narrative or the feds who we were told by..."
+
+**[00:46:44](/episodes/ep-5m-Wn6Pr5rM.md#t-00-46-44)**
+> "Andrew Kolvet's angry. Erika is angry. I forgot to mention this. ..."
+
+**[00:47:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-12)**
+> "...at the hospital and I said no Andrew Kolvet was and then she said oh because there's some guy..."
+
+**[00:47:30](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-30)**
+> "hospital and I said no Andrew Kolvet was and then she said oh because there's some guy..."
+
+**[00:47:56](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-56)**
+> "...hospital and it wasn't it was Andrew Kolvet yeah anyways just sharing that random fact that c..."
 
 </details>
 
@@ -1426,6 +1759,30 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Accused By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:33:24](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24): “we now know that Andrew Kolvet is in the business of faking live shows in order to give himself an alibi.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Affiliated With (1)</summary>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:11:54](/episodes/ep-5-HUyv9LyMg.md#t-00-11-11): “Andrew Kolvet and other Turning Point USA affiliates”
+
+</details>
+
+</details>
 
 <details>
 <summary>Appeared With (1)</summary>
@@ -1472,13 +1829,38 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
+<summary>Cousin Of (1)</summary>
+
+- **[Robert Kolvet](/entities/person-robert-kolvet.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | Episode 6 @ 00:19:58](/episodes/ep-y8lak3CRwDw.md#t-00-19-44): “That's Andrew's cousin. The exact same time, Robert Kolvet was the commander of the 485th military police.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:06](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:36](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “The man who had to deal with the full brunt of Andrew (Andrew Kolvet) and Erika (Erika Kirk)'s PR machine, ... they were digging up his past, claiming that he was a habitual liar.”
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:48:39](/episodes/ep-B9TyCs-6o_0.md#t-00-48-19): “it's an absurd allegation that she was not ever pursuing the spotlight. It is just pointedly wrong, and I don't know why he would say it, but he just says stuff a lot of the time, and that's our guy, Andrew Kolvet.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Defended (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:00:00](/episodes/ep-_vg7ucP1E0g.md#t-00-00-00): “All right, you guys, happy Wednesday to everyone except Andrew Kolvet. Yeah, because yesterday he went on to Dave Rubin's show and he said that Erika (Erika Kirk) was not seeking the spotlight. ... Erika (Erika Kirk) has always been tremendous and she never sought the limelight. She was always very happy to sort of be doing her own thing and just be supportive of Charlie (Charlie Kirk).”
 
 </details>
 
@@ -1510,6 +1892,18 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
+<summary>Founded (1)</summary>
+
+- **[KAIROS Company](/entities/org-kairos-company.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:31](/episodes/ep-DdPjoy5W-wY.md#t-00-40-31): “start the Kairos company with Andrew (Andrew Kolvet)”
+
+</details>
+
+</details>
+
+<details>
 <summary>Friend Of (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
@@ -1534,7 +1928,27 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>Interviewed By (4)</summary>
+<summary>Interviewed (2)</summary>
+
+- **[Kash Patel](/entities/person-kash-patel.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:13:26](/episodes/ep-ZzAT2xijKGQ.md#t-00-12-49): “Two days ago, Thursday, January 29th, Blake Neff and Andrew Kolvet hosted Kash Patel on Charlie Kirk's show.”
+- [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:33:38](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24): “Andrew (Andrew Kolvet) visited the White House the day before the Epstein files were released, but he pretended that he was in Arizona live on the Charlie Kirk show interviewing Kash Patel.”
+
+</details>
+
+- **[Nick Shirley](/entities/person-nick-shirley.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:34:30](/episodes/ep-SgVcnx4Oh30.md#t-00-34-30): “at this moment when Andrew (Andrew Kolvet) was interviewing him, it's before Nick (Nick Shirley) goes mega viral”
+
+</details>
+
+</details>
+
+<details>
+<summary>Interviewed By (5)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1561,6 +1975,13 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:08:58](/episodes/ep-4YgrOhhy708.md#t-00-08-58): “Andrew (Andrew Kolvet), ... Do you have a sense of how many people watched? ... Yeah, it was a kind of blew our minds actually a little bit, Brian (show host; surname unverified).”
+
+</details>
+
+- **[Ross Douthat](/entities/person-ross-douthat.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:31:05](/episodes/ep-SgVcnx4Oh30.md#t-00-30-50): “Here is a clip of him explaining that to a New York Times reporter named Ross Douthat.”
 
 </details>
 
@@ -1620,7 +2041,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Works For (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (25)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (26)</summary>
 
 - [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 @ 00:13:00](/episodes/ep-5autG89PW6w.md#t-00-12-28): “Andrew Kolvet, Turning Point's spokesperson, confirmed that the messages were in fact real.”
 - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:11:09](/episodes/ep-K5GjF53bfN4.md#t-00-10-43): “He's the spokesperson for Turning Point USA.”
@@ -1647,13 +2068,21 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:17](/episodes/ep-CMcktj3Egfo.md#t-00-19-10): “Andrew Kolvet, and then got hired to be the PR guy for Charlie Kirk and Turning Point USA.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:07](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 02:41:45](/episodes/ep-nPhCKwJ6ye8.md#t-02-41-39): “Yeah, well, I feel like I'm answering your questions and his questions about, I mean, I'm talking about Andrew Kolvet at his position as he's a spokesperson for Turning Point USA.”
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:19:58](/episodes/ep-B9TyCs-6o_0.md#t-00-19-58): “our public relations—our longtime spokesperson Andrew Kolvet—and their chief marketing officer, Marina Minas”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (20)</summary>
+<summary>Referenced By (28)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:33:24](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24): “we now know that Andrew Kolvet is in the business of faking live shows in order to give himself an alibi.”
+
+</details>
 
 - **[Eric Bolling](/entities/person-eric-bolling.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1676,16 +2105,31 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 </details>
 
+- **[Robert Kolvet](/entities/person-robert-kolvet.md)** cousin of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | Episode 6 @ 00:19:58](/episodes/ep-y8lak3CRwDw.md#t-00-19-44): “That's Andrew's cousin. The exact same time, Robert Kolvet was the commander of the 485th military police.”
+
+</details>
+
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:06](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:36](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “The man who had to deal with the full brunt of Andrew (Andrew Kolvet) and Erika (Erika Kirk)'s PR machine, ... they were digging up his past, claiming that he was a habitual liar.”
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:48:39](/episodes/ep-B9TyCs-6o_0.md#t-00-48-19): “it's an absurd allegation that she was not ever pursuing the spotlight. It is just pointedly wrong, and I don't know why he would say it, but he just says stuff a lot of the time, and that's our guy, Andrew Kolvet.”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** defended by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:00:00](/episodes/ep-_vg7ucP1E0g.md#t-00-00-00): “All right, you guys, happy Wednesday to everyone except Andrew Kolvet. Yeah, because yesterday he went on to Dave Rubin's show and he said that Erika (Erika Kirk) was not seeking the spotlight. ... Erika (Erika Kirk) has always been tremendous and she never sought the limelight. She was always very happy to sort of be doing her own thing and just be supportive of Charlie (Charlie Kirk).”
 
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
 - [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 @ 00:13:00](/episodes/ep-5autG89PW6w.md#t-00-12-28): “Andrew Kolvet, Turning Point's spokesperson, confirmed that the messages were in fact real.”
 - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:11:09](/episodes/ep-K5GjF53bfN4.md#t-00-10-43): “He's the spokesperson for Turning Point USA.”
@@ -1702,6 +2146,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:17](/episodes/ep-CMcktj3Egfo.md#t-00-19-10): “Andrew Kolvet, and then got hired to be the PR guy for Charlie Kirk and Turning Point USA.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:07](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 02:41:45](/episodes/ep-nPhCKwJ6ye8.md#t-02-41-39): “Yeah, well, I feel like I'm answering your questions and his questions about, I mean, I'm talking about Andrew Kolvet at his position as he's a spokesperson for Turning Point USA.”
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:19:58](/episodes/ep-B9TyCs-6o_0.md#t-00-19-58): “our public relations—our longtime spokesperson Andrew Kolvet—and their chief marketing officer, Marina Minas”
 
 </details>
 
@@ -1717,6 +2162,13 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:25:03](/episodes/ep-mFuno0TuuQQ.md#t-00-24-36): “So encompassing of Turning Point USA and Turning Point Action, I was working directly for him.”
+
+</details>
+
+- **[KAIROS Company](/entities/org-kairos-company.md)** founded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:31](/episodes/ep-DdPjoy5W-wY.md#t-00-40-31): “start the Kairos company with Andrew (Andrew Kolvet)”
 
 </details>
 
@@ -1771,6 +2223,28 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 </details>
 
+- **[Ross Douthat](/entities/person-ross-douthat.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:31:05](/episodes/ep-SgVcnx4Oh30.md#t-00-30-50): “Here is a clip of him explaining that to a New York Times reporter named Ross Douthat.”
+
+</details>
+
+- **[Kash Patel](/entities/person-kash-patel.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:13:26](/episodes/ep-ZzAT2xijKGQ.md#t-00-12-49): “Two days ago, Thursday, January 29th, Blake Neff and Andrew Kolvet hosted Kash Patel on Charlie Kirk's show.”
+- [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:33:38](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24): “Andrew (Andrew Kolvet) visited the White House the day before the Epstein files were released, but he pretended that he was in Arizona live on the Charlie Kirk show interviewing Kash Patel.”
+
+</details>
+
+- **[Nick Shirley](/entities/person-nick-shirley.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:34:30](/episodes/ep-SgVcnx4Oh30.md#t-00-34-30): “at this moment when Andrew (Andrew Kolvet) was interviewing him, it's before Nick (Nick Shirley) goes mega viral”
+
+</details>
+
 - **[White House](/entities/org-white-house.md)** met with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -1799,6 +2273,13 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 </details>
 
+- **[Curtis Kolvet](/entities/person-curtis-kolvet.md)** sibling of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | Episode 6 @ 00:18:48](/episodes/ep-y8lak3CRwDw.md#t-00-18-31): “We'll never know. What we do know, however, is that it was Captain Curtis Kolvet who was stationed in Afghanistan. And yeah, that's Andrew Kolvet's brother. Yeah, they sent the military police from Nevada to head up the transportation company from Afghanistan.”
+
+</details>
+
 - **[Candace Owens](/entities/person-candace-owens.md)** warned by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -1819,7 +2300,64 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Andrew Kolvet (22)</strong></summary>
+<summary><strong class="section-title">Statements by Andrew Kolvet (36)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (5)</summary>
+
+- [00:21:34](/episodes/ep-SgVcnx4Oh30.md#t-00-21-14) [○] (Citation) ["Candace Owens said Andrew Kolvet explicitly wrote at 3:26 p.m. Mountain Time tha..."](/statements/statement-403a3ff1ab77.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:31:33](/episodes/ep-SgVcnx4Oh30.md#t-00-31-33) [✓] (Claim) ["Andrew Kolvet said Charlie Kirk was displeased with an interview Kolvet booked, ..."](/statements/statement-488c1a8352bf.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:31:54](/episodes/ep-SgVcnx4Oh30.md#t-00-31-33) [✓] (Claim) ["Andrew Kolvet said Charlie Kirk was texting him about monogamy roughly 33 minute..."](/statements/statement-e96e75332805.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:46:56](/episodes/ep-SgVcnx4Oh30.md#t-00-46-56) [✓] (Claim) ["Andrew Kolvet said more evidence would be made public at the May evidentiary hea..."](/statements/statement-bddd884b1e9d.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:47:22](/episodes/ep-SgVcnx4Oh30.md#t-00-46-56) [◐] (Claim) ["Andrew Kolvet said government officials were publicly indicating willingness to ..."](/statements/statement-3844bc271198.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Joe Kent](/entities/person-joe-kent.md)
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (8)</summary>
+
+- [00:09:49](/episodes/ep-B9TyCs-6o_0.md#t-00-09-43) [✓] (Claim) ["Andrew Kolvet provided the private group-chat screen grabs to Joe Kent immediate..."](/statements/statement-07a9f1b73a57.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Joe Kent](/entities/person-joe-kent.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:10:45](/episodes/ep-B9TyCs-6o_0.md#t-00-10-21) [○] (Opinion) ["Turning Point USA does not believe Israel or Jewish people had Charlie Kirk murd..."](/statements/statement-bdd0fe79f23d.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Israel](/entities/gpe-israel.md), [Jewish people](/entities/concept-jewish-people.md)
+
+- [00:11:17](/episodes/ep-B9TyCs-6o_0.md#t-00-11-04) [✓] (Claim) ["Joe Kent messaged Andrew Kolvet suggesting that the group-chat screen grabs be m..."](/statements/statement-5beb3024dea9.md)
+  - About: [Joe Kent](/entities/person-joe-kent.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:11:32](/episodes/ep-B9TyCs-6o_0.md#t-00-11-04) [✓] (Claim) ["The screen grabs became public a week or two after Andrew Kolvet declined to rel..."](/statements/statement-118066c25da3.md)
+  - About: [Joe Kent](/entities/person-joe-kent.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:15:39](/episodes/ep-B9TyCs-6o_0.md#t-00-15-11) [○] (Claim) ["Andrew Kolvet told Candace Owens that he was alone on a large plane and collapse..."](/statements/statement-03794873b04c.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:21:43](/episodes/ep-B9TyCs-6o_0.md#t-00-21-26) [✓] (Claim) ["At 1:02 p.m. Utah time on September 10, Andrew Kolvet wrote that Turning Point U..."](/statements/statement-6a1cedbc96ed.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:23:05](/episodes/ep-B9TyCs-6o_0.md#t-00-22-23) [✓] (Claim) ["At 3:26 p.m. Utah time, Andrew Kolvet wrote, 'Sorry, on the plane, this just loa..."](/statements/statement-b90d3d17e81f.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:34:30](/episodes/ep-B9TyCs-6o_0.md#t-00-34-11) [✓] (Claim) ["At 4:25 p.m. Utah time, Andrew Kolvet wrote that his internet had just come back..."](/statements/statement-5fa52fd09a5a.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (1)</summary>
+
+- [00:00:16](/episodes/ep-_vg7ucP1E0g.md#t-00-00-16) [○] (Claim) ["Erika Kirk never sought the limelight and was happy doing her own thing while su..."](/statements/statement-edd9e30c2635.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (2)</summary>
@@ -1950,7 +2488,139 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Kolvet (69)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Kolvet (112)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (13)</summary>
+
+- [00:18:15](/episodes/ep-SgVcnx4Oh30.md#t-00-17-54) (Citation) **Candace Owens** (via paraphrase): ["Candace Owens said Erika Kirk claimed to her that Andrew Kolvet was ab..."](/statements/statement-ca838bcc3373.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:20:17](/episodes/ep-SgVcnx4Oh30.md#t-00-19-47) (Claim) **Candace Owens**: ["Candace Owens said the implication of a text exchange was that Andrew ..."](/statements/statement-5f2a1b2a4499.md)
+  - Also about: [Justin Streiff](/entities/person-justin-streiff.md), [Aubrey Laitsch](/entities/person-aubrey-laitsch.md)
+
+- [00:20:38](/episodes/ep-SgVcnx4Oh30.md#t-00-20-28) (Citation) **Anonymous Source #1 (Ep SgVcnx4Oh30)** (via quoted speech): ["Candace Owens said a charter company told her all of its planes have W..."](/statements/statement-9374da88bd51.md)
+
+- [00:21:34](/episodes/ep-SgVcnx4Oh30.md#t-00-21-14) (Citation) **Andrew Kolvet** (via read message): ["Candace Owens said Andrew Kolvet explicitly wrote at 3:26 p.m. Mountai..."](/statements/statement-403a3ff1ab77.md)
+
+- [00:24:24](/episodes/ep-SgVcnx4Oh30.md#t-00-24-11) (Claim) **Candace Owens**: ["Candace Owens said the text thread appeared to show that Andrew Kolvet..."](/statements/statement-be0a4bbd8232.md)
+
+- [00:24:59](/episodes/ep-SgVcnx4Oh30.md#t-00-24-42) (Citation) **Candace Owens**: ["Candace Owens said a 2020 charter listing for the suspected Santa Barb..."](/statements/statement-f7691a805e92.md)
+
+- [00:30:50](/episodes/ep-SgVcnx4Oh30.md#t-00-30-50) (Claim) **Candace Owens**: ["Candace Owens said Andrew Kolvet hosted the first hour of The Charlie ..."](/statements/statement-50b697036fa2.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:31:33](/episodes/ep-SgVcnx4Oh30.md#t-00-31-33) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet said Charlie Kirk was displeased with an interview Kolve..."](/statements/statement-488c1a8352bf.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:31:54](/episodes/ep-SgVcnx4Oh30.md#t-00-31-33) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet said Charlie Kirk was texting him about monogamy roughly..."](/statements/statement-e96e75332805.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:33:38](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24) (Accusation) **Candace Owens**: ["Candace Owens accused Andrew Kolvet of previously visiting the White H..."](/statements/statement-cdc9c0117a68.md)
+  - Also about: [White House](/entities/org-white-house.md), [Kash Patel](/entities/person-kash-patel.md)
+
+- [00:42:09](/episodes/ep-SgVcnx4Oh30.md#t-00-41-50) (Claim) **Candace Owens**: ["Candace Owens said her understanding was that Andrew Kolvet entered th..."](/statements/statement-1cd648717e44.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:46:56](/episodes/ep-SgVcnx4Oh30.md#t-00-46-56) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet said more evidence would be made public at the May evide..."](/statements/statement-bddd884b1e9d.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:52:41](/episodes/ep-SgVcnx4Oh30.md#t-00-52-41) (Citation) **Candace Owens** (via paraphrase): ["Candace Owens said Erika Kirk told her in December that Kirk had no mo..."](/statements/statement-4c83e67c413f.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (18)</summary>
+
+- [00:00:15](/episodes/ep-B9TyCs-6o_0.md#t-00-00-00) (Claim) **Candace Owens**: ["Andrew Kolvet retweeted a post suggesting Joe Kent should be arrested ..."](/statements/statement-b279f7327bc5.md)
+  - Also about: [Joe Kent](/entities/person-joe-kent.md)
+
+- [00:09:49](/episodes/ep-B9TyCs-6o_0.md#t-00-09-43) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet provided the private group-chat screen grabs to Joe Kent..."](/statements/statement-07a9f1b73a57.md)
+  - Also about: [Joe Kent](/entities/person-joe-kent.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:11:17](/episodes/ep-B9TyCs-6o_0.md#t-00-11-04) (Claim) **Andrew Kolvet** (via quoted speech): ["Joe Kent messaged Andrew Kolvet suggesting that the group-chat screen ..."](/statements/statement-5beb3024dea9.md)
+  - Also about: [Joe Kent](/entities/person-joe-kent.md)
+
+- [00:11:32](/episodes/ep-B9TyCs-6o_0.md#t-00-11-04) (Claim) **Andrew Kolvet** (via quoted speech): ["The screen grabs became public a week or two after Andrew Kolvet decli..."](/statements/statement-118066c25da3.md)
+  - Also about: [Joe Kent](/entities/person-joe-kent.md)
+
+- [00:12:00](/episodes/ep-B9TyCs-6o_0.md#t-00-11-42) (Claim) **Candace Owens**: ["Andrew Kolvet personally told Candace Owens about the private text cha..."](/statements/statement-c07c7e841fa3.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:13:11](/episodes/ep-B9TyCs-6o_0.md#t-00-12-27) (Accusation) **Candace Owens**: ["Shortly after that communication, Charlie Kirk texted his security and..."](/statements/statement-c645ac01722a.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:14:25](/episodes/ep-B9TyCs-6o_0.md#t-00-13-50) (Claim) **Candace Owens**: ["On September 5, while Charlie Kirk was in Asia, Pesach Wolicki had a c..."](/statements/statement-c325b6ae8f65.md)
+  - Also about: [Pesach Wolicki](/entities/person-pesach-wolicki.md), [Justin Streiff](/entities/person-justin-streiff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:15:39](/episodes/ep-B9TyCs-6o_0.md#t-00-15-11) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet told Candace Owens that he was alone on a large plane an..."](/statements/statement-03794873b04c.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Provo](/entities/gpe-provo.md)
+
+- [00:16:43](/episodes/ep-B9TyCs-6o_0.md#t-00-16-13) (Accusation) **Candace Owens**: ["Candace Owens says Andrew Kolvet's later account changed to say that h..."](/statements/statement-84d54960bb73.md)
+  - Also about: [Santa Barbara](/entities/gpe-santa-barbara.md)
+
+- [00:19:19](/episodes/ep-B9TyCs-6o_0.md#t-00-19-00) (Accusation) **Candace Owens**: ["Candace Owens believes the September 10 evidence proves Turning Point ..."](/statements/statement-b7c4f58c6f22.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Justin Streiff](/entities/person-justin-streiff.md)
+
+- [00:19:25](/episodes/ep-B9TyCs-6o_0.md#t-00-19-00) (Claim) **Candace Owens**: ["Candace Owens says it is highly likely Andrew Kolvet flew alone on Cha..."](/statements/statement-aea54e4241a7.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:21:43](/episodes/ep-B9TyCs-6o_0.md#t-00-21-26) (Claim) **Andrew Kolvet** (via read message): ["At 1:02 p.m. Utah time on September 10, Andrew Kolvet wrote that Turni..."](/statements/statement-6a1cedbc96ed.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:23:05](/episodes/ep-B9TyCs-6o_0.md#t-00-22-23) (Claim) **Andrew Kolvet** (via read message): ["At 3:26 p.m. Utah time, Andrew Kolvet wrote, 'Sorry, on the plane, thi..."](/statements/statement-b90d3d17e81f.md)
+
+- [00:24:10](/episodes/ep-B9TyCs-6o_0.md#t-00-23-50) (Claim) **Candace Owens** (via paraphrase): ["Marina Minas called Aubrey Laitsch at 2:05 p.m. Utah time and asked he..."](/statements/statement-d49d0f5c8fb6.md)
+  - Also about: [Marina Minas](/entities/person-marina-minas.md), [Aubrey Laitsch](/entities/person-aubrey-laitsch.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:26:28](/episodes/ep-B9TyCs-6o_0.md#t-00-26-26) (Citation) **Candace Owens**: ["Call logs and text messages show Andrew Kolvet was unavailable from 1:..."](/statements/statement-dfdbd7c332e3.md)
+
+- [00:34:30](/episodes/ep-B9TyCs-6o_0.md#t-00-34-11) (Claim) **Andrew Kolvet** (via read message): ["At 4:25 p.m. Utah time, Andrew Kolvet wrote that his internet had just..."](/statements/statement-5fa52fd09a5a.md)
+
+- [00:34:42](/episodes/ep-B9TyCs-6o_0.md#t-00-34-11) (Claim) **Justin Streiff** (via read message): ["Justin Streiff wrote that the team might need to wait until Andrew Kol..."](/statements/statement-ad9da6f3d3a6.md)
+  - Also about: [Justin Streiff](/entities/person-justin-streiff.md)
+
+- [00:53:00](/episodes/ep-B9TyCs-6o_0.md#t-00-52-47) (Claim) **Candace Owens**: ["Candace Owens never received classified information from Joe Kent, and..."](/statements/statement-a77b4f8480ab.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Joe Kent](/entities/person-joe-kent.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (2)</summary>
+
+- [00:11:54](/episodes/ep-5-HUyv9LyMg.md#t-00-11-54) (Claim) **Candace Owens**: ["Andrew Kolvet and other Turning Point USA affiliates met top White Hou..."](/statements/statement-222e6f2772bd.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [White House](/entities/org-white-house.md)
+
+- [00:12:07](/episodes/ep-5-HUyv9LyMg.md#t-00-11-54) (Accusation) **Candace Owens**: ["Kash Patel helped Andrew Kolvet camouflage a private Washington meetin..."](/statements/statement-32506093725c.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (4)</summary>
+
+- [00:12:14](/episodes/ep-ZzAT2xijKGQ.md#t-00-12-14) (Claim) **Anonymous Source #2 (Ep ZzAT2xijKGQ)** (via read message): ["Andrew Kolvet and Michael McCoy were seen in the West Wing with two wo..."](/statements/statement-0490491f912e.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [White House](/entities/org-white-house.md)
+
+- [00:13:26](/episodes/ep-ZzAT2xijKGQ.md#t-00-12-49) (Accusation) **Candace Owens**: ["The January 29 Charlie Kirk Show episode with Kash Patel was prerecord..."](/statements/statement-a29214ade8fb.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Blake Neff](/entities/person-blake-neff.md), [White House](/entities/org-white-house.md)
+
+- [00:15:48](/episodes/ep-ZzAT2xijKGQ.md#t-00-15-18) (Accusation) **Candace Owens**: ["Is it possible that the West Wing meeting was related to the Epstein f..."](/statements/statement-9b3f8e03f81f.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [White House](/entities/org-white-house.md)
+
+- [00:24:58](/episodes/ep-ZzAT2xijKGQ.md#t-00-24-58) (Citation) **Candace Owens**: ["Candace Owens asked Erika Kirk and Andrew Kolvet to explain Kirk's rel..."](/statements/statement-b0ea09679a6e.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [NEXT Management](/entities/org-next-management.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1)</summary>
+
+- [00:19:49](/episodes/ep-y8lak3CRwDw.md#t-00-19-44) (Claim) **Candace Owens**: ["Robert Kolvet, Andrew Kolvet's cousin, commanded the 485th Military Po..."](/statements/statement-55393e51820b.md)
+  - Also about: [Robert Kolvet](/entities/person-robert-kolvet.md), [Curtis Kolvet](/entities/person-curtis-kolvet.md), [485th Military Police Company](/entities/org-485th-military-police-company.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1)</summary>
@@ -2271,6 +2941,26 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
   - Also about: [Patrick Bet-David](/entities/person-patrick-bet-david.md)
 
 - [00:52:15](/episodes/ep-aDlhjfW6hz8.md#t-00-52-10) (Claim) **Candace Owens**: ["Andrew Kolvet was definitely not there in the Hamptons"](/statements/statement-a4c7a3f6c50a.md)
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (5)</summary>
+
+- [00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-10) (Claim) **Candace Owens**: ["The Charlie Kirk show was hosted in its entirety before the Y-Refi pla..."](/statements/statement-cc89e89ddc7e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Yrefy](/entities/org-yrefy.md), [Santa Barbara](/entities/gpe-santa-barbara.md)
+
+- [00:06:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-06-24) (Claim) **Candace Owens** (via paraphrase): ["The plane that Erika Kirk told Candace Owens carried Andrew Kolvet did..."](/statements/statement-ce02a70f1a1d.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Yrefy](/entities/org-yrefy.md), [Provo Airport](/entities/org-provo-airport.md)
+
+- [00:09:21](/episodes/ep-5m-Wn6Pr5rM.md#t-00-09-21) (Accusation) **Candace Owens**: ["My proposed explanation is that Erika Kirk flew in earlier than Andrew..."](/statements/statement-5f081a5d1b78.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:10:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-10-50) (Accusation) **Candace Owens**: ["Erika Kirk was on the phone directing Andrew Kolvet to do those things..."](/statements/statement-b6027dee3443.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:47:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-47-12) (Claim) **Candace Owens**: ["Erika Kirk asked whether Joe Kent was my source at the hospital, and I..."](/statements/statement-49ddf25219af.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Joe Kent](/entities/person-joe-kent.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
 
 </details>
 

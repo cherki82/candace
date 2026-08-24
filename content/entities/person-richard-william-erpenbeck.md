@@ -1,6 +1,6 @@
 ---
 title: "Richard William Erpenbeck"
-description: "Richard William Erpenbeck (People) - 40 mentions"
+description: "Richard William Erpenbeck (People) - 41 mentions"
 id: "person-richard-william-erpenbeck"
 type: "PERSON"
 aliases:
@@ -24,9 +24,9 @@ Source: [Disciplinary Counsel v. Erpenbeck, 124 Ohio St.3d 1228 (2010)](https://
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-richard-william-erpenbeck-t-00-03-28">2026-02-28 · 00:04:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-person-richard-william-erpenbeck-t-00-40-11">2026-03-03 · 00:40:16</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>40</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-richard-william-erpenbeck-t-00-01-46">2026-03-18 · 00:01:46</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>17</strong></div>
@@ -40,6 +40,7 @@ Source: [Disciplinary Counsel v. Erpenbeck, 124 Ohio St.3d 1228 (2010)](https://
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-richard-william-erpenbeck-t-00-03-28" style="--pulse-height:100%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 20 mentions" title="2026-02-28 · 20 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-richard-william-erpenbeck-t-00-13-05" style="--pulse-height:45%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 9 mentions" title="2026-03-02 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-person-richard-william-erpenbeck-t-00-10-34" style="--pulse-height:55%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 11 mentions" title="2026-03-03 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-richard-william-erpenbeck-t-00-01-46" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Disciplinary Counsel v. Erpenbeck, 124 Ohio St.3d 1228 (2010)](https://
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-person-richard-william-erpenbeck-t-00-03-28) | 20 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-richard-william-erpenbeck-t-00-13-05) | 9 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-richard-william-erpenbeck-t-00-10-34) | 11 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-richard-william-erpenbeck-t-00-01-46) | 1 |
 
 </details>
 </section>
@@ -55,7 +57,15 @@ Source: [Disciplinary Counsel v. Erpenbeck, 124 Ohio St.3d 1228 (2010)](https://
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
+
+**[00:01:46](/episodes/ep-_vg7ucP1E0g.md#ent-person-richard-william-erpenbeck-t-00-01-46)**
+> "Anyway, we had explained to you guys on a previous episode that wherever Erika (Erika Kirk) and Lori (Lori Frantzve) go, accusations of financial fraud tend to follow, right? Throwing it back to the Erpenbeck brothers, Uncle Rick (Richard Erpenbeck), that brand-new glossy Tesseract school—ultimately a charter scam in which money inexplicably vanished."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (11 mentions)</summary>

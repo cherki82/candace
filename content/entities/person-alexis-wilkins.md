@@ -1,6 +1,6 @@
 ---
 title: "Alexis Wilkins"
-description: "Alexis Wilkins (People) - 5 mentions"
+description: "Alexis Wilkins (People) - 9 mentions"
 id: "person-alexis-wilkins"
 type: "PERSON"
 aliases:
@@ -23,10 +23,10 @@ Source: [Alexis Wilkins | Official Website](https://www.alexiswilkins.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-alexis-wilkins-t-00-38-29">2025-11-12 · 00:38:29</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-person-alexis-wilkins-t-01-04-28">2026-01-16 · 01:04:28</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -55,7 +55,7 @@ Source: [Alexis Wilkins | Official Website](https://www.alexiswilkins.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
 
 <details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>
@@ -89,6 +89,23 @@ Source: [Alexis Wilkins | Official Website](https://www.alexiswilkins.com/)
 
 **[00:42:39](/episodes/ep-MUA9ebCF4Ow.md#ent-person-alexis-wilkins-t-00-42-13)**
 > "... People just being insulting. I wake up. I'm called the N-word. Big deal. The internet is optional, Alexis Wilkins. It's optional, Kash Patel. This lawsuit is pathetic. You should be forced to step aside, but you k..."
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (4 mentions)</summary>
+
+**[00:29:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-29-10)**
+> "alexis wilkins"
+
+**[00:29:37](/episodes/ep-5m-Wn6Pr5rM.md#t-00-29-37)**
+> "...e Charlie investigation Well, Alexis was deeply upset by the honeypot allegations, so ..."
+
+**[00:36:41](/episodes/ep-5m-Wn6Pr5rM.md#t-00-36-41)**
+> "Yes, Alexis, that is called you have properly identified a gr..."
+
+**[00:50:29](/episodes/ep-5m-Wn6Pr5rM.md#t-00-50-29)**
+> "...t and I don't mean to trigger Alexis Wilkins but I particularly want a Russian blue cat So add..."
 
 </details>
 
@@ -196,6 +213,44 @@ Source: [Alexis Wilkins | Official Website](https://www.alexiswilkins.com/)
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:37:22](/episodes/ep-MUA9ebCF4Ow.md#t-00-37-04): “his girlfriend turns out is suing Elijah Schaffer”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Alexis Wilkins (3)</strong></summary>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (3)</summary>
+
+- [00:31:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31) [○] (Accusation) ["A foreign-linked influence network has run coordinated operations against the Tr..."](/statements/statement-ab51d0c96f29.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Alexis Wilkins](/entities/person-alexis-wilkins.md), [Republican Party](/entities/org-republican-party.md)
+
+- [00:32:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-32-47) [○] (Accusation) ["Catholics for Catholics lists Michael Flynn as its senior adviser, and Flynn is ..."](/statements/statement-344288f8937f.md)
+  - About: [Catholics for Catholics](/entities/org-catholics-for-catholics.md), [Michael T. Flynn](/entities/person-michael-t-flynn.md), [Republican Party](/entities/org-republican-party.md)
+
+- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) [○] (Accusation) ["Within hours of Charlie Kirk's assassination, Candace Owens publicly attributed ..."](/statements/statement-b2726c243b67.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Alexis Wilkins (3)</strong></summary>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (3)</summary>
+
+- [00:29:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-29-10) (Accusation) **Candace Owens**: ["Kash Patel used an FBI plane to fly to see Alexis Wilkins and sent a p..."](/statements/statement-201c56acbf00.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [FBI](/entities/org-fbi.md)
+
+- [00:31:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31) (Accusation) **Alexis Wilkins** (via quoted tweet): ["A foreign-linked influence network has run coordinated operations agai..."](/statements/statement-ab51d0c96f29.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Republican Party](/entities/org-republican-party.md)
+
+- [00:43:36](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-36) (Opinion) **Candace Owens**: ["Catholics are fully under attack, and Alexis Wilkins's thread illustra..."](/statements/statement-e59064ae496a.md)
+  - Also about: [Catholicism](/entities/concept-catholicism.md), [FBI](/entities/org-fbi.md)
 
 </details>
 

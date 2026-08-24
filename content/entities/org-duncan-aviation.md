@@ -1,6 +1,6 @@
 ---
 title: "Duncan Aviation"
-description: "Duncan Aviation (Organizations) - 11 mentions"
+description: "Duncan Aviation (Organizations) - 14 mentions"
 id: "org-duncan-aviation"
 type: "ORG"
 categories:
@@ -17,9 +17,9 @@ Source: [Duncan Aviation — Tom Burt retirement](https://www.duncanaviation.aer
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-duncan-aviation-t-00-18-55">2025-11-17 · 00:19:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-duncan-aviation-t-00-38-59">2026-01-06 · 00:39:19</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-duncan-aviation-t-00-35-29">2026-03-23 · 00:35:38</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -34,6 +34,7 @@ Source: [Duncan Aviation — Tom Burt retirement](https://www.duncanaviation.aer
 <a href="/episodes/ep-581dILVcEE4.md#ent-org-duncan-aviation-t-00-06-18" style="--pulse-height:100%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 4 mentions" title="2025-11-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-duncan-aviation-t-00-13-44" style="--pulse-height:50%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-duncan-aviation-t-00-38-59" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-duncan-aviation-t-00-34-53" style="--pulse-height:75%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 3 mentions" title="2026-03-23 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -43,6 +44,7 @@ Source: [Duncan Aviation — Tom Burt retirement](https://www.duncanaviation.aer
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-duncan-aviation-t-00-06-18) | 4 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-org-duncan-aviation-t-00-13-44) | 2 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-duncan-aviation-t-00-38-59) | 1 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-duncan-aviation-t-00-34-53) | 3 |
 
 </details>
 </section>
@@ -50,7 +52,21 @@ Source: [Duncan Aviation — Tom Burt retirement](https://www.duncanaviation.aer
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (3 mentions)</summary>
+
+**[00:35:21](/episodes/ep-B9TyCs-6o_0.md#ent-org-duncan-aviation-t-00-34-53)**
+> "why are you flying into Duncan Aviation?"
+
+**[00:35:29](/episodes/ep-B9TyCs-6o_0.md#ent-org-duncan-aviation-t-00-35-29)**
+> "...ature, you fly into Atlantic. Duncan Aviation is particularly, it has a bent towards military a..."
+
+**[00:35:38](/episodes/ep-B9TyCs-6o_0.md#ent-org-duncan-aviation-t-00-35-29)**
+> "So what are we doing at Duncan Aviation full stop? I don't really know. Anyways, the Yref..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>

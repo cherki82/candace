@@ -1,6 +1,6 @@
 ---
 title: "Holy Spirit"
-description: "Holy Spirit (Concepts) - 1 mention"
+description: "Holy Spirit (Concepts) - 2 mentions"
 id: "concept-holy-spirit"
 type: "CONCEPT"
 categories:
@@ -14,9 +14,9 @@ _Type: Concepts_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Wjul6YV6izo.md#ent-concept-holy-spirit-t-00-17-57">2026-01-30 · 00:18:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Wjul6YV6izo.md#ent-concept-holy-spirit-t-00-17-57">2026-01-30 · 00:18:31</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-concept-holy-spirit-t-01-03-09">2026-03-17 · 01:03:22</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -28,12 +28,14 @@ _Type: Concepts_
 <p>Highest activity: <a href="/episodes/ep-Wjul6YV6izo.md#ent-concept-holy-spirit-t-00-17-57">AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-concept-holy-spirit-t-00-17-57" style="--pulse-height:100%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-concept-holy-spirit-t-01-03-09" style="--pulse-height:100%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-concept-holy-spirit-t-00-17-57) | 1 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-concept-holy-spirit-t-01-03-09) | 1 |
 
 </details>
 </section>
@@ -41,7 +43,15 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>
+
+**[01:03:22](/episodes/ep-I0OaY6Gryqk.md#ent-concept-holy-spirit-t-01-03-09)**
+> "We are the temple of the Holy Spirit."
+
+</details>
 
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (1 mentions)</summary>

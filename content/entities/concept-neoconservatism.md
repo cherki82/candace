@@ -1,6 +1,6 @@
 ---
 title: "Neoconservatism"
-description: "Neoconservatism (Concepts) - 9 mentions"
+description: "Neoconservatism (Concepts) - 19 mentions"
 id: "concept-neoconservatism"
 type: "CONCEPT"
 aliases:
@@ -23,9 +23,9 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-neoconservatism-t-00-28-15">2026-01-07 · 00:28:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-neoconservatism-t-00-57-28">2026-03-02 · 00:57:38</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-neoconservatism-t-00-35-11">2026-03-17 · 00:35:11</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,11 +34,12 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-neoconservatism-t-00-28-15">DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-neoconservatism-t-00-01-46">WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-neoconservatism-t-00-28-15" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 3 mentions" title="2026-01-07 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-neoconservatism-t-00-04-33" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-neoconservatism-t-00-05-05" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 3 mentions" title="2026-03-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-neoconservatism-t-00-28-15" style="--pulse-height:30%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 3 mentions" title="2026-01-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-neoconservatism-t-00-04-33" style="--pulse-height:30%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-neoconservatism-t-00-05-05" style="--pulse-height:30%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 3 mentions" title="2026-03-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-neoconservatism-t-00-01-46" style="--pulse-height:100%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 10 mentions" title="2026-03-17 · 10 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-concept-neoconservatism-t-00-28-15) | 3 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-neoconservatism-t-00-04-33) | 3 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-concept-neoconservatism-t-00-05-05) | 3 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-concept-neoconservatism-t-00-01-46) | 10 |
 
 </details>
 </section>
@@ -54,7 +56,42 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (10 mentions)</summary>
+
+**[00:02:13](/episodes/ep-k8ueJdPFel4.md#ent-concept-neoconservatism-t-00-01-46)**
+> "So over the weekend, the neocons, I don't know what was going on, but they decided..."
+
+**[00:02:42](/episodes/ep-k8ueJdPFel4.md#ent-concept-neoconservatism-t-00-02-29)**
+> "...hed such a late stage of this neocon psychosis."
+
+**[00:06:43](/episodes/ep-k8ueJdPFel4.md#ent-concept-neoconservatism-t-00-06-32)**
+> "...t about Ben (Ben Shapiro) and neocons more generally in his own words."
+
+**[00:10:54](/episodes/ep-k8ueJdPFel4.md#ent-concept-neoconservatism-t-00-10-41)**
+> "...i Netanyahu and the bandit of neocon criminals over war in Iran telling Trump (Donald ..."
+
+**[00:12:25](/episodes/ep-k8ueJdPFel4.md#ent-concept-neoconservatism-t-00-12-00)**
+> "... to keep the pressure on. The neocons are very vocal and admittedly powerful, but the p..."
+
+**[00:12:49](/episodes/ep-k8ueJdPFel4.md#ent-concept-neoconservatism-t-00-12-38)**
+> "... mass public opinion yet. The neocons are."
+
+**[00:13:01](/episodes/ep-k8ueJdPFel4.md#ent-concept-neoconservatism-t-00-12-38)**
+> "...lie (Charlie Kirk) felt about neocons. He felt like they were maniacs. He reiterated th..."
+
+**[00:13:29](/episodes/ep-k8ueJdPFel4.md#ent-concept-neoconservatism-t-00-13-15)**
+> "...ies to smooth things over for neocons."
+
+**[00:19:58](/episodes/ep-k8ueJdPFel4.md#ent-concept-neoconservatism-t-00-19-44)**
+> "He is losing, the neocons are losing badly. Truth is their kryptonite. They..."
+
+**[00:35:11](/episodes/ep-k8ueJdPFel4.md#ent-concept-neoconservatism-t-00-35-11)**
+> "...tting quite dangerous because neocons are lashing out and they're doing what they alway..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (3 mentions)</summary>

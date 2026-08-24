@@ -1,6 +1,6 @@
 ---
 title: "The Ingraham Angle"
-description: "The Ingraham Angle (Works & Media) - 1 mention"
+description: "The Ingraham Angle (Works & Media) - 2 mentions"
 id: "work-the-ingraham-angle"
 type: "WORK"
 aliases:
@@ -22,9 +22,9 @@ Source: [Fox News: The Ingraham Angle](https://www.foxnews.com/shows/ingraham-an
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-the-ingraham-angle-t-00-45-32">2026-02-02 · 00:45:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-the-ingraham-angle-t-00-45-32">2026-02-02 · 00:45:32</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-work-the-ingraham-angle-t-00-39-15">2026-03-10 · 00:39:35</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,12 +36,14 @@ Source: [Fox News: The Ingraham Angle](https://www.foxnews.com/shows/ingraham-an
 <p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-the-ingraham-angle-t-00-45-32">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-the-ingraham-angle-t-00-45-32" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-work-the-ingraham-angle-t-00-39-15" style="--pulse-height:100%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-work-the-ingraham-angle-t-00-45-32) | 1 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-work-the-ingraham-angle-t-00-39-15) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [Fox News: The Ingraham Angle](https://www.foxnews.com/shows/ingraham-an
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1 mentions)</summary>
+
+**[00:39:35](/episodes/ep-ZzAT2xijKGQ.md#ent-work-the-ingraham-angle-t-00-39-15)**
+> "appears from his home studio on the Ingraham Angle"
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>

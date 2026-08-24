@@ -1,6 +1,6 @@
 ---
 title: "Aubrey Laitsch"
-description: "Aubrey Laitsch (People) - 4 mentions"
+description: "Aubrey Laitsch (People) - 6 mentions"
 id: "person-aubrey-laitsch"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Aubrey Laitsch (@AubreyLaitsch) on X](https://x.com/AubreyLaitsch)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-aubrey-laitsch-t-00-24-36">2026-02-05 · 00:24:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-person-aubrey-laitsch-t-00-36-41">2026-02-10 · 00:36:41</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#t-00-19-47">2026-03-24 · 00:19:47</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -33,6 +33,8 @@ Source: [Aubrey Laitsch (@AubreyLaitsch) on X](https://x.com/AubreyLaitsch)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-aubrey-laitsch-t-00-27-14" style="--pulse-height:100%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 3 mentions" title="2026-02-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-aubrey-laitsch-t-00-36-41" style="--pulse-height:33%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#t-00-21-43" style="--pulse-height:33%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#t-00-19-47" style="--pulse-height:33%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +42,8 @@ Source: [Aubrey Laitsch (@AubreyLaitsch) on X](https://x.com/AubreyLaitsch)
 |---|---|---:|
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-aubrey-laitsch-t-00-27-14) | 3 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-aubrey-laitsch-t-00-36-41) | 1 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#t-00-21-43) | 1 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#t-00-19-47) | 1 |
 
 </details>
 </section>
@@ -47,7 +51,23 @@ Source: [Aubrey Laitsch (@AubreyLaitsch) on X](https://x.com/AubreyLaitsch)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>
+
+**[00:19:47](/episodes/ep-SgVcnx4Oh30.md#t-00-19-47)**
+> "We have now confirmed this. We have a text chain, text chain with Aubrey (TPUSA staffer; surname unverified), who's got to be the boss that day. Nobody can do anything."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1 mentions)</summary>
+
+**[00:21:43](/episodes/ep-B9TyCs-6o_0.md#t-00-21-43)**
+> "we have Aubrey, who is later going to be fired"
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>
@@ -80,10 +100,11 @@ Source: [Aubrey Laitsch (@AubreyLaitsch) on X](https://x.com/AubreyLaitsch)
 <summary>Fired By (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:27:44](/episodes/ep-mFuno0TuuQQ.md#t-00-27-14): “I was terminated from Turning Point because I am questioning the narrative of what happened to my role model and CEO Charlie Kirk on the day of his assassination.”
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:36:41](/episodes/ep-ti5Fxrvegno.md#t-00-36-41): “one of the people who was fired, the one who spoke out, Aubrey Laitsch at Turning Point USA”
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:21:43](/episodes/ep-B9TyCs-6o_0.md#t-00-21-43): “we have Marina Minas, and we have Aubrey, who is later going to be fired over an Uber ride that Marina overhears”
 
 </details>
 
@@ -93,9 +114,10 @@ Source: [Aubrey Laitsch (@AubreyLaitsch) on X](https://x.com/AubreyLaitsch)
 <summary>Formerly Worked For (4)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:25:09](/episodes/ep-mFuno0TuuQQ.md#t-00-24-36): “Prior to that, I did work for Turning Point USA.”
+- [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:19:47](/episodes/ep-SgVcnx4Oh30.md#t-00-19-47): “Aubrey (TPUSA staffer; surname unverified), who's got to be the boss that day.”
 
 </details>
 
@@ -126,17 +148,19 @@ Source: [Aubrey Laitsch (@AubreyLaitsch) on X](https://x.com/AubreyLaitsch)
 <summary>Referenced By (5)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** fired this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:27:44](/episodes/ep-mFuno0TuuQQ.md#t-00-27-14): “I was terminated from Turning Point because I am questioning the narrative of what happened to my role model and CEO Charlie Kirk on the day of his assassination.”
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:36:41](/episodes/ep-ti5Fxrvegno.md#t-00-36-41): “one of the people who was fired, the one who spoke out, Aubrey Laitsch at Turning Point USA”
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:21:43](/episodes/ep-B9TyCs-6o_0.md#t-00-21-43): “we have Marina Minas, and we have Aubrey, who is later going to be fired over an Uber ride that Marina overhears”
 
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:25:09](/episodes/ep-mFuno0TuuQQ.md#t-00-24-36): “Prior to that, I did work for Turning Point USA.”
+- [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:19:47](/episodes/ep-SgVcnx4Oh30.md#t-00-19-47): “Aubrey (TPUSA staffer; surname unverified), who's got to be the boss that day.”
 
 </details>
 
@@ -191,7 +215,23 @@ Source: [Aubrey Laitsch (@AubreyLaitsch) on X](https://x.com/AubreyLaitsch)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Aubrey Laitsch (7)</strong></summary>
+<summary><strong class="section-title">Statements about Aubrey Laitsch (9)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1)</summary>
+
+- [00:20:17](/episodes/ep-SgVcnx4Oh30.md#t-00-19-47) (Claim) **Candace Owens**: ["Candace Owens said the implication of a text exchange was that Andrew ..."](/statements/statement-5f2a1b2a4499.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Justin Streiff](/entities/person-justin-streiff.md)
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1)</summary>
+
+- [00:24:10](/episodes/ep-B9TyCs-6o_0.md#t-00-23-50) (Claim) **Candace Owens** (via paraphrase): ["Marina Minas called Aubrey Laitsch at 2:05 p.m. Utah time and asked he..."](/statements/statement-d49d0f5c8fb6.md)
+  - Also about: [Marina Minas](/entities/person-marina-minas.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (2)</summary>

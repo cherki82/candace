@@ -1,6 +1,6 @@
 ---
 title: "Santa Barbara"
-description: "Santa Barbara (Places) - 9 mentions"
+description: "Santa Barbara (Places) - 31 mentions"
 id: "gpe-santa-barbara"
 type: "GPE"
 categories:
@@ -18,23 +18,25 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-14">2025-11-17 · 00:26:38</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-santa-barbara-t-01-07-56">2026-01-20 · 01:07:56</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-santa-barbara-t-00-40-26">2026-03-24 · 00:40:54</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>31</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-santa-barbara-t-00-27-51">Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-santa-barbara-t-00-06-26">REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-14" style="--pulse-height:75%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 3 mentions" title="2025-11-17 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-santa-barbara-t-00-27-51" style="--pulse-height:100%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 4 mentions" title="2025-11-19 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-santa-barbara-t-00-33-28" style="--pulse-height:25%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-santa-barbara-t-01-07-56" style="--pulse-height:25%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-14" style="--pulse-height:30%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 3 mentions" title="2025-11-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-santa-barbara-t-00-27-51" style="--pulse-height:40%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 4 mentions" title="2025-11-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-santa-barbara-t-00-33-28" style="--pulse-height:10%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-santa-barbara-t-01-07-56" style="--pulse-height:10%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-santa-barbara-t-00-16-13" style="--pulse-height:70%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 7 mentions" title="2026-03-23 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-santa-barbara-t-00-06-26" style="--pulse-height:100%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 10 mentions" title="2026-03-24 · 10 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +46,8 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-santa-barbara-t-00-27-51) | 4 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-santa-barbara-t-00-33-28) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-santa-barbara-t-01-07-56) | 1 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-santa-barbara-t-00-16-13) | 7 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-santa-barbara-t-00-06-26) | 10 |
 
 </details>
 </section>
@@ -51,7 +55,68 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (10 mentions)</summary>
+
+**[00:06:26](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-santa-barbara-t-00-06-26)**
+> "leaving Santa Barbara"
+
+**[00:17:01](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-santa-barbara-t-00-16-34)**
+> "... plane? Why not just fly from Santa Barbara?"
+
+**[00:17:33](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-santa-barbara-t-00-17-16)**
+> "...first flew to Scottsdale from Santa Barbara and then he flew from Scottsdale on to Provo, Uta..."
+
+**[00:18:15](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-santa-barbara-t-00-17-54)**
+> "...ver said that he took the 319 Santa Barbara flight, tail number N8724A. Erika (Erika Kirk) ma..."
+
+**[00:18:27](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-santa-barbara-t-00-17-54)**
+> "...g to be our Barbara plane for Santa Barbara."
+
+**[00:24:35](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-santa-barbara-t-00-24-11)**
+> "...t first took the plane out of Santa Barbara to Scottsdale."
+
+**[00:25:07](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-santa-barbara-t-00-24-42)**
+> "...rew (Andrew Kolvet) took from Santa Barbara to Scottsdale."
+
+**[00:27:52](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-santa-barbara-t-00-27-27)**
+> "... mean that he was actually in Santa Barbara during the time that our Yrefy plane flew out to ..."
+
+**[00:30:36](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-santa-barbara-t-00-30-13)**
+> "...s not on our Yrefy plane from Santa Barbara to Scottsdale."
+
+**[00:40:54](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-santa-barbara-t-00-40-26)**
+> "This is our Santa Barbara plane. And this one is going to land into Provo a..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (7 mentions)</summary>
+
+**[00:16:43](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-santa-barbara-t-00-16-13)**
+> "with his wife flying from Santa Barbara"
+
+**[00:20:27](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-santa-barbara-t-00-19-58)**
+> "... was at home with his wife in Santa Barbara when Charlie was shot."
+
+**[00:20:51](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-santa-barbara-t-00-20-34)**
+> "...actly three hours. He departs Santa Barbara. I could get him a private plane faster than that..."
+
+**[00:20:57](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-santa-barbara-t-00-20-57)**
+> "...that three hour time frame in santa barbara Andrew Kolvet should have been available right to..."
+
+**[00:29:22](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-santa-barbara-t-00-29-02)**
+> "Look, what's on in Santa Barbara? I don't even know Santa Barbara. It's very stran..."
+
+**[00:35:49](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-santa-barbara-t-00-35-29)**
+> "... to Provo, then from Provo to Santa Barbara at 1024, then from Santa Barbara, it goes to Scot..."
+
+**[00:36:54](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-santa-barbara-t-00-36-54)**
+> "...-off but it also then goes to santa barbara and how also then comes to scottsdale it's like a..."
+
+</details>
 
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
@@ -100,11 +165,55 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 
 </details>
 
+<details>
+<summary>ep-5m-Wn6Pr5rM (5 mentions)</summary>
+
+**[00:01:51](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-51)**
+> "Santa Barbara"
+
+**[00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-10)**
+> "...fore that plane took off from Santa Barbara to Scottsdale at 1228 Mountain Time."
+
+**[00:02:23](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-23)**
+> "So this plane actually left Santa Barbara just five minutes after Charlie Kirk was shot, an..."
+
+**[00:02:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-43)**
+> "... plane while it was flying to Santa Barbara, if my theory is that it picked up Andrew Kolvet,..."
+
+**[00:03:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-03-02)**
+> "...s from Scottsdale I mean from Santa Barbara to Scottsdale."
+
+</details>
+
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Santa Barbara (3)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (2)</summary>
+
+- [00:16:43](/episodes/ep-B9TyCs-6o_0.md#t-00-16-13) (Accusation) **Candace Owens**: ["Candace Owens says Andrew Kolvet's later account changed to say that h..."](/statements/statement-84d54960bb73.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:35:49](/episodes/ep-B9TyCs-6o_0.md#t-00-35-29) (Citation) **Candace Owens**: ["The Yrefy-associated plane flew from Scottsdale to Provo, then Provo t..."](/statements/statement-8f40df02e151.md)
+  - Also about: [Yrefy](/entities/org-yrefy.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md), [Provo](/entities/gpe-provo.md)
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (1)</summary>
+
+- [00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-10) (Claim) **Candace Owens**: ["The Charlie Kirk show was hosted in its entirety before the Y-Refi pla..."](/statements/statement-cc89e89ddc7e.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Yrefy](/entities/org-yrefy.md)
+
+</details>
 
 </details>

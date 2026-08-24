@@ -1,6 +1,6 @@
 ---
 title: "God"
-description: "God (Concepts) - 321 mentions"
+description: "God (Concepts) - 360 mentions"
 id: "concept-god"
 type: "CONCEPT"
 categories:
@@ -18,10 +18,10 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-57-16">2025-09-15 · 00:57:42</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-04-03-55">2026-08-14 · 04:03:55</a></strong></div>
-<div><span>Episodes</span><strong>60</strong></div>
-<div><span>Mentions</span><strong>321</strong></div>
+<div><span>Episodes</span><strong>68</strong></div>
+<div><span>Mentions</span><strong>360</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -89,6 +89,13 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <a href="/episodes/ep-1IY2oD-_xVA.md#t-00-59-05" style="--pulse-height:17%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 5 mentions" title="2026-02-27 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#t-00-52-57" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#t-00-43-25" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#t-00-01-26" style="--pulse-height:23%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 7 mentions" title="2026-03-06 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#t-01-02-44" style="--pulse-height:10%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 3 mentions" title="2026-03-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#t-00-48-05" style="--pulse-height:17%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 5 mentions" title="2026-03-10 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#t-00-14-48" style="--pulse-height:33%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 10 mentions" title="2026-03-12 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#t-00-33-12" style="--pulse-height:10%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#t-01-03-36" style="--pulse-height:23%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 7 mentions" title="2026-03-17 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#t-00-49-40" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34" style="--pulse-height:13%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -154,6 +161,13 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#t-00-59-05) | 5 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#t-00-52-57) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#t-00-43-25) | 1 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#t-00-01-26) | 7 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#t-01-02-44) | 3 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#t-00-48-05) | 5 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#t-00-14-48) | 10 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#t-00-33-12) | 3 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#t-01-03-36) | 7 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#t-00-49-40) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34) | 4 |
 
 </details>
@@ -162,7 +176,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (321)</strong></summary>
+<summary><strong class="section-title">Raw mentions (360)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -178,6 +192,152 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 
 **[04:03:55](/episodes/ep-nPhCKwJ6ye8.md#t-04-03-55)**
 > "...eing said take care everybody god bless have a great weekend"
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (2 mentions)</summary>
+
+**[00:50:12](/episodes/ep-B9TyCs-6o_0.md#t-00-49-40)**
+> "Jonathan Bino writes, we love you and support you, Candace. Thank you for your voice. God bless you. Thank you, Jonathan."
+
+**[00:45:39](/episodes/ep-B9TyCs-6o_0.md#t-00-45-32)**
+> "That is the honest to God truth. I didn't know this man at all. And so this..."
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (3 mentions)</summary>
+
+**[00:33:12](/episodes/ep-k8ueJdPFel4.md#t-00-33-12)**
+> "...ool the girls were like oh my god okay ah we can't get to rehab yeah this is americ..."
+
+**[00:45:20](/episodes/ep-k8ueJdPFel4.md#t-00-45-01)**
+> "...eat do what we say or else uh god bless you you know god will bless you if you do e..."
+
+**[00:51:29](/episodes/ep-k8ueJdPFel4.md#t-00-51-18)**
+> "...richardson coons writes thank god that you kept all the messages between you and ch..."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (7 mentions)</summary>
+
+**[01:03:36](/episodes/ep-I0OaY6Gryqk.md#t-01-03-36)**
+> "God's people"
+
+**[00:36:19](/episodes/ep-I0OaY6Gryqk.md#t-00-36-11)**
+> "... love my husband and thinking God forbid of anything ever like that happening and m..."
+
+**[00:37:25](/episodes/ep-I0OaY6Gryqk.md#t-00-37-25)**
+> "...ly international and child of God, children of God is what it was called before tha..."
+
+**[00:37:40](/episodes/ep-I0OaY6Gryqk.md#t-00-37-25)**
+> "...hat they learn and the saying god bless you and uh you that's the whole child of go..."
+
+**[00:38:00](/episodes/ep-I0OaY6Gryqk.md#t-00-38-00)**
+> "child of god thing is like you are saying certain things the l..."
+
+**[01:01:45](/episodes/ep-I0OaY6Gryqk.md#t-01-01-45)**
+> "Hannah Flay writes, God bless you and your family for your fantastic work..."
+
+**[01:07:25](/episodes/ep-I0OaY6Gryqk.md#t-01-07-25)**
+> "...dace. You are a hero of mine. God bless you. I received my t-shirt. I told my pries..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (10 mentions)</summary>
+
+**[00:14:48](/episodes/ep-5-HUyv9LyMg.md#t-00-14-48)**
+> "God bless you. We're so grateful, and thank you for h..."
+
+**[00:14:57](/episodes/ep-5-HUyv9LyMg.md#t-00-14-48)**
+> "So God bless you guys and thank you."
+
+**[00:18:51](/episodes/ep-5-HUyv9LyMg.md#t-00-18-26)**
+> "...ed to be known as Children of God. Yeah, there are documentaries which are dedicate..."
+
+**[00:19:00](/episodes/ep-5-HUyv9LyMg.md#t-00-19-00)**
+> "To discuss the Children of God cult, I'm going to read you verbatim words writte..."
+
+**[00:19:45](/episodes/ep-5-HUyv9LyMg.md#t-00-19-29)**
+> "...order to join the Children of God."
+
+**[00:20:01](/episodes/ep-5-HUyv9LyMg.md#t-00-20-01)**
+> "...tly proclaiming himself to be God's prophet for the end times, making known God's w..."
+
+**[00:20:25](/episodes/ep-5-HUyv9LyMg.md#t-00-20-01)**
+> "...rg instructed the Children of God to spread throughout the world, first in Europe i..."
+
+**[00:21:54](/episodes/ep-5-HUyv9LyMg.md#t-00-21-54)**
+> "...uraged female members to show God's love through sexual relationships with potentia..."
+
+**[00:24:07](/episodes/ep-5-HUyv9LyMg.md#t-00-24-07)**
+> "... the public that this is what God wanted, God ordained this, Erika (Erika Kirk) is ..."
+
+**[00:41:38](/episodes/ep-5-HUyv9LyMg.md#t-00-41-38)**
+> "child of God, but really what is manifesting is the same ideol..."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (5 mentions)</summary>
+
+**[00:48:26](/episodes/ep-ZzAT2xijKGQ.md#t-00-48-05)**
+> "God bless you"
+
+**[00:11:03](/episodes/ep-ZzAT2xijKGQ.md#t-00-11-03)**
+> "... know that there's demons and god etc and they know that their activity in the occu..."
+
+**[00:51:13](/episodes/ep-ZzAT2xijKGQ.md#t-00-50-34)**
+> "God bless you, Candace. I think you meant Turning Poi..."
+
+**[00:52:05](/episodes/ep-ZzAT2xijKGQ.md#t-00-51-55)**
+> "...government. How do we fix it? God bless you for opening so many eyes."
+
+**[00:55:29](/episodes/ep-ZzAT2xijKGQ.md#t-00-54-54)**
+> "We can't do that. God's people, the truly chosen people don't do that w..."
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (3 mentions)</summary>
+
+**[01:02:44](/episodes/ep-i8m_6D4QGmk.md#t-01-02-44)**
+> "God's design"
+
+**[01:03:00](/episodes/ep-i8m_6D4QGmk.md#t-01-02-44)**
+> "What God requires sacrifice of children in that manner? At..."
+
+**[01:06:51](/episodes/ep-i8m_6D4QGmk.md#t-01-06-30)**
+> "...between calamities or herpes. God bless you, Candace. Stay safe."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (7 mentions)</summary>
+
+**[00:01:26](/episodes/ep-DdPjoy5W-wY.md#t-00-01-26)**
+> "...t she's going to make because God ordained it. Obviously, that's always the vibe. I..."
+
+**[00:10:28](/episodes/ep-DdPjoy5W-wY.md#t-00-09-55)**
+> "...his? Well, of course, because God so willed it. She must continue Charlie (Charlie ..."
+
+**[00:48:16](/episodes/ep-DdPjoy5W-wY.md#t-00-47-58)**
+> "...e without saying this is what God ordained and I'm biblical it's very strange it ac..."
+
+**[00:56:29](/episodes/ep-DdPjoy5W-wY.md#t-00-56-02)**
+> "...ember my mother saying, oh my God, this country will be cursed and I will pray dear..."
+
+**[00:58:16](/episodes/ep-DdPjoy5W-wY.md#t-00-57-51)**
+> "And I was even upset with God for allowing such a horrid evil event to happen t..."
+
+**[00:58:22](/episodes/ep-DdPjoy5W-wY.md#t-00-57-51)**
+> "I hope and pray that God helps you uncover the truth. I hope we'll eventua..."
+
+**[00:58:42](/episodes/ep-DdPjoy5W-wY.md#t-00-58-28)**
+> "...se, Lord Jesus Christ, Son of God, don't leave us in the hands of these devils."
 
 </details>
 
@@ -1427,6 +1587,17 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 
 </details>
 
+<details>
+<summary>ep-5m-Wn6Pr5rM (2 mentions)</summary>
+
+**[00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-33)**
+> "God"
+
+**[00:49:17](/episodes/ep-5m-Wn6Pr5rM.md#t-00-49-17)**
+> "...l be as vocal and principled. God bless that kind and thoughtful man."
+
+</details>
+
 </details>
 
 <details open>
@@ -1437,12 +1608,28 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about God (1)</strong></summary>
+<summary><strong class="section-title">Statements about God (3)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1)</summary>
+
+- [00:03:02](/episodes/ep-DdPjoy5W-wY.md#t-00-02-53) (Opinion) **Erika Kirk** (via quoted speech): ["Erika Kirk says she is honoring what the Lord put before her and honor..."](/statements/statement-4e959c01250f.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1)</summary>
 
 - [00:33:11](/episodes/ep-Qfwr08Ebczo.md#t-00-33-02) (Opinion) **Tucker Carlson**: ["Virtue and sin are not transmitted genetically, there is no such thing..."](/statements/statement-964024e18cdb.md)
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (1)</summary>
+
+- [00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-33) (Claim) **The Daily Wire** (via quoted article): ["The Catholic Church does not demand that the faithful be committed Zio..."](/statements/statement-8180d1208c22.md)
+  - Also about: [Catholic Church](/entities/org-catholic-church.md), [Zionism](/entities/concept-zionism.md)
 
 </details>
 

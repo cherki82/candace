@@ -1,6 +1,6 @@
 ---
 title: "Mormonism"
-description: "Mormonism (Concepts) - 12 mentions"
+description: "Mormonism (Concepts) - 18 mentions"
 id: "concept-mormonism"
 type: "CONCEPT"
 aliases:
@@ -25,9 +25,9 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-mormonism-t-00-12-29">2026-02-27 · 00:12:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-mormonism-t-00-09-39">2026-03-02 · 00:09:39</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-mormonism-t-00-01-21">2026-03-18 · 00:01:38</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,6 +40,8 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-mormonism-t-00-12-29" style="--pulse-height:100%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 11 mentions" title="2026-02-27 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-mormonism-t-00-09-39" style="--pulse-height:9%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-mormonism-t-00-41-21" style="--pulse-height:45%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 5 mentions" title="2026-03-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-mormonism-t-00-01-21" style="--pulse-height:9%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +49,8 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 |---|---|---:|
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-concept-mormonism-t-00-12-29) | 11 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-concept-mormonism-t-00-09-39) | 1 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-concept-mormonism-t-00-41-21) | 5 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-concept-mormonism-t-00-01-21) | 1 |
 
 </details>
 </section>
@@ -54,7 +58,35 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
+
+**[00:01:38](/episodes/ep-_vg7ucP1E0g.md#ent-concept-mormonism-t-00-01-21)**
+> "We've got shady Mormons."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (5 mentions)</summary>
+
+**[00:41:49](/episodes/ep-DdPjoy5W-wY.md#ent-concept-mormonism-t-00-41-21)**
+> "...r families have been friends, Mormon families, four generations. Okay. It's like they ..."
+
+**[00:44:05](/episodes/ep-DdPjoy5W-wY.md#ent-concept-mormonism-t-00-43-30)**
+> "..., my dad, this is it's giving Mormon mafia."
+
+**[00:44:13](/episodes/ep-DdPjoy5W-wY.md#ent-concept-mormonism-t-00-44-13)**
+> "...'re a very powerful family in Mormon world."
+
+**[00:44:24](/episodes/ep-DdPjoy5W-wY.md#ent-concept-mormonism-t-00-44-13)**
+> "of the LDS Mormon church. I know that some people say it's now LDS...."
+
+**[00:59:32](/episodes/ep-DdPjoy5W-wY.md#ent-concept-mormonism-t-00-59-01)**
+> "...ly probably some of these CIA Mormon missions because I know Tyler (Tyler Bowyer) went..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1 mentions)</summary>

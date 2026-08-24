@@ -1,6 +1,6 @@
 ---
 title: "Peter Thiel"
-description: "Peter Thiel (People) - 17 mentions"
+description: "Peter Thiel (People) - 19 mentions"
 id: "person-peter-thiel"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Peter Thiel biography | SMU](https://www.smu.edu/tateseries/~/media/sit
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-peter-thiel-t-00-25-30">2026-01-14 · 00:25:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-peter-thiel-t-00-17-28">2026-02-04 · 00:17:28</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-peter-thiel-t-00-03-42">2026-03-11 · 00:03:42</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -36,6 +36,7 @@ Source: [Peter Thiel biography | SMU](https://www.smu.edu/tateseries/~/media/sit
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-peter-thiel-t-00-46-04" style="--pulse-height:14%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-peter-thiel-t-00-24-28" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 7 mentions" title="2026-02-02 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-peter-thiel-t-00-17-28" style="--pulse-height:14%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-peter-thiel-t-00-03-42" style="--pulse-height:29%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 2 mentions" title="2026-03-11 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Peter Thiel biography | SMU](https://www.smu.edu/tateseries/~/media/sit
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-peter-thiel-t-00-46-04) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-peter-thiel-t-00-24-28) | 7 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-peter-thiel-t-00-17-28) | 1 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-person-peter-thiel-t-00-03-42) | 2 |
 
 </details>
 </section>
@@ -53,7 +55,18 @@ Source: [Peter Thiel biography | SMU](https://www.smu.edu/tateseries/~/media/sit
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (2 mentions)</summary>
+
+**[00:03:42](/episodes/ep-H9p2ZGHAs9A.md#ent-person-peter-thiel-t-00-03-42)**
+> "... is Jeffrey Epstein to Peter (Peter Thiel). He says, as you probably know, I represent the ..."
+
+**[00:03:26](/episodes/ep-H9p2ZGHAs9A.md#ent-person-peter-thiel-t-00-02-59)**
+> "Now, why is that interesting? Because you will recall in Jeffrey Epstein's recently released emails that he said to Peter Thiel that he works directly for the Rothschild's family."
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1 mentions)</summary>
@@ -264,7 +277,15 @@ Source: [Peter Thiel biography | SMU](https://www.smu.edu/tateseries/~/media/sit
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Peter Thiel (6)</strong></summary>
+<summary><strong class="section-title">Statements about Peter Thiel (7)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1)</summary>
+
+- [00:03:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-03-42) (Claim) **Jeffrey Epstein** (via read message): ["Jeffrey Epstein wrote to Peter Thiel, "I represent the Rothschilds," a..."](/statements/statement-724744a9c03b.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Rothschild family](/entities/org-rothschild-family.md)
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (4)</summary>

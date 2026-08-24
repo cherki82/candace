@@ -1,6 +1,6 @@
 ---
-title: "6th Marine Regiment member of U.S. Marines"
-description: "Evidence for the relationship: 6th Marine Regiment member of U.S. Marines"
+title: "6th Marine Regiment member of United States Marine Corps"
+description: "Evidence for the relationship: 6th Marine Regiment member of United States Marine Corps"
 relationship_id: "rel-6cc3b8293ac8"
 subject: "org-6th-marine-regiment"
 predicate: "member of"
@@ -9,7 +9,7 @@ object: "org-united-states-marine-corps"
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [6th Marine Regiment](/entities/org-6th-marine-regiment) member of [U.S. Marines](/entities/org-united-states-marine-corps)
+## [6th Marine Regiment](/entities/org-6th-marine-regiment) member of [United States Marine Corps](/entities/org-united-states-marine-corps)
 
 ### Evidence (1 mentions)
 
@@ -20,4 +20,4 @@ object: "org-united-states-marine-corps"
 ### Related
 
 - [6th Marine Regiment](/entities/org-6th-marine-regiment)
-- [U.S. Marines](/entities/org-united-states-marine-corps)
+- [United States Marine Corps](/entities/org-united-states-marine-corps)

@@ -146,7 +146,7 @@ _Type: People_
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
 
 - [01:02:06](/episodes/ep-9k2xrAC0H88.md#t-01-01-55) (Claim) **Candace Owens**: ["One of the congressmen that the Fort Huachuca eyewitness believes he s..."](/statements/statement-ff98d3afb248.md)
-  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Las Vegas](/entities/gpe-las-vegas.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
 
 </details>
 

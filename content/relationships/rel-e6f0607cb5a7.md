@@ -11,11 +11,15 @@ object: "person-candace-owens"
 
 ## [Lori Frantzve](/entities/person-lori-frantzve) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY)**
 
 - [00:19:14](/episodes/ep-2tFYJf1klgY#t-00-19-14): _With everything I know about Lori (Lori Frantzve), I don't love it._
+
+**[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
+
+- [00:42:14](/episodes/ep-DdPjoy5W-wY#t-00-42-14): _Lori (Lori Frantzve) gives me scam artist_
 
 **[Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg)**
 

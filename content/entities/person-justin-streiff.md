@@ -1,6 +1,6 @@
 ---
 title: "Justin Streiff"
-description: "Justin Streiff (People) - 39 mentions"
+description: "Justin Streiff (People) - 60 mentions"
 id: "person-justin-streiff"
 type: "PERSON"
 aliases:
@@ -25,34 +25,38 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-21-13">2025-09-25 · 00:06:45</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-justin-streiff-t-02-46-50">2026-08-14 · 02:46:56</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>39</strong></div>
-<div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>60</strong></div>
+<div><span>Statements by</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-00-02-04">Erika And I Sat Down. Here’s What Happened. | Candace Ep 280</a> (8 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-justin-streiff-t-00-16-52">EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314</a> (13 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-21-13" style="--pulse-height:88%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 7 mentions" title="2025-09-25 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-justin-streiff-t-00-40-13" style="--pulse-height:12%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-streiff-t-00-31-02" style="--pulse-height:12%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-streiff-t-00-24-50" style="--pulse-height:38%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-00-02-04" style="--pulse-height:100%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 8 mentions" title="2025-12-16 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-justin-streiff-t-00-56-45" style="--pulse-height:12%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-justin-streiff-t-00-23-32" style="--pulse-height:12%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#ent-person-justin-streiff-t-00-17-53" style="--pulse-height:12%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-justin-streiff-t-01-09-21" style="--pulse-height:25%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-justin-streiff-t-00-08-34" style="--pulse-height:12%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-A39g5oqB_eM.md#ent-person-justin-streiff-t-00-21-11" style="--pulse-height:25%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 2 mentions" title="2026-01-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-justin-streiff-t-00-20-47" style="--pulse-height:12%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-justin-streiff-t-00-25-55" style="--pulse-height:12%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-justin-streiff-t-00-11-55" style="--pulse-height:50%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 4 mentions" title="2026-02-05 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-1IY2oD-_xVA.md#ent-person-justin-streiff-t-00-45-19" style="--pulse-height:25%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-justin-streiff-t-02-46-50" style="--pulse-height:12%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-21-13" style="--pulse-height:54%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 7 mentions" title="2025-09-25 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-justin-streiff-t-00-40-13" style="--pulse-height:8%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-streiff-t-00-31-02" style="--pulse-height:8%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-streiff-t-00-24-50" style="--pulse-height:23%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-00-02-04" style="--pulse-height:62%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 8 mentions" title="2025-12-16 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-justin-streiff-t-00-56-45" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-justin-streiff-t-00-23-32" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-person-justin-streiff-t-00-17-53" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-justin-streiff-t-01-09-21" style="--pulse-height:15%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-justin-streiff-t-00-08-34" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-person-justin-streiff-t-00-21-11" style="--pulse-height:15%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 2 mentions" title="2026-01-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-justin-streiff-t-00-20-47" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-justin-streiff-t-00-25-55" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-justin-streiff-t-00-11-55" style="--pulse-height:31%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 4 mentions" title="2026-02-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-person-justin-streiff-t-00-45-19" style="--pulse-height:15%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-person-justin-streiff-t-00-42-10" style="--pulse-height:15%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-justin-streiff-t-00-37-21" style="--pulse-height:23%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 3 mentions" title="2026-03-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-justin-streiff-t-00-16-52" style="--pulse-height:100%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 13 mentions" title="2026-03-23 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-justin-streiff-t-00-19-47" style="--pulse-height:15%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-justin-streiff-t-02-46-50" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -73,6 +77,10 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-justin-streiff-t-00-25-55) | 1 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-justin-streiff-t-00-11-55) | 4 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-person-justin-streiff-t-00-45-19) | 2 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-person-justin-streiff-t-00-42-10) | 2 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-justin-streiff-t-00-37-21) | 3 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-justin-streiff-t-00-16-52) | 13 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-justin-streiff-t-00-19-47) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-justin-streiff-t-02-46-50) | 1 |
 
 </details>
@@ -81,13 +89,93 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+<summary><strong class="section-title">Raw mentions (60)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[02:46:56](/episodes/ep-nPhCKwJ6ye8.md#ent-person-justin-streiff-t-02-46-50)**
 > "her and Justin Strife."
+
+</details>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (2 mentions)</summary>
+
+**[00:19:55](/episodes/ep-SgVcnx4Oh30.md#ent-person-justin-streiff-t-00-19-47)**
+> "Aubrey (TPUSA staffer; surname unverified) is doing everything. She's got to do everything before she gets fired. Justin (Justin Streiff) jumps in on this text thread after Aubrey (TPUSA staffer; surname unverified) asks a very important question of whether or not she should confirm or deny that the email that was sent."
+
+**[00:20:17](/episodes/ep-SgVcnx4Oh30.md#ent-person-justin-streiff-t-00-19-47)**
+> "And Justin (Justin Streiff) jumps in on the text and he says that it's up to..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (13 mentions)</summary>
+
+**[00:17:20](/episodes/ep-B9TyCs-6o_0.md#ent-person-justin-streiff-t-00-16-52)**
+> "sit down with Erika Kirk and Justin Streiff"
+
+**[00:14:25](/episodes/ep-B9TyCs-6o_0.md#ent-person-justin-streiff-t-00-14-25)**
+> "...ed me out, he had a call with Justin Streiff and Andrew Kolvet. And I find that to be interest..."
+
+**[00:14:50](/episodes/ep-B9TyCs-6o_0.md#ent-person-justin-streiff-t-00-14-25)**
+> "with Andrew and Justin Streiff, why do two Catholics need to speak to a rabbi wh..."
+
+**[00:17:53](/episodes/ep-B9TyCs-6o_0.md#ent-person-justin-streiff-t-00-17-33)**
+> "Justin Streiff told me that he booked the planes. He said, I boo..."
+
+**[00:18:29](/episodes/ep-B9TyCs-6o_0.md#ent-person-justin-streiff-t-00-18-15)**
+> "You put that pencil down, Justin. I know, of course, that she flew with Andrew bec..."
+
+**[00:19:58](/episodes/ep-B9TyCs-6o_0.md#ent-person-justin-streiff-t-00-19-58)**
+> "...erson at that company becomes Justin Streiff because he's been promoted to COO just seven days..."
+
+**[00:21:43](/episodes/ep-B9TyCs-6o_0.md#ent-person-justin-streiff-t-00-21-43)**
+> "...s okay In this group, we have Justin Streiff, we have Andrew Kolvet, we have Marina Minas, and..."
+
+**[00:27:47](/episodes/ep-B9TyCs-6o_0.md#ent-person-justin-streiff-t-00-27-10)**
+> "And Justin Streiff, I think it's the, can I confirm or deny one, is ..."
+
+**[00:27:55](/episodes/ep-B9TyCs-6o_0.md#ent-person-justin-streiff-t-00-27-55)**
+> "um, Justin Streiff is going to come back and say, confirm or deny wh..."
+
+**[00:28:06](/episodes/ep-B9TyCs-6o_0.md#ent-person-justin-streiff-t-00-27-55)**
+> "...f the email is authentic, uh, Justin who, sorry, she's going to then say to him, yes. ..."
+
+**[00:28:19](/episodes/ep-B9TyCs-6o_0.md#ent-person-justin-streiff-t-00-27-55)**
+> "And Justin who remember he told me that he booked the planes..."
+
+**[00:34:11](/episodes/ep-B9TyCs-6o_0.md#ent-person-justin-streiff-t-00-34-11)**
+> "...see it where I was discussing Justin Streiff jumping in saying confirm or deny what all these ..."
+
+**[00:34:42](/episodes/ep-B9TyCs-6o_0.md#ent-person-justin-streiff-t-00-34-11)**
+> "Justin Streiff says, you may need to wait until AK is on the gro..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (3 mentions)</summary>
+
+**[00:37:35](/episodes/ep-DdPjoy5W-wY.md#ent-person-justin-streiff-t-00-37-21)**
+> "...estions early on that I asked Justin Streiff. I said, when?"
+
+**[00:37:39](/episodes/ep-DdPjoy5W-wY.md#ent-person-justin-streiff-t-00-37-21)**
+> "...nt to be clear, I don't think Justin Streiff was lying."
+
+**[00:37:52](/episodes/ep-DdPjoy5W-wY.md#ent-person-justin-streiff-t-00-37-21)**
+> "...he dumb? And my answer is no, Justin Streiff is not an idiot. So this is what her new story is..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (2 mentions)</summary>
+
+**[00:42:10](/episodes/ep-y8lak3CRwDw.md#ent-person-justin-streiff-t-00-42-10)**
+> "...ho was there? None other than Justin Streiff, the current COO of Turning Point USA, who became..."
+
+**[00:42:20](/episodes/ep-y8lak3CRwDw.md#ent-person-justin-streiff-t-00-42-10)**
+> "... people that Erika pushed for Justin Streiff. And I will say allegedly there because this is T..."
 
 </details>
 
@@ -275,13 +363,16 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>ep-y8lak3CRwDw (2 mentions)</summary>
+<summary>ep-5m-Wn6Pr5rM (3 mentions)</summary>
 
-**[00:42:10](/episodes/ep-y8lak3CRwDw.md#t-00-42-10)**
-> "...ho was there? None other than Justin Streiff, the current COO of Turning Point USA, who became..."
+**[00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-47)**
+> "Justin Streiff"
 
-**[00:42:20](/episodes/ep-y8lak3CRwDw.md#t-00-42-20)**
-> "... people that Erika pushed for Justin Streiff. And I will say allegedly there because this is T..."
+**[00:13:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-07)**
+> "Frank and Justin then run to the Turning Point Action Building. I'..."
+
+**[00:49:54](/episodes/ep-5m-Wn6Pr5rM.md#t-00-49-54)**
+> "...d then she went and she found Justin Streiff. The later phone call that she told people was wh..."
 
 </details>
 
@@ -294,10 +385,12 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <summary>Coo Of (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:21:24](/episodes/ep-A39g5oqB_eM.md#t-00-21-11): “Turning Point USA and Turning Point Action will steam ahead, ... Charlie (Charlie Kirk) was also working on Vision 2030 in the weeks leading up to September 10th and that's and he was working really closely with Justin and that's why Justin had been appointed the role of COO because he was literally I remember phone calls when Charlie (Charlie Kirk) and I would take our night walks and it would be 10 o'clock at night and him and Justin would just be talking about”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:19](/episodes/ep-1IY2oD-_xVA.md#t-00-45-19): “heard that i went to Justin Streiff when there was communication between us to the coo and i specifically asked about that i said i heard this and this person definitely knows Charlie (Charlie Kirk) he knows Erika (Erika Kirk) and you know is there any truth they said no no no that's not true well fast forward to today and they fired a lot of people and you know a lot of people are are speaking and somebody who was within turning point usa confirmed to me That money was indeed missing out of Turning Point USA.”
+- [Bride Of Charlie: What Happened In Romania? | Episode 6 @ 00:42:10](/episodes/ep-y8lak3CRwDw.md#t-00-42-10): “Who was there? None other than Justin Streiff, the current COO of Turning Point USA, who became the COO seven days before Charlie was assassinated.”
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:19:58](/episodes/ep-B9TyCs-6o_0.md#t-00-19-58): “the most important person at that company becomes Justin Streiff because he's been promoted to COO just seven days earlier”
 
 </details>
 
@@ -307,9 +400,10 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <summary>Met With (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:08:44](/episodes/ep-GY6GWceEqtQ.md#t-00-08-34): “we had this open book discussion I sat down with Erika (Erika Kirk) and Justin Streiff”
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:17:20](/episodes/ep-B9TyCs-6o_0.md#t-00-16-52): “when I had the opportunity to sit down with Erika Kirk and Justin Streiff”
 
 </details>
 
@@ -349,17 +443,20 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** has COO this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:21:24](/episodes/ep-A39g5oqB_eM.md#t-00-21-11): “Turning Point USA and Turning Point Action will steam ahead, ... Charlie (Charlie Kirk) was also working on Vision 2030 in the weeks leading up to September 10th and that's and he was working really closely with Justin and that's why Justin had been appointed the role of COO because he was literally I remember phone calls when Charlie (Charlie Kirk) and I would take our night walks and it would be 10 o'clock at night and him and Justin would just be talking about”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:19](/episodes/ep-1IY2oD-_xVA.md#t-00-45-19): “heard that i went to Justin Streiff when there was communication between us to the coo and i specifically asked about that i said i heard this and this person definitely knows Charlie (Charlie Kirk) he knows Erika (Erika Kirk) and you know is there any truth they said no no no that's not true well fast forward to today and they fired a lot of people and you know a lot of people are are speaking and somebody who was within turning point usa confirmed to me That money was indeed missing out of Turning Point USA.”
+- [Bride Of Charlie: What Happened In Romania? | Episode 6 @ 00:42:10](/episodes/ep-y8lak3CRwDw.md#t-00-42-10): “Who was there? None other than Justin Streiff, the current COO of Turning Point USA, who became the COO seven days before Charlie was assassinated.”
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:19:58](/episodes/ep-B9TyCs-6o_0.md#t-00-19-58): “the most important person at that company becomes Justin Streiff because he's been promoted to COO just seven days earlier”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:08:44](/episodes/ep-GY6GWceEqtQ.md#t-00-08-34): “we had this open book discussion I sat down with Erika (Erika Kirk) and Justin Streiff”
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:17:20](/episodes/ep-B9TyCs-6o_0.md#t-00-16-52): “when I had the opportunity to sit down with Erika Kirk and Justin Streiff”
 
 </details>
 
@@ -389,7 +486,26 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Justin Streiff (2)</strong></summary>
+<summary><strong class="section-title">Statements by Justin Streiff (5)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1)</summary>
+
+- [00:34:42](/episodes/ep-B9TyCs-6o_0.md#t-00-34-11) [✓] (Claim) ["Justin Streiff wrote that the team might need to wait until Andrew Kolvet was on..."](/statements/statement-ad9da6f3d3a6.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Justin Streiff](/entities/person-justin-streiff.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (2)</summary>
+
+- [00:43:41](/episodes/ep-y8lak3CRwDw.md#t-00-43-41) [○] (Claim) ["Charles Thornton believed the Kirkwood police were racist and were running a pla..."](/statements/statement-8d6fd4a5cedf.md)
+  - About: [Justin Streiff](/entities/person-justin-streiff.md), [Charles Lee 'Cookie' Thornton](/entities/person-charles-lee-thornton.md), [Kirkwood, Missouri](/entities/gpe-kirkwood-missouri.md)
+
+- [00:44:01](/episodes/ep-y8lak3CRwDw.md#t-00-44-01) [○] (Opinion) ["Everyone in Kirkwood knew Charles Thornton was kind of crazy, but no one thought..."](/statements/statement-f37f5ef3663c.md)
+  - About: [Justin Streiff](/entities/person-justin-streiff.md), [Charles Lee 'Cookie' Thornton](/entities/person-charles-lee-thornton.md), [Kirkwood, Missouri](/entities/gpe-kirkwood-missouri.md)
+
+</details>
 
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1)</summary>
@@ -410,7 +526,46 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Justin Streiff (8)</strong></summary>
+<summary><strong class="section-title">Statements about Justin Streiff (17)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1)</summary>
+
+- [00:20:17](/episodes/ep-SgVcnx4Oh30.md#t-00-19-47) (Claim) **Candace Owens**: ["Candace Owens said the implication of a text exchange was that Andrew ..."](/statements/statement-5f2a1b2a4499.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Aubrey Laitsch](/entities/person-aubrey-laitsch.md)
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (3)</summary>
+
+- [00:14:25](/episodes/ep-B9TyCs-6o_0.md#t-00-13-50) (Claim) **Candace Owens**: ["On September 5, while Charlie Kirk was in Asia, Pesach Wolicki had a c..."](/statements/statement-c325b6ae8f65.md)
+  - Also about: [Pesach Wolicki](/entities/person-pesach-wolicki.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:19:19](/episodes/ep-B9TyCs-6o_0.md#t-00-19-00) (Accusation) **Candace Owens**: ["Candace Owens believes the September 10 evidence proves Turning Point ..."](/statements/statement-b7c4f58c6f22.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:34:42](/episodes/ep-B9TyCs-6o_0.md#t-00-34-11) (Claim) **Justin Streiff** (via read message): ["Justin Streiff wrote that the team might need to wait until Andrew Kol..."](/statements/statement-ad9da6f3d3a6.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (4)</summary>
+
+- [00:42:10](/episodes/ep-y8lak3CRwDw.md#t-00-42-10) (Claim) **Candace Owens**: ["Justin Streiff became Turning Point USA's chief operating officer seve..."](/statements/statement-f00fe411079f.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:42:20](/episodes/ep-y8lak3CRwDw.md#t-00-42-10) (Accusation) **Anonymous Source #1 (Ep y8lak3CRwDw)** (via read message): ["Turning Point USA employees privately alleged that Erika Kirk pushed C..."](/statements/statement-1c55e101f93a.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:43:41](/episodes/ep-y8lak3CRwDw.md#t-00-43-41) (Claim) **Justin Streiff** (via quoted speech): ["Charles Thornton believed the Kirkwood police were racist and were run..."](/statements/statement-8d6fd4a5cedf.md)
+  - Also about: [Charles Lee 'Cookie' Thornton](/entities/person-charles-lee-thornton.md), [Kirkwood, Missouri](/entities/gpe-kirkwood-missouri.md)
+
+- [00:44:01](/episodes/ep-y8lak3CRwDw.md#t-00-44-01) (Opinion) **Justin Streiff** (via quoted speech): ["Everyone in Kirkwood knew Charles Thornton was kind of crazy, but no o..."](/statements/statement-f37f5ef3663c.md)
+  - Also about: [Charles Lee 'Cookie' Thornton](/entities/person-charles-lee-thornton.md), [Kirkwood, Missouri](/entities/gpe-kirkwood-missouri.md)
+
+</details>
 
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (2)</summary>
@@ -458,6 +613,14 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 
 - [00:14:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk and Justin Streiff confirmed that Andrew Kolvet spoke to th..."](/statements/statement-2934cd4da2bf.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (1)</summary>
+
+- [00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-47) (Claim) **Candace Owens**: ["After the call, Elizabeth McCoy ran into the office of Frank, a TPUSA ..."](/statements/statement-b034bb78e025.md)
+  - Also about: [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Frank (TPUSA lawyer; surname unverified)](/entities/anon-src-5m-Wn6Pr5rM-001.md), [Turning Point Action](/entities/org-turning-point-action.md)
 
 </details>
 

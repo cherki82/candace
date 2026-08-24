@@ -11,7 +11,11 @@ object: "person-jesse-watters"
 
 ## [Erika Kirk](/entities/person-erika-kirk) interviewed by [Jesse Watters](/entities/person-jesse-watters)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
+
+**[EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg)**
+
+- [00:24:52](/episodes/ep-5-HUyv9LyMg#t-00-24-52): _this clip of Erika (Erika Kirk) on Jesse Watters_
 
 **[MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU)**
 

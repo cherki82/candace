@@ -1,6 +1,6 @@
 ---
 title: "Jonathan Jay Pollard"
-description: "Jonathan Jay Pollard (People) - 1 mention"
+description: "Jonathan Jay Pollard (People) - 2 mentions"
 id: "person-jonathan-jay-pollard"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [FBI: Year of the Spy (1985)](https://www.fbi.gov/history/cases-and-crim
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jonathan-jay-pollard-t-00-20-00">2026-02-02 · 00:20:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jonathan-jay-pollard-t-00-20-00">2026-02-02 · 00:20:16</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-jonathan-jay-pollard-t-01-03-09">2026-03-17 · 01:03:09</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -38,12 +38,14 @@ Source: [FBI: Year of the Spy (1985)](https://www.fbi.gov/history/cases-and-crim
 <p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jonathan-jay-pollard-t-00-20-00">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jonathan-jay-pollard-t-00-20-00" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-jonathan-jay-pollard-t-01-03-09" style="--pulse-height:100%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-jonathan-jay-pollard-t-00-20-00) | 1 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-jonathan-jay-pollard-t-01-03-09) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [FBI: Year of the Spy (1985)](https://www.fbi.gov/history/cases-and-crim
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>
+
+**[01:03:09](/episodes/ep-I0OaY6Gryqk.md#ent-person-jonathan-jay-pollard-t-01-03-09)**
+> "he notoriously supported Jonathan Pollard"
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>
@@ -66,7 +76,29 @@ Source: [FBI: Year of the Spy (1985)](https://www.fbi.gov/history/cases-and-crim
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Supported By (1)</summary>
+
+- **[Mike Huckabee](/entities/person-mike-huckabee.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 01:03:09](/episodes/ep-I0OaY6Gryqk.md#t-01-03-09): “But he's always in that way. I mean, he notoriously supported Jonathan Pollard, who was a literal American spy.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Mike Huckabee](/entities/person-mike-huckabee.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 01:03:09](/episodes/ep-I0OaY6Gryqk.md#t-01-03-09): “But he's always in that way. I mean, he notoriously supported Jonathan Pollard, who was a literal American spy.”
+
+</details>
+
+</details>
 
 </details>
 

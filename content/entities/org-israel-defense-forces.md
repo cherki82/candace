@@ -1,6 +1,6 @@
 ---
 title: "Israel Defense Forces"
-description: "Israel Defense Forces (Organizations) - 8 mentions"
+description: "Israel Defense Forces (Organizations) - 11 mentions"
 id: "org-israel-defense-forces"
 type: "ORG"
 aliases:
@@ -25,12 +25,12 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-israel-defense-forces-t-00-07-51">2026-01-09 · 00:08:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-israel-defense-forces-t-01-34-26">2026-01-29 · 01:34:26</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-israel-defense-forces-t-00-11-11">2026-03-12 · 00:11:11</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -41,6 +41,9 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-israel-defense-forces-t-00-07-51" style="--pulse-height:20%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-israel-defense-forces-t-00-51-49" style="--pulse-height:20%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-israel-defense-forces-t-00-45-42" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 5 mentions" title="2026-01-29 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-israel-defense-forces-t-00-53-53" style="--pulse-height:20%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-israel-defense-forces-t-00-37-50" style="--pulse-height:40%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-israel-defense-forces-t-00-11-11" style="--pulse-height:20%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +52,9 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-israel-defense-forces-t-00-07-51) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-israel-defense-forces-t-00-51-49) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-israel-defense-forces-t-00-45-42) | 5 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-israel-defense-forces-t-00-53-53) | 1 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-israel-defense-forces-t-00-37-50) | 2 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-israel-defense-forces-t-00-11-11) | 1 |
 
 </details>
 </section>
@@ -56,7 +62,34 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>
+
+**[00:11:11](/episodes/ep-5-HUyv9LyMg.md#ent-org-israel-defense-forces-t-00-11-11)**
+> "...rs because they donate to the IDF."
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (2 mentions)</summary>
+
+**[00:37:57](/episodes/ep-i8m_6D4QGmk.md#ent-org-israel-defense-forces-t-00-37-50)**
+> "She served in the IDF."
+
+**[00:44:48](/episodes/ep-i8m_6D4QGmk.md#ent-org-israel-defense-forces-t-00-44-48)**
+> "...g the lawn in Gaza, where the IDF would just at random begin shooting and killing P..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
+
+**[00:54:29](/episodes/ep-y8lak3CRwDw.md#ent-org-israel-defense-forces-t-00-53-53)**
+> "... Miriam Adelson served in the IDF. Sheldon Adelson said his biggest regret in life ..."
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (5 mentions)</summary>
@@ -91,14 +124,6 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 
 **[00:08:04](/episodes/ep-wcD2khO3rOA.md#ent-org-israel-defense-forces-t-00-07-51)**
 > "IDF soldiers just killing them."
-
-</details>
-
-<details>
-<summary>ep-y8lak3CRwDw (1 mentions)</summary>
-
-**[00:54:29](/episodes/ep-y8lak3CRwDw.md#t-00-54-29)**
-> "... Miriam Adelson served in the IDF. Sheldon Adelson said his biggest regret in life ..."
 
 </details>
 
@@ -146,6 +171,19 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 </details>
 
 <details>
+<summary>Has Former Member (1)</summary>
+
+- **[Miriam Adelson](/entities/person-miriam-adelson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:37:57](/episodes/ep-i8m_6D4QGmk.md#t-00-37-50): “She served in the IDF. That's what he's saying to you.”
+- [Bride Of Charlie: What Happened In Romania? | Episode 6 @ 00:54:29](/episodes/ep-y8lak3CRwDw.md#t-00-53-53): “They bring us their gambling. Miriam Adelson served in the IDF. Sheldon Adelson said his biggest regret in life was that he didn't.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Trained (1)</summary>
 
 - **[U.S. Immigration and Customs Enforcement](/entities/org-us-immigration-and-customs-enforcement.md)**
@@ -158,7 +196,15 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
+
+- **[Miriam Adelson](/entities/person-miriam-adelson.md)** formerly member of this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:37:57](/episodes/ep-i8m_6D4QGmk.md#t-00-37-50): “She served in the IDF. That's what he's saying to you.”
+- [Bride Of Charlie: What Happened In Romania? | Episode 6 @ 00:54:29](/episodes/ep-y8lak3CRwDw.md#t-00-53-53): “They bring us their gambling. Miriam Adelson served in the IDF. Sheldon Adelson said his biggest regret in life was that he didn't.”
+
+</details>
 
 - **[Jonathan Conricus](/entities/person-jonathan-conricus.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -200,7 +246,31 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel Defense Forces (4)</strong></summary>
+<summary><strong class="section-title">Statements about Israel Defense Forces (7)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1)</summary>
+
+- [00:11:11](/episodes/ep-5-HUyv9LyMg.md#t-00-11-11) (Accusation) **Candace Owens**: ["The Trump administration used Epstein-file redactions to protect rapis..."](/statements/statement-e53db9adb61e.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Kash Patel](/entities/person-kash-patel.md), [Pam Bondi](/entities/person-pam-bondi.md)
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
+
+- [00:44:48](/episodes/ep-i8m_6D4QGmk.md#t-00-44-48) (Claim) **Candace Owens** (via paraphrase): ["Norman Finkelstein said Israel had a government policy called 'mowing ..."](/statements/statement-38d396825ea7.md)
+  - Also about: [Norman Finkelstein](/entities/person-norman-finkelstein.md), [Israel](/entities/gpe-israel.md), [Gaza](/entities/gpe-gaza.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1)</summary>
+
+- [00:54:29](/episodes/ep-y8lak3CRwDw.md#t-00-53-53) (Claim) **Candace Owens**: ["Miriam Adelson served in the Israel Defense Forces, and Sheldon Adelso..."](/statements/statement-4c2f8f8a9f48.md)
+  - Also about: [Miriam Adelson](/entities/person-miriam-adelson.md), [Sheldon Adelson](/entities/person-sheldon-adelson.md)
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (4)</summary>

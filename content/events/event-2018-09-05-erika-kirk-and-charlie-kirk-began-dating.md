@@ -11,7 +11,7 @@ date: "2018-09-05"
 
 > Erika Kirk and Charlie Kirk went on their first date on September 5, 2018.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. An Open Letter To Erika Kirk | Candace Ep 303
 
@@ -28,3 +28,11 @@ date: "2018-09-05"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1811);return false;">▶️ Play</a>
 
 > messages with Charlie that this date thing happened September of 2018.
+
+### 3. Bride Of Charlie: Crazy In Love | Episode 7
+
+**Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
+**Timestamp:** [00:05:07](/episodes/ep-DdPjoy5W-wY.md#t-00-05-07) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(307);return false;">▶️ Play</a>
+
+> she goes on her first official date with Charlie in September of 2018.

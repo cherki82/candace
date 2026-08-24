@@ -1,6 +1,6 @@
 ---
 title: "Afghanistan"
-description: "Afghanistan (Places) - 9 mentions"
+description: "Afghanistan (Places) - 20 mentions"
 id: "gpe-afghanistan"
 type: "GPE"
 categories:
@@ -18,23 +18,25 @@ Source: [CIA World Factbook — Afghanistan](https://www.cia.gov/the-world-factb
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-afghanistan-t-00-50-50">2025-11-12 · 00:50:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-afghanistan-t-00-35-26">2026-03-03 · 00:35:36</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-afghanistan-t-00-08-22">2026-03-10 · 00:08:22</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-afghanistan-t-00-00-01">Bride Of Charlie: The Lost Years... | Episode 5</a> (6 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-afghanistan-t-00-16-37">Bride Of Charlie: What Happened In Romania? | Episode 6</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-afghanistan-t-00-50-50" style="--pulse-height:17%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-afghanistan-t-00-18-12" style="--pulse-height:17%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-afghanistan-t-00-04-53" style="--pulse-height:17%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-afghanistan-t-00-00-01" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 6 mentions" title="2026-03-03 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-afghanistan-t-00-50-50" style="--pulse-height:10%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-afghanistan-t-00-18-12" style="--pulse-height:10%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-afghanistan-t-00-04-53" style="--pulse-height:10%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-afghanistan-t-00-00-01" style="--pulse-height:60%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 6 mentions" title="2026-03-03 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-afghanistan-t-00-16-37" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 10 mentions" title="2026-03-04 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-afghanistan-t-00-08-22" style="--pulse-height:10%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +46,8 @@ Source: [CIA World Factbook — Afghanistan](https://www.cia.gov/the-world-factb
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-afghanistan-t-00-18-12) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-afghanistan-t-00-04-53) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-afghanistan-t-00-00-01) | 6 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-afghanistan-t-00-16-37) | 10 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-afghanistan-t-00-08-22) | 1 |
 
 </details>
 </section>
@@ -51,7 +55,50 @@ Source: [CIA World Factbook — Afghanistan](https://www.cia.gov/the-world-factb
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1 mentions)</summary>
+
+**[00:08:22](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-afghanistan-t-00-08-22)**
+> "like we did in Afghanistan"
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (10 mentions)</summary>
+
+**[00:16:56](/episodes/ep-y8lak3CRwDw.md#ent-gpe-afghanistan-t-00-16-37)**
+> "stationed out in Afghanistan for Operation Enduring Freedom"
+
+**[00:17:23](/episodes/ep-y8lak3CRwDw.md#ent-gpe-afghanistan-t-00-17-18)**
+> "...d be crazy anyway speaking of afghanistan Speaking of Reno, speaking of Vegas,"
+
+**[00:18:48](/episodes/ep-y8lak3CRwDw.md#ent-gpe-afghanistan-t-00-18-31)**
+> "...s Kolvet who was stationed in Afghanistan."
+
+**[00:18:56](/episodes/ep-y8lak3CRwDw.md#ent-gpe-afghanistan-t-00-18-31)**
+> "...e transportation company from Afghanistan."
+
+**[00:19:00](/episodes/ep-y8lak3CRwDw.md#ent-gpe-afghanistan-t-00-19-00)**
+> "...e transportation company from Afghanistan and Curtis Kolvet was the commander of the 593rd ..."
+
+**[00:20:16](/episodes/ep-y8lak3CRwDw.md#ent-gpe-afghanistan-t-00-19-44)**
+> "...well, because everything from Afghanistan was running through Romania and Bulgaria."
+
+**[00:21:12](/episodes/ep-y8lak3CRwDw.md#ent-gpe-afghanistan-t-00-21-12)**
+> "...off point too for troops from Afghanistan? man yeah"
+
+**[00:21:32](/episodes/ep-y8lak3CRwDw.md#ent-gpe-afghanistan-t-00-21-32)**
+> "...he halfway drop off base from Afghanistan. Interesting. Elsewhere in that same interview, E..."
+
+**[00:25:12](/episodes/ep-y8lak3CRwDw.md#ent-gpe-afghanistan-t-00-25-12)**
+> "...th Military Police Company in Afghanistan as well, which is like the military police unit."
+
+**[00:53:53](/episodes/ep-y8lak3CRwDw.md#ent-gpe-afghanistan-t-00-53-53)**
+> "...that he built. Pre-888 writes Afghanistan grows poppies. I remember once watching a video w..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (6 mentions)</summary>
@@ -110,7 +157,24 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Afghanistan (2)</strong></summary>
+<summary><strong class="section-title">Statements about Afghanistan (6)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (4)</summary>
+
+- [00:16:29](/episodes/ep-y8lak3CRwDw.md#t-00-15-54) (Claim) **Candace Owens**: ["Dennis Frantzve was a retired Marine reservist who returned from retir..."](/statements/statement-4f770a4a767a.md)
+  - Also about: [Dennis Frantzve](/entities/person-dennis-frantzve.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md), [Constanța](/entities/gpe-constanta.md)
+
+- [00:19:49](/episodes/ep-y8lak3CRwDw.md#t-00-19-44) (Claim) **Candace Owens**: ["Robert Kolvet, Andrew Kolvet's cousin, commanded the 485th Military Po..."](/statements/statement-55393e51820b.md)
+  - Also about: [Robert Kolvet](/entities/person-robert-kolvet.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Curtis Kolvet](/entities/person-curtis-kolvet.md)
+
+- [00:20:16](/episodes/ep-y8lak3CRwDw.md#t-00-19-44) (Claim) **Candace Owens**: ["Operations from Afghanistan were routed through Romania and Bulgaria."](/statements/statement-a1e81b675f31.md)
+  - Also about: [Romania](/entities/gpe-romania.md), [Bulgaria](/entities/gpe-bulgaria.md)
+
+- [00:21:12](/episodes/ep-y8lak3CRwDw.md#t-00-21-12) (Claim) **Randy Hoppes** (via quoted speech): ["The Romanian base was part of a halfway drop-off operation for troops ..."](/statements/statement-92ab2600d166.md)
+  - Also about: [Randy Hoppes](/entities/person-randy-hoppes.md), [Romania](/entities/gpe-romania.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Eddie Farnsworth"
-description: "Eddie Farnsworth (People) - 10 mentions"
+description: "Eddie Farnsworth (People) - 15 mentions"
 id: "person-eddie-farnsworth"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Arizona State Library — Eddie Farnsworth](https://apps.azlibrary.gov/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-eddie-farnsworth-t-00-31-41">2026-01-06 · 00:31:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-eddie-farnsworth-t-00-37-22">2026-01-06 · 00:37:25</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-eddie-farnsworth-t-00-44-13">2026-03-06 · 00:44:32</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -36,12 +36,14 @@ Source: [Arizona State Library — Eddie Farnsworth](https://apps.azlibrary.gov/
 <p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-eddie-farnsworth-t-00-31-41">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-eddie-farnsworth-t-00-31-41" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 10 mentions" title="2026-01-06 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-eddie-farnsworth-t-00-42-46" style="--pulse-height:50%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 5 mentions" title="2026-03-06 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-eddie-farnsworth-t-00-31-41) | 10 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-eddie-farnsworth-t-00-42-46) | 5 |
 
 </details>
 </section>
@@ -49,7 +51,27 @@ Source: [Arizona State Library — Eddie Farnsworth](https://apps.azlibrary.gov/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (5 mentions)</summary>
+
+**[00:42:46](/episodes/ep-DdPjoy5W-wY.md#ent-person-eddie-farnsworth-t-00-42-46)**
+> "And that is why Eddie Farnsworth, who also votes to pass her resolution and also i..."
+
+**[00:43:01](/episodes/ep-DdPjoy5W-wY.md#ent-person-eddie-farnsworth-t-00-42-46)**
+> "...re all these articles look up Eddie Farnsworth and the charter school. and they all started sayi..."
+
+**[00:43:30](/episodes/ep-DdPjoy5W-wY.md#ent-person-eddie-farnsworth-t-00-43-30)**
+> "...unty Republican Committee and Eddie Farnsworth is on that committee and David Farnsworth is on t..."
+
+**[00:43:56](/episodes/ep-DdPjoy5W-wY.md#ent-person-eddie-farnsworth-t-00-43-30)**
+> "So here is Eddie Farnsworth on that committee and yeah, they got the Farnswor..."
+
+**[00:44:32](/episodes/ep-DdPjoy5W-wY.md#ent-person-eddie-farnsworth-t-00-44-13)**
+> "...nd that very interesting that Eddie Farnsworth is getting accused of robbing taxpayers to enrich..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (10 mentions)</summary>
@@ -92,6 +114,18 @@ Source: [Arizona State Library — Eddie Farnsworth](https://apps.azlibrary.gov/
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Accused By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:44:32](/episodes/ep-DdPjoy5W-wY.md#t-00-44-13): “Anyway, I just find that very interesting that Eddie Farnsworth is getting accused of robbing taxpayers to enrich himself.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Chairman Of (1)</summary>
 
 - **[Arizona House Judiciary Committee](/entities/org-arizona-house-judiciary-committee.md)**
@@ -110,6 +144,18 @@ Source: [Arizona State Library — Eddie Farnsworth](https://apps.azlibrary.gov/
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-30-58): “Terryl (Terryl Farnsworth)'s father is a man named Dwayne Farnsworth. And his first cousins are longtime Arizona congressman Eddie Farnsworth.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Formerly Member Of (1)</summary>
+
+- **[Maricopa County Republican Committee](/entities/org-maricopa-county-republican-committee.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:43:30](/episodes/ep-DdPjoy5W-wY.md#t-00-43-30): “Eddie Farnsworth is on that committee”
 
 </details>
 
@@ -140,7 +186,14 @@ Source: [Arizona State Library — Eddie Farnsworth](https://apps.azlibrary.gov/
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (5)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:44:32](/episodes/ep-DdPjoy5W-wY.md#t-00-44-13): “Anyway, I just find that very interesting that Eddie Farnsworth is getting accused of robbing taxpayers to enrich himself.”
+
+</details>
 
 - **[Dwayne Farnsworth](/entities/person-dwayne-farnsworth.md)** cousin of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -156,6 +209,13 @@ Source: [Arizona State Library — Eddie Farnsworth](https://apps.azlibrary.gov/
 
 </details>
 
+- **[Maricopa County Republican Committee](/entities/org-maricopa-county-republican-committee.md)** has former member this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:43:30](/episodes/ep-DdPjoy5W-wY.md#t-00-43-30): “Eddie Farnsworth is on that committee”
+
+</details>
+
 - **[Albert Farnsworth](/entities/person-albert-farnsworth.md)** niece/nephew of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -168,7 +228,17 @@ Source: [Arizona State Library — Eddie Farnsworth](https://apps.azlibrary.gov/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Eddie Farnsworth (5)</strong></summary>
+<summary><strong class="section-title">Statements about Eddie Farnsworth (7)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (2)</summary>
+
+- [00:42:55](/episodes/ep-DdPjoy5W-wY.md#t-00-42-46) (Citation) **Candace Owens**: ["Candace Owens says Eddie Farnsworth made tens of millions of dollars f..."](/statements/statement-54f44e93667e.md)
+
+- [00:43:30](/episodes/ep-DdPjoy5W-wY.md#t-00-43-30) (Claim) **Candace Owens**: ["Candace Owens says Tyler Bowyer met Charlie Kirk in 2014 while Bowyer ..."](/statements/statement-f5c99907eed8.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [David Farnsworth](/entities/person-david-farnsworth.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (5)</summary>

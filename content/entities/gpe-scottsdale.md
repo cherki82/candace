@@ -1,6 +1,6 @@
 ---
 title: "Scottsdale, Arizona"
-description: "Scottsdale, Arizona (Places) - 30 mentions"
+description: "Scottsdale, Arizona (Places) - 62 mentions"
 id: "gpe-scottsdale"
 type: "GPE"
 aliases:
@@ -23,30 +23,35 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-scottsdale-t-00-41-45">2025-10-31 · 00:41:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-scottsdale-t-00-14-42">2026-03-03 · 00:14:42</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-scottsdale-t-00-39-08">2026-03-24 · 00:39:16</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>62</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-scottsdale-t-00-41-45">INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256</a> (7 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-scottsdale-t-00-09-14">REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315</a> (12 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-scottsdale-t-00-41-45" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 7 mentions" title="2025-10-31 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-scottsdale-t-00-39-10" style="--pulse-height:14%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-scottsdale-t-00-26-14" style="--pulse-height:43%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 3 mentions" title="2025-11-17 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-scottsdale-t-00-19-55" style="--pulse-height:29%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-scottsdale-t-00-27-14" style="--pulse-height:71%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 5 mentions" title="2025-11-19 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-scottsdale-t-00-12-04" style="--pulse-height:57%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 4 mentions" title="2025-12-08 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-scottsdale-t-00-13-23" style="--pulse-height:14%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-scottsdale-t-00-26-53" style="--pulse-height:14%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-scottsdale-t-00-17-08" style="--pulse-height:29%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-scottsdale-t-00-31-16" style="--pulse-height:29%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-scottsdale-t-00-08-38" style="--pulse-height:29%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 2 mentions" title="2026-03-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-scottsdale-t-00-41-45" style="--pulse-height:58%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 7 mentions" title="2025-10-31 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-scottsdale-t-00-39-10" style="--pulse-height:8%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-scottsdale-t-00-26-14" style="--pulse-height:25%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 3 mentions" title="2025-11-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-scottsdale-t-00-19-55" style="--pulse-height:17%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-scottsdale-t-00-27-14" style="--pulse-height:42%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 5 mentions" title="2025-11-19 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-scottsdale-t-00-12-04" style="--pulse-height:33%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 4 mentions" title="2025-12-08 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-scottsdale-t-00-13-23" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-scottsdale-t-00-26-53" style="--pulse-height:8%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-scottsdale-t-00-17-08" style="--pulse-height:17%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-scottsdale-t-00-31-16" style="--pulse-height:17%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-scottsdale-t-00-08-38" style="--pulse-height:17%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 2 mentions" title="2026-03-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-scottsdale-t-00-01-13" style="--pulse-height:8%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-scottsdale-t-00-46-17" style="--pulse-height:8%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-scottsdale-t-00-08-36" style="--pulse-height:8%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-scottsdale-t-00-23-50" style="--pulse-height:58%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 7 mentions" title="2026-03-23 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-scottsdale-t-00-09-14" style="--pulse-height:100%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 12 mentions" title="2026-03-24 · 12 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -63,6 +68,11 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-scottsdale-t-00-17-08) | 2 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-scottsdale-t-00-31-16) | 2 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-scottsdale-t-00-08-38) | 2 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-scottsdale-t-00-01-13) | 1 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-scottsdale-t-00-46-17) | 1 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-scottsdale-t-00-08-36) | 1 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-scottsdale-t-00-23-50) | 7 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-scottsdale-t-00-09-14) | 12 |
 
 </details>
 </section>
@@ -70,7 +80,98 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (62)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (12 mentions)</summary>
+
+**[00:09:14](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-scottsdale-t-00-09-14)**
+> "And I know, yes, of course, they flew private, but I promise you there would have been more than a few witnesses. Private terminals are actually quite busy in cities like Scottsdale. That's a big hub."
+
+**[00:10:38](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-scottsdale-t-00-10-38)**
+> "...got on the plane and departed scottsdale she knew that Charlie (Charlie Kirk) was dead oka..."
+
+**[00:11:04](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-scottsdale-t-00-10-38)**
+> "...ve locations in Canada and in Scottsdale. Okay. So I went to Google and I tried to find th..."
+
+**[00:16:04](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-scottsdale-t-00-15-52)**
+> "...ke it's not a junkyard at the Scottsdale airport What is Erika (Erika Kirk) doing in that ..."
+
+**[00:17:01](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-scottsdale-t-00-16-34)**
+> "...ain, why would they all go to Scottsdale would be a question in the background. Why would ..."
+
+**[00:17:33](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-scottsdale-t-00-17-16)**
+> "...ting that he at first flew to Scottsdale from Santa Barbara and then he flew from Scottsda..."
+
+**[00:23:36](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-scottsdale-t-00-23-36)**
+> "...minutes from touching down in Scottsdale, precisely where I remember that Andrew (Andrew K..."
+
+**[00:24:35](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-scottsdale-t-00-24-11)**
+> "...plane out of Santa Barbara to Scottsdale."
+
+**[00:25:07](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-scottsdale-t-00-24-42)**
+> "...t) took from Santa Barbara to Scottsdale."
+
+**[00:27:52](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-scottsdale-t-00-27-27)**
+> "...t our Yrefy plane flew out to Scottsdale from Santa Barbara."
+
+**[00:30:36](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-scottsdale-t-00-30-13)**
+> "...y plane from Santa Barbara to Scottsdale."
+
+**[00:39:16](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-scottsdale-t-00-39-08)**
+> "...(Charlie Kirk) gets shot from scottsdale and it lands into provo so that very much could b..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (7 mentions)</summary>
+
+**[00:23:40](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-scottsdale-t-00-23-50)**
+> "leave at 2.31 p.m. from Scottsdale and land into Provo"
+
+**[00:23:50](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-scottsdale-t-00-23-50)**
+> "...ng to leave at 2.31 p.m. from Scottsdale and land into Provo at 3.31 p.m. And we're going ..."
+
+**[00:30:51](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-scottsdale-t-00-30-51)**
+> "...harlie's plane pardon me from scottsdale to provo okay so you can just again screenshot th..."
+
+**[00:35:49](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-scottsdale-t-00-35-29)**
+> "It just happens to go from Scottsdale in the morning to Provo, then from Provo to Santa..."
+
+**[00:36:04](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-scottsdale-t-00-36-04)**
+> "...K, same deal when it lands in Scottsdale at 144."
+
+**[00:36:28](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-scottsdale-t-00-36-28)**
+> "...transponding then it lands in scottsdale and right away that egyptian plane starts transpo..."
+
+**[00:36:54](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-scottsdale-t-00-36-54)**
+> "...ra and how also then comes to scottsdale it's like all the places that are involved that d..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1 mentions)</summary>
+
+**[00:08:42](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-scottsdale-t-00-08-36)**
+> "We can, I think, reasonably assume that she's not referring to her family back in Scottsdale. Lori (Lori Frantzve) doesn't do real estate."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>
+
+**[00:46:17](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-scottsdale-t-00-46-17)**
+> "...antzve. I'm 25 years old from Scottsdale, Arizona, and I currently live in Venice, California."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
+
+**[00:01:38](/episodes/ep-y8lak3CRwDw.md#ent-gpe-scottsdale-t-00-01-13)**
+> "That is a school out in Scottsdale"
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (2 mentions)</summary>
@@ -217,13 +318,48 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 
 </details>
 
+<details>
+<summary>ep-5m-Wn6Pr5rM (10 mentions)</summary>
+
+**[00:01:51](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-51)**
+> "Scottsdale"
+
+**[00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-10)**
+> "...ook off from Santa Barbara to Scottsdale at 1228 Mountain Time."
+
+**[00:02:23](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-23)**
+> "...was shot, and then it went to Scottsdale. And so Nick Shirley was very kind and gave me th..."
+
+**[00:03:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-03-02)**
+> "...et because it first goes from Scottsdale to Provo and she alleges and I don't believe her ..."
+
+**[00:03:28](/episodes/ep-5m-Wn6Pr5rM.md#t-00-03-28)**
+> "Scottsdale. So Andrew would, of course, have been able to me..."
+
+**[00:13:39](/episodes/ep-5m-Wn6Pr5rM.md#t-00-13-39)**
+> "...roximately 30 minutes away in scottsdale like i said that was immediately weird to me beca..."
+
+**[00:14:34](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-34)**
+> "is allegedly home in Scottsdale. I would like to now put out an APB for Stacey Sh..."
+
+**[00:16:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-16-07)**
+> "...h. Remember, Erika grew up in Scottsdale."
+
+**[00:16:19](/episodes/ep-5m-Wn6Pr5rM.md#t-00-16-19)**
+> "...oesn't everybody live here in Scottsdale I think even I heard that Nicole Rothstein once u..."
+
+**[00:21:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-21-31)**
+> "...conversation with a friend in Scottsdale"
+
+</details>
+
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Location Of (1)</summary>
+<summary>Location Of (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -232,10 +368,17 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 
 </details>
 
+- **[Hopkinson Aircraft Sales](/entities/org-hopkinson-aircraft-sales.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:11:04](/episodes/ep-SgVcnx4Oh30.md#t-00-10-38): “They have locations in Canada and in Scottsdale.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -244,12 +387,30 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 
 </details>
 
+- **[Hopkinson Aircraft Sales](/entities/org-hopkinson-aircraft-sales.md)** based in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:11:04](/episodes/ep-SgVcnx4Oh30.md#t-00-10-38): “They have locations in Canada and in Scottsdale.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Scottsdale, Arizona (8)</strong></summary>
+<summary><strong class="section-title">Statements about Scottsdale, Arizona (12)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (2)</summary>
+
+- [00:23:40](/episodes/ep-B9TyCs-6o_0.md#t-00-23-05) (Citation) **Candace Owens**: ["Charlie Kirk's plane left Scottsdale at 2:31 p.m. and landed in Provo ..."](/statements/statement-54708be81601.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Provo](/entities/gpe-provo.md)
+
+- [00:35:49](/episodes/ep-B9TyCs-6o_0.md#t-00-35-29) (Citation) **Candace Owens**: ["The Yrefy-associated plane flew from Scottsdale to Provo, then Provo t..."](/statements/statement-8f40df02e151.md)
+  - Also about: [Yrefy](/entities/org-yrefy.md), [Provo](/entities/gpe-provo.md), [Santa Barbara](/entities/gpe-santa-barbara.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (2)</summary>
@@ -292,6 +453,17 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 
 - [00:26:27](/episodes/ep-JQjCAsfoXEE.md#t-00-26-14) (Claim) **Candace Owens**: ["A plane with tail number N560TW departed Scottsdale on September 10th ..."](/statements/statement-d3981124cc21.md)
   - Also about: [Provo](/entities/gpe-provo.md)
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (2)</summary>
+
+- [00:02:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-02-10) (Claim) **Candace Owens**: ["The Charlie Kirk show was hosted in its entirety before the Y-Refi pla..."](/statements/statement-cc89e89ddc7e.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Yrefy](/entities/org-yrefy.md)
+
+- [00:14:28](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-28) (Claim) **Candace Owens**: ["Stacey Sheridan was not at the TPUSA office and was allegedly home in ..."](/statements/statement-2e1bf770157c.md)
+  - Also about: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

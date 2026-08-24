@@ -1,26 +1,27 @@
 ---
 title: "Larry Guinta"
-description: "Larry Guinta (People) - 14 mentions"
+description: "Larry Guinta (People) - 15 mentions"
 id: "person-larry-guinta"
 type: "PERSON"
 categories:
   - "Arizona public record"
   - "Frantzve family associate"
+  - "electromagnetic pulse preparedness"
 ---
 
 _Type: People_
 
-**Categories:** Arizona public record, Frantzve family associate
+**Categories:** Arizona public record, Frantzve family associate, electromagnetic pulse preparedness
 
 **Entity verification:** verified
-> Published obituary independently confirms the spelling Larry Guinta and his family connection; transcript 'Giunta' is an ASR error and is not retained as an alias.
-Source: [Joe Abbas Obituary | Cincinnati Enquirer](https://www.legacy.com/us/obituaries/cincinnati/name/joe-abbas-obituary?id=48146743)
+> Official Arizona legislative minutes identify Larry Guinta alongside Lori Frantzve in the exact EMP presentation context, confirming the canonical spelling.
+Source: [Arizona House Public Safety, Military and Regulatory Affairs minutes — March 19, 2014](https://www.azleg.gov/legtext/51leg/2r/comm_min/house/031914%20psmra.doc.htm)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-larry-guinta-t-00-33-05">2026-01-06 · 00:33:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#t-00-11-41">2026-03-02 · 00:11:41</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-larry-guinta-t-00-40-56">2026-03-06 · 00:40:56</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>11</strong></div>
@@ -35,6 +36,7 @@ Source: [Joe Abbas Obituary | Cincinnati Enquirer](https://www.legacy.com/us/obi
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-larry-guinta-t-00-11-22" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 7 mentions" title="2026-01-22 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-larry-guinta-t-00-19-36" style="--pulse-height:57%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 4 mentions" title="2026-02-25 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#t-00-11-41" style="--pulse-height:14%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-larry-guinta-t-00-40-56" style="--pulse-height:14%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +46,7 @@ Source: [Joe Abbas Obituary | Cincinnati Enquirer](https://www.legacy.com/us/obi
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-larry-guinta-t-00-11-22) | 7 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-larry-guinta-t-00-19-36) | 4 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#t-00-11-41) | 1 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-larry-guinta-t-00-40-56) | 1 |
 
 </details>
 </section>
@@ -51,7 +54,15 @@ Source: [Joe Abbas Obituary | Cincinnati Enquirer](https://www.legacy.com/us/obi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>
+
+**[00:40:56](/episodes/ep-DdPjoy5W-wY.md#ent-person-larry-guinta-t-00-40-56)**
+> "...ere is what me and my husband Larry Guinta recommend that you do."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1 mentions)</summary>
@@ -124,9 +135,10 @@ Source: [Joe Abbas Obituary | Cincinnati Enquirer](https://www.legacy.com/us/obi
 <summary>Formerly Married To (1)</summary>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:11:41](/episodes/ep-jTj9Ip46r4w.md#t-00-11-41): “Lori (Lori Frantzve) Abbas Stanley, Wallstad, Frantzve, Gwinta. She's even divorced from Larry Ginta, Gwinta, however you say that.”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:56](/episodes/ep-DdPjoy5W-wY.md#t-00-40-56): “me and my husband Larry Guinta recommend that you do”
 
 </details>
 
@@ -192,9 +204,10 @@ Source: [Joe Abbas Obituary | Cincinnati Enquirer](https://www.legacy.com/us/obi
 <summary>Referenced By (5)</summary>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)** formerly married to this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:11:41](/episodes/ep-jTj9Ip46r4w.md#t-00-11-41): “Lori (Lori Frantzve) Abbas Stanley, Wallstad, Frantzve, Gwinta. She's even divorced from Larry Ginta, Gwinta, however you say that.”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:56](/episodes/ep-DdPjoy5W-wY.md#t-00-40-56): “me and my husband Larry Guinta recommend that you do”
 
 </details>
 

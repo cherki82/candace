@@ -64,7 +64,7 @@ _Type: Places_
 
 </details>
 
-- **[DuPont](/entities/org-dupont-family.md)**
+- **[DuPont family](/entities/org-dupont-family.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:39](/episodes/ep-tB5SXXmd9vU.md#t-00-34-38): “"DuPont, which is connected to 1100 North Market Street."”
@@ -83,7 +83,7 @@ _Type: Places_
 
 </details>
 
-- **[DuPont](/entities/org-dupont-family.md)** headquartered in this
+- **[DuPont family](/entities/org-dupont-family.md)** headquartered in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:39](/episodes/ep-tB5SXXmd9vU.md#t-00-34-38): “"DuPont, which is connected to 1100 North Market Street."”

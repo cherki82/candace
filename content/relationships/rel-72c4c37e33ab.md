@@ -1,15 +1,15 @@
 ---
-title: "Department of Defense headquartered in United States Pentagon"
-description: "Evidence for the relationship: Department of Defense headquartered in United States Pentagon"
+title: "United States Department of Defense headquartered in United States Pentagon"
+description: "Evidence for the relationship: United States Department of Defense headquartered in United States Pentagon"
 relationship_id: "rel-72c4c37e33ab"
-subject: "org-department-of-defense"
+subject: "org-us-department-of-defense"
 predicate: "headquartered in"
 object: "org-united-states-pentagon"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Department of Defense](/entities/org-department-of-defense) headquartered in [United States Pentagon](/entities/org-united-states-pentagon)
+## [United States Department of Defense](/entities/org-us-department-of-defense) headquartered in [United States Pentagon](/entities/org-united-states-pentagon)
 
 ### Evidence (1 mentions)
 
@@ -19,5 +19,5 @@ object: "org-united-states-pentagon"
 
 ### Related
 
-- [Department of Defense](/entities/org-department-of-defense)
+- [United States Department of Defense](/entities/org-us-department-of-defense)
 - [United States Pentagon](/entities/org-united-states-pentagon)

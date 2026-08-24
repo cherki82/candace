@@ -1,54 +1,78 @@
 ---
 title: "Las Vegas, Nevada"
-description: "Las Vegas, Nevada (Places) - 16 mentions"
+description: "Las Vegas, Nevada (Places) - 53 mentions"
 id: "gpe-las-vegas-nevada"
 type: "GPE"
 aliases:
   - "Las Vegas"
   - "Vegas"
+  - "Sin City"
 categories:
   - "city"
   - "episode audience location"
+  - "Nevada"
 ---
 
 _Type: Places_
 
-**Also known as:** Las Vegas, Vegas
+**Also known as:** Las Vegas, Vegas, Sin City
 
-**Categories:** city, episode audience location
-
-> **Possibly overlapping entity records:** [Las Vegas](/entities/gpe-las-vegas). These records share a name or alias; compare their histories before treating either count as complete.
+**Categories:** city, episode audience location, Nevada
 
 **Entity verification:** verified
 > Official city site confirms Las Vegas, Nevada; transcript uses Vegas.
 Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-las-vegas-nevada-t-00-56-02">2026-01-27 · 00:56:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-las-vegas-nevada-t-00-46-04">2026-02-25 · 00:46:30</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-las-vegas-nevada-t-00-20-48">2025-11-10 · 00:21:23</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-las-vegas-nevada-t-00-16-51">2026-03-06 · 00:16:58</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>53</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-las-vegas-nevada-t-00-34-40">Candace x Bassem Youssef | Candace Ep 298</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-las-vegas-nevada-t-00-14-28">Bride Of Charlie: What Happened In Romania? | Episode 6</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-las-vegas-nevada-t-00-56-02" style="--pulse-height:20%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-las-vegas-nevada-t-00-34-40" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 5 mentions" title="2026-01-29 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-las-vegas-nevada-t-00-46-04" style="--pulse-height:20%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-las-vegas-nevada-t-00-20-48" style="--pulse-height:60%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 6 mentions" title="2025-11-10 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-las-vegas-nevada-t-00-18-59" style="--pulse-height:10%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-las-vegas-nevada-t-00-28-42" style="--pulse-height:10%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-las-vegas-nevada-t-00-09-45" style="--pulse-height:30%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-00-38-03" style="--pulse-height:90%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 9 mentions" title="2025-12-17 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-las-vegas-nevada-t-01-00-33" style="--pulse-height:20%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-las-vegas-nevada-t-00-33-40" style="--pulse-height:60%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 6 mentions" title="2025-12-20 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-las-vegas-nevada-t-00-04-13" style="--pulse-height:20%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-las-vegas-nevada-t-00-39-09" style="--pulse-height:10%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-las-vegas-nevada-t-00-25-17" style="--pulse-height:20%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-las-vegas-nevada-t-00-56-02" style="--pulse-height:10%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-las-vegas-nevada-t-00-34-40" style="--pulse-height:50%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 5 mentions" title="2026-01-29 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-las-vegas-nevada-t-00-46-04" style="--pulse-height:10%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-las-vegas-nevada-t-00-14-28" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 10 mentions" title="2026-03-04 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-las-vegas-nevada-t-00-00-44" style="--pulse-height:30%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 3 mentions" title="2026-03-06 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-las-vegas-nevada-t-00-20-48) | 6 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-las-vegas-nevada-t-00-18-59) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-las-vegas-nevada-t-00-28-42) | 1 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-las-vegas-nevada-t-00-09-45) | 3 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-00-38-03) | 9 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-las-vegas-nevada-t-01-00-33) | 2 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-las-vegas-nevada-t-00-33-40) | 6 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-las-vegas-nevada-t-00-04-13) | 2 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-las-vegas-nevada-t-00-39-09) | 1 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-las-vegas-nevada-t-00-25-17) | 2 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-gpe-las-vegas-nevada-t-00-56-02) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-las-vegas-nevada-t-00-34-40) | 5 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-las-vegas-nevada-t-00-46-04) | 1 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-las-vegas-nevada-t-00-14-28) | 10 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-las-vegas-nevada-t-00-00-44) | 3 |
 
 </details>
 </section>
@@ -56,7 +80,56 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (53)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (3 mentions)</summary>
+
+**[00:00:44](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-las-vegas-nevada-t-00-00-44)**
+> "...just opened another office in Las Vegas, which is just so fitting because as I told you, ..."
+
+**[00:16:32](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-las-vegas-nevada-t-00-16-32)**
+> "...g a new office, of course, in Las Vegas before he hands over the call to Erika (Erika Kir..."
+
+**[00:16:58](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-las-vegas-nevada-t-00-16-51)**
+> "... new building that we have in Las Vegas, which is really exciting."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (10 mentions)</summary>
+
+**[00:14:37](/episodes/ep-y8lak3CRwDw.md#ent-gpe-las-vegas-nevada-t-00-14-28)**
+> "...on that Nevada, in particular Vegas, Reno, working on behalf of Tel Aviv, they're act..."
+
+**[00:17:23](/episodes/ep-y8lak3CRwDw.md#ent-gpe-las-vegas-nevada-t-00-17-18)**
+> "...Speaking of Reno, speaking of Vegas,"
+
+**[00:27:38](/episodes/ep-y8lak3CRwDw.md#ent-gpe-las-vegas-nevada-t-00-27-18)**
+> "...And I believe that that is in Vegas."
+
+**[00:27:51](/episodes/ep-y8lak3CRwDw.md#ent-gpe-las-vegas-nevada-t-00-27-18)**
+> "...propriate, performing arts in Las Vegas."
+
+**[00:40:10](/episodes/ep-y8lak3CRwDw.md#ent-gpe-las-vegas-nevada-t-00-40-10)**
+> "...ickly. We got no details. The Vegas shooting of October of 2017 apparently that had t..."
+
+**[00:50:30](/episodes/ep-y8lak3CRwDw.md#ent-gpe-las-vegas-nevada-t-00-50-16)**
+> "...el from isn't he from Reno or Las Vegas you'll have to look it up for me I'm pretty sure ..."
+
+**[00:54:46](/episodes/ep-y8lak3CRwDw.md#ent-gpe-las-vegas-nevada-t-00-54-36)**
+> "...o engage in more filth. Go to Vegas."
+
+**[00:55:15](/episodes/ep-y8lak3CRwDw.md#ent-gpe-las-vegas-nevada-t-00-54-36)**
+> "...more credit. Don't ever go to Vegas."
+
+**[00:56:46](/episodes/ep-y8lak3CRwDw.md#ent-gpe-las-vegas-nevada-t-00-56-46)**
+> "...ut of Tel Aviv. Tel Aviv runs Vegas, created Vegas, and you could you could argue."
+
+**[00:55:19](/episodes/ep-y8lak3CRwDw.md#ent-gpe-las-vegas-nevada-t-00-55-19)**
+> "... the city of sin. It's called Sin City for a reason. It is curating your vices. Don't ga..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1 mentions)</summary>
@@ -95,34 +168,151 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 </details>
 
 <details>
-<summary>ep-y8lak3CRwDw (9 mentions)</summary>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (2 mentions)</summary>
 
-**[00:14:37](/episodes/ep-y8lak3CRwDw.md#t-00-14-37)**
-> "...on that Nevada, in particular Vegas, Reno, working on behalf of Tel Aviv, they're act..."
+**[00:25:17](/episodes/ep-X92MllIHDzw.md#ent-gpe-las-vegas-nevada-t-00-25-17)**
+> "Las Vegas, obviously, and this nonprofit, which advertises itself as providing safe homes for child sex trafficking survivors,"
 
-**[00:17:23](/episodes/ep-y8lak3CRwDw.md#t-00-17-23)**
-> "...Speaking of Reno, speaking of Vegas,"
+**[00:28:56](/episodes/ep-X92MllIHDzw.md#ent-gpe-las-vegas-nevada-t-00-28-56)**
+> "... to nevada right that's where las vegas is that's where you people are actively trying to..."
 
-**[00:27:38](/episodes/ep-y8lak3CRwDw.md#t-00-27-38)**
-> "...And I believe that that is in Vegas."
+</details>
 
-**[00:27:51](/episodes/ep-y8lak3CRwDw.md#t-00-27-51)**
-> "...propriate, performing arts in Las Vegas."
+<details>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1 mentions)</summary>
 
-**[00:40:10](/episodes/ep-y8lak3CRwDw.md#t-00-40-10)**
-> "...ickly. We got no details. The Vegas shooting of October of 2017 apparently that had t..."
+**[00:39:11](/episodes/ep-wcD2khO3rOA.md#ent-gpe-las-vegas-nevada-t-00-39-09)**
+> "We felt like it was a Las Vegas convention."
 
-**[00:50:30](/episodes/ep-y8lak3CRwDw.md#t-00-50-30)**
-> "...el from isn't he from Reno or Las Vegas you'll have to look it up for me I'm pretty sure ..."
+</details>
 
-**[00:54:46](/episodes/ep-y8lak3CRwDw.md#t-00-54-46)**
-> "...o engage in more filth. Go to Vegas."
+<details>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2 mentions)</summary>
 
-**[00:55:15](/episodes/ep-y8lak3CRwDw.md#t-00-55-15)**
-> "...more credit. Don't ever go to Vegas."
+**[00:04:13](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-las-vegas-nevada-t-00-04-13)**
+> "The conference looks and felt like a weekend in Las Vegas."
 
-**[00:56:46](/episodes/ep-y8lak3CRwDw.md#t-00-56-46)**
-> "...ut of Tel Aviv. Tel Aviv runs Vegas, created Vegas, and you could you could argue."
+**[00:04:18](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-las-vegas-nevada-t-00-04-13)**
+> "...or adults because that's what Las Vegas is."
+
+</details>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (6 mentions)</summary>
+
+**[00:34:08](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-las-vegas-nevada-t-00-33-40)**
+> "...ay regarding the call sign in Vegas, we keep telling you that call sign at various ti..."
+
+**[00:33:57](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-las-vegas-nevada-t-00-33-40)**
+> "...t he saw the congressman from Vegas, Mark Amodei."
+
+**[00:34:20](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-las-vegas-nevada-t-00-33-40)**
+> "Well, 702 is Vegas."
+
+**[00:34:25](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-las-vegas-nevada-t-00-34-25)**
+> "Obviously, 702 is Vegas."
+
+**[00:39:30](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-las-vegas-nevada-t-00-39-11)**
+> "...d then we landed upon the Las Vegas congressman."
+
+**[00:39:38](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-las-vegas-nevada-t-00-39-11)**
+> "...d the planes and the route to Las Vegas."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
+
+**[01:00:56](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-las-vegas-nevada-t-01-00-33)**
+> "Mark Amodei from Las Vegas"
+
+**[01:00:58](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-las-vegas-nevada-t-01-00-33)**
+> "Mark Amodei from Las Vegas."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (9 mentions)</summary>
+
+**[00:38:20](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-00-38-03)**
+> "Las Vegas, you'll recall, is the home of FBI Director Kash Patel"
+
+**[00:38:14](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-00-38-03)**
+> "...ee hours, and then it flew to Las Vegas, arriving there at 4.48 p.m. local time."
+
+**[00:38:52](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-00-38-25)**
+> "...s flight as he says goes into Las Vegas and we're gonna now show you that flight path uh ..."
+
+**[00:39:33](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-00-39-24)**
+> "...on August 25th, it flies into Las Vegas, lands at 448 p.m. local time as SAM000."
+
+**[00:39:40](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-00-39-24)**
+> "...wing day, the 26th, it leaves Las Vegas as a reach flight, 658, leaving at 314 p.m. You s..."
+
+**[00:44:02](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-00-43-23)**
+> "...mportant character flies into Las Vegas."
+
+**[00:44:12](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-00-44-05)**
+> "...ng to get off of the plate of Las Vegas and suddenly that flight is going to be an RCH fl..."
+
+**[01:02:06](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-01-01-55)**
+> "...at meeting did happen to be a Las Vegas congressman."
+
+**[01:02:35](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-nevada-t-01-01-55)**
+> "Is it Las Vegas?"
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (3 mentions)</summary>
+
+**[00:10:20](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-las-vegas-nevada-t-00-09-45)**
+> "...tz dead in the driveway of the family's mansion in 1996. Two years later, the decomposing body of a Las Vegas prostitute was found stuffed in the air conditioner of a seedy motel. She was killed by three hired..."
+
+**[00:10:39](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-las-vegas-nevada-t-00-10-27)**
+> "...eared that Lisa Dean—who is a DuPont—didn't approve of her drug-addicted son dating a drug-addicted Vegas sex worker. So she and her husband, Christopher Mosley, had her killed. Both John DuPont and Mosley..."
+
+**[00:12:41](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-las-vegas-nevada-t-00-12-37)**
+> "...pposed to have a registered agent—and people tend to choose between Wyoming and Delaware, sometimes Las Vegas, to form their own corporations. But wow—what are the chances that Stacey Sheridan has a registered..."
+
+</details>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+
+**[00:28:42](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-las-vegas-nevada-t-00-28-42)**
+> "...htsome, the original 'knee fights.'" "So who is it that doesn't drink, doesn't gamble, but they run Vegas? And a lot of the Jews that are in Hollywood—Lou Taylor for Kim Kardashian and Diddy." "Jay-Z, Beyo..."
+
+</details>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+
+**[00:19:12](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-las-vegas-nevada-t-00-18-59)**
+> "...no Beach—the founder was a pastor named Rob Coy (not McCoy, to be clear), Rob Coy, who was a former Las Vegas casino entertainment director turned religious leader for one of Florida's biggest megachurches. An..."
+
+</details>
+
+<details>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (6 mentions)</summary>
+
+**[00:21:23](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-las-vegas-nevada-t-00-20-48)**
+> "...happened in the past, right? There were a ton of conspiracies following October 1st, 2017, when the Las Vegas shooting happened. Largest mass shooting in American history. And it was almost instantly covered u..."
+
+**[00:21:55](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-las-vegas-nevada-t-00-21-31)**
+> "... support that, okay? Fast-forward a year later—on November 7th of 2018—and there's almost this like Las Vegas shooting hangover that happens in Thousand Oaks, California. Oddly, about 40 people who were at the..."
+
+**[00:22:07](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-las-vegas-nevada-t-00-22-07)**
+> "...shooting hangover that happens in Thousand Oaks, California. Oddly, about 40 people who were at the Las Vegas shooting were all at the Borderline Bar one night when a Marine whose family knows Rob McCoy—well, ..."
+
+**[00:22:29](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-las-vegas-nevada-t-00-22-07)**
+> "...ass shooting. And a victim of that bar shooting was a 27-year-old Navy veteran who had survived the Las Vegas shooting. So it just makes me wonder: was he a victim, or was he a target? We have to start asking ..."
+
+**[00:22:44](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-las-vegas-nevada-t-00-22-44)**
+> "...s a headline from the BBC regarding the Thousand Oaks shooting at the Borderline Bar and Grill: the Las Vegas shooting survivor being among the dead. We're not getting answers to any of these questions, and th..."
+
+**[00:23:07](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-las-vegas-nevada-t-00-22-44)**
+> "... the group of them were meeting up for a second time in about a year—having, I guess, like a little Las Vegas reunion—and that's why they were all there. Following this, a month after this, Rob McCoy then gets..."
 
 </details>
 
@@ -132,11 +322,24 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Location Of (1)</summary>
+
+- **[Turning Point Action](/entities/org-turning-point-action.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:16:58](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51): “got the keys to a new building that we have in Las Vegas”
+
+</details>
+
+</details>
+
+<details>
 <summary>Residence Of (1)</summary>
 
 - **[Kash Patel](/entities/person-kash-patel.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:38:20](/episodes/ep-9k2xrAC0H88.md#t-00-38-03): “Las Vegas, you'll recall, is the home of FBI Director Kash Patel.”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:34:39](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-39): “He lives in ... Las Vegas with ... a dude.”
 
 </details>
@@ -144,11 +347,19 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
 
-- **[Kash Patel](/entities/person-kash-patel.md)** lives in this
+- **[Turning Point Action](/entities/org-turning-point-action.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:16:58](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51): “got the keys to a new building that we have in Las Vegas”
+
+</details>
+
+- **[Kash Patel](/entities/person-kash-patel.md)** lives in this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:38:20](/episodes/ep-9k2xrAC0H88.md#t-00-38-03): “Las Vegas, you'll recall, is the home of FBI Director Kash Patel.”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:34:39](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-39): “He lives in ... Las Vegas with ... a dude.”
 
 </details>
@@ -158,13 +369,55 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Las Vegas, Nevada (1)</strong></summary>
+<summary><strong class="section-title">Statements about Las Vegas, Nevada (9)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1)</summary>
+
+- [00:16:58](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51) (Claim) **Tyler Bowyer** (via quoted speech): ["Turning Point Action secured the keys to a new building in Las Vegas."](/statements/statement-ca2b97368e6d.md)
+  - Also about: [Turning Point Action](/entities/org-turning-point-action.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (3)</summary>
+
+- [00:14:37](/episodes/ep-y8lak3CRwDw.md#t-00-14-28) (Accusation) **Candace Owens**: ["Nevada, particularly Las Vegas and Reno, works on behalf of Tel Aviv a..."](/statements/statement-04bc4b044a64.md)
+  - Also about: [Nevada](/entities/gpe-nevada.md), [Reno, Nevada](/entities/gpe-reno-nevada.md), [Tel Aviv-Yafo](/entities/gpe-tel-aviv-yafo.md)
+
+- [00:27:38](/episodes/ep-y8lak3CRwDw.md#t-00-27-18) (Claim) **Candace Owens**: ["Erika Kirk competed in the Miss USA pageant at Planet Hollywood in Las..."](/statements/statement-e82738268657.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Miss USA](/entities/org-miss-usa.md), [Planet Hollywood Resort & Casino](/entities/org-planet-hollywood-resort-and-casino.md)
+
+- [00:56:46](/episodes/ep-y8lak3CRwDw.md#t-00-56-46) (Accusation) **Candace Owens**: ["Drug traffickers and human traffickers based in Tel Aviv run Las Vegas..."](/statements/statement-b6b8c761e754.md)
+  - Also about: [Tel Aviv-Yafo](/entities/gpe-tel-aviv-yafo.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>
 
 - [00:35:11](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-56) (Claim) **Bassem Youssef**: ["A cybersecurity official in Benjamin Netanyahu's office was caught wit..."](/statements/statement-12caa8c5bc5c.md)
   - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+
+- [00:34:20](/episodes/ep-w1oqQbR_bYs.md#t-00-33-40) (Claim) **Candace Owens**: ["The 702 call sign on military flights may reference Las Vegas area cod..."](/statements/statement-9f738f51f413.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3)</summary>
+
+- [00:38:18](/episodes/ep-9k2xrAC0H88.md#t-00-38-03) (Claim) **Baron Coleman** (via quoted speech): ["The SAM000 flight went from Colorado Springs to Las Vegas, arriving at..."](/statements/statement-cf82c67961c5.md)
+  - Also about: [Colorado Springs](/entities/gpe-colorado-springs.md)
+
+- [00:41:59](/episodes/ep-9k2xrAC0H88.md#t-00-41-50) (Claim) **Candace Owens**: ["The flight from Las Vegas changed call signs from SAM to REACH after t..."](/statements/statement-666fa1c5306d.md)
+
+- [01:02:06](/episodes/ep-9k2xrAC0H88.md#t-01-01-55) (Claim) **Candace Owens**: ["One of the congressmen that the Fort Huachuca eyewitness believes he s..."](/statements/statement-ff98d3afb248.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Harry Myers](/entities/person-harry-myers.md)
 
 </details>
 

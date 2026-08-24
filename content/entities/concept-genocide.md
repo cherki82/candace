@@ -1,6 +1,6 @@
 ---
 title: "Genocide"
-description: "Genocide (Concepts) - 2 mentions"
+description: "Genocide (Concepts) - 3 mentions"
 id: "concept-genocide"
 type: "CONCEPT"
 categories:
@@ -18,9 +18,9 @@ Source: [Definitions of Genocide and Related Crimes | United Nations](https://ww
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-genocide-t-00-14-33">2026-01-07 · 00:14:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-genocide-t-00-33-15">2026-01-12 · 00:33:53</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-genocide-t-00-17-11">2026-03-17 · 00:17:46</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,6 +33,7 @@ Source: [Definitions of Genocide and Related Crimes | United Nations](https://ww
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-genocide-t-00-14-33" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-genocide-t-00-33-15" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-genocide-t-00-17-11" style="--pulse-height:100%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [Definitions of Genocide and Related Crimes | United Nations](https://ww
 |---|---|---:|
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-concept-genocide-t-00-14-33) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-genocide-t-00-33-15) | 1 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-concept-genocide-t-00-17-11) | 1 |
 
 </details>
 </section>
@@ -47,7 +49,15 @@ Source: [Definitions of Genocide and Related Crimes | United Nations](https://ww
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
+
+**[00:17:46](/episodes/ep-k8ueJdPFel4.md#ent-concept-genocide-t-00-17-11)**
+> "...ticate because I tweeted that genocide was always wrong."
+
+</details>
 
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1 mentions)</summary>

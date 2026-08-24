@@ -11,7 +11,7 @@ object: "person-justin-streiff"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) has COO [Justin Streiff](/entities/person-justin-streiff)
 
-### Evidence (2 mentions)
+### Evidence (4 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -20,6 +20,14 @@ object: "person-justin-streiff"
 **[EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM)**
 
 - [00:21:24](/episodes/ep-A39g5oqB_eM#t-00-21-24): _Turning Point USA and Turning Point Action will steam ahead, ... Charlie (Charlie Kirk) was also working on Vision 2030 in the weeks leading up to September 10th and that's and he was working really closely with Justin and that's why Justin had been appointed the role of COO because he was literally I remember phone calls when Charlie (Charlie Kirk) and I would take our night walks and it would be 10 o'clock at night and him and Justin would just be talking about_
+
+**[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
+
+- [00:19:58](/episodes/ep-B9TyCs-6o_0#t-00-19-58): _the most important person at that company becomes Justin Streiff because he's been promoted to COO just seven days earlier_
+
+**[Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw)**
+
+- [00:42:10](/episodes/ep-y8lak3CRwDw#t-00-42-10): _Who was there? None other than Justin Streiff, the current COO of Turning Point USA, who became the COO seven days before Charlie was assassinated._
 
 ### Related
 

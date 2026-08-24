@@ -1,6 +1,6 @@
 ---
 title: "Europe"
-description: "Europe (Places) - 31 mentions"
+description: "Europe (Places) - 40 mentions"
 id: "gpe-europe"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-europe-t-00-02-55">2025-12-02 · 00:02:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-europe-t-00-04-42">2026-03-03 · 00:06:23</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-europe-t-00-20-01">2026-03-12 · 00:20:25</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,6 +40,9 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-europe-t-00-06-16" style="--pulse-height:12%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-europe-t-00-31-17" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 4 mentions" title="2026-03-02 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-europe-t-00-04-42" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 8 mentions" title="2026-03-03 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-europe-t-00-07-03" style="--pulse-height:38%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 3 mentions" title="2026-03-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-europe-t-00-21-09" style="--pulse-height:50%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 4 mentions" title="2026-03-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-europe-t-00-20-01" style="--pulse-height:25%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +58,9 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-europe-t-00-06-16) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-europe-t-00-31-17) | 4 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-europe-t-00-04-42) | 8 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-europe-t-00-07-03) | 3 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-europe-t-00-21-09) | 4 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-europe-t-00-20-01) | 2 |
 
 </details>
 </section>
@@ -62,7 +68,49 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (2 mentions)</summary>
+
+**[00:20:01](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-europe-t-00-20-01)**
+> "...don and other major cities of Europe, Australia, Latin America, Berg (David Berg) was ..."
+
+**[00:20:25](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-europe-t-00-20-01)**
+> "...hroughout the world, first in Europe in 1971 and later to reach every continent by the..."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (4 mentions)</summary>
+
+**[00:21:15](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-europe-t-00-21-09)**
+> "do charity anywhere in Europe"
+
+**[00:16:37](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-europe-t-00-17-19)**
+> "...cking women from from Eastern Europe through modeling agencies."
+
+**[00:17:30](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-europe-t-00-17-19)**
+> "...men are being trafficked from europe maybe these women are um you know not actually ha..."
+
+**[00:21:09](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-europe-t-00-21-09)**
+> "...can go do charity anywhere in Europe right now."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (3 mentions)</summary>
+
+**[00:07:33](/episodes/ep-y8lak3CRwDw.md#ent-gpe-europe-t-00-07-03)**
+> "If you are a citizen of Europe"
+
+**[00:13:07](/episodes/ep-y8lak3CRwDw.md#ent-gpe-europe-t-00-07-03)**
+> "...ng military forces in Eastern Europe. OK, they're training them in counterinsurgency t..."
+
+**[00:33:53](/episodes/ep-y8lak3CRwDw.md#ent-gpe-europe-t-00-07-03)**
+> "...round in romania like eastern europe at the same time everybody's got these military t..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (8 mentions)</summary>

@@ -1,17 +1,25 @@
 ---
 title: "Randy Fine"
-description: "Randy Fine (People) - 20 mentions"
+description: "Randy Fine (People) - 22 mentions"
 id: "person-randy-fine"
 type: "PERSON"
+categories:
+  - "United States politics"
 ---
 
 _Type: People_
 
+**Categories:** United States politics
+
+**Entity verification:** verified
+> Official U.S. House biography verifies the canonical name Randy Fine.
+Source: [FINE, Randy | U.S. House of Representatives: History, Art & Archives](https://history.house.gov/People/Listing/F/FINE%2C-Randy-%28F000484%29/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-02-14">2025-11-03 · 00:02:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-r1PS67aRmcA.md#ent-person-randy-fine-t-00-19-31">2025-11-08 · 00:19:31</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-person-randy-fine-t-00-44-17">2026-03-17 · 00:44:32</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -25,6 +33,8 @@ _Type: People_
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-02-14" style="--pulse-height:100%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 16 mentions" title="2025-11-03 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#ent-person-randy-fine-t-00-17-51" style="--pulse-height:19%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 3 mentions" title="2025-11-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-person-randy-fine-t-00-19-31" style="--pulse-height:8%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-randy-fine-t-00-58-18" style="--pulse-height:8%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-person-randy-fine-t-00-44-17" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -33,6 +43,8 @@ _Type: People_
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-02-14) | 16 |
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-randy-fine-t-00-17-51) | 3 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-person-randy-fine-t-00-19-31) | 1 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-randy-fine-t-00-58-18) | 1 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-randy-fine-t-00-44-17) | 1 |
 
 </details>
 </section>
@@ -40,7 +52,23 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
+
+**[00:44:32](/episodes/ep-k8ueJdPFel4.md#ent-person-randy-fine-t-00-44-17)**
+> "...every American up. OK. Here's Randy Fine. He tweeted this. It sounds like Tucker Carlson i..."
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
+
+**[00:58:25](/episodes/ep-i8m_6D4QGmk.md#ent-person-randy-fine-t-00-58-18)**
+> "Randy Fine"
+
+</details>
 
 <details>
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1 mentions)</summary>

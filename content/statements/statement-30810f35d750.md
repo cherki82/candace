@@ -27,7 +27,7 @@ veracity: "true"
 - [Donald J. Trump](/entities/person-donald-trump.md) (person)
 - [Tyler Bowyer](/entities/person-tyler-bowyer.md) (person)
 
-## Appearances (2)
+## Appearances (3)
 
 ### 1. BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/1...
 
@@ -44,6 +44,14 @@ veracity: "true"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1727);return false;">Play</a>
 
 > I got a call. I got a call from Miss Erika Kirk, Miss Arizona 2012. I just want to help, she said. So naturally I put her right behind the president at that first rally.
+
+### 3. Bride Of Charlie: What Happened In Romania? | Episode 6
+
+**Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
+**Timestamp:** [00:33:09](/episodes/ep-y8lak3CRwDw.md#t-00-33-09) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1989);return false;">Play</a>
+
+> He met Erika at the Trump rally, but he maybe forgot. Maybe he had another long night in Romania, but he maybe forgot that he had already given a speech at Charlie's memorial and stated that Erika called him and said, how can I help? ... And then he put her behind Trump. So you had to know her before the rally.
 
 ## Verification
 

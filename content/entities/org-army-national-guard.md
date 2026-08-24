@@ -22,7 +22,7 @@ Source: [Army National Guard](https://www.nationalguard.mil/About-the-Guard/Army
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-org-army-national-guard-t-00-16-51">2026-03-03 · 00:17:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-org-army-national-guard-t-00-16-51">2026-03-03 · 00:17:11</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-org-army-national-guard-t-00-24-29">2026-03-04 · 00:24:55</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -36,12 +36,14 @@ Source: [Army National Guard](https://www.nationalguard.mil/About-the-Guard/Army
 <p>Highest activity: <a href="/episodes/ep-2tFYJf1klgY.md#ent-org-army-national-guard-t-00-16-51">Bride Of Charlie: The Lost Years... | Episode 5</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-org-army-national-guard-t-00-16-51" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 2 mentions" title="2026-03-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-army-national-guard-t-00-24-29" style="--pulse-height:50%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-army-national-guard-t-00-16-51) | 2 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-army-national-guard-t-00-24-29) | 1 |
 
 </details>
 </section>
@@ -52,6 +54,14 @@ Source: [Army National Guard](https://www.nationalguard.mil/About-the-Guard/Army
 <summary><strong class="section-title">Raw mentions (3)</strong></summary>
 
 <details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
+
+**[00:24:55](/episodes/ep-y8lak3CRwDw.md#ent-org-army-national-guard-t-00-24-29)**
+> "... is the commander of Nevada's Army National Guard, the transportation company."
+
+</details>
+
+<details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (2 mentions)</summary>
 
 **[00:17:01](/episodes/ep-2tFYJf1klgY.md#ent-org-army-national-guard-t-00-16-51)**
@@ -59,14 +69,6 @@ Source: [Army National Guard](https://www.nationalguard.mil/About-the-Guard/Army
 
 **[00:17:11](/episodes/ep-2tFYJf1klgY.md#ent-org-army-national-guard-t-00-16-51)**
 > "..., is going, the national, the Army National Guard, pardon me, is going to have to disclose that the..."
-
-</details>
-
-<details>
-<summary>ep-y8lak3CRwDw (1 mentions)</summary>
-
-**[00:24:55](/episodes/ep-y8lak3CRwDw.md#t-00-24-55)**
-> "... is the commander of Nevada's Army National Guard, the transportation company."
 
 </details>
 

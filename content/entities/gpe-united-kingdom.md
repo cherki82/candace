@@ -1,11 +1,12 @@
 ---
 title: "United Kingdom"
-description: "United Kingdom (Places) - 28 mentions"
+description: "United Kingdom (Places) - 30 mentions"
 id: "gpe-united-kingdom"
 type: "GPE"
 aliases:
   - "UK"
   - "U.K."
+  - "Britain"
 categories:
   - "country"
   - "Europe"
@@ -13,9 +14,11 @@ categories:
 
 _Type: Places_
 
-**Also known as:** UK, U.K.
+**Also known as:** UK, U.K., Britain
 
 **Categories:** country, Europe
+
+> **Possibly overlapping entity records:** [Britain](/entities/gpe-britain). These records share a name or alias; compare their histories before treating either count as complete.
 
 **Entity verification:** verified
 > Official UK government portal confirms the canonical country name and common UK abbreviation in transcript context.
@@ -23,9 +26,9 @@ Source: [GOV.UK](https://www.gov.uk/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-united-kingdom-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-cZxHqYsWRYg.md#t-00-06-16">2026-02-28 · 00:06:27</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>28</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-united-kingdom-t-00-26-28">2026-03-17 · 00:26:38</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>30</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -42,6 +45,8 @@ Source: [GOV.UK](https://www.gov.uk/)
 <a href="/episodes/ep-BKcOm32ZEGk.md#t-00-32-21" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-56-16" style="--pulse-height:14%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#t-00-05-31" style="--pulse-height:14%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#t-00-27-35" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-united-kingdom-t-00-26-28" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +58,8 @@ Source: [GOV.UK](https://www.gov.uk/)
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#t-00-32-21) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#t-00-56-16) | 2 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#t-00-05-31) | 2 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#t-00-27-35) | 1 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-united-kingdom-t-00-26-28) | 1 |
 
 </details>
 </section>
@@ -60,7 +67,23 @@ Source: [GOV.UK](https://www.gov.uk/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
+
+**[00:26:38](/episodes/ep-k8ueJdPFel4.md#ent-gpe-united-kingdom-t-00-26-28)**
+> "Britain writes, while taking the necessary action to defe..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>
+
+**[00:28:10](/episodes/ep-5-HUyv9LyMg.md#t-00-27-35)**
+> "The UK, Ireland and Connecticut and New Jersey are sayin..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (2 mentions)</summary>

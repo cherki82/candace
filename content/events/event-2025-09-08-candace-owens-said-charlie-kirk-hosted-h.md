@@ -12,7 +12,7 @@ time: "10:00"
 
 > Candace Owens said Charlie Kirk hosted his show from his home studio from 10 to 11 a.m. Arizona time.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. BAAL SO HARD: The Epstein Files | Candace Ep 300
 
@@ -37,3 +37,11 @@ time: "10:00"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(191);return false;">▶️ Play</a>
 
 > Charlie Kirk was awake and he did one hour of the Charlie Kirk show on the 8th from his studio
+
+### 4. Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309
+
+**Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
+**Timestamp:** [00:39:15](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-15) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2355);return false;">▶️ Play</a>
+
+> At 10 o'clock a.m., Charlie appears from his home studio live on Charlie Kirk.

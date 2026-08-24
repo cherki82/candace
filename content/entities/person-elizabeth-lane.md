@@ -1,6 +1,6 @@
 ---
 title: "Elizabeth Lane"
-description: "Elizabeth Lane (People) - 11 mentions"
+description: "Elizabeth Lane (People) - 12 mentions"
 id: "person-elizabeth-lane"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-elizabeth-lane-t-00-28-16">2025-10-02 · 00:28:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-elizabeth-lane-t-00-46-47">2026-03-02 · 00:47:14</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-elizabeth-lane-t-00-23-14">2026-03-09 · 00:23:14</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -35,6 +35,8 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-elizabeth-lane-t-00-04-51" style="--pulse-height:67%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-person-elizabeth-lane-t-00-39-57" style="--pulse-height:67%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-elizabeth-lane-t-00-21-34" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 3 mentions" title="2026-03-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-person-elizabeth-lane-t-00-46-35" style="--pulse-height:33%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-elizabeth-lane-t-00-23-14" style="--pulse-height:33%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +46,8 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-elizabeth-lane-t-00-04-51) | 2 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-person-elizabeth-lane-t-00-39-57) | 2 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-elizabeth-lane-t-00-21-34) | 3 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-person-elizabeth-lane-t-00-46-35) | 1 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-elizabeth-lane-t-00-23-14) | 1 |
 
 </details>
 </section>
@@ -51,7 +55,23 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
+
+**[00:23:14](/episodes/ep-i8m_6D4QGmk.md#ent-person-elizabeth-lane-t-00-23-14)**
+> "Elizabeth Lane read Erika correctly"
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
+
+**[00:46:35](/episodes/ep-y8lak3CRwDw.md#ent-person-elizabeth-lane-t-00-46-35)**
+> "...ide of the understanding that Elizabeth Lane posits, the journalist Elizabeth Lane, that we ar..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (3 mentions)</summary>
@@ -100,14 +120,6 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 
 **[00:29:07](/episodes/ep-t1YtLS1n8Vs.md#ent-person-elizabeth-lane-t-00-29-07)**
 > "...n that. [CLIP ATTRIBUTION: Elizabeth Lane and host speaking in this clip.] Investigative journalist Elizabeth Lane is not giving up on this story. She's been on the ground in Utah connecting the CIA dots, the three..."
-
-</details>
-
-<details>
-<summary>ep-y8lak3CRwDw (1 mentions)</summary>
-
-**[00:46:35](/episodes/ep-y8lak3CRwDw.md#t-00-46-35)**
-> "...ide of the understanding that Elizabeth Lane posits, the journalist Elizabeth Lane, that we ar..."
 
 </details>
 

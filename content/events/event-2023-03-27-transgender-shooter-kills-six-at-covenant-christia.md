@@ -11,7 +11,7 @@ date: "2023-03-27"
 
 > Transgender shooter kills six at Covenant Christian elementary school in Nashville
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Ca...
 
@@ -28,3 +28,11 @@ date: "2023-03-27"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1043);return false;">▶️ Play</a>
 
 > March 27th—like I said—is when we have that trans shooting at Covenant Elementary School in Nashville.
+
+### 3. Bride Of Charlie: What Happened In Romania? | Episode 6
+
+**Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
+**Timestamp:** [00:40:49](/episodes/ep-y8lak3CRwDw.md#event-event-2023-03-27-transgender-shooter-kills-six-at-covenant-christia-t-00-40-49) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2449);return false;">▶️ Play</a>
+
+> Nashville Covenant School memorial in 2023 because it just so happened that Turning Point was having

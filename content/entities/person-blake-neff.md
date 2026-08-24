@@ -1,6 +1,6 @@
 ---
 title: "Blake Neff"
-description: "Blake Neff (People) - 87 mentions"
+description: "Blake Neff (People) - 121 mentions"
 id: "person-blake-neff"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-person-blake-neff-t-00-15-02">2025-10-07 · 00:15:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-person-blake-neff-t-00-48-45">2026-03-03 · 00:49:17</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>87</strong></div>
-<div><span>Statements by</span><strong>8</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-blake-neff-t-00-55-46">2026-03-24 · 00:59:38</a></strong></div>
+<div><span>Episodes</span><strong>27</strong></div>
+<div><span>Mentions</span><strong>121</strong></div>
+<div><span>Statements by</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
+<div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -55,6 +55,14 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-blake-neff-t-00-07-27" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-blake-neff-t-00-05-39" style="--pulse-height:14%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-person-blake-neff-t-00-41-55" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 7 mentions" title="2026-03-03 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-person-blake-neff-t-00-00-00" style="--pulse-height:14%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-blake-neff-t-00-00-00" style="--pulse-height:8%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-blake-neff-t-00-13-26" style="--pulse-height:79%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 11 mentions" title="2026-03-10 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-blake-neff-t-00-44-46" style="--pulse-height:14%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 2 mentions" title="2026-03-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-person-blake-neff-t-00-13-15" style="--pulse-height:50%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 7 mentions" title="2026-03-17 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-blake-neff-t-00-34-47" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-blake-neff-t-00-13-50" style="--pulse-height:14%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-blake-neff-t-00-43-28" style="--pulse-height:64%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 9 mentions" title="2026-03-24 · 9 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -79,6 +87,14 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-blake-neff-t-00-07-27) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-blake-neff-t-00-05-39) | 2 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-blake-neff-t-00-41-55) | 7 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-person-blake-neff-t-00-00-00) | 2 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-blake-neff-t-00-00-00) | 1 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-blake-neff-t-00-13-26) | 11 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-person-blake-neff-t-00-44-46) | 2 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-blake-neff-t-00-13-15) | 7 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-blake-neff-t-00-34-47) | 1 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-blake-neff-t-00-13-50) | 2 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-blake-neff-t-00-43-28) | 9 |
 
 </details>
 </section>
@@ -86,7 +102,152 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (87)</strong></summary>
+<summary><strong class="section-title">Raw mentions (121)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (9 mentions)</summary>
+
+**[00:43:28](/episodes/ep-SgVcnx4Oh30.md#ent-person-blake-neff-t-00-43-28)**
+> "pretty quickly he married five years later he remarried five years later he had two young children anyway uh but Blake (Blake Neff) neff is is trying to make hate happen toward Joe Kent he wants to make that fetch towards Joe Kent because they're angry that we are crushing them with the truth Now he's going to try to do this in this clip I'm going to show you from today is with the worst acting ever."
+
+**[00:43:51](/episodes/ep-SgVcnx4Oh30.md#ent-person-blake-neff-t-00-43-28)**
+> "... Academy Award does not go to Blake Neff. OK, background. Joe Kent was interviewed by Mich..."
+
+**[00:44:59](/episodes/ep-SgVcnx4Oh30.md#ent-person-blake-neff-t-00-44-47)**
+> "So Blake Neff and Andrew Kolvet, worst actors ever, are about t..."
+
+**[00:45:12](/episodes/ep-SgVcnx4Oh30.md#ent-person-blake-neff-t-00-44-47)**
+> "... emotion in this clip. Blake (Blake Neff) is just unleashed. He lets his hair, he doesn't ..."
+
+**[00:54:11](/episodes/ep-SgVcnx4Oh30.md#ent-person-blake-neff-t-00-53-59)**
+> "...e sit down on my show, Blake (Blake Neff)? Come on, Blakey (Blake Neff), come sit down. If..."
+
+**[00:54:24](/episodes/ep-SgVcnx4Oh30.md#ent-person-blake-neff-t-00-54-24)**
+> "...onspiracy come do that Blake (Blake Neff) take me up on my offer Blake (Blake Neff) i don'..."
+
+**[00:55:29](/episodes/ep-SgVcnx4Oh30.md#ent-person-blake-neff-t-00-55-07)**
+> "Blake (Blake Neff) let me tell you do not quit your day job man you..."
+
+**[00:56:11](/episodes/ep-SgVcnx4Oh30.md#ent-person-blake-neff-t-00-55-46)**
+> "Buy that for Blake (Blake Neff). Buy that for Blake (Blake Neff). I feel like he..."
+
+**[00:59:38](/episodes/ep-SgVcnx4Oh30.md#ent-person-blake-neff-t-00-55-46)**
+> "...SA guys, I did not know them, Neff or Andrew Kolvet, said that a large donor called ..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (2 mentions)</summary>
+
+**[00:14:19](/episodes/ep-B9TyCs-6o_0.md#ent-person-blake-neff-t-00-13-50)**
+> "...punishment is more truth, Mr. Blake Neff and Andrew Kolvet."
+
+**[00:32:43](/episodes/ep-B9TyCs-6o_0.md#ent-person-blake-neff-t-00-32-43)**
+> "...while we're just speculating, Blake Neff sure did have an interesting way of describing hi..."
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (7 mentions)</summary>
+
+**[00:13:29](/episodes/ep-k8ueJdPFel4.md#ent-person-blake-neff-t-00-13-15)**
+> "...is that our resident turncoat Blake Neff is going to pop in and then he tries to smooth th..."
+
+**[00:13:51](/episodes/ep-k8ueJdPFel4.md#ent-person-blake-neff-t-00-13-51)**
+> "...ds. And basically what Blake (Blake Neff) does is he tweets a lot of words to admit that I..."
+
+**[00:14:02](/episodes/ep-k8ueJdPFel4.md#ent-person-blake-neff-t-00-13-51)**
+> "...'s what he has to say. Blake (Blake Neff) writes, since some silly claims are being made r..."
+
+**[00:14:40](/episodes/ep-k8ueJdPFel4.md#ent-person-blake-neff-t-00-14-30)**
+> "Blake (Blake Neff) was not even around for the building of Turning ..."
+
+**[00:14:48](/episodes/ep-k8ueJdPFel4.md#ent-person-blake-neff-t-00-14-30)**
+> "...ad, okay? He's a liar. Blake (Blake Neff), you are a liar and you should be ashamed of you..."
+
+**[00:15:16](/episodes/ep-k8ueJdPFel4.md#ent-person-blake-neff-t-00-15-08)**
+> "...eak to. You're a liar, Blake (Blake Neff)."
+
+**[00:54:12](/episodes/ep-k8ueJdPFel4.md#ent-person-blake-neff-t-00-53-38)**
+> "...pour one out for my big homie Blake Neff, who just needs to keep his mouth shut."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>
+
+**[00:35:14](/episodes/ep-I0OaY6Gryqk.md#ent-person-blake-neff-t-00-34-47)**
+> "Blake Neff now somehow holds the keys"
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (2 mentions)</summary>
+
+**[00:45:21](/episodes/ep-H9p2ZGHAs9A.md#ent-person-blake-neff-t-00-44-46)**
+> ".... We're doing this for Blake (Blake Neff)."
+
+**[00:41:34](/episodes/ep-H9p2ZGHAs9A.md#ent-person-blake-neff-t-00-41-34)**
+> "Anyway, that's just a rhetorical question that's going through my mind. Top comments from last episode. Steph Laura writes, let's all give a warm welcome to Erika Kirk, Blake (Blake Neff), Andrew (Andrew Kolvet), Mikey (Michael McCoy), and everyone else at Turning Point USA who tunes in along with us every day to watch CO."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (11 mentions)</summary>
+
+**[00:13:26](/episodes/ep-ZzAT2xijKGQ.md#ent-person-blake-neff-t-00-13-26)**
+> "Blake Neff and Andrew Kolvet hosted Kash Patel"
+
+**[00:14:54](/episodes/ep-ZzAT2xijKGQ.md#ent-person-blake-neff-t-00-14-36)**
+> "Sometimes it's just Blake Neff. Sometimes it's just it's Blake (Blake Neff) and ..."
+
+**[00:33:12](/episodes/ep-ZzAT2xijKGQ.md#ent-person-blake-neff-t-00-32-38)**
+> "...grabbed it. It's this clip of Blake Neff."
+
+**[00:33:17](/episodes/ep-ZzAT2xijKGQ.md#ent-person-blake-neff-t-00-33-17)**
+> "...much and it's never good. And Blake Neff is explained on Charlie Kirk's show earlier today..."
+
+**[00:33:37](/episodes/ep-ZzAT2xijKGQ.md#ent-person-blake-neff-t-00-33-17)**
+> "Take it away, Blake Neff."
+
+**[00:33:39](/episodes/ep-ZzAT2xijKGQ.md#ent-person-blake-neff-t-00-33-39)**
+> "Blake (Blake Neff), any thoughts?"
+
+**[00:33:58](/episodes/ep-ZzAT2xijKGQ.md#ent-person-blake-neff-t-00-33-58)**
+> "...since removed that and Blake (Blake Neff) is like that's just because of the faith revolut..."
+
+**[00:37:15](/episodes/ep-ZzAT2xijKGQ.md#ent-person-blake-neff-t-00-37-15)**
+> "Blake (Blake Neff) is such a Packers fan. He said, what should we t..."
+
+**[00:55:52](/episodes/ep-ZzAT2xijKGQ.md#ent-person-blake-neff-t-00-55-39)**
+> "Blake Neff responded and said they did not cut out the porti..."
+
+**[00:56:08](/episodes/ep-ZzAT2xijKGQ.md#ent-person-blake-neff-t-00-55-39)**
+> "...irk podcast episode still has Blake Neff's comments but it is cut out on the"
+
+**[00:56:17](/episodes/ep-ZzAT2xijKGQ.md#ent-person-blake-neff-t-00-56-17)**
+> "...heir absurdity i do love when blake neff does decide to respond by the way we're saying a ..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>
+
+**[00:00:00](/episodes/ep-DdPjoy5W-wY.md#ent-person-blake-neff-t-00-00-00)**
+> "...ly, gratefully, hello, Blake (Blake Neff)."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (2 mentions)</summary>
+
+**[00:00:00](/episodes/ep-y8lak3CRwDw.md#ent-person-blake-neff-t-00-00-00)**
+> "... guys, Shabbat Shalom. Hello, Blake Neff. How are you doing, sir? Question for you, if you..."
+
+**[00:00:10](/episodes/ep-y8lak3CRwDw.md#ent-person-blake-neff-t-00-00-00)**
+> "Romania. Romania, Blake, what goes on in Romania? Why are so many people ..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (7 mentions)</summary>
@@ -438,17 +599,6 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 </details>
 
-<details>
-<summary>ep-y8lak3CRwDw (2 mentions)</summary>
-
-**[00:00:00](/episodes/ep-y8lak3CRwDw.md#t-00-00-00)**
-> "... guys, Shabbat Shalom. Hello, Blake Neff. How are you doing, sir? Question for you, if you..."
-
-**[00:00:10](/episodes/ep-y8lak3CRwDw.md#t-00-00-10)**
-> "Romania. Romania, Blake, what goes on in Romania? Why are so many people ..."
-
-</details>
-
 </details>
 
 <details open>
@@ -457,7 +607,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <details>
 <summary>Appeared With (1)</summary>
 
-- **[Mikey McCoy](/entities/person-mikey-mccoy.md)**
+- **[Michael McCoy](/entities/person-michael-mccoy.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:22:57](/episodes/ep-es7PWdFGoFI.md#t-00-22-39): “Blake Neff called his mom. His call with his mother lasted 45 seconds.”
@@ -467,12 +617,19 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>Criticized (1)</summary>
+<summary>Criticized (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:43:35](/episodes/ep-2tFYJf1klgY.md#t-00-43-25): “I have avoided commenting on most of what Candace Owens' claims are the past few months. However, her last episode contained such a blatant untruth about Charlie (Charlie Kirk)'s daily life that I feel compelled to correct it.”
+
+</details>
+
+- **[Joe Kent](/entities/person-joe-kent.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:43:28](/episodes/ep-SgVcnx4Oh30.md#t-00-43-28): “Blake (Blake Neff) neff is is trying to make hate happen toward Joe Kent”
 
 </details>
 
@@ -482,9 +639,13 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
+- [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:14:48](/episodes/ep-k8ueJdPFel4.md#t-00-14-30): “Actually, I just got mad, okay? He's a liar. Blake (Blake Neff), you are a liar and you should be ashamed of yourself.”
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:35:14](/episodes/ep-I0OaY6Gryqk.md#t-00-34-47): “that Blake Neff now somehow holds the keys and knows what Charlie (Charlie Kirk) would have wanted. Mikey McCoy, this kid who came out of nowhere, knows exactly—like we were his best friends—so much so that we won't even”
+- [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:55:29](/episodes/ep-SgVcnx4Oh30.md#t-00-55-07): “Blake (Blake Neff) let me tell you do not quit your day job man you do not have what it takes in Hollywood”
 
 </details>
 
@@ -497,6 +658,18 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 @ 00:45:57](/episodes/ep-DqGNvi36ol8.md#t-00-45-50)
+
+</details>
+
+</details>
+
+<details>
+<summary>Interviewed (1)</summary>
+
+- **[Kash Patel](/entities/person-kash-patel.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:13:26](/episodes/ep-ZzAT2xijKGQ.md#t-00-12-49): “Two days ago, Thursday, January 29th, Blake Neff and Andrew Kolvet hosted Kash Patel on Charlie Kirk's show.”
 
 </details>
 
@@ -526,9 +699,9 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (8)</summary>
 
-- **[Mikey McCoy](/entities/person-mikey-mccoy.md)** appeared with this
+- **[Michael McCoy](/entities/person-michael-mccoy.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:22:57](/episodes/ep-es7PWdFGoFI.md#t-00-22-39): “Blake Neff called his mom. His call with his mother lasted 45 seconds.”
@@ -536,9 +709,13 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
+- [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:14:48](/episodes/ep-k8ueJdPFel4.md#t-00-14-30): “Actually, I just got mad, okay? He's a liar. Blake (Blake Neff), you are a liar and you should be ashamed of yourself.”
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:35:14](/episodes/ep-I0OaY6Gryqk.md#t-00-34-47): “that Blake Neff now somehow holds the keys and knows what Charlie (Charlie Kirk) would have wanted. Mikey McCoy, this kid who came out of nowhere, knows exactly—like we were his best friends—so much so that we won't even”
+- [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:55:29](/episodes/ep-SgVcnx4Oh30.md#t-00-55-07): “Blake (Blake Neff) let me tell you do not quit your day job man you do not have what it takes in Hollywood”
 
 </details>
 
@@ -546,6 +723,13 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:43:35](/episodes/ep-2tFYJf1klgY.md#t-00-43-25): “I have avoided commenting on most of what Candace Owens' claims are the past few months. However, her last episode contained such a blatant untruth about Charlie (Charlie Kirk)'s daily life that I feel compelled to correct it.”
+
+</details>
+
+- **[Joe Kent](/entities/person-joe-kent.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:43:28](/episodes/ep-SgVcnx4Oh30.md#t-00-43-28): “Blake (Blake Neff) neff is is trying to make hate happen toward Joe Kent”
 
 </details>
 
@@ -571,12 +755,41 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 </details>
 
+- **[Kash Patel](/entities/person-kash-patel.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:13:26](/episodes/ep-ZzAT2xijKGQ.md#t-00-12-49): “Two days ago, Thursday, January 29th, Blake Neff and Andrew Kolvet hosted Kash Patel on Charlie Kirk's show.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Blake Neff (8)</strong></summary>
+<summary><strong class="section-title">Statements by Blake Neff (12)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (3)</summary>
+
+- [00:45:31](/episodes/ep-SgVcnx4Oh30.md#t-00-45-29) [◐] (Claim) ["Blake Neff said the murder weapon was owned by Tyler Robinson's family, matched ..."](/statements/statement-df42d94dfab8.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Deoxyribonucleic acid](/entities/concept-dna.md)
+
+- [00:45:45](/episodes/ep-SgVcnx4Oh30.md#t-00-45-45) [◐] (Claim) ["Blake Neff said Tyler Robinson's parents recognized him in the released shooter ..."](/statements/statement-229a007a26d9.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:46:40](/episodes/ep-SgVcnx4Oh30.md#t-00-46-40) [○] (Opinion) ["Blake Neff said people promoting conspiracy theories cared more about those theo..."](/statements/statement-539988070833.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1)</summary>
+
+- [00:14:02](/episodes/ep-k8ueJdPFel4.md#t-00-13-51) [✓] (Claim) ["Charlie Kirk and Ben Shapiro differed about the conservative movement: Shapiro b..."](/statements/statement-84b4b3b48a57.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Ron DeSantis](/entities/person-ron-desantis.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (2)</summary>
@@ -593,10 +806,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
 
 - [00:25:46](/episodes/ep-es7PWdFGoFI.md#t-00-25-11) [○] (Claim) ["Blake Neff said Mikey McCoy called Erika Kirk immediately after the shooting, th..."](/statements/statement-4a781858dc80.md)
-  - About: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:25:51](/episodes/ep-es7PWdFGoFI.md#t-00-25-11) [○] (Claim) ["Mikey called Erika and then immediately called his dad Rob McCoy saying 'dad, so..."](/statements/statement-03a81f579a0f.md)
-  - About: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md)
 
 </details>
 
@@ -620,7 +833,21 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Blake Neff (14)</strong></summary>
+<summary><strong class="section-title">Statements about Blake Neff (17)</strong></summary>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (3)</summary>
+
+- [00:13:26](/episodes/ep-ZzAT2xijKGQ.md#t-00-12-49) (Accusation) **Candace Owens**: ["The January 29 Charlie Kirk Show episode with Kash Patel was prerecord..."](/statements/statement-a29214ade8fb.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Kash Patel](/entities/person-kash-patel.md), [White House](/entities/org-white-house.md)
+
+- [00:33:05](/episodes/ep-ZzAT2xijKGQ.md#t-00-32-38) (Accusation) **Candace Owens**: ["Turning Point USA removed Blake Neff's comments from its podcast."](/statements/statement-ff623dc59e55.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:55:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-55-39) (Citation) **Candace Owens**: ["Blake Neff's comments about Erika Kirk and Charlie Kirk remained in th..."](/statements/statement-150c05f6fe76.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Twitter](/entities/org-twitter.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1)</summary>
@@ -654,10 +881,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [00:27:57](/episodes/ep-es7PWdFGoFI.md#t-00-27-24) (Claim) **Candace Owens**: ["Blake Neff called his mother and the call lasted 45 seconds, ending ar..."](/statements/statement-0f55d4b039c7.md)
 
 - [00:28:26](/episodes/ep-es7PWdFGoFI.md#t-00-28-04) (Claim) **Candace Owens**: ["Mikey called Erika after Blake Neff ended his phone call with his moth..."](/statements/statement-af7ca7b67be0.md)
-  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:28:26](/episodes/ep-es7PWdFGoFI.md#t-00-28-04) (Claim) **Candace Owens**: ["Mikey McCoy called Erika Kirk after Blake Neff ended his call with his..."](/statements/statement-20ddd092b3d2.md)
-  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Terrell Farnsworth"
-description: "Terrell Farnsworth (People) - 14 mentions"
+description: "Terrell Farnsworth (People) - 19 mentions"
 id: "person-terrell-farnsworth"
 type: "PERSON"
 categories:
@@ -19,10 +19,10 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-16-41">2025-11-12 · 00:16:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-terrell-farnsworth-t-03-02-07">2026-08-14 · 03:02:25</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -36,6 +36,8 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-terrell-farnsworth-t-00-11-13" style="--pulse-height:100%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 4 mentions" title="2025-12-12 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-es7PWdFGoFI.md#ent-person-terrell-farnsworth-t-00-09-22" style="--pulse-height:75%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 3 mentions" title="2025-12-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-terrell-farnsworth-t-00-06-18" style="--pulse-height:75%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 3 mentions" title="2025-12-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-terrell-farnsworth-t-00-41-21" style="--pulse-height:50%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-terrell-farnsworth-t-00-33-00" style="--pulse-height:75%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-terrell-farnsworth-t-03-02-07" style="--pulse-height:25%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -47,6 +49,8 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-terrell-farnsworth-t-00-11-13) | 4 |
 | 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-terrell-farnsworth-t-00-09-22) | 3 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-person-terrell-farnsworth-t-00-06-18) | 3 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-terrell-farnsworth-t-00-41-21) | 2 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-terrell-farnsworth-t-00-33-00) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-terrell-farnsworth-t-03-02-07) | 1 |
 
 </details>
@@ -55,13 +59,38 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[03:02:25](/episodes/ep-nPhCKwJ6ye8.md#ent-person-terrell-farnsworth-t-03-02-07)**
 > "...makes sense, without question Terrell Farnsworth is someone who made me think that we were missing..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (3 mentions)</summary>
+
+**[00:33:16](/episodes/ep-5-HUyv9LyMg.md#ent-person-terrell-farnsworth-t-00-33-00)**
+> "...after I had a phone call with Terrell Farnsworth. I recognized he was acting very strange, very st..."
+
+**[00:33:50](/episodes/ep-5-HUyv9LyMg.md#ent-person-terrell-farnsworth-t-00-33-38)**
+> "... run an audio visual company, Terrell Farnsworth."
+
+**[00:34:31](/episodes/ep-5-HUyv9LyMg.md#ent-person-terrell-farnsworth-t-00-33-59)**
+> "Okay, Terrell Farnsworth was at his office when he showed me this."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (2 mentions)</summary>
+
+**[00:41:21](/episodes/ep-DdPjoy5W-wY.md#ent-person-terrell-farnsworth-t-00-41-21)**
+> "... Frantzve is introduced by uh Terrell Farnsworth's family Terrell Farnsworth the guy that takes down..."
+
+**[00:42:46](/episodes/ep-DdPjoy5W-wY.md#ent-person-terrell-farnsworth-t-00-42-46)**
+> "...her resolution and also is of Terrell Farnsworth's family camera guy."
 
 </details>
 
@@ -164,7 +193,15 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Terrell Farnsworth (13)</strong></summary>
+<summary><strong class="section-title">Statements about Terrell Farnsworth (14)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1)</summary>
+
+- [00:33:59](/episodes/ep-5-HUyv9LyMg.md#t-00-33-59) (Claim) **Candace Owens**: ["Terrell Farnsworth's father, uncles, and cousins had a relationship wi..."](/statements/statement-a7e9db718e2d.md)
+  - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2)</summary>

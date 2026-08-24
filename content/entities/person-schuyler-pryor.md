@@ -1,6 +1,6 @@
 ---
 title: "Schuyler Pryor"
-description: "Schuyler Pryor (People) - 38 mentions"
+description: "Schuyler Pryor (People) - 46 mentions"
 id: "person-schuyler-pryor"
 type: "PERSON"
 aliases:
@@ -23,8 +23,8 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-schuyler-pryor-t-00-01-28">2025-09-17 · 00:01:30</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-schuyler-pryor-t-01-11-02">2026-08-14 · 01:11:02</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>38</strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>46</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -56,6 +56,9 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-schuyler-pryor-t-01-02-24" style="--pulse-height:17%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-schuyler-pryor-t-00-36-10" style="--pulse-height:17%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-person-schuyler-pryor-t-00-53-22" style="--pulse-height:17%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-schuyler-pryor-t-00-35-18" style="--pulse-height:50%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-schuyler-pryor-t-00-29-02" style="--pulse-height:50%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 3 mentions" title="2026-03-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-schuyler-pryor-t-00-15-52" style="--pulse-height:33%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-schuyler-pryor-t-01-11-02" style="--pulse-height:17%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -83,6 +86,9 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-person-schuyler-pryor-t-01-02-24) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-schuyler-pryor-t-00-36-10) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-schuyler-pryor-t-00-53-22) | 1 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-schuyler-pryor-t-00-35-18) | 3 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-schuyler-pryor-t-00-29-02) | 3 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-schuyler-pryor-t-00-15-52) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-schuyler-pryor-t-01-11-02) | 1 |
 
 </details>
@@ -91,13 +97,52 @@ Source: [Schuyler Pryor - IMDb](https://www.imdb.com/name/nm15541324/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+<summary><strong class="section-title">Raw mentions (46)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[01:11:02](/episodes/ep-nPhCKwJ6ye8.md#ent-person-schuyler-pryor-t-01-11-02)**
 > "But first go to what Candace is asking about Skylar."
+
+</details>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (2 mentions)</summary>
+
+**[00:15:52](/episodes/ep-SgVcnx4Oh30.md#ent-person-schuyler-pryor-t-00-15-52)**
+> "The Hopkinson Luxury Aircraft Sales we can get started. I think somewhere if you click around, Skylar (Schuyler Pryor), we can find the family, the team, the Hopkinson difference."
+
+**[00:32:43](/episodes/ep-SgVcnx4Oh30.md#ent-person-schuyler-pryor-t-00-32-43)**
+> "... Kirk) texted him and Skylar (Schuyler Pryor) i know we scrubbed through did you hear was he d..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (3 mentions)</summary>
+
+**[00:29:22](/episodes/ep-B9TyCs-6o_0.md#ent-person-schuyler-pryor-t-00-29-02)**
+> "Skylar (Schuyler Pryor), just shout me out"
+
+**[00:51:57](/episodes/ep-B9TyCs-6o_0.md#ent-person-schuyler-pryor-t-00-51-28)**
+> "ooh okay Skylar (Schuyler Pryor) has got something the name Nevada it's oh it's S..."
+
+**[00:52:09](/episodes/ep-B9TyCs-6o_0.md#ent-person-schuyler-pryor-t-00-52-09)**
+> "... ada in Spanish right Skylar (Schuyler Pryor) you agree you speak Spanish see if Connecticut w..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (3 mentions)</summary>
+
+**[00:35:27](/episodes/ep-5-HUyv9LyMg.md#ent-person-schuyler-pryor-t-00-35-18)**
+> "Schuyler Pryor, we can get to that portion, I guess, where they ..."
+
+**[00:38:46](/episodes/ep-5-HUyv9LyMg.md#ent-person-schuyler-pryor-t-00-38-42)**
+> "...t slide so they can see that, Schuyler Pryor? Yeah, there's nothing on the table that he grabs..."
+
+**[01:01:49](/episodes/ep-5-HUyv9LyMg.md#ent-person-schuyler-pryor-t-01-01-21)**
+> "Okay. Pardons. Schuyler Pryor is lying in my ear right now and it makes me sick..."
 
 </details>
 

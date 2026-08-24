@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Justin Streiff](/entities/person-justin-streiff) met with [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
+
+- [00:17:20](/episodes/ep-B9TyCs-6o_0#t-00-17-20): _when I had the opportunity to sit down with Erika Kirk and Justin Streiff_
 
 **[IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ)**
 

@@ -1,21 +1,29 @@
 ---
-title: "Pastor Rob McCoy parent of Mikey McCoy"
-description: "Evidence for the relationship: Pastor Rob McCoy parent of Mikey McCoy"
+title: "Rob McCoy parent of Michael McCoy"
+description: "Evidence for the relationship: Rob McCoy parent of Michael McCoy"
 relationship_id: "rel-85302dbaac74"
 subject: "person-rob-mccoy"
 predicate: "parent of"
-object: "person-mikey-mccoy"
+object: "person-michael-mccoy"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Pastor Rob McCoy](/entities/person-rob-mccoy) parent of [Mikey McCoy](/entities/person-mikey-mccoy)
+## [Rob McCoy](/entities/person-rob-mccoy) parent of [Michael McCoy](/entities/person-michael-mccoy)
 
-### Evidence (5 mentions)
+### Evidence (8 mentions)
+
+**[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
+
+- [00:59:59](/episodes/ep-2T39-oADLj0#t-00-59-59): _And you're brought in by Rob, your dad,_
 
 **[The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4)**
 
 - [00:34:47](/episodes/ep-581dILVcEE4#t-00-34-47): _Blake Neff says Mikey called his dad Rob McCoy after the shooting_
+
+**[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
+
+- [00:32:43](/episodes/ep-B9TyCs-6o_0#t-00-32-43): _he was defending Mikey McCoy and talked about how he ran and after he ran, he called his mom. ... And around the time I put that phone away and then he immediately calls his dad. ... He calls Rob McCoy._
 
 **[Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow)**
 
@@ -33,7 +41,11 @@ object: "person-mikey-mccoy"
 
 - [00:05:25](/episodes/ep-his-JBjlkh8#t-00-05-25): _his own father, Rob McCoy—who I think is highly suspicious_
 
+**[The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA)**
+
+- [00:07:00](/episodes/ep-wcD2khO3rOA#t-00-07-00): _his father, Rob McCoy_
+
 ### Related
 
-- [Pastor Rob McCoy](/entities/person-rob-mccoy)
-- [Mikey McCoy](/entities/person-mikey-mccoy)
+- [Rob McCoy](/entities/person-rob-mccoy)
+- [Michael McCoy](/entities/person-michael-mccoy)

@@ -1,6 +1,6 @@
 ---
 title: "Sigmund Freud"
-description: "Sigmund Freud (People) - 56 mentions"
+description: "Sigmund Freud (People) - 60 mentions"
 id: "person-sigmund-freud"
 type: "PERSON"
 categories:
@@ -17,12 +17,12 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-sigmund-freud-t-01-01-30">2025-09-15 · 01:01:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-sigmund-freud-t-00-22-18">2026-03-02 · 00:22:26</a></strong></div>
-<div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>56</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-sigmund-freud-t-00-59-19">2026-03-12 · 00:59:19</a></strong></div>
+<div><span>Episodes</span><strong>29</strong></div>
+<div><span>Mentions</span><strong>60</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -56,6 +56,9 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-sigmund-freud-t-00-12-53" style="--pulse-height:22%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-person-sigmund-freud-t-00-05-48" style="--pulse-height:22%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-sigmund-freud-t-00-22-18" style="--pulse-height:11%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-sigmund-freud-t-00-08-45" style="--pulse-height:22%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-sigmund-freud-t-00-49-55" style="--pulse-height:11%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-sigmund-freud-t-00-59-19" style="--pulse-height:11%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -87,6 +90,9 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-sigmund-freud-t-00-12-53) | 2 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-person-sigmund-freud-t-00-05-48) | 2 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-sigmund-freud-t-00-22-18) | 1 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-sigmund-freud-t-00-08-45) | 2 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-sigmund-freud-t-00-49-55) | 1 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-sigmund-freud-t-00-59-19) | 1 |
 
 </details>
 </section>
@@ -94,7 +100,34 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (56)</strong></summary>
+<summary><strong class="section-title">Raw mentions (60)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>
+
+**[00:59:19](/episodes/ep-5-HUyv9LyMg.md#ent-person-sigmund-freud-t-00-59-19)**
+> "Look up old Vienna, Sigmund Freud and his boys and what they were doing to kids the..."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1 mentions)</summary>
+
+**[00:50:21](/episodes/ep-ZzAT2xijKGQ.md#ent-person-sigmund-freud-t-00-49-55)**
+> "learning about Sigmund Freud"
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (2 mentions)</summary>
+
+**[00:08:59](/episodes/ep-i8m_6D4QGmk.md#ent-person-sigmund-freud-t-00-08-45)**
+> "studying Sigmund Freud"
+
+**[00:11:14](/episodes/ep-i8m_6D4QGmk.md#ent-person-sigmund-freud-t-00-10-54)**
+> "...was my independent study into Sigmund Freud that led me to learning about B'nai B'rith, the J..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1 mentions)</summary>
@@ -409,19 +442,13 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 </details>
 
 <details>
-<summary>Member Of (2)</summary>
+<summary>Member Of (1)</summary>
 
-- **[B'nai B'rith](/entities/org-b-nai-b-rith.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+- **[B'nai B'rith International](/entities/org-bnai-brith-international.md)**
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:10](/episodes/ep-t1YtLS1n8Vs.md#t-00-02-02): “Sigmund Freud was a member of B'nai B'rith.”
 - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:20](/episodes/ep-t1YtLS1n8Vs.md#t-00-00-42): “Sigmund Freud was a member of B'nai B'rith”
-
-</details>
-
-- **[B'nai B'rith International](/entities/org-bnai-brith-international.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:07:50](/episodes/ep-CEF7gQRWYCE.md#t-00-07-05): “Freud himself was a racist, okay? He was a part, like I said, of the Freemason group in B'nai B'rith,”
 
 </details>
@@ -441,7 +468,7 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -450,16 +477,10 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 
 </details>
 
-- **[B'nai B'rith](/entities/org-b-nai-b-rith.md)** has member this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+- **[B'nai B'rith International](/entities/org-bnai-brith-international.md)** has member this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:10](/episodes/ep-t1YtLS1n8Vs.md#t-00-02-02): “Sigmund Freud was a member of B'nai B'rith.”
-
-</details>
-
-- **[B'nai B'rith International](/entities/org-bnai-brith-international.md)** has member this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:07:50](/episodes/ep-CEF7gQRWYCE.md#t-00-07-05): “Freud himself was a racist, okay? He was a part, like I said, of the Freemason group in B'nai B'rith,”
 
 </details>

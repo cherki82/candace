@@ -1,6 +1,6 @@
 ---
 title: "Catholic Church"
-description: "Catholic Church (Organizations) - 3 mentions"
+description: "Catholic Church (Organizations) - 10 mentions"
 id: "org-catholic-church"
 type: "ORG"
 aliases:
@@ -23,10 +23,10 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-catholic-church-t-00-34-29">2026-02-03 · 00:34:49</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-catholic-church-t-00-30-36">2026-02-28 · 00:30:48</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -53,7 +53,7 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (1 mentions)</summary>
@@ -79,6 +79,32 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 
 </details>
 
+<details>
+<summary>ep-5m-Wn6Pr5rM (7 mentions)</summary>
+
+**[00:01:06](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-06)**
+> "the Catholic Church"
+
+**[00:31:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-10)**
+> "...they are doing it through the Catholic Church, even though Russia is an Eastern Orthodox societ..."
+
+**[00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-33)**
+> "..., this is in the article, the Catholic Church does not demand that the faithful be committed Zi..."
+
+**[00:42:04](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-04)**
+> "...aslit about the growth of the Catholic church, particularly by Allie Beth Stuckey, who definite..."
+
+**[00:42:18](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-18)**
+> "this is great the uh the catholic church was in april last year oh it's so great all aroun..."
+
+**[00:42:56](/episodes/ep-5m-Wn6Pr5rM.md#t-00-42-56)**
+> "...es now that show how much the Catholic Church is growing. We can just show you a few of them he..."
+
+**[00:43:10](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-10)**
+> "...ugust, more Americans joining Catholic church than leaving for the first time in decades. Here ..."
+
+</details>
+
 </details>
 
 <details open>
@@ -89,13 +115,24 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Catholic Church (1)</strong></summary>
+<summary><strong class="section-title">Statements about Catholic Church (3)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (1)</summary>
 
 - [00:30:26](/episodes/ep-cZxHqYsWRYg.md#t-00-29-56) (Claim) **Candace Owens**: ["St. Ursula Villa was privately funded and separate from St. Ursula Aca..."](/statements/statement-fcf673e8104b.md)
   - Also about: [St. Ursula Villa](/entities/org-st-ursula-villa.md), [Saint Ursula Academy](/entities/org-saint-ursula-academy.md)
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (2)</summary>
+
+- [00:41:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-41-33) (Claim) **The Daily Wire** (via quoted article): ["The Catholic Church does not demand that the faithful be committed Zio..."](/statements/statement-8180d1208c22.md)
+  - Also about: [Zionism](/entities/concept-zionism.md), [God](/entities/concept-god.md)
+
+- [00:43:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-43-02) (Citation) **Candace Owens**: ["An August 2025 article reported that more Americans were joining the C..."](/statements/statement-774d3b78c237.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
 
 </details>
 

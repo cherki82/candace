@@ -1,6 +1,6 @@
 ---
 title: "Jesus Christ"
-description: "Jesus Christ (People) - 110 mentions"
+description: "Jesus Christ (People) - 124 mentions"
 id: "person-jesus-christ"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-08-02">2025-09-15 · 00:08:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-person-jesus-christ-t-00-50-14">2026-03-03 · 00:50:32</a></strong></div>
-<div><span>Episodes</span><strong>38</strong></div>
-<div><span>Mentions</span><strong>110</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-jesus-christ-t-00-48-08">2026-03-18 · 00:48:08</a></strong></div>
+<div><span>Episodes</span><strong>46</strong></div>
+<div><span>Mentions</span><strong>124</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -73,6 +73,13 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-jesus-christ-t-01-05-52" style="--pulse-height:22%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-jesus-christ-t-00-43-59" style="--pulse-height:22%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-person-jesus-christ-t-00-50-14" style="--pulse-height:22%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 2 mentions" title="2026-03-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-jesus-christ-t-00-58-28" style="--pulse-height:22%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-jesus-christ-t-00-53-11" style="--pulse-height:11%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-jesus-christ-t-00-52-58" style="--pulse-height:11%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-jesus-christ-t-00-20-39" style="--pulse-height:22%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#t-00-51-18" style="--pulse-height:11%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-jesus-christ-t-01-07-50" style="--pulse-height:22%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-jesus-christ-t-00-45-55" style="--pulse-height:33%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -116,6 +123,13 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-person-jesus-christ-t-01-05-52) | 2 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-jesus-christ-t-00-43-59) | 2 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-jesus-christ-t-00-50-14) | 2 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-jesus-christ-t-00-58-28) | 2 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-jesus-christ-t-00-53-11) | 1 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jesus-christ-t-00-52-58) | 1 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-jesus-christ-t-00-20-39) | 2 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#t-00-51-18) | 1 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-jesus-christ-t-01-07-50) | 2 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-jesus-christ-t-00-45-55) | 3 |
 
 </details>
 </section>
@@ -123,7 +137,78 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (110)</strong></summary>
+<summary><strong class="section-title">Raw mentions (124)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (3 mentions)</summary>
+
+**[00:46:04](/episodes/ep-_vg7ucP1E0g.md#ent-person-jesus-christ-t-00-45-55)**
+> "Joseph. Truth wins. Christ is King. Mary is Queen of Heaven and Earth. Keep going, Max (online researcher; surname unverified). Thank you so much. And also, all of the emails from Catholic world make me so happy. I did want to show this email—not the email, but the picture—because it made me really happy. I hope she doesn't mind."
+
+**[00:46:58](/episodes/ep-_vg7ucP1E0g.md#ent-person-jesus-christ-t-00-46-58)**
+> "...otect them with your prayers. Christ is King." Truly, do pray. I mean, it's just like ..."
+
+**[00:48:08](/episodes/ep-_vg7ucP1E0g.md#ent-person-jesus-christ-t-00-48-08)**
+> "...e we all let the word of Lord Jesus Christ renew our minds and stop being led by the ways of..."
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
+
+**[00:51:29](/episodes/ep-k8ueJdPFel4.md#t-00-51-18)**
+> "...candace it shall set you free christ is king"
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (2 mentions)</summary>
+
+**[01:07:50](/episodes/ep-I0OaY6Gryqk.md#ent-person-jesus-christ-t-01-07-50)**
+> "Praise to you, Lord Jesus Christ"
+
+**[01:08:18](/episodes/ep-I0OaY6Gryqk.md#ent-person-jesus-christ-t-01-08-18)**
+> "...reaming about being turned to Christ. Is it chill for Catholics to just have this one ..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (2 mentions)</summary>
+
+**[00:21:04](/episodes/ep-5-HUyv9LyMg.md#ent-person-jesus-christ-t-00-20-39)**
+> "...im salvation through faith in Jesus Christ."
+
+**[00:21:25](/episodes/ep-5-HUyv9LyMg.md#ent-person-jesus-christ-t-00-21-25)**
+> "...e doing things in the name of Christ, access to children."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1 mentions)</summary>
+
+**[00:53:07](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jesus-christ-t-00-52-58)**
+> "christ is king christ is king indeed"
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
+
+**[00:53:44](/episodes/ep-i8m_6D4QGmk.md#ent-person-jesus-christ-t-00-53-11)**
+> "bring Jesus back"
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (2 mentions)</summary>
+
+**[00:58:42](/episodes/ep-DdPjoy5W-wY.md#ent-person-jesus-christ-t-00-58-28)**
+> "...Lord have mercy. Please, Lord Jesus Christ, Son of God, don't leave us in the hands of these..."
+
+**[01:09:35](/episodes/ep-DdPjoy5W-wY.md#ent-person-jesus-christ-t-00-58-28)**
+> "Christ is King and it drives them crazy."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (2 mentions)</summary>
@@ -639,6 +724,17 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 
 </details>
 
+<details>
+<summary>ep-5m-Wn6Pr5rM (2 mentions)</summary>
+
+**[00:46:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-46-05)**
+> "Christ"
+
+**[00:45:57](/episodes/ep-5m-Wn6Pr5rM.md#t-00-45-57)**
+> "... teaching and the kingship of Christ in today's world."
+
+</details>
+
 </details>
 
 <details open>
@@ -649,7 +745,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jesus Christ (1)</strong></summary>
+<summary><strong class="section-title">Statements about Jesus Christ (2)</strong></summary>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
+
+- [00:53:44](/episodes/ep-i8m_6D4QGmk.md#t-00-53-11) (Claim) **Candace Owens**: ["Christian Zionists believe Benjamin Netanyahu was sent to usher in Arm..."](/statements/statement-f0df0bdfccf5.md)
+  - Also about: [Christian Zionism](/entities/concept-christian-zionism.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Armageddon](/entities/concept-armageddon.md)
+
+</details>
 
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1)</summary>

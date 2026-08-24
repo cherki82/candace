@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Epstein"
-description: "Jeffrey Epstein (People) - 174 mentions"
+description: "Jeffrey Epstein (People) - 254 mentions"
 id: "person-jeffrey-epstein"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-28-54">2025-09-15 · 00:29:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-person-jeffrey-epstein-t-00-50-14">2026-03-03 · 00:50:21</a></strong></div>
-<div><span>Episodes</span><strong>47</strong></div>
-<div><span>Mentions</span><strong>174</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>47</strong></div>
-<div><span>Relationships</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-jeffrey-epstein-t-00-33-24">2026-03-24 · 00:33:38</a></strong></div>
+<div><span>Episodes</span><strong>57</strong></div>
+<div><span>Mentions</span><strong>254</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>61</strong></div>
+<div><span>Relationships</span><strong>28</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -81,6 +81,16 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-jeffrey-epstein-t-00-08-32" style="--pulse-height:8%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#t-00-06-31" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-person-jeffrey-epstein-t-00-21-58" style="--pulse-height:19%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 5 mentions" title="2026-03-03 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-person-jeffrey-epstein-t-00-33-53" style="--pulse-height:8%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-jeffrey-epstein-t-00-29-29" style="--pulse-height:27%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 7 mentions" title="2026-03-06 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-jeffrey-epstein-t-00-37-50" style="--pulse-height:19%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 5 mentions" title="2026-03-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-00-47" style="--pulse-height:100%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 26 mentions" title="2026-03-10 · 26 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-jeffrey-epstein-t-00-01-47" style="--pulse-height:42%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 11 mentions" title="2026-03-11 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-jeffrey-epstein-t-00-00-01" style="--pulse-height:65%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 17 mentions" title="2026-03-12 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-person-jeffrey-epstein-t-00-46-26" style="--pulse-height:15%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 4 mentions" title="2026-03-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-jeffrey-epstein-t-00-38-00" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-jeffrey-epstein-t-00-48-08" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-jeffrey-epstein-t-00-33-24" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -132,6 +142,16 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-jeffrey-epstein-t-00-08-32) | 2 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#t-00-06-31) | 2 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-jeffrey-epstein-t-00-21-58) | 5 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-person-jeffrey-epstein-t-00-33-53) | 1 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-jeffrey-epstein-t-00-29-29) | 7 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-jeffrey-epstein-t-00-37-50) | 5 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-00-47) | 26 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-person-jeffrey-epstein-t-00-01-47) | 11 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-jeffrey-epstein-t-00-00-01) | 17 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-jeffrey-epstein-t-00-46-26) | 4 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-jeffrey-epstein-t-00-38-00) | 2 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-jeffrey-epstein-t-00-48-08) | 1 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-jeffrey-epstein-t-00-33-24) | 1 |
 
 </details>
 </section>
@@ -139,7 +159,282 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (174)</strong></summary>
+<summary><strong class="section-title">Raw mentions (254)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>
+
+**[00:33:38](/episodes/ep-SgVcnx4Oh30.md#ent-person-jeffrey-epstein-t-00-33-24)**
+> "before the Epstein files were released"
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
+
+**[00:48:33](/episodes/ep-_vg7ucP1E0g.md#ent-person-jeffrey-epstein-t-00-48-08)**
+> "I think we all are sort of waking up and realizing that fighting each other only benefits the elites, the Epstein class, so to speak."
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (4 mentions)</summary>
+
+**[00:46:26](/episodes/ep-k8ueJdPFel4.md#ent-person-jeffrey-epstein-t-00-46-26)**
+> "...rrested before anybody on the Epstein list."
+
+**[00:46:36](/episodes/ep-k8ueJdPFel4.md#ent-person-jeffrey-epstein-t-00-46-26)**
+> "... arrested than anybody on the Epstein list because this is Epstein's revenge."
+
+**[00:46:48](/episodes/ep-k8ueJdPFel4.md#ent-person-jeffrey-epstein-t-00-46-48)**
+> "...s is the class that protected Epstein, protected people who were harming kids, lied to ..."
+
+**[00:50:44](/episodes/ep-k8ueJdPFel4.md#ent-person-jeffrey-epstein-t-00-46-48)**
+> "No war with Iran. Release the Epstein files and audit TP-USA. Hence, who benefits from ..."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (2 mentions)</summary>
+
+**[00:38:24](/episodes/ep-I0OaY6Gryqk.md#ent-person-jeffrey-epstein-t-00-38-00)**
+> "the Family International and Epstein"
+
+**[00:43:37](/episodes/ep-I0OaY6Gryqk.md#ent-person-jeffrey-epstein-t-00-43-37)**
+> "...we oh we're talking about the epstein files yeah Trump (Donald Trump) we're still talki..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (17 mentions)</summary>
+
+**[00:00:01](/episodes/ep-5-HUyv9LyMg.md#ent-person-jeffrey-epstein-t-00-00-01)**
+> "...everyone is implicated in the Epstein file cover up, right?"
+
+**[00:00:13](/episodes/ep-5-HUyv9LyMg.md#ent-person-jeffrey-epstein-t-00-00-01)**
+> "...oday. Do you believe that the Epstein files may have something to do with Charlie Kirk'..."
+
+**[00:01:04](/episodes/ep-5-HUyv9LyMg.md#ent-person-jeffrey-epstein-t-00-00-39)**
+> "...one here is implicated in the Jeffrey Epstein cover up."
+
+**[00:01:29](/episodes/ep-5-HUyv9LyMg.md#ent-person-jeffrey-epstein-t-00-01-17)**
+> "...wants to distract us from the Epstein files? Could the world really be this evil?"
+
+**[00:02:15](/episodes/ep-5-HUyv9LyMg.md#ent-person-jeffrey-epstein-t-00-02-15)**
+> "...Erika Kirk's involvement with Epstein's favorite modeling agency, Faith Kates' NEXT Model..."
+
+**[00:03:00](/episodes/ep-5-HUyv9LyMg.md#ent-person-jeffrey-epstein-t-00-03-00)**
+> "...ilding that was owned by Mark Epstein."
+
+**[00:03:10](/episodes/ep-5-HUyv9LyMg.md#ent-person-jeffrey-epstein-t-00-03-00)**
+> "Jeffrey Epstein's brother who inherited all of his wealth, I want y..."
+
+**[00:03:17](/episodes/ep-5-HUyv9LyMg.md#ent-person-jeffrey-epstein-t-00-03-00)**
+> "...ork City condo building where Jeffrey Epstein secretly kept his underage victims."
+
+**[00:03:27](/episodes/ep-5-HUyv9LyMg.md#ent-person-jeffrey-epstein-t-00-03-00)**
+> "... unsealed records reveal that Jeffrey Epstein kept some of his underage victims in an apartment..."
+
+**[00:03:50](/episodes/ep-5-HUyv9LyMg.md#ent-person-jeffrey-epstein-t-00-03-37)**
+> "...ioned as a logistical hub for Epstein's world, and according to civil complaints and swor..."
+
+**[00:04:03](/episodes/ep-5-HUyv9LyMg.md#ent-person-jeffrey-epstein-t-00-03-37)**
+> "...able foreign dignitaries, and Epstein staffers."
+
+**[00:04:26](/episodes/ep-5-HUyv9LyMg.md#ent-person-jeffrey-epstein-t-00-04-20)**
+> "...ken about nine blocks away to Epstein's."
+
+**[00:05:26](/episodes/ep-5-HUyv9LyMg.md#ent-person-jeffrey-epstein-t-00-05-00)**
+> "...coran president, according to Jeffrey Epstein's files, was Rothschild."
+
+**[00:06:29](/episodes/ep-5-HUyv9LyMg.md#ent-person-jeffrey-epstein-t-00-06-20)**
+> "...the American people about the Epstein files."
+
+**[00:07:19](/episodes/ep-5-HUyv9LyMg.md#ent-person-jeffrey-epstein-t-00-06-57)**
+> "... last names redacted from the Epstein files."
+
+**[00:11:54](/episodes/ep-5-HUyv9LyMg.md#ent-person-jeffrey-epstein-t-00-11-54)**
+> "...ng the literal day before the Epstein files dropped."
+
+**[00:41:46](/episodes/ep-5-HUyv9LyMg.md#ent-person-jeffrey-epstein-t-00-41-38)**
+> "...ike I said, he pushed for the Epstein files to be released. And so Trump (Donald Trump)..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (11 mentions)</summary>
+
+**[00:01:57](/episodes/ep-H9p2ZGHAs9A.md#ent-person-jeffrey-epstein-t-00-01-47)**
+> "...y that Erika (Erika Kirk) and Jeffrey Epstein may have come across each other, certainly plausi..."
+
+**[00:02:28](/episodes/ep-H9p2ZGHAs9A.md#ent-person-jeffrey-epstein-t-00-02-28)**
+> "...s yesterday, a dear friend to Jeffrey Epstein all over the emails 4000 plus times."
+
+**[00:02:52](/episodes/ep-H9p2ZGHAs9A.md#ent-person-jeffrey-epstein-t-00-02-28)**
+> "And like I told you guys, Jeffrey Epstein. was around his office a lot. He frequented the o..."
+
+**[00:02:59](/episodes/ep-H9p2ZGHAs9A.md#ent-person-jeffrey-epstein-t-00-02-59)**
+> "...aith Kates, she actually knew Epstein since before she co-founded Next because she was ..."
+
+**[00:03:26](/episodes/ep-H9p2ZGHAs9A.md#ent-person-jeffrey-epstein-t-00-02-59)**
+> "...g? Because you will recall in Jeffrey Epstein's recently released emails that he said to Peter Th..."
+
+**[00:03:42](/episodes/ep-H9p2ZGHAs9A.md#ent-person-jeffrey-epstein-t-00-03-42)**
+> "This is Jeffrey Epstein to Peter (Peter Thiel). He says, as you probably ..."
+
+**[00:06:07](/episodes/ep-H9p2ZGHAs9A.md#ent-person-jeffrey-epstein-t-00-05-45)**
+> "...ika (Erika Kirk)? Did you see Jeffrey Epstein walking around the office?"
+
+**[00:26:49](/episodes/ep-H9p2ZGHAs9A.md#ent-person-jeffrey-epstein-t-00-26-36)**
+> "...d Trump, pageantry world, the Epstein files."
+
+**[00:26:58](/episodes/ep-H9p2ZGHAs9A.md#ent-person-jeffrey-epstein-t-00-26-36)**
+> "What Epstein files? Are we still talking about the Epstein fil..."
+
+**[00:43:22](/episodes/ep-H9p2ZGHAs9A.md#ent-person-jeffrey-epstein-t-00-43-22)**
+> "...nd I find her floating around Jeffrey Epstein, in his orbit, to be interesting. Very interestin..."
+
+**[00:00:34](/episodes/ep-H9p2ZGHAs9A.md#ent-person-jeffrey-epstein-t-00-00-22)**
+> "Okay. It has to stop right now because we received some follow-up information regarding Erika (Erika Kirk)'s time in New York, confusing time in New York, specifically more details pertaining to What the hell Erika (Erika Kirk) was doing parked at a modeling agency that was frequented by Jeffrey Epstein."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (26 mentions)</summary>
+
+**[00:00:47](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-00-47)**
+> "...she just keeps dancing around Jeffrey Epstein in her life."
+
+**[00:00:55](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-00-47)**
+> "...ies and schools that Epstein (Jeffrey Epstein) is involved in deeply, involved with deeply. So ..."
+
+**[00:06:00](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-05-32)**
+> "...is crucial Operation Epstein (Jeffrey Epstein) Fury. That's what we're calling it. We know what..."
+
+**[00:06:09](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-06-09)**
+> "...tracting us from the Epstein (Jeffrey Epstein) files and just doing whatever Israel wants, like..."
+
+**[00:11:49](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-11-33)**
+> "...e point here is that Epstein (Jeffrey Epstein) was definitively of the mystic Frankist ilk. He ..."
+
+**[00:12:04](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-11-33)**
+> "And regarding Jeffrey Epstein in particular, I want to throw it back to this tw..."
+
+**[00:15:48](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-15-18)**
+> "...on January 30th, the Epstein (Jeffrey Epstein) files were released. And I thought, oh, how prec..."
+
+**[00:15:58](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-15-58)**
+> "...g was related to the Epstein (Jeffrey Epstein) files, which are heavily redacted and obviously ..."
+
+**[00:16:12](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-15-58)**
+> "...Donald J. Trump) and Epstein (Jeffrey Epstein)'s relationship, to be sure, seemed to be centere..."
+
+**[00:16:37](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-16-37)**
+> "... meeting for his company that Jeffrey Epstein was there which is kind of an honorable mention s..."
+
+**[00:18:21](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-17-53)**
+> "Epstein (Jeffrey Epstein)'s in pageant world-ish."
+
+**[00:18:32](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-18-32)**
+> "Okay, so in 2010, we know Jeffrey Epstein, based on the emails, begins procuring models fro..."
+
+**[00:19:14](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-19-14)**
+> "...ing. And then that same year, Jeffrey Epstein begins giving money to Arizona State University s..."
+
+**[00:22:10](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-22-10)**
+> "...cause of her involvement with Jeffrey Epstein. She's like in his emails like 4,000 times, even ..."
+
+**[00:23:20](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-23-20)**
+> "...hip that Faith Cates had with Jeffrey Epstein, Eastern European models all around Next Model Ma..."
+
+**[00:23:59](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-23-59)**
+> "say they saw her meeting with Jeffrey Epstein but they said essentially Jeffrey Epstein was alw..."
+
+**[00:24:58](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-24-58)**
+> "...re you doing did you run into epstein like i just want to know like what what is your w..."
+
+**[00:25:25](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-25-25)**
+> "...d to step down because of the epstein emails and she retired she said it's like the nic..."
+
+**[00:25:52](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-25-52)**
+> "...ke it was just everywhere and epstein would just come all the time like you know this w..."
+
+**[00:26:36](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-26-36)**
+> "...she's dancing around Epstein (Jeffrey Epstein)."
+
+**[00:27:18](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-27-18)**
+> "...man, featured in the Epstein (Jeffrey Epstein). Epstein (Jeffrey Epstein) files was helping him..."
+
+**[00:27:44](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-27-18)**
+> "...hat. But we do then learn via Jeffrey Epstein's emails, the president of the Corcoran Group is ac..."
+
+**[00:28:39](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-28-39)**
+> "...e path keep intersecting with Jeffrey Epstein before it's weird?"
+
+**[00:32:38](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-32-38)**
+> "...on't even care to it's giving Jeffrey Epstein when he just like becomes a math teacher and some..."
+
+**[00:52:05](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-51-55)**
+> "Now the Epstein (Jeffrey Epstein) files, I'm so disappointed in all of government...."
+
+**[00:00:42](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jeffrey-epstein-t-00-00-01)**
+> "That Erika (Erika Kirk) and Jeffrey Epstein."
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (5 mentions)</summary>
+
+**[00:38:01](/episodes/ep-i8m_6D4QGmk.md#ent-person-jeffrey-epstein-t-00-37-50)**
+> "Epstein files"
+
+**[00:38:12](/episodes/ep-i8m_6D4QGmk.md#ent-person-jeffrey-epstein-t-00-37-50)**
+> "...re we still talking about the Epstein files? Are we still talking about children being ..."
+
+**[00:38:19](/episodes/ep-i8m_6D4QGmk.md#ent-person-jeffrey-epstein-t-00-37-50)**
+> "...dophiles, because that's what Jeffrey Epstein was: an occult Jewish pedophile."
+
+**[00:46:00](/episodes/ep-i8m_6D4QGmk.md#ent-person-jeffrey-epstein-t-00-46-00)**
+> "...re making our way through the Jeffrey Epstein files, effectively having conversations openly, o..."
+
+**[01:04:35](/episodes/ep-i8m_6D4QGmk.md#ent-person-jeffrey-epstein-t-01-04-35)**
+> "...finitely did not foresee that Epstein moment coming. You know, I was not a person. I sp..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (7 mentions)</summary>
+
+**[00:29:29](/episodes/ep-DdPjoy5W-wY.md#ent-person-jeffrey-epstein-t-00-29-29)**
+> "...also during the very years of Jeffrey Epstein, by the way, who, like Tyler (Tyler Bowyer), was ..."
+
+**[00:29:51](/episodes/ep-DdPjoy5W-wY.md#ent-person-jeffrey-epstein-t-00-29-29)**
+> "...versity that was mentioned in Jeffrey Epstein's emails about thirty five hundred times."
+
+**[00:30:18](/episodes/ep-DdPjoy5W-wY.md#ent-person-jeffrey-epstein-t-00-30-11)**
+> "... prior to the email dump that Jeffrey Epstein had given money to Arizona State University, $250..."
+
+**[00:30:28](/episodes/ep-DdPjoy5W-wY.md#ent-person-jeffrey-epstein-t-00-30-11)**
+> "...State University listen to me Jeffrey Epstein began giving to Arizona State University in Decem..."
+
+**[00:30:47](/episodes/ep-DdPjoy5W-wY.md#ent-person-jeffrey-epstein-t-00-30-47)**
+> "...r) gets back from Romania and Jeffrey Epstein donates through what is known as the Origins Proj..."
+
+**[00:31:33](/episodes/ep-DdPjoy5W-wY.md#ent-person-jeffrey-epstein-t-00-31-13)**
+> "...esting that of all the things Jeffrey Epstein is giving to a space project."
+
+**[00:57:25](/episodes/ep-DdPjoy5W-wY.md#ent-person-jeffrey-epstein-t-00-57-25)**
+> "...ficking, the sex trafficking, Epstein horrors, etc. We have been cursed with corrupt tr..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
+
+**[00:33:53](/episodes/ep-y8lak3CRwDw.md#ent-person-jeffrey-epstein-t-00-33-53)**
+> "...ens to be the university that jeffrey epstein was pouring all of his money into by the way and ..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (5 mentions)</summary>
@@ -885,10 +1180,25 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details>
-<summary>ep-y8lak3CRwDw (1 mentions)</summary>
+<summary>ep-5m-Wn6Pr5rM (6 mentions)</summary>
 
-**[00:33:53](/episodes/ep-y8lak3CRwDw.md#t-00-33-53)**
-> "...ens to be the university that jeffrey epstein was pouring all of his money into by the way and ..."
+**[00:28:26](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-26)**
+> "epstein"
+
+**[00:28:30](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-30)**
+> "the Epstein files first is the first thing that happened, obv..."
+
+**[00:28:37](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-37)**
+> "...re we still talking about the Epstein files? And then the Charlie Kirk assassination. W..."
+
+**[00:37:46](/episodes/ep-5m-Wn6Pr5rM.md#t-00-37-46)**
+> "...re we still talking about the Epstein files?"
+
+**[00:37:56](/episodes/ep-5m-Wn6Pr5rM.md#t-00-37-56)**
+> "...ngside some others to get the Epstein files."
+
+**[00:38:00](/episodes/ep-5m-Wn6Pr5rM.md#t-00-38-00)**
+> "...ngside some others to get the Epstein files and then we discover what's in the Epstein ..."
 
 </details>
 
@@ -904,6 +1214,31 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-01): “Oh, you're going to quote Bannon who consulted for Epstein?”
+
+</details>
+
+</details>
+
+<details>
+<summary>Appeared With (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:16:37](/episodes/ep-ZzAT2xijKGQ.md#t-00-15-58): “Trump (Donald J. Trump) has never denied that he hung out with Epstein (Jeffrey Epstein) he said I never went to the island but there are obviously photos”
+
+</details>
+
+</details>
+
+<details>
+<summary>Close Associate Of (1)</summary>
+
+- **[Faith Kates](/entities/person-faith-kates.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:22:36](/episodes/ep-ZzAT2xijKGQ.md#t-00-22-36): “she had she was very close i mean look she's inviting him here in this email to her son's bar mitzvah”
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:02:28](/episodes/ep-H9p2ZGHAs9A.md#t-00-02-28): “Let's get back into this next model management. It was co-founded by Faith Kates. We told you this yesterday, a dear friend to Jeffrey Epstein all over the emails 4000 plus times.”
 
 </details>
 
@@ -948,6 +1283,27 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details>
+<summary>Funded (2)</summary>
+
+- **[Arizona State University](/entities/org-arizona-state-university.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:30:18](/episodes/ep-DdPjoy5W-wY.md#t-00-30-11): “Jeffrey Epstein had given money to Arizona State University, $250,000”
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:19:14](/episodes/ep-ZzAT2xijKGQ.md#t-00-19-14): “Jeffrey Epstein begins giving money to Arizona State University specifically for their Origins Project.”
+
+</details>
+
+- **[Origins Project at Arizona State University](/entities/org-origins-project-at-asu.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:30:47](/episodes/ep-DdPjoy5W-wY.md#t-00-30-47): “Jeffrey Epstein donates through what is known as the Origins Project”
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:19:14](/episodes/ep-ZzAT2xijKGQ.md#t-00-19-14): “Jeffrey Epstein begins giving money to Arizona State University specifically for their Origins Project.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Funded By (1)</summary>
 
 - **[Rothschild family](/entities/org-rothschild-family.md)**
@@ -960,7 +1316,19 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details>
-<summary>Worked With (2)</summary>
+<summary>Hired By (1)</summary>
+
+- **[William P. Barr](/entities/person-william-barr.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:32:38](/episodes/ep-ZzAT2xijKGQ.md#t-00-32-07): “that someone is Bill Barr right who gives him that job because he's running that school”
+
+</details>
+
+</details>
+
+<details>
+<summary>Worked With (3)</summary>
 
 - **[Harvey Weinstein](/entities/person-harvey-weinstein.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -976,15 +1344,37 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 
 </details>
 
+- **[NEXT Management](/entities/org-next-management.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:23:27](/episodes/ep-ZzAT2xijKGQ.md#t-00-23-20): “He was helping this model agency in particular.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (14)</summary>
 
 - **[Steve Bannon](/entities/person-steve-bannon.md)** advisor to this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-01): “Oh, you're going to quote Bannon who consulted for Epstein?”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:16:37](/episodes/ep-ZzAT2xijKGQ.md#t-00-15-58): “Trump (Donald J. Trump) has never denied that he hung out with Epstein (Jeffrey Epstein) he said I never went to the island but there are obviously photos”
+
+</details>
+
+- **[Faith Kates](/entities/person-faith-kates.md)** close associate of this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:22:36](/episodes/ep-ZzAT2xijKGQ.md#t-00-22-36): “she had she was very close i mean look she's inviting him here in this email to her son's bar mitzvah”
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:02:28](/episodes/ep-H9p2ZGHAs9A.md#t-00-02-28): “Let's get back into this next model management. It was co-founded by Faith Kates. We told you this yesterday, a dear friend to Jeffrey Epstein all over the emails 4000 plus times.”
 
 </details>
 
@@ -1023,10 +1413,47 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 
 </details>
 
+- **[Arizona State University](/entities/org-arizona-state-university.md)** funded by this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:30:18](/episodes/ep-DdPjoy5W-wY.md#t-00-30-11): “Jeffrey Epstein had given money to Arizona State University, $250,000”
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:19:14](/episodes/ep-ZzAT2xijKGQ.md#t-00-19-14): “Jeffrey Epstein begins giving money to Arizona State University specifically for their Origins Project.”
+
+</details>
+
+- **[Origins Project at Arizona State University](/entities/org-origins-project-at-asu.md)** funded by this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:30:47](/episodes/ep-DdPjoy5W-wY.md#t-00-30-47): “Jeffrey Epstein donates through what is known as the Origins Project”
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:19:14](/episodes/ep-ZzAT2xijKGQ.md#t-00-19-14): “Jeffrey Epstein begins giving money to Arizona State University specifically for their Origins Project.”
+
+</details>
+
+- **[William P. Barr](/entities/person-william-barr.md)** hired this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:32:38](/episodes/ep-ZzAT2xijKGQ.md#t-00-32-07): “that someone is Bill Barr right who gives him that job because he's running that school”
+
+</details>
+
+- **[Mark Epstein](/entities/person-mark-epstein.md)** sibling of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:03:10](/episodes/ep-5-HUyv9LyMg.md#t-00-03-00): “Jeffrey Epstein's brother who inherited all of his wealth”
+
+</details>
+
 - **[Kenneth Starr](/entities/person-kenneth-starr.md)** worked with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:09](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): “for almost a decade she worked for Ken Star at the exact same time that he was working with Jeffrey Epstein”
+
+</details>
+
+- **[Pamela Liebman](/entities/person-pamela-liebman.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:27:18](/episodes/ep-ZzAT2xijKGQ.md#t-00-26-36): “Pam Lehman, featured in the Epstein (Jeffrey Epstein). Epstein (Jeffrey Epstein) files was helping him with real estate deals”
 
 </details>
 
@@ -1035,7 +1462,90 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jeffrey Epstein (47)</strong></summary>
+<summary><strong class="section-title">Statements by Jeffrey Epstein (2)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1)</summary>
+
+- [00:03:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-03-42) [✓] (Claim) ["Jeffrey Epstein wrote to Peter Thiel, "I represent the Rothschilds," and referre..."](/statements/statement-724744a9c03b.md)
+  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Peter Thiel](/entities/person-peter-thiel.md), [Rothschild family](/entities/org-rothschild-family.md)
+
+</details>
+
+<details>
+<summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1)</summary>
+
+- [00:10:00](/episodes/ep-CEF7gQRWYCE.md#t-00-09-42) [✓] (Citation) ["Jeffrey Epstein said in an email that he worked on behalf of the Rothschilds."](/statements/statement-3fee9cb5f3f2.md)
+  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Rothschild family](/entities/org-rothschild-family.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Jeffrey Epstein (61)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (3)</summary>
+
+- [00:02:28](/episodes/ep-H9p2ZGHAs9A.md#t-00-02-28) (Claim) **Candace Owens**: ["Candace Owens said NEXT Management was co-founded by Faith Kates, a de..."](/statements/statement-7a0bdaabab64.md)
+  - Also about: [NEXT Management](/entities/org-next-management.md), [Faith Kates](/entities/person-faith-kates.md)
+
+- [00:02:59](/episodes/ep-H9p2ZGHAs9A.md#t-00-02-59) (Claim) **Candace Owens**: ["Candace Owens said Faith Kates knew Jeffrey Epstein before co-founding..."](/statements/statement-31a1b85834d9.md)
+  - Also about: [Faith Kates](/entities/person-faith-kates.md), [NEXT Management](/entities/org-next-management.md), [Wilhelmina Models](/entities/org-wilhelmina-models.md)
+
+- [00:03:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-03-42) (Claim) **Jeffrey Epstein** (via read message): ["Jeffrey Epstein wrote to Peter Thiel, "I represent the Rothschilds," a..."](/statements/statement-724744a9c03b.md)
+  - Also about: [Peter Thiel](/entities/person-peter-thiel.md), [Rothschild family](/entities/org-rothschild-family.md)
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (8)</summary>
+
+- [00:06:09](/episodes/ep-ZzAT2xijKGQ.md#t-00-06-09) (Accusation) **Candace Owens**: ["They're distracting us from the Epstein files and doing whatever Israe..."](/statements/statement-e46f1e5df1b7.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Israel](/entities/gpe-israel.md)
+
+- [00:07:19](/episodes/ep-ZzAT2xijKGQ.md#t-00-06-48) (Prediction) **Anonymous Source #1 (Ep ZzAT2xijKGQ)** (via quoted document): ["Soon people will not be able to make new humans, but that would be gre..."](/statements/statement-d7d24f808734.md)
+  - Also about: [In vitro fertilization](/entities/concept-in-vitro-fertilization.md)
+
+- [00:11:49](/episodes/ep-ZzAT2xijKGQ.md#t-00-11-33) (Accusation) **Candace Owens**: ["Jeffrey Epstein was definitively of the mystic Frankist ilk, practiced..."](/statements/statement-744768ebb8ab.md)
+  - Also about: [Frankism](/entities/concept-frankism.md), [Judaism](/entities/concept-judaism.md)
+
+- [00:15:48](/episodes/ep-ZzAT2xijKGQ.md#t-00-15-18) (Accusation) **Candace Owens**: ["Is it possible that the West Wing meeting was related to the Epstein f..."](/statements/statement-9b3f8e03f81f.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [White House](/entities/org-white-house.md)
+
+- [00:16:37](/episodes/ep-ZzAT2xijKGQ.md#t-00-16-37) (Accusation) **Candace Owens**: ["Jeffrey Epstein trafficked women from Eastern Europe through modeling ..."](/statements/statement-4e39a37e5035.md)
+  - Also about: [Eastern Europe](/entities/gpe-eastern-europe.md)
+
+- [00:19:14](/episodes/ep-ZzAT2xijKGQ.md#t-00-19-14) (Claim) **Candace Owens**: ["Jeffrey Epstein began giving money to Arizona State University's Origi..."](/statements/statement-9e27a294288d.md)
+  - Also about: [Arizona State University](/entities/org-arizona-state-university.md), [Origins Project at Arizona State University](/entities/org-origins-project-at-asu.md)
+
+- [00:22:10](/episodes/ep-ZzAT2xijKGQ.md#t-00-22-10) (Accusation) **Candace Owens**: ["Next Model Management cofounder Faith Cates stepped down because of he..."](/statements/statement-8b0c3d34da6b.md)
+  - Also about: [Faith Kates](/entities/person-faith-kates.md), [NEXT Management](/entities/org-next-management.md)
+
+- [00:27:44](/episodes/ep-ZzAT2xijKGQ.md#t-00-27-18) (Citation) **Candace Owens**: ["Jeffrey Epstein's emails included a background entry listing Linda Rot..."](/statements/statement-011148f17074.md)
+  - Also about: [The Corcoran Group](/entities/org-corcoran-group.md), [Rothschild family](/entities/org-rothschild-family.md)
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
+
+- [00:38:01](/episodes/ep-i8m_6D4QGmk.md#t-00-37-50) (Accusation) **Candace Owens**: ["The Trump administration delayed release of the Epstein files, and Tru..."](/statements/statement-b0b2047f8b76.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (2)</summary>
+
+- [00:29:51](/episodes/ep-DdPjoy5W-wY.md#t-00-29-29) (Claim) **Candace Owens**: ["Arizona State University was mentioned about 3,500 times in Jeffrey Ep..."](/statements/statement-5f721166473d.md)
+  - Also about: [Arizona State University](/entities/org-arizona-state-university.md)
+
+- [00:30:18](/episodes/ep-DdPjoy5W-wY.md#t-00-30-11) (Claim) **Candace Owens**: ["Jeffrey Epstein gave Arizona State University $250,000 personally and ..."](/statements/statement-8fdfa8936d90.md)
+  - Also about: [Arizona State University](/entities/org-arizona-state-university.md), [Origins Project at Arizona State University](/entities/org-origins-project-at-asu.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1)</summary>
@@ -1085,7 +1595,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (12)</summary>
 
-- [00:10:00](/episodes/ep-CEF7gQRWYCE.md#t-00-09-42) (Citation) **Candace Owens**: ["Jeffrey Epstein said in an email that he worked on behalf of the Roths..."](/statements/statement-3fee9cb5f3f2.md)
+- [00:10:00](/episodes/ep-CEF7gQRWYCE.md#t-00-09-42) (Citation) **Jeffrey Epstein** (via read message): ["Jeffrey Epstein said in an email that he worked on behalf of the Roths..."](/statements/statement-3fee9cb5f3f2.md)
   - Also about: [Rothschild family](/entities/org-rothschild-family.md)
 
 - [00:12:07](/episodes/ep-CEF7gQRWYCE.md#t-00-12-07) (Accusation) **Maria Farmer**: ["Jeffrey Epstein's associates believed their DNA was better than everyo..."](/statements/statement-68df4b714a92.md)

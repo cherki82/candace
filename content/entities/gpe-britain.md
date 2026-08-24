@@ -12,6 +12,8 @@ _Type: Places_
 
 **Categories:** historical geography, Roman Britain
 
+> **Possibly overlapping entity records:** [United Kingdom](/entities/gpe-united-kingdom). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Britannica verifies Britain as the historical region under Roman rule, matching the phrase 'Roman-era Britain' in the episode.
 Source: [Roman Britain | History, Facts, & Map | Britannica](https://www.britannica.com/place/Roman-Britain)

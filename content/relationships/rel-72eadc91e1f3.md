@@ -11,7 +11,7 @@ object: "person-ben-shapiro"
 
 ## [Megyn Kelly](/entities/person-megyn-kelly) criticized by [Ben Shapiro](/entities/person-ben-shapiro)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo)**
 
@@ -20,6 +20,10 @@ object: "person-ben-shapiro"
 **[Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow)**
 
 - [00:06:23](/episodes/ep-MUA9ebCF4Ow#t-00-06-23): _lied to Megyn Kelly's face_
+
+**[WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4)**
+
+- [00:04:46](/episodes/ep-k8ueJdPFel4#t-00-04-46): _He calls Megyn Kelly a coward and Piers Morgan a clickbait whore or something. And what is their crime?_
 
 **[DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw)**
 

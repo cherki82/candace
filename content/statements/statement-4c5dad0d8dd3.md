@@ -25,13 +25,23 @@ veracity: "mixed"
 - [Tesseract School](/entities/org-tesseract-school.md) (org)
 - [Scottsdale, Arizona](/entities/gpe-scottsdale.md) (gpe)
 
-## Source
+## Appearances (2)
+
+### 1. Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3
 
 **Episode:** [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md)
 **Timestamp:** [00:31:25](/episodes/ep-cZxHqYsWRYg.md#t-00-31-16) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1885);return false;">Play</a>
 
 > Erika (Erika Kirk) is at Notre Dame Prep, and I should note, I did not know this at the time, but Notre Dame Prep was formerly the Tesseract School, the one that they had to shutter in North Scottsdale. Now the doors are reopened and it's Notre Dame Prep.
+
+### 2. Bride Of Charlie: Red Sparrow | Episode 8
+
+**Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
+**Timestamp:** [00:02:56](/episodes/ep-_vg7ucP1E0g.md#t-00-02-56) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(176);return false;">Play</a>
+
+> Well, the story goes regarding Tesseract that after they filed for bankruptcy in 2001, they put their old campus up for sale and it was. It was purchased by the Diocese of Phoenix when they then turned it into Notre Dame Prep, where Erika (Erika Kirk) then enrolls for high school.
 
 ## Verification
 

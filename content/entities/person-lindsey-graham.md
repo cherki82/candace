@@ -1,6 +1,6 @@
 ---
 title: "Lindsey Graham"
-description: "Lindsey Graham (People) - 22 mentions"
+description: "Lindsey Graham (People) - 24 mentions"
 id: "person-lindsey-graham"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-lindsey-graham-t-00-00-46">2025-11-03 · 00:01:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-lindsey-graham-t-00-04-11">2026-03-02 · 00:04:43</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
-<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-lindsey-graham-t-00-13-58">2026-03-17 · 00:13:58</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -40,6 +40,8 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-lindsey-graham-t-00-04-53" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 8 mentions" title="2026-01-13 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-lindsey-graham-t-01-10-43" style="--pulse-height:38%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-lindsey-graham-t-00-02-47" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 4 mentions" title="2026-03-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-lindsey-graham-t-00-57-39" style="--pulse-height:12%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-lindsey-graham-t-00-13-58" style="--pulse-height:12%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +52,8 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-lindsey-graham-t-00-04-53) | 8 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-lindsey-graham-t-01-10-43) | 3 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-lindsey-graham-t-00-02-47) | 4 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-lindsey-graham-t-00-57-39) | 1 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-lindsey-graham-t-00-13-58) | 1 |
 
 </details>
 </section>
@@ -57,7 +61,23 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>
+
+**[00:13:58](/episodes/ep-I0OaY6Gryqk.md#ent-person-lindsey-graham-t-00-13-58)**
+> "you have Lindsey Graham"
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
+
+**[00:58:05](/episodes/ep-i8m_6D4QGmk.md#ent-person-lindsey-graham-t-00-57-39)**
+> "Lindsey Graham"
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (4 mentions)</summary>
@@ -156,7 +176,19 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Criticized By (2)</summary>
+<summary>Criticized (1)</summary>
+
+- **[Joe Kent](/entities/person-joe-kent.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:14:25](/episodes/ep-I0OaY6Gryqk.md#t-00-13-58): “director of National Counterterrorism Center, could not have come at a better time. What? Like in his statement explaining why he's resigning in protest, Mr. Kent is echoing the Democratic talking points, which are devoid of fact or evidence.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Criticized By (3)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -173,22 +205,30 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 
 </details>
 
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:13:58](/episodes/ep-I0OaY6Gryqk.md#t-00-13-58): “totally true it just it's always totally true just a couple of weeks they're going to have nuclear bombs they just lie they lie they lie because they need the bodies they need the people like Joe Kent and then to see him be so disrespected disrespected i mean it's just what they do you know and you know what they're going to do now which what they're already doing they're going to smear and they're going to attack and they're going to threaten Joe Kent here are some of the immediate responses that are already floating online okay you have lindsey graham who's so blackmail blackmail it hurts he wrote the resignation of Joe Kent as the director”
+
+</details>
+
 </details>
 
 <details>
 <summary>Supporter Of (1)</summary>
 
 - **[Israel](/entities/gpe-israel.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:10:53](/episodes/ep-xjzb_t5Tk9o.md#t-01-10-43): “he's like terrifyingly supportive of Israel.”
+- [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:58:05](/episodes/ep-i8m_6D4QGmk.md#t-00-57-39): “I imagine whatever they have on Lindsey Graham is so far beyond. It's like it's got to be disgusting. That's how I feel in the way that he acts. It's like manic almost in support of Israel.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -205,10 +245,25 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 
 </details>
 
-- **[Israel](/entities/gpe-israel.md)** supported by this
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:13:58](/episodes/ep-I0OaY6Gryqk.md#t-00-13-58): “totally true it just it's always totally true just a couple of weeks they're going to have nuclear bombs they just lie they lie they lie because they need the bodies they need the people like Joe Kent and then to see him be so disrespected disrespected i mean it's just what they do you know and you know what they're going to do now which what they're already doing they're going to smear and they're going to attack and they're going to threaten Joe Kent here are some of the immediate responses that are already floating online okay you have lindsey graham who's so blackmail blackmail it hurts he wrote the resignation of Joe Kent as the director”
+
+</details>
+
+- **[Joe Kent](/entities/person-joe-kent.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:14:25](/episodes/ep-I0OaY6Gryqk.md#t-00-13-58): “director of National Counterterrorism Center, could not have come at a better time. What? Like in his statement explaining why he's resigning in protest, Mr. Kent is echoing the Democratic talking points, which are devoid of fact or evidence.”
+
+</details>
+
+- **[Israel](/entities/gpe-israel.md)** supported by this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:10:53](/episodes/ep-xjzb_t5Tk9o.md#t-01-10-43): “he's like terrifyingly supportive of Israel.”
+- [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:58:05](/episodes/ep-i8m_6D4QGmk.md#t-00-57-39): “I imagine whatever they have on Lindsey Graham is so far beyond. It's like it's got to be disgusting. That's how I feel in the way that he acts. It's like manic almost in support of Israel.”
 
 </details>
 
@@ -217,7 +272,15 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Lindsey Graham (2)</strong></summary>
+<summary><strong class="section-title">Statements by Lindsey Graham (3)</strong></summary>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1)</summary>
+
+- [00:14:25](/episodes/ep-I0OaY6Gryqk.md#t-00-13-58) [○] (Opinion) ["Joe Kent's resignation echoed Democratic talking points devoid of fact or eviden..."](/statements/statement-5bec48599211.md)
+  - About: [Joe Kent](/entities/person-joe-kent.md), [National Counterterrorism Center](/entities/org-national-counterterrorism-center.md), [Iran](/entities/gpe-iran.md)
+
+</details>
 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>

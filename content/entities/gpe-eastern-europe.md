@@ -1,6 +1,6 @@
 ---
 title: "Eastern Europe"
-description: "Eastern Europe (Places) - 17 mentions"
+description: "Eastern Europe (Places) - 25 mentions"
 id: "gpe-eastern-europe"
 type: "GPE"
 categories:
@@ -17,11 +17,11 @@ Source: [Eastern Europe | Britannica](https://www.britannica.com/place/eastern-E
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#t-00-14-06">2026-01-16 · 00:14:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-eastern-europe-t-00-06-06">2026-03-03 · 00:06:23</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-eastern-europe-t-00-09-54">2026-03-18 · 00:10:07</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -35,6 +35,11 @@ Source: [Eastern Europe | Britannica](https://www.britannica.com/place/eastern-E
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-eastern-europe-t-00-23-59" style="--pulse-height:57%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 4 mentions" title="2026-02-27 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-eastern-europe-t-00-10-20" style="--pulse-height:29%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-eastern-europe-t-00-00-01" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 7 mentions" title="2026-03-03 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-eastern-europe-t-00-13-07" style="--pulse-height:29%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-eastern-europe-t-00-16-37" style="--pulse-height:14%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-eastern-europe-t-00-06-17" style="--pulse-height:71%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 5 mentions" title="2026-03-11 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-eastern-europe-t-00-42-44" style="--pulse-height:14%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-eastern-europe-t-00-09-54" style="--pulse-height:14%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +50,11 @@ Source: [Eastern Europe | Britannica](https://www.britannica.com/place/eastern-E
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-eastern-europe-t-00-23-59) | 4 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-eastern-europe-t-00-10-20) | 2 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-eastern-europe-t-00-00-01) | 7 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-eastern-europe-t-00-13-07) | 2 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-eastern-europe-t-00-16-37) | 1 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-eastern-europe-t-00-06-17) | 5 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-eastern-europe-t-00-42-44) | 1 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-eastern-europe-t-00-09-54) | 1 |
 
 </details>
 </section>
@@ -52,7 +62,62 @@ Source: [Eastern Europe | Britannica](https://www.britannica.com/place/eastern-E
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
+
+**[00:10:07](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-eastern-europe-t-00-09-54)**
+> "next model management. And she was in charge of the point person for the quote unquote model apartments where they put the models that were coming from Eastern Europe and that she was attached in particular to a building on the upper east side."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>
+
+**[00:42:44](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-eastern-europe-t-00-42-44)**
+> "this random country in Eastern Europe"
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (5 mentions)</summary>
+
+**[00:02:41](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-eastern-europe-t-00-06-17)**
+> "Eastern European models."
+
+**[00:06:34](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-eastern-europe-t-00-06-17)**
+> "... models that were coming from Eastern Europe. who were being packed like sardines into apartme..."
+
+**[00:13:58](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-eastern-europe-t-00-13-58)**
+> "...ly do impoverished girls from Eastern Europe, young impoverished girls from Eastern Europe aff..."
+
+**[00:14:12](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-eastern-europe-t-00-13-58)**
+> "...ng money as young models from Eastern Europe? Why is Erika (Erika Kirk) the point person on th..."
+
+**[00:17:41](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-eastern-europe-t-00-17-19)**
+> "...ka Kirk) is always so tied to Eastern Europe? Why is she just like kind of floating around thi..."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1 mentions)</summary>
+
+**[00:16:37](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-eastern-europe-t-00-16-37)**
+> "trafficking women from from Eastern Europe through modeling agencies."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (2 mentions)</summary>
+
+**[00:13:07](/episodes/ep-y8lak3CRwDw.md#ent-gpe-eastern-europe-t-00-13-07)**
+> "...n training military forces in Eastern Europe. OK, they're training them in counterinsurgency t..."
+
+**[00:33:53](/episodes/ep-y8lak3CRwDw.md#ent-gpe-eastern-europe-t-00-33-53)**
+> "...uffing around in romania like eastern europe at the same time everybody's got these military t..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (7 mentions)</summary>
@@ -124,17 +189,6 @@ Source: [Eastern Europe | Britannica](https://www.britannica.com/place/eastern-E
 
 </details>
 
-<details>
-<summary>ep-y8lak3CRwDw (2 mentions)</summary>
-
-**[00:13:07](/episodes/ep-y8lak3CRwDw.md#t-00-13-07)**
-> "...n training military forces in Eastern Europe. OK, they're training them in counterinsurgency t..."
-
-**[00:33:53](/episodes/ep-y8lak3CRwDw.md#t-00-33-53)**
-> "...uffing around in romania like eastern europe at the same time everybody's got these military t..."
-
-</details>
-
 </details>
 
 <details open>
@@ -145,7 +199,23 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Eastern Europe (3)</strong></summary>
+<summary><strong class="section-title">Statements about Eastern Europe (5)</strong></summary>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1)</summary>
+
+- [00:16:37](/episodes/ep-ZzAT2xijKGQ.md#t-00-16-37) (Accusation) **Candace Owens**: ["Jeffrey Epstein trafficked women from Eastern Europe through modeling ..."](/statements/statement-4e39a37e5035.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1)</summary>
+
+- [00:12:41](/episodes/ep-y8lak3CRwDw.md#t-00-12-32) (Citation) **Candace Owens**: ["An article said six Marines from Reno in Black Sea Rotational Force 11..."](/statements/statement-fe4d6dfc21c7.md)
+  - Also about: [Black Sea Rotational Force](/entities/org-black-sea-rotational-force.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md), [Reno, Nevada](/entities/gpe-reno-nevada.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (2)</summary>

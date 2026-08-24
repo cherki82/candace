@@ -1,6 +1,6 @@
 ---
 title: "Iran"
-description: "Iran (Places) - 62 mentions"
+description: "Iran (Places) - 132 mentions"
 id: "gpe-iran"
 type: "GPE"
 aliases:
@@ -24,34 +24,41 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-gpe-iran-t-00-35-19">2025-09-22 · 00:35:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54">2026-08-14 · 00:28:54</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>62</strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>132</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>52</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-02-32">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (15 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-00-23">WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312</a> (23 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ja26iltROkM.md#ent-gpe-iran-t-00-35-19" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UBkFkg4UNY8.md#ent-gpe-iran-t-00-37-27" style="--pulse-height:8%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-20-29" style="--pulse-height:33%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 5 mentions" title="2025-09-24 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-20-29" style="--pulse-height:22%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 5 mentions" title="2025-09-24 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-gpe-iran-t-00-00-00" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-gpe-iran-t-00-04-45" style="--pulse-height:8%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#ent-gpe-iran-t-00-50-59" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-iran-t-00-07-09" style="--pulse-height:47%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 7 mentions" title="2025-11-08 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iran-t-00-08-59" style="--pulse-height:40%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 6 mentions" title="2025-11-12 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-iran-t-00-07-09" style="--pulse-height:30%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 7 mentions" title="2025-11-08 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iran-t-00-08-59" style="--pulse-height:26%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 6 mentions" title="2025-11-12 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-iran-t-00-13-15" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-02-32" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 15 mentions" title="2026-01-13 · 15 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-iran-t-00-46-00" style="--pulse-height:20%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-iran-t-00-55-12" style="--pulse-height:20%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-iran-t-00-35-10" style="--pulse-height:13%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-iran-t-00-05-17" style="--pulse-height:13%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-4YgrOhhy708.md#ent-gpe-iran-t-00-28-49" style="--pulse-height:27%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 4 mentions" title="2026-02-09 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-iran-t-00-00-00" style="--pulse-height:53%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 8 mentions" title="2026-03-02 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-02-32" style="--pulse-height:65%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 15 mentions" title="2026-01-13 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-iran-t-00-46-00" style="--pulse-height:13%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-iran-t-00-55-12" style="--pulse-height:13%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-iran-t-00-35-10" style="--pulse-height:9%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-iran-t-00-05-17" style="--pulse-height:9%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-gpe-iran-t-00-28-49" style="--pulse-height:17%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 4 mentions" title="2026-02-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-iran-t-00-00-00" style="--pulse-height:35%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 8 mentions" title="2026-03-02 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-iran-t-00-58-48" style="--pulse-height:9%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-iran-t-00-00-00" style="--pulse-height:57%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 13 mentions" title="2026-03-09 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-iran-t-00-05-32" style="--pulse-height:8%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-iran-t-00-10-31" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-00-23" style="--pulse-height:100%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 23 mentions" title="2026-03-17 · 23 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-00-00" style="--pulse-height:100%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 23 mentions" title="2026-03-17 · 23 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-iran-t-00-02-04" style="--pulse-height:17%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 4 mentions" title="2026-03-23 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -74,6 +81,13 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-iran-t-00-05-17) | 2 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-gpe-iran-t-00-28-49) | 4 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-iran-t-00-00-00) | 8 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-iran-t-00-58-48) | 2 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-iran-t-00-00-00) | 13 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-iran-t-00-05-32) | 1 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-iran-t-00-10-31) | 1 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-00-23) | 23 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-00-00) | 23 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-iran-t-00-02-04) | 4 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54) | 1 |
 
 </details>
@@ -82,13 +96,249 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (62)</strong></summary>
+<summary><strong class="section-title">Raw mentions (132)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:28:54](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54)**
 > "opposed the Iranian war"
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (4 mentions)</summary>
+
+**[00:02:04](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-iran-t-00-02-04)**
+> "stop us from getting into a war with Iran"
+
+**[00:02:11](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-iran-t-00-02-11)**
+> "... for us to not go to war with Iran and for us to rethink at least our relationship w..."
+
+**[00:03:30](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-iran-t-00-03-17)**
+> "...t Trump against this war with Iran. And we knew at the end of the 12-day war, at the..."
+
+**[00:12:27](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-iran-t-00-12-27)**
+> "...s released his messages about iran you hear joe kent telling you The last time he sa..."
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (23 mentions)</summary>
+
+**[00:00:23](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-00-23)**
+> ".... Oh, Scorpio. We did this in Iran."
+
+**[00:10:54](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-10-41)**
+> "... neocon criminals over war in Iran telling Trump (Donald J. Trump) not to do it. And..."
+
+**[00:11:05](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-10-41)**
+> "...p) not to initiate a war with Iran."
+
+**[00:11:17](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-11-17)**
+> "...ny proponents of the war with Iran saw a U.S. attack as urgently necessary to the su..."
+
+**[00:22:43](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-22-43)**
+> "...t think through the fact that Iran could just close the Strait of Hormuz okay now in..."
+
+**[00:23:08](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-23-08)**
+> "...na show you this on a map and iran's just like we're gonna shut that down because we..."
+
+**[00:23:45](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-23-45)**
+> "...than bb wanted the fight with iran because they actually want to control that and th..."
+
+**[00:24:11](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-24-11)**
+> "...mly bombed 200 schoolgirls in Iran, and then we lied about it. I didn't lie about it..."
+
+**[00:24:56](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-24-56)**
+> "...t in the Straits right now is Iran shooting at shipping. It is open for transit shou..."
+
+**[00:25:07](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-25-07)**
+> "So it will be open if Iran didn't do that, they weren't shooting, and if the..."
+
+**[00:25:19](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-25-07)**
+> "...ed to realize is the issue is Iran responding to the illegal war that we started not..."
+
+**[00:27:30](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-27-09)**
+> "...sm of the U.S.-Israeli war on Iran, describing it as part of a growing and dangerous..."
+
+**[00:31:36](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-31-27)**
+> "...is for getting us involved in Iran."
+
+**[00:35:38](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-35-38)**
+> "... it right before we went into iran they started faking polls in such an egregious ma..."
+
+**[00:36:57](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-36-57)**
+> "...disastrous decision to attack Iran."
+
+**[00:37:46](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-37-36)**
+> "...the ground and delivering you Iran. It turns out you still need real human beings fo..."
+
+**[00:41:02](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-41-02)**
+> "... they were going to take down Iran. Like, we're talking about Persia. This is like h..."
+
+**[00:41:47](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-41-38)**
+> "...e? Well, talking to people in Iran before the war."
+
+**[00:45:40](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-45-40)**
+> "...believe are taking money from Iran, Russia, and Qatar."
+
+**[00:46:07](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-45-40)**
+> "...m Qatar and taking money from Iran and taking which, by the way, that would be that ..."
+
+**[00:46:48](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-46-48)**
+> "...We're going to start a war in Iran. People were asking questions about Charlie Kirk...."
+
+**[00:47:45](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-47-25)**
+> "...obal implications, my friend. Iran will be empowered by this. People will just go di..."
+
+**[00:50:44](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iran-t-00-50-39)**
+> "No war with Iran. Release the Epstein files and audit TP-USA. Henc..."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (23 mentions)</summary>
+
+**[00:00:27](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-00-00)**
+> "Iran"
+
+**[00:02:20](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-02-06)**
+> "...mebody else go fight, beat up Iran for me?' And so now he's looking at India, and he..."
+
+**[00:04:57](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-04-47)**
+> "...ce support the ongoing war in Iran. Iran posed no imminent threat to our nation, and..."
+
+**[00:05:37](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-05-30)**
+> "...ments to encourage a war with Iran."
+
+**[00:05:57](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-05-30)**
+> "...ceive you into believing that Iran posed an imminent threat to the United States and..."
+
+**[00:06:37](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-06-12)**
+> "...ect upon what we are doing in Iran and who we are doing it for."
+
+**[00:08:07](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-08-07)**
+> "...'t support your conflict with Iran."
+
+**[00:08:29](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-08-17)**
+> "...he's out because he said that Iran was not a threat."
+
+**[00:08:37](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-08-17)**
+> "Iran was a threat. Every country realized what a threa..."
+
+**[00:08:45](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-08-17)**
+> "...sidents should have taken out Iran because they wanted a nuclear weapon."
+
+**[00:08:54](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-08-54)**
+> "...er, if I didn't terminate the Iran nuclear deal given to us, one of the worst deals ..."
+
+**[00:09:37](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-09-37)**
+> "...ut it into planes, sent it to Iran almost as ransom."
+
+**[00:09:56](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-09-37)**
+> "...rrible deal that he made, the Iran nuclear deal, you would have had a nuclear war fo..."
+
+**[00:11:26](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-11-26)**
+> "...re is no imminent threat with Iran. And because he can't articulate one, he just thr..."
+
+**[00:11:42](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-11-26)**
+> "What are we doing in Iran right now?"
+
+**[00:12:57](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-12-57)**
+> "...y, warning us about how close Iran was to nukes. Always on the brink of nukes over t..."
+
+**[00:13:09](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-13-09)**
+> "If not stopped, Iran could produce a nuclear weapon in a very short ti..."
+
+**[00:13:17](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-13-09)**
+> "...ckly if they wanted to do it. Iran is so dangerous, weeks away from having the fissi..."
+
+**[00:13:31](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-13-09)**
+> "...hed uranium for an atom bomb. Iran is gearing up to produce 25 atomic bombs a year, ..."
+
+**[00:13:50](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-13-50)**
+> "Iran will be capable of producing alone, without impor..."
+
+**[00:14:59](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-00-14-38)**
+> "...the military campaign against Iran."
+
+**[01:01:21](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-01-01-03)**
+> "...o our government's actions in Iran. And I would hate if everybody thought that we we..."
+
+**[01:01:26](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iran-t-01-01-03)**
+> "...ng with what was happening in Iran. on. Very funny, by the way, one of the, I think ..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>
+
+**[00:10:38](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-iran-t-00-10-31)**
+> "...Jared Kushner told me to bomb Iran. He told me that they might preemptively strike."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1 mentions)</summary>
+
+**[00:05:32](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-iran-t-00-05-32)**
+> "when they bombed Iran"
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (13 mentions)</summary>
+
+**[00:00:00](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-iran-t-00-00-00)**
+> "Iran is literally on fire."
+
+**[00:00:38](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-iran-t-00-00-38)**
+> "... first casualty of the war in Iran. And it's also my belief that he was intentionall..."
+
+**[00:08:27](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-iran-t-00-08-08)**
+> "... first casualty of the war in Iran. I'm certain of that."
+
+**[00:41:28](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-iran-t-00-41-20)**
+> "...ahu) instructed Trump to bomb Iran almost immediately and, gratefully, because Charl..."
+
+**[00:42:00](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-iran-t-00-41-20)**
+> "...tates is preemptively bombing Iran."
+
+**[00:42:04](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-iran-t-00-42-04)**
+> "...ause Israel was going to bomb Iran. So we went ahead and did it for them just in cas..."
+
+**[00:43:07](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-iran-t-00-42-59)**
+> "...o prevent Israel from bombing Iran? Prevent Iran from retaliating by going after Ame..."
+
+**[00:47:30](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-iran-t-00-47-19)**
+> "...urrently, we are neutralising Iran's command and control system and Iran's capacity ..."
+
+**[00:49:18](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-iran-t-00-48-55)**
+> "...ses in the Middle East, which Iran has been threatening for 47 years."
+
+**[00:49:31](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-iran-t-00-49-31)**
+> "... Trump was not going to allow Iran to attack our bases and our troops and our men an..."
+
+**[00:51:17](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-iran-t-00-51-09)**
+> "...rwhelmingly support action in Iran? It's so overwhelming that they support what's ha..."
+
+**[00:54:00](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-iran-t-00-53-52)**
+> "...anic mission right now. Go to Iran."
+
+**[00:59:26](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-iran-t-00-58-50)**
+> "...le strategy. Yeah, give it to Iran."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (2 mentions)</summary>
+
+**[00:59:00](/episodes/ep-y8lak3CRwDw.md#ent-gpe-iran-t-00-58-48)**
+> "taking a moral stance on what is happening right now in Iran"
+
+**[00:59:51](/episodes/ep-y8lak3CRwDw.md#ent-gpe-iran-t-00-59-26)**
+> "It's Iran obliterated. Yeah, never mind. It's been around f..."
 
 </details>
 
@@ -355,10 +605,48 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 
 </details>
 
+<details>
+<summary>ep-5m-Wn6Pr5rM (3 mentions)</summary>
+
+**[00:36:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-36-50)**
+> "Iran"
+
+**[00:38:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-38-43)**
+> "...t of a international war like Iran, which would have implications, of course, all ac..."
+
+**[00:49:27](/episodes/ep-5m-Wn6Pr5rM.md#t-00-49-27)**
+> "...hat they said oh they're done iran's done and now trump's like negotiating with iran..."
+
+</details>
+
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Accused By (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:08:37](/episodes/ep-I0OaY6Gryqk.md#t-00-08-17): “Iran was a threat. Every country realized what a threat Iran was. The question is whether or not they wanted to do something about it.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Attacked By (1)</summary>
+
+- **[United States](/entities/gpe-united-states.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:42:00](/episodes/ep-i8m_6D4QGmk.md#t-00-41-20): “The United States is preemptively bombing Iran.”
+
+</details>
+
+</details>
 
 <details>
 <summary>Member Of (1)</summary>
@@ -373,7 +661,33 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Supporter Of (1)</summary>
+
+- **[Kata’ib Hizballah](/entities/org-kataib-hizballah.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:34:19](/episodes/ep-k8ueJdPFel4.md#t-00-33-55): “This is real. U.S. urges citizens to leave Iraq after attack on the embassy in Baghdad because security officials say the embassy complex was struck by a drone after strikes killed three members of the Iran-backed Kata'ib Hezbollah and reportedly wounded its leader.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (4)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:08:37](/episodes/ep-I0OaY6Gryqk.md#t-00-08-17): “Iran was a threat. Every country realized what a threat Iran was. The question is whether or not they wanted to do something about it.”
+
+</details>
+
+- **[United States](/entities/gpe-united-states.md)** attacked this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:42:00](/episodes/ep-i8m_6D4QGmk.md#t-00-41-20): “The United States is preemptively bombing Iran.”
+
+</details>
 
 - **[Safari Club](/entities/org-safari-club.md)** has member this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -382,12 +696,159 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 
 </details>
 
+- **[Kata’ib Hizballah](/entities/org-kataib-hizballah.md)** supported by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:34:19](/episodes/ep-k8ueJdPFel4.md#t-00-33-55): “This is real. U.S. urges citizens to leave Iraq after attack on the embassy in Baghdad because security officials say the embassy complex was struck by a drone after strikes killed three members of the Iran-backed Kata'ib Hezbollah and reportedly wounded its leader.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Iran (14)</strong></summary>
+<summary><strong class="section-title">Statements about Iran (52)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (2)</summary>
+
+- [00:02:04](/episodes/ep-B9TyCs-6o_0.md#t-00-01-51) (Opinion) **Charlie Kirk** (via quoted speech): ["Joe, stop us from getting into a war with Iran."](/statements/statement-86b56ac8e9b6.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:03:30](/episodes/ep-B9TyCs-6o_0.md#t-00-03-17) (Claim) **Joe Kent** (via quoted speech): ["Charlie Kirk advocated to President Trump against war with Iran, and I..."](/statements/statement-949bf4e50b9e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (12)</summary>
+
+- [00:02:20](/episodes/ep-I0OaY6Gryqk.md#t-00-02-06) (Claim) **Candace Owens** (via paraphrase): ["India refused Donald Trump's request to send troops to the Strait of H..."](/statements/statement-ff0edd9ce8a7.md)
+  - Also about: [India](/entities/gpe-india.md), [Donald J. Trump](/entities/person-donald-trump.md), [Strait of Hormuz](/entities/gpe-strait-of-hormuz.md)
+
+- [00:04:57](/episodes/ep-I0OaY6Gryqk.md#t-00-04-47) (Accusation) **Joe Kent** (via quoted document): ["Iran posed no imminent threat to the United States, and the war was st..."](/statements/statement-f11b07d63dca.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Israel lobby](/entities/concept-israel-lobby.md), [United States](/entities/gpe-united-states.md)
+
+- [00:05:37](/episodes/ep-I0OaY6Gryqk.md#t-00-05-30) (Accusation) **Joe Kent** (via quoted document): ["High-ranking Israeli officials and influential American media figures ..."](/statements/statement-8cdebd9bd9a3.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:08:37](/episodes/ep-I0OaY6Gryqk.md#t-00-08-17) (Claim) **Donald J. Trump** (via quoted speech): ["Iran was a threat, and every country recognized the threat Iran posed."](/statements/statement-612f412bb4a3.md)
+
+- [00:08:45](/episodes/ep-I0OaY6Gryqk.md#t-00-08-17) (Claim) **Donald J. Trump** (via quoted speech): ["Many of the greatest military scholars had said for years that preside..."](/statements/statement-c1c370b14fa4.md)
+
+- [00:08:54](/episodes/ep-I0OaY6Gryqk.md#t-00-08-54) (Claim) **Donald J. Trump** (via quoted speech): ["The Obama administration sent one or two Boeing 757s loaded with hundr..."](/statements/statement-bdf3a08a7721.md)
+  - Also about: [Barack Obama](/entities/person-barack-obama.md), [United States](/entities/gpe-united-states.md)
+
+- [00:09:56](/episodes/ep-I0OaY6Gryqk.md#t-00-09-37) (Prediction) **Donald J. Trump** (via quoted speech): ["If Donald Trump had not terminated the Iran nuclear deal, there would ..."](/statements/statement-dde72c7195f1.md)
+  - Also about: [Barack Obama](/entities/person-barack-obama.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:13:09](/episodes/ep-I0OaY6Gryqk.md#t-00-13-09) (Prediction) **Benjamin Netanyahu** (via quoted speech): ["Iran could produce a nuclear weapon within a year or within a few mont..."](/statements/statement-27dbad33ee02.md)
+
+- [00:13:31](/episodes/ep-I0OaY6Gryqk.md#t-00-13-09) (Prediction) **Benjamin Netanyahu** (via quoted speech): ["Iran was gearing up to produce 25 atomic bombs per year and 250 bombs ..."](/statements/statement-0fc010d7510d.md)
+
+- [00:14:25](/episodes/ep-I0OaY6Gryqk.md#t-00-13-58) (Opinion) **Lindsey Graham** (via quoted post): ["Joe Kent's resignation echoed Democratic talking points devoid of fact..."](/statements/statement-5bec48599211.md)
+  - Also about: [Joe Kent](/entities/person-joe-kent.md), [National Counterterrorism Center](/entities/org-national-counterterrorism-center.md)
+
+- [00:47:45](/episodes/ep-I0OaY6Gryqk.md#t-00-47-45) (Claim) **Scott Bessent** (via quoted speech): ["The U.S. mission against Iran was proceeding well ahead of schedule."](/statements/statement-d28a2086693c.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [United States](/entities/gpe-united-states.md)
+
+- [00:53:23](/episodes/ep-I0OaY6Gryqk.md#t-00-53-23) (Claim) **Benjamin Netanyahu** (via quoted speech): ["U.S. forces were doing incredible work alongside Israel, and Israel wa..."](/statements/statement-1f725d1325d2.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [United States Armed Forces](/entities/org-united-states-armed-forces.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (12)</summary>
+
+- [00:11:05](/episodes/ep-k8ueJdPFel4.md#t-00-10-41) (Claim) **Bret Weinstein** (via quoted post): ["On June 18, Bret Weinstein had a text exchange with Charlie Kirk, who ..."](/statements/statement-df4e61f1781a.md)
+  - Also about: [Bret Weinstein](/entities/person-bret-weinstein.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:11:17](/episodes/ep-k8ueJdPFel4.md#t-00-11-17) (Accusation) **Bret Weinstein** (via quoted post): ["It is reasonable to wonder whether Charlie Kirk's refusal to back down..."](/statements/statement-608f4f57505f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+
+- [00:12:06](/episodes/ep-k8ueJdPFel4.md#t-00-12-00) (Opinion) **Charlie Kirk** (via read message): ["Charlie Kirk agreed that advocates of war with Iran had to be shut dow..."](/statements/statement-91deb60253fe.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+
+- [00:22:43](/episodes/ep-k8ueJdPFel4.md#t-00-22-43) (Claim) **Candace Owens**: ["Roughly 25 percent of global liquid petroleum moves through the Strait..."](/statements/statement-4dd135a2d5dd.md)
+  - Also about: [Strait of Hormuz](/entities/gpe-strait-of-hormuz.md)
+
+- [00:24:11](/episodes/ep-k8ueJdPFel4.md#t-00-24-11) (Accusation) **Candace Owens**: ["The United States bombed 200 schoolgirls in Iran, and Donald Trump lie..."](/statements/statement-0358f4434494.md)
+  - Also about: [United States](/entities/gpe-united-states.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:24:56](/episodes/ep-k8ueJdPFel4.md#t-00-24-56) (Claim) **Pete Hegseth** (via quoted speech): ["The only thing prohibiting transit in the Strait of Hormuz is Iran sho..."](/statements/statement-7806b00a98a6.md)
+  - Also about: [Strait of Hormuz](/entities/gpe-strait-of-hormuz.md)
+
+- [00:27:30](/episodes/ep-k8ueJdPFel4.md#t-00-27-09) (Citation) **Candace Owens** (via paraphrase): ["Italian Prime Minister Giorgia Meloni described the U.S.-Israeli war o..."](/statements/statement-68d2c65944a7.md)
+  - Also about: [Giorgia Meloni](/entities/person-giorgia-meloni.md), [United States](/entities/gpe-united-states.md), [Israel](/entities/gpe-israel.md)
+
+- [00:37:57](/episodes/ep-k8ueJdPFel4.md#t-00-37-36) (Accusation) **Candace Owens**: ["The overwhelming majority of people in the world sense that Charlie Ki..."](/statements/statement-038056635317.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+
+- [00:41:38](/episodes/ep-k8ueJdPFel4.md#t-00-41-38) (Accusation) **Tucker Carlson** (via quoted speech): ["The CIA is preparing a criminal referral against Tucker Carlson to the..."](/statements/statement-f7a505a28269.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md)
+
+- [00:41:55](/episodes/ep-k8ueJdPFel4.md#t-00-41-38) (Accusation) **Tucker Carlson** (via quoted speech): ["Authorities read Tucker Carlson's texts and were apparently considerin..."](/statements/statement-c4d3ce4007e4.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Foreign Agents Registration Act](/entities/law-fara.md)
+
+- [00:44:10](/episodes/ep-k8ueJdPFel4.md#t-00-43-43) (Opinion) **Candace Owens**: ["Americans should conscientiously object to the war and use legal means..."](/statements/statement-1bf69b750f6c.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+- [00:45:40](/episodes/ep-k8ueJdPFel4.md#t-00-45-40) (Accusation) **Laura Loomer** (via quoted tweet): ["Laura Loomer created a list of conservative influencers she believes t..."](/statements/statement-9aff611619c4.md)
+  - Also about: [Laura Loomer](/entities/person-laura-loomer.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Russia](/entities/gpe-russia.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1)</summary>
+
+- [00:10:38](/episodes/ep-5-HUyv9LyMg.md#t-00-10-31) (Claim) **Candace Owens**: ["Donald Trump admitted that Jared Kushner told him to bomb Iran and tha..."](/statements/statement-f432a013f318.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Jared Kushner](/entities/person-jared-kushner.md)
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (10)</summary>
+
+- [00:00:38](/episodes/ep-i8m_6D4QGmk.md#t-00-00-38) (Opinion) **Candace Owens**: ["Charlie Kirk was the first casualty of the war in Iran."](/statements/statement-2631d93a742e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:41:28](/episodes/ep-i8m_6D4QGmk.md#t-00-41-20) (Accusation) **Candace Owens**: ["Benjamin Netanyahu instructed Trump to bomb Iran, initially limiting t..."](/statements/statement-e68e8a88e688.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:42:00](/episodes/ep-i8m_6D4QGmk.md#t-00-41-20) (Claim) **Candace Owens**: ["The United States is preemptively bombing Iran."](/statements/statement-6e31f3a4c1f9.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+- [00:42:27](/episodes/ep-i8m_6D4QGmk.md#t-00-42-27) (Claim) **Marco Rubio** (via quoted speech): ["The United States knew Israeli action would precipitate an attack on A..."](/statements/statement-d70f814454fc.md)
+  - Also about: [United States](/entities/gpe-united-states.md), [Israel](/entities/gpe-israel.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:43:24](/episodes/ep-i8m_6D4QGmk.md#t-00-42-59) (Accusation) **Candace Owens**: ["The United States murdered 150 Iranian schoolgirls between ages seven ..."](/statements/statement-45ee3b83b186.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+- [00:47:51](/episodes/ep-i8m_6D4QGmk.md#t-00-47-51) (Claim) **Benjamin Gantz** (via quoted speech): ["Benny Gantz would not exclude boots on the ground and said every neces..."](/statements/statement-9be8260b42e5.md)
+  - Also about: [Benjamin Gantz](/entities/person-benjamin-gantz.md), [Israel](/entities/gpe-israel.md)
+
+- [00:48:55](/episodes/ep-i8m_6D4QGmk.md#t-00-48-55) (Claim) **Karoline Leavitt** (via quoted speech): ["Ground troops are not in the current plan, but President Trump is keep..."](/statements/statement-13aa6eaf8a7d.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:49:31](/episodes/ep-i8m_6D4QGmk.md#t-00-49-31) (Claim) **Karoline Leavitt** (via quoted speech): ["Iran has killed and maimed thousands of American soldiers."](/statements/statement-d184a7b85669.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+- [00:49:31](/episodes/ep-i8m_6D4QGmk.md#t-00-49-31) (Claim) **Karoline Leavitt** (via quoted speech): ["President Trump launched Operation Epic Fury to prevent Iran from atta..."](/statements/statement-b0ea72ebce75.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Operation Epic Fury](/entities/event-operation-epic-fury.md), [United States](/entities/gpe-united-states.md)
+
+- [00:50:13](/episodes/ep-i8m_6D4QGmk.md#t-00-49-48) (Prediction) **Candace Owens**: ["The question is not if but when the option of ground involvement will ..."](/statements/statement-1a7aebfec684.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1)</summary>
+
+- [00:45:58](/episodes/ep-y8lak3CRwDw.md#t-00-45-58) (Accusation) **Candace Owens**: ["People now running Turning Point USA are making up positions Charlie K..."](/statements/statement-d15d92721310.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (4)</summary>

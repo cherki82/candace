@@ -2,7 +2,7 @@
 title: "Episodes"
 ---
 
-_Total episodes: 84_
+_Total episodes: 93_
 
 <div class="page-filter-container">
   <input type="text" class="page-filter" placeholder="Filter episodes..." autocomplete="off">
@@ -27,12 +27,28 @@ _Total episodes: 84_
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md) — Fri, Aug 14
 
-## Week of Jun 15 - 21, 2026
+## Week of Mar 23 - 29, 2026
 
-- [Judy Fan - DISI 2021 - Cognitive Technologies for Making the Invisible Visible](/episodes/ep-yt-koVDYXSIfYo.md) — Fri, Jun 19
+- [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md) — Tue, Mar 24
+- [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md) — Mon, Mar 23
+
+## Week of Mar 16 - 22, 2026
+
+- [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md) — Wed, Mar 18
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md) — Tue, Mar 17
+- [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md) — Tue, Mar 17
+
+## Week of Mar 09 - 15, 2026
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md) — Thu, Mar 12
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md) — Wed, Mar 11
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md) — Tue, Mar 10
+- [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md) — Mon, Mar 09
 
 ## Week of Mar 02 - 08, 2026
 
+- [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md) — Fri, Mar 06
+- [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md) — Wed, Mar 04
 - [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md) — Tue, Mar 03
 - [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md) — Mon, Mar 02
 
@@ -171,7 +187,3 @@ _Total episodes: 84_
 ## Week of Sep 08 - 14, 2025
 
 - [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md) — Thu, Sep 11
-
-## Week of Apr 07 - 13, 2025
-
-- [Prof. Judy Fan: Cognitive Tools for Making the Invisible Visible](/episodes/ep-AF3XJT9YKpM.md) — Tue, Apr 08

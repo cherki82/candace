@@ -3,17 +3,26 @@ title: "Thousand Oaks"
 description: "Thousand Oaks (Places) - 17 mentions"
 id: "gpe-thousand-oaks"
 type: "GPE"
+categories:
+  - "city"
+  - "California"
 ---
 
 _Type: Places_
 
+**Categories:** city, California
+
+**Entity verification:** verified
+> Contemporaneous reporting identifies Thousand Oaks, California as the location of Borderline Bar & Grill.
+Source: [Navy Veteran Survived Las Vegas Shooting Only to Be Killed in the Borderline Bar](https://time.com/5450351/tel-orfanos-survived-las-vegas-shooting-killed-borderline/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-thousand-oaks-t-00-14-58">2025-10-31 · 00:15:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-thousand-oaks-t-00-51-52">2025-11-19 · 00:51:52</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-thousand-oaks-t-00-39-31">2026-03-04 · 00:39:48</a></strong></div>
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -28,6 +37,7 @@ _Type: Places_
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-thousand-oaks-t-00-45-05" style="--pulse-height:50%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-thousand-oaks-t-00-03-30" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 4 mentions" title="2025-11-15 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-thousand-oaks-t-00-51-52" style="--pulse-height:25%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-thousand-oaks-t-00-39-31" style="--pulse-height:25%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -39,6 +49,7 @@ _Type: Places_
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-thousand-oaks-t-00-45-05) | 2 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-thousand-oaks-t-00-03-30) | 4 |
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-thousand-oaks-t-00-51-52) | 1 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-thousand-oaks-t-00-39-31) | 1 |
 
 </details>
 </section>
@@ -47,6 +58,14 @@ _Type: Places_
 
 <details>
 <summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
+
+**[00:39:48](/episodes/ep-y8lak3CRwDw.md#ent-gpe-thousand-oaks-t-00-39-31)**
+> "...e lost two congregants in the Thousand Oaks shooting at the Borderline Bar in 2018. And then ..."
+
+</details>
 
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
@@ -126,14 +145,6 @@ _Type: Places_
 
 </details>
 
-<details>
-<summary>ep-y8lak3CRwDw (1 mentions)</summary>
-
-**[00:39:48](/episodes/ep-y8lak3CRwDw.md#t-00-39-48)**
-> "...e lost two congregants in the Thousand Oaks shooting at the Borderline Bar in 2018. And then ..."
-
-</details>
-
 </details>
 
 <details open>
@@ -166,7 +177,15 @@ _Type: Places_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Thousand Oaks (4)</strong></summary>
+<summary><strong class="section-title">Statements about Thousand Oaks (5)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1)</summary>
+
+- [00:39:48](/episodes/ep-y8lak3CRwDw.md#t-00-39-31) (Claim) **Candace Owens**: ["Rob McCoy lost two congregants in the 2018 Thousand Oaks Borderline Ba..."](/statements/statement-804704e47bf6.md)
+  - Also about: [Rob McCoy](/entities/person-rob-mccoy.md), [Borderline Bar and Grill](/entities/org-borderline-bar-and-grill.md)
+
+</details>
 
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2)</summary>

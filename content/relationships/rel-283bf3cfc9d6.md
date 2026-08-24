@@ -11,7 +11,11 @@ object: "org-turning-point-usa"
 
 ## [Aubrey Laitsch](/entities/person-aubrey-laitsch) formerly worked for [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30)**
+
+- [00:19:47](/episodes/ep-SgVcnx4Oh30#t-00-19-47): _Aubrey (TPUSA staffer; surname unverified), who's got to be the boss that day._
 
 **[An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ)**
 

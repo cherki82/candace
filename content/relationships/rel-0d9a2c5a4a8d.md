@@ -1,15 +1,15 @@
 ---
-title: "B'nai B'rith founded Anti-Defamation League"
-description: "Evidence for the relationship: B'nai B'rith founded Anti-Defamation League"
+title: "B'nai B'rith International founded Anti-Defamation League"
+description: "Evidence for the relationship: B'nai B'rith International founded Anti-Defamation League"
 relationship_id: "rel-0d9a2c5a4a8d"
-subject: "org-b-nai-b-rith"
+subject: "org-bnai-brith-international"
 predicate: "founded"
 object: "org-anti-defamation-league"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [B'nai B'rith](/entities/org-b-nai-b-rith) founded [Anti-Defamation League](/entities/org-anti-defamation-league)
+## [B'nai B'rith International](/entities/org-bnai-brith-international) founded [Anti-Defamation League](/entities/org-anti-defamation-league)
 
 ### Evidence (1 mentions)
 
@@ -19,5 +19,5 @@ object: "org-anti-defamation-league"
 
 ### Related
 
-- [B'nai B'rith](/entities/org-b-nai-b-rith)
+- [B'nai B'rith International](/entities/org-bnai-brith-international)
 - [Anti-Defamation League](/entities/org-anti-defamation-league)

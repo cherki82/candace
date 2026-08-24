@@ -1,6 +1,6 @@
 ---
 title: "John Yep"
-description: "John Yep (People) - 3 mentions"
+description: "John Yep (People) - 6 mentions"
 id: "person-john-yep"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [John Yep Shares Final Heartfelt Salute | Catholics for Catholics](https
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-john-yep-t-00-35-13">2026-02-03 · 00:35:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-john-yep-t-00-36-39">2026-02-03 · 00:36:39</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-john-yep-t-00-58-25">2026-03-17 · 00:58:33</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -32,12 +32,14 @@ Source: [John Yep Shares Final Heartfelt Salute | Catholics for Catholics](https
 <p>Highest activity: <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-john-yep-t-00-35-13">CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-john-yep-t-00-35-13" style="--pulse-height:100%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 3 mentions" title="2026-02-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-john-yep-t-00-24-36" style="--pulse-height:100%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-john-yep-t-00-35-13) | 3 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-john-yep-t-00-24-36) | 3 |
 
 </details>
 </section>
@@ -45,7 +47,21 @@ Source: [John Yep Shares Final Heartfelt Salute | Catholics for Catholics](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (3 mentions)</summary>
+
+**[00:24:36](/episodes/ep-I0OaY6Gryqk.md#ent-person-john-yep-t-00-24-36)**
+> "John Yep"
+
+**[00:25:50](/episodes/ep-I0OaY6Gryqk.md#ent-person-john-yep-t-00-25-50)**
+> "...g through. It is what Johnny (John Yep) is getting a very small taste of. He's just like..."
+
+**[00:58:33](/episodes/ep-I0OaY6Gryqk.md#ent-person-john-yep-t-00-58-25)**
+> "...hat they were putting Johnny (John Yep) through, who has never done anything wrong, beca..."
+
+</details>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (3 mentions)</summary>

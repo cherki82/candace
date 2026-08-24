@@ -1,6 +1,6 @@
 ---
 title: "Brooklyn, New York"
-description: "Brooklyn, New York (Places) - 1 mention"
+description: "Brooklyn, New York (Places) - 2 mentions"
 id: "gpe-brooklyn-new-york"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [Office of the Brooklyn Borough President](https://www.brooklynbp.nyc.go
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-brooklyn-new-york-t-00-45-06">2026-01-19 · 00:45:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-brooklyn-new-york-t-00-45-06">2026-01-19 · 00:45:09</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#t-00-10-33">2026-03-18 · 00:10:33</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,12 +36,14 @@ Source: [Office of the Brooklyn Borough President](https://www.brooklynbp.nyc.go
 <p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-brooklyn-new-york-t-00-45-06">A Legal Turning Point? | Candace Ep 292</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-brooklyn-new-york-t-00-45-06" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#t-00-10-33" style="--pulse-height:100%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-brooklyn-new-york-t-00-45-06) | 1 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#t-00-10-33) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [Office of the Brooklyn Borough President](https://www.brooklynbp.nyc.go
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
+
+**[00:10:33](/episodes/ep-_vg7ucP1E0g.md#t-00-10-33)**
+> "She shares that she's location scouting in Williamsburg, Brooklyn."
+
+</details>
 
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>

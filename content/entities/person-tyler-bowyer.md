@@ -1,10 +1,11 @@
 ---
 title: "Tyler Bowyer"
-description: "Tyler Bowyer (People) - 145 mentions"
+description: "Tyler Bowyer (People) - 189 mentions"
 id: "person-tyler-bowyer"
 type: "PERSON"
 aliases:
   - "Tyler Boyer"
+  - "Tyler Storm Bowyer"
 categories:
   - "Turning Point USA"
   - "United States politics"
@@ -12,7 +13,7 @@ categories:
 
 _Type: People_
 
-**Also known as:** Tyler Boyer
+**Also known as:** Tyler Boyer, Tyler Storm Bowyer
 
 **Categories:** Turning Point USA, United States politics
 
@@ -22,12 +23,12 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-tyler-bowyer-t-00-41-28">2025-09-29 · 00:41:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-person-tyler-bowyer-t-00-56-00">2026-03-03 · 00:56:12</a></strong></div>
-<div><span>Episodes</span><strong>35</strong></div>
-<div><span>Mentions</span><strong>145</strong></div>
-<div><span>Statements by</span><strong>6</strong></div>
-<div><span>Statements about</span><strong>38</strong></div>
-<div><span>Relationships</span><strong>35</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-tyler-bowyer-t-00-39-08">2026-03-24 · 00:39:08</a></strong></div>
+<div><span>Episodes</span><strong>44</strong></div>
+<div><span>Mentions</span><strong>189</strong></div>
+<div><span>Statements by</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>57</strong></div>
+<div><span>Relationships</span><strong>56</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -69,6 +70,15 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-person-tyler-bowyer-t-00-24-43" style="--pulse-height:61%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 11 mentions" title="2026-02-27 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-tyler-bowyer-t-00-00-42" style="--pulse-height:50%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 9 mentions" title="2026-02-28 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-person-tyler-bowyer-t-00-00-01" style="--pulse-height:89%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 16 mentions" title="2026-03-03 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-person-tyler-bowyer-t-00-00-41" style="--pulse-height:67%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 12 mentions" title="2026-03-04 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-tyler-bowyer-t-00-15-53" style="--pulse-height:61%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 11 mentions" title="2026-03-06 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-tyler-bowyer-t-00-19-44" style="--pulse-height:17%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 3 mentions" title="2026-03-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-tyler-bowyer-t-00-18-32" style="--pulse-height:11%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-tyler-bowyer-t-00-22-38" style="--pulse-height:67%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 12 mentions" title="2026-03-11 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-tyler-bowyer-t-00-13-16" style="--pulse-height:17%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-tyler-bowyer-t-00-07-31" style="--pulse-height:33%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 6 mentions" title="2026-03-18 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#t-00-23-50" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-tyler-bowyer-t-00-38-24" style="--pulse-height:17%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 3 mentions" title="2026-03-24 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -108,6 +118,15 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-person-tyler-bowyer-t-00-24-43) | 11 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-person-tyler-bowyer-t-00-00-42) | 9 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-tyler-bowyer-t-00-00-01) | 16 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-person-tyler-bowyer-t-00-00-41) | 12 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-tyler-bowyer-t-00-15-53) | 11 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-tyler-bowyer-t-00-19-44) | 3 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-tyler-bowyer-t-00-18-32) | 2 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-person-tyler-bowyer-t-00-22-38) | 12 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-tyler-bowyer-t-00-13-16) | 3 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-tyler-bowyer-t-00-07-31) | 6 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#t-00-23-50) | 1 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-tyler-bowyer-t-00-38-24) | 3 |
 
 </details>
 </section>
@@ -115,7 +134,211 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (145)</strong></summary>
+<summary><strong class="section-title">Raw mentions (189)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (3 mentions)</summary>
+
+**[00:38:55](/episodes/ep-SgVcnx4Oh30.md#ent-person-tyler-bowyer-t-00-38-24)**
+> "It could be Erika Kirk and Tyler Bowyer."
+
+**[00:39:00](/episodes/ep-SgVcnx4Oh30.md#ent-person-tyler-bowyer-t-00-38-24)**
+> "... believe Erika Kirk flew with Tyler Bowyer. And another person told us Tyler Bowyer was in e..."
+
+**[00:39:08](/episodes/ep-SgVcnx4Oh30.md#ent-person-tyler-bowyer-t-00-39-08)**
+> "... and I do know Erika Kirk and Tyler Bowyer were together."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1 mentions)</summary>
+
+**[00:23:50](/episodes/ep-B9TyCs-6o_0.md#t-00-23-50)**
+> "And you shouldn't have even taken off. Nothing. Okay. I'm showing you this is Charlie's plane. And that plane is going to leave at 2.31 p.m. from Scottsdale and land into Provo at 3.31 p.m. And we're going to be told that Erika and Tyler and Elizabeth McCoy and Stacey Sheridan are on this plane."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (6 mentions)</summary>
+
+**[00:07:31](/episodes/ep-_vg7ucP1E0g.md#ent-person-tyler-bowyer-t-00-07-31)**
+> "I'm just wondering how is she affording to live, okay? She's still dating. J.T. Massey. During this time, we also have that on July 11th, Lori Frantzve and Tyler Bowyer and Erika (Erika Kirk) are going to be behind Donald Trump for his presidential campaign rally."
+
+**[00:07:52](/episodes/ep-_vg7ucP1E0g.md#ent-person-tyler-bowyer-t-00-07-31)**
+> "...k) thinks that she met Tyler (Tyler Bowyer) at that rally, but Tyler (Tyler Bowyer) tells th..."
+
+**[00:21:35](/episodes/ep-_vg7ucP1E0g.md#ent-person-tyler-bowyer-t-00-21-00)**
+> "She gets invited by Tyler (Tyler Bowyer), who she doesn't know how she knows, but he intr..."
+
+**[00:22:12](/episodes/ep-_vg7ucP1E0g.md#ent-person-tyler-bowyer-t-00-22-12)**
+> "...once again, it is arranged by Tyler Bowyer for Erika (Erika Kirk) to meet Charlie (Charlie K..."
+
+**[00:28:46](/episodes/ep-_vg7ucP1E0g.md#ent-person-tyler-bowyer-t-00-28-35)**
+> "...a's (Erika Kirk's) mother and Tyler Bowyer are on the board of."
+
+**[00:29:11](/episodes/ep-_vg7ucP1E0g.md#ent-person-tyler-bowyer-t-00-29-11)**
+> "...n't remember is how she knows Tyler Bowyer even though he is in business with her mother and..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (3 mentions)</summary>
+
+**[00:13:33](/episodes/ep-5-HUyv9LyMg.md#ent-person-tyler-bowyer-t-00-13-16)**
+> "Tyler Bowyer, the Farnsworths, and the Turning Point staff bei..."
+
+**[00:24:07](/episodes/ep-5-HUyv9LyMg.md#ent-person-tyler-bowyer-t-00-24-07)**
+> "Her defense of sexual deviant Tyler Bowyer. How do these people know each other? The way in ..."
+
+**[00:42:56](/episodes/ep-5-HUyv9LyMg.md#ent-person-tyler-bowyer-t-00-42-56)**
+> "...Point Action, which is run by Tyler Bowyer and which kicks money back to Erika Kirk's mother..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (12 mentions)</summary>
+
+**[00:22:38](/episodes/ep-H9p2ZGHAs9A.md#ent-person-tyler-bowyer-t-00-22-38)**
+> "...d on social media with Tyler (Tyler Bowyer) because he gets a little snippy on social media,..."
+
+**[00:23:00](/episodes/ep-H9p2ZGHAs9A.md#ent-person-tyler-bowyer-t-00-22-38)**
+> "Tyler (Tyler Bowyer) says that."
+
+**[00:23:53](/episodes/ep-H9p2ZGHAs9A.md#ent-person-tyler-bowyer-t-00-23-53)**
+> ".... In 2010, the very year that Tyler Bowyer went over to Romania, Arizona State University be..."
+
+**[00:25:42](/episodes/ep-H9p2ZGHAs9A.md#ent-person-tyler-bowyer-t-00-25-12)**
+> "...s is weird. Do not let Tyler (Tyler Bowyer) gaslight you in conversations. It's odd. This sh..."
+
+**[00:25:53](/episodes/ep-H9p2ZGHAs9A.md#ent-person-tyler-bowyer-t-00-25-53)**
+> "...uarters, a location picked by Tyler Bowyer. Charlie Kirk didn't even open the organization. ..."
+
+**[00:26:08](/episodes/ep-H9p2ZGHAs9A.md#ent-person-tyler-bowyer-t-00-25-53)**
+> "...Kirk)'s strange attachment to Tyler Bowyer, but lack of a memory regarding Tyler Bowyer? Sup..."
+
+**[00:26:36](/episodes/ep-H9p2ZGHAs9A.md#ent-person-tyler-bowyer-t-00-26-36)**
+> "...dly getting into real estate, Tyler Bowyer being at the forefront of that, according to the ..."
+
+**[00:30:15](/episodes/ep-H9p2ZGHAs9A.md#ent-person-tyler-bowyer-t-00-29-56)**
+> "...e Hoffman is a dear friend of Tyler Bowyer, a partner of Tyler Bowyer. He formerly used to w..."
+
+**[00:34:19](/episodes/ep-H9p2ZGHAs9A.md#ent-person-tyler-bowyer-t-00-33-57)**
+> "...sworths, Jake Hoffman, Tyler (Tyler Bowyer), thick as thieves."
+
+**[00:38:16](/episodes/ep-H9p2ZGHAs9A.md#ent-person-tyler-bowyer-t-00-37-53)**
+> "...d. And by the way, of course, Tyler Bowyer jumped into the fold because that's his boy."
+
+**[00:38:39](/episodes/ep-H9p2ZGHAs9A.md#ent-person-tyler-bowyer-t-00-38-28)**
+> "... because that's obviously who Tyler Bowyer is, and these were Charlie (Charlie Kirk)'s best ..."
+
+**[00:22:28](/episodes/ep-H9p2ZGHAs9A.md#ent-person-tyler-bowyer-t-00-21-54)**
+> "And speaking of the ick, we should talk about Tyler Bowyer, Erika (Erika Kirk)'s friend, her dear friend who introduced her to her husband. But for the life of her, she cannot remember how they met."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (2 mentions)</summary>
+
+**[00:18:56](/episodes/ep-ZzAT2xijKGQ.md#ent-person-tyler-bowyer-t-00-18-32)**
+> "Tyler Bowyer goes out to Constanta"
+
+**[00:19:23](/episodes/ep-ZzAT2xijKGQ.md#ent-person-tyler-bowyer-t-00-19-14)**
+> "...1, I'm sorry, in May of 2011, Tyler Bowyer is going to get unusually elected to the Board of..."
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (3 mentions)</summary>
+
+**[00:19:44](/episodes/ep-i8m_6D4QGmk.md#ent-person-tyler-bowyer-t-00-19-44)**
+> "Tyler Bowyer"
+
+**[00:20:44](/episodes/ep-i8m_6D4QGmk.md#ent-person-tyler-bowyer-t-00-20-18)**
+> "...vately, when he sat down with Tyler Bowyer, he was like, Erika is going to be president."
+
+**[01:06:06](/episodes/ep-i8m_6D4QGmk.md#ent-person-tyler-bowyer-t-01-05-46)**
+> "...ie's memorial, my husband saw Tyler Bowyer and said we need to remember that guy."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (11 mentions)</summary>
+
+**[00:16:07](/episodes/ep-DdPjoy5W-wY.md#ent-person-tyler-bowyer-t-00-15-53)**
+> "...ause it's going to start with Tyler Bowyer and I got rid of everything else with him. It's j..."
+
+**[00:26:19](/episodes/ep-DdPjoy5W-wY.md#ent-person-tyler-bowyer-t-00-26-19)**
+> "...o we had mentioned that after Tyler Bowyer's trip to Romania in 2010, he then gets magically e..."
+
+**[00:26:46](/episodes/ep-DdPjoy5W-wY.md#ent-person-tyler-bowyer-t-00-26-19)**
+> "abnormally just picked Tyler (Tyler Bowyer) into the position. It's not the normal process. ..."
+
+**[00:26:58](/episodes/ep-DdPjoy5W-wY.md#ent-person-tyler-bowyer-t-00-26-58)**
+> "...ate University student Tyler (Tyler Bowyer) was appointed as the newest student regent on th..."
+
+**[00:29:29](/episodes/ep-DdPjoy5W-wY.md#ent-person-tyler-bowyer-t-00-29-29)**
+> "...Erika (Erika Kirk) and Tyler (Tyler Bowyer), both of them being at the Arizona State Univers..."
+
+**[00:30:47](/episodes/ep-DdPjoy5W-wY.md#ent-person-tyler-bowyer-t-00-30-47)**
+> "...ouple of months before Tyler (Tyler Bowyer) gets elected to the Board of Regents, just a cou..."
+
+**[00:31:41](/episodes/ep-DdPjoy5W-wY.md#ent-person-tyler-bowyer-t-00-31-13)**
+> "...is giving there. Okay. Tyler (Tyler Bowyer) visits Romania just before Tyler (Tyler Bowyer) ..."
+
+**[00:41:21](/episodes/ep-DdPjoy5W-wY.md#ent-person-tyler-bowyer-t-00-41-21)**
+> "...ious episodes grew up up with Tyler Bowyer."
+
+**[00:43:30](/episodes/ep-DdPjoy5W-wY.md#ent-person-tyler-bowyer-t-00-43-30)**
+> "...hat happens crucially is that Tyler Bowyer is going to meet Charlie Kirk this year It is sti..."
+
+**[00:59:32](/episodes/ep-DdPjoy5W-wY.md#ent-person-tyler-bowyer-t-00-59-01)**
+> "...issions because I know Tyler (Tyler Bowyer) went to Russia for two years and someone in Russ..."
+
+**[00:59:51](/episodes/ep-DdPjoy5W-wY.md#ent-person-tyler-bowyer-t-00-59-43)**
+> "...rlie Kirk) is working, Tyler (Tyler Bowyer), pardon, is working with the deep state."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (12 mentions)</summary>
+
+**[00:00:49](/episodes/ep-y8lak3CRwDw.md#ent-person-tyler-bowyer-t-00-00-41)**
+> "Does it remember how she met Tyler Bowyer? I feel like maybe."
+
+**[00:02:09](/episodes/ep-y8lak3CRwDw.md#ent-person-tyler-bowyer-t-00-01-48)**
+> "Who exactly is Tyler Bowyer working with in parliament? In Romania, why is th..."
+
+**[00:09:42](/episodes/ep-y8lak3CRwDw.md#ent-person-tyler-bowyer-t-00-09-42)**
+> "...nal force arrives and so does Tyler Bowyer. Tyler Bowyer makes his first appearance in Roman..."
+
+**[00:15:00](/episodes/ep-y8lak3CRwDw.md#ent-person-tyler-bowyer-t-00-14-28)**
+> "We're in 2011. Tyler, Tyler Bowyer's back. He's fresh back from his trip to Romania. T..."
+
+**[00:15:08](/episodes/ep-y8lak3CRwDw.md#ent-person-tyler-bowyer-t-00-15-08)**
+> "...Arizona State University. And Tyler Bowyer then immediately falls into some luck."
+
+**[00:16:47](/episodes/ep-y8lak3CRwDw.md#ent-person-tyler-bowyer-t-00-16-37)**
+> "...ing here wondering. If he and Tyler Bowyer crossed paths, and you're not going to believe me..."
+
+**[00:23:33](/episodes/ep-y8lak3CRwDw.md#ent-person-tyler-bowyer-t-00-23-06)**
+> "...u. But our 2011, yep, we have Tyler Bowyer undergrad in April."
+
+**[00:32:56](/episodes/ep-y8lak3CRwDw.md#ent-person-tyler-bowyer-t-00-32-27)**
+> "...does not remember how she met Tyler Bowyer."
+
+**[00:33:02](/episodes/ep-y8lak3CRwDw.md#ent-person-tyler-bowyer-t-00-32-27)**
+> "... them changing their stories. Tyler Bowyer responded to somebody on X and said he met her."
+
+**[00:33:53](/episodes/ep-y8lak3CRwDw.md#ent-person-tyler-bowyer-t-00-33-53)**
+> "... military ties who knows what Tyler Bowyer's ties are uh do you think it's a coincidence that ..."
+
+**[00:50:16](/episodes/ep-y8lak3CRwDw.md#ent-person-tyler-bowyer-t-00-50-16)**
+> "And Tyler Bowyer is going to be involved in this. Lori's doing som..."
+
+**[00:15:15](/episodes/ep-y8lak3CRwDw.md#ent-person-tyler-bowyer-t-00-15-08)**
+> "...s confirmed ASU undergraduate Tyler Storm Bowyer as the new student regent for the Arizona Board o..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (16 mentions)</summary>
@@ -690,40 +913,13 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details>
-<summary>ep-y8lak3CRwDw (11 mentions)</summary>
+<summary>ep-5m-Wn6Pr5rM (2 mentions)</summary>
 
-**[00:00:49](/episodes/ep-y8lak3CRwDw.md#t-00-00-49)**
-> "Does it remember how she met Tyler Bowyer? I feel like maybe."
+**[00:15:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-15-43)**
+> "Tyler Bowyer"
 
-**[00:02:09](/episodes/ep-y8lak3CRwDw.md#t-00-02-09)**
-> "Who exactly is Tyler Bowyer working with in parliament? In Romania, why is th..."
-
-**[00:09:42](/episodes/ep-y8lak3CRwDw.md#t-00-09-42)**
-> "...nal force arrives and so does Tyler Bowyer. Tyler Bowyer makes his first appearance in Roman..."
-
-**[00:15:00](/episodes/ep-y8lak3CRwDw.md#t-00-15-00)**
-> "We're in 2011. Tyler, Tyler Bowyer's back. He's fresh back from his trip to Romania. T..."
-
-**[00:15:08](/episodes/ep-y8lak3CRwDw.md#t-00-15-08)**
-> "...Arizona State University. And Tyler Bowyer then immediately falls into some luck."
-
-**[00:16:47](/episodes/ep-y8lak3CRwDw.md#t-00-16-47)**
-> "...ing here wondering. If he and Tyler Bowyer crossed paths, and you're not going to believe me..."
-
-**[00:23:33](/episodes/ep-y8lak3CRwDw.md#t-00-23-33)**
-> "...u. But our 2011, yep, we have Tyler Bowyer undergrad in April."
-
-**[00:32:56](/episodes/ep-y8lak3CRwDw.md#t-00-32-56)**
-> "...does not remember how she met Tyler Bowyer."
-
-**[00:33:02](/episodes/ep-y8lak3CRwDw.md#t-00-33-02)**
-> "... them changing their stories. Tyler Bowyer responded to somebody on X and said he met her."
-
-**[00:33:53](/episodes/ep-y8lak3CRwDw.md#t-00-33-53)**
-> "... military ties who knows what Tyler Bowyer's ties are uh do you think it's a coincidence that ..."
-
-**[00:50:16](/episodes/ep-y8lak3CRwDw.md#t-00-50-16)**
-> "And Tyler Bowyer is going to be involved in this. Lori's doing som..."
+**[00:15:53](/episodes/ep-5m-Wn6Pr5rM.md#t-00-15-53)**
+> "Did you see Tyler Bowyer on September 10th at the office? If so, what time..."
 
 </details>
 
@@ -758,10 +954,12 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <summary>Accused By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:50:03](/episodes/ep-zSKrxIUMNqw.md#t-00-49-33): “Tyler Bowyer needs to be looked at and investigated further.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:59:51](/episodes/ep-DdPjoy5W-wY.md#t-00-59-43): “Tyler (Tyler Bowyer), pardon, is working with the deep state”
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:25:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-12): “Do not let Tyler (Tyler Bowyer) gaslight you in conversations. It's odd. This should be screaming at you as it is screaming at me that something's not right.”
 
 </details>
 
@@ -775,12 +973,58 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details>
-<summary>Affiliated With (1)</summary>
+<summary>Affiliated With (3)</summary>
 
 - **[Liberty University](/entities/org-liberty-university.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:06:32](/episodes/ep-wcD2khO3rOA.md#t-00-06-24): “Tyler Bowyer attended and he graduated”
+
+</details>
+
+- **[Arizona State University](/entities/org-arizona-state-university.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:26:58](/episodes/ep-DdPjoy5W-wY.md#t-00-26-58): “Arizona State University student Tyler (Tyler Bowyer)”
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:19:06](/episodes/ep-ZzAT2xijKGQ.md#t-00-18-32): “Makes sense because he was attending Arizona State University.”
+
+</details>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:25:53](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53): “Turning Point headquarters, a location picked by Tyler Bowyer. Charlie Kirk didn't even open the organization. It started in Chicago.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Appeared With (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:07:31](/episodes/ep-_vg7ucP1E0g.md#t-00-06-53): “I'm just wondering how is she affording to live, okay? She's still dating. J.T. Massey. During this time, we also have that on July 11th, Lori Frantzve and Tyler Bowyer and Erika (Erika Kirk) are going to be behind Donald Trump for his presidential campaign rally.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Appointed By (2)</summary>
+
+- **[Arizona State Senate](/entities/org-arizona-state-senate.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | Episode 6 @ 00:15:15](/episodes/ep-y8lak3CRwDw.md#t-00-15-08): “In April of 2011, at the end of his spring semester, he is elected by the Arizona Senate to serve as a student representative to the Arizona Board of Regents. It says that the state Senate has confirmed ASU undergraduate Tyler Storm Bowyer as the new student regent for the Arizona Board of Regents. It begins a two-year term beginning on July 1st. Oh, that's interesting.”
+
+</details>
+
+- **[Jan Brewer](/entities/person-jan-brewer.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:26:58](/episodes/ep-DdPjoy5W-wY.md#t-00-26-58): “Arizona State University student Tyler (Tyler Bowyer) was appointed as the newest student regent on the Arizona Board of Regents by Governor Jan Brewer”
 
 </details>
 
@@ -790,9 +1034,23 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <summary>Board Member Of (1)</summary>
 
 - **[Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:00:30](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01): “Lori Frantzve, despite being ill, has recently been put on the board of Superfeed Technologies alongside Turning Point Action's COO. Oh, Tyler Bowyer, shady dude.”
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:26:08](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53): “Superfeed incorporated where Erika (Erika Kirk)'s mother is serving as a board member with Tyler Bowyer?”
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:28:46](/episodes/ep-_vg7ucP1E0g.md#t-00-28-35): “Super Feed Technologies is the company that both Erika's (Erika Kirk's) mother and Tyler Bowyer are on the board of.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Chairman Of (1)</summary>
+
+- **[Maricopa County Republican Committee](/entities/org-maricopa-county-republican-committee.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:43:30](/episodes/ep-DdPjoy5W-wY.md#t-00-43-30): “Tyler (Tyler Bowyer) is the chairman at that time of the Maricopa County Republican Committee”
 
 </details>
 
@@ -814,7 +1072,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:34](/episodes/ep-HYn0P-P1wUw.md#t-00-26-11): “I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character. I'm going to stand by that.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:01](/episodes/ep-zSKrxIUMNqw.md#t-00-47-30): “Tyler (Tyler Bowyer)'s the guy. He's a bad dude.”
@@ -822,6 +1080,32 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:44:52](/episodes/ep-1IY2oD-_xVA.md#t-00-44-37): “He set that up, right? Not a good guy, Tyler Bowyer. And there was a rumor, which I will tell you what Turning Point's response was, but I had, it was stronger than a rumor.”
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:21:56](/episodes/ep-cZxHqYsWRYg.md#t-00-21-44): “And Tyler Bowyer, probably the same. I know that he recently required a literal federal pardon from the president of the United States for fraud. He was credibly accused of nine felonies related to trying to subvert the election, including fraud, forgery, and conspiracy.”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:30:43](/episodes/ep-2tFYJf1klgY.md#t-00-30-43): “I told you he's a sexual deviant. It's like, I mean, there's just so much out there.”
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:25:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-12): “Do not let Tyler (Tyler Bowyer) gaslight you in conversations. It's odd. This should be screaming at you as it is screaming at me that something's not right.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Former Board Member Of (1)</summary>
+
+- **[Arizona Board of Regents](/entities/org-arizona-board-of-regents.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:26:58](/episodes/ep-DdPjoy5W-wY.md#t-00-26-58): “Arizona State University student Tyler (Tyler Bowyer) was appointed as the newest student regent on the Arizona Board of Regents by Governor Jan Brewer last year”
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:19:23](/episodes/ep-ZzAT2xijKGQ.md#t-00-19-14): “in May of 2011, Tyler Bowyer is going to get unusually elected to the Board of Regents.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Formerly Lived In (1)</summary>
+
+- **[Russia](/entities/gpe-russia.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:59:43](/episodes/ep-DdPjoy5W-wY.md#t-00-59-43): “But I don't know if it's true whether he was using a different name. It's something a narrative that I am prodding, but he did do his mission for two years in Russia. He's fluent in Russian.”
 
 </details>
 
@@ -834,6 +1118,26 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:21:29](/episodes/ep-gG4ZoYUjUc8.md#t-00-20-50): “I received a legal letter ... for noting that a bunch of military men seem to have infiltrated Turning Point USA ... this is a fun tweet ... from Tyler Bowyer, the former COO.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Friend Of (2)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:19:44](/episodes/ep-i8m_6D4QGmk.md#t-00-19-44): “dear friend and part-time homosexual deviant Tyler Bowyer, who she can't remember how she met. Take a listen to what he said a mere 12 days after Charlie's assassination.”
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:22:28](/episodes/ep-H9p2ZGHAs9A.md#t-00-21-54): “And speaking of the ick, we should talk about Tyler Bowyer, Erika (Erika Kirk)'s friend, her dear friend who introduced her to her husband.”
+
+</details>
+
+- **[Jake Hoffman](/entities/person-jake-hoffman.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:30:15](/episodes/ep-H9p2ZGHAs9A.md#t-00-29-56): “Arizona senator named Jake Hoffman. Now, I should let you know Jake Hoffman is a dear friend of Tyler Bowyer, a partner of Tyler Bowyer. He formerly used to work at Turning Point USA.”
 
 </details>
 
@@ -867,6 +1171,18 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:09:26](/episodes/ep-his-JBjlkh8.md#t-00-09-17): “She has spread absurd claims that Tyler Boyer, who we just had on the show,”
+
+</details>
+
+</details>
+
+<details>
+<summary>Met With (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:43:30](/episodes/ep-DdPjoy5W-wY.md#t-00-43-30): “Tyler Bowyer is going to meet Charlie Kirk this year”
 
 </details>
 
@@ -932,22 +1248,25 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 - **[Turning Point Action](/entities/org-turning-point-action.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:57](/episodes/ep-1IY2oD-_xVA.md#t-00-45-57): “And they specifically said that the money was missing out of Turning Point Action, which is headed up by Tyler Bowyer.”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:16:51](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51): “At Turning Point Action, we have a ton of jobs posting”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (17)</summary>
+<summary>Referenced By (27)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:50:03](/episodes/ep-zSKrxIUMNqw.md#t-00-49-33): “Tyler Bowyer needs to be looked at and investigated further.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:59:51](/episodes/ep-DdPjoy5W-wY.md#t-00-59-43): “Tyler (Tyler Bowyer), pardon, is working with the deep state”
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:25:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-12): “Do not let Tyler (Tyler Bowyer) gaslight you in conversations. It's odd. This should be screaming at you as it is screaming at me that something's not right.”
 
 </details>
 
@@ -955,6 +1274,27 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:26](/episodes/ep-zSKrxIUMNqw.md#t-00-48-11): “And one person told me on record. that he would also offer bribes to people,”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:07:31](/episodes/ep-_vg7ucP1E0g.md#t-00-06-53): “I'm just wondering how is she affording to live, okay? She's still dating. J.T. Massey. During this time, we also have that on July 11th, Lori Frantzve and Tyler Bowyer and Erika (Erika Kirk) are going to be behind Donald Trump for his presidential campaign rally.”
+
+</details>
+
+- **[Arizona State Senate](/entities/org-arizona-state-senate.md)** appointed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: What Happened In Romania? | Episode 6 @ 00:15:15](/episodes/ep-y8lak3CRwDw.md#t-00-15-08): “In April of 2011, at the end of his spring semester, he is elected by the Arizona Senate to serve as a student representative to the Arizona Board of Regents. It says that the state Senate has confirmed ASU undergraduate Tyler Storm Bowyer as the new student regent for the Arizona Board of Regents. It begins a two-year term beginning on July 1st. Oh, that's interesting.”
+
+</details>
+
+- **[Jan Brewer](/entities/person-jan-brewer.md)** appointed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:26:58](/episodes/ep-DdPjoy5W-wY.md#t-00-26-58): “Arizona State University student Tyler (Tyler Bowyer) was appointed as the newest student regent on the Arizona Board of Regents by Governor Jan Brewer”
 
 </details>
 
@@ -966,7 +1306,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:34](/episodes/ep-HYn0P-P1wUw.md#t-00-26-11): “I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character. I'm going to stand by that.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:01](/episodes/ep-zSKrxIUMNqw.md#t-00-47-30): “Tyler (Tyler Bowyer)'s the guy. He's a bad dude.”
@@ -974,6 +1314,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:44:52](/episodes/ep-1IY2oD-_xVA.md#t-00-44-37): “He set that up, right? Not a good guy, Tyler Bowyer. And there was a rumor, which I will tell you what Turning Point's response was, but I had, it was stronger than a rumor.”
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:21:56](/episodes/ep-cZxHqYsWRYg.md#t-00-21-44): “And Tyler Bowyer, probably the same. I know that he recently required a literal federal pardon from the president of the United States for fraud. He was credibly accused of nine felonies related to trying to subvert the election, including fraud, forgery, and conspiracy.”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:30:43](/episodes/ep-2tFYJf1klgY.md#t-00-30-43): “I told you he's a sexual deviant. It's like, I mean, there's just so much out there.”
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:25:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-12): “Do not let Tyler (Tyler Bowyer) gaslight you in conversations. It's odd. This should be screaming at you as it is screaming at me that something's not right.”
 
 </details>
 
@@ -999,9 +1340,17 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 - **[Turning Point Action](/entities/org-turning-point-action.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:57](/episodes/ep-1IY2oD-_xVA.md#t-00-45-57): “And they specifically said that the money was missing out of Turning Point Action, which is headed up by Tyler Bowyer.”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:16:51](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51): “At Turning Point Action, we have a ton of jobs posting”
+
+</details>
+
+- **[Russia](/entities/gpe-russia.md)** former residence of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:59:43](/episodes/ep-DdPjoy5W-wY.md#t-00-59-43): “But I don't know if it's true whether he was using a different name. It's something a narrative that I am prodding, but he did do his mission for two years in Russia. He's fluent in Russian.”
 
 </details>
 
@@ -1009,6 +1358,21 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:21:29](/episodes/ep-gG4ZoYUjUc8.md#t-00-20-50): “I received a legal letter ... for noting that a bunch of military men seem to have infiltrated Turning Point USA ... this is a fun tweet ... from Tyler Bowyer, the former COO.”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:19:44](/episodes/ep-i8m_6D4QGmk.md#t-00-19-44): “dear friend and part-time homosexual deviant Tyler Bowyer, who she can't remember how she met. Take a listen to what he said a mere 12 days after Charlie's assassination.”
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:22:28](/episodes/ep-H9p2ZGHAs9A.md#t-00-21-54): “And speaking of the ick, we should talk about Tyler Bowyer, Erika (Erika Kirk)'s friend, her dear friend who introduced her to her husband.”
+
+</details>
+
+- **[Jake Hoffman](/entities/person-jake-hoffman.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:30:15](/episodes/ep-H9p2ZGHAs9A.md#t-00-29-56): “Arizona senator named Jake Hoffman. Now, I should let you know Jake Hoffman is a dear friend of Tyler Bowyer, a partner of Tyler Bowyer. He formerly used to work at Turning Point USA.”
 
 </details>
 
@@ -1029,9 +1393,26 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 - **[Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md)** has board member this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:00:30](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01): “Lori Frantzve, despite being ill, has recently been put on the board of Superfeed Technologies alongside Turning Point Action's COO. Oh, Tyler Bowyer, shady dude.”
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:26:08](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53): “Superfeed incorporated where Erika (Erika Kirk)'s mother is serving as a board member with Tyler Bowyer?”
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:28:46](/episodes/ep-_vg7ucP1E0g.md#t-00-28-35): “Super Feed Technologies is the company that both Erika's (Erika Kirk's) mother and Tyler Bowyer are on the board of.”
+
+</details>
+
+- **[Maricopa County Republican Committee](/entities/org-maricopa-county-republican-committee.md)** has chairman this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:43:30](/episodes/ep-DdPjoy5W-wY.md#t-00-43-30): “Tyler (Tyler Bowyer) is the chairman at that time of the Maricopa County Republican Committee”
+
+</details>
+
+- **[Arizona Board of Regents](/entities/org-arizona-board-of-regents.md)** has former board member this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:26:58](/episodes/ep-DdPjoy5W-wY.md#t-00-26-58): “Arizona State University student Tyler (Tyler Bowyer) was appointed as the newest student regent on the Arizona Board of Regents by Governor Jan Brewer last year”
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:19:23](/episodes/ep-ZzAT2xijKGQ.md#t-00-19-14): “in May of 2011, Tyler Bowyer is going to get unusually elected to the Board of Regents.”
 
 </details>
 
@@ -1057,6 +1438,13 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 </details>
 
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:43:30](/episodes/ep-DdPjoy5W-wY.md#t-00-43-30): “Tyler Bowyer is going to meet Charlie Kirk this year”
+
+</details>
+
 - **[Donald J. Trump](/entities/person-donald-trump.md)** pardoned this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
@@ -1074,9 +1462,17 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:00:42](/episodes/ep-cZxHqYsWRYg.md#t-00-00-42): “Oh, Tyler Bowyer, shady dude. They're effectively then business partners. They have been for a while, actually. Lori (Lori Frantzve) was at first a director over at Superfeed.”
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:29:11](/episodes/ep-_vg7ucP1E0g.md#t-00-29-11): “We have that in November. Her mother establishes G-Tech Industries LLC. I know you're going to say, what is it do? ... You know, it's Lori (Lori Frantzve). So it's like this. She's doing this whole EMP thing and she's getting money and she's. ... blind spot she just can't that's her one category she can't remember is how she knows Tyler Bowyer even though he is in business with her mother and has her at behind trump in 2015 it is my personal opinion that a deal was done when i look at the evidence when i look at everything i'm looking at when i see how duplicitous she was and i know that Charlie (Charlie Kirk) did not know these things because i was there”
+
+</details>
+
+- **[Jake Hoffman](/entities/person-jake-hoffman.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:30:15](/episodes/ep-H9p2ZGHAs9A.md#t-00-29-56): “Jake Hoffman is a dear friend of Tyler Bowyer, a partner of Tyler Bowyer. He formerly used to work at Turning Point USA.”
 
 </details>
 
@@ -1085,7 +1481,40 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Tyler Bowyer (6)</strong></summary>
+<summary><strong class="section-title">Statements by Tyler Bowyer (12)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (2)</summary>
+
+- [00:23:03](/episodes/ep-H9p2ZGHAs9A.md#t-00-22-38) [○] (Claim) ["Tyler Bowyer wrote that he studied Romanian in college to complement his Russian..."](/statements/statement-5104dc0349f5.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Romania](/entities/gpe-romania.md)
+
+- [00:38:28](/episodes/ep-H9p2ZGHAs9A.md#t-00-38-28) [✓] (Accusation) ["Tyler Bowyer accused Katie Hobbs of vetoing the Charlie Kirk license-plate bill ..."](/statements/statement-407dc980b047.md)
+  - About: [Katie Hobbs](/entities/person-katie-hobbs.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Arizona Senate Bill 1439 (2026)](/entities/law-arizona-sb-1439-2026.md)
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
+
+- [00:20:13](/episodes/ep-i8m_6D4QGmk.md#t-00-19-59) [✓] (Claim) ["Charlie Kirk firmly believed Erika Kirk was going to be president someday."](/statements/statement-db1be83b266f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (3)</summary>
+
+- [00:16:51](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51) [✓] (Claim) ["Turning Point Action has many job openings in Arizona, Nevada, and New Hampshire..."](/statements/statement-94eac730510f.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point Action](/entities/org-turning-point-action.md), [Arizona](/entities/gpe-arizona.md)
+
+- [00:16:58](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51) [✓] (Claim) ["Turning Point Action secured the keys to a new building in Las Vegas."](/statements/statement-ca2b97368e6d.md)
+  - About: [Turning Point Action](/entities/org-turning-point-action.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
+
+- [00:17:16](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51) [?] (Prediction) ["Turning Point Action will need one thousand more people in the room by the same ..."](/statements/statement-c6a655147a82.md)
+  - About: [Turning Point Action](/entities/org-turning-point-action.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (2)</summary>
@@ -1133,7 +1562,90 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Bowyer (38)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Bowyer (57)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1)</summary>
+
+- [00:39:00](/episodes/ep-SgVcnx4Oh30.md#t-00-38-24) (Claim) **Candace Owens**: ["Candace Owens said she believed Erika Kirk flew with Tyler Bowyer, tho..."](/statements/statement-6b09857af0b5.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Utah](/entities/gpe-utah.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (1)</summary>
+
+- [00:29:11](/episodes/ep-_vg7ucP1E0g.md#t-00-29-11) (Opinion) **Candace Owens**: ["It is my personal opinion that a deal was done involving Erika Kirk, T..."](/statements/statement-39b32db4ed7d.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1)</summary>
+
+- [00:42:56](/episodes/ep-5-HUyv9LyMg.md#t-00-42-56) (Accusation) **Candace Owens**: ["Turning Point Action, which is run by Tyler Bowyer, sends money back t..."](/statements/statement-f8cc12a702c2.md)
+  - Also about: [Turning Point Action](/entities/org-turning-point-action.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md)
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1)</summary>
+
+- [00:23:03](/episodes/ep-H9p2ZGHAs9A.md#t-00-22-38) (Claim) **Tyler Bowyer** (via quoted post): ["Tyler Bowyer wrote that he studied Romanian in college to complement h..."](/statements/statement-5104dc0349f5.md)
+  - Also about: [Romania](/entities/gpe-romania.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (9)</summary>
+
+- [00:16:51](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51) (Claim) **Tyler Bowyer** (via quoted speech): ["Turning Point Action has many job openings in Arizona, Nevada, and New..."](/statements/statement-94eac730510f.md)
+  - Also about: [Turning Point Action](/entities/org-turning-point-action.md), [Arizona](/entities/gpe-arizona.md), [Nevada](/entities/gpe-nevada.md)
+
+- [00:17:16](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51) (Prediction) **Tyler Bowyer** (via quoted speech): ["Turning Point Action will need one thousand more people in the room by..."](/statements/statement-c6a655147a82.md)
+  - Also about: [Turning Point Action](/entities/org-turning-point-action.md)
+
+- [00:26:58](/episodes/ep-DdPjoy5W-wY.md#t-00-26-58) (Citation) **Candace Owens**: ["Candace Owens cites an article reporting that Arizona Governor Jan Bre..."](/statements/statement-48a282fe587f.md)
+  - Also about: [Jan Brewer](/entities/person-jan-brewer.md), [Arizona Board of Regents](/entities/org-arizona-board-of-regents.md), [Arizona State University](/entities/org-arizona-state-university.md)
+
+- [00:27:13](/episodes/ep-DdPjoy5W-wY.md#t-00-26-58) (Citation) **Candace Owens**: ["Unlike the typical university committee recommendation process, Tyler ..."](/statements/statement-5982246d76a4.md)
+  - Also about: [Jan Brewer](/entities/person-jan-brewer.md), [Arizona Board of Regents](/entities/org-arizona-board-of-regents.md), [Arizona State University](/entities/org-arizona-state-university.md)
+
+- [00:43:30](/episodes/ep-DdPjoy5W-wY.md#t-00-43-30) (Claim) **Candace Owens**: ["Candace Owens says Tyler Bowyer met Charlie Kirk in 2014 while Bowyer ..."](/statements/statement-f5c99907eed8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Eddie Farnsworth](/entities/person-eddie-farnsworth.md), [David Farnsworth](/entities/person-david-farnsworth.md)
+
+- [00:59:32](/episodes/ep-DdPjoy5W-wY.md#t-00-59-01) (Accusation) **Anonymous Source #2 (Ep DdPjoy5W-wY)** (via read message): ["An unnamed person in Russia reportedly told Candace Owens that Tyler B..."](/statements/statement-c704fb9650d2.md)
+  - Also about: [Russia](/entities/gpe-russia.md)
+
+- [00:59:43](/episodes/ep-DdPjoy5W-wY.md#t-00-59-43) (Claim) **Candace Owens**: ["Candace Owens says Tyler Bowyer served a two-year mission in Russia an..."](/statements/statement-ad78c630e6c3.md)
+  - Also about: [Russia](/entities/gpe-russia.md)
+
+- [00:59:51](/episodes/ep-DdPjoy5W-wY.md#t-00-59-43) (Accusation) **Candace Owens**: ["Candace Owens alleges there is substantial evidence that Tyler Bowyer ..."](/statements/statement-5b3de66404c9.md)
+
+- [00:59:58](/episodes/ep-DdPjoy5W-wY.md#t-00-59-43) (Accusation) **Candace Owens**: ["Candace Owens alleges that Erika Kirk, like Tyler Bowyer, is connected..."](/statements/statement-45d878b0910e.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (5)</summary>
+
+- [00:09:42](/episodes/ep-y8lak3CRwDw.md#t-00-09-42) (Claim) **Candace Owens**: ["Tyler Bowyer first appeared in Romania in 2010."](/statements/statement-d9e8fdcd3168.md)
+  - Also about: [Romania](/entities/gpe-romania.md)
+
+- [00:15:15](/episodes/ep-y8lak3CRwDw.md#t-00-15-08) (Citation) **Candace Owens**: ["In April 2011 the Arizona Senate confirmed Tyler Bowyer as student reg..."](/statements/statement-97ade6e4b4d0.md)
+  - Also about: [Arizona State Senate](/entities/org-arizona-state-senate.md), [Arizona Board of Regents](/entities/org-arizona-board-of-regents.md), [Arizona State University](/entities/org-arizona-state-university.md)
+
+- [00:15:54](/episodes/ep-y8lak3CRwDw.md#t-00-15-54) (Claim) **Candace Owens**: ["Erika Frantzve enrolled at Arizona State University for her final year..."](/statements/statement-12cf6e1954ae.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Arizona State University](/entities/org-arizona-state-university.md), [Arizona Board of Regents](/entities/org-arizona-board-of-regents.md)
+
+- [00:22:43](/episodes/ep-y8lak3CRwDw.md#t-00-22-41) (Claim) **Candace Owens**: ["May the Kolvets, the Frantzves, and the Bowyers all have run into each..."](/statements/statement-f431ce9b3e43.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Dennis Frantzve](/entities/person-dennis-frantzve.md), [Curtis Kolvet](/entities/person-curtis-kolvet.md)
+
+- [00:33:27](/episodes/ep-y8lak3CRwDw.md#t-00-33-09) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Erika Kirk told her that she thought she knew Tyler..."](/statements/statement-3686a84f048d.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Arizona](/entities/gpe-arizona.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (7)</summary>
@@ -1324,6 +1836,14 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1)</summary>
 
 - [01:07:54](/episodes/ep-2Riv3I7D0Yk.md#t-01-07-18) (Accusation) **Candace Owens**: ["Tyler Bowyer was sloppy on X, he was accusatory and called people name..."](/statements/statement-61b7ba6f1f3c.md)
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (1)</summary>
+
+- [00:15:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-15-43) (Claim) **Candace Owens**: ["I believe Erika Kirk and Tyler Bowyer flew together."](/statements/statement-3e567b42755e.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 

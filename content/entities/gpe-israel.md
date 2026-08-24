@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Israel (Places) - 937 mentions"
+description: "Israel (Places) - 1081 mentions"
 id: "gpe-israel"
 type: "GPE"
 aliases:
@@ -26,11 +26,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-israel-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-03-57-56">2026-08-14 · 03:58:04</a></strong></div>
-<div><span>Episodes</span><strong>73</strong></div>
-<div><span>Mentions</span><strong>937</strong></div>
+<div><span>Episodes</span><strong>84</strong></div>
+<div><span>Mentions</span><strong>1,081</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>136</strong></div>
-<div><span>Relationships</span><strong>24</strong></div>
+<div><span>Statements about</span><strong>178</strong></div>
+<div><span>Relationships</span><strong>34</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -110,6 +110,16 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-israel-t-00-39-57" style="--pulse-height:8%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-israel-t-00-01-21" style="--pulse-height:9%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 5 mentions" title="2026-03-02 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-israel-t-00-35-26" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 4 mentions" title="2026-03-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-israel-t-00-05-38" style="--pulse-height:12%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 7 mentions" title="2026-03-04 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-00-00" style="--pulse-height:70%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 40 mentions" title="2026-03-09 · 40 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-israel-t-00-06-09" style="--pulse-height:8%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 3 mentions" title="2026-03-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-israel-t-00-05-00" style="--pulse-height:8%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 2 mentions" title="2026-03-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-israel-t-00-01-17" style="--pulse-height:32%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 18 mentions" title="2026-03-12 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-04-51" style="--pulse-height:46%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 26 mentions" title="2026-03-17 · 26 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-00-01-22" style="--pulse-height:46%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 26 mentions" title="2026-03-17 · 26 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-israel-t-00-20-15" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 2 mentions" title="2026-03-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-israel-t-00-02-11" style="--pulse-height:21%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 12 mentions" title="2026-03-23 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-israel-t-00-50-02" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 3 mentions" title="2026-03-24 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12" style="--pulse-height:68%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 39 mentions" title="2026-08-14 · 39 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -188,6 +198,16 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-israel-t-00-39-57) | 2 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-israel-t-00-01-21) | 5 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-israel-t-00-35-26) | 4 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-israel-t-00-05-38) | 7 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-00-00) | 40 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-israel-t-00-06-09) | 3 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-israel-t-00-05-00) | 2 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-israel-t-00-01-17) | 18 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-04-51) | 26 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-00-01-22) | 26 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-israel-t-00-20-15) | 2 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-israel-t-00-02-11) | 12 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-israel-t-00-50-02) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12) | 39 |
 
 </details>
@@ -200,7 +220,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (937)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1081)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (39 mentions)</summary>
@@ -321,6 +341,473 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[02:25:09](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-25-09)**
 > "So it. He then loved other Israel."
+
+</details>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (3 mentions)</summary>
+
+**[00:50:02](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-israel-t-00-50-02)**
+> "probably have Israel behind it"
+
+**[00:43:03](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-israel-t-00-43-03)**
+> "Moving on, the Israel firsters are still guns a blazing for Joe Kent. T..."
+
+**[00:59:28](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-israel-t-00-59-28)**
+> "He coined the phrase Israel's Amen Corner in the early 90s. Yeah, I should get ..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (12 mentions)</summary>
+
+**[00:02:11](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-israel-t-00-02-11)**
+> "rethink at least our relationship with the Israelis"
+
+**[00:00:00](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-israel-t-00-00-00)**
+> "...re was this instant stream of Israel firsters who accused him of leaking to me."
+
+**[00:03:30](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-israel-t-00-03-17)**
+> "... of Midnight Hammer, that the Israelis were going to come back and ask us to go back to ..."
+
+**[00:05:18](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-israel-t-00-04-59)**
+> "The Israel first crowd, like I said, immediately began deman..."
+
+**[00:10:45](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-israel-t-00-10-21)**
+> "Israel or the Jews had Charlie murdered. Yes. So, which ..."
+
+**[00:12:27](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-israel-t-00-12-27)**
+> "...opic of charlie's support for israel instead allowed a force of zionists who were hara..."
+
+**[00:13:44](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-israel-t-00-13-11)**
+> "...said Charlie never blinked on Israel."
+
+**[00:40:33](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-israel-t-00-40-17)**
+> "...n? Anyway, adding more to the Israel firsters frustrations is the fact that everybody ..."
+
+**[00:43:33](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-israel-t-00-43-11)**
+> "...e were so angry about it. The Israel Firsters, Mark Levin, tweeted this. Is this some ..."
+
+**[00:45:22](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-israel-t-00-44-52)**
+> "...dspace was at when it came to Israel. I didn't need Joe Kent for that."
+
+**[00:48:19](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-israel-t-00-48-19)**
+> "...g Ben Shapiro never brings up Israel."
+
+**[00:53:16](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-israel-t-00-52-47)**
+> "...ying Charlie never blinked on Israel."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (2 mentions)</summary>
+
+**[00:20:32](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-israel-t-00-20-15)**
+> "It is then just a couple of weeks later after predicting his death that Kanye (Kanye West) tweets, "I love the way Candace Owens thinks," which, like I said, you had to be there because we were just kind of rapping, and I kept telling him that Kanye (Kanye West) was going to come over. I'm telling you, I think he's conservative. And then we learned from Erika (Erika Kirk) that she and her mother go to Israel on pilgrimage."
+
+**[00:47:41](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-israel-t-00-47-41)**
+> "...like, "Why are we attached to Israel?""
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (26 mentions)</summary>
+
+**[00:04:51](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-04-51)**
+> "...ne commits, not groveling for Israel. That's it. He has some sort of a unique social d..."
+
+**[00:05:12](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-05-12)**
+> "... that has anything to do with israel or the jews okay ben the mossad hasn't been in th..."
+
+**[00:05:58](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-05-49)**
+> "... been clear that she supports Israel. um she supports Erika Kirk turning point usa lik..."
+
+**[00:08:43](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-08-32)**
+> "...his friends over the topic of Israel, a topic which Charlie (Charlie Kirk) had actuall..."
+
+**[00:11:17](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-11-17)**
+> "... necessary to the survival of Israel, it is reasonable to wonder if his refusal to bac..."
+
+**[00:12:18](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-12-00)**
+> "...ng on it, but the citizens of Israel are too. And Charlie (Charlie Kirk) said, thank y..."
+
+**[00:12:25](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-12-00)**
+> "...ged into one by a belligerent Israeli regime."
+
+**[00:23:45](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-12-00)**
+> "...e've got this idea of greater israel"
+
+**[00:28:10](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-28-10)**
+> "...y because the rothschilds are israel they created israel and they created emmanuel mac..."
+
+**[00:29:07](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-28-42)**
+> "...rumper, and no one outside of Israelis should support this man, like, ever, really, goin..."
+
+**[00:32:12](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-32-07)**
+> "...ddle Eastern countries there, Israel there, so we did it for a lot of reasons."
+
+**[00:33:30](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-33-12)**
+> "...said don't do this except for israel and you're a slave to israel trump because you ju..."
+
+**[00:35:02](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-34-36)**
+> "...Muslims for no reason because Israel says so because they want to steal their resource..."
+
+**[00:37:57](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-37-36)**
+> "...or opposing this war and that Israel's hands are not clean in the story."
+
+**[00:38:02](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-37-36)**
+> "...or opposing this war and that Israel's hands are not clean in the story."
+
+**[00:38:10](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-37-36)**
+> "...se to it was consequential to Israel. There was a foundational principle that magician..."
+
+**[00:38:19](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-38-19)**
+> "...was not magic that maintained Israel's place in the world. It was a reality that people ..."
+
+**[00:38:40](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-38-19)**
+> "...nocence and the friendship of Israel and were therefore willing to die overseas to def..."
+
+**[00:44:32](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-44-17)**
+> "OK, if they don't die for Israel, lock every American up. OK. Here's Randy Fine. H..."
+
+**[00:44:54](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-44-17)**
+> "For Israel, you will die for Israel, you will support Israel..."
+
+**[00:46:07](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-45-40)**
+> "..., that would be that would be Israel that does that the whole time."
+
+**[00:47:37](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-47-25)**
+> "He is serving Israel. He is not serving American interests at all. I d..."
+
+**[00:47:56](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-47-25)**
+> "...ter if you've just got oil in Israel."
+
+**[00:48:10](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-48-10)**
+> "...rels of oil from venezuela to israel because we we did the military effort they get um..."
+
+**[00:52:45](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-52-31)**
+> "...er stop demanding death. This Israel worship—it's Baal worship. I mean, they have to s..."
+
+**[00:53:38](/episodes/ep-k8ueJdPFel4.md#ent-gpe-israel-t-00-53-38)**
+> "...and women to die overseas for israel like what is wrong with this administration it's ..."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (26 mentions)</summary>
+
+**[00:01:22](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-00-01-22)**
+> "something satanic going on in Israel"
+
+**[00:04:57](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-00-04-47)**
+> "...this war due to pressure from Israel and its powerful American lobby."
+
+**[00:05:37](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-00-05-30)**
+> "... administration, high-ranking Israeli officials and influential members of the American..."
+
+**[00:06:08](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-00-05-30)**
+> "...ie and is the same tactic the Israelis used to draw us into the disaster."
+
+**[00:06:19](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-00-06-12)**
+> "...ent) in a war manufactured by Israel, I cannot support sending the next generation off..."
+
+**[00:15:41](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-00-15-14)**
+> "...you know, neo-Nazi Jew hating Israel basher quits administration."
+
+**[00:15:47](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-00-15-14)**
+> "...sons and daughters to die for Israel is a Nazi."
+
+**[00:16:33](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-00-15-57)**
+> "... criminalize disagreeing with Israel."
+
+**[00:18:55](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-00-18-44)**
+> "...e not gathering to talk about Israel. It's never been billed as that. But because they..."
+
+**[00:20:45](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-00-20-45)**
+> "...d some choice words regarding Israel and the war that's happening and I wanted you guy..."
+
+**[00:20:55](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-00-20-55)**
+> "...t America's relationship with Israel, the Israeli political leaders, that's what I mea..."
+
+**[00:21:42](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-00-21-42)**
+> "... don't believe that. that the Israeli leaders that they have any intention to to stop t..."
+
+**[00:22:48](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-00-22-13)**
+> "...overnment's relationship with Israel's leaders and with Israel's government. I don't und..."
+
+**[00:23:31](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-00-23-31)**
+> "This Israeli government that that just seems to be obsessed wi..."
+
+**[00:33:17](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-00-33-17)**
+> "... pulling away on the topic of Israel because Dino Fantegrossi in July was a part of th..."
+
+**[00:33:49](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-00-33-49)**
+> "...s the Bible to justify aid to Israel, doesn't even know the verse, do you guys think t..."
+
+**[00:44:39](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-00-44-13)**
+> "...rmed, like, and the nation of Israel and everything that's happening, do people make e..."
+
+**[00:49:31](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-00-49-03)**
+> "I'm referring to Israel posted a video, the prime minister's official acc..."
+
+**[00:50:04](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-00-49-03)**
+> "...dy else in his place. I think Israel Katz ran it. Then somebody noted that his son, Ya..."
+
+**[00:53:33](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-00-53-23)**
+> "...merican city after wiping out Israel."
+
+**[00:58:16](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-00-57-47)**
+> "...inciples and had to fight the Israeli mafia in the lobby as a consequence."
+
+**[00:59:46](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-00-59-46)**
+> "...ruth and not bend the knee to Israel."
+
+**[01:00:35](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-01-00-27)**
+> "...you say israelis like why are israel israelis like this because not all israelis are l..."
+
+**[01:01:14](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-01-01-03)**
+> "...wanted to note that there are Israelis speaking out and saying what's happening is wrong..."
+
+**[01:03:22](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-01-03-09)**
+> "...om of heaven, not the land of Israel. We are the temple of the Holy Spirit."
+
+**[01:08:45](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-israel-t-01-08-45)**
+> "...ssed? He didn't stop blessing Israel.' It's like, did you murder him, man? I feel like..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (18 mentions)</summary>
+
+**[00:01:17](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-israel-t-00-01-17)**
+> "...real estate, beauty pageants, Israelis and Eastern European models?"
+
+**[00:06:02](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-israel-t-00-05-42)**
+> "...y support the nation state of Israel, given that the Rothschilds credit themselves wit..."
+
+**[00:06:40](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-israel-t-00-06-20)**
+> "...overed up for Jared Kushner's Israeli business friends who sold Ivanka and Jared (Jared..."
+
+**[00:07:43](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-israel-t-00-07-32)**
+> "...r's friends, he is protecting Israel, and I gotta tell you, it is good to be an Israel..."
+
+**[00:07:55](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-israel-t-00-07-32)**
+> "...ried down in Kentucky because Israel wants him out."
+
+**[00:10:31](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-israel-t-00-10-31)**
+> "Why are Israelis like this? Like, what is wrong with them?"
+
+**[00:11:11](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-israel-t-00-11-11)**
+> "...an people to protect rapists, Israeli rapists, and sex traffickers because they donate ..."
+
+**[00:11:29](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-israel-t-00-11-11)**
+> "...humans as long as you support Israel. That's the most important thing."
+
+**[00:11:36](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-israel-t-00-11-11)**
+> "... of human sex trafficking and Israel and the unjustified redaction."
+
+**[00:12:28](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-israel-t-00-11-54)**
+> "... would be willing to help for Israel."
+
+**[00:12:36](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-israel-t-00-12-36)**
+> "...roven he will do anything for Israel. He will send your sons and your daughters to die..."
+
+**[00:13:47](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-israel-t-00-13-47)**
+> "...t be relevant to the theme of Israel, signed a proclamation with Erika Kirk by her sid..."
+
+**[00:33:00](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-israel-t-00-33-00)**
+> "...now, which seems to always be Israel, then you will be protected. Even if you rape peo..."
+
+**[00:43:13](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-israel-t-00-42-56)**
+> "... funding to go to Ukraine and Israel. Take a look. This is a real tweet."
+
+**[00:52:29](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-israel-t-00-52-29)**
+> "...litary base and it's probably israel let's just be frank about things okay the only pe..."
+
+**[00:53:59](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-israel-t-00-53-32)**
+> "It's like anything Israel, bam. Jeremy (Jeremy Boreing) just like invents t..."
+
+**[00:54:54](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-israel-t-00-54-54)**
+> "...t's usually just because, oh, Israel, that's the one topic."
+
+**[00:56:14](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-israel-t-00-56-01)**
+> "...n of JFK, which also involved Israel."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (2 mentions)</summary>
+
+**[00:05:00](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-israel-t-00-05-00)**
+> "...Charlie Kirk never blinked on Israel. Never. She never said anything at all about what..."
+
+**[00:04:02](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-israel-t-00-03-42)**
+> "All right. Now, what is also a fact is that the Rothschilds credit themselves with creating the modern state of Israel."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (3 mentions)</summary>
+
+**[00:06:09](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-israel-t-00-06-09)**
+> "doing whatever Israel wants"
+
+**[00:48:26](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-israel-t-00-48-05)**
+> "... you. I will not be dying for Israel. I am so glad that I could do something productiv..."
+
+**[00:48:31](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-israel-t-00-48-05)**
+> "...the priority is just to serve Israel and that will be Trump (Donald J. Trump)'s legacy..."
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (40 mentions)</summary>
+
+**[00:00:00](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-00-00)**
+> "slaughtered for Israel"
+
+**[00:00:19](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-00-00)**
+> "...re war has been engineered by Israel, maybe it's that. Donald Trump has very clearly b..."
+
+**[00:34:00](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-34-00)**
+> "...I image of Charlie hugging an Israeli flag. Yeah, it's pretty gross. Trump has shown mo..."
+
+**[00:36:27](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-36-27)**
+> "...tizens of being more loyal to Israel or to the alleged priorities of Jews worldwide th..."
+
+**[00:37:23](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-37-09)**
+> "...d, so Miriam, I know you love Israel."
+
+**[00:37:34](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-37-09)**
+> "...ve more, the United States or Israel? She refused to answer. That means, that might me..."
+
+**[00:37:50](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-37-50)**
+> "...om, I think in the end, loves Israel more than she loves America."
+
+**[00:38:43](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-38-27)**
+> "...a sends first oil shipment to Israel in years in signs of relations improving."
+
+**[00:38:53](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-38-27)**
+> "... which has thus far benefited Israel."
+
+**[00:39:25](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-39-11)**
+> "... sure would go a long way for Israel's incessant need to murder, bomb and destroy. Need ..."
+
+**[00:41:01](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-40-36)**
+> "... Check out this headline. Oh, Israel unlawfully using white phosphorus. I wonder where..."
+
+**[00:41:20](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-41-20)**
+> "...eace. It's always peace until Israel gets involved. They don't know peace. They don't ..."
+
+**[00:42:04](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-42-04)**
+> "...t we are receiving is because Israel was going to bomb Iran. So we went ahead and did ..."
+
+**[00:42:36](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-42-27)**
+> "...that there was going to be an Israeli action. We knew that that would precipitate an at..."
+
+**[00:42:59](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-42-59)**
+> "..., but under that scenario, if Israel was going to cause and stop that chain of events,..."
+
+**[00:43:07](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-42-59)**
+> "Bomb Israel to prevent Israel from bombing Iran? Prevent Iran..."
+
+**[00:43:19](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-42-59)**
+> "...t understand how the logic is Israel can't stop bombing people, so we have to bomb peo..."
+
+**[00:43:34](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-42-59)**
+> "..., it was preemptively because Israel was probably going to bomb them and kill them. So..."
+
+**[00:44:48](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-44-48)**
+> "...Finkelstein informing me that Israel had a literal and actual government policy known ..."
+
+**[00:46:26](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-46-26)**
+> "...sons and daughters to die for Israel. Israel expects that. They look at the goyim and ..."
+
+**[00:46:53](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-46-26)**
+> "Here is Israel's defense minister, Benny Gantz, discussing that he..."
+
+**[00:47:56](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-47-56)**
+> "And will that include Israeli boots on the ground do"
+
+**[00:48:11](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-48-11)**
+> "...was, is that going to include Israeli boots on the ground?"
+
+**[00:48:15](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-48-11)**
+> "...ke it's implied that it's not Israeli boots on the ground. And as a follow-up, it's lik..."
+
+**[00:49:48](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-49-48)**
+> "That's right. He only allows Israel to do that. Only Israel is allowed to attack Amer..."
+
+**[00:49:56](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-49-48)**
+> "Only Israel is allowed to get away with what they did at the ..."
+
+**[00:50:48](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-50-24)**
+> "That's why Israel supporters like Bill Ackman went rabid over the w..."
+
+**[00:51:17](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-51-09)**
+> "... Candace Owens, and they love Israel so much. Please take our tax dollars. Please."
+
+**[00:51:52](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-51-52)**
+> "...est you are, how much support Israel has. May you be hoisted on your own petard of sha..."
+
+**[00:52:03](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-51-52)**
+> "...on or daughter should die for Israel."
+
+**[00:52:11](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-51-52)**
+> "...on or daughter should die for Israel. Goyim, stand down. Go home. Find the legal means..."
+
+**[00:53:11](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-53-11)**
+> "...at Trump will not violate for Israel. Can you point to one?"
+
+**[00:53:38](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-53-11)**
+> "...sh it is if you don't support Israel."
+
+**[00:57:39](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-57-39)**
+> "... funny to take a look at what Israel has done. They don't realize that the power that ..."
+
+**[00:58:18](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-58-18)**
+> "...ke manic almost in support of Israel."
+
+**[00:58:25](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-58-18)**
+> "...ut that wasn't the power that Israel held. The power was in the illusion."
+
+**[00:58:32](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-58-18)**
+> "...s thinking and believing that Israel was innocent, believing that Israel was just a ti..."
+
+**[00:58:50](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-00-58-50)**
+> "... believes in the innocence of Israel anymore."
+
+**[01:04:52](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-01-04-35)**
+> "... to is destroying America for Israel."
+
+**[01:05:10](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-israel-t-01-05-10)**
+> "...so that you could do more for Israel. I don't even, I can't even comprehend what is go..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (7 mentions)</summary>
+
+**[00:05:38](/episodes/ep-y8lak3CRwDw.md#ent-gpe-israel-t-00-05-38)**
+> "Venezuela ships its first cart of oil over to Israel"
+
+**[00:40:32](/episodes/ep-y8lak3CRwDw.md#ent-gpe-israel-t-00-40-10)**
+> "Israel in the Middle East swept under the rug. No lone s..."
+
+**[00:51:51](/episodes/ep-y8lak3CRwDw.md#ent-gpe-israel-t-00-51-51)**
+> "... want to terrorize to benefit israel it's so strange i cannot work it out if you're a ..."
+
+**[00:52:18](/episodes/ep-y8lak3CRwDw.md#ent-gpe-israel-t-00-51-51)**
+> "...slim terrorist and I work for Israel."
+
+**[00:54:56](/episodes/ep-y8lak3CRwDw.md#ent-gpe-israel-t-00-54-36)**
+> "...y curate that is the story of Israel it's absolute filth the best thing you can do is ..."
+
+**[00:57:32](/episodes/ep-y8lak3CRwDw.md#ent-gpe-israel-t-00-57-26)**
+> "...cally disappeared and went to Israel. Just kidding. Nope, not kidding at all. They all..."
+
+**[00:57:59](/episodes/ep-y8lak3CRwDw.md#ent-gpe-israel-t-00-57-26)**
+> "... enough sacrifice to Baal for Israelis."
 
 </details>
 
@@ -3372,13 +3859,33 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 </details>
 
+<details>
+<summary>ep-5m-Wn6Pr5rM (5 mentions)</summary>
+
+**[00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49)**
+> "Israel"
+
+**[00:48:35](/episodes/ep-5m-Wn6Pr5rM.md#t-00-48-35)**
+> "...g crew neck. So just say that Israel is our greatest ally."
+
+**[00:48:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-48-43)**
+> "...great, right? Please just say Israel is our greatest ally because Mossad is listening ..."
+
+**[00:48:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-48-50)**
+> "...e have also our not dying for Israel shirts, patriotic shirt, just not dying for Israe..."
+
+**[00:48:57](/episodes/ep-5m-Wn6Pr5rM.md#t-00-48-57)**
+> "I'm not dying for Israel. There we go. Also reminding you that we now have..."
+
+</details>
+
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Accused By (2)</summary>
+<summary>Accused By (3)</summary>
 
 - **[Ian Carroll](/entities/person-ian-carroll.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -3391,6 +3898,37 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 02:28:08](/episodes/ep-nPhCKwJ6ye8.md#t-02-27-56): “How, why, Ink, France, and Israel are involved in Charlie Kirk's assassination. ... And I'm going to put that out there with full confidence. Okay. I Yeah. also involve him. I understand.”
+
+</details>
+
+- **[Joe Kent](/entities/person-joe-kent.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:05:37](/episodes/ep-I0OaY6Gryqk.md#t-00-05-30): “You demonstrated this by killing Qasem Soleimani and by defeating ISIS. Early in this administration, high-ranking Israeli officials and influential members of the American media deployed a misinformation campaign that wholly undermined your America First platform and sowed pro-war sentiments to encourage a war with Iran.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Attacked (1)</summary>
+
+- **[United States](/entities/gpe-united-states.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:49:48](/episodes/ep-i8m_6D4QGmk.md#t-00-49-48): “That's right. He only allows Israel to do that. Only Israel is allowed to attack America. Only Israel got to get away with the Lavon Affair.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Employs (1)</summary>
+
+- **[Benjamin Gantz](/entities/person-benjamin-gantz.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:46:53](/episodes/ep-i8m_6D4QGmk.md#t-00-46-26): “Here is Israel's defense minister, Benny Gantz, discussing that he's not going to exclude that need. Take a listen.”
 
 </details>
 
@@ -3447,7 +3985,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Supported By (2)</summary>
+<summary>Supported By (3)</summary>
 
 - **[Michele Bachmann](/entities/person-michele-bachmann.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -3457,21 +3995,31 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 - **[Lindsey Graham](/entities/person-lindsey-graham.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:10:53](/episodes/ep-xjzb_t5Tk9o.md#t-01-10-43): “he's like terrifyingly supportive of Israel.”
+- [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:58:05](/episodes/ep-i8m_6D4QGmk.md#t-00-57-39): “I imagine whatever they have on Lindsey Graham is so far beyond. It's like it's got to be disgusting. That's how I feel in the way that he acts. It's like manic almost in support of Israel.”
+
+</details>
+
+- **[Bill Ackman](/entities/person-bill-ackman.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:50:48](/episodes/ep-i8m_6D4QGmk.md#t-00-50-24): “That's why Israel supporters like Bill Ackman went rabid over the weekend over me suggesting that maybe military men shouldn't sign up. Maybe you shouldn't sign up to join the military in America if this is the circumstance that we live in.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Target Of Criticism From (3)</summary>
+<summary>Target Of Criticism From (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Myron Gaines x Candace Owens @ 00:42:03](/episodes/ep-2T39-oADLj0.md#t-00-42-00): “between you tucker nick uh they're attacking all three of you guys saying oh you guys are anti-semites and you guys are pushing this whole thing and i and i give credit because you three have done an incredible job of you know awareing the american public on this topic uh when it comes to israel's control of the middle east what they're doing over there how they've been able to get away with this for so long killing people and no one knowing and you know they've been targeting you guys quite a bit uh and i see that you know there's been a bunch of drama with megan kelly and ben shapiro and everything else like that what are your thoughts on the entire on the situation because like you know anytime they mention dr you're right there right when it comes to the criticism of israel yeah”
+- [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:41:20](/episodes/ep-i8m_6D4QGmk.md#t-00-41-20): “It's always peace until Israel gets involved. They don't know peace. They don't want peace.”
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:48:31](/episodes/ep-ZzAT2xijKGQ.md#t-00-48-05): “Our country, like I said, is in decline and it's very obvious that the priority is just to serve Israel and that will be Trump (Donald J. Trump)'s legacy, sadly.”
 
 </details>
 
@@ -3490,10 +4038,17 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 </details>
 
+- **[Theo Von](/entities/person-theo-von.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:20:55](/episodes/ep-I0OaY6Gryqk.md#t-00-20-55): “But I do have a lot of uncomfort about America's relationship with Israel, the Israeli political leaders, that's what I mean.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (12)</summary>
+<summary>Referenced By (17)</summary>
 
 - **[Ian Carroll](/entities/person-ian-carroll.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -3506,6 +4061,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 02:28:08](/episodes/ep-nPhCKwJ6ye8.md#t-02-27-56): “How, why, Ink, France, and Israel are involved in Charlie Kirk's assassination. ... And I'm going to put that out there with full confidence. Okay. I Yeah. also involve him. I understand.”
+
+</details>
+
+- **[Joe Kent](/entities/person-joe-kent.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:05:37](/episodes/ep-I0OaY6Gryqk.md#t-00-05-30): “You demonstrated this by killing Qasem Soleimani and by defeating ISIS. Early in this administration, high-ranking Israeli officials and influential members of the American media deployed a misinformation campaign that wholly undermined your America First platform and sowed pro-war sentiments to encourage a war with Iran.”
 
 </details>
 
@@ -3523,10 +4085,19 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 </details>
 
-- **[Candace Owens](/entities/person-candace-owens.md)** critic of this
+- **[United States](/entities/gpe-united-states.md)** attacked by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:49:48](/episodes/ep-i8m_6D4QGmk.md#t-00-49-48): “That's right. He only allows Israel to do that. Only Israel is allowed to attack America. Only Israel got to get away with the Lavon Affair.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** critic of this
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
 - [Myron Gaines x Candace Owens @ 00:42:03](/episodes/ep-2T39-oADLj0.md#t-00-42-00): “between you tucker nick uh they're attacking all three of you guys saying oh you guys are anti-semites and you guys are pushing this whole thing and i and i give credit because you three have done an incredible job of you know awareing the american public on this topic uh when it comes to israel's control of the middle east what they're doing over there how they've been able to get away with this for so long killing people and no one knowing and you know they've been targeting you guys quite a bit uh and i see that you know there's been a bunch of drama with megan kelly and ben shapiro and everything else like that what are your thoughts on the entire on the situation because like you know anytime they mention dr you're right there right when it comes to the criticism of israel yeah”
+- [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:41:20](/episodes/ep-i8m_6D4QGmk.md#t-00-41-20): “It's always peace until Israel gets involved. They don't know peace. They don't want peace.”
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:48:31](/episodes/ep-ZzAT2xijKGQ.md#t-00-48-05): “Our country, like I said, is in decline and it's very obvious that the priority is just to serve Israel and that will be Trump (Donald J. Trump)'s legacy, sadly.”
 
 </details>
 
@@ -3542,6 +4113,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Myron Gaines x Candace Owens @ 00:42:03](/episodes/ep-2T39-oADLj0.md#t-00-42-00): “between you tucker nick uh they're attacking all three of you guys saying oh you guys are anti-semites and you guys are pushing this whole thing and i and i give credit because you three have done an incredible job of you know awareing the american public on this topic uh when it comes to israel's control of the middle east what they're doing over there how they've been able to get away with this for so long killing people and no one knowing and you know they've been targeting you guys quite a bit uh and i see that you know there's been a bunch of drama with megan kelly and ben shapiro and everything else like that what are your thoughts on the entire on the situation because like you know anytime they mention dr you're right there right when it comes to the criticism of israel yeah”
+
+</details>
+
+- **[Theo Von](/entities/person-theo-von.md)** critic of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:20:55](/episodes/ep-I0OaY6Gryqk.md#t-00-20-55): “But I do have a lot of uncomfort about America's relationship with Israel, the Israeli political leaders, that's what I mean.”
 
 </details>
 
@@ -3574,9 +4152,24 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 - **[Lindsey Graham](/entities/person-lindsey-graham.md)** supporter of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:10:53](/episodes/ep-xjzb_t5Tk9o.md#t-01-10-43): “he's like terrifyingly supportive of Israel.”
+- [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:58:05](/episodes/ep-i8m_6D4QGmk.md#t-00-57-39): “I imagine whatever they have on Lindsey Graham is so far beyond. It's like it's got to be disgusting. That's how I feel in the way that he acts. It's like manic almost in support of Israel.”
+
+</details>
+
+- **[Bill Ackman](/entities/person-bill-ackman.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:50:48](/episodes/ep-i8m_6D4QGmk.md#t-00-50-24): “That's why Israel supporters like Bill Ackman went rabid over the weekend over me suggesting that maybe military men shouldn't sign up. Maybe you shouldn't sign up to join the military in America if this is the circumstance that we live in.”
+
+</details>
+
+- **[Benjamin Gantz](/entities/person-benjamin-gantz.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:46:53](/episodes/ep-i8m_6D4QGmk.md#t-00-46-26): “Here is Israel's defense minister, Benny Gantz, discussing that he's not going to exclude that need. Take a listen.”
 
 </details>
 
@@ -3585,7 +4178,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel (136)</strong></summary>
+<summary><strong class="section-title">Statements about Israel (178)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2)</summary>
@@ -3595,6 +4188,158 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [02:37:26](/episodes/ep-nPhCKwJ6ye8.md#t-02-37-26) (Prediction) **Candace Owens**: ["Candace Owens predicts that Israel will ultimately be found to have be..."](/statements/statement-d5c74ed071c8.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (3)</summary>
+
+- [00:03:30](/episodes/ep-B9TyCs-6o_0.md#t-00-03-17) (Claim) **Joe Kent** (via quoted speech): ["Charlie Kirk advocated to President Trump against war with Iran, and I..."](/statements/statement-949bf4e50b9e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md)
+
+- [00:10:45](/episodes/ep-B9TyCs-6o_0.md#t-00-10-21) (Opinion) **Andrew Kolvet** (via quoted speech): ["Turning Point USA does not believe Israel or Jewish people had Charlie..."](/statements/statement-bdd0fe79f23d.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Jewish people](/entities/concept-jewish-people.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:12:20](/episodes/ep-B9TyCs-6o_0.md#t-00-12-00) (Accusation) **Candace Owens**: ["Turning Point USA stayed silent about Charlie Kirk's changing views on..."](/statements/statement-9670acfb776c.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Josh Hammer](/entities/person-josh-hammer.md)
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (11)</summary>
+
+- [00:04:57](/episodes/ep-I0OaY6Gryqk.md#t-00-04-47) (Accusation) **Joe Kent** (via quoted document): ["Iran posed no imminent threat to the United States, and the war was st..."](/statements/statement-f11b07d63dca.md)
+  - Also about: [Iran](/entities/gpe-iran.md), [Israel lobby](/entities/concept-israel-lobby.md), [United States](/entities/gpe-united-states.md)
+
+- [00:05:37](/episodes/ep-I0OaY6Gryqk.md#t-00-05-30) (Accusation) **Joe Kent** (via quoted document): ["High-ranking Israeli officials and influential American media figures ..."](/statements/statement-8cdebd9bd9a3.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md)
+
+- [00:06:19](/episodes/ep-I0OaY6Gryqk.md#t-00-06-12) (Accusation) **Joe Kent** (via quoted document): ["Joe Kent described the war in which Shannon Kent died as manufactured ..."](/statements/statement-68ade835613a.md)
+  - Also about: [United States](/entities/gpe-united-states.md), [United States Armed Forces](/entities/org-united-states-armed-forces.md)
+
+- [00:15:41](/episodes/ep-I0OaY6Gryqk.md#t-00-15-14) (Accusation) **Alan Dershowitz** (via quoted post): ["Joe Kent was a neo-Nazi, Jew-hating Israel basher, and his departure w..."](/statements/statement-31310da11c70.md)
+  - Also about: [Joe Kent](/entities/person-joe-kent.md)
+
+- [00:18:44](/episodes/ep-I0OaY6Gryqk.md#t-00-18-44) (Accusation) **Candace Owens**: ["Zionist opponents were emailing and calling people to seek cancellatio..."](/statements/statement-714c3f1f977b.md)
+  - Also about: [Catholics for Catholics](/entities/org-catholics-for-catholics.md), [Zionism](/entities/concept-zionism.md)
+
+- [00:20:55](/episodes/ep-I0OaY6Gryqk.md#t-00-20-55) (Opinion) **Theo Von** (via quoted speech): ["Israel's political leadership feels like a satanic regime that wants t..."](/statements/statement-5e3d3aa2f40c.md)
+
+- [00:21:42](/episodes/ep-I0OaY6Gryqk.md#t-00-21-42) (Prediction) **Theo Von** (via quoted speech): ["Israel's leaders do not intend to stop their attacks and do not care f..."](/statements/statement-6e41ba23c1d7.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+- [00:23:18](/episodes/ep-I0OaY6Gryqk.md#t-00-22-55) (Opinion) **Theo Von** (via quoted speech): ["The United States government is beholden to an Israeli government that..."](/statements/statement-b73ec3e4de64.md)
+  - Also about: [United States](/entities/gpe-united-states.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:53:23](/episodes/ep-I0OaY6Gryqk.md#t-00-53-23) (Claim) **Benjamin Netanyahu** (via quoted speech): ["U.S. forces were doing incredible work alongside Israel, and Israel wa..."](/statements/statement-1f725d1325d2.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [United States Armed Forces](/entities/org-united-states-armed-forces.md), [Iran](/entities/gpe-iran.md)
+
+- [00:59:46](/episodes/ep-I0OaY6Gryqk.md#t-00-59-46) (Accusation) **Candace Owens**: ["Megyn Kelly has been subjected to literal stalking because she tells t..."](/statements/statement-95baa53f53fc.md)
+  - Also about: [Megyn Kelly](/entities/person-megyn-kelly.md), [Zionism](/entities/concept-zionism.md)
+
+- [01:08:45](/episodes/ep-I0OaY6Gryqk.md#t-01-08-45) (Accusation) **Candace Owens**: ["Did you murder Charlie Kirk? It feels like you might have murdered him..."](/statements/statement-121420580f1a.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (6)</summary>
+
+- [00:11:17](/episodes/ep-k8ueJdPFel4.md#t-00-11-17) (Accusation) **Bret Weinstein** (via quoted post): ["It is reasonable to wonder whether Charlie Kirk's refusal to back down..."](/statements/statement-608f4f57505f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md)
+
+- [00:12:06](/episodes/ep-k8ueJdPFel4.md#t-00-12-00) (Opinion) **Charlie Kirk** (via read message): ["Charlie Kirk agreed that advocates of war with Iran had to be shut dow..."](/statements/statement-91deb60253fe.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md)
+
+- [00:27:30](/episodes/ep-k8ueJdPFel4.md#t-00-27-09) (Citation) **Candace Owens** (via paraphrase): ["Italian Prime Minister Giorgia Meloni described the U.S.-Israeli war o..."](/statements/statement-68d2c65944a7.md)
+  - Also about: [Giorgia Meloni](/entities/person-giorgia-meloni.md), [United States](/entities/gpe-united-states.md), [Iran](/entities/gpe-iran.md)
+
+- [00:32:12](/episodes/ep-k8ueJdPFel4.md#t-00-32-07) (Claim) **Donald J. Trump** (via quoted speech): ["The United States became involved out of habit and because it has good..."](/statements/statement-3fd510ce0473.md)
+  - Also about: [United States](/entities/gpe-united-states.md), [Middle East](/entities/gpe-middle-east.md)
+
+- [00:37:57](/episodes/ep-k8ueJdPFel4.md#t-00-37-36) (Accusation) **Candace Owens**: ["The overwhelming majority of people in the world sense that Charlie Ki..."](/statements/statement-038056635317.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md)
+
+- [00:47:25](/episodes/ep-k8ueJdPFel4.md#t-00-47-25) (Opinion) **Candace Owens**: ["Donald Trump is serving Israel rather than American interests, and no ..."](/statements/statement-ec81b065161c.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [United States](/entities/gpe-united-states.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (2)</summary>
+
+- [00:43:13](/episodes/ep-5-HUyv9LyMg.md#t-00-42-56) (Accusation) **Candace Owens**: ["Turning Point Action called Thomas Massie a RINO who should be replace..."](/statements/statement-e8f11996a3eb.md)
+  - Also about: [Turning Point Action](/entities/org-turning-point-action.md), [Thomas Massie](/entities/person-thomas-massie.md), [Ukraine](/entities/gpe-ukraine.md)
+
+- [00:56:01](/episodes/ep-5-HUyv9LyMg.md#t-00-56-01) (Accusation) **Candace Owens**: ["Candace Owens argued that the alleged .30-06 weapon makes a deep-state..."](/statements/statement-f2da4d8e4652.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [John F. Kennedy](/entities/person-john-f-kennedy.md)
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1)</summary>
+
+- [00:06:09](/episodes/ep-ZzAT2xijKGQ.md#t-00-06-09) (Accusation) **Candace Owens**: ["They're distracting us from the Epstein files and doing whatever Israe..."](/statements/statement-e46f1e5df1b7.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (16)</summary>
+
+- [00:00:19](/episodes/ep-i8m_6D4QGmk.md#t-00-00-00) (Accusation) **Candace Owens**: ["Perhaps this entire war has been engineered by Israel."](/statements/statement-46ccdc1038d7.md)
+
+- [00:33:54](/episodes/ep-i8m_6D4QGmk.md#t-00-33-30) (Accusation) **Candace Owens**: ["After Charlie Kirk was assassinated, Donald Trump devoted at most thre..."](/statements/statement-d7b571230e71.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:36:27](/episodes/ep-i8m_6D4QGmk.md#t-00-36-27) (Citation) **Candace Owens**: ["The IHRA definition of antisemitism includes accusing Jewish citizens ..."](/statements/statement-98487cc0ca4f.md)
+  - Also about: [International Holocaust Remembrance Alliance](/entities/org-international-holocaust-remembrance-alliance.md), [Antisemitism](/entities/concept-antisemitism.md)
+
+- [00:37:23](/episodes/ep-i8m_6D4QGmk.md#t-00-37-09) (Opinion) **Donald J. Trump** (via quoted speech): ["Miriam Adelson refused to answer whether she loves the United States o..."](/statements/statement-76c927b7757c.md)
+  - Also about: [Miriam Adelson](/entities/person-miriam-adelson.md), [United States](/entities/gpe-united-states.md)
+
+- [00:38:43](/episodes/ep-i8m_6D4QGmk.md#t-00-38-27) (Citation) **Candace Owens**: ["Venezuela sent its first oil shipment to Israel in years as relations ..."](/statements/statement-0d6ef61117a8.md)
+  - Also about: [Venezuela](/entities/gpe-venezuela.md)
+
+- [00:41:01](/episodes/ep-i8m_6D4QGmk.md#t-00-40-36) (Citation) **Candace Owens**: ["Israel is unlawfully using white phosphorus in Lebanon."](/statements/statement-223b4c32c900.md)
+  - Also about: [Lebanon](/entities/gpe-lebanon.md)
+
+- [00:42:27](/episodes/ep-i8m_6D4QGmk.md#t-00-42-27) (Claim) **Marco Rubio** (via quoted speech): ["The United States knew Israeli action would precipitate an attack on A..."](/statements/statement-d70f814454fc.md)
+  - Also about: [United States](/entities/gpe-united-states.md), [Iran](/entities/gpe-iran.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:44:48](/episodes/ep-i8m_6D4QGmk.md#t-00-44-48) (Claim) **Candace Owens** (via paraphrase): ["Norman Finkelstein said Israel had a government policy called 'mowing ..."](/statements/statement-38d396825ea7.md)
+  - Also about: [Norman Finkelstein](/entities/person-norman-finkelstein.md), [Gaza](/entities/gpe-gaza.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md)
+
+- [00:46:26](/episodes/ep-i8m_6D4QGmk.md#t-00-46-26) (Prediction) **Candace Owens**: ["If Benjamin Netanyahu or Miriam Adelson tells him to, Trump will send ..."](/statements/statement-4acef0455828.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Miriam Adelson](/entities/person-miriam-adelson.md)
+
+- [00:47:51](/episodes/ep-i8m_6D4QGmk.md#t-00-47-51) (Claim) **Benjamin Gantz** (via quoted speech): ["Benny Gantz would not exclude boots on the ground and said every neces..."](/statements/statement-9be8260b42e5.md)
+  - Also about: [Benjamin Gantz](/entities/person-benjamin-gantz.md), [Iran](/entities/gpe-iran.md)
+
+- [00:49:48](/episodes/ep-i8m_6D4QGmk.md#t-00-49-48) (Accusation) **Candace Owens**: ["Israel attacked America in the Lavon Affair and the USS Liberty incide..."](/statements/statement-82a8a1deed57.md)
+  - Also about: [United States](/entities/gpe-united-states.md), [Lavon Affair](/entities/event-lavon-affair.md), [USS Liberty](/entities/vehicle-uss-liberty.md)
+
+- [00:52:03](/episodes/ep-i8m_6D4QGmk.md#t-00-51-52) (Opinion) **Candace Owens**: ["No American son or daughter should die for Israel."](/statements/statement-64b198edae1e.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+- [00:58:05](/episodes/ep-i8m_6D4QGmk.md#t-00-57-39) (Accusation) **Candace Owens**: ["Israel blackmails politicians by recording them doing compromising thi..."](/statements/statement-36f40ce3b32e.md)
+
+- [00:58:50](/episodes/ep-i8m_6D4QGmk.md#t-00-58-50) (Accusation) **Candace Owens**: ["Israel controls the troops and the presidency of the United States."](/statements/statement-68c65212675d.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+- [01:03:07](/episodes/ep-i8m_6D4QGmk.md#t-01-02-44) (Accusation) **Candace Owens**: ["Pastors have already been promised homes or property in Gaza to convin..."](/statements/statement-9bb3ae28e0de.md)
+  - Also about: [Gaza](/entities/gpe-gaza.md), [Christian Zionism](/entities/concept-christian-zionism.md)
+
+- [01:04:52](/episodes/ep-i8m_6D4QGmk.md#t-01-04-35) (Opinion) **Candace Owens**: ["Donald Trump is dedicating the rest of his time to destroying America ..."](/statements/statement-d30987d38da2.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [United States](/entities/gpe-united-states.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1)</summary>
+
+- [00:57:32](/episodes/ep-y8lak3CRwDw.md#t-00-57-26) (Accusation) **Candace Owens**: ["The Bolsheviks created concentration camps, then moved to Israel and a..."](/statements/statement-de88f0d1932b.md)
+  - Also about: [Bolsheviks](/entities/concept-bolsheviks.md)
 
 </details>
 
@@ -4165,6 +4910,17 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [00:19:30](/episodes/ep-_dRaEO47-co.md#t-00-18-47) (Claim) **Candace Owens**: ["Candace and Charlie Kirk never stopped being friends despite public di..."](/statements/statement-b78e5146c5e6.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (2)</summary>
+
+- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) (Accusation) **Alexis Wilkins** (via quoted tweet): ["Within hours of Charlie Kirk's assassination, Candace Owens publicly a..."](/statements/statement-b2726c243b67.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:34:49](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49) (Claim) **Candace Owens**: ["I did not name Erika Kirk or attribute Charlie Kirk's killing to Israe..."](/statements/statement-e1617f27d099.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

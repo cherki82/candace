@@ -1,6 +1,6 @@
 ---
 title: "Kabbalah"
-description: "Kabbalah (Concepts) - 8 mentions"
+description: "Kabbalah (Concepts) - 9 mentions"
 id: "concept-kabbalah"
 type: "CONCEPT"
 categories:
@@ -17,9 +17,9 @@ Source: [Encyclopaedia Britannica: Kabbala](https://www.britannica.com/topic/Kab
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-concept-kabbalah-t-00-56-38">2025-10-06 · 00:57:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-kabbalah-t-00-04-13">2026-02-02 · 00:04:13</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-kabbalah-t-01-01-30">2026-03-09 · 01:01:51</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,6 +33,7 @@ Source: [Encyclopaedia Britannica: Kabbala](https://www.britannica.com/topic/Kab
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-concept-kabbalah-t-00-56-38" style="--pulse-height:75%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 3 mentions" title="2025-10-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-concept-kabbalah-t-00-52-11" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 4 mentions" title="2025-10-28 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-kabbalah-t-00-04-13" style="--pulse-height:25%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-kabbalah-t-01-01-30" style="--pulse-height:25%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -41,6 +42,7 @@ Source: [Encyclopaedia Britannica: Kabbala](https://www.britannica.com/topic/Kab
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-concept-kabbalah-t-00-56-38) | 3 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-kabbalah-t-00-52-11) | 4 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-kabbalah-t-00-04-13) | 1 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-concept-kabbalah-t-01-01-30) | 1 |
 
 </details>
 </section>
@@ -48,7 +50,15 @@ Source: [Encyclopaedia Britannica: Kabbala](https://www.britannica.com/topic/Kab
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
+
+**[01:01:51](/episodes/ep-i8m_6D4QGmk.md#ent-concept-kabbalah-t-01-01-30)**
+> "Kabbalah, Satanism"
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>

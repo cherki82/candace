@@ -1,6 +1,6 @@
 ---
-title: "USA location of Riverbend Ranch"
-description: "Evidence for the relationship: USA location of Riverbend Ranch"
+title: "United States location of Riverbend Ranch"
+description: "Evidence for the relationship: United States location of Riverbend Ranch"
 relationship_id: "rel-78fcf92a5ca2"
 subject: "gpe-united-states"
 predicate: "location of"
@@ -9,7 +9,7 @@ object: "org-riverbend-ranch"
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [USA](/entities/gpe-united-states) location of [Riverbend Ranch](/entities/org-riverbend-ranch)
+## [United States](/entities/gpe-united-states) location of [Riverbend Ranch](/entities/org-riverbend-ranch)
 
 ### Evidence (1 mentions)
 
@@ -19,5 +19,5 @@ object: "org-riverbend-ranch"
 
 ### Related
 
-- [USA](/entities/gpe-united-states)
+- [United States](/entities/gpe-united-states)
 - [Riverbend Ranch](/entities/org-riverbend-ranch)

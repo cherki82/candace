@@ -1,17 +1,26 @@
 ---
 title: "Connecticut"
-description: "Connecticut (Places) - 8 mentions"
+description: "Connecticut (Places) - 12 mentions"
 id: "gpe-connecticut"
 type: "GPE"
+categories:
+  - "state"
+  - "United States"
 ---
 
 _Type: Places_
 
+**Categories:** state, United States
+
+**Entity verification:** verified
+> Official State of Connecticut portal confirms the canonical state name Connecticut.
+Source: [CT.gov: Connecticut's Official State Website](https://portal.ct.gov/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-connecticut-t-00-47-25">2025-10-01 · 00:47:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-connecticut-t-00-22-17">2025-11-04 · 00:22:25</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-connecticut-t-00-52-09">2026-03-23 · 00:52:09</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -26,6 +35,9 @@ _Type: Places_
 <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-connecticut-t-00-11-19" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 5 mentions" title="2025-10-02 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-gpe-connecticut-t-00-45-48" style="--pulse-height:20%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-connecticut-t-00-22-17" style="--pulse-height:20%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-connecticut-t-00-55-19" style="--pulse-height:20%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-connecticut-t-00-27-35" style="--pulse-height:20%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-connecticut-t-00-50-18" style="--pulse-height:40%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -35,6 +47,9 @@ _Type: Places_
 | 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-connecticut-t-00-11-19) | 5 |
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-connecticut-t-00-45-48) | 1 |
 | 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-connecticut-t-00-22-17) | 1 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-connecticut-t-00-55-19) | 1 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-connecticut-t-00-27-35) | 1 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-connecticut-t-00-50-18) | 2 |
 
 </details>
 </section>
@@ -42,7 +57,34 @@ _Type: Places_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (2 mentions)</summary>
+
+**[00:50:28](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-connecticut-t-00-50-18)**
+> "Connecticut's not doing that. Connecticut, look at me, Anthony. Connecticut is not doing it. This is even different. You say Nevada, we say Nevada, and Ashley, you say Nevada."
+
+**[00:52:09](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-connecticut-t-00-52-09)**
+> "...gree you speak Spanish see if Connecticut wins what's up Connecticut in the chat I'm repres..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>
+
+**[00:28:10](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-connecticut-t-00-27-35)**
+> "The UK, Ireland and Connecticut and New Jersey are saying lozenger and people els..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
+
+**[00:55:46](/episodes/ep-y8lak3CRwDw.md#ent-gpe-connecticut-t-00-55-19)**
+> "I am from Connecticut"
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>

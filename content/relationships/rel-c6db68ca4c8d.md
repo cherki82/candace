@@ -11,7 +11,11 @@ object: "person-ben-shapiro"
 
 ## [Erika Kirk](/entities/person-erika-kirk) defended by [Ben Shapiro](/entities/person-ben-shapiro)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4)**
+
+- [00:19:15](/episodes/ep-k8ueJdPFel4#t-00-19-15): _I'll just ask you straight up. Is Candace Owens doing something evil by attacking Erika Kirk?_
 
 **[What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs)**
 

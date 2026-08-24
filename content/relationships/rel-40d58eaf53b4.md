@@ -11,7 +11,11 @@ object: "person-emmanuel-macron"
 
 ## [Candace Owens](/entities/person-candace-owens) sued by [Emmanuel Macron](/entities/person-emmanuel-macron)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg)**
+
+- [01:00:12](/episodes/ep-5-HUyv9LyMg#t-01-00-12): _a Macron abuses a kid who, uh, is suing Candace for talking about it_
 
 **[Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM)**
 

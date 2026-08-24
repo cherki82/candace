@@ -136,7 +136,7 @@ _Type: Places_
 <details>
 <summary>Headquarters Of (1)</summary>
 
-- **[UVU](/entities/org-utah-valley-university.md)**
+- **[Utah Valley University](/entities/org-utah-valley-university.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:06:17](/episodes/ep-2WEHTk0Xewg.md#t-00-05-48): “stuck in Orem, that's the town that UVU is at”
@@ -148,7 +148,7 @@ _Type: Places_
 <details>
 <summary>Location Of (1)</summary>
 
-- **[UVU](/entities/org-utah-valley-university.md)**
+- **[Utah Valley University](/entities/org-utah-valley-university.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:06:17](/episodes/ep-2WEHTk0Xewg.md#t-00-05-48): “I'm stuck in Orem, that's the town that UVU is at,”
@@ -160,14 +160,14 @@ _Type: Places_
 <details>
 <summary>Referenced By (2)</summary>
 
-- **[UVU](/entities/org-utah-valley-university.md)** based in this
+- **[Utah Valley University](/entities/org-utah-valley-university.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:06:17](/episodes/ep-2WEHTk0Xewg.md#t-00-05-48): “I'm stuck in Orem, that's the town that UVU is at,”
 
 </details>
 
-- **[UVU](/entities/org-utah-valley-university.md)** headquartered in this
+- **[Utah Valley University](/entities/org-utah-valley-university.md)** headquartered in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:06:17](/episodes/ep-2WEHTk0Xewg.md#t-00-05-48): “stuck in Orem, that's the town that UVU is at”

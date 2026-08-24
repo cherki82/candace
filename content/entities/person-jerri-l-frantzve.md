@@ -27,7 +27,7 @@ Source: [Emerging Female Leaders Within the Closed Societies of American Indian 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-person-jerri-l-frantzve-t-00-11-51">2026-02-27 · 00:12:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-person-jerri-l-frantzve-t-00-24-00">2026-03-03 · 00:24:00</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-person-jerri-l-frantzve-t-00-13-07">2026-03-04 · 00:13:32</a></strong></div>
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>55</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
@@ -43,6 +43,7 @@ Source: [Emerging Female Leaders Within the Closed Societies of American Indian 
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-person-jerri-l-frantzve-t-00-11-51" style="--pulse-height:100%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 38 mentions" title="2026-02-27 · 38 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-jerri-l-frantzve-t-00-09-00" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 3 mentions" title="2026-03-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-person-jerri-l-frantzve-t-00-01-29" style="--pulse-height:32%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 12 mentions" title="2026-03-03 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-person-jerri-l-frantzve-t-00-02-30" style="--pulse-height:8%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [Emerging Female Leaders Within the Closed Societies of American Indian 
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-person-jerri-l-frantzve-t-00-11-51) | 38 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-jerri-l-frantzve-t-00-09-00) | 3 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-jerri-l-frantzve-t-00-01-29) | 12 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-person-jerri-l-frantzve-t-00-02-30) | 2 |
 
 </details>
 </section>
@@ -59,6 +61,17 @@ Source: [Emerging Female Leaders Within the Closed Societies of American Indian 
 
 <details>
 <summary><strong class="section-title">Raw mentions (55)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (2 mentions)</summary>
+
+**[00:02:30](/episodes/ep-y8lak3CRwDw.md#ent-person-jerri-l-frantzve-t-00-02-30)**
+> "...terday that in 1989, when Dr. Jerri Frantzve is itching to get out there, the Berlin Wall came..."
+
+**[00:13:32](/episodes/ep-y8lak3CRwDw.md#ent-person-jerri-l-frantzve-t-00-13-07)**
+> "...e researchers? What about the Dr. Frantzve type students? Well, there always has to be a gro..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (12 mentions)</summary>
@@ -231,17 +244,6 @@ Source: [Emerging Female Leaders Within the Closed Societies of American Indian 
 
 **[01:01:38](/episodes/ep-1IY2oD-_xVA.md#ent-person-jerri-l-frantzve-t-01-01-06)**
 > "Dr. Frantzve is important and now I can just kind of give you ..."
-
-</details>
-
-<details>
-<summary>ep-y8lak3CRwDw (2 mentions)</summary>
-
-**[00:02:30](/episodes/ep-y8lak3CRwDw.md#t-00-02-30)**
-> "...terday that in 1989, when Dr. Jerri Frantzve is itching to get out there, the Berlin Wall came..."
-
-**[00:13:32](/episodes/ep-y8lak3CRwDw.md#t-00-13-32)**
-> "...e researchers? What about the Dr. Frantzve type students? Well, there always has to be a gro..."
 
 </details>
 

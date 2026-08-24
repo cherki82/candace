@@ -1,17 +1,18 @@
 ---
 title: "Middle East"
-description: "Middle East (Places) - 37 mentions"
+description: "Middle East (Places) - 52 mentions"
 id: "gpe-middle-east"
 type: "GPE"
 aliases:
   - "the Middle East"
+  - "Middle Eastern"
 categories:
   - "geopolitical region"
 ---
 
 _Type: Places_
 
-**Also known as:** the Middle East
+**Also known as:** the Middle East, Middle Eastern
 
 **Categories:** geopolitical region
 
@@ -21,36 +22,40 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-middle-east-t-00-54-45">2025-09-16 · 00:55:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-middle-east-t-00-04-53">2026-03-02 · 00:04:53</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>37</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-middle-east-t-00-48-10">2026-03-17 · 00:48:10</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>52</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-middle-east-t-00-41-11">Ben Shapiro Is Crying Again. | Candace Ep 261</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-middle-east-t-00-35-25">Donald Trump Has Betrayed America. | Candace Ep 308</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-middle-east-t-00-54-45" style="--pulse-height:25%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-23-06" style="--pulse-height:75%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 3 mentions" title="2025-10-30 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-middle-east-t-00-31-52" style="--pulse-height:25%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-gpe-middle-east-t-00-50-32" style="--pulse-height:25%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-middle-east-t-00-41-11" style="--pulse-height:100%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 4 mentions" title="2025-11-08 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-middle-east-t-00-58-06" style="--pulse-height:50%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-middle-east-t-00-12-13" style="--pulse-height:75%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-middle-east-t-00-42-29" style="--pulse-height:50%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-middle-east-t-00-47-54" style="--pulse-height:25%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-middle-east-t-00-03-11" style="--pulse-height:75%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 3 mentions" title="2025-12-20 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-middle-east-t-00-04-53" style="--pulse-height:75%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-middle-east-t-00-50-49" style="--pulse-height:75%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-middle-east-t-00-34-26" style="--pulse-height:25%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-middle-east-t-00-52-59" style="--pulse-height:25%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-middle-east-t-00-02-59" style="--pulse-height:25%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-middle-east-t-00-31-48" style="--pulse-height:50%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-middle-east-t-00-03-27" style="--pulse-height:75%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 3 mentions" title="2026-03-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-middle-east-t-00-54-45" style="--pulse-height:12%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-23-06" style="--pulse-height:38%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 3 mentions" title="2025-10-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-middle-east-t-00-31-52" style="--pulse-height:12%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-gpe-middle-east-t-00-50-32" style="--pulse-height:12%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-middle-east-t-00-41-11" style="--pulse-height:50%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 4 mentions" title="2025-11-08 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-middle-east-t-00-58-06" style="--pulse-height:25%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-middle-east-t-00-12-13" style="--pulse-height:38%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-middle-east-t-00-42-29" style="--pulse-height:25%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-middle-east-t-00-47-54" style="--pulse-height:12%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-middle-east-t-00-03-11" style="--pulse-height:38%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 3 mentions" title="2025-12-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-middle-east-t-00-04-53" style="--pulse-height:38%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-middle-east-t-00-50-49" style="--pulse-height:38%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-middle-east-t-00-34-26" style="--pulse-height:12%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-middle-east-t-00-52-59" style="--pulse-height:12%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-middle-east-t-00-02-59" style="--pulse-height:12%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-middle-east-t-00-31-48" style="--pulse-height:25%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-middle-east-t-00-03-27" style="--pulse-height:38%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 3 mentions" title="2026-03-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-middle-east-t-00-40-10" style="--pulse-height:25%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-middle-east-t-00-35-25" style="--pulse-height:100%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 8 mentions" title="2026-03-09 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-middle-east-t-00-00-23" style="--pulse-height:75%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 6 mentions" title="2026-03-17 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-middle-east-t-00-04-47" style="--pulse-height:12%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -73,6 +78,10 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-middle-east-t-00-02-59) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-middle-east-t-00-31-48) | 2 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-middle-east-t-00-03-27) | 3 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-middle-east-t-00-40-10) | 2 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-middle-east-t-00-35-25) | 8 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-middle-east-t-00-00-23) | 6 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-middle-east-t-00-04-47) | 1 |
 
 </details>
 </section>
@@ -80,7 +89,78 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (6 mentions)</summary>
+
+**[00:00:23](/episodes/ep-k8ueJdPFel4.md#ent-gpe-middle-east-t-00-00-23)**
+> "...ently engaged in a war in the Middle East that we cannot win. To be clear, okay, we cannot ..."
+
+**[00:25:56](/episodes/ep-k8ueJdPFel4.md#ent-gpe-middle-east-t-00-25-51)**
+> "...wanted an end to never-ending Middle Eastern conflict. He decided not to listen. There is no a..."
+
+**[00:26:11](/episodes/ep-k8ueJdPFel4.md#ent-gpe-middle-east-t-00-25-51)**
+> ".... OK, that choke point in the Middle East. They're like, we're going to need that, actually..."
+
+**[00:32:12](/episodes/ep-k8ueJdPFel4.md#ent-gpe-middle-east-t-00-32-07)**
+> "...ies there. We have some great Middle Eastern countries there, Israel there, so we did it for a..."
+
+**[00:37:36](/episodes/ep-k8ueJdPFel4.md#ent-gpe-middle-east-t-00-37-36)**
+> "...they cannot land plans in the Middle East."
+
+**[00:48:10](/episodes/ep-k8ueJdPFel4.md#ent-gpe-middle-east-t-00-48-10)**
+> "...ey to in the middle of in the middle east iraq ever i mean no but we've got our own oil and..."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>
+
+**[00:05:19](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-middle-east-t-00-04-47)**
+> "the wars in the Middle East were a trap"
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (8 mentions)</summary>
+
+**[00:35:43](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-middle-east-t-00-35-25)**
+> "Middle East conflict"
+
+**[00:43:51](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-middle-east-t-00-43-41)**
+> "...re currently spreading in the Middle East."
+
+**[00:45:35](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-middle-east-t-00-45-13)**
+> "...aganda. You're going into the Middle East. There's no plan. There's going to be no end in s..."
+
+**[00:49:18](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-middle-east-t-00-48-55)**
+> "...r troops and our bases in the Middle East, which Iran has been threatening for 47 years."
+
+**[00:49:31](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-middle-east-t-00-49-31)**
+> "... and our men and women in the Middle East first."
+
+**[00:57:31](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-middle-east-t-00-57-19)**
+> "...ust love dead children in the Middle East. It's just made up. We all know they're lying."
+
+**[00:58:32](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-middle-east-t-00-58-18)**
+> "...as just a tiny country in the Middle East, believing that they had never done anything to a..."
+
+**[00:59:42](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-middle-east-t-00-59-35)**
+> "It's always the Middle East, always the Muslims. We're awake from that. And s..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (2 mentions)</summary>
+
+**[00:40:10](/episodes/ep-y8lak3CRwDw.md#ent-gpe-middle-east-t-00-40-10)**
+> "...ently that had to do with the Middle East, actually."
+
+**[00:40:32](/episodes/ep-y8lak3CRwDw.md#ent-gpe-middle-east-t-00-40-10)**
+> "Israel in the Middle East swept under the rug. No lone shooter Stephen Padd..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (3 mentions)</summary>
@@ -272,17 +352,6 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 
 </details>
 
-<details>
-<summary>ep-y8lak3CRwDw (2 mentions)</summary>
-
-**[00:40:10](/episodes/ep-y8lak3CRwDw.md#t-00-40-10)**
-> "...ently that had to do with the Middle East, actually."
-
-**[00:40:32](/episodes/ep-y8lak3CRwDw.md#t-00-40-32)**
-> "Israel in the Middle East swept under the rug. No lone shooter Stephen Padd..."
-
-</details>
-
 </details>
 
 <details open>
@@ -293,7 +362,21 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Middle East (2)</strong></summary>
+<summary><strong class="section-title">Statements about Middle East (5)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (3)</summary>
+
+- [00:00:23](/episodes/ep-k8ueJdPFel4.md#t-00-00-23) (Accusation) **Candace Owens**: ["Donald Trump is engaged in treachery with a Zionist cabal, and the Uni..."](/statements/statement-70668796804b.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:32:07](/episodes/ep-k8ueJdPFel4.md#t-00-32-07) (Claim) **Donald J. Trump** (via quoted speech): ["The United States produces more than twice as much oil as any other co..."](/statements/statement-b04527793691.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+- [00:32:12](/episodes/ep-k8ueJdPFel4.md#t-00-32-07) (Claim) **Donald J. Trump** (via quoted speech): ["The United States became involved out of habit and because it has good..."](/statements/statement-3fd510ce0473.md)
+  - Also about: [United States](/entities/gpe-united-states.md), [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>

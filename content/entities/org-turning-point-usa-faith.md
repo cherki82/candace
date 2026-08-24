@@ -1,28 +1,37 @@
 ---
 title: "Turning Point USA Faith"
-description: "Turning Point USA Faith (Organizations) - 51 mentions"
+description: "Turning Point USA Faith (Organizations) - 52 mentions"
 id: "org-turning-point-usa-faith"
 type: "ORG"
 aliases:
   - "TPUSA Faith affiliated"
   - "TPUSA Faith"
   - "Turning Point Faith"
+categories:
+  - "Christian civic organization"
+  - "Turning Point USA initiative"
 ---
 
 _Type: Organizations_
 
 **Also known as:** TPUSA Faith affiliated, TPUSA Faith, Turning Point Faith
 
+**Categories:** Christian civic organization, Turning Point USA initiative
+
 > **Possibly overlapping entity records:** [Turning Point Faith](/entities/org-turning-point-faith). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> Official TPUSA Faith site confirms the canonical TPUSA Faith brand, also spoken as Turning Point Faith, and identifies it as an initiative of Turning Point USA.
+Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-turning-point-usa-faith-t-00-42-50">2025-10-01 · 00:43:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-faith-t-00-18-07">2025-12-18 · 00:18:20</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>51</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-turning-point-usa-faith-t-00-15-11">2026-03-23 · 00:15:11</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>52</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>15</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -39,6 +48,7 @@ _Type: Organizations_
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-faith-t-00-32-07" style="--pulse-height:8%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-usa-faith-t-00-07-24" style="--pulse-height:12%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-faith-t-00-18-07" style="--pulse-height:12%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-turning-point-usa-faith-t-00-15-11" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +63,7 @@ _Type: Organizations_
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-faith-t-00-32-07) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-usa-faith-t-00-07-24) | 2 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-faith-t-00-18-07) | 2 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-turning-point-usa-faith-t-00-15-11) | 1 |
 
 </details>
 </section>
@@ -60,7 +71,15 @@ _Type: Organizations_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1 mentions)</summary>
+
+**[00:15:11](/episodes/ep-B9TyCs-6o_0.md#ent-org-turning-point-usa-faith-t-00-15-11)**
+> "following Turning Point Faith events for years"
+
+</details>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
@@ -345,18 +364,6 @@ _Type: Organizations_
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:08:44](/episodes/ep-YFmRH8p5lt0.md#t-00-08-14): “January 10th to 19th—I'm going to also say that I think this is relevant. Rob McCoy hosts the first-ever Turning Point USA Faith Pastors Tour of Israel.”
-
-</details>
-
-</details>
-
-<details>
-<summary>Investor Includes (1)</summary>
-
-- **[Lance Wallnau](/entities/person-lance-wallnau.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:20:07](/episodes/ep-YaZfwLQ7vrI.md#t-00-19-33): “he put a ton of money into Turning Point USA Faith operations”
 
 </details>
 

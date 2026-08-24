@@ -1,6 +1,6 @@
 ---
 title: "LinkedIn"
-description: "LinkedIn (Organizations) - 5 mentions"
+description: "LinkedIn (Organizations) - 7 mentions"
 id: "org-linkedin"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-linkedin-t-00-07-01">2026-01-19 · 00:07:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-linkedin-t-00-17-08">2026-02-25 · 00:17:28</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-linkedin-t-00-16-56">2026-03-18 · 00:17:20</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -35,6 +35,9 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-linkedin-t-00-27-20" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-org-linkedin-t-00-20-41" style="--pulse-height:100%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-linkedin-t-00-17-08" style="--pulse-height:100%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-linkedin-t-00-27-18" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-linkedin-t-00-27-36" style="--pulse-height:100%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-linkedin-t-00-16-56" style="--pulse-height:100%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +47,9 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-linkedin-t-00-27-20) | 1 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-linkedin-t-00-20-41) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-linkedin-t-00-17-08) | 1 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-linkedin-t-00-27-18) | 1 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-linkedin-t-00-27-36) | 1 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-org-linkedin-t-00-16-56) | 1 |
 
 </details>
 </section>
@@ -51,7 +57,31 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
+
+**[00:17:20](/episodes/ep-_vg7ucP1E0g.md#ent-org-linkedin-t-00-16-56)**
+> "And per her LinkedIn, she begins attending Liberty University for her master's degree. So you can see that there."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>
+
+**[00:27:36](/episodes/ep-DdPjoy5W-wY.md#ent-org-linkedin-t-00-27-36)**
+> "...h is what is mentioned on her LinkedIn."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
+
+**[00:27:27](/episodes/ep-y8lak3CRwDw.md#ent-org-linkedin-t-00-27-18)**
+> "...ona State University. Per her LinkedIn, she was a double bachelor of science in politica..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1 mentions)</summary>
@@ -82,14 +112,6 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 
 **[00:07:01](/episodes/ep-NIEbqsLAK8g.md#ent-org-linkedin-t-00-07-01)**
 > "Now we're going to pull up his LinkedIn because it's a bit of a journey."
-
-</details>
-
-<details>
-<summary>ep-y8lak3CRwDw (1 mentions)</summary>
-
-**[00:27:27](/episodes/ep-y8lak3CRwDw.md#t-00-27-27)**
-> "...ona State University. Per her LinkedIn, she was a double bachelor of science in politica..."
 
 </details>
 
@@ -125,7 +147,23 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about LinkedIn (1)</strong></summary>
+<summary><strong class="section-title">Statements about LinkedIn (3)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1)</summary>
+
+- [00:27:53](/episodes/ep-DdPjoy5W-wY.md#t-00-27-36) (Citation) **Candace Owens**: ["Erika Kirk's LinkedIn and other biographies describe her as holding Ba..."](/statements/statement-f22408cdde96.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Arizona State University](/entities/org-arizona-state-university.md), [Political Science](/entities/concept-political-science.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1)</summary>
+
+- [00:27:27](/episodes/ep-y8lak3CRwDw.md#t-00-27-18) (Citation) **Candace Owens**: ["Erika Kirk graduated magna cum laude from Arizona State University in ..."](/statements/statement-5ee76f04ba36.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Arizona State University](/entities/org-arizona-state-university.md)
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "TikTok"
-description: "TikTok (Organizations) - 52 mentions"
+description: "TikTok (Organizations) - 53 mentions"
 id: "org-tiktok"
 type: "ORG"
 categories:
@@ -19,11 +19,11 @@ Source: [About TikTok](https://www.tiktok.com/about)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-tiktok-t-00-43-02">2025-09-19 · 00:43:35</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-tiktok-t-00-27-27">2026-08-14 · 00:27:46</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>52</strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>53</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -51,6 +51,7 @@ Source: [About TikTok](https://www.tiktok.com/about)
 <a href="/episodes/ep-4YgrOhhy708.md#ent-org-tiktok-t-00-43-45" style="--pulse-height:22%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-tiktok-t-00-27-56" style="--pulse-height:11%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-tiktok-t-00-24-05" style="--pulse-height:11%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-org-tiktok-t-00-36-57" style="--pulse-height:11%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-tiktok-t-00-27-27" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -77,6 +78,7 @@ Source: [About TikTok](https://www.tiktok.com/about)
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-tiktok-t-00-43-45) | 2 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-tiktok-t-00-27-56) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-tiktok-t-00-24-05) | 1 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-org-tiktok-t-00-36-57) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-tiktok-t-00-27-27) | 1 |
 
 </details>
@@ -85,13 +87,21 @@ Source: [About TikTok](https://www.tiktok.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+<summary><strong class="section-title">Raw mentions (53)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:27:46](/episodes/ep-nPhCKwJ6ye8.md#ent-org-tiktok-t-00-27-27)**
 > "from TikTok invasions, debates,"
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
+
+**[00:37:18](/episodes/ep-k8ueJdPFel4.md#ent-org-tiktok-t-00-36-57)**
+> "... to stage an open takeover of TikTok when they grew incensed that the youth was sympat..."
 
 </details>
 
@@ -385,25 +395,6 @@ Source: [About TikTok](https://www.tiktok.com/about)
 </details>
 
 <details>
-<summary>Investor Includes (2)</summary>
-
-- **[Marc Andreessen](/entities/person-marc-andreessen.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:43:49](/episodes/ep-aDlhjfW6hz8.md#t-00-43-41): “Marc Andreessen—in on a deal with...Silver Lake—they're all coming together”
-
-</details>
-
-- **[Silver Lake](/entities/org-silver-lake.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:43:49](/episodes/ep-aDlhjfW6hz8.md#t-00-43-41): “Marc Andreessen—in on a deal with...Silver Lake—they're all coming together”
-
-</details>
-
-</details>
-
-<details>
 <summary>Referenced By (3)</summary>
 
 - **[Marc Andreessen](/entities/person-marc-andreessen.md)** invested in this
@@ -432,7 +423,15 @@ Source: [About TikTok](https://www.tiktok.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about TikTok (3)</strong></summary>
+<summary><strong class="section-title">Statements about TikTok (4)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1)</summary>
+
+- [00:37:10](/episodes/ep-k8ueJdPFel4.md#t-00-36-57) (Accusation) **Candace Owens**: ["Zionists purchased views, influencers, and journalists, activated mill..."](/statements/statement-e7bc2974418d.md)
+  - Also about: [Zionism](/entities/concept-zionism.md), [Palestine](/entities/gpe-palestine.md)
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "The New York Times"
-description: "The New York Times (Organizations) - 29 mentions"
+description: "The New York Times (Organizations) - 35 mentions"
 id: "org-the-new-york-times"
 type: "ORG"
 aliases:
@@ -20,12 +20,12 @@ _Type: Organizations_
 Source: [The New York Times Company](https://www.nytco.com/company/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-AF3XJT9YKpM.md#t-00-39-35">2025-04-08 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-the-new-york-times-t-00-16-24">2026-02-25 · 00:16:35</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>29</strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-the-new-york-times-t-00-50-22">2025-09-15 · 00:50:22</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-the-new-york-times-t-00-30-50">2026-03-24 · 00:31:05</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -34,7 +34,6 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-A39g5oqB_eM.md#ent-org-the-new-york-times-t-00-05-46">EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-AF3XJT9YKpM.md#t-00-39-35" style="--pulse-height:20%" aria-label="Prof. Judy Fan: Cognitive Tools for Making the Invisible Visible: 1 mentions" title="2025-04-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-the-new-york-times-t-00-50-22" style="--pulse-height:20%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 1 mentions" title="2025-09-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-org-the-new-york-times-t-00-20-14" style="--pulse-height:20%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-the-new-york-times-t-00-20-35" style="--pulse-height:20%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
@@ -51,12 +50,16 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-the-new-york-times-t-00-15-04" style="--pulse-height:20%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-the-new-york-times-t-00-03-34" style="--pulse-height:20%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-the-new-york-times-t-00-16-24" style="--pulse-height:20%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-the-new-york-times-t-00-59-26" style="--pulse-height:20%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-the-new-york-times-t-00-14-38" style="--pulse-height:20%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-the-new-york-times-t-00-23-14" style="--pulse-height:60%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 3 mentions" title="2026-03-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-the-new-york-times-t-00-09-17" style="--pulse-height:40%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-the-new-york-times-t-00-30-50" style="--pulse-height:20%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-04-08 | [Prof. Judy Fan: Cognitive Tools for Making the Invisible Visible](/episodes/ep-AF3XJT9YKpM.md#t-00-39-35) | 1 |
 | 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-org-the-new-york-times-t-00-50-22) | 1 |
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-the-new-york-times-t-00-20-14) | 1 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-org-the-new-york-times-t-00-20-35) | 1 |
@@ -73,6 +76,11 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-the-new-york-times-t-00-15-04) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-the-new-york-times-t-00-03-34) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-the-new-york-times-t-00-16-24) | 1 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-the-new-york-times-t-00-59-26) | 1 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-the-new-york-times-t-00-14-38) | 1 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-the-new-york-times-t-00-23-14) | 3 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-the-new-york-times-t-00-09-17) | 2 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-the-new-york-times-t-00-30-50) | 1 |
 
 </details>
 </section>
@@ -80,7 +88,56 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>
+
+**[00:31:05](/episodes/ep-SgVcnx4Oh30.md#ent-org-the-new-york-times-t-00-30-50)**
+> "a New York Times reporter"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (2 mentions)</summary>
+
+**[00:09:17](/episodes/ep-5-HUyv9LyMg.md#ent-org-the-new-york-times-t-00-09-17)**
+> "...ich with a splashy profile in the New York Times and appearances on cable business shows about the..."
+
+**[00:45:39](/episodes/ep-5-HUyv9LyMg.md#ent-org-the-new-york-times-t-00-45-06)**
+> "...ike and doing interviews with the New York Times, everyone who gave him grief while he was alive."
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (3 mentions)</summary>
+
+**[00:23:25](/episodes/ep-i8m_6D4QGmk.md#ent-org-the-new-york-times-t-00-23-14)**
+> "the New York Times"
+
+**[00:23:51](/episodes/ep-i8m_6D4QGmk.md#ent-org-the-new-york-times-t-00-23-14)**
+> "The New York Times, a publication who her husband hated."
+
+**[00:34:58](/episodes/ep-i8m_6D4QGmk.md#ent-org-the-new-york-times-t-00-34-41)**
+> "Also favorable headlines in the New York Times. We put that on your desk every morning and we te..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>
+
+**[00:14:38](/episodes/ep-DdPjoy5W-wY.md#ent-org-the-new-york-times-t-00-14-38)**
+> "...n interviews at her home with the New York Times, she didn't even wait a week to pretend that she ..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
+
+**[00:59:26](/episodes/ep-y8lak3CRwDw.md#ent-org-the-new-york-times-t-00-59-26)**
+> "...you're doing amazing sir look the New York Times says blast off blast off he's so great you're bac..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1 mentions)</summary>
@@ -243,22 +300,6 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 
 </details>
 
-<details>
-<summary>Prof. Judy Fan: Cognitive Tools for Making the Invisible Visible (1 mentions)</summary>
-
-**[00:40:10](/episodes/ep-AF3XJT9YKpM.md#t-00-39-35)**
-> "in this country, something that's becoming even more important over time. The New York"
-
-</details>
-
-<details>
-<summary>ep-y8lak3CRwDw (1 mentions)</summary>
-
-**[00:59:26](/episodes/ep-y8lak3CRwDw.md#t-00-59-26)**
-> "...you're doing amazing sir look the New York Times says blast off blast off he's so great you're bac..."
-
-</details>
-
 </details>
 
 <details open>
@@ -304,10 +345,11 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 <summary>Interviewed (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:06:18](/episodes/ep-A39g5oqB_eM.md#t-00-05-46): “On the 18th, this, by the way, strikes me as odd in the retrospect as I was working on these couple of episodes about Erika (Erika Kirk). ... On the 18th, there's eight days after the assassination, she gave an in-person interview with the New York Times at her and Charlie (Charlie Kirk)'s condo.”
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:16:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-16-24): “Erica (Erika Kirk) sat down for an in-person interview with the New York Times days after Charlie (Charlie Kirk) was publicly assassinated”
+- [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:23:25](/episodes/ep-i8m_6D4QGmk.md#t-00-23-14): “After her husband's public assassination, offer a raise to Dan Flood. The security guard who failed Charlie in every possible manner and way on September 10th, only a psychopath who does not experience human emotions in the way that humans experience them would be capable of offering and then giving an in-home interview to the New York Times in the immediate days following her husband's assassination.”
 
 </details>
 
@@ -331,10 +373,11 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:06:18](/episodes/ep-A39g5oqB_eM.md#t-00-05-46): “On the 18th, this, by the way, strikes me as odd in the retrospect as I was working on these couple of episodes about Erika (Erika Kirk). ... On the 18th, there's eight days after the assassination, she gave an in-person interview with the New York Times at her and Charlie (Charlie Kirk)'s condo.”
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:16:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-16-24): “Erica (Erika Kirk) sat down for an in-person interview with the New York Times days after Charlie (Charlie Kirk) was publicly assassinated”
+- [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:23:25](/episodes/ep-i8m_6D4QGmk.md#t-00-23-14): “After her husband's public assassination, offer a raise to Dan Flood. The security guard who failed Charlie in every possible manner and way on September 10th, only a psychopath who does not experience human emotions in the way that humans experience them would be capable of offering and then giving an in-home interview to the New York Times in the immediate days following her husband's assassination.”
 
 </details>
 
@@ -371,7 +414,18 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The New York Times (4)</strong></summary>
+<summary><strong class="section-title">Statements about The New York Times (6)</strong></summary>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (2)</summary>
+
+- [00:23:14](/episodes/ep-i8m_6D4QGmk.md#t-00-23-14) (Accusation) **Candace Owens**: ["After Charlie Kirk's assassination, Erika Kirk offered a raise to secu..."](/statements/statement-1a48dd9e231a.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Dan Flood](/entities/person-dan-flood.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:23:55](/episodes/ep-i8m_6D4QGmk.md#t-00-23-14) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk told a New York Times journalist that the least traumatizin..."](/statements/statement-cc8c1ac2a8de.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (2)</summary>

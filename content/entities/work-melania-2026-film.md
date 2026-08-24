@@ -17,6 +17,8 @@ _Type: Works & Media_
 
 **Categories:** documentary film, 2026 film
 
+> **Possibly overlapping entity records:** [Melania Trump](/entities/person-melania-trump). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Amazon's official release confirms the documentary title Melania and its Amazon MGM Studios production.
 Source: [Watch Melania, now streaming on Prime Video | About Amazon](https://www.aboutamazon.com/news/entertainment/melania-trump-documentary-amazon-mgm-studios)

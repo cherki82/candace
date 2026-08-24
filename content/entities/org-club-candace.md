@@ -1,24 +1,33 @@
 ---
 title: "Club Candace"
-description: "Club Candace (Organizations) - 81 mentions"
+description: "Club Candace (Organizations) - 84 mentions"
 id: "org-club-candace"
 type: "ORG"
 aliases:
   - "book club"
   - "Club Candace"
+categories:
+  - "membership platform"
+  - "Candace Owens media"
 ---
 
 _Type: Organizations_
 
 **Also known as:** book club, Club Candace
 
+**Categories:** membership platform, Candace Owens media
+
 > **Possibly overlapping entity records:** [Club Candace](/entities/work-club-candace). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> Candace Owens' official site identifies Club Candace as the canonical premium membership platform referenced in the episode.
+Source: [Candace Owens | Official Site](https://candaceowens.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-club-candace-t-01-01-30">2025-09-15 · 01:01:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-club-candace-t-01-00-35">2025-12-20 · 01:01:14</a></strong></div>
-<div><span>Episodes</span><strong>29</strong></div>
-<div><span>Mentions</span><strong>81</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-club-candace-t-00-56-25">2026-03-24 · 00:56:25</a></strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>84</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -58,6 +67,8 @@ _Type: Organizations_
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-org-club-candace-t-00-42-55" style="--pulse-height:20%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-club-candace-t-00-38-04" style="--pulse-height:10%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-club-candace-t-00-50-49" style="--pulse-height:30%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 3 mentions" title="2025-12-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-club-candace-t-00-55-39" style="--pulse-height:20%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-club-candace-t-00-56-25" style="--pulse-height:10%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -92,6 +103,8 @@ _Type: Organizations_
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-club-candace-t-00-42-55) | 2 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-org-club-candace-t-00-38-04) | 1 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-club-candace-t-00-50-49) | 3 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-club-candace-t-00-55-39) | 2 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-club-candace-t-00-56-25) | 1 |
 
 </details>
 </section>
@@ -99,7 +112,26 @@ _Type: Organizations_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (81)</strong></summary>
+<summary><strong class="section-title">Raw mentions (84)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>
+
+**[00:56:25](/episodes/ep-SgVcnx4Oh30.md#ent-org-club-candace-t-00-56-25)**
+> "merged our subscription tiers into one Club Candace tier"
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (2 mentions)</summary>
+
+**[00:55:39](/episodes/ep-ZzAT2xijKGQ.md#ent-org-club-candace-t-00-55-39)**
+> "Book Club is great"
+
+**[00:54:18](/episodes/ep-ZzAT2xijKGQ.md#ent-org-club-candace-t-00-54-18)**
+> "...e into what we discuss on our book club"
+
+</details>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>

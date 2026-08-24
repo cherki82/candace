@@ -1,6 +1,6 @@
 ---
 title: "Democratic Party"
-description: "Democratic Party (Organizations) - 3 mentions"
+description: "Democratic Party (Organizations) - 4 mentions"
 id: "org-democratic-party"
 type: "ORG"
 categories:
@@ -20,7 +20,7 @@ Source: [Democratic National Committee](https://democrats.org/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-democratic-party-t-00-41-26">2026-01-05 · 00:41:26</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#t-00-13-34">2026-01-12 · 00:13:49</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -47,7 +47,7 @@ Source: [Democratic National Committee](https://democrats.org/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
 
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1 mentions)</summary>

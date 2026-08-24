@@ -1,6 +1,6 @@
 ---
 title: "David Farnsworth"
-description: "David Farnsworth (People) - 6 mentions"
+description: "David Farnsworth (People) - 8 mentions"
 id: "person-david-farnsworth"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Arizona Senate Republicans — David Farnsworth](https://www.azsenatere
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-david-farnsworth-t-00-31-41">2026-01-06 · 00:31:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-david-farnsworth-t-00-33-05">2026-01-06 · 00:33:18</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-david-farnsworth-t-00-43-30">2026-03-06 · 00:43:30</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -37,12 +37,14 @@ Source: [Arizona Senate Republicans — David Farnsworth](https://www.azsenatere
 <p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-david-farnsworth-t-00-31-41">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-david-farnsworth-t-00-31-41" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 6 mentions" title="2026-01-06 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-david-farnsworth-t-00-40-56" style="--pulse-height:33%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-david-farnsworth-t-00-31-41) | 6 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-david-farnsworth-t-00-40-56) | 2 |
 
 </details>
 </section>
@@ -50,7 +52,18 @@ Source: [Arizona Senate Republicans — David Farnsworth](https://www.azsenatere
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (2 mentions)</summary>
+
+**[00:40:56](/episodes/ep-DdPjoy5W-wY.md#ent-person-david-farnsworth-t-00-40-56)**
+> "...floor, because she is she has David Farnsworth sponsoring a bill, she's doing this panic stuff, ..."
+
+**[00:43:30](/episodes/ep-DdPjoy5W-wY.md#ent-person-david-farnsworth-t-00-43-30)**
+> "...orth is on that committee and David Farnsworth is on that committee."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (6 mentions)</summary>
@@ -93,12 +106,31 @@ Source: [Arizona Senate Republicans — David Farnsworth](https://www.azsenatere
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Formerly Member Of (1)</summary>
+
+- **[Maricopa County Republican Committee](/entities/org-maricopa-county-republican-committee.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:43:30](/episodes/ep-DdPjoy5W-wY.md#t-00-43-30): “David Farnsworth is on that committee”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
 
 - **[Dwayne Farnsworth](/entities/person-dwayne-farnsworth.md)** cousin of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:55](/episodes/ep-HYn0P-P1wUw.md#t-00-31-41): “Eddie (Eddie Farnsworth)'s brother is David Farnsworth. So just to reiterate that you have David, Senator David Farnsworth. He's still in office. You have Eddie Farnsworth, who was the chairman of the state house judiciary. And those two men are brothers and first cousins with Dwayne Farnsworth”
+
+</details>
+
+- **[Maricopa County Republican Committee](/entities/org-maricopa-county-republican-committee.md)** has former member this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:43:30](/episodes/ep-DdPjoy5W-wY.md#t-00-43-30): “David Farnsworth is on that committee”
 
 </details>
 
@@ -114,7 +146,18 @@ Source: [Arizona Senate Republicans — David Farnsworth](https://www.azsenatere
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about David Farnsworth (2)</strong></summary>
+<summary><strong class="section-title">Statements about David Farnsworth (4)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (2)</summary>
+
+- [00:40:56](/episodes/ep-DdPjoy5W-wY.md#t-00-40-56) (Claim) **Candace Owens**: ["Lori Frantzve appeared on the Arizona legislative floor in support of ..."](/statements/statement-7e7786b423ca.md)
+  - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [GTEC Industries](/entities/org-gtec-industries.md), [Electromagnetic pulse](/entities/concept-electromagnetic-pulse.md)
+
+- [00:43:30](/episodes/ep-DdPjoy5W-wY.md#t-00-43-30) (Claim) **Candace Owens**: ["Candace Owens says Tyler Bowyer met Charlie Kirk in 2014 while Bowyer ..."](/statements/statement-f5c99907eed8.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Eddie Farnsworth](/entities/person-eddie-farnsworth.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (2)</summary>

@@ -22,7 +22,7 @@ type: "factual_claim"
 
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
-- [Mikey McCoy](/entities/person-mikey-mccoy.md) (person)
+- [Michael McCoy](/entities/person-michael-mccoy.md) (person)
 
 ## Source
 

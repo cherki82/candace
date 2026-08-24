@@ -1,6 +1,6 @@
 ---
 title: "Central Intelligence Agency"
-description: "Central Intelligence Agency (Organizations) - 107 mentions"
+description: "Central Intelligence Agency (Organizations) - 126 mentions"
 id: "org-central-intelligence-agency"
 type: "ORG"
 aliases:
@@ -24,10 +24,10 @@ Source: [About CIA](https://www.cia.gov/about/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-central-intelligence-agency-t-01-11-09">2025-09-16 · 01:11:17</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25">2026-08-14 · 00:37:25</a></strong></div>
-<div><span>Episodes</span><strong>39</strong></div>
-<div><span>Mentions</span><strong>107</strong></div>
+<div><span>Episodes</span><strong>45</strong></div>
+<div><span>Mentions</span><strong>126</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>35</strong></div>
+<div><span>Statements about</span><strong>44</strong></div>
 <div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -74,6 +74,11 @@ Source: [About CIA](https://www.cia.gov/about/)
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-central-intelligence-agency-t-00-17-50" style="--pulse-height:15%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-central-intelligence-agency-t-00-13-33" style="--pulse-height:15%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-central-intelligence-agency-t-00-18-19" style="--pulse-height:15%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-central-intelligence-agency-t-00-31-13" style="--pulse-height:15%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-org-central-intelligence-agency-t-00-01-03" style="--pulse-height:31%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 4 mentions" title="2026-03-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-central-intelligence-agency-t-00-13-49" style="--pulse-height:31%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 4 mentions" title="2026-03-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-central-intelligence-agency-t-00-42-44" style="--pulse-height:31%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 4 mentions" title="2026-03-23 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-central-intelligence-agency-t-00-15-12" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -118,6 +123,11 @@ Source: [About CIA](https://www.cia.gov/about/)
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-central-intelligence-agency-t-00-17-50) | 2 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-central-intelligence-agency-t-00-13-33) | 2 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-central-intelligence-agency-t-00-18-19) | 2 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-central-intelligence-agency-t-00-31-13) | 2 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-org-central-intelligence-agency-t-00-01-03) | 4 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-org-central-intelligence-agency-t-00-13-49) | 4 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-central-intelligence-agency-t-00-42-44) | 4 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-central-intelligence-agency-t-00-15-12) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25) | 1 |
 
 </details>
@@ -126,13 +136,83 @@ Source: [About CIA](https://www.cia.gov/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (107)</strong></summary>
+<summary><strong class="section-title">Raw mentions (126)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:37:25](/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25)**
 > "...ntire term was created by the CIA to gaslight people after the assassination of JFK..."
+
+</details>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>
+
+**[00:15:26](/episodes/ep-SgVcnx4Oh30.md#ent-org-central-intelligence-agency-t-00-15-12)**
+> "It felt to me like a CIA front"
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (4 mentions)</summary>
+
+**[00:42:44](/episodes/ep-B9TyCs-6o_0.md#ent-org-central-intelligence-agency-t-00-42-44)**
+> "she's doing a CIA informational video"
+
+**[00:42:52](/episodes/ep-B9TyCs-6o_0.md#ent-org-central-intelligence-agency-t-00-42-52)**
+> "...e doing an acting gig for the CIA who calls you for that you ever get one of those ..."
+
+**[00:43:11](/episodes/ep-B9TyCs-6o_0.md#ent-org-central-intelligence-agency-t-00-43-11)**
+> "...he addressed particularly the CIA document because they came out and they were sudd..."
+
+**[00:43:23](/episodes/ep-B9TyCs-6o_0.md#ent-org-central-intelligence-agency-t-00-43-11)**
+> "...kay, yes, but the head of the CIA is in it. Okay, you gotta get approval from the C..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (4 mentions)</summary>
+
+**[00:14:04](/episodes/ep-_vg7ucP1E0g.md#ent-org-central-intelligence-agency-t-00-13-49)**
+> "The documentary also... Who features the CIA director, James Woolsey? Now, I want to say this documentary is about EMP attacks, right?"
+
+**[00:15:02](/episodes/ep-_vg7ucP1E0g.md#ent-org-central-intelligence-agency-t-00-14-53)**
+> "... be like oh well it's not the CIA is not involved in this it's just the director is..."
+
+**[00:15:36](/episodes/ep-_vg7ucP1E0g.md#ent-org-central-intelligence-agency-t-00-15-36)**
+> "...ee here ever. That's just the CIA director just normally does that. He's got to hit..."
+
+**[00:42:45](/episodes/ep-_vg7ucP1E0g.md#ent-org-central-intelligence-agency-t-00-42-45)**
+> "...you didn't know, declassified CIA documents caused national outrage after revealing..."
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (4 mentions)</summary>
+
+**[00:01:10](/episodes/ep-k8ueJdPFel4.md#ent-org-central-intelligence-agency-t-00-01-03)**
+> "...he has just revealed that the CIA has been spying on him."
+
+**[00:41:22](/episodes/ep-k8ueJdPFel4.md#ent-org-central-intelligence-agency-t-00-41-02)**
+> "... that he discovered about the CIA reading his messages."
+
+**[00:41:38](/episodes/ep-k8ueJdPFel4.md#ent-org-central-intelligence-agency-t-00-41-38)**
+> "...ther day I found out that the CIA is preparing some kind of criminal referral again..."
+
+**[00:52:45](/episodes/ep-k8ueJdPFel4.md#ent-org-central-intelligence-agency-t-00-52-31)**
+> "...uation. Megan Vincent writes, CIA targeting Tucker (Tucker Carlson) for talking"
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (2 mentions)</summary>
+
+**[00:31:13](/episodes/ep-DdPjoy5W-wY.md#ent-org-central-intelligence-agency-t-00-31-13)**
+> "...hey were a bunch of pervs And CIA transported them from places like Vienna througho..."
+
+**[00:59:32](/episodes/ep-DdPjoy5W-wY.md#ent-org-central-intelligence-agency-t-00-59-01)**
+> "...nestly probably some of these CIA Mormon missions because I know Tyler (Tyler Bowye..."
 
 </details>
 
@@ -644,6 +724,20 @@ Source: [About CIA](https://www.cia.gov/about/)
 
 </details>
 
+<details>
+<summary>ep-5m-Wn6Pr5rM (3 mentions)</summary>
+
+**[00:21:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-21-12)**
+> "CIA"
+
+**[00:21:18](/episodes/ep-5m-Wn6Pr5rM.md#t-00-21-18)**
+> "... they do real business, not a CIA front company. I always like whenever I say a lot..."
+
+**[00:24:02](/episodes/ep-5m-Wn6Pr5rM.md#t-00-24-02)**
+> "...at. This person is not in the CIA. It is not running a CIA front company. It's a to..."
+
+</details>
+
 </details>
 
 <details open>
@@ -740,7 +834,51 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Central Intelligence Agency (35)</strong></summary>
+<summary><strong class="section-title">Statements about Central Intelligence Agency (44)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1)</summary>
+
+- [00:15:26](/episodes/ep-SgVcnx4Oh30.md#t-00-15-12) (Opinion) **Candace Owens**: ["Candace Owens said Hopkinson Aircraft Sales felt like a CIA front to h..."](/statements/statement-1b67a9b5cff5.md)
+  - Also about: [Hopkinson Aircraft Sales](/entities/org-hopkinson-aircraft-sales.md)
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (2)</summary>
+
+- [00:41:36](/episodes/ep-B9TyCs-6o_0.md#t-00-41-31) (Claim) **Joe Rogan** (via quoted speech): ["Erika Kirk appeared in internal films or documents associated with the..."](/statements/statement-67cb2cb4f42b.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:43:11](/episodes/ep-B9TyCs-6o_0.md#t-00-43-01) (Claim) **Candace Owens**: ["The CIA director appears in the documentary featuring Erika Kirk, CIA ..."](/statements/statement-7bf5d634ea68.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Electromagnetic pulse](/entities/concept-electromagnetic-pulse.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (1)</summary>
+
+- [00:14:59](/episodes/ep-_vg7ucP1E0g.md#t-00-14-53) (Claim) **Candace Owens**: ["There is obviously a connection behind CIA director James Woolsey appe..."](/statements/statement-5e38879647f3.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (4)</summary>
+
+- [00:01:03](/episodes/ep-k8ueJdPFel4.md#t-00-01-03) (Accusation) **Candace Owens**: ["Mark Levin's allies want Tucker Carlson imprisoned, and Carlson has re..."](/statements/statement-cb3020427351.md)
+  - Also about: [Mark Levin](/entities/person-mark-levin.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:41:38](/episodes/ep-k8ueJdPFel4.md#t-00-41-38) (Accusation) **Tucker Carlson** (via quoted speech): ["The CIA is preparing a criminal referral against Tucker Carlson to the..."](/statements/statement-f7a505a28269.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md), [Iran](/entities/gpe-iran.md)
+
+- [00:41:55](/episodes/ep-k8ueJdPFel4.md#t-00-41-38) (Accusation) **Tucker Carlson** (via quoted speech): ["Authorities read Tucker Carlson's texts and were apparently considerin..."](/statements/statement-c4d3ce4007e4.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Foreign Agents Registration Act](/entities/law-fara.md), [Iran](/entities/gpe-iran.md)
+
+- [00:42:57](/episodes/ep-k8ueJdPFel4.md#t-00-42-57) (Accusation) **Tucker Carlson** (via quoted speech): ["Such investigations are used to leak their existence to the media and ..."](/statements/statement-b0ee3ab8f654.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (2)</summary>
@@ -928,6 +1066,14 @@ Source: [About CIA](https://www.cia.gov/about/)
 <summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1)</summary>
 
 - [00:12:28](/episodes/ep-sreYYcID-QY.md#t-00-11-44) (Claim) **Candace Owens**: ["The mainstream media has been controlled by the CIA since Operation Mo..."](/statements/statement-663c3c2d34c1.md)
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (1)</summary>
+
+- [00:21:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-21-12) (Claim) **Hopkinson Aircraft employee (unidentified)** (via quoted speech): ["Hopkinson Aircraft is not a CIA front company and does real business."](/statements/statement-59e8090f70bf.md)
+  - Also about: [Hopkinson Aircraft Sales](/entities/org-hopkinson-aircraft-sales.md)
 
 </details>
 

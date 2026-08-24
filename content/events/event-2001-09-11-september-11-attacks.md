@@ -11,7 +11,7 @@ date: "2001-09-11"
 
 > September 11 attacks
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
 
@@ -28,3 +28,11 @@ date: "2001-09-11"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(270);return false;">▶️ Play</a>
 
 > narrative which, for some reason, every major publication is
+
+### 3. Bride Of Charlie: What Happened In Romania? | Episode 6
+
+**Episode:** [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md)
+**Timestamp:** [00:17:52](/episodes/ep-y8lak3CRwDw.md#event-event-2001-09-11-september-11-attacks-t-00-17-52) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1072);return false;">▶️ Play</a>
+
+> 9-11 happens. Two weeks later, we're Operation Enduring Freedom.

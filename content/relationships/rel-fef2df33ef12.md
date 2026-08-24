@@ -11,7 +11,11 @@ object: "person-charlie-kirk"
 
 ## [Erika Kirk](/entities/person-erika-kirk) interviewed by [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g)**
+
+- [00:22:12](/episodes/ep-_vg7ucP1E0g#t-00-22-12): _Then comes September, where once again, it is arranged by Tyler Bowyer for Erika (Erika Kirk) to meet Charlie (Charlie Kirk), this time one-on-one for a job. And in retrospect, this really bothers me because that's not how job interviews happened at Turning Point USA. You were not taken to meet the CEO of the company at a restaurant in New York._
 
 **[Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno)**
 

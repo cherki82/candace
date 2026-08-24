@@ -1,6 +1,6 @@
 ---
 title: "Turning Point Faith"
-description: "Turning Point Faith (Organizations) - 27 mentions"
+description: "Turning Point Faith (Organizations) - 28 mentions"
 id: "org-turning-point-faith"
 type: "ORG"
 aliases:
@@ -26,11 +26,11 @@ Source: [TPUSA's The Believers' Summit: A Call to Unity and Biblical Truth | TPU
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-turning-point-faith-t-00-09-20">2026-01-09 · 00:09:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-turning-point-faith-t-00-35-14">2026-02-04 · 00:35:34</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>27</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-turning-point-faith-t-01-00-13">2026-03-09 · 01:00:13</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -45,6 +45,7 @@ Source: [TPUSA's The Believers' Summit: A Call to Unity and Biblical Truth | TPU
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-turning-point-faith-t-00-35-11" style="--pulse-height:11%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-turning-point-faith-t-00-00-00" style="--pulse-height:33%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 3 mentions" title="2026-01-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-turning-point-faith-t-00-30-54" style="--pulse-height:33%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 3 mentions" title="2026-02-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-turning-point-faith-t-01-00-13" style="--pulse-height:11%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [TPUSA's The Believers' Summit: A Call to Unity and Biblical Truth | TPU
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-turning-point-faith-t-00-35-11) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-turning-point-faith-t-00-00-00) | 3 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-org-turning-point-faith-t-00-30-54) | 3 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-turning-point-faith-t-01-00-13) | 1 |
 
 </details>
 </section>
@@ -63,7 +65,15 @@ Source: [TPUSA's The Believers' Summit: A Call to Unity and Biblical Truth | TPU
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
+
+**[01:00:13](/episodes/ep-i8m_6D4QGmk.md#ent-org-turning-point-faith-t-01-00-13)**
+> "Turning Point Faith"
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (3 mentions)</summary>
@@ -232,7 +242,15 @@ Source: [TPUSA's The Believers' Summit: A Call to Unity and Biblical Truth | TPU
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point Faith (12)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point Faith (13)</strong></summary>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
+
+- [01:00:13](/episodes/ep-i8m_6D4QGmk.md#t-01-00-13) (Accusation) **Candace Owens**: ["Turning Point USA is militarily infiltrated, as shown by the military ..."](/statements/statement-6acf0283d1db.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (2)</summary>

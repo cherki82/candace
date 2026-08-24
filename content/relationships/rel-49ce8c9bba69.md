@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) appeared with [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
+
+**[EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A)**
+
+- [00:44:21](/episodes/ep-H9p2ZGHAs9A#t-00-44-21): _I just remember going to Hawaii with Charlie (Charlie Kirk), and it was a great time. I remember we were wearing the leis._
 
 **[VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4)**
 

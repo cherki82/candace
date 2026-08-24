@@ -1,19 +1,28 @@
 ---
 title: "Chicago"
-description: "Chicago (Places) - 6 mentions"
+description: "Chicago (Places) - 7 mentions"
 id: "gpe-chicago"
 type: "GPE"
+categories:
+  - "United States city"
+  - "journalism location"
 ---
 
 _Type: Places_
 
+**Categories:** United States city, journalism location
+
 > **Possibly overlapping entity records:** [Chicago, Illinois](/entities/gpe-chicago-illinois). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> Official City of Chicago web presence confirms Chicago as the canonical city name used in the episode.
+Source: [City of Chicago](https://www.chicago.gov/city/en.html)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-chicago-t-00-02-03">2025-09-11 · 00:02:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-gpe-chicago-t-00-20-36">2025-09-23 · 00:21:42</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-chicago-t-00-35-28">2026-03-24 · 00:35:44</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -26,6 +35,7 @@ _Type: Places_
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-chicago-t-00-02-03" style="--pulse-height:20%" aria-label="To My Friend, Charlie Kirk.: 1 mentions" title="2025-09-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UBkFkg4UNY8.md#ent-gpe-chicago-t-00-20-36" style="--pulse-height:100%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 5 mentions" title="2025-09-23 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-chicago-t-00-35-28" style="--pulse-height:20%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -33,6 +43,7 @@ _Type: Places_
 |---|---|---:|
 | 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-gpe-chicago-t-00-02-03) | 1 |
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-chicago-t-00-20-36) | 5 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-chicago-t-00-35-28) | 1 |
 
 </details>
 </section>
@@ -40,7 +51,15 @@ _Type: Places_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>
+
+**[00:35:44](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-chicago-t-00-35-28)**
+> "ride-alongs with gangsters in Chicago"
+
+</details>
 
 <details>
 <summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (5 mentions)</summary>

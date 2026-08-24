@@ -1,6 +1,6 @@
 ---
 title: "Kim Kardashian"
-description: "Kim Kardashian (People) - 5 mentions"
+description: "Kim Kardashian (People) - 6 mentions"
 id: "person-kim-kardashian"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Kim Kardashian West Is 'Over' Her 'Feud' With Taylor Swift](https://abc
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-kim-kardashian-t-00-12-53">2025-10-28 · 00:13:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-kim-kardashian-t-00-26-13">2026-01-21 · 00:26:13</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-kim-kardashian-t-00-23-40">2026-03-18 · 00:23:40</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -38,6 +38,7 @@ Source: [Kim Kardashian West Is 'Over' Her 'Feud' With Taylor Swift](https://abc
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-kim-kardashian-t-00-12-53" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-kim-kardashian-t-00-23-14" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-kim-kardashian-t-00-26-13" style="--pulse-height:50%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-kim-kardashian-t-00-23-40" style="--pulse-height:50%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Kim Kardashian West Is 'Over' Her 'Feud' With Taylor Swift](https://abc
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kim-kardashian-t-00-12-53) | 2 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-kim-kardashian-t-00-23-14) | 2 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-kim-kardashian-t-00-26-13) | 1 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-kim-kardashian-t-00-23-40) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [Kim Kardashian West Is 'Over' Her 'Feud' With Taylor Swift](https://abc
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
+
+**[00:23:40](/episodes/ep-_vg7ucP1E0g.md#ent-person-kim-kardashian-t-00-23-40)**
+> "And out of nowhere, Kanye (Kanye West), who did actually help me design the BLEXIT logo in Chicago, he was getting an insane amount of pressure and told that he could not get involved in politics. He's putting on the MAGA hat, things are going crazy. I think Kim (Kim Kardashian) was threatening divorce at some point, if I recall correctly, and Kanye (Kanye West) cracks and he tweets a series of tweets. He writes, "I introduced Candace to the person who made the logo, and they didn't want their name on it, so she used mine.""
+
+</details>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>

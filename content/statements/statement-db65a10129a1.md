@@ -4,9 +4,10 @@ description: "\"Kanye West tweeted 'I love the way Candace thinks'\" — Kanye W
 statement_id: "statement-db65a10129a1"
 speaker: "Kanye West"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -24,7 +25,9 @@ type: "opinion"
 
 - [Candace Owens](/entities/person-candace-owens.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. To My Friend, Charlie Kirk.
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 **Timestamp:** [00:10:19](/episodes/ep-_dRaEO47-co.md#t-00-09-57) 
@@ -32,9 +35,31 @@ type: "opinion"
 
 > Kanye West tweets, I love the way Candace thinks
 
+### 2. Bride Of Charlie: Red Sparrow | Episode 8
+
+**Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
+**Timestamp:** [00:20:32](/episodes/ep-_vg7ucP1E0g.md#t-00-20-15) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1232);return false;">Play</a>
+
+> It is then just a couple of weeks later after predicting his death that Kanye (Kanye West) tweets, "I love the way Candace Owens thinks,"
+
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Transcript context shows Candace Owens quoting a Kanye West tweet. Contemporaneous reporting independently preserves the exact wording and dates the tweet to April 21, 2018.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Kanye West fell for the worst black Republican sales pitch there is. Here is why.](https://www.washingtonpost.com/news/posteverything/wp/2018/04/24/kanye-west-fell-for-the-worst-black-republican-sales-pitch-there-is-heres-why/)
+- [Candace Owens Is Elated Kanye West Likes The Way She Thinks](https://www.yahoo.com/entertainment/candace-owens-elated-kanye-west-105720971.html)
+
+*Verified: 2026-08-24T06:54:21.544050*
 
 ---
 

@@ -15,7 +15,7 @@ _Type: People_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -60,5 +60,18 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Jonathan Pollard (1)</strong></summary>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1)</summary>
+
+- [01:03:09](/episodes/ep-I0OaY6Gryqk.md#t-01-03-09) (Claim) **Candace Owens**: ["Mike Huckabee notoriously supported Jonathan Pollard, an American spy."](/statements/statement-ff3e0d8d5d57.md)
+  - Also about: [Mike Huckabee](/entities/person-mike-huckabee.md)
+
+</details>
 
 </details>

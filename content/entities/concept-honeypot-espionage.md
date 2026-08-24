@@ -1,0 +1,69 @@
+---
+title: "Honeypot espionage"
+description: "Honeypot espionage (Concepts) - 8 mentions"
+id: "concept-honeypot-espionage"
+type: "CONCEPT"
+aliases:
+  - "honeypot"
+categories:
+  - "espionage"
+  - "political allegation"
+---
+
+_Type: Concepts_
+
+**Also known as:** honeypot
+
+**Categories:** espionage, political allegation
+
+<div class="entity-summary-grid">
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (8 mentions)</summary>
+
+**[00:29:37](/episodes/ep-5m-Wn6Pr5rM.md#t-00-29-37)**
+> "honeypot"
+
+**[00:01:06](/episodes/ep-5m-Wn6Pr5rM.md#t-00-01-06)**
+> "...son people think that she's a honeypot is because of Vladimir Putin and Putin's philosop..."
+
+**[00:30:09](/episodes/ep-5m-Wn6Pr5rM.md#t-00-30-09)**
+> "...yone could think that she's a honeypot. Now, the obvious answer is because they have eye..."
+
+**[00:34:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-03)**
+> "...rlfriend. So it's as a Mossad honeypot. She somehow connected. I don't know how this jum..."
+
+**[00:38:19](/episodes/ep-5m-Wn6Pr5rM.md#t-00-38-19)**
+> "...rful and she's been sent as a honeypot. And I wasn't the one to put that out."
+
+**[00:39:50](/episodes/ep-5m-Wn6Pr5rM.md#t-00-39-50)**
+> "...ke when they're calling you a honeypot you just got to be like Yair not now that didn't ..."
+
+**[00:49:54](/episodes/ep-5m-Wn6Pr5rM.md#t-00-49-54)**
+> "...nspiracies. Tell me you are a honeypot without telling me you're a honeypot. Nicole—"
+
+**[00:51:42](/episodes/ep-5m-Wn6Pr5rM.md#t-00-51-42)**
+> "... saying that that's where the honeypot rumors are coming from it's not that deep it's ju..."
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+_No relationships extracted yet._
+
+</details>

@@ -1,6 +1,6 @@
 ---
 title: "Stacey Sheridan"
-description: "Stacey Sheridan (People) - 17 mentions"
+description: "Stacey Sheridan (People) - 30 mentions"
 id: "person-stacey-sheridan"
 type: "PERSON"
 aliases:
@@ -21,11 +21,11 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-person-stacey-sheridan-t-00-03-48">2025-10-27 · 00:04:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-stacey-sheridan-t-00-45-19">2026-02-25 · 00:45:19</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-stacey-sheridan-t-00-23-50">2026-03-23 · 00:23:50</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>30</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -40,6 +40,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-11-53" style="--pulse-height:100%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 8 mentions" title="2025-12-02 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-stacey-sheridan-t-00-19-36" style="--pulse-height:50%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 4 mentions" title="2026-02-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-stacey-sheridan-t-00-45-19" style="--pulse-height:12%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-stacey-sheridan-t-00-23-50" style="--pulse-height:12%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-11-53) | 8 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-stacey-sheridan-t-00-19-36) | 4 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-stacey-sheridan-t-00-45-19) | 1 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-stacey-sheridan-t-00-23-50) | 1 |
 
 </details>
 </section>
@@ -58,7 +60,15 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1 mentions)</summary>
+
+**[00:23:50](/episodes/ep-B9TyCs-6o_0.md#ent-person-stacey-sheridan-t-00-23-50)**
+> "Elizabeth McCoy and Stacey Sheridan are on this plane"
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1 mentions)</summary>
@@ -138,6 +148,47 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 
 **[00:04:27](/episodes/ep-c5BcKF91iec.md#ent-person-stacey-sheridan-t-00-04-27)**
 > "... be on a group chat: me, Tyler Bowyer, Andrew Kolvet, Stacey Sheridan even. If you're wondering who Stacey Sheridan is, by the way, she's the one who's holding the camera when Charlie's casket is being escorted off ..."
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (12 mentions)</summary>
+
+**[00:14:12](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-12)**
+> "Stacey Sheridan"
+
+**[00:14:14](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-14)**
+> "Where is Stacey Sheridan is like the de facto mom to Erika. She's going to..."
+
+**[00:14:21](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-21)**
+> "...ager for everything. Where is Stacey Sheridan? Is Stacey Sheridan at the office?"
+
+**[00:14:28](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-28)**
+> "No, Stacey Sheridan is not at the office. Stacey Sheridan is missing...."
+
+**[00:14:34](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-34)**
+> "...ike to now put out an APB for Stacey Sheridan on September 10th because I can confirm she was n..."
+
+**[00:14:45](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-45)**
+> "...d this is interesting because Stacey Sheridan lives with Erika and Charlie, the same apartment ..."
+
+**[00:15:32](/episodes/ep-5m-Wn6Pr5rM.md#t-00-15-32)**
+> "... as like, oh, did anybody see Stacey Sheridan on September 10th? It's another person we can loo..."
+
+**[00:16:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-16-07)**
+> "Mama Stacey shouldn't need her family there. No, not her real..."
+
+**[00:17:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-07)**
+> "Given how close Erika and Stacey live to the airport, how close the alleged appoin..."
+
+**[00:17:24](/episodes/ep-5m-Wn6Pr5rM.md#t-00-17-24)**
+> "... Why has nobody seen Erika or Stacey during all of this? A lot of action is happening,..."
+
+**[00:52:38](/episodes/ep-5m-Wn6Pr5rM.md#t-00-52-38)**
+> ".... Thank you guys. Again, APB, Stacey Sheridan on that day. I know I have contacts that live in ..."
+
+**[00:52:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-52-47)**
+> "If you guys remember seeing Stacey Sheridan, that would be great."
 
 </details>
 
@@ -253,7 +304,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Stacey Sheridan (3)</strong></summary>
+<summary><strong class="section-title">Statements about Stacey Sheridan (4)</strong></summary>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2)</summary>
@@ -270,6 +321,14 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (1)</summary>
 
 - [00:04:35](/episodes/ep-c5BcKF91iec.md#t-00-04-27) (Claim) **Candace Owens**: ["Stacey Sheridan is the chief money person at Turning Point USA who was..."](/statements/statement-39d6a206ca65.md)
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (1)</summary>
+
+- [00:14:28](/episodes/ep-5m-Wn6Pr5rM.md#t-00-14-28) (Claim) **Candace Owens**: ["Stacey Sheridan was not at the TPUSA office and was allegedly home in ..."](/statements/statement-2e1bf770157c.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md)
 
 </details>
 

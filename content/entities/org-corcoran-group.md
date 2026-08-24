@@ -1,20 +1,24 @@
 ---
 title: "The Corcoran Group"
-description: "The Corcoran Group (Organizations) - 6 mentions"
+description: "The Corcoran Group (Organizations) - 17 mentions"
 id: "org-corcoran-group"
 type: "ORG"
 aliases:
   - "Corcoran Group"
   - "Corcoran Real Estate"
+  - "Corcoran Real Estate Group"
+  - "Corcoran"
 categories:
   - "residential real estate brokerage"
+  - "real estate"
+  - "New York City"
 ---
 
 _Type: Organizations_
 
-**Also known as:** Corcoran Group, Corcoran Real Estate
+**Also known as:** Corcoran Group, Corcoran Real Estate, Corcoran Real Estate Group, Corcoran
 
-**Categories:** residential real estate brokerage
+**Categories:** residential real estate brokerage, real estate, New York City
 
 **Entity verification:** verified
 > Corcoran's official publication identifies the legal brand as Corcoran Group LLC and uses The Corcoran Group; transcript variants refer to the same brokerage.
@@ -22,11 +26,11 @@ Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inha
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-org-corcoran-group-t-00-26-55">2026-02-10 · 00:26:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-org-corcoran-group-t-00-32-21">2026-02-10 · 00:32:38</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-corcoran-group-t-00-22-57">2026-03-18 · 00:23:23</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -36,12 +40,22 @@ Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inha
 <p>Highest activity: <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-corcoran-group-t-00-26-55">Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-corcoran-group-t-00-26-55" style="--pulse-height:100%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 6 mentions" title="2026-02-10 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-corcoran-group-t-00-05-48" style="--pulse-height:17%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-corcoran-group-t-00-26-36" style="--pulse-height:83%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 5 mentions" title="2026-03-10 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-corcoran-group-t-00-08-36" style="--pulse-height:17%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-corcoran-group-t-00-05-00" style="--pulse-height:33%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-corcoran-group-t-00-22-57" style="--pulse-height:33%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 2 mentions" title="2026-03-18 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-corcoran-group-t-00-26-55) | 6 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-corcoran-group-t-00-05-48) | 1 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-corcoran-group-t-00-26-36) | 5 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-corcoran-group-t-00-08-36) | 1 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-corcoran-group-t-00-05-00) | 2 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-org-corcoran-group-t-00-22-57) | 2 |
 
 </details>
 </section>
@@ -49,7 +63,65 @@ Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inha
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (2 mentions)</summary>
+
+**[00:23:23](/episodes/ep-_vg7ucP1E0g.md#ent-org-corcoran-group-t-00-22-57)**
+> "I don't understand that. I don't understand how she's working for Corcoran Real Estate and doing real estate deals and she does this on October 24th. I want to point to October 30th."
+
+**[00:22:57](/episodes/ep-_vg7ucP1E0g.md#ent-org-corcoran-group-t-00-22-57)**
+> "...nd is immediately employed by Corcoran Real Estate Group."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (2 mentions)</summary>
+
+**[00:05:09](/episodes/ep-5-HUyv9LyMg.md#ent-org-corcoran-group-t-00-05-00)**
+> "...his photo is also courtesy of Corcoran."
+
+**[00:05:26](/episodes/ep-5-HUyv9LyMg.md#ent-org-corcoran-group-t-00-05-00)**
+> "Wow. Corcoran real estate. I love that the photo is courtesy of Corcoran re..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1 mentions)</summary>
+
+**[00:09:01](/episodes/ep-H9p2ZGHAs9A.md#ent-org-corcoran-group-t-00-08-36)**
+> "Now, you will remember Erika (Erika Kirk) at this time was living with Nicole Rothstein, and it is a fact that Nicole Rothstein did work in real estate, not at the Corcoran Group, but she has a long career in real estate."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (5 mentions)</summary>
+
+**[00:26:56](/episodes/ep-ZzAT2xijKGQ.md#ent-org-corcoran-group-t-00-26-36)**
+> "work with Corcoran Real Estate"
+
+**[00:27:18](/episodes/ep-ZzAT2xijKGQ.md#ent-org-corcoran-group-t-00-27-18)**
+> "...st get a license and work for Corcoran. That's not that's not how the real estate world ..."
+
+**[00:27:44](/episodes/ep-ZzAT2xijKGQ.md#ent-org-corcoran-group-t-00-27-18)**
+> "...in's emails, the president of the Corcoran Group is actually Linda Rothschild. And Jeffrey Epstein..."
+
+**[00:28:09](/episodes/ep-ZzAT2xijKGQ.md#ent-org-corcoran-group-t-00-28-03)**
+> "...er listed as the president of the Corcoran Group."
+
+**[00:28:14](/episodes/ep-ZzAT2xijKGQ.md#ent-org-corcoran-group-t-00-28-03)**
+> "... Erika (Erika Kirk) doing for the Corcoran Group? Who got her that job? Who recalls sitting with E..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>
+
+**[00:05:55](/episodes/ep-DdPjoy5W-wY.md#ent-org-corcoran-group-t-00-05-48)**
+> "...orking in real estate for the Corcoran Real Estate Group, plus going on an interview with Turning Point US..."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (6 mentions)</summary>
@@ -83,9 +155,12 @@ Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inha
 <summary>Formerly Employed (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:26:58](/episodes/ep-ti5Fxrvegno.md#t-00-26-55): “Now this article that was posted shortly after Charlie Kirk's assassination by USA Today states that Erika Kirk worked as a real estate agent in New York City for the Corcoran Group.”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:05:55](/episodes/ep-DdPjoy5W-wY.md#t-00-05-48): “She's also working in real estate for the Corcoran Real Estate Group”
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:26:56](/episodes/ep-ZzAT2xijKGQ.md#t-00-26-36): “she also unusually receives her New York real estate license to work with Corcoran Real Estate.”
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:22:57](/episodes/ep-_vg7ucP1E0g.md#t-00-22-57): “Then comes October 24th, and Erika (Erika Kirk) somehow becomes a licensed real estate agent in New York and is immediately employed by Corcoran Real Estate Group.”
 
 </details>
 
@@ -126,9 +201,12 @@ Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inha
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:26:58](/episodes/ep-ti5Fxrvegno.md#t-00-26-55): “Now this article that was posted shortly after Charlie Kirk's assassination by USA Today states that Erika Kirk worked as a real estate agent in New York City for the Corcoran Group.”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:05:55](/episodes/ep-DdPjoy5W-wY.md#t-00-05-48): “She's also working in real estate for the Corcoran Real Estate Group”
+- [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:26:56](/episodes/ep-ZzAT2xijKGQ.md#t-00-26-36): “she also unusually receives her New York real estate license to work with Corcoran Real Estate.”
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:22:57](/episodes/ep-_vg7ucP1E0g.md#t-00-22-57): “Then comes October 24th, and Erika (Erika Kirk) somehow becomes a licensed real estate agent in New York and is immediately employed by Corcoran Real Estate Group.”
 
 </details>
 
@@ -144,7 +222,29 @@ Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inha
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The Corcoran Group (6)</strong></summary>
+<summary><strong class="section-title">Statements about The Corcoran Group (10)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (2)</summary>
+
+- [00:22:57](/episodes/ep-_vg7ucP1E0g.md#t-00-22-57) (Claim) **Candace Owens**: ["Erika Kirk became a licensed New York real-estate agent on October 24,..."](/statements/statement-ed7c8a01755c.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:23:08](/episodes/ep-_vg7ucP1E0g.md#t-00-22-57) (Claim) **Candace Owens**: ["Erika Kirk appears to have handled only three possible rentals at The ..."](/statements/statement-7386ce7b3fe0.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (2)</summary>
+
+- [00:26:56](/episodes/ep-ZzAT2xijKGQ.md#t-00-26-36) (Claim) **Candace Owens**: ["In 2018 Erika Kirk obtained a New York real-estate license to work wit..."](/statements/statement-4b949cc4219d.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [New York City](/entities/gpe-new-york-city.md)
+
+- [00:27:44](/episodes/ep-ZzAT2xijKGQ.md#t-00-27-18) (Citation) **Candace Owens**: ["Jeffrey Epstein's emails included a background entry listing Linda Rot..."](/statements/statement-011148f17074.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Rothschild family](/entities/org-rothschild-family.md)
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (6)</summary>

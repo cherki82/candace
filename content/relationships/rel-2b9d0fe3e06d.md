@@ -1,6 +1,6 @@
 ---
-title: "Blake Lively works for The Charlie Kirk Show"
-description: "Evidence for the relationship: Blake Lively works for The Charlie Kirk Show"
+title: "Blake Neff works for The Charlie Kirk Show"
+description: "Evidence for the relationship: Blake Neff works for The Charlie Kirk Show"
 relationship_id: "rel-2b9d0fe3e06d"
 subject: "person-blake-neff"
 predicate: "works for"
@@ -9,7 +9,7 @@ object: "work-the-charlie-kirk-show"
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Blake Lively](/entities/person-blake-neff) works for [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show)
+## [Blake Neff](/entities/person-blake-neff) works for [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show)
 
 ### Evidence (2 mentions)
 
@@ -20,5 +20,5 @@ object: "work-the-charlie-kirk-show"
 
 ### Related
 
-- [Blake Lively](/entities/person-blake-neff)
+- [Blake Neff](/entities/person-blake-neff)
 - [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show)

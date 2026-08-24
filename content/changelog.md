@@ -5,6 +5,102 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-08-24 09:38:04
+
+**Added 74 episode(s):**
+  - `-9MOUvgGyi4`: Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329
+  - `19vHhjF7-NA`: OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347
+  - `1CFDtD0IgEg`: VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371
+  - `1QZ4X6q1DPg`: Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340
+  - `1mYNOqzAdXs`: Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326
+  - `3QJqtW_NOSI`: The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352
+  - `4DvYXBn_5JI`: September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337
+  - `4JxgOclKzqg`: Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377
+  - `5-HUyv9LyMg`: EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311
+  - `5NQyGuRYbU8`: Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349
+  - `5m-Wn6Pr5rM`: Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316
+  - `5zgkrOaCCj4`: EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374
+  - `69A8TzAGHlU`: BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331
+  - `7ERqbYElOfs`: The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318
+  - `7FS1tUeSfdE`: BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338
+  - `9CuC1yf8-PU`: Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354
+  - `9hRcfSrri70`: EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378
+  - `AH1KVKkweUE`: Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370
+  - `AoYZel7_cGQ`: A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368
+  - `B9TyCs-6o_0`: EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314
+  - `BxN2-aeMYIs`: The World Is A Stage: Trump Survives...Again? | Ep 343
+  - `ChuWo-n49B8`: LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372
+  - `DEtFh2Ff-58`: VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317
+  - `Dkxa9OUA9K8`: LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341
+  - `E7P2ShoYDUA`: Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376
+  - `EtLHqDbxqks`: I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358
+  - `FFQ9675oqRI`: STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335
+  - `G3zdOeHpvS0`: A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351
+  - `H9p2ZGHAs9A`: EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310
+  - `HGtMfbePDKk`: Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.
+  - `HZvwbfePe7o`: BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366
+  - `I0OaY6Gryqk`: HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313
+  - `IqHsl7d2dos`: TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356
+  - `KpxIBWkNsSs`: Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336
+  - `MhakwJxK-Zk`: BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344
+  - `N4uM8Jdr410`: UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362
+  - `OgRyiOAVtWU`: Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363
+  - `Pb7UlpRdW6U`: SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339
+  - `SKNJPul29zU`: Candace Owens x Ana Kasparian
+  - `SgVcnx4Oh30`: REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315
+  - `SubDoZWHARo`: Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325
+  - `UYkXV9mYbT4`: PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319
+  - `Ux1kzgQxkws`: Candace x Hunter Biden: The Interview
+  - `VMNWMXX1vO8`: I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353
+  - `Vu6Y24pqhZs`: EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367
+  - `WoXd4oLwd3w`: REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348
+  - `X3VKJVJ7cN4`: Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359
+  - `YeEtS7nix3o`: I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345
+  - `ZIH5-V6UPkg`: An Open Letter To President Donald Trump (My Response) | Candace Ep 322
+  - `_cNtgris8Ik`: Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379
+  - `_vg7ucP1E0g`: Bride Of Charlie: Red Sparrow | Episode 8
+  - `a2bZf4fic10`: EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357
+  - `aPOyk1i2LOc`: Candace Owens vs Andrew Wilson: The Great Debate.
+  - `amqTMimDr0A`: EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365
+  - `cPidFQDJLbo`: TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342
+  - `d7VsbEIWkP8`: A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373
+  - `ds6umq1rHAw`: Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364
+  - `eLgD5yUVbko`: Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323
+  - `eMtjzXkQrsU`: A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333
+  - `h76ZN-xXC6c`: The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350
+  - `iB-YtO3UZOg`: An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369
+  - `jsqUIkszZd0`: BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324
+  - `k1b1NDCrNFs`: Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334
+  - `k8ueJdPFel4`: WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312
+  - `kaWtDuoY_ns`: EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327
+  - `mLvJqdxS-FY`: COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361
+  - `puuMVxEu5NU`: EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360
+  - `q1NRQQAYS_Q`: SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321
+  - `qZ8RWfyuewQ`: TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330
+  - `rupRLXmSndU`: Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320
+  - `sKuYLNx3iRo`: Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355
+  - `tXoI0TTKVrs`: Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346
+  - `uC_GjKU8rs8`: Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332
+  - `xi8SYJTUXPM`: Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328
+**Cleaned 3 transcript(s):**
+  - `DdPjoy5W-wY`: Bride Of Charlie: Crazy In Love | Episode 7
+  - `ZzAT2xijKGQ`: Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309
+  - `i8m_6D4QGmk`: Donald Trump Has Betrayed America. | Candace Ep 308
+**Added 289 new entity/entities**
+**Removed 82 entity/entities**
+**Added 145 new event(s)**
+**Removed 8 event(s)**
+**Added 399 new relationship(s)**
+
+**Totals:**
+- Episodes: 164
+- Entities: 2540
+- Events: 1078
+- Claims: 1461
+- Relationships: 2457
+
+---
+
 ## 2026-08-17 07:04:57
 
 **Added 11 episode(s):**

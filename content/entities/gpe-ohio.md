@@ -1,6 +1,6 @@
 ---
 title: "Ohio"
-description: "Ohio (Places) - 17 mentions"
+description: "Ohio (Places) - 20 mentions"
 id: "gpe-ohio"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [Ohio.gov | State of Ohio](https://ohio.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-ohio-t-00-24-47">2026-02-13 · 00:24:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-ohio-t-00-07-55">2026-03-03 · 00:08:18</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-ohio-t-00-01-46">2026-03-18 · 00:02:11</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,6 +36,9 @@ Source: [Ohio.gov | State of Ohio](https://ohio.gov/)
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-ohio-t-00-07-45" style="--pulse-height:80%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 4 mentions" title="2026-02-28 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#t-00-38-32" style="--pulse-height:40%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-ohio-t-00-07-55" style="--pulse-height:40%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 2 mentions" title="2026-03-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-ohio-t-00-17-19" style="--pulse-height:20%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-ohio-t-00-16-09" style="--pulse-height:20%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-ohio-t-00-01-46" style="--pulse-height:20%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +49,9 @@ Source: [Ohio.gov | State of Ohio](https://ohio.gov/)
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-ohio-t-00-07-45) | 4 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#t-00-38-32) | 2 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-ohio-t-00-07-55) | 2 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-ohio-t-00-17-19) | 1 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-ohio-t-00-16-09) | 1 |
+| 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-ohio-t-00-01-46) | 1 |
 
 </details>
 </section>
@@ -53,7 +59,31 @@ Source: [Ohio.gov | State of Ohio](https://ohio.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
+
+**[00:02:11](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-ohio-t-00-01-46)**
+> "just evaporated into thin air. The school went bankrupt and that's where Erika (Erika Kirk) went for elementary school. So it's like literally Ohio and then she goes to Arizona and it's got these financial things kind of just surrounding them."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>
+
+**[00:16:13](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-ohio-t-00-16-09)**
+> "...ion—the head of that—lives in Ohio. She has all of these backpacks and back-to-schoo..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1 mentions)</summary>
+
+**[00:17:41](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-ohio-t-00-17-19)**
+> "If we're asking questions, how is that Erika (Erika Kirk) is always so tied to Eastern Europe? Why is she just like kind of floating around this girl from Ohio?"
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (2 mentions)</summary>

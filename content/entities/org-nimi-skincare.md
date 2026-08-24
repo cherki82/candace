@@ -1,6 +1,6 @@
 ---
 title: "Nimi Skincare"
-description: "Nimi Skincare (Organizations) - 121 mentions"
+description: "Nimi Skincare (Organizations) - 139 mentions"
 id: "org-nimi-skincare"
 type: "ORG"
 aliases:
@@ -32,9 +32,9 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-nimi-skincare-t-00-51-30">2025-09-18 · 00:51:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-org-nimi-skincare-t-00-34-08">2026-03-03 · 00:34:08</a></strong></div>
-<div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>121</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-nimi-skincare-t-00-39-37">2026-03-23 · 00:39:49</a></strong></div>
+<div><span>Episodes</span><strong>32</strong></div>
+<div><span>Mentions</span><strong>139</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -72,6 +72,11 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-nimi-skincare-t-00-41-51" style="--pulse-height:12%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-nimi-skincare-t-00-24-18" style="--pulse-height:38%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 3 mentions" title="2026-02-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-org-nimi-skincare-t-00-32-55" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 4 mentions" title="2026-03-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-nimi-skincare-t-00-36-22" style="--pulse-height:38%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 3 mentions" title="2026-03-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-nimi-skincare-t-00-22-26" style="--pulse-height:50%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 4 mentions" title="2026-03-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-nimi-skincare-t-00-27-17" style="--pulse-height:50%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 4 mentions" title="2026-03-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-nimi-skincare-t-00-01-22" style="--pulse-height:88%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 7 mentions" title="2026-03-17 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-nimi-skincare-t-00-38-58" style="--pulse-height:38%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 3 mentions" title="2026-03-23 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -104,6 +109,11 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-nimi-skincare-t-00-41-51) | 1 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-nimi-skincare-t-00-24-18) | 3 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-nimi-skincare-t-00-32-55) | 4 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-nimi-skincare-t-00-36-22) | 3 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-nimi-skincare-t-00-22-26) | 4 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-nimi-skincare-t-00-27-17) | 4 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-nimi-skincare-t-00-01-22) | 7 |
+| 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-nimi-skincare-t-00-38-58) | 3 |
 
 </details>
 </section>
@@ -111,7 +121,95 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (121)</strong></summary>
+<summary><strong class="section-title">Raw mentions (139)</strong></summary>
+
+<details>
+<summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (3 mentions)</summary>
+
+**[00:38:58](/episodes/ep-B9TyCs-6o_0.md#ent-org-nimi-skincare-t-00-38-58)**
+> "also remind you guys about Nimi Skincare"
+
+**[00:39:29](/episodes/ep-B9TyCs-6o_0.md#ent-org-nimi-skincare-t-00-38-58)**
+> "Nimi pairs this ancestral ingredient with clean, moder..."
+
+**[00:39:49](/episodes/ep-B9TyCs-6o_0.md#ent-org-nimi-skincare-t-00-39-37)**
+> "... to start. You can find it at nimiskincare.com. And if you want to try it, you can use my code C..."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (7 mentions)</summary>
+
+**[00:01:53](/episodes/ep-I0OaY6Gryqk.md#ent-org-nimi-skincare-t-00-01-22)**
+> "a quick shout out at the top of the show to Nimi Skin Care"
+
+**[00:01:59](/episodes/ep-I0OaY6Gryqk.md#ent-org-nimi-skincare-t-00-01-22)**
+> "... brands that I work with, and Nimi is one that I actually use because they're clean ..."
+
+**[00:02:06](/episodes/ep-I0OaY6Gryqk.md#ent-org-nimi-skincare-t-00-02-06)**
+> "... in America, so you can visit NimiSkinCare.com and use my code Candace10 at checkout for an addi..."
+
+**[00:27:09](/episodes/ep-I0OaY6Gryqk.md#ent-org-nimi-skincare-t-00-26-56)**
+> "...a break. All right, you guys, Nimi Skin Care is the only skincare brand that I have ..."
+
+**[00:27:26](/episodes/ep-I0OaY6Gryqk.md#ent-org-nimi-skincare-t-00-26-56)**
+> "What makes Nimi's Sunshine Tallow Cream and their Buzz and Tallow..."
+
+**[00:27:37](/episodes/ep-I0OaY6Gryqk.md#ent-org-nimi-skincare-t-00-27-37)**
+> "of just coating your skin. Nimi pairs this ancestral ingredient with clean, moder..."
+
+**[00:28:00](/episodes/ep-I0OaY6Gryqk.md#ent-org-nimi-skincare-t-00-27-37)**
+> "You can find it at NimiSkinCare.com. And if you want to try it, you can use my code c..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (4 mentions)</summary>
+
+**[00:27:44](/episodes/ep-H9p2ZGHAs9A.md#ent-org-nimi-skincare-t-00-27-17)**
+> "What makes Nimi's Sunshine Tallow Cream and their Buzzin Tallow B..."
+
+**[00:27:55](/episodes/ep-H9p2ZGHAs9A.md#ent-org-nimi-skincare-t-00-27-55)**
+> "of just coating your skin. Nimi pairs their ancestral ingredient with clean, mode..."
+
+**[00:28:12](/episodes/ep-H9p2ZGHAs9A.md#ent-org-nimi-skincare-t-00-27-55)**
+> ".... You can find it by visiting nimiskincare.com."
+
+**[00:27:25](/episodes/ep-H9p2ZGHAs9A.md#ent-org-nimi-skincare-t-00-27-17)**
+> "And we're not going to let up. We'll be back after a break. All right, you guys, Nimi Skincare is the only skincare brand that I've actually stayed consistent with."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (4 mentions)</summary>
+
+**[00:22:26](/episodes/ep-DdPjoy5W-wY.md#ent-org-nimi-skincare-t-00-22-26)**
+> "... be back All right, you guys, Nimi skincare is the only skincare brand that I have stayed con..."
+
+**[00:22:51](/episodes/ep-DdPjoy5W-wY.md#ent-org-nimi-skincare-t-00-22-26)**
+> "What makes Nimi's Sunshine Tallow Cream and Buzz and Tallow Balm ..."
+
+**[00:22:59](/episodes/ep-DdPjoy5W-wY.md#ent-org-nimi-skincare-t-00-22-59)**
+> "...ad of just coating your skin. Nimi pairs this ancestral ingredient with clean, moder..."
+
+**[00:23:19](/episodes/ep-DdPjoy5W-wY.md#ent-org-nimi-skincare-t-00-22-59)**
+> "Visit Nimi at nimiskincare.com and use code candace10 at checkout. for 10% off y..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (3 mentions)</summary>
+
+**[00:36:22](/episodes/ep-y8lak3CRwDw.md#ent-org-nimi-skincare-t-00-36-22)**
+> "... going to tell you guys about Nimi Skincare you know i love them it's the only skincare brand..."
+
+**[00:36:58](/episodes/ep-y8lak3CRwDw.md#ent-org-nimi-skincare-t-00-36-58)**
+> "Nimi pairs this ancestral ingredient with clean, moder..."
+
+**[00:37:12](/episodes/ep-y8lak3CRwDw.md#ent-org-nimi-skincare-t-00-36-58)**
+> "Visit nimi at nimiskincare.com. care.com and use code Candace10 at checkout for ..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (4 mentions)</summary>
@@ -596,20 +694,6 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 
 </details>
 
-<details>
-<summary>ep-y8lak3CRwDw (3 mentions)</summary>
-
-**[00:36:22](/episodes/ep-y8lak3CRwDw.md#t-00-36-22)**
-> "... going to tell you guys about Nimi Skincare you know i love them it's the only skincare brand..."
-
-**[00:36:58](/episodes/ep-y8lak3CRwDw.md#t-00-36-58)**
-> "Nimi pairs this ancestral ingredient with clean, moder..."
-
-**[00:37:12](/episodes/ep-y8lak3CRwDw.md#t-00-37-12)**
-> "Visit nimi at nimiskincare.com. care.com and use code Candace10 at checkout for ..."
-
-</details>
-
 </details>
 
 <details open>
@@ -619,10 +703,13 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:00:44](/episodes/ep-his-JBjlkh8.md#t-00-00-00): “[00:54:41] Also, you guys know I have to tell you about Nimee Skincare. I love them.”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:33:17](/episodes/ep-2tFYJf1klgY.md#t-00-32-55): “it's the only skincare brand that I have stayed consistent with. It's what I use, it's what I trust”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:22:26](/episodes/ep-DdPjoy5W-wY.md#t-00-22-26): “Nimi skincare is the only skincare brand that I have stayed consistent with. It is what I use. It's what I trust.”
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:28:12](/episodes/ep-H9p2ZGHAs9A.md#t-00-27-55): “If you've been curious about tallow or looking for a more natural skincare alternative that actually works, this is a smart place to start. You can find it by visiting nimiskincare.com.”
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:01:53](/episodes/ep-I0OaY6Gryqk.md#t-00-01-22): “Okay, just a quick shout out at the top of the show to Nimi Skin Care. You know I love them. They are supporting today's show.”
 
 </details>
 
@@ -632,10 +719,13 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:00:44](/episodes/ep-his-JBjlkh8.md#t-00-00-00): “[00:54:41] Also, you guys know I have to tell you about Nimee Skincare. I love them.”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:33:17](/episodes/ep-2tFYJf1klgY.md#t-00-32-55): “it's the only skincare brand that I have stayed consistent with. It's what I use, it's what I trust”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:22:26](/episodes/ep-DdPjoy5W-wY.md#t-00-22-26): “Nimi skincare is the only skincare brand that I have stayed consistent with. It is what I use. It's what I trust.”
+- [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:28:12](/episodes/ep-H9p2ZGHAs9A.md#t-00-27-55): “If you've been curious about tallow or looking for a more natural skincare alternative that actually works, this is a smart place to start. You can find it by visiting nimiskincare.com.”
+- [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:01:53](/episodes/ep-I0OaY6Gryqk.md#t-00-01-22): “Okay, just a quick shout out at the top of the show to Nimi Skin Care. You know I love them. They are supporting today's show.”
 
 </details>
 

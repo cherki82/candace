@@ -54,7 +54,7 @@ _Type: Organizations_
 <details>
 <summary>Member Of (1)</summary>
 
-- **[U.S. Marines](/entities/org-united-states-marine-corps.md)**
+- **[United States Marine Corps](/entities/org-united-states-marine-corps.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:16:09](/episodes/ep-tB5SXXmd9vU.md#t-00-15-25): “...integrated with U.S. Marines of the 6th Marine Regiment for a three-week training deployment...”
@@ -66,7 +66,7 @@ _Type: Organizations_
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[U.S. Marines](/entities/org-united-states-marine-corps.md)** has member this
+- **[United States Marine Corps](/entities/org-united-states-marine-corps.md)** has member this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:16:09](/episodes/ep-tB5SXXmd9vU.md#t-00-15-25): “...integrated with U.S. Marines of the 6th Marine Regiment for a three-week training deployment...”

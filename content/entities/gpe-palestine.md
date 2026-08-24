@@ -1,6 +1,6 @@
 ---
 title: "Palestine"
-description: "Palestine (Places) - 59 mentions"
+description: "Palestine (Places) - 60 mentions"
 id: "gpe-palestine"
 type: "GPE"
 aliases:
@@ -25,11 +25,11 @@ Source: [United Nations Question of Palestine](https://www.un.org/unispal/about-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-palestine-t-00-55-46">2025-09-18 · 00:55:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-palestine-t-01-34-00">2026-01-29 · 01:34:02</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>59</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-palestine-t-00-36-57">2026-03-17 · 00:37:18</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>60</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -53,6 +53,7 @@ Source: [United Nations Question of Palestine](https://www.un.org/unispal/about-
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-palestine-t-00-35-29" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-palestine-t-01-05-02" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-palestine-t-00-12-00" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 37 mentions" title="2026-01-29 · 37 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-palestine-t-00-36-57" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -73,6 +74,7 @@ Source: [United Nations Question of Palestine](https://www.un.org/unispal/about-
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-palestine-t-00-35-29) | 1 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-palestine-t-01-05-02) | 2 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-palestine-t-00-12-00) | 37 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-palestine-t-00-36-57) | 1 |
 
 </details>
 </section>
@@ -80,7 +82,15 @@ Source: [United Nations Question of Palestine](https://www.un.org/unispal/about-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (59)</strong></summary>
+<summary><strong class="section-title">Raw mentions (60)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
+
+**[00:37:18](/episodes/ep-k8ueJdPFel4.md#ent-gpe-palestine-t-00-36-57)**
+> "... the youth was sympathetic to Palestine."
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (37 mentions)</summary>
@@ -344,7 +354,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Palestine (11)</strong></summary>
+<summary><strong class="section-title">Statements about Palestine (12)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1)</summary>
+
+- [00:37:10](/episodes/ep-k8ueJdPFel4.md#t-00-36-57) (Accusation) **Candace Owens**: ["Zionists purchased views, influencers, and journalists, activated mill..."](/statements/statement-e7bc2974418d.md)
+  - Also about: [Zionism](/entities/concept-zionism.md), [TikTok](/entities/org-tiktok.md)
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (8)</summary>

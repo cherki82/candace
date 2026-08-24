@@ -1,6 +1,6 @@
 ---
 title: "France"
-description: "France (Places) - 242 mentions"
+description: "France (Places) - 251 mentions"
 id: "gpe-france"
 type: "GPE"
 aliases:
@@ -23,10 +23,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-france-t-00-01-27">2025-10-06 · 00:01:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-04-01-26">2026-08-14 · 04:01:41</a></strong></div>
-<div><span>Episodes</span><strong>27</strong></div>
-<div><span>Mentions</span><strong>242</strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>251</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>21</strong></div>
+<div><span>Statements about</span><strong>22</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -61,6 +61,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-france-t-00-12-40" style="--pulse-height:10%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 7 mentions" title="2026-02-05 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-france-t-00-14-13" style="--pulse-height:8%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-france-t-00-02-27" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 6 mentions" title="2026-02-27 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-france-t-01-03-18" style="--pulse-height:8%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-france-t-00-47-22" style="--pulse-height:8%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 3 mentions" title="2026-03-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-france-t-01-00-54" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-france-t-00-27-44" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-21-59" style="--pulse-height:24%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -93,6 +97,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-france-t-00-12-40) | 7 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-france-t-00-14-13) | 2 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-france-t-00-02-27) | 6 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-france-t-01-03-18) | 1 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-france-t-00-47-22) | 3 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-france-t-01-00-54) | 3 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-france-t-00-27-44) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-21-59) | 17 |
 
 </details>
@@ -101,7 +109,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (242)</strong></summary>
+<summary><strong class="section-title">Raw mentions (251)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (17 mentions)</summary>
@@ -156,6 +164,53 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[04:01:41](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-04-01-26)**
 > "...ckly and to speak to me about France and to talk about this penguin receipt and my tim..."
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (2 mentions)</summary>
+
+**[00:28:03](/episodes/ep-k8ueJdPFel4.md#ent-gpe-france-t-00-27-44)**
+> "...t hopeful message came out of France, which in and of itself is not very hopeful becau..."
+
+**[00:28:10](/episodes/ep-k8ueJdPFel4.md#ent-gpe-france-t-00-28-10)**
+> "...husband that's the reality in france they hate him so nobody cares what he says he's j..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (3 mentions)</summary>
+
+**[01:00:54](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-france-t-01-00-54)**
+> "...n makes him the ambassador to France. France, by the way, I have told you guys this re..."
+
+**[01:01:21](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-france-t-01-00-54)**
+> "...thug in life you can join the french foreign legion this is what they do globally they..."
+
+**[01:02:10](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-france-t-01-02-05)**
+> "You're not the ambassador of France. And yeah, it's a lot. It's a lot going on. And I..."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (3 mentions)</summary>
+
+**[00:47:54](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-france-t-00-47-22)**
+> "French people in France"
+
+**[00:48:10](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-france-t-00-48-05)**
+> "Oh, from our French channel. Ah, okay. I'm just like, I really don't ..."
+
+**[00:50:34](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-france-t-00-50-34)**
+> "...t because I was talking about France. I don't even know what is their left and their r..."
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
+
+**[01:03:18](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-france-t-01-03-18)**
+> "France is problematic"
 
 </details>
 
@@ -1072,13 +1127,21 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about France (21)</strong></summary>
+<summary><strong class="section-title">Statements about France (22)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
 
 - [02:33:22](/episodes/ep-nPhCKwJ6ye8.md#t-02-33-18) (Accusation) **Anonymous Source #1 (Ep nPhCKwJ6ye8)** (via quoted speech): ["French Foreign Legion personnel were on the ground during Charlie Kirk..."](/statements/statement-0ccadf24fcfc.md)
   - Also about: [French Foreign Legion](/entities/org-french-foreign-legion.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1)</summary>
+
+- [01:00:54](/episodes/ep-5-HUyv9LyMg.md#t-01-00-54) (Accusation) **Candace Owens**: ["France, specifically the French Foreign Legion, was present on the day..."](/statements/statement-4c07adc38894.md)
+  - Also about: [French Foreign Legion](/entities/org-french-foreign-legion.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [White House](/entities/org-white-house.md)
 
 </details>
 

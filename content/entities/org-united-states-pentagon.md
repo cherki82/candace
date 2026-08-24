@@ -188,7 +188,7 @@ _Type: Organizations_
 <details>
 <summary>Headquarters Of (4)</summary>
 
-- **[Department of Defense](/entities/org-department-of-defense.md)**
+- **[United States Department of Defense](/entities/org-us-department-of-defense.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:30](/episodes/ep-his-JBjlkh8.md#t-00-00-44): “"The United States Pentagon, in case you don't know, is the complex that houses our Department of Defense."”
@@ -221,7 +221,7 @@ _Type: Organizations_
 <details>
 <summary>Referenced By (5)</summary>
 
-- **[Department of Defense](/entities/org-department-of-defense.md)** headquartered in this
+- **[United States Department of Defense](/entities/org-us-department-of-defense.md)** headquartered in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:30](/episodes/ep-his-JBjlkh8.md#t-00-00-44): “"The United States Pentagon, in case you don't know, is the complex that houses our Department of Defense."”

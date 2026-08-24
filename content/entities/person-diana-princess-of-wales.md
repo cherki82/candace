@@ -16,6 +16,8 @@ _Type: People_
 
 **Categories:** British royal family
 
+> **Possibly overlapping entity records:** [Diana](/entities/concept-diana-roman-goddess). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Official Royal Family biography confirms canonical title Diana, Princess of Wales.
 Source: [Diana, Princess of Wales — The Royal Family](https://www.royal.uk/diana-princess-wales)

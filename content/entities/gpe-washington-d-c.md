@@ -1,21 +1,26 @@
 ---
 title: "Washington, D.C."
-description: "Washington, D.C. (Places) - 33 mentions"
+description: "Washington, D.C. (Places) - 46 mentions"
 id: "gpe-washington-d-c"
 type: "GPE"
 aliases:
   - "D.C."
   - "Washington D.C."
   - "DC"
+  - "Washington, DC"
 categories:
   - "United States"
+  - "United States capital"
+  - "District of Columbia"
 ---
 
 _Type: Places_
 
-**Also known as:** D.C., Washington D.C., DC
+**Also known as:** D.C., Washington D.C., DC, Washington, DC
 
-**Categories:** United States
+**Categories:** United States, United States capital, District of Columbia
+
+> **Possibly overlapping entity records:** [Washington, D.C.](/entities/gpe-washington-dc). These records share a name or alias; compare their histories before treating either count as complete.
 
 **Entity verification:** verified
 > Official district portal confirms canonical place name.
@@ -23,11 +28,11 @@ Source: [District of Columbia official website](https://dc.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-washington-d-c-t-00-12-10">2025-09-11 · 00:12:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-washington-d-c-t-00-34-55">2026-02-28 · 00:58:39</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-washington-d-c-t-00-48-20">2026-03-17 · 00:48:32</a></strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>46</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -53,6 +58,12 @@ Source: [District of Columbia official website](https://dc.gov/)
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-washington-d-c-t-00-05-28" style="--pulse-height:20%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-washington-d-c-t-00-55-30" style="--pulse-height:40%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-washington-d-c-t-00-34-55" style="--pulse-height:40%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-washington-d-c-t-00-14-28" style="--pulse-height:60%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 3 mentions" title="2026-03-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-washington-d-c-t-00-00-44" style="--pulse-height:20%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-washington-d-c-t-00-12-14" style="--pulse-height:60%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 3 mentions" title="2026-03-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-washington-d-c-t-00-11-54" style="--pulse-height:40%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#t-00-34-36" style="--pulse-height:20%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-washington-d-c-t-00-08-54" style="--pulse-height:60%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -75,6 +86,12 @@ Source: [District of Columbia official website](https://dc.gov/)
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-washington-d-c-t-00-05-28) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-washington-d-c-t-00-55-30) | 2 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-washington-d-c-t-00-34-55) | 2 |
+| 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-washington-d-c-t-00-14-28) | 3 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-washington-d-c-t-00-00-44) | 1 |
+| 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-washington-d-c-t-00-12-14) | 3 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-washington-d-c-t-00-11-54) | 2 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#t-00-34-36) | 1 |
+| 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-washington-d-c-t-00-08-54) | 3 |
 
 </details>
 </section>
@@ -82,7 +99,76 @@ Source: [District of Columbia official website](https://dc.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (46)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
+
+**[00:34:36](/episodes/ep-k8ueJdPFel4.md#t-00-34-36)**
+> "... if that's like you walk down DC and it's like, oh, there's the embassy to Qatar."
+
+</details>
+
+<details>
+<summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (3 mentions)</summary>
+
+**[00:09:30](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-washington-d-c-t-00-08-54)**
+> "a bank in Virginia, Maryland or D.C."
+
+**[00:18:07](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-washington-d-c-t-00-18-07)**
+> "...holics for Catholics event in D.C."
+
+**[00:48:32](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-washington-d-c-t-00-48-20)**
+> "...d Dulles Airport, which is in D.C., plus Baltimore Airport, which is the nearest, pl..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (2 mentions)</summary>
+
+**[00:12:25](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-washington-d-c-t-00-11-54)**
+> "Meanwhile, you're together in D.C."
+
+**[00:40:24](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-washington-d-c-t-00-40-12)**
+> "... it really operates inside of D.C. Everyone is disgusting, left and right, and obvio..."
+
+</details>
+
+<details>
+<summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (3 mentions)</summary>
+
+**[00:12:45](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-washington-d-c-t-00-12-14)**
+> "here in Washington, D.C."
+
+**[00:13:26](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-washington-d-c-t-00-13-26)**
+> "... actually in the West Wing in D.C."
+
+**[00:14:36](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-washington-d-c-t-00-13-26)**
+> "...you guys are like together in DC what are we doing here I had also replied on Janu..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>
+
+**[00:00:44](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-washington-d-c-t-00-00-44)**
+> "... I told you, Vegas is running Washington, D.C."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (3 mentions)</summary>
+
+**[00:14:37](/episodes/ep-y8lak3CRwDw.md#ent-gpe-washington-d-c-t-00-14-28)**
+> "running Washington, D.C."
+
+**[00:07:49](/episodes/ep-y8lak3CRwDw.md#ent-gpe-washington-d-c-t-00-07-49)**
+> "...representatives to go down to D.C. and to make and pass laws."
+
+**[00:56:57](/episodes/ep-y8lak3CRwDw.md#ent-gpe-washington-d-c-t-00-56-46)**
+> "And beyond that, they control D.C. old dc that's my story i'm sticking to it but any..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (2 mentions)</summary>
@@ -272,7 +358,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Washington, D.C. (7)</strong></summary>
+<summary><strong class="section-title">Statements about Washington, D.C. (9)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (2)</summary>
+
+- [00:14:37](/episodes/ep-y8lak3CRwDw.md#t-00-14-28) (Accusation) **Candace Owens**: ["Nevada, particularly Las Vegas and Reno, works on behalf of Tel Aviv a..."](/statements/statement-04bc4b044a64.md)
+  - Also about: [Nevada](/entities/gpe-nevada.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md), [Reno, Nevada](/entities/gpe-reno-nevada.md)
+
+- [00:56:46](/episodes/ep-y8lak3CRwDw.md#t-00-56-46) (Accusation) **Candace Owens**: ["Drug traffickers and human traffickers based in Tel Aviv run Las Vegas..."](/statements/statement-b6b8c761e754.md)
+  - Also about: [Tel Aviv-Yafo](/entities/gpe-tel-aviv-yafo.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (1)</summary>

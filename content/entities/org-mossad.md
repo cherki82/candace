@@ -1,6 +1,6 @@
 ---
 title: "Mossad"
-description: "Mossad (Organizations) - 56 mentions"
+description: "Mossad (Organizations) - 62 mentions"
 id: "org-mossad"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-mossad-t-00-29-49">2025-09-15 · 00:30:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-mossad-t-00-57-03">2026-02-02 · 00:57:03</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>56</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-org-mossad-t-00-05-12">2026-03-17 · 00:05:12</a></strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>62</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>20</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -56,6 +56,8 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-mossad-t-00-13-07" style="--pulse-height:80%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 8 mentions" title="2026-01-29 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-mossad-t-00-50-31" style="--pulse-height:10%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-mossad-t-00-19-18" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 10 mentions" title="2026-02-02 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-mossad-t-00-27-42" style="--pulse-height:10%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-org-mossad-t-00-05-12" style="--pulse-height:10%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -82,6 +84,8 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-mossad-t-00-13-07) | 8 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-mossad-t-00-50-31) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-mossad-t-00-19-18) | 10 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-mossad-t-00-27-42) | 1 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-org-mossad-t-00-05-12) | 1 |
 
 </details>
 </section>
@@ -89,7 +93,23 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (56)</strong></summary>
+<summary><strong class="section-title">Raw mentions (62)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
+
+**[00:05:12](/episodes/ep-k8ueJdPFel4.md#ent-org-mossad-t-00-05-12)**
+> "...rael or the jews okay ben the mossad hasn't been in the united states since like the 1..."
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
+
+**[00:28:11](/episodes/ep-i8m_6D4QGmk.md#ent-org-mossad-t-00-27-42)**
+> "Mossad handler"
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (10 mentions)</summary>
@@ -358,6 +378,23 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 
 **[00:30:32](/episodes/ep-czVBmqZP6Ss.md#ent-org-mossad-t-00-29-49)**
 > "Epstein was a creation of either Mossad, Israeli intelligence, American intelligence"
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (4 mentions)</summary>
+
+**[00:48:35](/episodes/ep-5m-Wn6Pr5rM.md#t-00-48-35)**
+> "Mossad"
+
+**[00:32:31](/episodes/ep-5m-Wn6Pr5rM.md#t-00-32-31)**
+> "...caps, I was falsely labeled a Mossad spy."
+
+**[00:34:03](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-03)**
+> "...or's girlfriend. So it's as a Mossad honeypot. She somehow connected. I don't know how..."
+
+**[00:48:43](/episodes/ep-5m-Wn6Pr5rM.md#t-00-48-43)**
+> "... is our greatest ally because Mossad is listening and we want you to be okay."
 
 </details>
 

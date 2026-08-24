@@ -1,6 +1,6 @@
 ---
 title: "United States Navy"
-description: "United States Navy (Organizations) - 16 mentions"
+description: "United States Navy (Organizations) - 18 mentions"
 id: "org-united-states-navy"
 type: "ORG"
 aliases:
@@ -26,8 +26,8 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#t-00-48-05">2025-09-22 · 00:48:35</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#t-00-20-00">2026-02-02 · 00:20:25</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -72,7 +72,7 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>
@@ -174,6 +174,17 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 
 **[00:48:35](/episodes/ep-ja26iltROkM.md#t-00-48-05)**
 > "...anuela Palacio writes: "Candace (Candace Owens), is Jack Posobiec trustworthy? I find it odd that a Navy intelligence officer—that the people closest to you betray you often for their own interests. It ha..."
+
+</details>
+
+<details>
+<summary>ep-5m-Wn6Pr5rM (2 mentions)</summary>
+
+**[00:04:59](/episodes/ep-5m-Wn6Pr5rM.md#t-00-04-59)**
+> "Navy"
+
+**[00:05:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-05-05)**
+> "...hink in the Air Force and the Navy. Don't quote me on that. It's one or the other."
 
 </details>
 

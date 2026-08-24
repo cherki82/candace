@@ -1,6 +1,6 @@
 ---
 title: "California"
-description: "California (Places) - 35 mentions"
+description: "California (Places) - 40 mentions"
 id: "gpe-california"
 type: "GPE"
 categories:
@@ -17,12 +17,12 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-california-t-00-04-56">2025-09-11 · 00:05:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-california-t-00-29-18">2026-02-03 · 00:29:18</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-california-t-00-41-11">2026-03-24 · 00:41:11</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -46,6 +46,9 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-california-t-00-44-22" style="--pulse-height:20%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-california-t-00-10-31" style="--pulse-height:20%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-california-t-00-29-18" style="--pulse-height:20%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-california-t-00-44-57" style="--pulse-height:60%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 3 mentions" title="2026-03-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-california-t-00-19-29" style="--pulse-height:20%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-california-t-00-41-11" style="--pulse-height:20%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -67,6 +70,9 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-california-t-00-44-22) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-california-t-00-10-31) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-california-t-00-29-18) | 1 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-california-t-00-44-57) | 3 |
+| 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-california-t-00-19-29) | 1 |
+| 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-california-t-00-41-11) | 1 |
 
 </details>
 </section>
@@ -74,7 +80,37 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+
+<details>
+<summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>
+
+**[00:41:11](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-california-t-00-41-11)**
+> "This is California."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>
+
+**[00:19:29](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-california-t-00-19-29)**
+> "Born in California in 1919, the article tells us David Berg had a ve..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (3 mentions)</summary>
+
+**[00:39:34](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-california-t-00-44-57)**
+> "...ka Kirk) is living in Venice, California, and there's actually no purpose for her to be do..."
+
+**[00:45:08](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-california-t-00-44-57)**
+> "...irk) is living and working in California and he is living in Tulsa, Oklahoma, and here is ..."
+
+**[00:46:17](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-california-t-00-44-57)**
+> "...d I currently live in Venice, California."
+
+</details>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (1 mentions)</summary>
@@ -266,7 +302,29 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Birthplace Of (1)</summary>
+
+- **[David Brandt Berg](/entities/person-david-brandt-berg.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:19:29](/episodes/ep-5-HUyv9LyMg.md#t-00-19-29): “Born in California in 1919”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[David Brandt Berg](/entities/person-david-brandt-berg.md)** born in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:19:29](/episodes/ep-5-HUyv9LyMg.md#t-00-19-29): “Born in California in 1919”
+
+</details>
+
+</details>
 
 </details>
 

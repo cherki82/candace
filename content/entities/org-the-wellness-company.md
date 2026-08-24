@@ -1,6 +1,6 @@
 ---
 title: "The Wellness Company"
-description: "The Wellness Company (Organizations) - 44 mentions"
+description: "The Wellness Company (Organizations) - 50 mentions"
 id: "org-the-wellness-company"
 type: "ORG"
 aliases:
@@ -24,8 +24,8 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-the-wellness-company-t-00-59-29">2025-09-17 · 00:59:29</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-the-wellness-company-t-01-18-41">2026-08-14 · 01:18:56</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>44</strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>50</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -52,6 +52,8 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-the-wellness-company-t-00-23-00" style="--pulse-height:50%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-the-wellness-company-t-00-47-33" style="--pulse-height:25%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-the-wellness-company-t-00-24-58" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-the-wellness-company-t-00-31-29" style="--pulse-height:75%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 3 mentions" title="2026-03-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-org-the-wellness-company-t-00-30-09" style="--pulse-height:75%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-the-wellness-company-t-01-18-41" style="--pulse-height:25%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -74,6 +76,8 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-org-the-wellness-company-t-00-23-00) | 2 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-the-wellness-company-t-00-47-33) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-the-wellness-company-t-00-24-58) | 2 |
+| 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-the-wellness-company-t-00-31-29) | 3 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-org-the-wellness-company-t-00-30-09) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-the-wellness-company-t-01-18-41) | 1 |
 
 </details>
@@ -82,13 +86,41 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+<summary><strong class="section-title">Raw mentions (50)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[01:18:56](/episodes/ep-nPhCKwJ6ye8.md#ent-org-the-wellness-company-t-01-18-41)**
 > "...ecommends Bactrim. That's why the wellness company created the medical emergency kit with generic Ba..."
+
+</details>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (3 mentions)</summary>
+
+**[00:30:24](/episodes/ep-k8ueJdPFel4.md#ent-org-the-wellness-company-t-00-30-09)**
+> "...o want to tell you guys about the Wellness Company because in 2025, the cancer research global spend..."
+
+**[00:30:48](/episodes/ep-k8ueJdPFel4.md#ent-org-the-wellness-company-t-00-30-48)**
+> "This is where the wellness company steps in to help you own your health. For example..."
+
+**[00:31:01](/episodes/ep-k8ueJdPFel4.md#ent-org-the-wellness-company-t-00-30-48)**
+> "...rs and halting metastasis. At the wellness company, you can order it right from your home."
+
+</details>
+
+<details>
+<summary>Donald Trump Has Betrayed America. | Candace Ep 308 (3 mentions)</summary>
+
+**[00:31:29](/episodes/ep-i8m_6D4QGmk.md#ent-org-the-wellness-company-t-00-31-29)**
+> "The Wellness Company"
+
+**[00:32:10](/episodes/ep-i8m_6D4QGmk.md#ent-org-the-wellness-company-t-00-32-10)**
+> "This is where the wellness company steps in to help you own your health. For example..."
+
+**[00:32:23](/episodes/ep-i8m_6D4QGmk.md#ent-org-the-wellness-company-t-00-32-10)**
+> "...umors and halting metastasis. The wellness company, you can order it right from your home."
 
 </details>
 

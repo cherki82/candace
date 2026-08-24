@@ -11,7 +11,7 @@ date: "2025-09-08"
 
 > Mitch Snow alleged that he saw Erika Kirk leaving the Candlewood Suites hotel at Fort Huachuca with someone resembling Cabot Phillips.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. You Won't Believe What Happened While We Were Off Air... | C...
 
@@ -36,3 +36,11 @@ date: "2025-09-08"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1284);return false;">▶️ Play</a>
 
 > somebody else believes they did see her at Fort Huachuca
+
+### 4. Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309
+
+**Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
+**Timestamp:** [00:34:37](/episodes/ep-ZzAT2xijKGQ.md#t-00-34-37) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2077);return false;">▶️ Play</a>
+
+> Allegedly, Erika, he saw her on September 8th, Fort Huachuca

@@ -1,6 +1,6 @@
 ---
 title: "China"
-description: "China (Places) - 30 mentions"
+description: "China (Places) - 46 mentions"
 id: "gpe-china"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-42">2025-10-01 · 00:30:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-china-t-00-21-13">2026-03-03 · 00:21:13</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-china-t-00-27-09">2026-03-17 · 00:27:19</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>46</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -40,6 +40,9 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-gpe-china-t-00-36-05" style="--pulse-height:9%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-china-t-00-05-08" style="--pulse-height:9%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-china-t-00-19-34" style="--pulse-height:36%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 4 mentions" title="2026-03-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-china-t-00-31-58" style="--pulse-height:100%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 11 mentions" title="2026-03-06 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-china-t-00-12-32" style="--pulse-height:27%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 3 mentions" title="2026-03-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-china-t-00-27-09" style="--pulse-height:18%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +57,9 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-gpe-china-t-00-36-05) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-china-t-00-05-08) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-china-t-00-19-34) | 4 |
+| 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-china-t-00-31-58) | 11 |
+| 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-china-t-00-12-32) | 3 |
+| 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-china-t-00-27-09) | 2 |
 
 </details>
 </section>
@@ -61,7 +67,70 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (46)</strong></summary>
+
+<details>
+<summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (2 mentions)</summary>
+
+**[00:27:09](/episodes/ep-k8ueJdPFel4.md#ent-gpe-china-t-00-27-09)**
+> "China, the recent tense situation in the Strait and the..."
+
+**[00:27:19](/episodes/ep-k8ueJdPFel4.md#ent-gpe-china-t-00-27-09)**
+> "China once again calls on parties to immediately stop m..."
+
+</details>
+
+<details>
+<summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (3 mentions)</summary>
+
+**[00:12:49](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-china-t-00-12-32)**
+> "...arine Corps by expanding into China and Costa Rica while continuing their community o..."
+
+**[00:17:03](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-china-t-00-16-35)**
+> "...lfway around the world and in China while also running a faith-based clothing company..."
+
+**[00:11:39](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-china-t-00-11-04)**
+> "She has lived all over the world from Los Angeles to China, working in the entertainment industry as an agency represented model, actress, and casting director. She does it all."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (11 mentions)</summary>
+
+**[00:32:35](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-china-t-00-31-58)**
+> "specifically to China. Why don't you listen to what she says about why ..."
+
+**[00:33:17](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-china-t-00-33-17)**
+> "... more global. I was living in China and doing a lot of work with the victims from sex..."
+
+**[00:33:45](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-china-t-00-33-45)**
+> "... over again that she lived in China and she was living in China to work with victims ..."
+
+**[00:33:54](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-china-t-00-33-45)**
+> "... who were you working with in China?"
+
+**[00:34:08](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-china-t-00-33-45)**
+> "...alize why she was actually in China."
+
+**[00:37:21](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-china-t-00-37-21)**
+> "...move, her words, not mine, to China to follow and live with her boyfriend."
+
+**[00:37:39](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-china-t-00-37-21)**
+> "When did she live in China? Why was she living in China? And he came back an..."
+
+**[00:37:52](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-china-t-00-37-21)**
+> "..., is that she did not live in China."
+
+**[00:37:58](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-china-t-00-37-58)**
+> "... (Erika Kirk) did not live in China. Back to me on January 12th that Erika (Erika Kir..."
+
+**[00:38:14](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-china-t-00-37-58)**
+> "...ery clearly says she lived in China and the answer is she was obviously there longer ..."
+
+**[00:45:22](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-china-t-00-45-22)**
+> "I've lived in China. I've lived in Chongqing. I've been to Romania. I..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (4 mentions)</summary>
@@ -207,9 +276,10 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 <summary>Former Residence Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:20:44](/episodes/ep-2tFYJf1klgY.md#t-00-20-44): “I was living in China and doing a lot of work with the victims from sex trafficking”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:33:17](/episodes/ep-DdPjoy5W-wY.md#t-00-33-17): “I was living in China”
 
 </details>
 
@@ -219,9 +289,10 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 <summary>Referenced By (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** formerly lived in this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:20:44](/episodes/ep-2tFYJf1klgY.md#t-00-20-44): “I was living in China and doing a lot of work with the victims from sex trafficking”
+- [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:33:17](/episodes/ep-DdPjoy5W-wY.md#t-00-33-17): “I was living in China”
 
 </details>
 
@@ -230,7 +301,24 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about China (8)</strong></summary>
+<summary><strong class="section-title">Statements about China (12)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Crazy In Love | Episode 7 (4)</summary>
+
+- [00:33:17](/episodes/ep-DdPjoy5W-wY.md#t-00-33-17) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk says she lived in China while working with sex-trafficking ..."](/statements/statement-671b65b02715.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Romania](/entities/gpe-romania.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md)
+
+- [00:34:16](/episodes/ep-DdPjoy5W-wY.md#t-00-33-45) (Accusation) **Candace Owens**: ["Candace Owens accuses Erika Kirk of misrepresenting charity work in Ch..."](/statements/statement-34de018c78ad.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Josh Harrellson](/entities/person-josh-harrellson.md)
+
+- [00:38:14](/episodes/ep-DdPjoy5W-wY.md#t-00-37-58) (Claim) **Candace Owens**: ["Candace Owens says Erika Kirk was in China from June until at least ea..."](/statements/statement-32050e6e2766.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Josh Harrellson](/entities/person-josh-harrellson.md)
+
+- [00:45:22](/episodes/ep-DdPjoy5W-wY.md#t-00-45-22) (Claim) **Erika Kirk** (via quoted speech): ["Erika Frantzve says she lived in Chongqing, China, as well as Puerto R..."](/statements/statement-46188ab70289.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Puerto Rico](/entities/gpe-puerto-rico.md), [Romania](/entities/gpe-romania.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1)</summary>
