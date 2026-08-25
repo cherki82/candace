@@ -1,6 +1,6 @@
 ---
 title: "Colorado"
-description: "Colorado (Places) - 26 mentions"
+description: "Colorado (Places) - 28 mentions"
 id: "gpe-colorado"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [State Information - Colorado.gov](https://co.colorado.gov/state-informa
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-colorado-t-00-09-13">2025-09-11 · 00:09:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-colorado-t-00-49-50">2026-04-14 · 00:50:19</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-gpe-colorado-t-00-35-43">2026-04-16 · 00:36:10</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,6 +40,7 @@ Source: [State Information - Colorado.gov](https://co.colorado.gov/state-informa
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-colorado-t-00-21-13" style="--pulse-height:67%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 4 mentions" title="2026-03-03 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-colorado-t-00-29-16" style="--pulse-height:50%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 3 mentions" title="2026-03-04 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-colorado-t-00-07-02" style="--pulse-height:100%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 6 mentions" title="2026-04-14 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-gpe-colorado-t-00-35-43" style="--pulse-height:33%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 2 mentions" title="2026-04-16 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +56,7 @@ Source: [State Information - Colorado.gov](https://co.colorado.gov/state-informa
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-colorado-t-00-21-13) | 4 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-colorado-t-00-29-16) | 3 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-colorado-t-00-07-02) | 6 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-colorado-t-00-35-43) | 2 |
 
 </details>
 </section>
@@ -62,7 +64,18 @@ Source: [State Information - Colorado.gov](https://co.colorado.gov/state-informa
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (2 mentions)</summary>
+
+**[00:36:10](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-colorado-t-00-35-43)**
+> "I think the state of Colorado might want to know all of who you are."
+
+**[00:30:16](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-colorado-t-00-35-43)**
+> "Colorado Springs where he lives you will find he has an FF..."
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (6 mentions)</summary>

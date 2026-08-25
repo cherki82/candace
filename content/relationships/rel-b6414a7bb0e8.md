@@ -11,7 +11,7 @@ object: "person-terryl-farnsworth"
 
 ## [Candace Owens](/entities/person-candace-owens) accused [Terryl Farnsworth](/entities/person-terryl-farnsworth)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
 
 **[REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM)**
 
@@ -20,6 +20,10 @@ object: "person-terryl-farnsworth"
 **[BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw)**
 
 - [00:23:03](/episodes/ep-HYn0P-P1wUw#t-00-23-03): _that man is guilty of something. He's guilty of something. He's lying about weird stuff._
+
+**[Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM)**
+
+- [00:04:26](/episodes/ep-xi8SYJTUXPM#t-00-04-26): _And you know what, Nisscee? I was actually remarking to my team that it certainly seemed to me that Terryl (Terryl Farnsworth) may have at the very least edited the video._
 
 ### Related
 

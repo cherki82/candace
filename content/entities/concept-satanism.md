@@ -1,6 +1,6 @@
 ---
 title: "Satanism"
-description: "Satanism (Concepts) - 19 mentions"
+description: "Satanism (Concepts) - 22 mentions"
 id: "concept-satanism"
 type: "CONCEPT"
 aliases:
@@ -23,9 +23,9 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-satanism-t-00-12-10">2026-01-14 · 00:12:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-satanism-t-01-01-30">2026-03-09 · 01:01:51</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-concept-satanism-t-00-48-35">2026-04-15 · 00:48:56</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -44,6 +44,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-satanism-t-00-12-39" style="--pulse-height:17%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-satanism-t-00-04-37" style="--pulse-height:17%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-satanism-t-00-14-24" style="--pulse-height:67%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 4 mentions" title="2026-03-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-concept-satanism-t-00-48-35" style="--pulse-height:50%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 3 mentions" title="2026-04-15 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +58,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-concept-satanism-t-00-12-39) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-concept-satanism-t-00-04-37) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-concept-satanism-t-00-14-24) | 4 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-concept-satanism-t-00-48-35) | 3 |
 
 </details>
 </section>
@@ -64,7 +66,21 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (3 mentions)</summary>
+
+**[00:48:49](/episodes/ep-SubDoZWHARo.md#ent-concept-satanism-t-00-48-35)**
+> "Satanism"
+
+**[00:48:35](/episodes/ep-SubDoZWHARo.md#ent-concept-satanism-t-00-48-35)**
+> "...e book with Michael Aquino, a Satanist and founder of the Temple of Set."
+
+**[00:48:56](/episodes/ep-SubDoZWHARo.md#ent-concept-satanism-t-00-48-35)**
+> "...Temple of Set was born out of Satanism. So you guys know if you're not up on your Satani..."
+
+</details>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (4 mentions)</summary>

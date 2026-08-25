@@ -1,6 +1,6 @@
 ---
 title: "Israel Defense Forces"
-description: "Israel Defense Forces (Organizations) - 16 mentions"
+description: "Israel Defense Forces (Organizations) - 23 mentions"
 id: "org-israel-defense-forces"
 type: "ORG"
 aliases:
@@ -20,32 +20,33 @@ _Type: Organizations_
 > **Possibly overlapping entity records:** [IDF](/entities/org-idf). These records share a name or alias; compare their histories before treating either count as complete.
 
 **Entity verification:** verified
-> Official IDF site confirms the canonical Israel Defense Forces name and IDF abbreviation.
+> The transcript uses IDF for Israel's military; the official organization site verifies the canonical name Israel Defense Forces and abbreviation IDF.
 Source: [Israel Defense Forces](https://www.idf.il/en/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-israel-defense-forces-t-00-07-51">2026-01-09 · 00:08:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-org-israel-defense-forces-t-00-53-48">2026-04-14 · 00:53:48</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-israel-defense-forces-t-00-37-37">2026-04-16 · 00:38:15</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-israel-defense-forces-t-00-45-42">Candace x Bassem Youssef | Candace Ep 298</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-israel-defense-forces-t-00-29-07">Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-israel-defense-forces-t-00-07-51" style="--pulse-height:20%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-israel-defense-forces-t-00-51-49" style="--pulse-height:20%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-israel-defense-forces-t-00-45-42" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 5 mentions" title="2026-01-29 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-israel-defense-forces-t-00-53-53" style="--pulse-height:20%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-israel-defense-forces-t-00-37-50" style="--pulse-height:40%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-israel-defense-forces-t-00-11-11" style="--pulse-height:20%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-israel-defense-forces-t-00-25-03" style="--pulse-height:40%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-jsqUIkszZd0.md#ent-org-israel-defense-forces-t-00-33-38" style="--pulse-height:60%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 3 mentions" title="2026-04-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-israel-defense-forces-t-00-07-51" style="--pulse-height:14%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-israel-defense-forces-t-00-51-49" style="--pulse-height:14%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-israel-defense-forces-t-00-45-42" style="--pulse-height:71%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 5 mentions" title="2026-01-29 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-israel-defense-forces-t-00-53-53" style="--pulse-height:14%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-israel-defense-forces-t-00-37-50" style="--pulse-height:29%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-israel-defense-forces-t-00-11-11" style="--pulse-height:14%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-israel-defense-forces-t-00-25-03" style="--pulse-height:29%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-org-israel-defense-forces-t-00-33-38" style="--pulse-height:43%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 3 mentions" title="2026-04-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-israel-defense-forces-t-00-29-07" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 7 mentions" title="2026-04-16 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -59,6 +60,7 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-israel-defense-forces-t-00-11-11) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-israel-defense-forces-t-00-25-03) | 2 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-israel-defense-forces-t-00-33-38) | 3 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-israel-defense-forces-t-00-29-07) | 7 |
 
 </details>
 </section>
@@ -66,7 +68,33 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (7 mentions)</summary>
+
+**[00:29:26](/episodes/ep-1mYNOqzAdXs.md#ent-org-israel-defense-forces-t-00-29-07)**
+> "That would be interesting because I think he is in the IDF."
+
+**[00:35:24](/episodes/ep-1mYNOqzAdXs.md#ent-org-israel-defense-forces-t-00-34-57)**
+> "...ness, FoldAR on behalf of the IDF."
+
+**[00:36:37](/episodes/ep-1mYNOqzAdXs.md#ent-org-israel-defense-forces-t-00-36-25)**
+> "...ote, why so much focus on the IDF and not as much on domestic schools?"
+
+**[00:36:50](/episodes/ep-1mYNOqzAdXs.md#ent-org-israel-defense-forces-t-00-36-25)**
+> "...e only covered less than 10%. IDF is not going to be using this for protection of c..."
+
+**[00:37:08](/episodes/ep-1mYNOqzAdXs.md#ent-org-israel-defense-forces-t-00-37-08)**
+> "... send a thousand units to the IDF and have an unprotected school get shut up here."
+
+**[00:37:37](/episodes/ep-1mYNOqzAdXs.md#ent-org-israel-defense-forces-t-00-37-37)**
+> "...ousand units to anyone in the IDF you will get a paycheck for the patent and possib..."
+
+**[00:38:15](/episodes/ep-1mYNOqzAdXs.md#ent-org-israel-defense-forces-t-00-37-37)**
+> "... transacting on behalf of the IDF. I mean, is there another way to interpret that?"
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (3 mentions)</summary>
@@ -275,7 +303,24 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel Defense Forces (9)</strong></summary>
+<summary><strong class="section-title">Statements about Israel Defense Forces (13)</strong></summary>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (4)</summary>
+
+- [00:36:01](/episodes/ep-1mYNOqzAdXs.md#t-00-35-43) (Claim) **Victor Marx** (via read message): ["Victor Marx wrote that an Israeli defense group connected to him was r..."](/statements/statement-d1e968f61160.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Corby Hall](/entities/person-corby-hall.md), [FoldAR](/entities/org-foldar.md)
+
+- [00:37:08](/episodes/ep-1mYNOqzAdXs.md#t-00-37-08) (Opinion) **Corby Hall** (via read message): ["Corby Hall wrote that he would hate to send 1,000 FoldAR units to the ..."](/statements/statement-cbbfa7bca8da.md)
+  - Also about: [Corby Hall](/entities/person-corby-hall.md), [FoldAR](/entities/org-foldar.md), [United States](/entities/gpe-united-states.md)
+
+- [00:37:37](/episodes/ep-1mYNOqzAdXs.md#t-00-37-37) (Claim) **Victor Marx** (via read message): ["Victor Marx wrote that Corby Hall would not send 1,000 units to the ID..."](/statements/statement-5329bd2989a9.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Corby Hall](/entities/person-corby-hall.md), [FoldAR](/entities/org-foldar.md)
+
+- [00:38:15](/episodes/ep-1mYNOqzAdXs.md#t-00-37-37) (Accusation) **Candace Owens**: ["Candace Owens interpreted the April 2025 messages as showing Victor Ma..."](/statements/statement-a7e0a3709327.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [FoldAR](/entities/org-foldar.md)
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>

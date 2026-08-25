@@ -11,11 +11,15 @@ object: "org-gtec-industries"
 
 ## [Lori Frantzve](/entities/person-lori-frantzve) affiliated with [GTEC Industries](/entities/org-gtec-industries)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
 
 **[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
 
 - [00:40:56](/episodes/ep-DdPjoy5W-wY#t-00-40-56): _here is what me and my husband Larry Guinta recommend that you do. and it's g-tech industries_
+
+**[Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM)**
+
+- [00:18:01](/episodes/ep-xi8SYJTUXPM#t-00-18-01): _Anyway, the story goes that Lori, remember we had showed you that she had gone to this expo, this exposition up in Salt Lake City in Utah, and this is when she was hawking her G-Tech, G-Tech Industries, her EMP Doomsday Tech._
 
 ### Related
 

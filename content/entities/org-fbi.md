@@ -1,6 +1,6 @@
 ---
 title: "FBI"
-description: "FBI (Organizations) - 503 mentions"
+description: "FBI (Organizations) - 529 mentions"
 id: "org-fbi"
 type: "ORG"
 aliases:
@@ -22,16 +22,16 @@ _Type: Organizations_
 > **Possibly overlapping entity records:** [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation). These records share a name or alias; compare their histories before treating either count as complete.
 
 **Entity verification:** verified
-> The bureau's official About page confirms FBI as the canonical organizational name and describes its federal law-enforcement and national-security mission.
-Source: [About — FBI](https://www.fbi.gov/about/)
+> Official FBI pages identify the Federal Bureau of Investigation and its Quantico laboratory; org-fbi is the established repository canonical record and is used instead of the duplicate lower-use record.
+Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laboratory-division)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-fbi-t-00-36-23">2025-09-15 · 00:36:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-02-22-33">2026-08-14 · 02:22:33</a></strong></div>
-<div><span>Episodes</span><strong>52</strong></div>
-<div><span>Mentions</span><strong>503</strong></div>
+<div><span>Episodes</span><strong>55</strong></div>
+<div><span>Mentions</span><strong>529</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>97</strong></div>
+<div><span>Statements about</span><strong>107</strong></div>
 <div><span>Relationships</span><strong>17</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -91,6 +91,9 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-fbi-t-00-05-14" style="--pulse-height:37%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 11 mentions" title="2026-04-01 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-fbi-t-00-46-50" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-fbi-t-00-34-18" style="--pulse-height:30%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 9 mentions" title="2026-04-13 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-fbi-t-00-44-45" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-fbi-t-00-00-31" style="--pulse-height:33%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 10 mentions" title="2026-04-20 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-fbi-t-00-04-55" style="--pulse-height:50%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 15 mentions" title="2026-04-21 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-00-31-26" style="--pulse-height:57%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -148,6 +151,9 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-fbi-t-00-05-14) | 11 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-fbi-t-00-46-50) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-fbi-t-00-34-18) | 9 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-fbi-t-00-44-45) | 1 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-fbi-t-00-00-31) | 10 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-fbi-t-00-04-55) | 15 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-00-31-26) | 17 |
 
 </details>
@@ -156,7 +162,7 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (503)</strong></summary>
+<summary><strong class="section-title">Raw mentions (529)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (17 mentions)</summary>
@@ -211,6 +217,99 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 
 **[01:59:17](/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-01-59-17)**
 > "...nto evidence they took it The FBI,"
+
+</details>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (15 mentions)</summary>
+
+**[00:04:55](/episodes/ep-xi8SYJTUXPM.md#ent-org-fbi-t-00-04-55)**
+> "...ybe the cops asked him to the feds were on the scene a little too quickly that day a..."
+
+**[00:07:50](/episodes/ep-xi8SYJTUXPM.md#ent-org-fbi-t-00-07-24)**
+> "Because the feds were on the ground and of course they should have..."
+
+**[00:08:35](/episodes/ep-xi8SYJTUXPM.md#ent-org-fbi-t-00-08-35)**
+> "... I had to then give it to the feds. At no point did he say to me that he gave the SD..."
+
+**[00:08:44](/episodes/ep-xi8SYJTUXPM.md#ent-org-fbi-t-00-08-35)**
+> "...learned, was not given to the feds."
+
+**[00:08:55](/episodes/ep-xi8SYJTUXPM.md#ent-org-fbi-t-00-08-35)**
+> "... should have been kept by the feds. That should have been secured by the feds. That ..."
+
+**[00:09:30](/episodes/ep-xi8SYJTUXPM.md#ent-org-fbi-t-00-09-17)**
+> "... that's the reason. Maybe the feds didn't know that Terryl (Terryl Farnsworth) had i..."
+
+**[00:09:55](/episodes/ep-xi8SYJTUXPM.md#ent-org-fbi-t-00-09-55)**
+> "...era, this camera? Why did the feds not take the footage from behind"
+
+**[00:28:44](/episodes/ep-xi8SYJTUXPM.md#ent-org-fbi-t-00-28-34)**
+> "...t, which were released by the FBI as looking like their son. Only then did they mov..."
+
+**[00:28:55](/episodes/ep-xi8SYJTUXPM.md#ent-org-fbi-t-00-28-34)**
+> "And at that point, the FBI had already announced that they had found a high ..."
+
+**[00:29:13](/episodes/ep-xi8SYJTUXPM.md#ent-org-fbi-t-00-29-13)**
+> "...tory so much. Like I say, the FBI is making it up as they go along, but they forget..."
+
+**[00:30:07](/episodes/ep-xi8SYJTUXPM.md#ent-org-fbi-t-00-29-37)**
+> "... Tyler Robinson's, I mean the feds very sloppy messages that they put together."
+
+**[00:30:29](/episodes/ep-xi8SYJTUXPM.md#ent-org-fbi-t-00-30-16)**
+> "...ts to know. Who has what? The feds released a photo of the rifle and it is very uniq..."
+
+**[00:30:36](/episodes/ep-xi8SYJTUXPM.md#ent-org-fbi-t-00-30-16)**
+> "...is calling him is because the feds released a message of the rifle and it's very uni..."
+
+**[00:46:07](/episodes/ep-xi8SYJTUXPM.md#ent-org-fbi-t-00-45-36)**
+> "...t should be filed against the FBI on behalf of Tyler Robinson due to the FBI withho..."
+
+**[00:53:21](/episodes/ep-xi8SYJTUXPM.md#ent-org-fbi-t-00-53-21)**
+> "...at excuse for the head of the FBI, the DOJ, coming out and saying, 'My girlfriend's..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (10 mentions)</summary>
+
+**[00:00:31](/episodes/ep-kaWtDuoY_ns.md#ent-org-fbi-t-00-00-31)**
+> "...ed that day, the one that the feds led the police officers to, the rookie police off..."
+
+**[00:09:30](/episodes/ep-kaWtDuoY_ns.md#ent-org-fbi-t-00-09-30)**
+> "...ts on the defense because the FBI is refusing to hand over the evidence that they h..."
+
+**[00:11:23](/episodes/ep-kaWtDuoY_ns.md#ent-org-fbi-t-00-10-57)**
+> "... provided why the ATF and the FBI, first of all, the ATF, why they provided it in t..."
+
+**[00:14:07](/episodes/ep-kaWtDuoY_ns.md#ent-org-fbi-t-00-14-07)**
+> "Did the feds make them up? Right, because I could make up scre..."
+
+**[00:14:26](/episodes/ep-kaWtDuoY_ns.md#ent-org-fbi-t-00-14-07)**
+> "...f course, we all remember the FBI immediately interjected. They took over everythin..."
+
+**[00:14:53](/episodes/ep-kaWtDuoY_ns.md#ent-org-fbi-t-00-14-40)**
+> "...at the SBI is waiting for the FBI, Kash Patel's agency."
+
+**[00:15:54](/episodes/ep-kaWtDuoY_ns.md#ent-org-fbi-t-00-15-54)**
+> "...s the gun being kept with the feds for a state case?"
+
+**[00:39:58](/episodes/ep-kaWtDuoY_ns.md#ent-org-fbi-t-00-39-34)**
+> "...ly to file an appeal with the FBI to reverse the banning on her owning weapons and ..."
+
+**[00:57:54](/episodes/ep-kaWtDuoY_ns.md#ent-org-fbi-t-00-57-43)**
+> "...eans that it was taken by the feds as they took the inside of Timpanogos Hospital's ..."
+
+**[01:01:42](/episodes/ep-kaWtDuoY_ns.md#ent-org-fbi-t-01-01-42)**
+> "...the treatment of the that the feds have had toward him that is why it is important f..."
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1 mentions)</summary>
+
+**[00:45:07](/episodes/ep-1mYNOqzAdXs.md#ent-org-fbi-t-00-44-45)**
+> "They are just trying to make this fit. They are corrupt. They know they don't have a case. They want to bring back old FBI tactics that were."
 
 </details>
 
@@ -1756,10 +1855,11 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 <summary>Accused By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:01:01](/episodes/ep-UYkXV9mYbT4.md#t-00-00-42): “The feds are just putting this on him, and I do mean the FBI. From JFK to MLK, now to CJK, this is, in my opinion, an undeniable state killing.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:43:00](/episodes/ep-eLgD5yUVbko.md#t-00-42-52): “He said discord, we understood discord, we all said discord, but then what happened was discord themselves came out immediately and said that wasn't true. Discord gave a statement on September 12th, they published that statement in the Hill and they said we are deeply saddened by this tragedy. We extend our condolences to the Kirk family and everyone affected. A discord person said in a statement in the course of our investigation, we identified a discord account associated with. with the suspect, but I found no evidence the suspect planned this incident or promoted violence on Discord. So they suddenly changed their minds and they said, no, this was happening via iMessage. That wasn't a mistake. He's reading from a piece of paper. He's reading from a piece of paper and then the feds got caught lying and then they altered things and they said, we always said that it was eye messages.”
+- [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:29:13](/episodes/ep-xi8SYJTUXPM.md#t-00-29-13): “And so I think what's going on is. They changed the story so much. Like I say, the FBI is making it up as they go along, but they forget the lies they told us yesterday.”
 
 </details>
 
@@ -1870,10 +1970,11 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:01:01](/episodes/ep-UYkXV9mYbT4.md#t-00-00-42): “The feds are just putting this on him, and I do mean the FBI. From JFK to MLK, now to CJK, this is, in my opinion, an undeniable state killing.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:43:00](/episodes/ep-eLgD5yUVbko.md#t-00-42-52): “He said discord, we understood discord, we all said discord, but then what happened was discord themselves came out immediately and said that wasn't true. Discord gave a statement on September 12th, they published that statement in the Hill and they said we are deeply saddened by this tragedy. We extend our condolences to the Kirk family and everyone affected. A discord person said in a statement in the course of our investigation, we identified a discord account associated with. with the suspect, but I found no evidence the suspect planned this incident or promoted violence on Discord. So they suddenly changed their minds and they said, no, this was happening via iMessage. That wasn't a mistake. He's reading from a piece of paper. He's reading from a piece of paper and then the feds got caught lying and then they altered things and they said, we always said that it was eye messages.”
+- [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:29:13](/episodes/ep-xi8SYJTUXPM.md#t-00-29-13): “And so I think what's going on is. They changed the story so much. Like I say, the FBI is making it up as they go along, but they forget the lies they told us yesterday.”
 
 </details>
 
@@ -1940,7 +2041,7 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about FBI (97)</strong></summary>
+<summary><strong class="section-title">Statements about FBI (107)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (5)</summary>
@@ -1959,6 +2060,51 @@ Source: [About — FBI](https://www.fbi.gov/about/)
 
 - [04:01:26](/episodes/ep-nPhCKwJ6ye8.md#t-04-01-26) (Accusation) **Candace Owens**: ["Candace Owens still believes there is more evidence that multiple peop..."](/statements/statement-4735330c37c9.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (4)</summary>
+
+- [00:08:35](/episodes/ep-xi8SYJTUXPM.md#t-00-08-35) (Claim) **Candace Owens**: ["Terryl Farnsworth never told Candace Owens that he gave the SD card to..."](/statements/statement-211dc56d1bfc.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
+
+- [00:28:34](/episodes/ep-xi8SYJTUXPM.md#t-00-28-34) (Citation) **Blake Neff** (via quoted tweet): ["The charging document says Tyler Robinson's parents first recognized F..."](/statements/statement-6bea3ec6a4de.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:52:12](/episodes/ep-xi8SYJTUXPM.md#t-00-52-12) (Accusation) **Candace Owens**: ["Sentences were added to the affidavit versions of the messages attribu..."](/statements/statement-f97bbf5fca26.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:52:12](/episodes/ep-xi8SYJTUXPM.md#t-00-52-12) (Citation) **Tyler Robinson** (via quoted document): ["I hope that Pooch has a bad sniffer."](/statements/statement-f0bce1919c05.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (5)</summary>
+
+- [00:10:57](/episodes/ep-kaWtDuoY_ns.md#t-00-10-57) (Claim) **Richard G. Novak** (via quoted speech): ["Richard G. Novak said the defense lacked the underlying data files nee..."](/statements/statement-5d96d877240e.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:11:23](/episodes/ep-kaWtDuoY_ns.md#t-00-10-57) (Claim) **Richard G. Novak** (via quoted speech): ["Richard G. Novak said the FBI still had not provided forensic data and..."](/statements/statement-686a0f565058.md)
+  - Also about: [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:14:26](/episodes/ep-kaWtDuoY_ns.md#t-00-14-07) (Claim) **Candace Owens**: ["Candace Owens said the FBI took over the Charlie Kirk investigation on..."](/statements/statement-87d3ebc47aad.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:14:40](/episodes/ep-kaWtDuoY_ns.md#t-00-14-40) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said the Utah State Bureau of Investigation was waiting ..."](/statements/statement-3e423ee6a4a0.md)
+  - Also about: [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:39:40](/episodes/ep-kaWtDuoY_ns.md#t-00-39-34) (Claim) **Candace Owens**: ["Candace Owens said Laura Loomer was barred from owning weapons after t..."](/statements/statement-06b05d589e18.md)
+  - Also about: [Laura Loomer](/entities/person-laura-loomer.md)
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1)</summary>
+
+- [00:45:07](/episodes/ep-1mYNOqzAdXs.md#t-00-44-45) (Accusation) **Candace Owens**: ["Candace Owens accused authorities of corruptly trying to make the evid..."](/statements/statement-74de2011bca2.md)
+  - Also about: [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [John F. Kennedy](/entities/person-john-f-kennedy.md)
 
 </details>
 

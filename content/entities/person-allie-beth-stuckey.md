@@ -1,6 +1,6 @@
 ---
 title: "Allie Beth Stuckey"
-description: "Allie Beth Stuckey (People) - 44 mentions"
+description: "Allie Beth Stuckey (People) - 47 mentions"
 id: "person-allie-beth-stuckey"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-28-47">2025-11-06 · 00:29:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-allie-beth-stuckey-t-00-42-04">2026-03-25 · 00:42:04</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>44</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-allie-beth-stuckey-t-01-00-18">2026-04-20 · 01:00:18</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>47</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -46,6 +46,7 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 <a href="/episodes/ep-6J6lRZPQ4jk.md#t-00-34-50" style="--pulse-height:8%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-allie-beth-stuckey-t-01-06-43" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-allie-beth-stuckey-t-00-42-04" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-allie-beth-stuckey-t-00-59-45" style="--pulse-height:20%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 3 mentions" title="2026-04-20 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -61,6 +62,7 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#t-00-34-50) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-allie-beth-stuckey-t-01-06-43) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-allie-beth-stuckey-t-00-42-04) | 1 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-allie-beth-stuckey-t-00-59-45) | 3 |
 
 </details>
 </section>
@@ -68,7 +70,21 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (3 mentions)</summary>
+
+**[00:59:45](/episodes/ep-kaWtDuoY_ns.md#ent-person-allie-beth-stuckey-t-00-59-45)**
+> "I cannot with Allie Beth Stuckey. She is late and wrong often. I remember way befo..."
+
+**[00:59:56](/episodes/ep-kaWtDuoY_ns.md#ent-person-allie-beth-stuckey-t-00-59-45)**
+> "I don't know how Allie (Allie Beth Stuckey) just caught a stray reading these comments live...."
+
+**[01:00:18](/episodes/ep-kaWtDuoY_ns.md#ent-person-allie-beth-stuckey-t-01-00-18)**
+> "... the post-Charlie Kirk Allie (Allie Beth Stuckey) i am not a massive fan of but there's an audienc..."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
@@ -261,10 +277,11 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 <summary>Criticized (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:24](/episodes/ep-yAIb-NuUh_U.md#t-00-03-41): “Allie Stuckey just did this—shot a video and was like, "I don't have these dreams."”
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:43](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): “Ali Beth Stuckey does the same like tactic of attacking people, sniping them.”
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:59:45](/episodes/ep-kaWtDuoY_ns.md#t-00-59-45): “I cannot with Allie Beth Stuckey. She is late and wrong often. I remember way before COVID, she went after the anti-vaxxers, aka yours truly, with her mean girl BS.”
 
 </details>
 
@@ -293,9 +310,10 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 <summary>Referenced By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:24](/episodes/ep-yAIb-NuUh_U.md#t-00-03-41): “Allie Stuckey just did this—shot a video and was like, "I don't have these dreams."”
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:59:45](/episodes/ep-kaWtDuoY_ns.md#t-00-59-45): “I cannot with Allie Beth Stuckey. She is late and wrong often. I remember way before COVID, she went after the anti-vaxxers, aka yours truly, with her mean girl BS.”
 
 </details>
 

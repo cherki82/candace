@@ -11,7 +11,11 @@ object: "org-pure-talk"
 
 ## [America's Warrior Partnership](/entities/org-americas-warrior-partnership) funded by [Pure Talk](/entities/org-pure-talk)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
+
+**[Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs)**
+
+- [00:28:14](/episodes/ep-1mYNOqzAdXs#t-00-28-14): _Pure Talk is veteran led. So helping veterans is their North star. They have donated over half a million dollars to America's warrior partnership._
 
 **[VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58)**
 

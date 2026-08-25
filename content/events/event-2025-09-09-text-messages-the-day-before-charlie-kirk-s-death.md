@@ -11,7 +11,7 @@ date: "2025-09-09"
 
 > Text messages the day before Charlie Kirk's death in which he warned he thought he would be killed.
 
-## Mentioned In (35 times)
+## Mentioned In (36 times)
 
 ### 1. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
 
@@ -292,3 +292,11 @@ date: "2025-09-09"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1776);return false;">▶️ Play</a>
 
 > never-before-seen messages from Charlie Kirk to his security team on September 9, 2025.
+
+### 36. Erika No-Shows JD Vance. Public Relations Lies About Why. | ...
+
+**Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
+**Timestamp:** [00:32:57](/episodes/ep-SubDoZWHARo.md#event-event-2025-09-09-text-messages-the-day-before-charlie-kirk-s-death-t-00-32-38) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1977);return false;">▶️ Play</a>
+
+> texted me and the security team day before saying he thought he was going to be killed

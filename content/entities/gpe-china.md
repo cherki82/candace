@@ -1,6 +1,6 @@
 ---
 title: "China"
-description: "China (Places) - 47 mentions"
+description: "China (Places) - 49 mentions"
 id: "gpe-china"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-42">2025-10-01 · 00:30:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-china-t-00-27-09">2026-03-17 · 00:27:19</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>47</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-china-t-00-47-55">2026-04-15 · 00:48:17</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>49</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -43,6 +43,7 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-china-t-00-31-58" style="--pulse-height:100%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 11 mentions" title="2026-03-06 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-china-t-00-12-32" style="--pulse-height:27%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 3 mentions" title="2026-03-11 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-china-t-00-27-09" style="--pulse-height:18%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-china-t-00-47-55" style="--pulse-height:18%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +61,7 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-china-t-00-31-58) | 11 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-china-t-00-12-32) | 3 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-china-t-00-27-09) | 2 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-china-t-00-47-55) | 2 |
 
 </details>
 </section>
@@ -67,7 +69,18 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (2 mentions)</summary>
+
+**[00:48:08](/episodes/ep-SubDoZWHARo.md#ent-gpe-china-t-00-47-55)**
+> "lived in China"
+
+**[00:48:17](/episodes/ep-SubDoZWHARo.md#ent-gpe-china-t-00-47-55)**
+> "...a Kirk says that she lived in China and worked with child sex trafficking victims, bu..."
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (2 mentions)</summary>
@@ -276,10 +289,11 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 <summary>Former Residence Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:20:44](/episodes/ep-2tFYJf1klgY.md#t-00-20-44): “I was living in China and doing a lot of work with the victims from sex trafficking”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:33:17](/episodes/ep-DdPjoy5W-wY.md#t-00-33-17): “I was living in China”
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:17](/episodes/ep-SubDoZWHARo.md#t-00-47-55): “Erika Kirk says that she lived in China and worked with child sex trafficking victims”
 
 </details>
 
@@ -289,10 +303,11 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 <summary>Referenced By (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** formerly lived in this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:20:44](/episodes/ep-2tFYJf1klgY.md#t-00-20-44): “I was living in China and doing a lot of work with the victims from sex trafficking”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:33:17](/episodes/ep-DdPjoy5W-wY.md#t-00-33-17): “I was living in China”
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:17](/episodes/ep-SubDoZWHARo.md#t-00-47-55): “Erika Kirk says that she lived in China and worked with child sex trafficking victims”
 
 </details>
 
@@ -301,7 +316,15 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about China (12)</strong></summary>
+<summary><strong class="section-title">Statements about China (13)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1)</summary>
+
+- [00:48:17](/episodes/ep-SubDoZWHARo.md#t-00-47-55) (Accusation) **Candace Owens**: ["Erika Kirk says she lived in China and worked with child sex-trafficki..."](/statements/statement-86356e03bbd6.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Crazy In Love | Episode 7 (4)</summary>

@@ -1,23 +1,28 @@
 ---
 title: "Derek Maxfield"
-description: "Derek Maxfield (People) - 8 mentions"
+description: "Derek Maxfield (People) - 9 mentions"
 id: "person-derek-maxfield"
 type: "PERSON"
+categories:
+  - "Saprea co-founder"
 ---
 
 _Type: People_
 
+**Categories:** Saprea co-founder
+
 **Entity verification:** verified
-> Saprea board member and spouse of Shelaine Maxfield, named in the episode.
+> Saprea's annual report identifies Derek Maxfield as a board member and co-founder context.
+Source: [Saprea Annual Report 2021](https://saprea.org/wp-content/uploads/2022/08/Saprea_AnnualReport_2021.pdf)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-derek-maxfield-t-00-17-09">2025-09-22 · 00:17:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-person-derek-maxfield-t-00-09-53">2025-10-30 · 00:10:01</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#t-00-46-39">2026-04-15 · 00:46:58</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -28,6 +33,7 @@ _Type: People_
 <a href="/episodes/ep-ja26iltROkM.md#ent-person-derek-maxfield-t-00-17-09" style="--pulse-height:67%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-derek-maxfield-t-00-38-41" style="--pulse-height:100%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 3 mentions" title="2025-10-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-iHav0PPzUz8.md#ent-person-derek-maxfield-t-00-04-12" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 3 mentions" title="2025-10-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#t-00-46-39" style="--pulse-height:33%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -36,6 +42,7 @@ _Type: People_
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-derek-maxfield-t-00-17-09) | 2 |
 | 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-derek-maxfield-t-00-38-41) | 3 |
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-derek-maxfield-t-00-04-12) | 3 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#t-00-46-39) | 1 |
 
 </details>
 </section>
@@ -43,7 +50,15 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
+
+**[00:46:58](/episodes/ep-SubDoZWHARo.md#t-00-46-39)**
+> "Derek and Shalane Maxfield"
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (3 mentions)</summary>
@@ -90,6 +105,18 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Operates (1)</summary>
+
+- **[Saprea](/entities/org-saprea.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:46:58](/episodes/ep-SubDoZWHARo.md#t-00-46-39): “Derek and Shalane Maxfield, that was that plane that left and went to page Arizona that day. They run a child abuse charity, a trafficking charity, Saperia”
+
+</details>
+
+</details>
+
+<details>
 <summary>Works For (1)</summary>
 
 - **[Saprea](/entities/org-saprea.md)**
@@ -102,12 +129,19 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Saprea](/entities/org-saprea.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:18:14](/episodes/ep-wcD2khO3rOA.md#t-00-18-01): “Derek and Shelaine Maxfield, who run this abuse charity”
+
+</details>
+
+- **[Saprea](/entities/org-saprea.md)** operated by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:46:58](/episodes/ep-SubDoZWHARo.md#t-00-46-39): “Derek and Shalane Maxfield, that was that plane that left and went to page Arizona that day. They run a child abuse charity, a trafficking charity, Saperia”
 
 </details>
 

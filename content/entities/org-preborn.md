@@ -1,6 +1,6 @@
 ---
 title: "PreBorn!"
-description: "PreBorn! (Organizations) - 139 mentions"
+description: "PreBorn! (Organizations) - 146 mentions"
 id: "org-preborn"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [PreBorn!](https://preborn.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-32-31">2025-09-15 · 00:31:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-preborn-t-00-22-37">2026-04-10 · 00:22:47</a></strong></div>
-<div><span>Episodes</span><strong>43</strong></div>
-<div><span>Mentions</span><strong>139</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-preborn-t-00-25-19">2026-04-21 · 00:25:30</a></strong></div>
+<div><span>Episodes</span><strong>46</strong></div>
+<div><span>Mentions</span><strong>146</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -80,6 +80,9 @@ Source: [PreBorn!](https://preborn.com/)
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-preborn-t-00-33-01" style="--pulse-height:43%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 3 mentions" title="2026-03-31 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-preborn-t-00-20-35" style="--pulse-height:43%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 3 mentions" title="2026-04-01 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-preborn-t-00-22-37" style="--pulse-height:14%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-preborn-t-00-26-33" style="--pulse-height:43%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-preborn-t-00-30-54" style="--pulse-height:29%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-preborn-t-00-25-19" style="--pulse-height:29%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -128,6 +131,9 @@ Source: [PreBorn!](https://preborn.com/)
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-org-preborn-t-00-33-01) | 3 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-preborn-t-00-20-35) | 3 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-preborn-t-00-22-37) | 1 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-preborn-t-00-26-33) | 3 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-preborn-t-00-30-54) | 2 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-preborn-t-00-25-19) | 2 |
 
 </details>
 </section>
@@ -135,7 +141,43 @@ Source: [PreBorn!](https://preborn.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (139)</strong></summary>
+<summary><strong class="section-title">Raw mentions (146)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (2 mentions)</summary>
+
+**[00:25:19](/episodes/ep-xi8SYJTUXPM.md#ent-org-preborn-t-00-25-19)**
+> "Preborn doesn't just offer a moment, they offer a future...."
+
+**[00:25:30](/episodes/ep-xi8SYJTUXPM.md#ent-org-preborn-t-00-25-19)**
+> "...s pound 250, 'baby,' or visit preborn.com/candace. Again, that's preborn.com/candace."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (2 mentions)</summary>
+
+**[00:31:10](/episodes/ep-kaWtDuoY_ns.md#ent-org-preborn-t-00-30-54)**
+> "Preborn doesn't just offer a moment, they offer a future...."
+
+**[00:31:25](/episodes/ep-kaWtDuoY_ns.md#ent-org-preborn-t-00-31-25)**
+> "...at's pound 250 baby. Or visit preborn.com slash Candace (Candace Owens). Again, that's ..."
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (3 mentions)</summary>
+
+**[00:26:33](/episodes/ep-1mYNOqzAdXs.md#ent-org-preborn-t-00-26-33)**
+> "That's why preborn exists, because when a woman sees her baby on an ultrasound and hears that tiny heartbeat, it doubles the chance that she will choose life."
+
+**[00:26:50](/episodes/ep-1mYNOqzAdXs.md#ent-org-preborn-t-00-26-33)**
+> "Preborn doesn't just offer a moment. They offer a future ..."
+
+**[00:27:02](/episodes/ep-1mYNOqzAdXs.md#ent-org-preborn-t-00-26-33)**
+> "...at's Pound 250 Baby, or visit preborn.com slash Candace. Again, that's preborn.com slas..."
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
@@ -769,10 +811,12 @@ Source: [PreBorn!](https://preborn.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash candid. Candace, again, that's preborn.com slash Candace.”
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:30:54](/episodes/ep-kaWtDuoY_ns.md#t-00-30-54): “That's why pre-born exists, because when a woman sees her baby on an ultrasound and hears that tiny heartbeat, it doubles the chance that she'll choose life.”
+- [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:25:19](/episodes/ep-xi8SYJTUXPM.md#t-00-24-37): “Preborn doesn't just offer a moment, they offer a future. With real support like maternity care, baby clothes, diapers, and counseling, give hope, give life, and help a scared woman become a confident mom this Mother's Day.”
 
 </details>
 
@@ -782,10 +826,12 @@ Source: [PreBorn!](https://preborn.com/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash candid. Candace, again, that's preborn.com slash Candace.”
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:30:54](/episodes/ep-kaWtDuoY_ns.md#t-00-30-54): “That's why pre-born exists, because when a woman sees her baby on an ultrasound and hears that tiny heartbeat, it doubles the chance that she'll choose life.”
+- [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:25:19](/episodes/ep-xi8SYJTUXPM.md#t-00-24-37): “Preborn doesn't just offer a moment, they offer a future. With real support like maternity care, baby clothes, diapers, and counseling, give hope, give life, and help a scared woman become a confident mom this Mother's Day.”
 
 </details>
 

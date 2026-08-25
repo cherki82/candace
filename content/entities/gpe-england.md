@@ -1,14 +1,18 @@
 ---
 title: "England"
-description: "England (Places) - 7 mentions"
+description: "England (Places) - 8 mentions"
 id: "gpe-england"
 type: "GPE"
+aliases:
+  - "English"
 categories:
   - "constituent country of the United Kingdom"
   - "Europe"
 ---
 
 _Type: Places_
+
+**Also known as:** English
 
 **Categories:** constituent country of the United Kingdom, Europe
 
@@ -18,9 +22,9 @@ Source: [People and places: Countries and regions | Office for National Statisti
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-england-t-00-20-19">2026-01-16 · 00:20:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-england-t-01-03-18">2026-03-09 · 01:03:18</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-england-t-00-38-37">2026-04-20 · 00:38:53</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,6 +40,7 @@ Source: [People and places: Countries and regions | Office for National Statisti
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-england-t-00-02-52" style="--pulse-height:33%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-england-t-00-59-08" style="--pulse-height:33%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-england-t-01-03-18" style="--pulse-height:33%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-england-t-00-38-37" style="--pulse-height:33%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +51,7 @@ Source: [People and places: Countries and regions | Office for National Statisti
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-gpe-england-t-00-02-52) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-england-t-00-59-08) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-england-t-01-03-18) | 1 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-england-t-00-38-37) | 1 |
 
 </details>
 </section>
@@ -53,7 +59,15 @@ Source: [People and places: Countries and regions | Office for National Statisti
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1 mentions)</summary>
+
+**[00:38:53](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-england-t-00-38-37)**
+> "...a (Laura Loomer) is Irish and English. Obviously, Judaism is matrilineal. She did not, ..."
+
+</details>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>

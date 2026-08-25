@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Erika Kirk](/entities/person-erika-kirk) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (27 mentions)
+### Evidence (30 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -20,6 +20,10 @@ object: "person-candace-owens"
 **[Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY)**
 
 - [00:16:56](/episodes/ep-1hcjQGgvxUY#t-00-16-56): _So Erica (Erika Kirk) having done this is completely and utterly creepy._
+
+**[Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs)**
+
+- [00:13:34](/episodes/ep-1mYNOqzAdXs#t-00-13-34): _Erika Kirk is malevolent. She is malevolent. You have to accept that because it's not only that she's capable of lying to us._
 
 **[Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY)**
 
@@ -65,6 +69,10 @@ object: "person-candace-owens"
 
 - [00:02:40](/episodes/ep-QdM9jLwjwLw#t-00-02-40): _But I do believe firmly from the beginning that Erika (Erika Kirk) was intimately involved in the PR messaging and the PR campaign at different times against me,_
 
+**[Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo)**
+
+- [00:27:37](/episodes/ep-SubDoZWHARo#t-00-27-37): _is exactly why we don't like Erika (Erika Kirk), because we see it for exactly what it is._
+
 **[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
 
 - [00:10:17](/episodes/ep-UYkXV9mYbT4#t-00-10-17): _Erica lied. Erica and Andrew colluded. on how to message to the public about this little fact that was never meant to be known to us._
@@ -104,6 +112,10 @@ object: "person-candace-owens"
 **[BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0)**
 
 - [00:00:42](/episodes/ep-jsqUIkszZd0#t-00-00-42): _Erika (Erika Kirk) just cannot keep dancing adjacent to allegations of trafficking her entire life._
+
+**[EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns)**
+
+- [00:26:54](/episodes/ep-kaWtDuoY_ns#t-00-26-54): _She's not authentic. She's not like Charlie Kirk. She doesn't have the Charlie Kirk factor. She has approached everything like an elitist_
 
 **[An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ)**
 

@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Epstein"
-description: "Jeffrey Epstein (People) - 274 mentions"
+description: "Jeffrey Epstein (People) - 285 mentions"
 id: "person-jeffrey-epstein"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-28-54">2025-09-15 · 00:29:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-jeffrey-epstein-t-00-47-10">2026-04-14 · 00:47:10</a></strong></div>
-<div><span>Episodes</span><strong>62</strong></div>
-<div><span>Mentions</span><strong>274</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-jeffrey-epstein-t-00-23-53">2026-04-21 · 00:24:05</a></strong></div>
+<div><span>Episodes</span><strong>65</strong></div>
+<div><span>Mentions</span><strong>285</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>67</strong></div>
+<div><span>Statements about</span><strong>69</strong></div>
 <div><span>Relationships</span><strong>28</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -97,6 +97,9 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-jeffrey-epstein-t-00-45-32" style="--pulse-height:31%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 8 mentions" title="2026-04-02 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-jeffrey-epstein-t-00-10-49" style="--pulse-height:19%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 5 mentions" title="2026-04-10 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-person-jeffrey-epstein-t-00-46-35" style="--pulse-height:8%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-person-jeffrey-epstein-t-00-26-34" style="--pulse-height:12%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 3 mentions" title="2026-04-15 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-jeffrey-epstein-t-00-39-05" style="--pulse-height:12%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-jeffrey-epstein-t-00-22-28" style="--pulse-height:19%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 5 mentions" title="2026-04-21 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -164,6 +167,9 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-jeffrey-epstein-t-00-45-32) | 8 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-jeffrey-epstein-t-00-10-49) | 5 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-jeffrey-epstein-t-00-46-35) | 2 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-jeffrey-epstein-t-00-26-34) | 3 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-jeffrey-epstein-t-00-39-05) | 3 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-jeffrey-epstein-t-00-22-28) | 5 |
 
 </details>
 </section>
@@ -171,7 +177,55 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (274)</strong></summary>
+<summary><strong class="section-title">Raw mentions (285)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (5 mentions)</summary>
+
+**[00:22:54](/episodes/ep-xi8SYJTUXPM.md#ent-person-jeffrey-epstein-t-00-22-28)**
+> "...ou know, one degree away from Jeffrey Epstein, one degree away from Israel, sometimes less than..."
+
+**[00:23:12](/episodes/ep-xi8SYJTUXPM.md#ent-person-jeffrey-epstein-t-00-23-12)**
+> "Jeffrey Epstein goes down in 2017, right? Did Jeffrey Epstein go ..."
+
+**[00:23:24](/episodes/ep-xi8SYJTUXPM.md#ent-person-jeffrey-epstein-t-00-23-12)**
+> "...s. I keep reminding you guys, Jeffrey Epstein, we speak about the files and we talk about the b..."
+
+**[00:23:53](/episodes/ep-xi8SYJTUXPM.md#ent-person-jeffrey-epstein-t-00-23-53)**
+> "...tainly find it. We did in our Epstein series, thankfully, because of the journalism of ..."
+
+**[00:24:05](/episodes/ep-xi8SYJTUXPM.md#ent-person-jeffrey-epstein-t-00-23-53)**
+> "...'ve said multiple times, that Jeffrey Epstein's network. reemerged and I think it reemerged in th..."
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (3 mentions)</summary>
+
+**[00:39:27](/episodes/ep-1mYNOqzAdXs.md#ent-person-jeffrey-epstein-t-00-39-05)**
+> "Yes, I feel like a lot of this is circulating around Epstein and Robert Maxwell. If the former Mossad agent is to be believed, he's the one who brought Epstein together with Ghislaine (Ghislaine Maxwell), got him involved in arms trafficking first."
+
+**[00:40:03](/episodes/ep-1mYNOqzAdXs.md#ent-person-jeffrey-epstein-t-00-39-43)**
+> "...ays that like he thought that Jeffrey Epstein was an idiot."
+
+**[00:41:15](/episodes/ep-1mYNOqzAdXs.md#ent-person-jeffrey-epstein-t-00-40-51)**
+> "... just be one degree away from Jeffrey Epstein on our spreadsheet."
+
+</details>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (3 mentions)</summary>
+
+**[00:26:34](/episodes/ep-SubDoZWHARo.md#ent-person-jeffrey-epstein-t-00-26-34)**
+> "the Epstein files"
+
+**[00:28:07](/episodes/ep-SubDoZWHARo.md#ent-person-jeffrey-epstein-t-00-27-42)**
+> "...ly. Our friends aren't in the Epstein files. And I have enough common sense to know tha..."
+
+**[00:57:50](/episodes/ep-SubDoZWHARo.md#ent-person-jeffrey-epstein-t-00-57-29)**
+> "...tly when you're a part of the Epstein class. It's bogus. Yeah, I mean, that's completel..."
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (2 mentions)</summary>
@@ -1580,7 +1634,17 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jeffrey Epstein (67)</strong></summary>
+<summary><strong class="section-title">Statements about Jeffrey Epstein (69)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (2)</summary>
+
+- [00:23:24](/episodes/ep-xi8SYJTUXPM.md#t-00-23-12) (Citation) **Candace Owens**: ["Jeffrey Epstein began his career in weapons trafficking and was introd..."](/statements/statement-800e02514f4f.md)
+  - Also about: [Robert Maxwell](/entities/person-robert-maxwell.md), [Mossad](/entities/org-mossad.md)
+
+- [00:24:05](/episodes/ep-xi8SYJTUXPM.md#t-00-23-53) (Opinion) **Candace Owens**: ["Candace Owens believes Jeffrey Epstein's network reemerged in the nonp..."](/statements/statement-d054a01ea3a4.md)
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>

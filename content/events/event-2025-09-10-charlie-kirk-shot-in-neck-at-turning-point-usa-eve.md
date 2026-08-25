@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University
 
-## Mentioned In (396 times)
+## Mentioned In (397 times)
 
 ### 1. REVELATIONS: The Truth About Charlie's Medical Report | Cand...
 
@@ -3180,3 +3180,11 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3985);return false;">▶️ Play</a>
 
 > getting to the truth of what happened on September 10th because we know we're not getting it
+
+### 397. Secret Service Admits "There Was No Threat". ATF Releases Re...
+
+**Episode:** [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md)
+**Timestamp:** [00:25:09](/episodes/ep-1mYNOqzAdXs.md#t-00-25-09) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1509);return false;">▶️ Play</a>
+
+> That's just 50 minutes after Charlie was shot.

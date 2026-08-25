@@ -1,6 +1,6 @@
 ---
 title: "Twitter"
-description: "Twitter (Organizations) - 34 mentions"
+description: "Twitter (Organizations) - 40 mentions"
 id: "org-twitter"
 type: "ORG"
 aliases:
@@ -25,11 +25,11 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-twitter-t-00-12-01">2025-09-15 · 00:12:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-16-28">2026-04-02 · 00:16:34</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>34</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-twitter-t-00-38-43">2026-04-21 · 00:38:51</a></strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -59,6 +59,9 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 <a href="/episodes/ep-k8ueJdPFel4.md#t-00-19-44" style="--pulse-height:50%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-twitter-t-00-32-47" style="--pulse-height:25%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-16-28" style="--pulse-height:25%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#t-00-25-48" style="--pulse-height:25%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-twitter-t-00-37-28" style="--pulse-height:50%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-twitter-t-00-38-00" style="--pulse-height:75%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 3 mentions" title="2026-04-21 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -85,6 +88,9 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#t-00-19-44) | 2 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-twitter-t-00-32-47) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-16-28) | 1 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#t-00-25-48) | 1 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-twitter-t-00-37-28) | 2 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-twitter-t-00-38-00) | 3 |
 
 </details>
 </section>
@@ -92,7 +98,40 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (3 mentions)</summary>
+
+**[00:38:22](/episodes/ep-xi8SYJTUXPM.md#ent-org-twitter-t-00-38-00)**
+> "...ontext of her having lost her Twitter access."
+
+**[00:38:43](/episodes/ep-xi8SYJTUXPM.md#ent-org-twitter-t-00-38-43)**
+> "...lows for adrenaline rushes on Twitter. When I got banned, I was honestly having withdra..."
+
+**[00:38:51](/episodes/ep-xi8SYJTUXPM.md#ent-org-twitter-t-00-38-43)**
+> "... So it's a drug for her. Like Twitter is a drug for her. And that's why she tweets to t..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (2 mentions)</summary>
+
+**[00:37:28](/episodes/ep-kaWtDuoY_ns.md#ent-org-twitter-t-00-37-28)**
+> "... plane she was crying because Twitter had removed her check mark this was back when Jac..."
+
+**[00:43:52](/episodes/ep-kaWtDuoY_ns.md#ent-org-twitter-t-00-43-52)**
+> "...e I know everything you do on Twitter is like so fake and not real, but"
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1 mentions)</summary>
+
+**[00:25:48](/episodes/ep-1mYNOqzAdXs.md#t-00-25-48)**
+> "So the public didn't officially find out until President Trump announced it at 2 40 p.m. on X. Again, this is all in mountain time."
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
@@ -333,7 +372,23 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Twitter (6)</strong></summary>
+<summary><strong class="section-title">Statements about Twitter (8)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>
+
+- [00:38:28](/episodes/ep-xi8SYJTUXPM.md#t-00-38-00) (Claim) **Laura Loomer** (via quoted article): ["Laura Loomer said she became addicted to social media, substituted Twi..."](/statements/statement-355eb3d79b46.md)
+  - Also about: [Laura Loomer](/entities/person-laura-loomer.md)
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1)</summary>
+
+- [00:24:40](/episodes/ep-1mYNOqzAdXs.md#t-00-24-40) (Claim) **Candace Owens**: ["Victor Marx announced that Charlie Kirk had died at 1:13 p.m. Mountain..."](/statements/statement-ce5ed2be529f.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
 
 <details>
 <summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (2)</summary>

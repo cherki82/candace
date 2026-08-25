@@ -1,6 +1,6 @@
 ---
 title: "God"
-description: "God (Concepts) - 386 mentions"
+description: "God (Concepts) - 402 mentions"
 id: "concept-god"
 type: "CONCEPT"
 categories:
@@ -18,10 +18,10 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-57-16">2025-09-15 · 00:57:42</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-04-03-55">2026-08-14 · 04:03:55</a></strong></div>
-<div><span>Episodes</span><strong>73</strong></div>
-<div><span>Mentions</span><strong>386</strong></div>
+<div><span>Episodes</span><strong>76</strong></div>
+<div><span>Mentions</span><strong>402</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -102,6 +102,9 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <a href="/episodes/ep-ZIH5-V6UPkg.md#t-00-43-29" style="--pulse-height:8%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#t-00-12-56" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#t-00-02-52" style="--pulse-height:50%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 15 mentions" title="2026-04-14 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#t-00-16-56" style="--pulse-height:20%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 6 mentions" title="2026-04-15 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#t-00-36-25" style="--pulse-height:20%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 6 mentions" title="2026-04-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#t-00-34-01" style="--pulse-height:10%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 3 mentions" title="2026-04-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34" style="--pulse-height:13%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -180,6 +183,9 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#t-00-43-29) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#t-00-12-56) | 2 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#t-00-02-52) | 15 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#t-00-16-56) | 6 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#t-00-36-25) | 6 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#t-00-34-01) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34) | 4 |
 
 </details>
@@ -188,7 +194,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (386)</strong></summary>
+<summary><strong class="section-title">Raw mentions (402)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -204,6 +210,66 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 
 **[04:03:55](/episodes/ep-nPhCKwJ6ye8.md#t-04-03-55)**
 > "...eing said take care everybody god bless have a great weekend"
+
+</details>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (3 mentions)</summary>
+
+**[00:34:09](/episodes/ep-xi8SYJTUXPM.md#t-00-34-01)**
+> "...esterday's episode. She said, God hates you at Real Candace O. It's why he gave Cha..."
+
+**[00:34:17](/episodes/ep-xi8SYJTUXPM.md#t-00-34-01)**
+> "...nd get to say goodbye to him. God hates you. Look in the mirror and internalize how..."
+
+**[00:53:21](/episodes/ep-xi8SYJTUXPM.md#t-00-53-21)**
+> "...u're drunk, it's like, 'Oh my God, what did I say last night? Oh my, I was crazy. N..."
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (6 mentions)</summary>
+
+**[00:36:25](/episodes/ep-1mYNOqzAdXs.md#t-00-36-25)**
+> "So I am telling you, God is moving, but he's not obligated to bless you just because you're talented or wounded."
+
+**[00:17:32](/episodes/ep-1mYNOqzAdXs.md#t-00-17-15)**
+> "...nd he was probably like oh my god and my kids I just don't want my kids to be an or..."
+
+**[00:36:45](/episodes/ep-1mYNOqzAdXs.md#t-00-36-25)**
+> "..., it just doesn't make sense. God did not have me design this for war."
+
+**[00:37:23](/episodes/ep-1mYNOqzAdXs.md#t-00-37-08)**
+> ".... And he started using, well, God and this and timing and that to manipulate him."
+
+**[00:49:53](/episodes/ep-1mYNOqzAdXs.md#t-00-49-18)**
+> "...the false gospel of Israel is God's bride."
+
+**[00:54:41](/episodes/ep-1mYNOqzAdXs.md#t-00-54-13)**
+> "...or her. We love you, Candace. God bless you and keep you in God's work."
+
+</details>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (6 mentions)</summary>
+
+**[00:16:56](/episodes/ep-SubDoZWHARo.md#t-00-16-56)**
+> "...gia chapter for your support. God bless you all. I can't stand."
+
+**[00:20:17](/episodes/ep-SubDoZWHARo.md#t-00-19-42)**
+> "God's got me philosophy."
+
+**[00:40:30](/episodes/ep-SubDoZWHARo.md#t-00-40-30)**
+> "... Harris David J. Harris calls god papa i don't know and he like you guys said that ..."
+
+**[00:44:38](/episodes/ep-SubDoZWHARo.md#t-00-44-31)**
+> "...e story always goes, he found God. I am just so pleased to hear it."
+
+**[00:44:48](/episodes/ep-SubDoZWHARo.md#t-00-44-31)**
+> "...rning Point. are able to find God."
+
+**[00:54:29](/episodes/ep-SubDoZWHARo.md#t-00-54-29)**
+> "I'll pray for you. Oh my God, you lost your wallet, honey. Oh my God, I'm so s..."
 
 </details>
 
@@ -1723,7 +1789,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about God (4)</strong></summary>
+<summary><strong class="section-title">Statements about God (5)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>
+
+- [00:34:09](/episodes/ep-xi8SYJTUXPM.md#t-00-34-01) (Opinion) **Laura Loomer** (via quoted tweet): ["God hates Candace Owens; humanity hates her; and she is irredeemable."](/statements/statement-fb851d6c4a21.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1)</summary>

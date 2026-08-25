@@ -11,7 +11,11 @@ object: "org-harvest-christian-fellowship"
 
 ## [Greg Laurie](/entities/person-greg-laurie) pastor of [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo)**
+
+- [00:47:18](/episodes/ep-SubDoZWHARo#t-00-47-18): _Greg Laurie whose church Erika (Erika Kirk) went right on tour with him Harvest Church_
 
 **[The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA)**
 

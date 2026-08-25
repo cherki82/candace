@@ -1,6 +1,6 @@
 ---
 title: "Iran"
-description: "Iran (Places) - 158 mentions"
+description: "Iran (Places) - 163 mentions"
 id: "gpe-iran"
 type: "GPE"
 aliases:
@@ -24,10 +24,10 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-gpe-iran-t-00-35-19">2025-09-22 · 00:35:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54">2026-08-14 · 00:28:54</a></strong></div>
-<div><span>Episodes</span><strong>33</strong></div>
-<div><span>Mentions</span><strong>158</strong></div>
+<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>163</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>64</strong></div>
+<div><span>Statements about</span><strong>67</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -68,6 +68,9 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-iran-t-00-03-51" style="--pulse-height:30%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 7 mentions" title="2026-04-10 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-iran-t-00-51-58" style="--pulse-height:17%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 4 mentions" title="2026-04-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-iran-t-00-42-12" style="--pulse-height:17%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 4 mentions" title="2026-04-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-iran-t-00-07-05" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-gpe-iran-t-00-33-58" style="--pulse-height:9%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 2 mentions" title="2026-04-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-iran-t-00-35-25" style="--pulse-height:9%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -106,6 +109,9 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-iran-t-00-03-51) | 7 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-gpe-iran-t-00-51-58) | 4 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-iran-t-00-42-12) | 4 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-iran-t-00-07-05) | 1 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-iran-t-00-33-58) | 2 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-iran-t-00-35-25) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54) | 1 |
 
 </details>
@@ -114,13 +120,43 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (158)</strong></summary>
+<summary><strong class="section-title">Raw mentions (163)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:28:54](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54)**
 > "opposed the Iranian war"
+
+</details>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (2 mentions)</summary>
+
+**[00:35:35](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-iran-t-00-35-25)**
+> "...calls he made after attacking Iran was to Laura Loomer. And so it was important for ..."
+
+**[00:39:58](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-iran-t-00-39-58)**
+> "...ce about what he should do to Iran, a person like Laura Loomer?"
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (2 mentions)</summary>
+
+**[00:33:58](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-iran-t-00-33-58)**
+> "One of the primary accusations he has against you is that you are seeking to traffic rifles to Haiti, Israel, and possibly Iran."
+
+**[00:39:43](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-iran-t-00-39-43)**
+> "...ally brought in regarding the Iran Contra deal in the 80s."
+
+</details>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
+
+**[00:07:05](/episodes/ep-SubDoZWHARo.md#ent-gpe-iran-t-00-07-05)**
+> "doing negotiations with Iran overseas"
 
 </details>
 
@@ -844,7 +880,26 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Iran (64)</strong></summary>
+<summary><strong class="section-title">Statements about Iran (67)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>
+
+- [00:35:35](/episodes/ep-xi8SYJTUXPM.md#t-00-35-25) (Claim) **Candace Owens**: ["One of Donald Trump's first phone calls after attacking Iran was to La..."](/statements/statement-7b81f9638daf.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Laura Loomer](/entities/person-laura-loomer.md)
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (2)</summary>
+
+- [00:34:14](/episodes/ep-1mYNOqzAdXs.md#t-00-34-14) (Claim) **Victor Marx**: ["Victor Marx denied ever seeking to traffic rifles or other arms to Hai..."](/statements/statement-5c4504ce99f3.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Haiti](/entities/gpe-haiti.md), [Israel](/entities/gpe-israel.md)
+
+- [00:45:20](/episodes/ep-1mYNOqzAdXs.md#t-00-45-20) (Accusation) **Candace Owens**: ["Candace Owens said she believed foreign governments were involved in C..."](/statements/statement-d82361170990.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>

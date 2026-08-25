@@ -11,7 +11,11 @@ object: "person-michael-aquino"
 
 ## [Temple of Set](/entities/org-temple-of-set) founded by [Michael Aquino](/entities/person-michael-aquino)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
+
+**[Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo)**
+
+- [00:48:35](/episodes/ep-SubDoZWHARo#t-00-48-35): _Michael Aquino, a Satanist and founder of the Temple of Set._
 
 **[CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc)**
 

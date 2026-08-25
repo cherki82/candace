@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Israel (Places) - 1131 mentions"
+description: "Israel (Places) - 1149 mentions"
 id: "gpe-israel"
 type: "GPE"
 aliases:
@@ -26,10 +26,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-israel-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-03-57-56">2026-08-14 · 03:58:04</a></strong></div>
-<div><span>Episodes</span><strong>90</strong></div>
-<div><span>Mentions</span><strong>1,131</strong></div>
+<div><span>Episodes</span><strong>93</strong></div>
+<div><span>Mentions</span><strong>1,149</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>196</strong></div>
+<div><span>Statements about</span><strong>198</strong></div>
 <div><span>Relationships</span><strong>35</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -127,6 +127,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-israel-t-00-18-38" style="--pulse-height:9%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 5 mentions" title="2026-04-02 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-israel-t-00-17-56" style="--pulse-height:21%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 12 mentions" title="2026-04-10 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-israel-t-00-40-49" style="--pulse-height:11%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 6 mentions" title="2026-04-14 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-gpe-israel-t-00-00-40" style="--pulse-height:21%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 12 mentions" title="2026-04-16 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-israel-t-00-38-00" style="--pulse-height:8%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-israel-t-00-17-09" style="--pulse-height:9%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 5 mentions" title="2026-04-21 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12" style="--pulse-height:68%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 39 mentions" title="2026-08-14 · 39 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -222,6 +225,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-israel-t-00-18-38) | 5 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-israel-t-00-17-56) | 12 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-israel-t-00-40-49) | 6 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-israel-t-00-00-40) | 12 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-israel-t-00-38-00) | 1 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-israel-t-00-17-09) | 5 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12) | 39 |
 
 </details>
@@ -234,7 +240,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1131)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1149)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (39 mentions)</summary>
@@ -355,6 +361,75 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[02:25:09](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-25-09)**
 > "So it. He then loved other Israel."
+
+</details>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (5 mentions)</summary>
+
+**[00:17:09](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-israel-t-00-17-09)**
+> "...tor Marx wants the patent for Israel."
+
+**[00:17:17](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-israel-t-00-17-09)**
+> "...or Marx wanted the patent for Israel. He wanted to push Corby Hall out and get him a d..."
+
+**[00:22:54](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-israel-t-00-22-28)**
+> "...Epstein, one degree away from Israel, sometimes less than that, one of the things that..."
+
+**[00:37:50](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-israel-t-00-37-22)**
+> "...'t like that I'm against what Israel is doing."
+
+**[00:38:00](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-israel-t-00-38-00)**
+> "That I'm against what Israel is doing. She's attacking my lawyer. She's attack..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1 mentions)</summary>
+
+**[00:38:00](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-israel-t-00-38-00)**
+> "...er differing opinion on me on Israel is going to be the reason that she starts attacki..."
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (12 mentions)</summary>
+
+**[00:00:40](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-israel-t-00-00-40)**
+> "In a post that he subsequently deleted, he left it up actually for quite a long time. And given everything that I have learned about him now, the allegations that he is working or was working with Israel, that information suddenly feels very relevant. So we're going to review it."
+
+**[00:31:18](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-israel-t-00-30-52)**
+> "Again, said Israel, it would just make sense that Corby Hall should ..."
+
+**[00:33:58](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-israel-t-00-33-58)**
+> "...g to traffic rifles to Haiti, Israel, and possibly Iran."
+
+**[00:34:57](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-israel-t-00-34-57)**
+> "...ctor Marx wanted guns sold in Israel. He never said anything about it being an illegal..."
+
+**[00:35:24](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-israel-t-00-34-57)**
+> "...ast was in communication with Israel to purchase guns or rather to purchase the patent..."
+
+**[00:36:01](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-israel-t-00-35-43)**
+> "The Israeli defense group we are connected with is ready to r..."
+
+**[00:37:14](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-israel-t-00-37-08)**
+> "...y brings up a good point. Can Israel guarantee to put one or two in each of its school..."
+
+**[00:39:55](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-israel-t-00-39-43)**
+> "... he was brought in to do with Israel."
+
+**[00:49:53](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-israel-t-00-49-18)**
+> "...an't with the false gospel of Israel is God's bride."
+
+**[00:50:09](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-israel-t-00-50-02)**
+> "...you why it's totally fine for Israel to just incessantly murder children, just to ince..."
+
+**[00:50:18](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-israel-t-00-50-02)**
+> "... radical Zionists that are in Israel."
+
+**[00:51:25](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-israel-t-00-51-03)**
+> "...thing but the modern state of Israel, which has absolutely nothing to do with the Isra..."
 
 </details>
 
@@ -4381,7 +4456,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel (196)</strong></summary>
+<summary><strong class="section-title">Statements about Israel (198)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2)</summary>
@@ -4391,6 +4466,22 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [02:37:26](/episodes/ep-nPhCKwJ6ye8.md#t-02-37-26) (Prediction) **Candace Owens**: ["Candace Owens predicts that Israel will ultimately be found to have be..."](/statements/statement-d5c74ed071c8.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>
+
+- [00:17:17](/episodes/ep-xi8SYJTUXPM.md#t-00-17-09) (Accusation) **Candace Owens**: ["Victor Marx wanted Corby Hall's gun patent for Israel and sought a dea..."](/statements/statement-f3aa5271214d.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Corby Hall](/entities/person-corby-hall.md)
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1)</summary>
+
+- [00:34:14](/episodes/ep-1mYNOqzAdXs.md#t-00-34-14) (Claim) **Victor Marx**: ["Victor Marx denied ever seeking to traffic rifles or other arms to Hai..."](/statements/statement-5c4504ce99f3.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Haiti](/entities/gpe-haiti.md), [Iran](/entities/gpe-iran.md)
 
 </details>
 

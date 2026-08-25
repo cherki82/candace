@@ -1,6 +1,6 @@
 ---
 title: "Romania"
-description: "Romania (Places) - 109 mentions"
+description: "Romania (Places) - 110 mentions"
 id: "gpe-romania"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-romania-t-00-10-04">2026-01-09 · 00:10:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-romania-t-00-50-33">2026-04-14 · 00:50:37</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>109</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-romania-t-00-47-18">2026-04-15 · 00:47:18</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>110</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>44</strong></div>
+<div><span>Statements about</span><strong>45</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -46,6 +46,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-romania-t-00-16-09" style="--pulse-height:17%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 5 mentions" title="2026-03-12 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-romania-t-00-36-41" style="--pulse-height:10%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-romania-t-00-50-33" style="--pulse-height:8%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-romania-t-00-47-18" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -66,6 +67,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-romania-t-00-16-09) | 5 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-romania-t-00-36-41) | 3 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-romania-t-00-50-33) | 1 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-romania-t-00-47-18) | 1 |
 
 </details>
 </section>
@@ -73,7 +75,15 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (109)</strong></summary>
+<summary><strong class="section-title">Raw mentions (110)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
+
+**[00:47:18](/episodes/ep-SubDoZWHARo.md#ent-gpe-romania-t-00-47-18)**
+> "children from Romania"
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1 mentions)</summary>
@@ -509,7 +519,15 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Romania (44)</strong></summary>
+<summary><strong class="section-title">Statements about Romania (45)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1)</summary>
+
+- [00:47:18](/episodes/ep-SubDoZWHARo.md#t-00-47-18) (Citation) **Candace Owens**: ["Harvest Christian Fellowship is currently being accused of trafficking..."](/statements/statement-f5ebfa27a4f8.md)
+  - Also about: [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md), [Greg Laurie](/entities/person-greg-laurie.md)
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>

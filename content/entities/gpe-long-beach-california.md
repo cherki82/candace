@@ -1,6 +1,6 @@
 ---
 title: "Long Beach, California"
-description: "Long Beach, California (Places) - 4 mentions"
+description: "Long Beach, California (Places) - 5 mentions"
 id: "gpe-long-beach-california"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [City of Long Beach](https://www.longbeach.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-long-beach-california-t-00-22-24">2026-03-30 · 00:22:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UYkXV9mYbT4.md#ent-gpe-long-beach-california-t-00-51-24">2026-03-31 · 00:51:46</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-long-beach-california-t-00-02-55">2026-04-21 · 00:03:29</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [City of Long Beach](https://www.longbeach.gov/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-long-beach-california-t-00-22-24" style="--pulse-height:100%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-gpe-long-beach-california-t-00-51-24" style="--pulse-height:100%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-long-beach-california-t-00-02-55" style="--pulse-height:50%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [City of Long Beach](https://www.longbeach.gov/)
 |---|---|---:|
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-long-beach-california-t-00-22-24) | 2 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-long-beach-california-t-00-51-24) | 2 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-long-beach-california-t-00-02-55) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [City of Long Beach](https://www.longbeach.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1 mentions)</summary>
+
+**[00:03:29](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-long-beach-california-t-00-02-55)**
+> "... Francisco, here's San Diego, Long Beach, Boise, Idaho, Washington State. Do you notice a ..."
+
+</details>
 
 <details>
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (2 mentions)</summary>

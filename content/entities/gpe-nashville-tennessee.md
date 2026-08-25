@@ -1,6 +1,6 @@
 ---
 title: "Nashville, Tennessee"
-description: "Nashville, Tennessee (Places) - 6 mentions"
+description: "Nashville, Tennessee (Places) - 7 mentions"
 id: "gpe-nashville-tennessee"
 type: "GPE"
 aliases:
@@ -24,9 +24,9 @@ Source: [Metropolitan Government of Nashville and Davidson County](https://www.n
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-nashville-tennessee-t-00-10-31">2026-01-20 · 00:10:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-nashville-tennessee-t-00-57-30">2026-02-13 · 00:57:30</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-nashville-tennessee-t-00-17-38">2026-04-15 · 00:17:55</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -42,6 +42,7 @@ Source: [Metropolitan Government of Nashville and Davidson County](https://www.n
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-nashville-tennessee-t-00-23-32" style="--pulse-height:50%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-nashville-tennessee-t-00-38-59" style="--pulse-height:50%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-nashville-tennessee-t-00-57-30" style="--pulse-height:50%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-nashville-tennessee-t-00-17-38" style="--pulse-height:50%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [Metropolitan Government of Nashville and Davidson County](https://www.n
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-nashville-tennessee-t-00-23-32) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-nashville-tennessee-t-00-38-59) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-nashville-tennessee-t-00-57-30) | 1 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-nashville-tennessee-t-00-17-38) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [Metropolitan Government of Nashville and Davidson County](https://www.n
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
+
+**[00:17:55](/episodes/ep-SubDoZWHARo.md#ent-gpe-nashville-tennessee-t-00-17-38)**
+> "I was doing an event in Nashville with Charlie"
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>

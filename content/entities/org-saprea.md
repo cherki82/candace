@@ -1,23 +1,28 @@
 ---
 title: "Saprea"
-description: "Saprea (Organizations) - 1 mention"
+description: "Saprea (Organizations) - 2 mentions"
 id: "org-saprea"
 type: "ORG"
+categories:
+  - "child sexual abuse survivor support nonprofit"
 ---
 
 _Type: Organizations_
 
+**Categories:** child sexual abuse survivor support nonprofit
+
 **Entity verification:** verified
-Source: [Saprea 2022 Form 990](https://saprea.org/wp-content/uploads/2023/09/2022-Saprea-Form-990-Public.pdf)
+> Saprea's official leadership and annual-report materials verify the organization and its child-sexual-abuse survivor support mission.
+Source: [Saprea leadership](https://saprea.org/es/liderazgo/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-saprea-t-00-14-11">2026-01-09 · 00:14:45</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-saprea-t-00-14-11">2026-01-09 · 00:14:45</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -39,7 +44,7 @@ Source: [Saprea 2022 Form 990](https://saprea.org/wp-content/uploads/2023/09/202
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1 mentions)</summary>
@@ -74,7 +79,40 @@ Source: [Saprea 2022 Form 990](https://saprea.org/wp-content/uploads/2023/09/202
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Operated By (2)</summary>
+
+- **[Derek Maxfield](/entities/person-derek-maxfield.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:46:58](/episodes/ep-SubDoZWHARo.md#t-00-46-39): “Derek and Shalane Maxfield, that was that plane that left and went to page Arizona that day. They run a child abuse charity, a trafficking charity, Saperia”
+
+</details>
+
+- **[Shelaine Maxfield](/entities/person-shelaine-maxfield.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:46:58](/episodes/ep-SubDoZWHARo.md#t-00-46-39): “Derek and Shalane Maxfield, that was that plane that left and went to page Arizona that day. They run a child abuse charity, a trafficking charity, Saperia”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (4)</summary>
+
+- **[Derek Maxfield](/entities/person-derek-maxfield.md)** operates this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:46:58](/episodes/ep-SubDoZWHARo.md#t-00-46-39): “Derek and Shalane Maxfield, that was that plane that left and went to page Arizona that day. They run a child abuse charity, a trafficking charity, Saperia”
+
+</details>
+
+- **[Shelaine Maxfield](/entities/person-shelaine-maxfield.md)** operates this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:46:58](/episodes/ep-SubDoZWHARo.md#t-00-46-39): “Derek and Shalane Maxfield, that was that plane that left and went to page Arizona that day. They run a child abuse charity, a trafficking charity, Saperia”
+
+</details>
 
 - **[Derek Maxfield](/entities/person-derek-maxfield.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

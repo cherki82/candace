@@ -1,6 +1,6 @@
 ---
 title: "Baron Coleman"
-description: "Baron Coleman (People) - 87 mentions"
+description: "Baron Coleman (People) - 93 mentions"
 id: "person-baron-coleman"
 type: "PERSON"
 aliases:
@@ -22,10 +22,10 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-51">2025-12-16 · 00:14:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-baron-coleman-t-00-32-13">2026-04-13 · 00:32:13</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>87</strong></div>
-<div><span>Statements by</span><strong>22</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-baron-coleman-t-00-51-40">2026-04-16 · 00:51:40</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>93</strong></div>
+<div><span>Statements by</span><strong>23</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -53,6 +53,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-baron-coleman-t-00-08-59" style="--pulse-height:16%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 3 mentions" title="2026-04-01 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-baron-coleman-t-00-01-20" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-baron-coleman-t-00-00-26" style="--pulse-height:16%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 3 mentions" title="2026-04-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-baron-coleman-t-00-05-21" style="--pulse-height:32%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 6 mentions" title="2026-04-16 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -76,6 +77,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-baron-coleman-t-00-08-59) | 3 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-baron-coleman-t-00-01-20) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-baron-coleman-t-00-00-26) | 3 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-baron-coleman-t-00-05-21) | 6 |
 
 </details>
 </section>
@@ -83,7 +85,30 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (87)</strong></summary>
+<summary><strong class="section-title">Raw mentions (93)</strong></summary>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (6 mentions)</summary>
+
+**[00:05:32](/episodes/ep-1mYNOqzAdXs.md#ent-person-baron-coleman-t-00-05-21)**
+> "um threats ladies and gentlemen i was wrong that is not what happened at all gratefully i watched Baron Coleman's show last night and he offered this option and then we received a tip that Erika (Erika Kirk) was indeed in georgia already and you're not going to believe how this actually went down Erika (Erika Kirk) canceling her event so right at the top i just want to say that us as a society we deserve better psyops this is starting to feel disrespectful"
+
+**[00:09:12](/episodes/ep-1mYNOqzAdXs.md#ent-person-baron-coleman-t-00-09-12)**
+> "...p of him admitting thankfully baron put me on to this that it was two hours before he..."
+
+**[00:11:06](/episodes/ep-1mYNOqzAdXs.md#ent-person-baron-coleman-t-00-11-02)**
+> "...telling you, I am with Baron (Baron Coleman) on this. She was in the building and she was bac..."
+
+**[00:11:15](/episodes/ep-1mYNOqzAdXs.md#ent-person-baron-coleman-t-00-11-02)**
+> "...going into a meltdown. Baron (Baron Coleman) even pointed out the fact that Andrew (Andrew Ko..."
+
+**[00:29:33](/episodes/ep-1mYNOqzAdXs.md#ent-person-baron-coleman-t-00-29-07)**
+> "Well, Baron Coleman also did some digging and determined that he is a..."
+
+**[00:51:40](/episodes/ep-1mYNOqzAdXs.md#ent-person-baron-coleman-t-00-51-40)**
+> "...actually funny because Baron (Baron Coleman) clocked that on his show last night. He was like..."
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (3 mentions)</summary>
@@ -495,7 +520,15 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Baron Coleman (22)</strong></summary>
+<summary><strong class="section-title">Statements by Baron Coleman (23)</strong></summary>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1)</summary>
+
+- [00:30:16](/episodes/ep-1mYNOqzAdXs.md#t-00-30-16) [◐] (Claim) ["Victor Marx Group LLC has a Class 1 Federal Firearms License, making Victor Marx..."](/statements/statement-d7b0d7c5e7e5.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [Victor Marx Group LLC](/entities/org-victor-marx-group.md), [Federal Firearms License](/entities/concept-federal-firearms-license.md)
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1)</summary>

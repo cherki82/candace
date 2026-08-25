@@ -11,7 +11,7 @@ object: "person-jesse-watters"
 
 ## [Erika Kirk](/entities/person-erika-kirk) interviewed by [Jesse Watters](/entities/person-jesse-watters)
 
-### Evidence (6 mentions)
+### Evidence (7 mentions)
 
 **[EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg)**
 
@@ -20,6 +20,10 @@ object: "person-jesse-watters"
 **[MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU)**
 
 - [00:00:36](/episodes/ep-K1tFD7FfoCU#t-00-00-36): _Erika Kirk sat down with Jesse Watters (Jesse Watters)._
+
+**[Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo)**
+
+- [00:05:25](/episodes/ep-SubDoZWHARo#t-00-05-25): _Erika Kirk herself jumped in and this was the reason that we were given via her interview with Jesse Watters._
 
 **[VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4)**
 

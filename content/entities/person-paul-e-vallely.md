@@ -1,6 +1,6 @@
 ---
 title: "Paul E. Vallely"
-description: "Paul E. Vallely (People) - 5 mentions"
+description: "Paul E. Vallely (People) - 6 mentions"
 id: "person-paul-e-vallely"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-paul-e-vallely-t-01-20-11">2026-01-09 · 01:20:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-person-paul-e-vallely-t-00-15-34">2026-01-16 · 00:15:36</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-person-paul-e-vallely-t-00-48-35">2026-04-15 · 00:48:35</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -38,6 +38,7 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-paul-e-vallely-t-01-20-11" style="--pulse-height:33%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-paul-e-vallely-t-00-20-15" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-paul-e-vallely-t-00-15-34" style="--pulse-height:33%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-person-paul-e-vallely-t-00-48-35" style="--pulse-height:33%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-paul-e-vallely-t-01-20-11) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-paul-e-vallely-t-00-20-15) | 3 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-paul-e-vallely-t-00-15-34) | 1 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-paul-e-vallely-t-00-48-35) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
+
+**[00:48:35](/episodes/ep-SubDoZWHARo.md#ent-person-paul-e-vallely-t-00-48-35)**
+> "Paul E. Vallely"
+
+</details>
 
 <details>
 <summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1 mentions)</summary>
@@ -94,9 +104,10 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 <summary>Advisor To (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:20:26](/episodes/ep-wcD2khO3rOA.md#t-01-20-11): “Paul Vallely is also on the advisory board of Turning Point USA.”
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:35](/episodes/ep-SubDoZWHARo.md#t-00-48-35): “The TPUSA advisor, Paul E. Vallely, retired Army general”
 
 </details>
 
@@ -128,12 +139,19 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 </details>
 
 <details>
-<summary>Formerly Worked For (1)</summary>
+<summary>Formerly Worked For (2)</summary>
 
 - **[7th Psychological Operations Group](/entities/org-7th-psychological-operations-group.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:19:48](/episodes/ep-ZZGWo6oDscc.md#t-00-19-30): “Paul E. Vallely was a military commander. He was the military commander for none other than the 7th Psychological Operations Group.”
+
+</details>
+
+- **[United States Army](/entities/org-united-states-army.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:35](/episodes/ep-SubDoZWHARo.md#t-00-48-35): “Paul E. Vallely, retired Army general”
 
 </details>
 
@@ -152,12 +170,13 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** advised by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:20:26](/episodes/ep-wcD2khO3rOA.md#t-01-20-11): “Paul Vallely is also on the advisory board of Turning Point USA.”
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:35](/episodes/ep-SubDoZWHARo.md#t-00-48-35): “The TPUSA advisor, Paul E. Vallely, retired Army general”
 
 </details>
 
@@ -176,6 +195,13 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 
 </details>
 
+- **[United States Army](/entities/org-united-states-army.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:35](/episodes/ep-SubDoZWHARo.md#t-00-48-35): “Paul E. Vallely, retired Army general”
+
+</details>
+
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** has board member this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -188,7 +214,15 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Paul E. Vallely (3)</strong></summary>
+<summary><strong class="section-title">Statements about Paul E. Vallely (4)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1)</summary>
+
+- [00:48:35](/episodes/ep-SubDoZWHARo.md#t-00-48-35) (Claim) **Candace Owens**: ["Turning Point USA adviser Paul E. Vallely was a retired Army general w..."](/statements/statement-ad31b6ca9398.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [United States Army](/entities/org-united-states-army.md), [Michael Aquino](/entities/person-michael-aquino.md)
+
+</details>
 
 <details>
 <summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1)</summary>

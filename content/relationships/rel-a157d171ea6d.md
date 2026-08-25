@@ -11,7 +11,7 @@ object: "org-fbi"
 
 ## [Candace Owens](/entities/person-candace-owens) accused [FBI](/entities/org-fbi)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
 
 **[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
 
@@ -20,6 +20,10 @@ object: "org-fbi"
 **[Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko)**
 
 - [00:43:00](/episodes/ep-eLgD5yUVbko#t-00-43-00): _He said discord, we understood discord, we all said discord, but then what happened was discord themselves came out immediately and said that wasn't true. Discord gave a statement on September 12th, they published that statement in the Hill and they said we are deeply saddened by this tragedy. We extend our condolences to the Kirk family and everyone affected. A discord person said in a statement in the course of our investigation, we identified a discord account associated with. with the suspect, but I found no evidence the suspect planned this incident or promoted violence on Discord. So they suddenly changed their minds and they said, no, this was happening via iMessage. That wasn't a mistake. He's reading from a piece of paper. He's reading from a piece of paper and then the feds got caught lying and then they altered things and they said, we always said that it was eye messages._
+
+**[Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM)**
+
+- [00:29:13](/episodes/ep-xi8SYJTUXPM#t-00-29-13): _And so I think what's going on is. They changed the story so much. Like I say, the FBI is making it up as they go along, but they forget the lies they told us yesterday._
 
 ### Related
 

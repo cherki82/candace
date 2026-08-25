@@ -4,9 +4,10 @@ description: "\"All Things Possible Ministries purchased five FoldAR weapon syst
 statement_id: "statement-6ff4b1d286f0"
 speaker: "Corby Hall"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -36,7 +37,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Hall later stated publicly that All Things Possible Ministries funded five FoldAR systems for a local school and that after summer 2024 the ministry made no further school-resource-officer effort. This is a firsthand account and is consistent with the publicly promoted school mission, though no independent invoice was located.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Candace Episode 329 transcript with Corby Hall](https://podcasts.happyscribe.com/candace/victor-marx-the-man-who-weaponized-faith)
+
+*Verified: 2026-08-24T19:11:25.821049*
 
 ---
 

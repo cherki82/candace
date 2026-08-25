@@ -11,7 +11,11 @@ object: "org-pure-talk"
 
 ## [Candace Owens](/entities/person-candace-owens) endorsed [Pure Talk](/entities/org-pure-talk)
 
-### Evidence (5 mentions)
+### Evidence (7 mentions)
+
+**[Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs)**
+
+- [00:28:06](/episodes/ep-1mYNOqzAdXs#t-00-28-06): _Also telling you guys about Pure Talk because they were one of the first companies that I ever endorsed almost five years ago._
 
 **[VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58)**
 
@@ -32,6 +36,10 @@ object: "org-pure-talk"
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 
 - [00:48:29](/episodes/ep-q1NRQQAYS_Q#t-00-48-29): _So there was that. We'll take a brief break before I get to some of your comments. All right, you guys, PeerTalk was one of the first companies I ever endorsed almost five years ago when I wanted to work with a wireless company that shares my values._
+
+**[Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM)**
+
+- [00:27:18](/episodes/ep-xi8SYJTUXPM#t-00-27-18): _PureTalk's U.S.-based customer support team is available whenever you need assistance. To get started, visit puretalk.com slash Owens and take advantage of unlimited high-speed data for just $34.99 per month._
 
 ### Related
 

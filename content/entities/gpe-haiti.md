@@ -1,6 +1,6 @@
 ---
 title: "Haiti"
-description: "Haiti (Places) - 15 mentions"
+description: "Haiti (Places) - 22 mentions"
 id: "gpe-haiti"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [Haiti - Countries - Office of the Historian](https://history.state.gov/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-haiti-t-00-39-36">2026-03-17 · 00:39:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-haiti-t-00-41-31">2026-04-14 · 00:41:31</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-haiti-t-00-56-08">2026-04-21 · 00:56:14</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -37,6 +37,8 @@ Source: [Haiti - Countries - Office of the Historian](https://history.state.gov/
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-haiti-t-00-39-36" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-haiti-t-00-17-22" style="--pulse-height:100%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 14 mentions" title="2026-04-14 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-gpe-haiti-t-00-30-52" style="--pulse-height:29%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 4 mentions" title="2026-04-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-haiti-t-00-55-24" style="--pulse-height:21%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 3 mentions" title="2026-04-21 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +46,8 @@ Source: [Haiti - Countries - Office of the Historian](https://history.state.gov/
 |---|---|---:|
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-haiti-t-00-39-36) | 1 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-haiti-t-00-17-22) | 14 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-haiti-t-00-30-52) | 4 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-haiti-t-00-55-24) | 3 |
 
 </details>
 </section>
@@ -51,7 +55,38 @@ Source: [Haiti - Countries - Office of the Historian](https://history.state.gov/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (3 mentions)</summary>
+
+**[00:56:03](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-haiti-t-00-55-24)**
+> "...hat to say. I'm a big deal in Haiti. That's what I want you guys to know. I'm a very ..."
+
+**[00:56:08](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-haiti-t-00-56-08)**
+> "I got some boys out in Haiti. So nobody better mess with me, okay? Nobody bett..."
+
+**[00:56:14](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-haiti-t-00-56-08)**
+> "...boot and I got some people in Haiti, okay?"
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (4 mentions)</summary>
+
+**[00:31:18](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-haiti-t-00-30-52)**
+> "I did not transact with Victor Marx for weapons in Haiti with Jimmy Barbecue."
+
+**[00:31:14](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-haiti-t-00-30-52)**
+> "...e with you wanting weapons in Haiti when he advised against."
+
+**[00:33:58](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-haiti-t-00-33-58)**
+> "... seeking to traffic rifles to Haiti, Israel, and possibly Iran."
+
+**[00:34:57](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-haiti-t-00-34-57)**
+> "...se sorts of transactions with Haiti federally. It was like it's you can't do that."
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (14 mentions)</summary>
@@ -118,7 +153,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Haiti (4)</strong></summary>
+<summary><strong class="section-title">Statements about Haiti (5)</strong></summary>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1)</summary>
+
+- [00:34:14](/episodes/ep-1mYNOqzAdXs.md#t-00-34-14) (Claim) **Victor Marx**: ["Victor Marx denied ever seeking to traffic rifles or other arms to Hai..."](/statements/statement-5c4504ce99f3.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Israel](/entities/gpe-israel.md), [Iran](/entities/gpe-iran.md)
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (4)</summary>

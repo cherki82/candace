@@ -1,6 +1,6 @@
 ---
 title: "United States Army"
-description: "United States Army (Organizations) - 29 mentions"
+description: "United States Army (Organizations) - 31 mentions"
 id: "org-united-states-army"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#t-00-28-44">2025-09-30 · 00:28:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-44-16">2026-08-14 · 00:44:16</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>29</strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>31</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
-<div><span>Relationships</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>7</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -55,6 +55,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <a href="/episodes/ep-2tFYJf1klgY.md#t-00-04-42" style="--pulse-height:67%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 4 mentions" title="2026-03-03 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#t-00-33-17" style="--pulse-height:17%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#t-00-11-05" style="--pulse-height:17%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#t-00-48-35" style="--pulse-height:33%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-43-58" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 6 mentions" title="2026-08-14 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -80,6 +81,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#t-00-04-42) | 4 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#t-00-33-17) | 1 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#t-00-11-05) | 1 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#t-00-48-35) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-00-43-58) | 6 |
 
 </details>
@@ -88,7 +90,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+<summary><strong class="section-title">Raw mentions (31)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (6 mentions)</summary>
@@ -110,6 +112,17 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 
 **[00:44:16](/episodes/ep-nPhCKwJ6ye8.md#t-00-44-16)**
 > "Okay. What did you do in the army? Did you teach this? You then I correct it and sa..."
+
+</details>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (2 mentions)</summary>
+
+**[00:48:35](/episodes/ep-SubDoZWHARo.md#t-00-48-35)**
+> "retired Army general"
+
+**[00:49:03](/episodes/ep-SubDoZWHARo.md#t-00-48-35)**
+> "...ccused of abusing children at army child development centers."
 
 </details>
 
@@ -283,12 +296,19 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Formerly Employed (1)</summary>
+<summary>Formerly Employed (2)</summary>
 
 - **[Robert Eugene Flood](/entities/person-robert-eugene-flood.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [A Legal Turning Point? | Candace Ep 292 @ 00:08:25](/episodes/ep-NIEbqsLAK8g.md#t-00-08-25): “at first second and third glance okay then this random electro rent corporation which runs from tokyo japan to chicago let me know if you guys know what that is then we learned he became a lieutenant colonel in the army reserve okay we can scroll up here then he retired as a lieutenant colonel”
+
+</details>
+
+- **[Paul E. Vallely](/entities/person-paul-e-vallely.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:35](/episodes/ep-SubDoZWHARo.md#t-00-48-35): “Paul E. Vallely, retired Army general”
 
 </details>
 
@@ -307,12 +327,19 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Robert Eugene Flood](/entities/person-robert-eugene-flood.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [A Legal Turning Point? | Candace Ep 292 @ 00:08:25](/episodes/ep-NIEbqsLAK8g.md#t-00-08-25): “at first second and third glance okay then this random electro rent corporation which runs from tokyo japan to chicago let me know if you guys know what that is then we learned he became a lieutenant colonel in the army reserve okay we can scroll up here then he retired as a lieutenant colonel”
+
+</details>
+
+- **[Paul E. Vallely](/entities/person-paul-e-vallely.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:35](/episodes/ep-SubDoZWHARo.md#t-00-48-35): “Paul E. Vallely, retired Army general”
 
 </details>
 
@@ -338,13 +365,24 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Army (9)</strong></summary>
+<summary><strong class="section-title">Statements about United States Army (11)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
 
 - [00:44:14](/episodes/ep-nPhCKwJ6ye8.md#t-00-44-14) (Claim) **Andrew Wilson**: ["Andrew Wilson says he was never an Army sniper."](/statements/statement-3ca42fa6f73b.md)
   - Also about: [Andrew Wilson](/entities/person-andrew-wilson.md)
+
+</details>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (2)</summary>
+
+- [00:48:35](/episodes/ep-SubDoZWHARo.md#t-00-48-35) (Claim) **Candace Owens**: ["Turning Point USA adviser Paul E. Vallely was a retired Army general w..."](/statements/statement-ad31b6ca9398.md)
+  - Also about: [Paul E. Vallely](/entities/person-paul-e-vallely.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Michael Aquino](/entities/person-michael-aquino.md)
+
+- [00:49:03](/episodes/ep-SubDoZWHARo.md#t-00-48-35) (Citation) **Candace Owens**: ["Michael Aquino was accused of abusing children at Army child-developme..."](/statements/statement-86eeeb88c9d0.md)
+  - Also about: [Michael Aquino](/entities/person-michael-aquino.md)
 
 </details>
 

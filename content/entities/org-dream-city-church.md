@@ -1,6 +1,6 @@
 ---
 title: "Dream City Church"
-description: "Dream City Church (Organizations) - 8 mentions"
+description: "Dream City Church (Organizations) - 9 mentions"
 id: "org-dream-city-church"
 type: "ORG"
 categories:
@@ -18,12 +18,12 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-dream-city-church-t-00-26-52">2026-02-04 · 00:27:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-dream-city-church-t-00-18-57">2026-02-13 · 00:19:11</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-dream-city-church-t-00-22-53">2026-04-20 · 00:23:06</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -33,6 +33,7 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-dream-city-church-t-00-26-52" style="--pulse-height:100%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 6 mentions" title="2026-02-04 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-dream-city-church-t-00-18-57" style="--pulse-height:33%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-dream-city-church-t-00-22-53" style="--pulse-height:17%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 |---|---|---:|
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-org-dream-city-church-t-00-26-52) | 6 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-dream-city-church-t-00-18-57) | 2 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-dream-city-church-t-00-22-53) | 1 |
 
 </details>
 </section>
@@ -47,7 +49,15 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1 mentions)</summary>
+
+**[00:23:06](/episodes/ep-kaWtDuoY_ns.md#ent-org-dream-city-church-t-00-22-53)**
+> "...r Trump (Donald Trump) at the Dream City Church in Phoenix. Now, since we all know that the real ..."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
@@ -89,12 +99,19 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Hosted Speaker (1)</summary>
+<summary>Hosted Speaker (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:27:20](/episodes/ep-DYD_QHMPwqM.md#t-00-26-52): “Dream City Church when Charlie (Charlie Kirk) was doing a series of speeches. He would do that weekly at Dream City Church.”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:23:06](/episodes/ep-kaWtDuoY_ns.md#t-00-22-53): “she opened for Trump (Donald Trump) at the Dream City Church in Phoenix.”
 
 </details>
 
@@ -113,7 +130,7 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Phoenix Dream Center](/entities/org-phoenix-dream-center.md)** operated by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -126,6 +143,13 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:27:20](/episodes/ep-DYD_QHMPwqM.md#t-00-26-52): “Dream City Church when Charlie (Charlie Kirk) was doing a series of speeches. He would do that weekly at Dream City Church.”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** spoke at this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:23:06](/episodes/ep-kaWtDuoY_ns.md#t-00-22-53): “she opened for Trump (Donald Trump) at the Dream City Church in Phoenix.”
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Ben Shapiro"
-description: "Ben Shapiro (People) - 338 mentions"
+description: "Ben Shapiro (People) - 342 mentions"
 id: "person-ben-shapiro"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-ben-shapiro-t-00-30-51">2025-09-24 · 00:31:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-ben-shapiro-t-00-25-41">2026-04-13 · 00:25:41</a></strong></div>
-<div><span>Episodes</span><strong>39</strong></div>
-<div><span>Mentions</span><strong>338</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-ben-shapiro-t-00-11-56">2026-04-21 · 00:12:12</a></strong></div>
+<div><span>Episodes</span><strong>41</strong></div>
+<div><span>Mentions</span><strong>342</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
 <div><span>Statements about</span><strong>61</strong></div>
-<div><span>Relationships</span><strong>69</strong></div>
+<div><span>Relationships</span><strong>73</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -74,6 +74,8 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-ben-shapiro-t-00-38-57" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-ben-shapiro-t-00-17-26" style="--pulse-height:8%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-ben-shapiro-t-00-17-43" style="--pulse-height:22%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 12 mentions" title="2026-04-13 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-ben-shapiro-t-00-52-05" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-ben-shapiro-t-00-11-56" style="--pulse-height:8%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -118,6 +120,8 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-ben-shapiro-t-00-38-57) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-ben-shapiro-t-00-17-26) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-ben-shapiro-t-00-17-43) | 12 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-ben-shapiro-t-00-52-05) | 3 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-ben-shapiro-t-00-11-56) | 1 |
 
 </details>
 </section>
@@ -125,7 +129,29 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (338)</strong></summary>
+<summary><strong class="section-title">Raw mentions (342)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1 mentions)</summary>
+
+**[00:12:12](/episodes/ep-xi8SYJTUXPM.md#ent-person-ben-shapiro-t-00-11-56)**
+> "...ng above a table. This is not Ben Shapiro on tour, okay?"
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (3 mentions)</summary>
+
+**[00:52:05](/episodes/ep-1mYNOqzAdXs.md#ent-person-ben-shapiro-t-00-52-05)**
+> "Erika's—no, something came up. There'll be more information in the coming days. Erika is not going to be here tonight. That's it. But instead, Andrew (Andrew Kolvet) came out there with the energy of, 'It's your fault,' and he should apologize, but he won't because he has exercised no humility in anything since September 10th. It's probably who he always was, if we're being frank. James the Least writes, 'I saw Ben Shapiro blaming you and your viewers for the threats against Erika (Erika Kirk). What a tool.' Why are you watching Ben Shapiro? Like, who cares?"
+
+**[00:52:31](/episodes/ep-1mYNOqzAdXs.md#ent-person-ben-shapiro-t-00-52-31)**
+> "...ybody laugh and feel good and Ben Shapiro of course could find a problem with the Elon,"
+
+**[00:52:56](/episodes/ep-1mYNOqzAdXs.md#ent-person-ben-shapiro-t-00-52-31)**
+> "... a kid, nobody has ever liked Ben Shapiro and the world caught on. He's been buying views t..."
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (12 mentions)</summary>
@@ -1398,7 +1424,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>Criticized (8)</summary>
+<summary>Criticized (9)</summary>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)**
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
@@ -1463,13 +1489,20 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 </details>
 
+- **[Theo Von](/entities/person-theo-von.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:52:31](/episodes/ep-1mYNOqzAdXs.md#t-00-52-31): “i mean this is the guy that sits down with Bibi (Benjamin Netanyahu) and then tells us that Theo Von is a threat to civilization”
+
+</details>
+
 </details>
 
 <details>
 <summary>Criticized By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
@@ -1477,6 +1510,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:04:37](/episodes/ep-H9p2ZGHAs9A.md#t-00-04-23): “And his wife did a complete 180 like LBJ, inviting, frankly, deranged Zionists into the fold immediately. Ben Shapiro, who was, in fact, an enemy to her husband, effectively opened AmFest. She came out first and then Ben Shapiro came out second.”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:23](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “Ben (Ben Shapiro) should be given a swirly every single day of his life. Ben Shapiro's head belongs in a toilet permanently.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:24:40](/episodes/ep-eLgD5yUVbko.md#t-00-24-24): “I don't remember who she had in her show, but she was talking about Mark Levin and she said there is a piece of her that feels like he genuinely wants to like hurt her like he would want harm to come to Megyn Kelly. Like if someone killed her, he would be happy. And I watched this and I went, yes, like my head, obviously, I said, I agree with this. And this is exactly how I feel about Ben Shapiro. I can't explain to you, but like there was an obsession here. He brought back my socials. They make videos. It has not stopped.”
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:52:56](/episodes/ep-1mYNOqzAdXs.md#t-00-52-31): “because since the time he was a kid, nobody has ever liked Ben Shapiro and the world caught on. He's been buying views throughout his entire life. He's never going to go away to just get used to like that buzzing noise in the background.”
 
 </details>
 
@@ -1591,7 +1625,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>Interviewed (3)</summary>
+<summary>Interviewed (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1612,6 +1646,13 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:09:54](/episodes/ep-w1oqQbR_bYs.md#t-00-09-20): “Ben had his team reach out and schedule an interview with Thomas Soul”
+
+</details>
+
+- **[Volodymyr Zelensky](/entities/person-volodymyr-zelensky.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:52:31](/episodes/ep-1mYNOqzAdXs.md#t-00-52-31): “i mean this is the guy that sits down with Bibi (Benjamin Netanyahu) and then tells us that Theo Von is a threat to civilization okay he like literally interviews mass murderers like Zelenskyy (Volodymyr Zelenskyy) on his show”
 
 </details>
 
@@ -1706,7 +1747,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>Referenced By (34)</summary>
+<summary>Referenced By (36)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -1738,7 +1779,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
@@ -1746,6 +1787,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:04:37](/episodes/ep-H9p2ZGHAs9A.md#t-00-04-23): “And his wife did a complete 180 like LBJ, inviting, frankly, deranged Zionists into the fold immediately. Ben Shapiro, who was, in fact, an enemy to her husband, effectively opened AmFest. She came out first and then Ben Shapiro came out second.”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:23](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “Ben (Ben Shapiro) should be given a swirly every single day of his life. Ben Shapiro's head belongs in a toilet permanently.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:24:40](/episodes/ep-eLgD5yUVbko.md#t-00-24-24): “I don't remember who she had in her show, but she was talking about Mark Levin and she said there is a piece of her that feels like he genuinely wants to like hurt her like he would want harm to come to Megyn Kelly. Like if someone killed her, he would be happy. And I watched this and I went, yes, like my head, obviously, I said, I agree with this. And this is exactly how I feel about Ben Shapiro. I can't explain to you, but like there was an obsession here. He brought back my socials. They make videos. It has not stopped.”
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:52:56](/episodes/ep-1mYNOqzAdXs.md#t-00-52-31): “because since the time he was a kid, nobody has ever liked Ben Shapiro and the world caught on. He's been buying views throughout his entire life. He's never going to go away to just get used to like that buzzing noise in the background.”
 
 </details>
 
@@ -1830,6 +1872,13 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:46](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “He calls Megyn Kelly a coward and Piers Morgan a clickbait whore or something. And what is their crime?”
+
+</details>
+
+- **[Theo Von](/entities/person-theo-von.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:52:31](/episodes/ep-1mYNOqzAdXs.md#t-00-52-31): “i mean this is the guy that sits down with Bibi (Benjamin Netanyahu) and then tells us that Theo Von is a threat to civilization”
 
 </details>
 
@@ -1939,6 +1988,13 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:09:54](/episodes/ep-w1oqQbR_bYs.md#t-00-09-20): “Ben had his team reach out and schedule an interview with Thomas Soul”
+
+</details>
+
+- **[Volodymyr Zelensky](/entities/person-volodymyr-zelensky.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:52:31](/episodes/ep-1mYNOqzAdXs.md#t-00-52-31): “i mean this is the guy that sits down with Bibi (Benjamin Netanyahu) and then tells us that Theo Von is a threat to civilization okay he like literally interviews mass murderers like Zelenskyy (Volodymyr Zelenskyy) on his show”
 
 </details>
 

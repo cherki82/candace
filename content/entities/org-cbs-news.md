@@ -1,6 +1,6 @@
 ---
 title: "CBS News"
-description: "CBS News (Organizations) - 12 mentions"
+description: "CBS News (Organizations) - 15 mentions"
 id: "org-cbs-news"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-org-cbs-news-t-00-28-48">2025-11-21 · 00:28:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-cbs-news-t-00-12-12">2026-04-10 · 00:12:28</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-cbs-news-t-00-03-58">2026-04-16 · 00:03:58</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -43,6 +43,7 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-cbs-news-t-00-35-55" style="--pulse-height:33%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-cbs-news-t-01-12-16" style="--pulse-height:67%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-cbs-news-t-00-12-12" style="--pulse-height:33%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-cbs-news-t-00-02-31" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-cbs-news-t-00-35-55) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-cbs-news-t-01-12-16) | 2 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-cbs-news-t-00-12-12) | 1 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-cbs-news-t-00-02-31) | 3 |
 
 </details>
 </section>
@@ -61,7 +63,21 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (3 mentions)</summary>
+
+**[00:02:31](/episodes/ep-1mYNOqzAdXs.md#ent-org-cbs-news-t-00-02-31)**
+> "And here is the headline. This is in Bari Weiss's CBS, no less. less okay so this is like she's got contacts at CBS and even they had to just run this headline secret service determines no credible threats to uga rally after Erika (Erika Kirk) kirk's cancellation the source says embedded in the article it reads the u.s secret service determined there were no credible threats to tuesday's turning point usa rally at the university of georgia even as a planned co-appearance"
+
+**[00:03:00](/episodes/ep-1mYNOqzAdXs.md#ent-org-cbs-news-t-00-02-31)**
+> "...amiliar with the matter tells CBS News, according to the source, that the site was secur..."
+
+**[00:03:58](/episodes/ep-1mYNOqzAdXs.md#ent-org-cbs-news-t-00-03-58)**
+> "...at they decided to speak with CBS obviously off record probably because what Erika ..."
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>

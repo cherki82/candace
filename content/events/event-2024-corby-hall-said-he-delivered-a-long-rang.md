@@ -1,11 +1,11 @@
 ---
-title: "2024-10: Corby Hall said he delivered a long-range FoldAR r..."
-description: "2024-10 - Corby Hall said he delivered a long-range FoldAR rifle to Victor Marx"
-event_id: "event-2024-10-corby-hall-said-he-delivered-a-long-rang"
-date: "2024-10"
+title: "2024: Corby Hall said he delivered a long-range FoldAR r..."
+description: "2024 - Corby Hall said he delivered a long-range FoldAR rifle to Victor Marx"
+event_id: "event-2024-corby-hall-said-he-delivered-a-long-rang"
+date: "2024"
 ---
 
-**Date:** 2024-10
+**Date:** 2024
 
 ## Event
 

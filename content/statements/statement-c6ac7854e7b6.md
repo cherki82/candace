@@ -4,9 +4,10 @@ description: "\"Candace Owens says Victor Marx has been caught lying extensively
 statement_id: "statement-c6ac7854e7b6"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -32,7 +33,21 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The episode transcript confirms Owens made the accusation. Current interviews and reporting publicly question Marx veracity and document several corrected or unsupported biographical claims, supporting the existence of the criticism. This does not establish a clinical condition or prove that Marx lies compulsively.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Candace Episode 324 transcript](https://podcasts.happyscribe.com/candace/10-erika-s-friend-wanted-to-own-its-company)
+- [Axios Denver: What we know and do not know about Victor Marx](https://www.axios.com/local/denver/2026/08/10/victor-marx-colorado-governor-what-to-know)
+
+*Verified: 2026-08-24T19:11:29.726913*
 
 ---
 

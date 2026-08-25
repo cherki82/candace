@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) has CEO [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (25 mentions)
+### Evidence (26 mentions)
 
 **[EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM)**
 
@@ -65,6 +65,10 @@ object: "person-erika-kirk"
 
 - [00:08:59](/episodes/ep-Qt0VHV-POCg#t-00-08-59): _Erika Kirk was the chairman and the CEO 36 hours later._
 - [00:09:05](/episodes/ep-Qt0VHV-POCg#t-00-09-05): _I don't even think they had even yet announced that Erika Kirk was the chairman and the CEO 36 hours later._
+
+**[Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo)**
+
+- [00:25:59](/episodes/ep-SubDoZWHARo#t-00-25-59): _This is a new CEO and chairman of TPUSA_
 
 **[Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8)**
 

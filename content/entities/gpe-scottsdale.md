@@ -1,6 +1,6 @@
 ---
 title: "Scottsdale, Arizona"
-description: "Scottsdale, Arizona (Places) - 82 mentions"
+description: "Scottsdale, Arizona (Places) - 88 mentions"
 id: "gpe-scottsdale"
 type: "GPE"
 aliases:
@@ -23,11 +23,11 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-scottsdale-t-00-41-45">2025-10-31 · 00:41:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-scottsdale-t-00-49-45">2026-03-30 · 00:50:21</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>82</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-scottsdale-t-00-18-21">2026-04-21 · 00:18:21</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>88</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -55,6 +55,8 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-scottsdale-t-00-01-51" style="--pulse-height:56%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 10 mentions" title="2026-03-25 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-scottsdale-t-00-03-33" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 18 mentions" title="2026-03-26 · 18 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-scottsdale-t-00-24-21" style="--pulse-height:11%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-gpe-scottsdale-t-00-04-36" style="--pulse-height:22%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 4 mentions" title="2026-04-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-scottsdale-t-00-09-17" style="--pulse-height:11%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -79,6 +81,8 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-scottsdale-t-00-01-51) | 10 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-scottsdale-t-00-03-33) | 18 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-scottsdale-t-00-24-21) | 2 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-scottsdale-t-00-04-36) | 4 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-scottsdale-t-00-09-17) | 2 |
 
 </details>
 </section>
@@ -86,7 +90,35 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (82)</strong></summary>
+<summary><strong class="section-title">Raw mentions (88)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (2 mentions)</summary>
+
+**[00:09:17](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-scottsdale-t-00-09-17)**
+> "...s desktop in Arizona, back in Scottsdale. That doesn't make sense to me. And it is problem..."
+
+**[00:18:21](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-scottsdale-t-00-18-21)**
+> "... they set up a dinner back in Scottsdale, Arizona. Again, this is going to be late 2016."
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (4 mentions)</summary>
+
+**[00:05:05](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-scottsdale-t-00-04-36)**
+> "The idea. That Erika (Erika Kirk) could have actually been in Georgia already and that she truly canceled in the last minute after she had already been to the venue. That never even crossed my mind. I assumed wrongly that she must have been in Scottsdale, right? That's the only way to make the story work."
+
+**[00:05:21](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-scottsdale-t-00-05-21)**
+> "... obviously that's got to be a Scottsdale thing that in my mind, I thought this right."
+
+**[00:07:20](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-scottsdale-t-00-06-44)**
+> "...ot an option. It had to be in Scottsdale."
+
+**[00:13:03](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-scottsdale-t-00-12-44)**
+> "...thens and she headed back for Scottsdale. So that's a long time that she was there."
+
+</details>
 
 <details>
 <summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (2 mentions)</summary>
@@ -494,7 +526,23 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Scottsdale, Arizona (13)</strong></summary>
+<summary><strong class="section-title">Statements about Scottsdale, Arizona (15)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>
+
+- [00:18:21](/episodes/ep-xi8SYJTUXPM.md#t-00-18-21) (Claim) **Anonymous Source #1 (Ep xi8SYJTUXPM)** (via read message): ["In late 2016, Lori Frantzve and Larry Guinta met the holders of a pend..."](/statements/statement-2c06601c490a.md)
+  - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Larry Guinta](/entities/person-larry-guinta.md), [GTEC Industries](/entities/org-gtec-industries.md)
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1)</summary>
+
+- [00:08:43](/episodes/ep-1mYNOqzAdXs.md#t-00-08-43) (Claim) **Candace Owens**: ["Erika Kirk departed West Palm Beach at 1:27 p.m., landed in Athens at ..."](/statements/statement-ee597a6e3b0b.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [West Palm Beach, Florida](/entities/gpe-west-palm-beach-florida.md), [Athens, Georgia](/entities/gpe-athens-georgia.md)
+
+</details>
 
 <details>
 <summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1)</summary>

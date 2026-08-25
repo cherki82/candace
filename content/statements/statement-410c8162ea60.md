@@ -4,9 +4,10 @@ description: "\"Candace Owens plans to invite Corby Hall onto the show to discus
 statement_id: "statement-410c8162ea60"
 speaker: "Candace Owens"
 type: "promise"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -33,7 +34,20 @@ type: "promise"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The promise was fulfilled: five episodes later Owens hosted Corby Hall for a long interview focused on the missing FoldAR and his dealings with Victor Marx.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Candace Episode 329 transcript with Corby Hall](https://podcasts.happyscribe.com/candace/victor-marx-the-man-who-weaponized-faith)
+
+*Verified: 2026-08-24T19:11:29.930065*
 
 ---
 

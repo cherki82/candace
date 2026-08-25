@@ -1,6 +1,6 @@
 ---
-title: "2024-07-04: A Texas deputy told Corby Hall that FoldAR rifle 0..."
-description: "2024-07-04 - A Texas deputy told Corby Hall that FoldAR rifle 02735 had been stolen"
+title: "2024-07-04: FoldAR rifle 02735 was reportedly stolen from a Te..."
+description: "2024-07-04 - FoldAR rifle 02735 was reportedly stolen from a Texas deputy's vehicle in Midland"
 event_id: "event-2024-07-04-a-texas-deputy-told-corby-hall-that-fold"
 date: "2024-07-04"
 ---
@@ -9,7 +9,7 @@ date: "2024-07-04"
 
 ## Event
 
-> A Texas deputy told Corby Hall that FoldAR rifle 02735 had been stolen
+> FoldAR rifle 02735 was reportedly stolen from a Texas deputy's vehicle in Midland
 
 ## Mentioned In
 

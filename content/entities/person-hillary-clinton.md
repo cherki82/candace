@@ -1,6 +1,6 @@
 ---
 title: "Hillary Clinton"
-description: "Hillary Clinton (People) - 18 mentions"
+description: "Hillary Clinton (People) - 25 mentions"
 id: "person-hillary-clinton"
 type: "PERSON"
 aliases:
@@ -23,29 +23,31 @@ Source: [Hillary Rodham Clinton | Clinton Foundation](https://www.clintonfoundat
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-hillary-clinton-t-00-26-53">2025-12-08 · 00:27:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-hillary-clinton-t-00-52-23">2026-04-13 · 00:52:55</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-hillary-clinton-t-00-15-52">2026-04-21 · 00:16:06</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-hillary-clinton-t-00-38-00">VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-hillary-clinton-t-00-28-27">EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-hillary-clinton-t-00-26-53" style="--pulse-height:50%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-hillary-clinton-t-00-22-44" style="--pulse-height:25%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-hillary-clinton-t-00-06-19" style="--pulse-height:25%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-hillary-clinton-t-00-33-44" style="--pulse-height:50%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-hillary-clinton-t-00-38-00" style="--pulse-height:100%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 4 mentions" title="2026-02-11 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-hillary-clinton-t-00-02-57" style="--pulse-height:75%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 3 mentions" title="2026-02-25 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-1IY2oD-_xVA.md#ent-person-hillary-clinton-t-00-09-19" style="--pulse-height:25%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-hillary-clinton-t-00-04-11" style="--pulse-height:25%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-hillary-clinton-t-00-05-20" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-hillary-clinton-t-00-52-23" style="--pulse-height:25%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-hillary-clinton-t-00-26-53" style="--pulse-height:40%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-hillary-clinton-t-00-22-44" style="--pulse-height:20%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-hillary-clinton-t-00-06-19" style="--pulse-height:20%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-hillary-clinton-t-00-33-44" style="--pulse-height:40%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-hillary-clinton-t-00-38-00" style="--pulse-height:80%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 4 mentions" title="2026-02-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-hillary-clinton-t-00-02-57" style="--pulse-height:60%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 3 mentions" title="2026-02-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-person-hillary-clinton-t-00-09-19" style="--pulse-height:20%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-hillary-clinton-t-00-04-11" style="--pulse-height:20%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-hillary-clinton-t-00-05-20" style="--pulse-height:40%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-hillary-clinton-t-00-52-23" style="--pulse-height:20%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-hillary-clinton-t-00-28-27" style="--pulse-height:100%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 5 mentions" title="2026-04-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-hillary-clinton-t-00-15-52" style="--pulse-height:40%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -61,6 +63,8 @@ Source: [Hillary Rodham Clinton | Clinton Foundation](https://www.clintonfoundat
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-hillary-clinton-t-00-04-11) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-hillary-clinton-t-00-05-20) | 2 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-hillary-clinton-t-00-52-23) | 1 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-hillary-clinton-t-00-28-27) | 5 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-hillary-clinton-t-00-15-52) | 2 |
 
 </details>
 </section>
@@ -68,7 +72,38 @@ Source: [Hillary Rodham Clinton | Clinton Foundation](https://www.clintonfoundat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (2 mentions)</summary>
+
+**[00:15:52](/episodes/ep-xi8SYJTUXPM.md#ent-person-hillary-clinton-t-00-15-52)**
+> "...election, Donald Trump versus Hillary Clinton. Donald Trump is traveling all throughout the cou..."
+
+**[00:16:06](/episodes/ep-xi8SYJTUXPM.md#ent-person-hillary-clinton-t-00-15-52)**
+> "Hillary Clinton, the media does not think that she can be beat. A..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (5 mentions)</summary>
+
+**[00:28:27](/episodes/ep-kaWtDuoY_ns.md#ent-person-hillary-clinton-t-00-28-27)**
+> "And I said, we all knew Hillary Clinton was evil, right?"
+
+**[00:28:30](/episodes/ep-kaWtDuoY_ns.md#ent-person-hillary-clinton-t-00-28-27)**
+> "...illusion, no special effects. Hillary Clinton"
+
+**[00:28:54](/episodes/ep-kaWtDuoY_ns.md#ent-person-hillary-clinton-t-00-28-54)**
+> "...l when it's honest. You know, Hillary Clinton is like, ‘I am just ambitious.’ And I will say th..."
+
+**[00:29:42](/episodes/ep-kaWtDuoY_ns.md#ent-person-hillary-clinton-t-00-29-28)**
+> "being given a crown hillary clinton worked hard in her life right no one ever accused..."
+
+**[00:33:58](/episodes/ep-kaWtDuoY_ns.md#ent-person-hillary-clinton-t-00-33-58)**
+> "...s where I just thought it was Hillary Clinton that was corrupt."
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
@@ -179,7 +214,29 @@ Source: [Hillary Rodham Clinton | Clinton Foundation](https://www.clintonfoundat
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Ran Against (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:15:52](/episodes/ep-xi8SYJTUXPM.md#t-00-15-52): “Now I want to switch gears here to travel back to late fall 2016, just before the election, the big election, Donald Trump versus Hillary Clinton. Donald Trump is traveling all throughout the country, giving us one liners about Hillary Clinton.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** ran against this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:15:52](/episodes/ep-xi8SYJTUXPM.md#t-00-15-52): “Now I want to switch gears here to travel back to late fall 2016, just before the election, the big election, Donald Trump versus Hillary Clinton. Donald Trump is traveling all throughout the country, giving us one liners about Hillary Clinton.”
+
+</details>
+
+</details>
 
 </details>
 

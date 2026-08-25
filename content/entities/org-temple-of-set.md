@@ -1,6 +1,6 @@
 ---
 title: "Temple of Set"
-description: "Temple of Set (Organizations) - 7 mentions"
+description: "Temple of Set (Organizations) - 9 mentions"
 id: "org-temple-of-set"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [Michael A. Aquino | Xeper.org](https://www.xeper.org/maquino/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-temple-of-set-t-00-22-52">2026-01-13 · 00:23:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-temple-of-set-t-01-40-59">2026-01-29 · 01:40:59</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-org-temple-of-set-t-00-48-35">2026-04-15 · 00:48:56</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -37,6 +37,7 @@ Source: [Michael A. Aquino | Xeper.org](https://www.xeper.org/maquino/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-temple-of-set-t-00-22-52" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 4 mentions" title="2026-01-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-temple-of-set-t-01-40-02" style="--pulse-height:75%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-org-temple-of-set-t-00-48-35" style="--pulse-height:50%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Michael A. Aquino | Xeper.org](https://www.xeper.org/maquino/)
 |---|---|---:|
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-temple-of-set-t-00-22-52) | 4 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-temple-of-set-t-01-40-02) | 3 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-temple-of-set-t-00-48-35) | 2 |
 
 </details>
 </section>
@@ -51,7 +53,18 @@ Source: [Michael A. Aquino | Xeper.org](https://www.xeper.org/maquino/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (2 mentions)</summary>
+
+**[00:48:35](/episodes/ep-SubDoZWHARo.md#ent-org-temple-of-set-t-00-48-35)**
+> "the Temple of Set"
+
+**[00:48:56](/episodes/ep-SubDoZWHARo.md#ent-org-temple-of-set-t-00-48-35)**
+> "And so the Temple of Set was born out of Satanism. So you guys know if you..."
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (3 mentions)</summary>
@@ -93,10 +106,11 @@ Source: [Michael A. Aquino | Xeper.org](https://www.xeper.org/maquino/)
 <summary>Founded By (1)</summary>
 
 - **[Michael Aquino](/entities/person-michael-aquino.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:23:20](/episodes/ep-ZZGWo6oDscc.md#t-00-22-52): “So I'm going to now let Michael Aquino, who's head of PSYOPs, along with Paul Vallely, who's a board member, tell you what the goals were when he established the Temple of Set. Take a listen.”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:59](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-59): “then he started the Temple of Set”
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:35](/episodes/ep-SubDoZWHARo.md#t-00-48-35): “Michael Aquino, a Satanist and founder of the Temple of Set.”
 
 </details>
 
@@ -106,10 +120,11 @@ Source: [Michael A. Aquino | Xeper.org](https://www.xeper.org/maquino/)
 <summary>Referenced By (1)</summary>
 
 - **[Michael Aquino](/entities/person-michael-aquino.md)** founded this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:23:20](/episodes/ep-ZZGWo6oDscc.md#t-00-22-52): “So I'm going to now let Michael Aquino, who's head of PSYOPs, along with Paul Vallely, who's a board member, tell you what the goals were when he established the Temple of Set. Take a listen.”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:59](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-59): “then he started the Temple of Set”
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:35](/episodes/ep-SubDoZWHARo.md#t-00-48-35): “Michael Aquino, a Satanist and founder of the Temple of Set.”
 
 </details>
 
@@ -118,7 +133,15 @@ Source: [Michael A. Aquino | Xeper.org](https://www.xeper.org/maquino/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Temple of Set (3)</strong></summary>
+<summary><strong class="section-title">Statements about Temple of Set (4)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1)</summary>
+
+- [00:48:35](/episodes/ep-SubDoZWHARo.md#t-00-48-35) (Claim) **Candace Owens**: ["Turning Point USA adviser Paul E. Vallely was a retired Army general w..."](/statements/statement-ad31b6ca9398.md)
+  - Also about: [Paul E. Vallely](/entities/person-paul-e-vallely.md), [Turning Point USA](/entities/org-turning-point-usa.md), [United States Army](/entities/org-united-states-army.md)
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>

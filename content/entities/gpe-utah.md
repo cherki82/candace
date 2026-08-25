@@ -1,6 +1,6 @@
 ---
 title: "Utah"
-description: "Utah (Places) - 259 mentions"
+description: "Utah (Places) - 267 mentions"
 id: "gpe-utah"
 type: "GPE"
 aliases:
@@ -22,10 +22,10 @@ Source: [State of Utah official website](https://utah.gov/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-utah-t-00-05-31">2025-09-16 · 00:05:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-03-48-13">2026-08-14 · 03:48:13</a></strong></div>
-<div><span>Episodes</span><strong>51</strong></div>
-<div><span>Mentions</span><strong>259</strong></div>
+<div><span>Episodes</span><strong>54</strong></div>
+<div><span>Mentions</span><strong>267</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -84,6 +84,9 @@ Source: [State of Utah official website](https://utah.gov/)
 <a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-utah-t-00-02-45" style="--pulse-height:83%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 15 mentions" title="2026-04-01 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-utah-t-00-02-10" style="--pulse-height:11%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-utah-t-00-33-38" style="--pulse-height:22%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 4 mentions" title="2026-04-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-gpe-utah-t-00-24-40" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-utah-t-00-17-37" style="--pulse-height:28%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 5 mentions" title="2026-04-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-utah-t-00-12-41" style="--pulse-height:11%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-00-52-44" style="--pulse-height:94%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -140,6 +143,9 @@ Source: [State of Utah official website](https://utah.gov/)
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-gpe-utah-t-00-02-45) | 15 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-utah-t-00-02-10) | 2 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-gpe-utah-t-00-33-38) | 4 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-utah-t-00-24-40) | 1 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-utah-t-00-17-37) | 5 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-utah-t-00-12-41) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-00-52-44) | 17 |
 
 </details>
@@ -148,7 +154,7 @@ Source: [State of Utah official website](https://utah.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (259)</strong></summary>
+<summary><strong class="section-title">Raw mentions (267)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (17 mentions)</summary>
@@ -203,6 +209,45 @@ Source: [State of Utah official website](https://utah.gov/)
 
 **[03:48:13](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-03-48-13)**
 > "...that there's enough under the Utah 1102 rule for me to keep it there."
+
+</details>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (2 mentions)</summary>
+
+**[00:12:49](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-utah-t-00-12-41)**
+> "Utah, he's just way above the table. Why? Why were the..."
+
+**[00:18:01](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-utah-t-00-17-54)**
+> "...ition up in Salt Lake City in Utah, and this is when she was hawking her G-Tech, G-T..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (5 mentions)</summary>
+
+**[00:17:44](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-utah-t-00-17-37)**
+> "... motion for a speedy trial in Utah. I can show you that. You can see this."
+
+**[00:18:06](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-utah-t-00-17-37)**
+> "The state of Utah has its own codes for victims, which include a vi..."
+
+**[00:18:51](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-utah-t-00-18-51)**
+> "...e all throughout the state of Utah."
+
+**[00:19:00](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-utah-t-00-18-51)**
+> "...e all throughout the state of Utah, okay? I think they want a show trial. I think Er..."
+
+**[00:57:54](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-utah-t-00-18-51)**
+> "...harlie Kirk) actually went to Utah Valley Hospital first."
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1 mentions)</summary>
+
+**[00:24:40](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-utah-t-00-24-40)**
+> "and we're like but Glenn Beck posted he's stable this is not confirmed who confirmed this I haven't seen anything posted that he passed and I didn't I just this I remember this happening on the day I do certainly remember that Victor Marx was the first person to say that um Charlie (Charlie Kirk) had died and you should know but he posted that information at 1 13 p.m Utah time mountain standard so that is less than an hour after Charlie (Charlie Kirk) was shot Erika Kirk's dear friend Victor Marx announced that he had died."
 
 </details>
 
@@ -1314,7 +1359,17 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah (11)</strong></summary>
+<summary><strong class="section-title">Statements about Utah (13)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (2)</summary>
+
+- [00:17:37](/episodes/ep-kaWtDuoY_ns.md#t-00-17-37) (Claim) **Candace Owens**: ["Candace Owens said Erika Kirk was listed as the official victim and fi..."](/statements/statement-39836e7b7f6d.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:18:06](/episodes/ep-kaWtDuoY_ns.md#t-00-17-37) (Citation) **Candace Owens**: ["Candace Owens cited Utah state law as giving crime victims a right to ..."](/statements/statement-adca016a1fd6.md)
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1)</summary>

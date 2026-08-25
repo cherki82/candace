@@ -1,6 +1,6 @@
 ---
 title: "Milo Yiannopoulos"
-description: "Milo Yiannopoulos (People) - 18 mentions"
+description: "Milo Yiannopoulos (People) - 20 mentions"
 id: "person-milo-yiannopoulos"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-milo-yiannopoulos-t-00-19-43">2025-11-04 · 00:20:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#t-00-55-14">2026-03-30 · 00:55:14</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
-<div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-milo-yiannopoulos-t-00-44-37">2026-04-20 · 00:44:37</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Statements by</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -44,6 +44,7 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-milo-yiannopoulos-t-00-46-47" style="--pulse-height:75%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 3 mentions" title="2026-02-11 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-milo-yiannopoulos-t-00-07-07" style="--pulse-height:75%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#t-00-55-14" style="--pulse-height:25%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-milo-yiannopoulos-t-00-40-10" style="--pulse-height:50%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +59,7 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-milo-yiannopoulos-t-00-46-47) | 3 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-milo-yiannopoulos-t-00-07-07) | 3 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#t-00-55-14) | 1 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-milo-yiannopoulos-t-00-40-10) | 2 |
 
 </details>
 </section>
@@ -65,7 +67,18 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (2 mentions)</summary>
+
+**[00:40:10](/episodes/ep-kaWtDuoY_ns.md#ent-person-milo-yiannopoulos-t-00-40-10)**
+> "... her former campaign manager, Milo Yiannopoulos. who she has never sued and simply blocks. He wro..."
+
+**[00:44:37](/episodes/ep-kaWtDuoY_ns.md#ent-person-milo-yiannopoulos-t-00-44-37)**
+> "Milo Yiannopoulos similarly described, and again, he published this..."
+
+</details>
 
 <details>
 <summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1 mentions)</summary>
@@ -172,6 +185,18 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Accused (1)</summary>
+
+- **[Laura Loomer](/entities/person-laura-loomer.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:44:57](/episodes/ep-kaWtDuoY_ns.md#t-00-44-57): “Laura (Laura Loomer) ... she she used to force herself on young male volunteers”
+
+</details>
+
+</details>
+
+<details>
 <summary>Appeared With (2)</summary>
 
 - **[Tim Pool](/entities/person-tim-pool.md)**
@@ -203,6 +228,18 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 </details>
 
 <details>
+<summary>Formerly Worked For (1)</summary>
+
+- **[Laura Loomer](/entities/person-laura-loomer.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:40:10](/episodes/ep-kaWtDuoY_ns.md#t-00-40-10): “according to her former campaign manager, Milo Yiannopoulos.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Interviewed By (1)</summary>
 
 - **[Tim Pool](/entities/person-tim-pool.md)**
@@ -227,7 +264,14 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (7)</summary>
+
+- **[Laura Loomer](/entities/person-laura-loomer.md)** accused by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:44:57](/episodes/ep-kaWtDuoY_ns.md#t-00-44-57): “Laura (Laura Loomer) ... she she used to force herself on young male volunteers”
+
+</details>
 
 - **[George Santos](/entities/person-george-santos.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -250,6 +294,13 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 
 </details>
 
+- **[Laura Loomer](/entities/person-laura-loomer.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:40:10](/episodes/ep-kaWtDuoY_ns.md#t-00-40-10): “according to her former campaign manager, Milo Yiannopoulos.”
+
+</details>
+
 - **[Tim Pool](/entities/person-tim-pool.md)** interviewed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -269,7 +320,18 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Milo Yiannopoulos (3)</strong></summary>
+<summary><strong class="section-title">Statements by Milo Yiannopoulos (5)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (2)</summary>
+
+- [00:40:22](/episodes/ep-kaWtDuoY_ns.md#t-00-40-10) [○] (Claim) ["Milo Yiannopoulos wrote that Laura Loomer had been diagnosed at different times ..."](/statements/statement-273ef41b6ae1.md)
+  - About: [Laura Loomer](/entities/person-laura-loomer.md)
+
+- [00:44:57](/episodes/ep-kaWtDuoY_ns.md#t-00-44-57) [✓] (Accusation) ["Milo Yiannopoulos alleged that Laura Loomer forced herself on young male campaig..."](/statements/statement-74911740fa2a.md)
+  - About: [Laura Loomer](/entities/person-laura-loomer.md), [Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md), [Brazil](/entities/gpe-brazil.md)
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1)</summary>
@@ -293,7 +355,15 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Milo Yiannopoulos (2)</strong></summary>
+<summary><strong class="section-title">Statements about Milo Yiannopoulos (3)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1)</summary>
+
+- [00:44:57](/episodes/ep-kaWtDuoY_ns.md#t-00-44-57) (Accusation) **Milo Yiannopoulos** (via quoted speech): ["Milo Yiannopoulos alleged that Laura Loomer forced herself on young ma..."](/statements/statement-74911740fa2a.md)
+  - Also about: [Laura Loomer](/entities/person-laura-loomer.md), [Brazil](/entities/gpe-brazil.md)
+
+</details>
 
 <details>
 <summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1)</summary>

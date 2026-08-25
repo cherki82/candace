@@ -1,6 +1,6 @@
 ---
 title: "The Daily Wire"
-description: "The Daily Wire (Organizations) - 148 mentions"
+description: "The Daily Wire (Organizations) - 153 mentions"
 id: "org-the-daily-wire"
 type: "ORG"
 aliases:
@@ -24,12 +24,12 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-the-daily-wire-t-00-40-44">2025-09-18 · 00:41:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-org-the-daily-wire-t-00-50-33">2026-04-14 · 00:51:07</a></strong></div>
-<div><span>Episodes</span><strong>38</strong></div>
-<div><span>Mentions</span><strong>148</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-org-the-daily-wire-t-00-58-52">2026-04-15 · 00:59:28</a></strong></div>
+<div><span>Episodes</span><strong>39</strong></div>
+<div><span>Mentions</span><strong>153</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>49</strong></div>
-<div><span>Relationships</span><strong>43</strong></div>
+<div><span>Relationships</span><strong>44</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -75,6 +75,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-the-daily-wire-t-00-40-43" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-the-daily-wire-t-00-04-21" style="--pulse-height:41%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 7 mentions" title="2026-04-13 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-the-daily-wire-t-00-50-33" style="--pulse-height:8%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-org-the-daily-wire-t-00-08-41" style="--pulse-height:29%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 5 mentions" title="2026-04-15 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -118,6 +119,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-the-daily-wire-t-00-40-43) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-the-daily-wire-t-00-04-21) | 7 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-the-daily-wire-t-00-50-33) | 1 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-the-daily-wire-t-00-08-41) | 5 |
 
 </details>
 </section>
@@ -125,7 +127,27 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (148)</strong></summary>
+<summary><strong class="section-title">Raw mentions (153)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (5 mentions)</summary>
+
+**[00:09:06](/episodes/ep-SubDoZWHARo.md#ent-org-the-daily-wire-t-00-08-41)**
+> "the daily wire to further substantiate the matter"
+
+**[00:09:19](/episodes/ep-SubDoZWHARo.md#ent-org-the-daily-wire-t-00-09-19)**
+> "...(Charlie Kirk)'s passing with Daily Wire, you will note, always has the inside scoop on wh..."
+
+**[00:09:59](/episodes/ep-SubDoZWHARo.md#ent-org-the-daily-wire-t-00-09-59)**
+> "...f concern, the official tells the Daily Wire."
+
+**[00:59:21](/episodes/ep-SubDoZWHARo.md#ent-org-the-daily-wire-t-00-58-52)**
+> "...at they just keep having with the Daily Wire."
+
+**[00:59:28](/episodes/ep-SubDoZWHARo.md#ent-org-the-daily-wire-t-00-58-52)**
+> "Like we know what the Daily Wire is. So when we see that, we go, hmm, that's weird..."
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1 mentions)</summary>
@@ -1011,7 +1033,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>Referenced By (21)</summary>
+<summary>Referenced By (22)</summary>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -1032,6 +1054,13 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:00:45](/episodes/ep-zSKrxIUMNqw.md#t-00-00-00): “two entire years of my life that I have been effectively fighting just to, you know, go on living against the Daily Wire after leaving a job.”
+
+</details>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)** affiliated with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:59:01](/episodes/ep-SubDoZWHARo.md#t-00-58-52): “TPUSA is no longer considered to be Turning Point. It should now be known as Trafficking Point. points. I it's topsy turvy point. It's tumbling point. It's certainly not the organization that I knew. that I supported and that I loved. And it is, it feels like it's been infiltrated by Zionists. I think from the very beginning, we felt that. I think that's honest. That's a fair take. And even in there, like I said, there's this like bizarre partnership that they just keep having with the Daily Wire.”
 
 </details>
 

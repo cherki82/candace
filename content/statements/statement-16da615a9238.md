@@ -4,9 +4,10 @@ description: "\"During the December 2023 demo, Victor Marx asked Corby Hall to m
 statement_id: "statement-16da615a9238"
 speaker: "Victor Marx"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -36,7 +37,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Hall later gave a detailed public firsthand account of the December 2023 demonstration and repeated that Marx discussed a signature series, named larger alternatives, and said FoldAR was the only one that made sense. The subsequent public product confirms the collaboration.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Candace Episode 329 transcript with Corby Hall](https://podcasts.happyscribe.com/candace/victor-marx-the-man-who-weaponized-faith)
+
+*Verified: 2026-08-24T19:11:25.152757*
 
 ---
 

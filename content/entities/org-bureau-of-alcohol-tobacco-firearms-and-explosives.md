@@ -1,6 +1,6 @@
 ---
 title: "Bureau of Alcohol, Tobacco, Firearms and Explosives"
-description: "Bureau of Alcohol, Tobacco, Firearms and Explosives (Organizations) - 25 mentions"
+description: "Bureau of Alcohol, Tobacco, Firearms and Explosives (Organizations) - 31 mentions"
 id: "org-bureau-of-alcohol-tobacco-firearms-and-explosives"
 type: "ORG"
 aliases:
@@ -23,10 +23,10 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-00-00">2026-03-31 · 00:00:00</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-43-09">2026-08-14 · 00:43:09</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -39,6 +39,8 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-33-34" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-50-38" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-37-34" style="--pulse-height:57%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 8 mentions" title="2026-04-14 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-00-40" style="--pulse-height:36%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 5 mentions" title="2026-04-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-10-57" style="--pulse-height:8%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-43-09" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -49,6 +51,8 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-33-34) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-50-38) | 1 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-37-34) | 8 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-00-40) | 5 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-10-57) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-43-09) | 1 |
 
 </details>
@@ -57,13 +61,41 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (31)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:43:09](/episodes/ep-nPhCKwJ6ye8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-43-09)**
 > "the ATF woman,"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1 mentions)</summary>
+
+**[00:11:23](/episodes/ep-kaWtDuoY_ns.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-10-57)**
+> "...hat has been provided why the ATF and the FBI, first of all, the ATF, why they prov..."
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (5 mentions)</summary>
+
+**[00:00:56](/episodes/ep-1mYNOqzAdXs.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-00-40)**
+> "The ATF released their summary, not even really the report."
+
+**[00:39:14](/episodes/ep-1mYNOqzAdXs.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-39-05)**
+> "... way, before we get into this ATF report, something that I forgot to mention to you..."
+
+**[00:41:31](/episodes/ep-1mYNOqzAdXs.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-41-31)**
+> "...o the or regarding rather the ATF. The ATF summary has been released."
+
+**[00:43:05](/episodes/ep-1mYNOqzAdXs.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-42-53)**
+> "... And so they've released this ATF summary, to be clear, and the press is doing what..."
+
+**[00:47:45](/episodes/ep-1mYNOqzAdXs.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-47-25)**
+> "...oing to find out. I'm telling ATF, you're going to find out. I'm going to get a mic..."
 
 </details>
 
@@ -191,7 +223,48 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bureau of Alcohol, Tobacco, Firearms and Explosives (9)</strong></summary>
+<summary><strong class="section-title">Statements by Bureau of Alcohol, Tobacco, Firearms and Explosives (2)</strong></summary>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (2)</summary>
+
+- [00:43:22](/episodes/ep-1mYNOqzAdXs.md#t-00-42-53) [✓] (Claim) ["The ATF firearms examination summary said the cartridge case matched the rifle a..."](/statements/statement-f9db1651a380.md)
+  - About: [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:44:12](/episodes/ep-1mYNOqzAdXs.md#t-00-44-12) [✓] (Claim) ["The ATF firearms examination summary said the bullet-jacket fragments could neit..."](/statements/statement-ade0b6558320.md)
+  - About: [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Bureau of Alcohol, Tobacco, Firearms and Explosives (14)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1)</summary>
+
+- [00:11:23](/episodes/ep-kaWtDuoY_ns.md#t-00-10-57) (Claim) **Richard G. Novak** (via quoted speech): ["Richard G. Novak said the FBI still had not provided forensic data and..."](/statements/statement-686a0f565058.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (4)</summary>
+
+- [00:43:22](/episodes/ep-1mYNOqzAdXs.md#t-00-42-53) (Claim) **Bureau of Alcohol, Tobacco, Firearms and Explosives** (via quoted document): ["The ATF firearms examination summary said the cartridge case matched t..."](/statements/statement-f9db1651a380.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:44:12](/episodes/ep-1mYNOqzAdXs.md#t-00-44-12) (Claim) **Bureau of Alcohol, Tobacco, Firearms and Explosives** (via quoted document): ["The ATF firearms examination summary said the bullet-jacket fragments ..."](/statements/statement-ade0b6558320.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:44:37](/episodes/ep-1mYNOqzAdXs.md#t-00-44-12) (Promise) **Candace Owens**: ["Candace Owens promised to reproduce and examine the prosecution's micr..."](/statements/statement-9b70f9669df5.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:45:07](/episodes/ep-1mYNOqzAdXs.md#t-00-44-45) (Accusation) **Candace Owens**: ["Candace Owens accused authorities of corruptly trying to make the evid..."](/statements/statement-74de2011bca2.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [John F. Kennedy](/entities/person-john-f-kennedy.md)
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (5)</summary>

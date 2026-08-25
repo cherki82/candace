@@ -1,6 +1,6 @@
 ---
 title: "Ghislaine Maxwell"
-description: "Ghislaine Maxwell (People) - 10 mentions"
+description: "Ghislaine Maxwell (People) - 13 mentions"
 id: "person-ghislaine-maxwell"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-28-54">2025-09-15 · 00:29:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-ghislaine-maxwell-t-00-46-50">2026-04-02 · 00:46:50</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-ghislaine-maxwell-t-00-40-13">2026-04-16 · 00:40:34</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -38,6 +38,7 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-ghislaine-maxwell-t-00-36-11" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-ghislaine-maxwell-t-00-41-41" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-ghislaine-maxwell-t-00-46-50" style="--pulse-height:33%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-ghislaine-maxwell-t-00-39-05" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-ghislaine-maxwell-t-00-36-11) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-ghislaine-maxwell-t-00-41-41) | 3 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-ghislaine-maxwell-t-00-46-50) | 1 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-ghislaine-maxwell-t-00-39-05) | 3 |
 
 </details>
 </section>
@@ -57,7 +59,21 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (3 mentions)</summary>
+
+**[00:39:27](/episodes/ep-1mYNOqzAdXs.md#ent-person-ghislaine-maxwell-t-00-39-05)**
+> "Yes, I feel like a lot of this is circulating around Epstein and Robert Maxwell. If the former Mossad agent is to be believed, he's the one who brought Epstein together with Ghislaine (Ghislaine Maxwell), got him involved in arms trafficking first."
+
+**[00:40:13](/episodes/ep-1mYNOqzAdXs.md#ent-person-ghislaine-maxwell-t-00-40-13)**
+> "...at Robert Maxwell, Ghislaine (Ghislaine Maxwell)'s father, was one of the early investors into Ba..."
+
+**[00:40:34](/episodes/ep-1mYNOqzAdXs.md#ent-person-ghislaine-maxwell-t-00-40-13)**
+> "...th seed money from Ghislaine (Ghislaine Maxwell)'s dad, and then he's best friends at this time w..."
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
@@ -133,9 +149,10 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 <summary>Child Of (1)</summary>
 
 - **[Robert Maxwell](/entities/person-robert-maxwell.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:29:10](/episodes/ep-czVBmqZP6Ss.md#t-00-28-54): “Ghislaine's father, Robert Maxwell”
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:40:13](/episodes/ep-1mYNOqzAdXs.md#t-00-40-13): “Robert Maxwell, Ghislaine (Ghislaine Maxwell)'s father”
 
 </details>
 
@@ -145,9 +162,10 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 <summary>Referenced By (1)</summary>
 
 - **[Robert Maxwell](/entities/person-robert-maxwell.md)** parent of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:29:10](/episodes/ep-czVBmqZP6Ss.md#t-00-28-54): “Ghislaine's father, Robert Maxwell”
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:40:13](/episodes/ep-1mYNOqzAdXs.md#t-00-40-13): “Robert Maxwell, Ghislaine (Ghislaine Maxwell)'s father”
 
 </details>
 

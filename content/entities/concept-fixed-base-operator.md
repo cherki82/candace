@@ -1,6 +1,6 @@
 ---
 title: "Fixed-base operator"
-description: "Fixed-base operator (Concepts) - 7 mentions"
+description: "Fixed-base operator (Concepts) - 9 mentions"
 id: "concept-fixed-base-operator"
 type: "CONCEPT"
 aliases:
@@ -21,9 +21,9 @@ Source: [FAA — FBO Industry Profile](https://www.faa.gov/airports/resources/pu
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-fixed-base-operator-t-00-38-59">2026-01-06 · 00:39:19</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-fixed-base-operator-t-00-17-24">2026-03-25 · 00:17:36</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-concept-fixed-base-operator-t-00-32-38">2026-04-15 · 00:32:50</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [FAA — FBO Industry Profile](https://www.faa.gov/airports/resources/pu
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-fixed-base-operator-t-01-03-42" style="--pulse-height:25%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-concept-fixed-base-operator-t-00-09-14" style="--pulse-height:100%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 4 mentions" title="2026-03-24 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-fixed-base-operator-t-00-17-24" style="--pulse-height:25%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-concept-fixed-base-operator-t-00-10-42" style="--pulse-height:50%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [FAA — FBO Industry Profile](https://www.faa.gov/airports/resources/pu
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-fixed-base-operator-t-01-03-42) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-concept-fixed-base-operator-t-00-09-14) | 4 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-fixed-base-operator-t-00-17-24) | 1 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-concept-fixed-base-operator-t-00-10-42) | 2 |
 
 </details>
 </section>
@@ -54,7 +56,18 @@ Source: [FAA — FBO Industry Profile](https://www.faa.gov/airports/resources/pu
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (2 mentions)</summary>
+
+**[00:11:07](/episodes/ep-SubDoZWHARo.md#ent-concept-fixed-base-operator-t-00-10-42)**
+> "which FBO"
+
+**[00:32:50](/episodes/ep-SubDoZWHARo.md#ent-concept-fixed-base-operator-t-00-32-38)**
+> "We tried to move the FBO and try to a different plane. We don't have the t..."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>

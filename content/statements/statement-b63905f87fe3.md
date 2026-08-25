@@ -4,9 +4,10 @@ description: "\"Victor Marx said he traveled to Haiti after an orphanage urgentl
 statement_id: "statement-b63905f87fe3"
 speaker: "Victor Marx"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The statement is attributional and is supported by public mission coverage: Marx traveled to Haiti, presented the mission as protecting orphanages and vulnerable people amid gang threats, and met leaders associated with Cherizier and 400 Mawozo. The source confirms his public explanation, not every detail of the claimed urgent request.
+
+**Confidence:** High
+
+**Sources:**
+
+- [CBN News: Victor Marx Haiti mission](https://cbn.com/news/world/victor-marx-takes-high-risk-mission-haiti-protect-vulnerable-communities-amid-gang)
+
+*Verified: 2026-08-24T19:11:26.636165*
 
 ---
 

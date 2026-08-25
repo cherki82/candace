@@ -1,6 +1,6 @@
 ---
 title: "Arizona"
-description: "Arizona (Places) - 215 mentions"
+description: "Arizona (Places) - 225 mentions"
 id: "gpe-arizona"
 type: "GPE"
 aliases:
@@ -21,11 +21,11 @@ Source: [State of Arizona official website](https://az.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-arizona-t-01-11-09">2025-09-16 · 01:11:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-arizona-t-00-33-55">2026-03-26 · 00:34:06</a></strong></div>
-<div><span>Episodes</span><strong>50</strong></div>
-<div><span>Mentions</span><strong>215</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-arizona-t-00-19-36">2026-04-21 · 00:20:49</a></strong></div>
+<div><span>Episodes</span><strong>53</strong></div>
+<div><span>Mentions</span><strong>225</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>21</strong></div>
+<div><span>Statements about</span><strong>22</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -84,6 +84,9 @@ Source: [State of Arizona official website](https://az.gov/)
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-arizona-t-00-33-24" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-arizona-t-00-11-03" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-arizona-t-00-09-23" style="--pulse-height:21%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 4 mentions" title="2026-03-26 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-arizona-t-00-46-39" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-arizona-t-00-24-11" style="--pulse-height:16%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 3 mentions" title="2026-04-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-arizona-t-00-08-35" style="--pulse-height:32%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 6 mentions" title="2026-04-21 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -139,6 +142,9 @@ Source: [State of Arizona official website](https://az.gov/)
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-arizona-t-00-33-24) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-arizona-t-00-11-03) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-arizona-t-00-09-23) | 4 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-arizona-t-00-46-39) | 1 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-arizona-t-00-24-11) | 3 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-arizona-t-00-08-35) | 6 |
 
 </details>
 </section>
@@ -146,7 +152,52 @@ Source: [State of Arizona official website](https://az.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (215)</strong></summary>
+<summary><strong class="section-title">Raw mentions (225)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (6 mentions)</summary>
+
+**[00:09:04](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-arizona-t-00-08-35)**
+> "... to take that footage back to Arizona."
+
+**[00:09:17](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-arizona-t-00-09-17)**
+> "...pening that on his desktop in Arizona, back in Scottsdale. That doesn't make sense to m..."
+
+**[00:15:00](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-arizona-t-00-09-17)**
+> "...d here is Charlie at Northern Arizona University on October 15th, 2024."
+
+**[00:18:21](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-arizona-t-00-09-17)**
+> "... a dinner back in Scottsdale, Arizona. Again, this is going to be late 2016."
+
+**[00:19:36](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-arizona-t-00-19-36)**
+> "Arizona's beauty queen arrives fashionably late to the dinn..."
+
+**[00:20:49](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-arizona-t-00-19-36)**
+> "...as well. And look, she's Miss Arizona, right?"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (3 mentions)</summary>
+
+**[00:24:24](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-arizona-t-00-24-11)**
+> "...er hometown. It's in Phoenix, Arizona. It's in her backyard. You should know that you w..."
+
+**[00:26:31](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-arizona-t-00-24-11)**
+> "Here is the local Arizona Republic, a high school group invited Erika Kirk ..."
+
+**[00:35:15](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-arizona-t-00-34-43)**
+> "... One heading to Las Vegas and Arizona for greetings and speeches on no tax on tips, a w..."
+
+</details>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
+
+**[00:46:58](/episodes/ep-SubDoZWHARo.md#ent-gpe-arizona-t-00-46-39)**
+> "page Arizona"
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (4 mentions)</summary>
@@ -1184,7 +1235,15 @@ Source: [State of Arizona official website](https://az.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Arizona (21)</strong></summary>
+<summary><strong class="section-title">Statements about Arizona (22)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>
+
+- [00:09:04](/episodes/ep-xi8SYJTUXPM.md#t-00-08-35) (Claim) **Candace Owens**: ["Terryl Farnsworth was able to take the camera footage back to Arizona."](/statements/statement-9eb838d875cb.md)
+  - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (3)</summary>

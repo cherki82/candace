@@ -1,6 +1,6 @@
 ---
 title: "Ron DeSantis"
-description: "Ron DeSantis (People) - 1 mention"
+description: "Ron DeSantis (People) - 2 mentions"
 id: "person-ron-desantis"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Ron DeSantis | Executive Office of the Governor](https://www.flgov.com/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-person-ron-desantis-t-00-13-51">2026-03-17 · 00:14:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-person-ron-desantis-t-00-13-51">2026-03-17 · 00:14:12</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-ron-desantis-t-00-47-30">2026-04-20 · 00:47:30</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -36,12 +36,14 @@ Source: [Ron DeSantis | Executive Office of the Governor](https://www.flgov.com/
 <p>Highest activity: <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-ron-desantis-t-00-13-51">WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-ron-desantis-t-00-13-51" style="--pulse-height:100%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-ron-desantis-t-00-47-30" style="--pulse-height:100%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-ron-desantis-t-00-13-51) | 1 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-ron-desantis-t-00-47-30) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [Ron DeSantis | Executive Office of the Governor](https://www.flgov.com/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1 mentions)</summary>
+
+**[00:47:30](/episodes/ep-kaWtDuoY_ns.md#ent-person-ron-desantis-t-00-47-30)**
+> "...bout people like she did when DeSantis was running and Trump (Donald Trump) and his camp..."
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Tim Ballard"
-description: "Tim Ballard (People) - 15 mentions"
+description: "Tim Ballard (People) - 16 mentions"
 id: "person-tim-ballard"
 type: "PERSON"
 categories:
@@ -17,9 +17,9 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-tim-ballard-t-00-05-38">2025-09-30 · 00:05:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-person-tim-ballard-t-00-28-12">2026-01-16 · 00:28:41</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-person-tim-ballard-t-00-47-55">2026-04-15 · 00:47:55</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -36,6 +36,7 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-tim-ballard-t-00-35-11" style="--pulse-height:75%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-tim-ballard-t-00-16-42" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-tim-ballard-t-00-14-50" style="--pulse-height:75%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-person-tim-ballard-t-00-47-55" style="--pulse-height:25%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-tim-ballard-t-00-35-11) | 3 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-tim-ballard-t-00-16-42) | 4 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-tim-ballard-t-00-14-50) | 3 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-tim-ballard-t-00-47-55) | 1 |
 
 </details>
 </section>
@@ -54,7 +56,15 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
+
+**[00:47:55](/episodes/ep-SubDoZWHARo.md#ent-person-tim-ballard-t-00-47-55)**
+> "Tim Ballard"
+
+</details>
 
 <details>
 <summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (3 mentions)</summary>

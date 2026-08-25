@@ -4,9 +4,10 @@ description: "\"An ATF firearm trace seeks the first retail purchaser of a firea
 statement_id: "statement-018dc0981892"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -32,7 +33,21 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+ATF confirms that tracing follows a firearm distribution chain to identify a retail purchaser and develop investigative leads. The statement overstates the trigger as a firearm determined to have been involved in a crime: current ATF assessment says agencies may request traces for any investigative reason and not all firearms traced are used in crime.
+
+**Confidence:** High
+
+**Sources:**
+
+- [ATF National Tracing Center](https://www.atf.gov/firearms/tools-services-law-enforcement/national-tracing-center)
+- [ATF NFCTA Volume Three](https://www.atf.gov/firearms/national-firearms-commerce-and-trafficking-assessment-nfcta-firearms-trafficking-investigations-volume-three)
+
+*Verified: 2026-08-24T19:11:29.092934*
 
 ---
 

@@ -4,9 +4,10 @@ description: "\"Victor Marx married Corby Hall and Hall's partner in a hotel roo
 statement_id: "statement-803571cc710b"
 speaker: "Corby Hall"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Hall later confirmed that Marx officiated the couple ceremony in Las Vegas during SHOT Show. Hall also said Marx lacked Nevada credentials and could not validly complete the marriage certificate, so the statement is accurate as a ceremony description but potentially misleading if read as a legally completed marriage on January 24.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Ryan Schuiling Live: Corby Hall interview part 2](https://www.iheart.com/podcast/1248-ryan-schuiling-live-166438128/episode/exclusive-corby-hall-former-victor-marx-333272392/)
+
+*Verified: 2026-08-24T19:11:25.612340*
 
 ---
 

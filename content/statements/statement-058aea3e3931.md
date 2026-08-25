@@ -4,9 +4,10 @@ description: "\"The United States sent many guns intended for Iranian protesters
 statement_id: "statement-058aea3e3931"
 speaker: "Donald J. Trump"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Trump publicly stated that the United States sent many guns for Iranian protesters and that intermediaries kept them. Contemporary reporting records the statement, but Kurdish groups denied receiving or diverting the weapons and a U.S. defense source reportedly said the weapons never left American custody. The presidential assertion is verified; the underlying transfer remains disputed.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Associated Press: Trump says guns for Iranian protesters were kept](https://apnews.com/article/93f8ec25d61b58882b25d34bda08d0f9)
+
+*Verified: 2026-08-24T19:11:29.299638*
 
 ---
 

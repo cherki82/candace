@@ -1,11 +1,12 @@
 ---
 title: "David Horowitz Freedom Center"
-description: "David Horowitz Freedom Center (Organizations) - 5 mentions"
+description: "David Horowitz Freedom Center (Organizations) - 6 mentions"
 id: "org-david-horowitz-freedom-center"
 type: "ORG"
 aliases:
   - "Horowitz Freedom Center"
   - "Freedom Center"
+  - "David Horowitz Center"
 categories:
   - "advocacy organization"
   - "conservative activism"
@@ -13,19 +14,19 @@ categories:
 
 _Type: Organizations_
 
-**Also known as:** Horowitz Freedom Center, Freedom Center
+**Also known as:** Horowitz Freedom Center, Freedom Center, David Horowitz Center
 
 **Categories:** advocacy organization, conservative activism
 
 **Entity verification:** verified
-> Official organization page confirms the canonical name.
-Source: [About Us | David Horowitz Freedom Center](https://www.dhfc.org/about-us/)
+> Canonical organization is the David Horowitz Freedom Center; transcript's David Horowitz Center is an informal shortened reference.
+Source: [David Horowitz Freedom Center - About](https://www.dhfcblog.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-david-horowitz-freedom-center-t-00-31-25">2025-10-01 · 00:31:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-david-horowitz-freedom-center-t-00-29-40">2026-01-07 · 00:29:57</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-david-horowitz-freedom-center-t-00-37-28">2026-04-20 · 00:37:28</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -41,6 +42,7 @@ Source: [About Us | David Horowitz Freedom Center](https://www.dhfc.org/about-us
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-david-horowitz-freedom-center-t-00-08-56" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-581dILVcEE4.md#ent-org-david-horowitz-freedom-center-t-00-46-30" style="--pulse-height:100%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-david-horowitz-freedom-center-t-00-29-40" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-david-horowitz-freedom-center-t-00-37-28" style="--pulse-height:100%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +53,7 @@ Source: [About Us | David Horowitz Freedom Center](https://www.dhfc.org/about-us
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-david-horowitz-freedom-center-t-00-08-56) | 1 |
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-david-horowitz-freedom-center-t-00-46-30) | 1 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-david-horowitz-freedom-center-t-00-29-40) | 1 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-david-horowitz-freedom-center-t-00-37-28) | 1 |
 
 </details>
 </section>
@@ -58,7 +61,15 @@ Source: [About Us | David Horowitz Freedom Center](https://www.dhfc.org/about-us
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1 mentions)</summary>
+
+**[00:37:28](/episodes/ep-kaWtDuoY_ns.md#ent-org-david-horowitz-freedom-center-t-00-37-28)**
+> "...do one of my first events the David Horowitz Center and we happened to be on the same plane she was c..."
+
+</details>
 
 <details>
 <summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1 mentions)</summary>

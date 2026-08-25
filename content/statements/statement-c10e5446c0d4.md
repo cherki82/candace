@@ -4,9 +4,10 @@ description: "\"Victor Marx announced his Colorado gubernatorial run at a Charli
 statement_id: "statement-c10e5446c0d4"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Contemporaneous reporting confirms Marx spoke at the September 14 Charlie Kirk memorial and dropped explicit hints that he planned to seek the governorship. It also dates his formal campaign announcement to October 1, so calling the memorial itself the announcement overstates what occurred there.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Colorado Politics: Victor Marx joins gubernatorial primary](https://www.coloradopolitics.com/2025/10/03/ministry-founder-high-risk-missionary-victor-marx-joins-colorados-republican-gubernatorial-primary/)
+
+*Verified: 2026-08-24T19:11:23.743734*
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "COVID-19"
-description: "COVID-19 (Concepts) - 19 mentions"
+description: "COVID-19 (Concepts) - 20 mentions"
 id: "concept-covid-19"
 type: "CONCEPT"
 aliases:
@@ -25,8 +25,8 @@ Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-concept-covid-19-t-00-29-41">2026-01-05 · 00:29:49</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-covid-19-t-01-30-40">2026-08-14 · 01:30:40</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -45,6 +45,7 @@ Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-covid-19-t-00-24-58" style="--pulse-height:25%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-covid-19-t-00-06-20" style="--pulse-height:25%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-covid-19-t-00-53-07" style="--pulse-height:50%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-covid-19-t-00-59-45" style="--pulse-height:25%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-covid-19-t-01-29-47" style="--pulse-height:75%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -59,6 +60,7 @@ Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-concept-covid-19-t-00-24-58) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-concept-covid-19-t-00-06-20) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-concept-covid-19-t-00-53-07) | 2 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-concept-covid-19-t-00-59-45) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-covid-19-t-01-29-47) | 3 |
 
 </details>
@@ -67,7 +69,7 @@ Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -80,6 +82,14 @@ Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics
 
 **[01:30:40](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-covid-19-t-01-30-40)**
 > "...t that was my first step with covid i don't like the way it's being pushed it shouldn..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1 mentions)</summary>
+
+**[00:59:45](/episodes/ep-kaWtDuoY_ns.md#ent-concept-covid-19-t-00-59-45)**
+> "... often. I remember way before COVID, she went after the anti-vaxxers, aka yours truly..."
 
 </details>
 

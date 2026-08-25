@@ -1,6 +1,6 @@
 ---
 title: "Mitt Romney"
-description: "Mitt Romney (People) - 4 mentions"
+description: "Mitt Romney (People) - 7 mentions"
 id: "person-mitt-romney"
 type: "PERSON"
 categories:
@@ -19,11 +19,11 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-person-mitt-romney-t-00-03-24">2026-04-01 · 00:03:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-person-mitt-romney-t-00-25-43">2026-04-01 · 00:25:56</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-mitt-romney-t-00-40-51">2026-04-16 · 00:40:51</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -33,12 +33,14 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 <p>Highest activity: <a href="/episodes/ep-rupRLXmSndU.md#ent-person-mitt-romney-t-00-03-24">Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-mitt-romney-t-00-03-24" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 4 mentions" title="2026-04-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-mitt-romney-t-00-40-13" style="--pulse-height:75%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-mitt-romney-t-00-03-24) | 4 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-mitt-romney-t-00-40-13) | 3 |
 
 </details>
 </section>
@@ -46,7 +48,21 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (3 mentions)</summary>
+
+**[00:40:13](/episodes/ep-1mYNOqzAdXs.md#ent-person-mitt-romney-t-00-40-13)**
+> "And they found more use to him blackmailing public politicians. But originally it was arms trafficking. I'm bringing this up to you because something that I forgot to mention is that Robert Maxwell, Ghislaine (Ghislaine Maxwell)'s father, was one of the early investors into Bain Capital, Mitt Romney's company."
+
+**[00:40:45](/episodes/ep-1mYNOqzAdXs.md#ent-person-mitt-romney-t-00-40-13)**
+> "Mitt Romney, they're a Boston consulting group. They're havin..."
+
+**[00:40:51](/episodes/ep-1mYNOqzAdXs.md#ent-person-mitt-romney-t-00-40-51)**
+> "...ering this back in 2012. When Mitt Romney was running, they learned that he was struggling ..."
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (4 mentions)</summary>
@@ -187,7 +203,15 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mitt Romney (1)</strong></summary>
+<summary><strong class="section-title">Statements about Mitt Romney (2)</strong></summary>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1)</summary>
+
+- [00:40:51](/episodes/ep-1mYNOqzAdXs.md#t-00-40-51) (Citation) **Candace Owens**: ["Candace Owens cited a 2012 Los Angeles Times report that Bain Capital ..."](/statements/statement-2f552f7e6123.md)
+  - Also about: [Los Angeles Times](/entities/org-los-angeles-times.md), [Bain Capital](/entities/org-bain-capital.md), [Robert Maxwell](/entities/person-robert-maxwell.md)
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1)</summary>

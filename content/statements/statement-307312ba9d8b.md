@@ -4,9 +4,10 @@ description: "\"FoldAR released the Victor Marx Signature Series rifle at the 20
 statement_id: "statement-307312ba9d8b"
 speaker: "Corby Hall"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -36,7 +37,21 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+FoldAR publicly marketed a Victor Marx Signature Series, contemporaneous material places the Marx team at SHOT Show 2024, and Hall later described preparing and displaying the series there. Hall is the principal source for the claim that the Marxes spent several hours at the booth on all four days.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [FoldAR post: Victor Marx Signature Series](https://www.linkedin.com/posts/foldar_our-victor-marx-signature-series-is-available-activity-7193980919114788864-kM4U)
+- [Candace Episode 329 transcript with Corby Hall](https://podcasts.happyscribe.com/candace/victor-marx-the-man-who-weaponized-faith)
+
+*Verified: 2026-08-24T19:11:25.373004*
 
 ---
 

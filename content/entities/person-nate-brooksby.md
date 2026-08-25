@@ -1,6 +1,6 @@
 ---
 title: "Nate Brooksby"
-description: "Nate Brooksby (People) - 23 mentions"
+description: "Nate Brooksby (People) - 24 mentions"
 id: "person-nate-brooksby"
 type: "PERSON"
 aliases:
@@ -18,16 +18,16 @@ _Type: People_
 **Categories:** Charlie Kirk assassination case, law enforcement
 
 **Entity verification:** verified
-> Official Utah public-meeting material identifies Washington County Sheriff Nate Brooksby; transcript uses the title Sheriff Brooksby.
-Source: [Leeds Town Council Agenda](https://www.utah.gov/pmn/files/1233197.pdf)
+> Washington County's official records identify Nate Brooksby as sheriff; this resolves the transcript's surname-only Sheriff Brooksby.
+Source: [Washington County Campaign Financial Reports](https://www.washco.utah.gov/departments/clerk/elections/campaign-financial-reports/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-nate-brooksby-t-00-08-57">2025-09-29 · 00:08:57</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-nate-brooksby-t-01-38-59">2026-08-14 · 01:39:03</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -40,6 +40,7 @@ Source: [Leeds Town Council Agenda](https://www.utah.gov/pmn/files/1233197.pdf)
 <a href="/episodes/ep-sImMM04XdWY.md#ent-person-nate-brooksby-t-00-40-42" style="--pulse-height:11%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-nate-brooksby-t-00-28-14" style="--pulse-height:89%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 8 mentions" title="2026-03-30 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-nate-brooksby-t-00-38-00" style="--pulse-height:44%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 4 mentions" title="2026-04-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-nate-brooksby-t-00-02-47" style="--pulse-height:11%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-nate-brooksby-t-01-38-59" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -50,6 +51,7 @@ Source: [Leeds Town Council Agenda](https://www.utah.gov/pmn/files/1233197.pdf)
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-nate-brooksby-t-00-40-42) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-nate-brooksby-t-00-28-14) | 8 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-nate-brooksby-t-00-38-00) | 4 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-nate-brooksby-t-00-02-47) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-nate-brooksby-t-01-38-59) | 1 |
 
 </details>
@@ -58,13 +60,21 @@ Source: [Leeds Town Council Agenda](https://www.utah.gov/pmn/files/1233197.pdf)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[01:39:03](/episodes/ep-nPhCKwJ6ye8.md#ent-person-nate-brooksby-t-01-38-59)**
 > "... happened in terms of Sheriff Brooksby who was present there and gave a press conference..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1 mentions)</summary>
+
+**[00:03:07](/episodes/ep-kaWtDuoY_ns.md#ent-person-nate-brooksby-t-00-02-47)**
+> "...and also I should say Sheriff Brooksby (first name unverified) did admit that rather the..."
 
 </details>
 
@@ -300,7 +310,15 @@ Source: [Leeds Town Council Agenda](https://www.utah.gov/pmn/files/1233197.pdf)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Nate Brooksby (6)</strong></summary>
+<summary><strong class="section-title">Statements about Nate Brooksby (7)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1)</summary>
+
+- [00:03:07](/episodes/ep-kaWtDuoY_ns.md#t-00-02-47) (Accusation) **Candace Owens** (via paraphrase): ["Candace Owens said Sheriff Nate Brooksby admitted Tyler Robinson was e..."](/statements/statement-f86ed8b94b50.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>

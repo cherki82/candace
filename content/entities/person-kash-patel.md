@@ -1,6 +1,6 @@
 ---
 title: "Kash Patel"
-description: "Kash Patel (People) - 176 mentions"
+description: "Kash Patel (People) - 181 mentions"
 id: "person-kash-patel"
 type: "PERSON"
 aliases:
@@ -24,9 +24,9 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-kash-patel-t-00-08-42">2025-09-17 · 00:09:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-kash-patel-t-00-37-20">2026-04-13 · 00:37:29</a></strong></div>
-<div><span>Episodes</span><strong>48</strong></div>
-<div><span>Mentions</span><strong>176</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-kash-patel-t-00-52-39">2026-04-21 · 00:53:00</a></strong></div>
+<div><span>Episodes</span><strong>50</strong></div>
+<div><span>Mentions</span><strong>181</strong></div>
 <div><span>Statements by</span><strong>11</strong></div>
 <div><span>Statements about</span><strong>32</strong></div>
 <div><span>Relationships</span><strong>33</strong></div>
@@ -85,6 +85,8 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-kash-patel-t-00-05-14" style="--pulse-height:31%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 4 mentions" title="2026-04-01 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-kash-patel-t-00-01-20" style="--pulse-height:23%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 3 mentions" title="2026-04-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-kash-patel-t-00-35-25" style="--pulse-height:15%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-kash-patel-t-00-09-30" style="--pulse-height:23%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 3 mentions" title="2026-04-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-kash-patel-t-00-51-30" style="--pulse-height:15%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -138,6 +140,8 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-kash-patel-t-00-05-14) | 4 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-kash-patel-t-00-01-20) | 3 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-kash-patel-t-00-35-25) | 2 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-kash-patel-t-00-09-30) | 3 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-kash-patel-t-00-51-30) | 2 |
 
 </details>
 </section>
@@ -145,7 +149,32 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (176)</strong></summary>
+<summary><strong class="section-title">Raw mentions (181)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (2 mentions)</summary>
+
+**[00:51:55](/episodes/ep-xi8SYJTUXPM.md#ent-person-kash-patel-t-00-51-30)**
+> "... Nay writes, I'm wondering if Kash Patel's country singing superstar girlfriend will write s..."
+
+**[00:53:00](/episodes/ep-xi8SYJTUXPM.md#ent-person-kash-patel-t-00-52-39)**
+> "So I feel like Kash Patel is right now suing—is it The Atlantic?—because th..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (3 mentions)</summary>
+
+**[00:09:30](/episodes/ep-kaWtDuoY_ns.md#ent-person-kash-patel-t-00-09-30)**
+> "... is their summary reports. I, Kash Patel, say that."
+
+**[00:14:53](/episodes/ep-kaWtDuoY_ns.md#ent-person-kash-patel-t-00-14-40)**
+> "...e SBI is waiting for the FBI, Kash Patel's agency."
+
+**[00:14:58](/episodes/ep-kaWtDuoY_ns.md#ent-person-kash-patel-t-00-14-40)**
+> "...re's a picture man just trust Kash Patel he could very much be trusted take a listen"
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2 mentions)</summary>

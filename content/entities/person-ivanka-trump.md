@@ -1,6 +1,6 @@
 ---
 title: "Ivanka Trump"
-description: "Ivanka Trump (People) - 12 mentions"
+description: "Ivanka Trump (People) - 13 mentions"
 id: "person-ivanka-trump"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Ivanka Trump | Archived White House](https://trumpwhitehouse.archives.g
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-ivanka-trump-t-01-06-20">2025-10-28 · 01:06:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-ivanka-trump-t-00-06-20">2026-03-12 · 00:06:40</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-ivanka-trump-t-00-07-27">2026-04-16 · 00:07:51</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -40,6 +40,7 @@ Source: [Ivanka Trump | Archived White House](https://trumpwhitehouse.archives.g
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-person-ivanka-trump-t-00-41-57" style="--pulse-height:14%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-ivanka-trump-t-00-31-07" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 7 mentions" title="2026-01-20 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-ivanka-trump-t-00-06-20" style="--pulse-height:14%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-ivanka-trump-t-00-07-27" style="--pulse-height:14%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [Ivanka Trump | Archived White House](https://trumpwhitehouse.archives.g
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-person-ivanka-trump-t-00-41-57) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-ivanka-trump-t-00-31-07) | 7 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-ivanka-trump-t-00-06-20) | 1 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-ivanka-trump-t-00-07-27) | 1 |
 
 </details>
 </section>
@@ -57,7 +59,15 @@ Source: [Ivanka Trump | Archived White House](https://trumpwhitehouse.archives.g
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1 mentions)</summary>
+
+**[00:07:51](/episodes/ep-1mYNOqzAdXs.md#ent-person-ivanka-trump-t-00-07-27)**
+> "I instantly. assess that this was taking place on Sunday because Ivanka's there and so is Ivanka's daughter and that tells us that obviously it's not Saturday because Ivanka is they're orthodox."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>

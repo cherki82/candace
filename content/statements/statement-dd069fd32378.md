@@ -4,9 +4,10 @@ description: "\"Greg Laurie and Harvest Christian Fellowship have been accused o
 statement_id: "statement-dd069fd32378"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Federal lawsuits expressly accuse a former Harvest pastor of sexually abusing and trafficking Romanian children and name Harvest Christian Fellowship, Greg Laurie, and other leaders over alleged negligence and failure to prevent abuse. This verifies that the accusations exist; it does not adjudicate guilt, and Harvest denies the claims against the church and Laurie.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Associated Press: Harvest pastor trafficking lawsuits](https://apnews.com/article/california-megachurch-pastor-child-sex-abuse-lawsuit-f1a8c9e20021387e387ec4240a330f83)
+
+*Verified: 2026-08-24T19:11:29.516572*
 
 ---
 

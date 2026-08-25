@@ -1,6 +1,6 @@
 ---
 title: "Michael Aquino"
-description: "Michael Aquino (People) - 8 mentions"
+description: "Michael Aquino (People) - 10 mentions"
 id: "person-michael-aquino"
 type: "PERSON"
 categories:
@@ -19,11 +19,11 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-michael-aquino-t-01-20-11">2026-01-09 · 01:20:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-michael-aquino-t-01-40-02">2026-01-29 · 01:40:02</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-person-michael-aquino-t-00-48-35">2026-04-15 · 00:49:03</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -36,6 +36,7 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-michael-aquino-t-00-20-56" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 5 mentions" title="2026-01-13 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#t-00-48-12" style="--pulse-height:20%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-michael-aquino-t-01-40-02" style="--pulse-height:20%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-person-michael-aquino-t-00-48-35" style="--pulse-height:40%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-michael-aquino-t-00-20-56) | 5 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#t-00-48-12) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-michael-aquino-t-01-40-02) | 1 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-michael-aquino-t-00-48-35) | 2 |
 
 </details>
 </section>
@@ -52,7 +54,18 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (2 mentions)</summary>
+
+**[00:48:35](/episodes/ep-SubDoZWHARo.md#ent-person-michael-aquino-t-00-48-35)**
+> "Michael Aquino"
+
+**[00:49:03](/episodes/ep-SubDoZWHARo.md#ent-person-michael-aquino-t-00-48-35)**
+> "...was accused, I'm referring to Michael Aquino, was accused of abusing children at army child de..."
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
@@ -132,10 +145,11 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 <summary>Founded (1)</summary>
 
 - **[Temple of Set](/entities/org-temple-of-set.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:23:20](/episodes/ep-ZZGWo6oDscc.md#t-00-22-52): “So I'm going to now let Michael Aquino, who's head of PSYOPs, along with Paul Vallely, who's a board member, tell you what the goals were when he established the Temple of Set. Take a listen.”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:59](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-59): “then he started the Temple of Set”
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:35](/episodes/ep-SubDoZWHARo.md#t-00-48-35): “Michael Aquino, a Satanist and founder of the Temple of Set.”
 
 </details>
 
@@ -177,10 +191,11 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 </details>
 
 - **[Temple of Set](/entities/org-temple-of-set.md)** founded by this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:23:20](/episodes/ep-ZZGWo6oDscc.md#t-00-22-52): “So I'm going to now let Michael Aquino, who's head of PSYOPs, along with Paul Vallely, who's a board member, tell you what the goals were when he established the Temple of Set. Take a listen.”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:59](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-59): “then he started the Temple of Set”
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:35](/episodes/ep-SubDoZWHARo.md#t-00-48-35): “Michael Aquino, a Satanist and founder of the Temple of Set.”
 
 </details>
 
@@ -230,7 +245,18 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Michael Aquino (6)</strong></summary>
+<summary><strong class="section-title">Statements about Michael Aquino (8)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (2)</summary>
+
+- [00:48:35](/episodes/ep-SubDoZWHARo.md#t-00-48-35) (Claim) **Candace Owens**: ["Turning Point USA adviser Paul E. Vallely was a retired Army general w..."](/statements/statement-ad31b6ca9398.md)
+  - Also about: [Paul E. Vallely](/entities/person-paul-e-vallely.md), [Turning Point USA](/entities/org-turning-point-usa.md), [United States Army](/entities/org-united-states-army.md)
+
+- [00:49:03](/episodes/ep-SubDoZWHARo.md#t-00-48-35) (Citation) **Candace Owens**: ["Michael Aquino was accused of abusing children at Army child-developme..."](/statements/statement-86eeeb88c9d0.md)
+  - Also about: [United States Army](/entities/org-united-states-army.md)
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>

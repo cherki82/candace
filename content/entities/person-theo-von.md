@@ -1,6 +1,6 @@
 ---
 title: "Theo Von"
-description: "Theo Von (People) - 14 mentions"
+description: "Theo Von (People) - 17 mentions"
 id: "person-theo-von"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-theo-von-t-00-46-32">2025-10-02 · 00:46:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-theo-von-t-00-23-57">2026-03-17 · 00:24:13</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-theo-von-t-00-53-47">2026-04-16 · 00:54:03</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -41,6 +41,7 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-theo-von-t-01-01-12" style="--pulse-height:20%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-theo-von-t-01-30-41" style="--pulse-height:20%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-theo-von-t-00-00-42" style="--pulse-height:100%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 5 mentions" title="2026-03-17 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-theo-von-t-00-52-31" style="--pulse-height:60%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-theo-von-t-01-01-12) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-theo-von-t-01-30-41) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-theo-von-t-00-00-42) | 5 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-theo-von-t-00-52-31) | 3 |
 
 </details>
 </section>
@@ -59,7 +61,21 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (3 mentions)</summary>
+
+**[00:52:31](/episodes/ep-1mYNOqzAdXs.md#ent-person-theo-von-t-00-52-31)**
+> "i mean this is the guy that sits down with Bibi (Benjamin Netanyahu) and then tells us that Theo Von is a threat to civilization okay he like literally interviews mass murderers like Zelenskyy (Volodymyr Zelenskyy) on his show and he's like these people are great what we really need to do is deal with Theo Von who's the happiest kindest person Theo Von is essentially the class clown loves everybody left and right makes everybody laugh and feel good and Ben Shapiro of course could find a problem with the Elon,"
+
+**[00:53:20](/episodes/ep-1mYNOqzAdXs.md#ent-person-theo-von-t-00-53-08)**
+> "part which is what Theo Von has that's what he hates about Theo Von and he wa..."
+
+**[00:54:03](/episodes/ep-1mYNOqzAdXs.md#ent-person-theo-von-t-00-53-47)**
+> "... they're like taking shots at Theo Von, which is just dumb, like objectively on its face..."
+
+</details>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (5 mentions)</summary>
@@ -151,7 +167,26 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Criticized By (1)</summary>
+
+- **[Ben Shapiro](/entities/person-ben-shapiro.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:52:31](/episodes/ep-1mYNOqzAdXs.md#t-00-52-31): “i mean this is the guy that sits down with Bibi (Benjamin Netanyahu) and then tells us that Theo Von is a threat to civilization”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:52:31](/episodes/ep-1mYNOqzAdXs.md#t-00-52-31): “i mean this is the guy that sits down with Bibi (Benjamin Netanyahu) and then tells us that Theo Von is a threat to civilization”
+
+</details>
 
 - **[Israel](/entities/gpe-israel.md)** target of criticism from this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

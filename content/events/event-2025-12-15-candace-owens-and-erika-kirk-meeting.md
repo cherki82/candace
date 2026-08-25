@@ -11,7 +11,7 @@ date: "2025-12-15"
 
 > Candace Owens and Erika Kirk meeting
 
-## Mentioned In (4 times)
+## Mentioned In (5 times)
 
 ### 1. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
 
@@ -44,3 +44,11 @@ date: "2025-12-15"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(280);return false;">▶️ Play</a>
 
 > when I sat down with Erica Kirk on December 15th, I had a very short list of questions
+
+### 5. EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His ...
+
+**Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
+**Timestamp:** [00:08:50](/episodes/ep-kaWtDuoY_ns.md#t-00-08-50) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(530);return false;">▶️ Play</a>
+
+> That is what I was told by Erika's lawyer on December 15th.

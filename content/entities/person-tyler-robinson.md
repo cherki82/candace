@@ -1,6 +1,6 @@
 ---
 title: "Tyler Robinson"
-description: "Tyler Robinson (People) - 467 mentions"
+description: "Tyler Robinson (People) - 511 mentions"
 id: "person-tyler-robinson"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tyler-robinson-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-04-01-26">2026-08-14 · 04:01:26</a></strong></div>
-<div><span>Episodes</span><strong>59</strong></div>
-<div><span>Mentions</span><strong>467</strong></div>
-<div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>207</strong></div>
-<div><span>Relationships</span><strong>17</strong></div>
+<div><span>Episodes</span><strong>63</strong></div>
+<div><span>Mentions</span><strong>511</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>230</strong></div>
+<div><span>Relationships</span><strong>21</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -94,6 +94,10 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-tyler-robinson-t-00-17-13" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-tyler-robinson-t-00-00-26" style="--pulse-height:26%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 27 mentions" title="2026-04-13 · 27 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-person-tyler-robinson-t-00-38-16" style="--pulse-height:8%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-person-tyler-robinson-t-00-55-02" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-tyler-robinson-t-00-41-31" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-00-31" style="--pulse-height:30%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 31 mentions" title="2026-04-20 · 31 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-tyler-robinson-t-00-08-35" style="--pulse-height:9%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 9 mentions" title="2026-04-21 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-00-24-41" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 103 mentions" title="2026-08-14 · 103 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -158,6 +162,10 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-tyler-robinson-t-00-17-13) | 2 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-tyler-robinson-t-00-00-26) | 27 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-tyler-robinson-t-00-38-16) | 1 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-tyler-robinson-t-00-55-02) | 1 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-tyler-robinson-t-00-41-31) | 3 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-00-31) | 31 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-tyler-robinson-t-00-08-35) | 9 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-00-24-41) | 103 |
 
 </details>
@@ -166,7 +174,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (467)</strong></summary>
+<summary><strong class="section-title">Raw mentions (511)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (103 mentions)</summary>
@@ -479,6 +487,158 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 **[04:01:26](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-04-01-26)**
 > "...more people involved and that Tyler Robinson has been set up and that none of the evidence tha..."
+
+</details>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (9 mentions)</summary>
+
+**[00:08:55](/episodes/ep-xi8SYJTUXPM.md#ent-person-tyler-robinson-t-00-08-35)**
+> "...s. That should have been like Tyler Robinson's phone or Lance Twiggs's phone secured by the feds..."
+
+**[00:10:49](/episodes/ep-xi8SYJTUXPM.md#ent-person-tyler-robinson-t-00-10-38)**
+> "...o stick to that. I think that Tyler Robinson's defense team, if you are watching, and I hope you..."
+
+**[00:28:15](/episodes/ep-xi8SYJTUXPM.md#ent-person-tyler-robinson-t-00-27-49)**
+> "...net have falsely claimed that Tyler Robinson's family turned him in and that they have falsely c..."
+
+**[00:28:34](/episodes/ep-xi8SYJTUXPM.md#ent-person-tyler-robinson-t-00-28-34)**
+> "...rging document, one sees that Robinson's parents did not recognize the gun."
+
+**[00:29:37](/episodes/ep-xi8SYJTUXPM.md#ent-person-tyler-robinson-t-00-29-37)**
+> "...ke this one in the Daily Mail Tyler Robinson's father realized his son was shooter after seeing ..."
+
+**[00:30:07](/episodes/ep-xi8SYJTUXPM.md#ent-person-tyler-robinson-t-00-29-37)**
+> "police officer said, but from Tyler Robinson's and by Tyler Robinson's, I mean the feds very slo..."
+
+**[00:46:07](/episodes/ep-xi8SYJTUXPM.md#ent-person-tyler-robinson-t-00-45-36)**
+> "... against the FBI on behalf of Tyler Robinson due to the FBI withholding evidence from the defe..."
+
+**[00:52:12](/episodes/ep-xi8SYJTUXPM.md#ent-person-tyler-robinson-t-00-52-12)**
+> "..., I'm not kidding, this is in Tyler Robinson's messages, I hope that Pooch, referring to the dog..."
+
+**[00:52:39](/episodes/ep-xi8SYJTUXPM.md#ent-person-tyler-robinson-t-00-52-39)**
+> "That's what Tyler Robinson wrote to Lance (Lance Twiggs). We're supposed to ..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (31 mentions)</summary>
+
+**[00:00:31](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-00-31)**
+> "...t, we have exclusive audio of Tyler Robinson's grandfather, the original owner of the rifle that..."
+
+**[00:00:54](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-00-31)**
+> "...Grandpa thinks? Does he think Tyler Robinson is guilty?"
+
+**[00:00:59](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-00-31)**
+> "Do you think Tyler Robinson is guilty? Let's find out. Welcome back to Candac..."
+
+**[00:01:26](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-01-20)**
+> "...se, we were not on air during Tyler Robinson's continuance hearing and I was just being driven c..."
+
+**[00:01:39](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-01-20)**
+> "...d me from the courthouse of a Tyler Robinson hearing. They had recorded."
+
+**[00:01:47](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-01-20)**
+> "They were able to record Tyler Robinson's grandfather while he was having a conversation wi..."
+
+**[00:02:07](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-02-01)**
+> "...e was lingering behind Tyler (Tyler Robinson)'s grandfather. a group of people as he spoke to ..."
+
+**[00:02:25](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-02-01)**
+> "...ny liars on the internet that Tyler Robinson's family does not support him."
+
+**[00:03:07](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-02-47)**
+> "...that rather the truth is that Tyler Robinson was essentially coerced to go in."
+
+**[00:03:47](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-03-23)**
+> "... before it was passed down to Tyler Robinson."
+
+**[00:05:10](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-05-03)**
+> "... he is of the same opinion as Tyler Robinson's grandmother that he did not do this, that he was ..."
+
+**[00:05:18](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-05-03)**
+> "...hat his father, that would be Tyler Robinson's great grandfather, was a cop for a while in that ..."
+
+**[00:07:05](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-06-55)**
+> "that Tyler Robinson, that I convinced her that Tyler Robinson had com..."
+
+**[00:07:23](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-06-55)**
+> "... a slam dunk, like a video of Tyler Robinson, a very clear video of that's our guy, Tyler Robi..."
+
+**[00:08:37](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-08-11)**
+> "...y're going to hand it over to Tyler Robinson's team so that they could prepare arguments."
+
+**[00:09:30](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-09-30)**
+> "... continuance, we learned from Tyler Robinson's team that they can't actually make any arguments ..."
+
+**[00:09:59](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-09-59)**
+> "...h App. Okay? Take a listen to Tyler Robinson's defense attorney, Richard Novak, explain that, ye..."
+
+**[00:12:32](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-12-32)**
+> "...ert, that's another person on Tyler Robinson's team, that they have not yet even been given acce..."
+
+**[00:13:37](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-13-37)**
+> "...e're going to bring up Tyler (Tyler Robinson), we're going to bring up Lance Twiggs."
+
+**[00:20:17](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-20-09)**
+> "...t's just so overwhelming that Tyler Robinson did this alone on a rooftop."
+
+**[00:48:51](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-48-51)**
+> "...y hit, aka crashed into Tracy Robinson's car while he was allegedly driving drunk with an ..."
+
+**[00:49:11](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-48-51)**
+> "...tell your viewers about Tracy Robinson instead of simply?"
+
+**[00:49:17](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-48-51)**
+> "Simping for Tyler Robinson? Come on, Candy, tell everyone who Tracy is, or s..."
+
+**[00:49:26](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-48-51)**
+> "...y to tell everybody who Tracy Robinson is. I hadn't thought to do it because I've never ..."
+
+**[00:50:26](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-48-51)**
+> "Tracy Robinson."
+
+**[00:55:17](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-55-09)**
+> "... the culture than she had for Tyler Robinson."
+
+**[00:55:23](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-55-09)**
+> "...ut that makes sense. What did Tyler Robinson do, actually, where I'm trying to find out and ce..."
+
+**[00:56:48](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-56-19)**
+> "that they had multiple Tyler Robinson lookalikes that day. That's why the footage is gr..."
+
+**[00:56:56](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-56-19)**
+> "I think there were multiple Tyler Robinson lookalikes."
+
+**[00:57:00](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-57-00)**
+> "...to show us a clear picture of Tyler Robinson because it's very easy to find a Tyler Robinson l..."
+
+**[01:01:16](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-01-01-16)**
+> "...rites look at the pictures of tyler robinson's roommate honestly part of me wonders if it was hi..."
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (3 mentions)</summary>
+
+**[00:41:57](/episodes/ep-1mYNOqzAdXs.md#ent-person-tyler-robinson-t-00-41-31)**
+> "They have not yet proven that Tyler Robinson's weapon was even fired on September 10th. 10. That's nowhere."
+
+**[00:42:35](/episodes/ep-1mYNOqzAdXs.md#ent-person-tyler-robinson-t-00-42-11)**
+> "...lieve as his roommate, he got Tyler Robinson's gun. He got Tyler Robinson's casings at an earlie..."
+
+**[00:43:40](/episodes/ep-1mYNOqzAdXs.md#ent-person-tyler-robinson-t-00-43-32)**
+> "...that this was not going to be tyler robinson's gun i knew that it was tyler robinson's gun i kne..."
+
+</details>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
+
+**[00:55:28](/episodes/ep-SubDoZWHARo.md#ent-person-tyler-robinson-t-00-55-02)**
+> "Tyler Robinson"
 
 </details>
 
@@ -1945,10 +2105,30 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <summary>Defended By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:00:50](/episodes/ep-UYkXV9mYbT4.md#t-00-00-42): “is something that is buried in these filings that not even Tyler Robinson's defense team caught. And we did, and in my opinion, it is definitive proof that Tyler Robinson is a patsy.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:00:26](/episodes/ep-eLgD5yUVbko.md#t-00-00-01): “at his holiness pope leo the 14th and it's not going well for him it is not going well for trump at all also in case you missed it baron coleman made a shocking discovery last week in the tyler robinson filings which confirmed some of our earlier reporting we should definitely go over it because outside of naked corruption the way that i'm looking uh through these matters i just see i see no way in which the feds can win this case Ace Tyler Robinson, in my view, did not commit this crime. I'm convinced and I'm going to show you more evidence as to why I am convinced. And lastly, guys, donors have contacted me, Turning Point USA donors that were in Aspen when Charlie allegedly said, I appoint Erica Kirk.”
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:55:23](/episodes/ep-kaWtDuoY_ns.md#t-00-55-09): “What did Tyler Robinson do, actually, where I'm trying to find out and certainly has not yet been presented throughout these hearings.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Represented By (2)</summary>
+
+- **[Richard G. Novak](/entities/person-richard-g-novak.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:09:59](/episodes/ep-kaWtDuoY_ns.md#t-00-09-59): “Take a listen to Tyler Robinson's defense attorney, Richard Novak, explain that, yeah, they have the summary reports, but we don't have the data, the proof, the chain of custody to show that any of this is real.”
+
+</details>
+
+- **[Kathryn Nester](/entities/person-kathryn-nester.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:12:32](/episodes/ep-kaWtDuoY_ns.md#t-00-12-32): “And you're about to hear Kathy Nestor assert, that's another person on Tyler Robinson's team, that they have not yet even been given access to Tyler Robinson's phone.”
 
 </details>
 
@@ -1958,9 +2138,10 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <summary>Roommate Of (1)</summary>
 
 - **[Lance Twiggs](/entities/person-lance-twiggs.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:46:02](/episodes/ep-eLgD5yUVbko.md#t-00-45-40): “a bend toward violence they talked about i've communicated this to you guys early on uh the things that would go on as he was raised how they eventually had to kick him out of the house they own the house that tyler robinson and lance live in and they are telling you that the relationship between lance and the feds is unnatural i presented that to you lance's own family is saying that now ... That to me reads like a federal asset. Lance, that's your roommate. OK, maybe maybe you I'm giving you an example here. I'm not saying this is what happened, but maybe they catch Lance on a website.”
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:42:35](/episodes/ep-1mYNOqzAdXs.md#t-00-42-11): “I believe he's a federal asset. I believe as his roommate, he got Tyler Robinson's gun. He got Tyler Robinson's casings at an earlier time.”
 
 </details>
 
@@ -1979,7 +2160,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (10)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -2003,10 +2184,11 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** defended this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:00:50](/episodes/ep-UYkXV9mYbT4.md#t-00-00-42): “is something that is buried in these filings that not even Tyler Robinson's defense team caught. And we did, and in my opinion, it is definitive proof that Tyler Robinson is a patsy.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:00:26](/episodes/ep-eLgD5yUVbko.md#t-00-00-01): “at his holiness pope leo the 14th and it's not going well for him it is not going well for trump at all also in case you missed it baron coleman made a shocking discovery last week in the tyler robinson filings which confirmed some of our earlier reporting we should definitely go over it because outside of naked corruption the way that i'm looking uh through these matters i just see i see no way in which the feds can win this case Ace Tyler Robinson, in my view, did not commit this crime. I'm convinced and I'm going to show you more evidence as to why I am convinced. And lastly, guys, donors have contacted me, Turning Point USA donors that were in Aspen when Charlie allegedly said, I appoint Erica Kirk.”
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:55:23](/episodes/ep-kaWtDuoY_ns.md#t-00-55-09): “What did Tyler Robinson do, actually, where I'm trying to find out and certainly has not yet been presented throughout these hearings.”
 
 </details>
 
@@ -2033,10 +2215,25 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 </details>
 
-- **[Lance Twiggs](/entities/person-lance-twiggs.md)** roommate of this
+- **[Richard G. Novak](/entities/person-richard-g-novak.md)** represented this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:09:59](/episodes/ep-kaWtDuoY_ns.md#t-00-09-59): “Take a listen to Tyler Robinson's defense attorney, Richard Novak, explain that, yeah, they have the summary reports, but we don't have the data, the proof, the chain of custody to show that any of this is real.”
+
+</details>
+
+- **[Kathryn Nester](/entities/person-kathryn-nester.md)** represented this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:12:32](/episodes/ep-kaWtDuoY_ns.md#t-00-12-32): “And you're about to hear Kathy Nestor assert, that's another person on Tyler Robinson's team, that they have not yet even been given access to Tyler Robinson's phone.”
+
+</details>
+
+- **[Lance Twiggs](/entities/person-lance-twiggs.md)** roommate of this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:46:02](/episodes/ep-eLgD5yUVbko.md#t-00-45-40): “a bend toward violence they talked about i've communicated this to you guys early on uh the things that would go on as he was raised how they eventually had to kick him out of the house they own the house that tyler robinson and lance live in and they are telling you that the relationship between lance and the feds is unnatural i presented that to you lance's own family is saying that now ... That to me reads like a federal asset. Lance, that's your roommate. OK, maybe maybe you I'm giving you an example here. I'm not saying this is what happened, but maybe they catch Lance on a website.”
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:42:35](/episodes/ep-1mYNOqzAdXs.md#t-00-42-11): “I believe he's a federal asset. I believe as his roommate, he got Tyler Robinson's gun. He got Tyler Robinson's casings at an earlier time.”
 
 </details>
 
@@ -2045,7 +2242,15 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Tyler Robinson (2)</strong></summary>
+<summary><strong class="section-title">Statements by Tyler Robinson (3)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>
+
+- [00:52:12](/episodes/ep-xi8SYJTUXPM.md#t-00-52-12) [✓] (Citation) ["I hope that Pooch has a bad sniffer."](/statements/statement-f0bce1919c05.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md)
+
+</details>
 
 <details>
 <summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (2)</summary>
@@ -2061,7 +2266,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Robinson (207)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Robinson (230)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (22)</summary>
@@ -2128,6 +2333,92 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 - [04:01:26](/episodes/ep-nPhCKwJ6ye8.md#t-04-01-26) (Accusation) **Candace Owens**: ["Candace Owens still believes there is more evidence that multiple peop..."](/statements/statement-4735330c37c9.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+
+</details>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (5)</summary>
+
+- [00:28:34](/episodes/ep-xi8SYJTUXPM.md#t-00-28-34) (Citation) **Blake Neff** (via quoted tweet): ["The charging document says Tyler Robinson's parents first recognized F..."](/statements/statement-6bea3ec6a4de.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+- [00:29:00](/episodes/ep-xi8SYJTUXPM.md#t-00-28-34) (Accusation) **Blake Neff** (via quoted tweet): ["Why would Candace Owens deliberately misrepresent the evidence about h..."](/statements/statement-8dbd0e25b998.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:30:52](/episodes/ep-xi8SYJTUXPM.md#t-00-30-52) (Opinion) **Candace Owens**: ["It was reasonable for media reports to conclude from Tyler Robinson's ..."](/statements/statement-7ea974dddde8.md)
+  - Also about: [Daily Mail](/entities/org-daily-mail.md), [MSN](/entities/org-msn.md)
+
+- [00:52:12](/episodes/ep-xi8SYJTUXPM.md#t-00-52-12) (Accusation) **Candace Owens**: ["Sentences were added to the affidavit versions of the messages attribu..."](/statements/statement-f97bbf5fca26.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+- [00:52:12](/episodes/ep-xi8SYJTUXPM.md#t-00-52-12) (Citation) **Tyler Robinson** (via quoted document): ["I hope that Pooch has a bad sniffer."](/statements/statement-f0bce1919c05.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (12)</summary>
+
+- [00:03:07](/episodes/ep-kaWtDuoY_ns.md#t-00-02-47) (Accusation) **Candace Owens** (via paraphrase): ["Candace Owens said Sheriff Nate Brooksby admitted Tyler Robinson was e..."](/statements/statement-f86ed8b94b50.md)
+  - Also about: [Nate Brooksby](/entities/person-nate-brooksby.md)
+
+- [00:10:57](/episodes/ep-kaWtDuoY_ns.md#t-00-10-57) (Claim) **Richard G. Novak** (via quoted speech): ["Richard G. Novak said the defense lacked the underlying data files nee..."](/statements/statement-5d96d877240e.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+- [00:11:23](/episodes/ep-kaWtDuoY_ns.md#t-00-10-57) (Claim) **Richard G. Novak** (via quoted speech): ["Richard G. Novak said the FBI still had not provided forensic data and..."](/statements/statement-686a0f565058.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md)
+
+- [00:11:41](/episodes/ep-kaWtDuoY_ns.md#t-00-11-41) (Claim) **Richard G. Novak** (via quoted speech): ["Richard G. Novak said some evidence should have been produced six mont..."](/statements/statement-ccf912d8954b.md)
+  - Also about: [Jeffrey S. Gray](/entities/person-jeffrey-s-gray.md), [Deoxyribonucleic acid](/entities/concept-dna.md)
+
+- [00:12:58](/episodes/ep-kaWtDuoY_ns.md#t-00-12-58) (Claim) **Kathryn Nester** (via quoted speech): ["Kathryn Nester said she had not been able to examine Tyler Robinson's ..."](/statements/statement-df02243d0db3.md)
+
+- [00:14:40](/episodes/ep-kaWtDuoY_ns.md#t-00-14-40) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said the Utah State Bureau of Investigation was waiting ..."](/statements/statement-3e423ee6a4a0.md)
+  - Also about: [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md), [FBI](/entities/org-fbi.md)
+
+- [00:15:26](/episodes/ep-kaWtDuoY_ns.md#t-00-15-26) (Claim) **Kathryn Nester** (via quoted speech): ["Kathryn Nester said the defense had never seen the gun because it was ..."](/statements/statement-21140e8acdfb.md)
+  - Also about: [Quantico, Virginia](/entities/gpe-quantico-virginia.md)
+
+- [00:17:37](/episodes/ep-kaWtDuoY_ns.md#t-00-17-37) (Claim) **Candace Owens**: ["Candace Owens said Erika Kirk was listed as the official victim and fi..."](/statements/statement-39836e7b7f6d.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Utah](/entities/gpe-utah.md)
+
+- [00:18:51](/episodes/ep-kaWtDuoY_ns.md#t-00-18-13) (Opinion) **Candace Owens**: ["Candace Owens said she believed the prosecution had no case and wanted..."](/statements/statement-f4a78cfd00fa.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:56:48](/episodes/ep-kaWtDuoY_ns.md#t-00-56-19) (Opinion) **Candace Owens**: ["Candace Owens said she believed multiple Tyler Robinson lookalikes wea..."](/statements/statement-bc7c92541366.md)
+
+- [01:02:07](/episodes/ep-kaWtDuoY_ns.md#t-01-02-07) (Claim) **Candace Owens**: ["Candace Owens said her producer discovered that previously released te..."](/statements/statement-27158200430a.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+- [01:02:07](/episodes/ep-kaWtDuoY_ns.md#t-01-02-07) (Promise) **Candace Owens**: ["Candace Owens promised to present her producer's findings about edits ..."](/statements/statement-037a95e94ded.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (5)</summary>
+
+- [00:43:22](/episodes/ep-1mYNOqzAdXs.md#t-00-42-53) (Claim) **Bureau of Alcohol, Tobacco, Firearms and Explosives** (via quoted document): ["The ATF firearms examination summary said the cartridge case matched t..."](/statements/statement-f9db1651a380.md)
+  - Also about: [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md)
+
+- [00:43:40](/episodes/ep-1mYNOqzAdXs.md#t-00-43-32) (Claim) **Candace Owens**: ["Five other sets of fingerprints were on Tyler Robinson's gun in additi..."](/statements/statement-2f92576c1504.md)
+
+- [00:44:12](/episodes/ep-1mYNOqzAdXs.md#t-00-44-12) (Claim) **Bureau of Alcohol, Tobacco, Firearms and Explosives** (via quoted document): ["The ATF firearms examination summary said the bullet-jacket fragments ..."](/statements/statement-ade0b6558320.md)
+  - Also about: [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md)
+
+- [00:44:37](/episodes/ep-1mYNOqzAdXs.md#t-00-44-12) (Promise) **Candace Owens**: ["Candace Owens promised to reproduce and examine the prosecution's micr..."](/statements/statement-9b70f9669df5.md)
+  - Also about: [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md)
+
+- [00:45:07](/episodes/ep-1mYNOqzAdXs.md#t-00-44-45) (Accusation) **Candace Owens**: ["Candace Owens accused authorities of corruptly trying to make the evid..."](/statements/statement-74de2011bca2.md)
+  - Also about: [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [FBI](/entities/org-fbi.md), [John F. Kennedy](/entities/person-john-f-kennedy.md)
+
+</details>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1)</summary>
+
+- [00:55:21](/episodes/ep-SubDoZWHARo.md#t-00-55-02) (Opinion) **Candace Owens**: ["Candace Owens believes multiple people were involved in killing Charli..."](/statements/statement-a8a25e1aa7af.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

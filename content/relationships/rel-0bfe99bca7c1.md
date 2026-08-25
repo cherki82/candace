@@ -11,7 +11,11 @@ object: "person-corby-hall"
 
 ## [FoldAR](/entities/org-foldar) owned by [Corby Hall](/entities/person-corby-hall)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs)**
+
+- [00:37:37](/episodes/ep-1mYNOqzAdXs#t-00-37-37): _Corby (Corby Hall) focus ... you will get a paycheck for the patent and possibly your company ... your patent your patent FoldAR_
 
 **[BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0)**
 

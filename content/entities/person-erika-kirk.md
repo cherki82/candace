@@ -1,6 +1,6 @@
 ---
 title: "Erika Kirk"
-description: "Erika Kirk (People) - 1844 mentions"
+description: "Erika Kirk (People) - 1997 mentions"
 id: "person-erika-kirk"
 type: "PERSON"
 aliases:
@@ -28,11 +28,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-erika-kirk-t-00-18-02">2025-09-11 · 00:18:06</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-erika-kirk-t-04-00-43">2026-08-14 · 04:00:43</a></strong></div>
-<div><span>Episodes</span><strong>85</strong></div>
-<div><span>Mentions</span><strong>1,844</strong></div>
-<div><span>Statements by</span><strong>106</strong></div>
-<div><span>Statements about</span><strong>550</strong></div>
-<div><span>Relationships</span><strong>192</strong></div>
+<div><span>Episodes</span><strong>89</strong></div>
+<div><span>Mentions</span><strong>1,997</strong></div>
+<div><span>Statements by</span><strong>108</strong></div>
+<div><span>Statements about</span><strong>597</strong></div>
+<div><span>Relationships</span><strong>203</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -124,6 +124,10 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-erika-kirk-t-00-00-22" style="--pulse-height:59%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 51 mentions" title="2026-04-02 · 51 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-erika-kirk-t-00-00-26" style="--pulse-height:27%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 23 mentions" title="2026-04-13 · 23 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-00-00" style="--pulse-height:28%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 24 mentions" title="2026-04-14 · 24 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-00-01" style="--pulse-height:60%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 52 mentions" title="2026-04-15 · 52 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-00-00" style="--pulse-height:64%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 55 mentions" title="2026-04-16 · 55 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-06-55" style="--pulse-height:28%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 24 mentions" title="2026-04-20 · 24 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-erika-kirk-t-00-00-42" style="--pulse-height:26%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 22 mentions" title="2026-04-21 · 22 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-erika-kirk-t-00-38-09" style="--pulse-height:63%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 54 mentions" title="2026-08-14 · 54 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -214,6 +218,10 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-erika-kirk-t-00-00-22) | 51 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-erika-kirk-t-00-00-26) | 23 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-erika-kirk-t-00-00-00) | 24 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-00-01) | 52 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-00-00) | 55 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-06-55) | 24 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-erika-kirk-t-00-00-42) | 22 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-erika-kirk-t-00-38-09) | 54 |
 
 </details>
@@ -222,7 +230,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1844)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1997)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (54 mentions)</summary>
@@ -388,6 +396,485 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 **[04:00:43](/episodes/ep-nPhCKwJ6ye8.md#ent-person-erika-kirk-t-04-00-43)**
 > "...s case. They don't care about Erika Kirk."
+
+</details>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (22 mentions)</summary>
+
+**[00:00:42](/episodes/ep-xi8SYJTUXPM.md#ent-person-erika-kirk-t-00-00-42)**
+> "...received a stunning tip about Erika Kirk's mother, the Lori, the Lori and gun sales."
+
+**[00:01:31](/episodes/ep-xi8SYJTUXPM.md#ent-person-erika-kirk-t-00-01-22)**
+> "...he strange text messages that Erika shared with a then-15-year-old Jillian. We then....."
+
+**[00:04:55](/episodes/ep-xi8SYJTUXPM.md#ent-person-erika-kirk-t-00-04-55)**
+> "... footage he wanted to protect erica by the way in retrospect even that's weird like w..."
+
+**[00:05:20](/episodes/ep-xi8SYJTUXPM.md#ent-person-erika-kirk-t-00-05-20)**
+> "...ight away are you speaking to erica about the back footage like why does she care lik..."
+
+**[00:08:24](/episodes/ep-xi8SYJTUXPM.md#ent-person-erika-kirk-t-00-07-59)**
+> "... because he wanted to protect Erika. He didn't want Erika to see the footage. He had ..."
+
+**[00:16:06](/episodes/ep-xi8SYJTUXPM.md#ent-person-erika-kirk-t-00-15-52)**
+> "...t what were Lori Frantzve and Erika Kirk doing at that time?"
+
+**[00:16:24](/episodes/ep-xi8SYJTUXPM.md#ent-person-erika-kirk-t-00-16-24)**
+> "So Lori and Erika's stepfather, Larry, who we have not done really an..."
+
+**[00:19:27](/episodes/ep-xi8SYJTUXPM.md#ent-person-erika-kirk-t-00-18-56)**
+> "...tential deal? None other than Erika Frantzve. You could just see it."
+
+**[00:19:50](/episodes/ep-xi8SYJTUXPM.md#ent-person-erika-kirk-t-00-19-36)**
+> "... that during this discussion, Erika then drops the fact that she has—and her mother s..."
+
+**[00:20:20](/episodes/ep-xi8SYJTUXPM.md#ent-person-erika-kirk-t-00-20-20)**
+> "...e, according to our timeline, Erika was dating Cabot Phillips. Cabot Phillips was on ..."
+
+**[00:21:53](/episodes/ep-xi8SYJTUXPM.md#ent-person-erika-kirk-t-00-21-46)**
+> "Our faith leaders, remember Erika says she learned everything that she knows throug..."
+
+**[00:22:17](/episodes/ep-xi8SYJTUXPM.md#ent-person-erika-kirk-t-00-21-46)**
+> "...ish I had done a deep dive on Erika when Charlie had met her. I just wanted him to fi..."
+
+**[00:22:42](/episodes/ep-xi8SYJTUXPM.md#ent-person-erika-kirk-t-00-22-28)**
+> "...g charities always charitable Erika always somehow just floating around something rig..."
+
+**[00:31:13](/episodes/ep-xi8SYJTUXPM.md#ent-person-erika-kirk-t-00-30-52)**
+> "...harlie Kirk saying, I appoint Erika Kirk."
+
+**[00:31:42](/episodes/ep-xi8SYJTUXPM.md#ent-person-erika-kirk-t-00-31-36)**
+> "They claim Erika actually was in Aspen, even though she didn't att..."
+
+**[00:32:03](/episodes/ep-xi8SYJTUXPM.md#ent-person-erika-kirk-t-00-32-03)**
+> "...ve testified to the public or Erika rather certainly explained to Megyn Kelly, you gu..."
+
+**[00:32:29](/episodes/ep-xi8SYJTUXPM.md#ent-person-erika-kirk-t-00-32-03)**
+> "I appoint Erika and then Erika Kirk walks out. Wow, there wouldn't have been a dry ey..."
+
+**[00:33:21](/episodes/ep-xi8SYJTUXPM.md#ent-person-erika-kirk-t-00-33-21)**
+> "...use you wanted them to accept Erika in the role of Charlie Kirk?"
+
+**[00:34:09](/episodes/ep-xi8SYJTUXPM.md#ent-person-erika-kirk-t-00-34-01)**
+> ".... It's why he gave Charlie to Erika and why you didn't even get."
+
+**[00:45:36](/episodes/ep-xi8SYJTUXPM.md#ent-person-erika-kirk-t-00-45-36)**
+> "...n't bump this anymore because erica has asserted her right as a victim um well no we ..."
+
+**[00:47:12](/episodes/ep-xi8SYJTUXPM.md#ent-person-erika-kirk-t-00-47-12)**
+> "...ly buy the idea, the reaction Erika had when somebody asked her a question or why Fox..."
+
+**[00:49:43](/episodes/ep-xi8SYJTUXPM.md#ent-person-erika-kirk-t-00-49-28)**
+> "... don't think the priority for Erika is her kids where he's buried."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (24 mentions)</summary>
+
+**[00:06:55](/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-06-55)**
+> "...after my sit down with Erika (Erika Kirk), I dutifully reported to you all that when I ask..."
+
+**[00:07:16](/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-06-55)**
+> "...My assumption was that Erika (Erika Kirk) and her counsel had access to more information i..."
+
+**[00:08:50](/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-08-50)**
+> "... is what I was told by Erika (Erika Kirk)'s lawyer on December 15th. So to put it in layma..."
+
+**[00:16:08](/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-15-54)**
+> "... that the prosecution, Erika (Erika Kirk)'s team, because she's listed as the victim, is a..."
+
+**[00:17:19](/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-16-54)**
+> "...stagram how it is that Erika (Erika Kirk) can assert her right to a speedy trial, somethin..."
+
+**[00:17:37](/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-17-37)**
+> "To note this and for clarity, Erika Kirk is in fact listed as the official victim in this ..."
+
+**[00:18:25](/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-18-13)**
+> "...i was wondering why is Erika (Erika Kirk) needing to assert something that is kind of self..."
+
+**[00:19:00](/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-18-51)**
+> "... a show trial. I think Erika (Erika Kirk)'s team wants a show trial. They do not want to h..."
+
+**[00:22:31](/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-22-07)**
+> "...Service could not accommodate Erika Kirk, she did not feel safe, despite them telling her ..."
+
+**[00:22:59](/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-22-53)**
+> "...By Friday, gratefully, Erika (Erika Kirk) was all better."
+
+**[00:23:40](/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-23-40)**
+> "Erika Kirk!"
+
+**[00:24:50](/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-24-50)**
+> "... death threats against Erika (Erika Kirk)'s life. Let's read that email that went out. Aga..."
+
+**[00:25:02](/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-24-50)**
+> "...ant news about the event with Erika Kirk. Unfortunately, we are unable to host her at Pinn..."
+
+**[00:25:59](/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-25-27)**
+> "... the students who do not want Erika Kirk at their school."
+
+**[00:26:17](/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-26-11)**
+> "...Newsweek headline. They wrote Erika Kirk's high school talk sparks furious backlash from par..."
+
+**[00:26:24](/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-26-11)**
+> "...aily Beast. High school moves Erika Kirk event off campus after students revolt. Folks, th..."
+
+**[00:26:31](/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-26-11)**
+> "..., a high school group invited Erika Kirk to campus. Parents are not happy."
+
+**[00:26:42](/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-26-11)**
+> "...ybody to boycott nothing with Erika Kirk."
+
+**[00:26:54](/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-26-54)**
+> "...veryone all hail Queen Erika (Erika Kirk)."
+
+**[00:27:20](/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-27-20)**
+> "...d be a crowd there but Erika (Erika Kirk) cannot draw a crowd by herself yet yet maybe the..."
+
+**[00:29:42](/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-29-28)**
+> "...ntirely different with Erika (Erika Kirk) right we are getting like especially white male ..."
+
+**[00:55:09](/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-55-09)**
+> "Joe Mattia writes, on Erika (Erika Kirk)'s last video, someone commented, forgive Druski ..."
+
+**[00:58:49](/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-58-24)**
+> "curious joel writes Erika (Erika Kirk)'s walkout music is giving the imperial march fro..."
+
+**[00:59:16](/episodes/ep-kaWtDuoY_ns.md#ent-person-erika-kirk-t-00-59-10)**
+> "...id curious joel writes Erika (Erika Kirk) oh i'm sorry i just read that That Nikki Schumac..."
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (55 mentions)</summary>
+
+**[00:00:08](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-00-00)**
+> "Because that's what they're saying. That's what they're saying. The Secret Service has come out and said, nope, Erika (Erika Kirk)'s a liar and so was her mama."
+
+**[00:01:37](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-01-22)**
+> "...into a sitcom. Somehow Erika (Erika Kirk) really thought that she was just going to get aw..."
+
+**[00:02:31](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-02-31)**
+> "...ats to uga rally after Erika (Erika Kirk) kirk's cancellation the source says embedded in ..."
+
+**[00:03:00](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-02-31)**
+> "by Erika Kirk was canceled over unspecified security concerns. ..."
+
+**[00:03:47](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-03-14)**
+> "...at were being directed toward Erika Kirk."
+
+**[00:03:58](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-03-58)**
+> "...as no a threat against Erika (Erika Kirk) would have been a threat against the VP and I fi..."
+
+**[00:04:36](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-04-36)**
+> "...or Turning Point USA. This is Erika Kirk girl bossing a little too close to the sun."
+
+**[00:05:05](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-04-36)**
+> "The idea. That Erika (Erika Kirk) could have actually been in Georgia already and ..."
+
+**[00:05:32](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-05-21)**
+> "...we received a tip that Erika (Erika Kirk) was indeed in georgia already and you're not goi..."
+
+**[00:07:06](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-06-44)**
+> "...e was a 0% chance that Erika (Erika Kirk) had a viable threat pertaining to her travel."
+
+**[00:07:27](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-07-27)**
+> "... that's what happened, Erika (Erika Kirk). That's the story they were trying to sell. And ..."
+
+**[00:07:33](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-07-27)**
+> "...t before on Saturday evening, Erika Kirk flew into Palm Beach because she was attending Be..."
+
+**[00:08:03](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-08-03)**
+> "... on Sunday. On Monday, Erika (Erika Kirk) elected to stay in Palm Beach. On Tuesday, she f..."
+
+**[00:08:43](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-08-43)**
+> "At 1.27 p.m., Erika (Erika Kirk) departed West Palm Beach for the Georgia event. ..."
+
+**[00:08:53](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-08-43)**
+> "...es the phone call that Erika (Erika Kirk) doesn't want to do the event."
+
+**[00:09:05](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-08-43)**
+> "I'm going to assume Erika (Erika Kirk) called him personally so you can see that little..."
+
+**[00:09:12](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-09-12)**
+> "...he gets the phone call Erika (Erika Kirk)'s crashing out and she's not just on gonna be on..."
+
+**[00:09:30](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-09-12)**
+> "...to the same airport as Erika (Erika Kirk)."
+
+**[00:10:04](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-09-56)**
+> "...ally I'm only here for Erika (Erika Kirk). I'm only going to harm Erika (Erika Kirk)."
+
+**[00:10:19](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-09-56)**
+> "...y like he acknowledges Erika (Erika Kirk) on stage and looks to the left. He says her name..."
+
+**[00:10:29](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-09-56)**
+> "... it signals to me that Erika (Erika Kirk) was just off to the left on offstage."
+
+**[00:10:45](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-10-45)**
+> "Erika (Erika Kirk) continues to support and inspire us every day to..."
+
+**[00:10:56](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-10-45)**
+> "So Erika (Erika Kirk), thank you. Thank you for your friendship and be..."
+
+**[00:11:02](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-11-02)**
+> "So Erika (Erika Kirk), thank you."
+
+**[00:11:15](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-11-02)**
+> "...ere not showing up and Erika (Erika Kirk) was going into a meltdown. Baron (Baron Coleman)..."
+
+**[00:11:37](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-11-02)**
+> "... last minute thing was Erika (Erika Kirk) was already at the venue."
+
+**[00:12:03](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-11-43)**
+> "...s him up and says, oh, Erika (Erika Kirk), oh, my gosh. And listen to J.D. Vance say that ..."
+
+**[00:12:21](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-12-21)**
+> "..., first of all, I love Erika (Erika Kirk) and I know that she did get some threats and, yo..."
+
+**[00:12:53](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-12-44)**
+> "...ell you what happened. Erika (Erika Kirk) did not leave Athens until 639 p.m."
+
+**[00:13:09](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-12-44)**
+> "Okay, Erika (Erika Kirk) was there for four hours. And there was, as the ..."
+
+**[00:13:18](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-12-44)**
+> "...ored a serious threat against Erika Kirk because that would mean there was a serious threa..."
+
+**[00:13:34](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-13-24)**
+> "Erika Kirk is malevolent. She is malevolent. You have to acc..."
+
+**[00:16:34](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-16-34)**
+> "...er post, that in her opinion, Erika Kirk exhibits the attributes of a psychopath."
+
+**[00:16:53](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-16-34)**
+> "...ut I do know that when Erika (Erika Kirk) did not want people to show up to the Catholics ..."
+
+**[00:17:15](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-17-15)**
+> "... energy is giving that Erika (Erika Kirk) cried on the phone. I think that when J.D. Vance..."
+
+**[00:17:58](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-17-58)**
+> "...d the reality was that Erika (Erika Kirk) just saw the crowd she didn't want to speak She ..."
+
+**[00:18:30](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-18-30)**
+> "... the situation I think Erika (Erika Kirk) is calculated"
+
+**[00:19:20](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-19-14)**
+> "...f epic proportions for Erika (Erika Kirk), make no mistake. And I think it is obvious that..."
+
+**[00:20:10](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-19-45)**
+> "...re going to admit that Erika (Erika Kirk) may have done some things that are wrong. It's m..."
+
+**[00:22:50](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-22-44)**
+> "...aslighting us and that Erika (Erika Kirk) has been weird and that everything that they hav..."
+
+**[00:23:31](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-23-27)**
+> "...oint right now, I want Erika (Erika Kirk) to just drop a book like if I did do it."
+
+**[00:23:36](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-23-27)**
+> "...ike OJ did. If I did do it by Erika Kirk, I think that would move more copies than the boo..."
+
+**[00:24:26](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-24-04)**
+> "...or Marx wrote Pray for Erika (Erika Kirk) and their two little children who need the praye..."
+
+**[00:24:40](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-24-40)**
+> "...arlie (Charlie Kirk) was shot Erika Kirk's dear friend Victor Marx announced that he had die..."
+
+**[00:25:09](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-25-09)**
+> "...most like he knew with Erika (Erika Kirk)."
+
+**[00:25:38](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-25-09)**
+> "...m. That should be when Erika (Erika Kirk) found out when she got off the phone with the do..."
+
+**[00:38:53](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-38-21)**
+> "...d how he became so close with Erika Kirk, how he knew initially."
+
+**[00:39:05](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-39-05)**
+> "...virtually at the same time as Erika Kirk, that Charlie Kirk had died. He knew before me, c..."
+
+**[00:48:51](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-48-51)**
+> "...bonus and a raise from Erika (Erika Kirk) okay totally normal maybe you should add that to..."
+
+**[00:49:18](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-49-18)**
+> "...ewed the chair sending Erika (Erika Kirk) death threats and this is what it had to say"
+
+**[00:51:40](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-51-40)**
+> "Biggie Kells writes Erika (Erika Kirk) canceled her fake and gay appearance because the..."
+
+**[00:52:05](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-52-05)**
+> "...or the threats against Erika (Erika Kirk). What a tool.' Why are you watching Ben Shapiro?..."
+
+**[00:53:20](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-53-08)**
+> "...ost credible threat to Erika (Erika Kirk) and her crew is the truth seven sheets writes if..."
+
+**[00:55:15](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-54-55)**
+> "...ertainly do think that Erika (Erika Kirk) will dump him without question. Like she will ju..."
+
+**[00:56:12](/episodes/ep-1mYNOqzAdXs.md#ent-person-erika-kirk-t-00-55-38)**
+> "...atural born leader and Erika (Erika Kirk) is not a natural born leader."
+
+</details>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (52 mentions)</summary>
+
+**[00:00:07](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-00-01)**
+> "Congratulations to Erika Kirk."
+
+**[00:00:41](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-00-41)**
+> "...make believe yesterday Erika (Erika Kirk) no-showed an event last minute, an event featuri..."
+
+**[00:01:31](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-01-31)**
+> "...'ve been hiding under a rock, Erika Kirk was slated to appear alongside her friend, Vice P..."
+
+**[00:02:46](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-02-46)**
+> "... about to host J.D. Vance and Erika Kirk."
+
+**[00:02:56](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-02-56)**
+> "...then we have to assume Erika (Erika Kirk) was on the ground, right?"
+
+**[00:03:41](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-03-32)**
+> "...ge here instead of our friend Erika Kirk."
+
+**[00:04:11](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-03-46)**
+> "... jobs out of attacking Erika (Erika Kirk) And this is the net result"
+
+**[00:05:25](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-04-56)**
+> "... sits above you all. In fact, Erika Kirk herself jumped in and this was the reason that we..."
+
+**[00:06:38](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-06-30)**
+> "No, Erika (Erika Kirk) is on fire for the Lord. And that's why you don'..."
+
+**[00:06:48](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-06-30)**
+> "...at was the threat that Erika (Erika Kirk) endured that was so severe seven months later th..."
+
+**[00:07:50](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-07-24)**
+> "...d experience and realize that Erika Kirk is."
+
+**[00:08:23](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-08-07)**
+> "...d in and pinch hit for Erika (Erika Kirk) last night."
+
+**[00:09:19](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-09-19)**
+> "...scoop on what's going on with Erika Kirk for some reason."
+
+**[00:09:26](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-09-19)**
+> "...said regarding the threats to Erika Kirk that prevented her from attending today's events ..."
+
+**[00:09:30](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-09-19)**
+> "...ng the threats of. Threats to Erika Kirk that prevented her from attending today's events ..."
+
+**[00:09:44](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-09-19)**
+> "...direct threats against Erika (Erika Kirk) specifically. This ultimately led to her securit..."
+
+**[00:10:16](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-09-59)**
+> "...e bat wrong with that. Erika (Erika Kirk) now worried about her kids."
+
+**[00:10:35](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-09-59)**
+> "... attend this event and Erika (Erika Kirk) would not. So let's switch gears. We'll say it w..."
+
+**[00:10:42](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-10-42)**
+> "...been actually tracking Erika (Erika Kirk)'s plane since the very beginning. People were do..."
+
+**[00:12:17](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-12-09)**
+> "... not even available in Erika (Erika Kirk)'s emotional shed."
+
+**[00:13:02](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-12-49)**
+> "...GA and or the rock star widow Erika Kirk."
+
+**[00:15:06](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-14-58)**
+> "...fault. You didn't keep Erika (Erika Kirk) safe."
+
+**[00:15:43](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-15-37)**
+> "... is willing to come listen to Erika Kirk speak for free, please come."
+
+**[00:16:02](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-15-37)**
+> "OK, let me repeat that. Under Erika Kirk's stewardship, Turning Point USA is now facing a cr..."
+
+**[00:16:28](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-16-15)**
+> "Erika (Erika Kirk) knew. That she was not coming long before Andrew..."
+
+**[00:17:22](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-16-56)**
+> "... at her bridal shower. Erika (Erika Kirk) will be wherever it is that she needs to be. Tha..."
+
+**[00:18:22](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-18-22)**
+> "...ng this up, is because Erika (Erika Kirk) was also slated to speak yesterday at 1.30 p.m. ..."
+
+**[00:21:21](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-21-00)**
+> "...very concerned, learning that Erika Kirk is going to be speaking."
+
+**[00:21:34](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-21-34)**
+> "...ially a walkout, a boycott of Erika Kirk."
+
+**[00:23:39](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-23-30)**
+> "... that we can establish Erika (Erika Kirk) as the new leader of Turning Point USA."
+
+**[00:24:31](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-24-31)**
+> "...ll say that, you know, Erika (Erika Kirk), you know, she's been doing this or she's been d..."
+
+**[00:24:46](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-24-31)**
+> "...ee with something that Erika (Erika Kirk) or Andrew (Andrew Kolvet) say on the Turning Poi..."
+
+**[00:25:52](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-25-52)**
+> "People criticizing Erika Kirk. That's the most preposterous thing he's seen in ..."
+
+**[00:26:39](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-26-34)**
+> "...s for you than us criticizing Erika Kirk."
+
+**[00:27:37](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-27-00)**
+> "...ctly why we don't like Erika (Erika Kirk), because we see it for exactly what it is. It's ..."
+
+**[00:28:21](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-28-21)**
+> "...ed the nature of your friend, Erika Kirk."
+
+**[00:28:36](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-28-21)**
+> "...hearts and minds about Erika (Erika Kirk), might I very humbly suggest that you start with..."
+
+**[00:29:54](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-29-30)**
+> ".... It's an assembly. Surprise, Erika Kirk is here. And they're like, look, the room, the au..."
+
+**[00:30:02](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-30-02)**
+> "...at you got if you go sit with Erika Kirk in the assembly right now or after school no I st..."
+
+**[00:30:48](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-30-48)**
+> "...on stage suddenly that Erika (Erika Kirk) wouldn't be attending."
+
+**[00:31:14](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-31-14)**
+> "...t of the news was that Erika (Erika Kirk) was she canceled her appearance at that because ..."
+
+**[00:32:18](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-32-18)**
+> "...nd I feel terrible for Erika (Erika Kirk). And ultimately, you know, when you're in that m..."
+
+**[00:33:23](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-33-20)**
+> "So don't criticize Erika (Erika Kirk)."
+
+**[00:39:02](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-38-41)**
+> "And I don't know why Erika (Erika Kirk) can't make normal friends. None of my friends ha..."
+
+**[00:46:58](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-46-39)**
+> "...Romanian instance with Erika (Erika Kirk) all surrounding what happened at the military."
+
+**[00:47:18](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-47-18)**
+> "...eg Laurie whose church Erika (Erika Kirk) went right on tour with him Harvest Church is cu..."
+
+**[00:48:08](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-47-55)**
+> "... was being met with that day, Erika Kirk lived in China or in the days that follow, rather..."
+
+**[00:48:17](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-47-55)**
+> "Erika Kirk says that she lived in China and worked with chil..."
+
+**[00:53:59](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-53-46)**
+> "...de Jared Johnson wrote Erika (Erika Kirk) is the kind of friend to steal money from you an..."
+
+**[00:59:48](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-00-59-33)**
+> "If Erika (Erika Kirk) literally like fell and scraped her knee, if she..."
+
+**[01:00:21](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-01-00-15)**
+> "...s know. Here's a fact. Erika (Erika Kirk) personally made phone calls trying to get people..."
+
+**[01:00:31](/episodes/ep-SubDoZWHARo.md#ent-person-erika-kirk-t-01-00-15)**
+> "...as behind this PR push Erika (Erika Kirk) was behind this stuff the entire time so you can..."
 
 </details>
 
@@ -6187,7 +6674,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Ceo Of (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (29)</summary>
 
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:06:41](/episodes/ep-vwG1juDCQZQ.md#t-00-06-26): “what it's like being at the helm of the organization, what her thoughts are about what that organization is going to look like going forward.”
 - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:33:11](/episodes/ep-K5GjF53bfN4.md#t-00-33-05): “she is stepping into a role: a CEO and the chairman of a company, a company that got bigger than Charlie Kirk”
@@ -6217,6 +6704,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:31:09](/episodes/ep-I0OaY6Gryqk.md#t-00-31-01): “The chapter's president said in a statement posted on social media that the executive board had become concerned with the direction of the national group. The chapter will now be rebranding to Young American Revival, focusing on advocating for Christian conservative values. This comes a week after Turning Point's CEO, ... Erika Kirk, paid a visit to Arkansas. Governor Sanders signed a proclamation endorsing TPUSA chapters in schools statewide.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:13:21](/episodes/ep-B9TyCs-6o_0.md#t-00-13-11): “turning point is angry. angry because this made both them and the new CEO and chairman who also happens to be Charlie Kirk's wife look bad”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:19:05](/episodes/ep-q1NRQQAYS_Q.md#t-00-19-05): “Why does that feel more like a confession to me? Like they're trying to get ahead of something like this might be the reason they didn't release it in the first place. And also, was I like under the influence or high or was it not Erica, the CEO of Turning Point USA and the team that guaranteed us that they were going to release tons of never before seen speeches and videos? They had a whole supply of them.”
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:25:59](/episodes/ep-SubDoZWHARo.md#t-00-25-52): “This is a new CEO and chairman of TPUSA”
 
 </details>
 
@@ -6272,7 +6760,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Affiliated With (5)</summary>
+<summary>Affiliated With (6)</summary>
 
 - **[Liberty University](/entities/org-liberty-university.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -6314,10 +6802,17 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 </details>
 
+- **[Romanian Angels Project](/entities/org-romanian-angels-project.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:47:18](/episodes/ep-SubDoZWHARo.md#t-00-47-18): “he worked with Romanian angels which was her charity”
+
+</details>
+
 </details>
 
 <details>
-<summary>Appeared With (6)</summary>
+<summary>Appeared With (7)</summary>
 
 - **[JD Vance](/entities/person-jd-vance.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -6355,9 +6850,17 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:07:31](/episodes/ep-_vg7ucP1E0g.md#t-00-06-53): “I'm just wondering how is she affording to live, okay? She's still dating. J.T. Massey. During this time, we also have that on July 11th, Lori Frantzve and Tyler Bowyer and Erika (Erika Kirk) are going to be behind Donald Trump for his presidential campaign rally.”
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:23:06](/episodes/ep-kaWtDuoY_ns.md#t-00-22-53): “she opened for Trump (Donald Trump) at the Dream City Church in Phoenix.”
+
+</details>
+
+- **[Greg Laurie](/entities/person-greg-laurie.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:47:18](/episodes/ep-SubDoZWHARo.md#t-00-47-18): “Greg Laurie whose church Erika (Erika Kirk) went right on tour with him Harvest Church”
 
 </details>
 
@@ -6403,7 +6906,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Chairman Of (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:09:05](/episodes/ep-Qt0VHV-POCg.md#t-00-08-31): “I don't even think they had even yet announced that Erika Kirk was the chairman and the CEO 36 hours later.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:05](/episodes/ep-X92MllIHDzw.md#t-00-20-05): “What's interesting is that, and by the way, I do want to add here that Eric has is the chairman and CEO of Turning Point. So going to see your biggest donor wouldn't exactly be a scandal.”
@@ -6415,6 +6918,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:48:11](/episodes/ep-jTj9Ip46r4w.md#t-00-48-11): “She is obviously not fit to be the CEO and chairman of Turning Point USA just on the basis of the amount of dishonesty that we can just show you using her own words, okay? Just using Erica (Erika Kirk)'s own words, trying to make sense of anything is a very difficult task.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:10:28](/episodes/ep-DdPjoy5W-wY.md#t-00-09-55): “Oh, how are you doing this? Well, of course, because God so willed it. She must continue Charlie (Charlie Kirk)'s company. ... By her kids not only have one parent, by dividing her time to be a CEO and a chairman. ... She's just going to take on Turning Point USA and she wants us to believe that she's both putting her children first and putting the company first.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:13:21](/episodes/ep-B9TyCs-6o_0.md#t-00-13-11): “turning point is angry. angry because this made both them and the new CEO and chairman who also happens to be Charlie Kirk's wife look bad”
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:25:59](/episodes/ep-SubDoZWHARo.md#t-00-25-52): “This is a new CEO and chairman of TPUSA”
 
 </details>
 
@@ -6424,7 +6928,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Child Of (2)</summary>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)**
-<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-26): “Senator David Farnsworth. introduced Erika (Erika Kirk)'s mother to the house floor with concerns over EMPs”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:11:59](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-22): “Lori Frantzve. Erika (Erika Kirk)'s mom, Lori Frantzve.”
@@ -6438,6 +6942,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:26:08](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53): “Erika (Erika Kirk)'s strange attachment to Tyler Bowyer, but lack of a memory regarding Tyler Bowyer? Superfeed incorporated where Erika (Erika Kirk)'s mother is serving as a board member with Tyler Bowyer?”
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:08:39](/episodes/ep-_vg7ucP1E0g.md#t-00-08-39): “We have that in November. Her mother establishes G-Tech Industries LLC. I know you're going to say, what is it do? ... You know, it's Lori (Lori Frantzve). So it's like this. She's doing this whole EMP thing and she's getting money and she's.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:49](/episodes/ep-q1NRQQAYS_Q.md#t-00-35-33): “It continues. Ms. Kirk was sitting in her mother's hospital room at 1123 a.m. local time in Phoenix when she saw the number of her husband's longtime assistant, Michael McCoy, appear on her phone.”
+- [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:19:50](/episodes/ep-xi8SYJTUXPM.md#t-00-19-36): “To me, her and her mom are like Bonnie and Clyde.”
 
 </details>
 
@@ -6535,7 +7040,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Criticized By (5)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (27)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (30)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-29): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -6564,6 +7069,9 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:31:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-31-34): “All right, you guys, let's get into Erica's story regarding her whereabouts on September 10th. Now, we've already established Erica lies and she pivots and she edits and then a bunch of people come out to protect her.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:17:09](/episodes/ep-eLgD5yUVbko.md#t-00-16-38): “And it's unlikely. And to add to that totally unlikely scenario, they also kept insisting immediately and through various interviews that Erica was raised by a single mother, something that is objectively untrue. We have proven that a thousand times over it is objectively untrue for them to even suggest that Erica was raised by a single mother. It's not true. And by the way, it's weird that she describes herself as a single mother. You would say you're a widow. Just totally different vibe there. This feels evil to me. I have a troubling sense, a growing troubling sense that Charli never said it. Now being deepened further by donors with direct knowledge of this event. And speaking of a growing and troubling sense of evil, there is a relationship that is... That needs to be further explained, I think, or further understood between Erica Kirk and Ben Shapiro. It's beginning to make me uncomfortable.”
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:00:42](/episodes/ep-jsqUIkszZd0.md#t-00-00-00): “Erika (Erika Kirk) just cannot keep dancing adjacent to allegations of trafficking her entire life.”
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:27:37](/episodes/ep-SubDoZWHARo.md#t-00-27-00): “is exactly why we don't like Erika (Erika Kirk), because we see it for exactly what it is.”
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:13:34](/episodes/ep-1mYNOqzAdXs.md#t-00-13-24): “Erika Kirk is malevolent. She is malevolent. You have to accept that because it's not only that she's capable of lying to us.”
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:26:54](/episodes/ep-kaWtDuoY_ns.md#t-00-26-54): “She's not authentic. She's not like Charlie Kirk. She doesn't have the Charlie Kirk factor. She has approached everything like an elitist”
 
 </details>
 
@@ -6672,10 +7180,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Cabot Phillips](/entities/person-cabot-phillips.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:17:06](/episodes/ep-_vg7ucP1E0g.md#t-00-16-56): “This year, Erika (Erika Kirk) is dating Cabot Phillips, by the way. I told you she has a boyfriend.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erica's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erica at Fort Wachuka back in September.”
+- [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:20:20](/episodes/ep-xi8SYJTUXPM.md#t-00-20-20): “At this time, according to our timeline, Erika was dating Cabot Phillips.”
 
 </details>
 
@@ -6694,13 +7203,14 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Formerly Lived In (6)</summary>
+<summary>Formerly Lived In (7)</summary>
 
 - **[China](/entities/gpe-china.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:20:44](/episodes/ep-2tFYJf1klgY.md#t-00-20-44): “I was living in China and doing a lot of work with the victims from sex trafficking”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:33:17](/episodes/ep-DdPjoy5W-wY.md#t-00-33-17): “I was living in China”
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:17](/episodes/ep-SubDoZWHARo.md#t-00-47-55): “Erika Kirk says that she lived in China and worked with child sex trafficking victims”
 
 </details>
 
@@ -6736,6 +7246,13 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:26:43](/episodes/ep-q1NRQQAYS_Q.md#t-00-26-12): “boss babe I mean I lived in Manhattan I”
+
+</details>
+
+- **[Chongqing](/entities/gpe-chongqing.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:17](/episodes/ep-SubDoZWHARo.md#t-00-47-55): “Erika Kirk says that she lived in China and worked with child sex trafficking victims, but she's mum on that now. Tight-lipped, does not want to talk about what charity that was. No one seems to be able to find it on the Internet. We know she was living in, was it Chongqing?”
 
 </details>
 
@@ -6801,7 +7318,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Friend Of (10)</summary>
+<summary>Friend Of (12)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -6866,9 +7383,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Victor Marx](/entities/person-victor-marx.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:21:26](/episodes/ep-jsqUIkszZd0.md#t-00-21-26): “So this is going to be in first person and he is going to he's presenting here just a timeline of the factual events regarding Victor Marx. Again, Erika (Erika Kirk)'s dear friend, right?”
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:39:02](/episodes/ep-SubDoZWHARo.md#t-00-38-41): “And I don't know why Erika (Erika Kirk) can't make normal friends. None of my friends have these sorts of backgrounds”
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:23:43](/episodes/ep-1mYNOqzAdXs.md#t-00-23-27): “Anyway, switching gears to her dear friend, Victor Marx, because we now have proof that he did indeed announce that Charlie Kirk had died first to the world first, I should say.”
 
 </details>
 
@@ -6879,13 +7398,27 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 </details>
 
+- **[JD Vance](/entities/person-jd-vance.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:01:31](/episodes/ep-SubDoZWHARo.md#t-00-01-31): “Erika Kirk was slated to appear alongside her friend, Vice President J.D. Vance, at the University of Georgia”
+
+</details>
+
+- **[Laine Schoneberger](/entities/person-laine-schoneberger.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:10:56](/episodes/ep-1mYNOqzAdXs.md#t-00-10-45): “So Erika (Erika Kirk), thank you. Thank you for your friendship and believing in Yrefy.”
+
+</details>
+
 </details>
 
 <details>
 <summary>Interviewed By (7)</summary>
 
 - **[Jesse Watters](/entities/person-jesse-watters.md)**
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:01:01](/episodes/ep-vwG1juDCQZQ.md#t-00-00-45): “the heavily anticipated interview with Erika Kirk (Charlie Kirk's widow) on Fox News with Jesse Watters.”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:00:36](/episodes/ep-K1tFD7FfoCU.md#t-00-00-00): “Erika Kirk sat down with Jesse Watters (Jesse Watters).”
@@ -6893,6 +7426,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:16:51](/episodes/ep-hWTdXHGQ8R4.md#t-00-16-51): “Tell me about the day before the shooting. ... He was at the office, ... and we were going to meet for dinner beforehand with a dear friend of ours who I wanted to just be with us and pray with us before the event.”
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:24:52](/episodes/ep-5-HUyv9LyMg.md#t-00-24-52): “this clip of Erika (Erika Kirk) on Jesse Watters”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:36:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-36-13): “Then we heard straight from Erica in November, a little more detail during her sit down with Jesse Waters.”
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:05:25](/episodes/ep-SubDoZWHARo.md#t-00-04-56): “Erika Kirk herself jumped in and this was the reason that we were given via her interview with Jesse Watters.”
 
 </details>
 
@@ -7065,12 +7599,19 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Spoke At (1)</summary>
+<summary>Spoke At (2)</summary>
 
 - **[Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:00:06](/episodes/ep-ja26iltROkM.md#t-00-00-00): “The speech that she gave—everybody was just wowed by her”
+
+</details>
+
+- **[Dream City Church](/entities/org-dream-city-church.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:23:06](/episodes/ep-kaWtDuoY_ns.md#t-00-22-53): “she opened for Trump (Donald Trump) at the Dream City Church in Phoenix.”
 
 </details>
 
@@ -7080,10 +7621,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Stepchild Of (1)</summary>
 
 - **[Larry Guinta](/entities/person-larry-guinta.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:12:06](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-22): “Guinta is Erika (Erika Kirk)'s stepfather,”
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:19:36](/episodes/ep-ZAsV0fHGBiM.md#t-00-19-36): “Erica (Erika Kirk) was raised with her stepfather in her home, a man named Larry Guinta.”
+- [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:16:24](/episodes/ep-xi8SYJTUXPM.md#t-00-16-24): “So Lori and Erika's stepfather, Larry, who we have not done really any research on Larry Guinta, I probably should have included that in my Erika series, but what they were doing at that time is they were trying to get in on a gun company.”
 
 </details>
 
@@ -7117,7 +7659,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Widow Of (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (34)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (36)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:36](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00): “Charlie's widow”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
@@ -7153,6 +7695,8 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:14:57](/episodes/ep-q1NRQQAYS_Q.md#t-00-14-38): “They were on the same wavelength. I saw how much that relationship, I didn't know Erica as well prior to Charlie's death, but especially in the wake of it, I saw how much everything he'd done meant to her and how completely committed she was.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:10:17](/episodes/ep-eLgD5yUVbko.md#t-00-09-57): “That's a totally normal question to ask that Charlie declared that he wanted to appoint Erica as the CEO and the chairman of his company. Didn't pass the sniff test for obvious reasons. Okay, number one, no husband ever, no man ever would say if I am killed on the job, I want my wife to assume the dangerous position that I just occupied, right?”
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:02:22](/episodes/ep-jsqUIkszZd0.md#t-00-02-07): “during the memorial, same deal. She similarly said, and I quote, one moment Charlie (Charlie Kirk) was doing what he loved. He blinked and he saw his Savior in heaven. Now, that could be because Erika's (Erika Kirk's) not writing her own speeches, I'm told. Erika (Erika Kirk) didn't eulogize her own husband.”
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:04:49](/episodes/ep-SubDoZWHARo.md#t-00-04-19): “Remember right after Charlie (Charlie Kirk) was assassinated, a lot of people were like, look. she's doing a lot she's kind of just like doing a lot like i would be pretty scared most of us Even people who didn't know Charlie (Charlie Kirk) were scared to go out their door. The world felt less safe, but his wife was just fearlessly trotting through all of these events”
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:20:52](/episodes/ep-1mYNOqzAdXs.md#t-00-20-28): “Last month, the backlash reached a new level after a viral video by a comedian Druski mocked Kirk's behavior after her husband's killing, featuring exaggerated expressions and fake tears.”
 
 </details>
 
@@ -7261,7 +7805,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Referenced By (88)</summary>
+<summary>Referenced By (93)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (12)</summary>
@@ -7331,9 +7875,17 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** appeared with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:07:31](/episodes/ep-_vg7ucP1E0g.md#t-00-06-53): “I'm just wondering how is she affording to live, okay? She's still dating. J.T. Massey. During this time, we also have that on July 11th, Lori Frantzve and Tyler Bowyer and Erika (Erika Kirk) are going to be behind Donald Trump for his presidential campaign rally.”
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:23:06](/episodes/ep-kaWtDuoY_ns.md#t-00-22-53): “she opened for Trump (Donald Trump) at the Dream City Church in Phoenix.”
+
+</details>
+
+- **[Greg Laurie](/entities/person-greg-laurie.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:47:18](/episodes/ep-SubDoZWHARo.md#t-00-47-18): “Greg Laurie whose church Erika (Erika Kirk) went right on tour with him Harvest Church”
 
 </details>
 
@@ -7402,7 +7954,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (27)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (30)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-29): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -7431,6 +7983,9 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:31:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-31-34): “All right, you guys, let's get into Erica's story regarding her whereabouts on September 10th. Now, we've already established Erica lies and she pivots and she edits and then a bunch of people come out to protect her.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:17:09](/episodes/ep-eLgD5yUVbko.md#t-00-16-38): “And it's unlikely. And to add to that totally unlikely scenario, they also kept insisting immediately and through various interviews that Erica was raised by a single mother, something that is objectively untrue. We have proven that a thousand times over it is objectively untrue for them to even suggest that Erica was raised by a single mother. It's not true. And by the way, it's weird that she describes herself as a single mother. You would say you're a widow. Just totally different vibe there. This feels evil to me. I have a troubling sense, a growing troubling sense that Charli never said it. Now being deepened further by donors with direct knowledge of this event. And speaking of a growing and troubling sense of evil, there is a relationship that is... That needs to be further explained, I think, or further understood between Erica Kirk and Ben Shapiro. It's beginning to make me uncomfortable.”
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:00:42](/episodes/ep-jsqUIkszZd0.md#t-00-00-00): “Erika (Erika Kirk) just cannot keep dancing adjacent to allegations of trafficking her entire life.”
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:27:37](/episodes/ep-SubDoZWHARo.md#t-00-27-00): “is exactly why we don't like Erika (Erika Kirk), because we see it for exactly what it is.”
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:13:34](/episodes/ep-1mYNOqzAdXs.md#t-00-13-24): “Erika Kirk is malevolent. She is malevolent. You have to accept that because it's not only that she's capable of lying to us.”
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:26:54](/episodes/ep-kaWtDuoY_ns.md#t-00-26-54): “She's not authentic. She's not like Charlie Kirk. She doesn't have the Charlie Kirk factor. She has approached everything like an elitist”
 
 </details>
 
@@ -7465,7 +8020,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** deceased husband of this
-<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (35)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus.”
@@ -7500,6 +8055,8 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:14:57](/episodes/ep-q1NRQQAYS_Q.md#t-00-14-38): “They were on the same wavelength. I saw how much that relationship, I didn't know Erica as well prior to Charlie's death, but especially in the wake of it, I saw how much everything he'd done meant to her and how completely committed she was.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:10:17](/episodes/ep-eLgD5yUVbko.md#t-00-09-57): “That's a totally normal question to ask that Charlie declared that he wanted to appoint Erica as the CEO and the chairman of his company. Didn't pass the sniff test for obvious reasons. Okay, number one, no husband ever, no man ever would say if I am killed on the job, I want my wife to assume the dangerous position that I just occupied, right?”
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:02:22](/episodes/ep-jsqUIkszZd0.md#t-00-02-07): “during the memorial, same deal. She similarly said, and I quote, one moment Charlie (Charlie Kirk) was doing what he loved. He blinked and he saw his Savior in heaven. Now, that could be because Erika's (Erika Kirk's) not writing her own speeches, I'm told. Erika (Erika Kirk) didn't eulogize her own husband.”
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:04:49](/episodes/ep-SubDoZWHARo.md#t-00-04-19): “Remember right after Charlie (Charlie Kirk) was assassinated, a lot of people were like, look. she's doing a lot she's kind of just like doing a lot like i would be pretty scared most of us Even people who didn't know Charlie (Charlie Kirk) were scared to go out their door. The world felt less safe, but his wife was just fearlessly trotting through all of these events”
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:20:52](/episodes/ep-1mYNOqzAdXs.md#t-00-20-28): “Last month, the backlash reached a new level after a viral video by a comedian Druski mocked Kirk's behavior after her husband's killing, featuring exaggerated expressions and fake tears.”
 
 </details>
 
@@ -7540,10 +8097,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[China](/entities/gpe-china.md)** former residence of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:20:44](/episodes/ep-2tFYJf1klgY.md#t-00-20-44): “I was living in China and doing a lot of work with the victims from sex trafficking”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:33:17](/episodes/ep-DdPjoy5W-wY.md#t-00-33-17): “I was living in China”
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:17](/episodes/ep-SubDoZWHARo.md#t-00-47-55): “Erika Kirk says that she lived in China and worked with child sex trafficking victims”
 
 </details>
 
@@ -7582,6 +8140,13 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 </details>
 
+- **[Chongqing](/entities/gpe-chongqing.md)** former residence of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:17](/episodes/ep-SubDoZWHARo.md#t-00-47-55): “Erika Kirk says that she lived in China and worked with child sex trafficking victims, but she's mum on that now. Tight-lipped, does not want to talk about what charity that was. No one seems to be able to find it on the Internet. We know she was living in, was it Chongqing?”
+
+</details>
+
 - **[Josh Harrellson](/entities/person-josh-harrellson.md)** formerly dated this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
@@ -7599,10 +8164,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Cabot Phillips](/entities/person-cabot-phillips.md)** formerly dated this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:17:06](/episodes/ep-_vg7ucP1E0g.md#t-00-16-56): “This year, Erika (Erika Kirk) is dating Cabot Phillips, by the way. I told you she has a boyfriend.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erica's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erica at Fort Wachuka back in September.”
+- [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:20:20](/episodes/ep-xi8SYJTUXPM.md#t-00-20-20): “At this time, according to our timeline, Erika was dating Cabot Phillips.”
 
 </details>
 
@@ -7725,9 +8291,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Victor Marx](/entities/person-victor-marx.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:21:26](/episodes/ep-jsqUIkszZd0.md#t-00-21-26): “So this is going to be in first person and he is going to he's presenting here just a timeline of the factual events regarding Victor Marx. Again, Erika (Erika Kirk)'s dear friend, right?”
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:39:02](/episodes/ep-SubDoZWHARo.md#t-00-38-41): “And I don't know why Erika (Erika Kirk) can't make normal friends. None of my friends have these sorts of backgrounds”
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:23:43](/episodes/ep-1mYNOqzAdXs.md#t-00-23-27): “Anyway, switching gears to her dear friend, Victor Marx, because we now have proof that he did indeed announce that Charlie Kirk had died first to the world first, I should say.”
 
 </details>
 
@@ -7738,8 +8306,22 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 </details>
 
+- **[JD Vance](/entities/person-jd-vance.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:01:31](/episodes/ep-SubDoZWHARo.md#t-00-01-31): “Erika Kirk was slated to appear alongside her friend, Vice President J.D. Vance, at the University of Georgia”
+
+</details>
+
+- **[Laine Schoneberger](/entities/person-laine-schoneberger.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:10:56](/episodes/ep-1mYNOqzAdXs.md#t-00-10-45): “So Erika (Erika Kirk), thank you. Thank you for your friendship and believing in Yrefy.”
+
+</details>
+
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** has CEO this
-<details class="relationship-evidence"><summary>Show all evidence (25)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (26)</summary>
 
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:06:41](/episodes/ep-vwG1juDCQZQ.md#t-00-06-26): “what it's like being at the helm of the organization, what her thoughts are about what that organization is going to look like going forward.”
 - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:33:11](/episodes/ep-K5GjF53bfN4.md#t-00-33-05): “she is stepping into a role: a CEO and the chairman of a company, a company that got bigger than Charlie Kirk”
@@ -7766,6 +8348,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:31:09](/episodes/ep-I0OaY6Gryqk.md#t-00-31-01): “The chapter's president said in a statement posted on social media that the executive board had become concerned with the direction of the national group. The chapter will now be rebranding to Young American Revival, focusing on advocating for Christian conservative values. This comes a week after Turning Point's CEO, ... Erika Kirk, paid a visit to Arkansas. Governor Sanders signed a proclamation endorsing TPUSA chapters in schools statewide.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:13:21](/episodes/ep-B9TyCs-6o_0.md#t-00-13-11): “turning point is angry. angry because this made both them and the new CEO and chairman who also happens to be Charlie Kirk's wife look bad”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:19:05](/episodes/ep-q1NRQQAYS_Q.md#t-00-19-05): “Why does that feel more like a confession to me? Like they're trying to get ahead of something like this might be the reason they didn't release it in the first place. And also, was I like under the influence or high or was it not Erica, the CEO of Turning Point USA and the team that guaranteed us that they were going to release tons of never before seen speeches and videos? They had a whole supply of them.”
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:25:59](/episodes/ep-SubDoZWHARo.md#t-00-25-52): “This is a new CEO and chairman of TPUSA”
 
 </details>
 
@@ -7784,7 +8367,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** has chairman this
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:09:05](/episodes/ep-Qt0VHV-POCg.md#t-00-08-31): “I don't even think they had even yet announced that Erika Kirk was the chairman and the CEO 36 hours later.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:05](/episodes/ep-X92MllIHDzw.md#t-00-20-05): “What's interesting is that, and by the way, I do want to add here that Eric has is the chairman and CEO of Turning Point. So going to see your biggest donor wouldn't exactly be a scandal.”
@@ -7796,6 +8379,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:48:11](/episodes/ep-jTj9Ip46r4w.md#t-00-48-11): “She is obviously not fit to be the CEO and chairman of Turning Point USA just on the basis of the amount of dishonesty that we can just show you using her own words, okay? Just using Erica (Erika Kirk)'s own words, trying to make sense of anything is a very difficult task.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:10:28](/episodes/ep-DdPjoy5W-wY.md#t-00-09-55): “Oh, how are you doing this? Well, of course, because God so willed it. She must continue Charlie (Charlie Kirk)'s company. ... By her kids not only have one parent, by dividing her time to be a CEO and a chairman. ... She's just going to take on Turning Point USA and she wants us to believe that she's both putting her children first and putting the company first.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:13:21](/episodes/ep-B9TyCs-6o_0.md#t-00-13-11): “turning point is angry. angry because this made both them and the new CEO and chairman who also happens to be Charlie Kirk's wife look bad”
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:25:59](/episodes/ep-SubDoZWHARo.md#t-00-25-52): “This is a new CEO and chairman of TPUSA”
 
 </details>
 
@@ -7820,8 +8404,15 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 </details>
 
+- **[Dream City Church](/entities/org-dream-city-church.md)** hosted speaker this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:23:06](/episodes/ep-kaWtDuoY_ns.md#t-00-22-53): “she opened for Trump (Donald Trump) at the Dream City Church in Phoenix.”
+
+</details>
+
 - **[Jesse Watters](/entities/person-jesse-watters.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:01:01](/episodes/ep-vwG1juDCQZQ.md#t-00-00-45): “the heavily anticipated interview with Erika Kirk (Charlie Kirk's widow) on Fox News with Jesse Watters.”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:00:36](/episodes/ep-K1tFD7FfoCU.md#t-00-00-00): “Erika Kirk sat down with Jesse Watters (Jesse Watters).”
@@ -7829,6 +8420,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:16:51](/episodes/ep-hWTdXHGQ8R4.md#t-00-16-51): “Tell me about the day before the shooting. ... He was at the office, ... and we were going to meet for dinner beforehand with a dear friend of ours who I wanted to just be with us and pray with us before the event.”
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:24:52](/episodes/ep-5-HUyv9LyMg.md#t-00-24-52): “this clip of Erika (Erika Kirk) on Jesse Watters”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:36:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-36-13): “Then we heard straight from Erica in November, a little more detail during her sit down with Jesse Waters.”
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:05:25](/episodes/ep-SubDoZWHARo.md#t-00-04-56): “Erika Kirk herself jumped in and this was the reason that we were given via her interview with Jesse Watters.”
 
 </details>
 
@@ -7975,7 +8567,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)** parent of this
-<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-26): “Senator David Farnsworth. introduced Erika (Erika Kirk)'s mother to the house floor with concerns over EMPs”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:11:59](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-22): “Lori Frantzve. Erika (Erika Kirk)'s mom, Lori Frantzve.”
@@ -7989,6 +8581,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:26:08](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53): “Erika (Erika Kirk)'s strange attachment to Tyler Bowyer, but lack of a memory regarding Tyler Bowyer? Superfeed incorporated where Erika (Erika Kirk)'s mother is serving as a board member with Tyler Bowyer?”
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:08:39](/episodes/ep-_vg7ucP1E0g.md#t-00-08-39): “We have that in November. Her mother establishes G-Tech Industries LLC. I know you're going to say, what is it do? ... You know, it's Lori (Lori Frantzve). So it's like this. She's doing this whole EMP thing and she's getting money and she's.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:49](/episodes/ep-q1NRQQAYS_Q.md#t-00-35-33): “It continues. Ms. Kirk was sitting in her mother's hospital room at 1123 a.m. local time in Phoenix when she saw the number of her husband's longtime assistant, Michael McCoy, appear on her phone.”
+- [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:19:50](/episodes/ep-xi8SYJTUXPM.md#t-00-19-36): “To me, her and her mom are like Bonnie and Clyde.”
 
 </details>
 
@@ -8002,10 +8595,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Larry Guinta](/entities/person-larry-guinta.md)** stepparent of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:12:06](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-22): “Guinta is Erika (Erika Kirk)'s stepfather,”
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:19:36](/episodes/ep-ZAsV0fHGBiM.md#t-00-19-36): “Erica (Erika Kirk) was raised with her stepfather in her home, a man named Larry Guinta.”
+- [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:16:24](/episodes/ep-xi8SYJTUXPM.md#t-00-16-24): “So Lori and Erika's stepfather, Larry, who we have not done really any research on Larry Guinta, I probably should have included that in my Erika series, but what they were doing at that time is they were trying to get in on a gun company.”
 
 </details>
 
@@ -8050,7 +8644,18 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Erika Kirk (106)</strong></summary>
+<summary><strong class="section-title">Statements by Erika Kirk (108)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (2)</summary>
+
+- [00:06:12](/episodes/ep-SubDoZWHARo.md#t-00-05-42) [○] (Opinion) ["Erika Kirk said she was not afraid, that Charlie Kirk was not afraid, and that t..."](/statements/statement-dc2d066d2f04.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:16:44](/episodes/ep-SubDoZWHARo.md#t-00-16-15) [✓] (Claim) ["Erika Kirk said she had looked forward to the University of Georgia event but ta..."](/statements/statement-74394121bde2.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [University of Georgia](/entities/org-university-of-georgia.md), [JD Vance](/entities/person-jd-vance.md)
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (5)</summary>
@@ -8546,7 +9151,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Erika Kirk (550)</strong></summary>
+<summary><strong class="section-title">Statements about Erika Kirk (597)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4)</summary>
@@ -8562,6 +9167,163 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 - [03:26:38](/episodes/ep-nPhCKwJ6ye8.md#t-03-26-38) (Opinion) **Candace Owens**: ["Candace Owens believes Erika Kirk should be formally questioned becaus..."](/statements/statement-c8adff2dd148.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (6)</summary>
+
+- [00:19:50](/episodes/ep-xi8SYJTUXPM.md#t-00-19-36) (Claim) **Anonymous Source #1 (Ep xi8SYJTUXPM)** (via read message): ["At the gun-patent dinner, Erika Kirk joined the business discussion an..."](/statements/statement-94f570f1d582.md)
+  - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Cabot Phillips](/entities/person-cabot-phillips.md)
+
+- [00:31:13](/episodes/ep-xi8SYJTUXPM.md#t-00-30-52) (Accusation) **Anonymous Source #2 (Ep xi8SYJTUXPM)** (via read message): ["Multiple Turning Point USA donors said Charlie Kirk never stated in As..."](/statements/statement-989a8fe6e412.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Aspen, Colorado](/entities/gpe-aspen-colorado.md)
+
+- [00:32:03](/episodes/ep-xi8SYJTUXPM.md#t-00-32-03) (Accusation) **Anonymous Source #2 (Ep xi8SYJTUXPM)** (via read message): ["Multiple Turning Point USA donors believe the purported audio of Charl..."](/statements/statement-b2a2be4c88ea.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Artificial intelligence](/entities/concept-artificial-intelligence.md)
+
+- [00:33:21](/episodes/ep-xi8SYJTUXPM.md#t-00-33-21) (Accusation) **Candace Owens**: ["Could you actually respond to me asserting that your own donors think ..."](/statements/statement-1e2202795a4e.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:34:09](/episodes/ep-xi8SYJTUXPM.md#t-00-34-01) (Opinion) **Laura Loomer** (via quoted tweet): ["God hates Candace Owens; humanity hates her; and she is irredeemable."](/statements/statement-fb851d6c4a21.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [God](/entities/concept-god.md)
+
+- [00:48:03](/episodes/ep-xi8SYJTUXPM.md#t-00-47-40) (Accusation) **Candace Owens**: ["Erika Kirk moved Charlie Kirk's body a couple of times."](/statements/statement-1fc84bf0aad5.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (6)</summary>
+
+- [00:17:37](/episodes/ep-kaWtDuoY_ns.md#t-00-17-37) (Claim) **Candace Owens**: ["Candace Owens said Erika Kirk was listed as the official victim and fi..."](/statements/statement-39836e7b7f6d.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Utah](/entities/gpe-utah.md)
+
+- [00:18:51](/episodes/ep-kaWtDuoY_ns.md#t-00-18-13) (Opinion) **Candace Owens**: ["Candace Owens said she believed the prosecution had no case and wanted..."](/statements/statement-f4a78cfd00fa.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:25:02](/episodes/ep-kaWtDuoY_ns.md#t-00-24-50) (Claim) **Turning Point USA** (via quoted document): ["Turning Point USA said it could not host Erika Kirk at Pinnacle High S..."](/statements/statement-92f3c1b4e61e.md)
+  - Also about: [Pinnacle High School](/entities/org-pinnacle-high-school.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:25:50](/episodes/ep-kaWtDuoY_ns.md#t-00-25-27) (Accusation) **Candace Owens**: ["Candace Owens said the Pinnacle High School event was canceled because..."](/statements/statement-523cbf56acf1.md)
+  - Also about: [Pinnacle High School](/entities/org-pinnacle-high-school.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:26:17](/episodes/ep-kaWtDuoY_ns.md#t-00-26-11) (Citation) **Candace Owens**: ["Candace Owens cited Newsweek, The Daily Beast, and The Arizona Republi..."](/statements/statement-60a2b7caab3f.md)
+  - Also about: [Newsweek](/entities/org-newsweek.md), [The Daily Beast](/entities/org-the-daily-beast.md), [The Arizona Republic](/entities/org-the-arizona-republic.md)
+
+- [00:30:01](/episodes/ep-kaWtDuoY_ns.md#t-00-29-28) (Accusation) **Candace Owens**: ["Candace Owens said Erika Kirk gives differing accounts of her graduati..."](/statements/statement-702d77a8eb3c.md)
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (10)</summary>
+
+- [00:02:31](/episodes/ep-1mYNOqzAdXs.md#t-00-02-31) (Claim) **Anonymous Source #1 (Ep 1mYNOqzAdXs)** (via quoted article): ["The U.S. Secret Service determined there were no credible threats to t..."](/statements/statement-7f12bdc910e8.md)
+  - Also about: [United States Secret Service](/entities/org-united-states-secret-service.md), [Turning Point USA](/entities/org-turning-point-usa.md), [University of Georgia](/entities/org-university-of-georgia.md)
+
+- [00:03:14](/episodes/ep-1mYNOqzAdXs.md#t-00-03-14) (Claim) **Anonymous Source #1 (Ep 1mYNOqzAdXs)** (via quoted article): ["Hostile messages Erika Kirk may have received, including on social med..."](/statements/statement-07781f3e5cc4.md)
+  - Also about: [United States Secret Service](/entities/org-united-states-secret-service.md)
+
+- [00:06:00](/episodes/ep-1mYNOqzAdXs.md#t-00-06-00) (Opinion) **Candace Owens**: ["Candace Owens said Andrew Kolvet should resign in shame over the false..."](/statements/statement-8ebe06fbc0f7.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:08:43](/episodes/ep-1mYNOqzAdXs.md#t-00-08-43) (Claim) **Candace Owens**: ["Erika Kirk departed West Palm Beach at 1:27 p.m., landed in Athens at ..."](/statements/statement-ee597a6e3b0b.md)
+  - Also about: [West Palm Beach, Florida](/entities/gpe-west-palm-beach-florida.md), [Athens, Georgia](/entities/gpe-athens-georgia.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md)
+
+- [00:10:19](/episodes/ep-1mYNOqzAdXs.md#t-00-09-56) (Claim) **Candace Owens**: ["Laine Schoneberger's onstage thanks to Erika Kirk signaled to Candace ..."](/statements/statement-68efe208908e.md)
+  - Also about: [Laine Schoneberger](/entities/person-laine-schoneberger.md), [Yrefy](/entities/org-yrefy.md)
+
+- [00:12:21](/episodes/ep-1mYNOqzAdXs.md#t-00-12-21) (Claim) **JD Vance**: ["Erika Kirk had received threats and was so worried that, about two hou..."](/statements/statement-4ee465e1cd43.md)
+  - Also about: [United States Secret Service](/entities/org-united-states-secret-service.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:17:58](/episodes/ep-1mYNOqzAdXs.md#t-00-17-58) (Accusation) **Candace Owens**: ["Candace Owens's best read was that Erika Kirk saw the crowd, did not w..."](/statements/statement-e92ba7dafade.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [JD Vance](/entities/person-jd-vance.md), [United States Secret Service](/entities/org-united-states-secret-service.md)
+
+- [00:21:07](/episodes/ep-1mYNOqzAdXs.md#t-00-21-07) (Claim) **Anonymous Source #2 (Ep 1mYNOqzAdXs)** (via quoted article): ["Erika Kirk pulled out of the TPUSA event because of several factors, n..."](/statements/statement-0cebf0e510dd.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [JD Vance](/entities/person-jd-vance.md)
+
+- [00:21:32](/episodes/ep-1mYNOqzAdXs.md#t-00-21-32) (Opinion) **Anonymous Source #2 (Ep 1mYNOqzAdXs)** (via quoted article): ["The cancellation was not just about ticket sales; mental exhaustion an..."](/statements/statement-992b03ca3b93.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:48:51](/episodes/ep-1mYNOqzAdXs.md#t-00-48-51) (Accusation) **Candace Owens**: ["After Dan Flood failed to protect Charlie Kirk, Erika Kirk offered Flo..."](/statements/statement-7d5fa0f00e95.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (25)</summary>
+
+- [00:01:31](/episodes/ep-SubDoZWHARo.md#t-00-01-31) (Claim) **Candace Owens**: ["Erika Kirk was slated to appear with Vice President J.D. Vance at the ..."](/statements/statement-186f1adac726.md)
+  - Also about: [JD Vance](/entities/person-jd-vance.md), [University of Georgia](/entities/org-university-of-georgia.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:02:15](/episodes/ep-SubDoZWHARo.md#t-00-02-15) (Accusation) **Candace Owens**: ["Ticket holders and the Turning Point leaders who organized the event w..."](/statements/statement-58b58a0828f7.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:03:46](/episodes/ep-SubDoZWHARo.md#t-00-03-46) (Claim) **Andrew Kolvet** (via quoted speech): ["Erika Kirk had received very serious threats."](/statements/statement-496c2382d7fe.md)
+
+- [00:06:12](/episodes/ep-SubDoZWHARo.md#t-00-05-42) (Opinion) **Erika Kirk** (via quoted speech): ["Erika Kirk said she was not afraid, that Charlie Kirk was not afraid, ..."](/statements/statement-dc2d066d2f04.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:07:50](/episodes/ep-SubDoZWHARo.md#t-00-07-24) (Claim) **Andrew Kolvet** (via quoted speech): ["The security team told Turning Point USA that it could not guarantee E..."](/statements/statement-9f96594247aa.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:09:44](/episodes/ep-SubDoZWHARo.md#t-00-09-19) (Claim) **Anonymous Source #1 (Ep SubDoZWHARo)** (via quoted post): ["People were doxing Erika Kirk's travel location and trying to track he..."](/statements/statement-dac6665f2376.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:09:59](/episodes/ep-SubDoZWHARo.md#t-00-09-59) (Claim) **Anonymous Source #1 (Ep SubDoZWHARo)** (via quoted post): ["The event venue was considered safe once the vice president was on sit..."](/statements/statement-4d7c1625d816.md)
+  - Also about: [JD Vance](/entities/person-jd-vance.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:13:27](/episodes/ep-SubDoZWHARo.md#t-00-13-27) (Accusation) **Candace Owens**: ["Nobody wanted to attend the event and its ticket numbers were abysmal."](/statements/statement-251eacc5e233.md)
+  - Also about: [JD Vance](/entities/person-jd-vance.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:15:21](/episodes/ep-SubDoZWHARo.md#t-00-14-58) (Claim) **Anonymous Source #2 (Ep SubDoZWHARo)** (via read message): ["TPUSA college students and volunteers reported a recurring difficulty ..."](/statements/statement-88494b63426d.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Karoline Leavitt](/entities/person-karoline-leavitt.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
+
+- [00:16:28](/episodes/ep-SubDoZWHARo.md#t-00-16-15) (Accusation) **Candace Owens**: ["Erika Kirk knew long before Andrew Kolvet's stage announcement that sh..."](/statements/statement-7e2421d2d754.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:16:44](/episodes/ep-SubDoZWHARo.md#t-00-16-15) (Claim) **Erika Kirk** (via quoted post): ["Erika Kirk said she had looked forward to the University of Georgia ev..."](/statements/statement-74394121bde2.md)
+  - Also about: [University of Georgia](/entities/org-university-of-georgia.md), [JD Vance](/entities/person-jd-vance.md)
+
+- [00:19:26](/episodes/ep-SubDoZWHARo.md#t-00-19-00) (Citation) **Candace Owens**: ["A parent alert attributed cancellation of the optional Turning Point U..."](/statements/statement-ec6f1b833a82.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:20:26](/episodes/ep-SubDoZWHARo.md#t-00-20-26) (Claim) **Anonymous Source #2 (Ep SubDoZWHARo)** (via read message): ["TPUSA students and volunteers reported immediate parental backlash aft..."](/statements/statement-fd77d7a58774.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:24:07](/episodes/ep-SubDoZWHARo.md#t-00-24-07) (Opinion) **JD Vance** (via quoted speech): ["People whose instinct is to attack a young mother for grieving in a wa..."](/statements/statement-396361878d26.md)
+
+- [00:25:02](/episodes/ep-SubDoZWHARo.md#t-00-25-02) (Opinion) **JD Vance** (via quoted speech): ["The desire to attack Erika Kirk for how she grieves her husband was th..."](/statements/statement-a16d91b48960.md)
+
+- [00:25:59](/episodes/ep-SubDoZWHARo.md#t-00-25-52) (Opinion) **Candace Owens**: ["Erika Kirk did not earn the position of CEO and chairman of Turning Po..."](/statements/statement-85405d79b425.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:27:42](/episodes/ep-SubDoZWHARo.md#t-00-27-42) (Accusation) **Candace Owens**: ["Erika Kirk can get Treasury Secretary Scott Bessent to issue a letter ..."](/statements/statement-22a29254a28c.md)
+  - Also about: [Scott Bessent](/entities/person-scott-bessent.md), [United States Department of the Treasury](/entities/org-united-states-department-of-the-treasury.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:29:30](/episodes/ep-SubDoZWHARo.md#t-00-29-30) (Accusation) **Candace Owens**: ["Middle-school and high-school students are sometimes required to atten..."](/statements/statement-dd44934fb955.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:31:24](/episodes/ep-SubDoZWHARo.md#t-00-31-14) (Claim) **Andrew Kolvet** (via quoted speech): ["Turning Point USA canceled a high-school appearance planned before the..."](/statements/statement-bf0a415b2482.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:32:00](/episodes/ep-SubDoZWHARo.md#t-00-31-46) (Claim) **Andrew Kolvet** (via quoted speech): ["People were trying to dox and monitor Erika Kirk's travel while sugges..."](/statements/statement-5a21d5c4fcef.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:48:17](/episodes/ep-SubDoZWHARo.md#t-00-47-55) (Accusation) **Candace Owens**: ["Erika Kirk says she lived in China and worked with child sex-trafficki..."](/statements/statement-86356e03bbd6.md)
+  - Also about: [China](/entities/gpe-china.md)
+
+- [01:00:10](/episodes/ep-SubDoZWHARo.md#t-00-59-33) (Accusation) **Candace Owens**: ["Erika Kirk lied to Candace Owens's face and has lied multiple times wi..."](/statements/statement-944757dc5f2b.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [01:00:21](/episodes/ep-SubDoZWHARo.md#t-01-00-15) (Accusation) **Candace Owens**: ["Erika Kirk personally called people to try to stop them from attending..."](/statements/statement-828b998021f9.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Catholicism](/entities/concept-catholicism.md)
+
+- [01:00:31](/episodes/ep-SubDoZWHARo.md#t-01-00-15) (Accusation) **Anonymous Source #3 (Ep SubDoZWHARo)** (via read message): ["Fired Turning Point USA employees told Candace Owens that Erika Kirk w..."](/statements/statement-c8a711108cc2.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [01:01:04](/episodes/ep-SubDoZWHARo.md#t-01-00-56) (Accusation) **Candace Owens**: ["Erika Kirk was angry at Joe Kent for trying to investigate possible fo..."](/statements/statement-64d45e2a900f.md)
+  - Also about: [Joe Kent](/entities/person-joe-kent.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

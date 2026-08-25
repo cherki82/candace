@@ -1,6 +1,6 @@
 ---
 title: "Melania Trump"
-description: "Melania Trump (People) - 5 mentions"
+description: "Melania Trump (People) - 6 mentions"
 id: "person-melania-trump"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [First Lady Melania Trump | The White House](https://www.whitehouse.gov/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-melania-trump-t-00-45-27">2026-03-11 · 00:45:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-melania-trump-t-00-46-36">2026-03-11 · 00:46:36</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-melania-trump-t-00-36-48">2026-04-21 · 00:36:54</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,12 +38,14 @@ Source: [First Lady Melania Trump | The White House](https://www.whitehouse.gov/
 <p>Highest activity: <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-melania-trump-t-00-45-27">EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-melania-trump-t-00-45-27" style="--pulse-height:100%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 5 mentions" title="2026-03-11 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-melania-trump-t-00-36-48" style="--pulse-height:20%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-person-melania-trump-t-00-45-27) | 5 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-melania-trump-t-00-36-48) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [First Lady Melania Trump | The White House](https://www.whitehouse.gov/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1 mentions)</summary>
+
+**[00:36:54](/episodes/ep-xi8SYJTUXPM.md#ent-person-melania-trump-t-00-36-48)**
+> "...eople in, as I understand it, Melania Trump's inner circle have said this—"
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (5 mentions)</summary>
@@ -105,7 +115,15 @@ Source: [First Lady Melania Trump | The White House](https://www.whitehouse.gov/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Melania Trump (1)</strong></summary>
+<summary><strong class="section-title">Statements about Melania Trump (2)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>
+
+- [00:36:54](/episodes/ep-xi8SYJTUXPM.md#t-00-36-48) (Opinion) **Anonymous Source #3 (Ep xi8SYJTUXPM)** (via read message): ["People understood to be in Melania Trump's inner circle considered Lau..."](/statements/statement-6ff31db880c6.md)
+  - Also about: [Laura Loomer](/entities/person-laura-loomer.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1)</summary>

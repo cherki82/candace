@@ -4,9 +4,10 @@ description: "\"Victor Marx says his 20-year-old son was once Charlie Kirk's ass
 statement_id: "statement-aad6e47f555d"
 speaker: "Victor Marx"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The statement is attributional: an archived copy of Marx public post quotes him saying his 20-year-old son had been Charlie Kirk assistant for a season and spent substantial time with Erika Kirk and their first daughter. This verifies that Marx made the claim, not that the assistant role independently occurred.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Archive of Victor Marx public statement about his son](https://www.victormarx4co.com/victor-charlie-kirks-murder)
+
+*Verified: 2026-08-24T19:11:23.944540*
 
 ---
 

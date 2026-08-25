@@ -1,6 +1,6 @@
 ---
 title: "Andrew Kolvet"
-description: "Andrew Kolvet (People) - 456 mentions"
+description: "Andrew Kolvet (People) - 479 mentions"
 id: "person-andrew-kolvet"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-andrew-kolvet-t-00-13-27">2025-09-11 · 00:14:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-02-41-45">2026-08-14 · 02:41:45</a></strong></div>
-<div><span>Episodes</span><strong>67</strong></div>
-<div><span>Mentions</span><strong>456</strong></div>
-<div><span>Statements by</span><strong>42</strong></div>
-<div><span>Statements about</span><strong>123</strong></div>
-<div><span>Relationships</span><strong>62</strong></div>
+<div><span>Episodes</span><strong>69</strong></div>
+<div><span>Mentions</span><strong>479</strong></div>
+<div><span>Statements by</span><strong>46</strong></div>
+<div><span>Statements about</span><strong>128</strong></div>
+<div><span>Relationships</span><strong>66</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -101,6 +101,8 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-56-52" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#t-00-28-57" style="--pulse-height:8%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#t-00-13-05" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-person-andrew-kolvet-t-00-01-31" style="--pulse-height:35%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 15 mentions" title="2026-04-15 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-andrew-kolvet-t-00-06-00" style="--pulse-height:19%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 8 mentions" title="2026-04-16 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-00-38-09" style="--pulse-height:9%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -173,6 +175,8 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-56-52) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-57) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#t-00-13-05) | 1 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-andrew-kolvet-t-00-01-31) | 15 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-andrew-kolvet-t-00-06-00) | 8 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-00-38-09) | 4 |
 
 </details>
@@ -181,7 +185,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (456)</strong></summary>
+<summary><strong class="section-title">Raw mentions (479)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -197,6 +201,85 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 **[02:41:45](/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-02-41-45)**
 > "I mean, I'm talking about Andrew Kolvet at his position as he's a spokesperson for Turnin..."
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (8 mentions)</summary>
+
+**[00:06:00](/episodes/ep-1mYNOqzAdXs.md#ent-person-andrew-kolvet-t-00-06-00)**
+> "she is all over the place they are all over the place um and i just want to say that we deserve better psyops but i um i want you to know that The lie that she told here is so big that it is worthy of not just her having to step down, but Andrew Kolvet should frankly also have to resign in shame once I show you how this went down."
+
+**[00:11:15](/episodes/ep-1mYNOqzAdXs.md#ent-person-andrew-kolvet-t-00-11-02)**
+> "...ted out the fact that Andrew (Andrew Kolvet) was dressed way too casually and Andrew (Andrew ..."
+
+**[00:12:21](/episodes/ep-1mYNOqzAdXs.md#ent-person-andrew-kolvet-t-00-12-21)**
+> "...urs ago, as you know, Andrew (Andrew Kolvet), I was a little worried that we were going to ha..."
+
+**[00:17:58](/episodes/ep-1mYNOqzAdXs.md#ent-person-andrew-kolvet-t-00-17-58)**
+> "...and then she directed Andrew (Andrew Kolvet) to make up a sinister lie."
+
+**[00:19:20](/episodes/ep-1mYNOqzAdXs.md#ent-person-andrew-kolvet-t-00-19-14)**
+> "... crisis PR person and Andrew (Andrew Kolvet) was sort of made to step aside because what an i..."
+
+**[00:22:50](/episodes/ep-1mYNOqzAdXs.md#ent-person-andrew-kolvet-t-00-22-44)**
+> "...hey hired somebody who is not Andrew Kolvet and they are copying to the fact that they had be..."
+
+**[00:23:10](/episodes/ep-1mYNOqzAdXs.md#ent-person-andrew-kolvet-t-00-22-44)**
+> "what Andrew Kolvet should have to apologize. He should apologize to ..."
+
+**[00:52:05](/episodes/ep-1mYNOqzAdXs.md#ent-person-andrew-kolvet-t-00-52-05)**
+> "...at's it. But instead, Andrew (Andrew Kolvet) came out there with the energy of, 'It's your fa..."
+
+</details>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (15 mentions)</summary>
+
+**[00:01:59](/episodes/ep-SubDoZWHARo.md#ent-person-andrew-kolvet-t-00-01-31)**
+> "none other than Andrew Kolvet on stage"
+
+**[00:03:20](/episodes/ep-SubDoZWHARo.md#ent-person-andrew-kolvet-t-00-02-56)**
+> "Yet, Andrew Kolvet is going to, as you are about to see, last minute..."
+
+**[00:07:17](/episodes/ep-SubDoZWHARo.md#ent-person-andrew-kolvet-t-00-07-05)**
+> "Well, we can always rely on Andrew Kolvet to further illuminate matters on Fox News. Take a..."
+
+**[00:14:49](/episodes/ep-SubDoZWHARo.md#ent-person-andrew-kolvet-t-00-14-13)**
+> "Yet in the corner, it says Andrew Kolvet via X on Tuesday because it says Athens, Georgia...."
+
+**[00:15:06](/episodes/ep-SubDoZWHARo.md#ent-person-andrew-kolvet-t-00-14-58)**
+> "...ing of substance when Andrew (Andrew Kolvet) spoke. That is humiliating. That is humiliating...."
+
+**[00:16:28](/episodes/ep-SubDoZWHARo.md#ent-person-andrew-kolvet-t-00-16-15)**
+> "...he was not coming long before Andrew Kolvet made the announcement on stage. Yet she did not m..."
+
+**[00:17:29](/episodes/ep-SubDoZWHARo.md#ent-person-andrew-kolvet-t-00-16-56)**
+> "...were lying as soon as Andrew (Andrew Kolvet) announced it on stage."
+
+**[00:21:54](/episodes/ep-SubDoZWHARo.md#ent-person-andrew-kolvet-t-00-21-34)**
+> "...messaging, the setup there by Andrew Kolvet."
+
+**[00:23:59](/episodes/ep-SubDoZWHARo.md#ent-person-andrew-kolvet-t-00-23-30)**
+> "In response to Andrew Kolvet's questioning, he's going to lecture us. He's going..."
+
+**[00:24:31](/episodes/ep-SubDoZWHARo.md#ent-person-andrew-kolvet-t-00-24-31)**
+> "...nother angle of this, Andrew (Andrew Kolvet), which is just so absurd, which is that, you kno..."
+
+**[00:24:46](/episodes/ep-SubDoZWHARo.md#ent-person-andrew-kolvet-t-00-24-31)**
+> "...Erika (Erika Kirk) or Andrew (Andrew Kolvet) say on the Turning Point podcast."
+
+**[00:30:39](/episodes/ep-SubDoZWHARo.md#ent-person-andrew-kolvet-t-00-30-02)**
+> "...e things are leaking, Andrew (Andrew Kolvet) is contorting the story."
+
+**[00:32:38](/episodes/ep-SubDoZWHARo.md#ent-person-andrew-kolvet-t-00-32-38)**
+> "Tough job, Andrew (Andrew Kolvet). It's truly a tough job that Andrew Kolvet has. ..."
+
+**[00:43:12](/episodes/ep-SubDoZWHARo.md#ent-person-andrew-kolvet-t-00-43-07)**
+> "...e office he's very close with Andrew Kolvet that's what I am told by again both current and f..."
+
+**[01:01:21](/episodes/ep-SubDoZWHARo.md#ent-person-andrew-kolvet-t-01-00-56)**
+> "...at? Does it sound to you like Andrew Kolvet has a brain or like there could be someone more c..."
 
 </details>
 
@@ -1925,12 +2008,19 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>Appeared With (1)</summary>
+<summary>Appeared With (2)</summary>
 
 - **[Eric Bolling](/entities/person-eric-bolling.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:08:27](/episodes/ep-sreYYcID-QY.md#t-00-08-13): “Andrew Kolvet was there in the room.”
+
+</details>
+
+- **[JD Vance](/entities/person-jd-vance.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:03:41](/episodes/ep-SubDoZWHARo.md#t-00-03-32): “Mr. Vice President, I'm on stage here instead of our friend Erika Kirk.”
 
 </details>
 
@@ -2081,7 +2171,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>Interviewed (2)</summary>
+<summary>Interviewed (3)</summary>
 
 - **[Kash Patel](/entities/person-kash-patel.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -2095,6 +2185,13 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:34:30](/episodes/ep-SgVcnx4Oh30.md#t-00-34-30): “at this moment when Andrew (Andrew Kolvet) was interviewing him, it's before Nick (Nick Shirley) goes mega viral”
+
+</details>
+
+- **[JD Vance](/entities/person-jd-vance.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:12:03](/episodes/ep-1mYNOqzAdXs.md#t-00-11-43): “And the first question Kolvet asks him, he sets him up and says, oh, Erika (Erika Kirk), oh, my gosh. And listen to J.D. Vance say that two hours ago”
 
 </details>
 
@@ -2249,7 +2346,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>Referenced By (31)</summary>
+<summary>Referenced By (33)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -2271,6 +2368,13 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:08:27](/episodes/ep-sreYYcID-QY.md#t-00-08-13): “Andrew Kolvet was there in the room.”
+
+</details>
+
+- **[JD Vance](/entities/person-jd-vance.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:03:41](/episodes/ep-SubDoZWHARo.md#t-00-03-32): “Mr. Vice President, I'm on stage here instead of our friend Erika Kirk.”
 
 </details>
 
@@ -2436,6 +2540,13 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 </details>
 
+- **[JD Vance](/entities/person-jd-vance.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:12:03](/episodes/ep-1mYNOqzAdXs.md#t-00-11-43): “And the first question Kolvet asks him, he sets him up and says, oh, Erika (Erika Kirk), oh, my gosh. And listen to J.D. Vance say that two hours ago”
+
+</details>
+
 - **[White House](/entities/org-white-house.md)** met with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -2501,7 +2612,24 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Andrew Kolvet (42)</strong></summary>
+<summary><strong class="section-title">Statements by Andrew Kolvet (46)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (4)</summary>
+
+- [00:03:46](/episodes/ep-SubDoZWHARo.md#t-00-03-46) [◐] (Claim) ["Erika Kirk had received very serious threats."](/statements/statement-496c2382d7fe.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:07:50](/episodes/ep-SubDoZWHARo.md#t-00-07-24) [✓] (Claim) ["The security team told Turning Point USA that it could not guarantee Erika Kirk'..."](/statements/statement-9f96594247aa.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:31:24](/episodes/ep-SubDoZWHARo.md#t-00-31-14) [◐] (Claim) ["Turning Point USA canceled a high-school appearance planned before the college e..."](/statements/statement-bf0a415b2482.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:32:00](/episodes/ep-SubDoZWHARo.md#t-00-31-46) [◐] (Claim) ["People were trying to dox and monitor Erika Kirk's travel while suggesting ways ..."](/statements/statement-5a21d5c4fcef.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>
@@ -2722,7 +2850,32 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Kolvet (123)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Kolvet (128)</strong></summary>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (2)</summary>
+
+- [00:06:00](/episodes/ep-1mYNOqzAdXs.md#t-00-06-00) (Opinion) **Candace Owens**: ["Candace Owens said Andrew Kolvet should resign in shame over the false..."](/statements/statement-8ebe06fbc0f7.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:17:58](/episodes/ep-1mYNOqzAdXs.md#t-00-17-58) (Accusation) **Candace Owens**: ["Candace Owens's best read was that Erika Kirk saw the crowd, did not w..."](/statements/statement-e92ba7dafade.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [JD Vance](/entities/person-jd-vance.md), [United States Secret Service](/entities/org-united-states-secret-service.md)
+
+</details>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (3)</summary>
+
+- [00:14:58](/episodes/ep-SubDoZWHARo.md#t-00-14-58) (Accusation) **Candace Owens**: ["The Fox News segment spliced footage from three separate prior events ..."](/statements/statement-34314412ea26.md)
+  - Also about: [Fox News](/entities/org-fox-news.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:16:28](/episodes/ep-SubDoZWHARo.md#t-00-16-15) (Accusation) **Candace Owens**: ["Erika Kirk knew long before Andrew Kolvet's stage announcement that sh..."](/statements/statement-7e2421d2d754.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:43:12](/episodes/ep-SubDoZWHARo.md#t-00-43-07) (Accusation) **Anonymous Source #3 (Ep SubDoZWHARo)** (via read message): ["Current and former Turning Point USA employees said Marcus Wada openly..."](/statements/statement-bcde3b94698d.md)
+  - Also about: [Marcus Wada](/entities/person-marcus-wada.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>

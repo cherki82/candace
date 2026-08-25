@@ -1,6 +1,6 @@
 ---
 title: "Bill Clinton"
-description: "Bill Clinton (People) - 4 mentions"
+description: "Bill Clinton (People) - 6 mentions"
 id: "person-bill-clinton"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [President Bill Clinton biography — White House archive](https://clint
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-bill-clinton-t-00-08-32">2026-02-25 · 00:08:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-bill-clinton-t-00-26-31">2026-04-10 · 00:26:43</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-bill-clinton-t-00-28-54">2026-04-20 · 00:29:22</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [President Bill Clinton biography — White House archive](https://clint
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-bill-clinton-t-00-08-32" style="--pulse-height:100%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 3 mentions" title="2026-02-25 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-bill-clinton-t-00-26-31" style="--pulse-height:33%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-bill-clinton-t-00-28-54" style="--pulse-height:67%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [President Bill Clinton biography — White House archive](https://clint
 |---|---|---:|
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-bill-clinton-t-00-08-32) | 3 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-bill-clinton-t-00-26-31) | 1 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-bill-clinton-t-00-28-54) | 2 |
 
 </details>
 </section>
@@ -51,7 +53,18 @@ Source: [President Bill Clinton biography — White House archive](https://clint
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (2 mentions)</summary>
+
+**[00:28:54](/episodes/ep-kaWtDuoY_ns.md#ent-person-bill-clinton-t-00-28-54)**
+> "...d she have totally made Bill (Bill Clinton) step aside? One hundred percent. Who knows what ..."
+
+**[00:29:22](/episodes/ep-kaWtDuoY_ns.md#ent-person-bill-clinton-t-00-28-54)**
+> "...y more intelligent than Bill (Bill Clinton)."
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>

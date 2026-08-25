@@ -1,6 +1,6 @@
 ---
 title: "Catholics for Catholics"
-description: "Catholics for Catholics (Organizations) - 13 mentions"
+description: "Catholics for Catholics (Organizations) - 14 mentions"
 id: "org-catholics-for-catholics"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Catholics for Catholics endorses Arizona Catholic Conference statement]
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#t-00-39-11">2025-12-20 · 00:39:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-catholics-for-catholics-t-00-43-22">2026-03-25 · 00:43:36</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-catholics-for-catholics-t-00-16-34">2026-04-16 · 00:16:53</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -41,6 +41,7 @@ Source: [Catholics for Catholics endorses Arizona Catholic Conference statement]
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-catholics-for-catholics-t-00-18-07" style="--pulse-height:50%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-catholics-for-catholics-t-00-48-59" style="--pulse-height:50%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-catholics-for-catholics-t-00-32-47" style="--pulse-height:100%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 4 mentions" title="2026-03-25 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-catholics-for-catholics-t-00-16-34" style="--pulse-height:25%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [Catholics for Catholics endorses Arizona Catholic Conference statement]
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-catholics-for-catholics-t-00-18-07) | 2 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-catholics-for-catholics-t-00-48-59) | 2 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-catholics-for-catholics-t-00-32-47) | 4 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-catholics-for-catholics-t-00-16-34) | 1 |
 
 </details>
 </section>
@@ -58,7 +60,15 @@ Source: [Catholics for Catholics endorses Arizona Catholic Conference statement]
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1 mentions)</summary>
+
+**[00:16:53](/episodes/ep-1mYNOqzAdXs.md#ent-org-catholics-for-catholics-t-00-16-34)**
+> "all that energy fired up about how she was being treated. I have no proof of this. I'm going to speculate here, but I do know that when Erika (Erika Kirk) did not want people to show up to the Catholics for Catholics event because I was speaking there, wasn't speaking about her, we're not speaking about politics, we're literally, it was a prayer."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (4 mentions)</summary>

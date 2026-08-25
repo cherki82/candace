@@ -10,13 +10,13 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-home-actions"><a class="primary" href="/index/claims">Explore factual claims</a><a href="/index/explorer">Search all statements</a><a href="/index/threads">Follow a reviewed theory thread</a></div>
 </div>
 
-<p class="kg-freshness"><strong>102 sources</strong> · processed through <time datetime="2026-08-14">2026-08-14</time> · generated <time datetime="2026-08-24">2026-08-24</time></p>
+<p class="kg-freshness"><strong>106 sources</strong> · processed through <time datetime="2026-08-14">2026-08-14</time> · generated <time datetime="2026-08-24">2026-08-24</time></p>
 
 <div class="kg-stat-grid">
-<div><strong>3,549</strong><span>Claims &amp; statements</span></div>
-<div><strong>2,699</strong><span>Tracked entities</span></div>
-<div><strong>1,207</strong><span>Timeline events</span></div>
-<div><strong>1,133</strong><span>Research sources</span></div>
+<div><strong>3,693</strong><span>Claims &amp; statements</span></div>
+<div><strong>2,776</strong><span>Tracked entities</span></div>
+<div><strong>1,241</strong><span>Timeline events</span></div>
+<div><strong>1,201</strong><span>Research sources</span></div>
 </div>
 
 ## Latest source additions
@@ -30,23 +30,23 @@ description: "An evidence-first research workbench for imported video, audio, an
 <span>Unspecified source</span>
 </article>
 <article>
-<time datetime="2026-04-14">2026-04-14</time>
-<a href="/episodes/ep-jsqUIkszZd0">BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324</a>
+<time datetime="2026-04-21">2026-04-21</time>
+<a href="/episodes/ep-xi8SYJTUXPM">Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328</a>
 <span>Candace Owens</span>
 </article>
 <article>
-<time datetime="2026-04-13">2026-04-13</time>
-<a href="/episodes/ep-eLgD5yUVbko">Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</a>
+<time datetime="2026-04-20">2026-04-20</time>
+<a href="/episodes/ep-kaWtDuoY_ns">EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327</a>
 <span>Candace Owens</span>
 </article>
 <article>
-<time datetime="2026-04-10">2026-04-10</time>
-<a href="/episodes/ep-ZIH5-V6UPkg">An Open Letter To President Donald Trump (My Response) | Candace Ep 322</a>
+<time datetime="2026-04-16">2026-04-16</time>
+<a href="/episodes/ep-1mYNOqzAdXs">Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326</a>
 <span>Candace Owens</span>
 </article>
 <article>
-<time datetime="2026-04-02">2026-04-02</time>
-<a href="/episodes/ep-q1NRQQAYS_Q">SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321</a>
+<time datetime="2026-04-15">2026-04-15</time>
+<a href="/episodes/ep-SubDoZWHARo">Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325</a>
 <span>Candace Owens</span>
 </article>
 </div>
@@ -56,46 +56,46 @@ description: "An evidence-first research workbench for imported video, audio, an
 <p class="research-section-note">Entity mentions in the five newest sources compared with the preceding five.</p>
 
 <div class="attention-grid">
-<a href="/entities/person-tyler-robinson"><strong>Tyler Robinson</strong><span>133 recent mentions · +72 vs prior window</span></a>
-<a href="/entities/person-donald-trump"><strong>Donald J. Trump</strong><span>89 recent mentions · +72 vs prior window</span></a>
-<a href="/entities/person-candace-owens"><strong>Candace Owens</strong><span>95 recent mentions · +52 vs prior window</span></a>
-<a href="/entities/person-victor-marx"><strong>Victor Marx</strong><span>48 recent mentions · +48 vs prior window</span></a>
-<a href="/entities/person-lance-twiggs"><strong>Lance Twiggs</strong><span>45 recent mentions · +45 vs prior window</span></a>
-<a href="/entities/person-charlie-kirk"><strong>Charlie Kirk</strong><span>129 recent mentions · +43 vs prior window</span></a>
+<a href="/entities/person-tyler-robinson"><strong>Tyler Robinson</strong><span>147 recent mentions · +110 vs prior window</span></a>
+<a href="/entities/person-charlie-kirk"><strong>Charlie Kirk</strong><span>153 recent mentions · +108 vs prior window</span></a>
+<a href="/entities/person-erika-kirk"><strong>Erika Kirk</strong><span>207 recent mentions · +103 vs prior window</span></a>
+<a href="/entities/person-candace-owens"><strong>Candace Owens</strong><span>99 recent mentions · +46 vs prior window</span></a>
+<a href="/entities/person-lance-twiggs"><strong>Lance Twiggs</strong><span>41 recent mentions · +31 vs prior window</span></a>
+<a href="/entities/person-andrew-wilson"><strong>Andrew Wilson</strong><span>31 recent mentions · +31 vs prior window</span></a>
 </div>
 
 ## Latest verification outcomes
 
 <div class="verification-feed">
 <article>
-<span class="status-badge status-mixed">mixed</span>
-<a href="/statements/statement-2a61ec0f217f">Candace Owens accused Erika Kirk&#x27;s events of using fake, pre-planned question-and-answer segments to create the illusion of open speech.</a>
-<small>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</small>
-</article>
-<article>
-<span class="status-badge status-mixed">mixed</span>
-<a href="/statements/statement-cdcdb0b37222">Candace Owens said Donald Trump had lost support from the Make America Healthy Again movement, Megyn Kelly, Candace Owens, Alex Jones, and others over his Middle East policy.</a>
-<small>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</small>
-</article>
-<article>
 <span class="status-badge status-true">true</span>
-<a href="/statements/statement-90beac51be54">Donald Trump said he posted an AI image because he thought it depicted him as a doctor and Red Cross worker making people better.</a>
-<small>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</small>
-</article>
-<article>
-<span class="status-badge status-true">true</span>
-<a href="/statements/statement-4b315897c442">Donald Trump claimed that Pope Leo XIV was chosen because he was American and the Church wanted the best way to deal with Trump, adding that Leo would not be in the Vatican if Trump were not in the White House.</a>
-<small>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</small>
-</article>
-<article>
-<span class="status-badge status-true">true</span>
-<a href="/statements/statement-69c641e20bd3">Candace Owens cited a state filing saying the prosecution did not intend to offer evidence obtained through forensic extraction of seized electronics, but intended to offer two exhibits made by recording text-message screens with cameras.</a>
-<small>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</small>
+<a href="/statements/statement-f0bce1919c05">I hope that Pooch has a bad sniffer.</a>
+<small>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328</small>
 </article>
 <article>
 <span class="status-badge status-mixed">mixed</span>
-<a href="/statements/statement-377e9550e3a3">Candace Owens accused federal authorities of changing their account from Discord messages to iMessage after Discord said it found no evidence that the suspect planned the incident or promoted violence on its platform.</a>
-<small>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</small>
+<a href="/statements/statement-f97bbf5fca26">Sentences were added to the affidavit versions of the messages attributed to Tyler Robinson.</a>
+<small>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328</small>
+</article>
+<article>
+<span class="status-badge status-true">true</span>
+<a href="/statements/statement-e44c3b814b8c">Candace Owens promises to protect source identities and says she would refuse to testify if compelled.</a>
+<small>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328</small>
+</article>
+<article>
+<span class="status-badge status-true">true</span>
+<a href="/statements/statement-355eb3d79b46">Laura Loomer said she became addicted to social media, substituted Twitter adrenaline rushes for cocaine, and experienced withdrawals when banned.</a>
+<small>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328</small>
+</article>
+<article>
+<span class="status-badge status-true">true</span>
+<a href="/statements/statement-ec45f863b04a">Laura Loomer said she drove to a cliff in February and legitimately attempted suicide.</a>
+<small>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328</small>
+</article>
+<article>
+<span class="status-badge status-true">true</span>
+<a href="/statements/statement-dc4fecfc6943">Laura Loomer said she began using cocaine to deal with severe anxiety and depression.</a>
+<small>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328</small>
 </article>
 </div>
 

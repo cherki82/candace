@@ -1,6 +1,6 @@
 ---
 title: "Judaism"
-description: "Judaism (Concepts) - 121 mentions"
+description: "Judaism (Concepts) - 130 mentions"
 id: "concept-judaism"
 type: "CONCEPT"
 aliases:
@@ -22,10 +22,10 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-22-23">2026-01-12 · 00:22:34</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12">2026-08-14 · 00:28:34</a></strong></div>
-<div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>121</strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>130</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>17</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -61,6 +61,9 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-judaism-t-00-02-24" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 2 mentions" title="2026-03-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-judaism-t-00-33-38" style="--pulse-height:25%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 6 mentions" title="2026-04-10 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-judaism-t-00-18-22" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-concept-judaism-t-00-53-46" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-concept-judaism-t-00-50-26" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 2 mentions" title="2026-04-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-judaism-t-00-38-37" style="--pulse-height:21%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 5 mentions" title="2026-04-20 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -94,6 +97,9 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-concept-judaism-t-00-02-24) | 2 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-judaism-t-00-33-38) | 6 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-concept-judaism-t-00-18-22) | 1 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-concept-judaism-t-00-53-46) | 2 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-concept-judaism-t-00-50-26) | 2 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-concept-judaism-t-00-38-37) | 5 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12) | 1 |
 
 </details>
@@ -102,13 +108,55 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (121)</strong></summary>
+<summary><strong class="section-title">Raw mentions (130)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:28:34](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12)**
 > "... sent a text message reading, Jewish donors play into all the stereotypes."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (5 mentions)</summary>
+
+**[00:38:37](/episodes/ep-kaWtDuoY_ns.md#ent-concept-judaism-t-00-38-37)**
+> "She's not even Jewish. Her entire identity as being a feisty Jewess is ..."
+
+**[00:38:45](/episodes/ep-kaWtDuoY_ns.md#ent-concept-judaism-t-00-38-37)**
+> "She told me that she was not Jewish. She told multiple people that she is not Jewish...."
+
+**[00:38:53](/episodes/ep-kaWtDuoY_ns.md#ent-concept-judaism-t-00-38-37)**
+> "...Irish and English. Obviously, Judaism is matrilineal. She did not, she was not raised i..."
+
+**[00:39:01](/episodes/ep-kaWtDuoY_ns.md#ent-concept-judaism-t-00-38-37)**
+> "...dient to pretend that she was Jewish."
+
+**[00:42:53](/episodes/ep-kaWtDuoY_ns.md#ent-concept-judaism-t-00-42-53)**
+> "I know, but I'm Jewish."
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (2 mentions)</summary>
+
+**[00:50:26](/episodes/ep-1mYNOqzAdXs.md#ent-concept-judaism-t-00-50-26)**
+> "I really do because it's like it's there's something especially gross about doing it while wearing a veneer of Christianity you can almost understand it for a lot of the the Jewish Americans right in the same way like I always say like we were raised as black Americans and like you're kind of learning about slavery and like that's going to be your scariest point of historical reference in school you can understand when a Jewish Zionist how they could fall into that trap and a lot of them are now waking up the scales are falling from their eyes they are not with Bibi Netanyahu (Benjamin Netanyahu)"
+
+**[00:50:52](/episodes/ep-1mYNOqzAdXs.md#ent-concept-judaism-t-00-50-26)**
+> "Look at the polls. Jewish Americans are realizing he's just a mass murderer..."
+
+</details>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (2 mentions)</summary>
+
+**[00:53:46](/episodes/ep-SubDoZWHARo.md#ent-concept-judaism-t-00-53-46)**
+> "Judaism"
+
+**[00:45:30](/episodes/ep-SubDoZWHARo.md#ent-concept-judaism-t-00-45-11)**
+> "...ent last name and this guy is Jewish and he runs a consulting company that consults in..."
 
 </details>
 
@@ -611,7 +659,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Judaism (17)</strong></summary>
+<summary><strong class="section-title">Statements about Judaism (18)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1)</summary>
+
+- [00:38:37](/episodes/ep-kaWtDuoY_ns.md#t-00-38-37) (Accusation) **Candace Owens**: ["Candace Owens accused Laura Loomer of inventing a Jewish identity arou..."](/statements/statement-b7421353cc5e.md)
+  - Also about: [Laura Loomer](/entities/person-laura-loomer.md)
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1)</summary>

@@ -4,9 +4,10 @@ description: "\"In late fall 2024, Victor Marx told Corby Hall that he needed 50
 statement_id: "statement-86f6c265cf9b"
 speaker: "Victor Marx"
 type: "accusation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -37,7 +38,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Hall publicly repeated that Marx requested 50 guns to take and drop off in Haiti and that Hall refused because of export restrictions. Marx later acknowledged wanting to bring weapons to Haiti but denied trafficking and disputed the framing. The request for Haiti weapons is corroborated at the allegation level; the exact drop-off-and-leave terms remain contested.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Ryan Schuiling Live: Corby Hall interview part 2](https://www.iheart.com/podcast/1248-ryan-schuiling-live-166438128/episode/exclusive-corby-hall-former-victor-marx-333272392/)
+
+*Verified: 2026-08-24T19:11:26.021101*
 
 ---
 

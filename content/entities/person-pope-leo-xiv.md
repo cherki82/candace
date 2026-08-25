@@ -1,6 +1,6 @@
 ---
 title: "Pope Leo XIV"
-description: "Pope Leo XIV (People) - 4 mentions"
+description: "Pope Leo XIV (People) - 5 mentions"
 id: "person-pope-leo-xiv"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Biography of the Holy Father Leo XIV - Vatican](https://www.vatican.va/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-pope-leo-xiv-t-00-00-26">2026-04-13 · 00:00:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-pope-leo-xiv-t-00-58-47">2026-04-13 · 00:59:18</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-pope-leo-xiv-t-00-55-09">2026-04-20 · 00:55:39</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
@@ -37,12 +37,14 @@ Source: [Biography of the Holy Father Leo XIV - Vatican](https://www.vatican.va/
 <p>Highest activity: <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-pope-leo-xiv-t-00-00-26">Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-pope-leo-xiv-t-00-00-26" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 4 mentions" title="2026-04-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-pope-leo-xiv-t-00-55-09" style="--pulse-height:25%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-pope-leo-xiv-t-00-00-26) | 4 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-pope-leo-xiv-t-00-55-09) | 1 |
 
 </details>
 </section>
@@ -50,7 +52,15 @@ Source: [Biography of the Holy Father Leo XIV - Vatican](https://www.vatican.va/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1 mentions)</summary>
+
+**[00:55:39](/episodes/ep-kaWtDuoY_ns.md#ent-person-pope-leo-xiv-t-00-55-09)**
+> "...be liked by a traitor, right? Pope Leo? Yeah, you know what? You are right."
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (4 mentions)</summary>

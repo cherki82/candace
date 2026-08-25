@@ -1,6 +1,6 @@
 ---
 title: "American Red Cross"
-description: "American Red Cross (Organizations) - 4 mentions"
+description: "American Red Cross (Organizations) - 5 mentions"
 id: "org-american-red-cross"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Our History - American Red Cross](https://www.redcross.org/about-us/who
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-org-american-red-cross-t-01-01-04">2026-04-13 · 01:01:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-org-american-red-cross-t-01-01-34">2026-04-13 · 01:02:00</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-org-american-red-cross-t-00-25-52">2026-04-15 · 00:26:21</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,12 +36,14 @@ Source: [Our History - American Red Cross](https://www.redcross.org/about-us/who
 <p>Highest activity: <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-american-red-cross-t-01-01-04">Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-american-red-cross-t-01-01-04" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 4 mentions" title="2026-04-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-org-american-red-cross-t-00-25-52" style="--pulse-height:25%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-american-red-cross-t-01-01-04) | 4 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-american-red-cross-t-00-25-52) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [Our History - American Red Cross](https://www.redcross.org/about-us/who
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
+
+**[00:26:21](/episodes/ep-SubDoZWHARo.md#ent-org-american-red-cross-t-00-25-52)**
+> "Jesus was a Red Cross doctor"
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (4 mentions)</summary>

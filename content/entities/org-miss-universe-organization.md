@@ -1,6 +1,6 @@
 ---
 title: "Miss Universe Organization"
-description: "Miss Universe Organization (Organizations) - 1 mention"
+description: "Miss Universe Organization (Organizations) - 2 mentions"
 id: "org-miss-universe-organization"
 type: "ORG"
 aliases:
@@ -21,9 +21,9 @@ Source: [Miss Universe: About](https://www.missuniverse.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-miss-universe-organization-t-00-31-05">2026-02-02 · 00:31:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-miss-universe-organization-t-00-31-05">2026-02-02 · 00:31:05</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-org-miss-universe-organization-t-00-43-51">2026-04-15 · 00:43:57</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,12 +35,14 @@ Source: [Miss Universe: About](https://www.missuniverse.com/about/)
 <p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-miss-universe-organization-t-00-31-05">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-miss-universe-organization-t-00-31-05" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-org-miss-universe-organization-t-00-43-51" style="--pulse-height:100%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-miss-universe-organization-t-00-31-05) | 1 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-miss-universe-organization-t-00-43-51) | 1 |
 
 </details>
 </section>
@@ -48,7 +50,15 @@ Source: [Miss Universe: About](https://www.missuniverse.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
+
+**[00:43:57](/episodes/ep-SubDoZWHARo.md#ent-org-miss-universe-organization-t-00-43-51)**
+> "Miss Universe"
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>

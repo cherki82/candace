@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Lori Frantzve](/entities/person-lori-frantzve) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY)**
 
@@ -28,6 +28,10 @@ object: "person-candace-owens"
 **[Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w)**
 
 - [00:35:01](/episodes/ep-jTj9Ip46r4w#t-00-35-01): _But I'm telling you this because I think Lori Frantzve is rotten to her core and I therefore found it unbelievably interesting that someone located an old interview and asked me anything segment from Charlie Kirk's show_
+
+**[Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM)**
+
+- [00:22:04](/episodes/ep-xi8SYJTUXPM#t-00-22-04): _I looked into Lori, I feel differently about her. Okay, so she learned everything from her mother. That should terrify you._
 
 ### Related
 

@@ -5,6 +5,27 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-08-24 23:44:59
+
+**Added 4 episode(s):**
+  - `1mYNOqzAdXs`: Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326
+  - `SubDoZWHARo`: Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325
+  - `kaWtDuoY_ns`: EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327
+  - `xi8SYJTUXPM`: Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328
+**Added 77 new entity/entities**
+**Added 35 new event(s)**
+**Removed 1 event(s)**
+**Added 84 new relationship(s)**
+
+**Totals:**
+- Episodes: 106
+- Entities: 2776
+- Events: 1241
+- Claims: 1461
+- Relationships: 2824
+
+---
+
 ## 2026-08-24 19:05:26
 
 **Added 1 episode(s):**

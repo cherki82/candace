@@ -1,6 +1,6 @@
 ---
 title: "Lori Frantzve"
-description: "Lori Frantzve (People) - 212 mentions"
+description: "Lori Frantzve (People) - 222 mentions"
 id: "person-lori-frantzve"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-27-36">2026-01-06 · 00:27:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-59-01">2026-04-02 · 00:59:28</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>212</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-lori-frantzve-t-00-21-04">2026-04-21 · 00:22:04</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>222</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>93</strong></div>
-<div><span>Relationships</span><strong>46</strong></div>
+<div><span>Statements about</span><strong>98</strong></div>
+<div><span>Relationships</span><strong>47</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -56,6 +56,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-lori-frantzve-t-00-32-04" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-lori-frantzve-t-00-52-28" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-41-37" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 5 mentions" title="2026-04-02 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-lori-frantzve-t-00-15-52" style="--pulse-height:17%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 10 mentions" title="2026-04-21 · 10 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -82,6 +83,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-lori-frantzve-t-00-32-04) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-lori-frantzve-t-00-52-28) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-41-37) | 5 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-lori-frantzve-t-00-15-52) | 10 |
 
 </details>
 </section>
@@ -89,7 +91,42 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (212)</strong></summary>
+<summary><strong class="section-title">Raw mentions (222)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (10 mentions)</summary>
+
+**[00:00:42](/episodes/ep-xi8SYJTUXPM.md#ent-person-lori-frantzve-t-00-15-52)**
+> "...bout Erika Kirk's mother, the Lori, the Lori and gun sales."
+
+**[00:16:06](/episodes/ep-xi8SYJTUXPM.md#ent-person-lori-frantzve-t-00-15-52)**
+> "...ou're thinking, but what were Lori Frantzve and Erika Kirk doing at that time?"
+
+**[00:16:24](/episodes/ep-xi8SYJTUXPM.md#ent-person-lori-frantzve-t-00-15-52)**
+> "So Lori and Erika's stepfather, Larry, who we have not do..."
+
+**[00:16:43](/episodes/ep-xi8SYJTUXPM.md#ent-person-lori-frantzve-t-00-15-52)**
+> "...t these are the facts. OK, so Lori came into contact with a couple of guys who had f..."
+
+**[00:17:28](/episodes/ep-xi8SYJTUXPM.md#ent-person-lori-frantzve-t-00-17-09)**
+> "Similarly, Lori Frantzve and Larry were interested in a gun pending patent..."
+
+**[00:18:01](/episodes/ep-xi8SYJTUXPM.md#ent-person-lori-frantzve-t-00-17-09)**
+> ".... Anyway, the story goes that Lori, remember we had showed you that she had gone to ..."
+
+**[00:18:46](/episodes/ep-xi8SYJTUXPM.md#ent-person-lori-frantzve-t-00-17-09)**
+> "At this dinner, you have Lori, you have Larry Guinta, and the two would-be comp..."
+
+**[00:19:10](/episodes/ep-xi8SYJTUXPM.md#ent-person-lori-frantzve-t-00-17-09)**
+> "... they do. Yeah, we know that. Lori was doing deals with the government for her EMP t..."
+
+**[00:21:13](/episodes/ep-xi8SYJTUXPM.md#ent-person-lori-frantzve-t-00-21-04)**
+> "...t it sure is interesting that Lori Frantzve was interested in the weapons industry, particula..."
+
+**[00:22:04](/episodes/ep-xi8SYJTUXPM.md#ent-person-lori-frantzve-t-00-21-04)**
+> "I looked into Lori, I feel differently about her. Okay, so she learn..."
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (5 mentions)</summary>
@@ -853,9 +890,10 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <summary>Affiliated With (2)</summary>
 
 - **[GTEC Industries](/entities/org-gtec-industries.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:56](/episodes/ep-DdPjoy5W-wY.md#t-00-40-56): “here is what me and my husband Larry Guinta recommend that you do. and it's g-tech industries”
+- [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:18:01](/episodes/ep-xi8SYJTUXPM.md#t-00-17-54): “Anyway, the story goes that Lori, remember we had showed you that she had gone to this expo, this exposition up in Salt Lake City in Utah, and this is when she was hawking her G-Tech, G-Tech Industries, her EMP Doomsday Tech.”
 
 </details>
 
@@ -917,12 +955,13 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:23:28](/episodes/ep-cZxHqYsWRYg.md#t-00-23-14): “I think these people are sick in the head. There is something very wrong with Lori (Lori Frantzve). There is something very wrong with Erika (Erika Kirk).”
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:35:01](/episodes/ep-jTj9Ip46r4w.md#t-00-34-40): “But I'm telling you this because I think Lori Frantzve is rotten to her core and I therefore found it unbelievably interesting that someone located an old interview and asked me anything segment from Charlie Kirk's show”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:19:14](/episodes/ep-2tFYJf1klgY.md#t-00-18-48): “With everything I know about Lori (Lori Frantzve), I don't love it.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:42:14](/episodes/ep-DdPjoy5W-wY.md#t-00-42-04): “Lori (Lori Frantzve) gives me scam artist”
+- [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:22:04](/episodes/ep-xi8SYJTUXPM.md#t-00-21-46): “I looked into Lori, I feel differently about her. Okay, so she learned everything from her mother. That should terrify you.”
 
 </details>
 
@@ -1062,7 +1101,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <summary>Parent Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-26): “Senator David Farnsworth. introduced Erika (Erika Kirk)'s mother to the house floor with concerns over EMPs”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:11:59](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-22): “Lori Frantzve. Erika (Erika Kirk)'s mom, Lori Frantzve.”
@@ -1076,13 +1115,14 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:26:08](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53): “Erika (Erika Kirk)'s strange attachment to Tyler Bowyer, but lack of a memory regarding Tyler Bowyer? Superfeed incorporated where Erika (Erika Kirk)'s mother is serving as a board member with Tyler Bowyer?”
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:08:39](/episodes/ep-_vg7ucP1E0g.md#t-00-08-39): “We have that in November. Her mother establishes G-Tech Industries LLC. I know you're going to say, what is it do? ... You know, it's Lori (Lori Frantzve). So it's like this. She's doing this whole EMP thing and she's getting money and she's.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:49](/episodes/ep-q1NRQQAYS_Q.md#t-00-35-33): “It continues. Ms. Kirk was sitting in her mother's hospital room at 1123 a.m. local time in Phoenix when she saw the number of her husband's longtime assistant, Michael McCoy, appear on her phone.”
+- [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:19:50](/episodes/ep-xi8SYJTUXPM.md#t-00-19-36): “To me, her and her mom are like Bonnie and Clyde.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Worked With (5)</summary>
+<summary>Worked With (6)</summary>
 
 - **[Lyle Reams](/entities/person-lyle-reams.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1121,6 +1161,13 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 
 </details>
 
+- **[Larry Guinta](/entities/person-larry-guinta.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:18:21](/episodes/ep-xi8SYJTUXPM.md#t-00-18-21): “I showed you this, and I'm going to say 'allegedly' here, but I am telling you the truth: allegedly, at this time, she and Larry meet the guys who have this patent pending, and they offer to introduce these guys to their angel investor for G-Tech Industries. So they set up a dinner back in Scottsdale, Arizona. Again, this is going to be late 2016.”
+
+</details>
+
 </details>
 
 <details>
@@ -1134,7 +1181,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** child of this
-<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-26): “Senator David Farnsworth. introduced Erika (Erika Kirk)'s mother to the house floor with concerns over EMPs”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:11:59](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-22): “Lori Frantzve. Erika (Erika Kirk)'s mom, Lori Frantzve.”
@@ -1148,6 +1195,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:26:08](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53): “Erika (Erika Kirk)'s strange attachment to Tyler Bowyer, but lack of a memory regarding Tyler Bowyer? Superfeed incorporated where Erika (Erika Kirk)'s mother is serving as a board member with Tyler Bowyer?”
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:08:39](/episodes/ep-_vg7ucP1E0g.md#t-00-08-39): “We have that in November. Her mother establishes G-Tech Industries LLC. I know you're going to say, what is it do? ... You know, it's Lori (Lori Frantzve). So it's like this. She's doing this whole EMP thing and she's getting money and she's.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:49](/episodes/ep-q1NRQQAYS_Q.md#t-00-35-33): “It continues. Ms. Kirk was sitting in her mother's hospital room at 1123 a.m. local time in Phoenix when she saw the number of her husband's longtime assistant, Michael McCoy, appear on her phone.”
+- [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:19:50](/episodes/ep-xi8SYJTUXPM.md#t-00-19-36): “To me, her and her mom are like Bonnie and Clyde.”
 
 </details>
 
@@ -1166,12 +1214,13 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:23:28](/episodes/ep-cZxHqYsWRYg.md#t-00-23-14): “I think these people are sick in the head. There is something very wrong with Lori (Lori Frantzve). There is something very wrong with Erika (Erika Kirk).”
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:35:01](/episodes/ep-jTj9Ip46r4w.md#t-00-34-40): “But I'm telling you this because I think Lori Frantzve is rotten to her core and I therefore found it unbelievably interesting that someone located an old interview and asked me anything segment from Charlie Kirk's show”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:19:14](/episodes/ep-2tFYJf1klgY.md#t-00-18-48): “With everything I know about Lori (Lori Frantzve), I don't love it.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:42:14](/episodes/ep-DdPjoy5W-wY.md#t-00-42-04): “Lori (Lori Frantzve) gives me scam artist”
+- [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:22:04](/episodes/ep-xi8SYJTUXPM.md#t-00-21-46): “I looked into Lori, I feel differently about her. Okay, so she learned everything from her mother. That should terrify you.”
 
 </details>
 
@@ -1297,7 +1346,27 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lori Frantzve (93)</strong></summary>
+<summary><strong class="section-title">Statements about Lori Frantzve (98)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (5)</summary>
+
+- [00:17:28](/episodes/ep-xi8SYJTUXPM.md#t-00-17-09) (Claim) **Candace Owens**: ["The gun patent that interested Lori Frantzve and Larry Guinta is now a..."](/statements/statement-c5d141a804da.md)
+  - Also about: [Larry Guinta](/entities/person-larry-guinta.md)
+
+- [00:18:21](/episodes/ep-xi8SYJTUXPM.md#t-00-18-21) (Claim) **Anonymous Source #1 (Ep xi8SYJTUXPM)** (via read message): ["In late 2016, Lori Frantzve and Larry Guinta met the holders of a pend..."](/statements/statement-2c06601c490a.md)
+  - Also about: [Larry Guinta](/entities/person-larry-guinta.md), [GTEC Industries](/entities/org-gtec-industries.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md)
+
+- [00:19:10](/episodes/ep-xi8SYJTUXPM.md#t-00-18-56) (Claim) **Candace Owens**: ["Lori Frantzve was doing government deals involving GTEC Industries' el..."](/statements/statement-bfdbc1e5443e.md)
+  - Also about: [GTEC Industries](/entities/org-gtec-industries.md), [Electromagnetic pulse](/entities/concept-electromagnetic-pulse.md)
+
+- [00:19:50](/episodes/ep-xi8SYJTUXPM.md#t-00-19-36) (Claim) **Anonymous Source #1 (Ep xi8SYJTUXPM)** (via read message): ["At the gun-patent dinner, Erika Kirk joined the business discussion an..."](/statements/statement-94f570f1d582.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Cabot Phillips](/entities/person-cabot-phillips.md)
+
+- [00:21:04](/episodes/ep-xi8SYJTUXPM.md#t-00-21-04) (Claim) **Anonymous Source #1 (Ep xi8SYJTUXPM)** (via read message): ["Nothing materialized from the gun-patent meeting involving Lori Frantz..."](/statements/statement-0cab9ea536d9.md)
+  - Also about: [Larry Guinta](/entities/person-larry-guinta.md)
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (10)</summary>

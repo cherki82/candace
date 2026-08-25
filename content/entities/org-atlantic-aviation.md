@@ -1,6 +1,6 @@
 ---
 title: "Atlantic Aviation"
-description: "Atlantic Aviation (Organizations) - 11 mentions"
+description: "Atlantic Aviation (Organizations) - 12 mentions"
 id: "org-atlantic-aviation"
 type: "ORG"
 categories:
@@ -13,14 +13,14 @@ _Type: Organizations_
 **Categories:** fixed-base operator, private aviation
 
 **Entity verification:** verified
-> Official company site confirms Atlantic Aviation as the canonical name and its North American fixed-base operator network; this resolves the transcript context away from The Atlantic publication.
-Source: [Atlantic Aviation](https://www.atlanticaviation.com/)
+> Official Atlantic Aviation site verifies the canonical brand and nationwide FBO network; transcript uses 'Atlantic' while discussing FBOs.
+Source: [Atlantic Aviation FBO Directory](https://www.atlanticaviation.com/locations/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#t-00-35-29">2026-03-23 · 00:35:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-atlantic-aviation-t-00-12-29">2026-03-24 · 00:14:00</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#t-00-11-26">2026-04-15 · 00:11:26</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,6 +33,7 @@ Source: [Atlantic Aviation](https://www.atlanticaviation.com/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-B9TyCs-6o_0.md#t-00-35-29" style="--pulse-height:10%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-atlantic-aviation-t-00-11-21" style="--pulse-height:100%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 10 mentions" title="2026-03-24 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#t-00-11-26" style="--pulse-height:10%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [Atlantic Aviation](https://www.atlanticaviation.com/)
 |---|---|---:|
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#t-00-35-29) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-atlantic-aviation-t-00-11-21) | 10 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#t-00-11-26) | 1 |
 
 </details>
 </section>
@@ -47,7 +49,15 @@ Source: [Atlantic Aviation](https://www.atlanticaviation.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
+
+**[00:11:26](/episodes/ep-SubDoZWHARo.md#t-00-11-26)**
+> "We're going to be Atlantic."
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (10 mentions)</summary>

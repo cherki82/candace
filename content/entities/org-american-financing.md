@@ -1,6 +1,6 @@
 ---
 title: "American Financing"
-description: "American Financing (Organizations) - 280 mentions"
+description: "American Financing (Organizations) - 298 mentions"
 id: "org-american-financing"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-56-30">2025-09-15 · 00:56:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-org-american-financing-t-00-49-50">2026-04-14 · 00:49:50</a></strong></div>
-<div><span>Episodes</span><strong>70</strong></div>
-<div><span>Mentions</span><strong>280</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-american-financing-t-00-43-05">2026-04-21 · 00:43:37</a></strong></div>
+<div><span>Episodes</span><strong>74</strong></div>
+<div><span>Mentions</span><strong>298</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -106,6 +106,10 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-american-financing-t-00-40-28" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 4 mentions" title="2026-04-10 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-49-56" style="--pulse-height:62%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 5 mentions" title="2026-04-13 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-american-financing-t-00-48-32" style="--pulse-height:62%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 5 mentions" title="2026-04-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-org-american-financing-t-00-51-44" style="--pulse-height:62%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 5 mentions" title="2026-04-15 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-american-financing-t-00-46-40" style="--pulse-height:50%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 4 mentions" title="2026-04-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-american-financing-t-00-53-21" style="--pulse-height:50%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 4 mentions" title="2026-04-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-american-financing-t-00-42-24" style="--pulse-height:62%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 5 mentions" title="2026-04-21 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -181,6 +185,10 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-american-financing-t-00-40-28) | 4 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-49-56) | 5 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-american-financing-t-00-48-32) | 5 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-american-financing-t-00-51-44) | 5 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-american-financing-t-00-46-40) | 4 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-american-financing-t-00-53-21) | 4 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-american-financing-t-00-42-24) | 5 |
 
 </details>
 </section>
@@ -188,7 +196,81 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (280)</strong></summary>
+<summary><strong class="section-title">Raw mentions (298)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (5 mentions)</summary>
+
+**[00:42:45](/episodes/ep-xi8SYJTUXPM.md#ent-org-american-financing-t-00-42-24)**
+> "Also reminding you guys about American financing because the cost of living isn't just high, it is..."
+
+**[00:43:05](/episodes/ep-xi8SYJTUXPM.md#ent-org-american-financing-t-00-43-05)**
+> "My friends at American Financing have a better way. They are helping homeowners ta..."
+
+**[00:43:10](/episodes/ep-xi8SYJTUXPM.md#ent-org-american-financing-t-00-43-05)**
+> "...tly in the fives, on average, American Financing is saving its customers 00 a month. That's nearly..."
+
+**[00:43:24](/episodes/ep-xi8SYJTUXPM.md#ent-org-american-financing-t-00-43-05)**
+> "... delay two mortgage payments. American financing is America's home for home loans. Call American f..."
+
+**[00:43:37](/episodes/ep-xi8SYJTUXPM.md#ent-org-american-financing-t-00-43-05)**
+> "...that's 800-795-1210. Or visit AmericanFinancing.net slash Owens, AmericanFinancing.net slash Owen..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (4 mentions)</summary>
+
+**[00:53:34](/episodes/ep-kaWtDuoY_ns.md#ent-org-american-financing-t-00-53-21)**
+> "...m. Also remind you guys about American financing because the cost of living is not just high, it i..."
+
+**[00:53:57](/episodes/ep-kaWtDuoY_ns.md#ent-org-american-financing-t-00-53-57)**
+> "instead. My friends over at American Financing have a better way. They're helping homeowners tap..."
+
+**[00:54:22](/episodes/ep-kaWtDuoY_ns.md#ent-org-american-financing-t-00-53-57)**
+> "... delay two mortgage payments. American Financing is America's home for home loans."
+
+**[00:54:30](/episodes/ep-kaWtDuoY_ns.md#ent-org-american-financing-t-00-54-30)**
+> "So call American Financing today at 800-795-1210 and that's 800-795-1210 or ..."
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (4 mentions)</summary>
+
+**[00:46:48](/episodes/ep-1mYNOqzAdXs.md#ent-org-american-financing-t-00-46-40)**
+> "Also remind you guys about American financing because between groceries, travel and higher prices, it is easy to feel overwhelmed, especially if you're already relying on credit cards to cover the basics."
+
+**[00:46:57](/episodes/ep-1mYNOqzAdXs.md#ent-org-american-financing-t-00-46-40)**
+> "...ve considered reaching out to American financing, but hesitated because you don't want to give up ..."
+
+**[00:47:05](/episodes/ep-1mYNOqzAdXs.md#ent-org-american-financing-t-00-46-40)**
+> "Great. Well, that's why American Financing created their Smart Equity Loan. It's a simple, s..."
+
+**[00:47:25](/episodes/ep-1mYNOqzAdXs.md#ent-org-american-financing-t-00-47-25)**
+> "...d out if you qualify. So call American Financing today at 800-795-1210. Again, At 800-795-1210, ag..."
+
+</details>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (5 mentions)</summary>
+
+**[00:52:17](/episodes/ep-SubDoZWHARo.md#ent-org-american-financing-t-00-51-44)**
+> "American Financing"
+
+**[00:52:05](/episodes/ep-SubDoZWHARo.md#ent-org-american-financing-t-00-51-44)**
+> "...oing to remind you guys about American financing because between groceries, travel and higher pric..."
+
+**[00:52:23](/episodes/ep-SubDoZWHARo.md#ent-org-american-financing-t-00-52-23)**
+> "Well, that's why American Financing created the Smart Equity Loan, which is a simple,..."
+
+**[00:52:44](/episodes/ep-SubDoZWHARo.md#ent-org-american-financing-t-00-52-23)**
+> "...d out if you qualify. So call American Financing today at 800-795-1210."
+
+**[00:52:50](/episodes/ep-SubDoZWHARo.md#ent-org-american-financing-t-00-52-23)**
+> "... that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing...."
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (5 mentions)</summary>
@@ -1377,7 +1459,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -1385,6 +1467,8 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:46:59](/episodes/ep-5-HUyv9LyMg.md#t-00-46-59): “I remind you guys about American Financing”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:56:42](/episodes/ep-I0OaY6Gryqk.md#t-00-56-29): “So call American Financing today at 800-795-1210. Again, that's 800-795-1210. Or visit AmericanFinancing.net slash Owens, AmericanFinancing.net slash Owens.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:58:29](/episodes/ep-UYkXV9mYbT4.md#t-00-58-29): “There are no upfront fees to find out if you qualify, so call American Financing today at 800-795-1210.”
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:53:57](/episodes/ep-kaWtDuoY_ns.md#t-00-53-57): “My friends over at American Financing have a better way.”
+- [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:43:05](/episodes/ep-xi8SYJTUXPM.md#t-00-43-05): “My friends at American Financing have a better way. They are helping homeowners tap into their equity to pay off high-interest debt.”
 
 </details>
 
@@ -1394,7 +1478,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -1402,6 +1486,8 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:46:59](/episodes/ep-5-HUyv9LyMg.md#t-00-46-59): “I remind you guys about American Financing”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:56:42](/episodes/ep-I0OaY6Gryqk.md#t-00-56-29): “So call American Financing today at 800-795-1210. Again, that's 800-795-1210. Or visit AmericanFinancing.net slash Owens, AmericanFinancing.net slash Owens.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:58:29](/episodes/ep-UYkXV9mYbT4.md#t-00-58-29): “There are no upfront fees to find out if you qualify, so call American Financing today at 800-795-1210.”
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:53:57](/episodes/ep-kaWtDuoY_ns.md#t-00-53-57): “My friends over at American Financing have a better way.”
+- [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:43:05](/episodes/ep-xi8SYJTUXPM.md#t-00-43-05): “My friends at American Financing have a better way. They are helping homeowners tap into their equity to pay off high-interest debt.”
 
 </details>
 

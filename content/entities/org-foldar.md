@@ -1,6 +1,6 @@
 ---
 title: "FoldAR"
-description: "FoldAR (Organizations) - 25 mentions"
+description: "FoldAR (Organizations) - 30 mentions"
 id: "org-foldar"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ Source: [About | FoldAR](https://foldar.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-org-foldar-t-00-18-02">2026-04-14 · 00:18:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-org-foldar-t-00-39-31">2026-04-14 · 00:40:05</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-foldar-t-00-16-24">2026-04-21 · 00:16:58</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>30</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>19</strong></div>
+<div><span>Relationships</span><strong>7</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -36,12 +36,18 @@ Source: [About | FoldAR](https://foldar.com/about/)
 <p>Highest activity: <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-foldar-t-00-18-02">BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324</a> (25 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-foldar-t-00-18-02" style="--pulse-height:100%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 25 mentions" title="2026-04-14 · 25 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-org-foldar-t-00-41-04" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-foldar-t-00-34-57" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 2 mentions" title="2026-04-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-foldar-t-00-16-24" style="--pulse-height:8%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-foldar-t-00-18-02) | 25 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-foldar-t-00-41-04) | 2 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-foldar-t-00-34-57) | 2 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-foldar-t-00-16-24) | 1 |
 
 </details>
 </section>
@@ -49,7 +55,37 @@ Source: [About | FoldAR](https://foldar.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1 mentions)</summary>
+
+**[00:16:58](/episodes/ep-xi8SYJTUXPM.md#ent-org-foldar-t-00-16-24)**
+> "...e story that we told you with Fold AR first, AR that's going to fold. I want this in th..."
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (2 mentions)</summary>
+
+**[00:35:24](/episodes/ep-1mYNOqzAdXs.md#ent-org-foldar-t-00-34-57)**
+> "To me, some text messages, which certainly go some way of proving that Victor Marx at the very least was in communication with Israel to purchase guns or rather to purchase the patent for his business, FoldAR on behalf of the IDF."
+
+**[00:37:37](/episodes/ep-1mYNOqzAdXs.md#ent-org-foldar-t-00-37-37)**
+> "... want your patent your patent FoldAR so yes he is if these messages are him"
+
+</details>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (2 mentions)</summary>
+
+**[00:41:04](/episodes/ep-SubDoZWHARo.md#ent-org-foldar-t-00-41-04)**
+> "Corby Hall of FoldAR"
+
+**[00:41:30](/episodes/ep-SubDoZWHARo.md#ent-org-foldar-t-00-41-04)**
+> "...g that Victor Marx said about FoldAR. We were all going to have Corby Hall. Let's make..."
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (25 mentions)</summary>
@@ -152,9 +188,10 @@ Source: [About | FoldAR](https://foldar.com/about/)
 <summary>Owned By (1)</summary>
 
 - **[Corby Hall](/entities/person-corby-hall.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:18:02](/episodes/ep-jsqUIkszZd0.md#t-00-18-02): “I, Corby Hall, am the inventor, the founder, and the sole owner of FoldAR, a uniquely positioned firearms development company that specializes in producing the most compact rifles that have ever been created.”
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:37:37](/episodes/ep-1mYNOqzAdXs.md#t-00-37-37): “Corby (Corby Hall) focus ... you will get a paycheck for the patent and possibly your company ... your patent your patent FoldAR”
 
 </details>
 
@@ -173,7 +210,14 @@ Source: [About | FoldAR](https://foldar.com/about/)
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
+
+- **[Corby Hall](/entities/person-corby-hall.md)** affiliated with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:41:04](/episodes/ep-SubDoZWHARo.md#t-00-41-04): “we are actually going to have Corby Hall of FoldAR on”
+
+</details>
 
 - **[Corby Hall](/entities/person-corby-hall.md)** founded this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -183,9 +227,10 @@ Source: [About | FoldAR](https://foldar.com/about/)
 </details>
 
 - **[Corby Hall](/entities/person-corby-hall.md)** owns this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:18:02](/episodes/ep-jsqUIkszZd0.md#t-00-18-02): “I, Corby Hall, am the inventor, the founder, and the sole owner of FoldAR, a uniquely positioned firearms development company that specializes in producing the most compact rifles that have ever been created.”
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:37:37](/episodes/ep-1mYNOqzAdXs.md#t-00-37-37): “Corby (Corby Hall) focus ... you will get a paycheck for the patent and possibly your company ... your patent your patent FoldAR”
 
 </details>
 
@@ -201,7 +246,24 @@ Source: [About | FoldAR](https://foldar.com/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about FoldAR (15)</strong></summary>
+<summary><strong class="section-title">Statements about FoldAR (19)</strong></summary>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (4)</summary>
+
+- [00:36:01](/episodes/ep-1mYNOqzAdXs.md#t-00-35-43) (Claim) **Victor Marx** (via read message): ["Victor Marx wrote that an Israeli defense group connected to him was r..."](/statements/statement-d1e968f61160.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Corby Hall](/entities/person-corby-hall.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md)
+
+- [00:37:08](/episodes/ep-1mYNOqzAdXs.md#t-00-37-08) (Opinion) **Corby Hall** (via read message): ["Corby Hall wrote that he would hate to send 1,000 FoldAR units to the ..."](/statements/statement-cbbfa7bca8da.md)
+  - Also about: [Corby Hall](/entities/person-corby-hall.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md), [United States](/entities/gpe-united-states.md)
+
+- [00:37:37](/episodes/ep-1mYNOqzAdXs.md#t-00-37-37) (Claim) **Victor Marx** (via read message): ["Victor Marx wrote that Corby Hall would not send 1,000 units to the ID..."](/statements/statement-5329bd2989a9.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Corby Hall](/entities/person-corby-hall.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md)
+
+- [00:38:15](/episodes/ep-1mYNOqzAdXs.md#t-00-37-37) (Accusation) **Candace Owens**: ["Candace Owens interpreted the April 2025 messages as showing Victor Ma..."](/statements/statement-a7e0a3709327.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md)
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (15)</summary>

@@ -4,9 +4,10 @@ description: "\"During their acquisition discussion, Victor Marx threatened Corb
 statement_id: "statement-3578b9c8d074"
 speaker: "Victor Marx"
 type: "accusation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Marx later publicly admitted that he told Hall he would whoop him. Hall and Marx dispute the surrounding context and whether it was intimidation, but the core quoted remark is confirmed by both sides.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Candace Episode 326 transcript](https://podcasts.happyscribe.com/candace/secret-service-admits-there-was-no-threat-atf-releases-report)
+
+*Verified: 2026-08-24T19:11:27.476836*
 
 ---
 

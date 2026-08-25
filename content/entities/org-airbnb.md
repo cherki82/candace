@@ -3,9 +3,18 @@ title: "Airbnb"
 description: "Airbnb (Organizations) - 1 mention"
 id: "org-airbnb"
 type: "ORG"
+categories:
+  - "online lodging marketplace"
+  - "travel platform"
 ---
 
 _Type: Organizations_
+
+**Categories:** online lodging marketplace, travel platform
+
+**Entity verification:** verified
+> The transcript uses Airbnbs for short-term rentals; Airbnb's official newsroom verifies the canonical company name and lodging marketplace role.
+Source: [About us | Airbnb Newsroom](https://news.airbnb.com/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-org-airbnb-t-00-10-30">2025-11-05 · 00:10:41</a></strong></div>

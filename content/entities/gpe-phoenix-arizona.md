@@ -1,6 +1,6 @@
 ---
 title: "Phoenix, Arizona"
-description: "Phoenix, Arizona (Places) - 8 mentions"
+description: "Phoenix, Arizona (Places) - 10 mentions"
 id: "gpe-phoenix-arizona"
 type: "GPE"
 aliases:
@@ -24,9 +24,9 @@ Source: [City of Phoenix](https://www.phoenix.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-phoenix-arizona-t-00-25-18">2026-02-05 · 00:25:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-phoenix-arizona-t-00-35-33">2026-04-02 · 00:35:49</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-phoenix-arizona-t-00-21-00">2026-04-15 · 00:21:13</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -42,6 +42,7 @@ Source: [City of Phoenix](https://www.phoenix.gov/)
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-phoenix-arizona-t-00-08-39" style="--pulse-height:100%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-gpe-phoenix-arizona-t-00-52-00" style="--pulse-height:33%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-phoenix-arizona-t-00-34-48" style="--pulse-height:67%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-phoenix-arizona-t-00-21-00" style="--pulse-height:67%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [City of Phoenix](https://www.phoenix.gov/)
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-phoenix-arizona-t-00-08-39) | 3 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-phoenix-arizona-t-00-52-00) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-phoenix-arizona-t-00-34-48) | 2 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-phoenix-arizona-t-00-21-00) | 2 |
 
 </details>
 </section>
@@ -59,7 +61,18 @@ Source: [City of Phoenix](https://www.phoenix.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (2 mentions)</summary>
+
+**[00:21:13](/episodes/ep-SubDoZWHARo.md#ent-gpe-phoenix-arizona-t-00-21-00)**
+> "another event that she has coming up at a high school in Phoenix"
+
+**[00:21:00](/episodes/ep-SubDoZWHARo.md#ent-gpe-phoenix-arizona-t-00-21-00)**
+> "...coming up at a high school in Phoenix."
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (2 mentions)</summary>

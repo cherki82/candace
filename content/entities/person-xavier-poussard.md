@@ -1,6 +1,6 @@
 ---
 title: "Xavier Poussard"
-description: "Xavier Poussard (People) - 13 mentions"
+description: "Xavier Poussard (People) - 14 mentions"
 id: "person-xavier-poussard"
 type: "PERSON"
 categories:
@@ -17,9 +17,9 @@ Source: [Becoming Brigitte - AFP Factuel](https://factuel.afp.com/doc.afp.com.36
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-person-xavier-poussard-t-00-07-38">2025-11-20 · 00:08:00</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#t-01-02-50">2026-04-13 · 01:03:04</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-xavier-poussard-t-00-23-53">2026-04-21 · 00:23:53</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -35,6 +35,7 @@ Source: [Becoming Brigitte - AFP Factuel](https://factuel.afp.com/doc.afp.com.36
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-xavier-poussard-t-00-34-01" style="--pulse-height:11%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-xavier-poussard-t-00-20-53" style="--pulse-height:11%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#t-01-02-50" style="--pulse-height:11%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-xavier-poussard-t-00-23-53" style="--pulse-height:11%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [Becoming Brigitte - AFP Factuel](https://factuel.afp.com/doc.afp.com.36
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-xavier-poussard-t-00-34-01) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-xavier-poussard-t-00-20-53) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#t-01-02-50) | 1 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-xavier-poussard-t-00-23-53) | 1 |
 
 </details>
 </section>
@@ -52,7 +54,15 @@ Source: [Becoming Brigitte - AFP Factuel](https://factuel.afp.com/doc.afp.com.36
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1 mentions)</summary>
+
+**[00:23:53](/episodes/ep-xi8SYJTUXPM.md#ent-person-xavier-poussard-t-00-23-53)**
+> "... because of the journalism of Xavier Poussard over in France."
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>

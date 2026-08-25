@@ -4,9 +4,10 @@ description: "\"Corby Hall refused an investor or buyer who would not fully comm
 statement_id: "statement-f4a3795af286"
 speaker: "Corby Hall"
 type: "promise"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "promise"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Hall later described his school-protection condition for any acquisition and said he ultimately rejected the proposed deal when that mission was not maintained. This is a public firsthand account; no executed acquisition occurred.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Candace Episode 329 transcript with Corby Hall](https://podcasts.happyscribe.com/candace/victor-marx-the-man-who-weaponized-faith)
+
+*Verified: 2026-08-24T19:11:27.674839*
 
 ---
 

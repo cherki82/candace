@@ -5,11 +5,19 @@ id: "gpe-south-america"
 type: "GPE"
 aliases:
   - "South America"
+categories:
+  - "continent"
 ---
 
 _Type: Places_
 
 **Also known as:** South America
+
+**Categories:** continent
+
+**Entity verification:** verified
+> The transcript uses South America as the geographic continent; National Geographic verifies the canonical continent name.
+Source: [South America: Human Geography | National Geographic](https://media.nationalgeographic.org/assets/reference/assets/south-america-human-geography-1.pdf)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-south-america-t-00-05-54">2025-12-09 · 00:00:53</a></strong></div>

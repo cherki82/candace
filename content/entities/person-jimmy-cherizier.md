@@ -1,6 +1,6 @@
 ---
 title: "Jimmy Chérizier"
-description: "Jimmy Chérizier (People) - 2 mentions"
+description: "Jimmy Chérizier (People) - 5 mentions"
 id: "person-jimmy-cherizier"
 type: "PERSON"
 aliases:
@@ -8,13 +8,14 @@ aliases:
   - "Jimmy Barbecue"
   - "Jimmy Barbecue Cherizier"
   - "Barbecue"
+  - "Jimmy 'Barbecue' Chérizier"
 categories:
   - "Haitian gang leader"
 ---
 
 _Type: People_
 
-**Also known as:** Jimmy Cherizier, Jimmy Barbecue, Jimmy Barbecue Cherizier, Barbecue
+**Also known as:** Jimmy Cherizier, Jimmy Barbecue, Jimmy Barbecue Cherizier, Barbecue, Jimmy 'Barbecue' Chérizier
 
 **Categories:** Haitian gang leader
 
@@ -24,9 +25,9 @@ Source: [United Nations Security Council Haiti report S/2025/642](https://digita
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-jimmy-cherizier-t-00-27-24">2026-04-14 · 00:27:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-jimmy-cherizier-t-00-29-57">2026-04-14 · 00:29:57</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-jimmy-cherizier-t-00-55-24">2026-04-21 · 00:55:58</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -38,12 +39,16 @@ Source: [United Nations Security Council Haiti report S/2025/642](https://digita
 <p>Highest activity: <a href="/episodes/ep-jsqUIkszZd0.md#ent-person-jimmy-cherizier-t-00-27-24">BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-person-jimmy-cherizier-t-00-27-24" style="--pulse-height:100%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-jimmy-cherizier-t-00-30-52" style="--pulse-height:50%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-jimmy-cherizier-t-00-55-24" style="--pulse-height:100%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-jimmy-cherizier-t-00-27-24) | 2 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-jimmy-cherizier-t-00-30-52) | 1 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-jimmy-cherizier-t-00-55-24) | 2 |
 
 </details>
 </section>
@@ -51,7 +56,26 @@ Source: [United Nations Security Council Haiti report S/2025/642](https://digita
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (2 mentions)</summary>
+
+**[00:55:49](/episodes/ep-xi8SYJTUXPM.md#ent-person-jimmy-cherizier-t-00-55-24)**
+> "... learned about you and Jimmy 'Barbecue' Chérizier."
+
+**[00:55:58](/episodes/ep-xi8SYJTUXPM.md#ent-person-jimmy-cherizier-t-00-55-24)**
+> "...ng to sound crazy, but Jimmy 'Barbecue' Chérizier is watching the show."
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1 mentions)</summary>
+
+**[00:31:18](/episodes/ep-1mYNOqzAdXs.md#ent-person-jimmy-cherizier-t-00-30-52)**
+> "I did not transact with Victor Marx for weapons in Haiti with Jimmy Barbecue."
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (2 mentions)</summary>

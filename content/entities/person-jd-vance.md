@@ -1,6 +1,6 @@
 ---
 title: "JD Vance"
-description: "JD Vance (People) - 26 mentions"
+description: "JD Vance (People) - 56 mentions"
 id: "person-jd-vance"
 type: "PERSON"
 aliases:
@@ -23,34 +23,36 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-person-jd-vance-t-00-45-07">2025-09-18 · 00:45:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-jd-vance-t-00-37-42">2026-03-26 · 00:37:42</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-jd-vance-t-00-55-38">2026-04-16 · 00:55:50</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>56</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-9k2xrAC0H88.md#ent-person-jd-vance-t-00-38-25">BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-jd-vance-t-00-08-43">Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326</a> (16 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-sreYYcID-QY.md#ent-person-jd-vance-t-00-45-07" style="--pulse-height:20%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5autG89PW6w.md#ent-person-jd-vance-t-00-45-45" style="--pulse-height:20%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-jd-vance-t-00-21-58" style="--pulse-height:40%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 2 mentions" title="2025-10-29 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-jd-vance-t-00-48-17" style="--pulse-height:40%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-person-jd-vance-t-00-45-37" style="--pulse-height:20%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-jd-vance-t-00-06-26" style="--pulse-height:20%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-jd-vance-t-00-38-25" style="--pulse-height:100%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 5 mentions" title="2025-12-17 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-jd-vance-t-00-05-24" style="--pulse-height:40%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jd-vance-t-00-42-32" style="--pulse-height:20%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jd-vance-t-00-25-10" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 5 mentions" title="2026-02-02 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#t-00-38-27" style="--pulse-height:20%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-jd-vance-t-00-51-19" style="--pulse-height:20%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-k8ueJdPFel4.md#ent-person-jd-vance-t-00-13-51" style="--pulse-height:20%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SgVcnx4Oh30.md#t-01-00-42" style="--pulse-height:20%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-jd-vance-t-00-37-42" style="--pulse-height:20%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-person-jd-vance-t-00-45-07" style="--pulse-height:8%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-jd-vance-t-00-45-45" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-jd-vance-t-00-21-58" style="--pulse-height:12%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 2 mentions" title="2025-10-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-jd-vance-t-00-48-17" style="--pulse-height:12%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-jd-vance-t-00-45-37" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-jd-vance-t-00-06-26" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-jd-vance-t-00-38-25" style="--pulse-height:31%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 5 mentions" title="2025-12-17 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-jd-vance-t-00-05-24" style="--pulse-height:12%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jd-vance-t-00-42-32" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jd-vance-t-00-25-10" style="--pulse-height:31%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 5 mentions" title="2026-02-02 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#t-00-38-27" style="--pulse-height:8%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-jd-vance-t-00-51-19" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-person-jd-vance-t-00-13-51" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#t-01-00-42" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-jd-vance-t-00-37-42" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-person-jd-vance-t-00-01-31" style="--pulse-height:81%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 13 mentions" title="2026-04-15 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-jd-vance-t-00-08-43" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 16 mentions" title="2026-04-16 · 16 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -71,6 +73,8 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-jd-vance-t-00-13-51) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#t-01-00-42) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-jd-vance-t-00-37-42) | 1 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-jd-vance-t-00-01-31) | 13 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-jd-vance-t-00-08-43) | 16 |
 
 </details>
 </section>
@@ -78,7 +82,104 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (56)</strong></summary>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (16 mentions)</summary>
+
+**[00:08:53](/episodes/ep-1mYNOqzAdXs.md#ent-person-jd-vance-t-00-08-43)**
+> "At 3.53 p.m., J.D. Vance's plane begins circling in the air above North Caro..."
+
+**[00:09:30](/episodes/ep-1mYNOqzAdXs.md#ent-person-jd-vance-t-00-09-12)**
+> "...e And so that's what we have. J.D. Vance, then lands, you see into Athens at 434 p.m., so ..."
+
+**[00:09:56](/episodes/ep-1mYNOqzAdXs.md#ent-person-jd-vance-t-00-09-56)**
+> "...ood. I know you boys are with J.D. Vance, the vice president."
+
+**[00:11:15](/episodes/ep-1mYNOqzAdXs.md#ent-person-jd-vance-t-00-11-02)**
+> "...way too casually to interview J.D. Vance. Like this literally all had to happen last secon..."
+
+**[00:11:43](/episodes/ep-1mYNOqzAdXs.md#ent-person-jd-vance-t-00-11-43)**
+> "...the event. So what happens is J.D. Vance's plane circling 353."
+
+**[00:11:58](/episodes/ep-1mYNOqzAdXs.md#ent-person-jd-vance-t-00-11-43)**
+> "...appen, did not happen at all. J.D. Vance says he's going to go through with the event."
+
+**[00:12:03](/episodes/ep-1mYNOqzAdXs.md#ent-person-jd-vance-t-00-11-43)**
+> "...), oh, my gosh. And listen to J.D. Vance say that two hours ago, meaning when his planes a..."
+
+**[00:16:43](/episodes/ep-1mYNOqzAdXs.md#ent-person-jd-vance-t-00-16-34)**
+> "...a different opinion as to why JD (J.D. Vance) Vance came out of the gates with."
+
+**[00:17:15](/episodes/ep-1mYNOqzAdXs.md#ent-person-jd-vance-t-00-17-15)**
+> "J.D. Vance's energy is giving that Erika (Erika Kirk) cried on..."
+
+**[00:17:58](/episodes/ep-1mYNOqzAdXs.md#ent-person-jd-vance-t-00-17-58)**
+> "... want to speak She dealt with JD (J.D. Vance) and then she directed Andrew (Andrew..."
+
+**[00:18:30](/episodes/ep-1mYNOqzAdXs.md#ent-person-jd-vance-t-00-18-30)**
+> "I think JD (J.D. Vance) on the phone probably tried to assur..."
+
+**[00:18:55](/episodes/ep-1mYNOqzAdXs.md#ent-person-jd-vance-t-00-18-30)**
+> "And I want to say to J.D. Vance, you better wake up fast, OK? That's a black wido..."
+
+**[00:19:20](/episodes/ep-1mYNOqzAdXs.md#ent-person-jd-vance-t-00-19-14)**
+> "...ress. That is humiliating for JD (J.D. Vance) because he was manipulated, but it a..."
+
+**[00:54:55](/episodes/ep-1mYNOqzAdXs.md#ent-person-jd-vance-t-00-54-55)**
+> "...ongoing humiliation ritual of JD (J.D. Vance)."
+
+**[00:55:03](/episodes/ep-1mYNOqzAdXs.md#ent-person-jd-vance-t-00-54-55)**
+> "...that they were trying to make J.D. Vance look bad. I certainly do think that Erika (Erika ..."
+
+**[00:55:50](/episodes/ep-1mYNOqzAdXs.md#ent-person-jd-vance-t-00-55-38)**
+> "...'t want to show her face. And J.D. Vance did what honestly Charlie (Charlie Kirk) would ha..."
+
+</details>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (13 mentions)</summary>
+
+**[00:01:31](/episodes/ep-SubDoZWHARo.md#ent-person-jd-vance-t-00-01-31)**
+> "Vice President J.D. Vance"
+
+**[00:02:46](/episodes/ep-SubDoZWHARo.md#ent-person-jd-vance-t-00-02-46)**
+> "...kins Ford Arena about to host J.D. Vance and Erika Kirk."
+
+**[00:14:13](/episodes/ep-SubDoZWHARo.md#ent-person-jd-vance-t-00-14-13)**
+> "...nd I'm sure everything Vance (J.D. Vance) and Trump (Donald Trump) are doing at this curre..."
+
+**[00:18:33](/episodes/ep-SubDoZWHARo.md#ent-person-jd-vance-t-00-18-22)**
+> "...she has an evening event with J.D. Vance."
+
+**[00:23:14](/episodes/ep-SubDoZWHARo.md#ent-person-jd-vance-t-00-22-53)**
+> "...not think people are tracking J.D. Vance's plane? Elon Musk took his notoriously off of some..."
+
+**[00:23:49](/episodes/ep-SubDoZWHARo.md#ent-person-jd-vance-t-00-23-30)**
+> "...it's your fault. And shame on J.D. Vance for taking the bait on that."
+
+**[00:23:59](/episodes/ep-SubDoZWHARo.md#ent-person-jd-vance-t-00-23-30)**
+> "...ure us. Take a listen to what J.D. Vance has to say."
+
+**[00:27:26](/episodes/ep-SubDoZWHARo.md#ent-person-jd-vance-t-00-27-00)**
+> "... So please do not lecture us, JD (J.D. Vance), do not. OK, the lecture that is com..."
+
+**[00:27:42](/episodes/ep-SubDoZWHARo.md#ent-person-jd-vance-t-00-27-42)**
+> ".... She can call Vice President J.D. Vance. She can get the Treasury Secretary Scott Bessent..."
+
+**[00:30:26](/episodes/ep-SubDoZWHARo.md#ent-person-jd-vance-t-00-30-02)**
+> "... anything and thinking that a J.D. Vance or a sprinkle of Trump (Donald Trump) is going to..."
+
+**[00:39:10](/episodes/ep-SubDoZWHARo.md#ent-person-jd-vance-t-00-38-41)**
+> "But like JD (J.D. Vance) said, she'd be grieving differently,..."
+
+**[00:54:37](/episodes/ep-SubDoZWHARo.md#ent-person-jd-vance-t-00-54-29)**
+> "... hope you're paying attention J.D. Vance there is such a thing as having a spiritual intui..."
+
+**[00:55:02](/episodes/ep-SubDoZWHARo.md#ent-person-jd-vance-t-00-55-02)**
+> "...y's episode Smith writes, did JD (J.D. Vance) just slip up by saying that the peop..."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
@@ -239,7 +340,7 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Appeared With (3)</summary>
+<summary>Appeared With (4)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -262,6 +363,13 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 
 </details>
 
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:03:41](/episodes/ep-SubDoZWHARo.md#t-00-03-32): “Mr. Vice President, I'm on stage here instead of our friend Erika Kirk.”
+
+</details>
+
 </details>
 
 <details>
@@ -271,6 +379,18 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:14:22](/episodes/ep-k8ueJdPFel4.md#t-00-13-51): “J.D. Vance was one of Charlie (Charlie Kirk)'s favorite politicians while Ben (Ben Shapiro) had been critical of him. Charlie (Charlie Kirk) saw Ben (Ben Shapiro) as a rival.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Friend Of (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:01:31](/episodes/ep-SubDoZWHARo.md#t-00-01-31): “Erika Kirk was slated to appear alongside her friend, Vice President J.D. Vance, at the University of Georgia”
 
 </details>
 
@@ -289,7 +409,19 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Interviewed By (1)</summary>
+
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:12:03](/episodes/ep-1mYNOqzAdXs.md#t-00-11-43): “And the first question Kolvet asks him, he sets him up and says, oh, Erika (Erika Kirk), oh, my gosh. And listen to J.D. Vance say that two hours ago”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (8)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -312,10 +444,24 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 
 </details>
 
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:03:41](/episodes/ep-SubDoZWHARo.md#t-00-03-32): “Mr. Vice President, I'm on stage here instead of our friend Erika Kirk.”
+
+</details>
+
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:14:22](/episodes/ep-k8ueJdPFel4.md#t-00-13-51): “J.D. Vance was one of Charlie (Charlie Kirk)'s favorite politicians while Ben (Ben Shapiro) had been critical of him. Charlie (Charlie Kirk) saw Ben (Ben Shapiro) as a rival.”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:01:31](/episodes/ep-SubDoZWHARo.md#t-00-01-31): “Erika Kirk was slated to appear alongside her friend, Vice President J.D. Vance, at the University of Georgia”
 
 </details>
 
@@ -326,12 +472,77 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 
 </details>
 
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:12:03](/episodes/ep-1mYNOqzAdXs.md#t-00-11-43): “And the first question Kolvet asks him, he sets him up and says, oh, Erika (Erika Kirk), oh, my gosh. And listen to J.D. Vance say that two hours ago”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about JD Vance (5)</strong></summary>
+<summary><strong class="section-title">Statements by JD Vance (3)</strong></summary>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1)</summary>
+
+- [00:12:21](/episodes/ep-1mYNOqzAdXs.md#t-00-12-21) [✓] (Claim) ["Erika Kirk had received threats and was so worried that, about two hours before ..."](/statements/statement-4ee465e1cd43.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [United States Secret Service](/entities/org-united-states-secret-service.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (2)</summary>
+
+- [00:24:07](/episodes/ep-SubDoZWHARo.md#t-00-24-07) [○] (Opinion) ["People whose instinct is to attack a young mother for grieving in a way they con..."](/statements/statement-396361878d26.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:25:02](/episodes/ep-SubDoZWHARo.md#t-00-25-02) [○] (Opinion) ["The desire to attack Erika Kirk for how she grieves her husband was the most pre..."](/statements/statement-a16d91b48960.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about JD Vance (13)</strong></summary>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (3)</summary>
+
+- [00:02:31](/episodes/ep-1mYNOqzAdXs.md#t-00-02-31) (Claim) **Anonymous Source #1 (Ep 1mYNOqzAdXs)** (via quoted article): ["The U.S. Secret Service determined there were no credible threats to t..."](/statements/statement-7f12bdc910e8.md)
+  - Also about: [United States Secret Service](/entities/org-united-states-secret-service.md), [Turning Point USA](/entities/org-turning-point-usa.md), [University of Georgia](/entities/org-university-of-georgia.md)
+
+- [00:17:58](/episodes/ep-1mYNOqzAdXs.md#t-00-17-58) (Accusation) **Candace Owens**: ["Candace Owens's best read was that Erika Kirk saw the crowd, did not w..."](/statements/statement-e92ba7dafade.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [United States Secret Service](/entities/org-united-states-secret-service.md)
+
+- [00:21:07](/episodes/ep-1mYNOqzAdXs.md#t-00-21-07) (Claim) **Anonymous Source #2 (Ep 1mYNOqzAdXs)** (via quoted article): ["Erika Kirk pulled out of the TPUSA event because of several factors, n..."](/statements/statement-0cebf0e510dd.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (5)</summary>
+
+- [00:01:31](/episodes/ep-SubDoZWHARo.md#t-00-01-31) (Claim) **Candace Owens**: ["Erika Kirk was slated to appear with Vice President J.D. Vance at the ..."](/statements/statement-186f1adac726.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [University of Georgia](/entities/org-university-of-georgia.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:09:59](/episodes/ep-SubDoZWHARo.md#t-00-09-59) (Claim) **Anonymous Source #1 (Ep SubDoZWHARo)** (via quoted post): ["The event venue was considered safe once the vice president was on sit..."](/statements/statement-4d7c1625d816.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:13:27](/episodes/ep-SubDoZWHARo.md#t-00-13-27) (Accusation) **Candace Owens**: ["Nobody wanted to attend the event and its ticket numbers were abysmal."](/statements/statement-251eacc5e233.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:13:54](/episodes/ep-SubDoZWHARo.md#t-00-13-27) (Claim) **Jake Traylor** (via quoted post): ["Turning Point USA appeared to have misestimated crowd size; the Akins ..."](/statements/statement-d9e099eb0ad1.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Akins Ford Arena](/entities/org-akins-ford-arena.md)
+
+- [00:16:44](/episodes/ep-SubDoZWHARo.md#t-00-16-15) (Claim) **Erika Kirk** (via quoted post): ["Erika Kirk said she had looked forward to the University of Georgia ev..."](/statements/statement-74394121bde2.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [University of Georgia](/entities/org-university-of-georgia.md)
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>

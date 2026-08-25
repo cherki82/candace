@@ -4,9 +4,10 @@ description: "\"On or about December 1, 2023, Corby Hall and FoldAR's COO drove 
 statement_id: "statement-2997026f4b2f"
 speaker: "Corby Hall"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -37,7 +38,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+In a later on-record interview, Hall again says he and his then-partner drove from East Texas to Marx Colorado Springs property around December 1, 2023 and demonstrated FoldAR to those present. This is a firsthand public account, but the exact date and invitation remain primarily supported by Hall.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Candace Episode 329 transcript with Corby Hall](https://podcasts.happyscribe.com/candace/victor-marx-the-man-who-weaponized-faith)
+
+*Verified: 2026-08-24T19:11:24.950704*
 
 ---
 

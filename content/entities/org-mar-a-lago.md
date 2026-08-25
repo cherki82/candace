@@ -1,19 +1,27 @@
 ---
 title: "Mar-a-Lago"
-description: "Mar-a-Lago (Organizations) - 11 mentions"
+description: "Mar-a-Lago (Organizations) - 12 mentions"
 id: "org-mar-a-lago"
 type: "ORG"
+categories:
+  - "Palm Beach estate"
 ---
 
 _Type: Organizations_
 
+**Categories:** Palm Beach estate
+
 > **Possibly overlapping entity records:** [Mar-a-Lago](/entities/gpe-mar-a-lago). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> National Park Service records verify the canonical Mar-A-Lago property name and Palm Beach location; graph styling retains existing Mar-a-Lago capitalization.
+Source: [Mar-A-Lago National Historic Landmark](https://npgallery.nps.gov/NRHP/AssetDetail/c9d302fd-4c70-4c7e-a15a-a882db6b34b9)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-mar-a-lago-t-00-50-50">2025-10-02 · 00:50:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-mar-a-lago-t-00-58-14">2025-12-10 · 00:58:47</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-org-mar-a-lago-t-00-16-56">2026-04-15 · 00:17:12</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -27,6 +35,7 @@ _Type: Organizations_
 <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-mar-a-lago-t-00-50-50" style="--pulse-height:40%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-mar-a-lago-t-00-49-28" style="--pulse-height:80%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 4 mentions" title="2025-12-01 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-mar-a-lago-t-00-12-25" style="--pulse-height:100%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 5 mentions" title="2025-12-10 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-org-mar-a-lago-t-00-16-56" style="--pulse-height:20%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -35,6 +44,7 @@ _Type: Organizations_
 | 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-mar-a-lago-t-00-50-50) | 2 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-mar-a-lago-t-00-49-28) | 4 |
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-mar-a-lago-t-00-12-25) | 5 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-mar-a-lago-t-00-16-56) | 1 |
 
 </details>
 </section>
@@ -42,7 +52,15 @@ _Type: Organizations_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
+
+**[00:17:12](/episodes/ep-SubDoZWHARo.md#ent-org-mar-a-lago-t-00-16-56)**
+> "at Mar-a-Lago"
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (5 mentions)</summary>

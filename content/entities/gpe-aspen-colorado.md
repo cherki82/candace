@@ -1,6 +1,6 @@
 ---
 title: "Aspen, Colorado"
-description: "Aspen, Colorado (Places) - 20 mentions"
+description: "Aspen, Colorado (Places) - 23 mentions"
 id: "gpe-aspen-colorado"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [City of Aspen](https://www.aspen.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-aspen-colorado-t-00-54-01">2026-01-20 · 00:54:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-aspen-colorado-t-00-15-53">2026-04-13 · 00:15:53</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-aspen-colorado-t-00-54-06">2026-04-21 · 00:54:36</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -39,6 +39,7 @@ Source: [City of Aspen](https://www.aspen.gov/)
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-gpe-aspen-colorado-t-00-59-24" style="--pulse-height:25%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-aspen-colorado-t-00-10-21" style="--pulse-height:38%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 3 mentions" title="2026-04-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-aspen-colorado-t-00-00-26" style="--pulse-height:88%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 7 mentions" title="2026-04-13 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-aspen-colorado-t-00-31-36" style="--pulse-height:38%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 3 mentions" title="2026-04-21 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [City of Aspen](https://www.aspen.gov/)
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-aspen-colorado-t-00-59-24) | 2 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-aspen-colorado-t-00-10-21) | 3 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-gpe-aspen-colorado-t-00-00-26) | 7 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-aspen-colorado-t-00-31-36) | 3 |
 
 </details>
 </section>
@@ -55,7 +57,21 @@ Source: [City of Aspen](https://www.aspen.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (3 mentions)</summary>
+
+**[00:31:36](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-aspen-colorado-t-00-31-36)**
+> "...im that he never said that in Aspen."
+
+**[00:31:42](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-aspen-colorado-t-00-31-36)**
+> "...y claim Erika actually was in Aspen, even though she didn't attend the event and that..."
+
+**[00:54:36](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-aspen-colorado-t-00-54-06)**
+> "...o hear, but it was the little Aspen retreat thing that it came from. They're certain ..."
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (7 mentions)</summary>
@@ -147,7 +163,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Aspen, Colorado (1)</strong></summary>
+<summary><strong class="section-title">Statements about Aspen, Colorado (2)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>
+
+- [00:31:13](/episodes/ep-xi8SYJTUXPM.md#t-00-30-52) (Accusation) **Anonymous Source #2 (Ep xi8SYJTUXPM)** (via read message): ["Multiple Turning Point USA donors said Charlie Kirk never stated in As..."](/statements/statement-989a8fe6e412.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1)</summary>

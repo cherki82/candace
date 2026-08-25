@@ -11,7 +11,7 @@ object: "person-blake-neff"
 
 ## [Candace Owens](/entities/person-candace-owens) criticized by [Blake Neff](/entities/person-blake-neff)
 
-### Evidence (2 mentions)
+### Evidence (4 mentions)
 
 **[Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY)**
 
@@ -20,6 +20,11 @@ object: "person-blake-neff"
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 
 - [00:16:58](/episodes/ep-q1NRQQAYS_Q#t-00-16-58): _Some would say he got a little too complex, okay? He said this, Candace, we haven't bothered playing it because we know psychopathic predators like yourself do not care what is true or false and normal evidentiary logic has no effect on you._
+
+**[Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM)**
+
+- [00:28:34](/episodes/ep-xi8SYJTUXPM#t-00-28-34): _This is a remarkably precise way to be dishonest because when one simply bothers to read the charging document, one sees that Robinson's parents did not recognize the gun._
+- [00:29:00](/episodes/ep-xi8SYJTUXPM#t-00-29-00): _So he quotes me as saying liars on the Internet have falsely claimed that his parents recognized the gun._
 
 ### Related
 

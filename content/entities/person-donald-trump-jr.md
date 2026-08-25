@@ -1,6 +1,6 @@
 ---
 title: "Donald Trump Jr."
-description: "Donald Trump Jr. (People) - 22 mentions"
+description: "Donald Trump Jr. (People) - 24 mentions"
 id: "person-donald-trump-jr"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52">2025-09-11 · 00:08:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-donald-trump-jr-t-00-31-29">2026-04-10 · 00:31:49</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#t-00-07-27">2026-04-16 · 00:07:43</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -42,6 +42,8 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-donald-trump-jr-t-00-32-39" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-donald-trump-jr-t-00-51-19" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-donald-trump-jr-t-00-31-29" style="--pulse-height:8%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#t-00-16-56" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#t-00-07-27" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +56,8 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-donald-trump-jr-t-00-32-39) | 1 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-donald-trump-jr-t-00-51-19) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-donald-trump-jr-t-00-31-29) | 1 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#t-00-16-56) | 1 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#t-00-07-27) | 1 |
 
 </details>
 </section>
@@ -61,7 +65,23 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1 mentions)</summary>
+
+**[00:07:43](/episodes/ep-1mYNOqzAdXs.md#t-00-07-27)**
+> "Here are some photos of her on Sunday at Bettina (Bettina Anderson) soon to be Trump's bridal shower. She's engaged to Don Trump Jr."
+
+</details>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
+
+**[00:17:12](/episodes/ep-SubDoZWHARo.md#t-00-16-56)**
+> "Don Trump Jr."
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
@@ -176,6 +196,18 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 </details>
 
 <details>
+<summary>Engaged To (1)</summary>
+
+- **[Bettina Anderson](/entities/person-bettina-anderson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:07:43](/episodes/ep-1mYNOqzAdXs.md#t-00-07-27): “Here are some photos of her on Sunday at Bettina (Bettina Anderson) soon to be Trump's bridal shower. She's engaged to Don Trump Jr.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Founded (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
@@ -212,7 +244,14 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
+
+- **[Bettina Anderson](/entities/person-bettina-anderson.md)** engaged to this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:07:43](/episodes/ep-1mYNOqzAdXs.md#t-00-07-27): “Here are some photos of her on Sunday at Bettina (Bettina Anderson) soon to be Trump's bridal shower. She's engaged to Don Trump Jr.”
+
+</details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** founded by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

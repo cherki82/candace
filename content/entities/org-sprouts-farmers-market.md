@@ -1,6 +1,6 @@
 ---
 title: "Sprouts Farmers Market"
-description: "Sprouts Farmers Market (Organizations) - 3 mentions"
+description: "Sprouts Farmers Market (Organizations) - 4 mentions"
 id: "org-sprouts-farmers-market"
 type: "ORG"
 aliases:
@@ -25,7 +25,7 @@ Source: [About Us | Sprouts Farmers Market](https://www.sprouts.com/about/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-sprouts-farmers-market-t-00-36-30">2026-01-28 · 00:36:57</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-sprouts-farmers-market-t-00-29-35">2026-03-24 · 00:29:43</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -54,7 +54,7 @@ Source: [About Us | Sprouts Farmers Market](https://www.sprouts.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>

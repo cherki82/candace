@@ -4,9 +4,10 @@ description: "\"Candace Owens says Corby Hall forwarded her the ATF email and ot
 statement_id: "statement-655b50af0fcc"
 speaker: "Candace Owens"
 type: "citation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "citation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The statement is attributional. The source episode transcript directly records Owens saying Hall forwarded the ATF email and other evidence and that she had confirmed the email was real. This verifies Owens representation, not independent authenticity of the ATF email itself.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Candace Episode 324 transcript](https://podcasts.happyscribe.com/candace/10-erika-s-friend-wanted-to-own-its-company)
+
+*Verified: 2026-08-24T19:11:28.895125*
 
 ---
 

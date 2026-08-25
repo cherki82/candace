@@ -3,9 +3,18 @@ title: "Lance Wallnau"
 description: "Lance Wallnau (People) - 106 mentions"
 id: "person-lance-wallnau"
 type: "PERSON"
+categories:
+  - "Christian speaker"
+  - "Seven Mountains advocate"
 ---
 
 _Type: People_
+
+**Categories:** Christian speaker, Seven Mountains advocate
+
+**Entity verification:** verified
+> The transcript names Lance Wallnau in New Apostolic Reformation/Seven Mountains context; Wallnau's official biography verifies the canonical name and his authorship of the Seven Mountains framework.
+Source: [About | Lance Wallnau](https://lancewallnau.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#t-00-00-45">2025-09-16 · 00:00:45</a></strong></div>

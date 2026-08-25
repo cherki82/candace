@@ -1,6 +1,6 @@
 ---
 title: "Strait of Hormuz"
-description: "Strait of Hormuz (Places) - 6 mentions"
+description: "Strait of Hormuz (Places) - 7 mentions"
 id: "gpe-strait-of-hormuz"
 type: "GPE"
 aliases:
@@ -18,14 +18,14 @@ _Type: Places_
 **Categories:** maritime chokepoint, Middle East geography
 
 **Entity verification:** verified
-> The U.S. EIA confirms the canonical geographic name Strait of Hormuz and its location between Oman and Iran.
-Source: [World Oil Transit Chokepoints | U.S. EIA](https://www.eia.gov/international/analysis/special-topics/World_Oil_Transit_Chokepoints)
+> U.S. Energy Information Administration verifies the canonical Strait of Hormuz name and location between Oman and Iran.
+Source: [World Oil Transit Chokepoints - Strait of Hormuz](https://www.eia.gov/international/content/analysis/special_topics/World_Oil_Transit_Chokepoints/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-strait-of-hormuz-t-00-02-06">2026-03-17 · 00:02:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-strait-of-hormuz-t-00-27-09">2026-03-17 · 00:27:09</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-strait-of-hormuz-t-00-27-00">2026-04-15 · 00:27:00</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [World Oil Transit Chokepoints | U.S. EIA](https://www.eia.gov/internati
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-strait-of-hormuz-t-00-22-43" style="--pulse-height:100%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 5 mentions" title="2026-03-17 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-strait-of-hormuz-t-00-02-06" style="--pulse-height:20%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-strait-of-hormuz-t-00-27-00" style="--pulse-height:20%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [World Oil Transit Chokepoints | U.S. EIA](https://www.eia.gov/internati
 |---|---|---:|
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-strait-of-hormuz-t-00-22-43) | 5 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-strait-of-hormuz-t-00-02-06) | 1 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-strait-of-hormuz-t-00-27-00) | 1 |
 
 </details>
 </section>
@@ -52,7 +54,15 @@ Source: [World Oil Transit Chokepoints | U.S. EIA](https://www.eia.gov/internati
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
+
+**[00:27:00](/episodes/ep-SubDoZWHARo.md#ent-gpe-strait-of-hormuz-t-00-27-00)**
+> "the Strait of Hormuz"
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (5 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Canada"
-description: "Canada (Places) - 19 mentions"
+description: "Canada (Places) - 21 mentions"
 id: "gpe-canada"
 type: "GPE"
 categories:
@@ -17,11 +17,11 @@ Source: [Government of Canada](https://www.canada.ca/en.html)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-canada-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-canada-t-00-10-38">2026-03-24 · 00:11:04</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-canada-t-00-37-22">2026-04-15 · 00:38:00</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -46,6 +46,7 @@ Source: [Government of Canada](https://www.canada.ca/en.html)
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-canada-t-00-20-01" style="--pulse-height:50%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-canada-t-00-08-01" style="--pulse-height:50%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-canada-t-00-10-38" style="--pulse-height:50%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-canada-t-00-37-22" style="--pulse-height:100%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -67,6 +68,7 @@ Source: [Government of Canada](https://www.canada.ca/en.html)
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-canada-t-00-20-01) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-canada-t-00-08-01) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-canada-t-00-10-38) | 1 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-canada-t-00-37-22) | 2 |
 
 </details>
 </section>
@@ -74,7 +76,18 @@ Source: [Government of Canada](https://www.canada.ca/en.html)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (2 mentions)</summary>
+
+**[00:37:54](/episodes/ep-SubDoZWHARo.md#ent-gpe-canada-t-00-37-22)**
+> "from canada"
+
+**[00:38:00](/episodes/ep-SubDoZWHARo.md#ent-gpe-canada-t-00-37-22)**
+> "...ictor Marx kidnapped her from Canada."
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>
@@ -245,7 +258,15 @@ Source: [Government of Canada](https://www.canada.ca/en.html)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Canada (1)</strong></summary>
+<summary><strong class="section-title">Statements about Canada (2)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1)</summary>
+
+- [00:38:00](/episodes/ep-SubDoZWHARo.md#t-00-37-22) (Citation) **Candace Owens**: ["A young woman has publicly alleged that Victor Marx kidnapped her from..."](/statements/statement-9d3b3eceb043.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1)</summary>

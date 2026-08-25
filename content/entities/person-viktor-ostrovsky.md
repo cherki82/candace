@@ -1,25 +1,29 @@
 ---
 title: "Viktor Ostrovsky"
-description: "Viktor Ostrovsky (People) - 2 mentions"
+description: "Viktor Ostrovsky (People) - 3 mentions"
 id: "person-viktor-ostrovsky"
 type: "PERSON"
+aliases:
+  - "Victor Ostrovsky"
 categories:
   - "intelligence literature"
 ---
 
 _Type: People_
 
+**Also known as:** Victor Ostrovsky
+
 **Categories:** intelligence literature
 
 **Entity verification:** verified
-> Biographical reference verifies the canonical spelling Viktor Ostrovsky used in the transcript.
-Source: [Victor Ostrovsky](https://en.wikipedia.org/wiki/Victor_Ostrovsky)
+> Penguin Random House's author page uses Victor Ostrovsky and confirms his former Mossad service; the existing Viktor transliteration is retained and Victor Ostrovsky added as the spoken alias.
+Source: [Victor Ostrovsky | Penguin Random House](https://www.penguinrandomhouse.com/authors/246311/victor-ostrovsky/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-viktor-ostrovsky-t-01-27-19">2026-01-29 · 01:27:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-viktor-ostrovsky-t-01-28-44">2026-01-29 · 01:28:44</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-viktor-ostrovsky-t-00-39-43">2026-04-16 · 00:39:43</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -31,12 +35,14 @@ Source: [Victor Ostrovsky](https://en.wikipedia.org/wiki/Victor_Ostrovsky)
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-viktor-ostrovsky-t-01-27-19">Candace x Bassem Youssef | Candace Ep 298</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-viktor-ostrovsky-t-01-27-19" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-viktor-ostrovsky-t-00-39-43" style="--pulse-height:50%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-viktor-ostrovsky-t-01-27-19) | 2 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-viktor-ostrovsky-t-00-39-43) | 1 |
 
 </details>
 </section>
@@ -44,7 +50,15 @@ Source: [Victor Ostrovsky](https://en.wikipedia.org/wiki/Victor_Ostrovsky)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1 mentions)</summary>
+
+**[00:39:43](/episodes/ep-1mYNOqzAdXs.md#ent-person-viktor-ostrovsky-t-00-39-43)**
+> "Victor Ostrovsky said the same thing."
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Page, Arizona"
-description: "Page, Arizona (Places) - 5 mentions"
+description: "Page, Arizona (Places) - 6 mentions"
 id: "gpe-page-arizona"
 type: "GPE"
 aliases:
@@ -21,9 +21,9 @@ Source: [City of Page, Arizona](https://cityofpage.org/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-page-arizona-t-00-13-13">2026-03-26 · 00:12:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-page-arizona-t-00-13-58">2026-03-26 · 00:25:28</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#t-00-46-39">2026-04-15 · 00:46:58</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,12 +35,14 @@ Source: [City of Page, Arizona](https://cityofpage.org/)
 <p>Highest activity: <a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-page-arizona-t-00-13-13">VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-page-arizona-t-00-13-13" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 5 mentions" title="2026-03-26 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#t-00-46-39" style="--pulse-height:20%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-page-arizona-t-00-13-13) | 5 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#t-00-46-39) | 1 |
 
 </details>
 </section>
@@ -48,7 +50,15 @@ Source: [City of Page, Arizona](https://cityofpage.org/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
+
+**[00:46:58](/episodes/ep-SubDoZWHARo.md#t-00-46-39)**
+> "page Arizona"
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (5 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "George Farmer"
-description: "George Farmer (People) - 50 mentions"
+description: "George Farmer (People) - 53 mentions"
 id: "person-george-farmer"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-00-37">2025-09-11 · 00:00:37</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-george-farmer-t-02-51-04">2026-08-14 · 02:51:14</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>50</strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>53</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
-<div><span>Relationships</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>3</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -50,6 +50,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-george-farmer-t-00-23-05" style="--pulse-height:18%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-george-farmer-t-00-57-24" style="--pulse-height:18%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-george-farmer-t-00-07-25" style="--pulse-height:18%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-george-farmer-t-00-48-51" style="--pulse-height:27%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 3 mentions" title="2026-04-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-george-farmer-t-01-32-20" style="--pulse-height:36%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -71,6 +72,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-george-farmer-t-00-23-05) | 2 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-george-farmer-t-00-57-24) | 2 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-george-farmer-t-00-07-25) | 2 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-george-farmer-t-00-48-51) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-george-farmer-t-01-32-20) | 4 |
 
 </details>
@@ -79,7 +81,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (50)</strong></summary>
+<summary><strong class="section-title">Raw mentions (53)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -95,6 +97,20 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 
 **[02:51:14](/episodes/ep-nPhCKwJ6ye8.md#ent-person-george-farmer-t-02-51-04)**
 > "George and I were planning our marriage."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (3 mentions)</summary>
+
+**[00:48:51](/episodes/ep-kaWtDuoY_ns.md#ent-person-george-farmer-t-00-48-51)**
+> "...land a hit like your husband, George Farmer, allegedly landed when he allegedly hit, aka cras..."
+
+**[00:50:28](/episodes/ep-kaWtDuoY_ns.md#ent-person-george-farmer-t-00-50-08)**
+> "...a scratch on his car. George (George Farmer) said, I'm happy to pay. And they exchanged insur..."
+
+**[01:00:18](/episodes/ep-kaWtDuoY_ns.md#ent-person-george-farmer-t-01-00-18)**
+> "uh the ave regina george or something it's there is definitely a syndicate..."
 
 </details>
 
@@ -308,10 +324,29 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Accused By (1)</summary>
+
+- **[Laura Loomer](/entities/person-laura-loomer.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:48:51](/episodes/ep-kaWtDuoY_ns.md#t-00-48-51): “Laura Loomer attacks Candace (Candace Owens)'s children as feud escalates. ... your husband, George Farmer, allegedly landed when he allegedly hit, aka crashed into Tracy Robinson's car while he was allegedly driving drunk”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Laura Loomer](/entities/person-laura-loomer.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:48:51](/episodes/ep-kaWtDuoY_ns.md#t-00-48-51): “Laura Loomer attacks Candace (Candace Owens)'s children as feud escalates. ... your husband, George Farmer, allegedly landed when he allegedly hit, aka crashed into Tracy Robinson's car while he was allegedly driving drunk”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** married to this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:06:24](/episodes/ep-BKcOm32ZEGk.md#t-00-06-16): “The story had my husband. I've told it many times how I got engaged 18 days later... But I already knew George... I looked at my husband's face and I already knew him.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:46:12](/episodes/ep-GY6GWceEqtQ.md#t-00-45-47): “I could bake cookies with any of George (George Farmer)'s exes. I just don't care. He's my husband.”
@@ -320,6 +355,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:23:05](/episodes/ep-DEtFh2Ff-58.md#t-00-22-23): “Nic Nac is something that has become a regular in our house lately, mostly because my husband, George (George Farmer), keeps them stocked everywhere.”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:57:24](/episodes/ep-7ERqbYElOfs.md#t-00-57-24): “the boss man's a husband ... I'll talk to George (George Farmer) about that.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:07:25](/episodes/ep-UYkXV9mYbT4.md#t-00-07-25): “Do you want to know how I know that it caused panic? Because the very next day on September 20th, Justin Strife was contacting my husband several times while asking him if I had recorded that FaceTime call with Terrell. It came across like an urgent matter. I was sitting in my living room. George came to me and said, hey, I don't know what's going on, but like Justin Strife is hitting me up.”
+- [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:48:51](/episodes/ep-kaWtDuoY_ns.md#t-00-48-51): “Candace (Candace Owens)? ... your husband, George Farmer”
 
 </details>
 
@@ -328,7 +364,21 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about George Farmer (8)</strong></summary>
+<summary><strong class="section-title">Statements about George Farmer (11)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (3)</summary>
+
+- [00:48:51](/episodes/ep-kaWtDuoY_ns.md#t-00-48-51) (Accusation) **Laura Loomer** (via quoted tweet): ["Laura Loomer alleged that George Farmer drunkenly crashed into Tracy R..."](/statements/statement-33fe67e0a1d9.md)
+  - Also about: [Tracy Robinson](/entities/person-tracy-robinson.md), [Candace Owens](/entities/person-candace-owens.md), [Nashville](/entities/gpe-nashville.md)
+
+- [00:49:26](/episodes/ep-kaWtDuoY_ns.md#t-00-49-26) (Claim) **Candace Owens**: ["Candace Owens confirmed that her insurance paid Tracy Robinson a total..."](/statements/statement-2c1b10c503c5.md)
+  - Also about: [Tracy Robinson](/entities/person-tracy-robinson.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:50:08](/episodes/ep-kaWtDuoY_ns.md#t-00-50-08) (Claim) **Candace Owens**: ["Candace Owens said George Farmer's incident with Tracy Robinson was a ..."](/statements/statement-a02ad1bb4329.md)
+  - Also about: [Tracy Robinson](/entities/person-tracy-robinson.md)
+
+</details>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (5)</summary>

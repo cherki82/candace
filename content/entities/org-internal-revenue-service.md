@@ -1,6 +1,6 @@
 ---
 title: "Internal Revenue Service"
-description: "Internal Revenue Service (Organizations) - 97 mentions"
+description: "Internal Revenue Service (Organizations) - 103 mentions"
 id: "org-internal-revenue-service"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-internal-revenue-service-t-01-06-07">2025-09-16 · 01:06:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-internal-revenue-service-t-00-39-45">2026-04-10 · 00:40:23</a></strong></div>
-<div><span>Episodes</span><strong>29</strong></div>
-<div><span>Mentions</span><strong>97</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-internal-revenue-service-t-00-33-15">2026-04-20 · 00:33:43</a></strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>103</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -64,6 +64,8 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-internal-revenue-service-t-00-44-03" style="--pulse-height:50%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 3 mentions" title="2026-03-25 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-org-internal-revenue-service-t-00-26-56" style="--pulse-height:50%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-internal-revenue-service-t-00-39-45" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 3 mentions" title="2026-04-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-org-internal-revenue-service-t-00-50-59" style="--pulse-height:50%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 3 mentions" title="2026-04-15 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-internal-revenue-service-t-00-32-33" style="--pulse-height:50%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 3 mentions" title="2026-04-20 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -98,6 +100,8 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-internal-revenue-service-t-00-44-03) | 3 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-internal-revenue-service-t-00-26-56) | 3 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-internal-revenue-service-t-00-39-45) | 3 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-internal-revenue-service-t-00-50-59) | 3 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-internal-revenue-service-t-00-32-33) | 3 |
 
 </details>
 </section>
@@ -105,7 +109,35 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (97)</strong></summary>
+<summary><strong class="section-title">Raw mentions (103)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (3 mentions)</summary>
+
+**[00:32:55](/episodes/ep-kaWtDuoY_ns.md#ent-org-internal-revenue-service-t-00-32-33)**
+> "...401k or IRA early and now the IRS wants its share."
+
+**[00:33:35](/episodes/ep-kaWtDuoY_ns.md#ent-org-internal-revenue-service-t-00-33-15)**
+> "...e investigative call with the IRS and after that investigation, they put a clear pl..."
+
+**[00:33:43](/episodes/ep-kaWtDuoY_ns.md#ent-org-internal-revenue-service-t-00-33-15)**
+> "So do not wait for another IRS letter or a frozen bank account. Instead, call 86..."
+
+</details>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (3 mentions)</summary>
+
+**[00:51:07](/episodes/ep-SubDoZWHARo.md#ent-org-internal-revenue-service-t-00-50-59)**
+> "the IRS"
+
+**[00:51:44](/episodes/ep-SubDoZWHARo.md#ent-org-internal-revenue-service-t-00-51-44)**
+> "...e investigative call with the IRS and after that investigation, they can put a put ..."
+
+**[00:51:52](/episodes/ep-SubDoZWHARo.md#ent-org-internal-revenue-service-t-00-51-44)**
+> "So do not wait for another IRS letter or a frozen bank account. Call 866-686-165..."
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (3 mentions)</summary>

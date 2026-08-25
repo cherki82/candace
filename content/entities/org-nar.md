@@ -5,11 +5,19 @@ id: "org-nar"
 type: "ORG"
 aliases:
   - "New Apostolic Reformation"
+categories:
+  - "Christian charismatic movement"
 ---
 
 _Type: Organizations_
 
 **Also known as:** New Apostolic Reformation
+
+**Categories:** Christian charismatic movement
+
+**Entity verification:** verified
+> The transcript expands NAR as New Apostolic Reformation; academic research describes the NAR as a diffuse Christian movement and confirms the abbreviation.
+Source: [Pneuma 43 (2021): New Apostolic Reformation](https://brill.com/view/journals/pneu/43/2/article-p214_4.pdf)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-nar-t-00-24-39">2025-10-28 · 00:24:47</a></strong></div>

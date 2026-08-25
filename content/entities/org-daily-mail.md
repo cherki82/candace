@@ -1,6 +1,6 @@
 ---
 title: "Daily Mail"
-description: "Daily Mail (Organizations) - 16 mentions"
+description: "Daily Mail (Organizations) - 20 mentions"
 id: "org-daily-mail"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-daily-mail-t-00-43-40">2025-09-18 · 00:44:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-org-daily-mail-t-00-50-46">2026-04-01 · 00:51:02</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-daily-mail-t-00-29-37">2026-04-21 · 00:29:37</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -42,6 +42,8 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-daily-mail-t-00-02-07" style="--pulse-height:100%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 4 mentions" title="2026-01-30 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-daily-mail-t-00-04-18" style="--pulse-height:25%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-daily-mail-t-00-50-46" style="--pulse-height:25%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-daily-mail-t-00-19-45" style="--pulse-height:75%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-daily-mail-t-00-29-37" style="--pulse-height:25%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +60,8 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-daily-mail-t-00-02-07) | 4 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-daily-mail-t-00-04-18) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-daily-mail-t-00-50-46) | 1 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-daily-mail-t-00-19-45) | 3 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-daily-mail-t-00-29-37) | 1 |
 
 </details>
 </section>
@@ -65,7 +69,29 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1 mentions)</summary>
+
+**[00:29:37](/episodes/ep-xi8SYJTUXPM.md#ent-org-daily-mail-t-00-29-37)**
+> "...I shared like this one in the Daily Mail Tyler Robinson's father realized his son was shoo..."
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (3 mentions)</summary>
+
+**[00:20:19](/episodes/ep-1mYNOqzAdXs.md#ent-org-daily-mail-t-00-19-45)**
+> "I couldn't believe the words I was reading, especially because the Daily Mail is one of their favored rags that just like does all of their bidding and pretends that everything they say is right."
+
+**[00:20:36](/episodes/ep-1mYNOqzAdXs.md#ent-org-daily-mail-t-00-20-28)**
+> "...e, a close confidant told the Daily Mail, quote, she is aware of how she is coming across."
+
+**[00:48:51](/episodes/ep-1mYNOqzAdXs.md#ent-org-daily-mail-t-00-48-51)**
+> "...be you should add that to the daily mail article not the most normal thing to do actually ..."
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
@@ -267,6 +293,19 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:24:35](/episodes/ep-aDlhjfW6hz8.md#t-00-24-00): “The Daily Mail put out this headline about me...Victoria Churchill, who reached out”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Daily Mail (1)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>
+
+- [00:30:52](/episodes/ep-xi8SYJTUXPM.md#t-00-30-52) (Opinion) **Candace Owens**: ["It was reasonable for media reports to conclude from Tyler Robinson's ..."](/statements/statement-7ea974dddde8.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [MSN](/entities/org-msn.md)
 
 </details>
 

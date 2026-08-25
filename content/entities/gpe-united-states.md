@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "United States (Places) - 1483 mentions"
+description: "United States (Places) - 1539 mentions"
 id: "gpe-united-states"
 type: "GPE"
 aliases:
@@ -30,10 +30,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-gpe-united-states-t-00-01-09">2025-09-15 · 00:01:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-01-19-17">2026-08-14 · 01:19:28</a></strong></div>
-<div><span>Episodes</span><strong>95</strong></div>
-<div><span>Mentions</span><strong>1,483</strong></div>
+<div><span>Episodes</span><strong>99</strong></div>
+<div><span>Mentions</span><strong>1,539</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>96</strong></div>
+<div><span>Statements about</span><strong>97</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -136,6 +136,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-12-12" style="--pulse-height:63%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 24 mentions" title="2026-04-10 · 24 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-00-53-40" style="--pulse-height:26%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 10 mentions" title="2026-04-13 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-united-states-t-00-03-34" style="--pulse-height:37%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 14 mentions" title="2026-04-14 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-united-states-t-00-00-41" style="--pulse-height:34%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 13 mentions" title="2026-04-15 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-01-49" style="--pulse-height:45%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 17 mentions" title="2026-04-16 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-united-states-t-00-33-58" style="--pulse-height:24%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 9 mentions" title="2026-04-20 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-united-states-t-00-11-10" style="--pulse-height:45%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 17 mentions" title="2026-04-21 · 17 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-00-28-12" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -236,6 +240,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-12-12) | 24 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-00-53-40) | 10 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-united-states-t-00-03-34) | 14 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-united-states-t-00-00-41) | 13 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-01-49) | 17 |
+| 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-united-states-t-00-33-58) | 9 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-united-states-t-00-11-10) | 17 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-00-28-12) | 3 |
 
 </details>
@@ -244,7 +252,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1483)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1539)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -257,6 +265,194 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[01:19:28](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-01-19-17)**
 > "Kits are available for United States residents only."
+
+</details>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (17 mentions)</summary>
+
+**[00:00:13](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-united-states-t-00-11-10)**
+> "...aybe send him some MACA (Make America Christian Again) hats, make America Christian aga..."
+
+**[00:11:27](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-united-states-t-00-11-10)**
+> "...rlie for years all across the United States, beyond the United States, actually."
+
+**[00:13:09](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-united-states-t-00-13-09)**
+> "...d now in case you're not from America, you're not familiar with that expression, boilin..."
+
+**[00:15:52](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-united-states-t-00-15-52)**
+> "...p is traveling all throughout the country, giving us one liners about Hillary Clinton."
+
+**[00:27:49](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-united-states-t-00-27-49)**
+> "...ought to the forefront of the American conscience no so yesterday he just took a random ..."
+
+**[00:36:54](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-united-states-t-00-36-48)**
+> "...ccess to the president of the United States. And everybody sees that. The fact that people re..."
+
+**[00:41:13](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-united-states-t-00-41-13)**
+> "... broader sense of concern for the country and want there to be actually intervention."
+
+**[00:41:30](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-united-states-t-00-41-13)**
+> "...e ear of the president of the United States."
+
+**[00:43:24](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-united-states-t-00-43-05)**
+> "...yments. American financing is America's home for home loans. Call American financing toda..."
+
+**[00:54:44](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-united-states-t-00-54-44)**
+> "...ere near the president of the United States.' Yeah, he's just playing with fire."
+
+**[00:03:04](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-united-states-t-00-11-10)**
+> "...at. On February 28, 2025, the American Comeback Tour did a stop at Florida State Univers..."
+
+**[00:03:21](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-united-states-t-00-11-10)**
+> "On March 3, 2025, the American Comeback Tour did a stop at the University of Sou..."
+
+**[00:14:07](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-united-states-t-00-13-09)**
+> "...cee noted it as a part of the American comeback tour."
+
+**[00:14:37](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-united-states-t-00-13-09)**
+> "... what was the tour before the American comeback tour in 2024?"
+
+**[00:42:45](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-united-states-t-00-41-13)**
+> "Also reminding you guys about American financing because the cost of living isn't just h..."
+
+**[00:43:05](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-united-states-t-00-43-05)**
+> "My friends at American Financing have a better way. They are helping hom..."
+
+**[00:43:10](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-united-states-t-00-43-05)**
+> "...tly in the fives, on average, American Financing is saving its customers 00 a month. Tha..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (9 mentions)</summary>
+
+**[00:34:18](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-united-states-t-00-33-58)**
+> "...g losers we are the forgotten Americans and Trump (Donald Trump) is just doing it dirtier..."
+
+**[00:35:15](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-united-states-t-00-34-43)**
+> "...ips, a windfall for our great American citizens."
+
+**[00:35:38](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-united-states-t-00-35-24)**
+> "...had. And why shouldn't I? All the country does is win."
+
+**[00:40:54](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-united-states-t-00-40-54)**
+> "...ccess to the president of the United States. Everyone sees that this is a fatal attraction."
+
+**[00:53:34](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-united-states-t-00-40-54)**
+> "...m. Also remind you guys about American financing because the cost of living is not just ..."
+
+**[00:53:57](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-united-states-t-00-53-57)**
+> "instead. My friends over at American Financing have a better way. They're helping home..."
+
+**[00:54:22](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-united-states-t-00-53-57)**
+> "...yments. American Financing is America's home for home loans."
+
+**[00:54:30](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-united-states-t-00-53-57)**
+> "So call American Financing today at 800-795-1210 and that's 800-79..."
+
+**[01:02:59](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-united-states-t-01-02-59)**
+> "...s MAGA but it's actually make America Christian again my favorite that should say MACA ..."
+
+</details>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (17 mentions)</summary>
+
+**[00:01:49](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-01-49)**
+> "Hey, you probably shouldn't say that with the vice president in the room. You can't just say stuff. I always that's one of my phrases. You can't just say stuff, but you definitely shouldn't just say say stuff when you have the vice president of the United States with you. That would actually rise if there was a credible threat against you to a national security threat."
+
+**[00:06:21](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-06-00)**
+> "...hen the vice president of the United States."
+
+**[00:06:28](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-06-00)**
+> "...speak or the president of the United States goes to speak at least 48 hours before he arrives..."
+
+**[00:06:52](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-06-44)**
+> "...ith the number two guy in the United States. So on the day of his arrival, they already know ..."
+
+**[00:14:16](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-14-06)**
+> "...ic. Think when Morgan Wallen, the country star, threw a chair out of a bar window downtown ..."
+
+**[00:25:28](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-25-09)**
+> "...t before the president of the United States and Victor Marx put that video up."
+
+**[00:28:14](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-27-54)**
+> "...ver half a million dollars to America's warrior partnership."
+
+**[00:28:24](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-27-54)**
+> "...suicide and pure talk creates american jobs with a u.s only workforce so sure it would b..."
+
+**[00:28:30](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-28-30)**
+> "creates American jobs with a U.S.-only workforce. So sure, it woul..."
+
+**[00:28:47](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-28-30)**
+> "...very single day, and creating American jobs."
+
+**[00:46:48](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-28-30)**
+> "Also remind you guys about American financing because between groceries, travel and h..."
+
+**[00:46:57](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-28-30)**
+> "...ve considered reaching out to American financing, but hesitated because you don't want t..."
+
+**[00:47:05](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-28-30)**
+> "Great. Well, that's why American Financing created their Smart Equity Loan. It's a..."
+
+**[00:47:25](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-28-30)**
+> "...d out if you qualify. So call American Financing today at 800-795-1210. Again, At 800-79..."
+
+**[00:50:26](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-50-26)**
+> "...t for a lot of the the Jewish Americans right in the same way like I always say like we w..."
+
+**[00:50:52](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-50-26)**
+> "Look at the polls. Jewish Americans are realizing he's just a mass murderer. He's lit..."
+
+**[00:56:49](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-56-23)**
+> "buy the make america christian again hats those are beautiful those ar..."
+
+</details>
+
+<details>
+<summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (13 mentions)</summary>
+
+**[00:00:41](/episodes/ep-SubDoZWHARo.md#ent-gpe-united-states-t-00-00-41)**
+> "the vice president of the United States"
+
+**[00:01:45](/episodes/ep-SubDoZWHARo.md#ent-gpe-united-states-t-00-01-31)**
+> "...sitting vice president of the United States. It is low-key disrespectful outside of a real em..."
+
+**[00:03:53](/episodes/ep-SubDoZWHARo.md#ent-gpe-united-states-t-00-03-46)**
+> "...e of reality and the state of the country. But it underscores a larger point that she has r..."
+
+**[00:09:12](/episodes/ep-SubDoZWHARo.md#ent-gpe-united-states-t-00-08-41)**
+> "...the VP, Vice President of the United States, carry on with the event. People are noticing thi..."
+
+**[00:12:49](/episodes/ep-SubDoZWHARo.md#ent-gpe-united-states-t-00-12-49)**
+> "...hat the vice president of the United States was going to be attending that it was a guarantee..."
+
+**[00:16:02](/episodes/ep-SubDoZWHARo.md#ent-gpe-united-states-t-00-15-37)**
+> "...ide the vice president of the United States."
+
+**[00:47:47](/episodes/ep-SubDoZWHARo.md#ent-gpe-united-states-t-00-47-18)**
+> "...ainian sex trafficking in the United States."
+
+**[00:52:05](/episodes/ep-SubDoZWHARo.md#ent-gpe-united-states-t-00-47-18)**
+> "...oing to remind you guys about American financing because between groceries, travel and h..."
+
+**[00:52:17](/episodes/ep-SubDoZWHARo.md#ent-gpe-united-states-t-00-47-18)**
+> "...ve considered reaching out to American Financing, but hesitated because you don't want t..."
+
+**[00:52:23](/episodes/ep-SubDoZWHARo.md#ent-gpe-united-states-t-00-47-18)**
+> "Well, that's why American Financing created the Smart Equity Loan, which is..."
+
+**[00:52:44](/episodes/ep-SubDoZWHARo.md#ent-gpe-united-states-t-00-47-18)**
+> "...d out if you qualify. So call American Financing today at 800-795-1210."
+
+**[00:53:25](/episodes/ep-SubDoZWHARo.md#ent-gpe-united-states-t-00-53-06)**
+> "... hat. We really like our Make America Christian again hats. I think they're just really..."
+
+**[00:56:47](/episodes/ep-SubDoZWHARo.md#ent-gpe-united-states-t-00-56-47)**
+> "...figure that's deeply hated in American history that has suffered having people go after ..."
 
 </details>
 
@@ -3006,7 +3202,15 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States (96)</strong></summary>
+<summary><strong class="section-title">Statements about United States (97)</strong></summary>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1)</summary>
+
+- [00:37:08](/episodes/ep-1mYNOqzAdXs.md#t-00-37-08) (Opinion) **Corby Hall** (via read message): ["Corby Hall wrote that he would hate to send 1,000 FoldAR units to the ..."](/statements/statement-cbbfa7bca8da.md)
+  - Also about: [Corby Hall](/entities/person-corby-hall.md), [FoldAR](/entities/org-foldar.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md)
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>

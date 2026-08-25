@@ -4,9 +4,10 @@ description: "\"Victor Marx served two years in the Marine Corps during peacetim
 statement_id: "statement-0ede9e4686fc"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -33,7 +34,21 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Records-based reporting gives active service from December 29, 1983 to December 8, 1986: two years, eleven months, and ten days, conventionally nearly three years rather than two. The available DD-214 reporting supports stateside service, zero foreign or sea service, no deployment, and honorable discharge.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Cori Kennedy: The Death of Truth](https://corikennedy.substack.com/p/the-death-of-truth)
+- [Axios Denver: What we know and do not know about Victor Marx](https://www.axios.com/local/denver/2026/08/10/victor-marx-colorado-governor-what-to-know)
+
+*Verified: 2026-08-24T19:11:24.344997*
 
 ---
 

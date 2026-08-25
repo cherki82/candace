@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Charlie Kirk was assassinated at Utah Valley University.
 
-## Mentioned In (38 times)
+## Mentioned In (42 times)
 
 ### 1. You Won't Believe What Happened While We Were Off Air... | C...
 
@@ -316,3 +316,35 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2268);return false;">▶️ Play</a>
 
 > September 10th, 2025, the morning of Charlie Kirk's assassination at 9.33 a.m. Central.
+
+### 39. Erika No-Shows JD Vance. Public Relations Lies About Why. | ...
+
+**Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
+**Timestamp:** [00:04:49](/episodes/ep-SubDoZWHARo.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-28-21) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(289);return false;">▶️ Play</a>
+
+> Remember right after Charlie was assassinated, a lot of people were like, look.
+
+### 40. Erika No-Shows JD Vance. Public Relations Lies About Why. | ...
+
+**Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
+**Timestamp:** [00:28:36](/episodes/ep-SubDoZWHARo.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-28-21) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1716);return false;">▶️ Play</a>
+
+> start with a story that makes sense about September 10th, what happened?
+
+### 41. Erika No-Shows JD Vance. Public Relations Lies About Why. | ...
+
+**Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
+**Timestamp:** [00:58:09](/episodes/ep-SubDoZWHARo.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-28-21) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3489);return false;">▶️ Play</a>
+
+> took place on September 10th. They're relying on us to accept make belief.
+
+### 42. EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His ...
+
+**Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
+**Timestamp:** [00:00:31](/episodes/ep-kaWtDuoY_ns.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-00-31) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(31);return false;">▶️ Play</a>
+
+> the original owner of the rifle that was found after Charlie Kirk was killed

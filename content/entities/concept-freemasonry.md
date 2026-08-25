@@ -1,6 +1,6 @@
 ---
 title: "Freemasonry"
-description: "Freemasonry (Concepts) - 57 mentions"
+description: "Freemasonry (Concepts) - 58 mentions"
 id: "concept-freemasonry"
 type: "CONCEPT"
 aliases:
@@ -26,9 +26,9 @@ Source: [Encyclopaedia Britannica: Freemasonry](https://www.britannica.com/topic
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-freemasonry-t-00-02-09">2026-02-02 · 00:02:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-freemasonry-t-00-39-34">2026-04-13 · 00:39:34</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>57</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-concept-freemasonry-t-00-57-01">2026-04-16 · 00:57:37</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>58</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -50,6 +50,7 @@ Source: [Encyclopaedia Britannica: Freemasonry](https://www.britannica.com/topic
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-concept-freemasonry-t-00-00-00" style="--pulse-height:12%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 3 mentions" title="2026-03-31 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-concept-freemasonry-t-00-17-13" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-freemasonry-t-00-38-59" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-concept-freemasonry-t-00-57-01" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -66,6 +67,7 @@ Source: [Encyclopaedia Britannica: Freemasonry](https://www.britannica.com/topic
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-concept-freemasonry-t-00-00-00) | 3 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-concept-freemasonry-t-00-17-13) | 2 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-concept-freemasonry-t-00-38-59) | 2 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-concept-freemasonry-t-00-57-01) | 1 |
 
 </details>
 </section>
@@ -73,7 +75,15 @@ Source: [Encyclopaedia Britannica: Freemasonry](https://www.britannica.com/topic
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (57)</strong></summary>
+<summary><strong class="section-title">Raw mentions (58)</strong></summary>
+
+<details>
+<summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1 mentions)</summary>
+
+**[00:57:37](/episodes/ep-1mYNOqzAdXs.md#ent-concept-freemasonry-t-00-57-01)**
+> "And so we'll see you for the book club tomorrow. Lot happening. We're learning a lot about Freemasonry and yeah, it's getting very interesting."
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2 mentions)</summary>

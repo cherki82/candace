@@ -1,6 +1,6 @@
 ---
-title: "2023-12-01: Corby Hall and Melody demonstrated the FoldAR to V..."
-description: "2023-12-01 - Corby Hall and Melody demonstrated the FoldAR to Victor Marx in Colorado Springs"
+title: "2023-12-01: Corby Hall and Melody demonstrated FoldAR to Victo..."
+description: "2023-12-01 - Corby Hall and Melody demonstrated FoldAR to Victor Marx in Colorado Springs and later took part in a retooling prayer led by Victor and Eileen Marx"
 event_id: "event-2023-12-01-corby-hall-and-melody-demonstrated-the-f"
 date: "2023-12-01"
 ---
@@ -9,7 +9,7 @@ date: "2023-12-01"
 
 ## Event
 
-> Corby Hall and Melody demonstrated the FoldAR to Victor Marx in Colorado Springs
+> Corby Hall and Melody demonstrated FoldAR to Victor Marx in Colorado Springs and later took part in a retooling prayer led by Victor and Eileen Marx
 
 ## Mentioned In
 

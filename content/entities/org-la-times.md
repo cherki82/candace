@@ -7,6 +7,8 @@ type: "ORG"
 
 _Type: Organizations_
 
+> **Possibly overlapping entity records:** [Los Angeles Times](/entities/org-los-angeles-times). These records share a name or alias; compare their histories before treating either count as complete.
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-la-times-t-00-08-29">2025-11-13 · 00:09:12</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-la-times-t-00-11-28">2025-11-15 · 00:12:01</a></strong></div>

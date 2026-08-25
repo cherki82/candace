@@ -1,6 +1,6 @@
 ---
 title: "Jillian Falcon"
-description: "Jillian Falcon (People) - 34 mentions"
+description: "Jillian Falcon (People) - 35 mentions"
 id: "person-jillian-falcon"
 type: "PERSON"
 aliases:
@@ -25,9 +25,9 @@ Source: [Jillian Falcon (@jillianplease) / X](https://mobile.twitter.com/jillian
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-jillian-falcon-t-00-00-00">2026-02-13 · 00:00:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-jillian-falcon-t-00-59-51">2026-02-13 · 01:00:01</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>34</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#t-00-01-22">2026-04-21 · 00:01:31</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -39,12 +39,14 @@ Source: [Jillian Falcon (@jillianplease) / X](https://mobile.twitter.com/jillian
 <p>Highest activity: <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-jillian-falcon-t-00-00-00">Okay…These Text Messages Are Crazy! | Candace Ep 307</a> (34 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-jillian-falcon-t-00-00-00" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 34 mentions" title="2026-02-13 · 34 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#t-00-01-22" style="--pulse-height:8%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-jillian-falcon-t-00-00-00) | 34 |
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#t-00-01-22) | 1 |
 
 </details>
 </section>
@@ -52,7 +54,15 @@ Source: [Jillian Falcon (@jillianplease) / X](https://mobile.twitter.com/jillian
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1 mentions)</summary>
+
+**[00:01:31](/episodes/ep-xi8SYJTUXPM.md#t-00-01-22)**
+> "strange text messages that Erika shared with a then-15-year-old Jillian."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (34 mentions)</summary>

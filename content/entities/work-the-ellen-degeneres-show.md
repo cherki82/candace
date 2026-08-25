@@ -1,0 +1,69 @@
+---
+title: "The Ellen DeGeneres Show"
+description: "The Ellen DeGeneres Show (Works & Media) - 1 mention"
+id: "work-the-ellen-degeneres-show"
+type: "WORK"
+aliases:
+  - "Ellen DeGeneres"
+  - "Ellen DeGeneres Show"
+categories:
+  - "television talk show"
+---
+
+_Type: Works & Media_
+
+**Also known as:** Ellen DeGeneres, Ellen DeGeneres Show
+
+**Categories:** television talk show
+
+**Entity verification:** verified
+> Warner Bros. identifies The Ellen DeGeneres Show as a Telepictures production; transcript uses Ellen DeGeneres colloquially for the show Cabot Phillips appeared on.
+Source: [Warner Bros. Studios newsletter](https://pdl.warnerbros.com/etaz/corp_comm/Burbank_Newlsetter_4pgs2.pdf)
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-work-the-ellen-degeneres-show-t-00-20-20">2026-04-21 · 00:20:20</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-work-the-ellen-degeneres-show-t-00-20-20">2026-04-21 · 00:20:20</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-xi8SYJTUXPM.md#ent-work-the-ellen-degeneres-show-t-00-20-20">Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328</a> (1 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-work-the-ellen-degeneres-show-t-00-20-20" style="--pulse-height:100%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-work-the-ellen-degeneres-show-t-00-20-20) | 1 |
+
+</details>
+</section>
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details>
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+
+<details>
+<summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1 mentions)</summary>
+
+**[00:20:20](/episodes/ep-xi8SYJTUXPM.md#ent-work-the-ellen-degeneres-show-t-00-20-20)**
+> "...illips. Cabot Phillips was on Ellen DeGeneres and had a little thing going with his brothers ea..."
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+_No relationships extracted yet._
+
+</details>
