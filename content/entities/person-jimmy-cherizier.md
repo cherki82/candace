@@ -1,6 +1,6 @@
 ---
 title: "Jimmy Chérizier"
-description: "Jimmy Chérizier (People) - 5 mentions"
+description: "Jimmy Chérizier (People) - 16 mentions"
 id: "person-jimmy-cherizier"
 type: "PERSON"
 aliases:
@@ -25,9 +25,9 @@ Source: [United Nations Security Council Haiti report S/2025/642](https://digita
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-jimmy-cherizier-t-00-27-24">2026-04-14 · 00:27:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-jimmy-cherizier-t-00-55-24">2026-04-21 · 00:55:58</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep--9MOUvgGyi4.md#ent-person-jimmy-cherizier-t-02-05-53">2026-04-22 · 02:06:24</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -36,11 +36,12 @@ Source: [United Nations Security Council Haiti report S/2025/642](https://digita
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-jsqUIkszZd0.md#ent-person-jimmy-cherizier-t-00-27-24">BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep--9MOUvgGyi4.md#ent-person-jimmy-cherizier-t-01-00-52">Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329</a> (11 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-jsqUIkszZd0.md#ent-person-jimmy-cherizier-t-00-27-24" style="--pulse-height:100%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-jimmy-cherizier-t-00-30-52" style="--pulse-height:50%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-jimmy-cherizier-t-00-55-24" style="--pulse-height:100%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-person-jimmy-cherizier-t-00-27-24" style="--pulse-height:18%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-jimmy-cherizier-t-00-30-52" style="--pulse-height:9%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-jimmy-cherizier-t-00-55-24" style="--pulse-height:18%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-person-jimmy-cherizier-t-01-00-52" style="--pulse-height:100%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 11 mentions" title="2026-04-22 · 11 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +50,7 @@ Source: [United Nations Security Council Haiti report S/2025/642](https://digita
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-jimmy-cherizier-t-00-27-24) | 2 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-jimmy-cherizier-t-00-30-52) | 1 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-jimmy-cherizier-t-00-55-24) | 2 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-person-jimmy-cherizier-t-01-00-52) | 11 |
 
 </details>
 </section>
@@ -56,7 +58,45 @@ Source: [United Nations Security Council Haiti report S/2025/642](https://digita
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (11 mentions)</summary>
+
+**[01:00:52](/episodes/ep--9MOUvgGyi4.md#ent-person-jimmy-cherizier-t-01-00-52)**
+> "Okay, so I do want to just take a second now to just show a brief clip to my audience of the media context of who Jimmy Barbecue (Jimmy Chérizier) is. Some people do not follow politics, global politics, and what we were told Jimmy Barbecue (Jimmy Chérizier) is and was during this time frame, August 2024."
+
+**[00:59:51](/episodes/ep--9MOUvgGyi4.md#ent-person-jimmy-cherizier-t-00-59-51)**
+> "...in and execute or capture any barbecue the"
+
+**[01:00:43](/episodes/ep--9MOUvgGyi4.md#ent-person-jimmy-cherizier-t-01-00-17)**
+> "It's the Kill Jimmy Barbecue (Jimmy Chérizier) who is causing all the ruckus in Haiti anyways."
+
+**[01:01:13](/episodes/ep--9MOUvgGyi4.md#ent-person-jimmy-cherizier-t-01-01-13)**
+> "Jimmy Chérizier, universally referred to here as Barbecue (Jimmy ..."
+
+**[01:01:21](/episodes/ep--9MOUvgGyi4.md#ent-person-jimmy-cherizier-t-01-01-13)**
+> "...Haiti to its knees. Barbecue (Jimmy Chérizier) sees himself as a revolutionary for the people a..."
+
+**[01:01:46](/episodes/ep--9MOUvgGyi4.md#ent-person-jimmy-cherizier-t-01-01-13)**
+> "...t-au-Prince, queues for food, barbecue gets brought in, are orderly. Usually it's chaos...."
+
+**[01:01:58](/episodes/ep--9MOUvgGyi4.md#ent-person-jimmy-cherizier-t-01-01-58)**
+> "This is a source of barbecue strength. To the outside world he may be a gangst..."
+
+**[01:02:19](/episodes/ep--9MOUvgGyi4.md#ent-person-jimmy-cherizier-t-01-02-19)**
+> "Well, right after the Jimmy barbecue, that's when I brought it back to the watermelons..."
+
+**[01:06:38](/episodes/ep--9MOUvgGyi4.md#ent-person-jimmy-cherizier-t-01-06-38)**
+> "...rphanage, told me about maybe barbecue and, you know, the gang violence that was around."
+
+**[02:03:48](/episodes/ep--9MOUvgGyi4.md#ent-person-jimmy-cherizier-t-02-03-48)**
+> "...is liaison to Jimmy Barbecue (Jimmy Chérizier) in Haiti."
+
+**[02:06:24](/episodes/ep--9MOUvgGyi4.md#ent-person-jimmy-cherizier-t-02-05-53)**
+> "And the Jimmy barbecue story was interesting because of also Tim Ballard..."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (2 mentions)</summary>

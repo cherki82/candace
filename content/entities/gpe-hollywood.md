@@ -1,6 +1,6 @@
 ---
 title: "Hollywood"
-description: "Hollywood (Places) - 69 mentions"
+description: "Hollywood (Places) - 86 mentions"
 id: "gpe-hollywood"
 type: "GPE"
 aliases:
@@ -23,9 +23,9 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-hollywood-t-00-12-30">2025-09-18 · 00:12:38</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-hollywood-t-00-43-51">2026-04-15 · 00:44:08</a></strong></div>
-<div><span>Episodes</span><strong>29</strong></div>
-<div><span>Mentions</span><strong>69</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-hollywood-t-00-41-53">2026-05-13 · 00:42:20</a></strong></div>
+<div><span>Episodes</span><strong>33</strong></div>
+<div><span>Mentions</span><strong>86</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -65,6 +65,10 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-hollywood-t-00-02-39" style="--pulse-height:12%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-hollywood-t-00-25-01" style="--pulse-height:25%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-hollywood-t-00-43-51" style="--pulse-height:12%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-gpe-hollywood-t-00-00-00" style="--pulse-height:88%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 7 mentions" title="2026-05-05 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-hollywood-t-00-27-59" style="--pulse-height:50%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 4 mentions" title="2026-05-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-gpe-hollywood-t-00-03-47" style="--pulse-height:12%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-hollywood-t-00-37-13" style="--pulse-height:62%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 5 mentions" title="2026-05-13 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -99,6 +103,10 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-hollywood-t-00-02-39) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-gpe-hollywood-t-00-25-01) | 2 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-hollywood-t-00-43-51) | 1 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-hollywood-t-00-00-00) | 7 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-hollywood-t-00-27-59) | 4 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-gpe-hollywood-t-00-03-47) | 1 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-hollywood-t-00-37-13) | 5 |
 
 </details>
 </section>
@@ -106,7 +114,78 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (69)</strong></summary>
+<summary><strong class="section-title">Raw mentions (86)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (5 mentions)</summary>
+
+**[00:37:13](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-hollywood-t-00-37-13)**
+> "explode into Hollywood"
+
+**[00:01:06](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-hollywood-t-00-00-40)**
+> "...inally received a name of the Hollywood deep fake company that we can confirm Turning Poi..."
+
+**[00:25:25](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-hollywood-t-00-25-25)**
+> "... a bit about this AI company, Hollywood AI Company, and we take a look at Paramount Tacti..."
+
+**[00:36:55](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-hollywood-t-00-36-33)**
+> "...g with and communicating with Hollywood AI deep fake companies."
+
+**[00:42:20](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-hollywood-t-00-41-53)**
+> "What use do they have with Hollywood voice cloning in particular just seems a little s..."
+
+</details>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>
+
+**[00:04:13](/episodes/ep-FFQ9675oqRI.md#ent-gpe-hollywood-t-00-03-47)**
+> "...trailer. They're going to use Hollywood set designers. You're going to be able to reserve..."
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (4 mentions)</summary>
+
+**[00:28:17](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-hollywood-t-00-27-59)**
+> "... to stop trying to make it in Hollywood, certainly no executive by any stretch of an imag..."
+
+**[00:35:40](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-hollywood-t-00-35-32)**
+> "... my time to try to make it in Hollywood again."
+
+**[00:35:49](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-hollywood-t-00-35-32)**
+> "I failed out of Hollywood. I want to pursue this high school dream. So, yea..."
+
+**[00:49:52](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-hollywood-t-00-49-26)**
+> "...m being a struggling actor in Hollywood who just became best friends with Armie Hammer as..."
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (7 mentions)</summary>
+
+**[00:00:21](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-hollywood-t-00-00-00)**
+> "That's what it is. Many people had wrongly assumed that the Blake Lively saga was just some Hollywood case."
+
+**[00:00:27](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-hollywood-t-00-00-00)**
+> "No, it was not just some Hollywood case. It was not just about celebrities and why d..."
+
+**[00:43:40](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-hollywood-t-00-43-30)**
+> "... that this was just some like Hollywood case regarding Blake Lively and Justin Baldoni, b..."
+
+**[00:44:24](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-hollywood-t-00-44-12)**
+> "...e is like a gang operating in Hollywood and they just take publishing rights."
+
+**[00:49:12](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-hollywood-t-00-49-12)**
+> "...we will bully this guy out of hollywood just to recap the retaliation and bullying becaus..."
+
+**[01:08:06](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-hollywood-t-01-08-06)**
+> "...e that people always drown in Hollywood. I don't know any people in real life that drown ..."
+
+**[01:08:28](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-hollywood-t-01-08-06)**
+> "... leave it at that. If I was a Hollywood celebrity, I wouldn't take any baths. So I would ..."
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>

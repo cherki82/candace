@@ -1,6 +1,6 @@
 ---
 title: "Bureau of Alcohol, Tobacco, Firearms and Explosives"
-description: "Bureau of Alcohol, Tobacco, Firearms and Explosives (Organizations) - 31 mentions"
+description: "Bureau of Alcohol, Tobacco, Firearms and Explosives (Organizations) - 37 mentions"
 id: "org-bureau-of-alcohol-tobacco-firearms-and-explosives"
 type: "ORG"
 aliases:
@@ -23,10 +23,10 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-00-00">2026-03-31 · 00:00:00</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-43-09">2026-08-14 · 00:43:09</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>37</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -41,6 +41,7 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-37-34" style="--pulse-height:57%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 8 mentions" title="2026-04-14 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-00-40" style="--pulse-height:36%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 5 mentions" title="2026-04-16 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-10-57" style="--pulse-height:8%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-01-55-52" style="--pulse-height:43%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 6 mentions" title="2026-04-22 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-43-09" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -53,6 +54,7 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-37-34) | 8 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-00-40) | 5 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-10-57) | 1 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-01-55-52) | 6 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-43-09) | 1 |
 
 </details>
@@ -61,13 +63,36 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+<summary><strong class="section-title">Raw mentions (37)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:43:09](/episodes/ep-nPhCKwJ6ye8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-43-09)**
 > "the ATF woman,"
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (6 mentions)</summary>
+
+**[01:55:52](/episodes/ep--9MOUvgGyi4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-01-55-52)**
+> "the ATF."
+
+**[01:55:53](/episodes/ep--9MOUvgGyi4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-01-55-53)**
+> "the ATF trace on September the 10th,"
+
+**[01:56:53](/episodes/ep--9MOUvgGyi4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-01-56-27)**
+> "...ng to show, which is from the ATF, which what they are performing is something that..."
+
+**[01:57:35](/episodes/ep--9MOUvgGyi4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-01-57-29)**
+> "...r in Texas is coming up in an ATF trace."
+
+**[01:59:03](/episodes/ep--9MOUvgGyi4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-01-58-59)**
+> "...And you ask him, hey, did the ATF call you?"
+
+**[01:59:10](/episodes/ep--9MOUvgGyi4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-01-58-59)**
+> "He tells you the ATF did not call him actually. They called you and th..."
 
 </details>
 
@@ -239,7 +264,18 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bureau of Alcohol, Tobacco, Firearms and Explosives (14)</strong></summary>
+<summary><strong class="section-title">Statements about Bureau of Alcohol, Tobacco, Firearms and Explosives (16)</strong></summary>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (2)</summary>
+
+- [01:55:53](/episodes/ep--9MOUvgGyi4.md#t-01-55-53) (Claim) **Corby Hall**: ["Corby Hall said he received an ATF trace for the FoldAR on September 1..."](/statements/statement-0d4307aa00f9.md)
+  - Also about: [Corby Hall](/entities/person-corby-hall.md), [FoldAR](/entities/org-foldar.md)
+
+- [02:02:24](/episodes/ep--9MOUvgGyi4.md#t-02-02-24) (Opinion) **Candace Owens**: ["Candace Owens said the timing of the ATF trace on the day Charlie Kirk..."](/statements/statement-3d32034e439f.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Victor Marx](/entities/person-victor-marx.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1)</summary>

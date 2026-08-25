@@ -1,6 +1,6 @@
 ---
 title: "FoldAR"
-description: "FoldAR (Organizations) - 30 mentions"
+description: "FoldAR (Organizations) - 41 mentions"
 id: "org-foldar"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ Source: [About | FoldAR](https://foldar.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-org-foldar-t-00-18-02">2026-04-14 · 00:18:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-foldar-t-00-16-24">2026-04-21 · 00:16:58</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep--9MOUvgGyi4.md#ent-org-foldar-t-02-16-26">2026-04-22 · 02:16:26</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>19</strong></div>
-<div><span>Relationships</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>26</strong></div>
+<div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -39,6 +39,7 @@ Source: [About | FoldAR](https://foldar.com/about/)
 <a href="/episodes/ep-SubDoZWHARo.md#ent-org-foldar-t-00-41-04" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-foldar-t-00-34-57" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 2 mentions" title="2026-04-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-foldar-t-00-16-24" style="--pulse-height:8%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-org-foldar-t-00-00-26" style="--pulse-height:44%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 11 mentions" title="2026-04-22 · 11 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [About | FoldAR](https://foldar.com/about/)
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-foldar-t-00-41-04) | 2 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-foldar-t-00-34-57) | 2 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-foldar-t-00-16-24) | 1 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-foldar-t-00-00-26) | 11 |
 
 </details>
 </section>
@@ -55,7 +57,45 @@ Source: [About | FoldAR](https://foldar.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (11 mentions)</summary>
+
+**[00:00:35](/episodes/ep--9MOUvgGyi4.md#ent-org-foldar-t-00-00-26)**
+> "No, we are not waiting on anybody. He's not coming. Victor (Victor Marx) does not want to sit across from you, which I thought, Victor Marx, it would be a good idea to have you all here because I can't contest anything he says. I am not the FoldAR company and I did not have these conversations with him."
+
+**[00:02:41](/episodes/ep--9MOUvgGyi4.md#ent-org-foldar-t-00-02-41)**
+> "Well, I own a company called FoldAR. I've got the patent on the most compact AR-15 in..."
+
+**[00:04:31](/episodes/ep--9MOUvgGyi4.md#ent-org-foldar-t-00-04-25)**
+> "...n general when it came to the FoldAR was the idea of a pastor. I know now he says he's..."
+
+**[00:47:36](/episodes/ep--9MOUvgGyi4.md#ent-org-foldar-t-00-47-14)**
+> "...n with him and talk about the FoldAR he's been trying to get you he's been bugging me ..."
+
+**[00:49:22](/episodes/ep--9MOUvgGyi4.md#ent-org-foldar-t-00-49-22)**
+> "...es on and they talk about the FoldAR a little bit. I think Sebastian (Sebastian Gorka)..."
+
+**[01:39:47](/episodes/ep--9MOUvgGyi4.md#ent-org-foldar-t-01-39-40)**
+> "... who shoots for SIG. He got a FoldAR, and he’s given the thumbs-up to Victor (Victor M..."
+
+**[01:51:25](/episodes/ep--9MOUvgGyi4.md#ent-org-foldar-t-01-51-15)**
+> "...ent and and walked in with my FoldAR in my bag it's this huge huge department like 600..."
+
+**[01:52:20](/episodes/ep--9MOUvgGyi4.md#ent-org-foldar-t-01-51-52)**
+> "...how anybody how to deploy the FoldAR, especially SROs and LE guys. And I'm really good..."
+
+**[02:13:51](/episodes/ep--9MOUvgGyi4.md#ent-org-foldar-t-02-13-47)**
+> "The FoldAR has several unique features to it, one being that..."
+
+**[02:16:01](/episodes/ep--9MOUvgGyi4.md#ent-org-foldar-t-02-15-47)**
+> "... not necessarily have to be a FoldAR."
+
+**[02:16:26](/episodes/ep--9MOUvgGyi4.md#ent-org-foldar-t-02-16-26)**
+> "In the case of a FoldAR, you could have the folded rifle in a backpack an..."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1 mentions)</summary>
@@ -173,6 +213,18 @@ Source: [About | FoldAR](https://foldar.com/about/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Based In (1)</summary>
+
+- **[East Texas](/entities/gpe-east-texas.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:03:45](/episodes/ep--9MOUvgGyi4.md#t-00-03-45): “we're a small company out in the sticks, East Texas.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Founded By (1)</summary>
 
 - **[Corby Hall](/entities/person-corby-hall.md)**
@@ -188,10 +240,11 @@ Source: [About | FoldAR](https://foldar.com/about/)
 <summary>Owned By (1)</summary>
 
 - **[Corby Hall](/entities/person-corby-hall.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:18:02](/episodes/ep-jsqUIkszZd0.md#t-00-18-02): “I, Corby Hall, am the inventor, the founder, and the sole owner of FoldAR, a uniquely positioned firearms development company that specializes in producing the most compact rifles that have ever been created.”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:37:37](/episodes/ep-1mYNOqzAdXs.md#t-00-37-37): “Corby (Corby Hall) focus ... you will get a paycheck for the patent and possibly your company ... your patent your patent FoldAR”
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:02:41](/episodes/ep--9MOUvgGyi4.md#t-00-02-41): “Well, I own a company called FoldAR. I've got the patent on the most compact AR-15 in the world, and our mission is school resource officers.”
 
 </details>
 
@@ -210,7 +263,7 @@ Source: [About | FoldAR](https://foldar.com/about/)
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Corby Hall](/entities/person-corby-hall.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -226,11 +279,19 @@ Source: [About | FoldAR](https://foldar.com/about/)
 
 </details>
 
+- **[East Texas](/entities/gpe-east-texas.md)** location of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:03:45](/episodes/ep--9MOUvgGyi4.md#t-00-03-45): “we're a small company out in the sticks, East Texas.”
+
+</details>
+
 - **[Corby Hall](/entities/person-corby-hall.md)** owns this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:18:02](/episodes/ep-jsqUIkszZd0.md#t-00-18-02): “I, Corby Hall, am the inventor, the founder, and the sole owner of FoldAR, a uniquely positioned firearms development company that specializes in producing the most compact rifles that have ever been created.”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:37:37](/episodes/ep-1mYNOqzAdXs.md#t-00-37-37): “Corby (Corby Hall) focus ... you will get a paycheck for the patent and possibly your company ... your patent your patent FoldAR”
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:02:41](/episodes/ep--9MOUvgGyi4.md#t-00-02-41): “Well, I own a company called FoldAR. I've got the patent on the most compact AR-15 in the world, and our mission is school resource officers.”
 
 </details>
 
@@ -246,7 +307,33 @@ Source: [About | FoldAR](https://foldar.com/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about FoldAR (19)</strong></summary>
+<summary><strong class="section-title">Statements about FoldAR (26)</strong></summary>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (7)</summary>
+
+- [00:48:36](/episodes/ep--9MOUvgGyi4.md#t-00-48-36) (Opinion) **Victor Marx** (via quoted speech): ["Victor Marx called FoldAR the best available product for engaging a ho..."](/statements/statement-f90ff30c7b87.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [School resource officer](/entities/concept-school-resource-officer.md)
+
+- [00:48:58](/episodes/ep--9MOUvgGyi4.md#t-00-48-58) (Promise) **Victor Marx** (via quoted speech): ["Victor Marx said he wanted every school resource officer in Texas, and..."](/statements/statement-e76221ace955.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [School resource officer](/entities/concept-school-resource-officer.md), [Texas](/entities/gpe-texas.md)
+
+- [01:47:41](/episodes/ep--9MOUvgGyi4.md#t-01-47-41) (Opinion) **Candace Owens**: ["Candace Owens opined that Corby Hall's final weekend at Victor Marx's ..."](/statements/statement-e535e091864b.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Corby Hall](/entities/person-corby-hall.md), [Victor Marx](/entities/person-victor-marx.md)
+
+- [01:55:53](/episodes/ep--9MOUvgGyi4.md#t-01-55-53) (Claim) **Corby Hall**: ["Corby Hall said he received an ATF trace for the FoldAR on September 1..."](/statements/statement-0d4307aa00f9.md)
+  - Also about: [Corby Hall](/entities/person-corby-hall.md), [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md)
+
+- [02:02:24](/episodes/ep--9MOUvgGyi4.md#t-02-02-24) (Opinion) **Candace Owens**: ["Candace Owens said the timing of the ATF trace on the day Charlie Kirk..."](/statements/statement-3d32034e439f.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Victor Marx](/entities/person-victor-marx.md)
+
+- [02:16:26](/episodes/ep--9MOUvgGyi4.md#t-02-16-26) (Claim) **Corby Hall**: ["Corby Hall said FoldAR's interchangeable barrel system could be used a..."](/statements/statement-46e8cd59ceee.md)
+  - Also about: [Corby Hall](/entities/person-corby-hall.md)
+
+- [02:30:45](/episodes/ep--9MOUvgGyi4.md#t-02-30-28) (Opinion) **Candace Owens**: ["Candace Owens opined that Victor Marx targeted Corby Hall for Hall's p..."](/statements/statement-a519dc4e6118.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Victor Marx](/entities/person-victor-marx.md), [Corby Hall](/entities/person-corby-hall.md)
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (4)</summary>

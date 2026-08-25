@@ -11,7 +11,7 @@ object: "person-laura-loomer"
 
 ## [Donald J. Trump](/entities/person-donald-trump) advised by [Laura Loomer](/entities/person-laura-loomer)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg)**
 
@@ -24,6 +24,10 @@ object: "person-laura-loomer"
 **[EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns)**
 
 - [00:36:34](/episodes/ep-kaWtDuoY_ns#t-00-36-34): _Who even are Trump (Donald Trump)'s advisors anymore? ... Laura Loomer claims she is his number one advisor. And she speaks to him almost daily._
+
+**[TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ)**
+
+- [00:17:55](/episodes/ep-qZ8RWfyuewQ#t-00-17-55): _And I want people to know that the real driver of the entire random attack on me from the president and the reason why it was tinged a little bit with some race was actually his top advisor, Laura Loomer._
 
 **[Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM)**
 

@@ -1,6 +1,6 @@
 ---
 title: "Psychological operations"
-description: "Psychological operations (Concepts) - 19 mentions"
+description: "Psychological operations (Concepts) - 20 mentions"
 id: "concept-psychological-operations"
 type: "CONCEPT"
 aliases:
@@ -19,9 +19,9 @@ _Type: Concepts_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-psychological-operations-t-00-02-03">2026-01-12 · 00:02:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-psychological-operations-t-00-44-48">2026-03-03 · 00:45:11</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-concept-psychological-operations-t-00-33-16">2026-05-11 · 00:33:21</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,6 +39,7 @@ _Type: Concepts_
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-concept-psychological-operations-t-00-58-16" style="--pulse-height:10%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-psychological-operations-t-00-07-56" style="--pulse-height:10%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-psychological-operations-t-00-44-48" style="--pulse-height:10%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-concept-psychological-operations-t-00-33-16" style="--pulse-height:10%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ _Type: Concepts_
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-psychological-operations-t-00-58-16) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-concept-psychological-operations-t-00-07-56) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-concept-psychological-operations-t-00-44-48) | 1 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-concept-psychological-operations-t-00-33-16) | 1 |
 
 </details>
 </section>
@@ -58,7 +60,15 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>
+
+**[00:33:21](/episodes/ep-KpxIBWkNsSs.md#ent-concept-psychological-operations-t-00-33-16)**
+> "good psyops anymore"
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1 mentions)</summary>

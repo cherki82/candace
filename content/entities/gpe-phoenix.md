@@ -1,6 +1,6 @@
 ---
 title: "Phoenix"
-description: "Phoenix (Places) - 17 mentions"
+description: "Phoenix (Places) - 18 mentions"
 id: "gpe-phoenix"
 type: "GPE"
 ---
@@ -11,12 +11,12 @@ _Type: Places_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-phoenix-t-00-15-20">2025-10-09 · 00:15:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-gpe-phoenix-t-00-15-21">2025-12-05 · 00:15:51</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-phoenix-t-00-03-41">2026-05-11 · 00:03:49</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -30,6 +30,7 @@ _Type: Places_
 <a href="/episodes/ep-his-JBjlkh8.md#ent-gpe-phoenix-t-00-28-45" style="--pulse-height:40%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-gpe-phoenix-t-00-10-37" style="--pulse-height:80%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 4 mentions" title="2025-12-05 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-phoenix-t-00-05-21" style="--pulse-height:80%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 4 mentions" title="2025-12-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-phoenix-t-00-03-41" style="--pulse-height:20%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -41,6 +42,7 @@ _Type: Places_
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-gpe-phoenix-t-00-28-45) | 2 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-gpe-phoenix-t-00-10-37) | 4 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-phoenix-t-00-05-21) | 4 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-phoenix-t-00-03-41) | 1 |
 
 </details>
 </section>
@@ -48,7 +50,15 @@ _Type: Places_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>
+
+**[00:03:49](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-phoenix-t-00-03-41)**
+> "Andrew (Andrew Kolvet) lives in Phoenix"
+
+</details>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (4 mentions)</summary>
@@ -162,7 +172,19 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Residence Of (1)</summary>
+
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:03:49](/episodes/ep-KpxIBWkNsSs.md#t-00-03-41): “Andrew (Andrew Kolvet) lives in Phoenix and has three children. How do you know his wife would want to fly five hours across the country to attend one dinner?”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -176,6 +198,13 @@ _Type: Places_
 
 - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:05:30](/episodes/ep-ZAuuSq_j2_w.md#t-00-05-21): “We'll be live streaming... from Charlie's Phoenix Studio.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:29:01](/episodes/ep-his-JBjlkh8.md#t-00-28-45): “there will be a live stream here in Phoenix where we address... at our studio here in Phoenix.”
+
+</details>
+
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** lives in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:03:49](/episodes/ep-KpxIBWkNsSs.md#t-00-03-41): “Andrew (Andrew Kolvet) lives in Phoenix and has three children. How do you know his wife would want to fly five hours across the country to attend one dinner?”
 
 </details>
 

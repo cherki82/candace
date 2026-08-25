@@ -11,7 +11,7 @@ date: "2024-03-22"
 
 > Candace Owens and The Daily Wire ended their relationship.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. Myron Gaines x Candace Owens
 
@@ -28,3 +28,11 @@ date: "2024-03-22"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2596);return false;">▶️ Play</a>
 
 > one of the reasons I got fired is I said we should look into the history of pornography.
+
+### 3. Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace E...
+
+**Episode:** [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md)
+**Timestamp:** [00:11:07](/episodes/ep-uC_GjKU8rs8.md#event-event-2024-03-22-candace-owens-and-the-daily-wire-ended-t-t-00-10-44) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(667);return false;">▶️ Play</a>
+
+> In March of 2024, they parted ways with Candace Owens. She walked into the open market

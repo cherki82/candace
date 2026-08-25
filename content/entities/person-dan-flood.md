@@ -1,6 +1,6 @@
 ---
 title: "Dan Flood"
-description: "Dan Flood (People) - 76 mentions"
+description: "Dan Flood (People) - 90 mentions"
 id: "person-dan-flood"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-33-24">2025-11-20 · 00:33:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-dan-flood-t-00-48-51">2026-04-16 · 00:48:51</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>76</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-dan-flood-t-00-50-52">2026-05-13 · 00:51:06</a></strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>90</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>31</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>35</strong></div>
+<div><span>Relationships</span><strong>17</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -56,6 +56,11 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-dan-flood-t-00-23-14" style="--pulse-height:8%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-dan-flood-t-00-38-42" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-dan-flood-t-00-48-08" style="--pulse-height:17%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 2 mentions" title="2026-04-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-dan-flood-t-00-17-29" style="--pulse-height:58%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 7 mentions" title="2026-04-30 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-dan-flood-t-00-49-36" style="--pulse-height:17%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-dan-flood-t-00-04-32" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-dan-flood-t-00-22-11" style="--pulse-height:8%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-dan-flood-t-00-07-37" style="--pulse-height:25%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -82,6 +87,11 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-dan-flood-t-00-23-14) | 1 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-dan-flood-t-00-38-42) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-dan-flood-t-00-48-08) | 2 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-person-dan-flood-t-00-17-29) | 7 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-dan-flood-t-00-49-36) | 2 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-dan-flood-t-00-04-32) | 1 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-dan-flood-t-00-22-11) | 1 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-dan-flood-t-00-07-37) | 3 |
 
 </details>
 </section>
@@ -89,7 +99,74 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (76)</strong></summary>
+<summary><strong class="section-title">Raw mentions (90)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (3 mentions)</summary>
+
+**[00:07:55](/episodes/ep-4DvYXBn_5JI.md#ent-person-dan-flood-t-00-07-37)**
+> "Dan Flood and Brian Harpole"
+
+**[00:08:18](/episodes/ep-4DvYXBn_5JI.md#ent-person-dan-flood-t-00-07-37)**
+> "... visit universities with only Dan Flood. Really?"
+
+**[00:51:06](/episodes/ep-4DvYXBn_5JI.md#ent-person-dan-flood-t-00-50-52)**
+> "... know stuff was set to delete dan flood"
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>
+
+**[00:22:49](/episodes/ep-k1b1NDCrNFs.md#ent-person-dan-flood-t-00-22-11)**
+> "...r from someone and I messaged Dan Flood."
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1 mentions)</summary>
+
+**[00:04:39](/episodes/ep-eMtjzXkQrsU.md#ent-person-dan-flood-t-00-04-32)**
+> "It certainly did the night before he had a strong sense he was going to die, strong enough that he texted who he thought were his friends, who he thought were the security people meant to protect him. He texted Andrew Kolvet. He texted Dan Flood, and he said they are going to kill me."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (2 mentions)</summary>
+
+**[00:49:36](/episodes/ep-uC_GjKU8rs8.md#ent-person-dan-flood-t-00-49-36)**
+> "...believe that brian harpole or dan flood were involved when this went down i"
+
+**[00:50:52](/episodes/ep-uC_GjKU8rs8.md#ent-person-dan-flood-t-00-50-52)**
+> "...s to his phone have access to Dan Flood's phone have access even to Erika (Erika Kirk)'s ph..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (7 mentions)</summary>
+
+**[00:17:29](/episodes/ep-69A8TzAGHlU.md#ent-person-dan-flood-t-00-17-29)**
+> "I did not believe the early conspiracies against Brian Harpole. Not only that, I went through great lengths to defend both Brian Harpole and Dan Flood without mentioning their names because I didn't want the public to find them."
+
+**[00:17:43](/episodes/ep-69A8TzAGHlU.md#ent-person-dan-flood-t-00-17-29)**
+> "...ng hand signals it looks like Dan Flood's doing hand signals it looks like Brian Harpole wa..."
+
+**[00:18:30](/episodes/ep-69A8TzAGHlU.md#ent-person-dan-flood-t-00-18-14)**
+> "...efended the security team and Dan Flood and said that they were good people."
+
+**[00:21:41](/episodes/ep-69A8TzAGHlU.md#ent-person-dan-flood-t-00-21-26)**
+> "...four messages and i also sent dan flood a message again from the day before i uh or two d..."
+
+**[00:23:44](/episodes/ep-69A8TzAGHlU.md#ent-person-dan-flood-t-00-23-28)**
+> "...ssages to you, one message to Dan Flood. This is his point number 50."
+
+**[00:28:06](/episodes/ep-69A8TzAGHlU.md#ent-person-dan-flood-t-00-27-52)**
+> "... even his messages. Those are Dan Flood's messages. And he admits that finally in this laws..."
+
+**[00:28:30](/episodes/ep-69A8TzAGHlU.md#ent-person-dan-flood-t-00-28-30)**
+> "...xt chain. You never said Dan (Dan Flood) got these messages. Here's what Dan (Dan Flood) ..."
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (2 mentions)</summary>
@@ -451,6 +528,18 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details>
+<summary>Defended By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:17:29](/episodes/ep-69A8TzAGHlU.md#t-00-17-29): “I did not believe the early conspiracies against Brian Harpole. Not only that, I went through great lengths to defend both Brian Harpole and Dan Flood without mentioning their names because I didn't want the public to find them.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Formerly Worked For (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
@@ -508,12 +597,19 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:05:40](/episodes/ep-DdPjoy5W-wY.md#t-01-05-40): “dan flood right who was offered a raise at turning point usa after it's like man you were by this guy every day and he trusted you how do you do it”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** defended this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:17:29](/episodes/ep-69A8TzAGHlU.md#t-00-17-29): “I did not believe the early conspiracies against Brian Harpole. Not only that, I went through great lengths to defend both Brian Harpole and Dan Flood without mentioning their names because I didn't want the public to find them.”
 
 </details>
 
@@ -561,12 +657,41 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 
 </details>
 
+- **[Brian Harpole](/entities/person-brian-harpole.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:22:56](/episodes/ep-k1b1NDCrNFs.md#t-00-22-56): “This is all the way we're in January now. That's Brian (Brian Harpole)'s business partner, longtime colleague. On January 4th, I messaged him.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dan Flood (31)</strong></summary>
+<summary><strong class="section-title">Statements about Dan Flood (35)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>
+
+- [00:52:53](/episodes/ep-4DvYXBn_5JI.md#t-00-52-15) (Accusation) **Candace Owens**: ["So did somebody delete the messages before it was given to Erika?"](/statements/statement-3df15399b793.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (3)</summary>
+
+- [00:17:29](/episodes/ep-69A8TzAGHlU.md#t-00-17-29) (Claim) **Candace Owens**: ["Candace Owens initially defended Brian Harpole and Dan Flood against h..."](/statements/statement-0bb68dad4d0c.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:21:41](/episodes/ep-69A8TzAGHlU.md#t-00-21-26) (Claim) **Candace Owens**: ["Candace Owens sent Brian Harpole roughly four messages and Dan Flood o..."](/statements/statement-dc634ca94d79.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Mitch Snow](/entities/person-mitch-snow.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:28:06](/episodes/ep-69A8TzAGHlU.md#t-00-27-52) (Accusation) **Candace Owens**: ["Brian Harpole presented Dan Flood's messages as though they were his o..."](/statements/statement-a49494525cd8.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (2)</summary>

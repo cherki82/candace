@@ -1,6 +1,6 @@
 ---
 title: "Josh Hammer"
-description: "Josh Hammer (People) - 165 mentions"
+description: "Josh Hammer (People) - 177 mentions"
 id: "person-josh-hammer"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-josh-hammer-t-00-41-03">2025-09-16 · 00:41:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-person-josh-hammer-t-00-22-24">2026-03-30 · 00:22:24</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>165</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-josh-hammer-t-00-40-15">2026-05-05 · 00:40:44</a></strong></div>
+<div><span>Episodes</span><strong>33</strong></div>
+<div><span>Mentions</span><strong>177</strong></div>
 <div><span>Statements by</span><strong>12</strong></div>
-<div><span>Statements about</span><strong>30</strong></div>
-<div><span>Relationships</span><strong>26</strong></div>
+<div><span>Statements about</span><strong>31</strong></div>
+<div><span>Relationships</span><strong>28</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -68,6 +68,7 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-josh-hammer-t-00-02-29" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-josh-hammer-t-00-12-27" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 3 mentions" title="2026-03-23 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-josh-hammer-t-00-22-24" style="--pulse-height:8%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-josh-hammer-t-00-21-58" style="--pulse-height:22%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 12 mentions" title="2026-05-05 · 12 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -105,6 +106,7 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-josh-hammer-t-00-02-29) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-josh-hammer-t-00-12-27) | 3 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-josh-hammer-t-00-22-24) | 1 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-josh-hammer-t-00-21-58) | 12 |
 
 </details>
 </section>
@@ -112,7 +114,48 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (165)</strong></summary>
+<summary><strong class="section-title">Raw mentions (177)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (12 mentions)</summary>
+
+**[00:22:08](/episodes/ep-eMtjzXkQrsU.md#ent-person-josh-hammer-t-00-21-58)**
+> "Thank you, Jesus, that he decided to put that in writing. If that was something that Josh Hammer before he knew that message was going to get out, vociferously denied in the days that followed Charlie (Charlie Kirk)'s death, instantly proclaiming it wasn't true."
+
+**[00:22:37](/episodes/ep-eMtjzXkQrsU.md#ent-person-josh-hammer-t-00-21-58)**
+> "...ing it for 10 years, but you, Josh Hammer, you're so brilliant. Help me. Help me explain to..."
+
+**[00:22:44](/episodes/ep-eMtjzXkQrsU.md#ent-person-josh-hammer-t-00-22-44)**
+> "...oup text messages, which both Josh Hammer and an Israeli-based rabbi were a part of. They w..."
+
+**[00:23:13](/episodes/ep-eMtjzXkQrsU.md#ent-person-josh-hammer-t-00-22-44)**
+> "Josh Hammer, you were on the message. How could you do that? ..."
+
+**[00:23:18](/episodes/ep-eMtjzXkQrsU.md#ent-person-josh-hammer-t-00-23-18)**
+> "And speaking of Josh Hammer, on October 15th, it was announced that Josh Hamm..."
+
+**[00:24:27](/episodes/ep-eMtjzXkQrsU.md#ent-person-josh-hammer-t-00-24-01)**
+> "Same thing with Josh (Josh Hammer). Let's actually take a look because I want you t..."
+
+**[00:24:38](/episodes/ep-eMtjzXkQrsU.md#ent-person-josh-hammer-t-00-24-38)**
+> "...ever going to fail and that's josh hammer and i'm going to show you his views right now on ..."
+
+**[00:26:39](/episodes/ep-eMtjzXkQrsU.md#ent-person-josh-hammer-t-00-26-27)**
+> "...ual mouthpiece, which is what Josh Hammer is. He's just a mouthpiece for Israel, right?"
+
+**[00:32:27](/episodes/ep-eMtjzXkQrsU.md#ent-person-josh-hammer-t-00-32-08)**
+> "Now we've got Josh Hammer, Don Jr. (Donald Trump Jr.) is involved. We've go..."
+
+**[00:38:00](/episodes/ep-eMtjzXkQrsU.md#ent-person-josh-hammer-t-00-37-36)**
+> "...ward, he has a Zoom call with Josh Hammer and a rabbi from Israel."
+
+**[00:38:35](/episodes/ep-eMtjzXkQrsU.md#ent-person-josh-hammer-t-00-38-16)**
+> "...ced. And on October 13th, the Josh Hammer show joins the Salem Podcast Network through a ne..."
+
+**[00:40:44](/episodes/ep-eMtjzXkQrsU.md#ent-person-josh-hammer-t-00-40-15)**
+> "... have the same ratings as the Josh Hammer show."
+
+</details>
 
 <details>
 <summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1 mentions)</summary>
@@ -772,6 +815,18 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Contributor To (1)</summary>
+
+- **[Salem Podcast Network](/entities/org-salem-podcast-network.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:23:38](/episodes/ep-eMtjzXkQrsU.md#t-00-23-18): “No one listens to him. No one watches him. And somehow on October 15th. He's given a show on the Salem podcast network, the same network that hosts the Charlie Kirk show.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Critic Of (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
@@ -876,11 +931,12 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 <summary>Met With (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:39:56](/episodes/ep-CEF7gQRWYCE.md#t-00-39-33): “which would have been 554 p.m., 6 o'clock p.m., Josh Hammer and this rabbi that literally is based in Israel have a Zoom call with Charlie.”
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:23:21](/episodes/ep-DYD_QHMPwqM.md#t-00-23-11): “Charlie (Charlie Kirk) texted both Andrew Kolvet and Dan Flood ... after he then had to have this call with a rabbi ... while the rabbi was in Israel and Josh Hammer”
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:07:51](/episodes/ep-ti5Fxrvegno.md#t-00-07-26): “Charlie (Charlie Kirk) concludes this call with Josh (Josh Hammer) and the rabbi”
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:38:00](/episodes/ep-eMtjzXkQrsU.md#t-00-37-36): “Due to their intense bullying and financial pressure afterward, he has a Zoom call with Josh Hammer and a rabbi from Israel.”
 
 </details>
 
@@ -918,7 +974,7 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 </details>
 
 <details>
-<summary>Referenced By (13)</summary>
+<summary>Referenced By (14)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -979,6 +1035,13 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 
 </details>
 
+- **[Salem Podcast Network](/entities/org-salem-podcast-network.md)** has contributor this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:23:38](/episodes/ep-eMtjzXkQrsU.md#t-00-23-18): “No one listens to him. No one watches him. And somehow on October 15th. He's given a show on the Salem podcast network, the same network that hosts the Charlie Kirk show.”
+
+</details>
+
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** interviewed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -994,11 +1057,12 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:39:56](/episodes/ep-CEF7gQRWYCE.md#t-00-39-33): “which would have been 554 p.m., 6 o'clock p.m., Josh Hammer and this rabbi that literally is based in Israel have a Zoom call with Charlie.”
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:23:21](/episodes/ep-DYD_QHMPwqM.md#t-00-23-11): “Charlie (Charlie Kirk) texted both Andrew Kolvet and Dan Flood ... after he then had to have this call with a rabbi ... while the rabbi was in Israel and Josh Hammer”
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:07:51](/episodes/ep-ti5Fxrvegno.md#t-00-07-26): “Charlie (Charlie Kirk) concludes this call with Josh (Josh Hammer) and the rabbi”
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:38:00](/episodes/ep-eMtjzXkQrsU.md#t-00-37-36): “Due to their intense bullying and financial pressure afterward, he has a Zoom call with Josh Hammer and a rabbi from Israel.”
 
 </details>
 
@@ -1077,7 +1141,15 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Josh Hammer (30)</strong></summary>
+<summary><strong class="section-title">Statements about Josh Hammer (31)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1)</summary>
+
+- [00:23:38](/episodes/ep-eMtjzXkQrsU.md#t-00-23-18) (Claim) **Candace Owens**: ["Josh Hammer was given a show on the Salem Podcast Network on October 1..."](/statements/statement-65631f2679c0.md)
+  - Also about: [Salem Podcast Network](/entities/org-salem-podcast-network.md)
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1)</summary>

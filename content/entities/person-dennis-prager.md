@@ -1,6 +1,6 @@
 ---
 title: "Dennis Prager"
-description: "Dennis Prager (People) - 3 mentions"
+description: "Dennis Prager (People) - 4 mentions"
 id: "person-dennis-prager"
 type: "PERSON"
 categories:
@@ -12,11 +12,15 @@ _Type: People_
 
 **Categories:** media, politics
 
+**Entity verification:** verified
+> PragerU's official presenter biography confirms the canonical name Dennis Prager and identifies him as its co-founder and an author, matching the episode reference.
+Source: [Dennis Prager | PragerU](https://www.prageru.com/presenters/dennis-prager)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-person-dennis-prager-t-00-09-30">2026-01-12 · 00:09:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-dennis-prager-t-00-40-20">2026-02-02 · 00:40:41</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-person-dennis-prager-t-00-27-40">2026-05-07 · 00:27:48</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -29,6 +33,7 @@ _Type: People_
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-dennis-prager-t-00-09-30" style="--pulse-height:50%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-dennis-prager-t-00-08-34" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-person-dennis-prager-t-00-27-40" style="--pulse-height:50%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -36,6 +41,7 @@ _Type: People_
 |---|---|---:|
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-dennis-prager-t-00-09-30) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-dennis-prager-t-00-08-34) | 2 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-dennis-prager-t-00-27-40) | 1 |
 
 </details>
 </section>
@@ -43,7 +49,15 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>
+
+**[00:27:48](/episodes/ep-FFQ9675oqRI.md#ent-person-dennis-prager-t-00-27-40)**
+> "He was talking about Dennis Prager, I think it was specifically who had written this..."
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (2 mentions)</summary>

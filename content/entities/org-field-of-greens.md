@@ -1,6 +1,6 @@
 ---
 title: "Field of Greens"
-description: "Field of Greens (Organizations) - 15 mentions"
+description: "Field of Greens (Organizations) - 17 mentions"
 id: "org-field-of-greens"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-field-of-greens-t-00-46-10">2026-01-14 · 00:46:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-org-field-of-greens-t-00-21-56">2026-04-01 · 00:22:28</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-field-of-greens-t-00-42-54">2026-05-04 · 00:43:20</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -39,6 +39,7 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-field-of-greens-t-00-52-11" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 5 mentions" title="2026-02-13 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-field-of-greens-t-00-54-33" style="--pulse-height:40%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-field-of-greens-t-00-21-17" style="--pulse-height:60%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 3 mentions" title="2026-04-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-field-of-greens-t-00-42-54" style="--pulse-height:40%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-field-of-greens-t-00-52-11) | 5 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-field-of-greens-t-00-54-33) | 2 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-field-of-greens-t-00-21-17) | 3 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-field-of-greens-t-00-42-54) | 2 |
 
 </details>
 </section>
@@ -55,7 +57,18 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (2 mentions)</summary>
+
+**[00:43:03](/episodes/ep-uC_GjKU8rs8.md#ent-org-field-of-greens-t-00-42-54)**
+> "... check out fieldofgreens.com. Field of Greens is 100% organic fruits and vegetables that are de..."
+
+**[00:43:20](/episodes/ep-uC_GjKU8rs8.md#ent-org-field-of-greens-t-00-42-54)**
+> "...d you'll feel the difference. Field of Greens promises your doctor will notice your improved he..."
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (3 mentions)</summary>
@@ -127,6 +140,28 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Endorsed By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:43:03](/episodes/ep-uC_GjKU8rs8.md#t-00-42-54): “It keeps you tired and weak. That's why you need to check out fieldofgreens.com. Field of Greens is 100% organic fruits and vegetables that are dehydrated and ground into a.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:43:03](/episodes/ep-uC_GjKU8rs8.md#t-00-42-54): “It keeps you tired and weak. That's why you need to check out fieldofgreens.com. Field of Greens is 100% organic fruits and vegetables that are dehydrated and ground into a.”
+
+</details>
+
+</details>
 
 </details>

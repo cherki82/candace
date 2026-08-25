@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [PreBorn!](/entities/org-preborn) endorsed by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
+
+**[September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI)**
+
+- [00:26:19](/episodes/ep-4DvYXBn_5JI#t-00-26-19): _Donate, simply dial pound 250 and say the keyword baby. That's pound 250 baby or visit preborn.com slash Candace. Again, that's preborn.com slash Candace._
 
 **[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
 

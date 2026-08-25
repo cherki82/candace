@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) accused [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (12 mentions)
+### Evidence (14 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -45,6 +45,10 @@ object: "person-erika-kirk"
 
 - [00:35:54](/episodes/ep-I0OaY6Gryqk#t-00-35-54): _That everything that Erika (Erika Kirk) is doing right now is normal, that it is moral, that it is righteous in any way, that it is excusable, that she has lied through her teeth, been caught so many times that it's some like stage of grieving that nobody's gone through._
 
+**[Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs)**
+
+- [00:18:22](/episodes/ep-KpxIBWkNsSs#t-00-18-22): _Turns out she didn't graduate magna cum laude and she also didn't graduate summa cum laude. She didn't graduate with any honors and she did not graduate with a double degree._
+
 **[CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ)**
 
 - [00:21:18](/episodes/ep-QRS_hR7NXaQ#t-00-21-18): _I want to speak about Erika (Erika Kirk)'s alibi on September 10th. And I'm going to put it out there that I do not believe it. I do not believe we are being told told the truth regarding her alibi._
@@ -56,6 +60,10 @@ object: "person-erika-kirk"
 **[Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ)**
 
 - [00:44:46](/episodes/ep-ZzAT2xijKGQ#t-00-44-46): _I don't buy anything really that Erika (Erika Kirk) says. She lies a lot._
+
+**[TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ)**
+
+- [00:56:04](/episodes/ep-qZ8RWfyuewQ#t-00-56-04): _That I said you murdered your husband? What does that mean? Did you shoot your husband? No, I'm not accusing you of shooting your husband. ... What I am accusing that I have been open about on the show. Is that it reeks of dishonesty? ... You lied about that, Erica (Erika Kirk)._
 
 **[Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno)**
 

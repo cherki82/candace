@@ -1,6 +1,6 @@
 ---
 title: "JD Vance"
-description: "JD Vance (People) - 56 mentions"
+description: "JD Vance (People) - 58 mentions"
 id: "person-jd-vance"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-person-jd-vance-t-00-45-07">2025-09-18 · 00:45:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-jd-vance-t-00-55-38">2026-04-16 · 00:55:50</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>56</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-jd-vance-t-00-43-13">2026-05-11 · 00:43:23</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>58</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
@@ -53,6 +53,8 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-jd-vance-t-00-37-42" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-jd-vance-t-00-01-31" style="--pulse-height:81%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 13 mentions" title="2026-04-15 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-jd-vance-t-00-08-43" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 16 mentions" title="2026-04-16 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-jd-vance-t-00-56-49" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-jd-vance-t-00-43-13" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -75,6 +77,8 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-jd-vance-t-00-37-42) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-jd-vance-t-00-01-31) | 13 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-jd-vance-t-00-08-43) | 16 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-jd-vance-t-00-56-49) | 1 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-jd-vance-t-00-43-13) | 1 |
 
 </details>
 </section>
@@ -82,7 +86,23 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (56)</strong></summary>
+<summary><strong class="section-title">Raw mentions (58)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>
+
+**[00:43:23](/episodes/ep-KpxIBWkNsSs.md#ent-person-jd-vance-t-00-43-13)**
+> "jd vance lecture us"
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[00:57:18](/episodes/ep-qZ8RWfyuewQ.md#ent-person-jd-vance-t-00-56-49)**
+> "...ys for wearing hot pants with J.D. Vance. I don't care about that. That's not relevant to ..."
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (16 mentions)</summary>

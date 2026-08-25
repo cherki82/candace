@@ -1,6 +1,6 @@
 ---
 title: "Tracy Robinson"
-description: "Tracy Robinson (People) - 4 mentions"
+description: "Tracy Robinson (People) - 6 mentions"
 id: "person-tracy-robinson"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [The Cinderella Con: Candace Owens, George Farmer, and the DUI Crime Sce
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-tracy-robinson-t-00-48-51">2026-04-20 · 00:48:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-tracy-robinson-t-00-50-08">2026-04-20 · 00:50:26</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-tracy-robinson-t-00-40-09">2026-05-06 · 00:40:09</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,12 +32,16 @@ Source: [The Cinderella Con: Candace Owens, George Farmer, and the DUI Crime Sce
 <p>Highest activity: <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-tracy-robinson-t-00-48-51">EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-tracy-robinson-t-00-48-51" style="--pulse-height:100%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 4 mentions" title="2026-04-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-tracy-robinson-t-00-00-00" style="--pulse-height:25%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-tracy-robinson-t-00-40-09" style="--pulse-height:25%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-tracy-robinson-t-00-48-51) | 4 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-tracy-robinson-t-00-00-00) | 1 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-tracy-robinson-t-00-40-09) | 1 |
 
 </details>
 </section>
@@ -45,7 +49,23 @@ Source: [The Cinderella Con: Candace Owens, George Farmer, and the DUI Crime Sce
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>
+
+**[00:40:09](/episodes/ep-k1b1NDCrNFs.md#ent-person-tracy-robinson-t-00-40-09)**
+> "... and naming a person remember Tracy Robinson this is the hit and run victim claiming"
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
+
+**[00:00:20](/episodes/ep-uC_GjKU8rs8.md#ent-person-tracy-robinson-t-00-00-00)**
+> "...d run, having hit a man named Tracy Robinson."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (4 mentions)</summary>

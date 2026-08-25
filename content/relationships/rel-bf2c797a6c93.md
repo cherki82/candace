@@ -11,7 +11,11 @@ object: "org-superfeed-technologies"
 
 ## [Lori Frantzve](/entities/person-lori-frantzve) board member of [Superfeed Technologies, Inc.](/entities/org-superfeed-technologies)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
+
+**[September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI)**
+
+- [00:49:57](/episodes/ep-4DvYXBn_5JI#t-00-49-57): _I'm blanking on the name of the company that she is on the board of with Tyler Bowyer. ... They act super feed. The super feed actually powers the Turning Point USA website. So the app, pardon me._
 
 **[EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A)**
 

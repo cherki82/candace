@@ -1,6 +1,6 @@
 ---
 title: "Isaac Perlmutter"
-description: "Isaac Perlmutter (People) - 2 mentions"
+description: "Isaac Perlmutter (People) - 3 mentions"
 id: "person-isaac-perlmutter"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [The Walt Disney Company and Marvel Entertainment acquisition call](http
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-isaac-perlmutter-t-00-04-46">2026-02-05 · 00:05:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-isaac-perlmutter-t-00-05-28">2026-02-05 · 00:05:43</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-isaac-perlmutter-t-00-21-10">2026-05-13 · 00:21:22</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -36,12 +36,14 @@ Source: [The Walt Disney Company and Marvel Entertainment acquisition call](http
 <p>Highest activity: <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-isaac-perlmutter-t-00-04-46">An Open Letter To Erika Kirk | Candace Ep 303</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-isaac-perlmutter-t-00-04-46" style="--pulse-height:100%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-isaac-perlmutter-t-00-21-10" style="--pulse-height:50%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-isaac-perlmutter-t-00-04-46) | 2 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-isaac-perlmutter-t-00-21-10) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [The Walt Disney Company and Marvel Entertainment acquisition call](http
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1 mentions)</summary>
+
+**[00:21:22](/episodes/ep-7FS1tUeSfdE.md#ent-person-isaac-perlmutter-t-00-21-10)**
+> "Ike Perlmutter's guy"
+
+</details>
 
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (2 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Internal Revenue Service"
-description: "Internal Revenue Service (Organizations) - 103 mentions"
+description: "Internal Revenue Service (Organizations) - 113 mentions"
 id: "org-internal-revenue-service"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-internal-revenue-service-t-01-06-07">2025-09-16 · 01:06:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-internal-revenue-service-t-00-33-15">2026-04-20 · 00:33:43</a></strong></div>
-<div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>103</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-internal-revenue-service-t-00-38-11">2026-05-11 · 00:38:33</a></strong></div>
+<div><span>Episodes</span><strong>34</strong></div>
+<div><span>Mentions</span><strong>113</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -66,6 +66,9 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-internal-revenue-service-t-00-39-45" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 3 mentions" title="2026-04-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-org-internal-revenue-service-t-00-50-59" style="--pulse-height:50%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 3 mentions" title="2026-04-15 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-internal-revenue-service-t-00-32-33" style="--pulse-height:50%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 3 mentions" title="2026-04-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-org-internal-revenue-service-t-01-19-18" style="--pulse-height:50%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 3 mentions" title="2026-04-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-internal-revenue-service-t-00-54-50" style="--pulse-height:50%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 3 mentions" title="2026-05-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-internal-revenue-service-t-00-37-30" style="--pulse-height:67%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 4 mentions" title="2026-05-11 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -102,6 +105,9 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-internal-revenue-service-t-00-39-45) | 3 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-internal-revenue-service-t-00-50-59) | 3 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-internal-revenue-service-t-00-32-33) | 3 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-internal-revenue-service-t-01-19-18) | 3 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-internal-revenue-service-t-00-54-50) | 3 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-internal-revenue-service-t-00-37-30) | 4 |
 
 </details>
 </section>
@@ -109,7 +115,52 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (103)</strong></summary>
+<summary><strong class="section-title">Raw mentions (113)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (4 mentions)</summary>
+
+**[00:38:05](/episodes/ep-KpxIBWkNsSs.md#ent-org-internal-revenue-service-t-00-37-30)**
+> "the IRS penalties"
+
+**[00:38:11](/episodes/ep-KpxIBWkNsSs.md#ent-org-internal-revenue-service-t-00-38-11)**
+> "...e next tax season. Before the IRS starts sending more letters, garnishing wages, or..."
+
+**[00:38:21](/episodes/ep-KpxIBWkNsSs.md#ent-org-internal-revenue-service-t-00-38-11)**
+> "... unfiled returns, and serious IRS problems."
+
+**[00:38:33](/episodes/ep-KpxIBWkNsSs.md#ent-org-internal-revenue-service-t-00-38-11)**
+> "... now, they're offering a free IRS investigation call to find out exactly what you o..."
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (3 mentions)</summary>
+
+**[00:55:05](/episodes/ep-eMtjzXkQrsU.md#ent-org-internal-revenue-service-t-00-54-50)**
+> "Now the IRS wants their share. However your tax issue started, the outcome is always the same. Your balance is not going down."
+
+**[00:55:38](/episodes/ep-eMtjzXkQrsU.md#ent-org-internal-revenue-service-t-00-55-32)**
+> "...e investigative call with the IRS and after that investigation, they put a clear pl..."
+
+**[00:55:45](/episodes/ep-eMtjzXkQrsU.md#ent-org-internal-revenue-service-t-00-55-32)**
+> "But do not wait for another IRS letter or a frozen bank account. Instead, call 86..."
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (3 mentions)</summary>
+
+**[01:19:26](/episodes/ep--9MOUvgGyi4.md#ent-org-internal-revenue-service-t-01-19-18)**
+> "Maybe you retired and suddenly you got hit with a tax bill they didn't expect or you pulled money from your 401k or IRA early and now the IRS wants its share."
+
+**[01:20:01](/episodes/ep--9MOUvgGyi4.md#ent-org-internal-revenue-service-t-01-20-01)**
+> "...e investigative call with the IRS and after that investment."
+
+**[01:20:15](/episodes/ep--9MOUvgGyi4.md#ent-org-internal-revenue-service-t-01-20-01)**
+> "So do not wait for another IRS letter or a frozen bank account. Instead, call 86..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (3 mentions)</summary>

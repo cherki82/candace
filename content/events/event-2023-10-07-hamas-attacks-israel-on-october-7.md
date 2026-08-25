@@ -11,7 +11,7 @@ date: "2023-10-07"
 
 > Hamas attacks Israel on October 7
 
-## Mentioned In (5 times)
+## Mentioned In (6 times)
 
 ### 1. REVELATIONS: The Truth About Charlie's Medical Report | Cand...
 
@@ -52,3 +52,11 @@ date: "2023-10-07"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(208);return false;">▶️ Play</a>
 
 > The story begins in 2023, shortly after October 7th.
+
+### 6. September 10th: The OTHER Shooting That The Media Forgot. | ...
+
+**Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
+**Timestamp:** [00:04:11](/episodes/ep-4DvYXBn_5JI.md#event-event-2023-10-07-hamas-attacks-israel-on-october-7-t-00-03-42) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(251);return false;">▶️ Play</a>
+
+> From, you guessed it, Israel right after October 7th. Yes, naturally, of course, duh, Israel.

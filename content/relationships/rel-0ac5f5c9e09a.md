@@ -11,11 +11,15 @@ object: "person-lori-frantzve"
 
 ## [Candace Owens](/entities/person-candace-owens) criticized [Lori Frantzve](/entities/person-lori-frantzve)
 
-### Evidence (5 mentions)
+### Evidence (6 mentions)
 
 **[Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY)**
 
 - [00:19:14](/episodes/ep-2tFYJf1klgY#t-00-19-14): _With everything I know about Lori (Lori Frantzve), I don't love it._
+
+**[September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI)**
+
+- [00:50:40](/episodes/ep-4DvYXBn_5JI#t-00-50-40): _wife if you found out something about Lori Frantzve who um yeah I have a lot of question marks about her in general but I've expressed that throughout our Erika Kirk series Bride of Charlie_
 
 **[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
 

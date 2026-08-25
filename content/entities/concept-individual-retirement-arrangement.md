@@ -1,6 +1,6 @@
 ---
 title: "Individual Retirement Arrangement"
-description: "Individual Retirement Arrangement (Concepts) - 19 mentions"
+description: "Individual Retirement Arrangement (Concepts) - 28 mentions"
 id: "concept-individual-retirement-arrangement"
 type: "CONCEPT"
 aliases:
@@ -23,9 +23,9 @@ Source: [Individual retirement arrangements (IRAs) - Internal Revenue Service](h
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#ent-concept-individual-retirement-arrangement-t-00-36-10">2026-02-05 · 00:36:40</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-individual-retirement-arrangement-t-00-32-33">2026-04-20 · 00:32:55</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-concept-individual-retirement-arrangement-t-00-37-30">2026-05-11 · 00:38:00</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -50,6 +50,10 @@ Source: [Individual retirement arrangements (IRAs) - Internal Revenue Service](h
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-individual-retirement-arrangement-t-00-39-02" style="--pulse-height:33%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-concept-individual-retirement-arrangement-t-00-50-59" style="--pulse-height:33%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-individual-retirement-arrangement-t-00-32-33" style="--pulse-height:33%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-concept-individual-retirement-arrangement-t-01-19-18" style="--pulse-height:33%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-individual-retirement-arrangement-t-00-26-05" style="--pulse-height:100%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 3 mentions" title="2026-04-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-concept-individual-retirement-arrangement-t-01-02-18" style="--pulse-height:67%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 2 mentions" title="2026-04-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-concept-individual-retirement-arrangement-t-00-37-30" style="--pulse-height:67%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -69,6 +73,10 @@ Source: [Individual retirement arrangements (IRAs) - Internal Revenue Service](h
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-individual-retirement-arrangement-t-00-39-02) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-concept-individual-retirement-arrangement-t-00-50-59) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-concept-individual-retirement-arrangement-t-00-32-33) | 1 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-concept-individual-retirement-arrangement-t-01-19-18) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-individual-retirement-arrangement-t-00-26-05) | 3 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-concept-individual-retirement-arrangement-t-01-02-18) | 2 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-concept-individual-retirement-arrangement-t-00-37-30) | 2 |
 
 </details>
 </section>
@@ -76,7 +84,51 @@ Source: [Individual retirement arrangements (IRAs) - Internal Revenue Service](h
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (2 mentions)</summary>
+
+**[00:37:57](/episodes/ep-KpxIBWkNsSs.md#ent-concept-individual-retirement-arrangement-t-00-37-30)**
+> "or IRA"
+
+**[00:38:00](/episodes/ep-KpxIBWkNsSs.md#ent-concept-individual-retirement-arrangement-t-00-37-30)**
+> "...withdrew money from a 401k or IRA and suddenly got hit with a tax bill that you nev..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2 mentions)</summary>
+
+**[01:02:23](/episodes/ep-69A8TzAGHlU.md#ent-concept-individual-retirement-arrangement-t-01-02-18)**
+> "... to tell you about BlockTrust IRA, which is a crypto IRA that's designed for everyd..."
+
+**[01:02:56](/episodes/ep-69A8TzAGHlU.md#ent-concept-individual-retirement-arrangement-t-01-02-18)**
+> "...ght now you can open a crypto IRA and get up to $2,500 inflation shield bonus. bonu..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (3 mentions)</summary>
+
+**[00:26:20](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-individual-retirement-arrangement-t-00-26-05)**
+> "...ell you guys about BlockTrust IRA, because have you ever tried keeping up with cryp..."
+
+**[00:26:35](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-individual-retirement-arrangement-t-00-26-05)**
+> "... to tell you about BlockTrust IRA, which is a crypto IRA designed for everyday Amer..."
+
+**[00:27:08](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-individual-retirement-arrangement-t-00-26-47)**
+> "...ght now you can open a crypto IRA and get up to $2,500 inflation shield bonus added..."
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (1 mentions)</summary>
+
+**[01:19:26](/episodes/ep--9MOUvgGyi4.md#ent-concept-individual-retirement-arrangement-t-01-19-18)**
+> "Maybe you retired and suddenly you got hit with a tax bill they didn't expect or you pulled money from your 401k or IRA early and now the IRS wants its share."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1 mentions)</summary>

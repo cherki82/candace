@@ -1,6 +1,6 @@
 ---
 title: "Turning Point Action"
-description: "Turning Point Action (Organizations) - 26 mentions"
+description: "Turning Point Action (Organizations) - 32 mentions"
 id: "org-turning-point-action"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-org-turning-point-action-t-00-23-46">2025-10-06 · 00:24:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-action-t-00-13-07">2026-03-25 · 00:13:07</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-turning-point-action-t-00-50-18">2026-05-13 · 00:50:31</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -50,6 +50,8 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-turning-point-action-t-00-16-51" style="--pulse-height:29%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-turning-point-action-t-00-42-56" style="--pulse-height:14%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-action-t-00-13-07" style="--pulse-height:14%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-turning-point-action-t-00-49-36" style="--pulse-height:43%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-turning-point-action-t-00-16-26" style="--pulse-height:43%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -70,6 +72,8 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-turning-point-action-t-00-16-51) | 2 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-turning-point-action-t-00-42-56) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-action-t-00-13-07) | 1 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-org-turning-point-action-t-00-49-36) | 3 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-org-turning-point-action-t-00-16-26) | 3 |
 
 </details>
 </section>
@@ -77,7 +81,35 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (3 mentions)</summary>
+
+**[00:49:36](/episodes/ep-4DvYXBn_5JI.md#ent-org-turning-point-action-t-00-49-36)**
+> "turning point action"
+
+**[00:49:46](/episodes/ep-4DvYXBn_5JI.md#ent-org-turning-point-action-t-00-49-36)**
+> "The rumor is that Turning Point Action was missing $10 million and Turning Point Action ..."
+
+**[00:50:31](/episodes/ep-4DvYXBn_5JI.md#ent-org-turning-point-action-t-00-50-18)**
+> "And if it was turning point action, then there would be a direct tie to Lori Frantzv..."
+
+</details>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (3 mentions)</summary>
+
+**[00:16:26](/episodes/ep-7FS1tUeSfdE.md#ent-org-turning-point-action-t-00-16-26)**
+> "it wasn't Turning Point USA, but it was Turning Point Action"
+
+**[00:16:46](/episodes/ep-7FS1tUeSfdE.md#ent-org-turning-point-action-t-00-16-26)**
+> "...of the money was missing from Turning Point Action."
+
+**[00:17:01](/episodes/ep-7FS1tUeSfdE.md#ent-org-turning-point-action-t-00-17-01)**
+> "...y, but it's worth noting that Turning Point Action is headed up by Tyler Bowyer, and we have already..."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
@@ -265,10 +297,11 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <summary>Employs (1)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:57](/episodes/ep-1IY2oD-_xVA.md#t-00-45-57): “And they specifically said that the money was missing out of Turning Point Action, which is headed up by Tyler Bowyer.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:16:51](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51): “At Turning Point Action, we have a ton of jobs posting”
+- [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:17:01](/episodes/ep-7FS1tUeSfdE.md#t-00-16-26): “Now, it's worth noting, I'll say allegedly, but it's worth noting that Turning Point Action is headed up by Tyler Bowyer, and we have already explained to you that they have built that super feed back door, which pays Lori Frantzve.”
 
 </details>
 
@@ -349,10 +382,11 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 </details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:57](/episodes/ep-1IY2oD-_xVA.md#t-00-45-57): “And they specifically said that the money was missing out of Turning Point Action, which is headed up by Tyler Bowyer.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:16:51](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51): “At Turning Point Action, we have a ton of jobs posting”
+- [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:17:01](/episodes/ep-7FS1tUeSfdE.md#t-00-16-26): “Now, it's worth noting, I'll say allegedly, but it's worth noting that Turning Point Action is headed up by Tyler Bowyer, and we have already explained to you that they have built that super feed back door, which pays Lori Frantzve.”
 
 </details>
 
@@ -361,7 +395,23 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point Action (15)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point Action (17)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>
+
+- [00:49:46](/episodes/ep-4DvYXBn_5JI.md#t-00-49-36) (Accusation) **Candace Owens** (via paraphrase): ["Candace Owens said the rumor was that Turning Point Action was missing..."](/statements/statement-f7a4f5e5b189.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</details>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1)</summary>
+
+- [00:16:46](/episodes/ep-7FS1tUeSfdE.md#t-00-16-26) (Claim) **Anonymous Source #3 (Ep 7FS1tUeSfdE)** (via read message): ["Justin Streiff was overheard on the phone yelling that all of the mone..."](/statements/statement-8b661529362d.md)
+  - Also about: [Justin Streiff](/entities/person-justin-streiff.md)
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1)</summary>

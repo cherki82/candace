@@ -1,6 +1,6 @@
 ---
 title: "Don Kline"
-description: "Don Kline (People) - 1 mention"
+description: "Don Kline (People) - 2 mentions"
 id: "person-don-kline"
 type: "PERSON"
 aliases:
@@ -25,7 +25,7 @@ Source: [Charlie Kirk's Wife: What We Know About Erika Kirk's Catholic Faith](ht
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Wjul6YV6izo.md#ent-person-don-kline-t-00-17-57">2026-01-30 · 00:18:06</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Wjul6YV6izo.md#ent-person-don-kline-t-00-17-57">2026-01-30 · 00:18:06</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -50,7 +50,7 @@ Source: [Charlie Kirk's Wife: What We Know About Erika Kirk's Catholic Faith](ht
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (1 mentions)</summary>

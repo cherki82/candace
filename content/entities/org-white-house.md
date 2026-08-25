@@ -1,19 +1,14 @@
 ---
 title: "White House"
-description: "White House (Organizations) - 102 mentions"
+description: "White House (Organizations) - 150 mentions"
 id: "org-white-house"
 type: "ORG"
-aliases:
-  - "the White House"
-  - "White House"
 categories:
   - "United States executive office"
   - "government institution"
 ---
 
 _Type: Organizations_
-
-**Also known as:** the White House, White House
 
 **Categories:** United States executive office, government institution
 
@@ -23,64 +18,69 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-white-house-t-00-04-16">2025-09-11 · 00:04:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-white-house-t-00-46-52">2026-04-20 · 00:47:02</a></strong></div>
-<div><span>Episodes</span><strong>45</strong></div>
-<div><span>Mentions</span><strong>102</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-white-house-t-00-47-05">2026-05-13 · 00:47:05</a></strong></div>
+<div><span>Episodes</span><strong>50</strong></div>
+<div><span>Mentions</span><strong>150</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>24</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>33</strong></div>
+<div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-white-house-t-00-08-40">Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271</a> (7 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-white-house-t-00-00-01">BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338</a> (16 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-_dRaEO47-co.md#ent-org-white-house-t-00-04-16" style="--pulse-height:14%" aria-label="To My Friend, Charlie Kirk.: 1 mentions" title="2025-09-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sreYYcID-QY.md#ent-org-white-house-t-00-52-52" style="--pulse-height:14%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-white-house-t-00-39-12" style="--pulse-height:29%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-white-house-t-00-02-10" style="--pulse-height:43%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 3 mentions" title="2025-10-01 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-5autG89PW6w.md#ent-org-white-house-t-00-11-03" style="--pulse-height:14%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-c5BcKF91iec.md#ent-org-white-house-t-00-00-00" style="--pulse-height:43%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 3 mentions" title="2025-10-27 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-white-house-t-00-14-16" style="--pulse-height:29%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-white-house-t-00-51-24" style="--pulse-height:14%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-org-white-house-t-01-01-30" style="--pulse-height:14%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-r1PS67aRmcA.md#ent-org-white-house-t-00-16-45" style="--pulse-height:14%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-white-house-t-00-07-31" style="--pulse-height:29%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 2 mentions" title="2025-11-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-org-white-house-t-00-30-43" style="--pulse-height:14%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-org-white-house-t-00-11-43" style="--pulse-height:43%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 3 mentions" title="2025-11-20 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-white-house-t-00-27-32" style="--pulse-height:14%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-white-house-t-00-08-40" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 7 mentions" title="2025-12-01 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-white-house-t-00-14-43" style="--pulse-height:14%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-white-house-t-00-24-28" style="--pulse-height:14%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-white-house-t-00-06-27" style="--pulse-height:14%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-white-house-t-00-05-54" style="--pulse-height:86%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 6 mentions" title="2025-12-09 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-org-white-house-t-00-46-00" style="--pulse-height:14%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-org-white-house-t-00-06-24" style="--pulse-height:57%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Wjul6YV6izo.md#ent-org-white-house-t-00-25-39" style="--pulse-height:14%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-white-house-t-00-29-56" style="--pulse-height:57%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 4 mentions" title="2026-02-02 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-white-house-t-00-14-04" style="--pulse-height:29%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-4YgrOhhy708.md#ent-org-white-house-t-00-28-49" style="--pulse-height:29%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-org-white-house-t-00-47-36" style="--pulse-height:14%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-white-house-t-00-27-23" style="--pulse-height:14%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-white-house-t-00-42-25" style="--pulse-height:29%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-white-house-t-00-00-38" style="--pulse-height:29%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-white-house-t-00-23-14" style="--pulse-height:57%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 4 mentions" title="2026-03-09 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-white-house-t-00-12-14" style="--pulse-height:100%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 7 mentions" title="2026-03-10 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-white-house-t-00-06-57" style="--pulse-height:71%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 5 mentions" title="2026-03-12 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-k8ueJdPFel4.md#ent-org-white-house-t-00-00-23" style="--pulse-height:86%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 6 mentions" title="2026-03-17 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-white-house-t-00-15-14" style="--pulse-height:57%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 4 mentions" title="2026-03-17 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-white-house-t-00-12-27" style="--pulse-height:29%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-white-house-t-00-33-24" style="--pulse-height:29%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-white-house-t-00-31-25" style="--pulse-height:14%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-white-house-t-00-08-14" style="--pulse-height:29%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#ent-org-white-house-t-00-41-46" style="--pulse-height:14%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-white-house-t-00-09-34" style="--pulse-height:57%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 4 mentions" title="2026-04-10 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-white-house-t-00-53-57" style="--pulse-height:14%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-jsqUIkszZd0.md#ent-org-white-house-t-00-42-52" style="--pulse-height:14%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SubDoZWHARo.md#ent-org-white-house-t-00-16-56" style="--pulse-height:14%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-white-house-t-00-01-49" style="--pulse-height:14%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-white-house-t-00-46-52" style="--pulse-height:14%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_dRaEO47-co.md#ent-org-white-house-t-00-04-16" style="--pulse-height:8%" aria-label="To My Friend, Charlie Kirk.: 1 mentions" title="2025-09-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-org-white-house-t-00-52-52" style="--pulse-height:8%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-white-house-t-00-39-12" style="--pulse-height:12%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-white-house-t-00-02-10" style="--pulse-height:19%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 3 mentions" title="2025-10-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-org-white-house-t-00-11-03" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-org-white-house-t-00-00-00" style="--pulse-height:19%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 3 mentions" title="2025-10-27 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-white-house-t-00-14-16" style="--pulse-height:12%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-white-house-t-00-51-24" style="--pulse-height:8%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-org-white-house-t-01-01-30" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-org-white-house-t-00-16-45" style="--pulse-height:8%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-white-house-t-00-07-31" style="--pulse-height:12%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 2 mentions" title="2025-11-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-org-white-house-t-00-30-43" style="--pulse-height:8%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-org-white-house-t-00-11-43" style="--pulse-height:19%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 3 mentions" title="2025-11-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-white-house-t-00-27-32" style="--pulse-height:8%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-white-house-t-00-08-40" style="--pulse-height:44%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 7 mentions" title="2025-12-01 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-white-house-t-00-14-43" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-white-house-t-00-24-28" style="--pulse-height:8%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-white-house-t-00-06-27" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-white-house-t-00-05-54" style="--pulse-height:38%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 6 mentions" title="2025-12-09 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-white-house-t-00-46-00" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-org-white-house-t-00-06-24" style="--pulse-height:25%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-org-white-house-t-00-25-39" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-white-house-t-00-29-56" style="--pulse-height:25%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 4 mentions" title="2026-02-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-white-house-t-00-14-04" style="--pulse-height:12%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-org-white-house-t-00-28-49" style="--pulse-height:12%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-org-white-house-t-00-47-36" style="--pulse-height:8%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-white-house-t-00-27-23" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-white-house-t-00-42-25" style="--pulse-height:12%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-white-house-t-00-00-38" style="--pulse-height:12%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-white-house-t-00-23-14" style="--pulse-height:25%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 4 mentions" title="2026-03-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-white-house-t-00-12-14" style="--pulse-height:44%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 7 mentions" title="2026-03-10 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-white-house-t-00-06-57" style="--pulse-height:31%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 5 mentions" title="2026-03-12 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-org-white-house-t-00-00-23" style="--pulse-height:38%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 6 mentions" title="2026-03-17 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-white-house-t-00-15-14" style="--pulse-height:25%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 4 mentions" title="2026-03-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-white-house-t-00-12-27" style="--pulse-height:12%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-white-house-t-00-33-24" style="--pulse-height:12%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-white-house-t-00-31-25" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-white-house-t-00-08-14" style="--pulse-height:12%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-white-house-t-00-41-46" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-white-house-t-00-09-34" style="--pulse-height:25%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 4 mentions" title="2026-04-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-white-house-t-00-53-57" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-org-white-house-t-00-42-52" style="--pulse-height:8%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-org-white-house-t-00-16-56" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-white-house-t-00-01-49" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-white-house-t-00-46-52" style="--pulse-height:8%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-white-house-t-00-15-40" style="--pulse-height:81%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 13 mentions" title="2026-04-29 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-white-house-t-00-06-11" style="--pulse-height:12%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-org-white-house-t-00-01-14" style="--pulse-height:94%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 15 mentions" title="2026-05-07 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-white-house-t-00-03-02" style="--pulse-height:12%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-white-house-t-00-00-01" style="--pulse-height:100%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 16 mentions" title="2026-05-13 · 16 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -131,6 +131,11 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-white-house-t-00-16-56) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-white-house-t-00-01-49) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-white-house-t-00-46-52) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-white-house-t-00-15-40) | 13 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-white-house-t-00-06-11) | 2 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-org-white-house-t-00-01-14) | 15 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-white-house-t-00-03-02) | 2 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-org-white-house-t-00-00-01) | 16 |
 
 </details>
 </section>
@@ -138,7 +143,176 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (102)</strong></summary>
+<summary><strong class="section-title">Raw mentions (150)</strong></summary>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (16 mentions)</summary>
+
+**[00:00:12](/episodes/ep-7FS1tUeSfdE.md#ent-org-white-house-t-00-00-01)**
+> "the White House attempted to rescind an email"
+
+**[00:00:01](/episodes/ep-7FS1tUeSfdE.md#ent-org-white-house-t-00-00-01)**
+> "...h the wait because about that White House correspondence dinner."
+
+**[00:10:09](/episodes/ep-7FS1tUeSfdE.md#ent-org-white-house-t-00-10-09)**
+> "...e snakes of the garden at the White House, they're just using her against her will."
+
+**[00:10:34](/episodes/ep-7FS1tUeSfdE.md#ent-org-white-house-t-00-10-09)**
+> "...be that's normal, is that the White House completely panics because too many people were on..."
+
+**[00:11:45](/episodes/ep-7FS1tUeSfdE.md#ent-org-white-house-t-00-11-27)**
+> "...nd out as needing to become a White House internal emergency to get something deleted. Okay..."
+
+**[00:13:25](/episodes/ep-7FS1tUeSfdE.md#ent-org-white-house-t-00-12-46)**
+> "...s kind of been a focus of the White House."
+
+**[00:13:31](/episodes/ep-7FS1tUeSfdE.md#ent-org-white-house-t-00-13-31)**
+> "Of the White House. There is an unnatural alliance here between Turn..."
+
+**[00:21:47](/episodes/ep-7FS1tUeSfdE.md#ent-org-white-house-t-00-21-47)**
+> "...Charlie Kirk)'s death was the White House deputy chief of staff And there was a lot of coll..."
+
+**[00:22:09](/episodes/ep-7FS1tUeSfdE.md#ent-org-white-house-t-00-21-47)**
+> ".... So in that capacity, as the White House Deputy Chief of Staff, Sergio Gor was second in c..."
+
+**[00:25:27](/episodes/ep-7FS1tUeSfdE.md#ent-org-white-house-t-00-25-00)**
+> "Just Turning Point USA, the White House, Donald Trump Jr. We talked about Salem Media. Ju..."
+
+**[00:47:05](/episodes/ep-7FS1tUeSfdE.md#ent-org-white-house-t-00-47-05)**
+> "Looney Tunes right the White House propaganda machine is really going strong with th..."
+
+**[00:01:48](/episodes/ep-7FS1tUeSfdE.md#ent-org-white-house-t-00-00-01)**
+> "...p right to it Apparently, the White House military office sent out communications shortly a..."
+
+**[00:03:53](/episodes/ep-7FS1tUeSfdE.md#ent-org-white-house-t-00-00-01)**
+> "...fter that video went out, the White House military office sent out an updated communication..."
+
+**[00:06:07](/episodes/ep-7FS1tUeSfdE.md#ent-org-white-house-t-00-00-01)**
+> "...n't even know. He is with the White House Communications Agency, and it looks like—"
+
+**[00:06:30](/episodes/ep-7FS1tUeSfdE.md#ent-org-white-house-t-00-00-01)**
+> "...mation systems manager at the White House Communications Agency in Arlington, Virginia. So ..."
+
+**[00:10:48](/episodes/ep-7FS1tUeSfdE.md#ent-org-white-house-t-00-10-09)**
+> "...he, I guess you could say the White House military office panicked and they attempted to re..."
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (2 mentions)</summary>
+
+**[00:03:13](/episodes/ep-KpxIBWkNsSs.md#ent-org-white-house-t-00-03-02)**
+> "White House Correspondents' Dinner"
+
+**[00:03:41](/episodes/ep-KpxIBWkNsSs.md#ent-org-white-house-t-00-03-41)**
+> "White House correspondence dinners are all held by press outl..."
+
+</details>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (15 mentions)</summary>
+
+**[00:01:14](/episodes/ep-FFQ9675oqRI.md#ent-org-white-house-t-00-01-14)**
+> "...e wanted to go home after the White House Correspondents' Dinner."
+
+**[00:05:43](/episodes/ep-FFQ9675oqRI.md#ent-org-white-house-t-00-05-16)**
+> "...o of Erika Kirk departing the White House Correspondents' Dinner, a dinner in which we"
+
+**[00:06:27](/episodes/ep-FFQ9675oqRI.md#ent-org-white-house-t-00-06-01)**
+> "...Erika (Erika Kirk) before the White House Correspondents' Dinner, and—"
+
+**[00:09:02](/episodes/ep-FFQ9675oqRI.md#ent-org-white-house-t-00-08-36)**
+> "...ext, wrote shots fired at the White House Correspondents' Dinner at President Trump (Donald..."
+
+**[00:15:39](/episodes/ep-FFQ9675oqRI.md#ent-org-white-house-t-00-15-39)**
+> "...elieve. Everything about that White House Correspondents' Dinner shooting. made very little..."
+
+**[00:16:02](/episodes/ep-FFQ9675oqRI.md#ent-org-white-house-t-00-16-02)**
+> "...om anyone complaining about a white house ballroom huh"
+
+**[00:16:32](/episodes/ep-FFQ9675oqRI.md#ent-org-white-house-t-00-16-02)**
+> "... president needs to build the White House ballroom."
+
+**[00:16:43](/episodes/ep-FFQ9675oqRI.md#ent-org-white-house-t-00-16-43)**
+> "... Trump)'s new ballroom at the White House."
+
+**[00:16:53](/episodes/ep-FFQ9675oqRI.md#ent-org-white-house-t-00-16-43)**
+> "...ically need a ballroom at the white house in order for him to have an event"
+
+**[00:17:20](/episodes/ep-FFQ9675oqRI.md#ent-org-white-house-t-00-17-20)**
+> "...nald Trump) has events at the white house by the way he had an event shortly thereafter at ..."
+
+**[00:25:30](/episodes/ep-FFQ9675oqRI.md#ent-org-white-house-t-00-25-30)**
+> "...e, she outright purchased the White House. Why wouldn't she be able to afford a congression..."
+
+**[00:32:24](/episodes/ep-FFQ9675oqRI.md#ent-org-white-house-t-00-32-24)**
+> "...e that are hanging around the White House and going after people drinking so they can get i..."
+
+**[00:33:15](/episodes/ep-FFQ9675oqRI.md#ent-org-white-house-t-00-33-15)**
+> "...i want nothing to do with the white house i'm completely"
+
+**[00:43:12](/episodes/ep-FFQ9675oqRI.md#ent-org-white-house-t-00-43-12)**
+> "...ibes, you know? It's like the White House Correspondents' Dinner and my vibes—like, not pas..."
+
+**[00:47:55](/episodes/ep-FFQ9675oqRI.md#ent-org-white-house-t-00-47-55)**
+> "...ve any tips pertaining to the White House Correspondents' Dinner, 10K, no questions asked, ..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (2 mentions)</summary>
+
+**[00:06:40](/episodes/ep-uC_GjKU8rs8.md#ent-org-white-house-t-00-06-11)**
+> "....C. bureau with a seat in the White House briefing room."
+
+**[00:40:51](/episodes/ep-uC_GjKU8rs8.md#ent-org-white-house-t-00-40-35)**
+> "...Harmeet Dhillon at the recent White House correspondence in her shooting."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (13 mentions)</summary>
+
+**[00:15:56](/episodes/ep-qZ8RWfyuewQ.md#ent-org-white-house-t-00-15-40)**
+> "...n. OK, I'll bump this to you, White House. Please, reporter, ask him which rich white man."
+
+**[00:17:55](/episodes/ep-qZ8RWfyuewQ.md#ent-org-white-house-t-00-17-39)**
+> "...how she wasn't invited to the White House Correspondents' Dinner, which she was already ups..."
+
+**[00:28:20](/episodes/ep-qZ8RWfyuewQ.md#ent-org-white-house-t-00-28-12)**
+> "...who were in ball gowns at the White House correspondence dinner sharing clips down at the g..."
+
+**[00:28:56](/episodes/ep-qZ8RWfyuewQ.md#ent-org-white-house-t-00-28-56)**
+> "at the White House Correspondents Center and then Secret Service age..."
+
+**[00:37:42](/episodes/ep-qZ8RWfyuewQ.md#ent-org-white-house-t-00-37-42)**
+> "...o anyway, on the heels of the White House correspondence, she tweeted."
+
+**[00:38:52](/episodes/ep-qZ8RWfyuewQ.md#ent-org-white-house-t-00-38-52)**
+> "...uestion why did you go to the white house correspondence center you literally just said you..."
+
+**[00:39:20](/episodes/ep-qZ8RWfyuewQ.md#ent-org-white-house-t-00-39-20)**
+> "...asking why I even went to the White House Correspondents Center. And it was because many of..."
+
+**[00:40:12](/episodes/ep-qZ8RWfyuewQ.md#ent-org-white-house-t-00-39-54)**
+> "This is my first time at the White House Correspondents Center, and I find it so fascinati..."
+
+**[00:44:48](/episodes/ep-qZ8RWfyuewQ.md#ent-org-white-house-t-00-44-26)**
+> "...s random push coming from the White House and you're going to hear some Erica (Erika Kirk) ..."
+
+**[00:45:09](/episodes/ep-qZ8RWfyuewQ.md#ent-org-white-house-t-00-45-09)**
+> "...joke that is to blame for the White House correspondence incident."
+
+**[00:56:27](/episodes/ep-qZ8RWfyuewQ.md#ent-org-white-house-t-00-56-04)**
+> "... do. You're sitting here at a White House correspondence center. Why don't you ask him to g..."
+
+**[01:01:10](/episodes/ep-qZ8RWfyuewQ.md#ent-org-white-house-t-01-01-10)**
+> "...ly and if you're going to the White House Correspondents Center to face people face to face..."
+
+**[01:05:04](/episodes/ep-qZ8RWfyuewQ.md#ent-org-white-house-t-01-05-04)**
+> "... want to deal with her in the White House. You can see what they don't want. They don't wan..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1 mentions)</summary>
@@ -689,6 +863,18 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 </details>
 
 <details>
+<summary>Formerly Employed (1)</summary>
+
+- **[Sergio Gor](/entities/person-sergio-gor.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:21:47](/episodes/ep-7FS1tUeSfdE.md#t-00-21-10): “Sergio Gor at the time of Charlie (Charlie Kirk)'s death was the White House deputy chief of staff”
+
+</details>
+
+</details>
+
+<details>
 <summary>Met With (1)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
@@ -713,7 +899,21 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (5)</summary>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)** affiliated with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:13:31](/episodes/ep-7FS1tUeSfdE.md#t-00-12-46): “There is an unnatural alliance here between Turning Point USA and the White House.”
+
+</details>
+
+- **[Sergio Gor](/entities/person-sergio-gor.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:21:47](/episodes/ep-7FS1tUeSfdE.md#t-00-21-10): “Sergio Gor at the time of Charlie (Charlie Kirk)'s death was the White House deputy chief of staff”
+
+</details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** met with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -741,7 +941,49 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about White House (24)</strong></summary>
+<summary><strong class="section-title">Statements about White House (33)</strong></summary>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (2)</summary>
+
+- [00:13:31](/episodes/ep-7FS1tUeSfdE.md#t-00-13-31) (Opinion) **Candace Owens**: ["There is an unnatural alliance between Turning Point USA and the White..."](/statements/statement-5b4870f262c7.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:21:47](/episodes/ep-7FS1tUeSfdE.md#t-00-21-47) (Accusation) **Candace Owens** (via paraphrase): ["There was a lot of colluding between Charlie Kirk's office and Sergio ..."](/statements/statement-809ee8df0769.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Sergio Gor](/entities/person-sergio-gor.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (2)</summary>
+
+- [00:10:29](/episodes/ep-FFQ9675oqRI.md#t-00-10-08) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk said every ten-person table at the White House Corresponden..."](/statements/statement-f63094406a7a.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:14:01](/episodes/ep-FFQ9675oqRI.md#t-00-13-49) (Opinion) **Candace Owens**: ["Candace Owens said her instinct was that the viral video of Erika Kirk..."](/statements/statement-689aa2d81b37.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (5)</summary>
+
+- [00:17:55](/episodes/ep-qZ8RWfyuewQ.md#t-00-17-39) (Accusation) **Anonymous Source #1 (Ep qZ8RWfyuewQ)** (via read message): ["An unnamed source told Candace Owens that Laura Loomer demanded a supp..."](/statements/statement-060bb8d3cf39.md)
+  - Also about: [Laura Loomer](/entities/person-laura-loomer.md), [Donald J. Trump](/entities/person-donald-trump.md), [Susie Wiles](/entities/person-susie-wiles.md)
+
+- [00:32:24](/episodes/ep-qZ8RWfyuewQ.md#t-00-32-14) (Promise) **Candace Owens**: ["Candace Owens offered 10,000 dollars and source protection to anyone w..."](/statements/statement-decc96604519.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Sara Sidner](/entities/person-sara-sidner.md)
+
+- [00:34:42](/episodes/ep-qZ8RWfyuewQ.md#t-00-34-15) (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk had never attended the White House cor..."](/statements/statement-52ff3b0c3af0.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:39:20](/episodes/ep-qZ8RWfyuewQ.md#t-00-39-20) (Opinion) **Erika Kirk** (via quoted speech): ["Erika Kirk said she attended the White House correspondents event to m..."](/statements/statement-70c4a54e18b2.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)
+
+- [00:42:18](/episodes/ep-qZ8RWfyuewQ.md#t-00-42-09) (Accusation) **Erika Kirk** (via quoted speech): ["Erika Kirk accused journalists at the White House correspondents event..."](/statements/statement-ede82364e6ba.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>

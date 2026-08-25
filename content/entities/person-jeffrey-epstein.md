@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Epstein"
-description: "Jeffrey Epstein (People) - 285 mentions"
+description: "Jeffrey Epstein (People) - 297 mentions"
 id: "person-jeffrey-epstein"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-28-54">2025-09-15 · 00:29:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-jeffrey-epstein-t-00-23-53">2026-04-21 · 00:24:05</a></strong></div>
-<div><span>Episodes</span><strong>65</strong></div>
-<div><span>Mentions</span><strong>285</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-jeffrey-epstein-t-00-00-40">2026-05-13 · 00:00:40</a></strong></div>
+<div><span>Episodes</span><strong>70</strong></div>
+<div><span>Mentions</span><strong>297</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>69</strong></div>
+<div><span>Statements about</span><strong>71</strong></div>
 <div><span>Relationships</span><strong>28</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -100,6 +100,11 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-jeffrey-epstein-t-00-26-34" style="--pulse-height:12%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 3 mentions" title="2026-04-15 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-jeffrey-epstein-t-00-39-05" style="--pulse-height:12%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-jeffrey-epstein-t-00-22-28" style="--pulse-height:19%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 5 mentions" title="2026-04-21 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-jeffrey-epstein-t-00-52-28" style="--pulse-height:27%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 7 mentions" title="2026-04-30 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-jeffrey-epstein-t-00-35-29" style="--pulse-height:8%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-jeffrey-epstein-t-00-34-27" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-jeffrey-epstein-t-00-20-30" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-jeffrey-epstein-t-00-00-40" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -170,6 +175,11 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-jeffrey-epstein-t-00-26-34) | 3 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-jeffrey-epstein-t-00-39-05) | 3 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-jeffrey-epstein-t-00-22-28) | 5 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-person-jeffrey-epstein-t-00-52-28) | 7 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-jeffrey-epstein-t-00-35-29) | 1 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-jeffrey-epstein-t-00-34-27) | 2 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-jeffrey-epstein-t-00-20-30) | 1 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-jeffrey-epstein-t-00-00-40) | 1 |
 
 </details>
 </section>
@@ -177,7 +187,68 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (285)</strong></summary>
+<summary><strong class="section-title">Raw mentions (297)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1 mentions)</summary>
+
+**[00:00:40](/episodes/ep-4DvYXBn_5JI.md#ent-person-jeffrey-epstein-t-00-00-40)**
+> "Jeffrey Epstein didn't deserve that honor"
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>
+
+**[00:20:30](/episodes/ep-KpxIBWkNsSs.md#ent-person-jeffrey-epstein-t-00-20-30)**
+> "Epstein class of people"
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (2 mentions)</summary>
+
+**[00:35:09](/episodes/ep-eMtjzXkQrsU.md#ent-person-jeffrey-epstein-t-00-34-27)**
+> "Like Jeffrey Epstein, maybe? Like Jeffrey Epstein?"
+
+**[00:33:01](/episodes/ep-eMtjzXkQrsU.md#ent-person-jeffrey-epstein-t-00-32-49)**
+> "...nd before the fumbling of the Epstein files, which I would say was on behalf of Israel,..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
+
+**[00:35:29](/episodes/ep-uC_GjKU8rs8.md#ent-person-jeffrey-epstein-t-00-35-29)**
+> "Regarding the Epstein files, we've hated her since she gaslit us about ..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (7 mentions)</summary>
+
+**[00:52:53](/episodes/ep-69A8TzAGHlU.md#ent-person-jeffrey-epstein-t-00-52-28)**
+> "Satanic pedophiles working for Israel were talking about Epstein and everyone who has defended the Epstein class, okay?"
+
+**[00:53:08](/episodes/ep-69A8TzAGHlU.md#ent-person-jeffrey-epstein-t-00-53-08)**
+> "...at are we still talking about Jeffrey Epstein?"
+
+**[00:53:24](/episodes/ep-69A8TzAGHlU.md#ent-person-jeffrey-epstein-t-00-53-08)**
+> "...hat a satanic pedophile. like Jeffrey Epstein worked for Israel. These are, this is abundantly ..."
+
+**[00:53:33](/episodes/ep-69A8TzAGHlU.md#ent-person-jeffrey-epstein-t-00-53-08)**
+> "...d not the people that protect Jeffrey Epstein says more about you."
+
+**[00:57:20](/episodes/ep-69A8TzAGHlU.md#ent-person-jeffrey-epstein-t-00-57-00)**
+> "...ople who actually support the Epstein files and want to protect that network of human t..."
+
+**[01:04:22](/episodes/ep-69A8TzAGHlU.md#ent-person-jeffrey-epstein-t-01-04-22)**
+> "...ia, people that have kept the Epstein story alive, people that said we're not accepting..."
+
+**[01:06:06](/episodes/ep-69A8TzAGHlU.md#ent-person-jeffrey-epstein-t-01-05-37)**
+> "..., are you still talking about Jeffrey Epstein?"
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (5 mentions)</summary>
@@ -1634,7 +1705,23 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jeffrey Epstein (69)</strong></summary>
+<summary><strong class="section-title">Statements about Jeffrey Epstein (71)</strong></summary>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1)</summary>
+
+- [00:35:29](/episodes/ep-uC_GjKU8rs8.md#t-00-35-29) (Accusation) **Candace Owens**: ["Pam Bondi lied to the public about the Epstein files."](/statements/statement-bb1cef74539f.md)
+  - Also about: [Pam Bondi](/entities/person-pam-bondi.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1)</summary>
+
+- [00:53:24](/episodes/ep-69A8TzAGHlU.md#t-00-53-08) (Claim) **Candace Owens**: ["Jeffrey Epstein worked for Israel."](/statements/statement-02d27f4e1fef.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (2)</summary>

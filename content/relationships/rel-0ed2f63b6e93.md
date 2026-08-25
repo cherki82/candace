@@ -11,11 +11,15 @@ object: "person-michael-knowles"
 
 ## [Erika Kirk](/entities/person-erika-kirk) defended by [Michael Knowles](/entities/person-michael-knowles)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
 
 **[WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4)**
 
 - [00:19:08](/episodes/ep-k8ueJdPFel4#t-00-19-08): _Well, but let's take that further. So obviously one should state one's view and say, you know, Erika is great and attacks on her are not right._
+
+**[Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8)**
+
+- [00:16:59](/episodes/ep-uC_GjKU8rs8#t-00-16-59): _think that it's wrong to attack Erika (Erika Kirk)_
 
 ### Related
 

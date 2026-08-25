@@ -1,6 +1,6 @@
 ---
 title: "Druski"
-description: "Druski (People) - 6 mentions"
+description: "Druski (People) - 7 mentions"
 id: "person-druski"
 type: "PERSON"
 aliases:
@@ -26,10 +26,10 @@ Source: [Druski tapped to host BET Awards](https://apnews.com/article/28ebb85305
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-druski-t-00-20-28">2026-04-16 · 00:20:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-druski-t-00-55-09">2026-04-20 · 00:55:09</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -53,7 +53,7 @@ Source: [Druski tapped to host BET Awards](https://apnews.com/article/28ebb85305
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (2 mentions)</summary>
@@ -85,6 +85,28 @@ Source: [Druski tapped to host BET Awards](https://apnews.com/article/28ebb85305
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Criticized (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:42:21](/episodes/ep-KpxIBWkNsSs.md#t-00-41-55): “on its face, nobody got hurt in him mocking Erika Kirk. Clearly, she got her feelings hurt, but it's because she takes herself apparently way too seriously, or maybe she was just promised that she would be protected and everyone was just going to love her.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:42:21](/episodes/ep-KpxIBWkNsSs.md#t-00-41-55): “on its face, nobody got hurt in him mocking Erika Kirk. Clearly, she got her feelings hurt, but it's because she takes herself apparently way too seriously, or maybe she was just promised that she would be protected and everyone was just going to love her.”
+
+</details>
+
+</details>
 
 </details>

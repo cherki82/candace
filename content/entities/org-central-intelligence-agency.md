@@ -1,6 +1,6 @@
 ---
 title: "Central Intelligence Agency"
-description: "Central Intelligence Agency (Organizations) - 148 mentions"
+description: "Central Intelligence Agency (Organizations) - 150 mentions"
 id: "org-central-intelligence-agency"
 type: "ORG"
 aliases:
@@ -24,8 +24,8 @@ Source: [About CIA](https://www.cia.gov/about/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-central-intelligence-agency-t-01-11-09">2025-09-16 · 01:11:17</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25">2026-08-14 · 00:37:25</a></strong></div>
-<div><span>Episodes</span><strong>50</strong></div>
-<div><span>Mentions</span><strong>148</strong></div>
+<div><span>Episodes</span><strong>52</strong></div>
+<div><span>Mentions</span><strong>150</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>50</strong></div>
 <div><span>Relationships</span><strong>13</strong></div>
@@ -85,6 +85,8 @@ Source: [About CIA](https://www.cia.gov/about/)
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-central-intelligence-agency-t-00-10-59" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 17 mentions" title="2026-04-01 · 17 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-central-intelligence-agency-t-00-13-33" style="--pulse-height:12%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-central-intelligence-agency-t-00-45-51" style="--pulse-height:8%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-central-intelligence-agency-t-00-43-30" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-central-intelligence-agency-t-00-36-50" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -140,6 +142,8 @@ Source: [About CIA](https://www.cia.gov/about/)
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-central-intelligence-agency-t-00-10-59) | 17 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-central-intelligence-agency-t-00-13-33) | 2 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-central-intelligence-agency-t-00-45-51) | 1 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-central-intelligence-agency-t-00-43-30) | 1 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-central-intelligence-agency-t-00-36-50) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25) | 1 |
 
 </details>
@@ -148,13 +152,29 @@ Source: [About CIA](https://www.cia.gov/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (148)</strong></summary>
+<summary><strong class="section-title">Raw mentions (150)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:37:25](/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25)**
 > "...ntire term was created by the CIA to gaslight people after the assassination of JFK..."
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>
+
+**[00:37:19](/episodes/ep-KpxIBWkNsSs.md#ent-org-central-intelligence-agency-t-00-36-50)**
+> "the CIA is involved in Cuba"
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1 mentions)</summary>
+
+**[00:44:04](/episodes/ep-eMtjzXkQrsU.md#ent-org-central-intelligence-agency-t-00-43-30)**
+> "Quite literally, she even brought in a PR crisis firm that had a former CIA agent then like left the CIA and opened a PR crisis firm."
 
 </details>
 

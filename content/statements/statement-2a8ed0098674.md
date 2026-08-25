@@ -27,13 +27,23 @@ type: "factual_claim"
 - [Daniel Horner](/entities/person-daniel-horner.md) (person)
 - [FoldAR](/entities/org-foldar.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wan...
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:32:54](/episodes/ep-jsqUIkszZd0.md#t-00-32-54) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1974);return false;">Play</a>
 
 > As part of this, Mr. Marx (Victor Marx) revealed that he was discussing the acquisition with SIG Sauer and their top shooter, Daniel Horner, who Mr. ... Marx stated had received and tested the FoldAR and had given the thumbs-up for SIG's involvement.
+
+### 2. Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329
+
+**Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
+**Timestamp:** [01:38:42](/episodes/ep--9MOUvgGyi4.md#t-01-38-27) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(5922);return false;">Play</a>
+
+> And he tells me that SIG ... Sauer is going to be involved in this acquisition. ... So he tells me that SIG Sauer is involved. He tells me that Daniel Horner got one of my FoldARs—he’s the top shooter in the world who shoots for SIG. He got a FoldAR, and he’s given the thumbs-up to Victor (Victor Marx), who Victor (Victor Marx) represented he had a personal relationship with.
 
 ## Verification
 

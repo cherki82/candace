@@ -11,7 +11,7 @@ object: "org-prageru"
 
 ## [Candace Owens](/entities/person-candace-owens) formerly worked for [PragerU](/entities/org-prageru)
 
-### Evidence (7 mentions)
+### Evidence (8 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -32,6 +32,10 @@ object: "org-prageru"
 **[DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo)**
 
 - [00:06:24](/episodes/ep-YA1FxrDWNIo#t-00-06-24): _when I was working for Prager University_
+
+**[Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8)**
+
+- [00:13:13](/episodes/ep-uC_GjKU8rs8#t-00-13-13): _This means that Daily Wire is unique. They are unique. They are set apart from those examples. I left PragerU._
 
 **[What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U)**
 

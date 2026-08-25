@@ -1,6 +1,6 @@
 ---
 title: "Ian Carroll"
-description: "Ian Carroll (People) - 33 mentions"
+description: "Ian Carroll (People) - 40 mentions"
 id: "person-ian-carroll"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-ian-carroll-t-00-40-46">2025-09-29 · 00:40:49</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-ian-carroll-t-00-28-12">2026-08-14 · 00:28:29</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -48,6 +48,9 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-ian-carroll-t-00-54-45" style="--pulse-height:29%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-ian-carroll-t-01-00-47" style="--pulse-height:14%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-ian-carroll-t-00-43-05" style="--pulse-height:57%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 4 mentions" title="2026-04-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-ian-carroll-t-00-33-29" style="--pulse-height:14%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-ian-carroll-t-00-01-51" style="--pulse-height:71%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 5 mentions" title="2026-05-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-ian-carroll-t-00-48-33" style="--pulse-height:14%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-ian-carroll-t-00-28-12" style="--pulse-height:14%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -67,6 +70,9 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-ian-carroll-t-00-54-45) | 2 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-ian-carroll-t-01-00-47) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-ian-carroll-t-00-43-05) | 4 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-ian-carroll-t-00-33-29) | 1 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-ian-carroll-t-00-01-51) | 5 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-ian-carroll-t-00-48-33) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-ian-carroll-t-00-28-12) | 1 |
 
 </details>
@@ -75,13 +81,49 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:28:29](/episodes/ep-nPhCKwJ6ye8.md#ent-person-ian-carroll-t-00-28-12)**
 > "Day or two of Kirk's death, Ian Carroll claimed that Israel killed Charlie Kirk."
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>
+
+**[00:48:33](/episodes/ep-KpxIBWkNsSs.md#ent-person-ian-carroll-t-00-48-33)**
+> "Ian Carroll calling me"
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (5 mentions)</summary>
+
+**[00:02:12](/episodes/ep-k1b1NDCrNFs.md#ent-person-ian-carroll-t-00-01-51)**
+> "... team wanting me to give them Ian Carroll's address."
+
+**[00:02:22](/episodes/ep-k1b1NDCrNFs.md#ent-person-ian-carroll-t-00-02-22)**
+> "I have actually never had Ian Carroll's address. I think he kind of lives like a nomad. T..."
+
+**[00:02:46](/episodes/ep-k1b1NDCrNFs.md#ent-person-ian-carroll-t-00-02-22)**
+> "... was very confused as to what Ian Carroll has to do with really anything pertaining to Bria..."
+
+**[00:03:52](/episodes/ep-k1b1NDCrNFs.md#ent-person-ian-carroll-t-00-03-43)**
+> "...I instantly said back to Ian (Ian Carroll), he definitively was at Fort Huachuca. I have hi..."
+
+**[00:04:56](/episodes/ep-k1b1NDCrNFs.md#ent-person-ian-carroll-t-00-04-56)**
+> "... you said you were. Now, Ian (Ian Carroll), after obviously not being able to convince me t..."
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1 mentions)</summary>
+
+**[00:33:40](/episodes/ep-eMtjzXkQrsU.md#ent-person-ian-carroll-t-00-33-29)**
+> "Thanks to Pam Bondi. Take a listen to Ian Carroll explain that on his show."
 
 </details>
 
@@ -276,7 +318,7 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Israel](/entities/gpe-israel.md)** accused by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -292,12 +334,43 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 
 </details>
 
+- **[Candace Owens](/entities/person-candace-owens.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:02:22](/episodes/ep-k1b1NDCrNFs.md#t-00-02-22): “I have actually never had Ian Carroll's address. I think he kind of lives like a nomad. They were operating, it appears to me like under some delusion that he was a regular co-host of this show or a host of the show and that he worked for me when actually, as you all know, he just filled in for me while I was on maternity leave last year.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ian Carroll (1)</strong></summary>
+<summary><strong class="section-title">Statements by Ian Carroll (2)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (2)</summary>
+
+- [00:34:05](/episodes/ep-eMtjzXkQrsU.md#t-00-33-46) [◐] (Claim) ["Pam Bondi disbanded the Foreign Influence Task Force on her first day, eliminati..."](/statements/statement-89479dcaa459.md)
+  - About: [Pam Bondi](/entities/person-pam-bondi.md), [Foreign Influence Task Force](/entities/org-foreign-influence-task-force.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md)
+
+- [00:34:17](/episodes/ep-eMtjzXkQrsU.md#t-00-33-46) [◐] (Claim) ["The change limits DOJ prosecutors from criminally charging public-relations and ..."](/statements/statement-e640ce452498.md)
+  - About: [United States Department of Justice](/entities/org-united-states-department-of-justice.md), [Foreign Agents Registration Act](/entities/law-fara.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Ian Carroll (2)</strong></summary>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1)</summary>
+
+- [00:02:12](/episodes/ep-k1b1NDCrNFs.md#t-00-01-51) (Claim) **Candace Owens**: ["Brian Harpole's lawyers emailed Candace Owens's team asking for Ian Ca..."](/statements/statement-678922ad6034.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+</details>
 
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1)</summary>

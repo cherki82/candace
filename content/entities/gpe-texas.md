@@ -1,6 +1,6 @@
 ---
 title: "Texas"
-description: "Texas (Places) - 77 mentions"
+description: "Texas (Places) - 95 mentions"
 id: "gpe-texas"
 type: "GPE"
 categories:
@@ -17,11 +17,11 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-texas-t-00-37-12">2025-10-09 · 00:37:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-texas-t-00-38-59">2026-04-14 · 00:39:25</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>77</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-texas-t-00-47-13">2026-05-13 · 00:47:35</a></strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>95</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -50,6 +50,9 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-texas-t-00-11-18" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-texas-t-00-10-19" style="--pulse-height:44%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 11 mentions" title="2026-04-01 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-texas-t-00-21-26" style="--pulse-height:32%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 8 mentions" title="2026-04-14 · 8 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-texas-t-00-44-40" style="--pulse-height:56%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 14 mentions" title="2026-04-22 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-texas-t-00-38-16" style="--pulse-height:8%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-texas-t-00-47-13" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -75,6 +78,9 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-texas-t-00-11-18) | 2 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-gpe-texas-t-00-10-19) | 11 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-texas-t-00-21-26) | 8 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-gpe-texas-t-00-44-40) | 14 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-texas-t-00-38-16) | 2 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-texas-t-00-47-13) | 2 |
 
 </details>
 </section>
@@ -82,7 +88,76 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (77)</strong></summary>
+<summary><strong class="section-title">Raw mentions (95)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (2 mentions)</summary>
+
+**[00:47:35](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-texas-t-00-47-13)**
+> "love from Texas"
+
+**[00:47:13](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-texas-t-00-47-13)**
+> "...break for from much love from texas i'm still looking into it there i i do"
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (2 mentions)</summary>
+
+**[00:08:53](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-texas-t-00-38-16)**
+> "...is Brian Harpole from Dallas, Texas. Okay, third time. Douglas Blake Bednarz writes, ..."
+
+**[00:38:30](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-texas-t-00-38-16)**
+> "... on the plane to follow me to Texas, right?"
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (14 mentions)</summary>
+
+**[00:05:36](/episodes/ep--9MOUvgGyi4.md#ent-gpe-texas-t-00-44-40)**
+> "So we drove from East Texas to Colorado Springs on, I think, December the 1st. and um"
+
+**[00:03:45](/episodes/ep--9MOUvgGyi4.md#ent-gpe-texas-t-00-44-40)**
+> "...mpany out in the sticks, East Texas. And just a few employees and we make a few thous..."
+
+**[00:44:40](/episodes/ep--9MOUvgGyi4.md#ent-gpe-texas-t-00-44-40)**
+> "... go you know we'll go back to texas and just do our county county deal after this but..."
+
+**[00:48:58](/episodes/ep--9MOUvgGyi4.md#ent-gpe-texas-t-00-48-58)**
+> "...r first starting the state of Texas have one of these and then it's spreading through..."
+
+**[00:49:53](/episodes/ep--9MOUvgGyi4.md#ent-gpe-texas-t-00-49-53)**
+> "...o in the nation starting with texas i was kind of shocked i didn't think he was going..."
+
+**[00:57:03](/episodes/ep--9MOUvgGyi4.md#ent-gpe-texas-t-00-57-03)**
+> "...at is does he have a place in texas or are we always colorado in"
+
+**[01:03:58](/episodes/ep--9MOUvgGyi4.md#ent-gpe-texas-t-01-03-58)**
+> "...n in November and he comes to Texas to my facility."
+
+**[01:54:16](/episodes/ep--9MOUvgGyi4.md#ent-gpe-texas-t-01-54-16)**
+> "... we shipped to a gun store in Texas."
+
+**[01:54:27](/episodes/ep--9MOUvgGyi4.md#ent-gpe-texas-t-01-54-27)**
+> "... for a police officer down in Texas and then you kind of got a phone call I know I pr..."
+
+**[01:54:47](/episodes/ep--9MOUvgGyi4.md#ent-gpe-texas-t-01-54-27)**
+> "in, while he was in Midland, Texas."
+
+**[01:56:00](/episodes/ep--9MOUvgGyi4.md#ent-gpe-texas-t-01-55-56)**
+> "...'s going to police officer in texas the police officer loses does not inform you but ..."
+
+**[01:57:35](/episodes/ep--9MOUvgGyi4.md#ent-gpe-texas-t-01-57-29)**
+> "...elongs to a police officer in Texas is coming up in an ATF trace."
+
+**[02:02:40](/episodes/ep--9MOUvgGyi4.md#ent-gpe-texas-t-02-02-24)**
+> "... of planes were coming out of Texas that day in general I think is why it kind of als..."
+
+**[02:25:55](/episodes/ep--9MOUvgGyi4.md#ent-gpe-texas-t-02-25-55)**
+> "... And may I ask regarding that Texas purchase where the gun went missing, which barrel..."
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (8 mentions)</summary>
@@ -425,7 +500,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Texas (4)</strong></summary>
+<summary><strong class="section-title">Statements about Texas (5)</strong></summary>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (1)</summary>
+
+- [00:48:58](/episodes/ep--9MOUvgGyi4.md#t-00-48-58) (Promise) **Victor Marx** (via quoted speech): ["Victor Marx said he wanted every school resource officer in Texas, and..."](/statements/statement-e76221ace955.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [FoldAR](/entities/org-foldar.md), [School resource officer](/entities/concept-school-resource-officer.md)
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (1)</summary>

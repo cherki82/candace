@@ -1,6 +1,6 @@
 ---
 title: "Nimi Skincare"
-description: "Nimi Skincare (Organizations) - 159 mentions"
+description: "Nimi Skincare (Organizations) - 174 mentions"
 id: "org-nimi-skincare"
 type: "ORG"
 aliases:
@@ -32,9 +32,9 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-nimi-skincare-t-00-51-30">2025-09-18 · 00:51:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-nimi-skincare-t-00-26-01">2026-04-21 · 00:26:28</a></strong></div>
-<div><span>Episodes</span><strong>37</strong></div>
-<div><span>Mentions</span><strong>159</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-nimi-skincare-t-00-26-51">2026-05-13 · 00:27:21</a></strong></div>
+<div><span>Episodes</span><strong>42</strong></div>
+<div><span>Mentions</span><strong>174</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -82,6 +82,11 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-nimi-skincare-t-00-27-14" style="--pulse-height:50%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 4 mentions" title="2026-04-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-nimi-skincare-t-00-52-37" style="--pulse-height:50%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 4 mentions" title="2026-04-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-nimi-skincare-t-00-25-19" style="--pulse-height:50%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 4 mentions" title="2026-04-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-org-nimi-skincare-t-02-18-03" style="--pulse-height:25%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 2 mentions" title="2026-04-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-nimi-skincare-t-00-01-41" style="--pulse-height:38%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 3 mentions" title="2026-04-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-nimi-skincare-t-00-29-31" style="--pulse-height:25%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-org-nimi-skincare-t-00-19-22" style="--pulse-height:38%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 3 mentions" title="2026-05-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-nimi-skincare-t-00-26-10" style="--pulse-height:62%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 5 mentions" title="2026-05-13 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -124,6 +129,11 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-nimi-skincare-t-00-27-14) | 4 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-nimi-skincare-t-00-52-37) | 4 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-nimi-skincare-t-00-25-19) | 4 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-nimi-skincare-t-02-18-03) | 2 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-nimi-skincare-t-00-01-41) | 3 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-nimi-skincare-t-00-29-31) | 2 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-org-nimi-skincare-t-00-19-22) | 3 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-org-nimi-skincare-t-00-26-10) | 5 |
 
 </details>
 </section>
@@ -131,7 +141,77 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (159)</strong></summary>
+<summary><strong class="section-title">Raw mentions (174)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (5 mentions)</summary>
+
+**[00:26:29](/episodes/ep-4DvYXBn_5JI.md#ent-org-nimi-skincare-t-00-26-10)**
+> "Nimi skincare"
+
+**[00:26:35](/episodes/ep-4DvYXBn_5JI.md#ent-org-nimi-skincare-t-00-26-10)**
+> "...'t doing enough. Then I found Nimi's three-step anti-aging routine and it changed ev..."
+
+**[00:26:57](/episodes/ep-4DvYXBn_5JI.md#ent-org-nimi-skincare-t-00-26-51)**
+> "...ght. What I love most is that Nimi focuses on ingredients that actually work without..."
+
+**[00:27:12](/episodes/ep-4DvYXBn_5JI.md#ent-org-nimi-skincare-t-00-26-51)**
+> "...feel easy again. So check out Nimi skincare today at nimiskincare.com and use..."
+
+**[00:27:21](/episodes/ep-4DvYXBn_5JI.md#ent-org-nimi-skincare-t-00-26-51)**
+> "...ecial discount. Again, that's nimiskincare.com, promo code CANDACE10 at checkout."
+
+</details>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (3 mentions)</summary>
+
+**[00:19:22](/episodes/ep-FFQ9675oqRI.md#ent-org-nimi-skincare-t-00-19-22)**
+> "...ally doing much. That's where Nimi Skincare stands out. Their sunshine tallow cream and buzz ..."
+
+**[00:19:47](/episodes/ep-FFQ9675oqRI.md#ent-org-nimi-skincare-t-00-19-22)**
+> "...e natural approach, check out Nimi Skincare today at nimiskincare.com and use code Candace10 ..."
+
+**[00:19:56](/episodes/ep-FFQ9675oqRI.md#ent-org-nimi-skincare-t-00-19-22)**
+> "That's nimiskincare dot com with promo code Candace 10 at checkout. A..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (2 mentions)</summary>
+
+**[00:29:47](/episodes/ep-uC_GjKU8rs8.md#ent-org-nimi-skincare-t-00-29-31)**
+> "That's where Nimi Skin Care stands out. Their Sunshine Tallow Cream..."
+
+**[00:30:09](/episodes/ep-uC_GjKU8rs8.md#ent-org-nimi-skincare-t-00-29-31)**
+> "...e natural approach, check out Nimi Skin Care today at Nimi Skin Care."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (3 mentions)</summary>
+
+**[00:01:41](/episodes/ep-qZ8RWfyuewQ.md#ent-org-nimi-skincare-t-00-01-41)**
+> "...ght here in America. So visit NimiSkinCare.com and use my code CANDICE10 at checkout for an addi..."
+
+**[00:24:20](/episodes/ep-qZ8RWfyuewQ.md#ent-org-nimi-skincare-t-00-24-08)**
+> "...ally doing much. That's where Nimi skincare stands out. Their sunshine tallow cream and their..."
+
+**[00:24:46](/episodes/ep-qZ8RWfyuewQ.md#ent-org-nimi-skincare-t-00-24-46)**
+> "...k out Nimi Skin Care today at nimiskincare.com and use code Candace10 for a discount at checkout..."
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (2 mentions)</summary>
+
+**[02:18:15](/episodes/ep--9MOUvgGyi4.md#ent-org-nimi-skincare-t-02-18-03)**
+> "What makes Nimi's skincare sunshine tallow cream and their buzzin' tallow balm different is that their tallow closely mirrors your skin's natural lipids. That means it absorbs more effectively and it actually supports your skin barrier instead of just coating your skin."
+
+**[02:18:27](/episodes/ep--9MOUvgGyi4.md#ent-org-nimi-skincare-t-02-18-03)**
+> "Nimi pairs their ancestral ingredient with clean and"
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (4 mentions)</summary>
@@ -798,7 +878,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:00:44](/episodes/ep-his-JBjlkh8.md#t-00-00-00): “[00:54:41] Also, you guys know I have to tell you about Nimee Skincare. I love them.”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:33:17](/episodes/ep-2tFYJf1klgY.md#t-00-32-55): “it's the only skincare brand that I have stayed consistent with. It's what I use, it's what I trust”
@@ -807,6 +887,10 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:01:53](/episodes/ep-I0OaY6Gryqk.md#t-00-01-22): “Okay, just a quick shout out at the top of the show to Nimi Skin Care. You know I love them. They are supporting today's show.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:52:37](/episodes/ep-kaWtDuoY_ns.md#t-00-52-37): “you guys know I'm going to tell you about Nimi skincare because a lot of people are starting to look for more natural skincare options”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:26:28](/episodes/ep-xi8SYJTUXPM.md#t-00-26-01): “You can find it at nimiskincare.com. And if you want to try it, you can use my code Candace10 at checkout for a discount.”
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 02:18:15](/episodes/ep--9MOUvgGyi4.md#t-02-18-03): “What makes Nimi's skincare sunshine tallow cream and their buzzin' tallow balm different is that their tallow closely mirrors your skin's natural lipids. That means it absorbs more effectively and it actually supports your skin barrier instead of just coating your skin.”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:01:41](/episodes/ep-qZ8RWfyuewQ.md#t-00-01-41): “All right, you guys, quick shout out to Nimi Skin Care for supporting today's show. I am very intentional about what brands I work with, and Nimi is one that I actually use. Clean, simple skin care made right here in America. So visit NimiSkinCare.com and use my code CANDICE10 at checkout for an additional 10% off your order.”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:30:09](/episodes/ep-uC_GjKU8rs8.md#t-00-29-31): “So if you've been thinking about trying a more natural approach, check out Nimi Skin Care today at Nimi Skin Care.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:26:29](/episodes/ep-4DvYXBn_5JI.md#t-00-26-10): “I also want to tell you guys about Nimi skincare. You know, I love them. I used to think that great skincare had to be complicated.”
 
 </details>
 
@@ -816,7 +900,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:00:44](/episodes/ep-his-JBjlkh8.md#t-00-00-00): “[00:54:41] Also, you guys know I have to tell you about Nimee Skincare. I love them.”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:33:17](/episodes/ep-2tFYJf1klgY.md#t-00-32-55): “it's the only skincare brand that I have stayed consistent with. It's what I use, it's what I trust”
@@ -825,6 +909,10 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:01:53](/episodes/ep-I0OaY6Gryqk.md#t-00-01-22): “Okay, just a quick shout out at the top of the show to Nimi Skin Care. You know I love them. They are supporting today's show.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:52:37](/episodes/ep-kaWtDuoY_ns.md#t-00-52-37): “you guys know I'm going to tell you about Nimi skincare because a lot of people are starting to look for more natural skincare options”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:26:28](/episodes/ep-xi8SYJTUXPM.md#t-00-26-01): “You can find it at nimiskincare.com. And if you want to try it, you can use my code Candace10 at checkout for a discount.”
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 02:18:15](/episodes/ep--9MOUvgGyi4.md#t-02-18-03): “What makes Nimi's skincare sunshine tallow cream and their buzzin' tallow balm different is that their tallow closely mirrors your skin's natural lipids. That means it absorbs more effectively and it actually supports your skin barrier instead of just coating your skin.”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:01:41](/episodes/ep-qZ8RWfyuewQ.md#t-00-01-41): “All right, you guys, quick shout out to Nimi Skin Care for supporting today's show. I am very intentional about what brands I work with, and Nimi is one that I actually use. Clean, simple skin care made right here in America. So visit NimiSkinCare.com and use my code CANDICE10 at checkout for an additional 10% off your order.”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:30:09](/episodes/ep-uC_GjKU8rs8.md#t-00-29-31): “So if you've been thinking about trying a more natural approach, check out Nimi Skin Care today at Nimi Skin Care.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:26:29](/episodes/ep-4DvYXBn_5JI.md#t-00-26-10): “I also want to tell you guys about Nimi skincare. You know, I love them. I used to think that great skincare had to be complicated.”
 
 </details>
 

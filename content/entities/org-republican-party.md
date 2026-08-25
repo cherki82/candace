@@ -27,7 +27,7 @@ Source: [Republican National Committee](https://gop.com/)
 <div><span>Episodes</span><strong>9</strong></div>
 <div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -153,7 +153,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Republican Party (2)</strong></summary>
+<summary><strong class="section-title">Statements about Republican Party (4)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (2)</summary>
+
+- [00:23:11](/episodes/ep-FFQ9675oqRI.md#t-00-23-11) (Claim) **Tucker Carlson** (via quoted speech): ["Tucker Carlson said outside money had turned Thomas Massie's previousl..."](/statements/statement-86fc0d5b07d9.md)
+  - Also about: [Thomas Massie](/entities/person-thomas-massie.md), [Kentucky](/entities/gpe-kentucky.md)
+
+- [00:25:10](/episodes/ep-FFQ9675oqRI.md#t-00-25-10) (Accusation) **Thomas Massie** (via quoted speech): ["Thomas Massie said a foreign lobby had fully funded his opponent at an..."](/statements/statement-5e83f156ac40.md)
+  - Also about: [Thomas Massie](/entities/person-thomas-massie.md), [Israel lobby](/entities/concept-israel-lobby.md)
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (2)</summary>

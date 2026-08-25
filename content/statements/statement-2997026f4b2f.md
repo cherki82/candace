@@ -28,13 +28,23 @@ veracity: "true"
 - [FoldAR](/entities/org-foldar.md) (org)
 - [Colorado Springs](/entities/gpe-colorado-springs.md) (gpe)
 
-## Source
+## Appearances (2)
+
+### 1. BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wan...
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:21:42](/episodes/ep-jsqUIkszZd0.md#t-00-21-26) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1302);return false;">Play</a>
 
 > He writes that on or about December 1st, 2023, at the request of Victor Marx, Melody (Corby Hall's wife and FoldAR COO; surname unverified), my then-girlfriend, who earned her place as COO of FoldAR, and I drove from Texas to Colorado Springs to provide a demo of the FoldAR to Mr. ... Marx.
+
+### 2. Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329
+
+**Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
+**Timestamp:** [00:05:00](/episodes/ep--9MOUvgGyi4.md#t-00-05-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(300);return false;">Play</a>
+
+> Well, a late November of 23, my wife was showing me some of the Instagram posts that he was making and he was demoing compact weapon systems and it was like it was kind of framed around. ... You know, Victor (Victor Marx) is looking for the most versatile compact weapon system that's out there that, and I don't think he announced it as he was looking for a signature series at the time, but nonetheless, she had me message him and he responded right away and invited us up to his house in Colorado Springs. ... So we drove from East Texas to Colorado Springs on, I think, December the 1st. and um
 
 ## Verification
 

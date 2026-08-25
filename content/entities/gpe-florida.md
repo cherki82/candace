@@ -1,6 +1,6 @@
 ---
 title: "Florida"
-description: "Florida (Places) - 19 mentions"
+description: "Florida (Places) - 21 mentions"
 id: "gpe-florida"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [MyFlorida | Official Page for Sunshine State Government](https://www.my
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-florida-t-00-01-20">2025-09-11 · 00:01:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-florida-t-00-22-24">2026-03-30 · 00:22:24</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-florida-t-00-06-11">2026-05-04 · 00:06:27</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -45,6 +45,8 @@ Source: [MyFlorida | Official Page for Sunshine State Government](https://www.my
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-florida-t-00-44-37" style="--pulse-height:33%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-florida-t-00-09-45" style="--pulse-height:33%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-florida-t-00-22-24" style="--pulse-height:33%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-gpe-florida-t-00-57-40" style="--pulse-height:33%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-florida-t-00-06-11" style="--pulse-height:33%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,6 +67,8 @@ Source: [MyFlorida | Official Page for Sunshine State Government](https://www.my
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-florida-t-00-44-37) | 1 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-florida-t-00-09-45) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-florida-t-00-22-24) | 1 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-gpe-florida-t-00-57-40) | 1 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-florida-t-00-06-11) | 1 |
 
 </details>
 </section>
@@ -72,7 +76,23 @@ Source: [MyFlorida | Official Page for Sunshine State Government](https://www.my
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
+
+**[00:06:27](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-florida-t-00-06-11)**
+> "...ff in D.C., the Northeast and Florida."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1 mentions)</summary>
+
+**[00:57:54](/episodes/ep-69A8TzAGHlU.md#ent-gpe-florida-t-00-57-40)**
+> "Okay. They are trying to flip that on its head so they can usher in tyranny. They want Europe. They want what's already happening in Florida. Police showing up on your door asking you if you sent a tweet."
+
+</details>
 
 <details>
 <summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1 mentions)</summary>

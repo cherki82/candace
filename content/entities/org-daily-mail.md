@@ -1,6 +1,6 @@
 ---
 title: "Daily Mail"
-description: "Daily Mail (Organizations) - 20 mentions"
+description: "Daily Mail (Organizations) - 25 mentions"
 id: "org-daily-mail"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-daily-mail-t-00-43-40">2025-09-18 · 00:44:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-daily-mail-t-00-29-37">2026-04-21 · 00:29:37</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-org-daily-mail-t-00-31-07">2026-05-07 · 00:31:21</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -44,6 +44,8 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-daily-mail-t-00-50-46" style="--pulse-height:25%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-daily-mail-t-00-19-45" style="--pulse-height:75%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-daily-mail-t-00-29-37" style="--pulse-height:25%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-daily-mail-t-00-39-20" style="--pulse-height:25%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-org-daily-mail-t-00-29-02" style="--pulse-height:100%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 4 mentions" title="2026-05-07 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +64,8 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-daily-mail-t-00-50-46) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-daily-mail-t-00-19-45) | 3 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-daily-mail-t-00-29-37) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-daily-mail-t-00-39-20) | 1 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-org-daily-mail-t-00-29-02) | 4 |
 
 </details>
 </section>
@@ -69,7 +73,32 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (4 mentions)</summary>
+
+**[00:29:09](/episodes/ep-FFQ9675oqRI.md#ent-org-daily-mail-t-00-29-02)**
+> "...d of this, boomerang of this, Daily Mail did a massive spread today on her marriage and wh..."
+
+**[00:30:47](/episodes/ep-FFQ9675oqRI.md#ent-org-daily-mail-t-00-30-30)**
+> "So when the Daily Mail did their due diligence, they went ahead and conf..."
+
+**[00:31:07](/episodes/ep-FFQ9675oqRI.md#ent-org-daily-mail-t-00-31-07)**
+> "...the table, St. Clair told the Daily Mail. I'll never forget watching your face as we read ..."
+
+**[00:31:21](/episodes/ep-FFQ9675oqRI.md#ent-org-daily-mail-t-00-31-07)**
+> "The Daily Mail spoke to House Inhabit. Jessica Reed Kraus did no..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[00:39:40](/episodes/ep-qZ8RWfyuewQ.md#ent-org-daily-mail-t-00-39-20)**
+> "...xample, a journalist from the Daily Mail came up to me."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1 mentions)</summary>
@@ -299,7 +328,29 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Daily Mail (1)</strong></summary>
+<summary><strong class="section-title">Statements about Daily Mail (5)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (3)</summary>
+
+- [00:30:47](/episodes/ep-FFQ9675oqRI.md#t-00-30-30) (Citation) **Candace Owens**: ["Candace Owens cited the Daily Mail as confirming that the escort-site ..."](/statements/statement-ea8c06f2abed.md)
+  - Also about: [Jessica Reed Kraus](/entities/person-jessica-reed-kraus.md)
+
+- [00:31:07](/episodes/ep-FFQ9675oqRI.md#t-00-31-07) (Claim) **Ashley St. Clair** (via quoted article): ["Ashley St. Clair told the Daily Mail that Jessica Reed Kraus became di..."](/statements/statement-4776293c1a7a.md)
+  - Also about: [Jessica Reed Kraus](/entities/person-jessica-reed-kraus.md)
+
+- [00:31:21](/episodes/ep-FFQ9675oqRI.md#t-00-31-07) (Claim) **Jessica Reed Kraus** (via quoted article): ["Jessica Reed Kraus told the Daily Mail that her husband had never appe..."](/statements/statement-101802612067.md)
+  - Also about: [Jessica Reed Kraus](/entities/person-jessica-reed-kraus.md)
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1)</summary>
+
+- [00:39:40](/episodes/ep-qZ8RWfyuewQ.md#t-00-39-20) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk said a Daily Mail journalist apologized for her loss and th..."](/statements/statement-519501442361.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>

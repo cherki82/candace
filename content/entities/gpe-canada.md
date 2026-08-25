@@ -1,6 +1,6 @@
 ---
 title: "Canada"
-description: "Canada (Places) - 21 mentions"
+description: "Canada (Places) - 22 mentions"
 id: "gpe-canada"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [Government of Canada](https://www.canada.ca/en.html)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-canada-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-canada-t-00-37-22">2026-04-15 · 00:38:00</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-canada-t-00-54-15">2026-05-13 · 00:54:15</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -47,6 +47,7 @@ Source: [Government of Canada](https://www.canada.ca/en.html)
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-canada-t-00-08-01" style="--pulse-height:50%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-canada-t-00-10-38" style="--pulse-height:50%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-canada-t-00-37-22" style="--pulse-height:100%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-canada-t-00-54-15" style="--pulse-height:50%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -69,6 +70,7 @@ Source: [Government of Canada](https://www.canada.ca/en.html)
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-canada-t-00-08-01) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-canada-t-00-10-38) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-canada-t-00-37-22) | 2 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-canada-t-00-54-15) | 1 |
 
 </details>
 </section>
@@ -76,7 +78,15 @@ Source: [Government of Canada](https://www.canada.ca/en.html)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1 mentions)</summary>
+
+**[00:54:15](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-canada-t-00-54-15)**
+> "up in Canada"
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (2 mentions)</summary>

@@ -11,6 +11,8 @@ _Type: People_
 
 **Also known as:** Sergio
 
+> **Possibly overlapping entity records:** [Sergio Gor](/entities/person-sergio-gor). These records share a name or alias; compare their histories before treating either count as complete.
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-sergio-gore-t-00-09-46">2025-12-10 · 00:10:05</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-sergio-gore-t-00-11-00">2025-12-10 · 00:11:42</a></strong></div>

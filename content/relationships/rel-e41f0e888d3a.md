@@ -11,11 +11,15 @@ object: "person-candace-owens"
 
 ## [Pam Bondi](/entities/person-pam-bondi) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
 
 **[AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo)**
 
 - [00:47:48](/episodes/ep-Wjul6YV6izo#t-00-47-48): _Pam Bondi trying to grab headlines was equally as annoying and who also kind of needs a swirly, if we're being honest, ... Shut up, Pam Bondi. Just shut up._
+
+**[Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8)**
+
+- [00:35:19](/episodes/ep-uC_GjKU8rs8#t-00-35-19): _Why does this all feel a little bit incestuous, right? Pam Bondi, just to be clear, had become to the American people virtually synonymous with corruption for Israel, right?_
 
 ### Related
 

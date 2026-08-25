@@ -1,6 +1,6 @@
 ---
 title: "Illinois"
-description: "Illinois (Places) - 13 mentions"
+description: "Illinois (Places) - 14 mentions"
 id: "gpe-illinois"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [Illinois.gov](https://www.illinois.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-illinois-t-00-06-17">2026-01-19 · 00:06:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-illinois-t-00-04-42">2026-03-03 · 00:04:42</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-illinois-t-00-11-29">2026-05-13 · 00:11:39</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,7 @@ Source: [Illinois.gov](https://www.illinois.gov/)
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-gpe-illinois-t-00-31-15" style="--pulse-height:14%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-illinois-t-00-34-24" style="--pulse-height:29%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-illinois-t-00-04-42" style="--pulse-height:14%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-illinois-t-00-11-29" style="--pulse-height:14%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [Illinois.gov](https://www.illinois.gov/)
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-gpe-illinois-t-00-31-15) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-illinois-t-00-34-24) | 2 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-illinois-t-00-04-42) | 1 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-illinois-t-00-11-29) | 1 |
 
 </details>
 </section>
@@ -52,7 +54,15 @@ Source: [Illinois.gov](https://www.illinois.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1 mentions)</summary>
+
+**[00:11:39](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-illinois-t-00-11-29)**
+> "Illinois"
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1 mentions)</summary>

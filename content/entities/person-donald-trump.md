@@ -1,6 +1,6 @@
 ---
 title: "Donald J. Trump"
-description: "Donald J. Trump (People) - 583 mentions"
+description: "Donald J. Trump (People) - 669 mentions"
 id: "person-donald-trump"
 type: "PERSON"
 aliases:
@@ -29,11 +29,11 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-t-00-19-31">2025-09-11 · 00:08:08</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-donald-trump-t-02-34-47">2026-08-14 · 02:34:47</a></strong></div>
-<div><span>Episodes</span><strong>85</strong></div>
-<div><span>Mentions</span><strong>583</strong></div>
-<div><span>Statements by</span><strong>27</strong></div>
-<div><span>Statements about</span><strong>136</strong></div>
-<div><span>Relationships</span><strong>105</strong></div>
+<div><span>Episodes</span><strong>94</strong></div>
+<div><span>Mentions</span><strong>669</strong></div>
+<div><span>Statements by</span><strong>28</strong></div>
+<div><span>Statements about</span><strong>149</strong></div>
+<div><span>Relationships</span><strong>117</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -125,6 +125,15 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-donald-trump-t-00-25-48" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-donald-trump-t-00-00-00" style="--pulse-height:65%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 31 mentions" title="2026-04-20 · 31 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-donald-trump-t-00-15-52" style="--pulse-height:27%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 13 mentions" title="2026-04-21 · 13 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-person-donald-trump-t-01-10-44" style="--pulse-height:8%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 3 mentions" title="2026-04-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-00-00" style="--pulse-height:65%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 31 mentions" title="2026-04-29 · 31 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-donald-trump-t-00-04-16" style="--pulse-height:21%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 10 mentions" title="2026-04-30 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-donald-trump-t-00-18-49" style="--pulse-height:12%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 6 mentions" title="2026-05-04 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-t-00-10-09" style="--pulse-height:33%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 16 mentions" title="2026-05-05 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-person-donald-trump-t-00-08-36" style="--pulse-height:23%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 11 mentions" title="2026-05-07 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-donald-trump-t-00-35-17" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-donald-trump-t-00-00-00" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-donald-trump-t-00-22-29" style="--pulse-height:15%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 7 mentions" title="2026-05-13 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-donald-trump-t-02-21-59" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -215,6 +224,15 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-donald-trump-t-00-25-48) | 3 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-donald-trump-t-00-00-00) | 31 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-donald-trump-t-00-15-52) | 13 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-person-donald-trump-t-01-10-44) | 3 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-00-00) | 31 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-person-donald-trump-t-00-04-16) | 10 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-donald-trump-t-00-18-49) | 6 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-t-00-10-09) | 16 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-donald-trump-t-00-08-36) | 11 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-donald-trump-t-00-35-17) | 1 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-donald-trump-t-00-00-00) | 1 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-donald-trump-t-00-22-29) | 7 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-donald-trump-t-02-21-59) | 4 |
 
 </details>
@@ -223,7 +241,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (583)</strong></summary>
+<summary><strong class="section-title">Raw mentions (669)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -239,6 +257,309 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 **[02:34:47](/episodes/ep-nPhCKwJ6ye8.md#ent-person-donald-trump-t-02-34-47)**
 > "Trump's office,"
+
+</details>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1 mentions)</summary>
+
+**[00:00:33](/episodes/ep-4DvYXBn_5JI.md#ent-person-donald-trump-t-00-00-00)**
+> "Trump suddenly posting my face"
+
+</details>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (7 mentions)</summary>
+
+**[00:22:45](/episodes/ep-7FS1tUeSfdE.md#ent-person-donald-trump-t-00-22-29)**
+> "when Elon Musk and Trump had this falling out"
+
+**[00:14:07](/episodes/ep-7FS1tUeSfdE.md#ent-person-donald-trump-t-00-13-31)**
+> "... A, tweet something out about Trump needing a ballroom,"
+
+**[00:21:10](/episodes/ep-7FS1tUeSfdE.md#ent-person-donald-trump-t-00-21-10)**
+> "And Donald Trump Jr."
+
+**[00:21:12](/episodes/ep-7FS1tUeSfdE.md#ent-person-donald-trump-t-00-21-10)**
+> "...at's a guy, Israel's guy, the Trump whisperer he was for a while."
+
+**[00:21:34](/episodes/ep-7FS1tUeSfdE.md#ent-person-donald-trump-t-00-21-10)**
+> "...ose for comfort to me. Donald Trump Jr.—"
+
+**[00:25:27](/episodes/ep-7FS1tUeSfdE.md#ent-person-donald-trump-t-00-22-29)**
+> "... USA, the White House, Donald Trump Jr. We talked about Salem Media. Just a lot going..."
+
+**[00:46:12](/episodes/ep-7FS1tUeSfdE.md#ent-person-donald-trump-t-00-46-07)**
+> "...ther ugly picture. I got more Trump."
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>
+
+**[00:35:17](/episodes/ep-KpxIBWkNsSs.md#ent-person-donald-trump-t-00-35-17)**
+> "get Trump to support this person"
+
+</details>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (11 mentions)</summary>
+
+**[00:09:02](/episodes/ep-FFQ9675oqRI.md#ent-person-donald-trump-t-00-08-36)**
+> "...pondents' Dinner at President Trump (Donald Trump) and the first lady rushed off stag..."
+
+**[00:09:12](/episodes/ep-FFQ9675oqRI.md#ent-person-donald-trump-t-00-09-12)**
+> "...ker Carlson. Why do they want Trump (Donald Trump) dead?"
+
+**[00:16:02](/episodes/ep-FFQ9675oqRI.md#ent-person-donald-trump-t-00-16-02)**
+> "...to the same thing this is why Trump (Donald Trump) needs a ballroom they all instantl..."
+
+**[00:16:43](/episodes/ep-FFQ9675oqRI.md#ent-person-donald-trump-t-00-16-43)**
+> "... to hear one more thing about Trump (Donald Trump)'s new ballroom at the White House."
+
+**[00:16:53](/episodes/ep-FFQ9675oqRI.md#ent-person-donald-trump-t-00-16-43)**
+> "...me thing and tweeted out that Trump (Donald Trump) obviously when you saw they saw sa..."
+
+**[00:17:20](/episodes/ep-FFQ9675oqRI.md#ent-person-donald-trump-t-00-17-20)**
+> "...n't make any sense whatsoever Trump (Donald Trump) has events at the white house by t..."
+
+**[00:17:58](/episodes/ep-FFQ9675oqRI.md#ent-person-donald-trump-t-00-17-58)**
+> "...e normal thing is this is why Trump (Donald Trump) needs a ballroom."
+
+**[00:18:42](/episodes/ep-FFQ9675oqRI.md#ent-person-donald-trump-t-00-18-42)**
+> "... Israel Great Again movement, Trump (Donald Trump), everything his administration has..."
+
+**[00:22:26](/episodes/ep-FFQ9675oqRI.md#ent-person-donald-trump-t-00-22-01)**
+> "...want? They want him unseated. Trump (Donald Trump) has made, he's very vocal. He's te..."
+
+**[00:25:54](/episodes/ep-FFQ9675oqRI.md#ent-person-donald-trump-t-00-25-30)**
+> "... government is occupied, that Trump (Donald Trump)'s administration is completely occ..."
+
+**[00:33:40](/episodes/ep-FFQ9675oqRI.md#ent-person-donald-trump-t-00-33-15)**
+> "... embarrassed that I supported Trump (Donald Trump) in the past because of, you know, ..."
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (16 mentions)</summary>
+
+**[00:10:20](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-t-00-10-09)**
+> "You see Tucker (Tucker Carlson) talking about that and they're making fun of him where he's, he's talking about what it is that is controlling Trump and he's using words like spells. And I'm saying, nope, keep using those words, keep talking about the occult because this is right."
+
+**[00:16:50](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-t-00-16-15)**
+> "...w, I know Brad Parscale. He's Trump's former. The campaign manager? I actually met him ..."
+
+**[00:20:00](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-t-00-19-45)**
+> "...an, for goodness sake, Donald Trump didn't even just post a picture of his dear frien..."
+
+**[00:30:59](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-t-00-19-45)**
+> "...h the president's son, Donald Trump Jr., someone who was like a brother to Charlie (C..."
+
+**[00:31:17](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-t-00-19-45)**
+> "Don (Donald Trump Jr.)'s a hunter. He knows what a .30-06 can do, o..."
+
+**[00:31:24](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-t-00-31-24)**
+> "...arlie Kirk) loved Don (Donald Trump Jr.)."
+
+**[00:31:32](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-t-00-31-24)**
+> "...s a landmark deal with Donald Trump Jr."
+
+**[00:31:40](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-t-00-31-24)**
+> "and Lara Trump, Eric Trump's wife, signaling a bold new era in c..."
+
+**[00:32:01](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-t-00-31-24)**
+> "Trump Jr. and entered into a long term services agreeme..."
+
+**[00:32:14](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-t-00-32-08)**
+> "Trump Jr. becomes a key stakeholder of Salem and a stra..."
+
+**[00:32:27](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-t-00-32-08)**
+> "... Josh Hammer, Don Jr. (Donald Trump Jr.) is involved. We've got Brad Parscale, the Tr..."
+
+**[00:32:49](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-t-00-32-49)**
+> "... she was sworn into office as Trump's attorney general."
+
+**[00:36:41](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-t-00-36-20)**
+> "Trump's Department of Justice made it a safe space for Is..."
+
+**[00:36:50](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-t-00-36-20)**
+> "... January 10th, Brad Parscale, Trump's former campaign manager, becomes the chief strate..."
+
+**[00:37:02](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-t-00-37-02)**
+> "January 20th, Donald Trump is sworn in as POTUS."
+
+**[00:37:26](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-t-00-37-02)**
+> "April 14th, Donald Trump Jr. receives a major stake in Salem Media Group a..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (6 mentions)</summary>
+
+**[00:19:12](/episodes/ep-uC_GjKU8rs8.md#ent-person-donald-trump-t-00-18-49)**
+> "Nobody minded when Trump (Donald Trump) would attack Marco Rubio or Ron De..."
+
+**[00:20:13](/episodes/ep-uC_GjKU8rs8.md#ent-person-donald-trump-t-00-18-49)**
+> "...ve you once leading the Never Trump movement, but they cannot forgive you treating pe..."
+
+**[00:35:11](/episodes/ep-uC_GjKU8rs8.md#ent-person-donald-trump-t-00-34-44)**
+> "...sition. People are wondering, Trump (Donald Trump) signaling lawsuits, lawsuits, Erik..."
+
+**[00:38:44](/episodes/ep-uC_GjKU8rs8.md#ent-person-donald-trump-t-00-38-44)**
+> "...al media activity with former trump campaign strategist brad parscale and a contract ..."
+
+**[00:45:29](/episodes/ep-uC_GjKU8rs8.md#ent-person-donald-trump-t-00-45-29)**
+> "...Dream City Church they hosted Trump (Donald Trump) at in Phoenix. That's what I'm ref..."
+
+**[00:59:35](/episodes/ep-uC_GjKU8rs8.md#ent-person-donald-trump-t-00-59-08)**
+> "...more perfect by the fact that Trump (Donald Trump) on the same evening of it or the n..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (10 mentions)</summary>
+
+**[00:04:34](/episodes/ep-69A8TzAGHlU.md#ent-person-donald-trump-t-00-04-16)**
+> "I don't believe I can sue Trump for thinking Brigitte is the most beautiful woman in the world."
+
+**[00:04:40](/episodes/ep-69A8TzAGHlU.md#ent-person-donald-trump-t-00-04-40)**
+> "...s and I don't think I can sue Trump for making the repeated claim that he views me as..."
+
+**[00:53:08](/episodes/ep-69A8TzAGHlU.md#ent-person-donald-trump-t-00-53-08)**
+> "...t all Jews, okay? When Donald Trump said, what are we still talking about Jeffrey Eps..."
+
+**[00:53:17](/episodes/ep-69A8TzAGHlU.md#ent-person-donald-trump-t-00-53-08)**
+> "...y. To my knowledge, President Trump is not Jewish."
+
+**[00:59:31](/episodes/ep-69A8TzAGHlU.md#ent-person-donald-trump-t-00-59-27)**
+> "...r the things that come out of Trump's Truth Social posts."
+
+**[00:59:40](/episodes/ep-69A8TzAGHlU.md#ent-person-donald-trump-t-00-59-27)**
+> "... me when I'm sick than Donald Trump? Does that now mean that if an act of violence ha..."
+
+**[00:59:57](/episodes/ep-69A8TzAGHlU.md#ent-person-donald-trump-t-00-59-27)**
+> "...ng echoed everywhere. Melania Trump, she tweeted and said this about Jimmy Kimmel, Ji..."
+
+**[01:00:46](/episodes/ep-69A8TzAGHlU.md#ent-person-donald-trump-t-01-00-12)**
+> "... You pretend it's legitimate. Trump's assassination. We have to quick, quick in the cha..."
+
+**[01:06:30](/episodes/ep-69A8TzAGHlU.md#ent-person-donald-trump-t-01-06-22)**
+> "...you know that was pretty vile trump when you guys just like randomly dropped a bomb o..."
+
+**[01:09:16](/episodes/ep-69A8TzAGHlU.md#ent-person-donald-trump-t-01-09-16)**
+> "...t may have been coming um and trump was signaling you should sue people so to Erica (..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (31 mentions)</summary>
+
+**[00:00:17](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-00-00)**
+> "Really? Wow. Okay, Trump. To what do I owe the honor? More importantly, to..."
+
+**[00:00:25](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-00-00)**
+> "...as the absolute whiplash from Trump's truth social post about me followed almost immedi..."
+
+**[00:00:45](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-00-00)**
+> "uh like Melania (Melania Trump) I have always said I love her I love you truly M..."
+
+**[00:02:27](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-02-02)**
+> "... when I found out that Donald Trump was publicly announcing me, naming me Candace Owe..."
+
+**[00:03:03](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-02-41)**
+> "...on on that day between me and Trump or even in the previously in the previous week, l..."
+
+**[00:03:40](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-03-22)**
+> "... the tweet be sent, it wasn't Trump. We should address the points that are made withi..."
+
+**[00:04:55](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-04-39)**
+> "...in that regard, I got to give Trump a little credit here because the photo he shared ..."
+
+**[00:07:47](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-07-47)**
+> "And just so you know, Trump, I have way worse pictures than the one that you ..."
+
+**[00:08:47](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-08-30)**
+> "...n easier for me for being and Trump, you could free dispute this, but generally good ..."
+
+**[00:09:50](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-09-50)**
+> "The picture that Trump shared was taken just three months later. I was s..."
+
+**[00:13:50](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-13-46)**
+> "So to Trump, there you go. To you directly, I guess it's impo..."
+
+**[00:14:44](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-14-22)**
+> "...ould one day become President Trump's lowest moment."
+
+**[00:15:03](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-15-03)**
+> "I do feel like to Trump, he's just repeatedly humiliating himself over an..."
+
+**[00:16:38](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-16-11)**
+> "...t we could say it's more than Trump can say regarding his three wives."
+
+**[00:16:49](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-16-11)**
+> "So my question to Trump would be, would you describe Melania (Melania Tru..."
+
+**[00:16:56](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-16-56)**
+> "What about Laura Trump?"
+
+**[00:18:21](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-18-21)**
+> "...anded a tweet of support from Trump."
+
+**[00:18:35](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-18-21)**
+> "And leading up to Trump's tweet, she had been particularly focusing on my r..."
+
+**[00:21:19](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-21-19)**
+> "...is is a very bad idea and yet Trump's team overall conceded."
+
+**[00:21:46](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-21-19)**
+> "...tant question. Why did Donald Trump concede to a lunatic? There has been, of course, ..."
+
+**[00:22:06](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-22-04)**
+> "...she had relations with Donald Trump."
+
+**[00:23:23](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-23-23)**
+> "...is no way in hell that Donald Trump, who has never, by the way, pushed send on his ow..."
+
+**[00:23:34](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-23-23)**
+> "...at's the job of Natalie Harp. Trump is not using AI to doctor that. He did not hit se..."
+
+**[00:34:49](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-34-15)**
+> "Or President Trump, for that matter, as the president, he never atte..."
+
+**[00:35:41](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-35-41)**
+> "...a lot of people who voted for trump some some of them actually were just voting again..."
+
+**[00:38:52](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-38-52)**
+> "...em then you did an event with trump which relied on upon the secret service and then ..."
+
+**[00:45:09](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-45-09)**
+> "...ert and again on the heels of Trump sharing that about me on the heels of his advisor..."
+
+**[00:46:22](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-00-46-17)**
+> "Trump would make a joke about something and then they'd..."
+
+**[01:07:46](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-01-07-46)**
+> "I had no response to Trump because I told my priest I would chill and he was..."
+
+**[01:09:44](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-01-09-21)**
+> "...n from my butt ugly face that Trump shared when I and I got some uglier pics. So have..."
+
+**[01:17:58](/episodes/ep-qZ8RWfyuewQ.md#ent-person-donald-trump-t-01-17-51)**
+> "... has never seen. Dean, Donald Trump probably allegedly."
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (3 mentions)</summary>
+
+**[01:10:44](/episodes/ep--9MOUvgGyi4.md#ent-person-donald-trump-t-01-10-44)**
+> "And in April, you know, so Trump (Donald Trump) got elected in November of 24 and in the gun industry, we have what's called the Trump (Donald Trump) slump. Anytime a Republican is elected and the demand for firearms goes down."
+
+**[02:33:59](/episodes/ep--9MOUvgGyi4.md#ent-person-donald-trump-t-02-33-37)**
+> "I mean, did you see what Trump (Donald Trump) read today in the Bible?"
+
+**[02:34:51](/episodes/ep--9MOUvgGyi4.md#ent-person-donald-trump-t-02-34-51)**
+> "can see what's guiding Trump (Donald Trump) is sort of this dark theology righ..."
 
 </details>
 
@@ -2425,12 +2746,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:33:08](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54): “one of them being Laura Loomer. ... Trump's closest advisor.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:51:25](/episodes/ep-eLgD5yUVbko.md#t-00-51-17): “We're calling for peace. And he's like, these people are nut jobs. And then he has people like Laura Loomer who have. has been forcibly placed on site 5150 holds as his number one advisor she's like i'm advising him you got paula white who's telling him he's akin to jesus christ which is absolutely blasphemous and he thinks these people are totally sane again very scary to be that far in the cave he is so in the cave he is so convinced of his own invincibility it is completely unhinged that he was deeply upset by the pope Telling him the truth,”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:36:34](/episodes/ep-kaWtDuoY_ns.md#t-00-36-08): “Who even are Trump (Donald Trump)'s advisors anymore? ... Laura Loomer claims she is his number one advisor. And she speaks to him almost daily.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:39:58](/episodes/ep-xi8SYJTUXPM.md#t-00-39-37): “So forget Laura Loomer. The question you should be asking yourself is, is Donald Trump mentally fit to be president if he makes a conscious decision to tweet out that Tucker Carlson and Megyn Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer?”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:17:55](/episodes/ep-qZ8RWfyuewQ.md#t-00-17-39): “And I want people to know that the real driver of the entire random attack on me from the president and the reason why it was tinged a little bit with some race was actually his top advisor, Laura Loomer.”
 
 </details>
 
@@ -2518,6 +2840,25 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
+<summary>Attacked (2)</summary>
+
+- **[Marco Rubio](/entities/person-marco-rubio.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:19:12](/episodes/ep-uC_GjKU8rs8.md#t-00-18-49): “Nobody minded when Trump (Donald Trump) would attack Marco Rubio or Ron DeSantis. I've had personal and legal spats with people like Kim Klasick as just one example. People do expect figureheads to clash.”
+
+</details>
+
+- **[Ron DeSantis](/entities/person-ron-desantis.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:19:12](/episodes/ep-uC_GjKU8rs8.md#t-00-18-49): “Nobody minded when Trump (Donald Trump) would attack Marco Rubio or Ron DeSantis. I've had personal and legal spats with people like Kim Klasick as just one example. People do expect figureheads to clash.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized (8)</summary>
 
 - **[Joe Kent](/entities/person-joe-kent.md)**
@@ -2536,29 +2877,33 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51): “I know why Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have all been fighting me for years... they have one thing in common, low IQs. They are stupid people.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:35:51](/episodes/ep-kaWtDuoY_ns.md#t-00-35-24): “I hear Megyn Kelly, Tucker Carlson and Candace Owens are dying fast. Their numbers are terrible. Nobody believes them anymore. They were fake MAGA.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:39:58](/episodes/ep-xi8SYJTUXPM.md#t-00-39-37): “So forget Laura Loomer. The question you should be asking yourself is, is Donald Trump mentally fit to be president if he makes a conscious decision to tweet out that Tucker Carlson and Megyn Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer?”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:23:06](/episodes/ep-qZ8RWfyuewQ.md#t-00-22-40): “And that very real notion that our president, who it seems randomly attacks people on her behalf. So when you're wondering, why did he send out this crazy tweet about Tucker Carlson or Megyn Kelly?”
 
 </details>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51): “I know why Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have all been fighting me for years... they have one thing in common, low IQs. They are stupid people.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:35:51](/episodes/ep-kaWtDuoY_ns.md#t-00-35-24): “I hear Megyn Kelly, Tucker Carlson and Candace Owens are dying fast. Their numbers are terrible. Nobody believes them anymore. They were fake MAGA.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:39:58](/episodes/ep-xi8SYJTUXPM.md#t-00-39-37): “So forget Laura Loomer. The question you should be asking yourself is, is Donald Trump mentally fit to be president if he makes a conscious decision to tweet out that Tucker Carlson and Megyn Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer?”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:23:06](/episodes/ep-qZ8RWfyuewQ.md#t-00-22-40): “And that very real notion that our president, who it seems randomly attacks people on her behalf. So when you're wondering, why did he send out this crazy tweet about Tucker Carlson or Megyn Kelly?”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51): “I know why Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have all been fighting me for years... they have one thing in common, low IQs. They are stupid people.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:35:51](/episodes/ep-kaWtDuoY_ns.md#t-00-35-24): “I hear Megyn Kelly, Tucker Carlson and Candace Owens are dying fast. Their numbers are terrible. Nobody believes them anymore. They were fake MAGA.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:39:58](/episodes/ep-xi8SYJTUXPM.md#t-00-39-37): “So forget Laura Loomer. The question you should be asking yourself is, is Donald Trump mentally fit to be president if he makes a conscious decision to tweet out that Tucker Carlson and Megyn Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer?”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:02:27](/episodes/ep-qZ8RWfyuewQ.md#t-00-02-02): “So you can imagine that when I found out that Donald Trump was publicly announcing me, naming me Candace Owens as time's person of the year, there was this little glimmer of hope, right? ... I'm not going to lie. Here is what he sent out on Truth Social. He wrote, Candace Owens' stock, which was never very high, has fallen a long way.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:00:33](/episodes/ep-4DvYXBn_5JI.md#t-00-00-00): “Trump suddenly posting my face on Time magazine calling me the most vile person of the year. Really?”
 
 </details>
 
@@ -2596,7 +2941,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -2609,6 +2954,9 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:51:32](/episodes/ep-eLgD5yUVbko.md#t-00-51-17): “has been forcibly placed on site 5150 holds as his number one advisor she's like i'm advising him you got paula white who's telling him he's akin to jesus christ which is absolutely blasphemous and he thinks these people are totally sane again very scary to be that far in the cave he is so in the cave he is so convinced of his own invincibility it is completely unhinged that he was deeply upset by the pope Telling him the truth, the Catholic perspective is that this is an unjust war because it is, obviously. OK, you can't just decide that you want to take things from Iran or rather not decide, but Bibi tells you you're going to take things from Iran and then you just do it and you put American lives at risk. It's unjust, unjust. Even honestly, if you if you remove Catholicism, it's just unjust in general. It's morally contemptible what you are doing in the Middle East. OK, and forget the part that you went against every single one of your promises, betrayed your base, betrayed the people that were out there trying to get votes for you, betrayed the Charlie Kirk, you betrayed Becky Kelly, you betrayed Tucker Carlson, you betrayed me. I just, you know, could not care less. I am very happy to die with my soul intact. And.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:28:30](/episodes/ep-kaWtDuoY_ns.md#t-00-28-27): “now Trump (Donald Trump) should definitely be in prison”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:39:58](/episodes/ep-xi8SYJTUXPM.md#t-00-39-37): “So forget Laura Loomer. The question you should be asking yourself is, is Donald Trump mentally fit to be president if he makes a conscious decision to tweet out that Tucker Carlson and Megyn Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer?”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:14:44](/episodes/ep-qZ8RWfyuewQ.md#t-00-14-22): “Who cares what you look like? Okay. That's. You have low moments, you get through them. And I will say that never when I went through that and to people who are sick and going through things, never could I have imagined that my lowest moment would one day become President Trump's lowest moment.”
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 01:06:30](/episodes/ep-69A8TzAGHlU.md#t-01-06-22): “to say that i think being a pedophile ranks higher for being vile but i don't know what do i know i'm just out here trying to use rich white men as you said brock jordan writes imagine believing a lady on the internet is the most vile person and not the people dropping bombs on schools you know that was pretty vile trump when you guys just like randomly dropped a bomb on 150 school girls in iran and then lied to us about it”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:00:33](/episodes/ep-4DvYXBn_5JI.md#t-00-00-00): “Trump suddenly posting my face on Time magazine calling me the most vile person of the year. Really? Jeffrey Epstein didn't deserve that honor.”
 
 </details>
 
@@ -2616,6 +2964,18 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:53:40](/episodes/ep-eLgD5yUVbko.md#t-00-53-07): “For the last 25 years, according to BBNet and Yahoo, I don't want a pope who thinks it's terrible that America attacked Venezuela, a country that was sending massive amounts of drugs into the United States and even worse, emptying their prisons, including murderers, drug dealers and killers into our country. And I don't want a pope who criticizes. ... The president of the United States, because I'm doing exactly what I was elected in a landslide to do, setting record low numbers in crime and creating the greatest stock market in history, Leo should be thankful because, as everyone knows, he was a shocking surprise. He wasn't on any list to be pope and was only put there by the church because he wasn't American and they thought that that would be the best way to deal with President Donald J. Trump. Trump, if I wasn't in the White House, Leo wouldn't be in the Vatican.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Employs (1)</summary>
+
+- **[Natalie Harp](/entities/person-natalie-harp.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:23:34](/episodes/ep-qZ8RWfyuewQ.md#t-00-23-23): “And now it's widely reported that on Truth Social, that's the job of Natalie Harp. Trump is not using AI to doctor that.”
 
 </details>
 
@@ -2641,12 +3001,26 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Formerly Employed (1)</summary>
+<summary>Formerly Employed (3)</summary>
 
 - **[Pam Bondi](/entities/person-pam-bondi.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:45:03](/episodes/ep-q1NRQQAYS_Q.md#t-00-44-43): “Trump made the announcement on social media saying Pam Bondi is a great American patriot, a loyal friend who faithfully served as my attorney general over the past year.”
+
+</details>
+
+- **[Dan Scavino](/entities/person-dan-scavino.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:23:23](/episodes/ep-qZ8RWfyuewQ.md#t-00-23-23): “Because there is no way in hell that Donald Trump, who has never, by the way, pushed send on his own tweets, that was the job initially of Dan Scavino during his first term.”
+
+</details>
+
+- **[Brad Parscale](/entities/person-brad-parscale.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:36:50](/episodes/ep-eMtjzXkQrsU.md#t-00-36-20): “OK, this is 2025. It's a crazy year. OK, let's take a look at it. January 10th, Brad Parscale, Trump's former campaign manager, becomes the chief strategy officer for Salem Media Group.”
 
 </details>
 
@@ -2838,6 +3212,18 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
+<summary>Spoke At (1)</summary>
+
+- **[Dream City Church](/entities/org-dream-city-church.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:45:29](/episodes/ep-uC_GjKU8rs8.md#t-00-45-29): “The Dream City Church they hosted Trump (Donald Trump) at in Phoenix. That's what I'm referring to.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Supported By (5)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
@@ -2904,7 +3290,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Referenced By (53)</summary>
+<summary>Referenced By (59)</summary>
 
 - **[Iran](/entities/gpe-iran.md)** accused by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -2922,12 +3308,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)** advisor to this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:33:08](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54): “one of them being Laura Loomer. ... Trump's closest advisor.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:51:25](/episodes/ep-eLgD5yUVbko.md#t-00-51-17): “We're calling for peace. And he's like, these people are nut jobs. And then he has people like Laura Loomer who have. has been forcibly placed on site 5150 holds as his number one advisor she's like i'm advising him you got paula white who's telling him he's akin to jesus christ which is absolutely blasphemous and he thinks these people are totally sane again very scary to be that far in the cave he is so in the cave he is so convinced of his own invincibility it is completely unhinged that he was deeply upset by the pope Telling him the truth,”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:36:34](/episodes/ep-kaWtDuoY_ns.md#t-00-36-08): “Who even are Trump (Donald Trump)'s advisors anymore? ... Laura Loomer claims she is his number one advisor. And she speaks to him almost daily.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:39:58](/episodes/ep-xi8SYJTUXPM.md#t-00-39-37): “So forget Laura Loomer. The question you should be asking yourself is, is Donald Trump mentally fit to be president if he makes a conscious decision to tweet out that Tucker Carlson and Megyn Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer?”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:17:55](/episodes/ep-qZ8RWfyuewQ.md#t-00-17-39): “And I want people to know that the real driver of the entire random attack on me from the president and the reason why it was tinged a little bit with some race was actually his top advisor, Laura Loomer.”
 
 </details>
 
@@ -3002,6 +3389,20 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 </details>
 
+- **[Marco Rubio](/entities/person-marco-rubio.md)** attacked by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:19:12](/episodes/ep-uC_GjKU8rs8.md#t-00-18-49): “Nobody minded when Trump (Donald Trump) would attack Marco Rubio or Ron DeSantis. I've had personal and legal spats with people like Kim Klasick as just one example. People do expect figureheads to clash.”
+
+</details>
+
+- **[Ron DeSantis](/entities/person-ron-desantis.md)** attacked by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:19:12](/episodes/ep-uC_GjKU8rs8.md#t-00-18-49): “Nobody minded when Trump (Donald Trump) would attack Marco Rubio or Ron DeSantis. I've had personal and legal spats with people like Kim Klasick as just one example. People do expect figureheads to clash.”
+
+</details>
+
 - **[Eric Trump](/entities/person-eric-trump.md)** child of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -3038,7 +3439,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -3051,6 +3452,9 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:51:32](/episodes/ep-eLgD5yUVbko.md#t-00-51-17): “has been forcibly placed on site 5150 holds as his number one advisor she's like i'm advising him you got paula white who's telling him he's akin to jesus christ which is absolutely blasphemous and he thinks these people are totally sane again very scary to be that far in the cave he is so in the cave he is so convinced of his own invincibility it is completely unhinged that he was deeply upset by the pope Telling him the truth, the Catholic perspective is that this is an unjust war because it is, obviously. OK, you can't just decide that you want to take things from Iran or rather not decide, but Bibi tells you you're going to take things from Iran and then you just do it and you put American lives at risk. It's unjust, unjust. Even honestly, if you if you remove Catholicism, it's just unjust in general. It's morally contemptible what you are doing in the Middle East. OK, and forget the part that you went against every single one of your promises, betrayed your base, betrayed the people that were out there trying to get votes for you, betrayed the Charlie Kirk, you betrayed Becky Kelly, you betrayed Tucker Carlson, you betrayed me. I just, you know, could not care less. I am very happy to die with my soul intact. And.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:28:30](/episodes/ep-kaWtDuoY_ns.md#t-00-28-27): “now Trump (Donald Trump) should definitely be in prison”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:39:58](/episodes/ep-xi8SYJTUXPM.md#t-00-39-37): “So forget Laura Loomer. The question you should be asking yourself is, is Donald Trump mentally fit to be president if he makes a conscious decision to tweet out that Tucker Carlson and Megyn Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer?”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:14:44](/episodes/ep-qZ8RWfyuewQ.md#t-00-14-22): “Who cares what you look like? Okay. That's. You have low moments, you get through them. And I will say that never when I went through that and to people who are sick and going through things, never could I have imagined that my lowest moment would one day become President Trump's lowest moment.”
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 01:06:30](/episodes/ep-69A8TzAGHlU.md#t-01-06-22): “to say that i think being a pedophile ranks higher for being vile but i don't know what do i know i'm just out here trying to use rich white men as you said brock jordan writes imagine believing a lady on the internet is the most vile person and not the people dropping bombs on schools you know that was pretty vile trump when you guys just like randomly dropped a bomb on 150 school girls in iran and then lied to us about it”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:00:33](/episodes/ep-4DvYXBn_5JI.md#t-00-00-00): “Trump suddenly posting my face on Time magazine calling me the most vile person of the year. Really? Jeffrey Epstein didn't deserve that honor.”
 
 </details>
 
@@ -3077,29 +3481,33 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51): “I know why Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have all been fighting me for years... they have one thing in common, low IQs. They are stupid people.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:35:51](/episodes/ep-kaWtDuoY_ns.md#t-00-35-24): “I hear Megyn Kelly, Tucker Carlson and Candace Owens are dying fast. Their numbers are terrible. Nobody believes them anymore. They were fake MAGA.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:39:58](/episodes/ep-xi8SYJTUXPM.md#t-00-39-37): “So forget Laura Loomer. The question you should be asking yourself is, is Donald Trump mentally fit to be president if he makes a conscious decision to tweet out that Tucker Carlson and Megyn Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer?”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:23:06](/episodes/ep-qZ8RWfyuewQ.md#t-00-22-40): “And that very real notion that our president, who it seems randomly attacks people on her behalf. So when you're wondering, why did he send out this crazy tweet about Tucker Carlson or Megyn Kelly?”
 
 </details>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51): “I know why Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have all been fighting me for years... they have one thing in common, low IQs. They are stupid people.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:35:51](/episodes/ep-kaWtDuoY_ns.md#t-00-35-24): “I hear Megyn Kelly, Tucker Carlson and Candace Owens are dying fast. Their numbers are terrible. Nobody believes them anymore. They were fake MAGA.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:39:58](/episodes/ep-xi8SYJTUXPM.md#t-00-39-37): “So forget Laura Loomer. The question you should be asking yourself is, is Donald Trump mentally fit to be president if he makes a conscious decision to tweet out that Tucker Carlson and Megyn Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer?”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:23:06](/episodes/ep-qZ8RWfyuewQ.md#t-00-22-40): “And that very real notion that our president, who it seems randomly attacks people on her behalf. So when you're wondering, why did he send out this crazy tweet about Tucker Carlson or Megyn Kelly?”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51): “I know why Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have all been fighting me for years... they have one thing in common, low IQs. They are stupid people.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:35:51](/episodes/ep-kaWtDuoY_ns.md#t-00-35-24): “I hear Megyn Kelly, Tucker Carlson and Candace Owens are dying fast. Their numbers are terrible. Nobody believes them anymore. They were fake MAGA.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:39:58](/episodes/ep-xi8SYJTUXPM.md#t-00-39-37): “So forget Laura Loomer. The question you should be asking yourself is, is Donald Trump mentally fit to be president if he makes a conscious decision to tweet out that Tucker Carlson and Megyn Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer?”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:02:27](/episodes/ep-qZ8RWfyuewQ.md#t-00-02-02): “So you can imagine that when I found out that Donald Trump was publicly announcing me, naming me Candace Owens as time's person of the year, there was this little glimmer of hope, right? ... I'm not going to lie. Here is what he sent out on Truth Social. He wrote, Candace Owens' stock, which was never very high, has fallen a long way.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:00:33](/episodes/ep-4DvYXBn_5JI.md#t-00-00-00): “Trump suddenly posting my face on Time magazine calling me the most vile person of the year. Really?”
 
 </details>
 
@@ -3145,6 +3553,20 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 </details>
 
+- **[Dan Scavino](/entities/person-dan-scavino.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:23:23](/episodes/ep-qZ8RWfyuewQ.md#t-00-23-23): “Because there is no way in hell that Donald Trump, who has never, by the way, pushed send on his own tweets, that was the job initially of Dan Scavino during his first term.”
+
+</details>
+
+- **[Brad Parscale](/entities/person-brad-parscale.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:36:50](/episodes/ep-eMtjzXkQrsU.md#t-00-36-20): “OK, this is 2025. It's a crazy year. OK, let's take a look at it. January 10th, Brad Parscale, Trump's former campaign manager, becomes the chief strategy officer for Salem Media Group.”
+
+</details>
+
 - **[Giorgia Meloni](/entities/person-giorgia-meloni.md)** friend of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -3182,6 +3604,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:53:28](/episodes/ep-q1NRQQAYS_Q.md#t-00-53-01): “You know, somehow bear more weight if the president of the United States says it actually make it diminishes it. It diminishes it. That's not like you want Trump to mention your company.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:53:57](/episodes/ep-eLgD5yUVbko.md#t-00-53-40): “The president of the United States, because I'm doing exactly what I was elected in a landslide to do, setting record low numbers in crime and creating the greatest stock market in history, Leo should be thankful because, as everyone knows, he was a shocking surprise. He wasn't on any list to be pope and was only put there by the church because he wasn't American and they thought that that would be the best way to deal with President Donald J. Trump. Trump, if I wasn't in the White House, Leo wouldn't be in the Vatican.”
+
+</details>
+
+- **[Dream City Church](/entities/org-dream-city-church.md)** hosted speaker this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:45:29](/episodes/ep-uC_GjKU8rs8.md#t-00-45-29): “The Dream City Church they hosted Trump (Donald Trump) at in Phoenix. That's what I'm referring to.”
 
 </details>
 
@@ -3309,12 +3738,27 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 </details>
 
+- **[Natalie Harp](/entities/person-natalie-harp.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:23:34](/episodes/ep-qZ8RWfyuewQ.md#t-00-23-23): “And now it's widely reported that on Truth Social, that's the job of Natalie Harp. Trump is not using AI to doctor that.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Donald J. Trump (27)</strong></summary>
+<summary><strong class="section-title">Statements by Donald J. Trump (28)</strong></summary>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1)</summary>
+
+- [00:02:41](/episodes/ep-qZ8RWfyuewQ.md#t-00-02-41) [○] (Opinion) ["Donald Trump said Candace Owens's standing had fallen, called her attack on Brig..."](/statements/statement-5b7adb4a34a5.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Brigitte Macron](/entities/person-brigitte-macron.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (2)</summary>
@@ -3460,13 +3904,76 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Donald J. Trump (136)</strong></summary>
+<summary><strong class="section-title">Statements about Donald J. Trump (149)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
 
 - [02:21:45](/episodes/ep-nPhCKwJ6ye8.md#t-02-21-45) (Claim) **Candace Owens**: ["Candace Owens reported the alleged French Foreign Legion threat to Tul..."](/statements/statement-09827ba5d6e7.md)
   - Also about: [Tulsi Gabbard](/entities/person-tulsi-gabbard.md), [French Foreign Legion](/entities/org-french-foreign-legion.md)
+
+</details>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (2)</summary>
+
+- [00:11:57](/episodes/ep-7FS1tUeSfdE.md#t-00-11-27) (Claim) **White House Military Office** (via quoted document): ["The White House Military Office's approved message said the president ..."](/statements/statement-31abff6e63e0.md)
+  - Also about: [White House Military Office](/entities/org-white-house-military-office.md)
+
+- [00:24:09](/episodes/ep-7FS1tUeSfdE.md#t-00-24-09) (Claim) **Erika Kirk**: ["I witnessed Charlie Kirk and Sergio Gor work together for years to cha..."](/statements/statement-163917016980.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Sergio Gor](/entities/person-sergio-gor.md)
+
+</details>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (4)</summary>
+
+- [00:22:26](/episodes/ep-FFQ9675oqRI.md#t-00-22-01) (Accusation) **Candace Owens**: ["Candace Owens said Donald Trump was teaming up with AIPAC to unseat Th..."](/statements/statement-84302ce54138.md)
+  - Also about: [American Israel Public Affairs Committee](/entities/org-aipac.md), [Thomas Massie](/entities/person-thomas-massie.md)
+
+- [00:24:27](/episodes/ep-FFQ9675oqRI.md#t-00-24-27) (Claim) **Thomas Massie** (via quoted speech): ["Thomas Massie said Miriam Adelson had given Donald Trump more than 200..."](/statements/statement-7e49e864e0e7.md)
+  - Also about: [Miriam Adelson](/entities/person-miriam-adelson.md), [Israel](/entities/gpe-israel.md)
+
+- [00:25:54](/episodes/ep-FFQ9675oqRI.md#t-00-25-30) (Opinion) **Candace Owens**: ["Candace Owens said the United States government and the Trump administ..."](/statements/statement-c7818ed8e19d.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+- [00:33:40](/episodes/ep-FFQ9675oqRI.md#t-00-33-15) (Opinion) **Candace Owens**: ["Candace Owens said she was embarrassed that she had supported Donald T..."](/statements/statement-cdea8db1933a.md)
+  - Also about: [MAGA movement](/entities/concept-maga-movement.md)
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1)</summary>
+
+- [00:45:04](/episodes/ep-uC_GjKU8rs8.md#t-00-44-59) (Claim) **Candace Owens**: ["Dream City Church, which hosted Charlie Kirk, Erika Kirk, and Donald T..."](/statements/statement-55c1515fffb5.md)
+  - Also about: [Dream City Church](/entities/org-dream-city-church.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2)</summary>
+
+- [00:58:45](/episodes/ep-69A8TzAGHlU.md#t-00-58-45) (Accusation) **Karoline Leavitt**: ["Political violence against Donald Trump stems from systematic demoniza..."](/statements/statement-60f3c76ad72a.md)
+  - Also about: [Democratic Party](/entities/org-democratic-party.md)
+
+- [00:59:05](/episodes/ep-69A8TzAGHlU.md#t-00-58-45) (Opinion) **Karoline Leavitt**: ["Crazed rhetoric about Donald Trump can inspire mentally disturbed list..."](/statements/statement-06609153972d.md)
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (4)</summary>
+
+- [00:05:02](/episodes/ep-qZ8RWfyuewQ.md#t-00-04-39) (Claim) **Candace Owens**: ["The photograph Donald Trump shared of Candace Owens was authentic and ..."](/statements/statement-aa04006e088b.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Artificial intelligence](/entities/concept-artificial-intelligence.md)
+
+- [00:17:55](/episodes/ep-qZ8RWfyuewQ.md#t-00-17-39) (Accusation) **Anonymous Source #1 (Ep qZ8RWfyuewQ)** (via read message): ["An unnamed source told Candace Owens that Laura Loomer demanded a supp..."](/statements/statement-060bb8d3cf39.md)
+  - Also about: [Laura Loomer](/entities/person-laura-loomer.md), [Susie Wiles](/entities/person-susie-wiles.md), [White House](/entities/org-white-house.md)
+
+- [00:23:23](/episodes/ep-qZ8RWfyuewQ.md#t-00-23-23) (Citation) **Candace Owens**: ["Candace Owens said Donald Trump does not personally publish his social..."](/statements/statement-49ac4e1140a6.md)
+  - Also about: [Natalie Harp](/entities/person-natalie-harp.md), [Dan Scavino](/entities/person-dan-scavino.md), [Truth Social](/entities/org-truth-social.md)
+
+- [00:34:42](/episodes/ep-qZ8RWfyuewQ.md#t-00-34-15) (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk had never attended the White House cor..."](/statements/statement-52ff3b0c3af0.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [White House](/entities/org-white-house.md)
 
 </details>
 

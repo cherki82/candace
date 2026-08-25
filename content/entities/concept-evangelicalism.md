@@ -1,6 +1,6 @@
 ---
 title: "Evangelicalism"
-description: "Evangelicalism (Concepts) - 5 mentions"
+description: "Evangelicalism (Concepts) - 7 mentions"
 id: "concept-evangelicalism"
 type: "CONCEPT"
 aliases:
@@ -18,9 +18,9 @@ _Type: Concepts_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-evangelicalism-t-00-15-44">2026-01-12 · 00:16:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-evangelicalism-t-00-44-06">2026-03-03 · 00:44:06</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-evangelicalism-t-00-04-52">2026-05-07 · 00:04:52</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,6 +34,7 @@ _Type: Concepts_
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-evangelicalism-t-00-15-44" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-evangelicalism-t-00-58-46" style="--pulse-height:33%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-evangelicalism-t-00-44-06" style="--pulse-height:33%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-evangelicalism-t-00-03-03" style="--pulse-height:67%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 2 mentions" title="2026-05-07 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +43,7 @@ _Type: Concepts_
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-evangelicalism-t-00-15-44) | 3 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-evangelicalism-t-00-58-46) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-concept-evangelicalism-t-00-44-06) | 1 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-concept-evangelicalism-t-00-03-03) | 2 |
 
 </details>
 </section>
@@ -49,7 +51,18 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (2 mentions)</summary>
+
+**[00:03:03](/episodes/ep-FFQ9675oqRI.md#ent-concept-evangelicalism-t-00-03-03)**
+> "...rocess, especially if you are evangelical, because this is effectively evangelical ultra, o..."
+
+**[00:04:52](/episodes/ep-FFQ9675oqRI.md#ent-concept-evangelicalism-t-00-04-52)**
+> "... to just please, if you're an evangelical, take your time to go through those FARA filings ..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1 mentions)</summary>

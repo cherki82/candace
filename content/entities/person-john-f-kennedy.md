@@ -1,6 +1,6 @@
 ---
 title: "John F. Kennedy"
-description: "John F. Kennedy (People) - 86 mentions"
+description: "John F. Kennedy (People) - 90 mentions"
 id: "person-john-f-kennedy"
 type: "PERSON"
 aliases:
@@ -26,8 +26,8 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-john-f-kennedy-t-00-00-55">2025-09-19 · 00:01:25</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-john-f-kennedy-t-00-37-25">2026-08-14 · 00:37:25</a></strong></div>
-<div><span>Episodes</span><strong>44</strong></div>
-<div><span>Mentions</span><strong>86</strong></div>
+<div><span>Episodes</span><strong>46</strong></div>
+<div><span>Mentions</span><strong>90</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -81,6 +81,8 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-john-f-kennedy-t-00-06-43" style="--pulse-height:14%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-john-f-kennedy-t-00-44-45" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-john-f-kennedy-t-00-44-58" style="--pulse-height:8%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-john-f-kennedy-t-00-36-07" style="--pulse-height:8%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-john-f-kennedy-t-00-15-31" style="--pulse-height:21%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 3 mentions" title="2026-05-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-john-f-kennedy-t-00-37-25" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -130,6 +132,8 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-john-f-kennedy-t-00-06-43) | 2 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-john-f-kennedy-t-00-44-45) | 1 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-john-f-kennedy-t-00-44-58) | 1 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-john-f-kennedy-t-00-36-07) | 1 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-john-f-kennedy-t-00-15-31) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-john-f-kennedy-t-00-37-25) | 1 |
 
 </details>
@@ -138,13 +142,35 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (86)</strong></summary>
+<summary><strong class="section-title">Raw mentions (90)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:37:25](/episodes/ep-nPhCKwJ6ye8.md#ent-person-john-f-kennedy-t-00-37-25)**
 > "...le after the assassination of JFK. So it's not exactly one that makes me nervous li..."
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (3 mentions)</summary>
+
+**[00:15:50](/episodes/ep-eMtjzXkQrsU.md#ent-person-john-f-kennedy-t-00-15-31)**
+> "I'm referring to JFK. This is what he was fighting at the very end. He wanted what is today AIPAC to register us foreign agents."
+
+**[00:15:55](/episodes/ep-eMtjzXkQrsU.md#ent-person-john-f-kennedy-t-00-15-31)**
+> "...they got really lucky because JFK ended up dead."
+
+**[00:16:04](/episodes/ep-eMtjzXkQrsU.md#ent-person-john-f-kennedy-t-00-15-31)**
+> "...d course on every policy that JFK was pursuing. against Israel. Anyway, back to Clo..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
+
+**[00:36:07](/episodes/ep-uC_GjKU8rs8.md#ent-person-john-f-kennedy-t-00-36-07)**
+> "Rest in peace, JFK, called Show Faith by Works. Okay, so Show Faith ..."
 
 </details>
 

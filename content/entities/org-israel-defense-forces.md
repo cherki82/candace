@@ -1,6 +1,6 @@
 ---
 title: "Israel Defense Forces"
-description: "Israel Defense Forces (Organizations) - 23 mentions"
+description: "Israel Defense Forces (Organizations) - 32 mentions"
 id: "org-israel-defense-forces"
 type: "ORG"
 aliases:
@@ -25,11 +25,11 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-israel-defense-forces-t-00-07-51">2026-01-09 · 00:08:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-israel-defense-forces-t-00-37-37">2026-04-16 · 00:38:15</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-israel-defense-forces-t-00-05-04">2026-05-13 · 00:05:25</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -47,6 +47,8 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-org-israel-defense-forces-t-00-25-03" style="--pulse-height:29%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-israel-defense-forces-t-00-33-38" style="--pulse-height:43%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 3 mentions" title="2026-04-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-israel-defense-forces-t-00-29-07" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 7 mentions" title="2026-04-16 · 7 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-org-israel-defense-forces-t-00-03-25" style="--pulse-height:71%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 5 mentions" title="2026-04-22 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-israel-defense-forces-t-00-03-42" style="--pulse-height:57%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -61,6 +63,8 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-israel-defense-forces-t-00-25-03) | 2 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-israel-defense-forces-t-00-33-38) | 3 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-israel-defense-forces-t-00-29-07) | 7 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-israel-defense-forces-t-00-03-25) | 5 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-org-israel-defense-forces-t-00-03-42) | 4 |
 
 </details>
 </section>
@@ -68,7 +72,44 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (4 mentions)</summary>
+
+**[00:04:11](/episodes/ep-4DvYXBn_5JI.md#ent-org-israel-defense-forces-t-00-03-42)**
+> "contacts in the IDF"
+
+**[00:04:33](/episodes/ep-4DvYXBn_5JI.md#ent-org-israel-defense-forces-t-00-04-33)**
+> "...rces commanders here with the IDF, um, are extensive and they are taking us to plac..."
+
+**[00:05:04](/episodes/ep-4DvYXBn_5JI.md#ent-org-israel-defense-forces-t-00-05-04)**
+> "...ause of their contacts in the IDF. Again, I need to chase down those leads, but yea..."
+
+**[00:05:25](/episodes/ep-4DvYXBn_5JI.md#ent-org-israel-defense-forces-t-00-05-04)**
+> "...f of Israel, on behalf of the IDF, allegedly, maybe?"
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (5 mentions)</summary>
+
+**[00:03:25](/episodes/ep--9MOUvgGyi4.md#ent-org-israel-defense-forces-t-00-03-25)**
+> "That special forces operators from around the world, I got to shake hands with a lot of IDF and and all other kind of special forces came out and shot my weapon systems and loved it."
+
+**[01:43:38](/episodes/ep--9MOUvgGyi4.md#ent-org-israel-defense-forces-t-01-43-11)**
+> "...,700, they're going to put an IDF guy in each of the schools."
+
+**[01:43:55](/episodes/ep--9MOUvgGyi4.md#ent-org-israel-defense-forces-t-01-43-55)**
+> "... no, they need 50,000 for the IDF for operations in Gaza."
+
+**[01:48:17](/episodes/ep--9MOUvgGyi4.md#ent-org-israel-defense-forces-t-01-48-17)**
+> "... could kick your butt and the IDF wants this and you need the money sort of a thing..."
+
+**[02:03:48](/episodes/ep--9MOUvgGyi4.md#ent-org-israel-defense-forces-t-02-03-48)**
+> "... with you when it came to the IDF. He similarly got serious with this other individ..."
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (7 mentions)</summary>
@@ -303,7 +344,26 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel Defense Forces (13)</strong></summary>
+<summary><strong class="section-title">Statements about Israel Defense Forces (16)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (2)</summary>
+
+- [00:04:33](/episodes/ep-4DvYXBn_5JI.md#t-00-04-29) (Claim) **Victor Marx** (via quoted speech): ["Victor Marx said his relationships with special-forces commanders in I..."](/statements/statement-e64379de8d2c.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Israel](/entities/gpe-israel.md)
+
+- [00:05:25](/episodes/ep-4DvYXBn_5JI.md#t-00-05-04) (Accusation) **Candace Owens** (via paraphrase): ["Is it fair, at least after listening to that, to suggest that Corby Ha..."](/statements/statement-7d6f9b1396b3.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Corby Hall](/entities/person-corby-hall.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (1)</summary>
+
+- [01:47:41](/episodes/ep--9MOUvgGyi4.md#t-01-47-41) (Opinion) **Candace Owens**: ["Candace Owens opined that Corby Hall's final weekend at Victor Marx's ..."](/statements/statement-e535e091864b.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Corby Hall](/entities/person-corby-hall.md), [Victor Marx](/entities/person-victor-marx.md)
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (4)</summary>

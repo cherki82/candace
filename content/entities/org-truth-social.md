@@ -1,6 +1,6 @@
 ---
 title: "Truth Social"
-description: "Truth Social (Organizations) - 11 mentions"
+description: "Truth Social (Organizations) - 18 mentions"
 id: "org-truth-social"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [Truth Social — About Us](https://truthsocial.com/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-truth-social-t-00-11-16">2025-10-29 · 00:11:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-truth-social-t-00-40-33">2026-04-21 · 00:40:33</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-truth-social-t-01-06-30">2026-05-06 · 01:06:30</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -36,6 +36,9 @@ Source: [Truth Social — About Us](https://truthsocial.com/about-us/)
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-truth-social-t-00-03-51" style="--pulse-height:75%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 3 mentions" title="2026-04-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-truth-social-t-00-34-43" style="--pulse-height:25%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-truth-social-t-00-40-33" style="--pulse-height:25%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-truth-social-t-00-00-00" style="--pulse-height:100%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 4 mentions" title="2026-04-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-org-truth-social-t-00-59-27" style="--pulse-height:25%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-truth-social-t-01-06-01" style="--pulse-height:50%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +49,9 @@ Source: [Truth Social — About Us](https://truthsocial.com/about-us/)
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-truth-social-t-00-03-51) | 3 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-truth-social-t-00-34-43) | 1 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-truth-social-t-00-40-33) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-truth-social-t-00-00-00) | 4 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-org-truth-social-t-00-59-27) | 1 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-truth-social-t-01-06-01) | 2 |
 
 </details>
 </section>
@@ -53,7 +59,43 @@ Source: [Truth Social — About Us](https://truthsocial.com/about-us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (2 mentions)</summary>
+
+**[01:06:27](/episodes/ep-k1b1NDCrNFs.md#ent-org-truth-social-t-01-06-01)**
+> "...osting my ugly mug up on X or Truth Social,"
+
+**[01:06:30](/episodes/ep-k1b1NDCrNFs.md#ent-org-truth-social-t-01-06-30)**
+> "... ugly mug um up on up on x or truth social making fun of me we've been through a lot we've b..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1 mentions)</summary>
+
+**[00:59:31](/episodes/ep-69A8TzAGHlU.md#ent-org-truth-social-t-00-59-27)**
+> "Like, it's so crazy that they really come out here and they say this unflinchingly after the things that come out of Trump's Truth Social posts."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (4 mentions)</summary>
+
+**[00:00:25](/episodes/ep-qZ8RWfyuewQ.md#ent-org-truth-social-t-00-00-00)**
+> "...bsolute whiplash from Trump's truth social post about me followed almost immediately by thei..."
+
+**[00:02:41](/episodes/ep-qZ8RWfyuewQ.md#ent-org-truth-social-t-00-02-41)**
+> ".... Here is what he sent out on Truth Social. He wrote, Candace Owens' stock, which was never ..."
+
+**[00:21:19](/episodes/ep-qZ8RWfyuewQ.md#ent-org-truth-social-t-00-21-19)**
+> "... of the united states issue a truth social supporting her mania and it was a demand i want t..."
+
+**[00:23:34](/episodes/ep-qZ8RWfyuewQ.md#ent-org-truth-social-t-00-23-23)**
+> "... it's widely reported that on Truth Social, that's the job of Natalie Harp. Trump is not usi..."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1 mentions)</summary>
@@ -123,7 +165,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Truth Social (2)</strong></summary>
+<summary><strong class="section-title">Statements about Truth Social (3)</strong></summary>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1)</summary>
+
+- [00:23:23](/episodes/ep-qZ8RWfyuewQ.md#t-00-23-23) (Citation) **Candace Owens**: ["Candace Owens said Donald Trump does not personally publish his social..."](/statements/statement-49ac4e1140a6.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Natalie Harp](/entities/person-natalie-harp.md), [Dan Scavino](/entities/person-dan-scavino.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1)</summary>

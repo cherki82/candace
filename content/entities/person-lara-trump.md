@@ -1,20 +1,29 @@
 ---
 title: "Lara Trump"
-description: "Lara Trump (People) - 5 mentions"
+description: "Lara Trump (People) - 8 mentions"
 id: "person-lara-trump"
 type: "PERSON"
+categories:
+  - "media"
+  - "United States politics"
 ---
 
 _Type: People_
 
+**Categories:** media, United States politics
+
+**Entity verification:** verified
+> Official Salem release confirms the canonical name Lara Trump and her Salem podcast relationship.
+Source: [Salem Media Group Landmark Deal with Donald Trump Jr. and Lara Trump](https://investor.salemmedia.com/news-events/press-releases/detail/876/salem-media-group-announces-landmark-deal-with-donald-trump-jr-and-lara-trump-signaling-a-bold-new-era-in-conservative-media)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-r1PS67aRmcA.md#ent-person-lara-trump-t-00-39-03">2025-11-08 · 00:39:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-r1PS67aRmcA.md#ent-person-lara-trump-t-00-41-57">2025-11-08 · 00:42:12</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-lara-trump-t-00-37-02">2026-05-05 · 00:37:26</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -23,12 +32,16 @@ _Type: People_
 <p>Highest activity: <a href="/episodes/ep-r1PS67aRmcA.md#ent-person-lara-trump-t-00-39-03">Ben Shapiro Is Crying Again. | Candace Ep 261</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-person-lara-trump-t-00-39-03" style="--pulse-height:100%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 5 mentions" title="2025-11-08 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#t-00-16-56" style="--pulse-height:20%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-lara-trump-t-00-31-24" style="--pulse-height:40%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-person-lara-trump-t-00-39-03) | 5 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#t-00-16-56) | 1 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-lara-trump-t-00-31-24) | 2 |
 
 </details>
 </section>
@@ -36,7 +49,26 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (2 mentions)</summary>
+
+**[00:31:40](/episodes/ep-eMtjzXkQrsU.md#ent-person-lara-trump-t-00-31-24)**
+> "and Lara Trump, Eric Trump's wife, signaling a bold new era in conservative media."
+
+**[00:37:26](/episodes/ep-eMtjzXkQrsU.md#ent-person-lara-trump-t-00-37-02)**
+> "...em Media Group and in tandem, Lara Trump enters into a strategic agreement with Salem Medi..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[00:16:56](/episodes/ep-qZ8RWfyuewQ.md#t-00-16-56)**
+> "What about Laura Trump?"
+
+</details>
 
 <details>
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (5 mentions)</summary>
@@ -63,6 +95,28 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Worked With (1)</summary>
+
+- **[Salem Media Group](/entities/org-salem-media-group.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:37:26](/episodes/ep-eMtjzXkQrsU.md#t-00-37-02): “April 14th, Donald Trump Jr. receives a major stake in Salem Media Group and in tandem, Lara Trump enters into a strategic agreement with Salem Media Group.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Eric Trump](/entities/person-eric-trump.md)** married to this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:31:40](/episodes/ep-eMtjzXkQrsU.md#t-00-31-24): “and Lara Trump, Eric Trump's wife, signaling a bold new era in conservative media.”
+
+</details>
+
+</details>
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Instagram"
-description: "Instagram (Organizations) - 86 mentions"
+description: "Instagram (Organizations) - 96 mentions"
 id: "org-instagram"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-instagram-t-00-04-56">2025-09-11 · 00:05:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-instagram-t-00-43-02">2026-04-20 · 00:43:02</a></strong></div>
-<div><span>Episodes</span><strong>40</strong></div>
-<div><span>Mentions</span><strong>86</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-instagram-t-00-02-59">2026-05-13 · 00:03:27</a></strong></div>
+<div><span>Episodes</span><strong>46</strong></div>
+<div><span>Mentions</span><strong>96</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -71,6 +71,12 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-instagram-t-00-08-14" style="--pulse-height:25%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-org-instagram-t-00-38-41" style="--pulse-height:12%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-instagram-t-00-01-20" style="--pulse-height:38%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 3 mentions" title="2026-04-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-org-instagram-t-00-05-00" style="--pulse-height:25%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 2 mentions" title="2026-04-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-instagram-t-00-31-36" style="--pulse-height:38%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 3 mentions" title="2026-04-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-instagram-t-00-17-37" style="--pulse-height:25%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-instagram-t-00-28-38" style="--pulse-height:12%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-instagram-t-00-01-59" style="--pulse-height:12%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-instagram-t-00-02-59" style="--pulse-height:12%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -116,6 +122,12 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-instagram-t-00-08-14) | 2 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-instagram-t-00-38-41) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-instagram-t-00-01-20) | 3 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-instagram-t-00-05-00) | 2 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-instagram-t-00-31-36) | 3 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-instagram-t-00-17-37) | 2 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-instagram-t-00-28-38) | 1 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-org-instagram-t-00-01-59) | 1 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-org-instagram-t-00-02-59) | 1 |
 
 </details>
 </section>
@@ -123,7 +135,67 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (86)</strong></summary>
+<summary><strong class="section-title">Raw mentions (96)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1 mentions)</summary>
+
+**[00:01:59](/episodes/ep-4DvYXBn_5JI.md#ent-org-instagram-t-00-01-59)**
+> "Instagram message"
+
+</details>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1 mentions)</summary>
+
+**[00:03:27](/episodes/ep-7FS1tUeSfdE.md#ent-org-instagram-t-00-02-59)**
+> "She posted it onto Instagram."
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>
+
+**[00:28:54](/episodes/ep-k1b1NDCrNFs.md#ent-org-instagram-t-00-28-38)**
+> "...ry single like that I made on Instagram, on Twitter, reading that as disparaging grounds ..."
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (2 mentions)</summary>
+
+**[00:18:04](/episodes/ep-eMtjzXkQrsU.md#ent-org-instagram-t-00-17-37)**
+> "in targeting Gen Z audiences across platforms, TikTok, Instagram, YouTube, podcasts, and other relevant digital and broadcast outlets."
+
+**[01:01:46](/episodes/ep-eMtjzXkQrsU.md#ent-org-instagram-t-01-01-46)**
+> "...an kelly's comment section on instagram because i lived through it after i got fired from..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (3 mentions)</summary>
+
+**[00:32:00](/episodes/ep-qZ8RWfyuewQ.md#ent-org-instagram-t-00-31-36)**
+> "...nd so I reached out to her on Instagram ahead of this show."
+
+**[00:32:05](/episodes/ep-qZ8RWfyuewQ.md#ent-org-instagram-t-00-31-36)**
+> "...and I think the day before on Instagram, on Twitter and via text asking her to simply con..."
+
+**[01:12:32](/episodes/ep-qZ8RWfyuewQ.md#ent-org-instagram-t-01-12-32)**
+> "my Instagram at all and I followed up and I said it's weird th..."
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (2 mentions)</summary>
+
+**[00:05:00](/episodes/ep--9MOUvgGyi4.md#ent-org-instagram-t-00-05-00)**
+> "Well, a late November of 23, my wife was showing me some of the Instagram posts that he was making and he was demoing compact weapon systems and it was like it was kind of framed around."
+
+**[01:21:01](/episodes/ep--9MOUvgGyi4.md#ent-org-instagram-t-01-21-01)**
+> "...imagine my priest going on an Instagram live no matter what happens like you know if I le..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (3 mentions)</summary>
@@ -593,7 +665,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Instagram (6)</strong></summary>
+<summary><strong class="section-title">Statements about Instagram (7)</strong></summary>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1)</summary>
+
+- [00:02:59](/episodes/ep-7FS1tUeSfdE.md#t-00-02-59) (Claim) **Candace Owens**: ["Sara Sidner was the first person to post Erika Kirk's “I want to go ho..."](/statements/statement-563f11c829b0.md)
+  - Also about: [Sara Sidner](/entities/person-sara-sidner.md), [Erika Kirk](/entities/person-erika-kirk.md), [CNN](/entities/org-cnn.md)
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>

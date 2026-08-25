@@ -307,7 +307,7 @@ youtube_url: "https://www.youtube.com/watch?v=ZAsV0fHGBiM"
 - **2019-03-21**: [Erika Frantzve visits Zion's Gate in Jerusalem with Charlie Kirk](/events/event-2019-03-21-erika-frantzve-visits-zions-gate-in-jeru.md)
 - **2019**: [Erika Frantzve begins process of obtaining Swedish dual citizenship](/events/event-2019-erika-frantzve-begins-process-of-obtaini.md)
 - **2025-09-10**: [Charlie Kirk was assassinated at Utah Valley University.](/events/event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va.md)
-- **2025-09-16**: [Erika Kirk held a Zoom call with Turning Point USA employees five days after Charlie Kirk's assassination.](/events/event-2025-09-16-erika-kirk-held-a-zoom-call-with-turning.md)
+- **2025-09-16**: [Erika Kirk held a Zoom call with Turning Point USA employees six days after Charlie Kirk's assassination.](/events/event-2025-09-16-erika-kirk-held-a-zoom-call-with-turning.md)
 - **2025-09-18**: [Erika Kirk gave an in-person interview to The New York Times.](/events/event-2025-09-18-erika-kirk-gave-an-in-person-interview-t.md)
 - **2026-02-24**: [Candace Owens releases trailer for Bride of Charlie series](/events/event-2026-02-24-candace-owens-releases-trailer-for-bride.md)
 

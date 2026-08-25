@@ -1,25 +1,34 @@
 ---
 title: "Susie Wiles"
-description: "Susie Wiles (People) - 9 mentions"
+description: "Susie Wiles (People) - 11 mentions"
 id: "person-susie-wiles"
 type: "PERSON"
 aliases:
   - "Susie"
+categories:
+  - "White House"
+  - "United States politics"
 ---
 
 _Type: People_
 
 **Also known as:** Susie
 
+**Categories:** White House, United States politics
+
 > **Possibly overlapping entity records:** [Susie Breitbart](/entities/person-susie-breitbart). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> The official White House personnel report identifies Susan S. Wiles as Chief of Staff, supporting the public canonical name Susie Wiles.
+Source: [2026 Annual Report to Congress on White House Office Personnel](https://www.whitehouse.gov/wp-content/uploads/2026/07/2026-Annual-Report-to-Congress-on-White-House-Staff.pdf)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-susie-wiles-t-00-47-33">2025-10-28 · 00:47:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-susie-wiles-t-00-12-49">2026-03-10 · 00:13:06</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-susie-wiles-t-00-21-47">2026-05-13 · 00:22:09</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -32,6 +41,8 @@ _Type: People_
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-susie-wiles-t-00-18-22" style="--pulse-height:100%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 3 mentions" title="2025-10-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#ent-person-susie-wiles-t-00-06-20" style="--pulse-height:67%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-susie-wiles-t-00-12-49" style="--pulse-height:33%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#t-00-21-19" style="--pulse-height:33%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-susie-wiles-t-00-21-47" style="--pulse-height:33%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -41,6 +52,8 @@ _Type: People_
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-susie-wiles-t-00-18-22) | 3 |
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-susie-wiles-t-00-06-20) | 2 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-susie-wiles-t-00-12-49) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#t-00-21-19) | 1 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-susie-wiles-t-00-21-47) | 1 |
 
 </details>
 </section>
@@ -48,7 +61,23 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1 mentions)</summary>
+
+**[00:22:09](/episodes/ep-7FS1tUeSfdE.md#ent-person-susie-wiles-t-00-21-47)**
+> "second in command to Susie Wiles"
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[00:21:19](/episodes/ep-qZ8RWfyuewQ.md#t-00-21-19)**
+> "I am told specifically that Suzy Wiles was staunchly opposed"
+
+</details>
 
 <details>
 <summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1 mentions)</summary>
@@ -103,5 +132,18 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Susie Wiles (1)</strong></summary>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1)</summary>
+
+- [00:17:55](/episodes/ep-qZ8RWfyuewQ.md#t-00-17-39) (Accusation) **Anonymous Source #1 (Ep qZ8RWfyuewQ)** (via read message): ["An unnamed source told Candace Owens that Laura Loomer demanded a supp..."](/statements/statement-060bb8d3cf39.md)
+  - Also about: [Laura Loomer](/entities/person-laura-loomer.md), [Donald J. Trump](/entities/person-donald-trump.md), [White House](/entities/org-white-house.md)
+
+</details>
 
 </details>

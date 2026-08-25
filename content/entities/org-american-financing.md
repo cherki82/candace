@@ -1,6 +1,6 @@
 ---
 title: "American Financing"
-description: "American Financing (Organizations) - 298 mentions"
+description: "American Financing (Organizations) - 336 mentions"
 id: "org-american-financing"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-56-30">2025-09-15 · 00:56:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-american-financing-t-00-43-05">2026-04-21 · 00:43:37</a></strong></div>
-<div><span>Episodes</span><strong>74</strong></div>
-<div><span>Mentions</span><strong>298</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-american-financing-t-00-45-16">2026-05-13 · 00:45:25</a></strong></div>
+<div><span>Episodes</span><strong>83</strong></div>
+<div><span>Mentions</span><strong>336</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -110,6 +110,15 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-american-financing-t-00-46-40" style="--pulse-height:50%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 4 mentions" title="2026-04-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-american-financing-t-00-53-21" style="--pulse-height:50%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 4 mentions" title="2026-04-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-american-financing-t-00-42-24" style="--pulse-height:62%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 5 mentions" title="2026-04-21 · 5 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-org-american-financing-t-02-18-29" style="--pulse-height:62%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 5 mentions" title="2026-04-22 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-american-financing-t-01-10-45" style="--pulse-height:38%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 3 mentions" title="2026-04-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-org-american-financing-t-00-39-14" style="--pulse-height:50%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 4 mentions" title="2026-04-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-american-financing-t-00-43-32" style="--pulse-height:50%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 4 mentions" title="2026-05-04 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-american-financing-t-00-55-32" style="--pulse-height:62%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 5 mentions" title="2026-05-05 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-american-financing-t-00-56-17" style="--pulse-height:62%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 5 mentions" title="2026-05-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-american-financing-t-00-38-49" style="--pulse-height:50%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 4 mentions" title="2026-05-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-american-financing-t-00-44-34" style="--pulse-height:50%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-american-financing-t-00-38-35" style="--pulse-height:50%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -189,6 +198,15 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-american-financing-t-00-46-40) | 4 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-american-financing-t-00-53-21) | 4 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-american-financing-t-00-42-24) | 5 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-american-financing-t-02-18-29) | 5 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-american-financing-t-01-10-45) | 3 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-org-american-financing-t-00-39-14) | 4 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-american-financing-t-00-43-32) | 4 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-american-financing-t-00-55-32) | 5 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-american-financing-t-00-56-17) | 5 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-american-financing-t-00-38-49) | 4 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-org-american-financing-t-00-44-34) | 4 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-org-american-financing-t-00-38-35) | 4 |
 
 </details>
 </section>
@@ -196,7 +214,166 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (298)</strong></summary>
+<summary><strong class="section-title">Raw mentions (336)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (4 mentions)</summary>
+
+**[00:44:47](/episodes/ep-4DvYXBn_5JI.md#ent-org-american-financing-t-00-44-34)**
+> "American financing"
+
+**[00:44:56](/episodes/ep-4DvYXBn_5JI.md#ent-org-american-financing-t-00-44-34)**
+> "... cycle of high interest debt. American financing has a way out though."
+
+**[00:45:07](/episodes/ep-4DvYXBn_5JI.md#ent-org-american-financing-t-00-44-34)**
+> "At American Financing, they specialize in building plans tailored speci..."
+
+**[00:45:25](/episodes/ep-4DvYXBn_5JI.md#ent-org-american-financing-t-00-45-16)**
+> "...ay two mortgage payments call american financing today at 800-795-1210 again that's 800-795-1210 o..."
+
+</details>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (4 mentions)</summary>
+
+**[00:38:35](/episodes/ep-7FS1tUeSfdE.md#ent-org-american-financing-t-00-38-35)**
+> "American Financing"
+
+**[00:38:48](/episodes/ep-7FS1tUeSfdE.md#ent-org-american-financing-t-00-38-35)**
+> "... cycle of high-interest debt. American Financing, though, has a way out. This isn't about shortcut..."
+
+**[00:38:54](/episodes/ep-7FS1tUeSfdE.md#ent-org-american-financing-t-00-38-35)**
+> "... and reclaim your budget. And American Financing specializes in building plans tailored specifical..."
+
+**[00:39:15](/episodes/ep-7FS1tUeSfdE.md#ent-org-american-financing-t-00-39-15)**
+> "...y two mortgage payments. Call American Financing today at 800-795-1210. Again, that's 800-795-1210..."
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (4 mentions)</summary>
+
+**[00:38:49](/episodes/ep-KpxIBWkNsSs.md#ent-org-american-financing-t-00-38-49)**
+> "American financing"
+
+**[00:38:59](/episodes/ep-KpxIBWkNsSs.md#ent-org-american-financing-t-00-38-49)**
+> "... cycle of high interest debt. American financing, however, has a way out."
+
+**[00:39:05](/episodes/ep-KpxIBWkNsSs.md#ent-org-american-financing-t-00-38-49)**
+> "...s and reclaim your budget. At American financing, they specialize in building plans tailored speci..."
+
+**[00:39:35](/episodes/ep-KpxIBWkNsSs.md#ent-org-american-financing-t-00-39-27)**
+> "Call American Financing today at 800-795-1210. Again, that's 800-795-1210..."
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (5 mentions)</summary>
+
+**[00:56:17](/episodes/ep-k1b1NDCrNFs.md#ent-org-american-financing-t-00-56-17)**
+> "... going to tell you guys about American financing because summertime expenses in 2026 are stacking ..."
+
+**[00:56:32](/episodes/ep-k1b1NDCrNFs.md#ent-org-american-financing-t-00-56-17)**
+> "... cycle of high interest debt. American financing, though, has a way out."
+
+**[00:56:42](/episodes/ep-k1b1NDCrNFs.md#ent-org-american-financing-t-00-56-17)**
+> "At American financing, they specialize in building plans tailored speci..."
+
+**[00:57:06](/episodes/ep-k1b1NDCrNFs.md#ent-org-american-financing-t-00-57-00)**
+> "American Financing, which is America's home for home loans, can help..."
+
+**[00:57:13](/episodes/ep-k1b1NDCrNFs.md#ent-org-american-financing-t-00-57-00)**
+> "... that's 800-795-1210 or visit AmericanFinancing.net slash Owens. AmericanFinancing.net slash Owen..."
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (5 mentions)</summary>
+
+**[00:56:00](/episodes/ep-eMtjzXkQrsU.md#ent-org-american-financing-t-00-55-32)**
+> "Also want to remind you guys about American financing because summertime expenses in 2026 are stacking up faster than ever, leaving Americans feeling like the only option is swiping their credit cards."
+
+**[00:56:09](/episodes/ep-eMtjzXkQrsU.md#ent-org-american-financing-t-00-55-32)**
+> "...cle of high interest debt and American financing fortunately has a way out of that debt."
+
+**[00:56:21](/episodes/ep-eMtjzXkQrsU.md#ent-org-american-financing-t-00-56-15)**
+> "At American financing, they specialize in building plans tailored speci..."
+
+**[00:56:46](/episodes/ep-eMtjzXkQrsU.md#ent-org-american-financing-t-00-56-15)**
+> "American Financing is America's home for home loans. So call America..."
+
+**[00:56:56](/episodes/ep-eMtjzXkQrsU.md#ent-org-american-financing-t-00-56-56)**
+> "Or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net sla..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (4 mentions)</summary>
+
+**[00:43:32](/episodes/ep-uC_GjKU8rs8.md#ent-org-american-financing-t-00-43-32)**
+> "...t. Also remind you guys about American Financing because summertime Time expenses in 2026 are stac..."
+
+**[00:43:51](/episodes/ep-uC_GjKU8rs8.md#ent-org-american-financing-t-00-43-32)**
+> "Well, American financing has a way out. This isn't about shortcuts. It's a..."
+
+**[00:44:16](/episodes/ep-uC_GjKU8rs8.md#ent-org-american-financing-t-00-44-16)**
+> "... delay two mortgage payments. American Financing is America's home for home loans."
+
+**[00:44:27](/episodes/ep-uC_GjKU8rs8.md#ent-org-american-financing-t-00-44-16)**
+> "So call American Financing today at 800-795-1210. Again, that's 800-795-1210..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (4 mentions)</summary>
+
+**[00:39:42](/episodes/ep-69A8TzAGHlU.md#ent-org-american-financing-t-00-39-14)**
+> "Late payments may negatively impact your credit score. Individual results may vary. I'll also remind you guys about American financing because the cost of living is not just high, it is exhausting."
+
+**[00:40:03](/episodes/ep-69A8TzAGHlU.md#ent-org-american-financing-t-00-39-58)**
+> "My friends at American financing have a better way. They're helping homeowners tap..."
+
+**[00:40:10](/episodes/ep-69A8TzAGHlU.md#ent-org-american-financing-t-00-39-58)**
+> "On average, American financing is saving their customers $800 a month. That's ne..."
+
+**[00:40:30](/episodes/ep-69A8TzAGHlU.md#ent-org-american-financing-t-00-40-30)**
+> "American financing is America's home for home loans. So call America..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (3 mentions)</summary>
+
+**[01:11:04](/episodes/ep-qZ8RWfyuewQ.md#ent-org-american-financing-t-01-10-45)**
+> "Also remind you guys about American financing because the cost of living is not just high, it i..."
+
+**[01:11:22](/episodes/ep-qZ8RWfyuewQ.md#ent-org-american-financing-t-01-11-22)**
+> "My friends at American Financing have a better way. They are helping homeowners ta..."
+
+**[01:11:50](/episodes/ep-qZ8RWfyuewQ.md#ent-org-american-financing-t-01-11-22)**
+> "American financing is America's home for home loans, so call America..."
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (5 mentions)</summary>
+
+**[02:18:59](/episodes/ep--9MOUvgGyi4.md#ent-org-american-financing-t-02-18-29)**
+> "I'll also remind you guys about American financing because the cost of living isn't just high, it's actually exhausting."
+
+**[02:19:18](/episodes/ep--9MOUvgGyi4.md#ent-org-american-financing-t-02-19-13)**
+> "My friends in American financing have a better way. They're helping homeowners tap..."
+
+**[02:19:24](/episodes/ep--9MOUvgGyi4.md#ent-org-american-financing-t-02-19-13)**
+> "...tly in the fives. On average, American financing is saving their customers $800 a month. That's ne..."
+
+**[02:19:46](/episodes/ep--9MOUvgGyi4.md#ent-org-american-financing-t-02-19-13)**
+> "American financing is America's home for home loans. So call America..."
+
+**[02:19:56](/episodes/ep--9MOUvgGyi4.md#ent-org-american-financing-t-02-19-56)**
+> "Or simply visit americanfinancing.net slash Owens, americanfinancing.net slash Owen..."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (5 mentions)</summary>
@@ -1459,7 +1636,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -1469,6 +1646,11 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:58:29](/episodes/ep-UYkXV9mYbT4.md#t-00-58-29): “There are no upfront fees to find out if you qualify, so call American Financing today at 800-795-1210.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:53:57](/episodes/ep-kaWtDuoY_ns.md#t-00-53-57): “My friends over at American Financing have a better way.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:43:05](/episodes/ep-xi8SYJTUXPM.md#t-00-43-05): “My friends at American Financing have a better way. They are helping homeowners tap into their equity to pay off high-interest debt.”
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 02:19:18](/episodes/ep--9MOUvgGyi4.md#t-02-19-13): “My friends in American financing have a better way. They're helping homeowners tap into their equity to pay off high interest debt with mortgage rates that are...”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:11:22](/episodes/ep-qZ8RWfyuewQ.md#t-01-11-22): “My friends at American Financing have a better way. They are helping homeowners tap into their equity. equity to pay off high interest debt with mortgage rates currently in the fives. On average, American financing is saving their customers $800 a month, which is nearly a $10,000 a year raise just back in your pocket.”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:43:51](/episodes/ep-uC_GjKU8rs8.md#t-00-43-32): “Well, American financing has a way out. This isn't about shortcuts. It's a real strategic plan to reset your finances and reclaim your budget. At American financing, they specialize in building plans tailored specifically for your goals.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:44:47](/episodes/ep-4DvYXBn_5JI.md#t-00-44-34): “Also remind you guys about American financing because summertime expenses in 2026 are stacking up faster than ever, leaving Americans feeling like the only option is swiping their credit card.”
+- [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:39:15](/episodes/ep-7FS1tUeSfdE.md#t-00-38-35): “Call American Financing today at 800-795-1210.”
 
 </details>
 
@@ -1478,7 +1660,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -1488,6 +1670,11 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:58:29](/episodes/ep-UYkXV9mYbT4.md#t-00-58-29): “There are no upfront fees to find out if you qualify, so call American Financing today at 800-795-1210.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:53:57](/episodes/ep-kaWtDuoY_ns.md#t-00-53-57): “My friends over at American Financing have a better way.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:43:05](/episodes/ep-xi8SYJTUXPM.md#t-00-43-05): “My friends at American Financing have a better way. They are helping homeowners tap into their equity to pay off high-interest debt.”
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 02:19:18](/episodes/ep--9MOUvgGyi4.md#t-02-19-13): “My friends in American financing have a better way. They're helping homeowners tap into their equity to pay off high interest debt with mortgage rates that are...”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:11:22](/episodes/ep-qZ8RWfyuewQ.md#t-01-11-22): “My friends at American Financing have a better way. They are helping homeowners tap into their equity. equity to pay off high interest debt with mortgage rates currently in the fives. On average, American financing is saving their customers $800 a month, which is nearly a $10,000 a year raise just back in your pocket.”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:43:51](/episodes/ep-uC_GjKU8rs8.md#t-00-43-32): “Well, American financing has a way out. This isn't about shortcuts. It's a real strategic plan to reset your finances and reclaim your budget. At American financing, they specialize in building plans tailored specifically for your goals.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:44:47](/episodes/ep-4DvYXBn_5JI.md#t-00-44-34): “Also remind you guys about American financing because summertime expenses in 2026 are stacking up faster than ever, leaving Americans feeling like the only option is swiping their credit card.”
+- [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:39:15](/episodes/ep-7FS1tUeSfdE.md#t-00-38-35): “Call American Financing today at 800-795-1210.”
 
 </details>
 

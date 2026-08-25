@@ -1,6 +1,6 @@
 ---
 title: "Antisemitism"
-description: "Antisemitism (Concepts) - 74 mentions"
+description: "Antisemitism (Concepts) - 88 mentions"
 id: "concept-antisemitism"
 type: "CONCEPT"
 aliases:
@@ -25,9 +25,9 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-antisemitism-t-00-00-00">2026-01-07 · 00:00:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-concept-antisemitism-t-00-53-48">2026-04-14 · 00:53:48</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>74</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-antisemitism-t-00-25-30">2026-05-07 · 00:25:45</a></strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>88</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -58,6 +58,11 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-antisemitism-t-00-36-00" style="--pulse-height:21%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 3 mentions" title="2026-03-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-antisemitism-t-00-18-22" style="--pulse-height:14%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-concept-antisemitism-t-00-53-48" style="--pulse-height:8%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-concept-antisemitism-t-00-12-47" style="--pulse-height:57%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 8 mentions" title="2026-04-30 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-antisemitism-t-00-07-54" style="--pulse-height:14%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-concept-antisemitism-t-00-16-15" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-concept-antisemitism-t-00-25-16" style="--pulse-height:8%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-antisemitism-t-00-25-30" style="--pulse-height:8%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -83,6 +88,11 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-concept-antisemitism-t-00-36-00) | 3 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-concept-antisemitism-t-00-18-22) | 2 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-concept-antisemitism-t-00-53-48) | 1 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-concept-antisemitism-t-00-12-47) | 8 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-concept-antisemitism-t-00-07-54) | 2 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-concept-antisemitism-t-00-16-15) | 1 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-concept-antisemitism-t-00-25-16) | 1 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-concept-antisemitism-t-00-25-30) | 1 |
 
 </details>
 </section>
@@ -90,7 +100,71 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (74)</strong></summary>
+<summary><strong class="section-title">Raw mentions (88)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>
+
+**[00:25:45](/episodes/ep-FFQ9675oqRI.md#ent-concept-antisemitism-t-00-25-30)**
+> "...change the definition of what anti-Semitism is to basically mean noticing what's happening, w..."
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>
+
+**[00:25:16](/episodes/ep-k1b1NDCrNFs.md#ent-concept-antisemitism-t-00-25-16)**
+> "...st three pages calling her an anti-Semite. What does this have to do with your claims?"
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1 mentions)</summary>
+
+**[00:16:22](/episodes/ep-eMtjzXkQrsU.md#ent-concept-antisemitism-t-00-16-15)**
+> "They're not going to be going to funerals and churches, but they are tasked with developing a strategic plan to combat anti-Semitism in the United States through the media."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (2 mentions)</summary>
+
+**[00:08:08](/episodes/ep-uC_GjKU8rs8.md#ent-concept-antisemitism-t-00-07-54)**
+> "... claim that Christ is king is anti-Semitic. People were going nuts."
+
+**[00:57:50](/episodes/ep-uC_GjKU8rs8.md#ent-concept-antisemitism-t-00-57-12)**
+> "... because I think he pled like antisemitism or something like that."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (8 mentions)</summary>
+
+**[00:12:47](/episodes/ep-69A8TzAGHlU.md#ent-concept-antisemitism-t-00-12-47)**
+> "...s that's mandatory candace is anti-semitic just even though Brian Harpole's not jewish i am ..."
+
+**[00:51:07](/episodes/ep-69A8TzAGHlU.md#ent-concept-antisemitism-t-00-50-59)**
+> "... Owens for, you got it, guys, anti-Semitism."
+
+**[00:51:22](/episodes/ep-69A8TzAGHlU.md#ent-concept-antisemitism-t-00-50-59)**
+> "...d bipartisan bill to denounce anti-Semitic hate filled rhetoric. Though far-left Piker says ..."
+
+**[00:51:32](/episodes/ep-69A8TzAGHlU.md#ent-concept-antisemitism-t-00-50-59)**
+> "...solution begins by condemning anti-Semitic hate filled rhetoric and content that is dissemin..."
+
+**[00:52:28](/episodes/ep-69A8TzAGHlU.md#ent-concept-antisemitism-t-00-52-28)**
+> "... a resolution uh she made the anti-semitic claim that the united states is controlled by sat..."
+
+**[00:55:10](/episodes/ep-69A8TzAGHlU.md#ent-concept-antisemitism-t-00-55-10)**
+> "...is Auschwitz Memorial podcast anti-Semitic? I don't know."
+
+**[00:56:38](/episodes/ep-69A8TzAGHlU.md#ent-concept-antisemitism-t-00-56-25)**
+> "...rstand the difference between anti-Semitism, normal commentary and debate."
+
+**[01:05:11](/episodes/ep-69A8TzAGHlU.md#ent-concept-antisemitism-t-01-04-53)**
+> "... tricks about racism, sexism, anti-Semitism, locking arms and realizing we actually don't hat..."
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1 mentions)</summary>

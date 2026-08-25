@@ -1,6 +1,6 @@
 ---
 title: "Pam Bondi"
-description: "Pam Bondi (People) - 18 mentions"
+description: "Pam Bondi (People) - 28 mentions"
 id: "person-pam-bondi"
 type: "PERSON"
 aliases:
@@ -22,28 +22,30 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-pam-bondi-t-00-34-12">2025-09-19 · 00:34:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-pam-bondi-t-00-45-32">2026-04-02 · 00:45:46</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
-<div><span>Statements by</span><strong>7</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-pam-bondi-t-00-38-53">2026-05-05 · 00:39:20</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
+<div><span>Statements by</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-Wjul6YV6izo.md#ent-person-pam-bondi-t-00-44-46">AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-pam-bondi-t-00-32-49">A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-pam-bondi-t-00-34-12" style="--pulse-height:75%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 3 mentions" title="2025-09-19 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-pam-bondi-t-00-33-32" style="--pulse-height:25%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-pam-bondi-t-00-46-55" style="--pulse-height:50%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-person-pam-bondi-t-00-22-23" style="--pulse-height:25%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-pam-bondi-t-00-44-46" style="--pulse-height:100%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 4 mentions" title="2026-01-30 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-pam-bondi-t-00-46-30" style="--pulse-height:25%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-pam-bondi-t-00-06-20" style="--pulse-height:25%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-pam-bondi-t-00-28-01" style="--pulse-height:25%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-pam-bondi-t-00-00-00" style="--pulse-height:100%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 4 mentions" title="2026-04-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-pam-bondi-t-00-34-12" style="--pulse-height:50%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 3 mentions" title="2025-09-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-pam-bondi-t-00-33-32" style="--pulse-height:17%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-pam-bondi-t-00-46-55" style="--pulse-height:33%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-pam-bondi-t-00-22-23" style="--pulse-height:17%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-pam-bondi-t-00-44-46" style="--pulse-height:67%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 4 mentions" title="2026-01-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-pam-bondi-t-00-46-30" style="--pulse-height:17%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-pam-bondi-t-00-06-20" style="--pulse-height:17%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-pam-bondi-t-00-28-01" style="--pulse-height:17%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-pam-bondi-t-00-00-00" style="--pulse-height:67%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 4 mentions" title="2026-04-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-pam-bondi-t-00-34-44" style="--pulse-height:67%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 4 mentions" title="2026-05-04 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-pam-bondi-t-00-32-49" style="--pulse-height:100%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 6 mentions" title="2026-05-05 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +60,8 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-pam-bondi-t-00-06-20) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-pam-bondi-t-00-28-01) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-pam-bondi-t-00-00-00) | 4 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-pam-bondi-t-00-34-44) | 4 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-pam-bondi-t-00-32-49) | 6 |
 
 </details>
 </section>
@@ -65,7 +69,47 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (6 mentions)</summary>
+
+**[00:32:49](/episodes/ep-eMtjzXkQrsU.md#ent-person-pam-bondi-t-00-32-49)**
+> "Hey, well, think again, because actually the first thing that Pam Bondi did on the very day that she was sworn into office as Trump's attorney general."
+
+**[00:33:40](/episodes/ep-eMtjzXkQrsU.md#ent-person-pam-bondi-t-00-33-29)**
+> "Thanks to Pam Bondi. Take a listen to Ian Carroll explain that on his..."
+
+**[00:34:05](/episodes/ep-eMtjzXkQrsU.md#ent-person-pam-bondi-t-00-33-46)**
+> "Pam Bondi, on her first day, disbands the Foreign Influence..."
+
+**[00:35:13](/episodes/ep-eMtjzXkQrsU.md#ent-person-pam-bondi-t-00-35-13)**
+> "...just like as an example, Pam (Pam Bondi)? With respect to FARA and 951, the Counterintell..."
+
+**[00:37:06](/episodes/ep-eMtjzXkQrsU.md#ent-person-pam-bondi-t-00-37-02)**
+> "February 5th, Pam Bondi is sworn in as attorney general. On the very same..."
+
+**[00:39:20](/episodes/ep-eMtjzXkQrsU.md#ent-person-pam-bondi-t-00-38-53)**
+> "because they could thanks to Pam Bondi."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (4 mentions)</summary>
+
+**[00:35:01](/episodes/ep-uC_GjKU8rs8.md#ent-person-pam-bondi-t-00-34-44)**
+> "...o the front runner to replace Pam Bondi for attorney general of the United States."
+
+**[00:35:19](/episodes/ep-uC_GjKU8rs8.md#ent-person-pam-bondi-t-00-34-44)**
+> "...little bit incestuous, right? Pam Bondi, just to be clear, had become to the American peo..."
+
+**[00:35:36](/episodes/ep-uC_GjKU8rs8.md#ent-person-pam-bondi-t-00-35-29)**
+> "What is your priority, Pam Bondi? Who are you protecting? Why does it feel like it..."
+
+**[00:42:29](/episodes/ep-uC_GjKU8rs8.md#ent-person-pam-bondi-t-00-42-16)**
+> "...xt attorney general following Pam Bondi. Yeah, we should understand what's actually going..."
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (4 mentions)</summary>
@@ -175,9 +219,10 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:47:48](/episodes/ep-Wjul6YV6izo.md#t-00-47-40): “Pam Bondi trying to grab headlines was equally as annoying and who also kind of needs a swirly, if we're being honest, ... Shut up, Pam Bondi. Just shut up.”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:35:19](/episodes/ep-uC_GjKU8rs8.md#t-00-34-44): “Why does this all feel a little bit incestuous, right? Pam Bondi, just to be clear, had become to the American people virtually synonymous with corruption for Israel, right?”
 
 </details>
 
@@ -223,9 +268,10 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 <summary>Referenced By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:47:48](/episodes/ep-Wjul6YV6izo.md#t-00-47-40): “Pam Bondi trying to grab headlines was equally as annoying and who also kind of needs a swirly, if we're being honest, ... Shut up, Pam Bondi. Just shut up.”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:35:19](/episodes/ep-uC_GjKU8rs8.md#t-00-34-44): “Why does this all feel a little bit incestuous, right? Pam Bondi, just to be clear, had become to the American people virtually synonymous with corruption for Israel, right?”
 
 </details>
 
@@ -255,7 +301,15 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Pam Bondi (7)</strong></summary>
+<summary><strong class="section-title">Statements by Pam Bondi (8)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1)</summary>
+
+- [00:34:43](/episodes/ep-eMtjzXkQrsU.md#t-00-34-27) [✓] (Citation) ["The Foreign Influence Task Force shall be disbanded, and FARA criminal charges s..."](/statements/statement-ca0af0a8f45c.md)
+  - About: [Foreign Influence Task Force](/entities/org-foreign-influence-task-force.md), [Foreign Agents Registration Act](/entities/law-fara.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md)
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (3)</summary>
@@ -290,7 +344,26 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pam Bondi (12)</strong></summary>
+<summary><strong class="section-title">Statements about Pam Bondi (15)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1)</summary>
+
+- [00:34:05](/episodes/ep-eMtjzXkQrsU.md#t-00-33-46) (Claim) **Ian Carroll** (via quoted speech): ["Pam Bondi disbanded the Foreign Influence Task Force on her first day,..."](/statements/statement-89479dcaa459.md)
+  - Also about: [Foreign Influence Task Force](/entities/org-foreign-influence-task-force.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md), [Foreign Agents Registration Act](/entities/law-fara.md)
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (2)</summary>
+
+- [00:34:50](/episodes/ep-uC_GjKU8rs8.md#t-00-34-44) (Claim) **Candace Owens**: ["Harmeet Dhillon transferred her stake in Dhillon Law Group to her brot..."](/statements/statement-b34b901e0e47.md)
+  - Also about: [Harmeet K. Dhillon](/entities/person-harmeet-dhillon.md), [Dhillon Law Group](/entities/org-dhillon-law-group.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md)
+
+- [00:35:29](/episodes/ep-uC_GjKU8rs8.md#t-00-35-29) (Accusation) **Candace Owens**: ["Pam Bondi lied to the public about the Epstein files."](/statements/statement-bb1cef74539f.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (5)</summary>

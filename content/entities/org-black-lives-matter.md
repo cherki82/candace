@@ -1,6 +1,6 @@
 ---
 title: "Black Lives Matter"
-description: "Black Lives Matter (Organizations) - 31 mentions"
+description: "Black Lives Matter (Organizations) - 32 mentions"
 id: "org-black-lives-matter"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-black-lives-matter-t-00-04-16">2025-09-11 · 00:04:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-org-black-lives-matter-t-00-44-44">2026-03-04 · 00:44:54</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-black-lives-matter-t-00-36-37">2026-04-29 · 00:36:37</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -50,6 +50,7 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-black-lives-matter-t-00-57-00" style="--pulse-height:43%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-black-lives-matter-t-00-20-50" style="--pulse-height:14%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-org-black-lives-matter-t-00-44-44" style="--pulse-height:14%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-black-lives-matter-t-00-36-37" style="--pulse-height:14%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -70,6 +71,7 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-black-lives-matter-t-00-57-00) | 3 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-black-lives-matter-t-00-20-50) | 1 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-black-lives-matter-t-00-44-44) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-black-lives-matter-t-00-36-37) | 1 |
 
 </details>
 </section>
@@ -77,7 +79,15 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[00:36:37](/episodes/ep-qZ8RWfyuewQ.md#ent-org-black-lives-matter-t-00-36-37)**
+> "...eir opinions for a while post BLM, George Floyd or this, the widow grift where they..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>

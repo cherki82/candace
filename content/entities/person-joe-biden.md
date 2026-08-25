@@ -1,6 +1,6 @@
 ---
 title: "Joe Biden"
-description: "Joe Biden (People) - 16 mentions"
+description: "Joe Biden (People) - 17 mentions"
 id: "person-joe-biden"
 type: "PERSON"
 aliases:
@@ -24,9 +24,9 @@ Source: [President Joseph R. Biden | Joseph R. Biden Jr. Presidential Library](h
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-joe-biden-t-00-16-13">2025-10-29 · 00:16:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-joe-biden-t-00-45-32">2026-04-10 · 00:45:40</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-69A8TzAGHlU.md#ent-person-joe-biden-t-01-07-34">2026-04-30 · 01:07:34</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -46,6 +46,7 @@ Source: [President Joseph R. Biden | Joseph R. Biden Jr. Presidential Library](h
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-joe-biden-t-01-04-01" style="--pulse-height:75%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 3 mentions" title="2026-03-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-joe-biden-t-00-50-56" style="--pulse-height:25%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-joe-biden-t-00-45-32" style="--pulse-height:25%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-joe-biden-t-01-07-34" style="--pulse-height:25%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +61,7 @@ Source: [President Joseph R. Biden | Joseph R. Biden Jr. Presidential Library](h
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-joe-biden-t-01-04-01) | 3 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-joe-biden-t-00-50-56) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-joe-biden-t-00-45-32) | 1 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-person-joe-biden-t-01-07-34) | 1 |
 
 </details>
 </section>
@@ -67,7 +69,15 @@ Source: [President Joseph R. Biden | Joseph R. Biden Jr. Presidential Library](h
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1 mentions)</summary>
+
+**[01:07:34](/episodes/ep-69A8TzAGHlU.md#ent-person-joe-biden-t-01-07-34)**
+> "holds a sympathetic view much more sympathetic than i do of what's going on with Erika Kirk um and he sort of correlates it to joe biden and just being insulated and people around you who just want to keep you where you are because it benefits them and they get enriched and everybody can see that it's not working and that you're incompetent and then eventually they're gonna have to admit that and yeah it was a really good monologue you should watch that also he is going to do a follow-up Obviously, you know, Baron is a lawyer."
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>

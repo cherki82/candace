@@ -1,6 +1,6 @@
 ---
 title: "Bible"
-description: "Bible (Works & Media) - 47 mentions"
+description: "Bible (Works & Media) - 50 mentions"
 id: "work-bible"
 type: "WORK"
 aliases:
@@ -22,9 +22,9 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-work-bible-t-00-54-48">2026-01-16 · 00:55:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DdPjoy5W-wY.md#ent-work-bible-t-00-08-35">2026-03-06 · 00:08:57</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>47</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-work-bible-t-00-49-26">2026-05-06 · 00:50:02</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>50</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -47,6 +47,8 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-work-bible-t-00-28-15" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 19 mentions" title="2026-03-02 · 19 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-work-bible-t-00-16-06" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-work-bible-t-00-04-27" style="--pulse-height:11%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-work-bible-t-00-58-23" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-work-bible-t-00-49-26" style="--pulse-height:11%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,6 +66,8 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-work-bible-t-00-28-15) | 19 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-work-bible-t-00-16-06) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-work-bible-t-00-04-27) | 2 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-work-bible-t-00-58-23) | 1 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-work-bible-t-00-49-26) | 2 |
 
 </details>
 </section>
@@ -71,7 +75,26 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+<summary><strong class="section-title">Raw mentions (50)</strong></summary>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (2 mentions)</summary>
+
+**[00:49:52](/episodes/ep-k1b1NDCrNFs.md#ent-work-bible-t-00-49-26)**
+> "...mer as he regularly brags via Bible study."
+
+**[00:50:02](/episodes/ep-k1b1NDCrNFs.md#ent-work-bible-t-00-49-26)**
+> "... don't take Armie Hammer as a Bible studying kind of guy. What kind of Bible were the..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[00:58:23](/episodes/ep-qZ8RWfyuewQ.md#ent-work-bible-t-00-58-23)**
+> "Nowhere in the Bible, nowhere in any religious tradition does it say i..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Crazy In Love | Episode 7 (2 mentions)</summary>

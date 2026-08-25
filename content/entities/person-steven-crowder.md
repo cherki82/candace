@@ -1,21 +1,29 @@
 ---
 title: "Steven Crowder"
-description: "Steven Crowder (People) - 8 mentions"
+description: "Steven Crowder (People) - 9 mentions"
 id: "person-steven-crowder"
 type: "PERSON"
 aliases:
   - "Crowder"
+categories:
+  - "political commentator"
 ---
 
 _Type: People_
 
 **Also known as:** Crowder
 
+**Categories:** political commentator
+
+**Entity verification:** verified
+> Rumble public announcement and the subject's official Louder with Crowder presence confirm the canonical spelling Steven Crowder; the transcript Stephen form is an ASR error.
+Source: [Steven Crowder Joins Rumble Exclusives](https://s3.amazonaws.com/b2icontent.irpass.cc/2730/rl116339.pdf)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-steven-crowder-t-00-04-16">2025-11-17 · 00:04:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-steven-crowder-t-00-57-30">2026-02-13 · 00:57:30</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-steven-crowder-t-00-51-31">2026-05-06 · 00:52:11</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -30,6 +38,7 @@ _Type: People_
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-steven-crowder-t-00-47-39" style="--pulse-height:67%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-steven-crowder-t-00-12-00" style="--pulse-height:33%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-steven-crowder-t-00-57-11" style="--pulse-height:67%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-steven-crowder-t-00-51-31" style="--pulse-height:33%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -39,6 +48,7 @@ _Type: People_
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-steven-crowder-t-00-47-39) | 2 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-steven-crowder-t-00-12-00) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-steven-crowder-t-00-57-11) | 2 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-steven-crowder-t-00-51-31) | 1 |
 
 </details>
 </section>
@@ -46,7 +56,15 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>
+
+**[00:52:11](/episodes/ep-k1b1NDCrNFs.md#ent-person-steven-crowder-t-00-51-31)**
+> "...rty when you went for Stephen Crowder either."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>

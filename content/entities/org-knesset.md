@@ -1,6 +1,6 @@
 ---
 title: "Knesset"
-description: "Knesset (Organizations) - 5 mentions"
+description: "Knesset (Organizations) - 6 mentions"
 id: "org-knesset"
 type: "ORG"
 aliases:
@@ -21,9 +21,9 @@ Source: [The Work of the Knesset](https://main.knesset.gov.il/EN/about/pages/kne
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-org-knesset-t-00-34-00">2026-01-12 · 00:34:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-knesset-t-00-10-22">2026-02-02 · 00:10:22</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-knesset-t-00-34-27">2026-05-05 · 00:34:27</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -37,6 +37,7 @@ Source: [The Work of the Knesset](https://main.knesset.gov.il/EN/about/pages/kne
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-knesset-t-00-34-00" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-knesset-t-01-05-39" style="--pulse-height:50%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-knesset-t-00-10-22" style="--pulse-height:50%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-knesset-t-00-34-27" style="--pulse-height:50%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [The Work of the Knesset](https://main.knesset.gov.il/EN/about/pages/kne
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-knesset-t-00-34-00) | 2 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-knesset-t-01-05-39) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-knesset-t-00-10-22) | 1 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-knesset-t-00-34-27) | 1 |
 
 </details>
 </section>
@@ -52,7 +54,15 @@ Source: [The Work of the Knesset](https://main.knesset.gov.il/EN/about/pages/kne
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1 mentions)</summary>
+
+**[00:34:27](/episodes/ep-eMtjzXkQrsU.md#ent-org-knesset-t-00-34-27)**
+> "This deliberate incapacitation of the enforcement mechanism gave a green light to foreign influence operatives, ensuring that the Knesset's 2018 plan to skirt FARA could proceed with minimal risk of prosecution, shifting resources in the National Security Division."
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "London"
-description: "London (Places) - 20 mentions"
+description: "London (Places) - 27 mentions"
 id: "gpe-london"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [London City Hall official website](https://www.london.gov.uk/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-london-t-00-08-46">2025-09-24 · 00:09:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-london-t-00-29-39">2026-04-13 · 00:29:55</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-gpe-london-t-00-45-58">2026-05-07 · 00:45:58</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>27</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -42,6 +42,11 @@ Source: [London City Hall official website](https://www.london.gov.uk/)
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-london-t-00-20-01" style="--pulse-height:25%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-london-t-01-04-05" style="--pulse-height:25%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-london-t-00-29-39" style="--pulse-height:25%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-london-t-01-21-01" style="--pulse-height:25%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-london-t-01-02-53" style="--pulse-height:50%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-gpe-london-t-00-41-46" style="--pulse-height:25%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-london-t-00-37-31" style="--pulse-height:25%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-gpe-london-t-00-28-22" style="--pulse-height:50%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 2 mentions" title="2026-05-07 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +63,11 @@ Source: [London City Hall official website](https://www.london.gov.uk/)
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-london-t-00-20-01) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-london-t-01-04-05) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-gpe-london-t-00-29-39) | 1 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-gpe-london-t-01-21-01) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-london-t-01-02-53) | 2 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-gpe-london-t-00-41-46) | 1 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-london-t-00-37-31) | 1 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-gpe-london-t-00-28-22) | 2 |
 
 </details>
 </section>
@@ -65,7 +75,53 @@ Source: [London City Hall official website](https://www.london.gov.uk/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (2 mentions)</summary>
+
+**[00:28:30](/episodes/ep-FFQ9675oqRI.md#ent-gpe-london-t-00-28-22)**
+> "...my husband when they lived in london at all they did not run the same circles uh also ..."
+
+**[00:45:58](/episodes/ep-FFQ9675oqRI.md#ent-gpe-london-t-00-45-58)**
+> "...gster merch we got to do some London going merch I gotta convince him he's just so pri..."
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>
+
+**[00:37:42](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-london-t-00-37-31)**
+> "...hem raise money. They went to London, him and the co-CEO or just the CEO at that time,..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1 mentions)</summary>
+
+**[00:42:17](/episodes/ep-69A8TzAGHlU.md#ent-gpe-london-t-00-41-46)**
+> "Okay, he is in London. So I might be able to get away with not chilling today a little bit. And I'm not chilling actually, because it was actually unacceptable yesterday."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (2 mentions)</summary>
+
+**[01:02:53](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-london-t-01-02-53)**
+> "...n met Milo at all not once in London until the day that I interviewed him here in this..."
+
+**[01:07:36](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-london-t-01-07-11)**
+> "...dinal. My priest flew in from London. So that was part of the reason why."
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (1 mentions)</summary>
+
+**[01:21:01](/episodes/ep--9MOUvgGyi4.md#ent-gpe-london-t-01-21-01)**
+> "why he was able to manipulate you and why he's so like well he's got mental health issues and first off knowing that this man is supposed to be your spiritual spiritual director like mine's obviously my priest in London I couldn't imagine my priest going on an Instagram live no matter what happens like you know if I leave the Catholic church and and I become the enemy of the Catholic church there is something that is so violating about"
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
@@ -188,5 +244,18 @@ Source: [London City Hall official website](https://www.london.gov.uk/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about London (1)</strong></summary>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1)</summary>
+
+- [01:07:36](/episodes/ep-qZ8RWfyuewQ.md#t-01-07-11) (Claim) **Candace Owens**: ["Candace Owens said she was confirmed in the Catholic Church in Rome us..."](/statements/statement-5a4c0d1909da.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Catholic Church](/entities/org-catholic-church.md), [Catholicism](/entities/concept-catholicism.md)
+
+</details>
 
 </details>

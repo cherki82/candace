@@ -1,6 +1,6 @@
 ---
 title: "Frank Turek"
-description: "Frank Turek (People) - 103 mentions"
+description: "Frank Turek (People) - 108 mentions"
 id: "person-frank-turek"
 type: "PERSON"
 aliases:
@@ -24,10 +24,10 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-frank-turek-t-00-54-23">2025-09-22 · 00:54:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-frank-turek-t-00-59-12">2026-03-31 · 00:59:12</a></strong></div>
-<div><span>Episodes</span><strong>30</strong></div>
-<div><span>Mentions</span><strong>103</strong></div>
-<div><span>Statements by</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-frank-turek-t-01-02-34">2026-05-06 · 01:02:56</a></strong></div>
+<div><span>Episodes</span><strong>32</strong></div>
+<div><span>Mentions</span><strong>108</strong></div>
+<div><span>Statements by</span><strong>21</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>22</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -67,6 +67,8 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-frank-turek-t-00-01-24" style="--pulse-height:27%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 4 mentions" title="2026-03-26 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-frank-turek-t-00-13-17" style="--pulse-height:20%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-frank-turek-t-00-59-12" style="--pulse-height:13%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-frank-turek-t-00-10-07" style="--pulse-height:20%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 3 mentions" title="2026-04-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-frank-turek-t-00-08-44" style="--pulse-height:13%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -102,6 +104,8 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-frank-turek-t-00-01-24) | 4 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-frank-turek-t-00-13-17) | 3 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-frank-turek-t-00-59-12) | 2 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-person-frank-turek-t-00-10-07) | 3 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-frank-turek-t-00-08-44) | 2 |
 
 </details>
 </section>
@@ -109,7 +113,32 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (103)</strong></summary>
+<summary><strong class="section-title">Raw mentions (108)</strong></summary>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (2 mentions)</summary>
+
+**[00:09:09](/episodes/ep-k1b1NDCrNFs.md#ent-person-frank-turek-t-00-08-44)**
+> "Erika (Erika Kirk) and Frank (Frank Turek) had to establish its existence. That is not the ..."
+
+**[01:02:56](/episodes/ep-k1b1NDCrNFs.md#ent-person-frank-turek-t-01-02-34)**
+> "... it's you know it's how to be frank an e-girl behaves and Jeremy (Jeremy Boreing) beh..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (3 mentions)</summary>
+
+**[00:10:17](/episodes/ep-69A8TzAGHlU.md#ent-person-frank-turek-t-00-10-07)**
+> "That's it. Now, regarding the drones, Brian Harpole's statement flew in direct contradiction to the statements that was given by Frank Turek."
+
+**[00:12:30](/episodes/ep-69A8TzAGHlU.md#ent-person-frank-turek-t-00-12-22)**
+> "...less you're going to go after Frank Turek."
+
+**[00:17:43](/episodes/ep-69A8TzAGHlU.md#ent-person-frank-turek-t-00-17-29)**
+> "...out hand signals you remember Frank Church doing hand signals it looks like Dan Flood..."
+
+</details>
 
 <details>
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (2 mentions)</summary>
@@ -799,7 +828,15 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Frank Turek (20)</strong></summary>
+<summary><strong class="section-title">Statements by Frank Turek (21)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1)</summary>
+
+- [00:11:01](/episodes/ep-69A8TzAGHlU.md#t-00-10-54) [◐] (Claim) ["Charlie Kirk's security team had drones in the air and texted him video of the c..."](/statements/statement-513bdaf22f00.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (2)</summary>

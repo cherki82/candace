@@ -1,25 +1,29 @@
 ---
 title: "Shawn Ryan"
-description: "Shawn Ryan (People) - 21 mentions"
+description: "Shawn Ryan (People) - 35 mentions"
 id: "person-shawn-ryan"
 type: "PERSON"
 aliases:
   - "Sean Ryan"
   - "Shawn"
+categories:
+  - "podcast host"
 ---
 
 _Type: People_
 
 **Also known as:** Sean Ryan, Shawn
 
+**Categories:** podcast host
+
 **Entity verification:** verified
 > Podcast host identified by the source clip and episode context.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-shawn-ryan-t-00-22-50">2025-11-05 · 00:23:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-shawn-ryan-t-00-59-20">2026-03-17 · 00:59:20</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-shawn-ryan-t-00-54-59">2026-05-11 · 00:55:22</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -28,19 +32,23 @@ _Type: People_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-sImMM04XdWY.md#ent-person-shawn-ryan-t-00-00-01">Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-69A8TzAGHlU.md#ent-person-shawn-ryan-t-00-14-51">BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-LATnak75Si0.md#ent-person-shawn-ryan-t-00-22-50" style="--pulse-height:60%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 3 mentions" title="2025-11-05 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-shawn-ryan-t-00-54-31" style="--pulse-height:40%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#t-00-24-10" style="--pulse-height:40%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-shawn-ryan-t-00-33-15" style="--pulse-height:20%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-person-shawn-ryan-t-00-00-01" style="--pulse-height:100%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 5 mentions" title="2025-11-20 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-his-JBjlkh8.md#ent-person-shawn-ryan-t-00-08-43" style="--pulse-height:20%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-shawn-ryan-t-00-40-54" style="--pulse-height:60%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 3 mentions" title="2025-12-17 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-shawn-ryan-t-00-00-57" style="--pulse-height:20%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-shawn-ryan-t-00-24-18" style="--pulse-height:20%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-shawn-ryan-t-00-09-30" style="--pulse-height:20%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-shawn-ryan-t-00-59-20" style="--pulse-height:20%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-shawn-ryan-t-00-22-50" style="--pulse-height:30%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 3 mentions" title="2025-11-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-shawn-ryan-t-00-54-31" style="--pulse-height:20%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#t-00-24-10" style="--pulse-height:20%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-shawn-ryan-t-00-33-15" style="--pulse-height:10%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-shawn-ryan-t-00-00-01" style="--pulse-height:50%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 5 mentions" title="2025-11-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-person-shawn-ryan-t-00-08-43" style="--pulse-height:10%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-shawn-ryan-t-00-40-54" style="--pulse-height:30%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 3 mentions" title="2025-12-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-shawn-ryan-t-00-00-57" style="--pulse-height:10%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-shawn-ryan-t-00-24-18" style="--pulse-height:10%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-shawn-ryan-t-00-09-30" style="--pulse-height:10%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-shawn-ryan-t-00-59-20" style="--pulse-height:10%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-shawn-ryan-t-00-14-51" style="--pulse-height:100%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 10 mentions" title="2026-04-30 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-shawn-ryan-t-00-08-03" style="--pulse-height:10%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-person-shawn-ryan-t-00-37-11" style="--pulse-height:10%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-shawn-ryan-t-00-54-59" style="--pulse-height:20%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +65,10 @@ _Type: People_
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-shawn-ryan-t-00-24-18) | 1 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-shawn-ryan-t-00-09-30) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-shawn-ryan-t-00-59-20) | 1 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-person-shawn-ryan-t-00-14-51) | 10 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-shawn-ryan-t-00-08-03) | 1 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-shawn-ryan-t-00-37-11) | 1 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-shawn-ryan-t-00-54-59) | 2 |
 
 </details>
 </section>
@@ -64,7 +76,69 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (2 mentions)</summary>
+
+**[00:49:32](/episodes/ep-KpxIBWkNsSs.md#ent-person-shawn-ryan-t-00-54-59)**
+> "Sean Ryan show"
+
+**[00:55:22](/episodes/ep-KpxIBWkNsSs.md#ent-person-shawn-ryan-t-00-54-59)**
+> "Why are you saying he went on Sean Ryan because of the grief that I put him through knowi..."
+
+</details>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>
+
+**[00:37:11](/episodes/ep-FFQ9675oqRI.md#ent-person-shawn-ryan-t-00-37-11)**
+> "... they really maybe he went on Sean Ryan. I do believe the story, by the way, that he went..."
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>
+
+**[00:08:03](/episodes/ep-k1b1NDCrNFs.md#ent-person-shawn-ryan-t-00-08-03)**
+> "...)'s disastrous interview with Sean Ryan. Here are just a random selection of his tweets."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (10 mentions)</summary>
+
+**[00:14:51](/episodes/ep-69A8TzAGHlU.md#ent-person-shawn-ryan-t-00-14-51)**
+> "I know I went on Sean Ryan, but I'm a private citizen. That's because he doesn't want to have to meet the actual malice standard, right?"
+
+**[00:15:29](/episodes/ep-69A8TzAGHlU.md#ent-person-shawn-ryan-t-00-14-51)**
+> "...op podcasts in the world, the Sean Ryan podcast, and he opened himself up."
+
+**[00:16:16](/episodes/ep-69A8TzAGHlU.md#ent-person-shawn-ryan-t-00-16-16)**
+> "...ld that the reason he went on Sean Ryan, this is crazy to me."
+
+**[00:16:23](/episodes/ep-69A8TzAGHlU.md#ent-person-shawn-ryan-t-00-16-16)**
+> "...ng that the reason he went on Sean Ryan was because of me."
+
+**[00:16:28](/episodes/ep-69A8TzAGHlU.md#ent-person-shawn-ryan-t-00-16-16)**
+> "...tion, Harpole appeared on the Sean Ryan show solely to respond to and to rebut the defama..."
+
+**[00:16:47](/episodes/ep-69A8TzAGHlU.md#ent-person-shawn-ryan-t-00-16-47)**
+> "...y show until after he went on Sean Ryan. Literally not once did I mention Brian Harpole's..."
+
+**[00:17:03](/episodes/ep-69A8TzAGHlU.md#ent-person-shawn-ryan-t-00-16-47)**
+> "...ame two days after he went on Sean Ryan and it was in direct response to his disastrous a..."
+
+**[00:19:10](/episodes/ep-69A8TzAGHlU.md#ent-person-shawn-ryan-t-00-18-57)**
+> "...aying you went on you went on Sean Ryan because of things that I was saying and that's wh..."
+
+**[00:25:15](/episodes/ep-69A8TzAGHlU.md#ent-person-shawn-ryan-t-00-24-52)**
+> "You also could have told Sean Ryan, you could have said, hey, Sean Ryan, I'm going t..."
+
+**[00:26:07](/episodes/ep-69A8TzAGHlU.md#ent-person-shawn-ryan-t-00-26-07)**
+> "...e that you were presenting on Sean Ryan were not between you and the UVU police chief lon..."
+
+</details>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>
@@ -193,11 +267,14 @@ _Type: People_
 <summary>Interviewed (2)</summary>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:09:02](/episodes/ep-his-JBjlkh8.md#t-00-08-43): “In a sit down with Sean Ryan, Brian Harpole said, 'It was because of the severity of the injury.'”
 - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:31:16](/episodes/ep-SKGUzGHymcI.md#t-00-31-12): “Yesterday we talked about Brian, the security guy who was not convincing at all... elsewhere in that interview with Brian Harpole, the security guy with Sean Ryan”
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:19:10](/episodes/ep-69A8TzAGHlU.md#t-00-18-57): “you're saying you went on you went on Sean Ryan because of things that I was saying and that's what I was saying Again, it was because of his behavior and what he said on Sean Ryan's show, which I found to be unconvincing, which is he's suing me for saying that that interview was unconvincing, which made me feel weird and take a second look.”
+- [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:08:03](/episodes/ep-k1b1NDCrNFs.md#t-00-08-03): “And yet, no, this Douglas Blake Bednarz character is not listed in this lawsuit. There's no action against him. Now, Baron is not exaggerating, by the way. The person he's referring to, full name Douglas Blake Bednarz, and he certainly did not mince words when he began positing theories about Brian Harpole after Brian (Brian Harpole)'s disastrous interview with Sean Ryan. Here are just a random selection of his tweets.”
+- [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:55:22](/episodes/ep-KpxIBWkNsSs.md#t-00-54-59): “Why are you saying he went on Sean Ryan because of the grief that I put him through knowing fully well that I never mentioned him on my show until post Sean Ryan?”
 
 </details>
 
@@ -215,10 +292,13 @@ _Type: People_
 <summary>Referenced By (2)</summary>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:09:02](/episodes/ep-his-JBjlkh8.md#t-00-08-43): “In a sit down with Sean Ryan, Brian Harpole said, 'It was because of the severity of the injury.'”
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:19:10](/episodes/ep-69A8TzAGHlU.md#t-00-18-57): “you're saying you went on you went on Sean Ryan because of things that I was saying and that's what I was saying Again, it was because of his behavior and what he said on Sean Ryan's show, which I found to be unconvincing, which is he's suing me for saying that that interview was unconvincing, which made me feel weird and take a second look.”
+- [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:08:03](/episodes/ep-k1b1NDCrNFs.md#t-00-08-03): “And yet, no, this Douglas Blake Bednarz character is not listed in this lawsuit. There's no action against him. Now, Baron is not exaggerating, by the way. The person he's referring to, full name Douglas Blake Bednarz, and he certainly did not mince words when he began positing theories about Brian Harpole after Brian (Brian Harpole)'s disastrous interview with Sean Ryan. Here are just a random selection of his tweets.”
+- [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:55:22](/episodes/ep-KpxIBWkNsSs.md#t-00-54-59): “Why are you saying he went on Sean Ryan because of the grief that I put him through knowing fully well that I never mentioned him on my show until post Sean Ryan?”
 
 </details>
 

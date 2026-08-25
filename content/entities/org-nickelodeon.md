@@ -1,6 +1,6 @@
 ---
 title: "Nickelodeon"
-description: "Nickelodeon (Organizations) - 2 mentions"
+description: "Nickelodeon (Organizations) - 3 mentions"
 id: "org-nickelodeon"
 type: "ORG"
 categories:
@@ -17,9 +17,9 @@ Source: [Nickelodeon official website](https://www.nick.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-nickelodeon-t-00-45-34">2026-01-06 · 00:45:39</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-nickelodeon-t-00-45-34">2026-01-06 · 00:45:49</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-nickelodeon-t-00-14-34">2026-05-04 · 00:14:56</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -31,12 +31,14 @@ Source: [Nickelodeon official website](https://www.nick.com/)
 <p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-nickelodeon-t-00-45-34">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-nickelodeon-t-00-45-34" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-nickelodeon-t-00-14-34" style="--pulse-height:50%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-nickelodeon-t-00-45-34) | 2 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-nickelodeon-t-00-14-34) | 1 |
 
 </details>
 </section>
@@ -44,7 +46,15 @@ Source: [Nickelodeon official website](https://www.nick.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
+
+**[00:14:56](/episodes/ep-uC_GjKU8rs8.md#ent-org-nickelodeon-t-00-14-34)**
+> "... standing on the couch like a Nickelodeon girl like making fun of me and it was weird and i..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (2 mentions)</summary>

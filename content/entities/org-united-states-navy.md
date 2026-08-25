@@ -1,6 +1,6 @@
 ---
 title: "United States Navy"
-description: "United States Navy (Organizations) - 21 mentions"
+description: "United States Navy (Organizations) - 22 mentions"
 id: "org-united-states-navy"
 type: "ORG"
 aliases:
@@ -25,12 +25,12 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#t-00-48-05">2025-09-22 · 00:48:35</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-01-45">2026-04-02 · 00:01:45</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-org-united-states-navy-t-00-34-00">2026-05-07 · 00:34:19</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -52,6 +52,7 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#t-00-04-59" style="--pulse-height:100%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#t-00-09-38" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-01-45" style="--pulse-height:50%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-org-united-states-navy-t-00-34-00" style="--pulse-height:50%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -71,6 +72,7 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#t-00-04-59) | 2 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#t-00-09-38) | 2 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-01-45) | 1 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-org-united-states-navy-t-00-34-00) | 1 |
 
 </details>
 </section>
@@ -78,7 +80,15 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>
+
+**[00:34:19](/episodes/ep-FFQ9675oqRI.md#ent-org-united-states-navy-t-00-34-00)**
+> "...on when working with the U.S. Navy to improve health of aging dolphins."
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
@@ -274,7 +284,7 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Bill Wood](/entities/person-bill-wood.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -301,6 +311,13 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): “"It's headquarters for the Army, the Navy, and the Air Force."”
+
+</details>
+
+- **[Stephanie Venn-Watson](/entities/person-stephanie-venn-watson.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 @ 00:34:19](/episodes/ep-FFQ9675oqRI.md#t-00-34-00): “C15 was originally studied by Dr. Stephanie Van Watson when working with the U.S. Navy to improve health of aging dolphins.”
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "United States Army Special Forces"
-description: "United States Army Special Forces (Organizations) - 1 mention"
+description: "United States Army Special Forces (Organizations) - 3 mentions"
 id: "org-us-army-special-forces"
 type: "ORG"
 aliases:
@@ -25,9 +25,9 @@ Source: [1st Special Forces Command (Airborne)](https://www.army.mil/1sfc)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-us-army-special-forces-t-00-06-25">2026-03-23 · 00:06:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-us-army-special-forces-t-00-06-25">2026-03-23 · 00:06:31</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-us-army-special-forces-t-00-51-13">2026-05-11 · 00:51:41</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,15 +36,17 @@ Source: [1st Special Forces Command (Airborne)](https://www.army.mil/1sfc)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-us-army-special-forces-t-00-06-25">EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-us-army-special-forces-t-00-48-33">Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-us-army-special-forces-t-00-06-25" style="--pulse-height:100%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-us-army-special-forces-t-00-06-25" style="--pulse-height:50%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-us-army-special-forces-t-00-48-33" style="--pulse-height:100%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-us-army-special-forces-t-00-06-25) | 1 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-us-army-special-forces-t-00-48-33) | 2 |
 
 </details>
 </section>
@@ -52,7 +54,18 @@ Source: [1st Special Forces Command (Airborne)](https://www.army.mil/1sfc)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (2 mentions)</summary>
+
+**[00:48:33](/episodes/ep-KpxIBWkNsSs.md#ent-org-us-army-special-forces-t-00-48-33)**
+> "the YouTuber Green Beret"
+
+**[00:51:41](/episodes/ep-KpxIBWkNsSs.md#ent-org-us-army-special-forces-t-00-51-13)**
+> "... have you on the show, fellow Green Beret, but they were saying that I made up that he they..."
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (1 mentions)</summary>

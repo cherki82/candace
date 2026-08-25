@@ -11,7 +11,11 @@ object: "org-active-skin-repair"
 
 ## [Candace Owens](/entities/person-candace-owens) endorsed [Active Skin Repair](/entities/org-active-skin-repair)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4)**
+
+- [01:18:56](/episodes/ep--9MOUvgGyi4#t-01-18-56): _So if you're looking for something gentle, effective, and family safe, I highly recommend keeping active skin repair in your home._
 
 **[EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg)**
 

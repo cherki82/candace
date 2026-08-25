@@ -11,7 +11,11 @@ object: "org-tax-network-usa"
 
 ## [Candace Owens](/entities/person-candace-owens) endorsed [Tax Network USA](/entities/org-tax-network-usa)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
+
+**[Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4)**
+
+- [01:19:46](/episodes/ep--9MOUvgGyi4#t-01-19-46): _Stop what you're doing and call Tax Network USA. With over 15 years in business, there hasn't been a tax case that they have not seen or resolved._
 
 **[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
 

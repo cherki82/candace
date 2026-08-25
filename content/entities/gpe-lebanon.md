@@ -1,6 +1,6 @@
 ---
 title: "Lebanon"
-description: "Lebanon (Places) - 12 mentions"
+description: "Lebanon (Places) - 14 mentions"
 id: "gpe-lebanon"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-lebanon-t-00-20-27">2026-01-20 · 00:20:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-lebanon-t-00-33-38">2026-04-14 · 00:33:45</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-lebanon-t-01-46-25">2026-04-22 · 01:46:38</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -43,6 +43,7 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-lebanon-t-00-40-36" style="--pulse-height:50%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-lebanon-t-00-35-54" style="--pulse-height:100%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-lebanon-t-00-33-38" style="--pulse-height:50%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-lebanon-t-01-43-55" style="--pulse-height:100%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 2 mentions" title="2026-04-22 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-lebanon-t-00-40-36) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-lebanon-t-00-35-54) | 2 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-lebanon-t-00-33-38) | 1 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-gpe-lebanon-t-01-43-55) | 2 |
 
 </details>
 </section>
@@ -63,7 +65,18 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (2 mentions)</summary>
+
+**[01:44:05](/episodes/ep--9MOUvgGyi4.md#ent-gpe-lebanon-t-01-43-55)**
+> "um Lebanon and Syria so I'm just at this point like there's too many too many red flags for me and I'm just staring at him and he's staring back and um he finally starts walking again after 15 or so seconds and he says you know that's why I'm not ever great"
+
+**[01:46:38](/episodes/ep--9MOUvgGyi4.md#ent-gpe-lebanon-t-01-46-25)**
+> "...or the operations and guys of lebanon and syria and that's you know our stare off and h..."
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1 mentions)</summary>

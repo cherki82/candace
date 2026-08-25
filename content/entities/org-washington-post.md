@@ -1,6 +1,6 @@
 ---
 title: "The Washington Post"
-description: "The Washington Post (Organizations) - 8 mentions"
+description: "The Washington Post (Organizations) - 10 mentions"
 id: "org-washington-post"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ Source: [About The Washington Post](https://www.washingtonpost.com/about-the-pos
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-washington-post-t-00-26-10">2026-01-07 · 00:26:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-org-washington-post-t-00-32-16">2026-04-01 · 00:32:25</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-washington-post-t-00-29-29">2026-04-29 · 00:29:29</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -40,6 +40,7 @@ Source: [About The Washington Post](https://www.washingtonpost.com/about-the-pos
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-washington-post-t-00-50-52" style="--pulse-height:33%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-washington-post-t-00-39-51" style="--pulse-height:67%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-washington-post-t-00-32-16" style="--pulse-height:33%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-washington-post-t-00-28-56" style="--pulse-height:67%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [About The Washington Post](https://www.washingtonpost.com/about-the-pos
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-washington-post-t-00-50-52) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-washington-post-t-00-39-51) | 2 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-washington-post-t-00-32-16) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-washington-post-t-00-28-56) | 2 |
 
 </details>
 </section>
@@ -57,7 +59,18 @@ Source: [About The Washington Post](https://www.washingtonpost.com/about-the-pos
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (2 mentions)</summary>
+
+**[00:29:09](/episodes/ep-qZ8RWfyuewQ.md#ent-org-washington-post-t-00-28-56)**
+> "...Here's the latest headline in the Washington Post. It reads video shows moment Secret Service offic..."
+
+**[00:29:29](/episodes/ep-qZ8RWfyuewQ.md#ent-org-washington-post-t-00-29-29)**
+> "...an investigative reporter for The Washington Post, wrote on his X that a Secret Service officer fir..."
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
@@ -113,7 +126,29 @@ Source: [About The Washington Post](https://www.washingtonpost.com/about-the-pos
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Employs (1)</summary>
+
+- **[Evan Hill](/entities/person-evan-hill.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:29:29](/episodes/ep-qZ8RWfyuewQ.md#t-00-29-29): “In addition to this, Evan Hill, who is an investigative reporter for The Washington Post, wrote on his X that a Secret Service officer fired four times at Nicole Allen and in the direction of other security personnel.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Evan Hill](/entities/person-evan-hill.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:29:29](/episodes/ep-qZ8RWfyuewQ.md#t-00-29-29): “In addition to this, Evan Hill, who is an investigative reporter for The Washington Post, wrote on his X that a Secret Service officer fired four times at Nicole Allen and in the direction of other security personnel.”
+
+</details>
+
+</details>
 
 </details>
 
@@ -140,7 +175,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The Washington Post (1)</strong></summary>
+<summary><strong class="section-title">Statements about The Washington Post (2)</strong></summary>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1)</summary>
+
+- [00:29:29](/episodes/ep-qZ8RWfyuewQ.md#t-00-29-29) (Claim) **Evan Hill** (via quoted article): ["Evan Hill reported that a Secret Service officer fired four times at C..."](/statements/statement-f8075a2d8555.md)
+  - Also about: [Cole Tomas Allen](/entities/person-cole-tomas-allen.md), [United States Secret Service](/entities/org-united-states-secret-service.md)
+
+</details>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>

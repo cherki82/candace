@@ -1,6 +1,6 @@
 ---
 title: "Alexis Wilkins"
-description: "Alexis Wilkins (People) - 10 mentions"
+description: "Alexis Wilkins (People) - 11 mentions"
 id: "person-alexis-wilkins"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Alexis Wilkins | Official Website](https://www.alexiswilkins.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-alexis-wilkins-t-00-38-29">2025-11-12 · 00:38:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-person-alexis-wilkins-t-00-54-30">2026-03-30 · 00:54:30</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-person-alexis-wilkins-t-00-27-40">2026-05-07 · 00:28:07</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>15</strong></div>
@@ -41,6 +41,7 @@ Source: [Alexis Wilkins | Official Website](https://www.alexiswilkins.com/)
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-alexis-wilkins-t-01-04-28" style="--pulse-height:25%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-alexis-wilkins-t-00-29-10" style="--pulse-height:100%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 4 mentions" title="2026-03-25 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-alexis-wilkins-t-00-54-30" style="--pulse-height:25%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-person-alexis-wilkins-t-00-27-40" style="--pulse-height:25%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [Alexis Wilkins | Official Website](https://www.alexiswilkins.com/)
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-alexis-wilkins-t-01-04-28) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-alexis-wilkins-t-00-29-10) | 4 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-alexis-wilkins-t-00-54-30) | 1 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-alexis-wilkins-t-00-27-40) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [Alexis Wilkins | Official Website](https://www.alexiswilkins.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>
+
+**[00:28:07](/episodes/ep-FFQ9675oqRI.md#ent-person-alexis-wilkins-t-00-27-40)**
+> "Anyway, I saw this recently: Alexis Wilkins—which, this was just funny—did that whole weird t..."
+
+</details>
 
 <details>
 <summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1 mentions)</summary>

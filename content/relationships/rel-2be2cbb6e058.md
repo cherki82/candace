@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [The Daily Wire](/entities/org-the-daily-wire) formerly employed [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (13 mentions)
+### Evidence (15 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -56,6 +56,14 @@ object: "person-candace-owens"
 **[Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM)**
 
 - [00:32:22](/episodes/ep-ja26iltROkM#t-00-32-22): _at the time I was at The Daily Wire...And then eventually—obviously—I lost my job_
+
+**[Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs)**
+
+- [00:32:22](/episodes/ep-k1b1NDCrNFs#t-00-32-22): _I was first made aware of the arrest and charges laid against him in an incident after wrecking his truck at three times the legal limit while carrying a loaded firearm, shortly after it happened, back when Candace still worked for me at The Daily Wire._
+
+**[Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8)**
+
+- [00:02:29](/episodes/ep-uC_GjKU8rs8#t-00-02-29): _My real stalker in life is Ben Shapiro, okay? Since the day that I was fired from the Daily Wire, he has not stopped trying to bankrupt my family._
 
 **[Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o)**
 

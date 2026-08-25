@@ -1,6 +1,6 @@
 ---
 title: "George Floyd"
-description: "George Floyd (People) - 13 mentions"
+description: "George Floyd (People) - 16 mentions"
 id: "person-george-floyd"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [George Floyd | Biography | Britannica](https://www.britannica.com/biogr
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-george-floyd-t-00-38-26">2025-09-19 · 00:38:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-george-floyd-t-00-43-41">2026-01-28 · 00:43:41</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-george-floyd-t-00-49-00">2026-05-04 · 00:49:00</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,9 @@ Source: [George Floyd | Biography | Britannica](https://www.britannica.com/biogr
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-george-floyd-t-00-38-52" style="--pulse-height:100%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 4 mentions" title="2025-12-12 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-george-floyd-t-00-51-23" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-george-floyd-t-00-43-41" style="--pulse-height:25%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-george-floyd-t-00-36-37" style="--pulse-height:25%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-george-floyd-t-00-56-25" style="--pulse-height:25%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-george-floyd-t-00-49-00" style="--pulse-height:25%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +51,9 @@ Source: [George Floyd | Biography | Britannica](https://www.britannica.com/biogr
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-george-floyd-t-00-38-52) | 4 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-george-floyd-t-00-51-23) | 2 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-george-floyd-t-00-43-41) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-george-floyd-t-00-36-37) | 1 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-person-george-floyd-t-00-56-25) | 1 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-george-floyd-t-00-49-00) | 1 |
 
 </details>
 </section>
@@ -55,7 +61,31 @@ Source: [George Floyd | Biography | Britannica](https://www.britannica.com/biogr
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
+
+**[00:49:00](/episodes/ep-uC_GjKU8rs8.md#ent-person-george-floyd-t-00-49-00)**
+> "...at is a woman when we did the George Floyd doc like people were interested in that sort of a..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1 mentions)</summary>
+
+**[00:56:25](/episodes/ep-69A8TzAGHlU.md#ent-person-george-floyd-t-00-56-25)**
+> "I want to be clear why this is important to you guys. And specifically, I want to speak to Jewish Americans because it is just so reminiscent of how they wanted to pass hate speech laws in the fog of George Floyd and they were using race and black people try to do this."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[00:36:37](/episodes/ep-qZ8RWfyuewQ.md#ent-person-george-floyd-t-00-36-37)**
+> "...pinions for a while post BLM, George Floyd or this, the widow grift where they're doing the ..."
+
+</details>
 
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>

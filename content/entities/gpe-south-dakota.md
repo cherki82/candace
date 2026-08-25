@@ -1,6 +1,6 @@
 ---
 title: "South Dakota"
-description: "South Dakota (Places) - 1 mention"
+description: "South Dakota (Places) - 5 mentions"
 id: "gpe-south-dakota"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [South Dakota Official State Homepage](https://sd.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#t-00-34-36">2026-03-26 · 00:35:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#t-00-34-36">2026-03-26 · 00:35:06</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-south-dakota-t-00-11-29">2026-05-13 · 00:12:10</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -28,15 +28,17 @@ Source: [South Dakota Official State Homepage](https://sd.gov/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-DEtFh2Ff-58.md#t-00-34-36">VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-south-dakota-t-00-11-29">September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-DEtFh2Ff-58.md#t-00-34-36" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#t-00-34-36" style="--pulse-height:25%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-south-dakota-t-00-11-29" style="--pulse-height:100%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#t-00-34-36) | 1 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-south-dakota-t-00-11-29) | 4 |
 
 </details>
 </section>
@@ -44,7 +46,24 @@ Source: [South Dakota Official State Homepage](https://sd.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (4 mentions)</summary>
+
+**[00:11:18](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-south-dakota-t-00-11-29)**
+> "South Dakota"
+
+**[00:11:29](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-south-dakota-t-00-11-29)**
+> "South Dakota is one of my Egyptian plane stops. It lands at 12..."
+
+**[00:11:39](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-south-dakota-t-00-11-29)**
+> "...nd then it lands into Pierre, South Dakota about 23 minutes after Charlie was shot. Okay, th..."
+
+**[00:12:10](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-south-dakota-t-00-11-29)**
+> "... it then went back to Pierre, South Dakota. Again, nothing there really were in the Dakotas ..."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>

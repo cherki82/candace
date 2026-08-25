@@ -1,6 +1,6 @@
 ---
 title: "Christianity"
-description: "Christianity (Concepts) - 182 mentions"
+description: "Christianity (Concepts) - 198 mentions"
 id: "concept-christianity"
 type: "CONCEPT"
 aliases:
@@ -23,8 +23,8 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-07-28">2026-01-07 · 00:04:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10">2026-08-14 · 02:57:10</a></strong></div>
-<div><span>Episodes</span><strong>40</strong></div>
-<div><span>Mentions</span><strong>182</strong></div>
+<div><span>Episodes</span><strong>47</strong></div>
+<div><span>Mentions</span><strong>198</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -74,6 +74,13 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-concept-christianity-t-00-50-26" style="--pulse-height:9%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-christianity-t-00-59-45" style="--pulse-height:8%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#t-00-00-00" style="--pulse-height:8%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-concept-christianity-t-01-26-59" style="--pulse-height:8%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 2 mentions" title="2026-04-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-christianity-t-01-08-37" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-concept-christianity-t-00-53-08" style="--pulse-height:9%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 3 mentions" title="2026-04-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-christianity-t-00-36-39" style="--pulse-height:14%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 5 mentions" title="2026-05-04 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-concept-christianity-t-00-07-33" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-christianity-t-00-02-38" style="--pulse-height:8%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-concept-christianity-t-00-18-39" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -119,6 +126,13 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-concept-christianity-t-00-50-26) | 3 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-concept-christianity-t-00-59-45) | 2 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#t-00-00-00) | 1 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-concept-christianity-t-01-26-59) | 2 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-christianity-t-01-08-37) | 2 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-concept-christianity-t-00-53-08) | 3 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-concept-christianity-t-00-36-39) | 5 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-concept-christianity-t-00-07-33) | 1 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-concept-christianity-t-00-02-38) | 1 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-concept-christianity-t-00-18-39) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10) | 1 |
 
 </details>
@@ -127,13 +141,96 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (182)</strong></summary>
+<summary><strong class="section-title">Raw mentions (198)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[02:57:10](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10)**
 > "lot of the actual. So I'm a Christian ethicist. and I then always"
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (2 mentions)</summary>
+
+**[00:19:02](/episodes/ep-KpxIBWkNsSs.md#ent-concept-christianity-t-00-18-39)**
+> "Christian leadership"
+
+**[00:18:55](/episodes/ep-KpxIBWkNsSs.md#ent-concept-christianity-t-00-18-39)**
+> "...ion that she received that in christian leadership from liberty university that is factua..."
+
+</details>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>
+
+**[00:02:38](/episodes/ep-FFQ9675oqRI.md#ent-concept-christianity-t-00-02-38)**
+> "...t they intend to execute upon Christian minds. It is thorough."
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1 mentions)</summary>
+
+**[00:07:54](/episodes/ep-eMtjzXkQrsU.md#ent-concept-christianity-t-00-07-33)**
+> "I think these people that are co-opting Christian language and the trappings of the Christian faith in order to produce what I think is a decidedly anti-Christian message, I don't think they answer to a human."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (5 mentions)</summary>
+
+**[00:37:02](/episodes/ep-uC_GjKU8rs8.md#ent-concept-christianity-t-00-36-39)**
+> "...spend up to $4.1 million on a Christian PR campaign in the West."
+
+**[00:37:26](/episodes/ep-uC_GjKU8rs8.md#ent-concept-christianity-t-00-37-13)**
+> "... bills as the, quote, largest Christian church geofencing campaign in U.S. history."
+
+**[00:37:42](/episodes/ep-uC_GjKU8rs8.md#ent-concept-christianity-t-00-37-13)**
+> "... Chad Schnitzger, a prominent Christian conservative activist in California."
+
+**[00:38:17](/episodes/ep-uC_GjKU8rs8.md#ent-concept-christianity-t-00-38-17)**
+> "...tually good thank you also to Christian colleges it says oh beware Christian college the ..."
+
+**[00:51:29](/episodes/ep-uC_GjKU8rs8.md#ent-concept-christianity-t-00-51-29)**
+> "...ikes the america make america christian again hat um we've done David (show merch collabo..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (3 mentions)</summary>
+
+**[00:52:59](/episodes/ep-69A8TzAGHlU.md#ent-concept-christianity-t-00-53-08)**
+> "That is not explicitly Jewish. In fact, I have been name-checking Christian Zionist pastor after Christian Zionist pastor."
+
+**[00:53:42](/episodes/ep-69A8TzAGHlU.md#ent-concept-christianity-t-00-53-08)**
+> "... claims that Jews are killing Christian children. Where did I say this?"
+
+**[00:53:50](/episodes/ep-69A8TzAGHlU.md#ent-concept-christianity-t-00-53-50)**
+> "...d I say that Jews are killing Christian children? Where did I say that? Nope, doesn't mat..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (2 mentions)</summary>
+
+**[01:08:37](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-christianity-t-01-08-37)**
+> "...een praying for me uh and the Christian Christians worldwide um that have kind of seen th..."
+
+**[01:09:02](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-christianity-t-01-08-37)**
+> "...on, even you guys who are not Christian yet or."
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (2 mentions)</summary>
+
+**[01:26:59](/episodes/ep--9MOUvgGyi4.md#ent-concept-christianity-t-01-26-59)**
+> "And so, and I'm particularly interested in, at this time, in the deceptive Christianity."
+
+**[01:27:10](/episodes/ep--9MOUvgGyi4.md#ent-concept-christianity-t-01-26-59)**
+> "...alse spiritual leaders in the Christian, quote-unquote, movement."
 
 </details>
 

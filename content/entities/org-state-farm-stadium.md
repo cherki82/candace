@@ -1,6 +1,6 @@
 ---
 title: "State Farm Stadium"
-description: "State Farm Stadium (Organizations) - 4 mentions"
+description: "State Farm Stadium (Organizations) - 5 mentions"
 id: "org-state-farm-stadium"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [About | State Farm Stadium](https://www.statefarmstadium.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-A39g5oqB_eM.md#ent-org-state-farm-stadium-t-00-09-18">2026-01-27 · 00:09:35</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-org-state-farm-stadium-t-00-04-56">2026-04-15 · 00:04:56</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-state-farm-stadium-t-00-40-13">2026-05-04 · 00:40:13</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -34,6 +34,7 @@ Source: [About | State Farm Stadium](https://www.statefarmstadium.com/about)
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-org-state-farm-stadium-t-00-09-18" style="--pulse-height:50%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#t-00-24-54" style="--pulse-height:100%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 2 mentions" title="2026-01-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-org-state-farm-stadium-t-00-04-56" style="--pulse-height:50%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-state-farm-stadium-t-00-40-13" style="--pulse-height:50%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +43,7 @@ Source: [About | State Farm Stadium](https://www.statefarmstadium.com/about)
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-org-state-farm-stadium-t-00-09-18) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#t-00-24-54) | 2 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-state-farm-stadium-t-00-04-56) | 1 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-state-farm-stadium-t-00-40-13) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [About | State Farm Stadium](https://www.statefarmstadium.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
+
+**[00:40:13](/episodes/ep-uC_GjKU8rs8.md#ent-org-state-farm-stadium-t-00-40-13)**
+> "...00 devices in the vicinity of State Farm Stadium in Glendale, Arizona."
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
@@ -88,7 +98,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about State Farm Stadium (4)</strong></summary>
+<summary><strong class="section-title">Statements about State Farm Stadium (5)</strong></summary>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1)</summary>
+
+- [00:40:13](/episodes/ep-uC_GjKU8rs8.md#t-00-40-13) (Claim) **Andrew Kolvet** (via quoted speech): ["Geotagging partners tracked more than 277,000 devices near State Farm ..."](/statements/statement-8e858dacd31d.md)
+  - Also about: [Glendale, Arizona](/entities/gpe-glendale-arizona.md)
+
+</details>
 
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (3)</summary>

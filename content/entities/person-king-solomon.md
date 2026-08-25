@@ -1,6 +1,6 @@
 ---
 title: "King Solomon"
-description: "King Solomon (People) - 11 mentions"
+description: "King Solomon (People) - 13 mentions"
 id: "person-king-solomon"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Encyclopædia Britannica: Solomon](https://en.wikisource.org/wiki/1911_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-king-solomon-t-00-08-46">2026-01-28 · 00:09:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-king-solomon-t-00-13-39">2026-03-09 · 00:13:39</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep--9MOUvgGyi4.md#ent-person-king-solomon-t-02-34-34">2026-04-22 · 02:34:34</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,6 +39,7 @@ Source: [Encyclopædia Britannica: Solomon](https://en.wikisource.org/wiki/1911_
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-king-solomon-t-00-35-55" style="--pulse-height:33%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-king-solomon-t-00-13-37" style="--pulse-height:17%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-king-solomon-t-00-11-29" style="--pulse-height:100%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 6 mentions" title="2026-03-09 · 6 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-person-king-solomon-t-02-34-08" style="--pulse-height:33%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 2 mentions" title="2026-04-22 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Encyclopædia Britannica: Solomon](https://en.wikisource.org/wiki/1911_
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-king-solomon-t-00-35-55) | 2 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-king-solomon-t-00-13-37) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-king-solomon-t-00-11-29) | 6 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-person-king-solomon-t-02-34-08) | 2 |
 
 </details>
 </section>
@@ -55,7 +57,18 @@ Source: [Encyclopædia Britannica: Solomon](https://en.wikisource.org/wiki/1911_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (2 mentions)</summary>
+
+**[02:34:13](/episodes/ep--9MOUvgGyi4.md#ent-person-king-solomon-t-02-34-08)**
+> "And, you know, when you look at what was read today, you combine it with the story of Solomon, which that's where this chapter, this set of verses is coming from."
+
+**[02:34:34](/episodes/ep--9MOUvgGyi4.md#ent-person-king-solomon-t-02-34-34)**
+> "...onry and their obsession with Solomon's temple, Solomon's ring. It's where the that is wh..."
+
+</details>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (6 mentions)</summary>

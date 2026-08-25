@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Bari Weiss](/entities/person-bari-weiss) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs)**
+
+- [00:25:00](/episodes/ep-KpxIBWkNsSs#t-00-25-00): _like that i would say Bari Weiss is a perfect example like we all know she's not qualified uh to be an executive at cbs they just don't care they're just there you go Bari Weiss and this Nick Shirley thing is one of the weirdest non-beefs that i've ever had so i'm going to back up here and say i do did not follow at all the quote-unquote rise of Nick Shirley he's 24 years old um it was if i recall like very quickly after the Charlie Kirk assassination assassination_
 
 **[EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ)**
 

@@ -1,6 +1,6 @@
 ---
 title: "New York Post"
-description: "New York Post (Organizations) - 16 mentions"
+description: "New York Post (Organizations) - 18 mentions"
 id: "org-new-york-post"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [New York Post](https://nypost.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-new-york-post-t-00-18-10">2025-09-17 · 00:18:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-org-new-york-post-t-00-34-55">2026-04-13 · 00:34:55</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-new-york-post-t-00-38-59">2026-05-06 · 00:39:26</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -41,6 +41,7 @@ Source: [New York Post](https://nypost.com/)
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-new-york-post-t-00-33-13" style="--pulse-height:25%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-new-york-post-t-00-46-06" style="--pulse-height:50%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-new-york-post-t-00-34-55" style="--pulse-height:25%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-new-york-post-t-00-38-59" style="--pulse-height:50%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [New York Post](https://nypost.com/)
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-org-new-york-post-t-00-33-13) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-new-york-post-t-00-46-06) | 2 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-new-york-post-t-00-34-55) | 1 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-new-york-post-t-00-38-59) | 2 |
 
 </details>
 </section>
@@ -63,7 +65,18 @@ Source: [New York Post](https://nypost.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (2 mentions)</summary>
+
+**[00:38:59](/episodes/ep-k1b1NDCrNFs.md#ent-org-new-york-post-t-00-38-59)**
+> "...t they were trying to get the New York Post to publish it. The Daily Wire had found a report ..."
+
+**[00:39:26](/episodes/ep-k1b1NDCrNFs.md#ent-org-new-york-post-t-00-38-59)**
+> "...t that he's referring to, the New York Post declined to publish. They then tried to go to low..."
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
@@ -214,7 +227,15 @@ Source: [New York Post](https://nypost.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about New York Post (8)</strong></summary>
+<summary><strong class="section-title">Statements about New York Post (9)</strong></summary>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1)</summary>
+
+- [00:38:59](/episodes/ep-k1b1NDCrNFs.md#t-00-38-59) (Accusation) **Candace Owens**: ["The Daily Wire found an incident report involving George Farmer in lat..."](/statements/statement-9b517bcdc86a.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [George Farmer](/entities/person-george-farmer.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1)</summary>

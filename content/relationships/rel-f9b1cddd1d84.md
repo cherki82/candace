@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) worked with [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (7 mentions)
+### Evidence (8 mentions)
 
 **[Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY)**
 
@@ -20,6 +20,10 @@ object: "person-charlie-kirk"
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
 - [00:52:09](/episodes/ep-2T39-oADLj0#t-00-52-09): _um so let me ask you this with uh charlie kirk because uh you're definitely one of the most outspoken people um when it comes to the charlie kirk investigation and what's going on there obviously you knew him personally you guys have worked together for many years um i'll kind of just turn it to you and you can just tell me because you've been looking at this for a while now it's almost two yeah it's over two months now um can you take us through_
+
+**[September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI)**
+
+- [00:08:25](/episodes/ep-4DvYXBn_5JI#t-00-08-25): _I think they just keep forgetting that I went on tour with Charlie for three years. That's uncommon._
 
 **[IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ)**
 

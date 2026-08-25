@@ -11,7 +11,7 @@ date: "2025-09-21"
 
 > Charlie Kirk's public memorial was held at State Farm Stadium.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296
 
@@ -36,3 +36,11 @@ date: "2025-09-21"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1549);return false;">▶️ Play</a>
 
 > During the memorial, for example, I literally did not sleep for over 48 hours.
+
+### 4. Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace E...
+
+**Episode:** [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md)
+**Timestamp:** [00:40:13](/episodes/ep-uC_GjKU8rs8.md#event-event-2025-09-21-charlie-kirks-public-memorial-was-held-a-t-00-40-13) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2413);return false;">▶️ Play</a>
+
+> they tracked over 277,000 devices in the vicinity of State Farm Stadium in Glendale, Arizona.

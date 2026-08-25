@@ -1,6 +1,6 @@
 ---
 title: "Nashville, Tennessee"
-description: "Nashville, Tennessee (Places) - 7 mentions"
+description: "Nashville, Tennessee (Places) - 11 mentions"
 id: "gpe-nashville-tennessee"
 type: "GPE"
 aliases:
@@ -24,25 +24,26 @@ Source: [Metropolitan Government of Nashville and Davidson County](https://www.n
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-nashville-tennessee-t-00-10-31">2026-01-20 · 00:10:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-nashville-tennessee-t-00-17-38">2026-04-15 · 00:17:55</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-nashville-tennessee-t-00-55-49">2026-05-04 · 00:56:19</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-nashville-tennessee-t-00-10-31">Candace x Baron Coleman LIVE!! | Candace Ep 293</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-nashville-tennessee-t-00-06-11">Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-nashville-tennessee-t-00-10-31" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-nashville-tennessee-t-00-42-54" style="--pulse-height:50%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-nashville-tennessee-t-00-23-32" style="--pulse-height:50%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-nashville-tennessee-t-00-38-59" style="--pulse-height:50%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-nashville-tennessee-t-00-57-30" style="--pulse-height:50%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-nashville-tennessee-t-00-17-38" style="--pulse-height:50%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-nashville-tennessee-t-00-10-31" style="--pulse-height:50%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-nashville-tennessee-t-00-42-54" style="--pulse-height:25%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-nashville-tennessee-t-00-23-32" style="--pulse-height:25%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-nashville-tennessee-t-00-38-59" style="--pulse-height:25%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-nashville-tennessee-t-00-57-30" style="--pulse-height:25%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-nashville-tennessee-t-00-17-38" style="--pulse-height:25%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-nashville-tennessee-t-00-06-11" style="--pulse-height:100%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 4 mentions" title="2026-05-04 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [Metropolitan Government of Nashville and Davidson County](https://www.n
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-nashville-tennessee-t-00-38-59) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-nashville-tennessee-t-00-57-30) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-nashville-tennessee-t-00-17-38) | 1 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-nashville-tennessee-t-00-06-11) | 4 |
 
 </details>
 </section>
@@ -61,7 +63,24 @@ Source: [Metropolitan Government of Nashville and Davidson County](https://www.n
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (4 mentions)</summary>
+
+**[00:06:18](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-nashville-tennessee-t-00-06-11)**
+> "...e largely concentrated at our Nashville production office as the company has invested in ..."
+
+**[00:10:27](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-nashville-tennessee-t-00-10-05)**
+> "...ly Wire Plus subscriptions, a Nashville studio operation, Bentkey Kids streaming an e-com..."
+
+**[00:21:19](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-nashville-tennessee-t-00-21-06)**
+> "...oved their entire families to Nashville to support his company and now find themselves wi..."
+
+**[00:56:19](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-nashville-tennessee-t-00-55-49)**
+> "...? He is, I've heard moving to Nashville, by the way."
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
@@ -124,7 +143,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Nashville, Tennessee (1)</strong></summary>
+<summary><strong class="section-title">Statements about Nashville, Tennessee (2)</strong></summary>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1)</summary>
+
+- [00:06:00](/episodes/ep-uC_GjKU8rs8.md#t-00-05-28) (Claim) **The Daily Wire** (via quoted article): ["The Daily Wire said it restructured the organization, laid off teams m..."](/statements/statement-d79fc316c7ac.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1)</summary>

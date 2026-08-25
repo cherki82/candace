@@ -1,6 +1,6 @@
 ---
 title: "Tyler Robinson"
-description: "Tyler Robinson (People) - 511 mentions"
+description: "Tyler Robinson (People) - 521 mentions"
 id: "person-tyler-robinson"
 type: "PERSON"
 aliases:
@@ -24,10 +24,10 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tyler-robinson-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-04-01-26">2026-08-14 · 04:01:26</a></strong></div>
-<div><span>Episodes</span><strong>63</strong></div>
-<div><span>Mentions</span><strong>511</strong></div>
+<div><span>Episodes</span><strong>69</strong></div>
+<div><span>Mentions</span><strong>521</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>230</strong></div>
+<div><span>Statements about</span><strong>232</strong></div>
 <div><span>Relationships</span><strong>21</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -98,6 +98,12 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-tyler-robinson-t-00-41-31" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-00-31" style="--pulse-height:30%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 31 mentions" title="2026-04-20 · 31 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-tyler-robinson-t-00-08-35" style="--pulse-height:9%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 9 mentions" title="2026-04-21 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-tyler-robinson-t-01-04-22" style="--pulse-height:8%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-tyler-robinson-t-00-57-56" style="--pulse-height:8%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-tyler-robinson-t-01-06-05" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-person-tyler-robinson-t-00-26-15" style="--pulse-height:8%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 2 mentions" title="2026-05-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-tyler-robinson-t-00-56-24" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-tyler-robinson-t-00-45-57" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-00-24-41" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 103 mentions" title="2026-08-14 · 103 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -166,6 +172,12 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-tyler-robinson-t-00-41-31) | 3 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-tyler-robinson-t-00-00-31) | 31 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-tyler-robinson-t-00-08-35) | 9 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-person-tyler-robinson-t-01-04-22) | 1 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-tyler-robinson-t-00-57-56) | 2 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-tyler-robinson-t-01-06-05) | 2 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-tyler-robinson-t-00-26-15) | 2 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-tyler-robinson-t-00-56-24) | 2 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-tyler-robinson-t-00-45-57) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-00-24-41) | 103 |
 
 </details>
@@ -174,7 +186,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (511)</strong></summary>
+<summary><strong class="section-title">Raw mentions (521)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (103 mentions)</summary>
@@ -487,6 +499,66 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 **[04:01:26](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-04-01-26)**
 > "...more people involved and that Tyler Robinson has been set up and that none of the evidence tha..."
+
+</details>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1 mentions)</summary>
+
+**[00:45:57](/episodes/ep-4DvYXBn_5JI.md#ent-person-tyler-robinson-t-00-45-57)**
+> "Tyler Robinson text"
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (2 mentions)</summary>
+
+**[00:56:24](/episodes/ep-KpxIBWkNsSs.md#ent-person-tyler-robinson-t-00-56-24)**
+> "Tyler Robinson contracted the hantavirus"
+
+**[00:56:35](/episodes/ep-KpxIBWkNsSs.md#ent-person-tyler-robinson-t-00-56-24)**
+> "...k that nothing can happen to. Tyler Robinson if like if that happens it's gonna be"
+
+</details>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (2 mentions)</summary>
+
+**[00:26:22](/episodes/ep-FFQ9675oqRI.md#ent-person-tyler-robinson-t-00-26-15)**
+> "...ying to convince us that this Tyler Robinson story makes sense. It simply doesn't. I'm sorry."
+
+**[00:26:34](/episodes/ep-FFQ9675oqRI.md#ent-person-tyler-robinson-t-00-26-15)**
+> "... Candace Owens trying to free Tyler Robinson. If we're trying to get you to tell us a narrativ..."
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (2 mentions)</summary>
+
+**[01:06:37](/episodes/ep-eMtjzXkQrsU.md#ent-person-tyler-robinson-t-01-06-05)**
+> "I'm glad you forgive Tyler Robinson. You know, I could probably get to forgiving Tyler Robinson, too, because I don't think he did it."
+
+**[00:21:14](/episodes/ep-eMtjzXkQrsU.md#ent-person-tyler-robinson-t-00-21-14)**
+> "...l did it megan kelly was like tyler robinson on a rooftop this looks plausible to me we don't ..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (2 mentions)</summary>
+
+**[00:58:02](/episodes/ep-uC_GjKU8rs8.md#ent-person-tyler-robinson-t-00-57-56)**
+> "...because we all know it wasn't tyler robinson alone on a rooftop okay that is not how the clue ..."
+
+**[00:00:20](/episodes/ep-uC_GjKU8rs8.md#ent-person-tyler-robinson-t-00-57-56)**
+> "... having hit a man named Tracy Robinson."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1 mentions)</summary>
+
+**[01:04:44](/episodes/ep-69A8TzAGHlU.md#ent-person-tyler-robinson-t-01-04-22)**
+> "referring to Tyler Robinson. We to them are the storied barbarians at the gate. How do we control this?"
 
 </details>
 
@@ -2266,7 +2338,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Robinson (230)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Robinson (232)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (22)</summary>
@@ -2333,6 +2405,22 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 - [04:01:26](/episodes/ep-nPhCKwJ6ye8.md#t-04-01-26) (Accusation) **Candace Owens**: ["Candace Owens still believes there is more evidence that multiple peop..."](/statements/statement-4735330c37c9.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1)</summary>
+
+- [01:06:37](/episodes/ep-eMtjzXkQrsU.md#t-01-06-05) (Opinion) **Candace Owens**: ["Tyler Robinson did not kill Charlie Kirk."](/statements/statement-222634d0043a.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1)</summary>
+
+- [00:58:02](/episodes/ep-uC_GjKU8rs8.md#t-00-57-56) (Accusation) **Candace Owens**: ["Tyler Robinson was not alone on a rooftop in the murder of Charlie Kir..."](/statements/statement-82bf3a6aac6c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

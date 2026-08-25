@@ -1,6 +1,6 @@
 ---
 title: "Mitch Snow"
-description: "Mitch Snow (People) - 55 mentions"
+description: "Mitch Snow (People) - 99 mentions"
 id: "person-mitch-snow"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-mitch-snow-t-00-35-09">2026-01-05 · 00:35:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-mitch-snow-t-00-01-45">2026-04-02 · 00:01:45</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>55</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-mitch-snow-t-00-40-37">2026-05-13 · 00:41:04</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>99</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -51,6 +51,10 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-mitch-snow-t-00-00-01" style="--pulse-height:11%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-mitch-snow-t-00-09-38" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-mitch-snow-t-00-01-45" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-mitch-snow-t-00-19-35" style="--pulse-height:89%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 17 mentions" title="2026-04-30 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-mitch-snow-t-00-03-01" style="--pulse-height:58%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 11 mentions" title="2026-05-06 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-mitch-snow-t-00-46-01" style="--pulse-height:74%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 14 mentions" title="2026-05-11 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-mitch-snow-t-00-40-37" style="--pulse-height:11%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -70,6 +74,10 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-mitch-snow-t-00-00-01) | 2 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-mitch-snow-t-00-09-38) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-mitch-snow-t-00-01-45) | 1 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-person-mitch-snow-t-00-19-35) | 17 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-mitch-snow-t-00-03-01) | 11 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-mitch-snow-t-00-46-01) | 14 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-mitch-snow-t-00-40-37) | 2 |
 
 </details>
 </section>
@@ -77,7 +85,159 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+<summary><strong class="section-title">Raw mentions (99)</strong></summary>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (2 mentions)</summary>
+
+**[00:41:04](/episodes/ep-7FS1tUeSfdE.md#ent-person-mitch-snow-t-00-40-37)**
+> "Mitch (Mitch Snow)"
+
+**[00:40:37](/episodes/ep-7FS1tUeSfdE.md#ent-person-mitch-snow-t-00-40-37)**
+> "... we did find him the one that mitch snow got questioned by when you guys were sending out ..."
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (14 mentions)</summary>
+
+**[00:46:01](/episodes/ep-KpxIBWkNsSs.md#ent-person-mitch-snow-t-00-46-01)**
+> "Mitch (Mitch Snow)'s friend"
+
+**[00:47:07](/episodes/ep-KpxIBWkNsSs.md#ent-person-mitch-snow-t-00-47-07)**
+> "...fore my interview with Mitch (Mitch Snow) so I basically first told Mitch (Mitch Snow)'s s..."
+
+**[00:47:33](/episodes/ep-KpxIBWkNsSs.md#ent-person-mitch-snow-t-00-47-07)**
+> "...he knew that if we got Mitch (Mitch Snow) onto the show, he was going to tell the other pa..."
+
+**[00:48:26](/episodes/ep-KpxIBWkNsSs.md#ent-person-mitch-snow-t-00-47-51)**
+> "...I'm going to interview Mitch (Mitch Snow) next."
+
+**[00:48:33](/episodes/ep-KpxIBWkNsSs.md#ent-person-mitch-snow-t-00-48-33)**
+> "... don't don't interview Mitch (Mitch Snow)."
+
+**[00:48:44](/episodes/ep-KpxIBWkNsSs.md#ent-person-mitch-snow-t-00-48-33)**
+> "... I wanted to interview Mitch (Mitch Snow), as I said, or else he's going to sue."
+
+**[00:48:49](/episodes/ep-KpxIBWkNsSs.md#ent-person-mitch-snow-t-00-48-33)**
+> "...efore I even interview Mitch (Mitch Snow). And I'm like, dude, what's up?"
+
+**[00:48:52](/episodes/ep-KpxIBWkNsSs.md#ent-person-mitch-snow-t-00-48-33)**
+> "...'m gonna have this guy Mitch (Mitch Snow) on but like we could I could also like if you wa..."
+
+**[00:49:18](/episodes/ep-KpxIBWkNsSs.md#ent-person-mitch-snow-t-00-49-18)**
+> "Mitch (Mitch Snow) on my show then they scheduled it during the blo..."
+
+**[00:49:56](/episodes/ep-KpxIBWkNsSs.md#ent-person-mitch-snow-t-00-49-18)**
+> "...r the time period that Mitch (Mitch Snow) said he saw him."
+
+**[00:51:03](/episodes/ep-KpxIBWkNsSs.md#ent-person-mitch-snow-t-00-50-30)**
+> "... for him and I allowed Mitch (Mitch Snow) to tell a story and he said that he saw Erika (E..."
+
+**[00:51:13](/episodes/ep-KpxIBWkNsSs.md#ent-person-mitch-snow-t-00-51-13)**
+> "...bury her in everything Mitch (Mitch Snow) has done in his past i'm talking to his ex-wife ..."
+
+**[00:54:20](/episodes/ep-KpxIBWkNsSs.md#ent-person-mitch-snow-t-00-54-20)**
+> "...ed enough to know that Mitch (Mitch Snow) was there. He had the videos. I had his hotel re..."
+
+**[00:54:43](/episodes/ep-KpxIBWkNsSs.md#ent-person-mitch-snow-t-00-54-20)**
+> "...0, 70. Like, I believe Mitch (Mitch Snow) was there, but like he could just have a weird m..."
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (11 mentions)</summary>
+
+**[00:03:09](/episodes/ep-k1b1NDCrNFs.md#ent-person-mitch-snow-t-00-03-01)**
+> "...time against featuring Mitch (Mitch Snow) on my show. I was going to have this show with M..."
+
+**[00:03:24](/episodes/ep-k1b1NDCrNFs.md#ent-person-mitch-snow-t-00-03-01)**
+> "...rst and foremost, that Mitch (Mitch Snow) was never at Fort Huachuca, that he was."
+
+**[00:13:39](/episodes/ep-k1b1NDCrNFs.md#ent-person-mitch-snow-t-00-13-39)**
+> "...eatening me To not ask Mitch (Mitch Snow) anything, don't interview Mitch (Mitch Snow), do..."
+
+**[00:14:38](/episodes/ep-k1b1NDCrNFs.md#ent-person-mitch-snow-t-00-14-18)**
+> "Mitch (Mitch Snow) wasn't even in the military. He's a fraud. I spo..."
+
+**[00:16:11](/episodes/ep-k1b1NDCrNFs.md#ent-person-mitch-snow-t-00-15-37)**
+> "...g me before I spoke to Mitch (Mitch Snow). They were saying, you go through with this and ..."
+
+**[00:16:30](/episodes/ep-k1b1NDCrNFs.md#ent-person-mitch-snow-t-00-16-20)**
+> "...to us and not speak to Mitch (Mitch Snow) anymore."
+
+**[00:17:46](/episodes/ep-k1b1NDCrNFs.md#ent-person-mitch-snow-t-00-17-46)**
+> "...I'd be happy to debunk Mitch (Mitch Snow) if he perhaps is misremembering the faces he saw..."
+
+**[00:17:54](/episodes/ep-k1b1NDCrNFs.md#ent-person-mitch-snow-t-00-17-46)**
+> "...hing other than debunk Mitch (Mitch Snow) so that I can pivot and refocus the investigatio..."
+
+**[00:20:40](/episodes/ep-k1b1NDCrNFs.md#ent-person-mitch-snow-t-00-20-32)**
+> "Mitch Snow is very certain he saw Brian Harpole departing a ..."
+
+**[00:22:37](/episodes/ep-k1b1NDCrNFs.md#ent-person-mitch-snow-t-00-22-11)**
+> "...amas. We're pulling up Mitch (Mitch Snow)'s entire life."
+
+**[00:24:21](/episodes/ep-k1b1NDCrNFs.md#ent-person-mitch-snow-t-00-23-55)**
+> "..., before I even hosted Mitch (Mitch Snow), plotting to trap me in a defamation lawsuit."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (17 mentions)</summary>
+
+**[00:19:52](/episodes/ep-69A8TzAGHlU.md#ent-person-mitch-snow-t-00-19-35)**
+> "And that's specifically because a large chunk of his claims are pertaining to Mitch Snow, who he is also suing, by the way, and what is not helpful to his claims."
+
+**[00:20:03](/episodes/ep-69A8TzAGHlU.md#ent-person-mitch-snow-t-00-19-35)**
+> "To sue me and Mitch Snow is the fact that I reached out to Brian Harpole p..."
+
+**[00:20:32](/episodes/ep-69A8TzAGHlU.md#ent-person-mitch-snow-t-00-20-16)**
+> "... I was intending to interview Mitch Snow and then craziness started, right?"
+
+**[00:20:41](/episodes/ep-69A8TzAGHlU.md#ent-person-mitch-snow-t-00-20-41)**
+> "...nd the scenes not to speak to Mitch Snow. They knew I wanted to interview him and someone ..."
+
+**[00:21:04](/episodes/ep-69A8TzAGHlU.md#ent-person-mitch-snow-t-00-20-41)**
+> "...you actually interview Mitch (Mitch Snow)."
+
+**[00:21:32](/episodes/ep-69A8TzAGHlU.md#ent-person-mitch-snow-t-00-21-26)**
+> "...d out to him before we hosted Mitch Snow to get his fuller story and to say, hey, you're w..."
+
+**[00:21:41](/episodes/ep-69A8TzAGHlU.md#ent-person-mitch-snow-t-00-21-26)**
+> "...two days before i interviewed mitch snow through to january you trying to get him to just ..."
+
+**[00:22:46](/episodes/ep-69A8TzAGHlU.md#ent-person-mitch-snow-t-00-22-08)**
+> "...uld be happy to debunk Mitch (Mitch Snow) if he perhaps is misremembering the faces that h..."
+
+**[00:23:18](/episodes/ep-69A8TzAGHlU.md#ent-person-mitch-snow-t-00-22-51)**
+> "...hing other than debunk Mitch (Mitch Snow) so I can pivot and refocus the investigation, bu..."
+
+**[00:25:04](/episodes/ep-69A8TzAGHlU.md#ent-person-mitch-snow-t-00-24-52)**
+> "...onding before I hosted Mitch (Mitch Snow), it didn't allow me, didn't stop me from hosting..."
+
+**[00:28:53](/episodes/ep-69A8TzAGHlU.md#ent-person-mitch-snow-t-00-28-30)**
+> "...er again that that snow, that Mitch Snow was telling the truth about Harpole when in fact,..."
+
+**[00:29:07](/episodes/ep-69A8TzAGHlU.md#ent-person-mitch-snow-t-00-29-07)**
+> "...s actually when I interviewed Mitch Snow where I said, I can't confirm who you saw."
+
+**[00:29:47](/episodes/ep-69A8TzAGHlU.md#ent-person-mitch-snow-t-00-29-47)**
+> "...cuses me of confirming Mitch (Mitch Snow)'s claim while in the very next paragraph he pres..."
+
+**[00:30:25](/episodes/ep-69A8TzAGHlU.md#ent-person-mitch-snow-t-00-29-47)**
+> "...n to convince you that Mitch (Mitch Snow) was lying about having been at Fort Huachuca."
+
+**[00:30:32](/episodes/ep-69A8TzAGHlU.md#ent-person-mitch-snow-t-00-30-32)**
+> "Remember, Mitch (Mitch Snow) said he was at first taken outside by Captain Ne..."
+
+**[00:30:39](/episodes/ep-69A8TzAGHlU.md#ent-person-mitch-snow-t-00-30-32)**
+> "...said I always believed Mitch (Mitch Snow)'s story of what happened on that morning because..."
+
+**[01:12:28](/episodes/ep-69A8TzAGHlU.md#ent-person-mitch-snow-t-01-12-28)**
+> "Mitch (Mitch Snow) says the meeting concluded at 730 a.m. There wer..."
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
@@ -332,12 +492,37 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 </details>
 
 <details>
+<summary>Interviewed By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:29:07](/episodes/ep-69A8TzAGHlU.md#t-00-29-07): “Okay, here is just one of many examples on my podcast. This is actually when I interviewed Mitch Snow where I said, I can't confirm who you saw.”
+- [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:47:07](/episodes/ep-KpxIBWkNsSs.md#t-00-47-07): “airbase that were not you know weird so I made the decision when I first presented the story which was absent before my interview with Mitch (Mitch Snow) so I basically first told Mitch (Mitch Snow)'s story um his entire background and then I said and he says that he saw Brian Harpole if you go back and you watch that I said he saw Brian Harpole on the 9th right removed Erika (Erika Kirk) from it entirely instantly the next day Erika (Erika Kirk) did went on her tour the stop tour day Erika (Erika Kirk) did went on her tour the stop tour”
+
+</details>
+
+</details>
+
+<details>
 <summary>Parent Of (1)</summary>
 
 - **[Anonymous Source #3 (Ep OEAHy3SsIiI)](/entities/anon-src-OEAHy3SsIiI-003.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:45:13](/episodes/ep-OEAHy3SsIiI.md#t-00-44-34): “They were going to bring his son on,”
+
+</details>
+
+</details>
+
+<details>
+<summary>Sued By (1)</summary>
+
+- **[Brian Harpole](/entities/person-brian-harpole.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:19:52](/episodes/ep-69A8TzAGHlU.md#t-00-19-35): “And that's specifically because a large chunk of his claims are pertaining to Mitch Snow, who he is also suing, by the way, and what is not helpful to his claims. To sue me and Mitch Snow is the fact that I reached out to Brian Harpole personally before I featured Mitch Snow on this podcast, okay?”
 
 </details>
 
@@ -356,7 +541,7 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Anonymous Source #3 (Ep OEAHy3SsIiI)](/entities/anon-src-OEAHy3SsIiI-003.md)** child of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -376,6 +561,21 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:46](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “Mitch (Mitch Snow) was certain. He was certain. And I want to be clear, he also hasn't moved his story since, not one inch. He was certain that he saw Erika Kirk on the evening of the 8th at Fort Huachuca leaving a hotel with a Cabot Phillips lookalike. He has not adopted, he has not adapted that story. He has not adapted that story. Despite the undue harassment that he received, in particular, after seeing Erika (Erika Kirk) on the evening of the 8th, he claims that he stumbled upon what appeared to him to be the conclusion of a military briefing right before a mission taking place in a borrowed building site for the Joint Task Force, the Southern Border Unit. And he was a border unit and he was surprised he saw a guy. Running the JTF thing, I think he said it was JTF 10, the 10th Mountain Brigade. He's like, oh, where are you guys? I thought this was like disbanded. I used to be on this same task force, Southern Border.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:29:07](/episodes/ep-69A8TzAGHlU.md#t-00-29-07): “Okay, here is just one of many examples on my podcast. This is actually when I interviewed Mitch Snow where I said, I can't confirm who you saw.”
+- [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:47:07](/episodes/ep-KpxIBWkNsSs.md#t-00-47-07): “airbase that were not you know weird so I made the decision when I first presented the story which was absent before my interview with Mitch (Mitch Snow) so I basically first told Mitch (Mitch Snow)'s story um his entire background and then I said and he says that he saw Brian Harpole if you go back and you watch that I said he saw Brian Harpole on the 9th right removed Erika (Erika Kirk) from it entirely instantly the next day Erika (Erika Kirk) did went on her tour the stop tour day Erika (Erika Kirk) did went on her tour the stop tour”
+
+</details>
+
+- **[Brian Harpole](/entities/person-brian-harpole.md)** sued this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:19:52](/episodes/ep-69A8TzAGHlU.md#t-00-19-35): “And that's specifically because a large chunk of his claims are pertaining to Mitch Snow, who he is also suing, by the way, and what is not helpful to his claims. To sue me and Mitch Snow is the fact that I reached out to Brian Harpole personally before I featured Mitch Snow on this podcast, okay?”
 
 </details>
 
@@ -400,7 +600,48 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mitch Snow (6)</strong></summary>
+<summary><strong class="section-title">Statements about Mitch Snow (15)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (3)</summary>
+
+- [00:48:52](/episodes/ep-KpxIBWkNsSs.md#t-00-48-33) (Claim) **Candace Owens**: ["Candace Owens said she messaged Brian Harpole four times seeking a res..."](/statements/statement-db50e6302922.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:51:13](/episodes/ep-KpxIBWkNsSs.md#t-00-51-13) (Accusation) **Candace Owens**: ["Candace Owens accused Valhalla VFT of threatening to ruin her if she d..."](/statements/statement-3c6a99a61590.md)
+  - Also about: [Valhalla VFT](/entities/org-valhalla-vft.md), [Candace Owens](/entities/person-candace-owens.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+- [00:59:04](/episodes/ep-KpxIBWkNsSs.md#t-00-59-04) (Promise) **Candace Owens**: ["Candace Owens said she planned to publish the documents, messages, and..."](/statements/statement-c28b82ac4b5c.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Erika Kirk](/entities/person-erika-kirk.md), [Brian Harpole](/entities/person-brian-harpole.md)
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (2)</summary>
+
+- [00:03:43](/episodes/ep-k1b1NDCrNFs.md#t-00-03-43) (Claim) **Candace Owens**: ["Mitch Snow served in the military and was at Fort Huachuca."](/statements/statement-39dd5248d12c.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+- [00:15:37](/episodes/ep-k1b1NDCrNFs.md#t-00-15-37) (Accusation) **Anonymous Source #1 (Ep k1b1NDCrNFs)** (via read message): ["It was looking like Mitch Snow spent time locked up and had his Specia..."](/statements/statement-adf3198c0c7f.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (4)</summary>
+
+- [00:21:13](/episodes/ep-69A8TzAGHlU.md#t-00-20-41) (Prediction) **Anonymous Source #2 (Ep 69A8TzAGHlU)** (via read message): ["If Candace Owens interviewed Mitch Snow, Brian Harpole was going to su..."](/statements/statement-d725c70fb9ac.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Candace Owens](/entities/person-candace-owens.md), [Paramount Tactical Solutions](/entities/org-paramount-tactical-solutions.md)
+
+- [00:21:41](/episodes/ep-69A8TzAGHlU.md#t-00-21-26) (Claim) **Candace Owens**: ["Candace Owens sent Brian Harpole roughly four messages and Dan Flood o..."](/statements/statement-dc634ca94d79.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Dan Flood](/entities/person-dan-flood.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:28:40](/episodes/ep-69A8TzAGHlU.md#t-00-28-30) (Accusation) **Candace Owens**: ["Brian Harpole's lawyer lied in the filing by claiming Candace Owens re..."](/statements/statement-b9e79eec1b28.md)
+  - Also about: [Matthew Sarelson](/entities/person-matthew-sarelson.md), [Brian Harpole](/entities/person-brian-harpole.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:29:15](/episodes/ep-69A8TzAGHlU.md#t-00-29-07) (Claim) **Candace Owens**: ["Candace Owens confirmed Mitch Snow's location, timing, incident, and m..."](/statements/statement-ce238b4dd3e5.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Brian Harpole](/entities/person-brian-harpole.md)
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>

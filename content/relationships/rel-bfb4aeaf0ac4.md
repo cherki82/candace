@@ -11,7 +11,11 @@ object: "person-victor-marx"
 
 ## [Corby Hall](/entities/person-corby-hall) met with [Victor Marx](/entities/person-victor-marx)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4)**
+
+- [00:05:17](/episodes/ep--9MOUvgGyi4#t-00-05-17): _she had me message him and he responded right away and invited us up to his house in Colorado Springs._
 
 **[BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0)**
 

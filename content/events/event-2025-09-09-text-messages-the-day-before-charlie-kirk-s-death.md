@@ -11,7 +11,7 @@ date: "2025-09-09"
 
 > Text messages the day before Charlie Kirk's death in which he warned he thought he would be killed.
 
-## Mentioned In (36 times)
+## Mentioned In (37 times)
 
 ### 1. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
 
@@ -300,3 +300,11 @@ date: "2025-09-09"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1977);return false;">▶️ Play</a>
 
 > texted me and the security team day before saying he thought he was going to be killed
+
+### 37. A Tale of Two PR Disasters: Blake Lively & Turning Point USA...
+
+**Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
+**Timestamp:** [00:04:39](/episodes/ep-eMtjzXkQrsU.md#event-event-2025-09-09-text-messages-the-day-before-charlie-kirk-s-death-t-00-04-32) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(279);return false;">▶️ Play</a>
+
+> He texted Andrew Kolvet. He texted Dan Flood, and he said they are going to kill me.

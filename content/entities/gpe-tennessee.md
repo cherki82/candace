@@ -1,6 +1,6 @@
 ---
 title: "Tennessee"
-description: "Tennessee (Places) - 19 mentions"
+description: "Tennessee (Places) - 21 mentions"
 id: "gpe-tennessee"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [Tennessee State Government](https://www.tn.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-tennessee-t-00-18-13">2025-11-20 · 00:18:38</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-tennessee-t-00-48-51">2026-04-20 · 00:49:17</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-tennessee-t-00-32-11">2026-05-06 · 00:32:11</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -44,6 +44,8 @@ Source: [Tennessee State Government](https://www.tn.gov/)
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-tennessee-t-00-48-21" style="--pulse-height:20%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-tennessee-t-01-00-13" style="--pulse-height:20%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-tennessee-t-00-48-51" style="--pulse-height:40%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-gpe-tennessee-t-00-33-43" style="--pulse-height:20%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-tennessee-t-00-32-11" style="--pulse-height:20%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +60,8 @@ Source: [Tennessee State Government](https://www.tn.gov/)
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-tennessee-t-00-48-21) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-tennessee-t-01-00-13) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-tennessee-t-00-48-51) | 2 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-gpe-tennessee-t-00-33-43) | 1 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-tennessee-t-00-32-11) | 1 |
 
 </details>
 </section>
@@ -65,7 +69,23 @@ Source: [Tennessee State Government](https://www.tn.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>
+
+**[00:32:11](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-tennessee-t-00-32-11)**
+> "...t George Farmer in Nashville, Tennessee, well, that denial strikes me as pretty audacious..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1 mentions)</summary>
+
+**[00:34:09](/episodes/ep-69A8TzAGHlU.md#ent-gpe-tennessee-t-00-33-43)**
+> "You're dealing with a lawyer that has full access to my lawyers in the state of Tennessee, has been in communication with them for two years."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (2 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Karoline Leavitt"
-description: "Karoline Leavitt (People) - 5 mentions"
+description: "Karoline Leavitt (People) - 9 mentions"
 id: "person-karoline-leavitt"
 type: "PERSON"
 categories:
@@ -17,12 +17,12 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-person-karoline-leavitt-t-00-27-32">2025-11-21 · 00:27:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-person-karoline-leavitt-t-00-14-58">2026-04-15 · 00:15:21</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
-<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-69A8TzAGHlU.md#ent-person-karoline-leavitt-t-01-00-12">2026-04-30 · 01:00:12</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Statements by</span><strong>5</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -34,6 +34,8 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-karoline-leavitt-t-00-48-11" style="--pulse-height:50%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-karoline-leavitt-t-00-51-19" style="--pulse-height:50%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-karoline-leavitt-t-00-14-58" style="--pulse-height:50%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-karoline-leavitt-t-00-40-52" style="--pulse-height:50%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-karoline-leavitt-t-00-58-16" style="--pulse-height:100%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 2 mentions" title="2026-04-30 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -43,6 +45,8 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-karoline-leavitt-t-00-48-11) | 1 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-karoline-leavitt-t-00-51-19) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-karoline-leavitt-t-00-14-58) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-karoline-leavitt-t-00-40-52) | 1 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-person-karoline-leavitt-t-00-58-16) | 2 |
 
 </details>
 </section>
@@ -50,7 +54,26 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2 mentions)</summary>
+
+**[00:58:16](/episodes/ep-69A8TzAGHlU.md#ent-person-karoline-leavitt-t-00-58-16)**
+> "...re, not just Erika Kirk, also Karoline Leavitt came out and now is trying to equate speech to vi..."
+
+**[01:00:12](/episodes/ep-69A8TzAGHlU.md#ent-person-karoline-leavitt-t-01-00-12)**
+> "Meanwhile, Karoline Leavitt is talking left versus right. Is that not divisiv..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[00:40:52](/episodes/ep-qZ8RWfyuewQ.md#ent-person-karoline-leavitt-t-00-40-52)**
+> "...e that when she sat down with Karoline Leavitt on stage at a turning point event, she says that ..."
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
@@ -92,12 +115,64 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Appeared With (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:40:52](/episodes/ep-qZ8RWfyuewQ.md#t-00-40-52): “when she sat down with Karoline Leavitt on stage at a turning point event”
+
+</details>
+
+</details>
+
+<details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:58:16](/episodes/ep-69A8TzAGHlU.md#t-00-58-16): “I don't feel threatened by that. OK, you have a right to think racist thoughts. Now, I happen to genuinely not be a racist, but if people were racist, I understand the importance of making sure that we don't pass speech laws and that is what is coming next because they have been signaling it for a week straight full fire, not just Erika Kirk, also Karoline Leavitt came out and now is trying to equate speech to violence. Take a listen.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:40:52](/episodes/ep-qZ8RWfyuewQ.md#t-00-40-52): “when she sat down with Karoline Leavitt on stage at a turning point event”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:58:16](/episodes/ep-69A8TzAGHlU.md#t-00-58-16): “I don't feel threatened by that. OK, you have a right to think racist thoughts. Now, I happen to genuinely not be a racist, but if people were racist, I understand the importance of making sure that we don't pass speech laws and that is what is coming next because they have been signaling it for a week straight full fire, not just Erika Kirk, also Karoline Leavitt came out and now is trying to equate speech to violence. Take a listen.”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Karoline Leavitt (3)</strong></summary>
+<summary><strong class="section-title">Statements by Karoline Leavitt (5)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2)</summary>
+
+- [00:58:45](/episodes/ep-69A8TzAGHlU.md#t-00-58-45) [○] (Accusation) ["Political violence against Donald Trump stems from systematic demonization by co..."](/statements/statement-60f3c76ad72a.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Democratic Party](/entities/org-democratic-party.md)
+
+- [00:59:05](/episodes/ep-69A8TzAGHlU.md#t-00-58-45) [○] (Opinion) ["Crazed rhetoric about Donald Trump can inspire mentally disturbed listeners to d..."](/statements/statement-06609153972d.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (3)</summary>

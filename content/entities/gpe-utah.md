@@ -1,6 +1,6 @@
 ---
 title: "Utah"
-description: "Utah (Places) - 267 mentions"
+description: "Utah (Places) - 276 mentions"
 id: "gpe-utah"
 type: "GPE"
 aliases:
@@ -22,8 +22,8 @@ Source: [State of Utah official website](https://utah.gov/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-utah-t-00-05-31">2025-09-16 · 00:05:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-03-48-13">2026-08-14 · 03:48:13</a></strong></div>
-<div><span>Episodes</span><strong>54</strong></div>
-<div><span>Mentions</span><strong>267</strong></div>
+<div><span>Episodes</span><strong>57</strong></div>
+<div><span>Mentions</span><strong>276</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
@@ -87,6 +87,9 @@ Source: [State of Utah official website](https://utah.gov/)
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-gpe-utah-t-00-24-40" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-utah-t-00-17-37" style="--pulse-height:28%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 5 mentions" title="2026-04-20 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-utah-t-00-12-41" style="--pulse-height:11%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#t-00-08-48" style="--pulse-height:17%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 3 mentions" title="2026-04-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-utah-t-00-31-51" style="--pulse-height:11%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-utah-t-00-47-13" style="--pulse-height:22%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-00-52-44" style="--pulse-height:94%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -146,6 +149,9 @@ Source: [State of Utah official website](https://utah.gov/)
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-utah-t-00-24-40) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-utah-t-00-17-37) | 5 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-utah-t-00-12-41) | 2 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#t-00-08-48) | 3 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-utah-t-00-31-51) | 2 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-utah-t-00-47-13) | 4 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-00-52-44) | 17 |
 
 </details>
@@ -154,7 +160,7 @@ Source: [State of Utah official website](https://utah.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (267)</strong></summary>
+<summary><strong class="section-title">Raw mentions (276)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (17 mentions)</summary>
@@ -209,6 +215,48 @@ Source: [State of Utah official website](https://utah.gov/)
 
 **[03:48:13](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-03-48-13)**
 > "...that there's enough under the Utah 1102 rule for me to keep it there."
+
+</details>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (4 mentions)</summary>
+
+**[00:11:57](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-utah-t-00-47-13)**
+> "Utah"
+
+**[00:07:37](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-utah-t-00-47-13)**
+> "... Kirk's security strategy for Utah Valley University two weeks in advance, but faile..."
+
+**[00:09:13](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-utah-t-00-47-13)**
+> "...American comeback tour at the Utah Valley University, where he was shot and killed w..."
+
+**[00:47:41](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-utah-t-00-47-13)**
+> "Utah, I forgot Mitt Romney kind of runs things."
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (2 mentions)</summary>
+
+**[00:32:16](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-utah-t-00-31-51)**
+> "a Mormon kid from Utah"
+
+**[00:50:24](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-utah-t-00-50-02)**
+> "on the 9th going to Utah. And I said, this doesn't cover the time period. ..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (3 mentions)</summary>
+
+**[00:08:48](/episodes/ep-69A8TzAGHlU.md#t-00-08-48)**
+> "I took notice that as many people did that there were conflicting statements made by. turning point usa uh on that day now there may be a valid excuse for those discrepancies in messaging however you cannot punish the public for noticing them okay i'm referring to the drones So this reads, this claim reads in your podcast episode entitled The Great Exodus from Utah, you again falsely claimed that Mr."
+
+**[00:10:31](/episodes/ep-69A8TzAGHlU.md#t-00-10-31)**
+> "...if the area lies in the provo utah air space i can't fly that's a 107b the guy we ca..."
+
+**[00:26:45](/episodes/ep-69A8TzAGHlU.md#t-00-26-35)**
+> "...here CK will be set up at the Utah Valley."
 
 </details>
 

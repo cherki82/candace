@@ -1,6 +1,6 @@
 ---
 title: "Kash Patel"
-description: "Kash Patel (People) - 181 mentions"
+description: "Kash Patel (People) - 185 mentions"
 id: "person-kash-patel"
 type: "PERSON"
 aliases:
@@ -24,9 +24,9 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-kash-patel-t-00-08-42">2025-09-17 · 00:09:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-kash-patel-t-00-52-39">2026-04-21 · 00:53:00</a></strong></div>
-<div><span>Episodes</span><strong>50</strong></div>
-<div><span>Mentions</span><strong>181</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-person-kash-patel-t-00-28-22">2026-05-07 · 00:28:22</a></strong></div>
+<div><span>Episodes</span><strong>53</strong></div>
+<div><span>Mentions</span><strong>185</strong></div>
 <div><span>Statements by</span><strong>11</strong></div>
 <div><span>Statements about</span><strong>32</strong></div>
 <div><span>Relationships</span><strong>33</strong></div>
@@ -87,6 +87,9 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-kash-patel-t-00-35-25" style="--pulse-height:15%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-kash-patel-t-00-09-30" style="--pulse-height:23%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 3 mentions" title="2026-04-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-kash-patel-t-00-51-30" style="--pulse-height:15%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-kash-patel-t-00-56-04" style="--pulse-height:15%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-kash-patel-t-00-00-00" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-person-kash-patel-t-00-28-22" style="--pulse-height:8%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -142,6 +145,9 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-kash-patel-t-00-35-25) | 2 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-kash-patel-t-00-09-30) | 3 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-kash-patel-t-00-51-30) | 2 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-kash-patel-t-00-56-04) | 2 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-kash-patel-t-00-00-00) | 1 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-kash-patel-t-00-28-22) | 1 |
 
 </details>
 </section>
@@ -149,7 +155,34 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (181)</strong></summary>
+<summary><strong class="section-title">Raw mentions (185)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>
+
+**[00:28:22](/episodes/ep-FFQ9675oqRI.md#ent-person-kash-patel-t-00-28-22)**
+> "The day after she did that, Kash Patel's emails got hacked. It was super funny. And I was ..."
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1 mentions)</summary>
+
+**[00:00:08](/episodes/ep-eMtjzXkQrsU.md#ent-person-kash-patel-t-00-00-00)**
+> "Sorry, Kash Patel. We're in charge now. We're throwing little gang symbols now."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (2 mentions)</summary>
+
+**[00:56:27](/episodes/ep-qZ8RWfyuewQ.md#ent-person-kash-patel-t-00-56-04)**
+> "...h sitting or standing next to Kash Patel. And yet you do. You're sitting here at a White H..."
+
+**[00:56:49](/episodes/ep-qZ8RWfyuewQ.md#ent-person-kash-patel-t-00-56-49)**
+> "...be able to stomach looking at Kash Patel, and you can. I'm sorry that we're all noticing t..."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (2 mentions)</summary>
@@ -1003,11 +1036,12 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:28:15](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-01): “when Kash Patel went in to the FBI, there was kind of this ideal he was going to write the wrongs and make sure that he took down the deep state and then he just bumbled every plausible.”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:38:53](/episodes/ep-7ERqbYElOfs.md#t-00-38-41): “Kash Patel is central in delaying everything that happened on that day.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:49:10](/episodes/ep-UYkXV9mYbT4.md#t-00-48-39): “You can't just have Kash Patel throwing up 33s and say that's enough. You can't just have Governor Cox up there with the Fed saying, oh, we got them.”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:56:27](/episodes/ep-qZ8RWfyuewQ.md#t-00-56-04): “I wouldn't be able to stomach sitting or standing next to Kash Patel. And yet you do. You're sitting here at a White House correspondence center. Why don't you ask him to give the defense what they need if you want a speedy trial victim?”
 
 </details>
 
@@ -1159,11 +1193,12 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:28:15](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-01): “when Kash Patel went in to the FBI, there was kind of this ideal he was going to write the wrongs and make sure that he took down the deep state and then he just bumbled every plausible.”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:38:53](/episodes/ep-7ERqbYElOfs.md#t-00-38-41): “Kash Patel is central in delaying everything that happened on that day.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:49:10](/episodes/ep-UYkXV9mYbT4.md#t-00-48-39): “You can't just have Kash Patel throwing up 33s and say that's enough. You can't just have Governor Cox up there with the Fed saying, oh, we got them.”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:56:27](/episodes/ep-qZ8RWfyuewQ.md#t-00-56-04): “I wouldn't be able to stomach sitting or standing next to Kash Patel. And yet you do. You're sitting here at a White House correspondence center. Why don't you ask him to give the defense what they need if you want a speedy trial victim?”
 
 </details>
 

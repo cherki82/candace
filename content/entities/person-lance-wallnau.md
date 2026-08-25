@@ -1,6 +1,6 @@
 ---
 title: "Lance Wallnau"
-description: "Lance Wallnau (People) - 106 mentions"
+description: "Lance Wallnau (People) - 107 mentions"
 id: "person-lance-wallnau"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [About | Lance Wallnau](https://lancewallnau.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#t-00-00-45">2025-09-16 · 00:00:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-20-07">2025-11-10 · 00:20:19</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>106</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep--9MOUvgGyi4.md#ent-person-lance-wallnau-t-01-31-05">2026-04-22 · 01:31:38</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>107</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -41,6 +41,7 @@ Source: [About | Lance Wallnau](https://lancewallnau.com/about/)
 <a href="/episodes/ep-5autG89PW6w.md#t-00-29-56" style="--pulse-height:28%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 10 mentions" title="2025-10-07 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-c5BcKF91iec.md#t-00-49-29" style="--pulse-height:8%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32" style="--pulse-height:39%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 14 mentions" title="2025-11-10 · 14 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-person-lance-wallnau-t-01-31-05" style="--pulse-height:8%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [About | Lance Wallnau](https://lancewallnau.com/about/)
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#t-00-29-56) | 10 |
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#t-00-49-29) | 1 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32) | 14 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-person-lance-wallnau-t-01-31-05) | 1 |
 
 </details>
 </section>
@@ -63,7 +65,15 @@ Source: [About | Lance Wallnau](https://lancewallnau.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (106)</strong></summary>
+<summary><strong class="section-title">Raw mentions (107)</strong></summary>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (1 mentions)</summary>
+
+**[01:31:38](/episodes/ep--9MOUvgGyi4.md#ent-person-lance-wallnau-t-01-31-05)**
+> "And the name that come up was Lance Wallnau and Rex Crane."
+
+</details>
 
 <details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (14 mentions)</summary>

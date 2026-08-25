@@ -1,6 +1,6 @@
 ---
 title: "Megyn Kelly"
-description: "Megyn Kelly (People) - 201 mentions"
+description: "Megyn Kelly (People) - 212 mentions"
 id: "person-megyn-kelly"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-megyn-kelly-t-00-11-22">2025-09-15 · 00:11:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-02-47-31">2026-08-14 · 02:47:31</a></strong></div>
-<div><span>Episodes</span><strong>50</strong></div>
-<div><span>Mentions</span><strong>201</strong></div>
+<div><span>Episodes</span><strong>54</strong></div>
+<div><span>Mentions</span><strong>212</strong></div>
 <div><span>Statements by</span><strong>15</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
-<div><span>Relationships</span><strong>46</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Relationships</span><strong>48</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -84,6 +84,10 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-megyn-kelly-t-00-19-40" style="--pulse-height:9%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-megyn-kelly-t-00-35-24" style="--pulse-height:13%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 3 mentions" title="2026-04-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-megyn-kelly-t-00-32-03" style="--pulse-height:9%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-megyn-kelly-t-00-22-40" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-megyn-kelly-t-00-11-59" style="--pulse-height:26%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 6 mentions" title="2026-05-04 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-megyn-kelly-t-00-21-14" style="--pulse-height:9%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-megyn-kelly-t-00-07-01" style="--pulse-height:9%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-00-36-46" style="--pulse-height:9%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -139,6 +143,10 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-megyn-kelly-t-00-19-40) | 2 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-megyn-kelly-t-00-35-24) | 3 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-megyn-kelly-t-00-32-03) | 2 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-megyn-kelly-t-00-22-40) | 1 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-megyn-kelly-t-00-11-59) | 6 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-megyn-kelly-t-00-21-14) | 2 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-megyn-kelly-t-00-07-01) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-00-36-46) | 2 |
 
 </details>
@@ -147,7 +155,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (201)</strong></summary>
+<summary><strong class="section-title">Raw mentions (212)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -157,6 +165,59 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 
 **[02:47:31](/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-02-47-31)**
 > "by the way, I remember even Megyn Kelly was like, you know, let's wait,"
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (2 mentions)</summary>
+
+**[00:07:09](/episodes/ep-KpxIBWkNsSs.md#ent-person-megyn-kelly-t-00-07-01)**
+> "Erika (Erika Kirk) herself told Megyn Kelly"
+
+**[00:10:59](/episodes/ep-KpxIBWkNsSs.md#ent-person-megyn-kelly-t-00-10-59)**
+> "...e of then sitting across from Megyn Kelly and spinning a tale about her having seen this vi..."
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (2 mentions)</summary>
+
+**[00:21:14](/episodes/ep-eMtjzXkQrsU.md#ent-person-megyn-kelly-t-00-21-14)**
+> "to protect okay desperate this explains the early attacks on megan kelly megan kelly did nothing she's pro-israel when all this went down she was pro-israel she never for a second thought israel did it megan kelly was like tyler robinson on a rooftop this looks plausible to me we don't know what else happened we need documents go back and check her record okay she was not talking any type of conspiracy she was not partnered with candace owens but you know what she did do She told the truth about Charlie (Charlie Kirk)'s shifting viewpoints on Israel."
+
+**[00:21:42](/episodes/ep-eMtjzXkQrsU.md#ent-person-megyn-kelly-t-00-21-14)**
+> "...hat is what led to attacks on Megyn Kelly, I am convinced. Same for Tucker Carlson. He came..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (6 mentions)</summary>
+
+**[00:12:15](/episodes/ep-uC_GjKU8rs8.md#ent-person-megyn-kelly-t-00-11-59)**
+> "Megyn Kelly's network drew 138 million YouTube views in Februar..."
+
+**[00:12:54](/episodes/ep-uC_GjKU8rs8.md#ent-person-megyn-kelly-t-00-12-39)**
+> "... brings up Tucker Carlson and Megyn Kelly. Yes, they are indeed more successful than they w..."
+
+**[00:17:37](/episodes/ep-uC_GjKU8rs8.md#ent-person-megyn-kelly-t-00-17-37)**
+> "...e issue here is not just that Megyn Kelly has some questionable principles. and has been pr..."
+
+**[00:18:01](/episodes/ep-uC_GjKU8rs8.md#ent-person-megyn-kelly-t-00-17-37)**
+> "The same holds true of Megyn Kelly."
+
+**[00:19:38](/episodes/ep-uC_GjKU8rs8.md#ent-person-megyn-kelly-t-00-19-27)**
+> "...destroy me, trying to destroy Megyn Kelly, that means trying to destroy a former colleague ..."
+
+**[00:21:46](/episodes/ep-uC_GjKU8rs8.md#ent-person-megyn-kelly-t-00-21-46)**
+> "Right. Calls Megyn Kelly a coward. But what did Megyn (Megyn Kelly) what d..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[00:23:06](/episodes/ep-qZ8RWfyuewQ.md#ent-person-megyn-kelly-t-00-22-40)**
+> "...tweet about Tucker Carlson or Megyn Kelly?"
 
 </details>
 
@@ -1039,21 +1100,23 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <summary>Criticized By (2)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:06:23](/episodes/ep-MUA9ebCF4Ow.md#t-00-05-50): “lied to Megyn Kelly's face”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-43): “and this time he also attacked Megyn Kelly”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:40:10](/episodes/ep-CMcktj3Egfo.md#t-00-39-38): “I was called a coward by Ben Shapiro at the Turning Point event AmFest in December,”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:46](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “He calls Megyn Kelly a coward and Piers Morgan a clickbait whore or something. And what is their crime?”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:17:37](/episodes/ep-uC_GjKU8rs8.md#t-00-17-37): “Yes. Of course, the issue here is not just that Megyn Kelly has some questionable principles. and has been programming directly into the groiper right, it is that she remains a coward.”
 
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51): “I know why Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have all been fighting me for years... they have one thing in common, low IQs. They are stupid people.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:35:51](/episodes/ep-kaWtDuoY_ns.md#t-00-35-24): “I hear Megyn Kelly, Tucker Carlson and Candace Owens are dying fast. Their numbers are terrible. Nobody believes them anymore. They were fake MAGA.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:39:58](/episodes/ep-xi8SYJTUXPM.md#t-00-39-37): “So forget Laura Loomer. The question you should be asking yourself is, is Donald Trump mentally fit to be president if he makes a conscious decision to tweet out that Tucker Carlson and Megyn Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer?”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:23:06](/episodes/ep-qZ8RWfyuewQ.md#t-00-22-40): “And that very real notion that our president, who it seems randomly attacks people on her behalf. So when you're wondering, why did he send out this crazy tweet about Tucker Carlson or Megyn Kelly?”
 
 </details>
 
@@ -1090,9 +1153,10 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <summary>Friend Of (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:03:56](/episodes/ep-ozWJz2spBcI.md#t-00-03-29): “Why are you hearing it, though, from me and Tucker and Megyn Kelly?”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:17:47](/episodes/ep-uC_GjKU8rs8.md#t-00-17-37): “Remember, this is still the woman who says she is friends with Candace Owens. So no, Tucker Carlson, it is not an excuse to go silent on Candace's targeting of TPUSA or to mirror her both lines of questioning because you love Candace personally.”
 
 </details>
 
@@ -1104,9 +1168,10 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:40:19](/episodes/ep-CMcktj3Egfo.md#t-00-39-38): “literally said our friendship,”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:19:38](/episodes/ep-uC_GjKU8rs8.md#t-00-19-27): “Ben (Ben Shapiro) trying to destroy me, trying to destroy Megyn Kelly, that means trying to destroy a former colleague and someone like Megyn Kelly who he said was his friend.”
 
 </details>
 
@@ -1120,7 +1185,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 <details>
-<summary>Interviewed (6)</summary>
+<summary>Interviewed (7)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1164,6 +1229,13 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:21:37](/episodes/ep-5-HUyv9LyMg.md#t-00-21-25): “Megyn Kelly did an interview, a profile piece, an interview with a woman who left the cult and wanted to share her story. ... Her name is Christina Babin”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:07:09](/episodes/ep-KpxIBWkNsSs.md#t-00-07-01): “Erika (Erika Kirk) herself told Megyn Kelly an emotional story about what she felt like watching that video for the first time. The video of Charlie (Charlie Kirk) choosing her, violating suddenly his every public statement and sentiment that he had ever expressed in the past about women working, complete 180 from his prior positions.”
 
 </details>
 
@@ -1228,7 +1300,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 <details>
-<summary>Referenced By (23)</summary>
+<summary>Referenced By (24)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1238,21 +1310,23 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:06:23](/episodes/ep-MUA9ebCF4Ow.md#t-00-05-50): “lied to Megyn Kelly's face”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-43): “and this time he also attacked Megyn Kelly”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:40:10](/episodes/ep-CMcktj3Egfo.md#t-00-39-38): “I was called a coward by Ben Shapiro at the Turning Point event AmFest in December,”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:46](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “He calls Megyn Kelly a coward and Piers Morgan a clickbait whore or something. And what is their crime?”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:17:37](/episodes/ep-uC_GjKU8rs8.md#t-00-17-37): “Yes. Of course, the issue here is not just that Megyn Kelly has some questionable principles. and has been programming directly into the groiper right, it is that she remains a coward.”
 
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51): “I know why Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have all been fighting me for years... they have one thing in common, low IQs. They are stupid people.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:35:51](/episodes/ep-kaWtDuoY_ns.md#t-00-35-24): “I hear Megyn Kelly, Tucker Carlson and Candace Owens are dying fast. Their numbers are terrible. Nobody believes them anymore. They were fake MAGA.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:39:58](/episodes/ep-xi8SYJTUXPM.md#t-00-39-37): “So forget Laura Loomer. The question you should be asking yourself is, is Donald Trump mentally fit to be president if he makes a conscious decision to tweet out that Tucker Carlson and Megyn Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer?”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:23:06](/episodes/ep-qZ8RWfyuewQ.md#t-00-22-40): “And that very real notion that our president, who it seems randomly attacks people on her behalf. So when you're wondering, why did he send out this crazy tweet about Tucker Carlson or Megyn Kelly?”
 
 </details>
 
@@ -1288,9 +1362,10 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:03:56](/episodes/ep-ozWJz2spBcI.md#t-00-03-29): “Why are you hearing it, though, from me and Tucker and Megyn Kelly?”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:17:47](/episodes/ep-uC_GjKU8rs8.md#t-00-17-37): “Remember, this is still the woman who says she is friends with Candace Owens. So no, Tucker Carlson, it is not an excuse to go silent on Candace's targeting of TPUSA or to mirror her both lines of questioning because you love Candace personally.”
 
 </details>
 
@@ -1302,9 +1377,10 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:40:19](/episodes/ep-CMcktj3Egfo.md#t-00-39-38): “literally said our friendship,”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:19:38](/episodes/ep-uC_GjKU8rs8.md#t-00-19-27): “Ben (Ben Shapiro) trying to destroy me, trying to destroy Megyn Kelly, that means trying to destroy a former colleague and someone like Megyn Kelly who he said was his friend.”
 
 </details>
 
@@ -1373,6 +1449,13 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:21:37](/episodes/ep-5-HUyv9LyMg.md#t-00-21-25): “Megyn Kelly did an interview, a profile piece, an interview with a woman who left the cult and wanted to share her story. ... Her name is Christina Babin”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:07:09](/episodes/ep-KpxIBWkNsSs.md#t-00-07-01): “Erika (Erika Kirk) herself told Megyn Kelly an emotional story about what she felt like watching that video for the first time. The video of Charlie (Charlie Kirk) choosing her, violating suddenly his every public statement and sentiment that he had ever expressed in the past about women working, complete 180 from his prior positions.”
 
 </details>
 
@@ -1493,7 +1576,14 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Megyn Kelly (14)</strong></summary>
+<summary><strong class="section-title">Statements about Megyn Kelly (15)</strong></summary>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1)</summary>
+
+- [00:17:37](/episodes/ep-uC_GjKU8rs8.md#t-00-17-37) (Opinion) **Ben Shapiro** (via quoted speech): ["Megyn Kelly remains a coward."](/statements/statement-407aefc04810.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1)</summary>

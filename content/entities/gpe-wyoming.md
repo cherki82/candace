@@ -1,6 +1,6 @@
 ---
 title: "Wyoming"
-description: "Wyoming (Places) - 23 mentions"
+description: "Wyoming (Places) - 24 mentions"
 id: "gpe-wyoming"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [State of Wyoming - About Wyoming](https://www.wyo.gov/about-wyoming)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-gpe-wyoming-t-00-01-39">2025-10-27 · 00:01:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Wjul6YV6izo.md#ent-gpe-wyoming-t-00-29-14">2026-01-30 · 00:29:35</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-gpe-wyoming-t-01-07-30">2026-05-05 · 01:07:30</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -46,6 +46,7 @@ Source: [State of Wyoming - About Wyoming](https://www.wyo.gov/about-wyoming)
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-wyoming-t-00-06-30" style="--pulse-height:10%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-wyoming-t-01-00-04" style="--pulse-height:10%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-gpe-wyoming-t-00-29-14" style="--pulse-height:10%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-gpe-wyoming-t-01-07-30" style="--pulse-height:10%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +63,7 @@ Source: [State of Wyoming - About Wyoming](https://www.wyo.gov/about-wyoming)
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-gpe-wyoming-t-00-06-30) | 1 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-wyoming-t-01-00-04) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-gpe-wyoming-t-00-29-14) | 1 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-wyoming-t-01-07-30) | 1 |
 
 </details>
 </section>
@@ -69,7 +71,15 @@ Source: [State of Wyoming - About Wyoming](https://www.wyo.gov/about-wyoming)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1 mentions)</summary>
+
+**[01:07:30](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-wyoming-t-01-07-30)**
+> "I get it. I was in that space. I was hoping it was true before I went to Wyoming."
+
+</details>
 
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (1 mentions)</summary>

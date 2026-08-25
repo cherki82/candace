@@ -25,7 +25,7 @@ _Type: Concepts_
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -91,7 +91,21 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel lobby (3)</strong></summary>
+<summary><strong class="section-title">Statements about Israel lobby (6)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (3)</summary>
+
+- [00:23:41](/episodes/ep-FFQ9675oqRI.md#t-00-23-41) (Accusation) **Thomas Massie** (via quoted speech): ["Thomas Massie said at least 95 percent of the money spent against him ..."](/statements/statement-e978e187b1a9.md)
+  - Also about: [Thomas Massie](/entities/person-thomas-massie.md), [Republican Jewish Coalition](/entities/org-republican-jewish-coalition.md), [American Israel Public Affairs Committee](/entities/org-aipac.md)
+
+- [00:24:36](/episodes/ep-FFQ9675oqRI.md#t-00-24-27) (Accusation) **Thomas Massie** (via quoted speech): ["Thomas Massie accused Miriam Adelson and allied groups of trying to bu..."](/statements/statement-32f8919e4c1e.md)
+  - Also about: [Miriam Adelson](/entities/person-miriam-adelson.md), [Kentucky](/entities/gpe-kentucky.md)
+
+- [00:25:10](/episodes/ep-FFQ9675oqRI.md#t-00-25-10) (Accusation) **Thomas Massie** (via quoted speech): ["Thomas Massie said a foreign lobby had fully funded his opponent at an..."](/statements/statement-5e83f156ac40.md)
+  - Also about: [Thomas Massie](/entities/person-thomas-massie.md), [Republican Party](/entities/org-republican-party.md)
+
+</details>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1)</summary>

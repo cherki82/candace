@@ -1,6 +1,6 @@
 ---
 title: "Arizona State University"
-description: "Arizona State University (Organizations) - 33 mentions"
+description: "Arizona State University (Organizations) - 35 mentions"
 id: "org-arizona-state-university"
 type: "ORG"
 aliases:
@@ -21,12 +21,12 @@ Source: [Arizona State University](https://www.asu.edu/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-org-arizona-state-university-t-00-35-20">2026-02-10 · 00:36:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-arizona-state-university-t-00-13-33">2026-04-02 · 00:13:33</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-arizona-state-university-t-00-18-39">2026-05-11 · 00:18:39</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>17</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -42,6 +42,7 @@ Source: [Arizona State University](https://www.asu.edu/)
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-arizona-state-university-t-00-13-16" style="--pulse-height:55%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 6 mentions" title="2026-03-11 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-org-arizona-state-university-t-00-23-01" style="--pulse-height:9%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-arizona-state-university-t-00-13-33" style="--pulse-height:9%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-arizona-state-university-t-00-17-21" style="--pulse-height:18%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +56,7 @@ Source: [Arizona State University](https://www.asu.edu/)
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-arizona-state-university-t-00-13-16) | 6 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-arizona-state-university-t-00-23-01) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-arizona-state-university-t-00-13-33) | 1 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-arizona-state-university-t-00-17-21) | 2 |
 
 </details>
 </section>
@@ -62,7 +64,18 @@ Source: [Arizona State University](https://www.asu.edu/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (2 mentions)</summary>
+
+**[00:17:49](/episodes/ep-KpxIBWkNsSs.md#ent-org-arizona-state-university-t-00-17-21)**
+> "graduated from ASU"
+
+**[00:18:39](/episodes/ep-KpxIBWkNsSs.md#ent-org-arizona-state-university-t-00-18-39)**
+> "...'s been put on bios. In fact, ASU did not even offer the international relations de..."
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
@@ -206,6 +219,18 @@ Source: [Arizona State University](https://www.asu.edu/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Attended By (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:17:49](/episodes/ep-KpxIBWkNsSs.md#t-00-17-21): “And when they were trying out for the Great American Race in the video that she submitted, she said that she graduated from ASU magna cum laude.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Founded (1)</summary>
 
 - **[Central European Cultural Collaborative](/entities/org-central-european-cultural-collaborative.md)**
@@ -231,7 +256,7 @@ Source: [Arizona State University](https://www.asu.edu/)
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -246,6 +271,13 @@ Source: [Arizona State University](https://www.asu.edu/)
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:27:36](/episodes/ep-DdPjoy5W-wY.md#t-00-26-58): “Erika (Erika Kirk)'s claim that she graduated as a double Bachelor of Science in both international relations from Arizona State University”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:19:45](/episodes/ep-ZzAT2xijKGQ.md#t-00-19-45): “Erika (Erika Kirk) is going to enroll into ASU. For her final year of college from 2011-2012”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** attended this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:17:49](/episodes/ep-KpxIBWkNsSs.md#t-00-17-21): “And when they were trying out for the Great American Race in the video that she submitted, she said that she graduated from ASU magna cum laude.”
 
 </details>
 

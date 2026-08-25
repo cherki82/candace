@@ -1,6 +1,6 @@
 ---
 title: "Colorado"
-description: "Colorado (Places) - 28 mentions"
+description: "Colorado (Places) - 57 mentions"
 id: "gpe-colorado"
 type: "GPE"
 categories:
@@ -17,30 +17,32 @@ Source: [State Information - Colorado.gov](https://co.colorado.gov/state-informa
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-colorado-t-00-09-13">2025-09-11 · 00:09:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-gpe-colorado-t-00-35-43">2026-04-16 · 00:36:10</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>28</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-24-41">2026-05-13 · 00:25:01</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>57</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-colorado-t-00-07-02">BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324</a> (6 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-00-00">September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337</a> (19 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-colorado-t-00-09-13" style="--pulse-height:17%" aria-label="To My Friend, Charlie Kirk.: 1 mentions" title="2025-09-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-colorado-t-00-04-13" style="--pulse-height:50%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-Wjul6YV6izo.md#t-00-04-07" style="--pulse-height:17%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-gpe-colorado-t-00-04-15" style="--pulse-height:17%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-colorado-t-00-51-58" style="--pulse-height:50%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 3 mentions" title="2026-02-11 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-colorado-t-00-24-05" style="--pulse-height:33%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-colorado-t-00-36-51" style="--pulse-height:33%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-colorado-t-00-21-13" style="--pulse-height:67%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 4 mentions" title="2026-03-03 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-colorado-t-00-29-16" style="--pulse-height:50%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 3 mentions" title="2026-03-04 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-colorado-t-00-07-02" style="--pulse-height:100%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 6 mentions" title="2026-04-14 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-1mYNOqzAdXs.md#ent-gpe-colorado-t-00-35-43" style="--pulse-height:33%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 2 mentions" title="2026-04-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-colorado-t-00-09-13" style="--pulse-height:8%" aria-label="To My Friend, Charlie Kirk.: 1 mentions" title="2025-09-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-colorado-t-00-04-13" style="--pulse-height:16%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#t-00-04-07" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-gpe-colorado-t-00-04-15" style="--pulse-height:8%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-colorado-t-00-51-58" style="--pulse-height:16%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 3 mentions" title="2026-02-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-colorado-t-00-24-05" style="--pulse-height:11%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-colorado-t-00-36-51" style="--pulse-height:11%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-colorado-t-00-21-13" style="--pulse-height:21%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 4 mentions" title="2026-03-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-colorado-t-00-29-16" style="--pulse-height:16%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 3 mentions" title="2026-03-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-colorado-t-00-07-02" style="--pulse-height:32%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 6 mentions" title="2026-04-14 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-gpe-colorado-t-00-35-43" style="--pulse-height:11%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 2 mentions" title="2026-04-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-colorado-t-00-45-02" style="--pulse-height:53%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 10 mentions" title="2026-04-22 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-00-00" style="--pulse-height:100%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 19 mentions" title="2026-05-13 · 19 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +59,8 @@ Source: [State Information - Colorado.gov](https://co.colorado.gov/state-informa
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-colorado-t-00-29-16) | 3 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-colorado-t-00-07-02) | 6 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-colorado-t-00-35-43) | 2 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-gpe-colorado-t-00-45-02) | 10 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-00-00) | 19 |
 
 </details>
 </section>
@@ -64,7 +68,104 @@ Source: [State Information - Colorado.gov](https://co.colorado.gov/state-informa
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+<summary><strong class="section-title">Raw mentions (57)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (19 mentions)</summary>
+
+**[00:00:00](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-00-00)**
+> "what goes on in Colorado?"
+
+**[00:00:40](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-00-40)**
+> "...t's not lose focus, actually. Colorado, where Victor Marx is currently running for gover..."
+
+**[00:05:49](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-05-49)**
+> "...or is running for governor of Colorado, inspired by, according to him, Charlie's untimel..."
+
+**[00:05:55](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-05-49)**
+> "...as to run for the governor of Colorado."
+
+**[00:06:00](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-05-49)**
+> "OK, and Colorado is interesting for a lot of reasons. On backgroun..."
+
+**[00:06:26](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-05-49)**
+> "...ar away, obviously in Aurora, Colorado, there was one of the more infamous shootings, ma..."
+
+**[00:07:03](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-07-03)**
+> "Now regarding Colorado, we also know that Charlie was supposed to be in ..."
+
+**[00:07:37](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-07-37)**
+> "... of police for Woodland Park, Colorado, to plan security for Charis Bible."
+
+**[00:07:55](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-07-37)**
+> "...with police departments up in Colorado if this is what they normally do?"
+
+**[00:09:02](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-09-02)**
+> "...s blurb in the local media in Colorado seven days after Charlie died on September 17th, ..."
+
+**[00:09:46](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-09-46)**
+> "... as we learned, with Erika at Colorado State University, which is situated at Fort Colli..."
+
+**[00:10:04](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-09-46)**
+> "Something else about Colorado that's interesting is that one of the planes that..."
+
+**[00:11:18](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-09-46)**
+> "The plane departs Denver, Colorado. That's at 11.58 a.m. mountain time. And then it ..."
+
+**[00:11:29](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-09-46)**
+> "...harlie gets shot from Denver, Colorado."
+
+**[00:12:23](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-12-10)**
+> "Anyway, Colorado, as I've just seen, it just. routinely comes up i..."
+
+**[00:12:45](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-12-45)**
+> "...there was another shooting in Colorado at a high school, Evergreen High School."
+
+**[00:19:44](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-12-45)**
+> "Martinez tells CBS Colorado he and a... He and another co-worker were working..."
+
+**[00:24:49](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-24-41)**
+> "...ppened at another shooting in Colorado. And the fact that it took place so close to the ..."
+
+**[00:25:01](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-24-41)**
+> "...ed bringing up Victor Marx in Colorado in general, I thought, let me just kind of introd..."
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (10 mentions)</summary>
+
+**[00:05:17](/episodes/ep--9MOUvgGyi4.md#ent-gpe-colorado-t-00-45-02)**
+> "You know, Victor (Victor Marx) is looking for the most versatile compact weapon system that's out there that, and I don't think he announced it as he was looking for a signature series at the time, but nonetheless, she had me message him and he responded right away and invited us up to his house in Colorado Springs."
+
+**[00:05:36](/episodes/ep--9MOUvgGyi4.md#ent-gpe-colorado-t-00-45-02)**
+> "...o we drove from East Texas to Colorado Springs on, I think, December the 1st. and um"
+
+**[00:45:02](/episodes/ep--9MOUvgGyi4.md#ent-gpe-colorado-t-00-45-02)**
+> "Do you have a license even in Colorado?"
+
+**[00:57:03](/episodes/ep--9MOUvgGyi4.md#ent-gpe-colorado-t-00-57-03)**
+> "...ou say you meet up this is in colorado okay so that is does he have a place in texas or ..."
+
+**[00:57:13](/episodes/ep--9MOUvgGyi4.md#ent-gpe-colorado-t-00-57-13)**
+> "Yeah, we always met in Colorado"
+
+**[00:57:15](/episodes/ep--9MOUvgGyi4.md#ent-gpe-colorado-t-00-57-15)**
+> "colorado"
+
+**[01:10:07](/episodes/ep--9MOUvgGyi4.md#ent-gpe-colorado-t-01-10-07)**
+> "Are we in Colorado?"
+
+**[01:10:09](/episodes/ep--9MOUvgGyi4.md#ent-gpe-colorado-t-01-10-09)**
+> "in colorado and i would drive up there again and it was by my..."
+
+**[01:28:05](/episodes/ep--9MOUvgGyi4.md#ent-gpe-colorado-t-01-10-09)**
+> "...nd so, you know, I get there, Colorado Springs, go up at the hotel and pretty late at ni..."
+
+**[01:51:15](/episodes/ep--9MOUvgGyi4.md#ent-gpe-colorado-t-01-51-15)**
+> "...e property and i'm staying in colorado for"
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (2 mentions)</summary>
@@ -215,7 +316,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Colorado (4)</strong></summary>
+<summary><strong class="section-title">Statements about Colorado (5)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>
+
+- [00:05:49](/episodes/ep-4DvYXBn_5JI.md#t-00-05-49) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Victor Marx was running for governor of Colorado an..."](/statements/statement-e9eae369d507.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Cult"
-description: "Cult (Concepts) - 27 mentions"
+description: "Cult (Concepts) - 28 mentions"
 id: "concept-cult"
 type: "CONCEPT"
 aliases:
@@ -18,9 +18,9 @@ _Type: Concepts_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-cult-t-00-10-14">2026-01-12 · 00:10:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-concept-cult-t-00-25-32">2026-03-12 · 00:25:36</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>27</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-concept-cult-t-00-00-01">2026-05-06 · 00:00:24</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,7 @@ _Type: Concepts_
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-cult-t-00-14-32" style="--pulse-height:27%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-cult-t-00-02-51" style="--pulse-height:27%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-concept-cult-t-00-18-26" style="--pulse-height:100%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 11 mentions" title="2026-03-12 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-concept-cult-t-00-00-01" style="--pulse-height:9%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ _Type: Concepts_
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-cult-t-00-14-32) | 3 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-cult-t-00-02-51) | 3 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-concept-cult-t-00-18-26) | 11 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-concept-cult-t-00-00-01) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>
+
+**[00:00:24](/episodes/ep-k1b1NDCrNFs.md#ent-concept-cult-t-00-00-01)**
+> "...Wire operates like a deranged cult, and they will never stop trying to destroy my li..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (11 mentions)</summary>

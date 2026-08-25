@@ -1,6 +1,6 @@
 ---
 title: "Karl W. Marx Sr."
-description: "Karl W. Marx Sr. (People) - 1 mention"
+description: "Karl W. Marx Sr. (People) - 3 mentions"
 id: "person-karl-w-marx-sr"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Victor Marx, Cajun Karate, and Stolen Valor | Colorado Pols](https://ww
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-karl-w-marx-sr-t-00-11-33">2026-04-14 · 00:11:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-karl-w-marx-sr-t-00-11-33">2026-04-14 · 00:11:59</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep--9MOUvgGyi4.md#ent-person-karl-w-marx-sr-t-02-03-03">2026-04-22 · 02:03:30</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -34,15 +34,17 @@ Source: [Victor Marx, Cajun Karate, and Stolen Valor | Colorado Pols](https://ww
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-jsqUIkszZd0.md#ent-person-karl-w-marx-sr-t-00-11-33">BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep--9MOUvgGyi4.md#ent-person-karl-w-marx-sr-t-02-03-03">Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-jsqUIkszZd0.md#ent-person-karl-w-marx-sr-t-00-11-33" style="--pulse-height:100%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-person-karl-w-marx-sr-t-00-11-33" style="--pulse-height:50%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-person-karl-w-marx-sr-t-02-03-03" style="--pulse-height:100%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 2 mentions" title="2026-04-22 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-karl-w-marx-sr-t-00-11-33) | 1 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-person-karl-w-marx-sr-t-02-03-03) | 2 |
 
 </details>
 </section>
@@ -50,7 +52,18 @@ Source: [Victor Marx, Cajun Karate, and Stolen Valor | Colorado Pols](https://ww
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (2 mentions)</summary>
+
+**[02:03:25](/episodes/ep--9MOUvgGyi4.md#ent-person-karl-w-marx-sr-t-02-03-03)**
+> "that his backstory about being abused by his dad his dad being named Karl Marx I guess it was right there but I didn't know that Karl Marx was Jewish this Karl Marx's dad that was um something that came across in text messages that were given to me that uh he's quite defensive about Israel is what I would say he's he is similarly how he"
+
+**[02:03:30](/episodes/ep--9MOUvgGyi4.md#ent-person-karl-w-marx-sr-t-02-03-03)**
+> "... there but i didn't know that carl marx was jewish this carl marx's dad that was um somet..."
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1 mentions)</summary>

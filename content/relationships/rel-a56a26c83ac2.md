@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Erika Kirk](/entities/person-erika-kirk) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (30 mentions)
+### Evidence (34 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -29,9 +29,17 @@ object: "person-candace-owens"
 
 - [00:43:35](/episodes/ep-2tFYJf1klgY#t-00-43-35): _Candace Owens aggressively ridicules Erica (Erika Kirk) for using the phrase Shabbat Shalom_
 
+**[September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI)**
+
+- [00:50:52](/episodes/ep-4DvYXBn_5JI#t-00-50-52): _Ali writes or Ali pardon writes Erika went on Glenn Beck and said Charlie wasn't texting people that he was going to be killed the day before when she privately admitted to that this was false why didn't she correct the record publicly isn't that weird yes you are correct that is weird_
+
 **[Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM)**
 
 - [00:11:03](/episodes/ep-5m-Wn6Pr5rM#t-00-11-03): _She allows Andrew to look like a fool and like he's a liar, but in reality, it's Erika that's lying._
+
+**[BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU)**
+
+- [00:44:51](/episodes/ep-69A8TzAGHlU#t-00-44-51): _about what you were going to say leaning into what everyone was claiming if you ask a single question which is you obviously you think Erica (Erika Kirk) killed her husband now let me at first also state unequivocally that i do not believe that Erika Kirk murdered her husband i've never made that claim uh in public sincerely i've never made that claim what i have said and what i stand by today is that her documented lies appear to me to be rising to a level of_
 
 **[UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM)**
 
@@ -64,6 +72,10 @@ object: "person-candace-owens"
 **[HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk)**
 
 - [00:35:54](/episodes/ep-I0OaY6Gryqk#t-00-35-54): _That everything that Erika (Erika Kirk) is doing right now is normal, that it is moral, that it is righteous in any way, that it is excusable, that she has lied through her teeth, been caught so many times that it's some like stage of grieving that nobody's gone through._
+
+**[Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs)**
+
+- [00:17:21](/episodes/ep-KpxIBWkNsSs#t-00-17-21): _Welcome to the program, ladies and gentlemen. Virtually Erika (Erika Kirk)'s entire educational background has sort of just been fictionalized. And when people began pointing this out, we got yelled at. This is just par for the Erika (Erika Kirk) course._
 
 **[Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw)**
 
@@ -128,6 +140,10 @@ object: "person-candace-owens"
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 
 - [00:31:46](/episodes/ep-q1NRQQAYS_Q#t-00-31-46): _All right, you guys, let's get into Erica's story regarding her whereabouts on September 10th. Now, we've already established Erica lies and she pivots and she edits and then a bunch of people come out to protect her._
+
+**[TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ)**
+
+- [00:57:12](/episodes/ep-qZ8RWfyuewQ#t-00-57-12): _The surgeon went rogue. Andrew Kolvet went rogue. I wasn't a part of the conversation. You lied about that, Erica (Erika Kirk)._
 
 **[Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno)**
 

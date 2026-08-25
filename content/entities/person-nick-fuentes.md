@@ -1,6 +1,6 @@
 ---
 title: "Nick Fuentes"
-description: "Nick Fuentes (People) - 87 mentions"
+description: "Nick Fuentes (People) - 91 mentions"
 id: "person-nick-fuentes"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-person-nick-fuentes-t-00-46-12">2025-10-06 · 00:46:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-nick-fuentes-t-00-49-39">2026-01-28 · 00:50:09</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>87</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-nick-fuentes-t-00-24-01">2026-05-05 · 00:24:27</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>91</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>20</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -47,6 +47,8 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-nick-fuentes-t-00-34-38" style="--pulse-height:17%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-nick-fuentes-t-00-43-14" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-nick-fuentes-t-00-49-39" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-nick-fuentes-t-01-04-42" style="--pulse-height:10%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 3 mentions" title="2026-04-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-nick-fuentes-t-00-24-01" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +70,8 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-nick-fuentes-t-00-34-38) | 5 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-nick-fuentes-t-00-43-14) | 2 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-nick-fuentes-t-00-49-39) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-nick-fuentes-t-01-04-42) | 3 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-nick-fuentes-t-00-24-01) | 1 |
 
 </details>
 </section>
@@ -75,7 +79,29 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (87)</strong></summary>
+<summary><strong class="section-title">Raw mentions (91)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1 mentions)</summary>
+
+**[00:24:27](/episodes/ep-eMtjzXkQrsU.md#ent-person-nick-fuentes-t-00-24-01)**
+> "Same thing with Josh (Josh Hammer). Let's actually take a look because I want you to understand how ridiculous it is. I actually saw Nick Fuentes ranting about this and I should have pulled the clip where he was saying that."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (3 mentions)</summary>
+
+**[01:04:42](/episodes/ep-qZ8RWfyuewQ.md#ent-person-nick-fuentes-t-01-04-42)**
+> "... story was i was meeting with nick fuentes"
+
+**[01:05:31](/episodes/ep-qZ8RWfyuewQ.md#ent-person-nick-fuentes-t-01-05-04)**
+> "...with the Pope, Candace Owens, Nick Fuentes, and the alleged fire Turning Point USA leaker, A..."
+
+**[01:08:12](/episodes/ep-qZ8RWfyuewQ.md#ent-person-nick-fuentes-t-01-08-12)**
+> "...Aubrey Laitsch) I did not see Nick Fuentes I did not see David Axelrod um and yeah I just wa..."
+
+</details>
 
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>
@@ -647,7 +673,18 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Nick Fuentes (11)</strong></summary>
+<summary><strong class="section-title">Statements about Nick Fuentes (13)</strong></summary>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (2)</summary>
+
+- [01:05:31](/episodes/ep-qZ8RWfyuewQ.md#t-01-05-04) (Accusation) **Laura Loomer** (via quoted post): ["Laura Loomer alleged Candace Owens, Nick Fuentes, David Axelrod, and A..."](/statements/statement-fd8c052896c2.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [David Axelrod](/entities/person-david-axelrod.md), [Aubrey Laitsch](/entities/person-aubrey-laitsch.md)
+
+- [01:06:15](/episodes/ep-qZ8RWfyuewQ.md#t-01-05-45) (Claim) **Candace Owens**: ["Candace Owens denied meeting Aubrey Laitsch, Nick Fuentes, or David Ax..."](/statements/statement-b68d2c1bd71a.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [George Farmer](/entities/person-george-farmer.md), [Aubrey Laitsch](/entities/person-aubrey-laitsch.md)
+
+</details>
 
 <details>
 <summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (8)</summary>

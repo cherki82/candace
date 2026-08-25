@@ -1,6 +1,6 @@
 ---
 title: "FBI"
-description: "FBI (Organizations) - 529 mentions"
+description: "FBI (Organizations) - 532 mentions"
 id: "org-fbi"
 type: "ORG"
 aliases:
@@ -28,11 +28,11 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-fbi-t-00-36-23">2025-09-15 · 00:36:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-02-22-33">2026-08-14 · 02:22:33</a></strong></div>
-<div><span>Episodes</span><strong>55</strong></div>
-<div><span>Mentions</span><strong>529</strong></div>
+<div><span>Episodes</span><strong>57</strong></div>
+<div><span>Mentions</span><strong>532</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>107</strong></div>
-<div><span>Relationships</span><strong>17</strong></div>
+<div><span>Relationships</span><strong>19</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -94,6 +94,8 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-fbi-t-00-44-45" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-fbi-t-00-00-31" style="--pulse-height:33%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 10 mentions" title="2026-04-20 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-fbi-t-00-04-55" style="--pulse-height:50%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 15 mentions" title="2026-04-21 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-fbi-t-00-56-04" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-fbi-t-00-32-49" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-00-31-26" style="--pulse-height:57%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -154,6 +156,8 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-fbi-t-00-44-45) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-fbi-t-00-00-31) | 10 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-fbi-t-00-04-55) | 15 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-fbi-t-00-56-04) | 1 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-fbi-t-00-32-49) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-00-31-26) | 17 |
 
 </details>
@@ -162,7 +166,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (529)</strong></summary>
+<summary><strong class="section-title">Raw mentions (532)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (17 mentions)</summary>
@@ -217,6 +221,25 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 
 **[01:59:17](/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-01-59-17)**
 > "...nto evidence they took it The FBI,"
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (2 mentions)</summary>
+
+**[00:33:01](/episodes/ep-eMtjzXkQrsU.md#ent-org-fbi-t-00-32-49)**
+> "In the land before the fumbling of the Epstein files, which I would say was on behalf of Israel, the fumbling, she said, my first act is going to be disbanding the FBI's foreign influence task force."
+
+**[00:37:06](/episodes/ep-eMtjzXkQrsU.md#ent-org-fbi-t-00-37-02)**
+> "...ry same day, she disbands the FBI's Foreign Influence Task Force."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[00:56:40](/episodes/ep-qZ8RWfyuewQ.md#ent-org-fbi-t-00-56-04)**
+> "..., you're standing next to the FBI director that's holding up your case."
 
 </details>
 
@@ -1947,6 +1970,18 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details>
+<summary>Includes (1)</summary>
+
+- **[Foreign Influence Task Force](/entities/org-foreign-influence-task-force.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:37:06](/episodes/ep-eMtjzXkQrsU.md#t-00-37-02): “February 5th, Pam Bondi is sworn in as attorney general. On the very same day, she disbands the FBI's Foreign Influence Task Force.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Worked With (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
@@ -1959,7 +1994,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[Kash Patel](/entities/person-kash-patel.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -2005,6 +2040,13 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#t-00-04-18): “...did you know that our FBI was founded by Charles Joseph Bonaparte...”
+
+</details>
+
+- **[Foreign Influence Task Force](/entities/org-foreign-influence-task-force.md)** part of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:37:06](/episodes/ep-eMtjzXkQrsU.md#t-00-37-02): “February 5th, Pam Bondi is sworn in as attorney general. On the very same day, she disbands the FBI's Foreign Influence Task Force.”
 
 </details>
 

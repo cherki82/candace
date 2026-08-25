@@ -25,13 +25,23 @@ veracity: "mixed"
 - [Fort Huachuca](/entities/gpe-fort-huachuca.md) (gpe)
 - [Candace Owens](/entities/person-candace-owens.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Ca...
 
 **Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
 **Timestamp:** [00:32:33](/episodes/ep-DEtFh2Ff-58.md#t-00-32-05) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1953);return false;">Play</a>
 
 > Andrew was feeding information to like obscure podcasters trying to get them to attack us over Fort Huachuca.
+
+### 2. Update! Erika Did Not Go Home. Source Confirms AI Voice Tact...
+
+**Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
+**Timestamp:** [00:53:13](/episodes/ep-KpxIBWkNsSs.md#t-00-53-04) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3193);return false;">Play</a>
+
+> And then to realize that Andrew (Andrew Kolvet) was coordinating that was trying he was the one coordinating these like YouTubers Valhalla and Paramount Tactical. ... she's obviously got caught red-handed working with Andrew Kolvet to get this out through this obscure youtube channel this alibi
 
 ## Verification
 

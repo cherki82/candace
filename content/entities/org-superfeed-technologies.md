@@ -1,6 +1,6 @@
 ---
 title: "Superfeed Technologies, Inc."
-description: "Superfeed Technologies, Inc. (Organizations) - 5 mentions"
+description: "Superfeed Technologies, Inc. (Organizations) - 6 mentions"
 id: "org-superfeed-technologies"
 type: "ORG"
 aliases:
@@ -25,9 +25,9 @@ Source: [Entity Details: SUPERFEED TECHNOLOGIES, INC. | Arizona Corporation Comm
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-superfeed-technologies-t-00-00-01">2026-02-28 · 00:00:30</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53">2026-03-11 · 00:26:08</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -52,7 +52,7 @@ Source: [Entity Details: SUPERFEED TECHNOLOGIES, INC. | Arizona Corporation Comm
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
 
 <details>
 <summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1 mentions)</summary>
@@ -82,20 +82,22 @@ Source: [Entity Details: SUPERFEED TECHNOLOGIES, INC. | Arizona Corporation Comm
 <summary>Has Board Member (2)</summary>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:00:30](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01): “Lori Frantzve, despite being ill, has recently been put on the board of Superfeed Technologies alongside Turning Point Action's COO.”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:26:08](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53): “Superfeed incorporated where Erika (Erika Kirk)'s mother is serving as a board member with Tyler Bowyer?”
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:28:46](/episodes/ep-_vg7ucP1E0g.md#t-00-28-35): “We have that in November. Her mother establishes G-Tech Industries LLC. I know you're going to say, what is it do? ... You know, it's Lori (Lori Frantzve). So it's like this. She's doing this whole EMP thing and she's getting money and she's. ... Super Feed Technologies is the company that both Erika's (Erika Kirk's) mother and Tyler Bowyer are on the board of.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:49:57](/episodes/ep-4DvYXBn_5JI.md#t-00-49-36): “I'm blanking on the name of the company that she is on the board of with Tyler Bowyer. ... They act super feed. The super feed actually powers the Turning Point USA website. So the app, pardon me.”
 
 </details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:00:30](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01): “Lori Frantzve, despite being ill, has recently been put on the board of Superfeed Technologies alongside Turning Point Action's COO. Oh, Tyler Bowyer, shady dude.”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:26:08](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53): “Superfeed incorporated where Erika (Erika Kirk)'s mother is serving as a board member with Tyler Bowyer?”
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:28:46](/episodes/ep-_vg7ucP1E0g.md#t-00-28-35): “Super Feed Technologies is the company that both Erika's (Erika Kirk's) mother and Tyler Bowyer are on the board of.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:49:57](/episodes/ep-4DvYXBn_5JI.md#t-00-49-36): “I'm blanking on the name of the company that she is on the board of with Tyler Bowyer. ... They act super feed. The super feed actually powers the Turning Point USA website. So the app, pardon me.”
 
 </details>
 
@@ -105,20 +107,22 @@ Source: [Entity Details: SUPERFEED TECHNOLOGIES, INC. | Arizona Corporation Comm
 <summary>Referenced By (2)</summary>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)** board member of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:00:30](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01): “Lori Frantzve, despite being ill, has recently been put on the board of Superfeed Technologies alongside Turning Point Action's COO.”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:26:08](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53): “Superfeed incorporated where Erika (Erika Kirk)'s mother is serving as a board member with Tyler Bowyer?”
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:28:46](/episodes/ep-_vg7ucP1E0g.md#t-00-28-35): “We have that in November. Her mother establishes G-Tech Industries LLC. I know you're going to say, what is it do? ... You know, it's Lori (Lori Frantzve). So it's like this. She's doing this whole EMP thing and she's getting money and she's. ... Super Feed Technologies is the company that both Erika's (Erika Kirk's) mother and Tyler Bowyer are on the board of.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:49:57](/episodes/ep-4DvYXBn_5JI.md#t-00-49-36): “I'm blanking on the name of the company that she is on the board of with Tyler Bowyer. ... They act super feed. The super feed actually powers the Turning Point USA website. So the app, pardon me.”
 
 </details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** board member of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:00:30](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01): “Lori Frantzve, despite being ill, has recently been put on the board of Superfeed Technologies alongside Turning Point Action's COO. Oh, Tyler Bowyer, shady dude.”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:26:08](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53): “Superfeed incorporated where Erika (Erika Kirk)'s mother is serving as a board member with Tyler Bowyer?”
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:28:46](/episodes/ep-_vg7ucP1E0g.md#t-00-28-35): “Super Feed Technologies is the company that both Erika's (Erika Kirk's) mother and Tyler Bowyer are on the board of.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:49:57](/episodes/ep-4DvYXBn_5JI.md#t-00-49-36): “I'm blanking on the name of the company that she is on the board of with Tyler Bowyer. ... They act super feed. The super feed actually powers the Turning Point USA website. So the app, pardon me.”
 
 </details>
 
@@ -127,7 +131,15 @@ Source: [Entity Details: SUPERFEED TECHNOLOGIES, INC. | Arizona Corporation Comm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Superfeed Technologies, Inc. (5)</strong></summary>
+<summary><strong class="section-title">Statements about Superfeed Technologies, Inc. (6)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>
+
+- [00:49:57](/episodes/ep-4DvYXBn_5JI.md#t-00-49-36) (Claim) **Candace Owens**: ["Candace Owens said Superfeed Technologies powers the Turning Point USA..."](/statements/statement-4e1dc21816eb.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1)</summary>

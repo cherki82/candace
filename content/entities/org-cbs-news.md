@@ -1,6 +1,6 @@
 ---
 title: "CBS News"
-description: "CBS News (Organizations) - 15 mentions"
+description: "CBS News (Organizations) - 17 mentions"
 id: "org-cbs-news"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-org-cbs-news-t-00-28-48">2025-11-21 · 00:28:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-cbs-news-t-00-03-58">2026-04-16 · 00:03:58</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-cbs-news-t-00-25-00">2026-05-11 · 00:25:00</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -44,6 +44,8 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-cbs-news-t-01-12-16" style="--pulse-height:67%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-cbs-news-t-00-12-12" style="--pulse-height:33%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-cbs-news-t-00-02-31" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-cbs-news-t-00-24-01" style="--pulse-height:33%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-cbs-news-t-00-25-00" style="--pulse-height:33%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +58,8 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-cbs-news-t-01-12-16) | 2 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-cbs-news-t-00-12-12) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-cbs-news-t-00-02-31) | 3 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-cbs-news-t-00-24-01) | 1 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-cbs-news-t-00-25-00) | 1 |
 
 </details>
 </section>
@@ -63,7 +67,23 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>
+
+**[00:25:00](/episodes/ep-KpxIBWkNsSs.md#ent-org-cbs-news-t-00-25-00)**
+> "executive at cbs"
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1 mentions)</summary>
+
+**[00:24:01](/episodes/ep-eMtjzXkQrsU.md#ent-org-cbs-news-t-00-24-01)**
+> "We all have eyes, we can see their numbers and then suddenly Bari Weiss gets like, she's like, hey, you can be the head honcho at CBS News."
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (3 mentions)</summary>
@@ -154,10 +174,11 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 <summary>Employs (1)</summary>
 
 - **[Bari Weiss](/entities/person-bari-weiss.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14): “before she went on to CBS News”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:12:16](/episodes/ep-xjzb_t5Tk9o.md#t-01-12-16): “why they put Bari Weiss at CBS.”
+- [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:25:00](/episodes/ep-KpxIBWkNsSs.md#t-00-25-00): “like that i would say Bari Weiss is a perfect example like we all know she's not qualified uh to be an executive at cbs they just don't care they're just there you go Bari Weiss and this Nick Shirley thing is one of the weirdest non-beefs that i've ever had so i'm going to back up here and say i do did not follow at all the quote-unquote rise of Nick Shirley he's 24 years old um it was if i recall like very quickly after the Charlie Kirk assassination assassination”
 
 </details>
 
@@ -186,10 +207,11 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 </details>
 
 - **[Bari Weiss](/entities/person-bari-weiss.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14): “before she went on to CBS News”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:12:16](/episodes/ep-xjzb_t5Tk9o.md#t-01-12-16): “why they put Bari Weiss at CBS.”
+- [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:25:00](/episodes/ep-KpxIBWkNsSs.md#t-00-25-00): “like that i would say Bari Weiss is a perfect example like we all know she's not qualified uh to be an executive at cbs they just don't care they're just there you go Bari Weiss and this Nick Shirley thing is one of the weirdest non-beefs that i've ever had so i'm going to back up here and say i do did not follow at all the quote-unquote rise of Nick Shirley he's 24 years old um it was if i recall like very quickly after the Charlie Kirk assassination assassination”
 
 </details>
 

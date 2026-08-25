@@ -1,6 +1,6 @@
 ---
 title: "Chad Ripperger"
-description: "Chad Ripperger (People) - 4 mentions"
+description: "Chad Ripperger (People) - 5 mentions"
 id: "person-chad-ripperger"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Will the Temple Be Rebuilt? | Catholic Answers Magazine](https://www.ca
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-chad-ripperger-t-00-15-00">2026-03-09 · 00:15:00</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-chad-ripperger-t-00-59-20">2026-03-17 · 00:59:20</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep--9MOUvgGyi4.md#ent-person-chad-ripperger-t-02-11-00">2026-04-22 · 02:11:00</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -39,6 +39,7 @@ Source: [Will the Temple Be Rebuilt? | Catholic Answers Magazine](https://www.ca
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-chad-ripperger-t-00-15-00" style="--pulse-height:50%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-chad-ripperger-t-00-09-30" style="--pulse-height:100%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-chad-ripperger-t-00-59-20" style="--pulse-height:50%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-person-chad-ripperger-t-02-11-00" style="--pulse-height:50%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [Will the Temple Be Rebuilt? | Catholic Answers Magazine](https://www.ca
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-chad-ripperger-t-00-15-00) | 1 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-chad-ripperger-t-00-09-30) | 2 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-chad-ripperger-t-00-59-20) | 1 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-person-chad-ripperger-t-02-11-00) | 1 |
 
 </details>
 </section>
@@ -54,7 +56,15 @@ Source: [Will the Temple Be Rebuilt? | Catholic Answers Magazine](https://www.ca
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (1 mentions)</summary>
+
+**[02:11:00](/episodes/ep--9MOUvgGyi4.md#ent-person-chad-ripperger-t-02-11-00)**
+> "There's a really unhealthy cell here that's building with faith. It's not really faith. it's a cult i think it's actually a cult in practice is what he was doing i think there was a father if you actually spoke to a priest about everything that happened i was watching an interview with Father Ripperger (Chad Ripperger) i don't know if you got to see that I incredible"
+
+</details>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Theo Von"
-description: "Theo Von (People) - 17 mentions"
+description: "Theo Von (People) - 19 mentions"
 id: "person-theo-von"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-theo-von-t-00-46-32">2025-10-02 · 00:46:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-theo-von-t-00-53-47">2026-04-16 · 00:54:03</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-theo-von-t-01-03-15">2026-05-05 · 01:03:21</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -42,6 +42,7 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-theo-von-t-01-30-41" style="--pulse-height:20%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-theo-von-t-00-00-42" style="--pulse-height:100%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 5 mentions" title="2026-03-17 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-theo-von-t-00-52-31" style="--pulse-height:60%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-theo-von-t-01-03-15" style="--pulse-height:40%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-theo-von-t-01-30-41) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-theo-von-t-00-00-42) | 5 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-theo-von-t-00-52-31) | 3 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-theo-von-t-01-03-15) | 2 |
 
 </details>
 </section>
@@ -61,7 +63,18 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (2 mentions)</summary>
+
+**[01:03:15](/episodes/ep-eMtjzXkQrsU.md#ent-person-theo-von-t-01-03-15)**
+> "That's true. Next person writes, hating Theo Von is akin to hating a golden retriever, only a depraved psychopath."
+
+**[01:03:21](/episodes/ep-eMtjzXkQrsU.md#ent-person-theo-von-t-01-03-15)**
+> "...t really triggered me the the Theo Von thing because he he's just all heart it's like it..."
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (3 mentions)</summary>

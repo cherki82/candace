@@ -1,6 +1,6 @@
 ---
 title: "Catholicism"
-description: "Catholicism (Concepts) - 140 mentions"
+description: "Catholicism (Concepts) - 144 mentions"
 id: "concept-catholicism"
 type: "CONCEPT"
 aliases:
@@ -21,11 +21,11 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-catholicism-t-00-13-56">2026-01-06 · 00:14:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-concept-catholicism-t-00-48-50">2026-04-21 · 00:48:50</a></strong></div>
-<div><span>Episodes</span><strong>36</strong></div>
-<div><span>Mentions</span><strong>140</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-concept-catholicism-t-00-59-24">2026-05-06 · 00:59:39</a></strong></div>
+<div><span>Episodes</span><strong>39</strong></div>
+<div><span>Mentions</span><strong>144</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -70,6 +70,9 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 <a href="/episodes/ep-SubDoZWHARo.md#ent-concept-catholicism-t-01-00-15" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-catholicism-t-00-27-42" style="--pulse-height:8%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-concept-catholicism-t-00-48-24" style="--pulse-height:11%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-concept-catholicism-t-01-21-01" style="--pulse-height:8%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-catholicism-t-01-06-24" style="--pulse-height:11%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-concept-catholicism-t-00-59-24" style="--pulse-height:8%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -111,6 +114,9 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-concept-catholicism-t-01-00-15) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-concept-catholicism-t-00-27-42) | 1 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-concept-catholicism-t-00-48-24) | 2 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-concept-catholicism-t-01-21-01) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-catholicism-t-01-06-24) | 2 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-concept-catholicism-t-00-59-24) | 1 |
 
 </details>
 </section>
@@ -118,7 +124,34 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (140)</strong></summary>
+<summary><strong class="section-title">Raw mentions (144)</strong></summary>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>
+
+**[00:59:39](/episodes/ep-k1b1NDCrNFs.md#ent-concept-catholicism-t-00-59-24)**
+> "...l war and demon's gonna demon catholic gang gang my spiritual sister in christ Yeah, we'..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (2 mentions)</summary>
+
+**[01:06:45](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-catholicism-t-01-06-24)**
+> "To be a Catholic is to suffer. Our reward is not here. And I can't..."
+
+**[01:17:51](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-catholicism-t-01-06-24)**
+> "...on your confirmation into the Catholic Church. Your photos were absolutely beautiful."
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (1 mentions)</summary>
+
+**[01:21:01](/episodes/ep--9MOUvgGyi4.md#ent-concept-catholicism-t-01-21-01)**
+> "why he was able to manipulate you and why he's so like well he's got mental health issues and first off knowing that this man is supposed to be your spiritual spiritual director like mine's obviously my priest in London I couldn't imagine my priest going on an Instagram live no matter what happens like you know if I leave the Catholic church and and I become the enemy of the Catholic church there is something that is so violating about"
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (2 mentions)</summary>
@@ -730,7 +763,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Catholicism (10)</strong></summary>
+<summary><strong class="section-title">Statements about Catholicism (11)</strong></summary>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1)</summary>
+
+- [01:07:36](/episodes/ep-qZ8RWfyuewQ.md#t-01-07-11) (Claim) **Candace Owens**: ["Candace Owens said she was confirmed in the Catholic Church in Rome us..."](/statements/statement-5a4c0d1909da.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Catholic Church](/entities/org-catholic-church.md), [Rome](/entities/gpe-rome.md)
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1)</summary>

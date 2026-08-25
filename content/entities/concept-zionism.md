@@ -1,6 +1,6 @@
 ---
 title: "Zionism"
-description: "Zionism (Concepts) - 274 mentions"
+description: "Zionism (Concepts) - 279 mentions"
 id: "concept-zionism"
 type: "CONCEPT"
 aliases:
@@ -28,9 +28,9 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-concept-zionism-t-00-31-15">2025-09-18 · 00:31:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-zionism-t-00-38-37">2026-04-20 · 00:39:17</a></strong></div>
-<div><span>Episodes</span><strong>55</strong></div>
-<div><span>Mentions</span><strong>274</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-concept-zionism-t-00-48-49">2026-05-13 · 00:49:12</a></strong></div>
+<div><span>Episodes</span><strong>59</strong></div>
+<div><span>Mentions</span><strong>279</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>27</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -96,6 +96,10 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <a href="/episodes/ep-SubDoZWHARo.md#ent-concept-zionism-t-00-53-06" style="--pulse-height:14%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-concept-zionism-t-00-50-02" style="--pulse-height:14%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 2 mentions" title="2026-04-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-zionism-t-00-38-37" style="--pulse-height:8%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-zionism-t-01-04-10" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-concept-zionism-t-00-52-28" style="--pulse-height:8%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-zionism-t-00-27-26" style="--pulse-height:8%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-concept-zionism-t-00-18-59" style="--pulse-height:14%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -156,6 +160,10 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-concept-zionism-t-00-53-06) | 2 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-concept-zionism-t-00-50-02) | 2 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-concept-zionism-t-00-38-37) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-zionism-t-01-04-10) | 1 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-concept-zionism-t-00-52-28) | 1 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-concept-zionism-t-00-27-26) | 1 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-concept-zionism-t-00-18-59) | 2 |
 
 </details>
 </section>
@@ -163,7 +171,42 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (274)</strong></summary>
+<summary><strong class="section-title">Raw mentions (279)</strong></summary>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (2 mentions)</summary>
+
+**[00:19:18](/episodes/ep-7FS1tUeSfdE.md#ent-concept-zionism-t-00-18-59)**
+> "I'm often told online, particularly by Zionists"
+
+**[00:49:12](/episodes/ep-7FS1tUeSfdE.md#ent-concept-zionism-t-00-48-49)**
+> "...eople very angry particularly Zionists but you know we're winning that's what matters tr..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
+
+**[00:27:56](/episodes/ep-uC_GjKU8rs8.md#ent-concept-zionism-t-00-27-26)**
+> "...does this mean that you every Zionist has their empire collapsing? No, absolutely not. ..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1 mentions)</summary>
+
+**[00:52:59](/episodes/ep-69A8TzAGHlU.md#ent-concept-zionism-t-00-52-28)**
+> "That is not explicitly Jewish. In fact, I have been name-checking Christian Zionist pastor after Christian Zionist pastor."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[01:04:20](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-zionism-t-01-04-10)**
+> "... same day that I reported her Zionist Jewish lawyer dropping her ahead of an important ..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1 mentions)</summary>

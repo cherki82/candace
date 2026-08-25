@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) has CEO [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (26 mentions)
+### Evidence (28 mentions)
 
 **[EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM)**
 
@@ -48,6 +48,10 @@ object: "person-erika-kirk"
 **[Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4)**
 
 - [00:33:11](/episodes/ep-K5GjF53bfN4#t-00-33-11): _she is stepping into a role: a CEO and the chairman of a company, a company that got bigger than Charlie Kirk_
+
+**[Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs)**
+
+- [00:44:19](/episodes/ep-KpxIBWkNsSs#t-00-44-19): _I've had to do the same thing. Nobody's crying for me when my family's getting attacked and now all of a sudden you just think that what this was supposed to be I dub the Erika Kirk, the CEO of Upstarting Point USA._
 
 **[Coming soon...](/episodes/ep-LKR94FQ5p3o)**
 
@@ -105,6 +109,10 @@ object: "person-erika-kirk"
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 
 - [00:19:05](/episodes/ep-q1NRQQAYS_Q#t-00-19-05): _Why does that feel more like a confession to me? Like they're trying to get ahead of something like this might be the reason they didn't release it in the first place. And also, was I like under the influence or high or was it not Erica, the CEO of Turning Point USA and the team that guaranteed us that they were going to release tons of never before seen speeches and videos? They had a whole supply of them._
+
+**[TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ)**
+
+- [00:58:58](/episodes/ep-qZ8RWfyuewQ#t-00-58-58): _Andrew (Andrew Kolvet), Blake (Blake Neff) doesn't say it. There's no requirement. I support her as the head of TPUSA. There's no prohibition on me criticizing her for documented falsehoods. None._
 
 **[Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA)**
 

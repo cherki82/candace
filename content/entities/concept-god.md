@@ -1,6 +1,6 @@
 ---
 title: "God"
-description: "God (Concepts) - 402 mentions"
+description: "God (Concepts) - 442 mentions"
 id: "concept-god"
 type: "CONCEPT"
 categories:
@@ -18,10 +18,10 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-57-16">2025-09-15 · 00:57:42</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-04-03-55">2026-08-14 · 04:03:55</a></strong></div>
-<div><span>Episodes</span><strong>76</strong></div>
-<div><span>Mentions</span><strong>402</strong></div>
+<div><span>Episodes</span><strong>82</strong></div>
+<div><span>Mentions</span><strong>442</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -105,6 +105,12 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <a href="/episodes/ep-SubDoZWHARo.md#t-00-16-56" style="--pulse-height:20%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 6 mentions" title="2026-04-15 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#t-00-36-25" style="--pulse-height:20%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 6 mentions" title="2026-04-16 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#t-00-34-01" style="--pulse-height:10%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 3 mentions" title="2026-04-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#t-00-33-55" style="--pulse-height:53%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 16 mentions" title="2026-04-22 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#t-00-11-04" style="--pulse-height:33%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 10 mentions" title="2026-04-29 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#t-00-08-37" style="--pulse-height:27%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 8 mentions" title="2026-05-04 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#t-01-05-18" style="--pulse-height:8%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#t-00-08-03" style="--pulse-height:10%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 3 mentions" title="2026-05-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#t-00-05-52" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34" style="--pulse-height:13%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -186,6 +192,12 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#t-00-16-56) | 6 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#t-00-36-25) | 6 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#t-00-34-01) | 3 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#t-00-33-55) | 16 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#t-00-11-04) | 10 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#t-00-08-37) | 8 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#t-01-05-18) | 1 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#t-00-08-03) | 3 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#t-00-05-52) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34) | 4 |
 
 </details>
@@ -194,7 +206,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (402)</strong></summary>
+<summary><strong class="section-title">Raw mentions (442)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -210,6 +222,156 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 
 **[04:03:55](/episodes/ep-nPhCKwJ6ye8.md#t-04-03-55)**
 > "...eing said take care everybody god bless have a great weekend"
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (2 mentions)</summary>
+
+**[00:06:05](/episodes/ep-KpxIBWkNsSs.md#t-00-05-52)**
+> "God forbid if something happens"
+
+**[00:08:01](/episodes/ep-KpxIBWkNsSs.md#t-00-07-46)**
+> "...hem become pastors, they find God and they find Turning Point like at almost the sa..."
+
+</details>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (3 mentions)</summary>
+
+**[00:08:03](/episodes/ep-FFQ9675oqRI.md#t-00-08-03)**
+> "... just strengthens my faith in God.’"
+
+**[00:39:21](/episodes/ep-FFQ9675oqRI.md#t-00-39-07)**
+> "... to find for being his David. God bless your friendship. It is everlasting. He knew..."
+
+**[00:40:59](/episodes/ep-FFQ9675oqRI.md#t-00-40-29)**
+> "...Lorette writes, ‘Candace, may God continue to bless you on this journey. My daughte..."
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>
+
+**[01:05:28](/episodes/ep-k1b1NDCrNFs.md#t-01-05-18)**
+> "Go Max, Candace, God bless and keep you, George (George Farmer) and yo..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (8 mentions)</summary>
+
+**[00:08:37](/episodes/ep-uC_GjKU8rs8.md#t-00-08-37)**
+> "God will not be mocked. It's a strong start to say Ch..."
+
+**[00:25:38](/episodes/ep-uC_GjKU8rs8.md#t-00-25-20)**
+> "God will not be mocked. Money seems to be everything ..."
+
+**[00:52:19](/episodes/ep-uC_GjKU8rs8.md#t-00-52-19)**
+> "...ly we instinctively recognize god's light in theo just as we recognize the darkness..."
+
+**[00:58:02](/episodes/ep-uC_GjKU8rs8.md#t-00-57-56)**
+> "...rites look on ben's face when god shows him the literal meaning of isaiah"
+
+**[00:58:31](/episodes/ep-uC_GjKU8rs8.md#t-00-57-56)**
+> "...ks you shall fall before you. God is fighting your battles and is Christ is King."
+
+**[00:59:46](/episodes/ep-uC_GjKU8rs8.md#t-00-59-46)**
+> "...contemplative just praying to god humbling himself before the lord his entire life ..."
+
+**[01:01:02](/episodes/ep-uC_GjKU8rs8.md#t-01-00-30)**
+> "...g our young women that loving God, your children and your husband is beautiful."
+
+**[01:01:09](/episodes/ep-uC_GjKU8rs8.md#t-01-01-09)**
+> "...eepening my relationship with God uh and just being an amazing husband and standing..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (10 mentions)</summary>
+
+**[00:11:21](/episodes/ep-qZ8RWfyuewQ.md#t-00-11-04)**
+> "...le, but I was bargaining with God. I remember specifically saying I don't even care..."
+
+**[00:12:40](/episodes/ep-qZ8RWfyuewQ.md#t-00-12-26)**
+> "...serting this, but I felt like God was giving me a little bit of a test before I had..."
+
+**[00:13:12](/episodes/ep-qZ8RWfyuewQ.md#t-00-13-02)**
+> "...felt completely that I was at God's mercy. I wanted to sort of keep my circle reall..."
+
+**[00:44:13](/episodes/ep-qZ8RWfyuewQ.md#t-00-43-28)**
+> "God help him."
+
+**[00:58:43](/episodes/ep-qZ8RWfyuewQ.md#t-00-58-23)**
+> "...ou and support you because my God, you're a widow. It doesn't exist."
+
+**[01:07:07](/episodes/ep-qZ8RWfyuewQ.md#t-01-06-24)**
+> "God bless you. Thank you so much."
+
+**[01:09:44](/episodes/ep-qZ8RWfyuewQ.md#t-01-09-21)**
+> "And God picks his soldiers. You know, you are never given..."
+
+**[01:18:51](/episodes/ep-qZ8RWfyuewQ.md#t-01-18-51)**
+> "...ou know and um it's just yeah god has been very very good kelly martini writes some..."
+
+**[01:19:17](/episodes/ep-qZ8RWfyuewQ.md#t-01-19-17)**
+> "...ness JQ writes please no dear god don't make us listen to Erica (Erika Kirk) that's..."
+
+**[01:20:10](/episodes/ep-qZ8RWfyuewQ.md#t-01-20-01)**
+> "...t you are all about the truth God bless you and your family always thank you uh so ..."
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (16 mentions)</summary>
+
+**[00:33:55](/episodes/ep--9MOUvgGyi4.md#t-00-33-55)**
+> "And God ordained it. What do you know? Just the night before."
+
+**[00:12:01](/episodes/ep--9MOUvgGyi4.md#t-00-12-01)**
+> "... you know, I feel the hand of God on y'all or God's favor. I feel God's favor on y'..."
+
+**[00:20:29](/episodes/ep--9MOUvgGyi4.md#t-00-20-26)**
+> "...elieves that he's anointed by God as some type of apostle."
+
+**[00:27:56](/episodes/ep--9MOUvgGyi4.md#t-00-27-47)**
+> "What is the one truth that God's trying to tell Corby (Corby Hall) that you're b..."
+
+**[00:32:58](/episodes/ep--9MOUvgGyi4.md#t-00-32-40)**
+> "...l not coincidental at all but god ordained that we met and that i'm bringing this r..."
+
+**[00:37:17](/episodes/ep--9MOUvgGyi4.md#t-00-37-17)**
+> "..., it's all about this is what God wants and this is like, you know."
+
+**[00:39:00](/episodes/ep--9MOUvgGyi4.md#t-00-39-00)**
+> "...of you are, you know, in this God vision together."
+
+**[01:16:57](/episodes/ep--9MOUvgGyi4.md#t-01-16-57)**
+> "...king lot I was crying and and God telling me that if I do this he's not going to ta..."
+
+**[01:23:11](/episodes/ep--9MOUvgGyi4.md#t-01-22-58)**
+> "can't do this because God won't take you. So I'm telling him at the same ti..."
+
+**[01:30:46](/episodes/ep--9MOUvgGyi4.md#t-01-30-46)**
+> "...rs for Christ or warriors for God or something like that."
+
+**[02:07:28](/episodes/ep--9MOUvgGyi4.md#t-02-07-28)**
+> "... we're being told this is all god ordained and this is who you have to follow and t..."
+
+**[02:07:52](/episodes/ep--9MOUvgGyi4.md#t-02-07-52)**
+> "...us publicly like this is what God has ordained and nobody should question this."
+
+**[02:31:23](/episodes/ep--9MOUvgGyi4.md#t-02-31-12)**
+> "...w, they're not doing right by God, which is the wildest piece of the manipulation."
+
+**[02:31:36](/episodes/ep--9MOUvgGyi4.md#t-02-31-12)**
+> "...me, you're not doing right by God and putting themselves in positions of power over..."
+
+**[02:35:27](/episodes/ep--9MOUvgGyi4.md#t-02-35-17)**
+> "...ted Israel, Hosea represented God or Jesus (Jesus Christ). And so he did it and Gom..."
+
+**[02:36:12](/episodes/ep--9MOUvgGyi4.md#t-02-35-53)**
+> "... they've rejected Christ, but God does still have his arms open. The promise is sti..."
 
 </details>
 
@@ -1789,7 +1951,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about God (5)</strong></summary>
+<summary><strong class="section-title">Statements about God (6)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1)</summary>
+
+- [00:08:03](/episodes/ep-FFQ9675oqRI.md#t-00-08-03) (Opinion) **Mikhaila Fuller** (via quoted post): ["Mikhaila Fuller wrote that the video of Erika Kirk showed what PTSD lo..."](/statements/statement-86aefcd934cc.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Post-Traumatic Stress Disorder](/entities/concept-post-traumatic-stress-disorder.md)
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>

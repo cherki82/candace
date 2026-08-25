@@ -11,7 +11,11 @@ object: "person-brigitte-macron"
 
 ## [Emmanuel Macron](/entities/person-emmanuel-macron) married to [Brigitte Macron](/entities/person-brigitte-macron)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE)**
+
+- [00:35:19](/episodes/ep-7FS1tUeSfdE#t-00-35-19): _And there's a New Times headline here that we can show you Brigitte Macron slapped husband over text messages to an actress. So everybody kind of knows Emmanuel Macron's gay._
 
 **[REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM)**
 

@@ -1,6 +1,6 @@
 ---
 title: "YouTube"
-description: "YouTube (Organizations) - 104 mentions"
+description: "YouTube (Organizations) - 124 mentions"
 id: "org-youtube"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [About YouTube](https://about.youtube/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-youtube-t-00-41-28">2025-09-18 · 00:42:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-youtube-t-00-52-49">2026-03-26 · 00:53:14</a></strong></div>
-<div><span>Episodes</span><strong>41</strong></div>
-<div><span>Mentions</span><strong>104</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-youtube-t-00-48-09">2026-05-13 · 00:48:36</a></strong></div>
+<div><span>Episodes</span><strong>48</strong></div>
+<div><span>Mentions</span><strong>124</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -72,6 +72,13 @@ Source: [About YouTube](https://about.youtube/)
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-youtube-t-00-35-00" style="--pulse-height:21%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 4 mentions" title="2026-03-24 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-youtube-t-00-48-35" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-youtube-t-00-52-49" style="--pulse-height:11%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-youtube-t-00-02-02" style="--pulse-height:16%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 3 mentions" title="2026-04-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-youtube-t-00-10-05" style="--pulse-height:32%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 6 mentions" title="2026-05-04 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-youtube-t-00-17-37" style="--pulse-height:11%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-youtube-t-00-07-03" style="--pulse-height:21%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 4 mentions" title="2026-05-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-org-youtube-t-00-35-21" style="--pulse-height:8%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-youtube-t-00-45-16" style="--pulse-height:11%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-youtube-t-00-47-13" style="--pulse-height:11%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -118,6 +125,13 @@ Source: [About YouTube](https://about.youtube/)
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-youtube-t-00-35-00) | 4 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-youtube-t-00-48-35) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-org-youtube-t-00-52-49) | 2 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-youtube-t-00-02-02) | 3 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-youtube-t-00-10-05) | 6 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-youtube-t-00-17-37) | 2 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-youtube-t-00-07-03) | 4 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-org-youtube-t-00-35-21) | 1 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-youtube-t-00-45-16) | 2 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-org-youtube-t-00-47-13) | 2 |
 
 </details>
 </section>
@@ -125,7 +139,102 @@ Source: [About YouTube](https://about.youtube/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (104)</strong></summary>
+<summary><strong class="section-title">Raw mentions (124)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (2 mentions)</summary>
+
+**[00:47:13](/episodes/ep-4DvYXBn_5JI.md#ent-org-youtube-t-00-47-13)**
+> "come in on uh youtube"
+
+**[00:48:36](/episodes/ep-4DvYXBn_5JI.md#ent-org-youtube-t-00-48-09)**
+> "...ou guys for pulling that from YouTube."
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (2 mentions)</summary>
+
+**[00:45:23](/episodes/ep-KpxIBWkNsSs.md#ent-org-youtube-t-00-45-16)**
+> "other YouTube channels"
+
+**[00:53:36](/episodes/ep-KpxIBWkNsSs.md#ent-org-youtube-t-00-53-36)**
+> "...this out through this obscure youtube channel this alibi After she told me that they ha..."
+
+</details>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>
+
+**[00:35:59](/episodes/ep-FFQ9675oqRI.md#ent-org-youtube-t-00-35-21)**
+> "...ed 12,000 more subscribers on YouTube to hit 6 million."
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (4 mentions)</summary>
+
+**[00:07:03](/episodes/ep-k1b1NDCrNFs.md#ent-org-youtube-t-00-07-03)**
+> "...ll over the x spaces all over YouTube and they're like and they and then I thought well..."
+
+**[00:14:24](/episodes/ep-k1b1NDCrNFs.md#ent-org-youtube-t-00-14-18)**
+> "So this is the YouTube military boys insisting that I speak with them so..."
+
+**[00:17:04](/episodes/ep-k1b1NDCrNFs.md#ent-org-youtube-t-00-17-04)**
+> "...t. According to this military YouTube bro."
+
+**[01:07:24](/episodes/ep-k1b1NDCrNFs.md#ent-org-youtube-t-01-07-10)**
+> "...re to cross over 6 million on YouTube. If you're on YouTube right now, hit the subscrib..."
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (2 mentions)</summary>
+
+**[00:18:04](/episodes/ep-eMtjzXkQrsU.md#ent-org-youtube-t-00-17-37)**
+> "in targeting Gen Z audiences across platforms, TikTok, Instagram, YouTube, podcasts, and other relevant digital and broadcast outlets."
+
+**[00:25:26](/episodes/ep-eMtjzXkQrsU.md#ent-org-youtube-t-00-25-22)**
+> "... hitting the wrong buttons on youtube and accidentally and they go let's play it for 10..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (6 mentions)</summary>
+
+**[00:10:27](/episodes/ep-uC_GjKU8rs8.md#ent-org-youtube-t-00-10-05)**
+> "... peak in late 2023. Shapiro's YouTube alone pulled 170 million monthly views. Daily Wir..."
+
+**[00:11:19](/episodes/ep-uC_GjKU8rs8.md#ent-org-youtube-t-00-11-19)**
+> "Today, she has 5.5 million YouTube subscribers and added 10.9 million followers acro..."
+
+**[00:11:48](/episodes/ep-uC_GjKU8rs8.md#ent-org-youtube-t-00-11-19)**
+> "million monthly YouTube views in late 2023 through roughly 22 million in ..."
+
+**[00:12:15](/episodes/ep-uC_GjKU8rs8.md#ent-org-youtube-t-00-11-59)**
+> "...ly's network drew 138 million YouTube views in February alone. The personalities figure..."
+
+**[00:22:37](/episodes/ep-uC_GjKU8rs8.md#ent-org-youtube-t-00-22-37)**
+> "... like when they're hitting my YouTube page that we monetize the page and we have advert..."
+
+**[00:30:31](/episodes/ep-uC_GjKU8rs8.md#ent-org-youtube-t-00-30-14)**
+> "...ng of the views, everybody in YouTube world knew Ben (Ben Shapiro) is buying he's buyin..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (3 mentions)</summary>
+
+**[00:02:02](/episodes/ep-qZ8RWfyuewQ.md#ent-org-youtube-t-00-02-02)**
+> "...y, I had to rebuild my entire YouTube channel from scratch after being gloriously publi..."
+
+**[00:12:26](/episodes/ep-qZ8RWfyuewQ.md#ent-org-youtube-t-00-12-26)**
+> "...r the first time my political YouTube channel, having no idea how successful it would b..."
+
+**[00:13:18](/episodes/ep-qZ8RWfyuewQ.md#ent-org-youtube-t-00-13-02)**
+> "...me upload my first video onto YouTube."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (2 mentions)</summary>
@@ -654,7 +763,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about YouTube (10)</strong></summary>
+<summary><strong class="section-title">Statements about YouTube (11)</strong></summary>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1)</summary>
+
+- [00:30:31](/episodes/ep-uC_GjKU8rs8.md#t-00-30-14) (Accusation) **Candace Owens**: ["Ben Shapiro is buying YouTube views through advertising."](/statements/statement-1e81c1544e1c.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (7)</summary>

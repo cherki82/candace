@@ -1,6 +1,6 @@
 ---
 title: "University of Georgia"
-description: "University of Georgia (Organizations) - 10 mentions"
+description: "University of Georgia (Organizations) - 15 mentions"
 id: "org-university-of-georgia"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [About the University of Georgia](https://www.uga.edu/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-org-university-of-georgia-t-00-01-31">2026-04-15 · 00:01:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-university-of-georgia-t-00-24-11">2026-04-20 · 00:24:17</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-university-of-georgia-t-01-00-37">2026-04-29 · 01:00:37</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,6 +38,8 @@ Source: [About the University of Georgia](https://www.uga.edu/about/)
 <a href="/episodes/ep-SubDoZWHARo.md#ent-org-university-of-georgia-t-00-01-31" style="--pulse-height:100%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 6 mentions" title="2026-04-15 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-university-of-georgia-t-00-01-22" style="--pulse-height:33%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 2 mentions" title="2026-04-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-university-of-georgia-t-00-22-53" style="--pulse-height:33%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-org-university-of-georgia-t-02-09-45" style="--pulse-height:17%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-university-of-georgia-t-00-34-56" style="--pulse-height:67%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 4 mentions" title="2026-04-29 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +48,8 @@ Source: [About the University of Georgia](https://www.uga.edu/about/)
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-university-of-georgia-t-00-01-31) | 6 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-university-of-georgia-t-00-01-22) | 2 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-university-of-georgia-t-00-22-53) | 2 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-university-of-georgia-t-02-09-45) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-university-of-georgia-t-00-34-56) | 4 |
 
 </details>
 </section>
@@ -53,7 +57,32 @@ Source: [About the University of Georgia](https://www.uga.edu/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (4 mentions)</summary>
+
+**[00:34:56](/episodes/ep-qZ8RWfyuewQ.md#ent-org-university-of-georgia-t-00-34-56)**
+> "...'m just getting flashbacks to UGA. Erica (Erika Kirk) misses her appointment."
+
+**[00:35:03](/episodes/ep-qZ8RWfyuewQ.md#ent-org-university-of-georgia-t-00-34-56)**
+> "... going. We didn't speak about UGA. We didn't say don't go. Suddenly we got the vice..."
+
+**[00:48:04](/episodes/ep-qZ8RWfyuewQ.md#ent-org-university-of-georgia-t-00-47-50)**
+> "... clean it up. It's similar to UGA."
+
+**[01:00:37](/episodes/ep-qZ8RWfyuewQ.md#ent-org-university-of-georgia-t-01-00-37)**
+> "...y event at the last second to UGA team."
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (1 mentions)</summary>
+
+**[02:09:45](/episodes/ep--9MOUvgGyi4.md#ent-org-university-of-georgia-t-02-09-45)**
+> "And when I say that we are going through this on a large scale and it was exactly how I just my experience with Turning Point after, when you walked in tonight, I was on the phone with actually the president of the University of Georgia and she up in this sort of sorry for the Turning Point USA chapter and there had just been this situation where."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (2 mentions)</summary>
@@ -110,7 +139,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about University of Georgia (4)</strong></summary>
+<summary><strong class="section-title">Statements about University of Georgia (5)</strong></summary>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (1)</summary>
+
+- [02:09:56](/episodes/ep--9MOUvgGyi4.md#t-02-09-45) (Accusation) **Candace Owens**: ["Candace Owens said Erika Kirk abandoned a University of Georgia appear..."](/statements/statement-31f325b4d73f.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (2)</summary>

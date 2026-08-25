@@ -1,6 +1,6 @@
 ---
 title: "United States Congress"
-description: "United States Congress (Organizations) - 17 mentions"
+description: "United States Congress (Organizations) - 19 mentions"
 id: "org-united-states-congress"
 type: "ORG"
 aliases:
@@ -24,10 +24,10 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-united-states-congress-t-00-30-27">2025-09-15 · 00:30:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-united-states-congress-t-00-38-37">2026-04-20 · 00:39:07</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-69A8TzAGHlU.md#ent-org-united-states-congress-t-00-53-50">2026-04-30 · 00:53:57</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -51,6 +51,8 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-united-states-congress-t-00-41-41" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-united-states-congress-t-00-42-23" style="--pulse-height:50%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-united-states-congress-t-00-38-37" style="--pulse-height:50%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-united-states-congress-t-00-04-00" style="--pulse-height:50%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-org-united-states-congress-t-00-53-50" style="--pulse-height:50%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -70,6 +72,8 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-united-states-congress-t-00-41-41) | 2 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-united-states-congress-t-00-42-23) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-united-states-congress-t-00-38-37) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-united-states-congress-t-00-04-00) | 1 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-org-united-states-congress-t-00-53-50) | 1 |
 
 </details>
 </section>
@@ -77,7 +81,23 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1 mentions)</summary>
+
+**[00:53:57](/episodes/ep-69A8TzAGHlU.md#ent-org-united-states-congress-t-00-53-50)**
+> "You can just say whatever you want. It's Congress. This is like filing a lawsuit. You just put things in there."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[00:04:20](/episodes/ep-qZ8RWfyuewQ.md#ent-org-united-states-congress-t-00-04-00)**
+> "... talking points. If you're in Congress, vote how we want you to vote. If you're in media..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1 mentions)</summary>
@@ -206,6 +226,19 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by United States Congress (1)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1)</summary>
+
+- [00:52:04](/episodes/ep-69A8TzAGHlU.md#t-00-51-44) [✓] (Accusation) ["A proposed U.S. House resolution says Candace Owens spread conspiracy theories a..."](/statements/statement-e31814354561.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
+
+</details>
 
 </details>
 

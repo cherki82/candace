@@ -23,13 +23,23 @@ type: "accusation"
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
 - [Arizona State University](/entities/org-arizona-state-university.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309
 
 **Episode:** [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md)
 **Timestamp:** [00:31:42](/episodes/ep-ZzAT2xijKGQ.md#t-00-31-23) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1902);return false;">Play</a>
 
 > no one can even confirm that she did graduate summa cum laude from ASU. But by the way, she has since removed that from her bio.
+
+### 2. Update! Erika Did Not Go Home. Source Confirms AI Voice Tact...
+
+**Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
+**Timestamp:** [00:18:00](/episodes/ep-KpxIBWkNsSs.md#t-00-18-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1080);return false;">Play</a>
+
+> Years later, she would edit that credential. She just kind of upgraded it on her LinkedIn page when she wrote that she graduated summa cum laude, right? With a double degree, I should mention, you can take a look at this, her LinkedIn page in political science and international relations. This is the old LinkedIn page. It since has been removed. Turns out she didn't graduate magna cum laude and she also didn't graduate summa cum laude.
 
 ## Verification
 

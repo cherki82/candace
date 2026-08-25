@@ -1,6 +1,6 @@
 ---
 title: "Michael McCoy"
-description: "Michael McCoy (People) - 260 mentions"
+description: "Michael McCoy (People) - 281 mentions"
 id: "person-michael-mccoy"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-michael-mccoy-t-00-19-30">2025-10-01 · 00:19:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-michael-mccoy-t-00-02-03">2026-04-21 · 00:02:26</a></strong></div>
-<div><span>Episodes</span><strong>48</strong></div>
-<div><span>Mentions</span><strong>260</strong></div>
-<div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>48</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-michael-mccoy-t-00-09-46">2026-05-13 · 00:10:04</a></strong></div>
+<div><span>Episodes</span><strong>51</strong></div>
+<div><span>Mentions</span><strong>281</strong></div>
+<div><span>Statements by</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>51</strong></div>
 <div><span>Relationships</span><strong>21</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -85,6 +85,9 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-michael-mccoy-t-00-00-22" style="--pulse-height:23%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 9 mentions" title="2026-04-02 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-person-michael-mccoy-t-00-04-09" style="--pulse-height:8%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 3 mentions" title="2026-04-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-michael-mccoy-t-00-02-03" style="--pulse-height:8%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-michael-mccoy-t-00-07-41" style="--pulse-height:18%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 7 mentions" title="2026-04-30 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-michael-mccoy-t-00-28-35" style="--pulse-height:33%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 13 mentions" title="2026-05-05 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-michael-mccoy-t-00-09-46" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -138,6 +141,9 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-michael-mccoy-t-00-00-22) | 9 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-michael-mccoy-t-00-04-09) | 3 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-michael-mccoy-t-00-02-03) | 1 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-person-michael-mccoy-t-00-07-41) | 7 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-michael-mccoy-t-00-28-35) | 13 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-michael-mccoy-t-00-09-46) | 1 |
 
 </details>
 </section>
@@ -145,7 +151,85 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (260)</strong></summary>
+<summary><strong class="section-title">Raw mentions (281)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1 mentions)</summary>
+
+**[00:10:04](/episodes/ep-4DvYXBn_5JI.md#ent-person-michael-mccoy-t-00-09-46)**
+> "Mikey McCoy"
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (13 mentions)</summary>
+
+**[00:28:35](/episodes/ep-eMtjzXkQrsU.md#ent-person-michael-mccoy-t-00-28-35)**
+> "Now, I remember thinking that people who were involved with the show were promised a small piece of the show, and I am wondering now if that includes Blake Neff and Mikey (Mikey McCoy) as well."
+
+**[00:58:40](/episodes/ep-eMtjzXkQrsU.md#ent-person-michael-mccoy-t-00-58-24)**
+> "...'s also been a lot said about Mikey McCoy, and I want to address that as well."
+
+**[00:58:44](/episodes/ep-eMtjzXkQrsU.md#ent-person-michael-mccoy-t-00-58-24)**
+> "There have been people saying Mikey McCoy in all this was the good guy for getting that mes..."
+
+**[00:58:55](/episodes/ep-eMtjzXkQrsU.md#ent-person-michael-mccoy-t-00-58-24)**
+> "...e and intentionally pushed on Mikey McCoy because I sensed right away that something was we..."
+
+**[00:59:08](/episodes/ep-eMtjzXkQrsU.md#ent-person-michael-mccoy-t-00-59-08)**
+> "the amazing Mikey McCoy, the stupendous Mikey McCoy. Mikey (Mikey McCoy) ..."
+
+**[00:59:12](/episodes/ep-eMtjzXkQrsU.md#ent-person-michael-mccoy-t-00-59-08)**
+> "Mikey (Mikey McCoy) was so amazing. Amazing. They couldn't say his n..."
+
+**[00:59:32](/episodes/ep-eMtjzXkQrsU.md#ent-person-michael-mccoy-t-00-59-08)**
+> "I feel that Mikey (Mikey McCoy) wasn't sure. They lied when they said Mikey (Mik..."
+
+**[00:59:41](/episodes/ep-eMtjzXkQrsU.md#ent-person-michael-mccoy-t-00-59-08)**
+> "...'s all not true. Nope. Mikey (Mikey McCoy) was an absolute mess at the hospital. Mikey (Mik..."
+
+**[00:59:53](/episodes/ep-eMtjzXkQrsU.md#ent-person-michael-mccoy-t-00-59-53)**
+> "...th this narrative that Mikey (Mikey McCoy) suddenly under a rush of adrenaline was like org..."
+
+**[01:00:01](/episodes/ep-eMtjzXkQrsU.md#ent-person-michael-mccoy-t-00-59-53)**
+> "That's not true. Mikey (Mikey McCoy) was a mess. According to my sources, Mikey (Mike..."
+
+**[01:00:20](/episodes/ep-eMtjzXkQrsU.md#ent-person-michael-mccoy-t-00-59-53)**
+> "...because you know what, Mikey (Mikey McCoy), if you're watching the show, Charlie (Charlie K..."
+
+**[01:00:41](/episodes/ep-eMtjzXkQrsU.md#ent-person-michael-mccoy-t-01-00-35)**
+> "...ge needed to be delivered but mikey you don't you don't have to you don't have to kee..."
+
+**[01:01:12](/episodes/ep-eMtjzXkQrsU.md#ent-person-michael-mccoy-t-01-00-35)**
+> "...do want to say that to Mikey (Mikey McCoy)."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (7 mentions)</summary>
+
+**[00:08:07](/episodes/ep-69A8TzAGHlU.md#ent-person-michael-mccoy-t-00-07-41)**
+> "Oh, they were picking up phone calls like Mikey McCoy. They were already filming themselves prematurely announcing Charlie (Charlie Kirk) is dead when not a single person could have known that Charlie Kirk was dead."
+
+**[00:08:18](/episodes/ep-69A8TzAGHlU.md#ent-person-michael-mccoy-t-00-07-41)**
+> "...he immediate actions taken by Mikey McCoy and Terrell Farnsworth."
+
+**[00:35:25](/episodes/ep-69A8TzAGHlU.md#ent-person-michael-mccoy-t-00-35-08)**
+> "...ringing up Terrell Farnsworth mikey mccoy you're bringing up these episodes where we discus..."
+
+**[00:48:59](/episodes/ep-69A8TzAGHlU.md#ent-person-michael-mccoy-t-00-48-38)**
+> "No, it was Mikey McCoy."
+
+**[00:49:04](/episodes/ep-69A8TzAGHlU.md#ent-person-michael-mccoy-t-00-48-38)**
+> "So Mikey McCoy got a message out to me via a third party person ..."
+
+**[00:49:17](/episodes/ep-69A8TzAGHlU.md#ent-person-michael-mccoy-t-00-48-38)**
+> "Why would Mikey McCoy say that I should look more into you? When I did ..."
+
+**[00:49:36](/episodes/ep-69A8TzAGHlU.md#ent-person-michael-mccoy-t-00-49-36)**
+> "...ngs were weird and then I got Mikey McCoy telling me to look more into you you"
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1 mentions)</summary>
@@ -1409,7 +1493,15 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Michael McCoy (3)</strong></summary>
+<summary><strong class="section-title">Statements by Michael McCoy (4)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1)</summary>
+
+- [00:49:04](/episodes/ep-69A8TzAGHlU.md#t-00-48-38) [○] (Citation) ["Michael McCoy sent Candace Owens a message through a third party telling her to ..."](/statements/statement-f7a3f2686842.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
@@ -1438,7 +1530,25 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Michael McCoy (48)</strong></summary>
+<summary><strong class="section-title">Statements about Michael McCoy (51)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1)</summary>
+
+- [01:00:01](/episodes/ep-eMtjzXkQrsU.md#t-00-59-53) (Claim) **Anonymous Source #4 (Ep eMtjzXkQrsU)** (via read message): ["Michael McCoy was an absolute mess at the hospital."](/statements/statement-097658b584b9.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2)</summary>
+
+- [00:07:22](/episodes/ep-69A8TzAGHlU.md#t-00-06-57) (Claim) **Candace Owens**: ["The cited episode never mentioned Brian Harpole; its disputed quotatio..."](/statements/statement-9726775ea5c0.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+- [00:49:04](/episodes/ep-69A8TzAGHlU.md#t-00-48-38) (Citation) **Michael McCoy** (via read message): ["Michael McCoy sent Candace Owens a message through a third party telli..."](/statements/statement-f7a3f2686842.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>

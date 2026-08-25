@@ -1,6 +1,6 @@
 ---
 title: "Taylor Swift"
-description: "Taylor Swift (People) - 29 mentions"
+description: "Taylor Swift (People) - 35 mentions"
 id: "person-taylor-swift"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-taylor-swift-t-00-38-16">2025-11-06 · 00:38:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-person-taylor-swift-t-00-22-53">2026-04-15 · 00:23:19</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>29</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-taylor-swift-t-00-52-53">2026-05-05 · 00:53:19</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>7</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -41,6 +41,9 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-taylor-swift-t-00-24-46" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 16 mentions" title="2026-01-21 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-taylor-swift-t-00-12-46" style="--pulse-height:8%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-taylor-swift-t-00-22-53" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-taylor-swift-t-00-08-30" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-taylor-swift-t-00-53-45" style="--pulse-height:8%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-taylor-swift-t-00-44-12" style="--pulse-height:25%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 4 mentions" title="2026-05-05 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +55,9 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-taylor-swift-t-00-24-46) | 16 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-taylor-swift-t-00-12-46) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-taylor-swift-t-00-22-53) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-taylor-swift-t-00-08-30) | 1 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-taylor-swift-t-00-53-45) | 1 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-taylor-swift-t-00-44-12) | 4 |
 
 </details>
 </section>
@@ -59,7 +65,40 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (4 mentions)</summary>
+
+**[00:44:12](/episodes/ep-eMtjzXkQrsU.md#ent-person-taylor-swift-t-00-44-12)**
+> "I mean, she took this far. It was basically like, I'm big, you're small, we're best friends with Taylor Swift."
+
+**[00:45:25](/episodes/ep-eMtjzXkQrsU.md#ent-person-taylor-swift-t-00-45-25)**
+> "...cided to I'm going you've got Taylor Swift around you I feel like I've heard rumors you're v..."
+
+**[00:46:44](/episodes/ep-eMtjzXkQrsU.md#ent-person-taylor-swift-t-00-46-44)**
+> "...and i graduated to a class of taylor swift is our best friend we will do as we please so it ..."
+
+**[00:53:19](/episodes/ep-eMtjzXkQrsU.md#ent-person-taylor-swift-t-00-52-53)**
+> "...ional, high on power, high on Taylor Swift, and she lost both Taylor Swift and the respect o..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
+
+**[00:53:50](/episodes/ep-uC_GjKU8rs8.md#ent-person-taylor-swift-t-00-53-45)**
+> "...s because you are WME because Taylor Swift is your best friend because you are your husband ..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[00:09:04](/episodes/ep-qZ8RWfyuewQ.md#ent-person-taylor-swift-t-00-08-30)**
+> "...on a red lip. I was doing the Taylor Swift thing."
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
@@ -205,6 +244,18 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 </details>
 
 <details>
+<summary>Friend Of (1)</summary>
+
+- **[Blake Lively](/entities/person-blake-lively.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:53:50](/episodes/ep-uC_GjKU8rs8.md#t-00-53-45): “and it was evil and it was somebody using their power and their connections to try to destroy someone not based on principle but because you can because you have access because you have resources because you are WME because Taylor Swift is your best friend because you are your husband is a part of the Marvel universe so I am very happy for Justin Baldoni congratulations I know that settlement means”
+
+</details>
+
+</details>
+
+<details>
 <summary>Worked With (1)</summary>
 
 - **[Blake Lively](/entities/person-blake-lively.md)**
@@ -217,12 +268,19 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Justin Baldoni](/entities/person-justin-baldoni.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-26-58): “But now her messages are out and it turns out that Taylor Swift called Justin Baldoni a B-I-T-C-H with a tiny violin and she knew that Blake Lively was going to file that sexual harassment complaint to get these publishing rights,”
+
+</details>
+
+- **[Blake Lively](/entities/person-blake-lively.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:53:50](/episodes/ep-uC_GjKU8rs8.md#t-00-53-45): “and it was evil and it was somebody using their power and their connections to try to destroy someone not based on principle but because you can because you have access because you have resources because you are WME because Taylor Swift is your best friend because you are your husband is a part of the Marvel universe so I am very happy for Justin Baldoni congratulations I know that settlement means”
 
 </details>
 

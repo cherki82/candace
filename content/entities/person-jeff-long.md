@@ -1,17 +1,25 @@
 ---
 title: "Jeff Long"
-description: "Jeff Long (People) - 5 mentions"
+description: "Jeff Long (People) - 6 mentions"
 id: "person-jeff-long"
 type: "PERSON"
+categories:
+  - "Utah Valley University public safety"
 ---
 
 _Type: People_
+
+**Categories:** Utah Valley University public safety
+
+**Entity verification:** verified
+> Utah Valley University's official profile identifies Jeff Long as UVU Chief of Police; transcript 'Chief Wong' is an ASR error and is not retained as an alias.
+Source: [Jeff Long | Utah Valley University](https://www.uvu.edu/directory/employee/?id=cGdpMGhLWWMxNmF0c0ovY09YMlVkZz09)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-person-jeff-long-t-00-24-53">2025-11-18 · 00:24:59</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-person-jeff-long-t-00-36-51">2025-11-20 · 00:36:51</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -38,7 +46,7 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
 
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>

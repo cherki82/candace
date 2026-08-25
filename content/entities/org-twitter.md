@@ -1,6 +1,6 @@
 ---
 title: "Twitter"
-description: "Twitter (Organizations) - 40 mentions"
+description: "Twitter (Organizations) - 48 mentions"
 id: "org-twitter"
 type: "ORG"
 aliases:
@@ -25,9 +25,9 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-twitter-t-00-12-01">2025-09-15 · 00:12:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-twitter-t-00-38-43">2026-04-21 · 00:38:51</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>40</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#t-00-01-51">2026-05-11 · 00:01:51</a></strong></div>
+<div><span>Episodes</span><strong>29</strong></div>
+<div><span>Mentions</span><strong>48</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -62,6 +62,11 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 <a href="/episodes/ep-1mYNOqzAdXs.md#t-00-25-48" style="--pulse-height:25%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-twitter-t-00-37-28" style="--pulse-height:50%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-twitter-t-00-38-00" style="--pulse-height:75%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 3 mentions" title="2026-04-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-twitter-t-00-05-45" style="--pulse-height:75%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 3 mentions" title="2026-04-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-org-twitter-t-01-04-22" style="--pulse-height:25%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-twitter-t-00-41-41" style="--pulse-height:25%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-twitter-t-00-28-38" style="--pulse-height:25%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#t-00-01-51" style="--pulse-height:25%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -91,6 +96,11 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#t-00-25-48) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-twitter-t-00-37-28) | 2 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-twitter-t-00-38-00) | 3 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-twitter-t-00-05-45) | 3 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-org-twitter-t-01-04-22) | 1 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-twitter-t-00-41-41) | 1 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-twitter-t-00-28-38) | 1 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#t-00-01-51) | 1 |
 
 </details>
 </section>
@@ -98,7 +108,53 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+<summary><strong class="section-title">Raw mentions (48)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>
+
+**[00:01:51](/episodes/ep-KpxIBWkNsSs.md#t-00-01-51)**
+> "Bizarre trend over on X."
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>
+
+**[00:28:54](/episodes/ep-k1b1NDCrNFs.md#ent-org-twitter-t-00-28-38)**
+> "... that I made on Instagram, on Twitter, reading that as disparaging grounds to sue."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
+
+**[00:41:41](/episodes/ep-uC_GjKU8rs8.md#ent-org-twitter-t-00-41-41)**
+> "...o give a special shout out to twitter user gen x girl because she has done a fantastic ..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1 mentions)</summary>
+
+**[01:04:33](/episodes/ep-69A8TzAGHlU.md#ent-org-twitter-t-01-04-22)**
+> "He's trending every day on Twitter. We are almost eight months into this thing and C..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (3 mentions)</summary>
+
+**[00:05:45](/episodes/ep-qZ8RWfyuewQ.md#ent-org-twitter-t-00-05-45)**
+> "...rst shared by me, okay, on my Twitter account. This was not a found by some journalist...."
+
+**[00:32:05](/episodes/ep-qZ8RWfyuewQ.md#ent-org-twitter-t-00-31-36)**
+> "...e day before on Instagram, on Twitter and via text asking her to simply confirm that sh..."
+
+**[00:29:29](/episodes/ep-qZ8RWfyuewQ.md#ent-org-twitter-t-00-05-45)**
+> "Evan Hill, who is an investigative reporter for The Washington Post, wrote on his X"
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (3 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Artificial intelligence"
-description: "Artificial intelligence (Concepts) - 62 mentions"
+description: "Artificial intelligence (Concepts) - 100 mentions"
 id: "concept-artificial-intelligence"
 type: "CONCEPT"
 aliases:
@@ -22,42 +22,48 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#t-00-11-36">2026-01-05 · 00:12:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#t-00-54-06">2026-04-21 · 00:54:22</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>62</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#t-00-43-19">2026-05-13 · 00:43:19</a></strong></div>
+<div><span>Episodes</span><strong>29</strong></div>
+<div><span>Mentions</span><strong>100</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-zSKrxIUMNqw.md#t-00-07-28">DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286</a> (8 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-4DvYXBn_5JI.md#t-00-36-33">September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337</a> (14 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-OEAHy3SsIiI.md#t-00-11-36" style="--pulse-height:25%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#t-00-07-28" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 8 mentions" title="2026-01-07 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#t-00-25-30" style="--pulse-height:25%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#t-00-37-57" style="--pulse-height:25%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#t-00-51-59" style="--pulse-height:12%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#t-00-18-28" style="--pulse-height:38%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-A39g5oqB_eM.md#t-00-45-42" style="--pulse-height:38%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 3 mentions" title="2026-01-27 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-40-41" style="--pulse-height:50%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Wjul6YV6izo.md#t-00-35-35" style="--pulse-height:25%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 2 mentions" title="2026-01-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#t-00-35-10" style="--pulse-height:12%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DYD_QHMPwqM.md#t-00-37-47" style="--pulse-height:12%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#t-00-49-04" style="--pulse-height:12%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#t-00-34-00" style="--pulse-height:12%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-k8ueJdPFel4.md#t-00-28-42" style="--pulse-height:12%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-I0OaY6Gryqk.md#t-00-49-03" style="--pulse-height:25%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-B9TyCs-6o_0.md#t-00-37-38" style="--pulse-height:88%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 7 mentions" title="2026-03-23 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-SgVcnx4Oh30.md#t-00-50-42" style="--pulse-height:12%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DEtFh2Ff-58.md#t-00-02-58" style="--pulse-height:38%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 3 mentions" title="2026-03-26 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-7ERqbYElOfs.md#t-00-46-27" style="--pulse-height:12%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-17-13" style="--pulse-height:50%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 4 mentions" title="2026-04-02 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#t-00-15-53" style="--pulse-height:62%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 5 mentions" title="2026-04-13 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-kaWtDuoY_ns.md#t-00-03-23" style="--pulse-height:50%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 4 mentions" title="2026-04-20 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-xi8SYJTUXPM.md#t-00-32-03" style="--pulse-height:38%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 3 mentions" title="2026-04-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#t-00-11-36" style="--pulse-height:14%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#t-00-07-28" style="--pulse-height:57%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 8 mentions" title="2026-01-07 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#t-00-25-30" style="--pulse-height:14%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#t-00-37-57" style="--pulse-height:14%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#t-00-51-59" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#t-00-18-28" style="--pulse-height:21%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#t-00-45-42" style="--pulse-height:21%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 3 mentions" title="2026-01-27 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-40-41" style="--pulse-height:29%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#t-00-35-35" style="--pulse-height:14%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 2 mentions" title="2026-01-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#t-00-35-10" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#t-00-37-47" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#t-00-49-04" style="--pulse-height:8%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#t-00-34-00" style="--pulse-height:8%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#t-00-28-42" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#t-00-49-03" style="--pulse-height:14%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#t-00-37-38" style="--pulse-height:50%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 7 mentions" title="2026-03-23 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#t-00-50-42" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#t-00-02-58" style="--pulse-height:21%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 3 mentions" title="2026-03-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#t-00-46-27" style="--pulse-height:8%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-17-13" style="--pulse-height:29%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 4 mentions" title="2026-04-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#t-00-15-53" style="--pulse-height:36%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 5 mentions" title="2026-04-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#t-00-03-23" style="--pulse-height:29%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 4 mentions" title="2026-04-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#t-00-32-03" style="--pulse-height:21%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 3 mentions" title="2026-04-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#t-00-04-39" style="--pulse-height:57%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 8 mentions" title="2026-04-29 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#t-00-46-35" style="--pulse-height:14%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 2 mentions" title="2026-04-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#t-00-13-03" style="--pulse-height:8%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#t-00-05-03" style="--pulse-height:79%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 11 mentions" title="2026-05-11 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#t-00-36-33" style="--pulse-height:100%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 14 mentions" title="2026-05-13 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#t-00-05-00" style="--pulse-height:8%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -86,6 +92,12 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#t-00-15-53) | 5 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#t-00-03-23) | 4 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#t-00-32-03) | 3 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#t-00-04-39) | 8 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#t-00-46-35) | 2 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#t-00-13-03) | 1 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#t-00-05-03) | 11 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#t-00-36-33) | 14 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#t-00-05-00) | 1 |
 
 </details>
 </section>
@@ -93,7 +105,148 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (62)</strong></summary>
+<summary><strong class="section-title">Raw mentions (100)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (14 mentions)</summary>
+
+**[00:36:33](/episodes/ep-4DvYXBn_5JI.md#t-00-36-33)**
+> "AI voices"
+
+**[00:25:25](/episodes/ep-4DvYXBn_5JI.md#t-00-25-25)**
+> "...e I tell you a bit about this AI company, Hollywood AI Company, and we take a look..."
+
+**[00:36:55](/episodes/ep-4DvYXBn_5JI.md#t-00-36-33)**
+> "... communicating with Hollywood AI deep fake companies."
+
+**[00:37:48](/episodes/ep-4DvYXBn_5JI.md#t-00-37-13)**
+> "...g. Yet another example of our AI capabilities is the recreation."
+
+**[00:37:57](/episodes/ep-4DvYXBn_5JI.md#t-00-37-57)**
+> "...oice cloning. Using a bespoke AI model for that exact voice, Using a bespoke AI mo..."
+
+**[00:38:19](/episodes/ep-4DvYXBn_5JI.md#t-00-37-57)**
+> "...voice cloning of Skip Caray's AI voice despite him passing away nearly 20 years ag..."
+
+**[00:38:43](/episodes/ep-4DvYXBn_5JI.md#t-00-38-43)**
+> "...they are convinced that it is AI. They were there and Charlie never said this supe..."
+
+**[00:38:50](/episodes/ep-4DvYXBn_5JI.md#t-00-38-43)**
+> "... us, by the way, that work in AI and have worked in AI in years."
+
+**[00:38:56](/episodes/ep-4DvYXBn_5JI.md#t-00-38-43)**
+> "...I am telling you 100% that is AI. I don't claim to be an expert."
+
+**[00:40:11](/episodes/ep-4DvYXBn_5JI.md#t-00-40-11)**
+> "...ill now show you the array of AI tools and patented VFX methods we use to create a..."
+
+**[00:40:51](/episodes/ep-4DvYXBn_5JI.md#t-00-40-43)**
+> "...training footage to train our AI models for each."
+
+**[00:41:01](/episodes/ep-4DvYXBn_5JI.md#t-00-40-43)**
+> "...ng up before we can train our AI voice models to match the original actors' voices..."
+
+**[00:41:15](/episodes/ep-4DvYXBn_5JI.md#t-00-41-15)**
+> "...p work and computing from our AI models, our lip syncs output are flawless right a..."
+
+**[00:43:19](/episodes/ep-4DvYXBn_5JI.md#t-00-43-19)**
+> "...appen and that that moment is AI?"
+
+</details>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1 mentions)</summary>
+
+**[00:05:26](/episodes/ep-7FS1tUeSfdE.md#t-00-05-00)**
+> "use AI programs"
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (11 mentions)</summary>
+
+**[00:05:25](/episodes/ep-KpxIBWkNsSs.md#t-00-05-03)**
+> "...drop it, people will say it's AI."
+
+**[00:05:38](/episodes/ep-KpxIBWkNsSs.md#t-00-05-38)**
+> "...more I listen to it, the more AI it sounds to me."
+
+**[00:07:32](/episodes/ep-KpxIBWkNsSs.md#t-00-07-01)**
+> "...e that turning point does use AI voices for their presentations."
+
+**[00:08:10](/episodes/ep-KpxIBWkNsSs.md#t-00-07-46)**
+> "...at he is able to create these AI voices for them to use for their presentations."
+
+**[00:08:20](/episodes/ep-KpxIBWkNsSs.md#t-00-08-20)**
+> "So AI technology is what they currently use to voice ov..."
+
+**[00:09:17](/episodes/ep-KpxIBWkNsSs.md#t-00-09-01)**
+> "...oting to, well, even if it is AI, why does it matter? I saw this, this is just one..."
+
+**[00:10:18](/episodes/ep-KpxIBWkNsSs.md#t-00-10-18)**
+> "...ecause if it was, in fact, an AI audio. And Erika (Erika Kirk) was referring to an..."
+
+**[00:10:30](/episodes/ep-KpxIBWkNsSs.md#t-00-10-18)**
+> "...she colluded to create a fake AI voice of her husband announcing her."
+
+**[00:11:23](/episodes/ep-KpxIBWkNsSs.md#t-00-10-59)**
+> "...hich she knew was doctored by AI, right? Passing the torch to her. The company is ..."
+
+**[00:11:39](/episodes/ep-KpxIBWkNsSs.md#t-00-10-59)**
+> "She knew this was all AI and they planned this moment to make people feel ..."
+
+**[00:13:12](/episodes/ep-KpxIBWkNsSs.md#t-00-12-38)**
+> "...ind that out, confirm this is AI."
+
+</details>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>
+
+**[00:13:31](/episodes/ep-FFQ9675oqRI.md#t-00-13-03)**
+> ".... We checked that. That's not AI. It is definitively an angle that other people ha..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2 mentions)</summary>
+
+**[00:46:48](/episodes/ep-69A8TzAGHlU.md#t-00-46-35)**
+> "Now all of a sudden everyone's shy. About a Charlie Kirk, man, are you afraid people are going to think it's AI?"
+
+**[01:02:23](/episodes/ep-69A8TzAGHlU.md#t-01-02-18)**
+> "... day. Their system uses smart AI technology to monitor the market 24-7."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (8 mentions)</summary>
+
+**[00:05:02](/episodes/ep-qZ8RWfyuewQ.md#t-00-04-39)**
+> "...u guys, it is real. It is not AI. People were suspicious. Is this a real photo?"
+
+**[00:05:09](/episodes/ep-qZ8RWfyuewQ.md#t-00-05-09)**
+> "...dvisor, Laura Loomer, sharing AI photos, illusory stories about drunken hit and ru..."
+
+**[00:14:02](/episodes/ep-qZ8RWfyuewQ.md#t-00-13-46)**
+> "... have somebody put that on an AI cover. I made a decision to share that with the p..."
+
+**[00:23:34](/episodes/ep-qZ8RWfyuewQ.md#t-00-23-23)**
+> "...alie Harp. Trump is not using AI to doctor that. He did not hit send on that."
+
+**[00:26:35](/episodes/ep-qZ8RWfyuewQ.md#t-00-26-05)**
+> "... day. Their system uses smart AI technology to..."
+
+**[00:55:13](/episodes/ep-qZ8RWfyuewQ.md#t-00-54-47)**
+> "...e telling us that that was an AI video or an AI audio that you presented of Charli..."
+
+**[01:02:53](/episodes/ep-qZ8RWfyuewQ.md#t-01-02-53)**
+> "...h Milo proof presented was an AI photo of him wearing a Ricky Martin type silk shi..."
+
+**[01:06:02](/episodes/ep-qZ8RWfyuewQ.md#t-01-05-45)**
+> "...led down on that with another AI photo joke, an obvious AI photo joke from Aubrey ..."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (3 mentions)</summary>
@@ -406,7 +559,57 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Artificial intelligence (8)</strong></summary>
+<summary><strong class="section-title">Statements about Artificial intelligence (18)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>
+
+- [00:38:43](/episodes/ep-4DvYXBn_5JI.md#t-00-38-43) (Accusation) **Anonymous Source #3 (Ep 4DvYXBn_5JI)** (via read message): ["Donors who attended the Aspen presentation told Candace Owens that Cha..."](/statements/statement-ad6c3d324eb0.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (4)</summary>
+
+- [00:05:03](/episodes/ep-KpxIBWkNsSs.md#t-00-05-03) (Accusation) **Candace Owens**: ["Candace Owens said Turning Point USA had refused to release the video ..."](/statements/statement-eec0b8f92620.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:05:38](/episodes/ep-KpxIBWkNsSs.md#t-00-05-38) (Citation) **Candace Owens**: ["Candace Owens presented a disputed recording that purported to show Ch..."](/statements/statement-c7fb0846b207.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:08:10](/episodes/ep-KpxIBWkNsSs.md#t-00-07-46) (Claim) **Anonymous Source #1 (Ep KpxIBWkNsSs)** (via paraphrase): ["A Turning Point USA insider told Candace Owens that Marcus Wada create..."](/statements/statement-8415879c0426.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Marcus Wada](/entities/person-marcus-wada.md), [John K. Amanchukwu Sr.](/entities/person-john-k-amanchukwu-sr.md)
+
+- [00:11:56](/episodes/ep-KpxIBWkNsSs.md#t-00-11-45) (Opinion) **Candace Owens**: ["Candace Owens said that if the disputed succession audio proved to be ..."](/statements/statement-e83d0e373d4f.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (3)</summary>
+
+- [00:13:24](/episodes/ep-FFQ9675oqRI.md#t-00-13-03) (Claim) **Candace Owens**: ["Candace Owens said a second tipster sent a non-AI still from a previou..."](/statements/statement-b450f0c7a7a8.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:28:30](/episodes/ep-FFQ9675oqRI.md#t-00-28-22) (Accusation) **Candace Owens**: ["Candace Owens accused House Inhabit of posting a fake AI image of her ..."](/statements/statement-bdf00dbc7bd6.md)
+  - Also about: [House Inhabit](/entities/work-house-inhabit.md), [George Farmer](/entities/person-george-farmer.md), [Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md)
+
+- [00:38:26](/episodes/ep-FFQ9675oqRI.md#t-00-38-26) (Accusation) **Anonymous Source #2 (Ep FFQ9675oqRI)** (via quoted speech): ["Anonymous Turning Point USA donors alleged that the purported video of..."](/statements/statement-b434814cda12.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (2)</summary>
+
+- [00:05:02](/episodes/ep-qZ8RWfyuewQ.md#t-00-04-39) (Claim) **Candace Owens**: ["The photograph Donald Trump shared of Candace Owens was authentic and ..."](/statements/statement-aa04006e088b.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:55:13](/episodes/ep-qZ8RWfyuewQ.md#t-00-54-47) (Accusation) **Anonymous Source #2 (Ep qZ8RWfyuewQ)** (via read message): ["Unnamed donors who attended the Aspen event told Candace Owens that th..."](/statements/statement-2e17128d7489.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Aspen, Colorado](/entities/gpe-aspen-colorado.md)
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (2)</summary>

@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [PragerU](/entities/org-prageru) formerly employed [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (5 mentions)
+### Evidence (6 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -28,6 +28,10 @@ object: "person-candace-owens"
 **[AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo)**
 
 - [00:55:05](/episodes/ep-Wjul6YV6izo#t-00-55-05): _it's the same way that I say like i'm so grateful that i worked for prageru and turning point usa and um Daily Wire_
+
+**[Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8)**
+
+- [00:13:13](/episodes/ep-uC_GjKU8rs8#t-00-13-13): _This means that Daily Wire is unique. They are unique. They are set apart from those examples. I left PragerU._
 
 **[What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U)**
 

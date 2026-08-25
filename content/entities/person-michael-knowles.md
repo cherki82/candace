@@ -1,6 +1,6 @@
 ---
 title: "Michael Knowles"
-description: "Michael Knowles (People) - 17 mentions"
+description: "Michael Knowles (People) - 18 mentions"
 id: "person-michael-knowles"
 type: "PERSON"
 categories:
@@ -19,8 +19,8 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-michael-knowles-t-00-34-06">2025-09-23 · 00:34:06</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-michael-knowles-t-00-26-33">2026-08-14 · 00:26:59</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -39,6 +39,7 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 <a href="/episodes/ep-6J6lRZPQ4jk.md#t-00-35-32" style="--pulse-height:14%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-michael-knowles-t-00-17-52" style="--pulse-height:100%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 7 mentions" title="2026-03-17 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-michael-knowles-t-00-20-19" style="--pulse-height:14%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-michael-knowles-t-00-19-27" style="--pulse-height:14%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-michael-knowles-t-00-26-33" style="--pulse-height:14%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -53,6 +54,7 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#t-00-35-32) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-michael-knowles-t-00-17-52) | 7 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-michael-knowles-t-00-20-19) | 1 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-michael-knowles-t-00-19-27) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-michael-knowles-t-00-26-33) | 1 |
 
 </details>
@@ -61,13 +63,21 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:26:59](/episodes/ep-nPhCKwJ6ye8.md#ent-person-michael-knowles-t-00-26-33)**
 > "kudos to Michael Knowles. Your name was mentioned a lot. You missed that r..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
+
+**[00:19:51](/episodes/ep-uC_GjKU8rs8.md#ent-person-michael-knowles-t-00-19-27)**
+> "...seeking to publicly humiliate Michael Knowles, say her name."
 
 </details>
 
@@ -181,9 +191,10 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 <summary>Defended (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:19:08](/episodes/ep-k8ueJdPFel4.md#t-00-19-08): “Well, but let's take that further. So obviously one should state one's view and say, you know, Erika is great and attacks on her are not right.”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:16:59](/episodes/ep-uC_GjKU8rs8.md#t-00-16-59): “think that it's wrong to attack Erika (Erika Kirk)”
 
 </details>
 
@@ -213,9 +224,10 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** defended by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:19:08](/episodes/ep-k8ueJdPFel4.md#t-00-19-08): “Well, but let's take that further. So obviously one should state one's view and say, you know, Erika is great and attacks on her are not right.”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:16:59](/episodes/ep-uC_GjKU8rs8.md#t-00-16-59): “think that it's wrong to attack Erika (Erika Kirk)”
 
 </details>
 

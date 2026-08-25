@@ -1,6 +1,6 @@
 ---
 title: "Matt Walsh"
-description: "Matt Walsh (People) - 21 mentions"
+description: "Matt Walsh (People) - 24 mentions"
 id: "person-matt-walsh"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-matt-walsh-t-00-13-03">2025-10-08 · 00:13:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-matt-walsh-t-00-19-00">2026-04-13 · 00:19:33</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-matt-walsh-t-00-35-32">2026-05-06 · 00:35:34</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -42,6 +42,8 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-matt-walsh-t-00-51-19" style="--pulse-height:25%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-matt-walsh-t-00-00-28" style="--pulse-height:75%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-matt-walsh-t-00-19-00" style="--pulse-height:25%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-matt-walsh-t-00-10-44" style="--pulse-height:50%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-matt-walsh-t-00-35-32" style="--pulse-height:25%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +60,8 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-matt-walsh-t-00-51-19) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-matt-walsh-t-00-00-28) | 3 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-matt-walsh-t-00-19-00) | 1 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-matt-walsh-t-00-10-44) | 2 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-matt-walsh-t-00-35-32) | 1 |
 
 </details>
 </section>
@@ -65,7 +69,26 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>
+
+**[00:35:34](/episodes/ep-k1b1NDCrNFs.md#ent-person-matt-walsh-t-00-35-32)**
+> "...t of what is a woman, of what Matt Walsh did."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (2 mentions)</summary>
+
+**[00:11:07](/episodes/ep-uC_GjKU8rs8.md#ent-person-matt-walsh-t-00-10-44)**
+> "Some of it worked. Matt Walsh's Am I Racist was the top grossing documentary of 2..."
+
+**[00:49:00](/episodes/ep-uC_GjKU8rs8.md#ent-person-matt-walsh-t-00-49-00)**
+> "...any were the projects of like Matt Walsh what is a woman when we did the George Floyd doc ..."
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Tyler Bowyer"
-description: "Tyler Bowyer (People) - 191 mentions"
+description: "Tyler Bowyer (People) - 196 mentions"
 id: "person-tyler-bowyer"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-tyler-bowyer-t-00-41-28">2025-09-29 · 00:41:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-tyler-bowyer-t-00-15-28">2026-03-26 · 00:15:28</a></strong></div>
-<div><span>Episodes</span><strong>45</strong></div>
-<div><span>Mentions</span><strong>191</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-tyler-bowyer-t-00-49-36">2026-05-13 · 00:49:57</a></strong></div>
+<div><span>Episodes</span><strong>49</strong></div>
+<div><span>Mentions</span><strong>196</strong></div>
 <div><span>Statements by</span><strong>12</strong></div>
-<div><span>Statements about</span><strong>57</strong></div>
-<div><span>Relationships</span><strong>56</strong></div>
+<div><span>Statements about</span><strong>58</strong></div>
+<div><span>Relationships</span><strong>58</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -81,6 +81,10 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-tyler-bowyer-t-00-38-24" style="--pulse-height:17%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 3 mentions" title="2026-03-24 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tyler-bowyer-t-00-15-32" style="--pulse-height:11%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-tyler-bowyer-t-00-15-28" style="--pulse-height:11%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-tyler-bowyer-t-00-07-33" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-tyler-bowyer-t-00-02-21" style="--pulse-height:11%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-tyler-bowyer-t-00-49-36" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-tyler-bowyer-t-00-17-01" style="--pulse-height:8%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -131,6 +135,10 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-tyler-bowyer-t-00-38-24) | 3 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tyler-bowyer-t-00-15-32) | 2 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-tyler-bowyer-t-00-15-28) | 2 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-tyler-bowyer-t-00-07-33) | 1 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-tyler-bowyer-t-00-02-21) | 2 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-tyler-bowyer-t-00-49-36) | 1 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-tyler-bowyer-t-00-17-01) | 1 |
 
 </details>
 </section>
@@ -138,7 +146,42 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (191)</strong></summary>
+<summary><strong class="section-title">Raw mentions (196)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1 mentions)</summary>
+
+**[00:49:57](/episodes/ep-4DvYXBn_5JI.md#ent-person-tyler-bowyer-t-00-49-36)**
+> "Tyler Bowyer"
+
+</details>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1 mentions)</summary>
+
+**[00:17:01](/episodes/ep-7FS1tUeSfdE.md#ent-person-tyler-bowyer-t-00-17-01)**
+> "Turning Point Action is headed up by Tyler Bowyer"
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (2 mentions)</summary>
+
+**[00:02:52](/episodes/ep-KpxIBWkNsSs.md#ent-person-tyler-bowyer-t-00-02-21)**
+> "Tyler Bowyer then jumped in"
+
+**[00:03:02](/episodes/ep-KpxIBWkNsSs.md#ent-person-tyler-bowyer-t-00-03-02)**
+> "But Tyler Bowyer said we have had numerous things like this said a..."
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1 mentions)</summary>
+
+**[00:07:33](/episodes/ep-eMtjzXkQrsU.md#ent-person-tyler-bowyer-t-00-07-33)**
+> "Oh, is Johnny Moore and Andrew Kolvet, they pulling the strings of Erika (Erika Kirk) and Tyler (Tyler Bowyer) and Charlie (Charlie Kirk)?"
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (2 mentions)</summary>
@@ -1049,11 +1092,12 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <summary>Board Member Of (1)</summary>
 
 - **[Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:00:30](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01): “Lori Frantzve, despite being ill, has recently been put on the board of Superfeed Technologies alongside Turning Point Action's COO. Oh, Tyler Bowyer, shady dude.”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:26:08](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53): “Superfeed incorporated where Erika (Erika Kirk)'s mother is serving as a board member with Tyler Bowyer?”
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:28:46](/episodes/ep-_vg7ucP1E0g.md#t-00-28-35): “Super Feed Technologies is the company that both Erika's (Erika Kirk's) mother and Tyler Bowyer are on the board of.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:49:57](/episodes/ep-4DvYXBn_5JI.md#t-00-49-36): “I'm blanking on the name of the company that she is on the board of with Tyler Bowyer. ... They act super feed. The super feed actually powers the Turning Point USA website. So the app, pardon me.”
 
 </details>
 
@@ -1096,6 +1140,18 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:21:56](/episodes/ep-cZxHqYsWRYg.md#t-00-21-44): “And Tyler Bowyer, probably the same. I know that he recently required a literal federal pardon from the president of the United States for fraud. He was credibly accused of nine felonies related to trying to subvert the election, including fraud, forgery, and conspiracy.”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:30:43](/episodes/ep-2tFYJf1klgY.md#t-00-30-43): “I told you he's a sexual deviant. It's like, I mean, there's just so much out there.”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:25:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-12): “Do not let Tyler (Tyler Bowyer) gaslight you in conversations. It's odd. This should be screaming at you as it is screaming at me that something's not right.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Defended (1)</summary>
+
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:02:52](/episodes/ep-KpxIBWkNsSs.md#t-00-02-21): “Tyler Bowyer then jumped in into the foray to further defend Andrew (Andrew Kolvet)'s honor over a divorce rumor. I'm like, this is just like I wake up and there are rumors about me getting a divorce.”
 
 </details>
 
@@ -1263,17 +1319,18 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 - **[Turning Point Action](/entities/org-turning-point-action.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:57](/episodes/ep-1IY2oD-_xVA.md#t-00-45-57): “And they specifically said that the money was missing out of Turning Point Action, which is headed up by Tyler Bowyer.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:16:51](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51): “At Turning Point Action, we have a ton of jobs posting”
+- [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:17:01](/episodes/ep-7FS1tUeSfdE.md#t-00-16-26): “Now, it's worth noting, I'll say allegedly, but it's worth noting that Turning Point Action is headed up by Tyler Bowyer, and we have already explained to you that they have built that super feed back door, which pays Lori Frantzve.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (27)</summary>
+<summary>Referenced By (28)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
@@ -1333,6 +1390,13 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 </details>
 
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** defended by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:02:52](/episodes/ep-KpxIBWkNsSs.md#t-00-02-21): “Tyler Bowyer then jumped in into the foray to further defend Andrew (Andrew Kolvet)'s honor over a divorce rumor. I'm like, this is just like I wake up and there are rumors about me getting a divorce.”
+
+</details>
+
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
@@ -1355,10 +1419,11 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 - **[Turning Point Action](/entities/org-turning-point-action.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:57](/episodes/ep-1IY2oD-_xVA.md#t-00-45-57): “And they specifically said that the money was missing out of Turning Point Action, which is headed up by Tyler Bowyer.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:16:51](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51): “At Turning Point Action, we have a ton of jobs posting”
+- [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:17:01](/episodes/ep-7FS1tUeSfdE.md#t-00-16-26): “Now, it's worth noting, I'll say allegedly, but it's worth noting that Turning Point Action is headed up by Tyler Bowyer, and we have already explained to you that they have built that super feed back door, which pays Lori Frantzve.”
 
 </details>
 
@@ -1408,11 +1473,12 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 - **[Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md)** has board member this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:00:30](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01): “Lori Frantzve, despite being ill, has recently been put on the board of Superfeed Technologies alongside Turning Point Action's COO. Oh, Tyler Bowyer, shady dude.”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:26:08](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53): “Superfeed incorporated where Erika (Erika Kirk)'s mother is serving as a board member with Tyler Bowyer?”
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:28:46](/episodes/ep-_vg7ucP1E0g.md#t-00-28-35): “Super Feed Technologies is the company that both Erika's (Erika Kirk's) mother and Tyler Bowyer are on the board of.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:49:57](/episodes/ep-4DvYXBn_5JI.md#t-00-49-36): “I'm blanking on the name of the company that she is on the board of with Tyler Bowyer. ... They act super feed. The super feed actually powers the Turning Point USA website. So the app, pardon me.”
 
 </details>
 
@@ -1577,7 +1643,15 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Bowyer (57)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Bowyer (58)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>
+
+- [00:49:57](/episodes/ep-4DvYXBn_5JI.md#t-00-49-36) (Claim) **Candace Owens**: ["Candace Owens said Superfeed Technologies powers the Turning Point USA..."](/statements/statement-4e1dc21816eb.md)
+  - Also about: [Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1)</summary>

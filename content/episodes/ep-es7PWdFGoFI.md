@@ -359,7 +359,7 @@ youtube_url: "https://www.youtube.com/watch?v=es7PWdFGoFI"
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:15:17](#t-00-14-53) [○] (Claim) **Candace Owens**: ["Turning Point USA did not approve of Brian Harpole going on the Shawn Ryan Show...."](/statements/statement-191d6deb062d.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md), [The Shawn Ryan Show](/entities/work-the-shawn-ryan-show.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-- [00:15:17](#t-00-14-53) [○] (Claim) **Erika Kirk**: ["Turning Point USA did not approve Brian Harpole going on the Sean Ryan show and ..."](/statements/statement-c2f9a692a4bd.md)
+- [00:15:17](#t-00-14-53) [?] (Claim) **Erika Kirk**: ["Turning Point USA did not approve Brian Harpole going on the Sean Ryan show and ..."](/statements/statement-c2f9a692a4bd.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Brian Harpole](/entities/person-brian-harpole.md)
 - [00:15:25](#t-00-14-53) [○] (Claim) **Candace Owens**: ["Turning Point USA did not approve of Brian Harpole going on Sean Ryan's show and..."](/statements/statement-bc3031f9607f.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md), [Turning Point USA](/entities/org-turning-point-usa.md)

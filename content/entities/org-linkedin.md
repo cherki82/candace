@@ -1,6 +1,6 @@
 ---
 title: "LinkedIn"
-description: "LinkedIn (Organizations) - 13 mentions"
+description: "LinkedIn (Organizations) - 18 mentions"
 id: "org-linkedin"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-linkedin-t-00-07-01">2026-01-19 · 00:07:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-org-linkedin-t-00-52-23">2026-04-15 · 00:53:00</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-linkedin-t-00-18-39">2026-05-11 · 00:19:02</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -29,18 +29,19 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-rupRLXmSndU.md#ent-org-linkedin-t-00-10-19">Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-linkedin-t-00-18-00">Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-linkedin-t-00-07-01" style="--pulse-height:25%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-linkedin-t-00-27-20" style="--pulse-height:25%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-4YgrOhhy708.md#ent-org-linkedin-t-00-20-41" style="--pulse-height:25%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-linkedin-t-00-17-08" style="--pulse-height:25%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-linkedin-t-00-27-18" style="--pulse-height:25%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-linkedin-t-00-27-36" style="--pulse-height:25%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-linkedin-t-00-16-56" style="--pulse-height:25%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#ent-org-linkedin-t-00-10-19" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 4 mentions" title="2026-04-01 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-linkedin-t-00-02-10" style="--pulse-height:25%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SubDoZWHARo.md#ent-org-linkedin-t-00-52-23" style="--pulse-height:25%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-linkedin-t-00-07-01" style="--pulse-height:20%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-linkedin-t-00-27-20" style="--pulse-height:20%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-org-linkedin-t-00-20-41" style="--pulse-height:20%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-linkedin-t-00-17-08" style="--pulse-height:20%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-linkedin-t-00-27-18" style="--pulse-height:20%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-linkedin-t-00-27-36" style="--pulse-height:20%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-linkedin-t-00-16-56" style="--pulse-height:20%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-linkedin-t-00-10-19" style="--pulse-height:80%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 4 mentions" title="2026-04-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-linkedin-t-00-02-10" style="--pulse-height:20%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-org-linkedin-t-00-52-23" style="--pulse-height:20%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-linkedin-t-00-18-00" style="--pulse-height:100%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 5 mentions" title="2026-05-11 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-linkedin-t-00-10-19) | 4 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-linkedin-t-00-02-10) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-linkedin-t-00-52-23) | 1 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-linkedin-t-00-18-00) | 5 |
 
 </details>
 </section>
@@ -63,7 +65,27 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (5 mentions)</summary>
+
+**[00:18:00](/episodes/ep-KpxIBWkNsSs.md#ent-org-linkedin-t-00-18-00)**
+> "her LinkedIn page"
+
+**[00:18:11](/episodes/ep-KpxIBWkNsSs.md#ent-org-linkedin-t-00-18-00)**
+> "... can take a look at this, her LinkedIn page in political science and international relat..."
+
+**[00:18:18](/episodes/ep-KpxIBWkNsSs.md#ent-org-linkedin-t-00-18-00)**
+> "This is the old LinkedIn page. It since has been removed."
+
+**[00:18:55](/episodes/ep-KpxIBWkNsSs.md#ent-org-linkedin-t-00-18-39)**
+> "...gain you will also see on her linkedin that she has doctor of education that she receive..."
+
+**[00:19:02](/episodes/ep-KpxIBWkNsSs.md#ent-org-linkedin-t-00-18-39)**
+> "You will also see on her LinkedIn that she has Doctor of Education that she receive..."
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>

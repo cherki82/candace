@@ -1,6 +1,6 @@
 ---
 title: "Christians"
-description: "Christians (Concepts) - 87 mentions"
+description: "Christians (Concepts) - 93 mentions"
 id: "concept-christians"
 type: "CONCEPT"
 categories:
@@ -19,10 +19,10 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-concept-christians-t-00-52-17">2025-09-17 · 00:52:37</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christians-t-01-16-34">2026-08-14 · 01:16:34</a></strong></div>
-<div><span>Episodes</span><strong>40</strong></div>
-<div><span>Mentions</span><strong>87</strong></div>
+<div><span>Episodes</span><strong>44</strong></div>
+<div><span>Mentions</span><strong>93</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -70,6 +70,10 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-christians-t-00-35-26" style="--pulse-height:10%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-christians-t-00-20-58" style="--pulse-height:30%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 3 mentions" title="2026-04-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-concept-christians-t-00-53-21" style="--pulse-height:10%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-concept-christians-t-02-36-42" style="--pulse-height:10%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-christians-t-01-08-37" style="--pulse-height:10%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-christians-t-00-36-07" style="--pulse-height:20%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-christians-t-00-03-03" style="--pulse-height:20%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 2 mentions" title="2026-05-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christians-t-01-16-34" style="--pulse-height:10%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -115,6 +119,10 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-christians-t-00-35-26) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-concept-christians-t-00-20-58) | 3 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-concept-christians-t-00-53-21) | 1 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-concept-christians-t-02-36-42) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-christians-t-01-08-37) | 1 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-concept-christians-t-00-36-07) | 2 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-concept-christians-t-00-03-03) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christians-t-01-16-34) | 1 |
 
 </details>
@@ -123,13 +131,51 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (87)</strong></summary>
+<summary><strong class="section-title">Raw mentions (93)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[01:16:34](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christians-t-01-16-34)**
 > "... you guys, nearly 2,000 years Christians When have we lived set continuously out to create..."
+
+</details>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (2 mentions)</summary>
+
+**[00:03:03](/episodes/ep-FFQ9675oqRI.md#ent-concept-christians-t-00-03-03)**
+> "...ut I really want to encourage Christians to take time to read through that filing. Take yo..."
+
+**[00:24:44](/episodes/ep-FFQ9675oqRI.md#ent-concept-christians-t-00-24-27)**
+> "...er interesting faction called Christians United for Israel. They're really just another wi..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (2 mentions)</summary>
+
+**[00:36:26](/episodes/ep-uC_GjKU8rs8.md#ent-concept-christians-t-00-36-07)**
+> "...r stated purpose is to target Christians in the United States with anti-Palestinian and pr..."
+
+**[00:37:13](/episodes/ep-uC_GjKU8rs8.md#ent-concept-christians-t-00-37-13)**
+> "...a marketing campaign aimed at Christians across the western part of the country."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[01:08:37](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-christians-t-01-08-37)**
+> "...g for me uh and the Christian Christians worldwide um that have kind of seen the journey a..."
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (1 mentions)</summary>
+
+**[02:36:42](/episodes/ep--9MOUvgGyi4.md#ent-concept-christians-t-02-36-42)**
+> "Yeah. You see people, I mean, I think you hold the perspective of most true Christians. You know, we want everyone to be saved."
 
 </details>
 
@@ -590,7 +636,29 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Christians (4)</strong></summary>
+<summary><strong class="section-title">Statements about Christians (8)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1)</summary>
+
+- [00:24:44](/episodes/ep-FFQ9675oqRI.md#t-00-24-27) (Accusation) **Thomas Massie** (via quoted speech): ["Thomas Massie called Christians United for Israel another wing of AIPA..."](/statements/statement-f0da45900c3b.md)
+  - Also about: [Christians United for Israel](/entities/org-christians-united-for-israel.md), [American Israel Public Affairs Committee](/entities/org-aipac.md), [Republican Jewish Coalition](/entities/org-republican-jewish-coalition.md)
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (3)</summary>
+
+- [00:36:17](/episodes/ep-uC_GjKU8rs8.md#t-00-36-07) (Citation) **Candace Owens**: ["FARA records state that Show Faith by Works, whose principal is Israel..."](/statements/statement-6f3e8139d6da.md)
+  - Also about: [Show Faith by Works, LLC](/entities/org-show-faith-by-works.md), [Israel Ministry of Foreign Affairs](/entities/org-israel-ministry-of-foreign-affairs.md), [United States](/entities/gpe-united-states.md)
+
+- [00:37:02](/episodes/ep-uC_GjKU8rs8.md#t-00-36-39) (Citation) **Candace Owens**: ["The Times of Israel reported that Israel’s foreign ministry hired an A..."](/statements/statement-5fc24ae33f0e.md)
+  - Also about: [The Times of Israel](/entities/org-the-times-of-israel.md), [Israel Ministry of Foreign Affairs](/entities/org-israel-ministry-of-foreign-affairs.md), [United States](/entities/gpe-united-states.md)
+
+- [00:37:26](/episodes/ep-uC_GjKU8rs8.md#t-00-37-13) (Citation) **Candace Owens**: ["Federal disclosures describe Show Faith by Works as carrying out the l..."](/statements/statement-98de3155af90.md)
+  - Also about: [Show Faith by Works, LLC](/entities/org-show-faith-by-works.md), [Chad Jonson Schnitger](/entities/person-chad-jonson-schnitger.md), [United States](/entities/gpe-united-states.md)
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>

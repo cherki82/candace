@@ -1,6 +1,6 @@
 ---
 title: "Barack Obama"
-description: "Barack Obama (People) - 11 mentions"
+description: "Barack Obama (People) - 12 mentions"
 id: "person-barack-obama"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-person-barack-obama-t-00-34-45">2025-12-05 · 00:34:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-person-barack-obama-t-00-03-24">2026-04-01 · 00:03:34</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-barack-obama-t-01-05-04">2026-04-29 · 01:05:31</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -43,6 +43,7 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-barack-obama-t-00-57-39" style="--pulse-height:33%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-barack-obama-t-00-08-54" style="--pulse-height:100%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-barack-obama-t-00-03-24" style="--pulse-height:33%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-barack-obama-t-01-05-04" style="--pulse-height:33%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-barack-obama-t-00-57-39) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-barack-obama-t-00-08-54) | 3 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-barack-obama-t-00-03-24) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-barack-obama-t-01-05-04) | 1 |
 
 </details>
 </section>
@@ -61,7 +63,15 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[01:05:31](/episodes/ep-qZ8RWfyuewQ.md#ent-person-barack-obama-t-01-05-04)**
+> "...ust days after Barack Hussein Obama's top advisor, David Axelrod, met with the Pope, Ca..."
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
@@ -132,6 +142,18 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Advised By (1)</summary>
+
+- **[David Axelrod](/entities/person-david-axelrod.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:05:31](/episodes/ep-qZ8RWfyuewQ.md#t-01-05-04): “For a secret anti-Trump summit just days after Barack Hussein Obama's top advisor, David Axelrod, met with the Pope, Candace Owens, Nick Fuentes, and the alleged fire Turning Point USA leaker, Aubrey Laitsch, all suddenly appeared in Rome.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized By (1)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
@@ -156,7 +178,14 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
+
+- **[David Axelrod](/entities/person-david-axelrod.md)** advisor to this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:05:31](/episodes/ep-qZ8RWfyuewQ.md#t-01-05-04): “For a secret anti-Trump summit just days after Barack Hussein Obama's top advisor, David Axelrod, met with the Pope, Candace Owens, Nick Fuentes, and the alleged fire Turning Point USA leaker, Aubrey Laitsch, all suddenly appeared in Rome.”
+
+</details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

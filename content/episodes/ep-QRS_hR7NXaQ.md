@@ -242,7 +242,7 @@ youtube_url: "https://www.youtube.com/watch?v=QRS_hR7NXaQ"
 - **2025-09-08 10:45**: [Candace Owens said Charlie Kirk took Lori Frantzve to a clinic for Lyme disease treatment.](/events/event-2025-09-08-candace-owens-said-charlie-kirk-took-lor.md)
 - **2025-09-09**: [Candace Owens said residents at Erika Kirk's apartment complex reported seeing her on September 9 but not September 8.](/events/event-2025-09-09-candace-owens-said-residents-at-erika-ki.md)
 - **2025-09-10**: [The New York Times reported that Erika Kirk was at a hospital while her mother received treatment when Mikey McCoy called; Candace Owens said the venue was a holistic clinic.](/events/event-2025-09-10-the-new-york-times-reported-that-erika-k.md)
-- **2025-09-16**: [Erika Kirk held a Zoom call with Turning Point USA employees five days after Charlie Kirk's assassination.](/events/event-2025-09-16-erika-kirk-held-a-zoom-call-with-turning.md)
+- **2025-09-16**: [Erika Kirk held a Zoom call with Turning Point USA employees six days after Charlie Kirk's assassination.](/events/event-2025-09-16-erika-kirk-held-a-zoom-call-with-turning.md)
 - **2025-12-28**: [Linda Stevenson was found unresponsive at home and died after lifesaving measures failed.](/events/event-2025-12-28-linda-stevenson-was-found-unresponsive-a.md)
 
 </details>

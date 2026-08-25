@@ -1,10 +1,9 @@
 ---
 title: "Blake Neff"
-description: "Blake Neff (People) - 149 mentions"
+description: "Blake Neff (People) - 177 mentions"
 id: "person-blake-neff"
 type: "PERSON"
 aliases:
-  - "Blake"
   - "Neff"
   - "Blakey Neff"
 categories:
@@ -14,7 +13,7 @@ categories:
 
 _Type: People_
 
-**Also known as:** Blake, Neff, Blakey Neff
+**Also known as:** Neff, Blakey Neff
 
 **Categories:** political media, The Charlie Kirk Show
 
@@ -23,13 +22,13 @@ _Type: People_
 Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving 6 Months After Tragic Death](https://www.megynkelly.com/watch/charlie-kirks-friends-and-producers-on-how-turning-point-is-thriving-6-months-after-tragic-death/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-person-blake-neff-t-00-15-02">2025-10-07 · 00:15:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-54-06">2026-04-21 · 00:54:16</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>149</strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#t-00-15-02">2025-10-07 · 00:15:25</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-blake-neff-t-00-44-10">2026-05-13 · 00:44:36</a></strong></div>
+<div><span>Episodes</span><strong>38</strong></div>
+<div><span>Mentions</span><strong>177</strong></div>
 <div><span>Statements by</span><strong>19</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
-<div><span>Relationships</span><strong>16</strong></div>
+<div><span>Statements about</span><strong>19</strong></div>
+<div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -37,9 +36,9 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-00-00">Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328</a> (16 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-5autG89PW6w.md#ent-person-blake-neff-t-00-15-02" style="--pulse-height:19%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 3 mentions" title="2025-10-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#t-00-15-02" style="--pulse-height:19%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 3 mentions" title="2025-10-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#t-00-44-32" style="--pulse-height:12%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-blake-neff-t-00-10-04" style="--pulse-height:12%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#t-00-10-04" style="--pulse-height:12%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-35-24" style="--pulse-height:50%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 8 mentions" title="2025-11-05 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-vwG1juDCQZQ.md#t-00-05-43" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-21-22" style="--pulse-height:56%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 9 mentions" title="2025-11-18 · 9 mentions"><span></span></a>
@@ -69,14 +68,20 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-blake-neff-t-00-11-16" style="--pulse-height:31%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 5 mentions" title="2026-04-13 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-person-blake-neff-t-00-02-07" style="--pulse-height:12%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-00-00" style="--pulse-height:100%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 16 mentions" title="2026-04-21 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-blake-neff-t-00-46-57" style="--pulse-height:31%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 5 mentions" title="2026-04-29 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-blake-neff-t-00-27-54" style="--pulse-height:19%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 3 mentions" title="2026-05-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-blake-neff-t-00-57-36" style="--pulse-height:25%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 4 mentions" title="2026-05-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-person-blake-neff-t-00-00-01" style="--pulse-height:8%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-blake-neff-t-00-03-02" style="--pulse-height:38%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 6 mentions" title="2026-05-11 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-blake-neff-t-00-10-09" style="--pulse-height:56%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 9 mentions" title="2026-05-13 · 9 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-blake-neff-t-00-15-02) | 3 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#t-00-15-02) | 3 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#t-00-44-32) | 2 |
-| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-person-blake-neff-t-00-10-04) | 2 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#t-00-10-04) | 2 |
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-35-24) | 8 |
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#t-00-05-43) | 1 |
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-21-22) | 9 |
@@ -106,6 +111,12 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-blake-neff-t-00-11-16) | 5 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-blake-neff-t-00-02-07) | 2 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-00-00) | 16 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-blake-neff-t-00-46-57) | 5 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-blake-neff-t-00-27-54) | 3 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-blake-neff-t-00-57-36) | 4 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-blake-neff-t-00-00-01) | 1 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-blake-neff-t-00-03-02) | 6 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-blake-neff-t-00-10-09) | 9 |
 
 </details>
 </section>
@@ -113,7 +124,121 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (149)</strong></summary>
+<summary><strong class="section-title">Raw mentions (177)</strong></summary>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (9 mentions)</summary>
+
+**[00:10:20](/episodes/ep-7FS1tUeSfdE.md#ent-person-blake-neff-t-00-10-09)**
+> "I would like to strongly caution you, particularly you, Blakey Neff."
+
+**[00:37:30](/episodes/ep-7FS1tUeSfdE.md#ent-person-blake-neff-t-00-37-14)**
+> "I got Blakey (Blake Neff). I got Brigitte (Brigitte Macron). These are the..."
+
+**[00:39:42](/episodes/ep-7FS1tUeSfdE.md#ent-person-blake-neff-t-00-39-15)**
+> "...(Brigitte Macron) and Blakey (Blake Neff). This feels so much better. I feel like I'm actu..."
+
+**[00:40:13](/episodes/ep-7FS1tUeSfdE.md#ent-person-blake-neff-t-00-40-00)**
+> "... this stuff out uh no i think Blake Neff watches the show every day with this with this ja..."
+
+**[00:40:37](/episodes/ep-7FS1tUeSfdE.md#ent-person-blake-neff-t-00-40-37)**
+> "grown to like Blake Neff because he's just a disaster you know and i do li..."
+
+**[00:41:04](/episodes/ep-7FS1tUeSfdE.md#ent-person-blake-neff-t-00-40-37)**
+> "...ked out about um Captain Adam Neff but then he said that Adam Neff was harassed"
+
+**[00:41:23](/episodes/ep-7FS1tUeSfdE.md#ent-person-blake-neff-t-00-40-37)**
+> "...n't know he doesn't know Adam Neff but he was harassed and I said well that seems a ..."
+
+**[00:44:10](/episodes/ep-7FS1tUeSfdE.md#ent-person-blake-neff-t-00-44-10)**
+> "...rs writes everybody say hi to Blake Neff neph we know you're in here fangirling he love he..."
+
+**[00:44:36](/episodes/ep-7FS1tUeSfdE.md#ent-person-blake-neff-t-00-44-10)**
+> "...ew (Andrew Kolvet) and Blake (Blake Neff) stop smearing Charlie (Charlie Kirk)'s good name..."
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (6 mentions)</summary>
+
+**[00:03:13](/episodes/ep-KpxIBWkNsSs.md#ent-person-blake-neff-t-00-03-02)**
+> "Blakey Neff jumped in"
+
+**[00:05:25](/episodes/ep-KpxIBWkNsSs.md#ent-person-blake-neff-t-00-05-03)**
+> "...icious to me. In fact, Blake (Blake Neff) has specifically expressed concern, you will rec..."
+
+**[00:10:07](/episodes/ep-KpxIBWkNsSs.md#ent-person-blake-neff-t-00-09-42)**
+> "... capable of contacting Blake (Blake Neff). She continued. OK, so I can answer that. I can ..."
+
+**[00:11:47](/episodes/ep-KpxIBWkNsSs.md#ent-person-blake-neff-t-00-11-45)**
+> "...ndishing a weapon that Blake (Blake Neff)'s concerned about?"
+
+**[00:12:12](/episodes/ep-KpxIBWkNsSs.md#ent-person-blake-neff-t-00-12-12)**
+> "...monstrous plan so it would be Blake Neff Andrew Kolvet we would be looking at a psychologi..."
+
+**[00:14:35](/episodes/ep-KpxIBWkNsSs.md#ent-person-blake-neff-t-00-14-03)**
+> "...r best on whether you believe Blake Neff and his Subway Killer scenario as the reason they..."
+
+</details>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>
+
+**[00:00:25](/episodes/ep-FFQ9675oqRI.md#ent-person-blake-neff-t-00-00-01)**
+> "...odd to me. Considering Blakey Neff, who thinks I am a checks notes, maniac brandishi..."
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (4 mentions)</summary>
+
+**[00:57:36](/episodes/ep-k1b1NDCrNFs.md#ent-person-blake-neff-t-00-57-36)**
+> "... be because, like I told you, Blake Neff was writing her speech allegedly, I'm told by peo..."
+
+**[00:57:55](/episodes/ep-k1b1NDCrNFs.md#ent-person-blake-neff-t-00-57-36)**
+> ".... I'm not sure. I don't think Blake Neff would be my choice ghostwriter in general."
+
+**[00:58:02](/episodes/ep-k1b1NDCrNFs.md#ent-person-blake-neff-t-00-57-36)**
+> "...le day I'm asking him, Blake (Blake Neff), I want to keep you focused on one thing."
+
+**[00:58:21](/episodes/ep-k1b1NDCrNFs.md#ent-person-blake-neff-t-00-58-21)**
+> "...t that did not happen. Blake (Blake Neff), what say you? Can you please drop the video?"
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (3 mentions)</summary>
+
+**[00:28:04](/episodes/ep-eMtjzXkQrsU.md#ent-person-blake-neff-t-00-27-54)**
+> "technically doesn't work for Turning Point USA. Right. Blake Neff, Andrew Kolvet, they are paid at least in part by the Charlie Kirk show."
+
+**[00:28:14](/episodes/ep-eMtjzXkQrsU.md#ent-person-blake-neff-t-00-27-54)**
+> "Blake Neff, I think, came out and said entirely by the Charl..."
+
+**[00:28:35](/episodes/ep-eMtjzXkQrsU.md#ent-person-blake-neff-t-00-28-35)**
+> "...ondering now if that includes Blake Neff and Mikey (Mikey McCoy) as well."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (5 mentions)</summary>
+
+**[00:47:11](/episodes/ep-qZ8RWfyuewQ.md#ent-person-blake-neff-t-00-46-57)**
+> "...he's got to stop working with Blake Neff. It's giving Blakey Neff wrote it. I know he's he..."
+
+**[00:50:54](/episodes/ep-qZ8RWfyuewQ.md#ent-person-blake-neff-t-00-50-48)**
+> "Blake Neff came out and said, well, Candace didn't say it, b..."
+
+**[00:51:20](/episodes/ep-qZ8RWfyuewQ.md#ent-person-blake-neff-t-00-50-48)**
+> "So that that was Blake Neff's excuse. Now, Andrew Kolvet's excuse is even more ..."
+
+**[00:58:58](/episodes/ep-qZ8RWfyuewQ.md#ent-person-blake-neff-t-00-58-58)**
+> "...ndrew (Andrew Kolvet), Blake (Blake Neff) doesn't say it. There's no requirement. I suppor..."
+
+**[01:00:08](/episodes/ep-qZ8RWfyuewQ.md#ent-person-blake-neff-t-00-59-59)**
+> "Blake Neff already gave a different excuse. Well, she implie..."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (16 mentions)</summary>
@@ -124,7 +249,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 **[00:00:13](/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-00-00)**
 > "... got to get a package over to Blake because he had things to say again on X."
 
-**[00:02:26](/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-02-03)**
+**[00:02:26](/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-00-00)**
 > "Not Mikey, not Blake, not Terryl (Terryl Farnsworth). That was not the..."
 
 **[00:24:37](/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-24-37)**
@@ -133,28 +258,28 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 **[00:27:35](/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-27-18)**
 > "Okay, so Blake Neff, you know, he has a talent of sorts. He has a way..."
 
-**[00:27:49](/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-27-49)**
+**[00:27:49](/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-27-18)**
 > "...gness and then we're like hey Blake while you're here could you answer our question a..."
 
-**[00:29:31](/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-29-13)**
+**[00:29:31](/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-27-18)**
 > "And that is what Blake is succumbing to here. So I just obviously tweete..."
 
-**[00:30:16](/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-30-16)**
+**[00:30:16](/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-27-18)**
 > "This is the text message, Blake, that people used to deduce that his dad might ha..."
 
-**[00:30:36](/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-30-16)**
+**[00:30:36](/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-27-18)**
 > "...ll, if you read that message, Blake, it kind of sounds like the reason his dad is cal..."
 
 **[00:31:13](/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-30-52)**
 > "...while we have your attention. Blake Neff, there was this huge claim that we made on the sh..."
 
-**[00:31:54](/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-31-36)**
+**[00:31:54](/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-30-52)**
 > "...y big claim I'm making there, Blake. I'm saying that I have proof. I have at least te..."
 
 **[00:32:29](/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-32-03)**
 > "... dry eye in the place, Blakey Neff."
 
-**[00:33:03](/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-32-47)**
+**[00:33:03](/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-32-03)**
 > "...n't need to share it with me, Blake. You should share it with people in the world bec..."
 
 **[00:44:14](/episodes/ep-xi8SYJTUXPM.md#ent-person-blake-neff-t-00-43-49)**
@@ -194,7 +319,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 **[00:39:28](/episodes/ep-eLgD5yUVbko.md#ent-person-blake-neff-t-00-38-59)**
 > "...t of all mine, something that Blake Neff was cutting apart about, you think there's symbol..."
 
-**[00:39:45](/episodes/ep-eLgD5yUVbko.md#ent-person-blake-neff-t-00-39-34)**
+**[00:39:45](/episodes/ep-eLgD5yUVbko.md#ent-person-blake-neff-t-00-38-59)**
 > "... I would be pretty surprised, Blake. You wouldn't be so, so angry if you didn't know ..."
 
 </details>
@@ -401,7 +526,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 **[00:06:06](/episodes/ep-jTj9Ip46r4w.md#ent-person-blake-neff-t-00-05-39)**
 > "...Coy and, of course, wargaming Blake Neff, actually got into his studio and shared this."
 
-**[00:07:06](/episodes/ep-jTj9Ip46r4w.md#ent-person-blake-neff-t-00-07-04)**
+**[00:07:06](/episodes/ep-jTj9Ip46r4w.md#ent-person-blake-neff-t-00-05-39)**
 > "...'t actually know charlie like blake you said it in private he would be not happy with..."
 
 </details>
@@ -500,10 +625,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 **[00:03:53](/episodes/ep-DqGNvi36ol8.md#ent-person-blake-neff-t-00-03-41)**
 > "At least that's what Blake Neff is saying on the Charlie Kirk show."
 
-**[00:05:00](/episodes/ep-DqGNvi36ol8.md#ent-person-blake-neff-t-00-04-31)**
+**[00:05:00](/episodes/ep-DqGNvi36ol8.md#ent-person-blake-neff-t-00-03-41)**
 > "Blake, I think you tweeted something out and I don't kn..."
 
-**[00:05:09](/episodes/ep-DqGNvi36ol8.md#ent-person-blake-neff-t-00-04-31)**
+**[00:05:09](/episodes/ep-DqGNvi36ol8.md#ent-person-blake-neff-t-00-03-41)**
 > "... invitation and it was issued Blake."
 
 **[00:08:19](/episodes/ep-DqGNvi36ol8.md#ent-person-blake-neff-t-00-08-01)**
@@ -544,7 +669,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 **[00:04:44](/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-04-36)**
 > "...d to him and I said, "No, actually I didn't see this." And I opened the tweets, which went out from Blake Neff around midnight last night. And here's what he wrote. I'm like, how am I supposed to see this? "The..."
 
-**[00:07:50](/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-07-26)**
+**[00:07:50](/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-04-36)**
 > "...nce that nothing that they do is genuine and that this was an obvious planned PR move, here is what Blake tweeted out just now before we went live on the show. "Yesterday, we made it clear that we would be..."
 
 **[00:11:22](/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-10-53)**
@@ -556,13 +681,13 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 **[00:28:02](/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-27-46)**
 > "...that he knows. Trust the science. Take a listen. (Clip: Frank Turek speaking about Charlie Kirk and Blake Neff) The night before Charlie (Charlie Kirk) was murdered— I'm not just saying this, but I went into hi..."
 
-**[00:28:13](/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-28-05)**
+**[00:28:13](/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-27-46)**
 > "... saying this, but I went into his office. This was after we had a meeting. You were in the meeting, Blake: me, you, Charlie (Charlie Kirk), and some other folks. And he was going to dinner, and he said, "H..."
 
-**[00:28:18](/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-28-05)**
+**[00:28:18](/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-27-46)**
 > "...), and some other folks. And he was going to dinner, and he said, "Hey, you're going to dinner with Blake and Danny." He said, "Blake is my secret weapon. He's the smartest man I know." And, uh, he loved y..."
 
-**[00:28:24](/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-28-05)**
+**[00:28:24](/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-27-46)**
 > "... he was going to dinner, and he said, "Hey, you're going to dinner with Blake and Danny." He said, "Blake is my secret weapon. He's the smartest man I know." And, uh, he loved you. And for anybody to sugge..."
 
 **[00:29:16](/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-29-14)**
@@ -603,13 +728,13 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 **[00:24:07](/episodes/ep-his-JBjlkh8.md#ent-person-blake-neff-t-00-23-52)**
 > "...is is so crazy. No, they are fearful. The Egyptian planes hold the key, and that is obvious even in Blake Neff's statement. But yeah, I am not a troll, okay? And people followed what felt to them as authenticit..."
 
-**[00:25:21](/episodes/ep-his-JBjlkh8.md#ent-person-blake-neff-t-00-25-09)**
+**[00:25:21](/episodes/ep-his-JBjlkh8.md#ent-person-blake-neff-t-00-23-52)**
 > "...k was the best way for them to show that they were friends with Charlie (Charlie Kirk)? Keep going, Blake. "But a week from now, it's going to be three months since Charlie (Charlie Kirk)'s murder. Candace..."
 
-**[00:27:04](/episodes/ep-his-JBjlkh8.md#ent-person-blake-neff-t-00-25-09)**
+**[00:27:04](/episodes/ep-his-JBjlkh8.md#ent-person-blake-neff-t-00-23-52)**
 > "...ts to be the president and things aren't making sense and I sense that she is lying. Sometimes it's Blake Lively and Ryan Reynolds when they try to destroy a man's life who's not even on my quote-unquote "politic..."
 
-**[00:28:05](/episodes/ep-his-JBjlkh8.md#ent-person-blake-neff-t-00-27-57)**
+**[00:28:05](/episodes/ep-his-JBjlkh8.md#ent-person-blake-neff-t-00-23-52)**
 > "... to the point here, which is that they are willing to finally address things head-on. So I will let Blake say that. "And far too often, we here have heard from ordinary people—people who loved Charlie (Cha..."
 
 </details>
@@ -629,7 +754,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 **[00:32:07](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-31-27)**
 > "...nt USA employee that was standing directly next to super-Mikey McCoy when the shot rang out. And he—Blake Neff—has similarly decided to drop a receipt. This happened, I think, actually last week, of his actions..."
 
-**[00:32:26](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-32-11)**
+**[00:32:26](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-31-27)**
 > "...se of the magnificent Mikey McCoy, who he says had a quivering lip. And I'm gonna let you listen to Blake's account of that day again as a reminder before we get to his receipt. Take a listen. (Blake Neff ..."
 
 **[00:32:34](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-32-34)**
@@ -641,7 +766,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 **[00:35:50](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-35-34)**
 > "...e Neff then had a back-and-forth with somebody on X. And I want to be clear: I actually don't think Blake Neff is in on the corruption here. I don't know why; I've just never gotten that vibe. I think he believ..."
 
-**[00:36:29](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-36-17)**
+**[00:36:29](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-35-34)**
 > "...s call log with his mom, or rather a screenshot of the call that he had with his mom. Now remember, Blake is in Arizona now, so this is going to say 11:24. It's supposed to be obviously 12:24 Utah time. We..."
 
 </details>
@@ -663,16 +788,16 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 **[00:36:06](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-36-06)**
 > "... up about people asking questions about what Mikey was doing. And I just want you to listen to what Blake Neff says that Mikey was up to in those seconds. (Clip of Blake Neff) Now, like I said, we can track Mik..."
 
-**[00:40:19](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-39-55)**
+**[00:40:19](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-36-06)**
 > "... brings his hand down, okay? He's not covering his ears for that long—which doesn't make any sense. Blake might think he's telling the truth, but it's not a true account of what happened on that day, okay?..."
 
-**[00:40:24](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-39-55)**
+**[00:40:24](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-36-06)**
 > "...ing the truth, but it's not a true account of what happened on that day, okay? I'll say that again. Blake might think he's telling the truth, so it is possible that Blake is not lying, okay? But it is not ..."
 
 **[00:40:44](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-40-37)**
 > "...ng lot—that he seems to be going straight and then to the left. And he is on the phone already, and Blake Neff is nowhere to be seen. We can track those movements. We are told that within the minute of Charlie ..."
 
-**[00:41:51](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-41-22)**
+**[00:41:51](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-40-37)**
 > "... he is saying is true— and until they reunited—which does not happen in our eyesight. We do not see Blake and Mikey reunite when we track Mikey all the way straight down to the left. Okay. The 12-23 minute..."
 
 **[00:43:24](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-43-24)**
@@ -686,10 +811,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
 
-**[00:10:04](/episodes/ep-Qfwr08Ebczo.md#ent-person-blake-neff-t-00-10-04)**
+**[00:10:04](/episodes/ep-Qfwr08Ebczo.md#t-00-10-04)**
 > "...me he ever did it. Take a listen to Mikey McCoy explain that. Today is really fun because Mikey and Blake are going to talk about their last trip with Charlie (Charlie Kirk) to Asia. And Mikey, you are now..."
 
-**[00:10:21](/episodes/ep-Qfwr08Ebczo.md#ent-person-blake-neff-t-00-10-04)**
+**[00:10:21](/episodes/ep-Qfwr08Ebczo.md#t-00-10-04)**
 > "...t three, four days before Utah. And it was Charlie (Charlie Kirk)'s dream to always go to Asia. And Blake and I got the gift of being able to tag along for that. And so I brought the camera with me. I've n..."
 
 </details>
@@ -708,13 +833,13 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <details>
 <summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (3 mentions)</summary>
 
-**[00:15:25](/episodes/ep-5autG89PW6w.md#ent-person-blake-neff-t-00-15-02)**
+**[00:15:25](/episodes/ep-5autG89PW6w.md#t-00-15-02)**
 > "...a few people. Don't know where it went from there, apparently. But here we are. One of the reasons, Blake, that I'm glad to have this now public—it was not mine to share publicly—but you know, one of the c..."
 
-**[00:17:07](/episodes/ep-5autG89PW6w.md#ent-person-blake-neff-t-00-17-07)**
+**[00:17:07](/episodes/ep-5autG89PW6w.md#t-00-17-07)**
 > "... that that text chain is consistent with public frustrations that he voiced many times. And I know, Blake, you were in the trenches on a lot of this stuff because we were workshopping how we were going to ..."
 
-**[00:19:06](/episodes/ep-5autG89PW6w.md#ent-person-blake-neff-t-00-18-31)**
+**[00:19:06](/episodes/ep-5autG89PW6w.md#t-00-18-31)**
 > "...nt to say that. Also, I'm glad that Andrew responded correctly because I was going to say this when Blake's like, "Well, you know, the investigation is ongoing." That text message has nothing to do with an..."
 
 </details>
@@ -737,7 +862,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>Criticized (2)</summary>
+<summary>Criticized (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
@@ -753,6 +878,13 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:43:28](/episodes/ep-SgVcnx4Oh30.md#t-00-43-28): “Blake (Blake Neff) neff is is trying to make hate happen toward Joe Kent”
+
+</details>
+
+- **[Project Constitution](/entities/org-project-constitution.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:03:13](/episodes/ep-KpxIBWkNsSs.md#t-00-03-02): “never one to be left behind Blakey Neff jumped in he wrote back to Project Constitution you are not very smart are you and then when somebody asked a question about why Andrew (Andrew Kolvet)'s wife was not at the White House Correspondents' Dinner Blake Neff insisted he wrote back again this is just all Blake Neff wrote instead of posting deranged rumor mongering at 7 a.m on a Sunday morning have you considered that you could look Could look this up or use your brain.”
 
 </details>
 
@@ -816,17 +948,18 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:54](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show”
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:28:04](/episodes/ep-eMtjzXkQrsU.md#t-00-27-54): “technically doesn't work for Turning Point USA. Right. Blake Neff, Andrew Kolvet, they are paid at least in part by the Charlie Kirk show.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -866,6 +999,13 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 </details>
 
+- **[Project Constitution](/entities/org-project-constitution.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:03:13](/episodes/ep-KpxIBWkNsSs.md#t-00-03-02): “never one to be left behind Blakey Neff jumped in he wrote back to Project Constitution you are not very smart are you and then when somebody asked a question about why Andrew (Andrew Kolvet)'s wife was not at the White House Correspondents' Dinner Blake Neff insisted he wrote back again this is just all Blake Neff wrote instead of posting deranged rumor mongering at 7 a.m on a Sunday morning have you considered that you could look Could look this up or use your brain.”
+
+</details>
+
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
@@ -875,10 +1015,11 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:54](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show”
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:28:04](/episodes/ep-eMtjzXkQrsU.md#t-00-27-54): “technically doesn't work for Turning Point USA. Right. Blake Neff, Andrew Kolvet, they are paid at least in part by the Charlie Kirk show.”
 
 </details>
 
@@ -998,7 +1139,15 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Blake Neff (18)</strong></summary>
+<summary><strong class="section-title">Statements about Blake Neff (19)</strong></summary>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1)</summary>
+
+- [00:57:36](/episodes/ep-k1b1NDCrNFs.md#t-00-57-36) (Claim) **Anonymous Source #3 (Ep k1b1NDCrNFs)** (via quoted speech): ["Blake Neff was writing Erika Kirk's speech, according to people with d..."](/statements/statement-f60df02e4b61.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>

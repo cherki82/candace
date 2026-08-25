@@ -1,6 +1,6 @@
 ---
 title: "Santa Barbara"
-description: "Santa Barbara (Places) - 39 mentions"
+description: "Santa Barbara (Places) - 40 mentions"
 id: "gpe-santa-barbara"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-14">2025-11-17 · 00:26:38</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-santa-barbara-t-00-15-28">2026-03-26 · 00:15:28</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>39</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-gpe-santa-barbara-t-00-29-20">2026-05-05 · 00:29:32</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,6 +39,7 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-santa-barbara-t-00-06-26" style="--pulse-height:100%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 10 mentions" title="2026-03-24 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-santa-barbara-t-00-01-51" style="--pulse-height:50%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 5 mentions" title="2026-03-25 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-santa-barbara-t-00-04-46" style="--pulse-height:80%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 8 mentions" title="2026-03-26 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-gpe-santa-barbara-t-00-29-20" style="--pulse-height:10%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-santa-barbara-t-00-06-26) | 10 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-santa-barbara-t-00-01-51) | 5 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-santa-barbara-t-00-04-46) | 8 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-santa-barbara-t-00-29-20) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1 mentions)</summary>
+
+**[00:29:32](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-santa-barbara-t-00-29-20)**
+> "But when Charlie (Charlie Kirk) said no to Bibi (Benjamin Netanyahu), Andrew (Andrew Kolvet) allegedly—I'll say allegedly here—told his close orbit of family and friends back in Santa Barbara"
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (8 mentions)</summary>

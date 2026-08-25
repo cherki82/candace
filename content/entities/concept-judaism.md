@@ -1,6 +1,6 @@
 ---
 title: "Judaism"
-description: "Judaism (Concepts) - 130 mentions"
+description: "Judaism (Concepts) - 134 mentions"
 id: "concept-judaism"
 type: "CONCEPT"
 aliases:
@@ -22,8 +22,8 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-22-23">2026-01-12 · 00:22:34</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12">2026-08-14 · 00:28:34</a></strong></div>
-<div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>130</strong></div>
+<div><span>Episodes</span><strong>33</strong></div>
+<div><span>Mentions</span><strong>134</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -64,6 +64,8 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 <a href="/episodes/ep-SubDoZWHARo.md#ent-concept-judaism-t-00-53-46" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-concept-judaism-t-00-50-26" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 2 mentions" title="2026-04-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-judaism-t-00-38-37" style="--pulse-height:21%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 5 mentions" title="2026-04-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-concept-judaism-t-02-03-03" style="--pulse-height:12%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 3 mentions" title="2026-04-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-judaism-t-01-04-10" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -100,6 +102,8 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-concept-judaism-t-00-53-46) | 2 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-concept-judaism-t-00-50-26) | 2 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-concept-judaism-t-00-38-37) | 5 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-concept-judaism-t-02-03-03) | 3 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-judaism-t-01-04-10) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12) | 1 |
 
 </details>
@@ -108,13 +112,35 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (130)</strong></summary>
+<summary><strong class="section-title">Raw mentions (134)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:28:34](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12)**
 > "... sent a text message reading, Jewish donors play into all the stereotypes."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[01:04:20](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-judaism-t-01-04-10)**
+> "...y that I reported her Zionist Jewish lawyer dropping her ahead of an important deadlin..."
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (3 mentions)</summary>
+
+**[02:03:25](/episodes/ep--9MOUvgGyi4.md#ent-concept-judaism-t-02-03-03)**
+> "that his backstory about being abused by his dad his dad being named Karl Marx I guess it was right there but I didn't know that Karl Marx was Jewish this Karl Marx's dad that was um something that came across in text messages that were given to me that uh he's quite defensive about Israel is what I would say he's he is similarly how he"
+
+**[02:03:30](/episodes/ep--9MOUvgGyi4.md#ent-concept-judaism-t-02-03-03)**
+> "...idn't know that carl marx was jewish this carl marx's dad that was um something that c..."
+
+**[02:04:13](/episodes/ep--9MOUvgGyi4.md#ent-concept-judaism-t-02-03-48)**
+> "My dad's Jewish and don't ever say that ever again. So there's a ..."
 
 </details>
 

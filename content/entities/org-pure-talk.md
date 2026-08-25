@@ -1,6 +1,6 @@
 ---
 title: "Pure Talk"
-description: "Pure Talk (Organizations) - 127 mentions"
+description: "Pure Talk (Organizations) - 136 mentions"
 id: "org-pure-talk"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [PureTalk](https://www.puretalk.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-pure-talk-t-00-55-47">2025-09-15 · 00:55:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-pure-talk-t-00-27-18">2026-04-21 · 00:27:30</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>127</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-pure-talk-t-00-22-36">2026-05-11 · 00:22:36</a></strong></div>
+<div><span>Episodes</span><strong>27</strong></div>
+<div><span>Mentions</span><strong>136</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -62,6 +62,8 @@ Source: [PureTalk](https://www.puretalk.com/)
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-pure-talk-t-00-22-37" style="--pulse-height:71%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 5 mentions" title="2026-04-10 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-pure-talk-t-00-27-54" style="--pulse-height:71%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 5 mentions" title="2026-04-16 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-pure-talk-t-00-26-01" style="--pulse-height:71%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 5 mentions" title="2026-04-21 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-pure-talk-t-00-26-41" style="--pulse-height:71%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 5 mentions" title="2026-05-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-pure-talk-t-00-21-14" style="--pulse-height:57%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 4 mentions" title="2026-05-11 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -92,6 +94,8 @@ Source: [PureTalk](https://www.puretalk.com/)
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-pure-talk-t-00-22-37) | 5 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-pure-talk-t-00-27-54) | 5 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-pure-talk-t-00-26-01) | 5 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-pure-talk-t-00-26-41) | 5 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-pure-talk-t-00-21-14) | 4 |
 
 </details>
 </section>
@@ -99,7 +103,44 @@ Source: [PureTalk](https://www.puretalk.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (127)</strong></summary>
+<summary><strong class="section-title">Raw mentions (136)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (4 mentions)</summary>
+
+**[00:21:49](/episodes/ep-KpxIBWkNsSs.md#ent-org-pure-talk-t-00-21-14)**
+> "remind you guys about Pure Talk"
+
+**[00:22:01](/episodes/ep-KpxIBWkNsSs.md#ent-org-pure-talk-t-00-21-56)**
+> "With Pure Talk, you can get unlimited high-speed data for just $..."
+
+**[00:22:11](/episodes/ep-KpxIBWkNsSs.md#ent-org-pure-talk-t-00-21-56)**
+> "...ality so if you've considered pure talk before but haven't made the switch now is an exce..."
+
+**[00:22:36](/episodes/ep-KpxIBWkNsSs.md#ent-org-pure-talk-t-00-22-36)**
+> "...$34.99 a month. Again, that's pure talk.com slash Owens."
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (5 mentions)</summary>
+
+**[00:27:00](/episodes/ep-k1b1NDCrNFs.md#ent-org-pure-talk-t-00-26-41)**
+> "... going to tell you guys about Pure Talk because take a moment to think about Think about ..."
+
+**[00:27:16](/episodes/ep-k1b1NDCrNFs.md#ent-org-pure-talk-t-00-27-16)**
+> "With PureTalk, you can get unlimited high-speed data for just $..."
+
+**[00:27:29](/episodes/ep-k1b1NDCrNFs.md#ent-org-pure-talk-t-00-27-16)**
+> "If you've considered PureTalk before but haven't made the switch, now is an exc..."
+
+**[00:27:44](/episodes/ep-k1b1NDCrNFs.md#ent-org-pure-talk-t-00-27-16)**
+> "Plus, Pure Talk's U.S.-based customer service team is available whe..."
+
+**[00:27:55](/episodes/ep-k1b1NDCrNFs.md#ent-org-pure-talk-t-00-27-16)**
+> "That's puretalk.com slash Owens."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (5 mentions)</summary>

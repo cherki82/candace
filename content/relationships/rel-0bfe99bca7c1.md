@@ -11,7 +11,11 @@ object: "person-corby-hall"
 
 ## [FoldAR](/entities/org-foldar) owned by [Corby Hall](/entities/person-corby-hall)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
+
+**[Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4)**
+
+- [00:02:41](/episodes/ep--9MOUvgGyi4#t-00-02-41): _Well, I own a company called FoldAR. I've got the patent on the most compact AR-15 in the world, and our mission is school resource officers._
 
 **[Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs)**
 

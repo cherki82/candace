@@ -1,6 +1,6 @@
 ---
 title: "Patrick Bet-David"
-description: "Patrick Bet-David (People) - 22 mentions"
+description: "Patrick Bet-David (People) - 25 mentions"
 id: "person-patrick-bet-david"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#t-00-57-35">2025-09-16 · 00:58:07</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-patrick-bet-david-t-04-02-53">2026-08-14 · 04:02:57</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -41,6 +41,7 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-person-patrick-bet-david-t-00-44-06" style="--pulse-height:40%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-patrick-bet-david-t-00-48-55" style="--pulse-height:20%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-46-12" style="--pulse-height:80%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 4 mentions" title="2025-12-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-patrick-bet-david-t-00-01-11" style="--pulse-height:60%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 3 mentions" title="2026-05-11 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-patrick-bet-david-t-02-54-51" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 5 mentions" title="2026-08-14 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -53,6 +54,7 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-patrick-bet-david-t-00-44-06) | 2 |
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-patrick-bet-david-t-00-48-55) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-46-12) | 4 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-patrick-bet-david-t-00-01-11) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-patrick-bet-david-t-02-54-51) | 5 |
 
 </details>
@@ -61,7 +63,7 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (5 mentions)</summary>
@@ -80,6 +82,20 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 
 **[04:02:57](/episodes/ep-nPhCKwJ6ye8.md#ent-person-patrick-bet-david-t-04-02-53)**
 > "PBD, just for being a great moderator,"
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (3 mentions)</summary>
+
+**[00:01:11](/episodes/ep-KpxIBWkNsSs.md#ent-person-patrick-bet-david-t-00-01-11)**
+> "Patrick Bet-David's show"
+
+**[00:30:20](/episodes/ep-KpxIBWkNsSs.md#ent-person-patrick-bet-david-t-00-30-20)**
+> "...cast studios no offense, Pat (Patrick Bet-David) and they'd leave their podcast studios and go an..."
+
+**[00:37:38](/episodes/ep-KpxIBWkNsSs.md#ent-person-patrick-bet-david-t-00-37-30)**
+> "...ike the fake fame surprise of PBD. I'm so surprised that Candace came after you lik..."
 
 </details>
 
@@ -170,7 +186,7 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Interviewed (4)</summary>
+<summary>Interviewed (5)</summary>
 
 - **[Eric Bolling](/entities/person-eric-bolling.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -200,10 +216,17 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 
 </details>
 
+- **[Nick Shirley](/entities/person-nick-shirley.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:28:13](/episodes/ep-KpxIBWkNsSs.md#t-00-28-13): “pb who was one of the people who issued a kind statement about Nick Shirley because gasp candace doesn't believe that he infiltrated a gang in 48 hours hosted him on his show and they show the clip of what i said and the pbds pretending he had no idea he completely already knew i said this even the whole little scene you're going to watch between them is just so contrived it just bothers me on a level He had no idea. He completely already knew I said this.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Eric Bolling](/entities/person-eric-bolling.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -230,6 +253,13 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 00:24:41](/episodes/ep-nPhCKwJ6ye8.md#t-00-24-41): “Okay, so we're officially live. Candace, Andrew (Andrew Wilson), you know, good to sit down here with you talking to you guys about the conversation that I think started with you being on Joe Rogan”
+
+</details>
+
+- **[Nick Shirley](/entities/person-nick-shirley.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:28:13](/episodes/ep-KpxIBWkNsSs.md#t-00-28-13): “pb who was one of the people who issued a kind statement about Nick Shirley because gasp candace doesn't believe that he infiltrated a gang in 48 hours hosted him on his show and they show the clip of what i said and the pbds pretending he had no idea he completely already knew i said this even the whole little scene you're going to watch between them is just so contrived it just bothers me on a level He had no idea. He completely already knew I said this.”
 
 </details>
 

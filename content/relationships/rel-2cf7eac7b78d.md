@@ -11,11 +11,15 @@ object: "person-erika-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) met with [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (11 mentions)
+### Evidence (14 mentions)
 
 **[Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM)**
 
 - [00:46:44](/episodes/ep-5m-Wn6Pr5rM#t-00-46-44): _last night when I met up with Erika._
+
+**[BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE)**
+
+- [00:15:30](/episodes/ep-7FS1tUeSfdE#t-00-15-30): _He was, as you will recall, also the person that Erika (Erika Kirk) brought with her for our four-hour sit-down meeting._
 
 **[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
 
@@ -45,6 +49,10 @@ object: "person-erika-kirk"
 
 - [00:52:41](/episodes/ep-SgVcnx4Oh30#t-00-52-41): _i do want to remind you that i met with Erika (Erika Kirk) just a couple of months ago_
 
+**[Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs)**
+
+- [00:19:20](/episodes/ep-k1b1NDCrNFs#t-00-19-20): _Erika (Erika Kirk) and I had just sat down on December 15th. This felt oddly backhanded to me. Also, during our sit down, Erika (Erika Kirk) told me that she was no longer using Andrew (Andrew Kolvet) as PR because he kept going rogue. He kept going rogue. Well, here we had proof that he wasn't going rogue because it was a photo of her sending him a picture alibi of her covering her phone with her kids on the wrong date._
+
 **[Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8)**
 
 - [02:45:28](/episodes/ep-nPhCKwJ6ye8#t-02-45-28): _Then again, context matters. I sit down with with Erika for four hours under the assumption that she had some evidence right like I'm like I actually this is why I did not engage in any like Erika everyone's questioning what she's wearing and all this stuff I was like I'm gonna wait here because I don't know just it feels weird to think that_
@@ -52,6 +60,10 @@ object: "person-erika-kirk"
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 
 - [00:04:40](/episodes/ep-q1NRQQAYS_Q#t-00-04-40): _Narrator, it most certainly did not remove any suspicion. Again, they went a little too complex, right? Similarly, when I sat down with Erica Kirk on December 15th, I had a very short list of questions like I told you that I was seeking clarity on._
+
+**[TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ)**
+
+- [00:53:10](/episodes/ep-qZ8RWfyuewQ#t-00-53-10): _um accusing her of murdering her own husband okay so I sent this as a joke an obvious joke which they know is a joke because when I met up with Erica (Erika Kirk) I never asked this question_
 
 **[Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno)**
 

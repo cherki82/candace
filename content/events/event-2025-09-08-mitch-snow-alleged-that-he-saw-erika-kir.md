@@ -11,7 +11,7 @@ date: "2025-09-08"
 
 > Mitch Snow alleged that he saw Erika Kirk leaving the Candlewood Suites hotel at Fort Huachuca with someone resembling Cabot Phillips.
 
-## Mentioned In (4 times)
+## Mentioned In (5 times)
 
 ### 1. You Won't Believe What Happened While We Were Off Air... | C...
 
@@ -44,3 +44,11 @@ date: "2025-09-08"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2077);return false;">▶️ Play</a>
 
 > Allegedly, Erika, he saw her on September 8th, Fort Huachuca
+
+### 5. Update! Erika Did Not Go Home. Source Confirms AI Voice Tact...
+
+**Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
+**Timestamp:** [00:46:27](/episodes/ep-KpxIBWkNsSs.md#event-event-2025-09-08-mitch-snow-alleged-that-he-saw-erika-kir-t-00-46-01) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2787);return false;">▶️ Play</a>
+
+> he said he saw Erika Kirk on the 8th and she wasn't leaving a meeting

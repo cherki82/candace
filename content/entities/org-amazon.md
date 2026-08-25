@@ -1,6 +1,6 @@
 ---
 title: "Amazon"
-description: "Amazon (Organizations) - 31 mentions"
+description: "Amazon (Organizations) - 37 mentions"
 id: "org-amazon"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [Amazon Stores](https://www.aboutamazon.com/what-we-do/amazon-store)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-amazon-t-00-39-04">2025-09-17 · 00:39:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-org-amazon-t-00-48-32">2026-04-14 · 00:48:50</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-amazon-t-00-58-25">2026-05-11 · 00:58:34</a></strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>37</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -57,6 +57,12 @@ Source: [Amazon Stores](https://www.aboutamazon.com/what-we-do/amazon-store)
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-amazon-t-00-35-42" style="--pulse-height:33%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-amazon-t-01-05-03" style="--pulse-height:33%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-amazon-t-00-48-32" style="--pulse-height:33%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-org-amazon-t-01-18-34" style="--pulse-height:33%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-org-amazon-t-01-15-05" style="--pulse-height:33%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-amazon-t-01-02-02" style="--pulse-height:33%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-amazon-t-01-07-48" style="--pulse-height:33%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-org-amazon-t-00-45-58" style="--pulse-height:33%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-amazon-t-00-58-25" style="--pulse-height:33%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -82,6 +88,12 @@ Source: [Amazon Stores](https://www.aboutamazon.com/what-we-do/amazon-store)
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-org-amazon-t-00-35-42) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-amazon-t-01-05-03) | 1 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-amazon-t-00-48-32) | 1 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-amazon-t-01-18-34) | 1 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-org-amazon-t-01-15-05) | 1 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-amazon-t-01-02-02) | 1 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-amazon-t-01-07-48) | 1 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-org-amazon-t-00-45-58) | 1 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-amazon-t-00-58-25) | 1 |
 
 </details>
 </section>
@@ -89,7 +101,55 @@ Source: [Amazon Stores](https://www.aboutamazon.com/what-we-do/amazon-store)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>
+
+**[00:58:34](/episodes/ep-KpxIBWkNsSs.md#ent-org-amazon-t-00-58-25)**
+> "buy it on Amazon"
+
+</details>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>
+
+**[00:46:30](/episodes/ep-FFQ9675oqRI.md#ent-org-amazon-t-00-45-58)**
+> "...dwich. You guys can get it on Amazon."
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>
+
+**[01:08:05](/episodes/ep-k1b1NDCrNFs.md#ent-org-amazon-t-01-07-48)**
+> "...om us. You can also get it on Amazon."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
+
+**[01:02:02](/episodes/ep-uC_GjKU8rs8.md#ent-org-amazon-t-01-02-02)**
+> "... that's cheaper than going to amazon.com amazon might ship a day faster you gotta give..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1 mentions)</summary>
+
+**[01:15:05](/episodes/ep-69A8TzAGHlU.md#ent-org-amazon-t-01-15-05)**
+> "that book so much you can that's a signed copy bundle you can obviously buy a regular copy available on Amazon you can go to make him a sandwich.com buy a regular copy a regularly priced copy not having to buy a bundle of two signed books and join the book club that would be an amazing way to join us and in discussion and talking about feminism and what the true origins and true intent of feminism was and is It may shock you ties in perfectly to everything."
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (1 mentions)</summary>
+
+**[01:19:09](/episodes/ep--9MOUvgGyi4.md#ent-org-amazon-t-01-18-34)**
+> "Again, that's activeskinrepair.com with promo code Candace (Candace Owens) at checkout. You can also find active skin repair on Amazon and at your local CVS."
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1 mentions)</summary>

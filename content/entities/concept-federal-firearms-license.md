@@ -1,6 +1,6 @@
 ---
 title: "Federal Firearms License"
-description: "Federal Firearms License (Concepts) - 2 mentions"
+description: "Federal Firearms License (Concepts) - 3 mentions"
 id: "concept-federal-firearms-license"
 type: "CONCEPT"
 aliases:
@@ -23,9 +23,9 @@ Source: [Federal Firearms Licenses | ATF](https://www.atf.gov/firearms/federal-f
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-concept-federal-firearms-license-t-00-29-44">2026-04-16 · 00:29:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-concept-federal-firearms-license-t-00-30-16">2026-04-16 · 00:30:16</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep--9MOUvgGyi4.md#ent-concept-federal-firearms-license-t-00-40-32">2026-04-22 · 00:40:32</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,12 +37,14 @@ Source: [Federal Firearms Licenses | ATF](https://www.atf.gov/firearms/federal-f
 <p>Highest activity: <a href="/episodes/ep-1mYNOqzAdXs.md#ent-concept-federal-firearms-license-t-00-29-44">Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-concept-federal-firearms-license-t-00-29-44" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 2 mentions" title="2026-04-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-concept-federal-firearms-license-t-00-40-32" style="--pulse-height:50%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-concept-federal-firearms-license-t-00-29-44) | 2 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-concept-federal-firearms-license-t-00-40-32) | 1 |
 
 </details>
 </section>
@@ -50,7 +52,15 @@ Source: [Federal Firearms Licenses | ATF](https://www.atf.gov/firearms/federal-f
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (1 mentions)</summary>
+
+**[00:40:32](/episodes/ep--9MOUvgGyi4.md#ent-concept-federal-firearms-license-t-00-40-32)**
+> "The color scheme and all the accessories have been picked and we built a few units to be able to present, be able to give him a couple at the show and you know he had his FFL to Federal Farms license and so we transferred a couple to him at the show and had a few for our display in our booth."
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (2 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "fatty15"
-description: "fatty15 (Organizations) - 15 mentions"
+description: "fatty15 (Organizations) - 18 mentions"
 id: "org-fatty15"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-fatty15-t-00-41-16">2026-02-27 · 00:41:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-fatty15-t-00-42-24">2026-04-21 · 00:42:35</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-org-fatty15-t-00-34-40">2026-05-07 · 00:35:03</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -39,6 +39,7 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-fatty15-t-00-41-51" style="--pulse-height:67%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 4 mentions" title="2026-02-27 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-fatty15-t-00-51-34" style="--pulse-height:100%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 6 mentions" title="2026-03-06 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-fatty15-t-00-41-48" style="--pulse-height:83%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 5 mentions" title="2026-04-21 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-org-fatty15-t-00-34-00" style="--pulse-height:50%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 3 mentions" title="2026-05-07 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-fatty15-t-00-41-51) | 4 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-fatty15-t-00-51-34) | 6 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-fatty15-t-00-41-48) | 5 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-org-fatty15-t-00-34-00) | 3 |
 
 </details>
 </section>
@@ -54,7 +56,21 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (3 mentions)</summary>
+
+**[00:34:10](/episodes/ep-FFQ9675oqRI.md#ent-org-fatty15-t-00-34-00)**
+> "...I'm excited to tell you about Fatty 15, a science-backed supplement built around C15, th..."
+
+**[00:34:54](/episodes/ep-FFQ9675oqRI.md#ent-org-fatty15-t-00-34-40)**
+> "...ption starter kit by going to fatty15.com slash Candace and using code Candace at check..."
+
+**[00:35:03](/episodes/ep-FFQ9675oqRI.md#ent-org-fatty15-t-00-34-40)**
+> "That's fatty15.com slash Candace. I also have to tell you guys a..."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (5 mentions)</summary>
@@ -135,13 +151,32 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Includes (1)</summary>
+
+- **[Pentadecanoic acid](/entities/concept-pentadecanoic-acid.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 @ 00:34:10](/episodes/ep-FFQ9675oqRI.md#t-00-34-00): “Fatty 15, a science-backed supplement built around C15”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:52:08](/episodes/ep-DdPjoy5W-wY.md#t-00-51-34): “I've been taking a science-backed supplement designed to help optimize your C15 levels. It's called Fatty 15.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:42:35](/episodes/ep-xi8SYJTUXPM.md#t-00-42-24): “by going to fatty15.com slash Candace and using code Candace at checkout. Again, that's fatty15.com slash Candace and use promo code Candace at checkout.”
+
+</details>
+
+- **[Pentadecanoic acid](/entities/concept-pentadecanoic-acid.md)** part of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 @ 00:34:10](/episodes/ep-FFQ9675oqRI.md#t-00-34-00): “Fatty 15, a science-backed supplement built around C15”
 
 </details>
 

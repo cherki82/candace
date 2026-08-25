@@ -1,6 +1,6 @@
 ---
 title: "PreBorn!"
-description: "PreBorn! (Organizations) - 146 mentions"
+description: "PreBorn! (Organizations) - 153 mentions"
 id: "org-preborn"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [PreBorn!](https://preborn.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-32-31">2025-09-15 · 00:31:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-preborn-t-00-25-19">2026-04-21 · 00:25:30</a></strong></div>
-<div><span>Episodes</span><strong>46</strong></div>
-<div><span>Mentions</span><strong>146</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-preborn-t-00-26-10">2026-05-13 · 00:26:19</a></strong></div>
+<div><span>Episodes</span><strong>48</strong></div>
+<div><span>Mentions</span><strong>153</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -83,6 +83,8 @@ Source: [PreBorn!](https://preborn.com/)
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-preborn-t-00-26-33" style="--pulse-height:43%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-preborn-t-00-30-54" style="--pulse-height:29%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-preborn-t-00-25-19" style="--pulse-height:29%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-preborn-t-00-41-36" style="--pulse-height:29%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-preborn-t-00-25-25" style="--pulse-height:57%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -134,6 +136,8 @@ Source: [PreBorn!](https://preborn.com/)
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-preborn-t-00-26-33) | 3 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-preborn-t-00-30-54) | 2 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-preborn-t-00-25-19) | 2 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-preborn-t-00-41-36) | 2 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-org-preborn-t-00-25-25) | 4 |
 
 </details>
 </section>
@@ -141,7 +145,35 @@ Source: [PreBorn!](https://preborn.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (146)</strong></summary>
+<summary><strong class="section-title">Raw mentions (153)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (4 mentions)</summary>
+
+**[00:25:47](/episodes/ep-4DvYXBn_5JI.md#ent-org-preborn-t-00-25-25)**
+> "preborn exists"
+
+**[00:25:54](/episodes/ep-4DvYXBn_5JI.md#ent-org-preborn-t-00-25-25)**
+> "Preborn reaches women who feel overwhelmed and alone, giv..."
+
+**[00:26:00](/episodes/ep-4DvYXBn_5JI.md#ent-org-preborn-t-00-25-25)**
+> "...e support doesn't stop there. Preborn continues helping moms after birth with essential..."
+
+**[00:26:19](/episodes/ep-4DvYXBn_5JI.md#ent-org-preborn-t-00-26-10)**
+> "...hat's pound 250 baby or visit preborn.com slash Candace. Again, that's preborn.com slas..."
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (2 mentions)</summary>
+
+**[00:41:45](/episodes/ep-eMtjzXkQrsU.md#ent-org-preborn-t-00-41-36)**
+> "Preborn doesn't just offer a moment, they offer a future...."
+
+**[00:41:56](/episodes/ep-eMtjzXkQrsU.md#ent-org-preborn-t-00-41-36)**
+> "...at's pound 250 baby. Or visit preborn.com slash Candace. Again, that's preborn.com slas..."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (2 mentions)</summary>
@@ -811,12 +843,13 @@ Source: [PreBorn!](https://preborn.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash candid. Candace, again, that's preborn.com slash Candace.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:30:54](/episodes/ep-kaWtDuoY_ns.md#t-00-30-54): “That's why pre-born exists, because when a woman sees her baby on an ultrasound and hears that tiny heartbeat, it doubles the chance that she'll choose life.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:25:19](/episodes/ep-xi8SYJTUXPM.md#t-00-24-37): “Preborn doesn't just offer a moment, they offer a future. With real support like maternity care, baby clothes, diapers, and counseling, give hope, give life, and help a scared woman become a confident mom this Mother's Day.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:26:19](/episodes/ep-4DvYXBn_5JI.md#t-00-26-10): “Donate, simply dial pound 250 and say the keyword baby. That's pound 250 baby or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
 
 </details>
 
@@ -826,12 +859,13 @@ Source: [PreBorn!](https://preborn.com/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash candid. Candace, again, that's preborn.com slash Candace.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:30:54](/episodes/ep-kaWtDuoY_ns.md#t-00-30-54): “That's why pre-born exists, because when a woman sees her baby on an ultrasound and hears that tiny heartbeat, it doubles the chance that she'll choose life.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:25:19](/episodes/ep-xi8SYJTUXPM.md#t-00-24-37): “Preborn doesn't just offer a moment, they offer a future. With real support like maternity care, baby clothes, diapers, and counseling, give hope, give life, and help a scared woman become a confident mom this Mother's Day.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:26:19](/episodes/ep-4DvYXBn_5JI.md#t-00-26-10): “Donate, simply dial pound 250 and say the keyword baby. That's pound 250 baby or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
 
 </details>
 

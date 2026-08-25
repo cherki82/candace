@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "United States (Places) - 1539 mentions"
+description: "United States (Places) - 1655 mentions"
 id: "gpe-united-states"
 type: "GPE"
 aliases:
@@ -30,10 +30,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-gpe-united-states-t-00-01-09">2025-09-15 · 00:01:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-01-19-17">2026-08-14 · 01:19:28</a></strong></div>
-<div><span>Episodes</span><strong>99</strong></div>
-<div><span>Mentions</span><strong>1,539</strong></div>
+<div><span>Episodes</span><strong>109</strong></div>
+<div><span>Mentions</span><strong>1,655</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>97</strong></div>
+<div><span>Statements about</span><strong>108</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -140,6 +140,16 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-01-49" style="--pulse-height:45%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 17 mentions" title="2026-04-16 · 17 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-united-states-t-00-33-58" style="--pulse-height:24%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 9 mentions" title="2026-04-20 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-united-states-t-00-11-10" style="--pulse-height:45%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 17 mentions" title="2026-04-21 · 17 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-united-states-t-00-01-00" style="--pulse-height:24%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 9 mentions" title="2026-04-22 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-united-states-t-00-01-41" style="--pulse-height:32%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 12 mentions" title="2026-04-29 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-gpe-united-states-t-00-40-30" style="--pulse-height:47%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 18 mentions" title="2026-04-30 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-united-states-t-00-00-00" style="--pulse-height:42%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 16 mentions" title="2026-05-04 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-gpe-united-states-t-00-16-15" style="--pulse-height:39%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 15 mentions" title="2026-05-05 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-united-states-t-00-56-17" style="--pulse-height:13%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 5 mentions" title="2026-05-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-gpe-united-states-t-00-08-36" style="--pulse-height:21%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 8 mentions" title="2026-05-07 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-united-states-t-00-36-50" style="--pulse-height:32%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 12 mentions" title="2026-05-11 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-united-states-t-00-01-59" style="--pulse-height:26%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 10 mentions" title="2026-05-13 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-gpe-united-states-t-00-27-33" style="--pulse-height:26%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 10 mentions" title="2026-05-13 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-00-28-12" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -244,6 +254,16 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-united-states-t-00-01-49) | 17 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-united-states-t-00-33-58) | 9 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-united-states-t-00-11-10) | 17 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-gpe-united-states-t-00-01-00) | 9 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-united-states-t-00-01-41) | 12 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-gpe-united-states-t-00-40-30) | 18 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-united-states-t-00-00-00) | 16 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-united-states-t-00-16-15) | 15 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-united-states-t-00-56-17) | 5 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-gpe-united-states-t-00-08-36) | 8 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-united-states-t-00-36-50) | 12 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-united-states-t-00-01-59) | 10 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-united-states-t-00-27-33) | 10 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-00-28-12) | 3 |
 
 </details>
@@ -252,7 +272,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1539)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1655)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -265,6 +285,401 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[01:19:28](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-01-19-17)**
 > "Kits are available for United States residents only."
+
+</details>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (10 mentions)</summary>
+
+**[00:02:24](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-united-states-t-00-01-59)**
+> "president of the United States"
+
+**[00:00:55](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-united-states-t-00-00-40)**
+> "...lso rich in the wrong kind of American history. And there was, in fact, another shooting..."
+
+**[00:04:33](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-united-states-t-00-04-33)**
+> "...hat we can tell the world and America especially what has happened."
+
+**[00:06:00](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-united-states-t-00-05-49)**
+> "...you that do not live here, we Americans recognize it as sadly the birthplace of school sh..."
+
+**[00:09:13](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-united-states-t-00-09-02)**
+> "...Wednesday's first stop of his American comeback tour at the Utah Valley University, wher..."
+
+**[00:10:27](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-united-states-t-00-10-27)**
+> "... go to every event all across the country."
+
+**[00:44:47](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-united-states-t-00-44-34)**
+> "Also remind you guys about American financing because summertime expenses in 2026 are..."
+
+**[00:44:56](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-united-states-t-00-44-34)**
+> "... cycle of high interest debt. American financing has a way out though."
+
+**[00:45:07](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-united-states-t-00-44-34)**
+> "At American Financing, they specialize in building plans tail..."
+
+**[00:45:25](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-united-states-t-00-45-16)**
+> "...lash owens american financing america's home for home loans"
+
+</details>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (10 mentions)</summary>
+
+**[00:27:33](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-united-states-t-00-27-33)**
+> "now U.S. travelers are being monitored"
+
+**[00:16:26](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-united-states-t-00-23-30)**
+> "... was Turning Point Action and America's Turning Point, right?"
+
+**[00:18:09](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-united-states-t-00-23-30)**
+> "...ay allegedly, called a former U.S. Army interrogator turned book printer."
+
+**[00:23:30](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-united-states-t-00-23-30)**
+> "...D.C., so to the other side of the country, leaving your kids in such an emotionally critica..."
+
+**[00:28:30](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-united-states-t-00-27-58)**
+> "...andace. Kits are available to U.S. residents only."
+
+**[00:31:26](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-united-states-t-00-31-26)**
+> "...io ranting about the state of the country, he's on the ground taking action, infiltrating t..."
+
+**[00:38:35](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-united-states-t-00-38-35)**
+> "...want to remind you guys about American Financing, because summertime expenses in 2026 ar..."
+
+**[00:38:48](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-united-states-t-00-38-35)**
+> "... cycle of high-interest debt. American Financing, though, has a way out. This isn't abou..."
+
+**[00:38:54](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-united-states-t-00-38-35)**
+> "... and reclaim your budget. And American Financing specializes in building plans tailored ..."
+
+**[00:39:15](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-united-states-t-00-39-15)**
+> "...sh Owens. American Financing: America's home for home loans. That's better. I feel better..."
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (12 mentions)</summary>
+
+**[00:37:19](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-united-states-t-00-36-50)**
+> "will the U.S. invade Cuba?"
+
+**[00:03:49](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-united-states-t-00-03-41)**
+> "...want to fly five hours across the country to attend one dinner?"
+
+**[00:16:25](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-united-states-t-00-16-04)**
+> "...te, Hillsdale College, one of America's loudest opponents of DEI, just gave a woman an ho..."
+
+**[00:17:33](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-united-states-t-00-17-21)**
+> "...en she was trying out for the American race with her ex-boyfriend, she never said she ne..."
+
+**[00:17:49](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-united-states-t-00-17-21)**
+> "...were trying out for the Great American Race in the video that she submitted, she said th..."
+
+**[00:31:51](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-united-states-t-00-31-51)**
+> "...n fact, I moved down to South America for two months to learn Spanish with very strict ..."
+
+**[00:32:01](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-united-states-t-00-31-51)**
+> "...t wear any makeup, don't look American. You don't just go down there, as I said, and why..."
+
+**[00:36:50](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-united-states-t-00-36-50)**
+> "...ined from yesterday, will the U.S. invade Cuba?"
+
+**[00:38:49](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-united-states-t-00-38-49)**
+> "Also remind you guys about American financing because summertime expenses in 2026 are..."
+
+**[00:38:59](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-united-states-t-00-38-49)**
+> "... cycle of high interest debt. American financing, however, has a way out."
+
+**[00:39:05](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-united-states-t-00-38-49)**
+> "...s and reclaim your budget. At American financing, they specialize in building plans tail..."
+
+**[00:39:35](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-united-states-t-00-39-27)**
+> "... Owens. American Financing is America's home for home loans."
+
+</details>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (8 mentions)</summary>
+
+**[00:08:36](/episodes/ep-FFQ9675oqRI.md#ent-gpe-united-states-t-00-08-36)**
+> "...he's doing involved at all in American politics. He writes, ‘All the endless conspiracy ..."
+
+**[00:21:34](/episodes/ep-FFQ9675oqRI.md#ent-gpe-united-states-t-00-21-19)**
+> "...he show Israel is at war with American minds they really do believe and this is what's m..."
+
+**[00:22:01](/episodes/ep-FFQ9675oqRI.md#ent-gpe-united-states-t-00-22-01)**
+> "...eli interests over Americans, America's sons and daughters, never ending wars. A great ex..."
+
+**[00:22:26](/episodes/ep-FFQ9675oqRI.md#ent-gpe-united-states-t-00-22-01)**
+> "...h AIPAC to unseat an actually America First candidate."
+
+**[00:23:53](/episodes/ep-FFQ9675oqRI.md#ent-gpe-united-states-t-00-22-01)**
+> "... Jewish Coalition, AIPAC, the American Israel Public Affairs Committee, Miriam Adelson, ..."
+
+**[00:25:54](/episodes/ep-FFQ9675oqRI.md#ent-gpe-united-states-t-00-25-30)**
+> "This is this is a takeover. America is occupied. There is no question at all that our..."
+
+**[00:34:19](/episodes/ep-FFQ9675oqRI.md#ent-gpe-united-states-t-00-25-30)**
+> "... Watson when working with the U.S. Navy to improve health of aging dolphins."
+
+**[00:38:52](/episodes/ep-FFQ9675oqRI.md#ent-gpe-united-states-t-00-38-26)**
+> "...ory in the world, at least in America, that his wife could have faked something like th..."
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (5 mentions)</summary>
+
+**[00:56:17](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-united-states-t-00-56-17)**
+> "... going to tell you guys about American financing because summertime expenses in 2026 are..."
+
+**[00:56:32](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-united-states-t-00-56-17)**
+> "... cycle of high interest debt. American financing, though, has a way out."
+
+**[00:56:42](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-united-states-t-00-56-17)**
+> "At American financing, they specialize in building plans tail..."
+
+**[00:57:06](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-united-states-t-00-57-00)**
+> "American Financing, which is America's home for home loans, can help. So call American F..."
+
+**[01:01:23](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-united-states-t-01-01-23)**
+> "expansion via Salem media U.S. wants war to control global trade on oil the Horm..."
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (15 mentions)</summary>
+
+**[00:16:22](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-united-states-t-00-16-15)**
+> "They're not going to be going to funerals and churches, but they are tasked with developing a strategic plan to combat anti-Semitism in the United States through the media."
+
+**[00:01:05](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-united-states-t-00-00-40)**
+> "...g to be upping their spend on American propaganda to almost a billion dollars this year."
+
+**[00:07:01](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-united-states-t-00-06-51)**
+> "...nk about the president of the United States and what he's become."
+
+**[00:07:23](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-united-states-t-00-06-51)**
+> "...lling the strings here in the United States."
+
+**[00:20:00](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-united-states-t-00-19-45)**
+> "...ed over two cycles holding an American flag."
+
+**[00:20:12](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-united-states-t-00-19-45)**
+> "...hugging an Israel flag and an American flag. It was disgusting. But that's how fast they..."
+
+**[00:20:30](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-united-states-t-00-20-30)**
+> "...t wouldn't require reminding. Americans would have been naturally drawn to support someth..."
+
+**[00:20:44](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-united-states-t-00-20-30)**
+> "...to their involvement with the United States, as it pertains to the nation state of Israel, hi..."
+
+**[00:35:54](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-united-states-t-00-35-41)**
+> "yeah you can trick the american people geotag their phone do whatever you want we..."
+
+**[00:42:07](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-united-states-t-00-41-36)**
+> "... the wellness company because Americans love sushi and over the last two decades, raw fis..."
+
+**[00:42:42](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-united-states-t-00-42-14)**
+> "...o-access Rx Parasite Cleanse, U.S. compounded ivermectin and memendazole, which para..."
+
+**[00:56:00](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-united-states-t-00-55-32)**
+> "...want to remind you guys about American financing because summertime expenses in 2026 are..."
+
+**[00:56:09](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-united-states-t-00-55-32)**
+> "...cle of high interest debt and American financing fortunately has a way out of that debt."
+
+**[00:56:21](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-united-states-t-00-56-15)**
+> "At American financing, they specialize in building plans tail..."
+
+**[00:56:46](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-united-states-t-00-56-15)**
+> "American Financing is America's home for home loans. So call American Financing t..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (16 mentions)</summary>
+
+**[00:00:20](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-united-states-t-00-00-00)**
+> "...crons. Accusing me of fleeing the country. Accusing my husband. Husband of hiding a hit and..."
+
+**[00:01:55](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-united-states-t-00-01-22)**
+> "...er seen, the president of the United States posting photos of my ugly mug."
+
+**[00:06:40](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-united-states-t-00-06-11)**
+> "...numerous new reporters across the country and established a D.C. bureau with a seat in the ..."
+
+**[00:27:50](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-united-states-t-00-27-26)**
+> "...for Israel is down all across the country."
+
+**[00:35:01](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-united-states-t-00-34-44)**
+> "...i for attorney general of the United States."
+
+**[00:35:19](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-united-states-t-00-34-44)**
+> "...o be clear, had become to the American people virtually synonymous with corruption for I..."
+
+**[00:36:26](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-united-states-t-00-36-07)**
+> "...s to target Christians in the United States with anti-Palestinian and pro-Israel messaging."
+
+**[00:37:13](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-united-states-t-00-37-13)**
+> "...n influence operations in the United States with plans to spend as much as $4.1 million on a ..."
+
+**[00:37:26](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-united-states-t-00-37-13)**
+> "...church geofencing campaign in U.S. history."
+
+**[00:45:56](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-united-states-t-00-45-56)**
+> "... losing their stranglehold on America certainly have lost their stranglehold on America..."
+
+**[00:51:29](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-united-states-t-00-51-29)**
+> "...do come on everyone likes the america make america christian again hat um we've done Da..."
+
+**[00:57:12](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-united-states-t-00-57-12)**
+> "We're taking back America from these grifting hands in our pockets. I total..."
+
+**[00:43:32](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-united-states-t-00-43-32)**
+> "...t. Also remind you guys about American Financing because summertime Time expenses in 202..."
+
+**[00:43:51](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-united-states-t-00-43-32)**
+> "Well, American financing has a way out. This isn't about shortcu..."
+
+**[00:44:16](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-united-states-t-00-44-16)**
+> "...yments. American Financing is America's home for home loans."
+
+**[00:44:27](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-united-states-t-00-44-16)**
+> "So call American Financing today at 800-795-1210. Again, that's 80..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (18 mentions)</summary>
+
+**[00:39:42](/episodes/ep-69A8TzAGHlU.md#ent-gpe-united-states-t-00-40-30)**
+> "...ll also remind you guys about American financing because the cost of living is not just ..."
+
+**[00:40:03](/episodes/ep-69A8TzAGHlU.md#ent-gpe-united-states-t-00-40-30)**
+> "My friends at American financing have a better way. They're helping home..."
+
+**[00:40:10](/episodes/ep-69A8TzAGHlU.md#ent-gpe-united-states-t-00-40-30)**
+> "On average, American financing is saving their customers $800 a month...."
+
+**[00:40:30](/episodes/ep-69A8TzAGHlU.md#ent-gpe-united-states-t-00-40-30)**
+> "American financing is America's home for home loans. So call American financing t..."
+
+**[00:50:59](/episodes/ep-69A8TzAGHlU.md#ent-gpe-united-states-t-00-50-59)**
+> "... I couldn't believe this. The U.S. House is considering a resolution condemning Hasa..."
+
+**[00:52:04](/episodes/ep-69A8TzAGHlU.md#ent-gpe-united-states-t-00-51-44)**
+> "...ing Israel of controlling the United States government."
+
+**[00:52:28](/episodes/ep-69A8TzAGHlU.md#ent-gpe-united-states-t-00-52-28)**
+> "...e anti-semitic claim that the united states is controlled by satanic pedophiles who work for ..."
+
+**[00:54:01](/episodes/ep-69A8TzAGHlU.md#ent-gpe-united-states-t-00-53-50)**
+> "...This is going to be a part of U.S. history record as they bring this forth."
+
+**[00:56:25](/episodes/ep-69A8TzAGHlU.md#ent-gpe-united-states-t-00-56-25)**
+> "...ly, I want to speak to Jewish Americans because it is just so reminiscent of how they wan..."
+
+**[00:56:38](/episodes/ep-69A8TzAGHlU.md#ent-gpe-united-states-t-00-56-25)**
+> "...a threat to all of us. Jewish Americans, pay attention because they are using you to push..."
+
+**[00:59:05](/episodes/ep-69A8TzAGHlU.md#ent-gpe-united-states-t-00-58-45)**
+> "... disturbed individuals across the country who are listening to this crazed rhetoric about t..."
+
+**[01:00:17](/episodes/ep-69A8TzAGHlU.md#ent-gpe-united-states-t-01-00-12)**
+> "...the political sickness within America. Does she know who she's married to?"
+
+**[01:01:14](/episodes/ep-69A8TzAGHlU.md#ent-gpe-united-states-t-01-00-53)**
+> "...ech does not exist legally in America."
+
+**[01:01:32](/episodes/ep-69A8TzAGHlU.md#ent-gpe-united-states-t-01-00-53)**
+> "Keep America free."
+
+**[01:02:00](/episodes/ep-69A8TzAGHlU.md#ent-gpe-united-states-t-01-01-35)**
+> "...ument. So yeah, I agree. Keep America free."
+
+**[01:02:23](/episodes/ep-69A8TzAGHlU.md#ent-gpe-united-states-t-01-02-18)**
+> "... that's designed for everyday Americans, especially if you're new to crypto or you don't ..."
+
+**[01:05:26](/episodes/ep-69A8TzAGHlU.md#ent-gpe-united-states-t-01-04-53)**
+> "...is nothing but corruption and America might be the last stand for freedom in the West. ..."
+
+**[01:14:51](/episodes/ep-69A8TzAGHlU.md#ent-gpe-united-states-t-01-04-53)**
+> "... book, The Secret Founding of America, and we will then be jumping into my book, which ..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (12 mentions)</summary>
+
+**[00:01:41](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-united-states-t-00-01-41)**
+> "... skin care made right here in America. So visit NimiSkinCare.com and use my code CANDIC..."
+
+**[00:21:19](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-united-states-t-00-21-19)**
+> "...and that the president of the united states issue a truth social supporting her mania and it ..."
+
+**[00:24:54](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-united-states-t-00-24-46)**
+> "... the wellness company because Americans love sushi."
+
+**[00:26:35](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-united-states-t-00-26-05)**
+> "...pto IRA designed for everyday Americans, especially if you are new to crypto or don't hav..."
+
+**[00:27:41](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-united-states-t-00-27-29)**
+> "But in America, for the UK people, a nappy is an expression that..."
+
+**[01:03:52](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-united-states-t-01-03-30)**
+> "...she rumbled me. I was fleeing the country because of her stunning report on the Southern Po..."
+
+**[01:04:20](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-united-states-t-01-04-10)**
+> "...Interesting how she's fleeing the country the same day that I reported her Zionist Jewish l..."
+
+**[01:04:42](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-united-states-t-01-04-42)**
+> "... for bankruptcy she's fleeing the country at emmanuel macron and she allegedly she's in com..."
+
+**[01:11:04](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-united-states-t-01-04-42)**
+> "Also remind you guys about American financing because the cost of living is not just ..."
+
+**[01:11:22](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-united-states-t-01-11-22)**
+> "My friends at American Financing have a better way. They are helping hom..."
+
+**[01:11:50](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-united-states-t-01-11-22)**
+> "American financing is America's home for home loans, so call American financing t..."
+
+**[01:17:07](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-united-states-t-01-17-07)**
+> "...ward and the president of the United States could be using your photo so smile."
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (9 mentions)</summary>
+
+**[00:01:13](/episodes/ep--9MOUvgGyi4.md#ent-gpe-united-states-t-00-01-00)**
+> "I think we are at a very interesting place in America. where we know we are being sort of abused by the media."
+
+**[00:40:04](/episodes/ep--9MOUvgGyi4.md#ent-gpe-united-states-t-00-39-56)**
+> "in the in the country probably the world but in the country annual it h..."
+
+**[00:48:58](/episodes/ep--9MOUvgGyi4.md#ent-gpe-united-states-t-00-48-58)**
+> "...it's spreading throughout the United States so that our children will be made safe."
+
+**[01:14:33](/episodes/ep--9MOUvgGyi4.md#ent-gpe-united-states-t-01-14-33)**
+> "...ut we earned 1608 position in the country and 60th fastest manufacturer and first in the re..."
+
+**[01:17:44](/episodes/ep--9MOUvgGyi4.md#ent-gpe-united-states-t-01-14-33)**
+> "... a banana plantation in South America."
+
+**[02:18:59](/episodes/ep--9MOUvgGyi4.md#ent-gpe-united-states-t-01-14-33)**
+> "...ll also remind you guys about American financing because the cost of living isn't just h..."
+
+**[02:19:18](/episodes/ep--9MOUvgGyi4.md#ent-gpe-united-states-t-02-19-13)**
+> "My friends in American financing have a better way. They're helping home..."
+
+**[02:19:24](/episodes/ep--9MOUvgGyi4.md#ent-gpe-united-states-t-02-19-13)**
+> "...tly in the fives. On average, American financing is saving their customers $800 a month...."
+
+**[02:19:46](/episodes/ep--9MOUvgGyi4.md#ent-gpe-united-states-t-02-19-13)**
+> "American financing is America's home for home loans. So call American financing t..."
 
 </details>
 
@@ -3202,7 +3617,60 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States (97)</strong></summary>
+<summary><strong class="section-title">Statements about United States (108)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (2)</summary>
+
+- [00:22:01](/episodes/ep-FFQ9675oqRI.md#t-00-22-01) (Accusation) **Candace Owens**: ["Candace Owens accused AIPAC of giving members of Congress money so the..."](/statements/statement-fe64c89c0ecd.md)
+  - Also about: [American Israel Public Affairs Committee](/entities/org-aipac.md), [Israel](/entities/gpe-israel.md)
+
+- [00:25:54](/episodes/ep-FFQ9675oqRI.md#t-00-25-30) (Opinion) **Candace Owens**: ["Candace Owens said the United States government and the Trump administ..."](/statements/statement-c7818ed8e19d.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (4)</summary>
+
+- [00:36:17](/episodes/ep-uC_GjKU8rs8.md#t-00-36-07) (Citation) **Candace Owens**: ["FARA records state that Show Faith by Works, whose principal is Israel..."](/statements/statement-6f3e8139d6da.md)
+  - Also about: [Show Faith by Works, LLC](/entities/org-show-faith-by-works.md), [Israel Ministry of Foreign Affairs](/entities/org-israel-ministry-of-foreign-affairs.md), [Christians](/entities/concept-christians.md)
+
+- [00:37:02](/episodes/ep-uC_GjKU8rs8.md#t-00-36-39) (Citation) **Candace Owens**: ["The Times of Israel reported that Israel’s foreign ministry hired an A..."](/statements/statement-5fc24ae33f0e.md)
+  - Also about: [The Times of Israel](/entities/org-the-times-of-israel.md), [Israel Ministry of Foreign Affairs](/entities/org-israel-ministry-of-foreign-affairs.md), [Christians](/entities/concept-christians.md)
+
+- [00:37:26](/episodes/ep-uC_GjKU8rs8.md#t-00-37-13) (Citation) **Candace Owens**: ["Federal disclosures describe Show Faith by Works as carrying out the l..."](/statements/statement-98de3155af90.md)
+  - Also about: [Show Faith by Works, LLC](/entities/org-show-faith-by-works.md), [Chad Jonson Schnitger](/entities/person-chad-jonson-schnitger.md), [Christians](/entities/concept-christians.md)
+
+- [00:38:44](/episodes/ep-uC_GjKU8rs8.md#t-00-38-44) (Citation) **Candace Owens**: ["Israel’s U.S. communications campaign includes a $1.5 million-per-mont..."](/statements/statement-0b6801b55a67.md)
+  - Also about: [Israel Ministry of Foreign Affairs](/entities/org-israel-ministry-of-foreign-affairs.md), [Brad Parscale](/entities/person-brad-parscale.md), [Bridges Partners LLC](/entities/org-bridges-partners.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (4)</summary>
+
+- [00:52:04](/episodes/ep-69A8TzAGHlU.md#t-00-51-44) (Accusation) **United States Congress** (via quoted document): ["A proposed U.S. House resolution says Candace Owens spread conspiracy ..."](/statements/statement-e31814354561.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Israel](/entities/gpe-israel.md)
+
+- [01:00:12](/episodes/ep-69A8TzAGHlU.md#t-01-00-12) (Opinion) **Melania Trump** (via quoted post): ["Jimmy Kimmel's monologue about Melania Trump's family was corrosive, d..."](/statements/statement-c6aea798fb52.md)
+  - Also about: [Jimmy Kimmel](/entities/person-jimmy-kimmel.md), [Melania Trump](/entities/person-melania-trump.md)
+
+- [01:00:28](/episodes/ep-69A8TzAGHlU.md#t-01-00-12) (Prediction) **Candace Owens**: ["Efforts to equate speech with violence are laying the groundwork for s..."](/statements/statement-e7b1b08c4afc.md)
+  - Also about: [First Amendment to the United States Constitution](/entities/law-first-amendment-us-constitution.md), [Jimmy Kimmel](/entities/person-jimmy-kimmel.md)
+
+- [01:01:14](/episodes/ep-69A8TzAGHlU.md#t-01-00-53) (Opinion) **Charlie Kirk** (via quoted tweet): ["Hate speech does not legally exist in America; ugly, gross, and evil s..."](/statements/statement-89dc366fef77.md)
+  - Also about: [First Amendment to the United States Constitution](/entities/law-first-amendment-us-constitution.md)
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (1)</summary>
+
+- [00:48:58](/episodes/ep--9MOUvgGyi4.md#t-00-48-58) (Promise) **Victor Marx** (via quoted speech): ["Victor Marx said he wanted every school resource officer in Texas, and..."](/statements/statement-e76221ace955.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [FoldAR](/entities/org-foldar.md), [School resource officer](/entities/concept-school-resource-officer.md)
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1)</summary>

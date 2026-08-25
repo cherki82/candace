@@ -30,13 +30,23 @@ veracity: "mixed"
 - [Lebanon](/entities/gpe-lebanon.md) (gpe)
 - [Syria](/entities/gpe-syria.md) (gpe)
 
-## Source
+## Appearances (2)
+
+### 1. BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wan...
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:33:38](/episodes/ep-jsqUIkszZd0.md#t-00-33-38) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2018);return false;">Play</a>
 
 > As we were walking his track around his property discussing this, he then stated that the IDF needed my guns. ... He stated, no, they need 50,000 guns for operations in Gaza, Lebanon, and Syria.
+
+### 2. Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329
+
+**Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
+**Timestamp:** [01:43:11](/episodes/ep--9MOUvgGyi4.md#t-01-43-11) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(6191);return false;">Play</a>
+
+> like okay well keep talking then and so we're walking around the track up at the top where there's this camera tower and um you know we're walking and he's saying well israel israel needs your guns and that's you know that's when he stops walking i stop and then he tells the ... He tells the bodyguard to step back a few paces and, you know, I stop and I'm looking at him and I say, well, yeah, that they have 3,700, they're going to put an IDF guy in each of the schools. ... And he's looking at me and says, no, they need 50,000 for the IDF for operations in Gaza. ... um Lebanon and Syria
 
 ## Verification
 

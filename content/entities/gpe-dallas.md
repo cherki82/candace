@@ -1,19 +1,27 @@
 ---
 title: "Dallas"
-description: "Dallas (Places) - 8 mentions"
+description: "Dallas (Places) - 11 mentions"
 id: "gpe-dallas"
 type: "GPE"
+categories:
+  - "Texas city"
 ---
 
 _Type: Places_
 
+**Categories:** Texas city
+
 > **Possibly overlapping entity records:** [Dallas, Texas](/entities/gpe-dallas-texas). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> The City of Dallas official website confirms Dallas as the canonical city name.
+Source: [Welcome to the City of Dallas, Texas](https://dallascityhall.com/Pages/default.aspx)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-dallas-t-00-25-18">2025-09-24 · 00:25:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-dallas-t-00-01-51">2025-12-20 · 00:01:51</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-dallas-t-00-54-59">2026-05-11 · 00:55:12</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -30,6 +38,8 @@ _Type: Places_
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-dallas-t-00-01-20" style="--pulse-height:33%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-dallas-t-00-46-51" style="--pulse-height:33%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-dallas-t-00-01-51" style="--pulse-height:33%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-gpe-dallas-t-01-11-50" style="--pulse-height:67%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 2 mentions" title="2026-04-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-dallas-t-00-54-59" style="--pulse-height:33%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -41,6 +51,8 @@ _Type: Places_
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-dallas-t-00-01-20) | 1 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-dallas-t-00-46-51) | 1 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-dallas-t-00-01-51) | 1 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-gpe-dallas-t-01-11-50) | 2 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-dallas-t-00-54-59) | 1 |
 
 </details>
 </section>
@@ -48,7 +60,26 @@ _Type: Places_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>
+
+**[00:55:12](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-dallas-t-00-54-59)**
+> "Dallas to Salt Lake City"
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2 mentions)</summary>
+
+**[01:12:20](/episodes/ep-69A8TzAGHlU.md#ent-gpe-dallas-t-01-11-50)**
+> "Again, she had his flights. The flights were for what, 219, 119, 139 in the afternoon from Dallas."
+
+**[01:12:28](/episodes/ep-69A8TzAGHlU.md#ent-gpe-dallas-t-01-12-28)**
+> "...rt Huachuca and got back into Dallas by 10 o'clock a.m."
+
+</details>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>

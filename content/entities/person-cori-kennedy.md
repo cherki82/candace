@@ -1,6 +1,6 @@
 ---
 title: "Cori Kennedy"
-description: "Cori Kennedy (People) - 2 mentions"
+description: "Cori Kennedy (People) - 3 mentions"
 id: "person-cori-kennedy"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [The Unraveling of Victor Marx - Cori Kennedy | iHeart](https://www.ihea
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-cori-kennedy-t-00-56-21">2026-04-14 · 00:56:40</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-cori-kennedy-t-00-56-21">2026-04-14 · 00:56:59</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep--9MOUvgGyi4.md#ent-person-cori-kennedy-t-02-30-28">2026-04-22 · 02:31:04</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -32,12 +32,14 @@ Source: [The Unraveling of Victor Marx - Cori Kennedy | iHeart](https://www.ihea
 <p>Highest activity: <a href="/episodes/ep-jsqUIkszZd0.md#ent-person-cori-kennedy-t-00-56-21">BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-person-cori-kennedy-t-00-56-21" style="--pulse-height:100%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-person-cori-kennedy-t-02-30-28" style="--pulse-height:50%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-cori-kennedy-t-00-56-21) | 2 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-person-cori-kennedy-t-02-30-28) | 1 |
 
 </details>
 </section>
@@ -45,7 +47,15 @@ Source: [The Unraveling of Victor Marx - Cori Kennedy | iHeart](https://www.ihea
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (1 mentions)</summary>
+
+**[02:31:04](/episodes/ep--9MOUvgGyi4.md#ent-person-cori-kennedy-t-02-30-28)**
+> "And it's a piece, I think the person who wrote the piece that hasn't been working on your story, Cori Kennedy, right,"
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (2 mentions)</summary>

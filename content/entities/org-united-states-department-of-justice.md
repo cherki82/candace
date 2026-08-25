@@ -1,6 +1,6 @@
 ---
 title: "United States Department of Justice"
-description: "United States Department of Justice (Organizations) - 15 mentions"
+description: "United States Department of Justice (Organizations) - 25 mentions"
 id: "org-united-states-department-of-justice"
 type: "ORG"
 aliases:
@@ -26,26 +26,28 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-united-states-department-of-justice-t-00-13-21">2026-01-22 · 00:13:56</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-united-states-department-of-justice-t-00-53-21">2026-04-21 · 00:53:21</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-united-states-department-of-justice-t-00-37-02">2026-05-05 · 00:37:15</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-united-states-department-of-justice-t-00-16-06">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-united-states-department-of-justice-t-00-11-20">A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-united-states-department-of-justice-t-00-13-21" style="--pulse-height:20%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Wjul6YV6izo.md#ent-org-united-states-department-of-justice-t-00-46-05" style="--pulse-height:20%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-united-states-department-of-justice-t-00-16-06" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 5 mentions" title="2026-02-02 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-united-states-department-of-justice-t-00-29-58" style="--pulse-height:60%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-k8ueJdPFel4.md#ent-org-united-states-department-of-justice-t-00-41-38" style="--pulse-height:60%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-united-states-department-of-justice-t-00-15-57" style="--pulse-height:20%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-united-states-department-of-justice-t-00-53-21" style="--pulse-height:20%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-united-states-department-of-justice-t-00-13-21" style="--pulse-height:12%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-org-united-states-department-of-justice-t-00-46-05" style="--pulse-height:12%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-united-states-department-of-justice-t-00-16-06" style="--pulse-height:62%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 5 mentions" title="2026-02-02 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-united-states-department-of-justice-t-00-29-58" style="--pulse-height:38%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-org-united-states-department-of-justice-t-00-41-38" style="--pulse-height:38%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-united-states-department-of-justice-t-00-15-57" style="--pulse-height:12%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-united-states-department-of-justice-t-00-53-21" style="--pulse-height:12%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-united-states-department-of-justice-t-00-34-44" style="--pulse-height:25%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-united-states-department-of-justice-t-00-11-20" style="--pulse-height:100%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 8 mentions" title="2026-05-05 · 8 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +60,8 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-org-united-states-department-of-justice-t-00-41-38) | 3 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-united-states-department-of-justice-t-00-15-57) | 1 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-united-states-department-of-justice-t-00-53-21) | 1 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-united-states-department-of-justice-t-00-34-44) | 2 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-united-states-department-of-justice-t-00-11-20) | 8 |
 
 </details>
 </section>
@@ -65,7 +69,47 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (8 mentions)</summary>
+
+**[00:11:40](/episodes/ep-eMtjzXkQrsU.md#ent-org-united-states-department-of-justice-t-00-11-20)**
+> "And so I wanted to introduce you guys to a little more research that we have done looking into the Department of Justice and a piece of this that we had not discussed before. I know many people have, and I am late to getting into this, but it is increasingly more relevant, especially when I present to you this remarkable timeline regarding the"
+
+**[00:32:33](/episodes/ep-eMtjzXkQrsU.md#ent-org-united-states-department-of-justice-t-00-32-08)**
+> "...e, a foreign agent, maybe the Department of Justice should just take a look into these foreign affair..."
+
+**[00:33:15](/episodes/ep-eMtjzXkQrsU.md#ent-org-united-states-department-of-justice-t-00-32-49)**
+> "...e it's next to impossible for DOJ prosecutors to criminally charge people who are d..."
+
+**[00:33:29](/episodes/ep-eMtjzXkQrsU.md#ent-org-united-states-department-of-justice-t-00-33-29)**
+> "...work for foreign nations, our DOJ is not going to come after you."
+
+**[00:34:05](/episodes/ep-eMtjzXkQrsU.md#ent-org-united-states-department-of-justice-t-00-33-46)**
+> "...nfluence Task Force, the very DOJ office responsible for enforcing FARA, the Foreig..."
+
+**[00:34:17](/episodes/ep-eMtjzXkQrsU.md#ent-org-united-states-department-of-justice-t-00-33-46)**
+> "...he change specifically limits DOJ prosecutors from criminally charging those involv..."
+
+**[00:36:41](/episodes/ep-eMtjzXkQrsU.md#ent-org-united-states-department-of-justice-t-00-36-20)**
+> "Trump's Department of Justice made it a safe space for Israel. Now, I'm assumin..."
+
+**[00:37:15](/episodes/ep-eMtjzXkQrsU.md#ent-org-united-states-department-of-justice-t-00-37-02)**
+> "...eet Dhillon is sworn into the Department of Justice as the assistant attorney general for civil right..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (2 mentions)</summary>
+
+**[00:34:44](/episodes/ep-uC_GjKU8rs8.md#ent-org-united-states-department-of-justice-t-00-34-44)**
+> ".... She currently works for the Department of Justice."
+
+**[00:34:50](/episodes/ep-uC_GjKU8rs8.md#ent-org-united-states-department-of-justice-t-00-34-44)**
+> "...he's currently serving in the Department of Justice."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1 mentions)</summary>
@@ -153,6 +197,19 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Employs (1)</summary>
+
+- **[Harmeet K. Dhillon](/entities/person-harmeet-dhillon.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:34:44](/episodes/ep-uC_GjKU8rs8.md#t-00-34-44): “Right. Dhillon Law Group is Harmeet Dhillon's law firm. She currently works for the Department of Justice.”
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:37:15](/episodes/ep-eMtjzXkQrsU.md#t-00-37-02): “April 7th, Harmeet Dhillon is sworn into the Department of Justice as the assistant attorney general for civil rights. That's going to be Dhillon Law Group, right?”
+
+</details>
+
+</details>
+
+<details>
 <summary>Formerly Employed (1)</summary>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)**
@@ -165,7 +222,7 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -174,12 +231,45 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 
 </details>
 
+- **[Harmeet K. Dhillon](/entities/person-harmeet-dhillon.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:34:44](/episodes/ep-uC_GjKU8rs8.md#t-00-34-44): “Right. Dhillon Law Group is Harmeet Dhillon's law firm. She currently works for the Department of Justice.”
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:37:15](/episodes/ep-eMtjzXkQrsU.md#t-00-37-02): “April 7th, Harmeet Dhillon is sworn into the Department of Justice as the assistant attorney general for civil rights. That's going to be Dhillon Law Group, right?”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Department of Justice (7)</strong></summary>
+<summary><strong class="section-title">Statements about United States Department of Justice (12)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (4)</summary>
+
+- [00:34:05](/episodes/ep-eMtjzXkQrsU.md#t-00-33-46) (Claim) **Ian Carroll** (via quoted speech): ["Pam Bondi disbanded the Foreign Influence Task Force on her first day,..."](/statements/statement-89479dcaa459.md)
+  - Also about: [Pam Bondi](/entities/person-pam-bondi.md), [Foreign Influence Task Force](/entities/org-foreign-influence-task-force.md), [Foreign Agents Registration Act](/entities/law-fara.md)
+
+- [00:34:17](/episodes/ep-eMtjzXkQrsU.md#t-00-33-46) (Claim) **Ian Carroll** (via quoted speech): ["The change limits DOJ prosecutors from criminally charging public-rela..."](/statements/statement-e640ce452498.md)
+  - Also about: [Foreign Agents Registration Act](/entities/law-fara.md)
+
+- [00:34:43](/episodes/ep-eMtjzXkQrsU.md#t-00-34-27) (Citation) **Pam Bondi** (via quoted document): ["The Foreign Influence Task Force shall be disbanded, and FARA criminal..."](/statements/statement-ca0af0a8f45c.md)
+  - Also about: [Foreign Influence Task Force](/entities/org-foreign-influence-task-force.md), [Foreign Agents Registration Act](/entities/law-fara.md)
+
+- [00:36:41](/episodes/ep-eMtjzXkQrsU.md#t-00-36-20) (Accusation) **Candace Owens**: ["The Trump Department of Justice made the United States a safe space fo..."](/statements/statement-f61188b15e19.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1)</summary>
+
+- [00:34:50](/episodes/ep-uC_GjKU8rs8.md#t-00-34-44) (Claim) **Candace Owens**: ["Harmeet Dhillon transferred her stake in Dhillon Law Group to her brot..."](/statements/statement-b34b901e0e47.md)
+  - Also about: [Harmeet K. Dhillon](/entities/person-harmeet-dhillon.md), [Dhillon Law Group](/entities/org-dhillon-law-group.md), [Civil Rights Division](/entities/org-civil-rights-division.md)
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (2)</summary>

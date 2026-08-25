@@ -1,6 +1,6 @@
 ---
 title: "Europe"
-description: "Europe (Places) - 40 mentions"
+description: "Europe (Places) - 41 mentions"
 id: "gpe-europe"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-europe-t-00-02-55">2025-12-02 · 00:02:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-europe-t-00-20-01">2026-03-12 · 00:20:25</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>40</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-69A8TzAGHlU.md#ent-gpe-europe-t-00-57-40">2026-04-30 · 00:57:54</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -43,6 +43,7 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-europe-t-00-07-03" style="--pulse-height:38%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 3 mentions" title="2026-03-04 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-europe-t-00-21-09" style="--pulse-height:50%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 4 mentions" title="2026-03-10 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-europe-t-00-20-01" style="--pulse-height:25%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-gpe-europe-t-00-57-40" style="--pulse-height:12%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -61,6 +62,7 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-europe-t-00-07-03) | 3 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-europe-t-00-21-09) | 4 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-europe-t-00-20-01) | 2 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-gpe-europe-t-00-57-40) | 1 |
 
 </details>
 </section>
@@ -68,7 +70,15 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1 mentions)</summary>
+
+**[00:57:54](/episodes/ep-69A8TzAGHlU.md#ent-gpe-europe-t-00-57-40)**
+> "Okay. They are trying to flip that on its head so they can usher in tyranny. They want Europe. They want what's already happening in Florida. Police showing up on your door asking you if you sent a tweet."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (2 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "N582MM"
-description: "N582MM (Vehicles) - 1 mention"
+description: "N582MM (Vehicles) - 2 mentions"
 id: "vehicle-n582mm"
 type: "VEHICLE"
 categories:
@@ -20,10 +20,10 @@ Source: [FAA Registry Aircraft Inquiry: N582MM](https://registry.faa.gov/aircraf
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-vehicle-n582mm-t-00-38-21">2026-03-26 · 00:38:45</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-vehicle-n582mm-t-00-38-21">2026-03-26 · 00:38:45</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -45,7 +45,7 @@ Source: [FAA Registry Aircraft Inquiry: N582MM](https://registry.faa.gov/aircraf
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
@@ -61,12 +61,20 @@ Source: [FAA Registry Aircraft Inquiry: N582MM](https://registry.faa.gov/aircraf
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Affiliated With (1)</summary>
+<summary>Affiliated With (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:34:36](/episodes/ep-DEtFh2Ff-58.md#t-00-33-55): “This was a plane, I was told, from a TPUSA insider is frequently used by TPUSA. ... N582MM is that tail number.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:10:04](/episodes/ep-4DvYXBn_5JI.md#t-00-09-46): “Something else about Colorado that's interesting is that one of the planes that Turning Point USA uses, and I want to be clear here, more specifically, the plane that Charlie himself used for basically all of 2023, right after Mikey McCoy becomes the chief of staff, this plane, tail number 9582MM.”
+
+</details>
+
+- **[Paradise Jets](/entities/org-paradise-jets.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:10:48](/episodes/ep-4DvYXBn_5JI.md#t-00-10-48): “Someone known to Turning Point USA most certainly did take that plane. plane and 582 mm uh and they got there to provo eventually after the shooting i'm actually going to tell you its flights that day in general again this used to be charlie's main plane and 582 mm it is still tied to paradise jets which the other plane is tied to as well when he did take that day you can see that 25 minutes before charlie was shot”
 
 </details>
 
@@ -75,7 +83,18 @@ Source: [FAA Registry Aircraft Inquiry: N582MM](https://registry.faa.gov/aircraf
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about N582MM (5)</strong></summary>
+<summary><strong class="section-title">Statements about N582MM (7)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (2)</summary>
+
+- [00:11:18](/episodes/ep-4DvYXBn_5JI.md#t-00-10-48) (Claim) **Candace Owens**: ["Candace Owens said N582MM left Denver at 11:58 a.m. Mountain Time on S..."](/statements/statement-ea896e271e9e.md)
+  - Also about: [Denver](/entities/gpe-denver.md), [Pierre, South Dakota](/entities/gpe-pierre-south-dakota.md), [Chicago](/entities/gpe-chicago.md)
+
+- [00:12:04](/episodes/ep-4DvYXBn_5JI.md#t-00-11-29) (Claim) **Candace Owens**: ["Candace Owens said someone aboard N582MM on September 10 was known to ..."](/statements/statement-b900c6426bf3.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (5)</summary>

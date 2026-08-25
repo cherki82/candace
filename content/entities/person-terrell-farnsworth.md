@@ -1,6 +1,6 @@
 ---
 title: "Terrell Farnsworth"
-description: "Terrell Farnsworth (People) - 29 mentions"
+description: "Terrell Farnsworth (People) - 39 mentions"
 id: "person-terrell-farnsworth"
 type: "PERSON"
 categories:
@@ -19,10 +19,10 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-16-41">2025-11-12 · 00:16:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-terrell-farnsworth-t-03-02-07">2026-08-14 · 03:02:25</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>29</strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>39</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>16</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -40,6 +40,10 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-terrell-farnsworth-t-00-33-00" style="--pulse-height:33%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-02-02" style="--pulse-height:100%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 9 mentions" title="2026-03-31 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#t-00-42-29" style="--pulse-height:11%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-terrell-farnsworth-t-00-42-55" style="--pulse-height:22%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-terrell-farnsworth-t-00-06-57" style="--pulse-height:56%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 5 mentions" title="2026-04-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-terrell-farnsworth-t-00-27-54" style="--pulse-height:22%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-person-terrell-farnsworth-t-00-17-58" style="--pulse-height:11%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-terrell-farnsworth-t-03-02-07" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -55,6 +59,10 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-terrell-farnsworth-t-00-33-00) | 3 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-02-02) | 9 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#t-00-42-29) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-terrell-farnsworth-t-00-42-55) | 2 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-person-terrell-farnsworth-t-00-06-57) | 5 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-terrell-farnsworth-t-00-27-54) | 2 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-terrell-farnsworth-t-00-17-58) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-terrell-farnsworth-t-03-02-07) | 1 |
 
 </details>
@@ -63,13 +71,63 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+<summary><strong class="section-title">Raw mentions (39)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[03:02:25](/episodes/ep-nPhCKwJ6ye8.md#ent-person-terrell-farnsworth-t-03-02-07)**
 > "...makes sense, without question Terrell Farnsworth is someone who made me think that we were missing..."
+
+</details>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>
+
+**[00:18:07](/episodes/ep-FFQ9675oqRI.md#ent-person-terrell-farnsworth-t-00-17-58)**
+> "Quick, Terrell (Terrell Farnsworth), get the camera behind Charlie (Charlie Kirk)'s ..."
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (2 mentions)</summary>
+
+**[00:28:21](/episodes/ep-eMtjzXkQrsU.md#ent-person-terrell-farnsworth-t-00-27-54)**
+> "Everyone in that building I don't trust. Terrell (Terrell Farnsworth)'s in that building. Everybody in that building I do not trust."
+
+**[00:58:24](/episodes/ep-eMtjzXkQrsU.md#ent-person-terrell-farnsworth-t-00-58-24)**
+> "...different had it not been for Terrell Farnsworth. So Terrell Farnsworth is an unexpected hero in t..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (5 mentions)</summary>
+
+**[00:07:33](/episodes/ep-69A8TzAGHlU.md#ent-person-terrell-farnsworth-t-00-06-57)**
+> "The episode, as it implies, is about specifically Charlie (Charlie Kirk)'s chief of staff and Terrell Farnsworth, the head of the AV team."
+
+**[00:07:41](/episodes/ep-69A8TzAGHlU.md#ent-person-terrell-farnsworth-t-00-07-41)**
+> "...ch he's referring to is about Terrell Farnsworth because it was Terrell Farnsworth who notoriously..."
+
+**[00:08:18](/episodes/ep-69A8TzAGHlU.md#ent-person-terrell-farnsworth-t-00-07-41)**
+> "...ions taken by Mikey McCoy and Terrell Farnsworth."
+
+**[00:35:02](/episodes/ep-69A8TzAGHlU.md#ent-person-terrell-farnsworth-t-00-34-24)**
+> "... opportunity to then say, oh, Terrell Farnsworth actually has footage that the public has never se..."
+
+**[00:35:25](/episodes/ep-69A8TzAGHlU.md#ent-person-terrell-farnsworth-t-00-35-08)**
+> "...e involved you're bringing up Terrell Farnsworth mikey mccoy you're bringing up these episodes whe..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (2 mentions)</summary>
+
+**[00:43:00](/episodes/ep-qZ8RWfyuewQ.md#ent-person-terrell-farnsworth-t-00-42-55)**
+> "Anybody remember Terrell Farnsworth?"
+
+**[00:43:11](/episodes/ep-qZ8RWfyuewQ.md#ent-person-terrell-farnsworth-t-00-42-55)**
+> "This is Terrell Farnsworth, doesn't know how many shooters there are, doesn'..."
 
 </details>
 
@@ -250,7 +308,18 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Terrell Farnsworth (16)</strong></summary>
+<summary><strong class="section-title">Statements about Terrell Farnsworth (18)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2)</summary>
+
+- [00:07:22](/episodes/ep-69A8TzAGHlU.md#t-00-06-57) (Claim) **Candace Owens**: ["The cited episode never mentioned Brian Harpole; its disputed quotatio..."](/statements/statement-9726775ea5c0.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [00:07:41](/episodes/ep-69A8TzAGHlU.md#t-00-07-41) (Accusation) **Candace Owens**: ["Terrell Farnsworth announced that Charlie Kirk was dead roughly two mi..."](/statements/statement-c8ca5bd4afc8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (2)</summary>

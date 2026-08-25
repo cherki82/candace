@@ -11,7 +11,7 @@ date: "2025-12-15"
 
 > Candace Owens and Erika Kirk meeting
 
-## Mentioned In (5 times)
+## Mentioned In (9 times)
 
 ### 1. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
 
@@ -52,3 +52,35 @@ date: "2025-12-15"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(530);return false;">▶️ Play</a>
 
 > That is what I was told by Erika's lawyer on December 15th.
+
+### 6. TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330
+
+**Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
+**Timestamp:** [00:52:45](/episodes/ep-qZ8RWfyuewQ.md#t-00-52-45) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3165);return false;">▶️ Play</a>
+
+> what questions I planned to ask Erica when we met up at the end of December.
+
+### 7. BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331
+
+**Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
+**Timestamp:** [00:47:39](/episodes/ep-69A8TzAGHlU.md#t-00-47-14) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2859);return false;">▶️ Play</a>
+
+> went into that conversation with Erica on December 15th, already convinced of her guilt
+
+### 8. Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing I...
+
+**Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
+**Timestamp:** [00:19:20](/episodes/ep-k1b1NDCrNFs.md#t-00-19-07) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1160);return false;">▶️ Play</a>
+
+> Erika and I had just sat down on December 15th.
+
+### 9. Update! Erika Did Not Go Home. Source Confirms AI Voice Tact...
+
+**Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
+**Timestamp:** [00:48:52](/episodes/ep-KpxIBWkNsSs.md#t-00-48-33) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2932);return false;">▶️ Play</a>
+
+> then Erika comes and we sit down they scheduled it for Monday

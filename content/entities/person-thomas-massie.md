@@ -1,6 +1,6 @@
 ---
 title: "Thomas Massie"
-description: "Thomas Massie (People) - 19 mentions"
+description: "Thomas Massie (People) - 24 mentions"
 id: "person-thomas-massie"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-massie-t-00-57-10">2025-11-13 · 00:57:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-thomas-massie-t-00-37-32">2026-03-25 · 00:37:56</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-thomas-massie-t-00-56-24">2026-05-11 · 00:57:00</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Statements by</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -40,6 +40,8 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-thomas-massie-t-00-42-25" style="--pulse-height:36%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 4 mentions" title="2026-02-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-thomas-massie-t-00-07-32" style="--pulse-height:100%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 11 mentions" title="2026-03-12 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-thomas-massie-t-00-37-32" style="--pulse-height:9%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-person-thomas-massie-t-00-22-01" style="--pulse-height:27%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 3 mentions" title="2026-05-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-thomas-massie-t-00-56-24" style="--pulse-height:18%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +52,8 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-thomas-massie-t-00-42-25) | 4 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-thomas-massie-t-00-07-32) | 11 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-thomas-massie-t-00-37-32) | 1 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-thomas-massie-t-00-22-01) | 3 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-thomas-massie-t-00-56-24) | 2 |
 
 </details>
 </section>
@@ -57,7 +61,32 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (2 mentions)</summary>
+
+**[00:57:00](/episodes/ep-KpxIBWkNsSs.md#ent-person-thomas-massie-t-00-56-24)**
+> "support Thomas Massie"
+
+**[00:56:44](/episodes/ep-KpxIBWkNsSs.md#ent-person-thomas-massie-t-00-56-24)**
+> "...pose the iran war and support Thomas Massie or to cozy up to his bullies and ignore that he w..."
+
+</details>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (3 mentions)</summary>
+
+**[00:22:16](/episodes/ep-FFQ9675oqRI.md#ent-person-thomas-massie-t-00-22-01)**
+> "Thomas Massie, who has for a very long time been my favorite co..."
+
+**[00:22:39](/episodes/ep-FFQ9675oqRI.md#ent-person-thomas-massie-t-00-22-39)**
+> "So Thomas Massie joined Tucker Carlson on his show last night, and..."
+
+**[00:26:06](/episodes/ep-FFQ9675oqRI.md#ent-person-thomas-massie-t-00-25-30)**
+> "...entucky, vote, vote, vote for Thomas Massie. I am going to hope and pray that he wins."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>
@@ -147,7 +176,19 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Interviewed By (1)</summary>
+<summary>Endorsed By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 @ 00:26:06](/episodes/ep-FFQ9675oqRI.md#t-00-25-30): “If you are in Kentucky, vote, vote, vote for Thomas Massie. I am going to hope and pray that he wins.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Interviewed By (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -156,10 +197,24 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 
 </details>
 
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 @ 00:22:39](/episodes/ep-FFQ9675oqRI.md#t-00-22-39): “So Thomas Massie joined Tucker Carlson on his show last night”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (3)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 @ 00:26:06](/episodes/ep-FFQ9675oqRI.md#t-00-25-30): “If you are in Kentucky, vote, vote, vote for Thomas Massie. I am going to hope and pray that he wins.”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** interviewed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -168,12 +223,67 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 
 </details>
 
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 @ 00:22:39](/episodes/ep-FFQ9675oqRI.md#t-00-22-39): “So Thomas Massie joined Tucker Carlson on his show last night”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Thomas Massie (2)</strong></summary>
+<summary><strong class="section-title">Statements by Thomas Massie (6)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (6)</summary>
+
+- [00:22:48](/episodes/ep-FFQ9675oqRI.md#t-00-22-48) [✓] (Claim) ["Thomas Massie said he held a one-point polling lead after ten million dollars ha..."](/statements/statement-010f355c2622.md)
+  - About: [Thomas Massie](/entities/person-thomas-massie.md), [Kentucky](/entities/gpe-kentucky.md)
+
+- [00:23:41](/episodes/ep-FFQ9675oqRI.md#t-00-23-41) [✓] (Accusation) ["Thomas Massie said at least 95 percent of the money spent against him came from ..."](/statements/statement-e978e187b1a9.md)
+  - About: [Thomas Massie](/entities/person-thomas-massie.md), [Israel lobby](/entities/concept-israel-lobby.md), [Republican Jewish Coalition](/entities/org-republican-jewish-coalition.md)
+
+- [00:24:27](/episodes/ep-FFQ9675oqRI.md#t-00-24-27) [✓] (Claim) ["Thomas Massie said Miriam Adelson had given Donald Trump more than 200 million d..."](/statements/statement-7e49e864e0e7.md)
+  - About: [Miriam Adelson](/entities/person-miriam-adelson.md), [Donald J. Trump](/entities/person-donald-trump.md), [Israel](/entities/gpe-israel.md)
+
+- [00:24:36](/episodes/ep-FFQ9675oqRI.md#t-00-24-27) [✓] (Accusation) ["Thomas Massie accused Miriam Adelson and allied groups of trying to buy a congre..."](/statements/statement-32f8919e4c1e.md)
+  - About: [Miriam Adelson](/entities/person-miriam-adelson.md), [Kentucky](/entities/gpe-kentucky.md), [Israel lobby](/entities/concept-israel-lobby.md)
+
+- [00:24:44](/episodes/ep-FFQ9675oqRI.md#t-00-24-27) [✓] (Accusation) ["Thomas Massie called Christians United for Israel another wing of AIPAC and the ..."](/statements/statement-f0da45900c3b.md)
+  - About: [Christians United for Israel](/entities/org-christians-united-for-israel.md), [American Israel Public Affairs Committee](/entities/org-aipac.md), [Republican Jewish Coalition](/entities/org-republican-jewish-coalition.md)
+
+- [00:25:10](/episodes/ep-FFQ9675oqRI.md#t-00-25-10) [✓] (Accusation) ["Thomas Massie said a foreign lobby had fully funded his opponent at an unprecede..."](/statements/statement-5e83f156ac40.md)
+  - About: [Thomas Massie](/entities/person-thomas-massie.md), [Israel lobby](/entities/concept-israel-lobby.md), [Republican Party](/entities/org-republican-party.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Thomas Massie (7)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (5)</summary>
+
+- [00:22:26](/episodes/ep-FFQ9675oqRI.md#t-00-22-01) (Accusation) **Candace Owens**: ["Candace Owens said Donald Trump was teaming up with AIPAC to unseat Th..."](/statements/statement-84302ce54138.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [American Israel Public Affairs Committee](/entities/org-aipac.md)
+
+- [00:22:48](/episodes/ep-FFQ9675oqRI.md#t-00-22-48) (Claim) **Thomas Massie** (via quoted speech): ["Thomas Massie said he held a one-point polling lead after ten million ..."](/statements/statement-010f355c2622.md)
+  - Also about: [Kentucky](/entities/gpe-kentucky.md)
+
+- [00:23:11](/episodes/ep-FFQ9675oqRI.md#t-00-23-11) (Claim) **Tucker Carlson** (via quoted speech): ["Tucker Carlson said outside money had turned Thomas Massie's previousl..."](/statements/statement-86fc0d5b07d9.md)
+  - Also about: [Kentucky](/entities/gpe-kentucky.md), [Republican Party](/entities/org-republican-party.md)
+
+- [00:23:41](/episodes/ep-FFQ9675oqRI.md#t-00-23-41) (Accusation) **Thomas Massie** (via quoted speech): ["Thomas Massie said at least 95 percent of the money spent against him ..."](/statements/statement-e978e187b1a9.md)
+  - Also about: [Israel lobby](/entities/concept-israel-lobby.md), [Republican Jewish Coalition](/entities/org-republican-jewish-coalition.md), [American Israel Public Affairs Committee](/entities/org-aipac.md)
+
+- [00:25:10](/episodes/ep-FFQ9675oqRI.md#t-00-25-10) (Accusation) **Thomas Massie** (via quoted speech): ["Thomas Massie said a foreign lobby had fully funded his opponent at an..."](/statements/statement-5e83f156ac40.md)
+  - Also about: [Israel lobby](/entities/concept-israel-lobby.md), [Republican Party](/entities/org-republican-party.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (2)</summary>

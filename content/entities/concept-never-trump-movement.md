@@ -1,6 +1,6 @@
 ---
 title: "Never Trump movement"
-description: "Never Trump movement (Concepts) - 4 mentions"
+description: "Never Trump movement (Concepts) - 5 mentions"
 id: "concept-never-trump-movement"
 type: "CONCEPT"
 aliases:
@@ -22,9 +22,9 @@ Source: [Controversy over Tucker Carlson interview reveals conservative movement
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-concept-never-trump-movement-t-00-18-05">2026-01-16 · 00:18:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#t-00-28-42">2026-03-17 · 00:29:07</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-never-trump-movement-t-00-19-59">2026-05-04 · 00:20:13</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -38,6 +38,7 @@ Source: [Controversy over Tucker Carlson interview reveals conservative movement
 <a href="/episodes/ep-2T39-oADLj0.md#ent-concept-never-trump-movement-t-00-18-05" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-never-trump-movement-t-00-43-24" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#t-00-28-42" style="--pulse-height:50%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-never-trump-movement-t-00-19-59" style="--pulse-height:50%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Controversy over Tucker Carlson interview reveals conservative movement
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-never-trump-movement-t-00-18-05) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-never-trump-movement-t-00-43-24) | 2 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#t-00-28-42) | 1 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-concept-never-trump-movement-t-00-19-59) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [Controversy over Tucker Carlson interview reveals conservative movement
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
+
+**[00:20:13](/episodes/ep-uC_GjKU8rs8.md#ent-concept-never-trump-movement-t-00-19-59)**
+> "... forgive you once leading the Never Trump movement, but they cannot forgive you treating people that..."
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>

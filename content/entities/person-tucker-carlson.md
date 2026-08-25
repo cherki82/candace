@@ -1,6 +1,6 @@
 ---
 title: "Tucker Carlson"
-description: "Tucker Carlson (People) - 491 mentions"
+description: "Tucker Carlson (People) - 514 mentions"
 id: "person-tucker-carlson"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tucker-carlson-t-00-12-57">2025-09-15 · 00:13:18</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-36-07">2026-08-14 · 00:36:36</a></strong></div>
-<div><span>Episodes</span><strong>73</strong></div>
-<div><span>Mentions</span><strong>491</strong></div>
-<div><span>Statements by</span><strong>47</strong></div>
-<div><span>Statements about</span><strong>60</strong></div>
-<div><span>Relationships</span><strong>80</strong></div>
+<div><span>Episodes</span><strong>78</strong></div>
+<div><span>Mentions</span><strong>514</strong></div>
+<div><span>Statements by</span><strong>48</strong></div>
+<div><span>Statements about</span><strong>61</strong></div>
+<div><span>Relationships</span><strong>82</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -107,6 +107,11 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-tucker-carlson-t-00-52-23" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-tucker-carlson-t-00-27-20" style="--pulse-height:8%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 3 mentions" title="2026-04-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-tucker-carlson-t-00-39-58" style="--pulse-height:8%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-tucker-carlson-t-00-22-40" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-tucker-carlson-t-00-11-59" style="--pulse-height:10%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 4 mentions" title="2026-05-04 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-tucker-carlson-t-00-10-09" style="--pulse-height:15%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 6 mentions" title="2026-05-05 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-tucker-carlson-t-00-27-59" style="--pulse-height:15%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 6 mentions" title="2026-05-06 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-person-tucker-carlson-t-00-09-12" style="--pulse-height:12%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 5 mentions" title="2026-05-07 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-28-54" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -185,6 +190,11 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-tucker-carlson-t-00-52-23) | 2 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-tucker-carlson-t-00-27-20) | 3 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-tucker-carlson-t-00-39-58) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-tucker-carlson-t-00-22-40) | 2 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-tucker-carlson-t-00-11-59) | 4 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-tucker-carlson-t-00-10-09) | 6 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-tucker-carlson-t-00-27-59) | 6 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-tucker-carlson-t-00-09-12) | 5 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-28-54) | 3 |
 
 </details>
@@ -193,7 +203,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (491)</strong></summary>
+<summary><strong class="section-title">Raw mentions (514)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -206,6 +216,100 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 **[00:36:36](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-36-07)**
 > "Tucker Carlson then comes out and confirms the conversations tha..."
+
+</details>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (5 mentions)</summary>
+
+**[00:09:12](/episodes/ep-FFQ9675oqRI.md#ent-person-tucker-carlson-t-00-09-12)**
+> "...people like Candace Owens and Tucker Carlson. Why do they want Trump (Donald Trump) dead?"
+
+**[00:14:26](/episodes/ep-FFQ9675oqRI.md#ent-person-tucker-carlson-t-00-14-26)**
+> "...my number one, but maybe it's Tucker Carlson."
+
+**[00:22:39](/episodes/ep-FFQ9675oqRI.md#ent-person-tucker-carlson-t-00-22-39)**
+> "So Thomas Massie joined Tucker Carlson on his show last night, and this is what he had t..."
+
+**[00:36:29](/episodes/ep-FFQ9675oqRI.md#ent-person-tucker-carlson-t-00-36-29)**
+> "...i feel that way about Tucker (Tucker Carlson) too i'm just like okay i feel like they've said ..."
+
+**[00:40:50](/episodes/ep-FFQ9675oqRI.md#ent-person-tucker-carlson-t-00-40-29)**
+> "... surname unverified), Tucker (Tucker Carlson), Ian (named in viewer comment; surname unverifie..."
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (6 mentions)</summary>
+
+**[00:27:59](/episodes/ep-k1b1NDCrNFs.md#ent-person-tucker-carlson-t-00-27-59)**
+> "...g, his nonstop pursuit of me, Tucker Carlson."
+
+**[00:45:06](/episodes/ep-k1b1NDCrNFs.md#ent-person-tucker-carlson-t-00-44-35)**
+> "... them. have been about me and Tucker Carlson. 17 of them have been about me and Tucker Carlson..."
+
+**[00:45:20](/episodes/ep-k1b1NDCrNFs.md#ent-person-tucker-carlson-t-00-45-20)**
+> "Everything is about me and Tucker Carlson. Now for his last point pretending that it could ..."
+
+**[00:49:17](/episodes/ep-k1b1NDCrNFs.md#ent-person-tucker-carlson-t-00-48-54)**
+> "They just keep attacking Tucker Carlson as an example. Well, they constantly are seeking ..."
+
+**[01:02:34](/episodes/ep-k1b1NDCrNFs.md#ent-person-tucker-carlson-t-01-02-34)**
+> "... show every day to talk about Tucker Carlson that what happened and her unique insights it jus..."
+
+**[01:03:10](/episodes/ep-k1b1NDCrNFs.md#ent-person-tucker-carlson-t-01-03-10)**
+> "... of 19 episodes about candace tucker is that normal do you have anything to offer are ..."
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (6 mentions)</summary>
+
+**[00:10:20](/episodes/ep-eMtjzXkQrsU.md#ent-person-tucker-carlson-t-00-10-09)**
+> "You see Tucker (Tucker Carlson) talking about that and they're making fun of him where he's, he's talking about what it is that is controlling Trump and he's using words like spells. And I'm saying, nope, keep using those words, keep talking about the occult because this is right."
+
+**[00:21:42](/episodes/ep-eMtjzXkQrsU.md#ent-person-tucker-carlson-t-00-21-14)**
+> "...lly, I am convinced. Same for Tucker Carlson. He came out. I said it."
+
+**[00:24:38](/episodes/ep-eMtjzXkQrsU.md#ent-person-tucker-carlson-t-00-24-38)**
+> "...e good and people like me and tucker carlson will get knocked out of the free markets in secon..."
+
+**[00:57:23](/episodes/ep-eMtjzXkQrsU.md#ent-person-tucker-carlson-t-00-56-56)**
+> "To Tucker Carlson, because of what Andrew Kolvet said to me and bec..."
+
+**[00:57:47](/episodes/ep-eMtjzXkQrsU.md#ent-person-tucker-carlson-t-00-57-40)**
+> "... know that I spoke to Tucker (Tucker Carlson) about that on that day and my husband was told t..."
+
+**[01:09:35](/episodes/ep-eMtjzXkQrsU.md#ent-person-tucker-carlson-t-01-09-30)**
+> "...aron (Baron Coleman), Tucker (Tucker Carlson), et cetera. Yeah, I mean, I just, everyone, Lion..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (4 mentions)</summary>
+
+**[00:12:10](/episodes/ep-uC_GjKU8rs8.md#ent-person-tucker-carlson-t-00-11-59)**
+> "Tucker Carlson left Fox in 2023. He kept his audience. He runs h..."
+
+**[00:12:54](/episodes/ep-uC_GjKU8rs8.md#ent-person-tucker-carlson-t-00-12-39)**
+> "...kash is missing, he brings up Tucker Carlson and Megyn Kelly. Yes, they are indeed more succes..."
+
+**[00:13:51](/episodes/ep-uC_GjKU8rs8.md#ent-person-tucker-carlson-t-00-13-21)**
+> "... mentioned them again, right? Tucker Carlson did not then face two years of arbitration and fi..."
+
+**[00:17:47](/episodes/ep-uC_GjKU8rs8.md#ent-person-tucker-carlson-t-00-17-37)**
+> "...ds with Candace Owens. So no, Tucker Carlson, it is not an excuse to go silent on Candace's ta..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (2 mentions)</summary>
+
+**[00:23:06](/episodes/ep-qZ8RWfyuewQ.md#ent-person-tucker-carlson-t-00-22-40)**
+> "...nd out this crazy tweet about Tucker Carlson or Megyn Kelly?"
+
+**[01:18:26](/episodes/ep-qZ8RWfyuewQ.md#ent-person-tucker-carlson-t-01-18-26)**
+> "...that that's something Tucker (Tucker Carlson) always says too he's like you know my life is so..."
 
 </details>
 
@@ -2196,11 +2300,12 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51): “I know why Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have all been fighting me for years... they have one thing in common, low IQs. They are stupid people.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:35:51](/episodes/ep-kaWtDuoY_ns.md#t-00-35-24): “I hear Megyn Kelly, Tucker Carlson and Candace Owens are dying fast. Their numbers are terrible. Nobody believes them anymore. They were fake MAGA.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:39:58](/episodes/ep-xi8SYJTUXPM.md#t-00-39-37): “So forget Laura Loomer. The question you should be asking yourself is, is Donald Trump mentally fit to be president if he makes a conscious decision to tweet out that Tucker Carlson and Megyn Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer?”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:23:06](/episodes/ep-qZ8RWfyuewQ.md#t-00-22-40): “And that very real notion that our president, who it seems randomly attacks people on her behalf. So when you're wondering, why did he send out this crazy tweet about Tucker Carlson or Megyn Kelly?”
 
 </details>
 
@@ -2236,9 +2341,10 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Fox News](/entities/org-fox-news.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:18:52](/episodes/ep-9naMwS0kMBE.md#t-00-18-46): “used to work for Fox News”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:12:10](/episodes/ep-uC_GjKU8rs8.md#t-00-11-59): “Tucker Carlson left Fox in 2023. He kept his audience. He runs his shop with a fraction of the headcount.”
 
 </details>
 
@@ -2266,7 +2372,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>Interviewed (9)</summary>
+<summary>Interviewed (10)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -2338,6 +2444,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 </details>
 
+- **[Thomas Massie](/entities/person-thomas-massie.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 @ 00:22:39](/episodes/ep-FFQ9675oqRI.md#t-00-22-39): “So Thomas Massie joined Tucker Carlson on his show last night”
+
+</details>
+
 </details>
 
 <details>
@@ -2406,7 +2519,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>Referenced By (40)</summary>
+<summary>Referenced By (41)</summary>
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -2511,11 +2624,12 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51): “I know why Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have all been fighting me for years... they have one thing in common, low IQs. They are stupid people.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:35:51](/episodes/ep-kaWtDuoY_ns.md#t-00-35-24): “I hear Megyn Kelly, Tucker Carlson and Candace Owens are dying fast. Their numbers are terrible. Nobody believes them anymore. They were fake MAGA.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:39:58](/episodes/ep-xi8SYJTUXPM.md#t-00-39-37): “So forget Laura Loomer. The question you should be asking yourself is, is Donald Trump mentally fit to be president if he makes a conscious decision to tweet out that Tucker Carlson and Megyn Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer?”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:23:06](/episodes/ep-qZ8RWfyuewQ.md#t-00-22-40): “And that very real notion that our president, who it seems randomly attacks people on her behalf. So when you're wondering, why did he send out this crazy tweet about Tucker Carlson or Megyn Kelly?”
 
 </details>
 
@@ -2562,9 +2676,10 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Fox News](/entities/org-fox-news.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:18:52](/episodes/ep-9naMwS0kMBE.md#t-00-18-46): “used to work for Fox News”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:12:10](/episodes/ep-uC_GjKU8rs8.md#t-00-11-59): “Tucker Carlson left Fox in 2023. He kept his audience. He runs his shop with a fraction of the headcount.”
 
 </details>
 
@@ -2691,6 +2806,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 </details>
 
+- **[Thomas Massie](/entities/person-thomas-massie.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 @ 00:22:39](/episodes/ep-FFQ9675oqRI.md#t-00-22-39): “So Thomas Massie joined Tucker Carlson on his show last night”
+
+</details>
+
 - **[Erika Kirk](/entities/person-erika-kirk.md)** supported by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -2711,7 +2833,15 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Tucker Carlson (47)</strong></summary>
+<summary><strong class="section-title">Statements by Tucker Carlson (48)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1)</summary>
+
+- [00:23:11](/episodes/ep-FFQ9675oqRI.md#t-00-23-11) [✓] (Claim) ["Tucker Carlson said outside money had turned Thomas Massie's previously lopsided..."](/statements/statement-86fc0d5b07d9.md)
+  - About: [Thomas Massie](/entities/person-thomas-massie.md), [Kentucky](/entities/gpe-kentucky.md), [Republican Party](/entities/org-republican-party.md)
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (4)</summary>
@@ -2921,7 +3051,15 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tucker Carlson (60)</strong></summary>
+<summary><strong class="section-title">Statements about Tucker Carlson (61)</strong></summary>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1)</summary>
+
+- [00:44:39](/episodes/ep-k1b1NDCrNFs.md#t-00-44-35) (Claim) **Candace Owens**: ["Seventeen of the first nineteen episodes of Jeremy Boreing's new podca..."](/statements/statement-7f2d63cffa91.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1)</summary>

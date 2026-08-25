@@ -27,13 +27,23 @@ veracity: "true"
 - [Corby Hall](/entities/person-corby-hall.md) (person)
 - [FoldAR](/entities/org-foldar.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wan...
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:22:12](/episodes/ep-jsqUIkszZd0.md#t-00-22-12) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1332);return false;">Play</a>
 
 > During our demo at his home base gun range, Mr. Marx (Victor Marx) approached me separately and asked if I would make a signature series rifle for him. ... He went on to tell me that he was exploring this as well with other much larger manufacturers, but that the Fold AR is, quote, the only one that makes sense.
+
+### 2. Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329
+
+**Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
+**Timestamp:** [00:09:18](/episodes/ep--9MOUvgGyi4.md#t-00-08-57) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(558);return false;">Play</a>
+
+> And so he said, well, you know, I've got some signature series that I'm looking at with. ... he named off a few different companies and you know bigger companies like yeah but this one's the only one that makes sense and for me I already know what my weapon system is so validation doesn't really mean anything to me from other people but you know bigger companies like yeah but this one's the only one that makes sense and for me I already know what my weapon system is so validation doesn't really mean anything to me from other people but it was again a reaffirmation that somebody gets it
 
 ## Verification
 

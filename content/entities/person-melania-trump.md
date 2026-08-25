@@ -1,6 +1,6 @@
 ---
 title: "Melania Trump"
-description: "Melania Trump (People) - 6 mentions"
+description: "Melania Trump (People) - 9 mentions"
 id: "person-melania-trump"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [First Lady Melania Trump | The White House](https://www.whitehouse.gov/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-melania-trump-t-00-45-27">2026-03-11 · 00:45:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-melania-trump-t-00-36-48">2026-04-21 · 00:36:54</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-69A8TzAGHlU.md#ent-person-melania-trump-t-00-59-27">2026-04-30 · 00:59:57</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -39,6 +39,8 @@ Source: [First Lady Melania Trump | The White House](https://www.whitehouse.gov/
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-melania-trump-t-00-45-27" style="--pulse-height:100%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 5 mentions" title="2026-03-11 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-melania-trump-t-00-36-48" style="--pulse-height:20%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-melania-trump-t-00-00-45" style="--pulse-height:40%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-melania-trump-t-00-59-27" style="--pulse-height:20%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +48,8 @@ Source: [First Lady Melania Trump | The White House](https://www.whitehouse.gov/
 |---|---|---:|
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-person-melania-trump-t-00-45-27) | 5 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-melania-trump-t-00-36-48) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-melania-trump-t-00-00-45) | 2 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-person-melania-trump-t-00-59-27) | 1 |
 
 </details>
 </section>
@@ -53,7 +57,26 @@ Source: [First Lady Melania Trump | The White House](https://www.whitehouse.gov/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1 mentions)</summary>
+
+**[00:59:57](/episodes/ep-69A8TzAGHlU.md#ent-person-melania-trump-t-00-59-27)**
+> "And again, like I said, it's being echoed everywhere. Melania Trump, she tweeted and said this about Jimmy Kimmel, Jimmy Kimmel's vote of a joke that happened before the shooting, that it was hateful and violent rhetoric intended to divide our country."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (2 mentions)</summary>
+
+**[00:00:45](/episodes/ep-qZ8RWfyuewQ.md#ent-person-melania-trump-t-00-00-45)**
+> "uh like Melania (Melania Trump) I have always said I love her I love you truly M..."
+
+**[00:16:49](/episodes/ep-qZ8RWfyuewQ.md#ent-person-melania-trump-t-00-16-11)**
+> "..., would you describe Melania (Melania Trump) as using rich white men?"
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1 mentions)</summary>
@@ -115,7 +138,36 @@ Source: [First Lady Melania Trump | The White House](https://www.whitehouse.gov/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Melania Trump (2)</strong></summary>
+<summary><strong class="section-title">Statements by Melania Trump (1)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1)</summary>
+
+- [01:00:12](/episodes/ep-69A8TzAGHlU.md#t-01-00-12) [○] (Opinion) ["Jimmy Kimmel's monologue about Melania Trump's family was corrosive, deepened Am..."](/statements/statement-c6aea798fb52.md)
+  - About: [Jimmy Kimmel](/entities/person-jimmy-kimmel.md), [Melania Trump](/entities/person-melania-trump.md), [United States](/entities/gpe-united-states.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Melania Trump (4)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1)</summary>
+
+- [01:00:12](/episodes/ep-69A8TzAGHlU.md#t-01-00-12) (Opinion) **Melania Trump** (via quoted post): ["Jimmy Kimmel's monologue about Melania Trump's family was corrosive, d..."](/statements/statement-c6aea798fb52.md)
+  - Also about: [Jimmy Kimmel](/entities/person-jimmy-kimmel.md), [United States](/entities/gpe-united-states.md)
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1)</summary>
+
+- [00:45:55](/episodes/ep-qZ8RWfyuewQ.md#t-00-45-38) (Opinion) **Jimmy Kimmel** (via quoted speech): ["Jimmy Kimmel joked that Melania Trump had the glow of an expected wido..."](/statements/statement-6497ffdf5845.md)
+  - Also about: [Jimmy Kimmel](/entities/person-jimmy-kimmel.md)
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>

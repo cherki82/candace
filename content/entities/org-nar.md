@@ -1,6 +1,6 @@
 ---
 title: "NAR"
-description: "NAR (Organizations) - 23 mentions"
+description: "NAR (Organizations) - 25 mentions"
 id: "org-nar"
 type: "ORG"
 aliases:
@@ -21,9 +21,9 @@ Source: [Pneuma 43 (2021): New Apostolic Reformation](https://brill.com/view/jou
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-nar-t-00-24-39">2025-10-28 · 00:24:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-nar-t-00-18-06">2025-11-10 · 00:18:09</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep--9MOUvgGyi4.md#ent-org-nar-t-01-50-29">2026-04-22 · 01:50:35</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [Pneuma 43 (2021): New Apostolic Reformation](https://brill.com/view/jou
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-nar-t-00-24-39" style="--pulse-height:23%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-nar-t-00-11-43" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 13 mentions" title="2025-10-31 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-nar-t-00-13-01" style="--pulse-height:54%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 7 mentions" title="2025-11-10 · 7 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-org-nar-t-01-32-09" style="--pulse-height:15%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 2 mentions" title="2026-04-22 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [Pneuma 43 (2021): New Apostolic Reformation](https://brill.com/view/jou
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-nar-t-00-24-39) | 3 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-nar-t-00-11-43) | 13 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-org-nar-t-00-13-01) | 7 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-nar-t-01-32-09) | 2 |
 
 </details>
 </section>
@@ -52,7 +54,18 @@ Source: [Pneuma 43 (2021): New Apostolic Reformation](https://brill.com/view/jou
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (2 mentions)</summary>
+
+**[01:32:09](/episodes/ep--9MOUvgGyi4.md#ent-org-nar-t-01-32-09)**
+> "NAR—New Apostolic Reformation New Apostolic Reformation has come up in my research about"
+
+**[01:50:35](/episodes/ep--9MOUvgGyi4.md#ent-org-nar-t-01-50-29)**
+> "...d of adjacent to this sort of NAR cult uh NAR cult or yeah new apostolic reformatio..."
+
+</details>
 
 <details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (7 mentions)</summary>

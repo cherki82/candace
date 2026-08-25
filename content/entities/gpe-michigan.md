@@ -1,6 +1,6 @@
 ---
 title: "Michigan"
-description: "Michigan (Places) - 5 mentions"
+description: "Michigan (Places) - 7 mentions"
 id: "gpe-michigan"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [State of Michigan](https://www.michigan.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-michigan-t-00-35-23">2026-01-29 · 00:35:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-michigan-t-00-13-57">2026-02-13 · 00:13:57</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-michigan-t-00-15-21">2026-05-11 · 00:15:30</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,6 +33,7 @@ Source: [State of Michigan](https://www.michigan.gov/)
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-michigan-t-00-35-23" style="--pulse-height:33%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-michigan-t-00-49-29" style="--pulse-height:33%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-michigan-t-00-02-36" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-michigan-t-00-00-01" style="--pulse-height:67%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -41,6 +42,7 @@ Source: [State of Michigan](https://www.michigan.gov/)
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-michigan-t-00-35-23) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-michigan-t-00-49-29) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-michigan-t-00-02-36) | 3 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-michigan-t-00-00-01) | 2 |
 
 </details>
 </section>
@@ -48,7 +50,18 @@ Source: [State of Michigan](https://www.michigan.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (2 mentions)</summary>
+
+**[00:00:15](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-michigan-t-00-00-01)**
+> "she bounced over to Michigan"
+
+**[00:15:30](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-michigan-t-00-15-21)**
+> "She went to Michigan to Hillsdale College to deliver a commencement ad..."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (3 mentions)</summary>

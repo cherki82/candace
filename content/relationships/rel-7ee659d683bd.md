@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) friend of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (21 mentions)
+### Evidence (23 mentions)
 
 **[Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708)**
 
@@ -28,6 +28,10 @@ object: "person-charlie-kirk"
 **[Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE)**
 
 - [00:38:15](/episodes/ep-9naMwS0kMBE#t-00-38-15): _He knew better than anyone that Charlie and I were friends and that we remained friends until the very end._
+
+**[STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI)**
+
+- [00:42:28](/episodes/ep-FFQ9675oqRI#t-00-42-28): _why are you upset that I'm actually mourning my friend who got murdered and I want to have real answers?_
 
 **[IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ)**
 
@@ -65,6 +69,10 @@ object: "person-charlie-kirk"
 
 - [00:00:33](/episodes/ep-ja26iltROkM#t-00-00-33): _Charlie and I were in New York for something or another, and he was falling for her hard_
 - [00:02:33](/episodes/ep-ja26iltROkM#t-00-02-33): _Charlie and I were in New York for something or another, and he was falling for her hard_
+
+**[Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs)**
+
+- [00:43:01](/episodes/ep-k1b1NDCrNFs#t-00-43-01): _OK, so for me, it is the audacity of him using Charlie Kirk, my friend, not his as a human shield, claiming that he's doing that for Erika (Erika Kirk)._
 
 **[An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ)**
 

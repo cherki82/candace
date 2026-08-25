@@ -11,15 +11,23 @@ object: "org-turning-point-usa"
 
 ## [Candace Owens](/entities/person-candace-owens) accused [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (8 mentions)
+### Evidence (10 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
 - [00:45:19](/episodes/ep-1IY2oD-_xVA#t-00-45-19): _somebody who was within turning point usa confirmed to me That money was indeed missing out of Turning Point USA. ... I can back that up 100%, which is why I'm saying it publicly, that there were millions missing out of Turning Point USA, and they were wondering where that money was going._
 
+**[September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI)**
+
+- [00:35:58](/episodes/ep-4DvYXBn_5JI#t-00-35-58): _why why are we doing this why are they being so weird why are they constantly adjusting telling lies gaslighting being consistent working behind the scenes to get out something that I was happy to just go ahead and debunk because like I said I was like ... that is what makes people not trust the Turning Point USA apparatus._
+
 **[Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM)**
 
 - [00:00:29](/episodes/ep-5m-Wn6Pr5rM#t-00-00-29): _somebody at Turning Point USA is lying._
+
+**[BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU)**
+
+- [00:50:06](/episodes/ep-69A8TzAGHlU#t-00-50-06): _After watching this show, I would say that I had a damn good reason to suspect Turning Point USA, that they were complicit in a cover-up of what happened._
 
 **[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
 

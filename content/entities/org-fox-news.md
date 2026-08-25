@@ -1,6 +1,6 @@
 ---
 title: "Fox News"
-description: "Fox News (Organizations) - 68 mentions"
+description: "Fox News (Organizations) - 77 mentions"
 id: "org-fox-news"
 type: "ORG"
 aliases:
@@ -24,12 +24,12 @@ Source: [Fox News](https://www.foxnews.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-fox-news-t-00-03-31">2025-09-11 · 00:03:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-fox-news-t-00-47-12">2026-04-21 · 00:47:12</a></strong></div>
-<div><span>Episodes</span><strong>35</strong></div>
-<div><span>Mentions</span><strong>68</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-fox-news-t-00-47-07">2026-05-11 · 00:47:43</a></strong></div>
+<div><span>Episodes</span><strong>39</strong></div>
+<div><span>Mentions</span><strong>77</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -72,6 +72,10 @@ Source: [Fox News](https://www.foxnews.com/)
 <a href="/episodes/ep-SubDoZWHARo.md#ent-org-fox-news-t-00-07-05" style="--pulse-height:25%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-fox-news-t-00-34-43" style="--pulse-height:12%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-fox-news-t-00-47-12" style="--pulse-height:12%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-fox-news-t-00-12-39" style="--pulse-height:62%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 5 mentions" title="2026-05-04 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-fox-news-t-01-02-01" style="--pulse-height:25%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#t-00-10-08" style="--pulse-height:12%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-fox-news-t-00-47-07" style="--pulse-height:12%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -112,6 +116,10 @@ Source: [Fox News](https://www.foxnews.com/)
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-fox-news-t-00-07-05) | 2 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-fox-news-t-00-34-43) | 1 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-fox-news-t-00-47-12) | 1 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-fox-news-t-00-12-39) | 5 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-fox-news-t-01-02-01) | 2 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#t-00-10-08) | 1 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-fox-news-t-00-47-07) | 1 |
 
 </details>
 </section>
@@ -119,7 +127,54 @@ Source: [Fox News](https://www.foxnews.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (68)</strong></summary>
+<summary><strong class="section-title">Raw mentions (77)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>
+
+**[00:47:43](/episodes/ep-KpxIBWkNsSs.md#ent-org-fox-news-t-00-47-07)**
+> "her name on Fox News"
+
+</details>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>
+
+**[00:10:20](/episodes/ep-FFQ9675oqRI.md#t-00-10-08)**
+> "...and another table here that's Fox and another table here that's WAPO and you're all..."
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (2 mentions)</summary>
+
+**[01:02:23](/episodes/ep-k1b1NDCrNFs.md#ent-org-fox-news-t-01-02-01)**
+> "... why I made the comparison to Fox News. It's unimaginable that what's the CEO of Fox New..."
+
+**[01:02:34](/episodes/ep-k1b1NDCrNFs.md#ent-org-fox-news-t-01-02-34)**
+> "Fox News, Suzanne Scott. unimaginable try to imagine Suzan..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (5 mentions)</summary>
+
+**[00:12:10](/episodes/ep-uC_GjKU8rs8.md#ent-org-fox-news-t-00-12-39)**
+> "Tucker Carlson left Fox in 2023. He kept his audience. He runs his shop w..."
+
+**[00:13:02](/episodes/ep-uC_GjKU8rs8.md#ent-org-fox-news-t-00-12-39)**
+> "...t their exits did not destroy Fox News. That's crucial. Their exits, despite the fact th..."
+
+**[00:13:51](/episodes/ep-uC_GjKU8rs8.md#ent-org-fox-news-t-00-13-21)**
+> "...nd fights and gag orders with Fox News being chased for every penny."
+
+**[00:27:56](/episodes/ep-uC_GjKU8rs8.md#ent-org-fox-news-t-00-27-26)**
+> "...llapsing? No, absolutely not. Fox News is still a thing, right?"
+
+**[00:28:03](/episodes/ep-uC_GjKU8rs8.md#ent-org-fox-news-t-00-27-26)**
+> "Fox News is still pulling in viewers. But it's the manner ..."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1 mentions)</summary>
@@ -521,9 +576,22 @@ Source: [Fox News](https://www.foxnews.com/)
 <summary>Formerly Employed (1)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:18:52](/episodes/ep-9naMwS0kMBE.md#t-00-18-46): “used to work for Fox News”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:12:10](/episodes/ep-uC_GjKU8rs8.md#t-00-11-59): “Tucker Carlson left Fox in 2023. He kept his audience. He runs his shop with a fraction of the headcount.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Has Ceo (1)</summary>
+
+- **[Suzanne Scott](/entities/person-suzanne-scott.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 01:02:23](/episodes/ep-k1b1NDCrNFs.md#t-01-02-01): “And that was why I made the comparison to Fox News. It's unimaginable that what's the CEO of Fox News, Suzanne (Suzanne Scott), I'm blanking on her last name,”
 
 </details>
 
@@ -542,12 +610,20 @@ Source: [Fox News](https://www.foxnews.com/)
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
-- **[Tucker Carlson](/entities/person-tucker-carlson.md)** formerly worked for this
+- **[Suzanne Scott](/entities/person-suzanne-scott.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 01:02:23](/episodes/ep-k1b1NDCrNFs.md#t-01-02-01): “And that was why I made the comparison to Fox News. It's unimaginable that what's the CEO of Fox News, Suzanne (Suzanne Scott), I'm blanking on her last name,”
+
+</details>
+
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:18:52](/episodes/ep-9naMwS0kMBE.md#t-00-18-46): “used to work for Fox News”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:12:10](/episodes/ep-uC_GjKU8rs8.md#t-00-11-59): “Tucker Carlson left Fox in 2023. He kept his audience. He runs his shop with a fraction of the headcount.”
 
 </details>
 

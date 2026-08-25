@@ -1,21 +1,29 @@
 ---
 title: "Woodland Park, Colorado"
-description: "Woodland Park, Colorado (Places) - 2 mentions"
+description: "Woodland Park, Colorado (Places) - 4 mentions"
 id: "gpe-woodland-park-colorado"
 type: "GPE"
 aliases:
   - "Woodland Park"
+categories:
+  - "Colorado city"
 ---
 
 _Type: Places_
 
 **Also known as:** Woodland Park
 
+**Categories:** Colorado city
+
+**Entity verification:** verified
+> Official City of Woodland Park site verifies the canonical place name Woodland Park, Colorado; transcript context is the same city hosting Charis Bible College.
+Source: [Woodland Park, CO](https://woodlandpark.gov/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-woodland-park-colorado-t-00-03-29">2026-01-09 · 00:04:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-woodland-park-colorado-t-00-04-13">2026-01-09 · 00:04:13</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-woodland-park-colorado-t-00-09-02">2026-05-13 · 00:09:25</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -27,12 +35,14 @@ _Type: Places_
 <p>Highest activity: <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-woodland-park-colorado-t-00-03-29">The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-woodland-park-colorado-t-00-03-29" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-woodland-park-colorado-t-00-07-37" style="--pulse-height:100%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-woodland-park-colorado-t-00-03-29) | 2 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-woodland-park-colorado-t-00-07-37) | 2 |
 
 </details>
 </section>
@@ -40,7 +50,18 @@ _Type: Places_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (2 mentions)</summary>
+
+**[00:07:37](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-woodland-park-colorado-t-00-07-37)**
+> "Woodland Park, Colorado"
+
+**[00:09:25](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-woodland-park-colorado-t-00-09-02)**
+> "Yeah. Woodland Park event honors his legacy."
+
+</details>
 
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (2 mentions)</summary>

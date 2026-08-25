@@ -1,6 +1,6 @@
 ---
 title: "Laura Loomer"
-description: "Laura Loomer (People) - 69 mentions"
+description: "Laura Loomer (People) - 104 mentions"
 id: "person-laura-loomer"
 type: "PERSON"
 categories:
@@ -17,11 +17,11 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-laura-loomer-t-01-03-56">2025-09-16 · 01:04:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-laura-loomer-t-00-54-44">2026-04-21 · 00:54:44</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>69</strong></div>
-<div><span>Statements by</span><strong>13</strong></div>
-<div><span>Statements about</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-laura-loomer-t-00-00-40">2026-05-13 · 00:00:40</a></strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>104</strong></div>
+<div><span>Statements by</span><strong>19</strong></div>
+<div><span>Statements about</span><strong>30</strong></div>
 <div><span>Relationships</span><strong>34</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -50,6 +50,11 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-laura-loomer-t-00-51-17" style="--pulse-height:9%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-laura-loomer-t-00-36-44" style="--pulse-height:100%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 22 mentions" title="2026-04-20 · 22 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-laura-loomer-t-00-33-21" style="--pulse-height:50%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 11 mentions" title="2026-04-21 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-laura-loomer-t-00-05-09" style="--pulse-height:36%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 8 mentions" title="2026-04-29 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-laura-loomer-t-00-59-27" style="--pulse-height:9%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 2 mentions" title="2026-04-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-laura-loomer-t-00-02-05" style="--pulse-height:45%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 10 mentions" title="2026-05-04 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-laura-loomer-t-00-00-01" style="--pulse-height:64%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 14 mentions" title="2026-05-06 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-laura-loomer-t-00-00-40" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -75,6 +80,11 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-laura-loomer-t-00-51-17) | 2 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-laura-loomer-t-00-36-44) | 22 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-laura-loomer-t-00-33-21) | 11 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-laura-loomer-t-00-05-09) | 8 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-person-laura-loomer-t-00-59-27) | 2 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-laura-loomer-t-00-02-05) | 10 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-laura-loomer-t-00-00-01) | 14 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-laura-loomer-t-00-00-40) | 1 |
 
 </details>
 </section>
@@ -82,7 +92,137 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (69)</strong></summary>
+<summary><strong class="section-title">Raw mentions (104)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1 mentions)</summary>
+
+**[00:00:40](/episodes/ep-4DvYXBn_5JI.md#ent-person-laura-loomer-t-00-00-40)**
+> "the wacky Laura Loomer"
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (14 mentions)</summary>
+
+**[00:00:12](/episodes/ep-k1b1NDCrNFs.md#ent-person-laura-loomer-t-00-00-01)**
+> "...raging reporters to look into Laura Loomer's claims. Did Candace lie to DHS? He's kind of putt..."
+
+**[00:30:31](/episodes/ep-k1b1NDCrNFs.md#ent-person-laura-loomer-t-00-30-31)**
+> "...erday to essentially platform Laura Loomer, Laura Loomer's attacks against my husband. Remem..."
+
+**[00:36:18](/episodes/ep-k1b1NDCrNFs.md#ent-person-laura-loomer-t-00-36-11)**
+> "...'s decided I'm going to boost Laura Loomer's claims."
+
+**[00:36:49](/episodes/ep-k1b1NDCrNFs.md#ent-person-laura-loomer-t-00-36-49)**
+> "...e of the incident report that Laura Loomer is sharing happened during my tenure at the Daily..."
+
+**[00:37:51](/episodes/ep-k1b1NDCrNFs.md#ent-person-laura-loomer-t-00-37-31)**
+> "...iends. So when you see Laura (Laura Loomer) suddenly knowing a lot about my father-in-law's ..."
+
+**[00:40:09](/episodes/ep-k1b1NDCrNFs.md#ent-person-laura-loomer-t-00-40-09)**
+> "... and that person is of course Laura Loomer citing and naming a person remember Tracy Robinso..."
+
+**[00:40:34](/episodes/ep-k1b1NDCrNFs.md#ent-person-laura-loomer-t-00-40-34)**
+> "... is they are hoping that what Laura Loomer is saying is true."
+
+**[00:42:14](/episodes/ep-k1b1NDCrNFs.md#ent-person-laura-loomer-t-00-41-54)**
+> "...would have never lied. Laura (Laura Loomer) is tagging people."
+
+**[00:42:19](/episodes/ep-k1b1NDCrNFs.md#ent-person-laura-loomer-t-00-41-54)**
+> "...you to truly marinate. Forget Laura Loomer."
+
+**[00:42:47](/episodes/ep-k1b1NDCrNFs.md#ent-person-laura-loomer-t-00-42-39)**
+> "...are hopeful this is true. And Laura Loomer is tagging DHS. She is tagging Markwayne Mullin a..."
+
+**[00:51:54](/episodes/ep-k1b1NDCrNFs.md#ent-person-laura-loomer-t-00-51-31)**
+> "...I'm working. I'm working with Laura Loomer to launder accusations against her."
+
+**[00:51:59](/episodes/ep-k1b1NDCrNFs.md#ent-person-laura-loomer-t-00-51-31)**
+> "...I haven't spoken privately to Laura Loomer in years. Oh."
+
+**[00:52:35](/episodes/ep-k1b1NDCrNFs.md#ent-person-laura-loomer-t-00-52-16)**
+> "...ing that? I haven't spoken to Laura Loomer privately in years. That's not what we're asking ..."
+
+**[00:52:51](/episodes/ep-k1b1NDCrNFs.md#ent-person-laura-loomer-t-00-52-51)**
+> "...n shapiro to launder ideas to laura loomer next let's get to the next page um this is this i..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (10 mentions)</summary>
+
+**[00:02:17](/episodes/ep-uC_GjKU8rs8.md#ent-person-laura-loomer-t-00-02-05)**
+> "...cly, everyone knows that also Laura Loomer has been stalking me, but I've been telling you g..."
+
+**[00:24:17](/episodes/ep-uC_GjKU8rs8.md#ent-person-laura-loomer-t-00-23-53)**
+> "... and marketing, actually. And Laura Loomer, of course, followed this up with calls about wha..."
+
+**[00:32:12](/episodes/ep-uC_GjKU8rs8.md#ent-person-laura-loomer-t-00-32-05)**
+> "...s that they knew someone who. Laura Loomer was trying to send to the Charlotte airport when ..."
+
+**[00:32:31](/episodes/ep-uC_GjKU8rs8.md#ent-person-laura-loomer-t-00-32-05)**
+> "...recise thing. It signals that Laura Loomer knew before we announced to the public more than ..."
+
+**[00:32:42](/episodes/ep-uC_GjKU8rs8.md#ent-person-laura-loomer-t-00-32-42)**
+> "...edly, how is it possible that Laura Loomer was trying to get somebody go take photos of me r..."
+
+**[00:33:09](/episodes/ep-uC_GjKU8rs8.md#ent-person-laura-loomer-t-00-32-42)**
+> "...e had been heavily retweeting Laura Loomer and her attacks against my family."
+
+**[00:33:22](/episodes/ep-uC_GjKU8rs8.md#ent-person-laura-loomer-t-00-33-22)**
+> "Laura Loomer asserting that my immigrant husband, my husband i..."
+
+**[00:33:43](/episodes/ep-uC_GjKU8rs8.md#ent-person-laura-loomer-t-00-33-22)**
+> "... coordinating? Are they using Laura Loomer because how do these people know each other? Agai..."
+
+**[00:33:57](/episodes/ep-uC_GjKU8rs8.md#ent-person-laura-loomer-t-00-33-22)**
+> "Well, Laura Loomer, when she thought it was going to have a bad week..."
+
+**[00:56:28](/episodes/ep-uC_GjKU8rs8.md#ent-person-laura-loomer-t-00-55-49)**
+> "I'm about to hit up Laura Loomer to dox him."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2 mentions)</summary>
+
+**[00:59:27](/episodes/ep-69A8TzAGHlU.md#ent-person-laura-loomer-t-00-59-27)**
+> "Laura Loomer is his top advisor."
+
+**[01:09:16](/episodes/ep-69A8TzAGHlU.md#ent-person-laura-loomer-t-01-09-16)**
+> "...h definitively was retweeting laura loomer so that feels weird that feels like everyone was ..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (8 mentions)</summary>
+
+**[00:05:09](/episodes/ep-qZ8RWfyuewQ.md#ent-person-laura-loomer-t-00-05-09)**
+> "...four days of his top advisor, Laura Loomer, sharing AI photos, illusory stories about drunke..."
+
+**[00:17:55](/episodes/ep-qZ8RWfyuewQ.md#ent-person-laura-loomer-t-00-17-39)**
+> "...was actually his top advisor, Laura Loomer. I am told specifically that she was ranting, ran..."
+
+**[00:21:46](/episodes/ep-qZ8RWfyuewQ.md#ent-person-laura-loomer-t-00-21-19)**
+> "... believe, right, because it's Laura Loomer."
+
+**[00:22:17](/episodes/ep-qZ8RWfyuewQ.md#ent-person-laura-loomer-t-00-22-04)**
+> "Again, it's Laura Loomer, so don't just take it with a grain of salt, take..."
+
+**[00:22:52](/episodes/ep-qZ8RWfyuewQ.md#ent-person-laura-loomer-t-00-22-40)**
+> "...just don't want to deal. with Laura Loomer."
+
+**[00:23:16](/episodes/ep-qZ8RWfyuewQ.md#ent-person-laura-loomer-t-00-22-40)**
+> "If you go onto Laura Loomer's feed, you will see that it's her focus of the wee..."
+
+**[01:02:53](/episodes/ep-qZ8RWfyuewQ.md#ent-person-laura-loomer-t-01-02-53)**
+> "I think this was according to Laura Loomer, we were living separate and in two different hou..."
+
+**[01:20:10](/episodes/ep-qZ8RWfyuewQ.md#ent-person-laura-loomer-t-01-20-01)**
+> "...'m assuming referring to this Laura Loomer clip that was the roughest minute of Candace Owen..."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (11 mentions)</summary>
@@ -418,9 +558,11 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 - **[George Farmer](/entities/person-george-farmer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:48:51](/episodes/ep-kaWtDuoY_ns.md#t-00-48-51): “Laura Loomer attacks Candace (Candace Owens)'s children as feud escalates. ... your husband, George Farmer, allegedly landed when he allegedly hit, aka crashed into Tracy Robinson's car while he was allegedly driving drunk”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:02:53](/episodes/ep-qZ8RWfyuewQ.md#t-01-02-53): “I think this was according to Laura Loomer, we were living separate and in two different houses. and I had dual citizenship of course none of that is true then it was George (George Farmer)'s in a secret gay relationship with Milo proof presented was an AI photo of him wearing a Ricky Martin type silk shirt very clearly AI”
+- [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:30:31](/episodes/ep-k1b1NDCrNFs.md#t-00-30-31): “was coming from daily wire they'll never admit it they'll never admit it they always pretend it's not them but i think now the public is seeing how they behave generally speaking So imagine my surprise, not at all, when Jeremy (Jeremy Boreing) took to his show yesterday to essentially platform Laura Loomer, Laura Loomer's attacks against my husband. Remember, ... she's been all over the place. My husband hit a guy. She named the guy, pulled up insurance paperwork. I told you then combined it with another incident and said that we paid off someone to hide the fact that George (George Farmer) was, you know, brandishing.”
 
 </details>
 
@@ -449,12 +591,13 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <summary>Advisor To (1)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:33:08](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54): “one of them being Laura Loomer. ... Trump's closest advisor.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:51:25](/episodes/ep-eLgD5yUVbko.md#t-00-51-17): “We're calling for peace. And he's like, these people are nut jobs. And then he has people like Laura Loomer who have. has been forcibly placed on site 5150 holds as his number one advisor she's like i'm advising him you got paula white who's telling him he's akin to jesus christ which is absolutely blasphemous and he thinks these people are totally sane again very scary to be that far in the cave he is so in the cave he is so convinced of his own invincibility it is completely unhinged that he was deeply upset by the pope Telling him the truth,”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:36:34](/episodes/ep-kaWtDuoY_ns.md#t-00-36-08): “Who even are Trump (Donald Trump)'s advisors anymore? ... Laura Loomer claims she is his number one advisor. And she speaks to him almost daily.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:39:58](/episodes/ep-xi8SYJTUXPM.md#t-00-39-37): “So forget Laura Loomer. The question you should be asking yourself is, is Donald Trump mentally fit to be president if he makes a conscious decision to tweet out that Tucker Carlson and Megyn Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer?”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:17:55](/episodes/ep-qZ8RWfyuewQ.md#t-00-17-39): “And I want people to know that the real driver of the entire random attack on me from the president and the reason why it was tinged a little bit with some race was actually his top advisor, Laura Loomer.”
 
 </details>
 
@@ -490,7 +633,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <summary>Criticized (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:27:34](/episodes/ep-ja26iltROkM.md#t-00-26-58): “Candace Owens is selling a CIA line of merchandise”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:26:54](/episodes/ep-ja26iltROkM.md#t-00-26-14): “A real live tweet came from Laura Loomer... She's been attacking me nonstop”
@@ -499,6 +642,8 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:48:27](/episodes/ep-kaWtDuoY_ns.md#t-00-48-06): “Laura Loomer attacks Candace (Candace Owens)'s children as feud escalates.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:34:09](/episodes/ep-xi8SYJTUXPM.md#t-00-34-01): “It's directed to me after yesterday's episode. She said, God hates you at Real Candace O. It's why he gave Charlie to Erika and why you didn't even get.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:34:17](/episodes/ep-xi8SYJTUXPM.md#t-00-34-01): “and get to say goodbye to him. God hates you. Look in the mirror and internalize how much God hates you. We all hate you.”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:19:26](/episodes/ep-qZ8RWfyuewQ.md#t-00-19-26): “really satisfying to me about being a black girl from the hood being able to like walk into a ritzy bar in Greenwich and leave with the hottest white guy there and basically like ruin the relationship of like the popular white girl this is how she used to speak and for some reason there's a lot of people that are really afraid of this nappy headed black bitch who just has a lot to say but not really a lot to offer so I'm not afraid of Candace Owens”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:34:03](/episodes/ep-uC_GjKU8rs8.md#t-00-34-03): “Damn, Candace Oh is having a bad week, almost like she got ambushed. Couldn't have happened to a more wretched B-I-T-C-H.”
 
 </details>
 
@@ -529,13 +674,14 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:55:36](/episodes/ep-7ERqbYElOfs.md#t-00-55-36): “when you go to Laura Loomer and say can you attack someone you are you are just scraping the bottom of the barrel”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:33:08](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54): “He is definitively surrounded by certifiable lunatics, one of them being Laura Loomer.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:51:17](/episodes/ep-eLgD5yUVbko.md#t-00-50-35): “I mean, he is surrounded by, ironically, the very thing that he accuses me and Megan and Tucker of being because we're calling for peace. We're calling for peace. And he's like, these people are nut jobs. And then he has people like Laura Loomer who have. has been forcibly placed on site 5150 holds as his number one advisor she's like i'm advising him you got paula white who's telling him he's akin to jesus christ which is absolutely blasphemous and he thinks these people are totally sane again very scary to be that far in the cave he is so in the cave he is so convinced of his own invincibility it is completely unhinged that he was deeply upset by the pope Telling him the truth,”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:38:25](/episodes/ep-kaWtDuoY_ns.md#t-00-38-00): “the first thing that you should know about Laura Loomer is that when people say Laura Loomer is crazy, they're not being funny”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:50:40](/episodes/ep-xi8SYJTUXPM.md#t-00-50-11): “Yeah, that she is very much in need of an exorcism. That's the only thing that can explain that the places that her mind goes and she doesn't understand that that's not like a normal person doesn't get there.”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:17:55](/episodes/ep-qZ8RWfyuewQ.md#t-00-17-39): “the real driver of the entire random attack on me from the president and the reason why it was tinged a little bit with some race was actually his top advisor, Laura Loomer. ... Yeah, a lot to unpack there. Not really worth unpacking. It's just it's just too insane. I do genuinely believe that she is on the brink of needing to be committed again.”
 
 </details>
 
@@ -604,19 +750,22 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 - **[George Farmer](/entities/person-george-farmer.md)** accused by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:48:51](/episodes/ep-kaWtDuoY_ns.md#t-00-48-51): “Laura Loomer attacks Candace (Candace Owens)'s children as feud escalates. ... your husband, George Farmer, allegedly landed when he allegedly hit, aka crashed into Tracy Robinson's car while he was allegedly driving drunk”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:02:53](/episodes/ep-qZ8RWfyuewQ.md#t-01-02-53): “I think this was according to Laura Loomer, we were living separate and in two different houses. and I had dual citizenship of course none of that is true then it was George (George Farmer)'s in a secret gay relationship with Milo proof presented was an AI photo of him wearing a Ricky Martin type silk shirt very clearly AI”
+- [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:30:31](/episodes/ep-k1b1NDCrNFs.md#t-00-30-31): “was coming from daily wire they'll never admit it they'll never admit it they always pretend it's not them but i think now the public is seeing how they behave generally speaking So imagine my surprise, not at all, when Jeremy (Jeremy Boreing) took to his show yesterday to essentially platform Laura Loomer, Laura Loomer's attacks against my husband. Remember, ... she's been all over the place. My husband hit a guy. She named the guy, pulled up insurance paperwork. I told you then combined it with another incident and said that we paid off someone to hide the fact that George (George Farmer) was, you know, brandishing.”
 
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** advised by this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:33:08](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54): “one of them being Laura Loomer. ... Trump's closest advisor.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:51:25](/episodes/ep-eLgD5yUVbko.md#t-00-51-17): “We're calling for peace. And he's like, these people are nut jobs. And then he has people like Laura Loomer who have. has been forcibly placed on site 5150 holds as his number one advisor she's like i'm advising him you got paula white who's telling him he's akin to jesus christ which is absolutely blasphemous and he thinks these people are totally sane again very scary to be that far in the cave he is so in the cave he is so convinced of his own invincibility it is completely unhinged that he was deeply upset by the pope Telling him the truth,”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:36:34](/episodes/ep-kaWtDuoY_ns.md#t-00-36-08): “Who even are Trump (Donald Trump)'s advisors anymore? ... Laura Loomer claims she is his number one advisor. And she speaks to him almost daily.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:39:58](/episodes/ep-xi8SYJTUXPM.md#t-00-39-37): “So forget Laura Loomer. The question you should be asking yourself is, is Donald Trump mentally fit to be president if he makes a conscious decision to tweet out that Tucker Carlson and Megyn Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer?”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:17:55](/episodes/ep-qZ8RWfyuewQ.md#t-00-17-39): “And I want people to know that the real driver of the entire random attack on me from the president and the reason why it was tinged a little bit with some race was actually his top advisor, Laura Loomer.”
 
 </details>
 
@@ -642,24 +791,27 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:55:36](/episodes/ep-7ERqbYElOfs.md#t-00-55-36): “when you go to Laura Loomer and say can you attack someone you are you are just scraping the bottom of the barrel”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:33:08](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54): “He is definitively surrounded by certifiable lunatics, one of them being Laura Loomer.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:51:17](/episodes/ep-eLgD5yUVbko.md#t-00-50-35): “I mean, he is surrounded by, ironically, the very thing that he accuses me and Megan and Tucker of being because we're calling for peace. We're calling for peace. And he's like, these people are nut jobs. And then he has people like Laura Loomer who have. has been forcibly placed on site 5150 holds as his number one advisor she's like i'm advising him you got paula white who's telling him he's akin to jesus christ which is absolutely blasphemous and he thinks these people are totally sane again very scary to be that far in the cave he is so in the cave he is so convinced of his own invincibility it is completely unhinged that he was deeply upset by the pope Telling him the truth,”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:38:25](/episodes/ep-kaWtDuoY_ns.md#t-00-38-00): “the first thing that you should know about Laura Loomer is that when people say Laura Loomer is crazy, they're not being funny”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:50:40](/episodes/ep-xi8SYJTUXPM.md#t-00-50-11): “Yeah, that she is very much in need of an exorcism. That's the only thing that can explain that the places that her mind goes and she doesn't understand that that's not like a normal person doesn't get there.”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:17:55](/episodes/ep-qZ8RWfyuewQ.md#t-00-17-39): “the real driver of the entire random attack on me from the president and the reason why it was tinged a little bit with some race was actually his top advisor, Laura Loomer. ... Yeah, a lot to unpack there. Not really worth unpacking. It's just it's just too insane. I do genuinely believe that she is on the brink of needing to be committed again.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:27:34](/episodes/ep-ja26iltROkM.md#t-00-26-58): “Candace Owens is selling a CIA line of merchandise”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:26:54](/episodes/ep-ja26iltROkM.md#t-00-26-14): “A real live tweet came from Laura Loomer... She's been attacking me nonstop”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:48:27](/episodes/ep-kaWtDuoY_ns.md#t-00-48-06): “Laura Loomer attacks Candace (Candace Owens)'s children as feud escalates.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:34:09](/episodes/ep-xi8SYJTUXPM.md#t-00-34-01): “It's directed to me after yesterday's episode. She said, God hates you at Real Candace O. It's why he gave Charlie to Erika and why you didn't even get.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:34:17](/episodes/ep-xi8SYJTUXPM.md#t-00-34-01): “and get to say goodbye to him. God hates you. Look in the mirror and internalize how much God hates you. We all hate you.”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:19:26](/episodes/ep-qZ8RWfyuewQ.md#t-00-19-26): “really satisfying to me about being a black girl from the hood being able to like walk into a ritzy bar in Greenwich and leave with the hottest white guy there and basically like ruin the relationship of like the popular white girl this is how she used to speak and for some reason there's a lot of people that are really afraid of this nappy headed black bitch who just has a lot to say but not really a lot to offer so I'm not afraid of Candace Owens”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:34:03](/episodes/ep-uC_GjKU8rs8.md#t-00-34-03): “Damn, Candace Oh is having a bad week, almost like she got ambushed. Couldn't have happened to a more wretched B-I-T-C-H.”
 
 </details>
 
@@ -703,7 +855,35 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Laura Loomer (13)</strong></summary>
+<summary><strong class="section-title">Statements by Laura Loomer (19)</strong></summary>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1)</summary>
+
+- [00:34:03](/episodes/ep-uC_GjKU8rs8.md#t-00-34-03) [✓] (Accusation) ["Candace Owens was having a bad week, almost as though she had been ambushed."](/statements/statement-fa0308c22f89.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (5)</summary>
+
+- [00:19:00](/episodes/ep-qZ8RWfyuewQ.md#t-00-18-51) [✓] (Accusation) ["Laura Loomer said Candace Owens used to tell her that she wanted a white husband..."](/statements/statement-a68a472bcedb.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Laura Loomer](/entities/person-laura-loomer.md)
+
+- [00:20:17](/episodes/ep-qZ8RWfyuewQ.md#t-00-19-51) [○] (Opinion) ["Laura Loomer characterized Candace Owens as resenting white women with blonde ha..."](/statements/statement-6f344f535403.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Laura Loomer](/entities/person-laura-loomer.md)
+
+- [01:03:30](/episodes/ep-qZ8RWfyuewQ.md#t-01-03-30) [✓] (Accusation) ["Laura Loomer suggested the Southern Poverty Law Center may have paid Candace Owe..."](/statements/statement-f27adb9ac325.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Laura Loomer](/entities/person-laura-loomer.md), [David Duke](/entities/person-david-duke.md)
+
+- [01:04:20](/episodes/ep-qZ8RWfyuewQ.md#t-01-04-10) [✓] (Accusation) ["Laura Loomer alleged Candace Owens was hiding nearly 12 million dollars in real ..."](/statements/statement-dbc47a9321c9.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Laura Loomer](/entities/person-laura-loomer.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md)
+
+- [01:05:31](/episodes/ep-qZ8RWfyuewQ.md#t-01-05-04) [✓] (Accusation) ["Laura Loomer alleged Candace Owens, Nick Fuentes, David Axelrod, and Aubrey Lait..."](/statements/statement-fd8c052896c2.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [David Axelrod](/entities/person-david-axelrod.md)
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (4)</summary>
@@ -782,7 +962,57 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Laura Loomer (20)</strong></summary>
+<summary><strong class="section-title">Statements about Laura Loomer (30)</strong></summary>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1)</summary>
+
+- [00:51:54](/episodes/ep-k1b1NDCrNFs.md#t-00-51-31) (Claim) **Jeremy Boreing** (via quoted post): ["Jeremy Boreing had not spoken privately with Laura Loomer in years."](/statements/statement-ccfdfd1f7e40.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (2)</summary>
+
+- [00:32:31](/episodes/ep-uC_GjKU8rs8.md#t-00-32-05) (Accusation) **Candace Owens**: ["The timing of the airport-photography request signals coordination bet..."](/statements/statement-a47e49a7cb32.md)
+  - Also about: [Matthew Sarelson](/entities/person-matthew-sarelson.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:33:09](/episodes/ep-uC_GjKU8rs8.md#t-00-32-42) (Claim) **Candace Owens**: ["Before acknowledging the lawsuit, Matthew Sarelson had been heavily re..."](/statements/statement-5fe964af0b26.md)
+  - Also about: [Matthew Sarelson](/entities/person-matthew-sarelson.md), [Jacob William Roth](/entities/person-jacob-william-roth.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1)</summary>
+
+- [01:09:16](/episodes/ep-69A8TzAGHlU.md#t-01-09-16) (Opinion) **Candace Owens**: ["The attacks on Candace Owens, including Brian Harpole's lawsuit, may h..."](/statements/statement-53b975735ecf.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Matthew Sarelson](/entities/person-matthew-sarelson.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (6)</summary>
+
+- [00:17:55](/episodes/ep-qZ8RWfyuewQ.md#t-00-17-39) (Accusation) **Anonymous Source #1 (Ep qZ8RWfyuewQ)** (via read message): ["An unnamed source told Candace Owens that Laura Loomer demanded a supp..."](/statements/statement-060bb8d3cf39.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Susie Wiles](/entities/person-susie-wiles.md), [White House](/entities/org-white-house.md)
+
+- [00:19:00](/episodes/ep-qZ8RWfyuewQ.md#t-00-18-51) (Accusation) **Laura Loomer** (via quoted speech): ["Laura Loomer said Candace Owens used to tell her that she wanted a whi..."](/statements/statement-a68a472bcedb.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:20:17](/episodes/ep-qZ8RWfyuewQ.md#t-00-19-51) (Opinion) **Laura Loomer** (via quoted speech): ["Laura Loomer characterized Candace Owens as resenting white women with..."](/statements/statement-6f344f535403.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [01:03:30](/episodes/ep-qZ8RWfyuewQ.md#t-01-03-30) (Accusation) **Laura Loomer** (via quoted post): ["Laura Loomer suggested the Southern Poverty Law Center may have paid C..."](/statements/statement-f27adb9ac325.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [David Duke](/entities/person-david-duke.md), [Southern Poverty Law Center](/entities/org-southern-poverty-law-center.md)
+
+- [01:04:20](/episodes/ep-qZ8RWfyuewQ.md#t-01-04-10) (Accusation) **Laura Loomer** (via quoted post): ["Laura Loomer alleged Candace Owens was hiding nearly 12 million dollar..."](/statements/statement-dbc47a9321c9.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md)
+
+- [01:05:31](/episodes/ep-qZ8RWfyuewQ.md#t-01-05-04) (Accusation) **Laura Loomer** (via quoted post): ["Laura Loomer alleged Candace Owens, Nick Fuentes, David Axelrod, and A..."](/statements/statement-fd8c052896c2.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [David Axelrod](/entities/person-david-axelrod.md)
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (6)</summary>

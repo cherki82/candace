@@ -11,7 +11,7 @@ date: "2025-09-09"
 
 > Mitch Snow alleged that he saw Brian Harpole at a senior-level meeting at Fort Huachuca.
 
-## Mentioned In (3 times)
+## Mentioned In (5 times)
 
 ### 1. You Won't Believe What Happened While We Were Off Air... | C...
 
@@ -36,3 +36,19 @@ date: "2025-09-09"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1977);return false;">▶️ Play</a>
 
 > he saw Brian Harpole at Fort Huachuca. He felt he had almost certainly seen Brian Harpole
+
+### 4. BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331
+
+**Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
+**Timestamp:** [01:12:28](/episodes/ep-69A8TzAGHlU.md#t-01-12-28) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(4348);return false;">▶️ Play</a>
+
+> Mitch says the meeting concluded at 730 a.m.
+
+### 5. Update! Erika Did Not Go Home. Source Confirms AI Voice Tact...
+
+**Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
+**Timestamp:** [00:46:27](/episodes/ep-KpxIBWkNsSs.md#event-event-2025-09-09-mitch-snow-alleged-that-he-saw-brian-har-t-00-46-01) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2787);return false;">▶️ Play</a>
+
+> Brian Harpole he saw on the 9th and he was leaving the meeting on Fort Huachuca base

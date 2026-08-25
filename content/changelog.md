@@ -5,6 +5,32 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-08-25 08:13:49
+
+**Added 10 episode(s):**
+  - `-9MOUvgGyi4`: Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329
+  - `4DvYXBn_5JI`: September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337
+  - `69A8TzAGHlU`: BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331
+  - `7FS1tUeSfdE`: BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338
+  - `FFQ9675oqRI`: STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335
+  - `KpxIBWkNsSs`: Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336
+  - `eMtjzXkQrsU`: A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333
+  - `k1b1NDCrNFs`: Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334
+  - `qZ8RWfyuewQ`: TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330
+  - `uC_GjKU8rs8`: Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332
+**Added 187 new entity/entities**
+**Added 82 new event(s)**
+**Added 299 new relationship(s)**
+
+**Totals:**
+- Episodes: 116
+- Entities: 2963
+- Events: 1323
+- Claims: 1461
+- Relationships: 3123
+
+---
+
 ## 2026-08-24 23:44:59
 
 **Added 4 episode(s):**

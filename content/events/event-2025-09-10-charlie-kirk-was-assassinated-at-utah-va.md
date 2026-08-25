@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Charlie Kirk was assassinated at Utah Valley University.
 
-## Mentioned In (42 times)
+## Mentioned In (47 times)
 
 ### 1. You Won't Believe What Happened While We Were Off Air... | C...
 
@@ -348,3 +348,43 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(31);return false;">▶️ Play</a>
 
 > the original owner of the rifle that was found after Charlie Kirk was killed
+
+### 43. BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331
+
+**Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
+**Timestamp:** [00:38:14](/episodes/ep-69A8TzAGHlU.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-37-50) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2294);return false;">▶️ Play</a>
+
+> interested in getting to the truth. of what happened to Charlie Kirk on September 10th.
+
+### 44. A Tale of Two PR Disasters: Blake Lively & Turning Point USA...
+
+**Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
+**Timestamp:** [00:12:44](/episodes/ep-eMtjzXkQrsU.md#t-00-11-59) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(764);return false;">▶️ Play</a>
+
+> obviously, Charlie was murdered on September 10th.
+
+### 45. STAGED? Erika’s VIRAL White House Correspondents Moment Come...
+
+**Episode:** [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md)
+**Timestamp:** [00:17:58](/episodes/ep-FFQ9675oqRI.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-17-58) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1078);return false;">▶️ Play</a>
+
+> which we seem to have stepped fully into since the Charlie Kirk assassination
+
+### 46. Update! Erika Did Not Go Home. Source Confirms AI Voice Tact...
+
+**Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
+**Timestamp:** [00:25:30](/episodes/ep-KpxIBWkNsSs.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-25-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1530);return false;">▶️ Play</a>
+
+> had a conversation with him right after the Charlie Kirk assassination.
+
+### 47. BREAKING! The White House Attempted To Rescind This E-mail. ...
+
+**Episode:** [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md)
+**Timestamp:** [00:13:55](/episodes/ep-7FS1tUeSfdE.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-13-31) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(835);return false;">▶️ Play</a>
+
+> Your company founder and your boss is tragically assassinated in front of the entire world.

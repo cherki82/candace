@@ -1,6 +1,6 @@
 ---
 title: "Tax Network USA"
-description: "Tax Network USA (Organizations) - 82 mentions"
+description: "Tax Network USA (Organizations) - 88 mentions"
 id: "org-tax-network-usa"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-05-24">2025-09-16 · 01:05:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-tax-network-usa-t-00-33-15">2026-04-20 · 00:33:15</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>82</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-tax-network-usa-t-00-38-11">2026-05-11 · 00:38:11</a></strong></div>
+<div><span>Episodes</span><strong>27</strong></div>
+<div><span>Mentions</span><strong>88</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -60,6 +60,9 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-tax-network-usa-t-00-39-45" style="--pulse-height:20%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-org-tax-network-usa-t-00-50-59" style="--pulse-height:40%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-tax-network-usa-t-00-32-33" style="--pulse-height:40%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-org-tax-network-usa-t-01-19-18" style="--pulse-height:60%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 3 mentions" title="2026-04-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-tax-network-usa-t-00-54-50" style="--pulse-height:40%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-tax-network-usa-t-00-38-11" style="--pulse-height:20%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -89,6 +92,9 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-tax-network-usa-t-00-39-45) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-tax-network-usa-t-00-50-59) | 2 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-tax-network-usa-t-00-32-33) | 2 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-tax-network-usa-t-01-19-18) | 3 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-tax-network-usa-t-00-54-50) | 2 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-tax-network-usa-t-00-38-11) | 1 |
 
 </details>
 </section>
@@ -96,7 +102,40 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (82)</strong></summary>
+<summary><strong class="section-title">Raw mentions (88)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>
+
+**[00:38:11](/episodes/ep-KpxIBWkNsSs.md#ent-org-tax-network-usa-t-00-38-11)**
+> "call Tax Network USA"
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (2 mentions)</summary>
+
+**[00:55:17](/episodes/ep-eMtjzXkQrsU.md#ent-org-tax-network-usa-t-00-54-50)**
+> "So stop what you're doing and call Tax Network USA. With over 15 years in business, there has not been a tax case that they have not seen or resolved."
+
+**[00:55:45](/episodes/ep-eMtjzXkQrsU.md#ent-org-tax-network-usa-t-00-55-32)**
+> "...d, call 866-686-1651 or visit tnusa.com slash Candace. Again, that's tnusa.com slash ..."
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (3 mentions)</summary>
+
+**[01:19:18](/episodes/ep--9MOUvgGyi4.md#ent-org-tax-network-usa-t-01-19-18)**
+> "Also have to remind you guys about Tax Network USA, because maybe you owe back taxes or you've not filed tax returns or you have filed every year, but you still keep owing."
+
+**[01:20:15](/episodes/ep--9MOUvgGyi4.md#ent-org-tax-network-usa-t-01-20-01)**
+> "So do not wait for another IRS letter or a frozen bank account. Instead, call 866-686-1651 or visit TNUSA.com slash Candace (Candace Owens). Again, that's TNUSA.com slash Candace (Candace Owens)."
+
+**[01:19:46](/episodes/ep--9MOUvgGyi4.md#ent-org-tax-network-usa-t-01-19-18)**
+> "...op what you're doing and call Tax Network USA. With over 15 years in business, there hasn't bee..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (2 mentions)</summary>
@@ -467,11 +506,12 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:53:26](/episodes/ep-DdPjoy5W-wY.md#t-00-52-54): “stop what you're doing and call Tax Network USA.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:55:17](/episodes/ep-I0OaY6Gryqk.md#t-00-55-09): “this upcoming tax year with no plan in place. Stop what you're doing and call Tax Network USA.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:33:15](/episodes/ep-kaWtDuoY_ns.md#t-00-33-15): “Stop what you're doing and call Tax Network USA.”
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 01:19:46](/episodes/ep--9MOUvgGyi4.md#t-01-19-18): “Stop what you're doing and call Tax Network USA. With over 15 years in business, there hasn't been a tax case that they have not seen or resolved.”
 
 </details>
 
@@ -481,11 +521,12 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:53:26](/episodes/ep-DdPjoy5W-wY.md#t-00-52-54): “stop what you're doing and call Tax Network USA.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:55:17](/episodes/ep-I0OaY6Gryqk.md#t-00-55-09): “this upcoming tax year with no plan in place. Stop what you're doing and call Tax Network USA.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:33:15](/episodes/ep-kaWtDuoY_ns.md#t-00-33-15): “Stop what you're doing and call Tax Network USA.”
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 01:19:46](/episodes/ep--9MOUvgGyi4.md#t-01-19-18): “Stop what you're doing and call Tax Network USA. With over 15 years in business, there hasn't been a tax case that they have not seen or resolved.”
 
 </details>
 

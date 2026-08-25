@@ -1,6 +1,6 @@
 ---
 title: "Christ Is King"
-description: "Christ Is King (Concepts) - 15 mentions"
+description: "Christ Is King (Concepts) - 24 mentions"
 id: "concept-christ-is-king"
 type: "CONCEPT"
 aliases:
@@ -17,9 +17,9 @@ _Type: Concepts_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-37">2026-01-12 · 00:20:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-christ-is-king-t-00-46-05">2026-03-25 · 00:46:05</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-christ-is-king-t-00-41-14">2026-05-07 · 00:41:14</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -28,18 +28,21 @@ _Type: Concepts_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-37">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-christ-is-king-t-00-07-54">Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-37" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-christ-is-king-t-00-45-20" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-christ-is-king-t-00-57-33" style="--pulse-height:33%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-christ-is-king-t-00-34-40" style="--pulse-height:67%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-concept-christ-is-king-t-00-58-16" style="--pulse-height:67%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-christ-is-king-t-00-58-24" style="--pulse-height:67%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-christ-is-king-t-00-50-14" style="--pulse-height:33%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-christ-is-king-t-01-09-07" style="--pulse-height:33%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-christ-is-king-t-00-51-18" style="--pulse-height:33%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-christ-is-king-t-00-46-05" style="--pulse-height:33%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-37" style="--pulse-height:60%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-christ-is-king-t-00-45-20" style="--pulse-height:20%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-christ-is-king-t-00-57-33" style="--pulse-height:20%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-christ-is-king-t-00-34-40" style="--pulse-height:40%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-concept-christ-is-king-t-00-58-16" style="--pulse-height:40%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-christ-is-king-t-00-58-24" style="--pulse-height:40%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-christ-is-king-t-00-50-14" style="--pulse-height:20%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-christ-is-king-t-01-09-07" style="--pulse-height:20%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-christ-is-king-t-00-51-18" style="--pulse-height:20%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-christ-is-king-t-00-46-05" style="--pulse-height:20%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-christ-is-king-t-00-07-54" style="--pulse-height:100%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 5 mentions" title="2026-05-04 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-concept-christ-is-king-t-00-48-09" style="--pulse-height:60%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 3 mentions" title="2026-05-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-christ-is-king-t-00-41-14" style="--pulse-height:20%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +58,9 @@ _Type: Concepts_
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-concept-christ-is-king-t-01-09-07) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-concept-christ-is-king-t-00-51-18) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-christ-is-king-t-00-46-05) | 1 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-concept-christ-is-king-t-00-07-54) | 5 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-concept-christ-is-king-t-00-48-09) | 3 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-concept-christ-is-king-t-00-41-14) | 1 |
 
 </details>
 </section>
@@ -62,7 +68,49 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>
+
+**[00:41:14](/episodes/ep-FFQ9675oqRI.md#ent-concept-christ-is-king-t-00-41-14)**
+> "Christ is king indeed. Go Max. Madeline or Madeline, happy birth..."
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (3 mentions)</summary>
+
+**[00:48:26](/episodes/ep-k1b1NDCrNFs.md#ent-concept-christ-is-king-t-00-48-09)**
+> "My offense was that I said Christ is king. Is it deemed a worse internal offense to say Chr..."
+
+**[01:05:04](/episodes/ep-k1b1NDCrNFs.md#ent-concept-christ-is-king-t-01-04-33)**
+> "Christ is king and genocide is always wrong. Casually Crafted wr..."
+
+**[01:05:18](/episodes/ep-k1b1NDCrNFs.md#ent-concept-christ-is-king-t-01-05-18)**
+> "Christ is king. Yeah, that's our real battle against those who h..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (5 mentions)</summary>
+
+**[00:08:08](/episodes/ep-uC_GjKU8rs8.md#ent-concept-christ-is-king-t-00-07-54)**
+> "...ed by a staggering claim that Christ is king is anti-Semitic. People were going nuts."
+
+**[00:08:37](/episodes/ep-uC_GjKU8rs8.md#ent-concept-christ-is-king-t-00-08-37)**
+> "...d. It's a strong start to say Christ is king is problematic and we've got the money to make th..."
+
+**[00:16:02](/episodes/ep-uC_GjKU8rs8.md#ent-concept-christ-is-king-t-00-16-02)**
+> "... Andrew Klavan never made the Christ Is King video. You would have never heard from me. We can..."
+
+**[00:58:31](/episodes/ep-uC_GjKU8rs8.md#ent-concept-christ-is-king-t-00-57-56)**
+> "... fighting your battles and is Christ is King."
+
+**[00:59:08](/episodes/ep-uC_GjKU8rs8.md#ent-concept-christ-is-king-t-00-59-08)**
+> "...iest okay um cone film writes christ is king e machine writes candace will you tell us about y..."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>

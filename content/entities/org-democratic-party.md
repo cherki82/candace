@@ -1,6 +1,6 @@
 ---
 title: "Democratic Party"
-description: "Democratic Party (Organizations) - 6 mentions"
+description: "Democratic Party (Organizations) - 7 mentions"
 id: "org-democratic-party"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [Democratic National Committee](https://democrats.org/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-democratic-party-t-00-41-26">2026-01-05 · 00:41:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-democratic-party-t-00-33-58">2026-04-20 · 00:34:14</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-69A8TzAGHlU.md#t-00-58-45">2026-04-30 · 00:58:45</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -39,6 +39,7 @@ Source: [Democratic National Committee](https://democrats.org/)
 <a href="/episodes/ep-CMcktj3Egfo.md#t-00-13-34" style="--pulse-height:50%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#t-00-14-54" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-democratic-party-t-00-33-58" style="--pulse-height:100%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#t-00-58-45" style="--pulse-height:50%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Democratic National Committee](https://democrats.org/)
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#t-00-13-34) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#t-00-14-54) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-democratic-party-t-00-33-58) | 2 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#t-00-58-45) | 1 |
 
 </details>
 </section>
@@ -55,7 +57,15 @@ Source: [Democratic National Committee](https://democrats.org/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1 mentions)</summary>
+
+**[00:58:45](/episodes/ep-69A8TzAGHlU.md#t-00-58-45)**
+> "This political violence stems from a systemic demonization of him and his supporters by commentators, yes, by elected members of the Democrat Party and even some in the media."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (2 mentions)</summary>
@@ -102,7 +112,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Democratic Party (1)</strong></summary>
+<summary><strong class="section-title">Statements about Democratic Party (2)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1)</summary>
+
+- [00:58:45](/episodes/ep-69A8TzAGHlU.md#t-00-58-45) (Accusation) **Karoline Leavitt**: ["Political violence against Donald Trump stems from systematic demoniza..."](/statements/statement-60f3c76ad72a.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
 
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1)</summary>

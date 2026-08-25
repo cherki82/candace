@@ -356,7 +356,7 @@ youtube_url: "https://www.youtube.com/watch?v=QdM9jLwjwLw"
 - **2025-09-10**: [Charlie Kirk was assassinated at Utah Valley University.](/events/event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va.md)
 - **2025-09-10**: [Candace Owens said Andrew Kolvet arrived by plane in Provo on September 10 and collapsed crying into Erika Kirk's arms.](/events/event-2025-09-10-candace-owens-said-andrew-kolvet-arrived.md)
 - **2025-09-12**: [Erika Kirk said on television that Turning Point USA would continue and become bigger than ever.](/events/event-2025-09-12-erika-kirk-said-on-television-that-turni.md)
-- **2025-09-16**: [Erika Kirk held a Zoom call with Turning Point USA employees five days after Charlie Kirk's assassination.](/events/event-2025-09-16-erika-kirk-held-a-zoom-call-with-turning.md)
+- **2025-09-16**: [Erika Kirk held a Zoom call with Turning Point USA employees six days after Charlie Kirk's assassination.](/events/event-2025-09-16-erika-kirk-held-a-zoom-call-with-turning.md)
 - **2025-09-17**: [Turning Point USA publicly announced Erika Kirk as CEO and chair in a letter.](/events/event-2025-09-17-turning-point-usa-publicly-announced-eri.md)
 - **2025-09-22**: [Erika Kirk led a corporate-wide Turning Point USA Zoom call.](/events/event-2025-09-22-erika-kirk-led-a-corporate-wide-turning-.md)
 - **2025-09**: [The Turning Point USA board selected Erika Kirk as CEO and chair within about 72 hours of Charlie Kirk's death.](/events/event-2025-09-the-turning-point-usa-board-selected-eri.md)

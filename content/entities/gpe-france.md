@@ -1,6 +1,6 @@
 ---
 title: "France"
-description: "France (Places) - 277 mentions"
+description: "France (Places) - 289 mentions"
 id: "gpe-france"
 type: "GPE"
 aliases:
@@ -23,8 +23,8 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-france-t-00-01-27">2025-10-06 · 00:01:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-04-01-26">2026-08-14 · 04:01:41</a></strong></div>
-<div><span>Episodes</span><strong>36</strong></div>
-<div><span>Mentions</span><strong>277</strong></div>
+<div><span>Episodes</span><strong>40</strong></div>
+<div><span>Mentions</span><strong>289</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>33</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
@@ -70,6 +70,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-france-t-00-08-45" style="--pulse-height:8%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-france-t-01-03-27" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-france-t-00-23-53" style="--pulse-height:8%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-france-t-00-02-41" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 3 mentions" title="2026-04-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-gpe-france-t-00-15-05" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 3 mentions" title="2026-05-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-france-t-00-39-40" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-gpe-france-t-00-00-44" style="--pulse-height:8%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-21-59" style="--pulse-height:24%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -111,6 +115,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-france-t-00-08-45) | 2 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-gpe-france-t-01-03-27) | 2 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-france-t-00-23-53) | 2 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-france-t-00-02-41) | 3 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-france-t-00-15-05) | 3 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-france-t-00-39-40) | 4 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-france-t-00-00-44) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-21-59) | 17 |
 
 </details>
@@ -119,7 +127,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (277)</strong></summary>
+<summary><strong class="section-title">Raw mentions (289)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (17 mentions)</summary>
@@ -174,6 +182,62 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[04:01:41](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-04-01-26)**
 > "...ckly and to speak to me about France and to talk about this penguin receipt and my tim..."
+
+</details>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (4 mentions)</summary>
+
+**[00:39:40](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-france-t-00-39-40)**
+> "say it in French"
+
+**[00:40:11](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-france-t-00-40-11)**
+> "...original British English into French and then German."
+
+**[00:40:51](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-france-t-00-40-43)**
+> "We then cast two French actors with likeness matching their UK counterpar..."
+
+**[00:41:44](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-france-t-00-41-44)**
+> "...erlaps the narration: “But in French, German, or any other language, this is how we cr..."
+
+</details>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (2 mentions)</summary>
+
+**[00:01:12](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-france-t-00-00-44)**
+> "across the pond over in France"
+
+**[00:37:02](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-france-t-00-36-35)**
+> "... is what is happening over in France. And we got a return to our Brigitte (Brigitte Ma..."
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (3 mentions)</summary>
+
+**[00:15:11](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-france-t-00-15-05)**
+> "But that's not all that happened on the 18th, okay? Havas Media, which I should mention is a French company, LOL, French and Israel."
+
+**[00:39:47](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-france-t-00-39-30)**
+> "...Paris and Germany as well. In France, pardon."
+
+**[00:43:20](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-france-t-00-42-55)**
+> "...h company. There's also crazy France, Israel, and then like, well, right there is a co..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (3 mentions)</summary>
+
+**[00:02:51](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-france-t-00-02-41)**
+> "...r attack on the First Lady of France is despicable. I believe in this case, without ve..."
+
+**[01:13:24](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-france-t-01-13-24)**
+> "...y a great time you brought up france for me to tell you guys that um for my confirmati..."
+
+**[01:13:48](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-france-t-01-13-48)**
+> "...l roads kind of leads back to france when we talk about free masonry and things of tha..."
 
 </details>
 

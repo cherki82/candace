@@ -1,6 +1,6 @@
 ---
 title: "Colorado State University"
-description: "Colorado State University (Organizations) - 3 mentions"
+description: "Colorado State University (Organizations) - 4 mentions"
 id: "org-colorado-state-university"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [Colorado State University](https://www.colostate.edu/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-colorado-state-university-t-00-17-40">2026-02-11 · 00:17:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-colorado-state-university-t-00-35-33">2026-04-02 · 00:35:33</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-colorado-state-university-t-00-09-46">2026-05-13 · 00:09:46</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -37,6 +37,7 @@ Source: [Colorado State University](https://www.colostate.edu/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-colorado-state-university-t-00-17-40" style="--pulse-height:100%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-colorado-state-university-t-00-35-33" style="--pulse-height:50%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-colorado-state-university-t-00-09-46" style="--pulse-height:50%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Colorado State University](https://www.colostate.edu/)
 |---|---|---:|
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-colorado-state-university-t-00-17-40) | 2 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-colorado-state-university-t-00-35-33) | 1 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-org-colorado-state-university-t-00-09-46) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [Colorado State University](https://www.colostate.edu/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1 mentions)</summary>
+
+**[00:09:46](/episodes/ep-4DvYXBn_5JI.md#ent-org-colorado-state-university-t-00-09-46)**
+> "Colorado State University"
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
@@ -82,7 +92,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Colorado State University (1)</strong></summary>
+<summary><strong class="section-title">Statements about Colorado State University (2)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>
+
+- [00:07:03](/episodes/ep-4DvYXBn_5JI.md#t-00-07-03) (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk was scheduled to speak at Charis Bible..."](/statements/statement-aeba6aa27345.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charis Bible College](/entities/org-charis-bible-college.md)
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1)</summary>

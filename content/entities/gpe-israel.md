@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Israel (Places) - 1149 mentions"
+description: "Israel (Places) - 1255 mentions"
 id: "gpe-israel"
 type: "GPE"
 aliases:
@@ -26,11 +26,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-israel-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-03-57-56">2026-08-14 · 03:58:04</a></strong></div>
-<div><span>Episodes</span><strong>93</strong></div>
-<div><span>Mentions</span><strong>1,149</strong></div>
+<div><span>Episodes</span><strong>101</strong></div>
+<div><span>Mentions</span><strong>1,255</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>198</strong></div>
-<div><span>Relationships</span><strong>35</strong></div>
+<div><span>Statements about</span><strong>219</strong></div>
+<div><span>Relationships</span><strong>39</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -130,6 +130,14 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-gpe-israel-t-00-00-40" style="--pulse-height:21%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 12 mentions" title="2026-04-16 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-israel-t-00-38-00" style="--pulse-height:8%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-israel-t-00-17-09" style="--pulse-height:9%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 5 mentions" title="2026-04-21 · 5 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-35-53" style="--pulse-height:32%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 18 mentions" title="2026-04-22 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-gpe-israel-t-00-12-47" style="--pulse-height:16%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 9 mentions" title="2026-04-30 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-israel-t-00-27-26" style="--pulse-height:19%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 11 mentions" title="2026-05-04 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-00-40" style="--pulse-height:81%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 46 mentions" title="2026-05-05 · 46 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-israel-t-01-00-50" style="--pulse-height:8%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-gpe-israel-t-00-01-56" style="--pulse-height:25%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 14 mentions" title="2026-05-07 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-israel-t-00-00-00" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-gpe-israel-t-00-21-10" style="--pulse-height:8%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12" style="--pulse-height:68%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 39 mentions" title="2026-08-14 · 39 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -228,6 +236,14 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-israel-t-00-00-40) | 12 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-israel-t-00-38-00) | 1 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-israel-t-00-17-09) | 5 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-35-53) | 18 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-gpe-israel-t-00-12-47) | 9 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-israel-t-00-27-26) | 11 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-00-40) | 46 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-israel-t-01-00-50) | 1 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-gpe-israel-t-00-01-56) | 14 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-israel-t-00-00-00) | 4 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-israel-t-00-21-10) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12) | 39 |
 
 </details>
@@ -240,7 +256,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1149)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1255)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (39 mentions)</summary>
@@ -361,6 +377,364 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[02:25:09](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-25-09)**
 > "So it. He then loved other Israel."
+
+</details>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (4 mentions)</summary>
+
+**[00:00:16](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-israel-t-00-00-00)**
+> "ties to Israel"
+
+**[00:04:11](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-israel-t-00-03-42)**
+> "From, you guessed it, Israel right after October 7th. Yes, naturally, of cours..."
+
+**[00:04:29](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-israel-t-00-04-29)**
+> "Victor, you're alive in Israel. Give us a frontline report."
+
+**[00:05:25](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-israel-t-00-05-04)**
+> "... secure weaponry on behalf of Israel, on behalf of the IDF, allegedly, maybe?"
+
+</details>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (3 mentions)</summary>
+
+**[00:21:12](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-israel-t-00-21-10)**
+> "Israel's guy"
+
+**[00:21:22](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-israel-t-00-21-10)**
+> "...'s guy, everybody knows that. Israel's guy, Sergio Gor. Mysterious background. But so a ..."
+
+**[00:26:08](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-israel-t-00-25-42)**
+> "...nsors, so many of them had an Israel bend, and it just sort of makes you wonder."
+
+</details>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (14 mentions)</summary>
+
+**[00:01:56](/episodes/ep-FFQ9675oqRI.md#ent-gpe-israel-t-00-01-56)**
+> "... I just want to tell you guys Israel is going max on propaganda."
+
+**[00:02:11](/episodes/ep-FFQ9675oqRI.md#ent-gpe-israel-t-00-01-56)**
+> "...istered propaganda arm of the Israeli Foreign Ministry."
+
+**[00:04:21](/episodes/ep-FFQ9675oqRI.md#ent-gpe-israel-t-00-04-21)**
+> "...unted, wrapped with images of Israel or the Western Wall."
+
+**[00:04:52](/episodes/ep-FFQ9675oqRI.md#ent-gpe-israel-t-00-04-52)**
+> "... saying sensible things about Israel."
+
+**[00:18:42](/episodes/ep-FFQ9675oqRI.md#ent-gpe-israel-t-00-04-52)**
+> "...r the MIGA movement, the Make Israel Great Again movement, Trump (Donald Trump), every..."
+
+**[00:21:34](/episodes/ep-FFQ9675oqRI.md#ent-gpe-israel-t-00-21-19)**
+> "...id earlier up top of the show Israel is at war with American minds they really do beli..."
+
+**[00:22:01](/episodes/ep-FFQ9675oqRI.md#ent-gpe-israel-t-00-22-01)**
+> "...PAC to get them to prioritize Israeli interests over Americans, America's sons and daug..."
+
+**[00:22:26](/episodes/ep-FFQ9675oqRI.md#ent-gpe-israel-t-00-22-01)**
+> "...ind that sort of bribery from Israel. And so what do they want? They want him unseated..."
+
+**[00:23:41](/episodes/ep-FFQ9675oqRI.md#ent-gpe-israel-t-00-23-41)**
+> "...t least 95% has come from the Israeli lobby."
+
+**[00:23:53](/episodes/ep-FFQ9675oqRI.md#ent-gpe-israel-t-00-23-41)**
+> "...oalition, AIPAC, the American Israel Public Affairs Committee, Miriam Adelson, Paul Si..."
+
+**[00:24:24](/episodes/ep-FFQ9675oqRI.md#ent-gpe-israel-t-00-24-24)**
+> "literally an Israeli."
+
+**[00:24:27](/episodes/ep-FFQ9675oqRI.md#ent-gpe-israel-t-00-24-27)**
+> "...n policy and attitudes toward Israel."
+
+**[00:24:44](/episodes/ep-FFQ9675oqRI.md#ent-gpe-israel-t-00-24-27)**
+> "... called Christians United for Israel. They're really just another wing of AIPAC and RJ..."
+
+**[00:29:02](/episodes/ep-FFQ9675oqRI.md#ent-gpe-israel-t-00-29-02)**
+> "...for anybody that will support Israel."
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>
+
+**[01:00:58](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-israel-t-01-00-50)**
+> "...t influence for propaganda in israel"
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (46 mentions)</summary>
+
+**[00:01:05](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-00-40)**
+> "Speaking of which Israel, you would like, probably would like to know this, they are going to be upping their spend on American propaganda to almost a billion dollars this year."
+
+**[00:01:15](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-00-40)**
+> "...ng how many ties there are to Israel. and Charlie (Charlie Kirk) following his assassi..."
+
+**[00:01:24](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-01-24)**
+> "...n Netanyahu) already said it. Israel didn't do it. Remember?"
+
+**[00:13:08](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-13-08)**
+> "... internet rumors that somehow Israel is behind the Charlie Kirk murder."
+
+**[00:13:25](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-13-25)**
+> "insane. That's insane. Israel also changes the orbit of the moon. Israel pushes..."
+
+**[00:14:06](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-13-48)**
+> "...ber 18th, as we told you, the Israeli Foreign Ministry of Affairs via Havas Media decid..."
+
+**[00:14:21](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-14-21)**
+> "...fence your phone on behalf of Israel. And they're going to give you pro-Israel and ant..."
+
+**[00:14:51](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-14-21)**
+> "...They are going to do this for Israel."
+
+**[00:15:11](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-15-05)**
+> "...ench company, LOL, French and Israel."
+
+**[00:15:42](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-15-31)**
+> "...his. OK, presidents who asked Israel agents to do this ended up dead."
+
+**[00:16:04](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-15-31)**
+> "...hat JFK was pursuing. against Israel. Anyway, back to Clocktower X."
+
+**[00:16:36](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-16-15)**
+> "... to propagandize on behalf of Israel."
+
+**[00:17:13](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-16-57)**
+> "...they are going to inject this Israel propagandist narrative into."
+
+**[00:17:37](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-17-37)**
+> "...ere he's working on behalf of Israel."
+
+**[00:18:13](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-17-37)**
+> "And you're going to love Israel. That's what they're going to do. We are here to ..."
+
+**[00:18:20](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-18-20)**
+> "..., quite a switch up from what Israel thought. I wonder if there was a reason why they ..."
+
+**[00:18:29](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-18-20)**
+> "...working as a foreign agent of Israel."
+
+**[00:18:47](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-18-20)**
+> "...d see if they are criticizing Israel ever at all, no matter what Israel does, see if t..."
+
+**[00:19:00](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-19-00)**
+> "...fashioned viewpoint regarding israel because these documents show you that they have a..."
+
+**[00:19:32](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-19-00)**
+> "...ie (Charlie Kirk) a friend of Israel? Why is Bibi (Benjamin Netanyahu) all upset about..."
+
+**[00:19:50](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-19-45)**
+> "... be this remarkable friend of Israel."
+
+**[00:20:12](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-19-45)**
+> "...lie (Charlie Kirk) hugging an Israel flag and an American flag. It was disgusting. But..."
+
+**[00:20:22](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-19-45)**
+> "... Charlie (Charlie Kirk) loved Israel. He just died five minutes ago. Here he is. I AI'..."
+
+**[00:20:44](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-20-30)**
+> "...ke this feeling that actually Israel was planning to bury the truth. regarding Charlie..."
+
+**[00:21:04](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-20-30)**
+> "...lie Kirk) changed his mind on Israel in the end, that was very clearly a secret that t..."
+
+**[00:21:14](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-21-14)**
+> "...he never for a second thought israel did it megan kelly was like tyler robinson on a r..."
+
+**[00:21:48](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-21-14)**
+> "...lie Kirk) changed his mind on Israel."
+
+**[00:22:23](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-21-58)**
+> "...ing what more he could do for Israel. He just had my book in his hand and was like, pl..."
+
+**[00:22:37](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-21-58)**
+> "...n to these kids how wonderful Israel is."
+
+**[00:23:00](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-22-44)**
+> "...quickly? Why is he honking an Israeli flag?"
+
+**[00:26:39](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-26-27)**
+> "...s. He's just a mouthpiece for Israel, right?"
+
+**[00:30:15](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-30-00)**
+> "...s because this is this is the israeli um"
+
+**[00:30:40](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-30-40)**
+> "...). He's the Prime Minister of Israel."
+
+**[00:33:01](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-32-49)**
+> "... I would say was on behalf of Israel, the fumbling, she said, my first act is going to..."
+
+**[00:35:41](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-35-41)**
+> "...nts and you're giving them to Israel, you're good."
+
+**[00:35:54](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-35-41)**
+> "... right that might explain why israel"
+
+**[00:36:41](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-36-20)**
+> "...tice made it a safe space for Israel. Now, I'm assuming you probably need a timeline b..."
+
+**[00:37:36](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-37-36)**
+> "...pread propaganda on behalf of Israel."
+
+**[00:38:00](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-37-36)**
+> "... Josh Hammer and a rabbi from Israel."
+
+**[00:38:16](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-38-16)**
+> "...amin Netanyahu) declares that Israel did not kill Charlie Kirk."
+
+**[00:38:25](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-38-16)**
+> "... with FARA for geofencing and Israel propaganda."
+
+**[00:40:04](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-39-30)**
+> "...ars, I would say on behalf of Israel, but some would say that is a gratuitous understa..."
+
+**[00:43:20](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-42-55)**
+> "...y. There's also crazy France, Israel, and then like, well, right there is a combinatio..."
+
+**[01:01:20](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-01-01-20)**
+> "...id want to tell you guys that Israel's upping their propaganda to about a billion dollar..."
+
+**[01:01:46](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-01-01-46)**
+> "...they literally have companies israel has"
+
+**[00:39:23](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-israel-t-00-38-16)**
+> "...als. You can see the state of Israel Ministry of Foreign Affairs."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (11 mentions)</summary>
+
+**[00:27:39](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-israel-t-00-27-26)**
+> "...main issue. His main issue is Israel."
+
+**[00:27:50](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-israel-t-00-27-26)**
+> "...erybody over. Our support for Israel. Well, support for Israel is down all across the ..."
+
+**[00:35:19](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-israel-t-00-34-44)**
+> "...ynonymous with corruption for Israel, right?"
+
+**[00:35:36](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-israel-t-00-35-29)**
+> "...like it's the nation state of Israel?"
+
+**[00:35:42](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-israel-t-00-35-29)**
+> "...ith any corruption related to Israel, but her law firm is heavily involved in a lot of..."
+
+**[00:36:26](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-israel-t-00-36-07)**
+> "... the company, to be clear, is Israel's Ministry of Foreign Affairs. Their stated purpose..."
+
+**[00:37:02](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-israel-t-00-36-39)**
+> "Here's a Times of Israel article about that. This was published in October..."
+
+**[00:38:44](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-israel-t-00-38-44)**
+> "...gn adds a new prong part into israel's u.s communication blitz implementing a 1.5 millio..."
+
+**[00:39:13](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-israel-t-00-38-44)**
+> "...ve to give our tax dollars to Israel so that Israel can spend money to influence us. I..."
+
+**[00:45:56](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-israel-t-00-45-56)**
+> "to Israel and this sense this anger that they're losing the..."
+
+**[00:57:26](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-israel-t-00-57-12)**
+> "...at took all of the uranium to israel zalman like z-a-l-m-a-n is that correct i'm prett..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (9 mentions)</summary>
+
+**[00:12:47](/episodes/ep-69A8TzAGHlU.md#ent-gpe-israel-t-00-12-47)**
+> "unknown reason he begins the lawsuits and i'm talking like the first few pages with strong support for israel i guess that's mandatory candace is anti-semitic just even though Brian Harpole's not jewish i am not jewish charlie was not jewish she mentions this just kind of sporadically in a paragraph where he's painting this picture that i'm a conspiracy theorist they also mention we can bring this up here you on point 19 that I don't believe the moon landing."
+
+**[00:13:26](/episodes/ep-69A8TzAGHlU.md#ent-gpe-israel-t-00-13-26)**
+> "...hat random strong support for Israel right at the top, which is why also embedded is t..."
+
+**[00:13:45](/episodes/ep-69A8TzAGHlU.md#ent-gpe-israel-t-00-13-26)**
+> "...preamble. You know, he's with Israel. Okay, cool."
+
+**[00:13:53](/episodes/ep-69A8TzAGHlU.md#ent-gpe-israel-t-00-13-26)**
+> "... just want you to know I love Israel just saying that."
+
+**[00:50:59](/episodes/ep-69A8TzAGHlU.md#ent-gpe-israel-t-00-13-26)**
+> "... the headline in the Times of Israel headline, literally April 29th. I couldn't believ..."
+
+**[00:52:04](/episodes/ep-69A8TzAGHlU.md#ent-gpe-israel-t-00-51-44)**
+> "...conspiracy theories, accusing Israel of controlling the United States government."
+
+**[00:52:28](/episodes/ep-69A8TzAGHlU.md#ent-gpe-israel-t-00-52-28)**
+> "...tanic pedophiles who work for israel That's an anti-Semitic claim, okay?"
+
+**[00:52:53](/episodes/ep-69A8TzAGHlU.md#ent-gpe-israel-t-00-52-28)**
+> "...atanic pedophiles working for Israel were talking about Epstein and everyone who has d..."
+
+**[00:53:24](/episodes/ep-69A8TzAGHlU.md#ent-gpe-israel-t-00-53-08)**
+> "...ke Jeffrey Epstein worked for Israel. These are, this is abundantly true."
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (18 mentions)</summary>
+
+**[02:35:53](/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-35-53)**
+> "The woman went and bought her out of bondage, and so he still loved his wife who had disobeyed, and it's the same situation to look at with the Jews or Israel."
+
+**[01:43:11](/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-01-43-11)**
+> "... walking and he's saying well israel israel needs your guns and that's you know that's..."
+
+**[01:46:25](/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-01-46-25)**
+> "...at's great. 3,700 schools and Israel."
+
+**[02:03:25](/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-03-03)**
+> "...uh he's quite defensive about Israel is what I would say he's he is similarly how he"
+
+**[02:03:30](/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-03-03)**
+> "...uh he's quite defensive about israel is what i would say he's he is similarly how he"
+
+**[02:04:00](/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-03-48)**
+> "...id some one-off comment about Israel and he met a different Victor Marx, is what I wou..."
+
+**[02:31:56](/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-31-56)**
+> "...would bring up a topic. So on Israel, on israel um i'm"
+
+**[02:32:07](/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-31-56)**
+> "not against israel and"
+
+**[02:32:11](/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-31-56)**
+> "... a beef against the people of israel i don't have a beef against um"
+
+**[02:32:24](/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-31-56)**
+> "...esn't matter to me. You know, Israel is believers in Christ."
+
+**[02:33:13](/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-33-13)**
+> "...a of protecting the nation of Israel just as it was any other nation."
+
+**[02:33:43](/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-33-37)**
+> "...ere we're about to throw down Israel."
+
+**[02:34:34](/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-34-34)**
+> "... the that is what the flag of Israel is."
+
+**[02:35:27](/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-35-17)**
+> "...d that prostitute represented Israel, Hosea represented God or Jesus (Jesus Christ). A..."
+
+**[02:36:19](/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-35-53)**
+> "...And so in that manner, all of Israel will be saved."
+
+**[02:36:40](/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-36-29)**
+> "...hat's just a small portion of Israel."
+
+**[02:37:43](/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-37-43)**
+> "...truth and realizing that what Israel was, I do, I know that, I know that Charlie (Char..."
+
+**[02:38:12](/episodes/ep--9MOUvgGyi4.md#ent-gpe-israel-t-02-38-12)**
+> "still loved Israel. It's not the things that Israel"
 
 </details>
 
@@ -4192,12 +4566,19 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Employs (1)</summary>
+<summary>Employs (2)</summary>
 
 - **[Benjamin Gantz](/entities/person-benjamin-gantz.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:46:53](/episodes/ep-i8m_6D4QGmk.md#t-00-46-26): “Here is Israel's defense minister, Benny Gantz, discussing that he's not going to exclude that need. Take a listen.”
+
+</details>
+
+- **[Salem Media Group](/entities/org-salem-media-group.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:18:29](/episodes/ep-eMtjzXkQrsU.md#t-00-18-20): “I just want to really underscore here that it is entirely appropriate for us to now state that Salem Media is working as a foreign agent of Israel.”
 
 </details>
 
@@ -4217,6 +4598,18 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:25:39](/episodes/ep-mKXdKV-OBog.md#t-00-25-28): “David Friedman, the former U.S. ambassador to Israel”
+
+</details>
+
+</details>
+
+<details>
+<summary>Has Prime Minister (1)</summary>
+
+- **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:30:40](/episodes/ep-eMtjzXkQrsU.md#t-00-30-00): “The Ministry of Foreign Affairs. Yeah, you know who would be in charge of that? Bibi (Benjamin Netanyahu). He's the Prime Minister of Israel.”
 
 </details>
 
@@ -4284,12 +4677,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <summary>Target Of Criticism From (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Myron Gaines x Candace Owens @ 00:42:03](/episodes/ep-2T39-oADLj0.md#t-00-42-00): “between you tucker nick uh they're attacking all three of you guys saying oh you guys are anti-semites and you guys are pushing this whole thing and i and i give credit because you three have done an incredible job of you know awareing the american public on this topic uh when it comes to israel's control of the middle east what they're doing over there how they've been able to get away with this for so long killing people and no one knowing and you know they've been targeting you guys quite a bit uh and i see that you know there's been a bunch of drama with megan kelly and ben shapiro and everything else like that what are your thoughts on the entire on the situation because like you know anytime they mention dr you're right there right when it comes to the criticism of israel yeah”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:41:20](/episodes/ep-i8m_6D4QGmk.md#t-00-41-20): “It's always peace until Israel gets involved. They don't know peace. They don't want peace.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:48:31](/episodes/ep-ZzAT2xijKGQ.md#t-00-48-05): “Our country, like I said, is in decline and it's very obvious that the priority is just to serve Israel and that will be Trump (Donald J. Trump)'s legacy, sadly.”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:35:59](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-54): “I think by now the majority of Americans understand that the true death cult is Israel. You can't fill them to the brim with enough murder.”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:39:13](/episodes/ep-uC_GjKU8rs8.md#t-00-38-44): “You got to love it, right? We have to give our tax dollars to Israel so that Israel can spend money to influence us. I don't know. It just feels wrong.”
 
 </details>
 
@@ -4318,7 +4712,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Referenced By (18)</summary>
+<summary>Referenced By (20)</summary>
 
 - **[Ian Carroll](/entities/person-ian-carroll.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -4370,12 +4764,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** critic of this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Myron Gaines x Candace Owens @ 00:42:03](/episodes/ep-2T39-oADLj0.md#t-00-42-00): “between you tucker nick uh they're attacking all three of you guys saying oh you guys are anti-semites and you guys are pushing this whole thing and i and i give credit because you three have done an incredible job of you know awareing the american public on this topic uh when it comes to israel's control of the middle east what they're doing over there how they've been able to get away with this for so long killing people and no one knowing and you know they've been targeting you guys quite a bit uh and i see that you know there's been a bunch of drama with megan kelly and ben shapiro and everything else like that what are your thoughts on the entire on the situation because like you know anytime they mention dr you're right there right when it comes to the criticism of israel yeah”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:41:20](/episodes/ep-i8m_6D4QGmk.md#t-00-41-20): “It's always peace until Israel gets involved. They don't know peace. They don't want peace.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:48:31](/episodes/ep-ZzAT2xijKGQ.md#t-00-48-05): “Our country, like I said, is in decline and it's very obvious that the priority is just to serve Israel and that will be Trump (Donald J. Trump)'s legacy, sadly.”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:35:59](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-54): “I think by now the majority of Americans understand that the true death cult is Israel. You can't fill them to the brim with enough murder.”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:39:13](/episodes/ep-uC_GjKU8rs8.md#t-00-38-44): “You got to love it, right? We have to give our tax dollars to Israel so that Israel can spend money to influence us. I don't know. It just feels wrong.”
 
 </details>
 
@@ -4422,6 +4817,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 </details>
 
+- **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** prime minister of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:30:40](/episodes/ep-eMtjzXkQrsU.md#t-00-30-00): “The Ministry of Foreign Affairs. Yeah, you know who would be in charge of that? Bibi (Benjamin Netanyahu). He's the Prime Minister of Israel.”
+
+</details>
+
 - **[Michele Bachmann](/entities/person-michele-bachmann.md)** supporter of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -4451,12 +4853,19 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 </details>
 
+- **[Salem Media Group](/entities/org-salem-media-group.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:18:29](/episodes/ep-eMtjzXkQrsU.md#t-00-18-20): “I just want to really underscore here that it is entirely appropriate for us to now state that Salem Media is working as a foreign agent of Israel.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel (198)</strong></summary>
+<summary><strong class="section-title">Statements about Israel (219)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2)</summary>
@@ -4466,6 +4875,99 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [02:37:26](/episodes/ep-nPhCKwJ6ye8.md#t-02-37-26) (Prediction) **Candace Owens**: ["Candace Owens predicts that Israel will ultimately be found to have be..."](/statements/statement-d5c74ed071c8.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (2)</summary>
+
+- [00:04:33](/episodes/ep-4DvYXBn_5JI.md#t-00-04-29) (Claim) **Victor Marx** (via quoted speech): ["Victor Marx said his relationships with special-forces commanders in I..."](/statements/statement-e64379de8d2c.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md)
+
+- [00:05:25](/episodes/ep-4DvYXBn_5JI.md#t-00-05-04) (Accusation) **Candace Owens** (via paraphrase): ["Is it fair, at least after listening to that, to suggest that Corby Ha..."](/statements/statement-7d6f9b1396b3.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Corby Hall](/entities/person-corby-hall.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md)
+
+</details>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (2)</summary>
+
+- [00:22:01](/episodes/ep-FFQ9675oqRI.md#t-00-22-01) (Accusation) **Candace Owens**: ["Candace Owens accused AIPAC of giving members of Congress money so the..."](/statements/statement-fe64c89c0ecd.md)
+  - Also about: [American Israel Public Affairs Committee](/entities/org-aipac.md), [United States](/entities/gpe-united-states.md)
+
+- [00:24:27](/episodes/ep-FFQ9675oqRI.md#t-00-24-27) (Claim) **Thomas Massie** (via quoted speech): ["Thomas Massie said Miriam Adelson had given Donald Trump more than 200..."](/statements/statement-7e49e864e0e7.md)
+  - Also about: [Miriam Adelson](/entities/person-miriam-adelson.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (13)</summary>
+
+- [00:01:05](/episodes/ep-eMtjzXkQrsU.md#t-00-00-40) (Claim) **Candace Owens**: ["Israel is increasing its American propaganda spending to almost one bi..."](/statements/statement-cd820efd9e74.md)
+  - Also about: [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
+
+- [00:13:25](/episodes/ep-eMtjzXkQrsU.md#t-00-13-25) (Claim) **Benjamin Netanyahu** (via quoted speech): ["The claim that Israel was behind Charlie Kirk's murder is insane, absu..."](/statements/statement-3136d5878be3.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:13:48](/episodes/ep-eMtjzXkQrsU.md#t-00-13-48) (Claim) **Anonymous Source #3 (Ep eMtjzXkQrsU)** (via read message): ["Benjamin Netanyahu's office requested that Greta Van Susteren's team a..."](/statements/statement-aee2875084dc.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Greta Van Susteren](/entities/person-greta-van-susteren.md)
+
+- [00:14:43](/episodes/ep-eMtjzXkQrsU.md#t-00-14-21) (Citation) **Candace Owens**: ["The church-targeting program is disclosed in a FARA filing and operate..."](/statements/statement-591c18827632.md)
+  - Also about: [Show Faith by Works, LLC](/entities/org-show-faith-by-works.md), [Foreign Agents Registration Act](/entities/law-fara.md)
+
+- [00:16:36](/episodes/ep-eMtjzXkQrsU.md#t-00-16-15) (Citation) **Candace Owens**: ["Clock Tower X's filings say it will conduct a nationwide media campaig..."](/statements/statement-d8e27545b418.md)
+  - Also about: [Clock Tower X LLC](/entities/org-clock-tower-x-llc.md), [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
+
+- [00:17:29](/episodes/ep-eMtjzXkQrsU.md#t-00-16-57) (Claim) **Candace Owens**: ["Brad Parscale became Salem Media Network's chief strategy officer in J..."](/statements/statement-a95e73f8548d.md)
+  - Also about: [Brad Parscale](/entities/person-brad-parscale.md), [Salem Media Group](/entities/org-salem-media-group.md), [Clock Tower X LLC](/entities/org-clock-tower-x-llc.md)
+
+- [00:17:45](/episodes/ep-eMtjzXkQrsU.md#t-00-17-37) (Citation) **Candace Owens**: ["The FARA documents describe integrating narrative messaging into Salem..."](/statements/statement-b223c62de0d1.md)
+  - Also about: [Salem Media Group](/entities/org-salem-media-group.md), [Clock Tower X LLC](/entities/org-clock-tower-x-llc.md), [Foreign Agents Registration Act](/entities/law-fara.md)
+
+- [00:18:29](/episodes/ep-eMtjzXkQrsU.md#t-00-18-20) (Accusation) **Candace Owens**: ["Salem Media is working as a foreign agent of Israel."](/statements/statement-0931ed488942.md)
+  - Also about: [Salem Media Group](/entities/org-salem-media-group.md)
+
+- [00:18:47](/episodes/ep-eMtjzXkQrsU.md#t-00-18-20) (Citation) **Candace Owens**: ["Salem Media has a financial relationship structured to benefit Israel,..."](/statements/statement-30409c668f09.md)
+  - Also about: [Salem Media Group](/entities/org-salem-media-group.md)
+
+- [00:20:44](/episodes/ep-eMtjzXkQrsU.md#t-00-20-30) (Opinion) **Candace Owens**: ["Israel was planning to bury the truth about Charlie Kirk's changing vi..."](/statements/statement-b55558fbe590.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:36:41](/episodes/ep-eMtjzXkQrsU.md#t-00-36-20) (Accusation) **Candace Owens**: ["The Trump Department of Justice made the United States a safe space fo..."](/statements/statement-f61188b15e19.md)
+  - Also about: [United States Department of Justice](/entities/org-united-states-department-of-justice.md)
+
+- [00:37:36](/episodes/ep-eMtjzXkQrsU.md#t-00-37-36) (Citation) **Candace Owens**: ["Dhillon Law Group began drafting paperwork for Havas Media on August 2..."](/statements/statement-2b7ed7aa0fe6.md)
+  - Also about: [Dhillon Law Group](/entities/org-dhillon-law-group.md), [Havas Media Germany GmbH](/entities/org-havas-media-germany.md), [Clock Tower X LLC](/entities/org-clock-tower-x-llc.md)
+
+- [01:01:28](/episodes/ep-eMtjzXkQrsU.md#t-01-01-20) (Accusation) **Candace Owens**: ["Israel uses bot campaigns and fake accounts to flood comment sections ..."](/statements/statement-0f847e35cb17.md)
+  - Also about: [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1)</summary>
+
+- [00:57:26](/episodes/ep-uC_GjKU8rs8.md#t-00-57-12) (Accusation) **Candace Owens**: ["Was Zalman Shapiro the one who took all of the uranium to Israel? Cand..."](/statements/statement-bd7263012345.md)
+  - Also about: [Zalman Mordecai Shapiro](/entities/person-zalman-shapiro.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2)</summary>
+
+- [00:52:04](/episodes/ep-69A8TzAGHlU.md#t-00-51-44) (Accusation) **United States Congress** (via quoted document): ["A proposed U.S. House resolution says Candace Owens spread conspiracy ..."](/statements/statement-e31814354561.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [United States](/entities/gpe-united-states.md)
+
+- [00:53:24](/episodes/ep-69A8TzAGHlU.md#t-00-53-08) (Claim) **Candace Owens**: ["Jeffrey Epstein worked for Israel."](/statements/statement-02d27f4e1fef.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (1)</summary>
+
+- [02:33:13](/episodes/ep--9MOUvgGyi4.md#t-02-33-13) (Opinion) **Corby Hall**: ["Corby Hall said Israel should be protected defensively like any other ..."](/statements/statement-fb5cf1ff93f9.md)
+  - Also about: [Corby Hall](/entities/person-corby-hall.md)
 
 </details>
 

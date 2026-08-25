@@ -1,6 +1,6 @@
 ---
 title: "Milo Yiannopoulos"
-description: "Milo Yiannopoulos (People) - 20 mentions"
+description: "Milo Yiannopoulos (People) - 22 mentions"
 id: "person-milo-yiannopoulos"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-milo-yiannopoulos-t-00-19-43">2025-11-04 · 00:20:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-milo-yiannopoulos-t-00-44-37">2026-04-20 · 00:44:37</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-person-milo-yiannopoulos-t-00-28-22">2026-05-07 · 00:28:30</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -45,6 +45,8 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-milo-yiannopoulos-t-00-07-07" style="--pulse-height:75%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#t-00-55-14" style="--pulse-height:25%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-milo-yiannopoulos-t-00-40-10" style="--pulse-height:50%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#t-01-02-53" style="--pulse-height:25%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-person-milo-yiannopoulos-t-00-28-22" style="--pulse-height:25%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +62,8 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-milo-yiannopoulos-t-00-07-07) | 3 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#t-00-55-14) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-milo-yiannopoulos-t-00-40-10) | 2 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#t-01-02-53) | 1 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-milo-yiannopoulos-t-00-28-22) | 1 |
 
 </details>
 </section>
@@ -67,7 +71,23 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>
+
+**[00:28:30](/episodes/ep-FFQ9675oqRI.md#ent-person-milo-yiannopoulos-t-00-28-22)**
+> "...ok kind of real uh with Milo (Milo Yiannopoulos) because she's just claiming that he's gay Milo (..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[01:02:53](/episodes/ep-qZ8RWfyuewQ.md#t-01-02-53)**
+> "... secret gay relationship with Milo proof presented was an AI photo of him wearing a ..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (2 mentions)</summary>
@@ -240,12 +260,19 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 </details>
 
 <details>
-<summary>Interviewed By (1)</summary>
+<summary>Interviewed By (2)</summary>
 
 - **[Tim Pool](/entities/person-tim-pool.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:24:45](/episodes/ep-Kmt6HgRjckU.md#t-00-24-33): “So he hosted Milo on his show.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:02:53](/episodes/ep-qZ8RWfyuewQ.md#t-01-02-53): “George (George Farmer) had never even met Milo at all not once in London until the day that I interviewed him here in this house”
 
 </details>
 
@@ -264,7 +291,7 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (8)</summary>
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)** accused by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -305,6 +332,13 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:24:45](/episodes/ep-Kmt6HgRjckU.md#t-00-24-33): “So he hosted Milo on his show.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:02:53](/episodes/ep-qZ8RWfyuewQ.md#t-01-02-53): “George (George Farmer) had never even met Milo at all not once in London until the day that I interviewed him here in this house”
 
 </details>
 
@@ -355,7 +389,15 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Milo Yiannopoulos (3)</strong></summary>
+<summary><strong class="section-title">Statements about Milo Yiannopoulos (4)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1)</summary>
+
+- [00:28:30](/episodes/ep-FFQ9675oqRI.md#t-00-28-22) (Accusation) **Candace Owens**: ["Candace Owens accused House Inhabit of posting a fake AI image of her ..."](/statements/statement-bdf00dbc7bd6.md)
+  - Also about: [House Inhabit](/entities/work-house-inhabit.md), [George Farmer](/entities/person-george-farmer.md), [Artificial intelligence](/entities/concept-artificial-intelligence.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1)</summary>

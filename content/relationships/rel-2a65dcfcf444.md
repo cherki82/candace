@@ -11,7 +11,11 @@ object: "person-jesse-watters"
 
 ## [Erika Kirk](/entities/person-erika-kirk) interviewed by [Jesse Watters](/entities/person-jesse-watters)
 
-### Evidence (7 mentions)
+### Evidence (8 mentions)
+
+**[September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI)**
+
+- [00:09:58](/episodes/ep-4DvYXBn_5JI#t-00-09-58): _Erika confirmed that in her sit down with Jesse Watters, but he never made it obviously to either one of those events._
 
 **[EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg)**
 

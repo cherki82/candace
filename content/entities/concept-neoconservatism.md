@@ -1,6 +1,6 @@
 ---
 title: "Neoconservatism"
-description: "Neoconservatism (Concepts) - 22 mentions"
+description: "Neoconservatism (Concepts) - 24 mentions"
 id: "concept-neoconservatism"
 type: "CONCEPT"
 aliases:
@@ -23,9 +23,9 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-neoconservatism-t-00-28-15">2026-01-07 · 00:28:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-concept-neoconservatism-t-00-52-49">2026-03-26 · 00:52:49</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-neoconservatism-t-01-16-00">2026-04-29 · 01:16:00</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -41,6 +41,7 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-neoconservatism-t-00-05-05" style="--pulse-height:30%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 3 mentions" title="2026-03-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-neoconservatism-t-00-01-46" style="--pulse-height:100%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 10 mentions" title="2026-03-17 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-concept-neoconservatism-t-00-43-49" style="--pulse-height:30%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 3 mentions" title="2026-03-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-neoconservatism-t-00-34-56" style="--pulse-height:20%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-concept-neoconservatism-t-00-05-05) | 3 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-concept-neoconservatism-t-00-01-46) | 10 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-concept-neoconservatism-t-00-43-49) | 3 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-neoconservatism-t-00-34-56) | 2 |
 
 </details>
 </section>
@@ -58,7 +60,18 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (2 mentions)</summary>
+
+**[00:35:10](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-neoconservatism-t-00-34-56)**
+> "Neocons, same thing, hitting hard with the repeat lecture..."
+
+**[01:16:00](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-neoconservatism-t-01-16-00)**
+> "...vestigation that includes the neocons who are now just full on lecturing us at all time..."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (3 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "The Amazing Race"
-description: "The Amazing Race (Works & Media) - 5 mentions"
+description: "The Amazing Race (Works & Media) - 6 mentions"
 id: "work-the-amazing-race"
 type: "WORK"
 aliases:
@@ -22,9 +22,9 @@ Source: [The Amazing Race — CBS Entertainment](https://www.paramountpressexpre
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-work-the-amazing-race-t-00-39-57">2026-02-27 · 00:40:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#ent-work-the-amazing-race-t-00-10-26">2026-03-11 · 00:10:26</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#t-00-17-21">2026-05-11 · 00:17:49</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [The Amazing Race — CBS Entertainment](https://www.paramountpressexpre
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-work-the-amazing-race-t-00-39-57" style="--pulse-height:33%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-work-the-amazing-race-t-00-33-45" style="--pulse-height:100%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 3 mentions" title="2026-03-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-work-the-amazing-race-t-00-10-26" style="--pulse-height:33%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#t-00-17-21" style="--pulse-height:33%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [The Amazing Race — CBS Entertainment](https://www.paramountpressexpre
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-work-the-amazing-race-t-00-39-57) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-work-the-amazing-race-t-00-33-45) | 3 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-work-the-amazing-race-t-00-10-26) | 1 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#t-00-17-21) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [The Amazing Race — CBS Entertainment](https://www.paramountpressexpre
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>
+
+**[00:17:49](/episodes/ep-KpxIBWkNsSs.md#t-00-17-21)**
+> "Great American Race"
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1 mentions)</summary>

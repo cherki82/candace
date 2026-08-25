@@ -1,6 +1,6 @@
 ---
 title: "Brigitte Macron"
-description: "Brigitte Macron (People) - 222 mentions"
+description: "Brigitte Macron (People) - 240 mentions"
 id: "person-brigitte-macron"
 type: "PERSON"
 aliases:
@@ -25,10 +25,10 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#t-00-19-31">2025-09-11 · 00:19:57</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-brigitte-macron-t-02-20-16">2026-08-14 · 02:22:25</a></strong></div>
-<div><span>Episodes</span><strong>48</strong></div>
-<div><span>Mentions</span><strong>222</strong></div>
+<div><span>Episodes</span><strong>53</strong></div>
+<div><span>Mentions</span><strong>240</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>31</strong></div>
+<div><span>Statements about</span><strong>34</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -84,6 +84,11 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-brigitte-macron-t-00-09-34" style="--pulse-height:20%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 9 mentions" title="2026-04-10 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-brigitte-macron-t-00-03-00" style="--pulse-height:9%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 4 mentions" title="2026-04-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-brigitte-macron-t-00-26-34" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-brigitte-macron-t-00-03-22" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 3 mentions" title="2026-04-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-brigitte-macron-t-00-04-16" style="--pulse-height:8%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 3 mentions" title="2026-04-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#t-00-00-00" style="--pulse-height:8%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-brigitte-macron-t-00-00-00" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-brigitte-macron-t-00-00-44" style="--pulse-height:23%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 10 mentions" title="2026-05-13 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-brigitte-macron-t-02-20-16" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -137,6 +142,11 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-brigitte-macron-t-00-09-34) | 9 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-brigitte-macron-t-00-03-00) | 4 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-brigitte-macron-t-00-26-34) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-brigitte-macron-t-00-03-22) | 3 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-person-brigitte-macron-t-00-04-16) | 3 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#t-00-00-00) | 1 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-brigitte-macron-t-00-00-00) | 1 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-brigitte-macron-t-00-00-44) | 10 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-brigitte-macron-t-02-20-16) | 2 |
 
 </details>
@@ -145,7 +155,7 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (222)</strong></summary>
+<summary><strong class="section-title">Raw mentions (240)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -155,6 +165,85 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 
 **[02:22:25](/episodes/ep-nPhCKwJ6ye8.md#ent-person-brigitte-macron-t-02-20-16)**
 > "...ke I can't hack into Emmanuel Macron's bank accounts and say whether or not the informat..."
+
+</details>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (10 mentions)</summary>
+
+**[00:01:12](/episodes/ep-7FS1tUeSfdE.md#ent-person-brigitte-macron-t-00-00-44)**
+> "Brigitte (Brigitte Macron)"
+
+**[00:34:24](/episodes/ep-7FS1tUeSfdE.md#ent-person-brigitte-macron-t-00-34-19)**
+> "...lap um heard around the world brigitte macron massive hands it's a thing it's a like that's the..."
+
+**[00:35:19](/episodes/ep-7FS1tUeSfdE.md#ent-person-brigitte-macron-t-00-34-52)**
+> "...ine here that we can show you Brigitte Macron slapped husband over text messages to an actress."
+
+**[00:35:34](/episodes/ep-7FS1tUeSfdE.md#ent-person-brigitte-macron-t-00-35-34)**
+> "..., like right on its face that Brigitte Macron and Emmanuel Macron are arguing because he's text..."
+
+**[00:35:49](/episodes/ep-7FS1tUeSfdE.md#ent-person-brigitte-macron-t-00-35-34)**
+> "...king, you're right, Brigitte (Brigitte Macron) did give him the business, like, you know, shove..."
+
+**[00:37:02](/episodes/ep-7FS1tUeSfdE.md#ent-person-brigitte-macron-t-00-36-35)**
+> "...got a return to our Brigitte (Brigitte Macron) series and, you know, just got court approaching..."
+
+**[00:37:14](/episodes/ep-7FS1tUeSfdE.md#ent-person-brigitte-macron-t-00-37-14)**
+> "...o it. I hope me and Brigitte (Brigitte Macron) get to meet one day in person."
+
+**[00:37:25](/episodes/ep-7FS1tUeSfdE.md#ent-person-brigitte-macron-t-00-37-14)**
+> "And Brigitte (Brigitte Macron) Doll needs to be in frame, guys. We got to put B..."
+
+**[00:37:30](/episodes/ep-7FS1tUeSfdE.md#ent-person-brigitte-macron-t-00-37-14)**
+> "...(Blake Neff). I got Brigitte (Brigitte Macron). These are the various items that we collect in ..."
+
+**[00:39:42](/episodes/ep-7FS1tUeSfdE.md#ent-person-brigitte-macron-t-00-39-15)**
+> "Brigitte (Brigitte Macron)! Brigitte (Brigitte Macron)! There we go. Brigit..."
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1 mentions)</summary>
+
+**[00:00:33](/episodes/ep-eMtjzXkQrsU.md#ent-person-brigitte-macron-t-00-00-00)**
+> "Ooh, it was much deeper than that. In many ways, it was a precursor to every theme that we have discussed since from Brigitte."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
+
+**[00:00:20](/episodes/ep-uC_GjKU8rs8.md#t-00-00-00)**
+> "hiding money from the Macrons"
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (3 mentions)</summary>
+
+**[00:04:34](/episodes/ep-69A8TzAGHlU.md#ent-person-brigitte-macron-t-00-04-16)**
+> "I don't believe I can sue Trump for thinking Brigitte is the most beautiful woman in the world."
+
+**[00:31:49](/episodes/ep-69A8TzAGHlU.md#ent-person-brigitte-macron-t-00-31-49)**
+> "...go oh well like case in point brigitte said i was a dual citizen of the uk suddenly peop..."
+
+**[01:08:51](/episodes/ep-69A8TzAGHlU.md#ent-person-brigitte-macron-t-01-08-51)**
+> "...tely untrue hiding money from brigitte here is what's happening like they were trying to..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (3 mentions)</summary>
+
+**[00:03:22](/episodes/ep-qZ8RWfyuewQ.md#ent-person-brigitte-macron-t-00-03-22)**
+> "...serted that I was uglier than Brigitte, that actually between the two of us, it's not ev..."
+
+**[01:03:20](/episodes/ep-qZ8RWfyuewQ.md#ent-person-brigitte-macron-t-01-02-53)**
+> "... hiding money in a trust from Brigitte. That, again, is just showing legal stupidity. Yo..."
+
+**[01:13:24](/episodes/ep-qZ8RWfyuewQ.md#ent-person-brigitte-macron-t-01-13-24)**
+> "...hat i write in my phone about brigitte like it's just yeah that's just there's there's a..."
 
 </details>
 
@@ -1102,9 +1191,10 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 </details>
 
 - **[Emmanuel Macron](/entities/person-emmanuel-macron.md)** married to this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:32:35](/episodes/ep-DYD_QHMPwqM.md#t-00-32-21): “His trigger is anybody that discusses his wife ... Any woman looks at Brigitte (Brigitte Macron)”
+- [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:35:19](/episodes/ep-7FS1tUeSfdE.md#t-00-34-52): “And there's a New Times headline here that we can show you Brigitte Macron slapped husband over text messages to an actress. So everybody kind of knows Emmanuel Macron's gay.”
 
 </details>
 
@@ -1128,7 +1218,26 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brigitte Macron (31)</strong></summary>
+<summary><strong class="section-title">Statements about Brigitte Macron (34)</strong></summary>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (2)</summary>
+
+- [00:35:19](/episodes/ep-7FS1tUeSfdE.md#t-00-34-52) (Claim) **The New York Times** (via quoted article): ["Brigitte Macron slapped her husband over text messages to an actress."](/statements/statement-b2ddc838a4b2.md)
+  - Also about: [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Golshifteh Farahani](/entities/person-golshifteh-farahani.md)
+
+- [00:36:35](/episodes/ep-7FS1tUeSfdE.md#t-00-36-35) (Claim) **Golshifteh Farahani** (via quoted article): ["Golshifteh Farahani denied rumors of an affair with Emmanuel Macron."](/statements/statement-e20f7e724bd2.md)
+  - Also about: [Golshifteh Farahani](/entities/person-golshifteh-farahani.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md)
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1)</summary>
+
+- [00:02:41](/episodes/ep-qZ8RWfyuewQ.md#t-00-02-41) (Opinion) **Donald J. Trump** (via quoted post): ["Donald Trump said Candace Owens's standing had fallen, called her atta..."](/statements/statement-5b7adb4a34a5.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1)</summary>

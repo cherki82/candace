@@ -1,6 +1,6 @@
 ---
 title: "The Truman Show"
-description: "The Truman Show (Works & Media) - 10 mentions"
+description: "The Truman Show (Works & Media) - 11 mentions"
 id: "work-the-truman-show"
 type: "WORK"
 aliases:
@@ -22,9 +22,9 @@ Source: [The Truman Show - Paramount Pictures](https://www.paramountpictures.com
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-work-the-truman-show-t-00-37-35">2025-09-30 · 00:37:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#ent-work-the-truman-show-t-00-40-32">2026-02-05 · 00:40:54</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-work-the-truman-show-t-00-01-45">2026-05-13 · 00:01:48</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -41,6 +41,7 @@ Source: [The Truman Show - Paramount Pictures](https://www.paramountpictures.com
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-work-the-truman-show-t-00-13-34" style="--pulse-height:33%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-work-the-truman-show-t-00-00-00" style="--pulse-height:100%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 3 mentions" title="2026-01-27 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-work-the-truman-show-t-00-40-32" style="--pulse-height:33%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-work-the-truman-show-t-00-01-45" style="--pulse-height:33%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [The Truman Show - Paramount Pictures](https://www.paramountpictures.com
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-work-the-truman-show-t-00-13-34) | 1 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-work-the-truman-show-t-00-00-00) | 3 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-work-the-truman-show-t-00-40-32) | 1 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-work-the-truman-show-t-00-01-45) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [The Truman Show - Paramount Pictures](https://www.paramountpictures.com
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1 mentions)</summary>
+
+**[00:01:48](/episodes/ep-7FS1tUeSfdE.md#ent-work-the-truman-show-t-00-01-45)**
+> "living the Truman Show"
+
+</details>
 
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (1 mentions)</summary>

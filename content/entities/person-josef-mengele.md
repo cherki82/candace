@@ -1,6 +1,6 @@
 ---
 title: "Josef Mengele"
-description: "Josef Mengele (People) - 1 mention"
+description: "Josef Mengele (People) - 2 mentions"
 id: "person-josef-mengele"
 type: "PERSON"
 categories:
@@ -19,9 +19,9 @@ Source: [United States Holocaust Memorial Museum: Josef Mengele](https://encyclo
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-josef-mengele-t-00-37-51">2026-01-29 · 00:38:00</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-josef-mengele-t-00-37-51">2026-01-29 · 00:38:00</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -44,7 +44,7 @@ Source: [United States Holocaust Memorial Museum: Josef Mengele](https://encyclo
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
@@ -64,7 +64,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Josef Mengele (1)</strong></summary>
+<summary><strong class="section-title">Statements about Josef Mengele (3)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2)</summary>
+
+- [00:55:26](/episodes/ep-69A8TzAGHlU.md#t-00-55-26) (Claim) **Auschwitz Memorial Podcast Speaker** (via quoted speech): ["The alleged sewing together of twins by Josef Mengele did not happen."](/statements/statement-b1d76ae49a38.md)
+  - Also about: [Auschwitz-Birkenau State Museum](/entities/org-auschwitz-birkenau-state-museum.md)
+
+- [00:55:53](/episodes/ep-69A8TzAGHlU.md#t-00-55-26) (Claim) **Auschwitz Memorial Podcast Speaker** (via quoted speech): ["The legend that Josef Mengele sewed twins together likely arose from t..."](/statements/statement-14b42740547c.md)
+  - Also about: [Auschwitz-Birkenau State Museum](/entities/org-auschwitz-birkenau-state-museum.md)
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>

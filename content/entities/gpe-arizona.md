@@ -1,6 +1,6 @@
 ---
 title: "Arizona"
-description: "Arizona (Places) - 225 mentions"
+description: "Arizona (Places) - 230 mentions"
 id: "gpe-arizona"
 type: "GPE"
 aliases:
@@ -21,9 +21,9 @@ Source: [State of Arizona official website](https://az.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-arizona-t-01-11-09">2025-09-16 · 01:11:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-arizona-t-00-19-36">2026-04-21 · 00:20:49</a></strong></div>
-<div><span>Episodes</span><strong>53</strong></div>
-<div><span>Mentions</span><strong>225</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-arizona-t-00-35-58">2026-05-13 · 00:35:58</a></strong></div>
+<div><span>Episodes</span><strong>55</strong></div>
+<div><span>Mentions</span><strong>230</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>22</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
@@ -87,6 +87,8 @@ Source: [State of Arizona official website](https://az.gov/)
 <a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-arizona-t-00-46-39" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-arizona-t-00-24-11" style="--pulse-height:16%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 3 mentions" title="2026-04-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-arizona-t-00-08-35" style="--pulse-height:32%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 6 mentions" title="2026-04-21 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#t-00-40-13" style="--pulse-height:8%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-arizona-t-00-02-38" style="--pulse-height:21%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -145,6 +147,8 @@ Source: [State of Arizona official website](https://az.gov/)
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-arizona-t-00-46-39) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-arizona-t-00-24-11) | 3 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-arizona-t-00-08-35) | 6 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#t-00-40-13) | 1 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-arizona-t-00-02-38) | 4 |
 
 </details>
 </section>
@@ -152,7 +156,32 @@ Source: [State of Arizona official website](https://az.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (225)</strong></summary>
+<summary><strong class="section-title">Raw mentions (230)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (4 mentions)</summary>
+
+**[00:02:48](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-arizona-t-00-02-38)**
+> "home to Arizona"
+
+**[00:30:04](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-arizona-t-00-30-04)**
+> "...e, which again, in September, Arizona's on Pacific time, specific time, specific time, ta..."
+
+**[00:31:02](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-arizona-t-00-31-02)**
+> "... Pacific time, specific time. Arizona was on specific time. It was very specific time i..."
+
+**[00:35:58](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-arizona-t-00-35-58)**
+> "... weird like that she lives in arizona she has a family that's involved militarily that'..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
+
+**[00:40:13](/episodes/ep-uC_GjKU8rs8.md#t-00-40-13)**
+> "...ate Farm Stadium in Glendale, Arizona."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (6 mentions)</summary>

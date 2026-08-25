@@ -1,6 +1,6 @@
 ---
 title: "Jessica Ghawi"
-description: "Jessica Ghawi (People) - 5 mentions"
+description: "Jessica Ghawi (People) - 6 mentions"
 id: "person-jessica-ghawi"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Congressional Record memorial for Jessica Ghawi](https://www.congress.g
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-person-jessica-ghawi-t-00-12-25">2026-01-20 · 00:12:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-person-jessica-ghawi-t-00-14-50">2026-01-20 · 00:15:06</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-jessica-ghawi-t-00-54-15">2026-05-13 · 00:54:15</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -36,12 +36,14 @@ Source: [Congressional Record memorial for Jessica Ghawi](https://www.congress.g
 <p>Highest activity: <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-jessica-ghawi-t-00-12-25">Candace x Baron Coleman LIVE!! | Candace Ep 293</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-jessica-ghawi-t-00-12-25" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 5 mentions" title="2026-01-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-jessica-ghawi-t-00-54-15" style="--pulse-height:20%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-jessica-ghawi-t-00-12-25) | 5 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-jessica-ghawi-t-00-54-15) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [Congressional Record memorial for Jessica Ghawi](https://www.congress.g
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1 mentions)</summary>
+
+**[00:54:15](/episodes/ep-4DvYXBn_5JI.md#ent-person-jessica-ghawi-t-00-54-15)**
+> "Jessica Ghawi"
+
+</details>
 
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (5 mentions)</summary>
@@ -81,7 +91,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jessica Ghawi (5)</strong></summary>
+<summary><strong class="section-title">Statements about Jessica Ghawi (6)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>
+
+- [00:54:15](/episodes/ep-4DvYXBn_5JI.md#t-00-54-15) (Opinion) **Candace Owens**: ["Candace Owens described as her conspiracy theory that victims connecte..."](/statements/statement-367975a052b7.md)
+  - Also about: [Aurora, Colorado](/entities/gpe-aurora-colorado.md)
+
+</details>
 
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (5)</summary>

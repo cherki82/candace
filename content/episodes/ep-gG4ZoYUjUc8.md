@@ -602,7 +602,7 @@ youtube_url: "https://www.youtube.com/watch?v=gG4ZoYUjUc8"
 - **2025-07-11**: [Tucker Carlson spoke at Turning Point USA's Student Action Summit.](/events/event-2025-07-11-tucker-carlson-spoke-at-turning-point-us.md)
 - **2025-09-09**: [Charlie Kirk texted TPUSA employees that he wanted to invite Candace Owens to AmericaFest.](/events/event-2025-09-09-charlie-kirk-texted-tpusa-employees-that.md)
 - **2025-09-10**: [Charlie Kirk was assassinated at Utah Valley University.](/events/event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va.md)
-- **2025-09-16**: [Erika Kirk held a Zoom call with Turning Point USA employees five days after Charlie Kirk's assassination.](/events/event-2025-09-16-erika-kirk-held-a-zoom-call-with-turning.md)
+- **2025-09-16**: [Erika Kirk held a Zoom call with Turning Point USA employees six days after Charlie Kirk's assassination.](/events/event-2025-09-16-erika-kirk-held-a-zoom-call-with-turning.md)
 
 </details>
 

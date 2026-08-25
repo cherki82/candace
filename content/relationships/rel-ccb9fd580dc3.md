@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Justin Streiff](/entities/person-justin-streiff) met with [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
+
+**[BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE)**
+
+- [00:15:30](/episodes/ep-7FS1tUeSfdE#t-00-15-30): _He was, as you will recall, also the person that Erika (Erika Kirk) brought with her for our four-hour sit-down meeting._
 
 **[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
 

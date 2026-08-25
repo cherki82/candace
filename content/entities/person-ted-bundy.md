@@ -1,6 +1,6 @@
 ---
 title: "Ted Bundy"
-description: "Ted Bundy (People) - 1 mention"
+description: "Ted Bundy (People) - 4 mentions"
 id: "person-ted-bundy"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [What to know about serial killer Ted Bundy and his rampage of violence]
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-ted-bundy-t-00-50-02">2026-01-21 · 00:50:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-ted-bundy-t-00-50-02">2026-01-21 · 00:50:27</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-ted-bundy-t-00-43-50">2026-05-06 · 00:44:17</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -29,15 +29,17 @@ Source: [What to know about serial killer Ted Bundy and his rampage of violence]
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-ted-bundy-t-00-50-02">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-ted-bundy-t-00-43-18">Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-ted-bundy-t-00-50-02" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-ted-bundy-t-00-50-02" style="--pulse-height:33%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-ted-bundy-t-00-43-18" style="--pulse-height:100%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 3 mentions" title="2026-05-06 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-ted-bundy-t-00-50-02) | 1 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-ted-bundy-t-00-43-18) | 3 |
 
 </details>
 </section>
@@ -45,7 +47,21 @@ Source: [What to know about serial killer Ted Bundy and his rampage of violence]
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (3 mentions)</summary>
+
+**[00:43:39](/episodes/ep-k1b1NDCrNFs.md#ent-person-ted-bundy-t-00-43-18)**
+> ".... He wrote. Jeremy Boreing is Ted Bundy doing a Mr."
+
+**[00:44:03](/episodes/ep-k1b1NDCrNFs.md#ent-person-ted-bundy-t-00-43-50)**
+> "...ill happening? Spot on. He is Ted Bundy doing a Mr. Rogers impression."
+
+**[00:44:17](/episodes/ep-k1b1NDCrNFs.md#ent-person-ted-bundy-t-00-43-50)**
+> "... exactly like being hunted by Ted Bundy who pretends to be Mr. Rogers. On the surface, we..."
+
+</details>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>

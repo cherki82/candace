@@ -411,7 +411,7 @@ youtube_url: "https://www.youtube.com/watch?v=iHav0PPzUz8"
   - About: [Provo](/entities/gpe-provo.md)
 - [00:31:05](#t-00-30-48) [○] (Claim) **Candace Owens**: ["Josh Hammer wrote an op-ed in the Daily Mail calling for Tucker Carlson to be ne..."](/statements/statement-9bc44b4ee43c.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md)
-- [00:31:35](#t-00-31-26) [○] (Accusation) **Candace Owens**: ["Josh Hammer lied about Charlie Kirk's views on Israel changing, even though he w..."](/statements/statement-5ae2607d7293.md)
+- [00:31:35](#t-00-31-26) [◐] (Accusation) **Candace Owens**: ["Josh Hammer lied about Charlie Kirk's views on Israel changing, even though he w..."](/statements/statement-5ae2607d7293.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md)
 - [00:33:57](#t-00-33-30) [○] (Claim) **Candace Owens**: ["The Stop Antisemitism account tweeted that CNN platforming Anna Kasparian and Tu..."](/statements/statement-0349b4d25dd4.md)
   - About: [Tucker Carlson](/entities/person-tucker-carlson.md)

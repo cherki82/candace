@@ -1,6 +1,6 @@
 ---
 title: "Phoenix, Arizona"
-description: "Phoenix, Arizona (Places) - 10 mentions"
+description: "Phoenix, Arizona (Places) - 13 mentions"
 id: "gpe-phoenix-arizona"
 type: "GPE"
 aliases:
@@ -24,12 +24,12 @@ Source: [City of Phoenix](https://www.phoenix.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-phoenix-arizona-t-00-25-18">2026-02-05 · 00:25:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-phoenix-arizona-t-00-21-00">2026-04-15 · 00:21:13</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-phoenix-arizona-t-00-45-29">2026-05-04 · 00:45:29</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -43,6 +43,7 @@ Source: [City of Phoenix](https://www.phoenix.gov/)
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-gpe-phoenix-arizona-t-00-52-00" style="--pulse-height:33%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-phoenix-arizona-t-00-34-48" style="--pulse-height:67%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-phoenix-arizona-t-00-21-00" style="--pulse-height:67%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-phoenix-arizona-t-00-41-16" style="--pulse-height:100%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 3 mentions" title="2026-05-04 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [City of Phoenix](https://www.phoenix.gov/)
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-phoenix-arizona-t-00-52-00) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-phoenix-arizona-t-00-34-48) | 2 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-phoenix-arizona-t-00-21-00) | 2 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-phoenix-arizona-t-00-41-16) | 3 |
 
 </details>
 </section>
@@ -61,7 +63,21 @@ Source: [City of Phoenix](https://www.phoenix.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (3 mentions)</summary>
+
+**[00:41:16](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-phoenix-arizona-t-00-41-16)**
+> "...cing and targeting in Tucson, Phoenix, and Las Vegas."
+
+**[00:45:04](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-phoenix-arizona-t-00-44-59)**
+> "... hosted Erika (Erika Kirk) in Phoenix."
+
+**[00:45:29](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-phoenix-arizona-t-00-45-29)**
+> "...ed Trump (Donald Trump) at in Phoenix. That's what I'm referring to. It's on the list. ..."
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (2 mentions)</summary>
@@ -128,12 +144,45 @@ Source: [City of Phoenix](https://www.phoenix.gov/)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Location Of (1)</summary>
+
+- **[Dream City Church](/entities/org-dream-city-church.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:45:29](/episodes/ep-uC_GjKU8rs8.md#t-00-45-29): “The Dream City Church they hosted Trump (Donald Trump) at in Phoenix. That's what I'm referring to.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Dream City Church](/entities/org-dream-city-church.md)** based in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:45:29](/episodes/ep-uC_GjKU8rs8.md#t-00-45-29): “The Dream City Church they hosted Trump (Donald Trump) at in Phoenix. That's what I'm referring to.”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Phoenix, Arizona (4)</strong></summary>
+<summary><strong class="section-title">Statements about Phoenix, Arizona (6)</strong></summary>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (2)</summary>
+
+- [00:41:16](/episodes/ep-uC_GjKU8rs8.md#t-00-41-16) (Citation) **Candace Owens**: ["The FARA documents specifically list geofencing and targeting in Tucso..."](/statements/statement-0844694d3bfd.md)
+  - Also about: [Show Faith by Works, LLC](/entities/org-show-faith-by-works.md), [Tucson, Arizona](/entities/gpe-tucson-arizona.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
+
+- [00:45:04](/episodes/ep-uC_GjKU8rs8.md#t-00-44-59) (Claim) **Candace Owens**: ["Dream City Church, which hosted Charlie Kirk, Erika Kirk, and Donald T..."](/statements/statement-55c1515fffb5.md)
+  - Also about: [Dream City Church](/entities/org-dream-city-church.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (4)</summary>

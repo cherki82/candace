@@ -1,6 +1,6 @@
 ---
 title: "Houston, Texas"
-description: "Houston, Texas (Places) - 2 mentions"
+description: "Houston, Texas (Places) - 4 mentions"
 id: "gpe-houston-texas"
 type: "GPE"
 aliases:
@@ -21,9 +21,9 @@ Source: [City of Houston](https://www.houstontx.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-houston-texas-t-01-46-57">2026-01-29 · 01:47:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-houston-texas-t-01-46-57">2026-01-29 · 01:47:10</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-gpe-houston-texas-t-00-40-29">2026-05-07 · 00:40:50</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,12 +35,16 @@ Source: [City of Houston](https://www.houstontx.gov/)
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-houston-texas-t-01-46-57">Candace x Bassem Youssef | Candace Ep 298</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-houston-texas-t-01-46-57" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-houston-texas-t-01-14-48" style="--pulse-height:50%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-gpe-houston-texas-t-00-40-29" style="--pulse-height:50%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-houston-texas-t-01-46-57) | 2 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-houston-texas-t-01-14-48) | 1 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-gpe-houston-texas-t-00-40-29) | 1 |
 
 </details>
 </section>
@@ -48,7 +52,23 @@ Source: [City of Houston](https://www.houstontx.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>
+
+**[00:40:50](/episodes/ep-FFQ9675oqRI.md#ent-gpe-houston-texas-t-00-40-29)**
+> "...e our warriors. Love you from Houston."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[01:15:13](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-houston-texas-t-01-14-48)**
+> "...ing for you always. Love from Houston. I hope your mother and your little bro get my in..."
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>

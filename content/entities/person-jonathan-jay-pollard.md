@@ -1,6 +1,6 @@
 ---
 title: "Jonathan Jay Pollard"
-description: "Jonathan Jay Pollard (People) - 3 mentions"
+description: "Jonathan Jay Pollard (People) - 4 mentions"
 id: "person-jonathan-jay-pollard"
 type: "PERSON"
 aliases:
@@ -24,9 +24,9 @@ Source: [FBI: Year of the Spy (1985)](https://www.fbi.gov/history/cases-and-crim
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jonathan-jay-pollard-t-00-20-00">2026-02-02 · 00:20:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-jonathan-jay-pollard-t-00-26-31">2026-04-10 · 00:26:43</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-jonathan-jay-pollard-t-00-35-41">2026-05-05 · 00:35:41</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -40,6 +40,7 @@ Source: [FBI: Year of the Spy (1985)](https://www.fbi.gov/history/cases-and-crim
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jonathan-jay-pollard-t-00-20-00" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-jonathan-jay-pollard-t-01-03-09" style="--pulse-height:100%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-jonathan-jay-pollard-t-00-26-31" style="--pulse-height:100%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-jonathan-jay-pollard-t-00-35-41" style="--pulse-height:100%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [FBI: Year of the Spy (1985)](https://www.fbi.gov/history/cases-and-crim
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-jonathan-jay-pollard-t-00-20-00) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-jonathan-jay-pollard-t-01-03-09) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-jonathan-jay-pollard-t-00-26-31) | 1 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-jonathan-jay-pollard-t-00-35-41) | 1 |
 
 </details>
 </section>
@@ -55,7 +57,15 @@ Source: [FBI: Year of the Spy (1985)](https://www.fbi.gov/history/cases-and-crim
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1 mentions)</summary>
+
+**[00:35:41](/episodes/ep-eMtjzXkQrsU.md#ent-person-jonathan-jay-pollard-t-00-35-41)**
+> "No cop on the beat anymore. That's right. Basically what she says is unless you're Jonathan Pollard and you're stealing documents and you're giving them to Israel, you're good."
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>

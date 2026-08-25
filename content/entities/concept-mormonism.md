@@ -1,6 +1,6 @@
 ---
 title: "Mormonism"
-description: "Mormonism (Concepts) - 22 mentions"
+description: "Mormonism (Concepts) - 23 mentions"
 id: "concept-mormonism"
 type: "CONCEPT"
 aliases:
@@ -25,12 +25,12 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-mormonism-t-00-12-29">2026-02-27 · 00:12:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-concept-mormonism-t-00-47-40">2026-04-01 · 00:47:56</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-concept-mormonism-t-00-31-51">2026-05-11 · 00:32:16</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>1</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -43,6 +43,7 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-mormonism-t-00-41-21" style="--pulse-height:45%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 5 mentions" title="2026-03-06 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-mormonism-t-00-01-21" style="--pulse-height:9%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-concept-mormonism-t-00-22-38" style="--pulse-height:36%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 4 mentions" title="2026-04-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-concept-mormonism-t-00-31-51" style="--pulse-height:9%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +54,7 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-concept-mormonism-t-00-41-21) | 5 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-concept-mormonism-t-00-01-21) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-concept-mormonism-t-00-22-38) | 4 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-concept-mormonism-t-00-31-51) | 1 |
 
 </details>
 </section>
@@ -60,7 +62,15 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>
+
+**[00:32:16](/episodes/ep-KpxIBWkNsSs.md#ent-concept-mormonism-t-00-31-51)**
+> "a Mormon kid from Utah"
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (4 mentions)</summary>
@@ -158,7 +168,17 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Nick Shirley](/entities/person-nick-shirley.md)** affiliated with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:32:16](/episodes/ep-KpxIBWkNsSs.md#t-00-31-51): “Not to come with the camera, a Mormon kid from Utah with the camera. Hey, what's the most dangerous game in this favela? Can I infiltrate in 48 hours?”
+
+</details>
+
+</details>
 
 </details>
 

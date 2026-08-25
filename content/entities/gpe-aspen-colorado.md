@@ -1,6 +1,6 @@
 ---
 title: "Aspen, Colorado"
-description: "Aspen, Colorado (Places) - 23 mentions"
+description: "Aspen, Colorado (Places) - 31 mentions"
 id: "gpe-aspen-colorado"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [City of Aspen](https://www.aspen.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-aspen-colorado-t-00-54-01">2026-01-20 · 00:54:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-aspen-colorado-t-00-54-06">2026-04-21 · 00:54:36</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-aspen-colorado-t-00-43-19">2026-05-13 · 00:43:19</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>31</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -40,6 +40,10 @@ Source: [City of Aspen](https://www.aspen.gov/)
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-aspen-colorado-t-00-10-21" style="--pulse-height:38%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 3 mentions" title="2026-04-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-aspen-colorado-t-00-00-26" style="--pulse-height:88%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 7 mentions" title="2026-04-13 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-aspen-colorado-t-00-31-36" style="--pulse-height:38%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 3 mentions" title="2026-04-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-aspen-colorado-t-00-55-23" style="--pulse-height:12%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-aspen-colorado-t-00-57-36" style="--pulse-height:12%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-aspen-colorado-t-00-04-22" style="--pulse-height:50%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 4 mentions" title="2026-05-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-aspen-colorado-t-00-38-43" style="--pulse-height:25%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +54,10 @@ Source: [City of Aspen](https://www.aspen.gov/)
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-aspen-colorado-t-00-10-21) | 3 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-gpe-aspen-colorado-t-00-00-26) | 7 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-aspen-colorado-t-00-31-36) | 3 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-aspen-colorado-t-00-55-23) | 1 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-aspen-colorado-t-00-57-36) | 1 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-aspen-colorado-t-00-04-22) | 4 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-aspen-colorado-t-00-38-43) | 2 |
 
 </details>
 </section>
@@ -57,7 +65,51 @@ Source: [City of Aspen](https://www.aspen.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (2 mentions)</summary>
+
+**[00:39:07](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-aspen-colorado-t-00-38-43)**
+> "presentation in Aspen"
+
+**[00:43:19](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-aspen-colorado-t-00-43-19)**
+> "...of wealthy donors who went to Aspen to support Charlie saying that this definitively ..."
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (4 mentions)</summary>
+
+**[00:04:37](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-aspen-colorado-t-00-04-22)**
+> "donors who were present in Aspen"
+
+**[00:07:46](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-aspen-colorado-t-00-07-46)**
+> "You will recall in Aspen, Charlie (Charlie Kirk) was presenting to donors ..."
+
+**[00:09:42](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-aspen-colorado-t-00-09-42)**
+> "... that a donor who was at that Aspen event said it never happened."
+
+**[00:14:26](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-aspen-colorado-t-00-14-03)**
+> "... people that this happened in Aspen."
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>
+
+**[00:58:11](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-aspen-colorado-t-00-57-36)**
+> "...guys allege took place at the Aspen events."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[00:55:37](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-aspen-colorado-t-00-55-23)**
+> "...deo of Charlie Kirk saying in Aspen that he wanted you to be the CEO."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (3 mentions)</summary>
@@ -163,7 +215,23 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Aspen, Colorado (2)</strong></summary>
+<summary><strong class="section-title">Statements about Aspen, Colorado (4)</strong></summary>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1)</summary>
+
+- [00:58:11](/episodes/ep-k1b1NDCrNFs.md#t-00-57-36) (Claim) **Anonymous Source #4 (Ep k1b1NDCrNFs)** (via quoted speech): ["The recording presented as Charlie Kirk appointing Erika Kirk CEO did ..."](/statements/statement-0f7429998dfb.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1)</summary>
+
+- [00:55:13](/episodes/ep-qZ8RWfyuewQ.md#t-00-54-47) (Accusation) **Anonymous Source #2 (Ep qZ8RWfyuewQ)** (via read message): ["Unnamed donors who attended the Aspen event told Candace Owens that th..."](/statements/statement-2e17128d7489.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Artificial intelligence](/entities/concept-artificial-intelligence.md)
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>

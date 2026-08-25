@@ -1,17 +1,26 @@
 ---
 title: "Rush Limbaugh"
-description: "Rush Limbaugh (People) - 2 mentions"
+description: "Rush Limbaugh (People) - 4 mentions"
 id: "person-rush-limbaugh"
 type: "PERSON"
+categories:
+  - "radio"
+  - "conservative media"
 ---
 
 _Type: People_
 
+**Categories:** radio, conservative media
+
+**Entity verification:** verified
+> Official legacy biography confirms the canonical full name and nationally syndicated radio career.
+Source: [Biography - Rush H. Limbaugh III](https://officialrushlimbaugh.com/biography/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-rush-limbaugh-t-00-02-47">2025-09-11 · 00:03:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-rush-limbaugh-t-00-02-47">2025-09-11 · 00:03:14</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-rush-limbaugh-t-00-11-59">2026-05-05 · 00:12:30</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -23,12 +32,14 @@ _Type: People_
 <p>Highest activity: <a href="/episodes/ep-_dRaEO47-co.md#ent-person-rush-limbaugh-t-00-02-47">To My Friend, Charlie Kirk.</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-_dRaEO47-co.md#ent-person-rush-limbaugh-t-00-02-47" style="--pulse-height:100%" aria-label="To My Friend, Charlie Kirk.: 2 mentions" title="2025-09-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-rush-limbaugh-t-00-11-59" style="--pulse-height:100%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-person-rush-limbaugh-t-00-02-47) | 2 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-rush-limbaugh-t-00-11-59) | 2 |
 
 </details>
 </section>
@@ -36,7 +47,18 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (2 mentions)</summary>
+
+**[00:12:14](/episodes/ep-eMtjzXkQrsU.md#ent-person-rush-limbaugh-t-00-11-59)**
+> "And I just kind of forgot some information that I knew about that deal because Charlie (Charlie Kirk) was so excited about it. His goal was to be Rush Limbaugh. He adored Rush Limbaugh. He listened to listen to Rush Limbaugh on the way to school every day when he was young. He told me that that's how he got into conservative politics."
+
+**[00:12:30](/episodes/ep-eMtjzXkQrsU.md#ent-person-rush-limbaugh-t-00-11-59)**
+> "... it. And he wanted to be like Rush Limbaugh in terms of being able to host three hours of rad..."
+
+</details>
 
 <details>
 <summary>To My Friend, Charlie Kirk. (2 mentions)</summary>

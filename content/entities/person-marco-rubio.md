@@ -1,6 +1,6 @@
 ---
 title: "Marco Rubio"
-description: "Marco Rubio (People) - 2 mentions"
+description: "Marco Rubio (People) - 3 mentions"
 id: "person-marco-rubio"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Marco Rubio | Office of the Historian, U.S. Department of State](https:
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-marco-rubio-t-00-42-04">2026-03-09 · 00:42:19</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-marco-rubio-t-00-54-55">2026-04-16 · 00:54:55</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-marco-rubio-t-00-18-49">2026-05-04 · 00:19:12</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -33,6 +33,7 @@ Source: [Marco Rubio | Office of the Historian, U.S. Department of State](https:
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-marco-rubio-t-00-42-04" style="--pulse-height:100%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-marco-rubio-t-00-54-55" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-marco-rubio-t-00-18-49" style="--pulse-height:100%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [Marco Rubio | Office of the Historian, U.S. Department of State](https:
 |---|---|---:|
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-marco-rubio-t-00-42-04) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-marco-rubio-t-00-54-55) | 1 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-marco-rubio-t-00-18-49) | 1 |
 
 </details>
 </section>
@@ -47,7 +49,15 @@ Source: [Marco Rubio | Office of the Historian, U.S. Department of State](https:
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
+
+**[00:19:12](/episodes/ep-uC_GjKU8rs8.md#ent-person-marco-rubio-t-00-18-49)**
+> "...p (Donald Trump) would attack Marco Rubio or Ron DeSantis. I've had personal and legal spat..."
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1 mentions)</summary>
@@ -70,7 +80,29 @@ Source: [Marco Rubio | Office of the Historian, U.S. Department of State](https:
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Attacked By (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:19:12](/episodes/ep-uC_GjKU8rs8.md#t-00-18-49): “Nobody minded when Trump (Donald Trump) would attack Marco Rubio or Ron DeSantis. I've had personal and legal spats with people like Kim Klasick as just one example. People do expect figureheads to clash.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** attacked this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:19:12](/episodes/ep-uC_GjKU8rs8.md#t-00-18-49): “Nobody minded when Trump (Donald Trump) would attack Marco Rubio or Ron DeSantis. I've had personal and legal spats with people like Kim Klasick as just one example. People do expect figureheads to clash.”
+
+</details>
+
+</details>
 
 </details>
 

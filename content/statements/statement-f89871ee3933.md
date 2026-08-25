@@ -26,13 +26,23 @@ type: "factual_claim"
 - [FoldAR](/entities/org-foldar.md) (org)
 - [Midland, Texas](/entities/gpe-midland-texas.md) (gpe)
 
-## Source
+## Appearances (2)
+
+### 1. BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wan...
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:37:09](/episodes/ep-jsqUIkszZd0.md#t-00-36-53) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2229);return false;">Play</a>
 
 > Fast forward about a month later, on the 4th of July in 2024, that Texas deputy contacted Corby (Corby Hall) and he told him that the gun was stolen. ... At a gas station in Midland, Texas, he said that he had accidentally left the car doors, the windows down and someone grabbed the backpack with the fold AR inside of it. ... And that Texas deputy then claimed that he reported it to local Midland police and that was it. No more follow up.
+
+### 2. Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329
+
+**Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
+**Timestamp:** [01:56:00](/episodes/ep--9MOUvgGyi4.md#t-01-55-56) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(6960);return false;">Play</a>
+
+> uh june 2024 you it's an online sale it's going to police officer in texas the police officer loses does not inform you but gets the gun stolen from him i should say in midland texas the story is he says which you'll find out later is that there is uh his window was open or something while he went into the gas station someone grabbed it and he called the police uh the local police obviously he's a police officer but not in midland ... and and filed a report for this missing gun
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "PDS Debt"
-description: "PDS Debt (Organizations) - 57 mentions"
+description: "PDS Debt (Organizations) - 64 mentions"
 id: "org-pds-debt"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-11">2025-09-25 · 00:25:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-org-pds-debt-t-00-26-26">2026-04-13 · 00:26:53</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>57</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-org-pds-debt-t-00-20-46">2026-05-07 · 00:20:51</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>64</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -51,6 +51,8 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-org-pds-debt-t-00-25-49" style="--pulse-height:100%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 4 mentions" title="2026-03-30 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-pds-debt-t-00-29-36" style="--pulse-height:75%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 3 mentions" title="2026-04-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-pds-debt-t-00-26-26" style="--pulse-height:50%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-org-pds-debt-t-00-33-55" style="--pulse-height:75%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 3 mentions" title="2026-04-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-org-pds-debt-t-00-19-22" style="--pulse-height:100%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 4 mentions" title="2026-05-07 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -72,6 +74,8 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-pds-debt-t-00-25-49) | 4 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-pds-debt-t-00-29-36) | 3 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-pds-debt-t-00-26-26) | 2 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-pds-debt-t-00-33-55) | 3 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-org-pds-debt-t-00-19-22) | 4 |
 
 </details>
 </section>
@@ -79,7 +83,38 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (57)</strong></summary>
+<summary><strong class="section-title">Raw mentions (64)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (4 mentions)</summary>
+
+**[00:19:56](/episodes/ep-FFQ9675oqRI.md#ent-org-pds-debt-t-00-19-22)**
+> "...o want to tell you guys about PDS debt."
+
+**[00:20:08](/episodes/ep-FFQ9675oqRI.md#ent-org-pds-debt-t-00-20-02)**
+> "...els like you should be trying PDS debt because they can help."
+
+**[00:20:25](/episodes/ep-FFQ9675oqRI.md#ent-org-pds-debt-t-00-20-02)**
+> "PDS debt is the way out. They can reduce up to half of wha..."
+
+**[00:20:51](/episodes/ep-FFQ9675oqRI.md#ent-org-pds-debt-t-00-20-46)**
+> "PDS Debt is the top rated company in the industry with tho..."
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (3 mentions)</summary>
+
+**[00:34:03](/episodes/ep--9MOUvgGyi4.md#ent-org-pds-debt-t-00-33-55)**
+> "Balance is rising and fees piling up. Minimum payments are designed to stretch debt out for years. That's why you need to check out PDS Debt. Whether you're struggling with credit cards, personal loans, or medical bills, PDS Debt has custom options to help you get out of debt."
+
+**[00:34:30](/episodes/ep--9MOUvgGyi4.md#ent-org-pds-debt-t-00-33-55)**
+> "PDS Debt is A-plus rated by the Better Business Bureau. It..."
+
+**[00:34:38](/episodes/ep--9MOUvgGyi4.md#ent-org-pds-debt-t-00-34-38)**
+> "Why? Because PDS Debt has helped hundreds of thousands of people get ou..."
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2 mentions)</summary>
@@ -341,9 +376,10 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:28:29](/episodes/ep-H9p2ZGHAs9A.md#t-00-27-55): “Also going to remind you guys about PDS Debt because you see the headlines, you have read the stories, and then the impact shows up in your own numbers.”
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:34:50](/episodes/ep--9MOUvgGyi4.md#t-00-34-38): “Act. Take back control in 30 seconds. Get your free personalized assessment and the best option for you at pdsdebt.com slash Candace (Candace Owens). Again, that's pdsdebt.com slash Candace (Candace Owens).”
 
 </details>
 
@@ -353,9 +389,10 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:28:29](/episodes/ep-H9p2ZGHAs9A.md#t-00-27-55): “Also going to remind you guys about PDS Debt because you see the headlines, you have read the stories, and then the impact shows up in your own numbers.”
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:34:50](/episodes/ep--9MOUvgGyi4.md#t-00-34-38): “Act. Take back control in 30 seconds. Get your free personalized assessment and the best option for you at pdsdebt.com slash Candace (Candace Owens). Again, that's pdsdebt.com slash Candace (Candace Owens).”
 
 </details>
 

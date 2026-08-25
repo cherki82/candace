@@ -27,13 +27,23 @@ veracity: "true"
 - [Political Science](/entities/concept-political-science.md) (concept)
 - [International Relations](/entities/concept-international-relations.md) (concept)
 
-## Source
+## Appearances (2)
+
+### 1. Bride Of Charlie: Crazy In Love | Episode 7
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:27:53](/episodes/ep-DdPjoy5W-wY.md#t-00-27-36) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1673);return false;">Play</a>
 
 > There it is, Bachelor of Science, Political Science and International Relations and elsewhere on other bios. They said, Candace, not only is that not true, but it's not possible.
+
+### 2. Update! Erika Did Not Go Home. Source Confirms AI Voice Tact...
+
+**Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
+**Timestamp:** [00:18:11](/episodes/ep-KpxIBWkNsSs.md#t-00-18-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1091);return false;">Play</a>
+
+> With a double degree, I should mention, you can take a look at this, her LinkedIn page in political science and international relations. This is the old LinkedIn page. It since has been removed.
 
 ## Verification
 

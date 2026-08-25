@@ -11,11 +11,15 @@ object: "person-ben-shapiro"
 
 ## [Benjamin Netanyahu](/entities/person-benjamin-netanyahu) interviewed by [Ben Shapiro](/entities/person-ben-shapiro)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
 
 **[Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA)**
 
 - [00:20:01](/episodes/ep-r1PS67aRmcA#t-00-20-01): _Ben Shapiro sat down with him last month_
+
+**[Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8)**
+
+- [00:27:39](/episodes/ep-uC_GjKU8rs8#t-00-27-39): _While he unflinchingly hosts Bibi (Benjamin Netanyahu) on his platform, while he cheers on a genocide. That's his main issue. His main issue is Israel._
 
 ### Related
 

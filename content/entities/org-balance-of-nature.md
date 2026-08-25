@@ -1,16 +1,18 @@
 ---
 title: "Balance of Nature"
-description: "Balance of Nature (Organizations) - 15 mentions"
+description: "Balance of Nature (Organizations) - 18 mentions"
 id: "org-balance-of-nature"
 type: "ORG"
 categories:
   - "health"
   - "commerce"
+  - "dietary supplement brand"
+  - "podcast sponsor"
 ---
 
 _Type: Organizations_
 
-**Categories:** health, commerce
+**Categories:** health, commerce, dietary supplement brand, podcast sponsor
 
 **Entity verification:** verified
 > Canonical brand/organization name verified against its official site.
@@ -18,9 +20,9 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-38-39">2026-01-19 · 00:39:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-org-balance-of-nature-t-00-37-01">2026-04-01 · 00:37:30</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-balance-of-nature-t-00-54-59">2026-05-06 · 00:55:34</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -37,6 +39,8 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-org-balance-of-nature-t-00-34-08" style="--pulse-height:25%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-balance-of-nature-t-00-30-41" style="--pulse-height:75%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 3 mentions" title="2026-03-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-balance-of-nature-t-00-37-01" style="--pulse-height:50%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-org-balance-of-nature-t-00-35-23" style="--pulse-height:50%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 2 mentions" title="2026-04-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-balance-of-nature-t-00-54-59" style="--pulse-height:25%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +52,8 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-balance-of-nature-t-00-34-08) | 1 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-balance-of-nature-t-00-30-41) | 3 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-balance-of-nature-t-00-37-01) | 2 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-balance-of-nature-t-00-35-23) | 2 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-balance-of-nature-t-00-54-59) | 1 |
 
 </details>
 </section>
@@ -55,7 +61,26 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>
+
+**[00:55:34](/episodes/ep-k1b1NDCrNFs.md#ent-org-balance-of-nature-t-00-54-59)**
+> "...be missing from my nutrition. Balance of Nature makes it very simple."
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (2 mentions)</summary>
+
+**[00:35:50](/episodes/ep--9MOUvgGyi4.md#ent-org-balance-of-nature-t-00-35-23)**
+> "So head to candacelikesgold.com for details. Again, that's candacelikesgold.com. I also want to tell you guys about Balance of Nature because you know those days when you just feel a little bit off?"
+
+**[00:36:08](/episodes/ep--9MOUvgGyi4.md#ent-org-balance-of-nature-t-00-36-08)**
+> "...be missing from my nutrition. Balance of Nature makes it super simple."
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2 mentions)</summary>
@@ -141,10 +166,11 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:34:19](/episodes/ep-2tFYJf1klgY.md#t-00-34-08): “I also want to tell you guys about balance of nature because what if the reason you feel off some days has to do with what's missing from your nutrition”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:30:48](/episodes/ep-ZzAT2xijKGQ.md#t-00-30-41): “I also want to tell you guys about Balance of Nature because what if the reason that you're feeling off some days has to do with what's missing from your nutrition.”
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:36:39](/episodes/ep--9MOUvgGyi4.md#t-00-36-39): “It includes fruit and veggies plus fiber and spice supplements, 47 whole food ingredients in total. So whether you've been on the fence for a long time or it's the first time that you are hearing about them, I recommend that you go to balanceofnature.com and order the whole health system supplements as a preferred customer today.”
 
 </details>
 
@@ -154,10 +180,11 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:34:19](/episodes/ep-2tFYJf1klgY.md#t-00-34-08): “I also want to tell you guys about balance of nature because what if the reason you feel off some days has to do with what's missing from your nutrition”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:30:48](/episodes/ep-ZzAT2xijKGQ.md#t-00-30-41): “I also want to tell you guys about Balance of Nature because what if the reason that you're feeling off some days has to do with what's missing from your nutrition.”
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:36:39](/episodes/ep--9MOUvgGyi4.md#t-00-36-39): “It includes fruit and veggies plus fiber and spice supplements, 47 whole food ingredients in total. So whether you've been on the fence for a long time or it's the first time that you are hearing about them, I recommend that you go to balanceofnature.com and order the whole health system supplements as a preferred customer today.”
 
 </details>
 

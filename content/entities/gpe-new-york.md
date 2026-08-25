@@ -1,6 +1,6 @@
 ---
 title: "New York"
-description: "New York (Places) - 132 mentions"
+description: "New York (Places) - 134 mentions"
 id: "gpe-new-york"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [State of New York](https://www.ny.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-50-22">2025-09-15 · 00:50:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-new-york-t-00-43-35">2026-04-20 · 00:43:35</a></strong></div>
-<div><span>Episodes</span><strong>34</strong></div>
-<div><span>Mentions</span><strong>132</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-new-york-t-00-30-22">2026-04-29 · 00:30:22</a></strong></div>
+<div><span>Episodes</span><strong>35</strong></div>
+<div><span>Mentions</span><strong>134</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -64,6 +64,7 @@ Source: [State of New York](https://www.ny.gov/)
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-new-york-t-00-25-46" style="--pulse-height:77%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 10 mentions" title="2026-03-26 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-new-york-t-00-28-11" style="--pulse-height:54%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 7 mentions" title="2026-04-02 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-new-york-t-00-43-35" style="--pulse-height:15%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-new-york-t-00-30-22" style="--pulse-height:15%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -103,6 +104,7 @@ Source: [State of New York](https://www.ny.gov/)
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-new-york-t-00-25-46) | 10 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-new-york-t-00-28-11) | 7 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-new-york-t-00-43-35) | 2 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-new-york-t-00-30-22) | 2 |
 
 </details>
 </section>
@@ -110,7 +112,18 @@ Source: [State of New York](https://www.ny.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (132)</strong></summary>
+<summary><strong class="section-title">Raw mentions (134)</strong></summary>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (2 mentions)</summary>
+
+**[00:10:53](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-new-york-t-00-30-22)**
+> "...prior to I had been living in New York City, going out all the time, I started praying a..."
+
+**[00:30:22](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-new-york-t-00-30-22)**
+> "... i lived in dc and i lived in new york and you you hear guns go off sadly you unless you"
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (2 mentions)</summary>

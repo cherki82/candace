@@ -1,6 +1,6 @@
 ---
 title: "Marissa Streit"
-description: "Marissa Streit (People) - 12 mentions"
+description: "Marissa Streit (People) - 13 mentions"
 id: "person-marissa-streit"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-marissa-streit-t-00-08-02">2025-09-25 · 00:08:21</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#t-01-06-58">2026-01-29 · 01:06:58</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-marissa-streit-t-00-13-21">2026-05-04 · 00:13:33</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>13</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -39,6 +39,7 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 <a href="/episodes/ep-2T39-oADLj0.md#t-00-28-57" style="--pulse-height:33%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#t-00-29-29" style="--pulse-height:33%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#t-01-06-58" style="--pulse-height:33%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-marissa-streit-t-00-13-21" style="--pulse-height:33%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#t-00-28-57) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#t-00-29-29) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#t-01-06-58) | 1 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-marissa-streit-t-00-13-21) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
+
+**[00:13:33](/episodes/ep-uC_GjKU8rs8.md#ent-person-marissa-streit-t-00-13-21)**
+> "...was still close with Marissa (Marissa Streit), very close with Marissa (Marissa Streit). So wh..."
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
@@ -179,6 +189,18 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 </details>
 
 <details>
+<summary>Friend Of (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:13:33](/episodes/ep-uC_GjKU8rs8.md#t-00-13-21): “And same with PragerU. We would still do things together. I was still close with Marissa (Marissa Streit), very close with Marissa (Marissa Streit).”
+
+</details>
+
+</details>
+
+<details>
 <summary>Worked With (1)</summary>
 
 - **[Shabbos Kestenbaum](/entities/person-shabbos-kestenbaum.md)**
@@ -212,7 +234,7 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[IDF](/entities/org-idf.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -233,6 +255,13 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:06:58](/episodes/ep-xjzb_t5Tk9o.md#t-01-06-58): “connected to I know who they're communicating with I know what publications they're speaking to I can see the hand of oh this you know Marissa at PragerU who I adored when I worked for her I'm like oh this is this is a Marissa thing and so I think God wanted me blinded for that time and I because I could so now when I'm telling the story about Charlie (Charlie Kirk) even I'm I have so much more weight I'm telling the public no this is what was going on this is who put this person in this organization this is who he was arguing with”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:13:33](/episodes/ep-uC_GjKU8rs8.md#t-00-13-21): “And same with PragerU. We would still do things together. I was still close with Marissa (Marissa Streit), very close with Marissa (Marissa Streit).”
 
 </details>
 

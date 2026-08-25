@@ -26,13 +26,23 @@ veracity: "true"
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Trump Attacks The Pope. The Tyler Robinson Narrative Collaps...
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
 **Timestamp:** [00:12:56](/episodes/ep-eLgD5yUVbko.md#t-00-12-41) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(776);return false;">Play</a>
 
 > I appoint my wife to run 20 Point USA if something happens to me. ... Erica would do a great job.
+
+### 2. STAGED? Erika’s VIRAL White House Correspondents Moment Come...
+
+**Episode:** [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md)
+**Timestamp:** [00:00:01](/episodes/ep-FFQ9675oqRI.md#t-00-00-01) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1);return false;">Play</a>
+
+> we've requested to see the footage of Charlie Kirk naming his wife Erika Kirk as the chairman and CEO in the event that anything happens to him. Quote, I appoint my wife, Erika Kirk, right?
 
 ## Verification
 

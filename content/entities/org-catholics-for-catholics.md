@@ -1,6 +1,6 @@
 ---
 title: "Catholics for Catholics"
-description: "Catholics for Catholics (Organizations) - 14 mentions"
+description: "Catholics for Catholics (Organizations) - 15 mentions"
 id: "org-catholics-for-catholics"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Catholics for Catholics endorses Arizona Catholic Conference statement]
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#t-00-39-11">2025-12-20 · 00:39:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-catholics-for-catholics-t-00-16-34">2026-04-16 · 00:16:53</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-catholics-for-catholics-t-01-06-24">2026-04-29 · 01:06:35</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -42,6 +42,7 @@ Source: [Catholics for Catholics endorses Arizona Catholic Conference statement]
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-catholics-for-catholics-t-00-48-59" style="--pulse-height:50%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-catholics-for-catholics-t-00-32-47" style="--pulse-height:100%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 4 mentions" title="2026-03-25 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-catholics-for-catholics-t-00-16-34" style="--pulse-height:25%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-catholics-for-catholics-t-01-06-24" style="--pulse-height:25%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +54,7 @@ Source: [Catholics for Catholics endorses Arizona Catholic Conference statement]
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-catholics-for-catholics-t-00-48-59) | 2 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-catholics-for-catholics-t-00-32-47) | 4 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-catholics-for-catholics-t-00-16-34) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-catholics-for-catholics-t-01-06-24) | 1 |
 
 </details>
 </section>
@@ -60,7 +62,15 @@ Source: [Catholics for Catholics endorses Arizona Catholic Conference statement]
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[01:06:35](/episodes/ep-qZ8RWfyuewQ.md#ent-org-catholics-for-catholics-t-01-06-24)**
+> "...nnounced back in March at the Catholics for Catholics event when I said this."
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1 mentions)</summary>
@@ -155,10 +165,11 @@ Source: [Catholics for Catholics endorses Arizona Catholic Conference statement]
 <summary>Hosted Speaker (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:49:16](/episodes/ep-B9TyCs-6o_0.md#t-00-48-59): “I did my first event in a really long time. ... the Catholics for Catholics event”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:33:40](/episodes/ep-5m-Wn6Pr5rM.md#t-00-33-27): “the event that I spoke to a couple of weeks ago.”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:06:35](/episodes/ep-qZ8RWfyuewQ.md#t-01-06-24): “But it was a planned trip to Rome, which I actually sort of announced back in March at the Catholics for Catholics event when I said this.”
 
 </details>
 
@@ -182,10 +193,11 @@ Source: [Catholics for Catholics endorses Arizona Catholic Conference statement]
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** spoke at this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:49:16](/episodes/ep-B9TyCs-6o_0.md#t-00-48-59): “I did my first event in a really long time. ... the Catholics for Catholics event”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:33:40](/episodes/ep-5m-Wn6Pr5rM.md#t-00-33-27): “the event that I spoke to a couple of weeks ago.”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:06:35](/episodes/ep-qZ8RWfyuewQ.md#t-01-06-24): “But it was a planned trip to Rome, which I actually sort of announced back in March at the Catholics for Catholics event when I said this.”
 
 </details>
 

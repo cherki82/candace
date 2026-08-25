@@ -1,6 +1,6 @@
 ---
 title: "United States Department of Defense"
-description: "United States Department of Defense (Organizations) - 23 mentions"
+description: "United States Department of Defense (Organizations) - 24 mentions"
 id: "org-us-department-of-defense"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-department-of-defense-t-00-31-29">2025-10-28 · 00:31:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-org-us-department-of-defense-t-00-16-05">2026-04-01 · 00:16:05</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-us-department-of-defense-t-00-04-19">2026-05-13 · 00:04:46</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
 <div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -50,6 +50,7 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/)
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-us-department-of-defense-t-00-01-43" style="--pulse-height:100%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 3 mentions" title="2026-03-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-us-department-of-defense-t-00-32-04" style="--pulse-height:33%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-us-department-of-defense-t-00-12-27" style="--pulse-height:67%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-us-department-of-defense-t-00-04-19" style="--pulse-height:33%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +69,7 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/)
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-us-department-of-defense-t-00-01-43) | 3 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-us-department-of-defense-t-00-32-04) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-us-department-of-defense-t-00-12-27) | 2 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-org-us-department-of-defense-t-00-04-19) | 1 |
 
 </details>
 </section>
@@ -75,7 +77,15 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1 mentions)</summary>
+
+**[00:04:46](/episodes/ep-7FS1tUeSfdE.md#ent-org-us-department-of-defense-t-00-04-19)**
+> "the Department of Defense is using what is known as"
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2 mentions)</summary>
@@ -307,7 +317,15 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Department of Defense (15)</strong></summary>
+<summary><strong class="section-title">Statements about United States Department of Defense (16)</strong></summary>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1)</summary>
+
+- [00:04:46](/episodes/ep-7FS1tUeSfdE.md#t-00-04-19) (Claim) **Candace Owens**: ["The Department of Defense used a canary trap with slight variations in..."](/statements/statement-c6e246386d2f.md)
+  - Also about: [Canary trap](/entities/concept-canary-trap.md)
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2)</summary>

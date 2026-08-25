@@ -1,6 +1,6 @@
 ---
 title: "Blake Lively"
-description: "Blake Lively (People) - 21 mentions"
+description: "Blake Lively (People) - 36 mentions"
 id: "person-blake-lively"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-blake-lively-t-00-44-32">2025-10-28 · 00:44:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-blake-lively-t-01-00-56">2026-04-02 · 01:00:56</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-blake-lively-t-00-55-44">2026-05-11 · 00:55:51</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>36</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -38,6 +38,11 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-blake-lively-t-00-24-46" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 10 mentions" title="2026-01-21 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-blake-lively-t-00-24-50" style="--pulse-height:10%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-blake-lively-t-00-59-37" style="--pulse-height:20%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-blake-lively-t-00-19-35" style="--pulse-height:10%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-blake-lively-t-00-53-01" style="--pulse-height:10%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-blake-lively-t-00-00-00" style="--pulse-height:90%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 9 mentions" title="2026-05-05 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-blake-lively-t-00-58-21" style="--pulse-height:10%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-blake-lively-t-00-46-01" style="--pulse-height:30%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 3 mentions" title="2026-05-11 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +55,11 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-blake-lively-t-00-24-46) | 10 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-blake-lively-t-00-24-50) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-blake-lively-t-00-59-37) | 2 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-person-blake-lively-t-00-19-35) | 1 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-blake-lively-t-00-53-01) | 1 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-blake-lively-t-00-00-00) | 9 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-blake-lively-t-00-58-21) | 1 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-blake-lively-t-00-46-01) | 3 |
 
 </details>
 </section>
@@ -57,7 +67,77 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (3 mentions)</summary>
+
+**[00:46:01](/episodes/ep-KpxIBWkNsSs.md#ent-person-blake-lively-t-00-46-01)**
+> "lawyer Blake Lively Justin Baldoni"
+
+**[00:55:44](/episodes/ep-KpxIBWkNsSs.md#ent-person-blake-lively-t-00-55-44)**
+> ".... The filing to me feels like Blake Lively."
+
+**[00:55:51](/episodes/ep-KpxIBWkNsSs.md#ent-person-blake-lively-t-00-55-44)**
+> "It feels like Blake Lively's filing. It's meant for PR. It is not based in tru..."
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>
+
+**[00:58:33](/episodes/ep-k1b1NDCrNFs.md#ent-person-blake-lively-t-00-58-21)**
+> "Dimwit writes, Blake Lively is a true influencer. She influenced me to never ..."
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (9 mentions)</summary>
+
+**[00:00:21](/episodes/ep-eMtjzXkQrsU.md#ent-person-blake-lively-t-00-00-00)**
+> "That's what it is. Many people had wrongly assumed that the Blake Lively saga was just some Hollywood case."
+
+**[00:43:40](/episodes/ep-eMtjzXkQrsU.md#ent-person-blake-lively-t-00-43-30)**
+> "...like Hollywood case regarding Blake Lively and Justin Baldoni, but it was not. Justice was s..."
+
+**[00:45:12](/episodes/ep-eMtjzXkQrsU.md#ent-person-blake-lively-t-00-44-55)**
+> "She didn't expect the public. Blake Lively did not expect the public to read the documents. ..."
+
+**[00:46:18](/episodes/ep-eMtjzXkQrsU.md#ent-person-blake-lively-t-00-46-18)**
+> "...et in his life, it is casting Blake Lively in this movie, who I heard was not even good in t..."
+
+**[00:46:44](/episodes/ep-eMtjzXkQrsU.md#ent-person-blake-lively-t-00-46-44)**
+> "...dge dismissed 10 out of 13 of blake lively's allegations that she made against justin there wa..."
+
+**[00:47:29](/episodes/ep-eMtjzXkQrsU.md#ent-person-blake-lively-t-00-47-29)**
+> "Listening to Blake Lively's statement following this remarkable loss, like 10..."
+
+**[00:50:13](/episodes/ep-eMtjzXkQrsU.md#ent-person-blake-lively-t-00-50-13)**
+> "...Nicepool. And as you can see, Blake Lively is playing herself, Mrs."
+
+**[00:51:01](/episodes/ep-eMtjzXkQrsU.md#ent-person-blake-lively-t-00-51-01)**
+> "...yan Reynolds then jumped into Blake Lively and Justin Baldoni’s movie, appearing to do a mov..."
+
+**[00:51:38](/episodes/ep-eMtjzXkQrsU.md#ent-person-blake-lively-t-00-51-38)**
+> "...end's family basement because Blake Lively at that moment was saying she couldn't even be in..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
+
+**[00:53:31](/episodes/ep-uC_GjKU8rs8.md#ent-person-blake-lively-t-00-53-01)**
+> "...ce, we love you and heads up, Blake Lively just settled. A win for adversaries of purchased ..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1 mentions)</summary>
+
+**[00:19:45](/episodes/ep-69A8TzAGHlU.md#ent-person-blake-lively-t-00-19-35)**
+> "Okay. It feels like he's kind of trying to pull the Blake Lively. He wants to make the claim that he's not a public figure."
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (2 mentions)</summary>
@@ -190,9 +270,22 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46): “looking at the Justin Baldoni case I couldn't believe it it was just mean girls Blake Lively never told no very bratty wanted some publishing rights”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:54:26](/episodes/ep-uC_GjKU8rs8.md#t-00-54-26): “just complete i mean there was nothing left there was nothing left and she was pompous and she was arrogant and she was connected but we're living a different time truth wins and trying to humiliate him saying he sexually assaulted her or sexually harassed her whatever it was doing that as a pr move to destroy his family destroying his family with those sorts of”
+
+</details>
+
+</details>
+
+<details>
+<summary>Friend Of (1)</summary>
+
+- **[Taylor Swift](/entities/person-taylor-swift.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:53:50](/episodes/ep-uC_GjKU8rs8.md#t-00-53-45): “and it was evil and it was somebody using their power and their connections to try to destroy someone not based on principle but because you can because you have access because you have resources because you are WME because Taylor Swift is your best friend because you are your husband is a part of the Marvel universe so I am very happy for Justin Baldoni congratulations I know that settlement means”
 
 </details>
 
@@ -211,7 +304,7 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (7)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -228,9 +321,25 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46): “looking at the Justin Baldoni case I couldn't believe it it was just mean girls Blake Lively never told no very bratty wanted some publishing rights”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:54:26](/episodes/ep-uC_GjKU8rs8.md#t-00-54-26): “just complete i mean there was nothing left there was nothing left and she was pompous and she was arrogant and she was connected but we're living a different time truth wins and trying to humiliate him saying he sexually assaulted her or sexually harassed her whatever it was doing that as a pr move to destroy his family destroying his family with those sorts of”
+
+</details>
+
+- **[Taylor Swift](/entities/person-taylor-swift.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:53:50](/episodes/ep-uC_GjKU8rs8.md#t-00-53-45): “and it was evil and it was somebody using their power and their connections to try to destroy someone not based on principle but because you can because you have access because you have resources because you are WME because Taylor Swift is your best friend because you are your husband is a part of the Marvel universe so I am very happy for Justin Baldoni congratulations I know that settlement means”
+
+</details>
+
+- **[Ryan Reynolds](/entities/person-ryan-reynolds.md)** married to this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:46:44](/episodes/ep-eMtjzXkQrsU.md#t-00-46-44): “watching evil her and ryan reynolds her husband had kind of climbed the ranks and i graduated to a class of taylor swift is our best friend”
+- [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:58:33](/episodes/ep-k1b1NDCrNFs.md#t-00-58-21): “Dimwit writes, Blake Lively is a true influencer. She influenced me to never watch any movie she's in ever. ... they'll be rich for the rest of their lives i think quietly retiring and doing some charity and raising their children totally works for me i don't wish any bad on them but it was hard to read through what they did to justin baldoni out of sport her and her husband just out of sheer sport i definitely don't ever want to see ryan reynolds ever again though i i almost the bullying that he put him through was just unbelievable just so pompous and so arrogant more comments from today Today's episode, sorry,”
 
 </details>
 
@@ -253,7 +362,31 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Blake Lively (5)</strong></summary>
+<summary><strong class="section-title">Statements by Blake Lively (1)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1)</summary>
+
+- [00:48:00](/episodes/ep-eMtjzXkQrsU.md#t-00-48-00) [✓] (Accusation) ["I brought the case because of pervasive retaliation I faced and continue to face..."](/statements/statement-c073561a574e.md)
+  - About: [Justin Baldoni](/entities/person-justin-baldoni.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Blake Lively (7)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (2)</summary>
+
+- [00:46:44](/episodes/ep-eMtjzXkQrsU.md#t-00-46-44) (Claim) **Candace Owens**: ["A judge dismissed 10 of Blake Lively's 13 allegations against Justin B..."](/statements/statement-5ea63e73a95d.md)
+  - Also about: [Justin Baldoni](/entities/person-justin-baldoni.md), [Lewis J. Liman](/entities/person-lewis-j-liman.md)
+
+- [00:49:08](/episodes/ep-eMtjzXkQrsU.md#t-00-48-45) (Claim) **Candace Owens**: ["Blake Lively and Justin Baldoni settled their lawsuit."](/statements/statement-dc557c4ef41c.md)
+  - Also about: [Justin Baldoni](/entities/person-justin-baldoni.md)
+
+</details>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (4)</summary>

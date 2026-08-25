@@ -11,7 +11,7 @@ object: "person-tucker-carlson"
 
 ## [Donald J. Trump](/entities/person-donald-trump) criticized [Tucker Carlson](/entities/person-tucker-carlson)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg)**
 
@@ -20,6 +20,10 @@ object: "person-tucker-carlson"
 **[EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns)**
 
 - [00:35:51](/episodes/ep-kaWtDuoY_ns#t-00-35-51): _I hear Megyn Kelly, Tucker Carlson and Candace Owens are dying fast. Their numbers are terrible. Nobody believes them anymore. They were fake MAGA._
+
+**[TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ)**
+
+- [00:23:06](/episodes/ep-qZ8RWfyuewQ#t-00-23-06): _And that very real notion that our president, who it seems randomly attacks people on her behalf. So when you're wondering, why did he send out this crazy tweet about Tucker Carlson or Megyn Kelly?_
 
 **[Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM)**
 

@@ -1,6 +1,6 @@
 ---
 title: "Utah Valley University"
-description: "Utah Valley University (Organizations) - 174 mentions"
+description: "Utah Valley University (Organizations) - 186 mentions"
 id: "org-utah-valley-university"
 type: "ORG"
 aliases:
@@ -28,11 +28,11 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-utah-valley-university-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-utah-valley-university-t-02-01-40">2026-08-14 · 02:02:13</a></strong></div>
-<div><span>Episodes</span><strong>50</strong></div>
-<div><span>Mentions</span><strong>174</strong></div>
+<div><span>Episodes</span><strong>53</strong></div>
+<div><span>Mentions</span><strong>186</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>16</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>20</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -89,6 +89,9 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-utah-valley-university-t-00-56-25" style="--pulse-height:11%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-utah-valley-university-t-00-14-40" style="--pulse-height:44%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 4 mentions" title="2026-04-01 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-utah-valley-university-t-00-03-37" style="--pulse-height:11%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-org-utah-valley-university-t-00-26-07" style="--pulse-height:56%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 5 mentions" title="2026-04-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-utah-valley-university-t-00-11-43" style="--pulse-height:22%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-utah-valley-university-t-00-07-03" style="--pulse-height:44%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-utah-valley-university-t-01-08-52" style="--pulse-height:22%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -144,6 +147,9 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-org-utah-valley-university-t-00-56-25) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-utah-valley-university-t-00-14-40) | 4 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-utah-valley-university-t-00-03-37) | 1 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-org-utah-valley-university-t-00-26-07) | 5 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-utah-valley-university-t-00-11-43) | 2 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-org-utah-valley-university-t-00-07-03) | 4 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-utah-valley-university-t-01-08-52) | 2 |
 
 </details>
@@ -152,7 +158,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (174)</strong></summary>
+<summary><strong class="section-title">Raw mentions (186)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -162,6 +168,54 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 **[02:02:13](/episodes/ep-nPhCKwJ6ye8.md#ent-org-utah-valley-university-t-02-01-40)**
 > "UVU's washed their hands of it. And what he's saying ..."
+
+</details>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (4 mentions)</summary>
+
+**[00:07:03](/episodes/ep-4DvYXBn_5JI.md#ent-org-utah-valley-university-t-00-07-03)**
+> "immediately following UVU"
+
+**[00:07:37](/episodes/ep-4DvYXBn_5JI.md#ent-org-utah-valley-university-t-00-07-37)**
+> "... Kirk's security strategy for Utah Valley University two weeks in advance, but failed to contact the c..."
+
+**[00:09:13](/episodes/ep-4DvYXBn_5JI.md#ent-org-utah-valley-university-t-00-09-02)**
+> "...American comeback tour at the Utah Valley University, where he was shot and killed while answering a q..."
+
+**[00:52:15](/episodes/ep-4DvYXBn_5JI.md#ent-org-utah-valley-university-t-00-52-15)**
+> "...to, you know, say anything to UVU crowd, but this is his job."
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (2 mentions)</summary>
+
+**[00:11:58](/episodes/ep-k1b1NDCrNFs.md#ent-org-utah-valley-university-t-00-11-43)**
+> "... before seen footage from the UVU event."
+
+**[00:12:07](/episodes/ep-k1b1NDCrNFs.md#ent-org-utah-valley-university-t-00-11-43)**
+> "...d a contact that was there at UVU who had everything."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (5 mentions)</summary>
+
+**[00:26:07](/episodes/ep-69A8TzAGHlU.md#ent-org-utah-valley-university-t-00-26-07)**
+> "... were not between you and the UVU police chief long, right?"
+
+**[00:26:35](/episodes/ep-69A8TzAGHlU.md#ent-org-utah-valley-university-t-00-26-35)**
+> "...spondence went to Chief Wong (UVU police chief; name spelling unverified). Hello, C..."
+
+**[00:26:45](/episodes/ep-69A8TzAGHlU.md#ent-org-utah-valley-university-t-00-26-35)**
+> "...here CK will be set up at the Utah Valley."
+
+**[01:11:18](/episodes/ep-69A8TzAGHlU.md#ent-org-utah-valley-university-t-01-11-10)**
+> "Gen Common Rights UVU just requires you to fill out a form which is tit..."
+
+**[01:11:26](/episodes/ep-69A8TzAGHlU.md#ent-org-utah-valley-university-t-01-11-10)**
+> "...rpole) fill out this form and UVU denied it? If so, he can show us the form and the..."
 
 </details>
 
@@ -977,6 +1031,18 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details>
+<summary>Hosted Speaker (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:09:13](/episodes/ep-4DvYXBn_5JI.md#t-00-09-02): “The college had planned to host Kirk after Wednesday's first stop of his American comeback tour at the Utah Valley University, where he was shot and killed while answering a question from an audience member.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Includes (2)</summary>
 
 - **[Lozier Center](/entities/org-lozier-center.md)**
@@ -986,7 +1052,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (7)</summary>
 
 - **[Orem](/entities/gpe-orem.md)** headquarters of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1013,6 +1079,13 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 - **[Sorensen Center](/entities/org-sorensen-center.md)** part of this
 
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** spoke at this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:09:13](/episodes/ep-4DvYXBn_5JI.md#t-00-09-02): “The college had planned to host Kirk after Wednesday's first stop of his American comeback tour at the Utah Valley University, where he was shot and killed while answering a question from an audience member.”
+
+</details>
+
 - **[Jeff Long](/entities/person-jeff-long.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
@@ -1026,13 +1099,40 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah Valley University (16)</strong></summary>
+<summary><strong class="section-title">Statements about Utah Valley University (20)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
 
 - [01:58:01](/episodes/ep-nPhCKwJ6ye8.md#t-01-58-01) (Claim) **Candace Owens** (via paraphrase): ["An unnamed source told Candace Owens that Tyler Robinson did not set f..."](/statements/statement-82eb250891a7.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>
+
+- [00:51:59](/episodes/ep-4DvYXBn_5JI.md#t-00-51-31) (Opinion) **Candace Owens**: ["Candace Owens said she believed Charlie Kirk was fearful the night bef..."](/statements/statement-6c1fc1c120ae.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1)</summary>
+
+- [00:11:58](/episodes/ep-k1b1NDCrNFs.md#t-00-11-43) (Claim) **Candace Owens**: ["Douglas Blake Bednarz claimed to have never-before-seen footage from t..."](/statements/statement-68f02370083e.md)
+  - Also about: [Douglas Blake Bednarz](/entities/person-douglas-blake-bednarz.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2)</summary>
+
+- [00:10:31](/episodes/ep-69A8TzAGHlU.md#t-00-10-31) (Claim) **Brian Harpole**: ["Brian Harpole spent thousands of dollars on drones and obtained a lice..."](/statements/statement-947ff90429d1.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Provo](/entities/gpe-provo.md)
+
+- [00:27:28](/episodes/ep-69A8TzAGHlU.md#t-00-27-12) (Claim) **Brian Harpole**: ["A command-level UVU police official told security that the roof area w..."](/statements/statement-0b5211c42938.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Sorensen Center](/entities/org-sorensen-center.md)
 
 </details>
 

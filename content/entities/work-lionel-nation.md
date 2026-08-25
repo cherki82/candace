@@ -1,6 +1,6 @@
 ---
 title: "Lionel Nation"
-description: "Lionel Nation (Works & Media) - 1 mention"
+description: "Lionel Nation (Works & Media) - 2 mentions"
 id: "work-lionel-nation"
 type: "WORK"
 categories:
@@ -18,9 +18,9 @@ Source: [Lionel Nation - Apple Podcasts](https://podcasts.apple.com/us/podcast/l
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-work-lionel-nation-t-00-50-46">2026-04-01 · 00:50:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-work-lionel-nation-t-00-50-46">2026-04-01 · 00:50:46</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-work-lionel-nation-t-01-09-30">2026-05-05 · 01:09:35</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,12 +32,14 @@ Source: [Lionel Nation - Apple Podcasts](https://podcasts.apple.com/us/podcast/l
 <p>Highest activity: <a href="/episodes/ep-rupRLXmSndU.md#ent-work-lionel-nation-t-00-50-46">Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-rupRLXmSndU.md#ent-work-lionel-nation-t-00-50-46" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-work-lionel-nation-t-01-09-30" style="--pulse-height:100%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-work-lionel-nation-t-00-50-46) | 1 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-work-lionel-nation-t-01-09-30) | 1 |
 
 </details>
 </section>
@@ -45,7 +47,15 @@ Source: [Lionel Nation - Apple Podcasts](https://podcasts.apple.com/us/podcast/l
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1 mentions)</summary>
+
+**[01:09:35](/episodes/ep-eMtjzXkQrsU.md#ent-work-lionel-nation-t-01-09-30)**
+> "Love you, Candace, Baron (Baron Coleman), Tucker (Tucker Carlson), et cetera. Yeah, I mean, I just, everyone, Lionel (Lionel Nation host; full name unverified), I think I've thrown you guys to his channel as well. It's fantastic."
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>

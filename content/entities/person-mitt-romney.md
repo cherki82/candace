@@ -1,6 +1,6 @@
 ---
 title: "Mitt Romney"
-description: "Mitt Romney (People) - 7 mentions"
+description: "Mitt Romney (People) - 10 mentions"
 id: "person-mitt-romney"
 type: "PERSON"
 categories:
@@ -19,9 +19,9 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-person-mitt-romney-t-00-03-24">2026-04-01 · 00:03:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-mitt-romney-t-00-40-51">2026-04-16 · 00:40:51</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-mitt-romney-t-00-47-44">2026-05-13 · 00:47:44</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
@@ -34,6 +34,7 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-mitt-romney-t-00-03-24" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 4 mentions" title="2026-04-01 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-mitt-romney-t-00-40-13" style="--pulse-height:75%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-mitt-romney-t-00-47-13" style="--pulse-height:75%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -41,6 +42,7 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 |---|---|---:|
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-mitt-romney-t-00-03-24) | 4 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-mitt-romney-t-00-40-13) | 3 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-mitt-romney-t-00-47-13) | 3 |
 
 </details>
 </section>
@@ -48,7 +50,21 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (3 mentions)</summary>
+
+**[00:47:30](/episodes/ep-4DvYXBn_5JI.md#ent-person-mitt-romney-t-00-47-13)**
+> "Mitt Romney stuff"
+
+**[00:47:41](/episodes/ep-4DvYXBn_5JI.md#ent-person-mitt-romney-t-00-47-13)**
+> "Utah, I forgot Mitt Romney kind of runs things."
+
+**[00:47:44](/episodes/ep-4DvYXBn_5JI.md#ent-person-mitt-romney-t-00-47-44)**
+> "...t into another piece. But the Mitt Romney thing is incredibly compelling, especially his re..."
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (3 mentions)</summary>

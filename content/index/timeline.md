@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 1241_
+_Total events: 1323_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -296,17 +296,17 @@ _Total events: 1241_
 <input type="radio" id="tab-year-1848" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-year-2026" class="tab-btn">2026 (114)</label>
-  <label for="tab-year-2025" class="tab-btn">2025 (606)</label>
-  <label for="tab-year-2024" class="tab-btn">2024 (79)</label>
-  <label for="tab-year-2023" class="tab-btn">2023 (23)</label>
+  <label for="tab-year-2026" class="tab-btn">2026 (141)</label>
+  <label for="tab-year-2025" class="tab-btn">2025 (648)</label>
+  <label for="tab-year-2024" class="tab-btn">2024 (84)</label>
+  <label for="tab-year-2023" class="tab-btn">2023 (25)</label>
   <label for="tab-year-2022" class="tab-btn">2022 (15)</label>
   <label for="tab-year-2021" class="tab-btn">2021 (17)</label>
   <label for="tab-year-2020" class="tab-btn">2020 (11)</label>
-  <label for="tab-year-2019" class="tab-btn">2019 (22)</label>
-  <label for="tab-year-2018" class="tab-btn">2018 (38)</label>
+  <label for="tab-year-2019" class="tab-btn">2019 (24)</label>
+  <label for="tab-year-2018" class="tab-btn">2018 (39)</label>
   <label for="tab-year-2017" class="tab-btn">2017 (15)</label>
-  <label for="tab-year-2016" class="tab-btn">2016 (12)</label>
+  <label for="tab-year-2016" class="tab-btn">2016 (13)</label>
   <label for="tab-year-2015" class="tab-btn">2015 (9)</label>
   <label for="tab-year-2014" class="tab-btn">2014 (19)</label>
   <label for="tab-year-2013" class="tab-btn">2013 (13)</label>
@@ -314,7 +314,7 @@ _Total events: 1241_
   <label for="tab-year-2011" class="tab-btn">2011 (12)</label>
   <label for="tab-year-2010" class="tab-btn">2010 (13)</label>
   <label for="tab-year-2009" class="tab-btn">2009 (13)</label>
-  <label for="tab-year-2008" class="tab-btn">2008 (8)</label>
+  <label for="tab-year-2008" class="tab-btn">2008 (9)</label>
   <label for="tab-year-2007" class="tab-btn">2007 (11)</label>
   <label for="tab-year-2006" class="tab-btn">2006 (9)</label>
   <label for="tab-year-2005" class="tab-btn">2005 (8)</label>
@@ -323,7 +323,7 @@ _Total events: 1241_
   <label for="tab-year-2002" class="tab-btn">2002 (5)</label>
   <label for="tab-year-2001" class="tab-btn">2001 (7)</label>
   <label for="tab-year-2000" class="tab-btn">2000 (2)</label>
-  <label for="tab-year-1999" class="tab-btn">1999 (13)</label>
+  <label for="tab-year-1999" class="tab-btn">1999 (14)</label>
   <label for="tab-year-1998" class="tab-btn">1998 (6)</label>
   <label for="tab-year-1997" class="tab-btn">1997 (6)</label>
   <label for="tab-year-1996" class="tab-btn">1996 (3)</label>
@@ -397,6 +397,160 @@ _Total events: 1241_
 </details>
 </div>
 
+**May**
+
+<div class="timeline-event filter-item" id="event-2026-05-supporters-of-ben-shapiro-began-calling-">
+<div class="timeline-date">2026-05</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-supporters-of-ben-shapiro-began-calling-.md">Supporters of Ben Shapiro began calling for a boycott of Candace Owens's sponsors.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05: Supporters of Ben Shapiro began calling for a boycott of Candace Owens\'s sponsors. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE... @ 00:23:09](/episodes/ep-uC_GjKU8rs8.md#t-00-23-09)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-candace-owens-said-paramount-tactical-ad">
+<div class="timeline-date">2026-05</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-candace-owens-said-paramount-tactical-ad.md">Candace Owens said Paramount Tactical admitted that a boy in Erika Kirk's Fort Huachuca alibi photo was not her son.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05: Candace Owens said Paramount Tactical admitted that a boy in Erika Kirk\'s Fort Huachuca alibi photo was not her son. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Update! Erika Did Not Go Home. Source Confirms ... @ 00:52:26](/episodes/ep-KpxIBWkNsSs.md#t-00-52-26)
+- [September 10th: The OTHER Shooting That The Med... @ 00:34:55](/episodes/ep-4DvYXBn_5JI.md#t-00-34-46)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-drewski-released-a-video-targeting-black">
+<div class="timeline-date">2026-05</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-drewski-released-a-video-targeting-black.md">Drewski released a video targeting Black British actors.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05: Drewski released a video targeting Black British actors. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Update! Erika Did Not Go Home. Source Confirms ... @ 00:41:55](/episodes/ep-KpxIBWkNsSs.md#t-00-41-55)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-10-project-constitution-posted-a-rumor-that">
+<div class="timeline-date">2026-05-10</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-10-project-constitution-posted-a-rumor-that.md">Project Constitution posted a rumor that Andrew Kolvet was divorcing his wife.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05-10: Project Constitution posted a rumor that Andrew Kolvet was divorcing his wife. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Update! Erika Did Not Go Home. Source Confirms ... @ 00:01:51](/episodes/ep-KpxIBWkNsSs.md#t-00-01-51)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-09-erika-kirk-delivered-the-commencement-ad">
+<div class="timeline-date">2026-05-09</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-09-erika-kirk-delivered-the-commencement-ad.md">Erika Kirk delivered the commencement address at Hillsdale College.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05-09: Erika Kirk delivered the commencement address at Hillsdale College. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Update! Erika Did Not Go Home. Source Confirms ... @ 00:15:30](/episodes/ep-KpxIBWkNsSs.md#t-00-15-21)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-09-hillsdale-college-awarded-honorary-docto">
+<div class="timeline-date">2026-05-09</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-09-hillsdale-college-awarded-honorary-docto.md">Hillsdale College awarded honorary doctorates to Erika Kirk and Charlie Kirk.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05-09: Hillsdale College awarded honorary doctorates to Erika Kirk and Charlie Kirk. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Update! Erika Did Not Go Home. Source Confirms ... @ 00:15:40](/episodes/ep-KpxIBWkNsSs.md#t-00-15-21)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-07-the-daily-mail-published-an-article-abou">
+<div class="timeline-date">2026-05-07</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-07-the-daily-mail-published-an-article-abou.md">The Daily Mail published an article about the marriage of Jessica Reed Kraus.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05-07: The Daily Mail published an article about the marriage of Jessica Reed Kraus. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [STAGED? Erika’s VIRAL White House Correspondent... @ 00:29:09](/episodes/ep-FFQ9675oqRI.md#t-00-29-02)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-06-thomas-massie-appeared-on-the-tucker-car">
+<div class="timeline-date">2026-05-06</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-06-thomas-massie-appeared-on-the-tucker-car.md">Thomas Massie appeared on the Tucker Carlson Show and discussed outside spending in his Kentucky congressional race.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05-06: Thomas Massie appeared on the Tucker Carlson Show and discussed outside spending in his Kentucky congressional race. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [STAGED? Erika’s VIRAL White House Correspondent... @ 00:22:39](/episodes/ep-FFQ9675oqRI.md#t-00-22-39)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-05-jeremy-boreing-discussed-public-allegati">
+<div class="timeline-date">2026-05-05</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-05-jeremy-boreing-discussed-public-allegati.md">Jeremy Boreing discussed public allegations about George Farmer on his show.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05-05: Jeremy Boreing discussed public allegations about George Farmer on his show. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Brian Harpole Sends Out MORE Legal Notices. Jer... @ 00:30:31](/episodes/ep-k1b1NDCrNFs.md#t-00-30-31)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-04-blake-lively-and-justin-baldoni-settled-">
+<div class="timeline-date">2026-05-04</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-04-blake-lively-and-justin-baldoni-settled-.md">Blake Lively and Justin Baldoni settled their It Ends With Us legal dispute.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05-04: Blake Lively and Justin Baldoni settled their It Ends With Us legal dispute. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE... @ 00:53:31](/episodes/ep-uC_GjKU8rs8.md#t-00-53-01)
+- [A Tale of Two PR Disasters: Blake Lively & Turn... @ 00:52:53](/episodes/ep-eMtjzXkQrsU.md#t-00-52-53)
+
+</details>
+</div>
+
 **April**
 
 <div class="timeline-event filter-item" id="event-2026-04-lance-twiggs-gave-a-recorded-interview-u">
@@ -433,13 +587,14 @@ _Total events: 1241_
 <div class="timeline-date">2026-04</div>
 <div class="timeline-desc"><a href="/events/event-2026-04-two-turning-point-usa-donors-told-candac.md">Two Turning Point USA donors told Candace Owens that Charlie Kirk did not say he appointed Erika Kirk at the Aspen retreat.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-04: Two Turning Point USA donors told Candace Owens that Charlie Kirk did not say he appointed Erika Kirk at the Aspen retreat. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:12:11](/episodes/ep-eLgD5yUVbko.md#t-00-12-01)
+- [Update! Erika Did Not Go Home. Source Confirms ... @ 00:04:37](/episodes/ep-KpxIBWkNsSs.md#t-00-04-22)
 
 </details>
 </div>
@@ -500,6 +655,225 @@ _Total events: 1241_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather R... @ 00:41:43](/episodes/ep-kaWtDuoY_ns.md#t-00-41-38)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-candace-owens-received-catholic-confirma">
+<div class="timeline-date">2026-04</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-candace-owens-received-catholic-confirma.md">Candace Owens received Catholic confirmation in Rome in the old Latin rite.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04: Candace Owens received Catholic confirmation in Rome in the old Latin rite. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Can... @ 01:07:36](/episodes/ep-qZ8RWfyuewQ.md#t-01-07-11)
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE... @ 00:59:08](/episodes/ep-uC_GjKU8rs8.md#t-00-59-08)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-candace-owens-received-a-pre-filing-noti">
+<div class="timeline-date">2026-04</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-candace-owens-received-a-pre-filing-noti.md">Candace Owens received a pre-filing notice email from Brian Harpole's lawyer before he sued her.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04: Candace Owens received a pre-filing notice email from Brian Harpole\'s lawyer before he sued her. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace... @ 00:01:23](/episodes/ep-69A8TzAGHlU.md#t-00-01-23)
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE... @ 00:32:23](/episodes/ep-uC_GjKU8rs8.md#t-00-32-05)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-30-brian-harpole-filed-a-federal-defamation">
+<div class="timeline-date">2026-04-30</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-30-brian-harpole-filed-a-federal-defamation.md">Brian Harpole filed a federal defamation lawsuit against Candace Owens and other defendants.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">4× in 4 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-30: Brian Harpole filed a federal defamation lawsuit against Candace Owens and other defendants. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace... @ 00:00:47](/episodes/ep-69A8TzAGHlU.md#t-00-00-35)
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE... @ 00:00:41](/episodes/ep-uC_GjKU8rs8.md#t-00-00-41)
+- [Brian Harpole Sends Out MORE Legal Notices. Jer... @ 00:01:18](/episodes/ep-k1b1NDCrNFs.md#t-00-01-18)
+- [Update! Erika Did Not Go Home. Source Confirms ... @ 00:55:32](/episodes/ep-KpxIBWkNsSs.md#t-00-54-59)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-30-the-daily-wire-began-a-mass-layoff-round">
+<div class="timeline-date">2026-04-30</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-30-the-daily-wire-began-a-mass-layoff-round.md">The Daily Wire began a mass-layoff round affecting approximately 54 employees.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-30: The Daily Wire began a mass-layoff round affecting approximately 54 employees. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE... @ 00:03:26](/episodes/ep-uC_GjKU8rs8.md#t-00-03-26)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-29-erika-kirk-said-on-the-charlie-kirk-show">
+<div class="timeline-date">2026-04-29</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-29-erika-kirk-said-on-the-charlie-kirk-show.md">Erika Kirk said on the Charlie Kirk Show that Candace Owens claimed she murdered her husband.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-29: Erika Kirk said on the Charlie Kirk Show that Candace Owens claimed she murdered her husband. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Can... @ 00:47:31](/episodes/ep-qZ8RWfyuewQ.md#t-00-47-25)
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace... @ 00:50:44](/episodes/ep-69A8TzAGHlU.md#t-00-50-20)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-29-representatives-mike-lawler-and-josh-got">
+<div class="timeline-date">2026-04-29</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-29-representatives-mike-lawler-and-josh-got.md">Representatives Mike Lawler and Josh Gottheimer introduced a bipartisan House resolution condemning rhetoric by Hasan Piker and Candace Owens.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-29: Representatives Mike Lawler and Josh Gottheimer introduced a bipartisan House resolution condemning rhetoric by Hasan Piker and Candace Owens. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace... @ 00:50:59](/episodes/ep-69A8TzAGHlU.md#t-00-50-59)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-29-candace-owens-offered-a-10000-bounty-for">
+<div class="timeline-date">2026-04-29</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-29-candace-owens-offered-a-10000-bounty-for.md">Candace Owens offered a $10,000 bounty for information about footage of Erika Kirk leaving the White House Correspondents' Dinner.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-29: Candace Owens offered a $10,000 bounty for information about footage of Erika Kirk leaving the White House Correspondents\' Dinner. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [STAGED? Erika’s VIRAL White House Correspondent... @ 00:01:14](/episodes/ep-FFQ9675oqRI.md#t-00-01-14)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-27-melania-trump-criticized-jimmy-kimmels-r">
+<div class="timeline-date">2026-04-27</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-27-melania-trump-criticized-jimmy-kimmels-r.md">Melania Trump criticized Jimmy Kimmel's rhetoric as hateful and violent in a social media post.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-27: Melania Trump criticized Jimmy Kimmel\'s rhetoric as hateful and violent in a social media post. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Can... @ 00:00:45](/episodes/ep-qZ8RWfyuewQ.md#t-00-00-45)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-25-candace-owens-said-the-white-house-milit">
+<div class="timeline-date">2026-04-25 <span class='time'>21:49</span></div>
+<div class="timeline-desc"><a href="/events/event-2026-04-25-candace-owens-said-the-white-house-milit.md">Candace Owens said the White House Military Office emailed a recommendation to amplify Erika Kirk's 'I want to go home' clip.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-25 21:49: Candace Owens said the White House Military Office emailed a recommendation to amplify Erika Kirk\'s \'I want to go home\' clip. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING! The White House Attempted To Rescind ... @ 00:08:00](/episodes/ep-7FS1tUeSfdE.md#t-00-08-00)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-25-sara-sidner-uploaded-erika-kirks-i-want-">
+<div class="timeline-date">2026-04-25 <span class='time'>21:25</span></div>
+<div class="timeline-desc"><a href="/events/event-2026-04-25-sara-sidner-uploaded-erika-kirks-i-want-.md">Sara Sidner uploaded Erika Kirk's 'I want to go home' video to Instagram.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-25 21:25: Sara Sidner uploaded Erika Kirk\'s \'I want to go home\' video to Instagram. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING! The White House Attempted To Rescind ... @ 00:03:17](/episodes/ep-7FS1tUeSfdE.md#t-00-02-59)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-25-an-armed-man-breached-a-white-house-corr">
+<div class="timeline-date">2026-04-25</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-25-an-armed-man-breached-a-white-house-corr.md">An armed man breached a White House Correspondents' Dinner security checkpoint and Secret Service agents opened fire.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">3× in 3 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-25: An armed man breached a White House Correspondents\' Dinner security checkpoint and Secret Service agents opened fire. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Can... @ 00:28:56](/episodes/ep-qZ8RWfyuewQ.md#t-00-28-56)
+- [STAGED? Erika’s VIRAL White House Correspondent... @ 00:07:05](/episodes/ep-FFQ9675oqRI.md#t-00-06-50)
+- [BREAKING! The White House Attempted To Rescind ... @ 00:02:59](/episodes/ep-7FS1tUeSfdE.md#t-00-02-59)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-25-email-recall-candace-owens-said-the-whit">
+<div class="timeline-date">2026-04-25</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-25-email-recall-candace-owens-said-the-whit.md">Email recall: Candace Owens said the White House Military Office attempted to rescind its Erika Kirk clip email and ordered recipients to delete it.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-25: Email recall: Candace Owens said the White House Military Office attempted to rescind its Erika Kirk clip email and ordered recipients to delete it. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING! The White House Attempted To Rescind ... @ 00:10:48](/episodes/ep-7FS1tUeSfdE.md#t-00-10-48)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-24-donald-trump-posted-a-mock-time-cover-at">
+<div class="timeline-date">2026-04-24</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-24-donald-trump-posted-a-mock-time-cover-at.md">Donald Trump posted a mock Time cover attacking Candace Owens on Truth Social.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-24: Donald Trump posted a mock Time cover attacking Candace Owens on Truth Social. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Can... @ 00:02:41](/episodes/ep-qZ8RWfyuewQ.md#t-00-02-41)
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE... @ 00:00:31](/episodes/ep-uC_GjKU8rs8.md#t-00-00-00)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-23-jimmy-kimmel-joked-that-melania-trump-ha">
+<div class="timeline-date">2026-04-23</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-23-jimmy-kimmel-joked-that-melania-trump-ha.md">Jimmy Kimmel joked that Melania Trump had the glow of an expectant widow.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-23: Jimmy Kimmel joked that Melania Trump had the glow of an expectant widow. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Can... @ 00:45:55](/episodes/ep-qZ8RWfyuewQ.md#t-00-45-38)
 
 </details>
 </div>
@@ -852,6 +1226,37 @@ _Total events: 1241_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-04-02-a-judge-dismisses-10-of-blake-livelys-13">
+<div class="timeline-date">2026-04-02</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-02-a-judge-dismisses-10-of-blake-livelys-13.md">A judge dismisses 10 of Blake Lively's 13 allegations against Justin Baldoni</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-02: A judge dismisses 10 of Blake Lively\'s 13 allegations against Justin Baldoni - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turn... @ 00:46:44](/episodes/ep-eMtjzXkQrsU.md#t-00-46-44)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-02-candace-owens-publicly-requested-footage">
+<div class="timeline-date">2026-04-02</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-02-candace-owens-publicly-requested-footage.md">Candace Owens publicly requested footage purportedly showing Charlie Kirk naming Erika Kirk as chairman and CEO.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-02: Candace Owens publicly requested footage purportedly showing Charlie Kirk naming Erika Kirk as chairman and CEO. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [STAGED? Erika’s VIRAL White House Correspondent... @ 00:00:01](/episodes/ep-FFQ9675oqRI.md#t-00-00-01)
+- [Update! Erika Did Not Go Home. Source Confirms ... @ 00:07:32](/episodes/ep-KpxIBWkNsSs.md#t-00-07-01)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2026-04-01-prosecutors-stated-that-they-had-disclos">
 <div class="timeline-date">2026-04-01</div>
 <div class="timeline-desc"><a href="/events/event-2026-04-01-prosecutors-stated-that-they-had-disclos.md">Prosecutors stated that they had disclosed all presently and reasonably available evidence to the defense.</a></div>
@@ -1039,7 +1444,7 @@ _Total events: 1241_
 <div class="timeline-date">2026-03-19</div>
 <div class="timeline-desc"><a href="/events/event-2026-03-19-candace-owens-spoke-at-the-catholics-for.md">Candace Owens spoke at the Catholics for Catholics Catholic Prayer for America Gala.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-19: Candace Owens spoke at the Catholics for Catholics Catholic Prayer for America Gala. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -1047,6 +1452,7 @@ _Total events: 1241_
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:50:05](/episodes/ep-B9TyCs-6o_0.md#t-00-49-40)
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:33:40](/episodes/ep-5m-Wn6Pr5rM.md#t-00-33-27)
+- [TIME MAGAZINE: World’s Most VILE Person?! | Can... @ 01:06:35](/episodes/ep-qZ8RWfyuewQ.md#t-01-06-24)
 
 </details>
 </div>
@@ -2056,13 +2462,14 @@ _Total events: 1241_
 <div class="timeline-date">2026-01-05</div>
 <div class="timeline-desc"><a href="/events/event-2026-01-05-candace-owens-reported-that-the-daily-wi.md">Candace Owens reported that the Daily Wire reactivated her old social-media accounts and released an old promotional trailer.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-01-05: Candace Owens reported that the Daily Wire reactivated her old social-media accounts and released an old promotional trailer. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [You Won't Believe What Happened While We Were O... @ 00:31:02](/episodes/ep-OEAHy3SsIiI.md#t-00-30-26)
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE... @ 00:14:34](/episodes/ep-uC_GjKU8rs8.md#t-00-14-34)
 
 </details>
 </div>
@@ -2094,6 +2501,21 @@ _Total events: 1241_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [American Horror Story: Charlie Kirk’s “Shining”... @ 00:34:41](/episodes/ep-CMcktj3Egfo.md#t-00-34-00)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-01-04-candace-owens-messaged-dan-flood-seeking">
+<div class="timeline-date">2026-01-04</div>
+<div class="timeline-desc"><a href="/events/event-2026-01-04-candace-owens-messaged-dan-flood-seeking.md">Candace Owens messaged Dan Flood seeking a conversation with Brian Harpole.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-01-04: Candace Owens messaged Dan Flood seeking a conversation with Brian Harpole. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Brian Harpole Sends Out MORE Legal Notices. Jer... @ 00:22:56](/episodes/ep-k1b1NDCrNFs.md#t-00-22-56)
 
 </details>
 </div>
@@ -2171,6 +2593,21 @@ _Total events: 1241_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-12-candace-owens-stopped-replying-to-dougla">
+<div class="timeline-date">2025-12</div>
+<div class="timeline-desc"><a href="/events/event-2025-12-candace-owens-stopped-replying-to-dougla.md">Candace Owens stopped replying to Douglas Blake Bednarz in mid-December 2025.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-12: Candace Owens stopped replying to Douglas Blake Bednarz in mid-December 2025. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Brian Harpole Sends Out MORE Legal Notices. Jer... @ 00:13:23](/episodes/ep-k1b1NDCrNFs.md#t-00-12-59)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-12-28-candace-owens-received-a-redacted-screen">
 <div class="timeline-date">2025-12-28</div>
 <div class="timeline-desc"><a href="/events/event-2025-12-28-candace-owens-received-a-redacted-screen.md">Candace Owens received a redacted screenshot presented as a September 8 conversation between Erika Kirk and Charlie Kirk about dinner.</a></div>
@@ -2201,6 +2638,21 @@ _Total events: 1241_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-12-27-candace-owens-sent-andrew-kolvet-and-jus">
+<div class="timeline-date">2025-12-27</div>
+<div class="timeline-desc"><a href="/events/event-2025-12-27-candace-owens-sent-andrew-kolvet-and-jus.md">Candace Owens sent Andrew Kolvet and Justin Streiff a group message about Fort Huachuca.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-27: Candace Owens sent Andrew Kolvet and Justin Streiff a group message about Fort Huachuca. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Brian Harpole Sends Out MORE Legal Notices. Jer... @ 00:20:07](/episodes/ep-k1b1NDCrNFs.md#t-00-19-45)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-12-23-candace-owens-alleged-that-a-video-relea">
 <div class="timeline-date">2025-12-23</div>
 <div class="timeline-desc"><a href="/events/event-2025-12-23-candace-owens-alleged-that-a-video-relea.md">Candace Owens alleged that a video released with the Epstein files was fake and was later removed.</a></div>
@@ -2212,6 +2664,21 @@ _Total events: 1241_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi G... @ 00:46:21](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-06)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-12-23-candace-owens-posted-fort-huachuca-confi">
+<div class="timeline-date">2025-12-23</div>
+<div class="timeline-desc"><a href="/events/event-2025-12-23-candace-owens-posted-fort-huachuca-confi.md">Candace Owens posted 'Fort Huachuca confirmed' on X.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-23: Candace Owens posted \'Fort Huachuca confirmed\' on X. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace... @ 00:29:59](/episodes/ep-69A8TzAGHlU.md#t-00-29-47)
 
 </details>
 </div>
@@ -2276,6 +2743,21 @@ _Total events: 1241_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-12-19-candace-owens-followed-up-with-brian-har">
+<div class="timeline-date">2025-12-19</div>
+<div class="timeline-desc"><a href="/events/event-2025-12-19-candace-owens-followed-up-with-brian-har.md">Candace Owens followed up with Brian Harpole asking about his whereabouts on September 9.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-19: Candace Owens followed up with Brian Harpole asking about his whereabouts on September 9. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace... @ 00:22:38](/episodes/ep-69A8TzAGHlU.md#t-00-22-08)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-12-18-tpusa-amfest-scheduled---tpusa-aims-to-s">
 <div class="timeline-date">2025-12-18</div>
 <div class="timeline-desc"><a href="/events/event-2025-12-18-tpusa-amfest-scheduled---tpusa-aims-to-s.md">TPUSA AmFest scheduled - TPUSA aims to squash Charlie Kirk assassination investigation questions before this event</a></div>
@@ -2303,6 +2785,21 @@ _Total events: 1241_
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:05:57](/episodes/ep-zSKrxIUMNqw.md#t-00-05-43)
 - [American Horror Story: Charlie Kirk’s “Shining”... @ 00:40:10](/episodes/ep-CMcktj3Egfo.md#t-00-39-38)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-12-18-candace-owens-interviewed-mitch-snow-abo">
+<div class="timeline-date">2025-12-18</div>
+<div class="timeline-desc"><a href="/events/event-2025-12-18-candace-owens-interviewed-mitch-snow-abo.md">Candace Owens interviewed Mitch Snow about his Fort Huachuca account.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-18: Candace Owens interviewed Mitch Snow about his Fort Huachuca account. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Update! Erika Did Not Go Home. Source Confirms ... @ 00:50:58](/episodes/ep-KpxIBWkNsSs.md#t-00-50-30)
 
 </details>
 </div>
@@ -2472,7 +2969,7 @@ _Total events: 1241_
 <div class="timeline-date">2025-12-15</div>
 <div class="timeline-desc"><a href="/events/event-2025-12-15-candace-owens-and-erika-kirk-meeting.md">Candace Owens and Erika Kirk meeting</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">5× in 5 eps</span>
+<span class="timeline-badge mentions">9× in 9 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-15: Candace Owens and Erika Kirk meeting - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -2483,6 +2980,10 @@ _Total events: 1241_
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:35:06](/episodes/ep-5m-Wn6Pr5rM.md#t-00-34-49)
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi G... @ 00:04:40](/episodes/ep-q1NRQQAYS_Q.md#t-00-04-21)
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather R... @ 00:08:50](/episodes/ep-kaWtDuoY_ns.md#t-00-08-50)
+- [TIME MAGAZINE: World’s Most VILE Person?! | Can... @ 00:52:45](/episodes/ep-qZ8RWfyuewQ.md#t-00-52-45)
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace... @ 00:47:39](/episodes/ep-69A8TzAGHlU.md#t-00-47-14)
+- [Brian Harpole Sends Out MORE Legal Notices. Jer... @ 00:19:20](/episodes/ep-k1b1NDCrNFs.md#t-00-19-07)
+- [Update! Erika Did Not Go Home. Source Confirms ... @ 00:48:52](/episodes/ep-KpxIBWkNsSs.md#t-00-48-33)
 
 </details>
 </div>
@@ -2568,13 +3069,14 @@ _Total events: 1241_
 <div class="timeline-date">2025-12-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-12-10-erika-kirk-interview-with-harris-faulkne.md">Erika Kirk interview with Harris Faulkner on Fox News Outnumbered addressing conspiracy theories</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-10: Erika Kirk interview with Harris Faulkner on Fox News Outnumbered addressing conspiracy theories - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theor... @ 00:00:35](/episodes/ep-6DhWawD4ZiM.md#t-00-00-00)
+- [Update! Erika Did Not Go Home. Source Confirms ... @ 00:48:01](/episodes/ep-KpxIBWkNsSs.md#t-00-47-51)
 
 </details>
 </div>
@@ -2598,13 +3100,30 @@ _Total events: 1241_
 <div class="timeline-date">2025-12-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-12-10-erika-kirk-town-hall-with-bari-weiss-fil.md">Erika Kirk town hall with Bari Weiss filmed at CBS for later broadcast</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-10: Erika Kirk town hall with Bari Weiss filmed at CBS for later broadcast - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theor... @ 00:35:01](/episodes/ep-6DhWawD4ZiM.md#t-00-34-47)
+- [Update! Erika Did Not Go Home. Source Confirms ... @ 00:48:01](/episodes/ep-KpxIBWkNsSs.md#t-00-47-51)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-12-09-candace-owens-aired-a-solo-episode-about">
+<div class="timeline-date">2025-12-09</div>
+<div class="timeline-desc"><a href="/events/event-2025-12-09-candace-owens-aired-a-solo-episode-about.md">Candace Owens aired a solo episode about the Fort Huachuca account.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-09: Candace Owens aired a solo episode about the Fort Huachuca account. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace... @ 00:20:32](/episodes/ep-69A8TzAGHlU.md#t-00-20-16)
+- [Update! Erika Did Not Go Home. Source Confirms ... @ 00:47:07](/episodes/ep-KpxIBWkNsSs.md#t-00-47-07)
 
 </details>
 </div>
@@ -7393,6 +7912,21 @@ _Total events: 1241_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-11-19-candace-owens-said-she-first-mentioned-b">
+<div class="timeline-date">2025-11-19</div>
+<div class="timeline-desc"><a href="/events/event-2025-11-19-candace-owens-said-she-first-mentioned-b.md">Candace Owens said she first mentioned Brian Harpole by name on her show.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-11-19: Candace Owens said she first mentioned Brian Harpole by name on her show. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace... @ 00:17:12](/episodes/ep-69A8TzAGHlU.md#t-00-16-47)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-11-18-president-donald-trump-pardoned-tyler-bowyer-pardon">
 <div class="timeline-date">2025-11-18</div>
 <div class="timeline-desc"><a href="/events/event-2025-11-18-president-donald-trump-pardoned-tyler-bowyer-pardon.md">President Donald Trump pardoned Tyler Bowyer (pardon referenced as occurring a couple weeks earlier).</a></div>
@@ -7425,6 +7959,21 @@ _Total events: 1241_
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20)
 - [BREAKING NEWS: FBI Pressuring Utah To Close The... @ 00:00:48](/episodes/ep-QZWSsq8ZWzw.md#t-00-00-45)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:29:56](/episodes/ep-SKGUzGHymcI.md#t-00-29-52)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-11-17-brian-harpole-appeared-on-the-shawn-ryan">
+<div class="timeline-date">2025-11-17</div>
+<div class="timeline-desc"><a href="/events/event-2025-11-17-brian-harpole-appeared-on-the-shawn-ryan.md">Brian Harpole appeared on The Shawn Ryan Show.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-11-17: Brian Harpole appeared on The Shawn Ryan Show. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace... @ 00:16:28](/episodes/ep-69A8TzAGHlU.md#t-00-16-16)
 
 </details>
 </div>
@@ -8883,13 +9432,14 @@ _Total events: 1241_
 <div class="timeline-date">2025-11-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-11-10-sergio-gor-sworn-in-as-us-ambassador-to-.md">Sergio Gor sworn in as US Ambassador to India, Erika Kirk attends Oval Office ceremony</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-11-10: Sergio Gor sworn in as US Ambassador to India, Erika Kirk attends Oval Office ceremony - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theor... @ 00:10:14](/episodes/ep-6DhWawD4ZiM.md#t-00-09-46)
+- [BREAKING! The White House Attempted To Rescind ... @ 00:23:30](/episodes/ep-7FS1tUeSfdE.md#t-00-23-30)
 
 </details>
 </div>
@@ -8940,6 +9490,21 @@ _Total events: 1241_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace E... @ 00:38:03](/episodes/ep-1hcjQGgvxUY.md#t-00-37-19)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-11-08-candace-owens-said-she-first-mentioned-a">
+<div class="timeline-date">2025-11-08</div>
+<div class="timeline-desc"><a href="/events/event-2025-11-08-candace-owens-said-she-first-mentioned-a.md">Candace Owens said she first mentioned a source who claimed to have seen Brian Harpole at Fort Huachuca.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-11-08: Candace Owens said she first mentioned a source who claimed to have seen Brian Harpole at Fort Huachuca. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace... @ 00:20:16](/episodes/ep-69A8TzAGHlU.md#t-00-20-16)
 
 </details>
 </div>
@@ -10906,6 +11471,21 @@ _Total events: 1241_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-10-13-the-josh-hammer-show-joins-the-salem-pod">
+<div class="timeline-date">2025-10-13</div>
+<div class="timeline-desc"><a href="/events/event-2025-10-13-the-josh-hammer-show-joins-the-salem-pod.md">The Josh Hammer Show joins the Salem Podcast Network through a Newsweek distribution partnership</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-10-13: The Josh Hammer Show joins the Salem Podcast Network through a Newsweek distribution partnership - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turn... @ 00:38:35](/episodes/ep-eMtjzXkQrsU.md#t-00-38-16)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-10-11-candace-owens-tweets-about-egyptian-military-plane">
 <div class="timeline-date">2025-10-11</div>
 <div class="timeline-desc"><a href="/events/event-2025-10-11-candace-owens-tweets-about-egyptian-military-plane.md">Candace Owens tweets about Egyptian military plane leaving Provo</a></div>
@@ -11011,6 +11591,21 @@ _Total events: 1241_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Operation: “See you in Valhalla, Charlie”. | Ca... @ 00:25:41](/episodes/ep-mKXdKV-OBog.md#t-00-25-28)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-10-10-jefferson-county-sheriffs-office-issued-">
+<div class="timeline-date">2025-10-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-10-10-jefferson-county-sheriffs-office-issued-.md">Jefferson County Sheriff's Office issued an update on the Evergreen High School shooting response</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-10-10: Jefferson County Sheriff\'s Office issued an update on the Evergreen High School shooting response - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [September 10th: The OTHER Shooting That The Med... @ 00:17:21](/episodes/ep-4DvYXBn_5JI.md#t-00-17-12)
 
 </details>
 </div>
@@ -11899,13 +12494,14 @@ _Total events: 1241_
 <div class="timeline-date">2025-09</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-the-turning-point-usa-board-selected-eri.md">The Turning Point USA board selected Erika Kirk as CEO and chair within about 72 hours of Charlie Kirk's death.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09: The Turning Point USA board selected Erika Kirk as CEO and chair within about 72 hours of Charlie Kirk\'s death. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…... @ 00:10:12](/episodes/ep-QdM9jLwjwLw.md#t-00-10-12)
+- [BREAKING! The White House Attempted To Rescind ... @ 00:20:14](/episodes/ep-7FS1tUeSfdE.md#t-00-19-43)
 
 </details>
 </div>
@@ -12043,6 +12639,21 @@ _Total events: 1241_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather R... @ 00:11:41](/episodes/ep-kaWtDuoY_ns.md#t-00-11-41)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-candace-owens-said-she-publicly-defended">
+<div class="timeline-date">2025-09</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-candace-owens-said-she-publicly-defended.md">Candace Owens said she publicly defended the Turning Point USA security team and Dan Flood on her podcast.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09: Candace Owens said she publicly defended the Turning Point USA security team and Dan Flood on her podcast. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace... @ 00:18:30](/episodes/ep-69A8TzAGHlU.md#t-00-18-14)
 
 </details>
 </div>
@@ -12413,6 +13024,21 @@ _Total events: 1241_
 - [Bearing False Witness: Who Made The Charlie Kir... @ 00:08:25](/episodes/ep-UBkFkg4UNY8.md#t-00-07-53)
 - [BREAKING NEWS: A Woman Was Seen With Charlie Ki... @ 00:03:05](/episodes/ep-adJ4LNGp84I.md#t-00-02-54)
 - [BREAKING NEWS: A Woman Was Seen With Charlie Ki... @ 00:07:42](/episodes/ep-adJ4LNGp84I.md#t-00-06-59)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-27-show-faith-by-works-filed-a-fara-registr">
+<div class="timeline-date">2025-09-27</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-27-show-faith-by-works-filed-a-fara-registr.md">Show Faith by Works filed a FARA registration for an Israel-linked church geofencing campaign.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-27: Show Faith by Works filed a FARA registration for an Israel-linked church geofencing campaign. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE... @ 00:36:17](/episodes/ep-uC_GjKU8rs8.md#t-00-36-07)
 
 </details>
 </div>
@@ -13828,7 +14454,7 @@ _Total events: 1241_
 <div class="timeline-date">2025-09-21</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-21-charlie-kirks-public-memorial-was-held-a.md">Charlie Kirk's public memorial was held at State Farm Stadium.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-21: Charlie Kirk\'s public memorial was held at State Farm Stadium. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -13837,6 +14463,22 @@ _Total events: 1241_
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:09:35](/episodes/ep-A39g5oqB_eM.md#t-00-09-18)
 - [AND ANOTHER ONE: Charlie's Text On September 9t... @ 00:13:55](/episodes/ep-Wjul6YV6izo.md#t-00-13-55)
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:25:49](/episodes/ep-mFuno0TuuQQ.md#t-00-25-18)
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE... @ 00:40:13](/episodes/ep-uC_GjKU8rs8.md#t-00-40-13)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-21-charlie-kirks-memorial-is-geofenced">
+<div class="timeline-date">2025-09-21</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-21-charlie-kirks-memorial-is-geofenced.md">Charlie Kirk's memorial is geofenced</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-21: Charlie Kirk\'s memorial is geofenced - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turn... @ 00:38:35](/episodes/ep-eMtjzXkQrsU.md#t-00-38-16)
 
 </details>
 </div>
@@ -14941,6 +15583,21 @@ _Total events: 1241_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-18-dhillon-law-group-registers-clocktower-x">
+<div class="timeline-date">2025-09-18</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-18-dhillon-law-group-registers-clocktower-x.md">Dhillon Law Group registers Clocktower X and Show Faith by Works with FARA for Israel-related campaigns</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-18: Dhillon Law Group registers Clocktower X and Show Faith by Works with FARA for Israel-related campaigns - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turn... @ 00:38:25](/episodes/ep-eMtjzXkQrsU.md#t-00-38-16)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-17-sheriff-holds-press-conference-on-tyler-robinson-c">
 <div class="timeline-date">2025-09-17</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-17-sheriff-holds-press-conference-on-tyler-robinson-c.md">Sheriff holds press conference on Tyler Robinson custody.</a></div>
@@ -15029,6 +15686,21 @@ _Total events: 1241_
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:04:06](/episodes/ep-UYkXV9mYbT4.md#t-00-03-58)
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux... @ 00:04:38](/episodes/ep-xi8SYJTUXPM.md#t-00-04-11)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-17-local-colorado-media-reported-that-chari">
+<div class="timeline-date">2025-09-17</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-17-local-colorado-media-reported-that-chari.md">Local Colorado media reported that Charis Bible College had planned to host Charlie Kirk</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-17: Local Colorado media reported that Charis Bible College had planned to host Charlie Kirk - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [September 10th: The OTHER Shooting That The Med... @ 00:09:02](/episodes/ep-4DvYXBn_5JI.md#t-00-09-02)
 
 </details>
 </div>
@@ -16298,10 +16970,10 @@ _Total events: 1241_
 
 <div class="timeline-event filter-item" id="event-2025-09-16-erika-kirk-held-a-zoom-call-with-turning">
 <div class="timeline-date">2025-09-16</div>
-<div class="timeline-desc"><a href="/events/event-2025-09-16-erika-kirk-held-a-zoom-call-with-turning.md">Erika Kirk held a Zoom call with Turning Point USA employees five days after Charlie Kirk's assassination.</a></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-16-erika-kirk-held-a-zoom-call-with-turning.md">Erika Kirk held a Zoom call with Turning Point USA employees six days after Charlie Kirk's assassination.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">5× in 5 eps</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-16: Erika Kirk held a Zoom call with Turning Point USA employees five days after Charlie Kirk\'s assassination. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+<span class="timeline-badge mentions">6× in 6 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-16: Erika Kirk held a Zoom call with Turning Point USA employees six days after Charlie Kirk\'s assassination. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
@@ -16311,6 +16983,7 @@ _Total events: 1241_
 - [AND ANOTHER ONE: Charlie's Text On September 9t... @ 00:02:04](/episodes/ep-Wjul6YV6izo.md#t-00-01-30)
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace ... @ 00:24:01](/episodes/ep-QRS_hR7NXaQ.md#t-00-24-01)
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:10:54](/episodes/ep-ZAsV0fHGBiM.md#t-00-10-44)
+- [Update! Erika Did Not Go Home. Source Confirms ... @ 00:35:57](/episodes/ep-KpxIBWkNsSs.md#t-00-35-57)
 
 </details>
 </div>
@@ -18701,6 +19374,21 @@ _Total events: 1241_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-12-benjamin-netanyahu-denies-that-israel-ki">
+<div class="timeline-date">2025-09-12</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-12-benjamin-netanyahu-denies-that-israel-ki.md">Benjamin Netanyahu denies that Israel killed Charlie Kirk on Greta Van Susteren's show</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-12: Benjamin Netanyahu denies that Israel killed Charlie Kirk on Greta Van Susteren\'s show - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turn... @ 00:38:16](/episodes/ep-eMtjzXkQrsU.md#t-00-38-16)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-11-lance-twiggs-questioned-by-authorities-and-release">
 <div class="timeline-date">2025-09-11 <span class='time'>23:00</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-11-lance-twiggs-questioned-by-authorities-and-release.md">Lance Twiggs questioned by authorities and released</a></div>
@@ -20050,13 +20738,14 @@ _Total events: 1241_
 <div class="timeline-date">2025-09-10 <span class='time'>13:13</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-victor-marx-announced-charlie-kirks-deat.md">Victor Marx announced Charlie Kirk's death at 1:13 p.m. Utah time, according to a screenshot presented by Candace Owens.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 13:13: Victor Marx announced Charlie Kirk\'s death at 1:13 p.m. Utah time, according to a screenshot presented by Candace Owens. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Secret Service Admits "There Was No Threat". AT... @ 00:24:40](/episodes/ep-1mYNOqzAdXs.md#t-00-24-40)
+- [Victor Marx: The Man Who Weaponized Faith. | Ca... @ 02:05:11](/episodes/ep--9MOUvgGyi4.md#t-02-04-43)
 
 </details>
 </div>
@@ -20985,13 +21674,14 @@ _Total events: 1241_
 <div class="timeline-date">2025-09-10 <span class='time'>09:33</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-corby-hall-reportedly-received-an-atf-tr.md">Corby Hall reportedly received an ATF trace request for FoldAR rifle 02735</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 09:33: Corby Hall reportedly received an ATF trace request for FoldAR rifle 02735 - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:37:48](/episodes/ep-jsqUIkszZd0.md#t-00-37-34)
+- [Victor Marx: The Man Who Weaponized Faith. | Ca... @ 01:56:53](/episodes/ep--9MOUvgGyi4.md#t-01-56-27)
 
 </details>
 </div>
@@ -21405,7 +22095,7 @@ _Total events: 1241_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md">Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">397× in 50 eps</span>
+<span class="timeline-badge mentions">399× in 52 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -21808,6 +22498,8 @@ _Total events: 1241_
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:02:18](/episodes/ep-UYkXV9mYbT4.md#t-00-02-02)
 - [Trump Attacks The Pope. The Tyler Robinson Narr... @ 01:06:25](/episodes/ep-eLgD5yUVbko.md#t-01-06-15)
 - [Secret Service Admits "There Was No Threat". AT... @ 00:25:09](/episodes/ep-1mYNOqzAdXs.md#t-00-25-09)
+- [Victor Marx: The Man Who Weaponized Faith. | Ca... @ 01:56:27](/episodes/ep--9MOUvgGyi4.md#t-01-56-27)
+- [September 10th: The OTHER Shooting That The Med... @ 00:12:45](/episodes/ep-4DvYXBn_5JI.md#t-00-12-45)
 
 </details>
 </div>
@@ -23065,7 +23757,7 @@ _Total events: 1241_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va.md">Charlie Kirk was assassinated at Utah Valley University.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">42× in 33 eps</span>
+<span class="timeline-badge mentions">47× in 38 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk was assassinated at Utah Valley University. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -23113,6 +23805,11 @@ _Total events: 1241_
 - [Erika No-Shows JD Vance. Public Relations Lies ... @ 00:28:36](/episodes/ep-SubDoZWHARo.md#t-00-28-21)
 - [Erika No-Shows JD Vance. Public Relations Lies ... @ 00:58:09](/episodes/ep-SubDoZWHARo.md#t-00-58-09)
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather R... @ 00:00:31](/episodes/ep-kaWtDuoY_ns.md#t-00-00-31)
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace... @ 00:38:14](/episodes/ep-69A8TzAGHlU.md#t-00-37-50)
+- [A Tale of Two PR Disasters: Blake Lively & Turn... @ 00:12:44](/episodes/ep-eMtjzXkQrsU.md#t-00-11-59)
+- [STAGED? Erika’s VIRAL White House Correspondent... @ 00:17:58](/episodes/ep-FFQ9675oqRI.md#t-00-17-58)
+- [Update! Erika Did Not Go Home. Source Confirms ... @ 00:25:30](/episodes/ep-KpxIBWkNsSs.md#t-00-25-00)
+- [BREAKING! The White House Attempted To Rescind ... @ 00:13:55](/episodes/ep-7FS1tUeSfdE.md#t-00-13-31)
 
 </details>
 </div>
@@ -23252,15 +23949,16 @@ _Total events: 1241_
 
 <div class="timeline-event filter-item" id="event-2025-09-10-candace-owens-said-pierre-falcone-called">
 <div class="timeline-date">2025-09-10</div>
-<div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-said-pierre-falcone-called.md">Candace Owens said Pierre Falcone called Justin Streif shortly after Charlie Kirk was shot.</a></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-said-pierre-falcone-called.md">Candace Owens said Justin Streiff and Pierre Falcone spoke by phone shortly after Charlie Kirk was shot.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens said Pierre Falcone called Justin Streif shortly after Charlie Kirk was shot. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens said Justin Streiff and Pierre Falcone spoke by phone shortly after Charlie Kirk was shot. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:13:29](/episodes/ep-mFuno0TuuQQ.md#t-00-13-22)
+- [BREAKING! The White House Attempted To Rescind ... @ 00:00:44](/episodes/ep-7FS1tUeSfdE.md#t-00-00-44)
 
 </details>
 </div>
@@ -23544,7 +24242,7 @@ _Total events: 1241_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-a-plane-traveled-from-pierre-to-chicago-.md">A plane traveled from Pierre to Chicago and then departed Chicago for Provo.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 1 ep</span>
+<span class="timeline-badge mentions">3× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: A plane traveled from Pierre to Chicago and then departed Chicago for Provo. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -23552,6 +24250,7 @@ _Total events: 1241_
 
 - [VIRAL! It's Okay Not To Believe A Word Erika Ki... @ 00:34:56](/episodes/ep-DEtFh2Ff-58.md#t-00-34-36)
 - [VIRAL! It's Okay Not To Believe A Word Erika Ki... @ 00:33:40](/episodes/ep-DEtFh2Ff-58.md#t-00-33-16)
+- [September 10th: The OTHER Shooting That The Med... @ 00:11:57](/episodes/ep-4DvYXBn_5JI.md#t-00-11-29)
 
 </details>
 </div>
@@ -23642,6 +24341,52 @@ _Total events: 1241_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather R... @ 00:14:26](/episodes/ep-kaWtDuoY_ns.md#t-00-14-07)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-candace-owens-covered-nick-shirley-on-he">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-covered-nick-shirley-on-he.md">Candace Owens covered Nick Shirley on her show.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens covered Nick Shirley on her show. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Update! Erika Did Not Go Home. Source Confirms ... @ 00:25:30](/episodes/ep-KpxIBWkNsSs.md#t-00-25-00)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-desmond-holly-shot-two-students-at-everg">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-desmond-holly-shot-two-students-at-everg.md">Desmond Holly shot two students at Evergreen High School and then shot himself</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Desmond Holly shot two students at Evergreen High School and then shot himself - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [September 10th: The OTHER Shooting That The Med... @ 00:12:45](/episodes/ep-4DvYXBn_5JI.md#t-00-12-45)
+- [September 10th: The OTHER Shooting That The Med... @ 00:00:55](/episodes/ep-4DvYXBn_5JI.md#t-00-00-40)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-book-order-candace-owens-alleged-that-ju">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-book-order-candace-owens-alleged-that-ju.md">Book order: Candace Owens alleged that Justin Streiff obtained Erika Kirk's approval to at least double the order for Charlie Kirk's upcoming book.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Book order: Candace Owens alleged that Justin Streiff obtained Erika Kirk\'s approval to at least double the order for Charlie Kirk\'s upcoming book. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING! The White House Attempted To Rescind ... @ 00:19:06](/episodes/ep-7FS1tUeSfdE.md#t-00-18-59)
 
 </details>
 </div>
@@ -23749,7 +24494,7 @@ _Total events: 1241_
 <div class="timeline-date">2025-09-09 <span class='time'>18:00</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-josh-hammer-said-charlie-kirk-held-a-zoo.md">Josh Hammer said Charlie Kirk held a Zoom call with him and an Israel-based rabbi.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09 18:00: Josh Hammer said Charlie Kirk held a Zoom call with him and an Israel-based rabbi. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -23757,6 +24502,7 @@ _Total events: 1241_
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:39:56](/episodes/ep-CEF7gQRWYCE.md#t-00-39-33)
 - [Here’s Why It’s Time For The Police To Question... @ 00:05:57](/episodes/ep-ti5Fxrvegno.md#t-00-05-37)
+- [A Tale of Two PR Disasters: Blake Lively & Turn... @ 00:38:00](/episodes/ep-eMtjzXkQrsU.md#t-00-37-36)
 
 </details>
 </div>
@@ -23765,7 +24511,7 @@ _Total events: 1241_
 <div class="timeline-date">2025-09-09 <span class='time'>15:54</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-candace-owens-said-charlie-kirk-sent-a-t.md">Candace Owens said Charlie Kirk sent a text saying he was abandoning the pro-Israel cause.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09 15:54: Candace Owens said Charlie Kirk sent a text saying he was abandoning the pro-Israel cause. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -23773,6 +24519,7 @@ _Total events: 1241_
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:39:12](/episodes/ep-CEF7gQRWYCE.md#t-00-38-44)
 - [Here’s Why It’s Time For The Police To Question... @ 00:05:31](/episodes/ep-ti5Fxrvegno.md#t-00-04-56)
+- [A Tale of Two PR Disasters: Blake Lively & Turn... @ 00:37:55](/episodes/ep-eMtjzXkQrsU.md#t-00-37-36)
 
 </details>
 </div>
@@ -24481,7 +25228,7 @@ _Total events: 1241_
 <div class="timeline-date">2025-09-09</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-text-messages-the-day-before-charlie-kirk-s-death.md">Text messages the day before Charlie Kirk's death in which he warned he thought he would be killed.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">36× in 15 eps</span>
+<span class="timeline-badge mentions">37× in 16 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: Text messages the day before Charlie Kirk\'s death in which he warned he thought he would be killed. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -24523,6 +25270,7 @@ _Total events: 1241_
 - [Candace Owens vs. Andrew Wilson: The Charlie Ki... @ 00:30:12](/episodes/ep-nPhCKwJ6ye8.md#t-00-30-12)
 - [Candace Owens vs. Andrew Wilson: The Charlie Ki... @ 00:29:36](/episodes/ep-nPhCKwJ6ye8.md#t-00-29-36)
 - [Erika No-Shows JD Vance. Public Relations Lies ... @ 00:32:57](/episodes/ep-SubDoZWHARo.md#t-00-32-38)
+- [A Tale of Two PR Disasters: Blake Lively & Turn... @ 00:04:39](/episodes/ep-eMtjzXkQrsU.md#t-00-04-32)
 
 </details>
 </div>
@@ -24531,13 +25279,14 @@ _Total events: 1241_
 <div class="timeline-date">2025-09-09</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-charlie-kirk-sends-message-to-dan-flood-.md">Charlie Kirk sends message to Dan Flood (security) the night before his death, allegedly explicitly saying 'they are going to kill me tomorrow'</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: Charlie Kirk sends message to Dan Flood (security) the night before his death, allegedly explicitly saying \'they are going to kill me tomorrow\' - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Who Stood To Benefit From Charlie Kirk's Assass... @ 00:20:18](/episodes/ep-Kmt6HgRjckU.md#t-00-20-18)
+- [September 10th: The OTHER Shooting That The Med... @ 00:51:53](/episodes/ep-4DvYXBn_5JI.md#t-00-51-31)
 
 </details>
 </div>
@@ -24608,7 +25357,7 @@ _Total events: 1241_
 <div class="timeline-date">2025-09-09</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-mitch-snow-alleged-that-he-saw-brian-har.md">Mitch Snow alleged that he saw Brian Harpole at a senior-level meeting at Fort Huachuca.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">5× in 5 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: Mitch Snow alleged that he saw Brian Harpole at a senior-level meeting at Fort Huachuca. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -24617,6 +25366,8 @@ _Total events: 1241_
 - [You Won't Believe What Happened While We Were O... @ 00:38:35](/episodes/ep-OEAHy3SsIiI.md#t-00-38-27)
 - [BREAKING NEWS: Where Tyler Robinson Went On The... @ 00:16:07](/episodes/ep-HYn0P-P1wUw.md#t-00-15-58)
 - [VIRAL! It's Okay Not To Believe A Word Erika Ki... @ 00:32:57](/episodes/ep-DEtFh2Ff-58.md#t-00-32-41)
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace... @ 01:12:28](/episodes/ep-69A8TzAGHlU.md#t-01-12-28)
+- [Update! Erika Did Not Go Home. Source Confirms ... @ 00:46:27](/episodes/ep-KpxIBWkNsSs.md#t-00-46-01)
 
 </details>
 </div>
@@ -24810,6 +25561,21 @@ _Total events: 1241_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [REVEALED: Erika Went To A Weird Place On 9/10 |... @ 00:31:33](/episodes/ep-SgVcnx4Oh30.md#t-00-31-33)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-09-a-photo-presented-as-erika-kirks-alibi-d">
+<div class="timeline-date">2025-09-09</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-09-a-photo-presented-as-erika-kirks-alibi-d.md">A photo presented as Erika Kirk's alibi displayed September 9 at 8:33 a.m. in its metadata</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: A photo presented as Erika Kirk\'s alibi displayed September 9 at 8:33 a.m. in its metadata - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [September 10th: The OTHER Shooting That The Med... @ 00:30:49](/episodes/ep-4DvYXBn_5JI.md#t-00-30-49)
 
 </details>
 </div>
@@ -25710,7 +26476,7 @@ _Total events: 1241_
 <div class="timeline-date">2025-09-08</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-08-mitch-snow-alleged-that-he-saw-erika-kir.md">Mitch Snow alleged that he saw Erika Kirk leaving the Candlewood Suites hotel at Fort Huachuca with someone resembling Cabot Phillips.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">4× in 4 eps</span>
+<span class="timeline-badge mentions">5× in 5 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08: Mitch Snow alleged that he saw Erika Kirk leaving the Candlewood Suites hotel at Fort Huachuca with someone resembling Cabot Phillips. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -25720,6 +26486,7 @@ _Total events: 1241_
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:51](/episodes/ep-4YgrOhhy708.md#t-00-18-36)
 - [Okay…These Text Messages Are Crazy! | Candace E... @ 00:21:24](/episodes/ep-1hcjQGgvxUY.md#t-00-20-53)
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace ... @ 00:34:37](/episodes/ep-ZzAT2xijKGQ.md#t-00-34-37)
+- [Update! Erika Did Not Go Home. Source Confirms ... @ 00:46:27](/episodes/ep-KpxIBWkNsSs.md#t-00-46-01)
 
 </details>
 </div>
@@ -25814,6 +26581,21 @@ _Total events: 1241_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [VIRAL! It's Okay Not To Believe A Word Erika Ki... @ 00:49:10](/episodes/ep-DEtFh2Ff-58.md#t-00-48-56)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-08-candace-owens-said-show-faith-by-works-h">
+<div class="timeline-date">2025-09-08</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-08-candace-owens-said-show-faith-by-works-h.md">Candace Owens said Show Faith by Works had been contracted by Havas Media.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08: Candace Owens said Show Faith by Works had been contracted by Havas Media. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE... @ 00:39:32](/episodes/ep-uC_GjKU8rs8.md#t-00-39-25)
 
 </details>
 </div>
@@ -26748,13 +27530,14 @@ _Total events: 1241_
 <div class="timeline-date">2025-09-03</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-03-justin-streiff-was-promoted-to-turning-p.md">Justin Streiff was promoted to Turning Point USA chief operating officer.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-03: Justin Streiff was promoted to Turning Point USA chief operating officer. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:19:58](/episodes/ep-B9TyCs-6o_0.md#t-00-19-58)
+- [BREAKING! The White House Attempted To Rescind ... @ 00:15:30](/episodes/ep-7FS1tUeSfdE.md#t-00-14-57)
 
 </details>
 </div>
@@ -28030,6 +28813,21 @@ _Total events: 1241_
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists... @ 00:08:39](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16)
 - [To My Friend, Charlie Kirk. @ 00:14:33](/episodes/ep-_dRaEO47-co.md#t-00-14-11)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:10:37](/episodes/ep-K5GjF53bfN4.md#t-00-09-59)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-08-27-dhillon-law-group-begins-drafting-fara-p">
+<div class="timeline-date">2025-08-27</div>
+<div class="timeline-desc"><a href="/events/event-2025-08-27-dhillon-law-group-begins-drafting-fara-p.md">Dhillon Law Group begins drafting FARA paperwork for Havas Media clients Clocktower X and Show Faith by Works</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-08-27: Dhillon Law Group begins drafting FARA paperwork for Havas Media clients Clocktower X and Show Faith by Works - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turn... @ 00:37:36](/episodes/ep-eMtjzXkQrsU.md#t-00-37-36)
 
 </details>
 </div>
@@ -32918,6 +33716,21 @@ _Total events: 1241_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-05-zachary-lewis-was-arrested-and-faced-six">
+<div class="timeline-date">2025-05</div>
+<div class="timeline-desc"><a href="/events/event-2025-05-zachary-lewis-was-arrested-and-faced-six.md">Zachary Lewis was arrested and faced six pending felony counts in a child pornography case.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-05: Zachary Lewis was arrested and faced six pending felony counts in a child pornography case. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Brian Harpole Sends Out MORE Legal Notices. Jer... @ 00:47:48](/episodes/ep-k1b1NDCrNFs.md#t-00-47-27)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-05-27-walid-mahmood-arrives-in-provo-aboard-egyptian-mil">
 <div class="timeline-date">2025-05-27</div>
 <div class="timeline-desc"><a href="/events/event-2025-05-27-walid-mahmood-arrives-in-provo-aboard-egyptian-mil.md">Walid Mahmood arrives in Provo aboard Egyptian military plane SUBTU</a></div>
@@ -32945,6 +33758,21 @@ _Total events: 1241_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:10:15](/episodes/ep-ZZGWo6oDscc.md#t-00-10-15)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-05-25-brigitte-macron-appeared-to-push-emmanue">
+<div class="timeline-date">2025-05-25</div>
+<div class="timeline-desc"><a href="/events/event-2025-05-25-brigitte-macron-appeared-to-push-emmanue.md">Brigitte Macron appeared to push Emmanuel Macron in the face as they arrived at Hanoi airport.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-05-25: Brigitte Macron appeared to push Emmanuel Macron in the face as they arrived at Hanoi airport. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING! The White House Attempted To Rescind ... @ 00:36:00](/episodes/ep-7FS1tUeSfdE.md#t-00-36-00)
 
 </details>
 </div>
@@ -33412,7 +34240,97 @@ _Total events: 1241_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-04-victor-marx-proposed-acquiring-51-percen">
+<div class="timeline-date">2025-04</div>
+<div class="timeline-desc"><a href="/events/event-2025-04-victor-marx-proposed-acquiring-51-percen.md">Victor Marx proposed acquiring 51 percent of FoldAR at a two-million-dollar valuation</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-04: Victor Marx proposed acquiring 51 percent of FoldAR at a two-million-dollar valuation - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Victor Marx: The Man Who Weaponized Faith. | Ca... @ 01:40:17](/episodes/ep--9MOUvgGyi4.md#t-01-40-17)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-04-victor-marx-told-corby-hall-that-israel-">
+<div class="timeline-date">2025-04</div>
+<div class="timeline-desc"><a href="/events/event-2025-04-victor-marx-told-corby-hall-that-israel-.md">Victor Marx told Corby Hall that Israel needed 50,000 FoldAR rifles for IDF operations</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-04: Victor Marx told Corby Hall that Israel needed 50,000 FoldAR rifles for IDF operations - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Victor Marx: The Man Who Weaponized Faith. | Ca... @ 01:43:55](/episodes/ep--9MOUvgGyi4.md#t-01-43-55)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-04-victor-marx-told-corby-hall-he-could-bea">
+<div class="timeline-date">2025-04</div>
+<div class="timeline-desc"><a href="/events/event-2025-04-victor-marx-told-corby-hall-he-could-bea.md">Victor Marx told Corby Hall he could beat him up during their final Colorado meeting</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-04: Victor Marx told Corby Hall he could beat him up during their final Colorado meeting - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Victor Marx: The Man Who Weaponized Faith. | Ca... @ 01:46:38](/episodes/ep--9MOUvgGyi4.md#t-01-46-25)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-04-14-salem-media-announces-a-landmark-deal-wi">
+<div class="timeline-date">2025-04-14</div>
+<div class="timeline-desc"><a href="/events/event-2025-04-14-salem-media-announces-a-landmark-deal-wi.md">Salem Media announces a landmark deal with Donald Trump Jr. and Lara Trump</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-04-14: Salem Media announces a landmark deal with Donald Trump Jr. and Lara Trump - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turn... @ 00:37:26](/episodes/ep-eMtjzXkQrsU.md#t-00-37-02)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-04-07-harmeet-dhillon-is-sworn-in-as-assistant">
+<div class="timeline-date">2025-04-07</div>
+<div class="timeline-desc"><a href="/events/event-2025-04-07-harmeet-dhillon-is-sworn-in-as-assistant.md">Harmeet Dhillon is sworn in as assistant attorney general for civil rights</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-04-07: Harmeet Dhillon is sworn in as assistant attorney general for civil rights - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turn... @ 00:37:15](/episodes/ep-eMtjzXkQrsU.md#t-00-37-02)
+
+</details>
+</div>
+
 **March**
+
+<div class="timeline-event filter-item" id="event-2025-03-18-jeremy-boreing-stepped-down-as-co-ceo-of">
+<div class="timeline-date">2025-03-18</div>
+<div class="timeline-desc"><a href="/events/event-2025-03-18-jeremy-boreing-stepped-down-as-co-ceo-of.md">Jeremy Boreing stepped down as co-CEO of The Daily Wire.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-03-18: Jeremy Boreing stepped down as co-CEO of The Daily Wire. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE... @ 00:11:30](/episodes/ep-uC_GjKU8rs8.md#t-00-11-19)
+
+</details>
+</div>
 
 <div class="timeline-event filter-item" id="event-2025-03-17-president-donald-trump-appointed-charlie">
 <div class="timeline-date">2025-03-17</div>
@@ -33445,6 +34363,21 @@ _Total events: 1241_
 </div>
 
 **February**
+
+<div class="timeline-event filter-item" id="event-2025-02-corby-hall-stopped-using-thc">
+<div class="timeline-date">2025-02</div>
+<div class="timeline-desc"><a href="/events/event-2025-02-corby-hall-stopped-using-thc.md">Corby Hall stopped using THC</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-02: Corby Hall stopped using THC - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Victor Marx: The Man Who Weaponized Faith. | Ca... @ 01:24:16](/episodes/ep--9MOUvgGyi4.md#t-01-24-16)
+
+</details>
+</div>
 
 <div class="timeline-event filter-item" id="event-2025-02-28-the-american-comeback-tour-stopped-at-fl">
 <div class="timeline-date">2025-02-28</div>
@@ -34141,6 +35074,36 @@ _Total events: 1241_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-02-05-pam-bondi-is-sworn-in-as-united-states-a">
+<div class="timeline-date">2025-02-05</div>
+<div class="timeline-desc"><a href="/events/event-2025-02-05-pam-bondi-is-sworn-in-as-united-states-a.md">Pam Bondi is sworn in as United States attorney general</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-02-05: Pam Bondi is sworn in as United States attorney general - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turn... @ 00:37:06](/episodes/ep-eMtjzXkQrsU.md#t-00-37-02)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-02-05-pam-bondi-disbands-the-fbi-foreign-influ">
+<div class="timeline-date">2025-02-05</div>
+<div class="timeline-desc"><a href="/events/event-2025-02-05-pam-bondi-disbands-the-fbi-foreign-influ.md">Pam Bondi disbands the FBI Foreign Influence Task Force</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-02-05: Pam Bondi disbands the FBI Foreign Influence Task Force - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turn... @ 00:37:06](/episodes/ep-eMtjzXkQrsU.md#t-00-37-02)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-02-01-kash-patel-appointed-fbi-director">
 <div class="timeline-date">2025-02-01</div>
 <div class="timeline-desc"><a href="/events/event-2025-02-01-kash-patel-appointed-fbi-director.md">Kash Patel appointed FBI Director.</a></div>
@@ -34197,6 +35160,21 @@ _Total events: 1241_
 </div>
 
 **January**
+
+<div class="timeline-event filter-item" id="event-2025-01-foldar-attended-the-2025-shot-show">
+<div class="timeline-date">2025-01</div>
+<div class="timeline-desc"><a href="/events/event-2025-01-foldar-attended-the-2025-shot-show.md">FoldAR attended the 2025 SHOT Show</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-01: FoldAR attended the 2025 SHOT Show - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Victor Marx: The Man Who Weaponized Faith. | Ca... @ 01:11:21](/episodes/ep--9MOUvgGyi4.md#t-01-10-44)
+
+</details>
+</div>
 
 <div class="timeline-event filter-item" id="event-2025-01-31-candace-owens-releases-first-episode-of-becoming-b">
 <div class="timeline-date">2025-01-31</div>
@@ -34301,6 +35279,21 @@ _Total events: 1241_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-01-20-donald-trump-is-sworn-in-as-president-of">
+<div class="timeline-date">2025-01-20</div>
+<div class="timeline-desc"><a href="/events/event-2025-01-20-donald-trump-is-sworn-in-as-president-of.md">Donald Trump is sworn in as president of the United States</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-01-20: Donald Trump is sworn in as president of the United States - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turn... @ 00:37:02](/episodes/ep-eMtjzXkQrsU.md#t-00-37-02)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-01-15-detective-mike-mitchell-retires-after-24-years-wit">
 <div class="timeline-date">2025-01-15</div>
 <div class="timeline-desc"><a href="/events/event-2025-01-15-detective-mike-mitchell-retires-after-24-years-wit.md">Detective Mike Mitchell retires after 24 years with Washington County</a></div>
@@ -34314,6 +35307,21 @@ _Total events: 1241_
 - [They Are Lying About Tyler Robinson. | Candace ... @ 00:19:54](/episodes/ep-ZGxnf5cj4Uw.md#t-00-19-22)
 - [Charlie Kirk Shooting Suspect Charged. Somethin... @ 00:07:05](/episodes/ep-q7f8r-THr84.md#t-00-06-59)
 - [They Are Lying About Tyler Robinson. | Candace ... @ 00:09:49](/episodes/ep-ZGxnf5cj4Uw.md#t-00-09-12)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-01-10-brad-parscale-becomes-chief-strategy-off">
+<div class="timeline-date">2025-01-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-01-10-brad-parscale-becomes-chief-strategy-off.md">Brad Parscale becomes chief strategy officer of Salem Media Group</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-01-10: Brad Parscale becomes chief strategy officer of Salem Media Group - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turn... @ 00:36:50](/episodes/ep-eMtjzXkQrsU.md#t-00-36-20)
 
 </details>
 </div>
@@ -34446,13 +35454,89 @@ _Total events: 1241_
 <div class="timeline-date">2025</div>
 <div class="timeline-desc"><a href="/events/event-2025-victor-marx-offered-to-help-find-an-inve.md">Victor Marx offered to help find an investor for FoldAR</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025: Victor Marx offered to help find an investor for FoldAR - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:30:56](/episodes/ep-jsqUIkszZd0.md#t-00-30-46)
+- [Victor Marx: The Man Who Weaponized Faith. | Ca... @ 01:35:28](/episodes/ep--9MOUvgGyi4.md#t-01-35-15)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-foldar-received-inc-5000-recognition-for">
+<div class="timeline-date">2025</div>
+<div class="timeline-desc"><a href="/events/event-2025-foldar-received-inc-5000-recognition-for.md">FoldAR received Inc. 5000 recognition for three-year revenue growth</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025: FoldAR received Inc. 5000 recognition for three-year revenue growth - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Victor Marx: The Man Who Weaponized Faith. | Ca... @ 01:14:05](/episodes/ep--9MOUvgGyi4.md#t-01-14-05)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-corby-hall-experienced-a-suicidal-crisis">
+<div class="timeline-date">2025</div>
+<div class="timeline-desc"><a href="/events/event-2025-corby-hall-experienced-a-suicidal-crisis.md">Corby Hall experienced a suicidal crisis and messaged Victor Marx for help</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025: Corby Hall experienced a suicidal crisis and messaged Victor Marx for help - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Victor Marx: The Man Who Weaponized Faith. | Ca... @ 01:16:29](/episodes/ep--9MOUvgGyi4.md#t-01-16-29)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-corby-hall-demonstrated-foldar-to-the-do">
+<div class="timeline-date">2025</div>
+<div class="timeline-desc"><a href="/events/event-2025-corby-hall-demonstrated-foldar-to-the-do.md">Corby Hall demonstrated FoldAR to the Douglas County Sheriff's Office and SWAT team</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025: Corby Hall demonstrated FoldAR to the Douglas County Sheriff\'s Office and SWAT team - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Victor Marx: The Man Who Weaponized Faith. | Ca... @ 01:51:52](/episodes/ep--9MOUvgGyi4.md#t-01-51-52)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-laura-loomer-said-a-source-told-her-aubr">
+<div class="timeline-date">2025</div>
+<div class="timeline-desc"><a href="/events/event-2025-laura-loomer-said-a-source-told-her-aubr.md">Laura Loomer said a source told her Aubrey Laitsch approached conservatives about a paid Qatar trip.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025: Laura Loomer said a source told her Aubrey Laitsch approached conservatives about a paid Qatar trip. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Can... @ 01:05:45](/episodes/ep-qZ8RWfyuewQ.md#t-01-05-45)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-nick-shirleys-video-claimed-he-infiltrat">
+<div class="timeline-date">2025</div>
+<div class="timeline-desc"><a href="/events/event-2025-nick-shirleys-video-claimed-he-infiltrat.md">Nick Shirley's video claimed he infiltrated a Brazilian gang within 48 hours.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025: Nick Shirley\'s video claimed he infiltrated a Brazilian gang within 48 hours. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Update! Erika Did Not Go Home. Source Confirms ... @ 00:26:32](/episodes/ep-KpxIBWkNsSs.md#t-00-26-32)
 
 </details>
 </div>
@@ -34979,13 +36063,14 @@ _Total events: 1241_
 <div class="timeline-date">2024-11-05</div>
 <div class="timeline-desc"><a href="/events/event-2024-11-05-donald-trump-won-the-2024-united-states-.md">Donald Trump won the 2024 United States presidential election.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2024-11-05: Donald Trump won the 2024 United States presidential election. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [An Open Letter To President Donald Trump (My Re... @ 00:04:59](/episodes/ep-ZIH5-V6UPkg.md#t-00-04-35)
+- [Victor Marx: The Man Who Weaponized Faith. | Ca... @ 01:10:44](/episodes/ep--9MOUvgGyi4.md#t-01-10-44)
 
 </details>
 </div>
@@ -35039,6 +36124,21 @@ _Total events: 1241_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux... @ 00:15:00](/episodes/ep-xi8SYJTUXPM.md#t-00-14-37)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2024-10-05-a-review-was-posted-for-a-phone-number-t">
+<div class="timeline-date">2024-10-05</div>
+<div class="timeline-desc"><a href="/events/event-2024-10-05-a-review-was-posted-for-a-phone-number-t.md">A review was posted for a phone number the Daily Mail associated with Jessica Reed Kraus's husband.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024-10-05: A review was posted for a phone number the Daily Mail associated with Jessica Reed Kraus\'s husband. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [STAGED? Erika’s VIRAL White House Correspondent... @ 00:30:53](/episodes/ep-FFQ9675oqRI.md#t-00-30-30)
 
 </details>
 </div>
@@ -35378,13 +36478,14 @@ _Total events: 1241_
 <div class="timeline-date">2024-07-04</div>
 <div class="timeline-desc"><a href="/events/event-2024-07-04-a-texas-deputy-told-corby-hall-that-fold.md">FoldAR rifle 02735 was reportedly stolen from a Texas deputy's vehicle in Midland</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2024-07-04: FoldAR rifle 02735 was reportedly stolen from a Texas deputy\'s vehicle in Midland - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:37:09](/episodes/ep-jsqUIkszZd0.md#t-00-36-53)
+- [Victor Marx: The Man Who Weaponized Faith. | Ca... @ 01:55:11](/episodes/ep--9MOUvgGyi4.md#t-01-55-11)
 
 </details>
 </div>
@@ -35443,13 +36544,14 @@ _Total events: 1241_
 <div class="timeline-date">2024-06-06</div>
 <div class="timeline-desc"><a href="/events/event-2024-06-06-a-texas-deputy-bought-foldar-rifle-seria.md">A Texas deputy bought FoldAR rifle serial number 02735 from Corby Hall</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2024-06-06: A Texas deputy bought FoldAR rifle serial number 02735 from Corby Hall - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:36:33](/episodes/ep-jsqUIkszZd0.md#t-00-36-14)
+- [Victor Marx: The Man Who Weaponized Faith. | Ca... @ 01:54:16](/episodes/ep--9MOUvgGyi4.md#t-01-54-16)
 
 </details>
 </div>
@@ -35563,6 +36665,21 @@ _Total events: 1241_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2024-05-02-charlie-kirk-posted-that-hate-speech-doe">
+<div class="timeline-date">2024-05-02</div>
+<div class="timeline-desc"><a href="/events/event-2024-05-02-charlie-kirk-posted-that-hate-speech-doe.md">Charlie Kirk posted that hate speech does not legally exist in the United States and is protected by the First Amendment.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024-05-02: Charlie Kirk posted that hate speech does not legally exist in the United States and is protected by the First Amendment. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace... @ 01:01:14](/episodes/ep-69A8TzAGHlU.md#t-01-00-53)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2024-05-01-gernot-omer-relocates-to-utah-as-jpmorgan-chase-so">
 <div class="timeline-date">2024-05-01</div>
 <div class="timeline-desc"><a href="/events/event-2024-05-01-gernot-omer-relocates-to-utah-as-jpmorgan-chase-so.md">Gernot Omer relocates to Utah as JPMorgan Chase software engineer.</a></div>
@@ -35659,7 +36776,7 @@ _Total events: 1241_
 <div class="timeline-date">2024-03-22</div>
 <div class="timeline-desc"><a href="/events/event-2024-03-22-candace-owens-and-the-daily-wire-ended-t.md">Candace Owens and The Daily Wire ended their relationship.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2024-03-22: Candace Owens and The Daily Wire ended their relationship. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -35667,6 +36784,7 @@ _Total events: 1241_
 
 - [Myron Gaines x Candace Owens @ 00:27:51](/episodes/ep-2T39-oADLj0.md#t-00-27-50)
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…... @ 00:43:16](/episodes/ep-QdM9jLwjwLw.md#t-00-43-16)
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE... @ 00:11:07](/episodes/ep-uC_GjKU8rs8.md#t-00-10-44)
 
 </details>
 </div>
@@ -36277,13 +37395,14 @@ _Total events: 1241_
 <div class="timeline-date">2024-01-24</div>
 <div class="timeline-desc"><a href="/events/event-2024-01-24-victor-marx-married-corby-hall-and-melod.md">Victor Marx married Corby Hall and Melody in a hotel room</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2024-01-24: Victor Marx married Corby Hall and Melody in a hotel room - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:25:07](/episodes/ep-jsqUIkszZd0.md#t-00-24-53)
+- [Victor Marx: The Man Who Weaponized Faith. | Ca... @ 00:42:57](/episodes/ep--9MOUvgGyi4.md#t-00-42-57)
 
 </details>
 </div>
@@ -36430,13 +37549,14 @@ _Total events: 1241_
 <div class="timeline-date">2024</div>
 <div class="timeline-desc"><a href="/events/event-2024-foldar-released-the-victor-marx-signatur.md">FoldAR released the Victor Marx Signature Series rifle at the SHOT Show</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2024: FoldAR released the Victor Marx Signature Series rifle at the SHOT Show - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:24:53](/episodes/ep-jsqUIkszZd0.md#t-00-24-53)
+- [Victor Marx: The Man Who Weaponized Faith. | Ca... @ 00:40:32](/episodes/ep--9MOUvgGyi4.md#t-00-40-32)
 
 </details>
 </div>
@@ -36445,13 +37565,14 @@ _Total events: 1241_
 <div class="timeline-date">2024</div>
 <div class="timeline-desc"><a href="/events/event-2024-victor-marx-reportedly-requested-50-fold.md">Victor Marx reportedly requested 50 FoldAR rifles for a mission to Haiti during a facility tour</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2024: Victor Marx reportedly requested 50 FoldAR rifles for a mission to Haiti during a facility tour - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:25:50](/episodes/ep-jsqUIkszZd0.md#t-00-25-29)
+- [Victor Marx: The Man Who Weaponized Faith. | Ca... @ 01:04:35](/episodes/ep--9MOUvgGyi4.md#t-01-03-58)
 
 </details>
 </div>
@@ -36460,13 +37581,59 @@ _Total events: 1241_
 <div class="timeline-date">2024</div>
 <div class="timeline-desc"><a href="/events/event-2024-corby-hall-said-he-delivered-a-long-rang.md">Corby Hall said he delivered a long-range FoldAR rifle to Victor Marx</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2024: Corby Hall said he delivered a long-range FoldAR rifle to Victor Marx - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:26:14](/episodes/ep-jsqUIkszZd0.md#t-00-26-14)
+- [Victor Marx: The Man Who Weaponized Faith. | Ca... @ 01:02:52](/episodes/ep--9MOUvgGyi4.md#t-01-02-35)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2024-victor-marx-and-melody-promoted-foldars-">
+<div class="timeline-date">2024</div>
+<div class="timeline-desc"><a href="/events/event-2024-victor-marx-and-melody-promoted-foldars-.md">Victor Marx and Melody promoted FoldAR's school-resource-officer mission on Sebastian Gorka's show</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024: Victor Marx and Melody promoted FoldAR\'s school-resource-officer mission on Sebastian Gorka\'s show - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Victor Marx: The Man Who Weaponized Faith. | Ca... @ 00:48:36](/episodes/ep--9MOUvgGyi4.md#t-00-48-36)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2024-foldar-delivered-five-rifles-to-a-local-">
+<div class="timeline-date">2024</div>
+<div class="timeline-desc"><a href="/events/event-2024-foldar-delivered-five-rifles-to-a-local-.md">FoldAR delivered five rifles to a local school district after All Things Possible funded the purchase</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024: FoldAR delivered five rifles to a local school district after All Things Possible funded the purchase - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Victor Marx: The Man Who Weaponized Faith. | Ca... @ 00:51:29](/episodes/ep--9MOUvgGyi4.md#t-00-51-29)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2024-candace-owens-said-the-daily-wire-tried-">
+<div class="timeline-date">2024</div>
+<div class="timeline-desc"><a href="/events/event-2024-candace-owens-said-the-daily-wire-tried-.md">Candace Owens said the Daily Wire tried to place a George Farmer incident report with the New York Post.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024: Candace Owens said the Daily Wire tried to place a George Farmer incident report with the New York Post. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Brian Harpole Sends Out MORE Legal Notices. Jer... @ 00:38:59](/episodes/ep-k1b1NDCrNFs.md#t-00-38-59)
 
 </details>
 </div>
@@ -36552,13 +37719,14 @@ _Total events: 1241_
 <div class="timeline-date">2023-12-01</div>
 <div class="timeline-desc"><a href="/events/event-2023-12-01-corby-hall-and-melody-demonstrated-the-f.md">Corby Hall and Melody demonstrated FoldAR to Victor Marx in Colorado Springs and later took part in a retooling prayer led by Victor and Eileen Marx</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2023-12-01: Corby Hall and Melody demonstrated FoldAR to Victor Marx in Colorado Springs and later took part in a retooling prayer led by Victor and Eileen Marx - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:21:42](/episodes/ep-jsqUIkszZd0.md#t-00-21-26)
+- [Victor Marx: The Man Who Weaponized Faith. | Ca... @ 00:14:13](/episodes/ep--9MOUvgGyi4.md#t-00-13-59)
 
 </details>
 </div>
@@ -36642,6 +37810,21 @@ _Total events: 1241_
 
 **October**
 
+<div class="timeline-event filter-item" id="event-2023-10-victor-marx-appeared-on-the-charlie-kirk">
+<div class="timeline-date">2023-10</div>
+<div class="timeline-desc"><a href="/events/event-2023-10-victor-marx-appeared-on-the-charlie-kirk.md">Victor Marx appeared on The Charlie Kirk Show from Israel after the October 7 attacks</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2023-10: Victor Marx appeared on The Charlie Kirk Show from Israel after the October 7 attacks - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [September 10th: The OTHER Shooting That The Med... @ 00:03:42](/episodes/ep-4DvYXBn_5JI.md#t-00-03-42)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2024-01-01-phil-lyman-runs-for-utah-governor">
 <div class="timeline-date">2023-10-31</div>
 <div class="timeline-desc"><a href="/events/event-2024-01-01-phil-lyman-runs-for-utah-governor.md">Phil Lyman runs for Utah governor</a></div>
@@ -36688,7 +37871,7 @@ _Total events: 1241_
 <div class="timeline-date">2023-10-07</div>
 <div class="timeline-desc"><a href="/events/event-2023-10-07-hamas-attacks-israel-on-october-7.md">Hamas attacks Israel on October 7</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">5× in 5 eps</span>
+<span class="timeline-badge mentions">6× in 6 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2023-10-07: Hamas attacks Israel on October 7 - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -36699,6 +37882,7 @@ _Total events: 1241_
 - [Shocking Revelation About The Egyptian Planes..... @ 00:48:37](/episodes/ep-ZAuuSq_j2_w.md#t-00-47-54)
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:46:29](/episodes/ep-iHav0PPzUz8.md#t-00-45-50)
 - [What Does Ben Shapiro Know About Erika Kirk And... @ 00:03:28](/episodes/ep-w1oqQbR_bYs.md#t-00-03-11)
+- [September 10th: The OTHER Shooting That The Med... @ 00:04:11](/episodes/ep-4DvYXBn_5JI.md#t-00-03-42)
 
 </details>
 </div>
@@ -36707,7 +37891,7 @@ _Total events: 1241_
 <div class="timeline-date">2023-10-07</div>
 <div class="timeline-desc"><a href="/events/event-2023-10-07-the-october-7-hamas-led-attack-on-israel.md">The October 7 Hamas-led attack on Israel occurred.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">10× in 3 eps</span>
+<span class="timeline-badge mentions">11× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2023-10-07: The October 7 Hamas-led attack on Israel occurred. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -36723,6 +37907,7 @@ _Total events: 1241_
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:24:10](/episodes/ep-xjzb_t5Tk9o.md#t-01-24-10)
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:34:02](/episodes/ep-xjzb_t5Tk9o.md#t-01-34-00)
 - [An Open Letter To President Donald Trump (My Re... @ 00:30:32](/episodes/ep-ZIH5-V6UPkg.md#t-00-30-22)
+- [STAGED? Erika’s VIRAL White House Correspondent... @ 00:02:22](/episodes/ep-FFQ9675oqRI.md#t-00-01-56)
 
 </details>
 </div>
@@ -36879,6 +38064,21 @@ _Total events: 1241_
 </div>
 
 **April**
+
+<div class="timeline-event filter-item" id="event-2023-04-24-tucker-carlson-left-fox-news">
+<div class="timeline-date">2023-04-24</div>
+<div class="timeline-desc"><a href="/events/event-2023-04-24-tucker-carlson-left-fox-news.md">Tucker Carlson left Fox News.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2023-04-24: Tucker Carlson left Fox News. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE... @ 00:12:10](/episodes/ep-uC_GjKU8rs8.md#t-00-11-59)
+
+</details>
+</div>
 
 <div class="timeline-event filter-item" id="event-2023-04-03-egyptian-president-el-sisi-flies-on-su-btu-to-riya">
 <div class="timeline-date">2023-04-03</div>
@@ -38051,6 +39251,23 @@ _Total events: 1241_
 </details>
 </div>
 
+**August**
+
+<div class="timeline-event filter-item" id="event-2019-08-candace-owens-started-her-first-politica">
+<div class="timeline-date">2019-08</div>
+<div class="timeline-desc"><a href="/events/event-2019-08-candace-owens-started-her-first-politica.md">Candace Owens started her first political YouTube channel.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2019-08: Candace Owens started her first political YouTube channel. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Can... @ 00:12:26](/episodes/ep-qZ8RWfyuewQ.md#t-00-12-26)
+
+</details>
+</div>
+
 **July**
 
 <div class="timeline-event filter-item" id="event-2019-01-01-potter-s-fields-ministries-shuts-down-amid-financi">
@@ -38632,6 +39849,21 @@ _Total events: 1241_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2019-candace-owens-shared-a-photo-from-her-to">
+<div class="timeline-date">2019</div>
+<div class="timeline-desc"><a href="/events/event-2019-candace-owens-shared-a-photo-from-her-to.md">Candace Owens shared a photo from her toxic-mold illness on Twitter.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2019: Candace Owens shared a photo from her toxic-mold illness on Twitter. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Can... @ 00:05:45](/episodes/ep-qZ8RWfyuewQ.md#t-00-05-45)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -39164,13 +40396,14 @@ _Total events: 1241_
 <div class="timeline-date">2018</div>
 <div class="timeline-desc"><a href="/events/event-2018-charlie-kirk-told-candace-owens-that-he-.md">Charlie Kirk told Candace Owens that he believed he would die young.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2018: Charlie Kirk told Candace Owens that he believed he would die young. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:26:38](/episodes/ep-A39g5oqB_eM.md#t-00-26-32)
+- [A Tale of Two PR Disasters: Blake Lively & Turn... @ 00:02:38](/episodes/ep-eMtjzXkQrsU.md#t-00-02-38)
 
 </details>
 </div>
@@ -39246,6 +40479,21 @@ _Total events: 1241_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:28:20](/episodes/ep-_vg7ucP1E0g.md#t-00-28-00)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2018-candace-owens-said-jacob-william-roth-ha">
+<div class="timeline-date">2018</div>
+<div class="timeline-desc"><a href="/events/event-2018-candace-owens-said-jacob-william-roth-ha.md">Candace Owens said Jacob William Roth had been married to Ben Shapiro's sister since 2018.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2018: Candace Owens said Jacob William Roth had been married to Ben Shapiro\'s sister since 2018. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE... @ 00:26:04](/episodes/ep-uC_GjKU8rs8.md#t-00-26-04)
 
 </details>
 </div>
@@ -40079,6 +41327,21 @@ _Total events: 1241_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux... @ 00:18:21](/episodes/ep-xi8SYJTUXPM.md#t-00-18-21)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2016-a-system-wide-hvac-leak-occurred-at-cand">
+<div class="timeline-date">2016</div>
+<div class="timeline-desc"><a href="/events/event-2016-a-system-wide-hvac-leak-occurred-at-cand.md">A system-wide HVAC leak occurred at Candace Owens's apartment before she developed a severe illness.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2016: A system-wide HVAC leak occurred at Candace Owens\'s apartment before she developed a severe illness. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Can... @ 00:06:11](/episodes/ep-qZ8RWfyuewQ.md#t-00-05-45)
 
 </details>
 </div>
@@ -41848,6 +43111,23 @@ _Total events: 1241_
 </details>
 </div>
 
+**August**
+
+<div class="timeline-event filter-item" id="event-2008-08-03-skip-caray-died">
+<div class="timeline-date">2008-08-03</div>
+<div class="timeline-desc"><a href="/events/event-2008-08-03-skip-caray-died.md">Skip Caray died</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2008-08-03: Skip Caray died - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [September 10th: The OTHER Shooting That The Med... @ 00:38:19](/episodes/ep-4DvYXBn_5JI.md#t-00-37-57)
+
+</details>
+</div>
+
 **February**
 
 <div class="timeline-event filter-item" id="event-2008-02-07-charles-thornton-carried-out-the-kirkwoo">
@@ -42976,6 +44256,23 @@ _Total events: 1241_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:10:55](/episodes/ep-2tFYJf1klgY.md#t-00-10-34)
+
+</details>
+</div>
+
+**April**
+
+<div class="timeline-event filter-item" id="event-1999-04-20-the-columbine-high-school-massacre-occur">
+<div class="timeline-date">1999-04-20</div>
+<div class="timeline-desc"><a href="/events/event-1999-04-20-the-columbine-high-school-massacre-occur.md">The Columbine High School massacre occurred</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1999-04-20: The Columbine High School massacre occurred - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [September 10th: The OTHER Shooting That The Med... @ 00:18:03](/episodes/ep-4DvYXBn_5JI.md#t-00-17-45)
 
 </details>
 </div>

@@ -27,13 +27,23 @@ veracity: "true"
 - [FoldAR](/entities/org-foldar.md) (org)
 - [Lindale High School](/entities/org-lindale-high-school.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wan...
 
 **Episode:** [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md)
 **Timestamp:** [00:25:29](/episodes/ep-jsqUIkszZd0.md#t-00-25-29) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1529);return false;">Play</a>
 
 > While their All Things Possible Ministries did purchase five Fold AR weapon systems for Lindale High School in Texas, no further participation from their ministries was ever made or offered without explanation.
+
+### 2. Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329
+
+**Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
+**Timestamp:** [00:49:53](/episodes/ep--9MOUvgGyi4.md#t-00-49-53) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2993);return false;">Play</a>
+
+> to get one of these FoldARs on the back of every sro in the nation starting with texas i was kind of shocked i didn't think he was going to say that but yeah let's do this and that idea was to set up a 501c3 and Figure out how to get donations coming in for schools, ... particularly rural schools that don't have immediate access to SWAT teams or funding and let's get these moving. So that happened and it wasn't too long before we had a school that needed five and didn't have the budget for it. It was local to us. ... And so that was, we delivered those in the summer of 24. ... was the only one that Victor (Victor Marx) ATP. ... purchased
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "The New York Times"
-description: "The New York Times (Organizations) - 53 mentions"
+description: "The New York Times (Organizations) - 54 mentions"
 id: "org-the-new-york-times"
 type: "ORG"
 aliases:
@@ -21,10 +21,10 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-the-new-york-times-t-00-50-22">2025-09-15 · 00:50:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-org-the-new-york-times-t-00-19-00">2026-04-13 · 00:19:00</a></strong></div>
-<div><span>Episodes</span><strong>27</strong></div>
-<div><span>Mentions</span><strong>53</strong></div>
-<div><span>Statements by</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#t-00-34-52">2026-05-13 · 00:35:19</a></strong></div>
+<div><span>Episodes</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>54</strong></div>
+<div><span>Statements by</span><strong>6</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -61,6 +61,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-the-new-york-times-t-00-34-48" style="--pulse-height:33%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 3 mentions" title="2026-04-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-the-new-york-times-t-00-11-33" style="--pulse-height:11%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-the-new-york-times-t-00-19-00" style="--pulse-height:11%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#t-00-34-52" style="--pulse-height:11%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -93,6 +94,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-the-new-york-times-t-00-34-48) | 3 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-the-new-york-times-t-00-11-33) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-the-new-york-times-t-00-19-00) | 1 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#t-00-34-52) | 1 |
 
 </details>
 </section>
@@ -100,7 +102,15 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (53)</strong></summary>
+<summary><strong class="section-title">Raw mentions (54)</strong></summary>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1 mentions)</summary>
+
+**[00:35:19](/episodes/ep-7FS1tUeSfdE.md#t-00-34-52)**
+> "a New Times headline"
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
@@ -493,7 +503,15 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by The New York Times (5)</strong></summary>
+<summary><strong class="section-title">Statements by The New York Times (6)</strong></summary>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1)</summary>
+
+- [00:35:19](/episodes/ep-7FS1tUeSfdE.md#t-00-34-52) [○] (Claim) ["Brigitte Macron slapped her husband over text messages to an actress."](/statements/statement-b2ddc838a4b2.md)
+  - About: [Brigitte Macron](/entities/person-brigitte-macron.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Golshifteh Farahani](/entities/person-golshifteh-farahani.md)
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (2)</summary>

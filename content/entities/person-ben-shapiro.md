@@ -1,6 +1,6 @@
 ---
 title: "Ben Shapiro"
-description: "Ben Shapiro (People) - 342 mentions"
+description: "Ben Shapiro (People) - 379 mentions"
 id: "person-ben-shapiro"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-ben-shapiro-t-00-30-51">2025-09-24 · 00:31:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-ben-shapiro-t-00-11-56">2026-04-21 · 00:12:12</a></strong></div>
-<div><span>Episodes</span><strong>41</strong></div>
-<div><span>Mentions</span><strong>342</strong></div>
-<div><span>Statements by</span><strong>7</strong></div>
-<div><span>Statements about</span><strong>61</strong></div>
-<div><span>Relationships</span><strong>73</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-ben-shapiro-t-00-52-51">2026-05-06 · 00:52:51</a></strong></div>
+<div><span>Episodes</span><strong>46</strong></div>
+<div><span>Mentions</span><strong>379</strong></div>
+<div><span>Statements by</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>71</strong></div>
+<div><span>Relationships</span><strong>79</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -76,6 +76,11 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-ben-shapiro-t-00-17-43" style="--pulse-height:22%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 12 mentions" title="2026-04-13 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-ben-shapiro-t-00-52-05" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-ben-shapiro-t-00-11-56" style="--pulse-height:8%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-ben-shapiro-t-00-53-33" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-ben-shapiro-t-00-44-17" style="--pulse-height:8%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-00-41" style="--pulse-height:56%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 30 mentions" title="2026-05-04 · 30 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-ben-shapiro-t-00-10-42" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-ben-shapiro-t-00-29-56" style="--pulse-height:8%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 3 mentions" title="2026-05-06 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -122,6 +127,11 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-ben-shapiro-t-00-17-43) | 12 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-ben-shapiro-t-00-52-05) | 3 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-ben-shapiro-t-00-11-56) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-ben-shapiro-t-00-53-33) | 1 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-person-ben-shapiro-t-00-44-17) | 1 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-00-41) | 30 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-ben-shapiro-t-00-10-42) | 2 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-ben-shapiro-t-00-29-56) | 3 |
 
 </details>
 </section>
@@ -129,7 +139,143 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (342)</strong></summary>
+<summary><strong class="section-title">Raw mentions (379)</strong></summary>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (3 mentions)</summary>
+
+**[00:29:56](/episodes/ep-k1b1NDCrNFs.md#ent-person-ben-shapiro-t-00-29-56)**
+> "... that Jeremy Boreing and Ben (Ben Shapiro) and the daily wire worked with to pursue me for ..."
+
+**[00:45:40](/episodes/ep-k1b1NDCrNFs.md#ent-person-ben-shapiro-t-00-45-20)**
+> "... The Daily Wire, him and Ben (Ben Shapiro) were better than you as they privately seek to d..."
+
+**[00:52:51](/episodes/ep-k1b1NDCrNFs.md#ent-person-ben-shapiro-t-00-52-51)**
+> "...ay that i'm coordinating with ben shapiro to launder ideas to laura loomer next let's get t..."
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (2 mentions)</summary>
+
+**[00:10:42](/episodes/ep-eMtjzXkQrsU.md#ent-person-ben-shapiro-t-00-10-42)**
+> "look human and I know you guys what I'm talking about it's like you'll watch a video of someone and they're overtaken with this like cloud of darkness and evil like I wasn't joking yesterday when we showed that clip of as an example uh Ben Shapiro at the end when he was talking about me he sort of like twitched and I was like whoa what what was that at the end because we hadn't recognized it when we pulled it initially and I was like that's not normal like what who are you who are you worshiping what are you worshiping"
+
+**[00:24:38](/episodes/ep-eMtjzXkQrsU.md#ent-person-ben-shapiro-t-00-24-38)**
+> "...ere are people like barry and ben shapiro they're just not ever going to fail and that's jo..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (30 mentions)</summary>
+
+**[00:00:41](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-00-41)**
+> "... me nonstop in arbitration on Ben Shapiro's behalf for two years for every minor infraction."
+
+**[00:00:57](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-00-41)**
+> "...e firm Who also happens to be Ben Shapiro's brother-in-law."
+
+**[00:02:29](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-02-05)**
+> "My real stalker in life is Ben Shapiro, okay? Since the day that I was fired from the Da..."
+
+**[00:04:00](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-03-26)**
+> "...o one was safe. Not even Ben (Ben Shapiro)'s team was safe, Mark safe from it. Even a direc..."
+
+**[00:08:51](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-08-51)**
+> "Candace Owens cooked you Ben (Ben Shapiro). She made you look like both a little bitch that..."
+
+**[00:15:44](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-15-18)**
+> "...cannot discount the fact that Ben Shapiro, who is considered, and this is sad for the other..."
+
+**[00:18:34](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-18-10)**
+> "...n reasonably assume that Ben (Ben Shapiro), who's a part owner of the company, knew months ..."
+
+**[00:19:38](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-19-27)**
+> "Ben (Ben Shapiro) trying to destroy me, trying to destroy Megyn Ke..."
+
+**[00:19:51](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-19-27)**
+> "...o other way to say that. Ben (Ben Shapiro) seeking to publicly humiliate Michael Knowles, s..."
+
+**[00:20:32](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-20-32)**
+> "...it of Judas, and that is what Ben Shapiro demonstrates, right, that he will break bread wit..."
+
+**[00:20:45](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-20-32)**
+> "...e behind the scenes like Ben (Ben Shapiro) did to Charlie Kirk and then."
+
+**[00:21:06](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-21-06)**
+> "...k, by the way, that that Ben (Ben Shapiro)'s attacks against me would now be all done."
+
+**[00:21:46](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-21-46)**
+> "...Kelly) what did what did Ben (Ben Shapiro) do instead of addressing his employees?"
+
+**[00:24:59](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-24-35)**
+> "...k at the full picture of Ben (Ben Shapiro) and what collapses company, it wasn't me. I wasn..."
+
+**[00:25:11](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-24-35)**
+> "...t tell people to boycott Ben (Ben Shapiro) or boycott the Daily Wire. To the contrary, I fe..."
+
+**[00:25:24](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-25-20)**
+> "But regarding Ben (Ben Shapiro), that is just the spirit of a man who wants mone..."
+
+**[00:25:30](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-25-20)**
+> "No one told Ben (Ben Shapiro) to launch a war on Christ as king. In fact, I st..."
+
+**[00:25:38](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-25-20)**
+> "...eems to be everything to Ben (Ben Shapiro). That explains why after working behind the scen..."
+
+**[00:26:04](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-26-04)**
+> "...k he has been married to Ben (Ben Shapiro)'s sister since 2018."
+
+**[00:26:15](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-26-04)**
+> "Ben (Ben Shapiro) is so destructive. Like right here, mark my word..."
+
+**[00:26:55](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-26-46)**
+> "...ake. The Daily Wire with Ben (Ben Shapiro) at the helm represents the side of people that a..."
+
+**[00:27:20](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-26-46)**
+> "... You cannot rehabilitate Ben (Ben Shapiro)'s anger and his tunnel vision."
+
+**[00:27:26](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-27-26)**
+> "... Daily Wire and they see Ben (Ben Shapiro) and they don't want to support that. They don't ..."
+
+**[00:30:31](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-30-14)**
+> "...dy in YouTube world knew Ben (Ben Shapiro) is buying he's buying views."
+
+**[00:32:42](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-32-42)**
+> "...ween Matt (Matthew Sarelson), Ben Shapiro's lawyer, and Laura Loomer."
+
+**[00:33:32](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-33-22)**
+> "...that, but Jacob William Roth, Ben Shapiro's brother-in-law similarly was retweeting the lawsu..."
+
+**[00:56:36](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-33-22)**
+> "...our coal rights i'm complicit ben c and he gave us a hundred dollars he's gonna com..."
+
+**[00:57:20](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-57-12)**
+> "...mething about the collapse of Ben Shapiro's platform."
+
+**[00:58:02](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-57-12)**
+> "...went down natty nicole writes ben and larry are disgusting human beings doubling my..."
+
+**[00:58:38](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-58-38)**
+> "...e to, and I did pray for Ben (Ben Shapiro) a lot more than I should have."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1 mentions)</summary>
+
+**[00:44:41](/episodes/ep-69A8TzAGHlU.md#ent-person-ben-shapiro-t-00-44-17)**
+> "The full conversation, the context of that, mocking Ben Shapiro and Barry Weiss. This is when you have his joke in his private conversation."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[00:53:40](/episodes/ep-qZ8RWfyuewQ.md#ent-person-ben-shapiro-t-00-53-33)**
+> "... making fun of Bari Weiss and Ben Shapiro and the syndicate of people that had come out and..."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1 mentions)</summary>
@@ -1383,10 +1529,11 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <summary>Accused By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:16:48](/episodes/ep-zSKrxIUMNqw.md#t-00-16-36): “And Ben Shapiro's behavior since Charlie Kirk's assassination leads me to believe that he may know more than the public knows.”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:06:55](/episodes/ep-k8ueJdPFel4.md#t-00-06-32): “OK, Charlie (Charlie Kirk) could not stand Ben Shapiro. I have been telling you that because Ben (Ben Shapiro) operated behind the scenes to try to stop his rise.”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:20:45](/episodes/ep-uC_GjKU8rs8.md#t-00-20-32): “People do not like his nature. You can spend years trying to destroy someone behind the scenes like Ben (Ben Shapiro) did to Charlie Kirk and then.”
 
 </details>
 
@@ -1424,15 +1571,16 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>Criticized (9)</summary>
+<summary>Criticized (10)</summary>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:06:23](/episodes/ep-MUA9ebCF4Ow.md#t-00-05-50): “lied to Megyn Kelly's face”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-43): “and this time he also attacked Megyn Kelly”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:40:10](/episodes/ep-CMcktj3Egfo.md#t-00-39-38): “I was called a coward by Ben Shapiro at the Turning Point event AmFest in December,”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:46](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “He calls Megyn Kelly a coward and Piers Morgan a clickbait whore or something. And what is their crime?”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:17:37](/episodes/ep-uC_GjKU8rs8.md#t-00-17-37): “Yes. Of course, the issue here is not just that Megyn Kelly has some questionable principles. and has been programming directly into the groiper right, it is that she remains a coward.”
 
 </details>
 
@@ -1460,11 +1608,12 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:04:40](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): “Ben Shapiro calling what Candace Owens is doing evil”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-43): “he again... attacked me.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:39:26](/episodes/ep-QRS_hR7NXaQ.md#t-00-39-26): “Did I hear that Candace (Candace Owens) said on her show she had dreams about playing Hogwarts chess with you? ... that's weird. It's a little bit weird.”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:17:08](/episodes/ep-uC_GjKU8rs8.md#t-00-17-08): “I think that what Candace Owens is doing right now is evil. It is evil what she is doing right now.”
 
 </details>
 
@@ -1496,13 +1645,20 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 </details>
 
+- **[Theo Vaughn](/entities/person-theo-vaughn.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:16:31](/episodes/ep-uC_GjKU8rs8.md#t-00-16-31): “So here's the thing. Theo Vaughn is a low IQ conspiracist. He has himself routinely propped up Candace Owens, is lending credence to her insanity.”
+
+</details>
+
 </details>
 
 <details>
 <summary>Criticized By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
@@ -1511,6 +1667,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:23](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “Ben (Ben Shapiro) should be given a swirly every single day of his life. Ben Shapiro's head belongs in a toilet permanently.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:24:40](/episodes/ep-eLgD5yUVbko.md#t-00-24-24): “I don't remember who she had in her show, but she was talking about Mark Levin and she said there is a piece of her that feels like he genuinely wants to like hurt her like he would want harm to come to Megyn Kelly. Like if someone killed her, he would be happy. And I watched this and I went, yes, like my head, obviously, I said, I agree with this. And this is exactly how I feel about Ben Shapiro. I can't explain to you, but like there was an obsession here. He brought back my socials. They make videos. It has not stopped.”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:52:56](/episodes/ep-1mYNOqzAdXs.md#t-00-52-31): “because since the time he was a kid, nobody has ever liked Ben Shapiro and the world caught on. He's been buying views throughout his entire life. He's never going to go away to just get used to like that buzzing noise in the background.”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:26:55](/episodes/ep-uC_GjKU8rs8.md#t-00-26-46): “Okay. The world is now awake. The Daily Wire with Ben (Ben Shapiro) at the helm represents the side of people that are trying to sort of put us back to sleep and it is a losing battle. It's not going to work. So my best advice to them, which they of course will not follow, they could always count on Daily Wire to do the wrong thing.”
 
 </details>
 
@@ -1604,9 +1761,10 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <summary>Friend Of (1)</summary>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:40:19](/episodes/ep-CMcktj3Egfo.md#t-00-39-38): “literally said our friendship,”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:19:38](/episodes/ep-uC_GjKU8rs8.md#t-00-19-27): “Ben (Ben Shapiro) trying to destroy me, trying to destroy Megyn Kelly, that means trying to destroy a former colleague and someone like Megyn Kelly who he said was his friend.”
 
 </details>
 
@@ -1635,10 +1793,11 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:20:01](/episodes/ep-r1PS67aRmcA.md#t-00-19-31): “Ben Shapiro sat down with him last month”
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:07:30](/episodes/ep-r1PS67aRmcA.md#t-00-07-09): “Benjamin Netanyahu is committing a genocide, and Ben Shapiro sat down with him last month”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:27:39](/episodes/ep-uC_GjKU8rs8.md#t-00-27-26): “While he unflinchingly hosts Bibi (Benjamin Netanyahu) on his platform, while he cheers on a genocide. That's his main issue. His main issue is Israel.”
 
 </details>
 
@@ -1673,6 +1832,30 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:19:00](/episodes/ep-eLgD5yUVbko.md#t-00-19-00): “writers to peer pressure Charlie to distance from me because of anti-Semitism. Andrew admitted in that same New York Times interview that we just showed you that he effectively forced Charlie to interview Ben a few days before his death.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Owns (1)</summary>
+
+- **[The Daily Wire](/entities/org-the-daily-wire.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:18:34](/episodes/ep-uC_GjKU8rs8.md#t-00-18-10): “That the company could no longer afford to sustain them, that we can reasonably assume that Ben (Ben Shapiro), who's a part owner of the company, knew months ahead.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Represented By (1)</summary>
+
+- **[Matthew Sarelson](/entities/person-matthew-sarelson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:32:42](/episodes/ep-uC_GjKU8rs8.md#t-00-32-42): “But I was standing in a Charlotte airport when I received that email. So how is it possible, and again, I'll say allegedly, how is it possible that Laura Loomer was trying to get somebody go take photos of me reading that email that I received that nobody could have known I was going to receive outside of Matt (Matthew Sarelson)'s firm? That signals that there's some coordination between Matt (Matthew Sarelson), Ben Shapiro's lawyer, and Laura Loomer.”
 
 </details>
 
@@ -1738,22 +1921,24 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <summary>Works For (1)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:30](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): “Ben Shapiro works for the Daily Wire”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:15:44](/episodes/ep-uC_GjKU8rs8.md#t-00-15-18): “So you cannot discount the fact that Ben Shapiro, who is considered, and this is sad for the other people on the platform, he is considered the face of the company and he developed tunnel vision.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (36)</summary>
+<summary>Referenced By (39)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:16:48](/episodes/ep-zSKrxIUMNqw.md#t-00-16-36): “And Ben Shapiro's behavior since Charlie Kirk's assassination leads me to believe that he may know more than the public knows.”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:06:55](/episodes/ep-k8ueJdPFel4.md#t-00-06-32): “OK, Charlie (Charlie Kirk) could not stand Ben Shapiro. I have been telling you that because Ben (Ben Shapiro) operated behind the scenes to try to stop his rise.”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:20:45](/episodes/ep-uC_GjKU8rs8.md#t-00-20-32): “People do not like his nature. You can spend years trying to destroy someone behind the scenes like Ben (Ben Shapiro) did to Charlie Kirk and then.”
 
 </details>
 
@@ -1779,7 +1964,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
@@ -1788,6 +1973,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:23](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “Ben (Ben Shapiro) should be given a swirly every single day of his life. Ben Shapiro's head belongs in a toilet permanently.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:24:40](/episodes/ep-eLgD5yUVbko.md#t-00-24-24): “I don't remember who she had in her show, but she was talking about Mark Levin and she said there is a piece of her that feels like he genuinely wants to like hurt her like he would want harm to come to Megyn Kelly. Like if someone killed her, he would be happy. And I watched this and I went, yes, like my head, obviously, I said, I agree with this. And this is exactly how I feel about Ben Shapiro. I can't explain to you, but like there was an obsession here. He brought back my socials. They make videos. It has not stopped.”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:52:56](/episodes/ep-1mYNOqzAdXs.md#t-00-52-31): “because since the time he was a kid, nobody has ever liked Ben Shapiro and the world caught on. He's been buying views throughout his entire life. He's never going to go away to just get used to like that buzzing noise in the background.”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:26:55](/episodes/ep-uC_GjKU8rs8.md#t-00-26-46): “Okay. The world is now awake. The Daily Wire with Ben (Ben Shapiro) at the helm represents the side of people that are trying to sort of put us back to sleep and it is a losing battle. It's not going to work. So my best advice to them, which they of course will not follow, they could always count on Daily Wire to do the wrong thing.”
 
 </details>
 
@@ -1813,12 +1999,13 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:06:23](/episodes/ep-MUA9ebCF4Ow.md#t-00-05-50): “lied to Megyn Kelly's face”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-43): “and this time he also attacked Megyn Kelly”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:40:10](/episodes/ep-CMcktj3Egfo.md#t-00-39-38): “I was called a coward by Ben Shapiro at the Turning Point event AmFest in December,”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:46](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “He calls Megyn Kelly a coward and Piers Morgan a clickbait whore or something. And what is their crime?”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:17:37](/episodes/ep-uC_GjKU8rs8.md#t-00-17-37): “Yes. Of course, the issue here is not just that Megyn Kelly has some questionable principles. and has been programming directly into the groiper right, it is that she remains a coward.”
 
 </details>
 
@@ -1846,11 +2033,12 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:04:40](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): “Ben Shapiro calling what Candace Owens is doing evil”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-43): “he again... attacked me.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:39:26](/episodes/ep-QRS_hR7NXaQ.md#t-00-39-26): “Did I hear that Candace (Candace Owens) said on her show she had dreams about playing Hogwarts chess with you? ... that's weird. It's a little bit weird.”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:17:08](/episodes/ep-uC_GjKU8rs8.md#t-00-17-08): “I think that what Candace Owens is doing right now is evil. It is evil what she is doing right now.”
 
 </details>
 
@@ -1882,6 +2070,13 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 </details>
 
+- **[Theo Vaughn](/entities/person-theo-vaughn.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:16:31](/episodes/ep-uC_GjKU8rs8.md#t-00-16-31): “So here's the thing. Theo Vaughn is a low IQ conspiracist. He has himself routinely propped up Candace Owens, is lending credence to her insanity.”
+
+</details>
+
 - **[Dave Rubin](/entities/person-dave-rubin.md)** defended this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -1898,9 +2093,10 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:30](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): “Ben Shapiro works for the Daily Wire”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:15:44](/episodes/ep-uC_GjKU8rs8.md#t-00-15-18): “So you cannot discount the fact that Ben Shapiro, who is considered, and this is sad for the other people on the platform, he is considered the face of the company and he developed tunnel vision.”
 
 </details>
 
@@ -1928,9 +2124,10 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:40:19](/episodes/ep-CMcktj3Egfo.md#t-00-39-38): “literally said our friendship,”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:19:38](/episodes/ep-uC_GjKU8rs8.md#t-00-19-27): “Ben (Ben Shapiro) trying to destroy me, trying to destroy Megyn Kelly, that means trying to destroy a former colleague and someone like Megyn Kelly who he said was his friend.”
 
 </details>
 
@@ -1978,9 +2175,10 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:20:01](/episodes/ep-r1PS67aRmcA.md#t-00-19-31): “Ben Shapiro sat down with him last month”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:27:39](/episodes/ep-uC_GjKU8rs8.md#t-00-27-26): “While he unflinchingly hosts Bibi (Benjamin Netanyahu) on his platform, while he cheers on a genocide. That's his main issue. His main issue is Israel.”
 
 </details>
 
@@ -1995,6 +2193,20 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:52:31](/episodes/ep-1mYNOqzAdXs.md#t-00-52-31): “i mean this is the guy that sits down with Bibi (Benjamin Netanyahu) and then tells us that Theo Von is a threat to civilization okay he like literally interviews mass murderers like Zelenskyy (Volodymyr Zelenskyy) on his show”
+
+</details>
+
+- **[The Daily Wire](/entities/org-the-daily-wire.md)** owned by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:18:34](/episodes/ep-uC_GjKU8rs8.md#t-00-18-10): “That the company could no longer afford to sustain them, that we can reasonably assume that Ben (Ben Shapiro), who's a part owner of the company, knew months ahead.”
+
+</details>
+
+- **[Matthew Sarelson](/entities/person-matthew-sarelson.md)** represented this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:32:42](/episodes/ep-uC_GjKU8rs8.md#t-00-32-42): “But I was standing in a Charlotte airport when I received that email. So how is it possible, and again, I'll say allegedly, how is it possible that Laura Loomer was trying to get somebody go take photos of me reading that email that I received that nobody could have known I was going to receive outside of Matt (Matthew Sarelson)'s firm? That signals that there's some coordination between Matt (Matthew Sarelson), Ben Shapiro's lawyer, and Laura Loomer.”
 
 </details>
 
@@ -2024,7 +2236,24 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Ben Shapiro (7)</strong></summary>
+<summary><strong class="section-title">Statements by Ben Shapiro (11)</strong></summary>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (4)</summary>
+
+- [00:16:39](/episodes/ep-uC_GjKU8rs8.md#t-00-16-31) [○] (Opinion) ["Erika Kirk absolutely should sue Candace Owens."](/statements/statement-3f2a03a20d2a.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:17:08](/episodes/ep-uC_GjKU8rs8.md#t-00-17-08) [○] (Opinion) ["What Candace Owens is doing is evil."](/statements/statement-2aea029c91c8.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:17:37](/episodes/ep-uC_GjKU8rs8.md#t-00-17-37) [○] (Opinion) ["Megyn Kelly remains a coward."](/statements/statement-407aefc04810.md)
+  - About: [Megyn Kelly](/entities/person-megyn-kelly.md)
+
+- [00:22:11](/episodes/ep-uC_GjKU8rs8.md#t-00-21-46) [○] (Opinion) ["Candace Owens’s audience members are complicit because she monetizes their gulli..."](/statements/statement-edcc66fd6d63.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1)</summary>
@@ -2065,7 +2294,47 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ben Shapiro (61)</strong></summary>
+<summary><strong class="section-title">Statements about Ben Shapiro (71)</strong></summary>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (9)</summary>
+
+- [00:00:41](/episodes/ep-uC_GjKU8rs8.md#t-00-00-41) (Claim) **Candace Owens**: ["The lawyer who sent Brian Harpole’s lawsuit had already been suing Can..."](/statements/statement-efb425af7419.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Matthew Sarelson](/entities/person-matthew-sarelson.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:00:57](/episodes/ep-uC_GjKU8rs8.md#t-00-00-41) (Claim) **Candace Owens**: ["Jacob William Roth is a partner at the law firm and Ben Shapiro’s brot..."](/statements/statement-3c3a9d78cecd.md)
+  - Also about: [Jacob William Roth](/entities/person-jacob-william-roth.md), [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:02:29](/episodes/ep-uC_GjKU8rs8.md#t-00-02-05) (Accusation) **Candace Owens**: ["Since Candace Owens was fired from The Daily Wire, Ben Shapiro has not..."](/statements/statement-66604e460121.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:15:56](/episodes/ep-uC_GjKU8rs8.md#t-00-15-18) (Accusation) **Candace Owens**: ["Ben Shapiro bet The Daily Wire on destroying Candace Owens."](/statements/statement-ee4486fd6ac7.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:25:53](/episodes/ep-uC_GjKU8rs8.md#t-00-25-20) (Accusation) **Candace Owens**: ["Are we to believe it is merely a coincidence that Jacob William Roth, ..."](/statements/statement-fda6115f1efa.md)
+  - Also about: [Jacob William Roth](/entities/person-jacob-william-roth.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:30:31](/episodes/ep-uC_GjKU8rs8.md#t-00-30-14) (Accusation) **Candace Owens**: ["Ben Shapiro is buying YouTube views through advertising."](/statements/statement-1e81c1544e1c.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [YouTube](/entities/org-youtube.md)
+
+- [00:32:31](/episodes/ep-uC_GjKU8rs8.md#t-00-32-05) (Accusation) **Candace Owens**: ["The timing of the airport-photography request signals coordination bet..."](/statements/statement-a47e49a7cb32.md)
+  - Also about: [Matthew Sarelson](/entities/person-matthew-sarelson.md), [Laura Loomer](/entities/person-laura-loomer.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:33:09](/episodes/ep-uC_GjKU8rs8.md#t-00-32-42) (Claim) **Candace Owens**: ["Before acknowledging the lawsuit, Matthew Sarelson had been heavily re..."](/statements/statement-5fe964af0b26.md)
+  - Also about: [Matthew Sarelson](/entities/person-matthew-sarelson.md), [Laura Loomer](/entities/person-laura-loomer.md), [Jacob William Roth](/entities/person-jacob-william-roth.md)
+
+- [00:57:26](/episodes/ep-uC_GjKU8rs8.md#t-00-57-12) (Accusation) **Candace Owens**: ["Was Zalman Shapiro the one who took all of the uranium to Israel? Cand..."](/statements/statement-bd7263012345.md)
+  - Also about: [Zalman Mordecai Shapiro](/entities/person-zalman-shapiro.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1)</summary>
+
+- [00:53:33](/episodes/ep-qZ8RWfyuewQ.md#t-00-53-33) (Claim) **Candace Owens** (via read message): ["Candace Owens said her private message asking Erika Kirk why she murde..."](/statements/statement-e2dbbf016bad.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (4)</summary>

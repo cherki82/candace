@@ -1,6 +1,6 @@
 ---
 title: "Make Him a Sandwich"
-description: "Make Him a Sandwich (Works & Media) - 63 mentions"
+description: "Make Him a Sandwich (Works & Media) - 75 mentions"
 id: "work-make-him-a-sandwich"
 type: "WORK"
 aliases:
@@ -25,9 +25,9 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-work-make-him-a-sandwich-t-00-49-29">2025-10-27 · 00:49:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-work-make-him-a-sandwich-t-01-04-37">2026-04-13 · 01:04:37</a></strong></div>
-<div><span>Episodes</span><strong>39</strong></div>
-<div><span>Mentions</span><strong>63</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#t-00-54-53">2026-05-13 · 00:54:53</a></strong></div>
+<div><span>Episodes</span><strong>46</strong></div>
+<div><span>Mentions</span><strong>75</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -77,6 +77,13 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-work-make-him-a-sandwich-t-00-52-21" style="--pulse-height:50%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-work-make-him-a-sandwich-t-00-42-29" style="--pulse-height:25%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-work-make-him-a-sandwich-t-01-04-37" style="--pulse-height:25%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-work-make-him-a-sandwich-t-01-14-48" style="--pulse-height:25%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-work-make-him-a-sandwich-t-01-14-29" style="--pulse-height:50%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 2 mentions" title="2026-04-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-work-make-him-a-sandwich-t-01-02-02" style="--pulse-height:25%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#t-01-07-48" style="--pulse-height:25%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-work-make-him-a-sandwich-t-00-45-58" style="--pulse-height:50%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 2 mentions" title="2026-05-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#t-00-54-53" style="--pulse-height:25%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-work-make-him-a-sandwich-t-00-48-05" style="--pulse-height:75%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -121,6 +128,13 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-work-make-him-a-sandwich-t-00-52-21) | 2 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-work-make-him-a-sandwich-t-00-42-29) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-work-make-him-a-sandwich-t-01-04-37) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-work-make-him-a-sandwich-t-01-14-48) | 1 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-work-make-him-a-sandwich-t-01-14-29) | 2 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-work-make-him-a-sandwich-t-01-02-02) | 1 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#t-01-07-48) | 1 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-work-make-him-a-sandwich-t-00-45-58) | 2 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#t-00-54-53) | 1 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-work-make-him-a-sandwich-t-00-48-05) | 3 |
 
 </details>
 </section>
@@ -128,7 +142,75 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (63)</strong></summary>
+<summary><strong class="section-title">Raw mentions (75)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1 mentions)</summary>
+
+**[00:54:53](/episodes/ep-4DvYXBn_5JI.md#t-00-54-53)**
+> "Make it a sandwich"
+
+</details>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (3 mentions)</summary>
+
+**[00:48:41](/episodes/ep-7FS1tUeSfdE.md#ent-work-make-him-a-sandwich-t-00-48-05)**
+> "my book in the book club, make him a sandwich"
+
+**[00:48:05](/episodes/ep-7FS1tUeSfdE.md#ent-work-make-him-a-sandwich-t-00-48-05)**
+> "...Martin writes, I kid you not, make him a sandwich shows up the same day I get a TPUSA."
+
+**[00:48:49](/episodes/ep-7FS1tUeSfdE.md#ent-work-make-him-a-sandwich-t-00-48-49)**
+> "make him a sandwich which you guys can buy i don't know if you got it..."
+
+</details>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (2 mentions)</summary>
+
+**[00:46:30](/episodes/ep-FFQ9675oqRI.md#ent-work-make-him-a-sandwich-t-00-45-58)**
+> "...t this one, as you guys know, Make Him a Sandwich. You guys can get it on Amazon."
+
+**[00:46:57](/episodes/ep-FFQ9675oqRI.md#ent-work-make-him-a-sandwich-t-00-46-40)**
+> "...i B was like why don't you go make him a sandwich and that is how this whole idea the entire idea f..."
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>
+
+**[01:08:05](/episodes/ep-k1b1NDCrNFs.md#t-01-07-48)**
+> "On makemesandwich.com, you can buy it directly from us."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
+
+**[01:02:02](/episodes/ep-uC_GjKU8rs8.md#ent-work-make-him-a-sandwich-t-01-02-02)**
+> "...m so excited so you can go to make him a sandwich.com and you can buy my book for 22 i think that's..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2 mentions)</summary>
+
+**[01:14:51](/episodes/ep-69A8TzAGHlU.md#ent-work-make-him-a-sandwich-t-01-14-29)**
+> "Tomorrow we have book club and this will be ending the book, The Secret Founding of America, and we will then be jumping into my book, which I'm super excited about, which is Make Him a Sandwich. Love."
+
+**[01:15:05](/episodes/ep-69A8TzAGHlU.md#ent-work-make-him-a-sandwich-t-01-15-05)**
+> "...lable on Amazon you can go to make him a sandwich.com buy a regular copy a regularly priced copy no..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[01:14:48](/episodes/ep-qZ8RWfyuewQ.md#ent-work-make-him-a-sandwich-t-01-14-48)**
+> "...club and join us for my book, Make Him a Sandwich, which we will be reading next."
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
@@ -517,7 +599,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <summary>Authored By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-33): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
@@ -526,6 +608,12 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:55:07](/episodes/ep-CEF7gQRWYCE.md#t-00-55-01): “You can also buy the hard copied bundle, both of our books, my books, pardon, Make Him a Sandwich and Blackout, both of them.”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:52:21](/episodes/ep-7ERqbYElOfs.md#t-00-52-21): “Make him a sandwich, which is, I love you guys that are writing me emails about it. It was a really, really fun book to read, I mean to write, and it's taken me like years actually to write it.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 01:04:37](/episodes/ep-eLgD5yUVbko.md#t-01-04-11): “going to be on friday i did not appreciate that we had an open friday and it just made more sense to make it on friday to bump it um so yeah uh that will be on friday to make up for it and thank you guys for your patience um we only have two more meetings for this book so this friday and then one more and we'll be done and then the next book we're going to read is my book so i'm super excited about that make them a sandwich so buy that ahead of time if you guys want to jump in and join the book the book club the next book we're going to read is making a sandwich which i have just been very happy about um i i might be a little biased but i think the author's great and that is uh that's a signed copy you can also buy regular copies on amazon and yeah anyway you guys uh some of your comments let's do did i just read no i just read the comments from yesterday A few before we go.”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:14:48](/episodes/ep-qZ8RWfyuewQ.md#t-01-14-48): “So if you want to join the book club, now is a great time to do that. Head to the website, join the book club and join us for my book, Make Him a Sandwich, which we will be reading next.”
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 01:14:51](/episodes/ep-69A8TzAGHlU.md#t-01-14-29): “Tomorrow we have book club and this will be ending the book, The Secret Founding of America, and we will then be jumping into my book, which I'm super excited about, which is Make Him a Sandwich. Love.”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 01:02:02](/episodes/ep-uC_GjKU8rs8.md#t-01-02-02): “merch is on the website you know how to do it we love being independent thank you guys so much um and reminding you book club not this week but next week this is a perfect time to join it we are doing my book i am so excited so you can go to make him a sandwich.com and you can buy my book for 22 i think that's cheaper than going to amazon.com amazon might ship a day faster you gotta give credit where jeff bezos is due”
+- [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 @ 00:46:30](/episodes/ep-FFQ9675oqRI.md#t-00-45-58): “My book, really excited about this one, as you guys know, Make Him a Sandwich.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:54:53](/episodes/ep-4DvYXBn_5JI.md#t-00-54-53): “Join the book club on Friday. We will be doing my book, which I'm very, very excited about. ... Make it a sandwich. This is the first time I'm reading my book.”
+- [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:48:41](/episodes/ep-7FS1tUeSfdE.md#t-00-48-05): “Friday, we start the book club, my book, first time I'm reading my book in the book club, make him a sandwich.”
 
 </details>
 
@@ -535,7 +623,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** authored this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-33): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
@@ -544,6 +632,12 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:55:07](/episodes/ep-CEF7gQRWYCE.md#t-00-55-01): “You can also buy the hard copied bundle, both of our books, my books, pardon, Make Him a Sandwich and Blackout, both of them.”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:52:21](/episodes/ep-7ERqbYElOfs.md#t-00-52-21): “Make him a sandwich, which is, I love you guys that are writing me emails about it. It was a really, really fun book to read, I mean to write, and it's taken me like years actually to write it.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 01:04:37](/episodes/ep-eLgD5yUVbko.md#t-01-04-11): “going to be on friday i did not appreciate that we had an open friday and it just made more sense to make it on friday to bump it um so yeah uh that will be on friday to make up for it and thank you guys for your patience um we only have two more meetings for this book so this friday and then one more and we'll be done and then the next book we're going to read is my book so i'm super excited about that make them a sandwich so buy that ahead of time if you guys want to jump in and join the book the book club the next book we're going to read is making a sandwich which i have just been very happy about um i i might be a little biased but i think the author's great and that is uh that's a signed copy you can also buy regular copies on amazon and yeah anyway you guys uh some of your comments let's do did i just read no i just read the comments from yesterday A few before we go.”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:14:48](/episodes/ep-qZ8RWfyuewQ.md#t-01-14-48): “So if you want to join the book club, now is a great time to do that. Head to the website, join the book club and join us for my book, Make Him a Sandwich, which we will be reading next.”
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 01:14:51](/episodes/ep-69A8TzAGHlU.md#t-01-14-29): “Tomorrow we have book club and this will be ending the book, The Secret Founding of America, and we will then be jumping into my book, which I'm super excited about, which is Make Him a Sandwich. Love.”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 01:02:02](/episodes/ep-uC_GjKU8rs8.md#t-01-02-02): “merch is on the website you know how to do it we love being independent thank you guys so much um and reminding you book club not this week but next week this is a perfect time to join it we are doing my book i am so excited so you can go to make him a sandwich.com and you can buy my book for 22 i think that's cheaper than going to amazon.com amazon might ship a day faster you gotta give credit where jeff bezos is due”
+- [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 @ 00:46:30](/episodes/ep-FFQ9675oqRI.md#t-00-45-58): “My book, really excited about this one, as you guys know, Make Him a Sandwich.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:54:53](/episodes/ep-4DvYXBn_5JI.md#t-00-54-53): “Join the book club on Friday. We will be doing my book, which I'm very, very excited about. ... Make it a sandwich. This is the first time I'm reading my book.”
+- [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:48:41](/episodes/ep-7FS1tUeSfdE.md#t-00-48-05): “Friday, we start the book club, my book, first time I'm reading my book in the book club, make him a sandwich.”
 
 </details>
 

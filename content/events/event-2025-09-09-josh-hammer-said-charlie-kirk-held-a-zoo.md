@@ -12,7 +12,7 @@ time: "18:00"
 
 > Josh Hammer said Charlie Kirk held a Zoom call with him and an Israel-based rabbi.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. BAAL SO HARD: The Epstein Files | Candace Ep 300
 
@@ -29,3 +29,11 @@ time: "18:00"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(357);return false;">▶️ Play</a>
 
 > He then has what looks like an emergency Zoom call with Rabbi Wolicki.
+
+### 3. A Tale of Two PR Disasters: Blake Lively & Turning Point USA...
+
+**Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
+**Timestamp:** [00:38:00](/episodes/ep-eMtjzXkQrsU.md#event-event-2025-09-09-josh-hammer-said-charlie-kirk-held-a-zoo-t-00-37-36) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2280);return false;">▶️ Play</a>
+
+> he has a Zoom call with Josh Hammer and a rabbi from Israel.

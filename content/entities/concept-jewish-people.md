@@ -1,6 +1,6 @@
 ---
 title: "Jewish people"
-description: "Jewish people (Concepts) - 3 mentions"
+description: "Jewish people (Concepts) - 11 mentions"
 id: "concept-jewish-people"
 type: "CONCEPT"
 aliases:
@@ -22,9 +22,9 @@ Source: [ADL - Understanding Jewish Identity](https://www.adl.org/sites/default/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#t-00-10-21">2026-03-23 · 00:10:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-jewish-people-t-00-37-09">2026-04-10 · 00:37:09</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-69A8TzAGHlU.md#ent-concept-jewish-people-t-00-54-35">2026-04-30 · 00:57:40</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,10 +33,12 @@ Source: [ADL - Understanding Jewish Identity](https://www.adl.org/sites/default/
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-jewish-people-t-00-37-09">An Open Letter To President Donald Trump (My Response) | Candace Ep 322</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-69A8TzAGHlU.md#ent-concept-jewish-people-t-00-54-35">BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-B9TyCs-6o_0.md#t-00-10-21" style="--pulse-height:50%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-jewish-people-t-00-37-09" style="--pulse-height:100%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#t-00-10-21" style="--pulse-height:17%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-jewish-people-t-00-37-09" style="--pulse-height:33%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#t-02-35-53" style="--pulse-height:17%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-concept-jewish-people-t-00-54-35" style="--pulse-height:100%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 6 mentions" title="2026-04-30 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +46,8 @@ Source: [ADL - Understanding Jewish Identity](https://www.adl.org/sites/default/
 |---|---|---:|
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#t-00-10-21) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-jewish-people-t-00-37-09) | 2 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#t-02-35-53) | 1 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-concept-jewish-people-t-00-54-35) | 6 |
 
 </details>
 </section>
@@ -51,7 +55,38 @@ Source: [ADL - Understanding Jewish Identity](https://www.adl.org/sites/default/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (6 mentions)</summary>
+
+**[00:52:28](/episodes/ep-69A8TzAGHlU.md#ent-concept-jewish-people-t-00-54-35)**
+> "...moting false claims that that jews are taught by ancient religious texts to hate non..."
+
+**[00:53:08](/episodes/ep-69A8TzAGHlU.md#ent-concept-jewish-people-t-00-54-35)**
+> "...eans you're talking about all Jews, okay? When Donald Trump said, what are we still ..."
+
+**[00:53:42](/episodes/ep-69A8TzAGHlU.md#ent-concept-jewish-people-t-00-54-35)**
+> "... I repeated false claims that Jews are killing Christian children. Where did I say t..."
+
+**[00:53:50](/episodes/ep-69A8TzAGHlU.md#ent-concept-jewish-people-t-00-54-35)**
+> "Where did I say that Jews are killing Christian children? Where did I say t..."
+
+**[00:54:45](/episodes/ep-69A8TzAGHlU.md#ent-concept-jewish-people-t-00-54-35)**
+> "...me from. It's not a threat to Jewish people to acknowledge that some people lie, okay, that s..."
+
+**[00:57:40](/episodes/ep-69A8TzAGHlU.md#ent-concept-jewish-people-t-00-54-35)**
+> "Black people, you can do it. Jews, you can do it. Spanish people, you can do it. As..."
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (1 mentions)</summary>
+
+**[02:35:53](/episodes/ep--9MOUvgGyi4.md#t-02-35-53)**
+> "The woman went and bought her out of bondage, and so he still loved his wife who had disobeyed, and it's the same situation to look at with the Jews or Israel."
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (2 mentions)</summary>

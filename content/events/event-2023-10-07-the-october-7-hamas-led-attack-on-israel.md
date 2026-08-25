@@ -11,7 +11,7 @@ date: "2023-10-07"
 
 > The October 7 Hamas-led attack on Israel occurred.
 
-## Mentioned In (10 times)
+## Mentioned In (11 times)
 
 ### 1. Myron Gaines x Candace Owens
 
@@ -92,3 +92,11 @@ date: "2023-10-07"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1832);return false;">▶️ Play</a>
 
 > But of course, this is like a totally different pretense than October 7th.
+
+### 11. STAGED? Erika’s VIRAL White House Correspondents Moment Come...
+
+**Episode:** [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md)
+**Timestamp:** [00:02:22](/episodes/ep-FFQ9675oqRI.md#event-event-2023-10-07-the-october-7-hamas-led-attack-on-israel-t-00-01-56) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(142);return false;">▶️ Play</a>
+
+> the October 7th experience, the October 7th experience coming to a church parking lot near you.

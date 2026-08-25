@@ -1,6 +1,6 @@
 ---
 title: "transgenderism"
-description: "transgenderism (Concepts) - 8 mentions"
+description: "transgenderism (Concepts) - 10 mentions"
 id: "concept-transgenderism"
 type: "CONCEPT"
 aliases:
@@ -13,9 +13,9 @@ _Type: Concepts_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-concept-transgenderism-t-00-55-46">2025-10-28 · 00:56:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-transgenderism-t-00-36-08">2026-02-27 · 00:36:08</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-concept-transgenderism-t-00-23-41">2026-05-11 · 00:23:50</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -30,6 +30,7 @@ _Type: Concepts_
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-concept-transgenderism-t-00-11-28" style="--pulse-height:50%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 2 mentions" title="2025-11-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-concept-transgenderism-t-00-40-44" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 4 mentions" title="2025-12-01 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-transgenderism-t-00-36-08" style="--pulse-height:25%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-concept-transgenderism-t-00-23-41" style="--pulse-height:25%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -39,6 +40,7 @@ _Type: Concepts_
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-concept-transgenderism-t-00-11-28) | 2 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-concept-transgenderism-t-00-40-44) | 4 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-concept-transgenderism-t-00-36-08) | 1 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-concept-transgenderism-t-00-23-41) | 1 |
 
 </details>
 </section>
@@ -46,7 +48,15 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>
+
+**[00:23:50](/episodes/ep-KpxIBWkNsSs.md#ent-concept-transgenderism-t-00-23-41)**
+> "...hen we were going through the transgenderism argument where we all know that this is not right..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1 mentions)</summary>

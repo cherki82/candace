@@ -1,6 +1,6 @@
 ---
 title: "Randy Fine"
-description: "Randy Fine (People) - 22 mentions"
+description: "Randy Fine (People) - 24 mentions"
 id: "person-randy-fine"
 type: "PERSON"
 categories:
@@ -17,9 +17,9 @@ Source: [FINE, Randy | U.S. House of Representatives: History, Art & Archives](h
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-02-14">2025-11-03 · 00:02:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-person-randy-fine-t-00-44-17">2026-03-17 · 00:44:32</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-person-randy-fine-t-00-16-02">2026-05-07 · 00:16:27</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -35,6 +35,7 @@ Source: [FINE, Randy | U.S. House of Representatives: History, Art & Archives](h
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-person-randy-fine-t-00-19-31" style="--pulse-height:8%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-randy-fine-t-00-58-18" style="--pulse-height:8%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-randy-fine-t-00-44-17" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-person-randy-fine-t-00-16-02" style="--pulse-height:12%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 2 mentions" title="2026-05-07 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [FINE, Randy | U.S. House of Representatives: History, Art & Archives](h
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-person-randy-fine-t-00-19-31) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-randy-fine-t-00-58-18) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-randy-fine-t-00-44-17) | 1 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-randy-fine-t-00-16-02) | 2 |
 
 </details>
 </section>
@@ -52,7 +54,18 @@ Source: [FINE, Randy | U.S. House of Representatives: History, Art & Archives](h
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (2 mentions)</summary>
+
+**[00:16:02](/episodes/ep-FFQ9675oqRI.md#ent-person-randy-fine-t-00-16-02)**
+> "...he people who are saying this randy fine right whatever he says needs to happen the opposi..."
+
+**[00:16:27](/episodes/ep-FFQ9675oqRI.md#ent-person-randy-fine-t-00-16-02)**
+> "...de me think about a ballroom, Randy Fine, Andrew Kolvet."
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>

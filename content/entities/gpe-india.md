@@ -1,6 +1,6 @@
 ---
 title: "India"
-description: "India (Places) - 7 mentions"
+description: "India (Places) - 12 mentions"
 id: "gpe-india"
 type: "GPE"
 categories:
@@ -18,22 +18,23 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-india-t-00-09-46">2025-12-10 · 00:10:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-india-t-00-02-45">2026-03-17 · 00:02:45</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-gpe-india-t-00-25-00">2026-05-13 · 00:25:00</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-india-t-00-09-46">UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-7FS1tUeSfdE.md#ent-gpe-india-t-00-21-47">BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-india-t-00-09-46" style="--pulse-height:100%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-4YgrOhhy708.md#ent-gpe-india-t-00-11-28" style="--pulse-height:67%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-india-t-00-02-06" style="--pulse-height:67%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-india-t-00-09-46" style="--pulse-height:60%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-gpe-india-t-00-11-28" style="--pulse-height:40%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-india-t-00-02-06" style="--pulse-height:40%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-gpe-india-t-00-21-47" style="--pulse-height:100%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 5 mentions" title="2026-05-13 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +43,7 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-india-t-00-09-46) | 3 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-gpe-india-t-00-11-28) | 2 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-india-t-00-02-06) | 2 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-india-t-00-21-47) | 5 |
 
 </details>
 </section>
@@ -49,7 +51,27 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (5 mentions)</summary>
+
+**[00:22:23](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-india-t-00-21-47)**
+> "he's being upgraded by being sent to India"
+
+**[00:23:04](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-india-t-00-23-04)**
+> "... Sergio Gor then got moved to India as the ambassador."
+
+**[00:23:22](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-india-t-00-23-04)**
+> "...domly named the ambassador to India. And you will recall that it was one of the more ..."
+
+**[00:23:30](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-india-t-00-23-30)**
+> "...o Gor, be named ambassador to India. Like, that could have been a text: “Erika, hey, ..."
+
+**[00:25:00](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-india-t-00-25-00)**
+> "...thing for Sergio Gor to go to India?"
+
+</details>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (2 mentions)</summary>
@@ -92,7 +114,29 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Has Ambassador From (1)</summary>
+
+- **[Sergio Gor](/entities/person-sergio-gor.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:23:04](/episodes/ep-7FS1tUeSfdE.md#t-00-22-29): “Sergio Gor then got moved to India as the ambassador. He was sort of like randomly named the ambassador to India.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Sergio Gor](/entities/person-sergio-gor.md)** ambassador to this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:23:04](/episodes/ep-7FS1tUeSfdE.md#t-00-22-29): “Sergio Gor then got moved to India as the ambassador. He was sort of like randomly named the ambassador to India.”
+
+</details>
+
+</details>
 
 </details>
 

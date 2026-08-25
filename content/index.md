@@ -10,13 +10,13 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-home-actions"><a class="primary" href="/index/claims">Explore factual claims</a><a href="/index/explorer">Search all statements</a><a href="/index/threads">Follow a reviewed theory thread</a></div>
 </div>
 
-<p class="kg-freshness"><strong>106 sources</strong> · processed through <time datetime="2026-08-14">2026-08-14</time> · generated <time datetime="2026-08-24">2026-08-24</time></p>
+<p class="kg-freshness"><strong>116 sources</strong> · processed through <time datetime="2026-08-14">2026-08-14</time> · generated <time datetime="2026-08-25">2026-08-25</time></p>
 
 <div class="kg-stat-grid">
-<div><strong>3,693</strong><span>Claims &amp; statements</span></div>
-<div><strong>2,776</strong><span>Tracked entities</span></div>
-<div><strong>1,241</strong><span>Timeline events</span></div>
-<div><strong>1,201</strong><span>Research sources</span></div>
+<div><strong>3,989</strong><span>Claims &amp; statements</span></div>
+<div><strong>2,963</strong><span>Tracked entities</span></div>
+<div><strong>1,323</strong><span>Timeline events</span></div>
+<div><strong>1,342</strong><span>Research sources</span></div>
 </div>
 
 ## Latest source additions
@@ -30,23 +30,23 @@ description: "An evidence-first research workbench for imported video, audio, an
 <span>Unspecified source</span>
 </article>
 <article>
-<time datetime="2026-04-21">2026-04-21</time>
-<a href="/episodes/ep-xi8SYJTUXPM">Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328</a>
+<time datetime="2026-05-13">2026-05-13</time>
+<a href="/episodes/ep-4DvYXBn_5JI">September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337</a>
 <span>Candace Owens</span>
 </article>
 <article>
-<time datetime="2026-04-20">2026-04-20</time>
-<a href="/episodes/ep-kaWtDuoY_ns">EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327</a>
+<time datetime="2026-05-13">2026-05-13</time>
+<a href="/episodes/ep-7FS1tUeSfdE">BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338</a>
 <span>Candace Owens</span>
 </article>
 <article>
-<time datetime="2026-04-16">2026-04-16</time>
-<a href="/episodes/ep-1mYNOqzAdXs">Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326</a>
+<time datetime="2026-05-11">2026-05-11</time>
+<a href="/episodes/ep-KpxIBWkNsSs">Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336</a>
 <span>Candace Owens</span>
 </article>
 <article>
-<time datetime="2026-04-15">2026-04-15</time>
-<a href="/episodes/ep-SubDoZWHARo">Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325</a>
+<time datetime="2026-05-07">2026-05-07</time>
+<a href="/episodes/ep-FFQ9675oqRI">STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335</a>
 <span>Candace Owens</span>
 </article>
 </div>
@@ -56,46 +56,46 @@ description: "An evidence-first research workbench for imported video, audio, an
 <p class="research-section-note">Entity mentions in the five newest sources compared with the preceding five.</p>
 
 <div class="attention-grid">
-<a href="/entities/person-tyler-robinson"><strong>Tyler Robinson</strong><span>147 recent mentions · +110 vs prior window</span></a>
-<a href="/entities/person-charlie-kirk"><strong>Charlie Kirk</strong><span>153 recent mentions · +108 vs prior window</span></a>
-<a href="/entities/person-erika-kirk"><strong>Erika Kirk</strong><span>207 recent mentions · +103 vs prior window</span></a>
-<a href="/entities/person-candace-owens"><strong>Candace Owens</strong><span>99 recent mentions · +46 vs prior window</span></a>
-<a href="/entities/person-lance-twiggs"><strong>Lance Twiggs</strong><span>41 recent mentions · +31 vs prior window</span></a>
+<a href="/entities/person-tyler-robinson"><strong>Tyler Robinson</strong><span>108 recent mentions · +103 vs prior window</span></a>
+<a href="/entities/person-erika-kirk"><strong>Erika Kirk</strong><span>175 recent mentions · +74 vs prior window</span></a>
+<a href="/entities/person-nick-shirley"><strong>Nick Shirley</strong><span>37 recent mentions · +37 vs prior window</span></a>
+<a href="/entities/person-lance-twiggs"><strong>Lance Twiggs</strong><span>35 recent mentions · +35 vs prior window</span></a>
 <a href="/entities/person-andrew-wilson"><strong>Andrew Wilson</strong><span>31 recent mentions · +31 vs prior window</span></a>
+<a href="/entities/person-charlie-kirk"><strong>Charlie Kirk</strong><span>157 recent mentions · +27 vs prior window</span></a>
 </div>
 
 ## Latest verification outcomes
 
 <div class="verification-feed">
 <article>
+<span class="status-badge status-mixed">mixed</span>
+<a href="/statements/statement-f7a4f5e5b189">Candace Owens said the rumor was that Turning Point Action was missing 10 million dollars and had built a backdoor connected to Erika Kirk&#x27;s mother.</a>
+<small>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337</small>
+</article>
+<article>
 <span class="status-badge status-true">true</span>
-<a href="/statements/statement-f0bce1919c05">I hope that Pooch has a bad sniffer.</a>
-<small>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328</small>
+<a href="/statements/statement-4e1dc21816eb">Candace Owens said Superfeed Technologies powers the Turning Point USA app and that Lori Frantzve sits on Superfeed&#x27;s board with Tyler Bowyer.</a>
+<small>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337</small>
+</article>
+<article>
+<span class="status-badge status-true">true</span>
+<a href="/statements/statement-cd19d3d4892c">Candace Owens cited VFXLA&#x27;s website as saying it could clone a specific voice and had recreated the voice of deceased baseball commentator Skip Caray.</a>
+<small>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337</small>
+</article>
+<article>
+<span class="status-badge status-true">true</span>
+<a href="/statements/statement-13f2028c1189">Gary Melton said the photograph did not show Erika Kirk&#x27;s son; it showed her daughter with another child.</a>
+<small>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337</small>
 </article>
 <article>
 <span class="status-badge status-mixed">mixed</span>
-<a href="/statements/statement-f97bbf5fca26">Sentences were added to the affidavit versions of the messages attributed to Tyler Robinson.</a>
-<small>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328</small>
+<a href="/statements/statement-35f8efc1a486">Candace Owens said Erika Kirk was not at the office with Charlie Kirk on September 9 and that Erika had instead told Jesse Watters that Charlie was at the office all day.</a>
+<small>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337</small>
 </article>
 <article>
 <span class="status-badge status-true">true</span>
-<a href="/statements/statement-e44c3b814b8c">Candace Owens promises to protect source identities and says she would refuse to testify if compelled.</a>
-<small>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328</small>
-</article>
-<article>
-<span class="status-badge status-true">true</span>
-<a href="/statements/statement-355eb3d79b46">Laura Loomer said she became addicted to social media, substituted Twitter adrenaline rushes for cocaine, and experienced withdrawals when banned.</a>
-<small>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328</small>
-</article>
-<article>
-<span class="status-badge status-true">true</span>
-<a href="/statements/statement-ec45f863b04a">Laura Loomer said she drove to a cliff in February and legitimately attempted suicide.</a>
-<small>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328</small>
-</article>
-<article>
-<span class="status-badge status-true">true</span>
-<a href="/statements/statement-dc4fecfc6943">Laura Loomer said she began using cocaine to deal with severe anxiety and depression.</a>
-<small>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328</small>
+<a href="/statements/statement-baea2889ba07">Gary Melton said a photo timestamped September 9 at 8:33 a.m. proved Erika Kirk was with her children.</a>
+<small>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337</small>
 </article>
 </div>
 

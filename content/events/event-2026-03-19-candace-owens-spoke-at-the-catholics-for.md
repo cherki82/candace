@@ -11,7 +11,7 @@ date: "2026-03-19"
 
 > Candace Owens spoke at the Catholics for Catholics Catholic Prayer for America Gala.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! ...
 
@@ -28,3 +28,11 @@ date: "2026-03-19"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2020);return false;">▶️ Play</a>
 
 > So she's now putting this at the event that I spoke to a couple of weeks ago.
+
+### 3. TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330
+
+**Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
+**Timestamp:** [01:06:35](/episodes/ep-qZ8RWfyuewQ.md#event-event-2026-03-19-candace-owens-spoke-at-the-catholics-for-t-01-06-24) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3995);return false;">▶️ Play</a>
+
+> announced back in March at the Catholics for Catholics event when I said this.

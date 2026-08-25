@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University
 
-## Mentioned In (397 times)
+## Mentioned In (399 times)
 
 ### 1. REVELATIONS: The Truth About Charlie's Medical Report | Cand...
 
@@ -3188,3 +3188,19 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1509);return false;">▶️ Play</a>
 
 > That's just 50 minutes after Charlie was shot.
+
+### 398. Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329
+
+**Episode:** [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md)
+**Timestamp:** [01:56:27](/episodes/ep--9MOUvgGyi4.md#t-01-56-27) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(6987);return false;">▶️ Play</a>
+
+> what next happens is on the day that Charlie was killed
+
+### 399. September 10th: The OTHER Shooting That The Media Forgot. | ...
+
+**Episode:** [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md)
+**Timestamp:** [00:12:45](/episodes/ep-4DvYXBn_5JI.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-12-45) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(765);return false;">▶️ Play</a>
+
+> on September 10th at almost the exact same time down to the minute that Charlie was shot

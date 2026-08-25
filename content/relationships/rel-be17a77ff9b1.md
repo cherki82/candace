@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Erika Kirk](/entities/person-erika-kirk) widow of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (36 mentions)
+### Evidence (41 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -25,6 +25,10 @@ object: "person-charlie-kirk"
 
 - [00:20:52](/episodes/ep-1mYNOqzAdXs#t-00-20-52): _Last month, the backlash reached a new level after a viral video by a comedian Druski mocked Kirk's behavior after her husband's killing, featuring exaggerated expressions and fake tears._
 
+**[September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI)**
+
+- [00:02:48](/episodes/ep-4DvYXBn_5JI#t-00-02-48): _Also, when and how did he get so close to Erika? Dr. Kirk, so close in fact that he was in her immediate circle of comfort after her husband was brutally murdered in front of the entire world. As soon as she flew back home to Arizona, he was there to offer her a hug in her home._
+
 **[Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708)**
 
 - [00:15:10](/episodes/ep-4YgrOhhy708#t-00-15-10): _Erika (Erika Kirk) first addressed the nation, ... and she did this in Charlie (Charlie Kirk)'s studio. ... waiting to see what she was going to say as the widow._
@@ -36,6 +40,10 @@ object: "person-charlie-kirk"
 **[The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs)**
 
 - [00:33:33](/episodes/ep-7ERqbYElOfs#t-00-33-33): _I feel the opposite of how Erika Kirk felt sitting next to Bari Weiss. With everything I have collected, I feel the exact opposite as Charlie Kirk's wife._
+
+**[BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE)**
+
+- [00:23:30](/episodes/ep-7FS1tUeSfdE#t-00-23-30): _Like, that could have been a text: “Erika, hey, congrats, Sergio (Sergio Gor). Congrats. Charlie (Charlie Kirk) loved you. So cool. Wish you could have been there, but, you know, my husband was just murdered.”_
 
 **[EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM)**
 
@@ -52,6 +60,10 @@ object: "person-charlie-kirk"
 **[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
 
 - [00:11:24](/episodes/ep-DdPjoy5W-wY#t-00-11-24): _Charlie (Charlie Kirk). had a life insurance policy both at home, at work, which she would have benefited tremendously from. ... Erika (Erika Kirk) was set to receive $10 million from his work policy. ... if anything happens to me, I hope my wife is able to assume my role._
+
+**[STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI)**
+
+- [00:00:01](/episodes/ep-FFQ9675oqRI#t-00-00-01): _we've requested to see the footage of Charlie Kirk naming his wife Erika Kirk as the chairman and CEO in the event that anything happens to him._
 
 **[EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A)**
 
@@ -133,6 +145,10 @@ object: "person-charlie-kirk"
 
 - [00:02:22](/episodes/ep-jsqUIkszZd0#t-00-02-22): _during the memorial, same deal. She similarly said, and I quote, one moment Charlie (Charlie Kirk) was doing what he loved. He blinked and he saw his Savior in heaven. Now, that could be because Erika's (Erika Kirk's) not writing her own speeches, I'm told. Erika (Erika Kirk) didn't eulogize her own husband._
 
+**[Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs)**
+
+- [00:43:01](/episodes/ep-k1b1NDCrNFs#t-00-43-01): _OK, so for me, it is the audacity of him using Charlie Kirk, my friend, not his as a human shield, claiming that he's doing that for Erika (Erika Kirk). ... That's stupid, obviously, because Erika (Erika Kirk) is a public figure and a celebrity. She is not a at-home grieving widow with her kids._
+
 **[WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4)**
 
 - [00:05:58](/episodes/ep-k8ueJdPFel4#t-00-05-58): _She's been clear that she supports Israel. um she supports Erika Kirk turning point usa like but they can't do it it's so all or nothing that they just demand 100% groveling or they just push you out and then stalk you and gang stalk you and harass you so then this just has to mention me allude to me in his response to her and again he's gonna white knight for charlie kirk here and he says don't worry megan i would never ask you to protect me you won't even protect charlie kirk's widow_
@@ -144,6 +160,10 @@ object: "person-charlie-kirk"
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 
 - [00:14:57](/episodes/ep-q1NRQQAYS_Q#t-00-14-57): _They were on the same wavelength. I saw how much that relationship, I didn't know Erica as well prior to Charlie's death, but especially in the wake of it, I saw how much everything he'd done meant to her and how completely committed she was._
+
+**[TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ)**
+
+- [01:16:19](/episodes/ep-qZ8RWfyuewQ#t-01-16-19): _Justice does not mean looking the other way when Charlie (Charlie Kirk)'s widow tells lies. No, that doesn't work._
 
 **[Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno)**
 

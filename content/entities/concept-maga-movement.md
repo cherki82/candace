@@ -1,6 +1,6 @@
 ---
 title: "MAGA movement"
-description: "MAGA movement (Concepts) - 102 mentions"
+description: "MAGA movement (Concepts) - 107 mentions"
 id: "concept-maga-movement"
 type: "CONCEPT"
 aliases:
@@ -23,11 +23,11 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-36-23">2025-09-15 · 00:36:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-maga-movement-t-01-02-59">2026-04-20 · 01:02:59</a></strong></div>
-<div><span>Episodes</span><strong>33</strong></div>
-<div><span>Mentions</span><strong>102</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-maga-movement-t-00-33-15">2026-05-07 · 00:33:52</a></strong></div>
+<div><span>Episodes</span><strong>35</strong></div>
+<div><span>Mentions</span><strong>107</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -69,6 +69,8 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-maga-movement-t-00-53-07" style="--pulse-height:17%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-concept-maga-movement-t-00-12-49" style="--pulse-height:17%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-maga-movement-t-00-35-24" style="--pulse-height:17%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-maga-movement-t-00-15-03" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-maga-movement-t-00-23-41" style="--pulse-height:33%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 4 mentions" title="2026-05-07 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -107,6 +109,8 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-concept-maga-movement-t-00-53-07) | 2 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-concept-maga-movement-t-00-12-49) | 2 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-concept-maga-movement-t-00-35-24) | 2 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-maga-movement-t-00-15-03) | 1 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-concept-maga-movement-t-00-23-41) | 4 |
 
 </details>
 </section>
@@ -114,7 +118,32 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (102)</strong></summary>
+<summary><strong class="section-title">Raw mentions (107)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (4 mentions)</summary>
+
+**[00:23:53](/episodes/ep-FFQ9675oqRI.md#ent-concept-maga-movement-t-00-23-41)**
+> "...her. They funded a PAC called MAGA Kentucky, which is neither MAGA nor Kentucky, but..."
+
+**[00:29:21](/episodes/ep-FFQ9675oqRI.md#ent-concept-maga-movement-t-00-29-02)**
+> "But they wrote MAGA influencer House Inhabit's marriage secrets revea..."
+
+**[00:33:47](/episodes/ep-FFQ9675oqRI.md#ent-concept-maga-movement-t-00-33-15)**
+> "...t's used to be cool to wear a MAGA hat. No one would be caught dead wearing a MAGA h..."
+
+**[00:33:52](/episodes/ep-FFQ9675oqRI.md#ent-concept-maga-movement-t-00-33-15)**
+> "...guess maybe you could say the MAGA movement might be caught wearing a MAGA hat nowadays, but ..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[00:15:15](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-maga-movement-t-00-15-03)**
+> "...ever has to name itself. I am MAGA. I built MAGA. I am loved 100% by the people. Jus..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (2 mentions)</summary>
@@ -597,7 +626,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about MAGA movement (6)</strong></summary>
+<summary><strong class="section-title">Statements about MAGA movement (7)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1)</summary>
+
+- [00:33:40](/episodes/ep-FFQ9675oqRI.md#t-00-33-15) (Opinion) **Candace Owens**: ["Candace Owens said she was embarrassed that she had supported Donald T..."](/statements/statement-cdea8db1933a.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1)</summary>

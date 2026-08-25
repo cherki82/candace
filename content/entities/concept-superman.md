@@ -1,6 +1,6 @@
 ---
 title: "Superman"
-description: "Superman (Concepts) - 15 mentions"
+description: "Superman (Concepts) - 17 mentions"
 id: "concept-superman"
 type: "CONCEPT"
 categories:
@@ -19,8 +19,8 @@ Source: [Superman - Official DC Character](https://www.dc.com/characters/superma
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-concept-superman-t-00-51-04">2026-01-05 · 00:51:25</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-superman-t-00-40-01">2026-08-14 · 00:40:01</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -41,6 +41,7 @@ Source: [Superman - Official DC Character](https://www.dc.com/characters/superma
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-superman-t-00-40-46" style="--pulse-height:50%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-concept-superman-t-00-10-02" style="--pulse-height:50%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-concept-superman-t-00-28-21" style="--pulse-height:50%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-superman-t-00-57-35" style="--pulse-height:100%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-superman-t-00-40-01" style="--pulse-height:50%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -57,6 +58,7 @@ Source: [Superman - Official DC Character](https://www.dc.com/characters/superma
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-concept-superman-t-00-40-46) | 1 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-concept-superman-t-00-10-02) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-concept-superman-t-00-28-21) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-superman-t-00-57-35) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-superman-t-00-40-01) | 1 |
 
 </details>
@@ -65,13 +67,24 @@ Source: [Superman - Official DC Character](https://www.dc.com/characters/superma
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:40:01](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-superman-t-00-40-01)**
 > "... sense to think that he had a Superman neck and even if he did have a Superman neck,"
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (2 mentions)</summary>
+
+**[00:57:38](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-superman-t-00-57-35)**
+> "...ning the entire story about a superman neck but actually you were on the phone but you l..."
+
+**[01:02:12](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-superman-t-01-01-45)**
+> "...ow to tell lies pertaining to Superman next and to throw it on a Dr."
 
 </details>
 

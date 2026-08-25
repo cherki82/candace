@@ -1,6 +1,6 @@
 ---
 title: "Nashville"
-description: "Nashville (Places) - 16 mentions"
+description: "Nashville (Places) - 18 mentions"
 id: "gpe-nashville"
 type: "GPE"
 categories:
@@ -19,11 +19,11 @@ Source: [Nashville.gov](https://www.nashville.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nashville-t-00-13-53">2025-10-31 · 00:14:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-nashville-t-00-49-26">2026-04-20 · 00:49:47</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-nashville-t-00-32-11">2026-05-06 · 00:32:11</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,6 +38,7 @@ Source: [Nashville.gov](https://www.nashville.gov/)
 <a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-nashville-t-00-36-14" style="--pulse-height:100%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 6 mentions" title="2025-12-09 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-gpe-nashville-t-00-14-06" style="--pulse-height:33%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 2 mentions" title="2026-04-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-nashville-t-00-48-51" style="--pulse-height:50%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 3 mentions" title="2026-04-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-nashville-t-00-31-28" style="--pulse-height:33%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +50,7 @@ Source: [Nashville.gov](https://www.nashville.gov/)
 | 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-nashville-t-00-36-14) | 6 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-nashville-t-00-14-06) | 2 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-nashville-t-00-48-51) | 3 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-nashville-t-00-31-28) | 2 |
 
 </details>
 </section>
@@ -56,7 +58,18 @@ Source: [Nashville.gov](https://www.nashville.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (2 mentions)</summary>
+
+**[00:31:58](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-nashville-t-00-31-28)**
+> "...eorge Farmer, was arrested in Nashville in August 2023 for DUI and leaving the scene of a..."
+
+**[00:32:11](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-nashville-t-00-32-11)**
+> "...ly different George Farmer in Nashville, Tennessee, well, that denial strikes me as prett..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (3 mentions)</summary>
@@ -146,7 +159,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Nashville (1)</strong></summary>
+<summary><strong class="section-title">Statements about Nashville (2)</strong></summary>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1)</summary>
+
+- [00:31:58](/episodes/ep-k1b1NDCrNFs.md#t-00-31-28) (Citation) **Jeremy Boreing**: ["Public records and documents alleged that George Farmer was arrested i..."](/statements/statement-2ead519f32cc.md)
+  - Also about: [George Farmer](/entities/person-george-farmer.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1)</summary>

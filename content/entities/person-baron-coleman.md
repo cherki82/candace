@@ -1,6 +1,6 @@
 ---
 title: "Baron Coleman"
-description: "Baron Coleman (People) - 93 mentions"
+description: "Baron Coleman (People) - 112 mentions"
 id: "person-baron-coleman"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-51">2025-12-16 · 00:14:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-baron-coleman-t-00-51-40">2026-04-16 · 00:51:40</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>93</strong></div>
-<div><span>Statements by</span><strong>23</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-baron-coleman-t-00-18-39">2026-05-11 · 00:18:48</a></strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>112</strong></div>
+<div><span>Statements by</span><strong>28</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -54,6 +54,12 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-baron-coleman-t-00-01-20" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-baron-coleman-t-00-00-26" style="--pulse-height:16%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 3 mentions" title="2026-04-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-baron-coleman-t-00-05-21" style="--pulse-height:32%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 6 mentions" title="2026-04-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-baron-coleman-t-00-32-41" style="--pulse-height:21%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 4 mentions" title="2026-04-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-baron-coleman-t-00-42-26" style="--pulse-height:32%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 6 mentions" title="2026-04-30 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-baron-coleman-t-00-30-49" style="--pulse-height:8%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-baron-coleman-t-00-00-00" style="--pulse-height:21%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 4 mentions" title="2026-05-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-baron-coleman-t-00-06-20" style="--pulse-height:16%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 3 mentions" title="2026-05-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-baron-coleman-t-00-18-39" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -78,6 +84,12 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-baron-coleman-t-00-01-20) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-baron-coleman-t-00-00-26) | 3 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-baron-coleman-t-00-05-21) | 6 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-baron-coleman-t-00-32-41) | 4 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-person-baron-coleman-t-00-42-26) | 6 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-baron-coleman-t-00-30-49) | 1 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-baron-coleman-t-00-00-00) | 4 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-baron-coleman-t-00-06-20) | 3 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-baron-coleman-t-00-18-39) | 1 |
 
 </details>
 </section>
@@ -85,7 +97,94 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (93)</strong></summary>
+<summary><strong class="section-title">Raw mentions (112)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>
+
+**[00:18:48](/episodes/ep-KpxIBWkNsSs.md#ent-person-baron-coleman-t-00-18-39)**
+> "Baron Coleman"
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (3 mentions)</summary>
+
+**[00:06:20](/episodes/ep-k1b1NDCrNFs.md#ent-person-baron-coleman-t-00-06-20)**
+> "And in multiple videos, Baron Coleman actually noted this, this discrepancy, if you wil..."
+
+**[00:08:03](/episodes/ep-k1b1NDCrNFs.md#ent-person-baron-coleman-t-00-08-03)**
+> "...s no action against him. Now, Baron is not exaggerating, by the way. The person he's ..."
+
+**[00:25:01](/episodes/ep-k1b1NDCrNFs.md#ent-person-baron-coleman-t-00-24-37)**
+> "...gree with the assessment that Baron Coleman gave in his show that if I am a federal judge, a ..."
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (4 mentions)</summary>
+
+**[00:00:00](/episodes/ep-eMtjzXkQrsU.md#ent-person-baron-coleman-t-00-00-00)**
+> "All right, you guys. Episode 333. I'm also hearing that Baron Coleman is number 33 on the Spotify chart."
+
+**[00:06:23](/episodes/ep-eMtjzXkQrsU.md#ent-person-baron-coleman-t-00-06-23)**
+> "Baron Coleman did not know Charlie (Charlie Kirk) and that was ..."
+
+**[01:03:51](/episodes/ep-eMtjzXkQrsU.md#ent-person-baron-coleman-t-01-03-51)**
+> "...nd maybe it goes back to what baron coleman said at the top of today's episode getting to you..."
+
+**[01:09:35](/episodes/ep-eMtjzXkQrsU.md#ent-person-baron-coleman-t-01-09-30)**
+> "Love you, Candace, Baron (Baron Coleman), Tucker (Tucker Carlson), et cetera. Yeah, I mea..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
+
+**[00:31:16](/episodes/ep-uC_GjKU8rs8.md#ent-person-baron-coleman-t-00-30-49)**
+> "...d all feel it like I said and Baron Coleman received a very interesting comment on his show w..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (6 mentions)</summary>
+
+**[00:42:37](/episodes/ep-69A8TzAGHlU.md#ent-person-baron-coleman-t-00-42-26)**
+> "It was just so obviously untrue. Baron Coleman recapped this perfectly on his show last night, and he was wearing the appropriate attire."
+
+**[00:44:17](/episodes/ep-69A8TzAGHlU.md#ent-person-baron-coleman-t-00-44-17)**
+> "That's a good question, Baron. Why would she bother saying that? It was just li..."
+
+**[01:07:19](/episodes/ep-69A8TzAGHlU.md#ent-person-baron-coleman-t-01-07-09)**
+> "...ver time today. Sorry, Baron (Baron Coleman). I know Baron (Baron Coleman) waits for me to ge..."
+
+**[01:07:25](/episodes/ep-69A8TzAGHlU.md#ent-person-baron-coleman-t-01-07-09)**
+> "...'t watch, if you didn't watch Baron Coleman's show last night, please do watch his show. It was..."
+
+**[01:07:34](/episodes/ep-69A8TzAGHlU.md#ent-person-baron-coleman-t-01-07-34)**
+> "...ollow-up Obviously, you know, Baron is a lawyer."
+
+**[01:15:50](/episodes/ep-69A8TzAGHlU.md#ent-person-baron-coleman-t-01-15-50)**
+> "...day. Be sure to catch up with Baron Coleman tonight."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (4 mentions)</summary>
+
+**[00:32:41](/episodes/ep-qZ8RWfyuewQ.md#ent-person-baron-coleman-t-00-32-41)**
+> "...t happened again by golly and Baron Coleman happened to notice that as well and here's what B..."
+
+**[00:58:01](/episodes/ep-qZ8RWfyuewQ.md#ent-person-baron-coleman-t-00-57-35)**
+> "...oes not work for us. In fact, Baron Coleman called this out. The widow grift and trying to te..."
+
+**[00:58:18](/episodes/ep-qZ8RWfyuewQ.md#ent-person-baron-coleman-t-00-58-18)**
+> "Take a listen to what Baron Coleman had to say on his show."
+
+**[01:01:45](/episodes/ep-qZ8RWfyuewQ.md#ent-person-baron-coleman-t-01-01-45)**
+> "post grief baron coleman do it live so the whole world can see it right so..."
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (6 mentions)</summary>
@@ -491,7 +590,32 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Criticized (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:58:58](/episodes/ep-qZ8RWfyuewQ.md#t-00-58-58): “Andrew (Andrew Kolvet), Blake (Blake Neff) doesn't say it. There's no requirement. I support her as the head of TPUSA. There's no prohibition on me criticizing her for documented falsehoods. None.”
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:42:54](/episodes/ep-69A8TzAGHlU.md#t-00-42-47): “Number one, why did you claim Candace said that Erica (Erika Kirk) killed Charlie (Charlie Kirk)? She's never said it that I've seen.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Supporter Of (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:58:58](/episodes/ep-qZ8RWfyuewQ.md#t-00-58-58): “Andrew (Andrew Kolvet), Blake (Blake Neff) doesn't say it. There's no requirement. I support her as the head of TPUSA. There's no prohibition on me criticizing her for documented falsehoods. None.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (5)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** accused by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -504,6 +628,21 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:00:06](/episodes/ep-9naMwS0kMBE.md#t-00-00-00): “I told you that I was going to be joined by Baron Coleman. None other than Baron Coleman here in studio.”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:58:58](/episodes/ep-qZ8RWfyuewQ.md#t-00-58-58): “Andrew (Andrew Kolvet), Blake (Blake Neff) doesn't say it. There's no requirement. I support her as the head of TPUSA. There's no prohibition on me criticizing her for documented falsehoods. None.”
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:42:54](/episodes/ep-69A8TzAGHlU.md#t-00-42-47): “Number one, why did you claim Candace said that Erica (Erika Kirk) killed Charlie (Charlie Kirk)? She's never said it that I've seen.”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** supported by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:58:58](/episodes/ep-qZ8RWfyuewQ.md#t-00-58-58): “Andrew (Andrew Kolvet), Blake (Blake Neff) doesn't say it. There's no requirement. I support her as the head of TPUSA. There's no prohibition on me criticizing her for documented falsehoods. None.”
 
 </details>
 
@@ -520,7 +659,37 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Baron Coleman (23)</strong></summary>
+<summary><strong class="section-title">Statements by Baron Coleman (28)</strong></summary>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (2)</summary>
+
+- [00:06:29](/episodes/ep-k1b1NDCrNFs.md#t-00-06-29) [○] (Opinion) ["Candace Owens is the most high-profile spreader of baseless Charlie Kirk conspir..."](/statements/statement-a7244dbdce67.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:06:36](/episodes/ep-k1b1NDCrNFs.md#t-00-06-29) [◐] (Claim) ["Douglas Blake Bednarz accuses Brian Harpole by name every day of murdering Charl..."](/statements/statement-286cffd7f3d0.md)
+  - About: [Douglas Blake Bednarz](/entities/person-douglas-blake-bednarz.md), [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2)</summary>
+
+- [00:42:54](/episodes/ep-69A8TzAGHlU.md#t-00-42-47) [○] (Claim) ["Candace Owens has never said that Erika Kirk killed Charlie Kirk."](/statements/statement-14df6795e1e0.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:43:39](/episodes/ep-69A8TzAGHlU.md#t-00-43-22) [○] (Opinion) ["Baron Coleman does not believe Erika Kirk killed Charlie Kirk and does not know ..."](/statements/statement-5a7e20f861d8.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1)</summary>
+
+- [00:58:23](/episodes/ep-qZ8RWfyuewQ.md#t-00-58-23) [○] (Opinion) ["Baron Coleman said widowhood does not exempt Erika Kirk from criticism and that ..."](/statements/statement-e6b2d64d7962.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Baron Coleman](/entities/person-baron-coleman.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1)</summary>
@@ -619,7 +788,15 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Baron Coleman (1)</strong></summary>
+<summary><strong class="section-title">Statements about Baron Coleman (2)</strong></summary>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1)</summary>
+
+- [00:58:23](/episodes/ep-qZ8RWfyuewQ.md#t-00-58-23) (Opinion) **Baron Coleman** (via quoted speech): ["Baron Coleman said widowhood does not exempt Erika Kirk from criticism..."](/statements/statement-e6b2d64d7962.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>

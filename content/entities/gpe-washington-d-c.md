@@ -1,6 +1,6 @@
 ---
 title: "Washington, D.C."
-description: "Washington, D.C. (Places) - 49 mentions"
+description: "Washington, D.C. (Places) - 59 mentions"
 id: "gpe-washington-d-c"
 type: "GPE"
 aliases:
@@ -28,11 +28,11 @@ Source: [District of Columbia official website](https://dc.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-washington-d-c-t-00-12-10">2025-09-11 · 00:12:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-washington-d-c-t-00-14-58">2026-04-15 · 00:15:21</a></strong></div>
-<div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>49</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-gpe-washington-d-c-t-00-23-30">2026-05-13 · 00:23:30</a></strong></div>
+<div><span>Episodes</span><strong>30</strong></div>
+<div><span>Mentions</span><strong>59</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -67,6 +67,10 @@ Source: [District of Columbia official website](https://dc.gov/)
 <a href="/episodes/ep-DEtFh2Ff-58.md#t-00-39-00" style="--pulse-height:20%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-washington-d-c-t-00-37-20" style="--pulse-height:20%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-washington-d-c-t-00-14-58" style="--pulse-height:20%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-washington-d-c-t-00-04-00" style="--pulse-height:60%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 3 mentions" title="2026-04-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-washington-d-c-t-00-06-11" style="--pulse-height:80%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 4 mentions" title="2026-05-04 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-gpe-washington-d-c-t-00-06-01" style="--pulse-height:40%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 2 mentions" title="2026-05-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-gpe-washington-d-c-t-00-23-30" style="--pulse-height:20%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -98,6 +102,10 @@ Source: [District of Columbia official website](https://dc.gov/)
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#t-00-39-00) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-gpe-washington-d-c-t-00-37-20) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-washington-d-c-t-00-14-58) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-washington-d-c-t-00-04-00) | 3 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-washington-d-c-t-00-06-11) | 4 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-gpe-washington-d-c-t-00-06-01) | 2 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-washington-d-c-t-00-23-30) | 1 |
 
 </details>
 </section>
@@ -105,7 +113,57 @@ Source: [District of Columbia official website](https://dc.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+<summary><strong class="section-title">Raw mentions (59)</strong></summary>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1 mentions)</summary>
+
+**[00:23:30](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-washington-d-c-t-00-23-30)**
+> "she flew to Washington, D.C."
+
+</details>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (2 mentions)</summary>
+
+**[00:06:15](/episodes/ep-FFQ9675oqRI.md#ent-gpe-washington-d-c-t-00-06-01)**
+> "...that Erika (Erika Kirk) is in Washington, D.C."
+
+**[00:22:01](/episodes/ep-FFQ9675oqRI.md#ent-gpe-washington-d-c-t-00-22-01)**
+> "...ave almost outright purchased Washington, D.C. right. The money given to congressmen from AIPAC ..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (4 mentions)</summary>
+
+**[00:06:27](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-washington-d-c-t-00-06-11)**
+> "...ave added production staff in D.C., the Northeast and Florida."
+
+**[00:06:40](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-washington-d-c-t-00-06-11)**
+> "...the country and established a D.C. bureau with a seat in the White House briefing ro..."
+
+**[00:07:14](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-washington-d-c-t-00-06-52)**
+> "... just restructuring people in D.C."
+
+**[00:07:22](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-washington-d-c-t-00-07-22)**
+> "D.C. also got fired. So it's not because they're sudde..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (3 mentions)</summary>
+
+**[00:04:00](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-washington-d-c-t-00-04-00)**
+> "...ow, you are plenty aware that Washington, D.C. runs on blackmail and secrets, right?"
+
+**[00:23:44](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-washington-d-c-t-00-04-00)**
+> "...hat and I will not be playing DC Blackmail games."
+
+**[01:20:58](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-washington-d-c-t-00-04-00)**
+> "...want to become what people in DC are. And yeah, that's why I think a lot of you gu..."
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
@@ -388,7 +446,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Washington, D.C. (10)</strong></summary>
+<summary><strong class="section-title">Statements about Washington, D.C. (11)</strong></summary>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1)</summary>
+
+- [00:07:14](/episodes/ep-uC_GjKU8rs8.md#t-00-06-52) (Claim) **Candace Owens**: ["The Daily Wire fired more than 50 people within 24 hours, including pe..."](/statements/statement-a776660230ce.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md)
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1)</summary>

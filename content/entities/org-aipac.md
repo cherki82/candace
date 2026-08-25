@@ -1,6 +1,6 @@
 ---
 title: "American Israel Public Affairs Committee"
-description: "American Israel Public Affairs Committee (Organizations) - 26 mentions"
+description: "American Israel Public Affairs Committee (Organizations) - 33 mentions"
 id: "org-aipac"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [About AIPAC](https://aipac.org/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-aipac-t-00-30-01">2025-09-19 · 00:30:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-org-aipac-t-00-53-12">2026-03-17 · 00:53:12</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-org-aipac-t-00-24-27">2026-05-07 · 00:24:44</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -47,6 +47,9 @@ Source: [About AIPAC](https://aipac.org/about)
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-org-aipac-t-00-56-20" style="--pulse-height:25%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-aipac-t-00-00-41" style="--pulse-height:12%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-org-aipac-t-00-53-12" style="--pulse-height:12%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-org-aipac-t-00-51-44" style="--pulse-height:12%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-aipac-t-00-15-31" style="--pulse-height:12%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-org-aipac-t-00-22-01" style="--pulse-height:62%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 5 mentions" title="2026-05-07 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -63,6 +66,9 @@ Source: [About AIPAC](https://aipac.org/about)
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-aipac-t-00-56-20) | 2 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-aipac-t-00-00-41) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-org-aipac-t-00-53-12) | 1 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-org-aipac-t-00-51-44) | 1 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-aipac-t-00-15-31) | 1 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-org-aipac-t-00-22-01) | 5 |
 
 </details>
 </section>
@@ -70,7 +76,43 @@ Source: [About AIPAC](https://aipac.org/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (5 mentions)</summary>
+
+**[00:22:01](/episodes/ep-FFQ9675oqRI.md#ent-org-aipac-t-00-22-01)**
+> "...ney given to congressmen from AIPAC to get them to prioritize Israeli interests over ..."
+
+**[00:22:16](/episodes/ep-FFQ9675oqRI.md#ent-org-aipac-t-00-22-01)**
+> "...as and he cannot be bought by AIPAC. He declined."
+
+**[00:22:26](/episodes/ep-FFQ9675oqRI.md#ent-org-aipac-t-00-22-01)**
+> "...y vocal. He's teaming up with AIPAC to unseat an actually America First candidate."
+
+**[00:23:53](/episodes/ep-FFQ9675oqRI.md#ent-org-aipac-t-00-23-41)**
+> "... Jewish Coalition, AIPAC, the American Israel Public Affairs Committee, Miriam Adelson, Paul Singer and John Paulson wen..."
+
+**[00:24:44](/episodes/ep-FFQ9675oqRI.md#ent-org-aipac-t-00-24-27)**
+> "...e really just another wing of AIPAC and RJC that's been used to co-opt Christians int..."
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1 mentions)</summary>
+
+**[00:15:50](/episodes/ep-eMtjzXkQrsU.md#ent-org-aipac-t-00-15-31)**
+> "I'm referring to JFK. This is what he was fighting at the very end. He wanted what is today AIPAC to register us foreign agents."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1 mentions)</summary>
+
+**[00:52:20](/episodes/ep-69A8TzAGHlU.md#ent-org-aipac-t-00-51-44)**
+> "By the way, ironically, these two people, both of them who brought this forward, take more than a million dollars from AIPAC."
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
@@ -211,7 +253,40 @@ Source: [About AIPAC](https://aipac.org/about)
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Funded (3)</summary>
+
+- **[Mike Lawler](/entities/person-mike-lawler.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:51:14](/episodes/ep-69A8TzAGHlU.md#t-00-50-59): “Who's bringing this forward? OK, we've got reps Mike Lawler and Josh Gottheimer. And bipartisan bill to denounce anti-Semitic hate filled rhetoric. Though far-left Piker says that the move is making anti-Semitism worse. That is our subheading here. The resolution begins by condemning anti-Semitic hate filled rhetoric and content that is disseminated to prominent online personalities, blah, blah, blah. It tells us that whereas the rise of digital media platforms has enabled individuals with large audiences to disseminate this information, commentary and political viewpoints to millions of viewers worldwide. Aid such influence carries a heightened responsibility to avoid rhetoric that promotes hatred, violence, or discrimination against any group, including Jewish individuals and communities. On the same day, everyone is just suddenly signaling that speech is violence. Speech is now violence. They name check me and says, whereas Candace Owens has employed rhetoric that has included conspiracy theories, accusing Israel of controlling the United States government. By the way, ironically, these two people, both of them who brought this forward, take more than a million dollars from AIPAC.”
+
+</details>
+
+- **[Josh Gottheimer](/entities/person-josh-gottheimer.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:51:14](/episodes/ep-69A8TzAGHlU.md#t-00-50-59): “Who's bringing this forward? OK, we've got reps Mike Lawler and Josh Gottheimer. And bipartisan bill to denounce anti-Semitic hate filled rhetoric. Though far-left Piker says that the move is making anti-Semitism worse. That is our subheading here. The resolution begins by condemning anti-Semitic hate filled rhetoric and content that is disseminated to prominent online personalities, blah, blah, blah. It tells us that whereas the rise of digital media platforms has enabled individuals with large audiences to disseminate this information, commentary and political viewpoints to millions of viewers worldwide. Aid such influence carries a heightened responsibility to avoid rhetoric that promotes hatred, violence, or discrimination against any group, including Jewish individuals and communities. On the same day, everyone is just suddenly signaling that speech is violence. Speech is now violence. They name check me and says, whereas Candace Owens has employed rhetoric that has included conspiracy theories, accusing Israel of controlling the United States government. By the way, ironically, these two people, both of them who brought this forward, take more than a million dollars from AIPAC.”
+
+</details>
+
+- **[MAGA Kentucky](/entities/org-maga-kentucky.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 @ 00:23:53](/episodes/ep-FFQ9675oqRI.md#t-00-23-41): “the RJC, which is the Republican Jewish Coalition, AIPAC, the American Israel Public Affairs Committee, Miriam Adelson, Paul Singer and John Paulson went together. They funded a PAC called MAGA Kentucky”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (5)</summary>
+
+- **[Christians United for Israel](/entities/org-christians-united-for-israel.md)** affiliated with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 @ 00:24:44](/episodes/ep-FFQ9675oqRI.md#t-00-24-27): “Christians United for Israel. They're really just another wing of AIPAC and RJC”
+
+</details>
 
 - **[Anthony Aguilar](/entities/person-anthony-aguilar.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -220,12 +295,58 @@ Source: [About AIPAC](https://aipac.org/about)
 
 </details>
 
+- **[Mike Lawler](/entities/person-mike-lawler.md)** funded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:51:14](/episodes/ep-69A8TzAGHlU.md#t-00-50-59): “Who's bringing this forward? OK, we've got reps Mike Lawler and Josh Gottheimer. And bipartisan bill to denounce anti-Semitic hate filled rhetoric. Though far-left Piker says that the move is making anti-Semitism worse. That is our subheading here. The resolution begins by condemning anti-Semitic hate filled rhetoric and content that is disseminated to prominent online personalities, blah, blah, blah. It tells us that whereas the rise of digital media platforms has enabled individuals with large audiences to disseminate this information, commentary and political viewpoints to millions of viewers worldwide. Aid such influence carries a heightened responsibility to avoid rhetoric that promotes hatred, violence, or discrimination against any group, including Jewish individuals and communities. On the same day, everyone is just suddenly signaling that speech is violence. Speech is now violence. They name check me and says, whereas Candace Owens has employed rhetoric that has included conspiracy theories, accusing Israel of controlling the United States government. By the way, ironically, these two people, both of them who brought this forward, take more than a million dollars from AIPAC.”
+
+</details>
+
+- **[Josh Gottheimer](/entities/person-josh-gottheimer.md)** funded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:51:14](/episodes/ep-69A8TzAGHlU.md#t-00-50-59): “Who's bringing this forward? OK, we've got reps Mike Lawler and Josh Gottheimer. And bipartisan bill to denounce anti-Semitic hate filled rhetoric. Though far-left Piker says that the move is making anti-Semitism worse. That is our subheading here. The resolution begins by condemning anti-Semitic hate filled rhetoric and content that is disseminated to prominent online personalities, blah, blah, blah. It tells us that whereas the rise of digital media platforms has enabled individuals with large audiences to disseminate this information, commentary and political viewpoints to millions of viewers worldwide. Aid such influence carries a heightened responsibility to avoid rhetoric that promotes hatred, violence, or discrimination against any group, including Jewish individuals and communities. On the same day, everyone is just suddenly signaling that speech is violence. Speech is now violence. They name check me and says, whereas Candace Owens has employed rhetoric that has included conspiracy theories, accusing Israel of controlling the United States government. By the way, ironically, these two people, both of them who brought this forward, take more than a million dollars from AIPAC.”
+
+</details>
+
+- **[MAGA Kentucky](/entities/org-maga-kentucky.md)** funded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 @ 00:23:53](/episodes/ep-FFQ9675oqRI.md#t-00-23-41): “the RJC, which is the Republican Jewish Coalition, AIPAC, the American Israel Public Affairs Committee, Miriam Adelson, Paul Singer and John Paulson went together. They funded a PAC called MAGA Kentucky”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about American Israel Public Affairs Committee (5)</strong></summary>
+<summary><strong class="section-title">Statements about American Israel Public Affairs Committee (10)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (4)</summary>
+
+- [00:22:01](/episodes/ep-FFQ9675oqRI.md#t-00-22-01) (Accusation) **Candace Owens**: ["Candace Owens accused AIPAC of giving members of Congress money so the..."](/statements/statement-fe64c89c0ecd.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
+
+- [00:22:26](/episodes/ep-FFQ9675oqRI.md#t-00-22-01) (Accusation) **Candace Owens**: ["Candace Owens said Donald Trump was teaming up with AIPAC to unseat Th..."](/statements/statement-84302ce54138.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Thomas Massie](/entities/person-thomas-massie.md)
+
+- [00:23:41](/episodes/ep-FFQ9675oqRI.md#t-00-23-41) (Accusation) **Thomas Massie** (via quoted speech): ["Thomas Massie said at least 95 percent of the money spent against him ..."](/statements/statement-e978e187b1a9.md)
+  - Also about: [Thomas Massie](/entities/person-thomas-massie.md), [Israel lobby](/entities/concept-israel-lobby.md), [Republican Jewish Coalition](/entities/org-republican-jewish-coalition.md)
+
+- [00:24:44](/episodes/ep-FFQ9675oqRI.md#t-00-24-27) (Accusation) **Thomas Massie** (via quoted speech): ["Thomas Massie called Christians United for Israel another wing of AIPA..."](/statements/statement-f0da45900c3b.md)
+  - Also about: [Christians United for Israel](/entities/org-christians-united-for-israel.md), [Republican Jewish Coalition](/entities/org-republican-jewish-coalition.md), [Christians](/entities/concept-christians.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1)</summary>
+
+- [00:52:20](/episodes/ep-69A8TzAGHlU.md#t-00-51-44) (Claim) **Candace Owens**: ["Representatives Mike Lawler and Josh Gottheimer each take more than on..."](/statements/statement-bc030e4b5ea9.md)
+  - Also about: [Mike Lawler](/entities/person-mike-lawler.md), [Josh Gottheimer](/entities/person-josh-gottheimer.md)
+
+</details>
 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>

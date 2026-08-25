@@ -1,6 +1,6 @@
 ---
 title: "Provo"
-description: "Provo (Places) - 118 mentions"
+description: "Provo (Places) - 124 mentions"
 id: "gpe-provo"
 type: "GPE"
 aliases:
@@ -24,11 +24,11 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-gpe-provo-t-00-18-15">2025-09-19 · 00:18:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-provo-t-00-36-17">2026-04-01 · 00:36:47</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>118</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-provo-t-00-12-10">2026-05-13 · 00:12:10</a></strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>124</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -58,6 +58,8 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-00-36" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 18 mentions" title="2026-03-26 · 18 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-provo-t-00-49-45" style="--pulse-height:8%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-provo-t-00-02-45" style="--pulse-height:22%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 4 mentions" title="2026-04-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-gpe-provo-t-00-10-31" style="--pulse-height:11%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 2 mentions" title="2026-04-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-provo-t-00-11-29" style="--pulse-height:22%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -84,6 +86,8 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-provo-t-00-00-36) | 18 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-provo-t-00-49-45) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-gpe-provo-t-00-02-45) | 4 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-gpe-provo-t-00-10-31) | 2 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-provo-t-00-11-29) | 4 |
 
 </details>
 </section>
@@ -91,7 +95,35 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (118)</strong></summary>
+<summary><strong class="section-title">Raw mentions (124)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (4 mentions)</summary>
+
+**[00:11:57](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-provo-t-00-11-29)**
+> "Provo, Utah"
+
+**[00:10:42](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-provo-t-00-10-27)**
+> "...ie did not take that plane to Provo, but someone did."
+
+**[00:10:48](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-provo-t-00-10-48)**
+> "...2 mm uh and they got there to provo eventually after the shooting i'm actually going ..."
+
+**[00:12:10](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-provo-t-00-12-10)**
+> "After it stayed overnight in Provo on September 10th, it then went back to Pierre, S..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2 mentions)</summary>
+
+**[00:10:31](/episodes/ep-69A8TzAGHlU.md#ent-gpe-provo-t-00-10-31)**
+> "I spent thousands of dollars on drones last year. and went and got the guy's license but if the area lies in the provo utah air space i can't fly that's a 107b the guy we can't break the rules right and then you have secondary restrictions probably due to heavy foot traffic for the school but i can't go in and break the rules"
+
+**[00:11:58](/episodes/ep-69A8TzAGHlU.md#ent-gpe-provo-t-00-11-39)**
+> "You can't fly drones in Provo airspace. Well, I actually spoke to someone regar..."
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (4 mentions)</summary>
@@ -584,7 +616,26 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Provo (18)</strong></summary>
+<summary><strong class="section-title">Statements about Provo (21)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>
+
+- [00:11:18](/episodes/ep-4DvYXBn_5JI.md#t-00-10-48) (Claim) **Candace Owens**: ["Candace Owens said N582MM left Denver at 11:58 a.m. Mountain Time on S..."](/statements/statement-ea896e271e9e.md)
+  - Also about: [N582MM](/entities/vehicle-n582mm.md), [Denver](/entities/gpe-denver.md), [Pierre, South Dakota](/entities/gpe-pierre-south-dakota.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2)</summary>
+
+- [00:10:31](/episodes/ep-69A8TzAGHlU.md#t-00-10-31) (Claim) **Brian Harpole**: ["Brian Harpole spent thousands of dollars on drones and obtained a lice..."](/statements/statement-947ff90429d1.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:11:58](/episodes/ep-69A8TzAGHlU.md#t-00-11-39) (Claim) **Anonymous Source #1 (Ep 69A8TzAGHlU)** (via read message): ["Drones can be flown in Provo with clearance away from airports and han..."](/statements/statement-43ea18f5fcb7.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2)</summary>

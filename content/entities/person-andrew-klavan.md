@@ -1,10 +1,9 @@
 ---
 title: "Andrew Klavan"
-description: "Andrew Klavan (People) - 14 mentions"
+description: "Andrew Klavan (People) - 15 mentions"
 id: "person-andrew-klavan"
 type: "PERSON"
 aliases:
-  - "Andrew"
   - "Klavan"
 categories:
   - "conservative media"
@@ -13,11 +12,9 @@ categories:
 
 _Type: People_
 
-**Also known as:** Andrew, Klavan
+**Also known as:** Klavan
 
 **Categories:** conservative media, Daily Wire
-
-> **Possibly overlapping entity records:** [Andrew Breitbart](/entities/person-andrew-breitbart). These records share a name or alias; compare their histories before treating either count as complete.
 
 **Entity verification:** verified
 > Andrew Klavan's official biography identifies him and his Daily Wire show, matching the episode context.
@@ -25,9 +22,9 @@ Source: [About & Contact | Andrew Klavan](https://www.andrewklavan.com/about-con
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-klavan-t-00-03-35">2025-11-06 · 00:03:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-andrew-klavan-t-00-51-07">2026-01-28 · 00:51:17</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-andrew-klavan-t-00-16-02">2026-05-04 · 00:16:02</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,19 +33,21 @@ Source: [About & Contact | Andrew Klavan](https://www.andrewklavan.com/about-con
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-klavan-t-00-21-50">What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283</a> (8 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-w1oqQbR_bYs.md#t-00-21-50">What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-klavan-t-00-03-35" style="--pulse-height:62%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 5 mentions" title="2025-11-06 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-klavan-t-00-21-50" style="--pulse-height:100%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 8 mentions" title="2025-12-20 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#t-00-21-50" style="--pulse-height:100%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 8 mentions" title="2025-12-20 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-andrew-klavan-t-00-51-07" style="--pulse-height:12%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-andrew-klavan-t-00-16-02" style="--pulse-height:12%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-klavan-t-00-03-35) | 5 |
-| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-klavan-t-00-21-50) | 8 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#t-00-21-50) | 8 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-andrew-klavan-t-00-51-07) | 1 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-andrew-klavan-t-00-16-02) | 1 |
 
 </details>
 </section>
@@ -56,7 +55,15 @@ Source: [About & Contact | Andrew Klavan](https://www.andrewklavan.com/about-con
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
+
+**[00:16:02](/episodes/ep-uC_GjKU8rs8.md#ent-person-andrew-klavan-t-00-16-02)**
+> "I wish Andrew Klavan never made the Christ Is King video. You would ha..."
+
+</details>
 
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>
@@ -69,28 +76,28 @@ Source: [About & Contact | Andrew Klavan](https://www.andrewklavan.com/about-con
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (8 mentions)</summary>
 
-**[00:22:17](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-klavan-t-00-21-50)**
+**[00:22:17](/episodes/ep-w1oqQbR_bYs.md#t-00-21-50)**
 > "Constantine Kissin and Andrew Christus King Claven and all of the people"
 
-**[00:02:30](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-klavan-t-00-21-50)**
+**[00:02:30](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30)**
 > "... what was divulged to me from Andrew Kolvet at the time, willing to spend an offensive..."
 
-**[00:02:40](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-klavan-t-00-21-50)**
+**[00:02:40](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30)**
 > "... said, that was told to me by Andrew Kolvet directly because he wanted to say, look, l..."
 
-**[00:19:05](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-klavan-t-00-21-50)**
+**[00:19:05](/episodes/ep-w1oqQbR_bYs.md#t-00-19-05)**
 > "...spersions at Mikey McCoy, and Andrew Kolvet, and Blake Neff, and Tyler Bowyer, and yes..."
 
-**[00:22:02](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-klavan-t-00-21-50)**
+**[00:22:02](/episodes/ep-w1oqQbR_bYs.md#t-00-21-50)**
 > "...ded by Constantine Kissin and Andrew Christus King Claven and all of the people, the m..."
 
-**[00:41:05](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-klavan-t-00-41-05)**
+**[00:41:05](/episodes/ep-w1oqQbR_bYs.md#t-00-41-05)**
 > "...y intimated that to you, like Andrew Kolvet has a memory, Erika Kirk has a memory, and..."
 
-**[00:41:14](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-klavan-t-00-41-05)**
+**[00:41:14](/episodes/ep-w1oqQbR_bYs.md#t-00-41-05)**
 > "...a three-way call with him and Andrew and Erica."
 
-**[00:41:32](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-klavan-t-00-41-05)**
+**[00:41:32](/episodes/ep-w1oqQbR_bYs.md#t-00-41-05)**
 > "...Erica's telling the truth and Andrew Kolvet was flying blind."
 
 </details>

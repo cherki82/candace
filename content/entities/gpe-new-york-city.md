@@ -1,6 +1,6 @@
 ---
 title: "New York City"
-description: "New York City (Places) - 38 mentions"
+description: "New York City (Places) - 39 mentions"
 id: "gpe-new-york-city"
 type: "GPE"
 aliases:
@@ -22,12 +22,12 @@ Source: [City of New York](https://www.nyc.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-gpe-new-york-city-t-00-02-10">2025-09-22 · 00:02:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-new-york-city-t-00-41-38">2026-04-20 · 00:42:10</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>38</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-new-york-city-t-00-10-26">2026-04-29 · 00:10:53</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>39</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -53,6 +53,7 @@ Source: [City of New York](https://www.nyc.gov/)
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-city-t-00-09-18" style="--pulse-height:60%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-new-york-city-t-00-26-46" style="--pulse-height:20%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-new-york-city-t-00-41-38" style="--pulse-height:20%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-new-york-city-t-00-10-26" style="--pulse-height:20%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -76,6 +77,7 @@ Source: [City of New York](https://www.nyc.gov/)
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-new-york-city-t-00-09-18) | 3 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-new-york-city-t-00-26-46) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-new-york-city-t-00-41-38) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-new-york-city-t-00-10-26) | 1 |
 
 </details>
 </section>
@@ -83,7 +85,15 @@ Source: [City of New York](https://www.nyc.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[00:10:53](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-new-york-city-t-00-10-26)**
+> "...prior to I had been living in New York City, going out all the time, I started praying again."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1 mentions)</summary>
@@ -292,12 +302,19 @@ Source: [City of New York](https://www.nyc.gov/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Former Residence Of (1)</summary>
+<summary>Former Residence Of (2)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:11:49](/episodes/ep-H9p2ZGHAs9A.md#t-00-11-49): “Several years ago, after her heart was captured by the contagious inspiration of America's most transnational city, she bought a one-way ticket to New York City and made it home.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:10:53](/episodes/ep-qZ8RWfyuewQ.md#t-00-10-26): “And also for the first time in what felt like a very long time, because prior to I had been living in New York City, going out all the time, I started praying again.”
 
 </details>
 
@@ -323,7 +340,7 @@ Source: [City of New York](https://www.nyc.gov/)
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[33 Thomas Street](/entities/gpe-33-thomas-street.md)** based in this
 
@@ -331,6 +348,13 @@ Source: [City of New York](https://www.nyc.gov/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:11:49](/episodes/ep-H9p2ZGHAs9A.md#t-00-11-49): “Several years ago, after her heart was captured by the contagious inspiration of America's most transnational city, she bought a one-way ticket to New York City and made it home.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** formerly lived in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:10:53](/episodes/ep-qZ8RWfyuewQ.md#t-00-10-26): “And also for the first time in what felt like a very long time, because prior to I had been living in New York City, going out all the time, I started praying again.”
 
 </details>
 

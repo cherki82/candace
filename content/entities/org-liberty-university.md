@@ -1,6 +1,6 @@
 ---
 title: "Liberty University"
-description: "Liberty University (Organizations) - 72 mentions"
+description: "Liberty University (Organizations) - 75 mentions"
 id: "org-liberty-university"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-liberty-university-t-00-04-24">2025-10-29 · 00:04:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-liberty-university-t-00-16-56">2026-03-18 · 00:17:20</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>72</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-liberty-university-t-00-19-59">2026-05-11 · 00:20:16</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>75</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>19</strong></div>
-<div><span>Relationships</span><strong>17</strong></div>
+<div><span>Statements about</span><strong>20</strong></div>
+<div><span>Relationships</span><strong>19</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -48,6 +48,7 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-liberty-university-t-00-05-48" style="--pulse-height:8%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-liberty-university-t-00-13-16" style="--pulse-height:8%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 2 mentions" title="2026-03-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-liberty-university-t-00-16-56" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-liberty-university-t-00-18-39" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 3 mentions" title="2026-05-11 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -66,6 +67,7 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-liberty-university-t-00-05-48) | 2 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-liberty-university-t-00-13-16) | 2 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-org-liberty-university-t-00-16-56) | 1 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-liberty-university-t-00-18-39) | 3 |
 
 </details>
 </section>
@@ -73,7 +75,21 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (72)</strong></summary>
+<summary><strong class="section-title">Raw mentions (75)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (3 mentions)</summary>
+
+**[00:19:02](/episodes/ep-KpxIBWkNsSs.md#ent-org-liberty-university-t-00-18-39)**
+> "from Liberty University"
+
+**[00:18:55](/episodes/ep-KpxIBWkNsSs.md#ent-org-liberty-university-t-00-18-39)**
+> "... in christian leadership from liberty university that is factually untrue that's made up she took ..."
+
+**[00:20:16](/episodes/ep-KpxIBWkNsSs.md#ent-org-liberty-university-t-00-19-59)**
+> "...did receive her master's from Liberty University online."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
@@ -362,6 +378,18 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Attended By (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:20:16](/episodes/ep-KpxIBWkNsSs.md#t-00-19-59): “We never even covered that the whole educational background is made up virtually the entire. I mean, she did receive her master's from Liberty University online.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Employs (1)</summary>
 
 - **[Johnnie Moore](/entities/person-johnnie-moore.md)**
@@ -433,7 +461,7 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 </details>
 
 <details>
-<summary>Referenced By (10)</summary>
+<summary>Referenced By (11)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -454,6 +482,13 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:06:42](/episodes/ep-wcD2khO3rOA.md#t-00-06-24): “Cabot Phillips attended and he graduated”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** attended this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:20:16](/episodes/ep-KpxIBWkNsSs.md#t-00-19-59): “We never even covered that the whole educational background is made up virtually the entire. I mean, she did receive her master's from Liberty University online.”
 
 </details>
 
@@ -513,7 +548,15 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Liberty University (19)</strong></summary>
+<summary><strong class="section-title">Statements about Liberty University (20)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1)</summary>
+
+- [00:19:02](/episodes/ep-KpxIBWkNsSs.md#t-00-18-39) (Accusation) **Candace Owens**: ["Candace Owens accused Erika Kirk of falsely claiming on LinkedIn that ..."](/statements/statement-4dc0133e7fdd.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1)</summary>

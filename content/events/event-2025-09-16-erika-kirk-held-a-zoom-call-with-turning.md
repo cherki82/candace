@@ -1,6 +1,6 @@
 ---
 title: "2025-09-16: Erika Kirk held a Zoom call with Turning Point USA..."
-description: "2025-09-16 - Erika Kirk held a Zoom call with Turning Point USA employees five days after Charlie Kirk's assassination."
+description: "2025-09-16 - Erika Kirk held a Zoom call with Turning Point USA employees six days after Charlie Kirk's assassination."
 event_id: "event-2025-09-16-erika-kirk-held-a-zoom-call-with-turning"
 date: "2025-09-16"
 ---
@@ -9,9 +9,9 @@ date: "2025-09-16"
 
 ## Event
 
-> Erika Kirk held a Zoom call with Turning Point USA employees five days after Charlie Kirk's assassination.
+> Erika Kirk held a Zoom call with Turning Point USA employees six days after Charlie Kirk's assassination.
 
-## Mentioned In (5 times)
+## Mentioned In (6 times)
 
 ### 1. Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Cand...
 
@@ -52,3 +52,11 @@ date: "2025-09-16"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(654);return false;">▶️ Play</a>
 
 > after her husband's death, she was already laying out ambitious plans for the company over Zoom.
+
+### 6. Update! Erika Did Not Go Home. Source Confirms AI Voice Tact...
+
+**Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
+**Timestamp:** [00:35:57](/episodes/ep-KpxIBWkNsSs.md#event-event-2025-09-16-erika-kirk-held-a-zoom-call-with-turning-t-00-35-57) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2157);return false;">▶️ Play</a>
+
+> six days later be on a Zoom call laughing about emojis. Like we should all say, nope.

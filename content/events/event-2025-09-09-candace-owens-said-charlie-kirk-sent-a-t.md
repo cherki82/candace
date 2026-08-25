@@ -12,7 +12,7 @@ time: "15:54"
 
 > Candace Owens said Charlie Kirk sent a text saying he was abandoning the pro-Israel cause.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. BAAL SO HARD: The Epstein Files | Candace Ep 300
 
@@ -29,3 +29,11 @@ time: "15:54"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(331);return false;">▶️ Play</a>
 
 > messages a group of people and says that he is abandoning the pro-Israel cause.
+
+### 3. A Tale of Two PR Disasters: Blake Lively & Turning Point USA...
+
+**Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
+**Timestamp:** [00:37:55](/episodes/ep-eMtjzXkQrsU.md#t-00-37-36) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2275);return false;">▶️ Play</a>
+
+> September 9th, Charlie sends a message declaring that he has left

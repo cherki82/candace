@@ -1,6 +1,6 @@
 ---
 title: "Fort Huachuca"
-description: "Fort Huachuca (Places) - 148 mentions"
+description: "Fort Huachuca (Places) - 188 mentions"
 id: "gpe-fort-huachuca"
 type: "GPE"
 aliases:
@@ -23,11 +23,11 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-fort-huachuca-t-00-12-36">2025-12-09 · 00:01:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-fort-huachuca-t-00-47-18">2026-04-15 · 00:47:18</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>148</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-fort-huachuca-t-00-34-03">2026-05-13 · 00:34:03</a></strong></div>
+<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>188</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>73</strong></div>
+<div><span>Statements about</span><strong>82</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -68,6 +68,10 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-fort-huachuca-t-00-01-45" style="--pulse-height:10%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#t-00-04-21" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-fort-huachuca-t-00-47-18" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-gpe-fort-huachuca-t-00-20-16" style="--pulse-height:52%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 11 mentions" title="2026-04-30 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-fort-huachuca-t-00-03-01" style="--pulse-height:62%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 13 mentions" title="2026-05-06 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-fort-huachuca-t-00-46-01" style="--pulse-height:43%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 9 mentions" title="2026-05-11 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-fort-huachuca-t-00-01-25" style="--pulse-height:33%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 7 mentions" title="2026-05-13 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -105,6 +109,10 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-fort-huachuca-t-00-01-45) | 2 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#t-00-04-21) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-fort-huachuca-t-00-47-18) | 1 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-gpe-fort-huachuca-t-00-20-16) | 11 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-fort-huachuca-t-00-03-01) | 13 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-fort-huachuca-t-00-46-01) | 9 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-fort-huachuca-t-00-01-25) | 7 |
 
 </details>
 </section>
@@ -112,7 +120,147 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (148)</strong></summary>
+<summary><strong class="section-title">Raw mentions (188)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (7 mentions)</summary>
+
+**[00:01:25](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-fort-huachuca-t-00-01-25)**
+> "Fort Huachuca alibi photo"
+
+**[00:27:43](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-fort-huachuca-t-00-27-29)**
+> "...fly yesterday, but during the Fort Huachuca madness, right, when I really was just focused on..."
+
+**[00:28:04](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-fort-huachuca-t-00-27-29)**
+> "What kind of exploded the Fort Huachuca story was this unnecessary coordination that was ..."
+
+**[00:28:15](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-fort-huachuca-t-00-28-15)**
+> "...ew Kolvet to get an alibi for Fort Huachuca to this obscure YouTuber."
+
+**[00:31:41](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-fort-huachuca-t-00-31-41)**
+> "...may have had some business at Fort Huachuca. Like I said, her parents are in the military."
+
+**[00:33:44](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-fort-huachuca-t-00-33-28)**
+> "...e confirmed that Mitch was at Fort Huachuca when he brought on Mitch's son, Mitch's son, beca..."
+
+**[00:34:03](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-fort-huachuca-t-00-34-03)**
+> "...y confirmed that Mitch was at Fort Huachuca which is another hilarious moment brought to you ..."
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (9 mentions)</summary>
+
+**[00:46:27](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-fort-huachuca-t-00-46-01)**
+> "Fort Huachuca base"
+
+**[00:45:45](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-fort-huachuca-t-00-45-16)**
+> "...rpole's alibi for the alleged Fort Huachuca sighting? Did you ask Erika (Erika Kirk) for her ..."
+
+**[00:46:44](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-fort-huachuca-t-00-46-44)**
+> "...at she could have been at the Fort Huachuca Air Base."
+
+**[00:51:13](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-fort-huachuca-t-00-51-13)**
+> "...y revoke her commentary about Fort Huachuca we're going to basically bury her in everything M..."
+
+**[00:52:26](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-fort-huachuca-t-00-52-26)**
+> "...e weekend that the boy in the Fort Huachuca alibi photo is not Erika (Erika Kirk)'s which the..."
+
+**[00:53:36](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-fort-huachuca-t-00-53-36)**
+> "she was she was not at Fort Huachuca she was here they didn't do that they went behind..."
+
+**[00:54:59](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-fort-huachuca-t-00-54-59)**
+> "...t make me think he was not at Fort Huachuca. Him saying Candace had his alibi, they know that..."
+
+**[00:55:44](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-fort-huachuca-t-00-55-44)**
+> "...ieve Brian Harpole was not at Fort Huachuca. It's actually the opposite. The filing to me fee..."
+
+**[00:59:18](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-fort-huachuca-t-00-59-04)**
+> "...m still very suspicious about Fort Huachuca and I think you should be too. Let me know how yo..."
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (13 mentions)</summary>
+
+**[00:03:24](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-fort-huachuca-t-00-03-01)**
+> "...tch (Mitch Snow) was never at Fort Huachuca, that he was."
+
+**[00:03:52](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-fort-huachuca-t-00-03-43)**
+> "...roll), he definitively was at Fort Huachuca. I have his."
+
+**[00:05:46](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-fort-huachuca-t-00-05-35)**
+> "...directly. Forget a meeting at Fort Huachuca. It was this is our guy, Brian Harpole. He pulled..."
+
+**[00:11:30](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-fort-huachuca-t-00-11-02)**
+> "...el like she talked about this Fort Huachuca meeting and we're trying to get her. So what actu..."
+
+**[00:12:59](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-fort-huachuca-t-00-12-59)**
+> "in Fort Huachuca when he suddenly shifted gears and began sending ..."
+
+**[00:14:13](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-fort-huachuca-t-00-13-39)**
+> "...ng to figure out if he was at Fort Huachuca."
+
+**[00:14:38](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-fort-huachuca-t-00-14-18)**
+> "...e never even has ever been to Fort Huachuca in his whole life."
+
+**[00:16:23](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-fort-huachuca-t-00-16-20)**
+> "He wasn't at Fort Huachuca. Okay, maybe he was at Fort Huachuca, but just be..."
+
+**[00:18:46](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-fort-huachuca-t-00-18-30)**
+> "...and it was an alibi regarding Fort Huachuca, asserting that the story was insane and that Eri..."
+
+**[00:20:07](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-fort-huachuca-t-00-19-45)**
+> "...was acting really weird about Fort Huachuca. They still are. So I set about finding out by wa..."
+
+**[00:20:40](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-fort-huachuca-t-00-20-32)**
+> "...arpole departing a meeting at Fort Huachuca around 7:30 a.m. on September 9th. I reached out ..."
+
+**[00:23:24](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-fort-huachuca-t-00-22-56)**
+> "... who is certain he saw him at Fort Huachuca on the morning of the 9th, and I just want to get..."
+
+**[00:24:47](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-fort-huachuca-t-00-24-37)**
+> "... they really were actually at Fort Huachuca."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (11 mentions)</summary>
+
+**[00:20:16](/episodes/ep-69A8TzAGHlU.md#ent-gpe-fort-huachuca-t-00-20-16)**
+> "So the story goes that on November 8th, I at first mentioned that there was someone... We thought that they saw Brian Harpole at Fort Huachuca, that I examined the person's documents, whatever."
+
+**[00:21:04](/episodes/ep-69A8TzAGHlU.md#ent-gpe-fort-huachuca-t-00-20-41)**
+> "...ete fraud. He's never been to Fort Huachuca. And if you actually interview Mitch (Mitch Snow)..."
+
+**[00:29:59](/episodes/ep-69A8TzAGHlU.md#ent-gpe-fort-huachuca-t-00-29-47)**
+> "...mber 23rd, Owens posted to X, Fort Huachuca confirmed."
+
+**[00:30:08](/episodes/ep-69A8TzAGHlU.md#ent-gpe-fort-huachuca-t-00-29-47)**
+> "...t report from Snow's visit to Fort Huachuca."
+
+**[00:30:25](/episodes/ep-69A8TzAGHlU.md#ent-gpe-fort-huachuca-t-00-29-47)**
+> "...as lying about having been at Fort Huachuca."
+
+**[00:31:33](/episodes/ep-69A8TzAGHlU.md#ent-gpe-fort-huachuca-t-00-31-11)**
+> "...9 a.m. I was therefore not at Fort Huachuca or getting a Starbucks at 730 when you sent me wh..."
+
+**[00:33:09](/episodes/ep-69A8TzAGHlU.md#ent-gpe-fort-huachuca-t-00-33-09)**
+> "...this lawsuit that I wasn't at Fort Huachuca."
+
+**[00:33:19](/episodes/ep-69A8TzAGHlU.md#ent-gpe-fort-huachuca-t-00-33-09)**
+> "...ow everybody can just let the Fort Huachuca story go because I said it like I said that Canda..."
+
+**[00:33:43](/episodes/ep-69A8TzAGHlU.md#ent-gpe-fort-huachuca-t-00-33-43)**
+> "Proof that he wasn't at Fort Huachuca because why else would he file a lawsuit? But may..."
+
+**[00:37:34](/episodes/ep-69A8TzAGHlU.md#ent-gpe-fort-huachuca-t-00-37-03)**
+> "...ell, we tried to answer about Fort Huachuca. It was a very serious lawsuit, but defamation's ..."
+
+**[01:12:28](/episodes/ep-69A8TzAGHlU.md#ent-gpe-fort-huachuca-t-01-12-28)**
+> "... There were flights that left Fort Huachuca and got back into Dallas by 10 o'clock a.m."
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
@@ -800,7 +948,49 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Fort Huachuca (73)</strong></summary>
+<summary><strong class="section-title">Statements about Fort Huachuca (82)</strong></summary>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (4)</summary>
+
+- [00:51:13](/episodes/ep-KpxIBWkNsSs.md#t-00-51-13) (Accusation) **Candace Owens**: ["Candace Owens accused Valhalla VFT of threatening to ruin her if she d..."](/statements/statement-3c6a99a61590.md)
+  - Also about: [Valhalla VFT](/entities/org-valhalla-vft.md), [Candace Owens](/entities/person-candace-owens.md), [Mitch Snow](/entities/person-mitch-snow.md)
+
+- [00:52:26](/episodes/ep-KpxIBWkNsSs.md#t-00-52-26) (Claim) **Candace Owens**: ["Candace Owens said Paramount Tactical Solutions admitted that the boy ..."](/statements/statement-1c5fb86abc51.md)
+  - Also about: [Paramount Tactical Solutions](/entities/org-paramount-tactical-solutions.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:53:36](/episodes/ep-KpxIBWkNsSs.md#t-00-53-36) (Accusation) **Candace Owens**: ["Candace Owens accused Erika Kirk of lying that Andrew Kolvet had been ..."](/statements/statement-040d98172872.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:59:04](/episodes/ep-KpxIBWkNsSs.md#t-00-59-04) (Promise) **Candace Owens**: ["Candace Owens said she planned to publish the documents, messages, and..."](/statements/statement-c28b82ac4b5c.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Brian Harpole](/entities/person-brian-harpole.md), [Mitch Snow](/entities/person-mitch-snow.md)
+
+</details>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (3)</summary>
+
+- [00:03:43](/episodes/ep-k1b1NDCrNFs.md#t-00-03-43) (Claim) **Candace Owens**: ["Mitch Snow served in the military and was at Fort Huachuca."](/statements/statement-39dd5248d12c.md)
+  - Also about: [Mitch Snow](/entities/person-mitch-snow.md)
+
+- [00:14:52](/episodes/ep-k1b1NDCrNFs.md#t-00-14-52) (Accusation) **Anonymous Source #5 (Ep k1b1NDCrNFs)** (via read message): ["A Turning Point USA source had documents proving Brian Harpole and Eri..."](/statements/statement-2130d363222f.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Brian Harpole](/entities/person-brian-harpole.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:18:36](/episodes/ep-k1b1NDCrNFs.md#t-00-18-30) (Claim) **Andrew Kolvet** (via read message): ["Andrew Kolvet privately called the Fort Huachuca story insane and asse..."](/statements/statement-7775f3d0ae5a.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md), [Paramount Tactical Solutions](/entities/org-paramount-tactical-solutions.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2)</summary>
+
+- [00:29:15](/episodes/ep-69A8TzAGHlU.md#t-00-29-07) (Claim) **Candace Owens**: ["Candace Owens confirmed Mitch Snow's location, timing, incident, and m..."](/statements/statement-ce238b4dd3e5.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Mitch Snow](/entities/person-mitch-snow.md), [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [01:12:12](/episodes/ep-69A8TzAGHlU.md#t-01-11-50) (Claim) **Candace Owens**: ["Brian Harpole has not provided Candace Owens an alibi for the morning ..."](/statements/statement-e24499149856.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1)</summary>

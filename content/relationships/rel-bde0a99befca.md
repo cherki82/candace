@@ -11,7 +11,11 @@ object: "org-turning-point-usa"
 
 ## [N582MM](/entities/vehicle-n582mm) affiliated with [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI)**
+
+- [00:10:04](/episodes/ep-4DvYXBn_5JI#t-00-10-04): _Something else about Colorado that's interesting is that one of the planes that Turning Point USA uses, and I want to be clear here, more specifically, the plane that Charlie himself used for basically all of 2023, right after Mikey McCoy becomes the chief of staff, this plane, tail number 9582MM._
 
 **[VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58)**
 

@@ -16,8 +16,6 @@ _Type: People_
 
 **Categories:** conservative media, Breitbart News
 
-> **Possibly overlapping entity records:** [Andrew Klavan](/entities/person-andrew-klavan). These records share a name or alias; compare their histories before treating either count as complete.
-
 **Entity verification:** verified
 > Breitbart News company history confirms Andrew Breitbart as the outlet’s co-founder and namesake.
 Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/about-breitbart-news.pdf)

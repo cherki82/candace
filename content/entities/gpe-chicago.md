@@ -1,6 +1,6 @@
 ---
 title: "Chicago"
-description: "Chicago (Places) - 7 mentions"
+description: "Chicago (Places) - 9 mentions"
 id: "gpe-chicago"
 type: "GPE"
 categories:
@@ -20,11 +20,11 @@ Source: [City of Chicago](https://www.chicago.gov/city/en.html)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-chicago-t-00-02-03">2025-09-11 · 00:02:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-chicago-t-00-35-28">2026-03-24 · 00:35:44</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-chicago-t-00-11-29">2026-05-13 · 00:11:39</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -36,6 +36,8 @@ Source: [City of Chicago](https://www.chicago.gov/city/en.html)
 <a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-chicago-t-00-02-03" style="--pulse-height:20%" aria-label="To My Friend, Charlie Kirk.: 1 mentions" title="2025-09-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UBkFkg4UNY8.md#ent-gpe-chicago-t-00-20-36" style="--pulse-height:100%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 5 mentions" title="2025-09-23 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-chicago-t-00-35-28" style="--pulse-height:20%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-chicago-t-00-31-10" style="--pulse-height:20%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-chicago-t-00-11-29" style="--pulse-height:20%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +46,8 @@ Source: [City of Chicago](https://www.chicago.gov/city/en.html)
 | 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-gpe-chicago-t-00-02-03) | 1 |
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-chicago-t-00-20-36) | 5 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-chicago-t-00-35-28) | 1 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-chicago-t-00-31-10) | 1 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-chicago-t-00-11-29) | 1 |
 
 </details>
 </section>
@@ -51,7 +55,23 @@ Source: [City of Chicago](https://www.chicago.gov/city/en.html)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1 mentions)</summary>
+
+**[00:11:39](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-chicago-t-00-11-29)**
+> "Chicago, Illinois"
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>
+
+**[00:31:32](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-chicago-t-00-31-10)**
+> "You couldn't do this in Chicago."
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>
@@ -99,7 +119,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Chicago (1)</strong></summary>
+<summary><strong class="section-title">Statements about Chicago (2)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>
+
+- [00:11:18](/episodes/ep-4DvYXBn_5JI.md#t-00-10-48) (Claim) **Candace Owens**: ["Candace Owens said N582MM left Denver at 11:58 a.m. Mountain Time on S..."](/statements/statement-ea896e271e9e.md)
+  - Also about: [N582MM](/entities/vehicle-n582mm.md), [Denver](/entities/gpe-denver.md), [Pierre, South Dakota](/entities/gpe-pierre-south-dakota.md)
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>

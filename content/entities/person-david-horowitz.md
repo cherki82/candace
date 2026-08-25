@@ -1,6 +1,6 @@
 ---
 title: "David Horowitz"
-description: "David Horowitz (People) - 9 mentions"
+description: "David Horowitz (People) - 10 mentions"
 id: "person-david-horowitz"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [About Us | David Horowitz Freedom Center](https://www.dhfc.org/about-us
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-david-horowitz-t-00-30-42">2025-10-01 · 00:31:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-david-horowitz-t-00-29-40">2026-01-07 · 00:29:55</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-person-david-horowitz-t-00-27-40">2026-05-07 · 00:27:59</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -36,6 +36,7 @@ Source: [About Us | David Horowitz Freedom Center](https://www.dhfc.org/about-us
 <a href="/episodes/ep-YFmRH8p5lt0.md#t-00-08-56" style="--pulse-height:33%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-581dILVcEE4.md#t-00-46-30" style="--pulse-height:33%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-david-horowitz-t-00-18-09" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 3 mentions" title="2026-01-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-person-david-horowitz-t-00-27-40" style="--pulse-height:33%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [About Us | David Horowitz Freedom Center](https://www.dhfc.org/about-us
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#t-00-08-56) | 1 |
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#t-00-46-30) | 1 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-david-horowitz-t-00-18-09) | 3 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-david-horowitz-t-00-27-40) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [About Us | David Horowitz Freedom Center](https://www.dhfc.org/about-us
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>
+
+**[00:27:59](/episodes/ep-FFQ9675oqRI.md#ent-person-david-horowitz-t-00-27-40)**
+> "David Horowitz, I believe, did this whole big piece and then ver..."
+
+</details>
 
 <details>
 <summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (3 mentions)</summary>

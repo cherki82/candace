@@ -1,6 +1,6 @@
 ---
 title: "Daniel Horner"
-description: "Daniel Horner (People) - 1 mention"
+description: "Daniel Horner (People) - 2 mentions"
 id: "person-daniel-horner"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Company News | SIG SAUER](https://www.sigsauer.com/blog/category/compan
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-daniel-horner-t-00-32-54">2026-04-14 · 00:32:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-daniel-horner-t-00-32-54">2026-04-14 · 00:32:54</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep--9MOUvgGyi4.md#ent-person-daniel-horner-t-01-39-40">2026-04-22 · 01:39:47</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>1</strong></div>
@@ -32,12 +32,14 @@ Source: [Company News | SIG SAUER](https://www.sigsauer.com/blog/category/compan
 <p>Highest activity: <a href="/episodes/ep-jsqUIkszZd0.md#ent-person-daniel-horner-t-00-32-54">BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-person-daniel-horner-t-00-32-54" style="--pulse-height:100%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-person-daniel-horner-t-01-39-40" style="--pulse-height:100%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-daniel-horner-t-00-32-54) | 1 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-person-daniel-horner-t-01-39-40) | 1 |
 
 </details>
 </section>
@@ -45,7 +47,15 @@ Source: [Company News | SIG SAUER](https://www.sigsauer.com/blog/category/compan
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (1 mentions)</summary>
+
+**[01:39:47](/episodes/ep--9MOUvgGyi4.md#ent-person-daniel-horner-t-01-39-40)**
+> "So he tells me that SIG Sauer is involved. He tells me that Daniel Horner got one of my FoldARs—he’s the top shooter in the world who shoots for SIG. He got a FoldAR, and he’s given the thumbs-up to Victor (Victor Marx), who Victor (Victor Marx) represented he had a personal relationship with."
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1 mentions)</summary>

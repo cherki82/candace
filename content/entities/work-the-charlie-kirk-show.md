@@ -1,6 +1,6 @@
 ---
 title: "The Charlie Kirk Show"
-description: "The Charlie Kirk Show (Works & Media) - 16 mentions"
+description: "The Charlie Kirk Show (Works & Media) - 31 mentions"
 id: "work-the-charlie-kirk-show"
 type: "WORK"
 aliases:
@@ -23,30 +23,34 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-26-17">2025-10-29 · 00:26:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-work-the-charlie-kirk-show-t-00-54-06">2026-04-21 · 00:54:22</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-work-the-charlie-kirk-show-t-00-44-10">2026-05-13 · 00:44:10</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>31</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-his-JBjlkh8.md#ent-work-the-charlie-kirk-show-t-00-02-14">BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-eMtjzXkQrsU.md#ent-work-the-charlie-kirk-show-t-00-11-59">A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333</a> (12 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-26-17" style="--pulse-height:67%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 2 mentions" title="2025-10-29 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-his-JBjlkh8.md#ent-work-the-charlie-kirk-show-t-00-02-14" style="--pulse-height:100%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-DqGNvi36ol8.md#ent-work-the-charlie-kirk-show-t-00-02-12" style="--pulse-height:100%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-work-the-charlie-kirk-show-t-00-14-17" style="--pulse-height:33%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-the-charlie-kirk-show-t-00-45-32" style="--pulse-height:33%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#t-00-29-18" style="--pulse-height:33%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-work-the-charlie-kirk-show-t-00-02-51" style="--pulse-height:33%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-I0OaY6Gryqk.md#ent-work-the-charlie-kirk-show-t-00-34-47" style="--pulse-height:33%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-B9TyCs-6o_0.md#t-00-07-49" style="--pulse-height:33%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7ERqbYElOfs.md#ent-work-the-charlie-kirk-show-t-00-38-41" style="--pulse-height:33%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xi8SYJTUXPM.md#ent-work-the-charlie-kirk-show-t-00-54-06" style="--pulse-height:33%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-26-17" style="--pulse-height:17%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 2 mentions" title="2025-10-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-work-the-charlie-kirk-show-t-00-02-14" style="--pulse-height:25%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-work-the-charlie-kirk-show-t-00-02-12" style="--pulse-height:25%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-work-the-charlie-kirk-show-t-00-14-17" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-the-charlie-kirk-show-t-00-45-32" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#t-00-29-18" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-work-the-charlie-kirk-show-t-00-02-51" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-work-the-charlie-kirk-show-t-00-34-47" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#t-00-07-49" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-work-the-charlie-kirk-show-t-00-38-41" style="--pulse-height:8%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-work-the-charlie-kirk-show-t-00-54-06" style="--pulse-height:8%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-work-the-charlie-kirk-show-t-00-37-42" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-work-the-charlie-kirk-show-t-00-11-59" style="--pulse-height:100%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 12 mentions" title="2026-05-05 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-work-the-charlie-kirk-show-t-00-25-00" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-work-the-charlie-kirk-show-t-00-44-10" style="--pulse-height:8%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -63,6 +67,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#t-00-07-49) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-work-the-charlie-kirk-show-t-00-38-41) | 1 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-work-the-charlie-kirk-show-t-00-54-06) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-work-the-charlie-kirk-show-t-00-37-42) | 1 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-work-the-charlie-kirk-show-t-00-11-59) | 12 |
+| 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-work-the-charlie-kirk-show-t-00-25-00) | 1 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-work-the-charlie-kirk-show-t-00-44-10) | 1 |
 
 </details>
 </section>
@@ -70,7 +78,72 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1 mentions)</summary>
+
+**[00:44:10](/episodes/ep-7FS1tUeSfdE.md#ent-work-the-charlie-kirk-show-t-00-44-10)**
+> "his own pod Charlie Kirk show"
+
+</details>
+
+<details>
+<summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>
+
+**[00:25:27](/episodes/ep-KpxIBWkNsSs.md#ent-work-the-charlie-kirk-show-t-00-25-00)**
+> "Charlie Kirk show"
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (12 mentions)</summary>
+
+**[00:11:59](/episodes/ep-eMtjzXkQrsU.md#ent-work-the-charlie-kirk-show-t-00-11-59)**
+> "Charlie Kirk Show and their deal with Salem Media. Okay. So you should know that the Charlie Kirk Show is hosted."
+
+**[00:11:40](/episodes/ep-eMtjzXkQrsU.md#ent-work-the-charlie-kirk-show-t-00-11-59)**
+> "...remarkable timeline regarding the Charlie Kirk Show and their deal with Salem Media. Okay. So you sho..."
+
+**[00:12:37](/episodes/ep-eMtjzXkQrsU.md#ent-work-the-charlie-kirk-show-t-00-11-59)**
+> "...ke personal dream. And he saw the Charlie Kirk show as a means to fulfill it. And it was remarkably s..."
+
+**[00:23:38](/episodes/ep-eMtjzXkQrsU.md#ent-work-the-charlie-kirk-show-t-00-23-18)**
+> "..., the same network that hosts the Charlie Kirk show."
+
+**[00:26:56](/episodes/ep-eMtjzXkQrsU.md#ent-work-the-charlie-kirk-show-t-00-26-27)**
+> "...m Media. As I said, they host the Charlie Kirk Show. I remember Charlie (Charlie Kirk) telling me tha..."
+
+**[00:27:23](/episodes/ep-eMtjzXkQrsU.md#ent-work-the-charlie-kirk-show-t-00-27-11)**
+> "They had the Charlie Kirk show. Charlie Kirk show was doing very well. And like ..."
+
+**[00:27:46](/episodes/ep-eMtjzXkQrsU.md#ent-work-the-charlie-kirk-show-t-00-27-11)**
+> "...pecifically, owned a stake in the Charlie Kirk show."
+
+**[00:28:04](/episodes/ep-eMtjzXkQrsU.md#ent-work-the-charlie-kirk-show-t-00-27-54)**
+> "... are paid at least in part by the Charlie Kirk show."
+
+**[00:28:14](/episodes/ep-eMtjzXkQrsU.md#ent-work-the-charlie-kirk-show-t-00-27-54)**
+> "...came out and said entirely by the Charlie Kirk show. They even have their own separate building on th..."
+
+**[00:28:48](/episodes/ep-eMtjzXkQrsU.md#ent-work-the-charlie-kirk-show-t-00-28-35)**
+> "... involved and took a stake in the Charlie Kirk show?"
+
+**[00:38:53](/episodes/ep-eMtjzXkQrsU.md#ent-work-the-charlie-kirk-show-t-00-38-53)**
+> "...ng. Who now has that stake in the Charlie Kirk show? Was that going to be an injection of cash, the C..."
+
+**[00:40:15](/episodes/ep-eMtjzXkQrsU.md#ent-work-the-charlie-kirk-show-t-00-40-15)**
+> "... that are on that network now charlie kirk show certainly i would not believe is the most profita..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[00:38:00](/episodes/ep-qZ8RWfyuewQ.md#ent-work-the-charlie-kirk-show-t-00-37-42)**
+> "... family and then I will be on the Charlie Kirk show on Wednesday. So I think she just needed 48 hours..."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1 mentions)</summary>
@@ -181,13 +254,21 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Employs (1)</summary>
+<summary>Employs (2)</summary>
 
 - **[Blake Neff](/entities/person-blake-neff.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:54](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show”
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:28:04](/episodes/ep-eMtjzXkQrsU.md#t-00-27-54): “technically doesn't work for Turning Point USA. Right. Blake Neff, Andrew Kolvet, they are paid at least in part by the Charlie Kirk show.”
+
+</details>
+
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:28:04](/episodes/ep-eMtjzXkQrsU.md#t-00-27-54): “technically doesn't work for Turning Point USA. Right. Blake Neff, Andrew Kolvet, they are paid at least in part by the Charlie Kirk show.”
 
 </details>
 
@@ -206,7 +287,38 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Operated By (1)</summary>
+
+- **[Salem Media Group](/entities/org-salem-media-group.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:26:56](/episodes/ep-eMtjzXkQrsU.md#t-00-26-27): “And yeah, the timeline of that makes sense. But there is a little bit more that we should think about with Salem Media. As I said, they host the Charlie Kirk Show. I remember Charlie (Charlie Kirk) telling me that this, his deal was fantastic.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Owned By (2)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:27:23](/episodes/ep-eMtjzXkQrsU.md#t-00-27-11): “They had the Charlie Kirk show. Charlie Kirk show was doing very well. And like I said, he owned a big piece of it.”
+
+</details>
+
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:27:46](/episodes/ep-eMtjzXkQrsU.md#t-00-27-11): “Andrew Kolvet, Charlie (Charlie Kirk) told me specifically, owned a stake in the Charlie Kirk show.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (6)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -215,11 +327,40 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 </details>
 
+- **[Salem Media Group](/entities/org-salem-media-group.md)** operates this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:26:56](/episodes/ep-eMtjzXkQrsU.md#t-00-26-27): “And yeah, the timeline of that makes sense. But there is a little bit more that we should think about with Salem Media. As I said, they host the Charlie Kirk Show. I remember Charlie (Charlie Kirk) telling me that this, his deal was fantastic.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** owns this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:27:23](/episodes/ep-eMtjzXkQrsU.md#t-00-27-11): “They had the Charlie Kirk show. Charlie Kirk show was doing very well. And like I said, he owned a big piece of it.”
+
+</details>
+
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** owns this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:27:46](/episodes/ep-eMtjzXkQrsU.md#t-00-27-11): “Andrew Kolvet, Charlie (Charlie Kirk) told me specifically, owned a stake in the Charlie Kirk show.”
+
+</details>
+
 - **[Blake Neff](/entities/person-blake-neff.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:54](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show”
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:28:04](/episodes/ep-eMtjzXkQrsU.md#t-00-27-54): “technically doesn't work for Turning Point USA. Right. Blake Neff, Andrew Kolvet, they are paid at least in part by the Charlie Kirk show.”
+
+</details>
+
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:28:04](/episodes/ep-eMtjzXkQrsU.md#t-00-27-54): “technically doesn't work for Turning Point USA. Right. Blake Neff, Andrew Kolvet, they are paid at least in part by the Charlie Kirk show.”
 
 </details>
 
@@ -228,7 +369,26 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The Charlie Kirk Show (3)</strong></summary>
+<summary><strong class="section-title">Statements about The Charlie Kirk Show (6)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1)</summary>
+
+- [00:27:46](/episodes/ep-eMtjzXkQrsU.md#t-00-27-11) (Claim) **Candace Owens**: ["Andrew Kolvet owned a stake in The Charlie Kirk Show."](/statements/statement-f1a245e16b30.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (2)</summary>
+
+- [00:38:13](/episodes/ep-qZ8RWfyuewQ.md#t-00-37-42) (Claim) **Candace Owens**: ["Candace Owens said Erika Kirk's statement was a nine-minute prerecorde..."](/statements/statement-3f8b421b1da7.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:39:20](/episodes/ep-qZ8RWfyuewQ.md#t-00-39-20) (Opinion) **Erika Kirk** (via quoted speech): ["Erika Kirk said she attended the White House correspondents event to m..."](/statements/statement-70c4a54e18b2.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [White House](/entities/org-white-house.md)
+
+</details>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (1)</summary>

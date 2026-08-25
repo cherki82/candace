@@ -1,6 +1,6 @@
 ---
 title: "Victor Marx"
-description: "Victor Marx (People) - 88 mentions"
+description: "Victor Marx (People) - 159 mentions"
 id: "person-victor-marx"
 type: "PERSON"
 aliases:
@@ -27,24 +27,27 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-victor-marx-t-00-06-29">2026-04-14 · 00:06:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-victor-marx-t-00-55-24">2026-04-21 · 00:55:24</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>88</strong></div>
-<div><span>Statements by</span><strong>20</strong></div>
-<div><span>Statements about</span><strong>35</strong></div>
-<div><span>Relationships</span><strong>34</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-victor-marx-t-00-24-41">2026-05-13 · 00:25:01</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>159</strong></div>
+<div><span>Statements by</span><strong>24</strong></div>
+<div><span>Statements about</span><strong>52</strong></div>
+<div><span>Relationships</span><strong>40</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-jsqUIkszZd0.md#ent-person-victor-marx-t-00-06-29">BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324</a> (48 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-00-26">Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329</a> (59 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-jsqUIkszZd0.md#ent-person-victor-marx-t-00-06-29" style="--pulse-height:100%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 48 mentions" title="2026-04-14 · 48 mentions"><span></span></a>
-<a href="/episodes/ep-SubDoZWHARo.md#ent-person-victor-marx-t-00-00-41" style="--pulse-height:27%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 13 mentions" title="2026-04-15 · 13 mentions"><span></span></a>
-<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-victor-marx-t-00-00-00" style="--pulse-height:42%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 20 mentions" title="2026-04-16 · 20 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-person-victor-marx-t-00-06-29" style="--pulse-height:81%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 48 mentions" title="2026-04-14 · 48 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-person-victor-marx-t-00-00-41" style="--pulse-height:22%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 13 mentions" title="2026-04-15 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-victor-marx-t-00-00-00" style="--pulse-height:34%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 20 mentions" title="2026-04-16 · 20 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-victor-marx-t-01-00-18" style="--pulse-height:8%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-victor-marx-t-00-17-09" style="--pulse-height:12%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 6 mentions" title="2026-04-21 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-victor-marx-t-00-17-09" style="--pulse-height:10%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 6 mentions" title="2026-04-21 · 6 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-00-26" style="--pulse-height:100%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 59 mentions" title="2026-04-22 · 59 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-victor-marx-t-01-12-06" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-victor-marx-t-00-00-00" style="--pulse-height:19%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 11 mentions" title="2026-05-13 · 11 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +58,9 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-victor-marx-t-00-00-00) | 20 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-victor-marx-t-01-00-18) | 1 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-victor-marx-t-00-17-09) | 6 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-00-26) | 59 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-victor-marx-t-01-12-06) | 1 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-victor-marx-t-00-00-00) | 11 |
 
 </details>
 </section>
@@ -62,7 +68,235 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (88)</strong></summary>
+<summary><strong class="section-title">Raw mentions (159)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (11 mentions)</summary>
+
+**[00:00:08](/episodes/ep-4DvYXBn_5JI.md#ent-person-victor-marx-t-00-00-00)**
+> "speaking about Victor Marx"
+
+**[00:00:40](/episodes/ep-4DvYXBn_5JI.md#ent-person-victor-marx-t-00-00-40)**
+> "...us, actually. Colorado, where Victor Marx is currently running for governor, it is a beauti..."
+
+**[00:01:59](/episodes/ep-4DvYXBn_5JI.md#ent-person-victor-marx-t-00-01-59)**
+> "...have a lot of questions about Victor Marx. You know, I went off to Italy to do my confirmat..."
+
+**[00:02:24](/episodes/ep-4DvYXBn_5JI.md#ent-person-victor-marx-t-00-01-59)**
+> "...ne I probably have is why was Victor Marx the first documented public person to do a video ..."
+
+**[00:03:08](/episodes/ep-4DvYXBn_5JI.md#ent-person-victor-marx-t-00-03-08)**
+> "...at at some point, Charlie and Victor Marx had a real falling out. The reason why, I'm not s..."
+
+**[00:03:42](/episodes/ep-4DvYXBn_5JI.md#ent-person-victor-marx-t-00-03-42)**
+> "...it appears that the last time Victor Marx had done anything publicly with Charlie appeared ..."
+
+**[00:04:03](/episodes/ep-4DvYXBn_5JI.md#ent-person-victor-marx-t-00-03-42)**
+> "Well, Victor Marx appeared on the Charlie Kirk show to provide Char..."
+
+**[00:04:11](/episodes/ep-4DvYXBn_5JI.md#ent-person-victor-marx-t-00-03-42)**
+> "...ally, of course, duh, Israel. Victor Marx went straight there despite its heightened securi..."
+
+**[00:05:25](/episodes/ep-4DvYXBn_5JI.md#ent-person-victor-marx-t-00-05-04)**
+> "... been telling the truth about Victor Marx potentially doing some work trying to secure weap..."
+
+**[00:22:37](/episodes/ep-4DvYXBn_5JI.md#ent-person-victor-marx-t-00-22-37)**
+> "...l, that was the interest with Victor Marx. He wanted to put a full AR into the hands of eve..."
+
+**[00:25:01](/episodes/ep-4DvYXBn_5JI.md#ent-person-victor-marx-t-00-24-41)**
+> "...y when we started bringing up Victor Marx in Colorado in general, I thought, let me just ki..."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
+
+**[01:12:24](/episodes/ep-qZ8RWfyuewQ.md#ent-person-victor-marx-t-01-12-06)**
+> "...lso want to let you guys know Victor Marx, he's posting all these videos. He never replied ..."
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (59 mentions)</summary>
+
+**[00:00:35](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-00-26)**
+> "No, we are not waiting on anybody. He's not coming. Victor (Victor Marx) does not want to sit across from you, which I thought, Victor Marx, it would be a good idea to have you all here because I can't contest anything he says. I am not the FoldAR company and I did not have these conversations with him."
+
+**[00:01:00](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-01-00)**
+> "...erything that I learned about Victor Marx, I learned against my will. I want my audience, I..."
+
+**[00:01:43](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-01-43)**
+> "...your story. and learned about Victor Marx, there were so many themes that were coming up he..."
+
+**[00:02:22](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-02-22)**
+> "... a chance because I know that Victor Marx has a following you do not and he has been instan..."
+
+**[00:04:51](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-04-25)**
+> "...ove to hear about how you met Victor Marx."
+
+**[00:05:17](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-05-00)**
+> "You know, Victor (Victor Marx) is looking for the most versatile compact weapon..."
+
+**[00:07:49](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-07-49)**
+> "with Victor (Victor Marx) and she's excited about that got some pictures a..."
+
+**[00:08:14](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-08-14)**
+> "And Victor (Victor Marx) comes up to me and he's like, first thing he sai..."
+
+**[00:10:44](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-10-44)**
+> "...ppose um and you know Victor (Victor Marx) opens the door and my wife goes in and as he's g..."
+
+**[00:14:13](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-13-59)**
+> "...u know, this led into Victor (Victor Marx) explaining what a retooling prayer is."
+
+**[00:22:39](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-22-22)**
+> "...g from there he names Victor (Victor Marx) names the demon"
+
+**[00:23:22](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-23-05)**
+> "...demon to kneel before Victor (Victor Marx)."
+
+**[00:23:35](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-23-35)**
+> "... is how I am envisioning that Victor Marx then believes that he has the capability not just..."
+
+**[00:26:34](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-26-16)**
+> "...s staring straight at Victor (Victor Marx), and I wasn't blinking my eyes. They were kind o..."
+
+**[00:39:24](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-39-16)**
+> "... on the Signature Series, the Victor Marx Signature Series."
+
+**[00:42:57](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-42-57)**
+> "...that day. We go up to Victor (Victor Marx)'s hotel room."
+
+**[00:43:06](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-42-57)**
+> "...cause she just adored Victor (Victor Marx) and had followed him for many years and the cere..."
+
+**[00:43:27](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-43-27)**
+> "...her's vows each other Victor (Victor Marx) was there officiated it we had our marriage cert..."
+
+**[00:45:13](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-45-04)**
+> "...ing hands and meeting Victor (Victor Marx) and meeting us and it was a it was a very nice s..."
+
+**[00:47:14](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-47-14)**
+> "...guys signature series Victor (Victor Marx) and trying to get him on my show forever and you..."
+
+**[00:47:36](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-47-14)**
+> "uh then i texted Victor (Victor Marx) hey Victor (Victor Marx) Sebastian (Sebastian Go..."
+
+**[00:47:56](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-47-56)**
+> "... before we talk about Victor (Victor Marx) and the very exciting plans you have for this we..."
+
+**[00:48:33](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-48-33)**
+> "... is your mission now, Victor (Victor Marx)?"
+
+**[00:49:22](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-49-22)**
+> "So Victor (Victor Marx) goes on and they talk about the FoldAR a little ..."
+
+**[00:49:39](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-49-22)**
+> "But then Victor (Victor Marx) came in and was talking about the all things pos..."
+
+**[00:50:37](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-50-37)**
+> "...m up and we talked to Victor (Victor Marx) about it to get that funded and there was kind o..."
+
+**[00:51:29](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-51-29)**
+> "...we got some photo ops Victor (Victor Marx) didn't come for that, but we really wanted him t..."
+
+**[00:52:12](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-52-12)**
+> "was the only one that Victor (Victor Marx) ATP."
+
+**[00:53:27](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-53-27)**
+> "So Victor (Victor Marx) messages me, says, Hey, I need a thousand yard c..."
+
+**[00:54:53](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-54-42)**
+> "take it up to Victor (Victor Marx) and the"
+
+**[01:14:56](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-01-14-56)**
+> "...m again going back to Victor (Victor Marx) for and and one of his guys Chaz (Chaz Yandall) ..."
+
+**[01:15:50](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-01-15-50)**
+> "...chain between you and Victor (Victor Marx) and"
+
+**[01:15:59](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-01-15-59)**
+> "—Victor Marx’s COO at All Things Possible. Okay."
+
+**[01:16:29](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-01-16-29)**
+> "...ow, my message to the Victor (Victor Marx) was, hey, I'm in the parking lot of Walmart and,..."
+
+**[01:17:18](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-01-16-57)**
+> "So, you know, Victor (Victor Marx)'s response is, well,"
+
+**[01:25:00](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-01-24-45)**
+> "...awal cycle and I tell Victor (Victor Marx) that."
+
+**[01:27:23](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-01-26-59)**
+> "And I'm telling Victor (Victor Marx) about what I'm finding."
+
+**[01:28:25](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-01-28-05)**
+> "...t down like tapped on Victor (Victor Marx)'s chest where it was and he's like yeah we just ..."
+
+**[01:29:05](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-01-28-50)**
+> "...i'm drained and um as Victor (Victor Marx) says well you know it kind of tells me what what..."
+
+**[01:32:25](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-01-32-14)**
+> "...ching, like I'm doing Victor (Victor Marx) a favor."
+
+**[01:33:35](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-01-33-29)**
+> "I go to Victor (Victor Marx)'s the next day. I'm not doing any retooling pray..."
+
+**[01:35:28](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-01-35-15)**
+> "...mailed financials and Victor (Victor Marx) said that he had people looking at it and, you k..."
+
+**[01:35:46](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-01-35-46)**
+> "...wens) this story with Victor (Victor Marx) is not even the craziest thing that's happened i..."
+
+**[01:37:43](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-01-37-43)**
+> "...We walk, we talk, um, Victor (Victor Marx) goes and does some other stuff on the property. ..."
+
+**[01:39:47](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-01-39-40)**
+> "...iven the thumbs-up to Victor (Victor Marx), who Victor (Victor Marx) represented he had a p..."
+
+**[01:40:17](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-01-40-17)**
+> "And then Victor (Victor Marx) tells me what he really wants to do. He's like, ..."
+
+**[01:50:48](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-01-50-48)**
+> "...ought in my mind that Victor (Victor Marx) was just unaware all the way all the way through..."
+
+**[01:52:44](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-01-52-36)**
+> "And Victor (Victor Marx) knew about it. I think he said that he paid for ..."
+
+**[01:53:42](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-01-53-32)**
+> "...history of the last visit for Victor Marx"
+
+**[02:03:03](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-02-03-03)**
+> "...weird connection with Victor (Victor Marx) like trying to get these guns from you in that t..."
+
+**[02:04:00](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-02-03-48)**
+> "...Israel and he met a different Victor Marx, is what I would say, who was like, what if I tol..."
+
+**[02:04:26](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-02-04-26)**
+> "...rlie Kirk stopped speaking to Victor Marx entirely their relationship. I mean, like unfollo..."
+
+**[02:04:35](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-02-04-26)**
+> "...en Charlie (Charlie Kirk) and Victor Marx."
+
+**[02:04:43](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-02-04-43)**
+> "...en in the same season because Victor Marx was not in."
+
+**[02:05:00](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-02-04-43)**
+> "...een (Eileen Marx) and Victor (Victor Marx) that that's one of the first people that she wan..."
+
+**[02:05:16](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-02-05-16)**
+> "...we will get some answers from Victor Marx about what his falling out was with Charlie Kirk,..."
+
+**[02:07:52](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-02-07-52)**
+> "...passed away. And we have this Victor Marx connection. And I find the manner in which he dea..."
+
+**[02:30:08](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-02-29-52)**
+> "...id, I'm happy to have Victor (Victor Marx) on this podcast and to allow him to tell more ab..."
+
+**[02:32:21](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-02-31-56)**
+> "Victor (Victor Marx)"
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (6 mentions)</summary>
@@ -362,10 +596,11 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <summary>Accused By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:17:31](/episodes/ep-jsqUIkszZd0.md#t-00-17-22): “Good luck, Colorado. See you never if this man wins. Anyway, so what does this have to do with Charlie Kirk and Turning Point and September 10th? Well, I am going to tell you because Victor (Victor Marx), like a stepdaddy, was allegedly interested in trafficking. particularly arms, over to Haiti, and he contacted a man named Corby Hall to get this done. Now, Corby (Corby Hall), I'm going to read you his statement so you know exactly who he is.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:17:17](/episodes/ep-xi8SYJTUXPM.md#t-00-17-09): “Remind you, Victor Marx wanted the patent for Israel. He wanted to push Corby Hall out and get him a deal so that he would sell the patent to Israel.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:05:25](/episodes/ep-4DvYXBn_5JI.md#t-00-05-04): “is it fair, at least after listening to that, to suggest that Corby Hall might have been telling the truth about Victor Marx potentially doing some work trying to secure weaponry on behalf of Israel, on behalf of the IDF, allegedly, maybe?”
 
 </details>
 
@@ -418,10 +653,13 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:23:59](/episodes/ep-jsqUIkszZd0.md#t-00-23-29): “Now, he did send that retooling prayer over to me, and I do want to let you know that Victor Marx—effectively, what he does is he pretends that he is going to summon and then extract information from demons that are inside...”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:31:28](/episodes/ep-1mYNOqzAdXs.md#t-00-30-52): “I got to tell you guys, I'm a gut player and just listening to Victor Marx's explanation regarding his dealings with Corby Hall did not ring true to me.”
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 02:30:08](/episodes/ep--9MOUvgGyi4.md#t-02-29-52): “lot to think about. I certainly have, as I've said, I'm happy to have Victor (Victor Marx) on this podcast and to allow him to tell more about his life story, which I think many people have found parts to be unbelievable. I do think he's a crazy person. ... I will say that for sure. I just. Just on the basis of the story you're telling me, the retooling prayer, I think he's wildly manipulative. I think he's probably involved in a cult and in the occult. That's what that all sounds like to me.”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:12:24](/episodes/ep-qZ8RWfyuewQ.md#t-01-12-06): “I also want to let you guys know Victor Marx, he's posting all these videos. He never replied to my. ... my Instagram at all and I followed up and I said it's weird that you're posting all these videos and you have not replied”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:03:33](/episodes/ep-4DvYXBn_5JI.md#t-00-03-08): “Because on the basis of the stories that we've heard about him, some of them from Victor himself, he seems to me to be a bit dangerous, right?”
 
 </details>
 
@@ -455,11 +693,12 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <summary>Friend Of (2)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:21:26](/episodes/ep-jsqUIkszZd0.md#t-00-21-26): “So this is going to be in first person and he is going to he's presenting here just a timeline of the factual events regarding Victor Marx. Again, Erika (Erika Kirk)'s dear friend, right?”
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:39:02](/episodes/ep-SubDoZWHARo.md#t-00-38-41): “And I don't know why Erika (Erika Kirk) can't make normal friends. None of my friends have these sorts of backgrounds”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:23:43](/episodes/ep-1mYNOqzAdXs.md#t-00-23-27): “Anyway, switching gears to her dear friend, Victor Marx, because we now have proof that he did indeed announce that Charlie Kirk had died first to the world first, I should say.”
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:36:55](/episodes/ep--9MOUvgGyi4.md#t-00-36-39): “Again, that's balanceofnature.com. There are so many connecting themes here with just everything that I've been discussing on my podcast, obviously just investigating this Charlie Kirk story and that brings me back to this obvious relationship Eileen (Eileen Marx) has with Erika (Erika Kirk) and this is very similar, ... know, how then his wife was so close to Eileen (Eileen Marx) and Victor (Victor Marx) that that's one of the first people that she wants to hug and connect with after the assassination.”
 
 </details>
 
@@ -467,6 +706,25 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:35:43](/episodes/ep-jsqUIkszZd0.md#t-00-35-43): “OK, so I am going to read this in the in the words that were written by Corby Hall. ... Marx asked me if we were still friends. I responded, "Yes, we can still be friends, but I no longer consider you mine or Melody's (Corby Hall's wife's and FoldAR COO's; surname unverified) spiritual mentor, and I am requesting that you don't contact her anymore."”
+
+</details>
+
+</details>
+
+<details>
+<summary>Interviewed By (2)</summary>
+
+- **[Sebastian Gorka](/entities/person-sebastian-gorka.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:48:33](/episodes/ep--9MOUvgGyi4.md#t-00-48-33): “What is your mission now, Victor (Victor Marx)?”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:04:29](/episodes/ep-4DvYXBn_5JI.md#t-00-04-29): “Victor, you're alive in Israel. Give us a frontline report.”
 
 </details>
 
@@ -510,6 +768,18 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details>
+<summary>Mentored (1)</summary>
+
+- **[Corby Hall](/entities/person-corby-hall.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 01:10:33](/episodes/ep--9MOUvgGyi4.md#t-01-10-09): “I mean, he was mentoring me, what I viewed to be mentoring at the time, you know, doing this whole relationship and things are starting to pile up.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Met With (3)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
@@ -520,9 +790,10 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 - **[Corby Hall](/entities/person-corby-hall.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:21:42](/episodes/ep-jsqUIkszZd0.md#t-00-21-26): “OK, so I am going to read this in the in the words that were written by Corby Hall. So this is going to be in first person and he is going to he's presenting here just a timeline of the factual events regarding Victor Marx. Again, Erika (Erika Kirk)'s dear friend, right? ... He writes that on or about December 1st, 2023, at the request of Victor Marx, Melody (Corby Hall's wife and FoldAR COO; surname unverified), my then-girlfriend, who earned her place as COO of FoldAR, and I drove from Texas to Colorado Springs to provide a demo of the FoldAR to Mr.”
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:05:17](/episodes/ep--9MOUvgGyi4.md#t-00-05-00): “she had me message him and he responded right away and invited us up to his house in Colorado Springs.”
 
 </details>
 
@@ -539,9 +810,11 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <summary>Threatened (1)</summary>
 
 - **[Corby Hall](/entities/person-corby-hall.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:31:36](/episodes/ep-1mYNOqzAdXs.md#t-00-31-36): “OK, I want you to listen to him explain. He admits that he threatened to beat Corby Hall up.”
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 01:17:30](/episodes/ep--9MOUvgGyi4.md#t-01-16-57): “Okay. And the next message is, well, I can just have you disappeared. I can have you knocked off.”
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 01:46:38](/episodes/ep--9MOUvgGyi4.md#t-01-46-25): “um 50 000 guns and uh and the idea for the operations and guys of lebanon and syria and that's you know our stare off and he says you know i could whoop your ass and there ain't nothing you could do about it and uh”
 
 </details>
 
@@ -560,13 +833,14 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details>
-<summary>Referenced By (16)</summary>
+<summary>Referenced By (19)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:17:31](/episodes/ep-jsqUIkszZd0.md#t-00-17-22): “Good luck, Colorado. See you never if this man wins. Anyway, so what does this have to do with Charlie Kirk and Turning Point and September 10th? Well, I am going to tell you because Victor (Victor Marx), like a stepdaddy, was allegedly interested in trafficking. particularly arms, over to Haiti, and he contacted a man named Corby Hall to get this done. Now, Corby (Corby Hall), I'm going to read you his statement so you know exactly who he is.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:17:17](/episodes/ep-xi8SYJTUXPM.md#t-00-17-09): “Remind you, Victor Marx wanted the patent for Israel. He wanted to push Corby Hall out and get him a deal so that he would sell the patent to Israel.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:05:25](/episodes/ep-4DvYXBn_5JI.md#t-00-05-04): “is it fair, at least after listening to that, to suggest that Corby Hall might have been telling the truth about Victor Marx potentially doing some work trying to secure weaponry on behalf of Israel, on behalf of the IDF, allegedly, maybe?”
 
 </details>
 
@@ -585,10 +859,13 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:23:59](/episodes/ep-jsqUIkszZd0.md#t-00-23-29): “Now, he did send that retooling prayer over to me, and I do want to let you know that Victor Marx—effectively, what he does is he pretends that he is going to summon and then extract information from demons that are inside...”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:31:28](/episodes/ep-1mYNOqzAdXs.md#t-00-30-52): “I got to tell you guys, I'm a gut player and just listening to Victor Marx's explanation regarding his dealings with Corby Hall did not ring true to me.”
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 02:30:08](/episodes/ep--9MOUvgGyi4.md#t-02-29-52): “lot to think about. I certainly have, as I've said, I'm happy to have Victor (Victor Marx) on this podcast and to allow him to tell more about his life story, which I think many people have found parts to be unbelievable. I do think he's a crazy person. ... I will say that for sure. I just. Just on the basis of the story you're telling me, the retooling prayer, I think he's wildly manipulative. I think he's probably involved in a cult and in the occult. That's what that all sounds like to me.”
+- [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:12:24](/episodes/ep-qZ8RWfyuewQ.md#t-01-12-06): “I also want to let you guys know Victor Marx, he's posting all these videos. He never replied to my. ... my Instagram at all and I followed up and I said it's weird that you're posting all these videos and you have not replied”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:03:33](/episodes/ep-4DvYXBn_5JI.md#t-00-03-08): “Because on the basis of the stories that we've heard about him, some of them from Victor himself, he seems to me to be a bit dangerous, right?”
 
 </details>
 
@@ -607,11 +884,12 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:21:26](/episodes/ep-jsqUIkszZd0.md#t-00-21-26): “So this is going to be in first person and he is going to he's presenting here just a timeline of the factual events regarding Victor Marx. Again, Erika (Erika Kirk)'s dear friend, right?”
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:39:02](/episodes/ep-SubDoZWHARo.md#t-00-38-41): “And I don't know why Erika (Erika Kirk) can't make normal friends. None of my friends have these sorts of backgrounds”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:23:43](/episodes/ep-1mYNOqzAdXs.md#t-00-23-27): “Anyway, switching gears to her dear friend, Victor Marx, because we now have proof that he did indeed announce that Charlie Kirk had died first to the world first, I should say.”
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:36:55](/episodes/ep--9MOUvgGyi4.md#t-00-36-39): “Again, that's balanceofnature.com. There are so many connecting themes here with just everything that I've been discussing on my podcast, obviously just investigating this Charlie Kirk story and that brings me back to this obvious relationship Eileen (Eileen Marx) has with Erika (Erika Kirk) and this is very similar, ... know, how then his wife was so close to Eileen (Eileen Marx) and Victor (Victor Marx) that that's one of the first people that she wants to hug and connect with after the assassination.”
 
 </details>
 
@@ -622,10 +900,31 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 
 </details>
 
+- **[Sebastian Gorka](/entities/person-sebastian-gorka.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:48:33](/episodes/ep--9MOUvgGyi4.md#t-00-48-33): “What is your mission now, Victor (Victor Marx)?”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:04:29](/episodes/ep-4DvYXBn_5JI.md#t-00-04-29): “Victor, you're alive in Israel. Give us a frontline report.”
+
+</details>
+
 - **[Cori Kennedy](/entities/person-cori-kennedy.md)** investigated this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:56:40](/episodes/ep-jsqUIkszZd0.md#t-00-56-21): “What was it, Cori? What is the last name? Kennedy? I feel it's Cori Kennedy. C-O-R-I Kennedy. And I'm not sure the background of this person, but similarly, this individual was already looking into Victor Marx, had been looking into Victor Marx for months, actually, and has done a very good job on both X and on Facebook.”
+
+</details>
+
+- **[Corby Hall](/entities/person-corby-hall.md)** mentored by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 01:10:33](/episodes/ep--9MOUvgGyi4.md#t-01-10-09): “I mean, he was mentoring me, what I viewed to be mentoring at the time, you know, doing this whole relationship and things are starting to pile up.”
 
 </details>
 
@@ -637,9 +936,10 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 - **[Corby Hall](/entities/person-corby-hall.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:21:42](/episodes/ep-jsqUIkszZd0.md#t-00-21-26): “OK, so I am going to read this in the in the words that were written by Corby Hall. So this is going to be in first person and he is going to he's presenting here just a timeline of the factual events regarding Victor Marx. Again, Erika (Erika Kirk)'s dear friend, right? ... He writes that on or about December 1st, 2023, at the request of Victor Marx, Melody (Corby Hall's wife and FoldAR COO; surname unverified), my then-girlfriend, who earned her place as COO of FoldAR, and I drove from Texas to Colorado Springs to provide a demo of the FoldAR to Mr.”
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:05:17](/episodes/ep--9MOUvgGyi4.md#t-00-05-00): “she had me message him and he responded right away and invited us up to his house in Colorado Springs.”
 
 </details>
 
@@ -665,16 +965,19 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 - **[Corby Hall](/entities/person-corby-hall.md)** threatened by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:31:36](/episodes/ep-1mYNOqzAdXs.md#t-00-31-36): “OK, I want you to listen to him explain. He admits that he threatened to beat Corby Hall up.”
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 01:17:30](/episodes/ep--9MOUvgGyi4.md#t-01-16-57): “Okay. And the next message is, well, I can just have you disappeared. I can have you knocked off.”
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 01:46:38](/episodes/ep--9MOUvgGyi4.md#t-01-46-25): “um 50 000 guns and uh and the idea for the operations and guys of lebanon and syria and that's you know our stare off and he says you know i could whoop your ass and there ain't nothing you could do about it and uh”
 
 </details>
 
 - **[Corby Hall](/entities/person-corby-hall.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:22:12](/episodes/ep-jsqUIkszZd0.md#t-00-22-12): “OK, so I am going to read this in the in the words that were written by Corby Hall. So this is going to be in first person and he is going to he's presenting here just a timeline of the factual events regarding Victor Marx. Again, Erika (Erika Kirk)'s dear friend, right? ... During our demo at his home base gun range, Mr. Marx (Victor Marx) approached me separately and asked if I would make a signature series rifle for him.”
+- [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:39:24](/episodes/ep--9MOUvgGyi4.md#t-00-39-16): “And this was, again, early December. So I get to work on the Signature Series, the Victor Marx Signature Series.”
 
 </details>
 
@@ -683,7 +986,29 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Victor Marx (20)</strong></summary>
+<summary><strong class="section-title">Statements by Victor Marx (24)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>
+
+- [00:04:33](/episodes/ep-4DvYXBn_5JI.md#t-00-04-29) [✓] (Claim) ["Victor Marx said his relationships with special-forces commanders in Israel and ..."](/statements/statement-e64379de8d2c.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (3)</summary>
+
+- [00:48:36](/episodes/ep--9MOUvgGyi4.md#t-00-48-36) [○] (Opinion) ["Victor Marx called FoldAR the best available product for engaging a hostile thre..."](/statements/statement-f90ff30c7b87.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [FoldAR](/entities/org-foldar.md), [School resource officer](/entities/concept-school-resource-officer.md)
+
+- [00:48:58](/episodes/ep--9MOUvgGyi4.md#t-00-48-58) [✓] (Promise) ["Victor Marx said he wanted every school resource officer in Texas, and eventuall..."](/statements/statement-e76221ace955.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [FoldAR](/entities/org-foldar.md), [School resource officer](/entities/concept-school-resource-officer.md)
+
+- [01:17:18](/episodes/ep--9MOUvgGyi4.md#t-01-16-57) [○] (Accusation) ["Victor Marx told Corby Hall by text that he could have Hall killed and disappear..."](/statements/statement-2b418c779821.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [Corby Hall](/entities/person-corby-hall.md), [South America](/entities/gpe-south-america.md)
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (5)</summary>
@@ -763,7 +1088,68 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Victor Marx (35)</strong></summary>
+<summary><strong class="section-title">Statements about Victor Marx (52)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (4)</summary>
+
+- [00:03:08](/episodes/ep-4DvYXBn_5JI.md#t-00-03-08) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said she learned that Charlie Kirk and Victor Marx had a..."](/statements/statement-b829bc398ba1.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:04:33](/episodes/ep-4DvYXBn_5JI.md#t-00-04-29) (Claim) **Victor Marx** (via quoted speech): ["Victor Marx said his relationships with special-forces commanders in I..."](/statements/statement-e64379de8d2c.md)
+  - Also about: [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Israel](/entities/gpe-israel.md)
+
+- [00:05:25](/episodes/ep-4DvYXBn_5JI.md#t-00-05-04) (Accusation) **Candace Owens** (via paraphrase): ["Is it fair, at least after listening to that, to suggest that Corby Ha..."](/statements/statement-7d6f9b1396b3.md)
+  - Also about: [Corby Hall](/entities/person-corby-hall.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Israel](/entities/gpe-israel.md)
+
+- [00:05:49](/episodes/ep-4DvYXBn_5JI.md#t-00-05-49) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Victor Marx was running for governor of Colorado an..."](/statements/statement-e9eae369d507.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Colorado](/entities/gpe-colorado.md)
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (13)</summary>
+
+- [00:21:21](/episodes/ep--9MOUvgGyi4.md#t-00-21-07) (Accusation) **Corby Hall**: ["Corby Hall said Victor Marx's recorded retooling prayer asked Hall to ..."](/statements/statement-24b076d59092.md)
+  - Also about: [Corby Hall](/entities/person-corby-hall.md), [Beelzebub](/entities/concept-beelzebub.md)
+
+- [00:28:52](/episodes/ep--9MOUvgGyi4.md#t-00-28-32) (Opinion) **Candace Owens**: ["Candace Owens argued that Victor Marx's retooling exercise elicited Co..."](/statements/statement-9e1f56c37d2a.md)
+  - Also about: [Corby Hall](/entities/person-corby-hall.md)
+
+- [00:48:36](/episodes/ep--9MOUvgGyi4.md#t-00-48-36) (Opinion) **Victor Marx** (via quoted speech): ["Victor Marx called FoldAR the best available product for engaging a ho..."](/statements/statement-f90ff30c7b87.md)
+  - Also about: [FoldAR](/entities/org-foldar.md), [School resource officer](/entities/concept-school-resource-officer.md)
+
+- [00:48:58](/episodes/ep--9MOUvgGyi4.md#t-00-48-58) (Promise) **Victor Marx** (via quoted speech): ["Victor Marx said he wanted every school resource officer in Texas, and..."](/statements/statement-e76221ace955.md)
+  - Also about: [FoldAR](/entities/org-foldar.md), [School resource officer](/entities/concept-school-resource-officer.md), [Texas](/entities/gpe-texas.md)
+
+- [01:17:18](/episodes/ep--9MOUvgGyi4.md#t-01-16-57) (Accusation) **Victor Marx** (via read message): ["Victor Marx told Corby Hall by text that he could have Hall killed and..."](/statements/statement-2b418c779821.md)
+  - Also about: [Corby Hall](/entities/person-corby-hall.md), [South America](/entities/gpe-south-america.md)
+
+- [01:29:32](/episodes/ep--9MOUvgGyi4.md#t-01-29-32) (Opinion) **Corby Hall**: ["Corby Hall refused another retooling prayer because he believed repeat..."](/statements/statement-530fb7d6f15d.md)
+  - Also about: [Corby Hall](/entities/person-corby-hall.md)
+
+- [01:47:41](/episodes/ep--9MOUvgGyi4.md#t-01-47-41) (Opinion) **Candace Owens**: ["Candace Owens opined that Corby Hall's final weekend at Victor Marx's ..."](/statements/statement-e535e091864b.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Corby Hall](/entities/person-corby-hall.md), [FoldAR](/entities/org-foldar.md)
+
+- [01:52:44](/episodes/ep--9MOUvgGyi4.md#t-01-52-36) (Accusation) **Corby Hall**: ["Corby Hall said Victor Marx falsely claimed to have paid for Hall's in..."](/statements/statement-7ed599cd39c5.md)
+  - Also about: [Corby Hall](/entities/person-corby-hall.md)
+
+- [02:02:24](/episodes/ep--9MOUvgGyi4.md#t-02-02-24) (Opinion) **Candace Owens**: ["Candace Owens said the timing of the ATF trace on the day Charlie Kirk..."](/statements/statement-3d32034e439f.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Corby Hall](/entities/person-corby-hall.md)
+
+- [02:04:26](/episodes/ep--9MOUvgGyi4.md#t-02-04-26) (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk and Victor Marx had a major falling ou..."](/statements/statement-52a244758ec6.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [02:05:11](/episodes/ep--9MOUvgGyi4.md#t-02-04-43) (Claim) **Candace Owens**: ["Candace Owens said Victor Marx was the first person she could find who..."](/statements/statement-78dbe23ce8c1.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [02:30:08](/episodes/ep--9MOUvgGyi4.md#t-02-29-52) (Opinion) **Candace Owens**: ["Candace Owens called Victor Marx wildly manipulative and opined that h..."](/statements/statement-6c3297843320.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [02:30:45](/episodes/ep--9MOUvgGyi4.md#t-02-30-28) (Opinion) **Candace Owens**: ["Candace Owens opined that Victor Marx targeted Corby Hall for Hall's p..."](/statements/statement-a519dc4e6118.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Corby Hall](/entities/person-corby-hall.md), [FoldAR](/entities/org-foldar.md)
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>

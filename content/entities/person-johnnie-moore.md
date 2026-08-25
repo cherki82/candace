@@ -1,6 +1,6 @@
 ---
 title: "Johnnie Moore"
-description: "Johnnie Moore (People) - 37 mentions"
+description: "Johnnie Moore (People) - 39 mentions"
 id: "person-johnnie-moore"
 type: "PERSON"
 aliases:
@@ -25,9 +25,9 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-johnnie-moore-t-00-07-06">2026-01-09 · 00:07:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-johnnie-moore-t-00-21-28">2026-03-10 · 00:21:56</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>37</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-johnnie-moore-t-00-07-33">2026-05-05 · 00:07:33</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>39</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>19</strong></div>
@@ -43,6 +43,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-johnnie-moore-t-00-43-53" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-johnnie-moore-t-00-40-31" style="--pulse-height:8%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-johnnie-moore-t-00-21-28" style="--pulse-height:8%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-johnnie-moore-t-00-06-51" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +54,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-johnnie-moore-t-00-43-53) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-johnnie-moore-t-00-40-31) | 1 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-johnnie-moore-t-00-21-28) | 1 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-johnnie-moore-t-00-06-51) | 2 |
 
 </details>
 </section>
@@ -60,7 +62,18 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (2 mentions)</summary>
+
+**[00:07:05](/episodes/ep-eMtjzXkQrsU.md#ent-person-johnnie-moore-t-00-06-51)**
+> "Think about Johnny Moore. Think about Andrew Kolvet. Think about Glenn Beck. Think about all these people that this is like their life's mission is to support the greatest ally."
+
+**[00:07:33](/episodes/ep-eMtjzXkQrsU.md#ent-person-johnnie-moore-t-00-07-33)**
+> "Oh, is Johnny Moore and Andrew Kolvet, they pulling the strings of Er..."
+
+</details>
 
 <details>
 <summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1 mentions)</summary>

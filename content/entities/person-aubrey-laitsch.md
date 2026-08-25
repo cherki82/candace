@@ -1,6 +1,6 @@
 ---
 title: "Aubrey Laitsch"
-description: "Aubrey Laitsch (People) - 7 mentions"
+description: "Aubrey Laitsch (People) - 13 mentions"
 id: "person-aubrey-laitsch"
 type: "PERSON"
 categories:
@@ -18,24 +18,26 @@ Source: [Aubrey Laitsch (@AubreyLaitsch) on X](https://x.com/AubreyLaitsch)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-aubrey-laitsch-t-00-24-36">2026-02-05 · 00:24:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#t-00-13-58">2026-03-26 · 00:14:05</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-69A8TzAGHlU.md#t-00-49-36">2026-04-30 · 00:49:36</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-aubrey-laitsch-t-00-27-14">An Open Letter To Erika Kirk | Candace Ep 303</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-aubrey-laitsch-t-00-54-08">TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-aubrey-laitsch-t-00-27-14" style="--pulse-height:100%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 3 mentions" title="2026-02-05 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-aubrey-laitsch-t-00-36-41" style="--pulse-height:33%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-B9TyCs-6o_0.md#t-00-21-43" style="--pulse-height:33%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SgVcnx4Oh30.md#t-00-19-47" style="--pulse-height:33%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DEtFh2Ff-58.md#t-00-13-58" style="--pulse-height:33%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-aubrey-laitsch-t-00-27-14" style="--pulse-height:60%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 3 mentions" title="2026-02-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-aubrey-laitsch-t-00-36-41" style="--pulse-height:20%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#t-00-21-43" style="--pulse-height:20%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#t-00-19-47" style="--pulse-height:20%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#t-00-13-58" style="--pulse-height:20%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-aubrey-laitsch-t-00-54-08" style="--pulse-height:100%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 5 mentions" title="2026-04-29 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#t-00-49-36" style="--pulse-height:20%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +48,8 @@ Source: [Aubrey Laitsch (@AubreyLaitsch) on X](https://x.com/AubreyLaitsch)
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#t-00-21-43) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#t-00-19-47) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#t-00-13-58) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-aubrey-laitsch-t-00-54-08) | 5 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#t-00-49-36) | 1 |
 
 </details>
 </section>
@@ -53,7 +57,35 @@ Source: [Aubrey Laitsch (@AubreyLaitsch) on X](https://x.com/AubreyLaitsch)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1 mentions)</summary>
+
+**[00:49:36](/episodes/ep-69A8TzAGHlU.md#t-00-49-36)**
+> "So as you pretend. like we're all just conspiracy theorists and nobody had any good information as you fire a bunch of employees like I said you still cannot produce the information that you are claiming that Aubrey Leitch gave to me that I share on this platform you were my number one source Andrew (Andrew Kolvet) in the beginning you just forgot the things that you told me and that's when I started realizing things were weird and then I got Mikey McCoy telling me to look more into you you"
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (5 mentions)</summary>
+
+**[00:54:08](/episodes/ep-qZ8RWfyuewQ.md#ent-person-aubrey-laitsch-t-00-54-08)**
+> "...show that was leaked to me by Aubrey Laitsch, like from December 15th. Okay, post getting fire..."
+
+**[01:05:31](/episodes/ep-qZ8RWfyuewQ.md#ent-person-aubrey-laitsch-t-01-05-04)**
+> "...ire Turning Point USA leaker, Aubrey Laitsch, all suddenly appeared in Rome."
+
+**[01:05:45](/episodes/ep-qZ8RWfyuewQ.md#ent-person-aubrey-laitsch-t-01-05-45)**
+> "...urce informed me that Aubrey (Aubrey Laitsch) approached several conservatives last year in an..."
+
+**[01:06:02](/episodes/ep-qZ8RWfyuewQ.md#ent-person-aubrey-laitsch-t-01-05-45)**
+> "...us AI photo joke from Aubrey (Aubrey Laitsch) saying, happy birthday, Candace."
+
+**[01:08:12](/episodes/ep-qZ8RWfyuewQ.md#ent-person-aubrey-laitsch-t-01-08-12)**
+> "...tery no I did not see Aubrey (Aubrey Laitsch) I did not see Nick Fuentes I did not see David A..."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
@@ -225,7 +257,18 @@ Source: [Aubrey Laitsch (@AubreyLaitsch) on X](https://x.com/AubreyLaitsch)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Aubrey Laitsch (10)</strong></summary>
+<summary><strong class="section-title">Statements about Aubrey Laitsch (12)</strong></summary>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (2)</summary>
+
+- [01:05:31](/episodes/ep-qZ8RWfyuewQ.md#t-01-05-04) (Accusation) **Laura Loomer** (via quoted post): ["Laura Loomer alleged Candace Owens, Nick Fuentes, David Axelrod, and A..."](/statements/statement-fd8c052896c2.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [David Axelrod](/entities/person-david-axelrod.md)
+
+- [01:06:15](/episodes/ep-qZ8RWfyuewQ.md#t-01-05-45) (Claim) **Candace Owens**: ["Candace Owens denied meeting Aubrey Laitsch, Nick Fuentes, or David Ax..."](/statements/statement-b68d2c1bd71a.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [George Farmer](/entities/person-george-farmer.md), [Nick Fuentes](/entities/person-nick-fuentes.md)
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>

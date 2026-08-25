@@ -1,6 +1,6 @@
 ---
 title: "Italy"
-description: "Italy (Places) - 14 mentions"
+description: "Italy (Places) - 23 mentions"
 id: "gpe-italy"
 type: "GPE"
 categories:
@@ -18,8 +18,8 @@ Source: [Italy – EU country | European Union](https://european-union.europa.eu
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-italy-t-00-47-50">2026-01-28 · 00:48:16</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-italy-t-03-51-36">2026-08-14 · 03:51:36</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,10 @@ Source: [Italy – EU country | European Union](https://european-union.europa.eu
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-italy-t-00-29-57" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 3 mentions" title="2026-03-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-italy-t-00-27-09" style="--pulse-height:17%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-italy-t-00-11-42" style="--pulse-height:17%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-italy-t-00-00-00" style="--pulse-height:67%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 4 mentions" title="2026-04-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-gpe-italy-t-00-01-23" style="--pulse-height:17%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-italy-t-00-00-00" style="--pulse-height:33%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-italy-t-00-01-59" style="--pulse-height:33%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-italy-t-02-05-30" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 6 mentions" title="2026-08-14 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -46,6 +50,10 @@ Source: [Italy – EU country | European Union](https://european-union.europa.eu
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-italy-t-00-29-57) | 3 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-italy-t-00-27-09) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-italy-t-00-11-42) | 1 |
+| 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-italy-t-00-00-00) | 4 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-gpe-italy-t-00-01-23) | 1 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-italy-t-00-00-00) | 2 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-italy-t-00-01-59) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-italy-t-02-05-30) | 6 |
 
 </details>
@@ -54,7 +62,7 @@ Source: [Italy – EU country | European Union](https://european-union.europa.eu
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (6 mentions)</summary>
@@ -76,6 +84,53 @@ Source: [Italy – EU country | European Union](https://european-union.europa.eu
 
 **[03:51:36](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-italy-t-03-51-36)**
 > "...aunched the flb shoes made in italy we have a marketing department"
+
+</details>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (2 mentions)</summary>
+
+**[00:01:59](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-italy-t-00-01-59)**
+> "went off to Italy"
+
+**[00:02:13](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-italy-t-00-01-59)**
+> "... saying he did while I was in Italy. He finally answered. And so I'm going to set a t..."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (2 mentions)</summary>
+
+**[00:00:31](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-italy-t-00-00-00)**
+> "...king about him. I was over in Italy."
+
+**[00:59:35](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-italy-t-00-59-08)**
+> "...efore, I guess, as we were in Italy."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1 mentions)</summary>
+
+**[00:01:23](/episodes/ep-69A8TzAGHlU.md#ent-gpe-italy-t-00-01-23)**
+> "So let me back up. I was standing in Charlotte Airport about to board my flight to Italy last week, and I received an email."
+
+</details>
+
+<details>
+<summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (4 mentions)</summary>
+
+**[00:00:00](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-italy-t-00-00-00)**
+> "...irthday to me. I am back from Italy. And what did I miss?"
+
+**[00:15:24](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-italy-t-00-15-03)**
+> "...th interrupting my holiday in Italy to address, okay?"
+
+**[00:28:20](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-italy-t-00-28-12)**
+> "...hing went down while I was in Italy, right? I came back. Suddenly there were all thes..."
+
+**[01:05:04](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-italy-t-01-05-04)**
+> "...reich currently converging in Italy?"
 
 </details>
 

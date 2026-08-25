@@ -1,6 +1,6 @@
 ---
 title: "Donald Trump Jr."
-description: "Donald Trump Jr. (People) - 24 mentions"
+description: "Donald Trump Jr. (People) - 33 mentions"
 id: "person-donald-trump-jr"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52">2025-09-11 · 00:08:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#t-00-07-27">2026-04-16 · 00:07:43</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-donald-trump-jr-t-00-25-00">2026-05-13 · 00:25:27</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -44,6 +44,8 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-donald-trump-jr-t-00-31-29" style="--pulse-height:8%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#t-00-16-56" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#t-00-07-27" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-jr-t-00-30-40" style="--pulse-height:46%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 6 mentions" title="2026-05-05 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-donald-trump-jr-t-00-21-10" style="--pulse-height:23%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +60,8 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-donald-trump-jr-t-00-31-29) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#t-00-16-56) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#t-00-07-27) | 1 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-jr-t-00-30-40) | 6 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-donald-trump-jr-t-00-21-10) | 3 |
 
 </details>
 </section>
@@ -65,7 +69,44 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (3 mentions)</summary>
+
+**[00:21:10](/episodes/ep-7FS1tUeSfdE.md#ent-person-donald-trump-jr-t-00-21-10)**
+> "And Donald Trump Jr."
+
+**[00:21:34](/episodes/ep-7FS1tUeSfdE.md#ent-person-donald-trump-jr-t-00-21-10)**
+> "... too close for comfort to me. Donald Trump Jr.—"
+
+**[00:25:27](/episodes/ep-7FS1tUeSfdE.md#ent-person-donald-trump-jr-t-00-25-00)**
+> "...g Point USA, the White House, Donald Trump Jr. We talked about Salem Media. Just a lot going on ..."
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (6 mentions)</summary>
+
+**[00:30:59](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-jr-t-00-30-40)**
+> "With the president's son, Donald Trump Jr., someone who was like a brother to Charlie (Charlie Kirk), someone that I have to say broke my heart with his almost non-reaction to Charlie (Charlie Kirk)'s death, not fighting in the way that I thought he would fight, especially when they came out with this ridiculous .30-06 narrative."
+
+**[00:31:17](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-jr-t-00-30-40)**
+> "Don (Donald Trump Jr.)'s a hunter. He knows what a .30-06 can do, okay?..."
+
+**[00:31:24](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-jr-t-00-31-24)**
+> "...lie (Charlie Kirk) loved Don (Donald Trump Jr.)."
+
+**[00:31:32](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-jr-t-00-31-24)**
+> "...nnounces a landmark deal with Donald Trump Jr."
+
+**[00:32:27](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-jr-t-00-32-08)**
+> "...'ve got Josh Hammer, Don Jr. (Donald Trump Jr.) is involved. We've got Brad Parscale, the Trump ..."
+
+**[00:37:26](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-jr-t-00-37-02)**
+> "April 14th, Donald Trump Jr. receives a major stake in Salem Media Group and i..."
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1 mentions)</summary>
@@ -208,12 +249,19 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 </details>
 
 <details>
-<summary>Founded (1)</summary>
+<summary>Founded (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:32:31](/episodes/ep-Qt0VHV-POCg.md#t-00-31-50): “Don Jr., by the way, I would say, was one of the people who very much helped to build Turning Point USA. He was there, okay?”
+
+</details>
+
+- **[Winning Team Publishing](/entities/org-winning-team-publishing.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:20:49](/episodes/ep-7FS1tUeSfdE.md#t-00-20-24): “That's that book publishing conservative book publishing company that was started by Sergio Gor. And Donald Trump Jr.”
 
 </details>
 
@@ -223,9 +271,10 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 <summary>Friend Of (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [To My Friend, Charlie Kirk. @ 00:08:24](/episodes/ep-_dRaEO47-co.md#t-00-07-52): “Don and Eric got him a gift certificate—I think it was for his birthday—to a fancy suit place”
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:30:59](/episodes/ep-eMtjzXkQrsU.md#t-00-30-40): “With the president's son, Donald Trump Jr., someone who was like a brother to Charlie (Charlie Kirk) ... His silence offended me. And it offended me because of how much I know Charlie (Charlie Kirk) loved him. Truly, Charlie (Charlie Kirk) loved Don (Donald Trump Jr.).”
 
 </details>
 
@@ -244,7 +293,19 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Invested In (1)</summary>
+
+- **[Salem Media Group](/entities/org-salem-media-group.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:37:26](/episodes/ep-eMtjzXkQrsU.md#t-00-37-02): “April 14th, Donald Trump Jr. receives a major stake in Salem Media Group and in tandem, Lara Trump enters into a strategic agreement with Salem Media Group.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (7)</summary>
 
 - **[Bettina Anderson](/entities/person-bettina-anderson.md)** engaged to this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -260,10 +321,25 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 
 </details>
 
-- **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
+- **[Winning Team Publishing](/entities/org-winning-team-publishing.md)** founded by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:20:49](/episodes/ep-7FS1tUeSfdE.md#t-00-20-24): “That's that book publishing conservative book publishing company that was started by Sergio Gor. And Donald Trump Jr.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [To My Friend, Charlie Kirk. @ 00:08:24](/episodes/ep-_dRaEO47-co.md#t-00-07-52): “Don and Eric got him a gift certificate—I think it was for his birthday—to a fancy suit place”
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:30:59](/episodes/ep-eMtjzXkQrsU.md#t-00-30-40): “With the president's son, Donald Trump Jr., someone who was like a brother to Charlie (Charlie Kirk) ... His silence offended me. And it offended me because of how much I know Charlie (Charlie Kirk) loved him. Truly, Charlie (Charlie Kirk) loved Don (Donald Trump Jr.).”
+
+</details>
+
+- **[Salem Media Group](/entities/org-salem-media-group.md)** has investor this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:37:26](/episodes/ep-eMtjzXkQrsU.md#t-00-37-02): “April 14th, Donald Trump Jr. receives a major stake in Salem Media Group and in tandem, Lara Trump enters into a strategic agreement with Salem Media Group.”
 
 </details>
 
@@ -286,7 +362,26 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Donald Trump Jr. (1)</strong></summary>
+<summary><strong class="section-title">Statements about Donald Trump Jr. (4)</strong></summary>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (2)</summary>
+
+- [00:20:44](/episodes/ep-7FS1tUeSfdE.md#t-00-20-24) (Claim) **Candace Owens**: ["Justin Streiff also runs Winning Team Publishing, a company started by..."](/statements/statement-618d006894b7.md)
+  - Also about: [Justin Streiff](/entities/person-justin-streiff.md), [Winning Team Publishing](/entities/org-winning-team-publishing.md), [Sergio Gor](/entities/person-sergio-gor.md)
+
+- [00:21:34](/episodes/ep-7FS1tUeSfdE.md#t-00-21-10) (Opinion) **Candace Owens**: ["I would imagine Justin Streiff and Donald Trump Jr. stood to benefit g..."](/statements/statement-91c173c36a8c.md)
+  - Also about: [Justin Streiff](/entities/person-justin-streiff.md), [Winning Team Publishing](/entities/org-winning-team-publishing.md), [Stop, in the Name of God](/entities/work-stop-in-the-name-of-god.md)
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1)</summary>
+
+- [00:31:48](/episodes/ep-eMtjzXkQrsU.md#t-00-31-24) (Citation) **Candace Owens**: ["Salem Media Group acquired a 30 percent stake in Donald Trump Jr.'s Mx..."](/statements/statement-f64263a5c1ca.md)
+  - Also about: [Salem Media Group](/entities/org-salem-media-group.md), [MxM News](/entities/org-mxm-news.md)
+
+</details>
 
 <details>
 <summary>To My Friend, Charlie Kirk. (1)</summary>

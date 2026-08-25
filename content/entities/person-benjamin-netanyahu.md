@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Netanyahu"
-description: "Benjamin Netanyahu (People) - 313 mentions"
+description: "Benjamin Netanyahu (People) - 327 mentions"
 id: "person-benjamin-netanyahu"
 type: "PERSON"
 aliases:
@@ -29,11 +29,11 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-06-16">2025-09-15 · 00:01:28</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-02-52-41">2026-08-14 · 02:52:41</a></strong></div>
-<div><span>Episodes</span><strong>68</strong></div>
-<div><span>Mentions</span><strong>313</strong></div>
-<div><span>Statements by</span><strong>15</strong></div>
-<div><span>Statements about</span><strong>93</strong></div>
-<div><span>Relationships</span><strong>36</strong></div>
+<div><span>Episodes</span><strong>72</strong></div>
+<div><span>Mentions</span><strong>327</strong></div>
+<div><span>Statements by</span><strong>16</strong></div>
+<div><span>Statements about</span><strong>96</strong></div>
+<div><span>Relationships</span><strong>38</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -108,6 +108,10 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-benjamin-netanyahu-t-00-53-40" style="--pulse-height:11%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 3 mentions" title="2026-04-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-person-benjamin-netanyahu-t-00-55-02" style="--pulse-height:8%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-benjamin-netanyahu-t-00-25-09" style="--pulse-height:14%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 4 mentions" title="2026-04-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-benjamin-netanyahu-t-00-13-26" style="--pulse-height:8%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-benjamin-netanyahu-t-00-27-26" style="--pulse-height:8%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-benjamin-netanyahu-t-00-01-24" style="--pulse-height:39%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 11 mentions" title="2026-05-05 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-benjamin-netanyahu-t-00-47-44" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-00-35-32" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -181,6 +185,10 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-benjamin-netanyahu-t-00-53-40) | 3 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-benjamin-netanyahu-t-00-55-02) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-benjamin-netanyahu-t-00-25-09) | 4 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-person-benjamin-netanyahu-t-00-13-26) | 1 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-benjamin-netanyahu-t-00-27-26) | 1 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-benjamin-netanyahu-t-00-01-24) | 11 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-benjamin-netanyahu-t-00-47-44) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-00-35-32) | 3 |
 
 </details>
@@ -189,7 +197,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (313)</strong></summary>
+<summary><strong class="section-title">Raw mentions (327)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -202,6 +210,68 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 **[02:52:41](/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-02-52-41)**
 > "...ld take a supporter like owen benjamin he called you bad names and one and called your h..."
+
+</details>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1 mentions)</summary>
+
+**[00:47:44](/episodes/ep-4DvYXBn_5JI.md#ent-person-benjamin-netanyahu-t-00-47-44)**
+> "Bibi Netanyahu"
+
+</details>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (11 mentions)</summary>
+
+**[00:01:24](/episodes/ep-eMtjzXkQrsU.md#ent-person-benjamin-netanyahu-t-00-01-24)**
+> "But there's nothing to see, you guys, because Bibi (Benjamin Netanyahu) already said it. Israel didn't do it. Remember?"
+
+**[00:12:49](/episodes/ep-eMtjzXkQrsU.md#ent-person-benjamin-netanyahu-t-00-12-44)**
+> "...Friday, September 12th, Bibi (Benjamin Netanyahu) joined Greta Van Susteren on her show to claim t..."
+
+**[00:13:01](/episodes/ep-eMtjzXkQrsU.md#ent-person-benjamin-netanyahu-t-00-12-44)**
+> "...sking, but that is what Bibi (Benjamin Netanyahu) said. Take a listen."
+
+**[00:13:48](/episodes/ep-eMtjzXkQrsU.md#ent-person-benjamin-netanyahu-t-00-13-48)**
+> "...on the individual, that Bibi (Benjamin Netanyahu)'s office actually requested."
+
+**[00:19:32](/episodes/ep-eMtjzXkQrsU.md#ent-person-benjamin-netanyahu-t-00-19-00)**
+> "...riend of Israel? Why is Bibi (Benjamin Netanyahu) all upset about what must have been some tweets?..."
+
+**[00:29:08](/episodes/ep-eMtjzXkQrsU.md#ent-person-benjamin-netanyahu-t-00-28-35)**
+> "...harlie Kirk) said no to Bibi (Benjamin Netanyahu) in the Hamptons shortly before he died."
+
+**[00:29:32](/episodes/ep-eMtjzXkQrsU.md#ent-person-benjamin-netanyahu-t-00-29-20)**
+> "...harlie Kirk) said no to Bibi (Benjamin Netanyahu), Andrew (Andrew Kolvet) allegedly—I'll say alleg..."
+
+**[00:30:15](/episodes/ep-eMtjzXkQrsU.md#ent-person-benjamin-netanyahu-t-00-30-00)**
+> "... other question how was Bibi (Benjamin Netanyahu) going to get all this money to turning point usa..."
+
+**[00:30:40](/episodes/ep-eMtjzXkQrsU.md#ent-person-benjamin-netanyahu-t-00-30-40)**
+> "...d be in charge of that? Bibi (Benjamin Netanyahu). He's the Prime Minister of Israel."
+
+**[00:38:16](/episodes/ep-eMtjzXkQrsU.md#ent-person-benjamin-netanyahu-t-00-38-16)**
+> "...ted. On September 12th, Bibi (Benjamin Netanyahu) declares that Israel did not kill Charlie Kirk."
+
+**[00:39:03](/episodes/ep-eMtjzXkQrsU.md#ent-person-benjamin-netanyahu-t-00-38-53)**
+> "...erally say this was how Bibi (Benjamin Netanyahu) was going to inject money."
+
+</details>
+
+<details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
+
+**[00:27:39](/episodes/ep-uC_GjKU8rs8.md#ent-person-benjamin-netanyahu-t-00-27-26)**
+> "... he unflinchingly hosts Bibi (Benjamin Netanyahu) on his platform, while he cheers on a genocide. ..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1 mentions)</summary>
+
+**[00:13:26](/episodes/ep-69A8TzAGHlU.md#ent-person-benjamin-netanyahu-t-00-13-26)**
+> "But he just kind of mentioned that. And then, you know, you got to have that random strong support for Israel right at the top, which is why also embedded is the mandatory picture of Bibi Netanyahu. You got to let these people know where you stand on Israel before you even get into the substance of a lawsuit. So I appreciate that."
 
 </details>
 
@@ -1513,10 +1583,11 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:19:26](/episodes/ep-I0OaY6Gryqk.md#t-00-19-26): “of people that will greet Bibi (Benjamin Netanyahu), who is a literal war criminal, wanted by the ICC in the White House.”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:17:02](/episodes/ep-ZIH5-V6UPkg.md#t-00-17-02): “Bibi is your master. Maybe it's Miriam Adelson that lights the fire and Bibi that makes the shadows on the wall.”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:27:39](/episodes/ep-uC_GjKU8rs8.md#t-00-27-26): “While he unflinchingly hosts Bibi (Benjamin Netanyahu) on his platform, while he cheers on a genocide. That's his main issue. His main issue is Israel.”
 
 </details>
 
@@ -1569,16 +1640,18 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <summary>Interviewed By (3)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:20:01](/episodes/ep-r1PS67aRmcA.md#t-00-19-31): “Ben Shapiro sat down with him last month”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:27:39](/episodes/ep-uC_GjKU8rs8.md#t-00-27-26): “While he unflinchingly hosts Bibi (Benjamin Netanyahu) on his platform, while he cheers on a genocide. That's his main issue. His main issue is Israel.”
 
 </details>
 
 - **[Greta Van Susteren](/entities/person-greta-van-susteren.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:01:38](/episodes/ep-K5GjF53bfN4.md#t-00-01-27): “when he went on multiple hits doing Fox News and Greta Van Susteren's show”
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:12:49](/episodes/ep-eMtjzXkQrsU.md#t-00-12-44): “Two days later, literally two days later on Friday, September 12th, Bibi (Benjamin Netanyahu) joined Greta Van Susteren on her show to claim that he did not murder Charlie (Charlie Kirk).”
 
 </details>
 
@@ -1655,7 +1728,19 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
-<summary>Referenced By (18)</summary>
+<summary>Prime Minister Of (1)</summary>
+
+- **[Israel](/entities/gpe-israel.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:30:40](/episodes/ep-eMtjzXkQrsU.md#t-00-30-00): “The Ministry of Foreign Affairs. Yeah, you know who would be in charge of that? Bibi (Benjamin Netanyahu). He's the Prime Minister of Israel.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (19)</summary>
 
 - **[Yair Netanyahu](/entities/person-yair-netanyahu.md)** child of this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -1681,10 +1766,11 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:19:26](/episodes/ep-I0OaY6Gryqk.md#t-00-19-26): “of people that will greet Bibi (Benjamin Netanyahu), who is a literal war criminal, wanted by the ICC in the White House.”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:17:02](/episodes/ep-ZIH5-V6UPkg.md#t-00-17-02): “Bibi is your master. Maybe it's Miriam Adelson that lights the fire and Bibi that makes the shadows on the wall.”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:27:39](/episodes/ep-uC_GjKU8rs8.md#t-00-27-26): “While he unflinchingly hosts Bibi (Benjamin Netanyahu) on his platform, while he cheers on a genocide. That's his main issue. His main issue is Israel.”
 
 </details>
 
@@ -1731,20 +1817,29 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 </details>
 
+- **[Israel](/entities/gpe-israel.md)** has prime minister this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:30:40](/episodes/ep-eMtjzXkQrsU.md#t-00-30-00): “The Ministry of Foreign Affairs. Yeah, you know who would be in charge of that? Bibi (Benjamin Netanyahu). He's the Prime Minister of Israel.”
+
+</details>
+
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:20:01](/episodes/ep-r1PS67aRmcA.md#t-00-19-31): “Ben Shapiro sat down with him last month”
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:07:30](/episodes/ep-r1PS67aRmcA.md#t-00-07-09): “Benjamin Netanyahu is committing a genocide, and Ben Shapiro sat down with him last month”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:27:39](/episodes/ep-uC_GjKU8rs8.md#t-00-27-26): “While he unflinchingly hosts Bibi (Benjamin Netanyahu) on his platform, while he cheers on a genocide. That's his main issue. His main issue is Israel.”
 
 </details>
 
 - **[Greta Van Susteren](/entities/person-greta-van-susteren.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:01:38](/episodes/ep-K5GjF53bfN4.md#t-00-01-27): “when he went on multiple hits doing Fox News and Greta Van Susteren's show”
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:26:36](/episodes/ep-czVBmqZP6Ss.md#t-00-26-07): “as Greta Van Susteren asked Benjamin Netanyahu in his secondary hit regarding Charlie's assassination.”
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:26:16](/episodes/ep-czVBmqZP6Ss.md#t-00-26-07): “as Greta Van Susteren asked Benjamin Netanyahu in his secondary hit regarding Charlie's assassination”
+- [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:12:49](/episodes/ep-eMtjzXkQrsU.md#t-00-12-44): “Two days later, literally two days later on Friday, September 12th, Bibi (Benjamin Netanyahu) joined Greta Van Susteren on her show to claim that he did not murder Charlie (Charlie Kirk).”
 
 </details>
 
@@ -1799,7 +1894,15 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Benjamin Netanyahu (15)</strong></summary>
+<summary><strong class="section-title">Statements by Benjamin Netanyahu (16)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1)</summary>
+
+- [00:13:25](/episodes/ep-eMtjzXkQrsU.md#t-00-13-25) [✓] (Claim) ["The claim that Israel was behind Charlie Kirk's murder is insane, absurd, stupid..."](/statements/statement-3136d5878be3.md)
+  - About: [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (4)</summary>
@@ -1869,7 +1972,21 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Benjamin Netanyahu (93)</strong></summary>
+<summary><strong class="section-title">Statements about Benjamin Netanyahu (96)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (3)</summary>
+
+- [00:13:48](/episodes/ep-eMtjzXkQrsU.md#t-00-13-48) (Claim) **Anonymous Source #3 (Ep eMtjzXkQrsU)** (via read message): ["Benjamin Netanyahu's office requested that Greta Van Susteren's team a..."](/statements/statement-aee2875084dc.md)
+  - Also about: [Greta Van Susteren](/entities/person-greta-van-susteren.md), [Israel](/entities/gpe-israel.md)
+
+- [00:29:03](/episodes/ep-eMtjzXkQrsU.md#t-00-28-35) (Claim) **Anonymous Source #2 (Ep eMtjzXkQrsU)** (via read message): ["Andrew Kolvet told family and friends that he lost millions when Charl..."](/statements/statement-3de2bc0c8019.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:39:03](/episodes/ep-eMtjzXkQrsU.md#t-00-38-53) (Opinion) **Candace Owens**: ["It is plausible that the Salem arrangement was how Benjamin Netanyahu ..."](/statements/statement-08f92a8a02eb.md)
+  - Also about: [Salem Media Group](/entities/org-salem-media-group.md), [Foreign Agents Registration Act](/entities/law-fara.md)
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (2)</summary>

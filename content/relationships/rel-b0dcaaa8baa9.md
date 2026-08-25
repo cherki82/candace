@@ -1,0 +1,23 @@
+---
+title: "Paul Singer funded MAGA Kentucky"
+description: "Evidence for the relationship: Paul Singer funded MAGA Kentucky"
+relationship_id: "rel-b0dcaaa8baa9"
+subject: "person-paul-singer"
+predicate: "funded"
+object: "org-maga-kentucky"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Paul Singer](/entities/person-paul-singer) funded [MAGA Kentucky](/entities/org-maga-kentucky)
+
+### Evidence (1 mentions)
+
+**[STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI)**
+
+- [00:23:53](/episodes/ep-FFQ9675oqRI#t-00-23-53): _the RJC, which is the Republican Jewish Coalition, AIPAC, the American Israel Public Affairs Committee, Miriam Adelson, Paul Singer and John Paulson went together. They funded a PAC called MAGA Kentucky_
+
+### Related
+
+- [Paul Singer](/entities/person-paul-singer)
+- [MAGA Kentucky](/entities/org-maga-kentucky)

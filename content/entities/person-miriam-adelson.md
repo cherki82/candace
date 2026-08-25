@@ -1,6 +1,6 @@
 ---
 title: "Miriam Adelson"
-description: "Miriam Adelson (People) - 17 mentions"
+description: "Miriam Adelson (People) - 20 mentions"
 id: "person-miriam-adelson"
 type: "PERSON"
 categories:
@@ -19,12 +19,12 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-miriam-adelson-t-01-07-05">2025-10-28 · 01:06:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-miriam-adelson-t-00-29-38">2026-04-10 · 00:29:38</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-person-miriam-adelson-t-00-25-30">2026-05-07 · 00:25:30</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -40,6 +40,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-person-miriam-adelson-t-00-17-52" style="--pulse-height:67%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-miriam-adelson-t-00-00-00" style="--pulse-height:100%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 3 mentions" title="2026-03-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-miriam-adelson-t-00-17-02" style="--pulse-height:67%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-person-miriam-adelson-t-00-23-41" style="--pulse-height:100%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 3 mentions" title="2026-05-07 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +54,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-person-miriam-adelson-t-00-17-52) | 2 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-miriam-adelson-t-00-00-00) | 3 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-miriam-adelson-t-00-17-02) | 2 |
+| 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-miriam-adelson-t-00-23-41) | 3 |
 
 </details>
 </section>
@@ -60,7 +62,21 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (3 mentions)</summary>
+
+**[00:23:53](/episodes/ep-FFQ9675oqRI.md#ent-person-miriam-adelson-t-00-23-41)**
+> "...ael Public Affairs Committee, Miriam Adelson, Paul Singer and John Paulson went together. They..."
+
+**[00:24:14](/episodes/ep-FFQ9675oqRI.md#ent-person-miriam-adelson-t-00-24-14)**
+> "They have been Miriam Adelson is the gambling magnet. Net"
+
+**[00:25:30](/episodes/ep-FFQ9675oqRI.md#ent-person-miriam-adelson-t-00-25-30)**
+> "Well, in Miriam (Miriam Adelson)'s defense, she outright purchased the White Hous..."
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (2 mentions)</summary>
@@ -172,7 +188,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 </details>
 
 <details>
-<summary>Funded (1)</summary>
+<summary>Funded (2)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
@@ -182,6 +198,13 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:21:12](/episodes/ep-CEF7gQRWYCE.md#t-00-20-42): “miriam adel said ... she's doing her thing and just giving trump 200 million dollars”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:37:50](/episodes/ep-i8m_6D4QGmk.md#t-00-37-50): “So Trump is saying that the person that he took $100 million, $200 million from, I think in the end, loves Israel more than she loves America.”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:29:38](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38): “But before it was announced that Miriam Adelson gave Trump $100 million, this was, I think it was announced in July or just before July of 2024.”
+
+</details>
+
+- **[MAGA Kentucky](/entities/org-maga-kentucky.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 @ 00:23:53](/episodes/ep-FFQ9675oqRI.md#t-00-23-41): “the RJC, which is the Republican Jewish Coalition, AIPAC, the American Israel Public Affairs Committee, Miriam Adelson, Paul Singer and John Paulson went together. They funded a PAC called MAGA Kentucky”
 
 </details>
 
@@ -200,7 +223,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** funded by this
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
@@ -210,6 +233,13 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:21:12](/episodes/ep-CEF7gQRWYCE.md#t-00-20-42): “miriam adel said ... she's doing her thing and just giving trump 200 million dollars”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:37:50](/episodes/ep-i8m_6D4QGmk.md#t-00-37-50): “So Trump is saying that the person that he took $100 million, $200 million from, I think in the end, loves Israel more than she loves America.”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:29:38](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38): “But before it was announced that Miriam Adelson gave Trump $100 million, this was, I think it was announced in July or just before July of 2024.”
+
+</details>
+
+- **[MAGA Kentucky](/entities/org-maga-kentucky.md)** funded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 @ 00:23:53](/episodes/ep-FFQ9675oqRI.md#t-00-23-41): “the RJC, which is the Republican Jewish Coalition, AIPAC, the American Israel Public Affairs Committee, Miriam Adelson, Paul Singer and John Paulson went together. They funded a PAC called MAGA Kentucky”
 
 </details>
 
@@ -246,7 +276,21 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Miriam Adelson (8)</strong></summary>
+<summary><strong class="section-title">Statements about Miriam Adelson (11)</strong></summary>
+
+<details>
+<summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (3)</summary>
+
+- [00:23:41](/episodes/ep-FFQ9675oqRI.md#t-00-23-41) (Accusation) **Thomas Massie** (via quoted speech): ["Thomas Massie said at least 95 percent of the money spent against him ..."](/statements/statement-e978e187b1a9.md)
+  - Also about: [Thomas Massie](/entities/person-thomas-massie.md), [Israel lobby](/entities/concept-israel-lobby.md), [Republican Jewish Coalition](/entities/org-republican-jewish-coalition.md)
+
+- [00:24:27](/episodes/ep-FFQ9675oqRI.md#t-00-24-27) (Claim) **Thomas Massie** (via quoted speech): ["Thomas Massie said Miriam Adelson had given Donald Trump more than 200..."](/statements/statement-7e49e864e0e7.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Israel](/entities/gpe-israel.md)
+
+- [00:24:36](/episodes/ep-FFQ9675oqRI.md#t-00-24-27) (Accusation) **Thomas Massie** (via quoted speech): ["Thomas Massie accused Miriam Adelson and allied groups of trying to bu..."](/statements/statement-32f8919e4c1e.md)
+  - Also about: [Kentucky](/entities/gpe-kentucky.md), [Israel lobby](/entities/concept-israel-lobby.md)
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (2)</summary>

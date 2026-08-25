@@ -1,17 +1,26 @@
 ---
 title: "Courtney Love"
-description: "Courtney Love (People) - 9 mentions"
+description: "Courtney Love (People) - 10 mentions"
 id: "person-courtney-love"
 type: "PERSON"
+categories:
+  - "music"
+  - "film"
 ---
 
 _Type: People_
 
+**Categories:** music, film
+
+**Entity verification:** verified
+> Apple Music artist page confirms the canonical professional name and music career.
+Source: [Courtney Love - Apple Music](https://music.apple.com/us/artist/courtney-love/3292794)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-courtney-love-t-00-12-06">2025-11-15 · 00:12:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-courtney-love-t-00-32-07">2025-11-15 · 00:32:07</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-courtney-love-t-00-44-12">2026-05-05 · 00:44:24</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>8</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -23,12 +32,14 @@ _Type: People_
 <p>Highest activity: <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-courtney-love-t-00-12-06">From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-courtney-love-t-00-12-06" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 9 mentions" title="2025-11-15 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-courtney-love-t-00-44-12" style="--pulse-height:11%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-courtney-love-t-00-12-06) | 9 |
+| 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-courtney-love-t-00-44-12) | 1 |
 
 </details>
 </section>
@@ -36,7 +47,15 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1 mentions)</summary>
+
+**[00:44:24](/episodes/ep-eMtjzXkQrsU.md#ent-person-courtney-love-t-00-44-12)**
+> "At its core, I very much subscribe to what Courtney Love told me, that there is like a gang operating in Hollywood and they just take publishing rights."
+
+</details>
 
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (9 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Michael Jackson"
-description: "Michael Jackson (People) - 9 mentions"
+description: "Michael Jackson (People) - 10 mentions"
 id: "person-michael-jackson"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Michael Jackson | Biography, Albums, Songs, Thriller, Beat It, & Facts]
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-michael-jackson-t-00-23-52">2025-11-15 · 00:23:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-person-michael-jackson-t-00-50-02">2026-01-16 · 00:50:17</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-michael-jackson-t-00-42-59">2026-05-13 · 00:42:59</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -34,6 +34,7 @@ Source: [Michael Jackson | Biography, Albums, Songs, Thriller, Beat It, & Facts]
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-michael-jackson-t-00-23-52" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 4 mentions" title="2025-11-15 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-michael-jackson-t-00-15-06" style="--pulse-height:75%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 3 mentions" title="2026-01-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-michael-jackson-t-00-50-02" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-michael-jackson-t-00-42-59" style="--pulse-height:25%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +43,7 @@ Source: [Michael Jackson | Biography, Albums, Songs, Thriller, Beat It, & Facts]
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-michael-jackson-t-00-23-52) | 4 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-michael-jackson-t-00-15-06) | 3 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-michael-jackson-t-00-50-02) | 2 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-michael-jackson-t-00-42-59) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [Michael Jackson | Biography, Albums, Songs, Thriller, Beat It, & Facts]
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1 mentions)</summary>
+
+**[00:42:59](/episodes/ep-7FS1tUeSfdE.md#ent-person-michael-jackson-t-00-42-59)**
+> "Michael (Michael Jackson) biopic"
+
+</details>
 
 <details>
 <summary>Myron Gaines x Candace Owens (2 mentions)</summary>
@@ -103,7 +113,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Michael Jackson (1)</strong></summary>
+<summary><strong class="section-title">Statements about Michael Jackson (2)</strong></summary>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1)</summary>
+
+- [00:42:59](/episodes/ep-7FS1tUeSfdE.md#t-00-42-59) (Accusation) **Candace Owens**: ["Michael Jackson's estate and the Beatles catalog were stolen from him ..."](/statements/statement-646b7700427b.md)
+  - Also about: [The Beatles](/entities/org-the-beatles.md)
+
+</details>
 
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1)</summary>

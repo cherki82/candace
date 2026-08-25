@@ -1,24 +1,32 @@
 ---
 title: "Sorensen Center"
-description: "Sorensen Center (Organizations) - 6 mentions"
+description: "Sorensen Center (Organizations) - 8 mentions"
 id: "org-sorensen-center"
 type: "ORG"
 aliases:
   - "Sorensen Building"
   - "Sorenson Center"
+categories:
+  - "Utah Valley University campus facility"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Sorensen Building, Sorenson Center
 
+**Categories:** Utah Valley University campus facility
+
+**Entity verification:** verified
+> UVU's official site gives the canonical facility name Sorensen Student Center; the shorter transcript form refers to this campus building.
+Source: [Sorensen Student Center | Utah Valley University](https://www.uvu.edu/studentcenter/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-sorensen-center-t-00-15-56">2025-09-30 · 00:16:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-org-sorensen-center-t-00-33-57">2025-11-20 · 00:34:21</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-69A8TzAGHlU.md#ent-org-sorensen-center-t-00-26-35">2026-04-30 · 00:27:02</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -30,6 +38,7 @@ _Type: Organizations_
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-sorensen-center-t-00-15-56" style="--pulse-height:100%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 2 mentions" title="2025-09-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-581dILVcEE4.md#ent-org-sorensen-center-t-00-25-08" style="--pulse-height:100%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-sImMM04XdWY.md#ent-org-sorensen-center-t-00-33-57" style="--pulse-height:100%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 2 mentions" title="2025-11-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-org-sorensen-center-t-00-26-35" style="--pulse-height:100%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 2 mentions" title="2026-04-30 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -38,6 +47,7 @@ _Type: Organizations_
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-org-sorensen-center-t-00-15-56) | 2 |
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-sorensen-center-t-00-25-08) | 2 |
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-sorensen-center-t-00-33-57) | 2 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-org-sorensen-center-t-00-26-35) | 2 |
 
 </details>
 </section>
@@ -45,7 +55,18 @@ _Type: Organizations_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2 mentions)</summary>
+
+**[00:26:51](/episodes/ep-69A8TzAGHlU.md#ent-org-sorensen-center-t-00-26-35)**
+> "The Sorensen Center has a couple of staircases that go up to walkways on the roofs."
+
+**[00:27:02](/episodes/ep-69A8TzAGHlU.md#ent-org-sorensen-center-t-00-26-35)**
+> "The Sorensen Center was the building in front of the Losee Center. An..."
+
+</details>
 
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
@@ -96,6 +117,19 @@ _Type: Organizations_
 <summary>Referenced By (1)</summary>
 
 - **[Utah Valley University](/entities/org-utah-valley-university.md)** includes this
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Sorensen Center (1)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1)</summary>
+
+- [00:27:28](/episodes/ep-69A8TzAGHlU.md#t-00-27-12) (Claim) **Brian Harpole**: ["A command-level UVU police official told security that the roof area w..."](/statements/statement-0b5211c42938.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
 </details>
 

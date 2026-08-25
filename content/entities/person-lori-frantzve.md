@@ -1,6 +1,6 @@
 ---
 title: "Lori Frantzve"
-description: "Lori Frantzve (People) - 222 mentions"
+description: "Lori Frantzve (People) - 226 mentions"
 id: "person-lori-frantzve"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-27-36">2026-01-06 · 00:27:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-lori-frantzve-t-00-21-04">2026-04-21 · 00:22:04</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>222</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-lori-frantzve-t-00-50-18">2026-05-13 · 00:50:40</a></strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>226</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>98</strong></div>
+<div><span>Statements about</span><strong>100</strong></div>
 <div><span>Relationships</span><strong>47</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -57,6 +57,9 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-lori-frantzve-t-00-52-28" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-41-37" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 5 mentions" title="2026-04-02 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-lori-frantzve-t-00-15-52" style="--pulse-height:17%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 10 mentions" title="2026-04-21 · 10 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-person-lori-frantzve-t-02-11-54" style="--pulse-height:8%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-lori-frantzve-t-00-50-18" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-lori-frantzve-t-00-17-01" style="--pulse-height:8%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -84,6 +87,9 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-lori-frantzve-t-00-52-28) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-41-37) | 5 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-lori-frantzve-t-00-15-52) | 10 |
+| 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-person-lori-frantzve-t-02-11-54) | 1 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-lori-frantzve-t-00-50-18) | 2 |
+| 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-lori-frantzve-t-00-17-01) | 1 |
 
 </details>
 </section>
@@ -91,7 +97,34 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (222)</strong></summary>
+<summary><strong class="section-title">Raw mentions (226)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (2 mentions)</summary>
+
+**[00:50:31](/episodes/ep-4DvYXBn_5JI.md#ent-person-lori-frantzve-t-00-50-18)**
+> "Lori Frantzve"
+
+**[00:50:40](/episodes/ep-4DvYXBn_5JI.md#ent-person-lori-frantzve-t-00-50-18)**
+> "...you found out something about Lori Frantzve who um yeah I have a lot of question marks about ..."
+
+</details>
+
+<details>
+<summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1 mentions)</summary>
+
+**[00:17:01](/episodes/ep-7FS1tUeSfdE.md#ent-person-lori-frantzve-t-00-17-01)**
+> "pays Lori Frantzve"
+
+</details>
+
+<details>
+<summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (1 mentions)</summary>
+
+**[02:12:07](/episodes/ep--9MOUvgGyi4.md#ent-person-lori-frantzve-t-02-11-54)**
+> "And Lori (Lori Frantzve) was having this meeting, it ended up not panning out, but Erika (Erika Kirk) showed up and they were interested in this company or this patent rather wasn't actually made."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (10 mentions)</summary>
@@ -922,11 +955,12 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <summary>Board Member Of (1)</summary>
 
 - **[Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:00:30](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01): “Lori Frantzve, despite being ill, has recently been put on the board of Superfeed Technologies alongside Turning Point Action's COO.”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:26:08](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53): “Superfeed incorporated where Erika (Erika Kirk)'s mother is serving as a board member with Tyler Bowyer?”
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:28:46](/episodes/ep-_vg7ucP1E0g.md#t-00-28-35): “We have that in November. Her mother establishes G-Tech Industries LLC. I know you're going to say, what is it do? ... You know, it's Lori (Lori Frantzve). So it's like this. She's doing this whole EMP thing and she's getting money and she's. ... Super Feed Technologies is the company that both Erika's (Erika Kirk's) mother and Tyler Bowyer are on the board of.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:49:57](/episodes/ep-4DvYXBn_5JI.md#t-00-49-36): “I'm blanking on the name of the company that she is on the board of with Tyler Bowyer. ... They act super feed. The super feed actually powers the Turning Point USA website. So the app, pardon me.”
 
 </details>
 
@@ -955,13 +989,14 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:23:28](/episodes/ep-cZxHqYsWRYg.md#t-00-23-14): “I think these people are sick in the head. There is something very wrong with Lori (Lori Frantzve). There is something very wrong with Erika (Erika Kirk).”
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:35:01](/episodes/ep-jTj9Ip46r4w.md#t-00-34-40): “But I'm telling you this because I think Lori Frantzve is rotten to her core and I therefore found it unbelievably interesting that someone located an old interview and asked me anything segment from Charlie Kirk's show”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:19:14](/episodes/ep-2tFYJf1klgY.md#t-00-18-48): “With everything I know about Lori (Lori Frantzve), I don't love it.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:42:14](/episodes/ep-DdPjoy5W-wY.md#t-00-42-04): “Lori (Lori Frantzve) gives me scam artist”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:22:04](/episodes/ep-xi8SYJTUXPM.md#t-00-21-46): “I looked into Lori, I feel differently about her. Okay, so she learned everything from her mother. That should terrify you.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:50:40](/episodes/ep-4DvYXBn_5JI.md#t-00-50-18): “wife if you found out something about Lori Frantzve who um yeah I have a lot of question marks about her in general but I've expressed that throughout our Erika Kirk series Bride of Charlie”
 
 </details>
 
@@ -1101,7 +1136,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <summary>Parent Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-26): “Senator David Farnsworth. introduced Erika (Erika Kirk)'s mother to the house floor with concerns over EMPs”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:11:59](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-22): “Lori Frantzve. Erika (Erika Kirk)'s mom, Lori Frantzve.”
@@ -1116,6 +1151,8 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:08:39](/episodes/ep-_vg7ucP1E0g.md#t-00-08-39): “We have that in November. Her mother establishes G-Tech Industries LLC. I know you're going to say, what is it do? ... You know, it's Lori (Lori Frantzve). So it's like this. She's doing this whole EMP thing and she's getting money and she's.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:49](/episodes/ep-q1NRQQAYS_Q.md#t-00-35-33): “It continues. Ms. Kirk was sitting in her mother's hospital room at 1123 a.m. local time in Phoenix when she saw the number of her husband's longtime assistant, Michael McCoy, appear on her phone.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:19:50](/episodes/ep-xi8SYJTUXPM.md#t-00-19-36): “To me, her and her mom are like Bonnie and Clyde.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:49:46](/episodes/ep-4DvYXBn_5JI.md#t-00-49-36): “Turning Point Action actually built a backdoor. It has connections to Erika's mother. ... And if it was turning point action, then there would be a direct tie to Lori Frantzve.”
+- [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:17:18](/episodes/ep-7FS1tUeSfdE.md#t-00-17-01): “Erika Kirk's mom.”
 
 </details>
 
@@ -1181,7 +1218,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** child of this
-<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-26): “Senator David Farnsworth. introduced Erika (Erika Kirk)'s mother to the house floor with concerns over EMPs”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:11:59](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-22): “Lori Frantzve. Erika (Erika Kirk)'s mom, Lori Frantzve.”
@@ -1196,6 +1233,8 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:08:39](/episodes/ep-_vg7ucP1E0g.md#t-00-08-39): “We have that in November. Her mother establishes G-Tech Industries LLC. I know you're going to say, what is it do? ... You know, it's Lori (Lori Frantzve). So it's like this. She's doing this whole EMP thing and she's getting money and she's.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:49](/episodes/ep-q1NRQQAYS_Q.md#t-00-35-33): “It continues. Ms. Kirk was sitting in her mother's hospital room at 1123 a.m. local time in Phoenix when she saw the number of her husband's longtime assistant, Michael McCoy, appear on her phone.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:19:50](/episodes/ep-xi8SYJTUXPM.md#t-00-19-36): “To me, her and her mom are like Bonnie and Clyde.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:49:46](/episodes/ep-4DvYXBn_5JI.md#t-00-49-36): “Turning Point Action actually built a backdoor. It has connections to Erika's mother. ... And if it was turning point action, then there would be a direct tie to Lori Frantzve.”
+- [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:17:18](/episodes/ep-7FS1tUeSfdE.md#t-00-17-01): “Erika Kirk's mom.”
 
 </details>
 
@@ -1214,13 +1253,14 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:23:28](/episodes/ep-cZxHqYsWRYg.md#t-00-23-14): “I think these people are sick in the head. There is something very wrong with Lori (Lori Frantzve). There is something very wrong with Erika (Erika Kirk).”
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:35:01](/episodes/ep-jTj9Ip46r4w.md#t-00-34-40): “But I'm telling you this because I think Lori Frantzve is rotten to her core and I therefore found it unbelievably interesting that someone located an old interview and asked me anything segment from Charlie Kirk's show”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:19:14](/episodes/ep-2tFYJf1klgY.md#t-00-18-48): “With everything I know about Lori (Lori Frantzve), I don't love it.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:42:14](/episodes/ep-DdPjoy5W-wY.md#t-00-42-04): “Lori (Lori Frantzve) gives me scam artist”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:22:04](/episodes/ep-xi8SYJTUXPM.md#t-00-21-46): “I looked into Lori, I feel differently about her. Okay, so she learned everything from her mother. That should terrify you.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:50:40](/episodes/ep-4DvYXBn_5JI.md#t-00-50-18): “wife if you found out something about Lori Frantzve who um yeah I have a lot of question marks about her in general but I've expressed that throughout our Erika Kirk series Bride of Charlie”
 
 </details>
 
@@ -1292,11 +1332,12 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 - **[Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md)** has board member this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:00:30](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01): “Lori Frantzve, despite being ill, has recently been put on the board of Superfeed Technologies alongside Turning Point Action's COO.”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:26:08](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53): “Superfeed incorporated where Erika (Erika Kirk)'s mother is serving as a board member with Tyler Bowyer?”
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:28:46](/episodes/ep-_vg7ucP1E0g.md#t-00-28-35): “We have that in November. Her mother establishes G-Tech Industries LLC. I know you're going to say, what is it do? ... You know, it's Lori (Lori Frantzve). So it's like this. She's doing this whole EMP thing and she's getting money and she's. ... Super Feed Technologies is the company that both Erika's (Erika Kirk's) mother and Tyler Bowyer are on the board of.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:49:57](/episodes/ep-4DvYXBn_5JI.md#t-00-49-36): “I'm blanking on the name of the company that she is on the board of with Tyler Bowyer. ... They act super feed. The super feed actually powers the Turning Point USA website. So the app, pardon me.”
 
 </details>
 
@@ -1346,7 +1387,18 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lori Frantzve (98)</strong></summary>
+<summary><strong class="section-title">Statements about Lori Frantzve (100)</strong></summary>
+
+<details>
+<summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (2)</summary>
+
+- [00:49:46](/episodes/ep-4DvYXBn_5JI.md#t-00-49-36) (Accusation) **Candace Owens** (via paraphrase): ["Candace Owens said the rumor was that Turning Point Action was missing..."](/statements/statement-f7a4f5e5b189.md)
+  - Also about: [Turning Point Action](/entities/org-turning-point-action.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:49:57](/episodes/ep-4DvYXBn_5JI.md#t-00-49-36) (Claim) **Candace Owens**: ["Candace Owens said Superfeed Technologies powers the Turning Point USA..."](/statements/statement-4e1dc21816eb.md)
+  - Also about: [Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (5)</summary>

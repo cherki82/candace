@@ -1,6 +1,6 @@
 ---
 title: "Alyssa Cordova"
-description: "Alyssa Cordova (People) - 7 mentions"
+description: "Alyssa Cordova (People) - 8 mentions"
 id: "person-alyssa-cordova"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Alyssa Cordova Named Executive Producer of The Jeremy Boreing Show | Ba
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-alyssa-cordova-t-00-44-37">2025-11-06 · 00:44:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-alyssa-cordova-t-00-41-24">2026-02-03 · 00:41:24</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-alyssa-cordova-t-00-29-15">2026-05-06 · 00:29:15</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -39,6 +39,7 @@ Source: [Alyssa Cordova Named Executive Producer of The Jeremy Boreing Show | Ba
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-person-alyssa-cordova-t-00-28-09" style="--pulse-height:25%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-alyssa-cordova-t-00-32-33" style="--pulse-height:25%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-alyssa-cordova-t-00-41-24" style="--pulse-height:25%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-alyssa-cordova-t-00-29-15" style="--pulse-height:25%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Alyssa Cordova Named Executive Producer of The Jeremy Boreing Show | Ba
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-person-alyssa-cordova-t-00-28-09) | 1 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-alyssa-cordova-t-00-32-33) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-alyssa-cordova-t-00-41-24) | 1 |
+| 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-alyssa-cordova-t-00-29-15) | 1 |
 
 </details>
 </section>
@@ -55,7 +57,15 @@ Source: [Alyssa Cordova Named Executive Producer of The Jeremy Boreing Show | Ba
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>
+
+**[00:29:15](/episodes/ep-k1b1NDCrNFs.md#ent-person-alyssa-cordova-t-00-29-15)**
+> "... I was the Daily Wire he used Alyssa Cordova who would send things to Ian Myles Chong who's ge..."
+
+</details>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (1 mentions)</summary>
@@ -103,7 +113,29 @@ Source: [Alyssa Cordova Named Executive Producer of The Jeremy Boreing Show | Ba
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Worked With (1)</summary>
+
+- **[Ian Miles Cheong](/entities/person-ian-miles-cheong.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:29:15](/episodes/ep-k1b1NDCrNFs.md#t-00-29-15): “He has an obsessive personality that... did not just follow me obviously it also followed Brett Cooper and because I know his pattern because I know which people he works with so he never gets his hands dirty which people he works with to get messages out like when I was the Daily Wire he used Alyssa Cordova who would send things to Ian Myles Chong who's generally speaking very gross to go after his enemies because I know how he works I just know when I”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:29:15](/episodes/ep-k1b1NDCrNFs.md#t-00-29-15): “He has an obsessive personality that... did not just follow me obviously it also followed Brett Cooper and because I know his pattern because I know which people he works with so he never gets his hands dirty which people he works with to get messages out like when I was the Daily Wire he used Alyssa Cordova who would send things to Ian Myles Chong who's generally speaking very gross to go after his enemies because I know how he works I just know when I”
+
+</details>
+
+</details>
 
 </details>
 
