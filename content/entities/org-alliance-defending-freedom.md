@@ -1,6 +1,6 @@
 ---
 title: "Alliance Defending Freedom"
-description: "Alliance Defending Freedom (Organizations) - 5 mentions"
+description: "Alliance Defending Freedom (Organizations) - 6 mentions"
 id: "org-alliance-defending-freedom"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ Source: [About Us | Alliance Defending Freedom](https://adflegal.org/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-alliance-defending-freedom-t-00-35-21">2026-03-11 · 00:35:35</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-org-alliance-defending-freedom-t-00-25-41">2026-04-13 · 00:25:41</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-org-alliance-defending-freedom-t-00-53-38">2026-06-09 · 00:54:08</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -37,6 +37,7 @@ Source: [About Us | Alliance Defending Freedom](https://adflegal.org/about/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-alliance-defending-freedom-t-00-35-21" style="--pulse-height:25%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-alliance-defending-freedom-t-00-20-58" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 4 mentions" title="2026-04-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-org-alliance-defending-freedom-t-00-53-38" style="--pulse-height:25%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [About Us | Alliance Defending Freedom](https://adflegal.org/about/)
 |---|---|---:|
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-alliance-defending-freedom-t-00-35-21) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-alliance-defending-freedom-t-00-20-58) | 4 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-alliance-defending-freedom-t-00-53-38) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [About Us | Alliance Defending Freedom](https://adflegal.org/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>
+
+**[00:54:08](/episodes/ep-YeEtS7nix3o.md#ent-org-alliance-defending-freedom-t-00-53-38)**
+> "...ian legal organization called Alliance Defending Freedom, and we call it ADF. That's the acronym I'll use ..."
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (4 mentions)</summary>
@@ -84,6 +94,18 @@ Source: [About Us | Alliance Defending Freedom](https://adflegal.org/about/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Employs (1)</summary>
+
+- **[Vance Voetberg](/entities/person-vance-voetberg.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:54:08](/episodes/ep-YeEtS7nix3o.md#t-00-53-38): “I'm here working for a Christian legal organization called Alliance Defending Freedom”
+
+</details>
+
+</details>
+
+<details>
 <summary>Has Board Member (1)</summary>
 
 - **[Caleb Robinson](/entities/person-caleb-robinson.md)**
@@ -96,12 +118,19 @@ Source: [About Us | Alliance Defending Freedom](https://adflegal.org/about/)
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Caleb Robinson](/entities/person-caleb-robinson.md)** board member of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:23:07](/episodes/ep-eLgD5yUVbko.md#t-00-22-32): “And then as proof that Daily Wire was driving this bus, they informed me that the public is not aware, but that they quietly took a board seat. This is, again, massive organization. There's only, I think, eight board seats in total. ... And they showed me that in an internal presentation. I'm going to show you this, I guess, a still of that. If we have that, you guys, Caleb Robinson is the CEO of Daily Wire. He is now on the board of directors. So it's like, you know, almost a silent seat for Ben.”
+
+</details>
+
+- **[Vance Voetberg](/entities/person-vance-voetberg.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:54:08](/episodes/ep-YeEtS7nix3o.md#t-00-53-38): “I'm here working for a Christian legal organization called Alliance Defending Freedom”
 
 </details>
 

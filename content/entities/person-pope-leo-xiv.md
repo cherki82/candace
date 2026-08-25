@@ -1,6 +1,6 @@
 ---
 title: "Pope Leo XIV"
-description: "Pope Leo XIV (People) - 6 mentions"
+description: "Pope Leo XIV (People) - 7 mentions"
 id: "person-pope-leo-xiv"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Biography of the Holy Father Leo XIV - Vatican](https://www.vatican.va/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-pope-leo-xiv-t-00-00-26">2026-04-13 · 00:00:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-pope-leo-xiv-t-01-14-48">2026-04-29 · 01:15:07</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-pope-leo-xiv-t-01-43-58">2026-05-21 · 01:44:22</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
@@ -39,6 +39,7 @@ Source: [Biography of the Holy Father Leo XIV - Vatican](https://www.vatican.va/
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-pope-leo-xiv-t-00-00-26" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 4 mentions" title="2026-04-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-pope-leo-xiv-t-00-55-09" style="--pulse-height:25%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-pope-leo-xiv-t-01-14-48" style="--pulse-height:25%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-pope-leo-xiv-t-01-43-58" style="--pulse-height:25%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [Biography of the Holy Father Leo XIV - Vatican](https://www.vatican.va/
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-pope-leo-xiv-t-00-00-26) | 4 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-pope-leo-xiv-t-00-55-09) | 1 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-pope-leo-xiv-t-01-14-48) | 1 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-pope-leo-xiv-t-01-43-58) | 1 |
 
 </details>
 </section>
@@ -54,7 +56,15 @@ Source: [Biography of the Holy Father Leo XIV - Vatican](https://www.vatican.va/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
+
+**[01:44:22](/episodes/ep-Ux1kzgQxkws.md#ent-person-pope-leo-xiv-t-01-43-58)**
+> "...proud of Pope Francis and now Pope Leo in terms of just the notion of social justice."
+
+</details>
 
 <details>
 <summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>

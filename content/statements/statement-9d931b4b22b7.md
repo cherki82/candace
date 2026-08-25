@@ -4,9 +4,10 @@ description: "\"The Erika Kirk video was not recorded by Sara Sidner; it was dis
 statement_id: "statement-9d931b4b22b7"
 speaker: "Anonymous Source #1 (Ep 7FS1tUeSfdE)"
 type: "factual_claim"
+veracity: "unverifiable"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ? Cannot be verified
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The transcript attributes this to an anonymous source. Current coverage confirms Sidner posted the video and records Owens allegation that it was sent to her, but no identified recorder, original file provenance, or independent witness establishes who recorded or distributed it.
+
+**Confidence:** Low
+
+**Sources:**
+
+- [AOL: Candace Owens Claims Video of Erika Kirk Was Staged to Go Viral](https://www.aol.com/articles/candace-owens-claims-video-erika-205434000.html)
+
+*Verified: 2026-08-25T08:19:42.765473*
 
 ---
 

@@ -11,11 +11,15 @@ object: "person-charlie-kirk"
 
 ## [Erika Kirk](/entities/person-erika-kirk) widow of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (41 mentions)
+### Evidence (47 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
 - [00:08:39](/episodes/ep-1IY2oD-_xVA#t-00-08-39): _Why did the military choose to have us all watch Charlie (Charlie Kirk)'s execution? ... Erika (Erika Kirk), that was where it was supposed to go. You watched it. She's the widow._
+
+**[Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg)**
+
+- [00:13:29](/episodes/ep-1QZ4X6q1DPg#t-00-13-29): _Charlie Kirk was in Aspen with some donors, and he said, if anything ever happens to me, if I die in three weeks, make Erika (Erika Kirk), my wife, the CEO and chairman of the company, right?_
 
 **[Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY)**
 
@@ -61,6 +65,10 @@ object: "person-charlie-kirk"
 
 - [00:11:24](/episodes/ep-DdPjoy5W-wY#t-00-11-24): _Charlie (Charlie Kirk). had a life insurance policy both at home, at work, which she would have benefited tremendously from. ... Erika (Erika Kirk) was set to receive $10 million from his work policy. ... if anything happens to me, I hope my wife is able to assume my role._
 
+**[LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8)**
+
+- [00:01:50](/episodes/ep-Dkxa9OUA9K8#t-00-01-50): _The first that we could find to publicly announce that Charlie Kirk had passed away on September 10th on social media, I believe it was on Instagram, it was an hour and a half before the President of the United States made the announcement, even though he has since deleted that Instagram post. We then know that when Erika (Erika Kirk) came home after bringing back Charlie (Charlie Kirk)'s body in a casket aboard Air Force Two. Victor Marx and his wife Eileen (Eileen Marx) were among the small circle of people who were welcomed into Erika (Erika Kirk)'s home to comfort her and to take photos of the grieving widow._
+
 **[STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI)**
 
 - [00:00:01](/episodes/ep-FFQ9675oqRI#t-00-00-01): _we've requested to see the footage of Charlie Kirk naming his wife Erika Kirk as the chairman and CEO in the event that anything happens to him._
@@ -72,6 +80,10 @@ object: "person-charlie-kirk"
 **[Coming soon...](/episodes/ep-LKR94FQ5p3o)**
 
 - [00:00:00](/episodes/ep-LKR94FQ5p3o#t-00-00-00): _President Trump (Donald J. Trump) says that Kirk (Charlie Kirk) has died after he was shot from a nearby building. ... The cries of this widow will echo around the world like a battle cry. ... I didn't get to give him a kiss goodbye. ... My husband's dead._
+
+**[BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk)**
+
+- [00:31:11](/episodes/ep-MhakwJxK-Zk#t-00-31-11): _given the fact that Charlie (Charlie Kirk) was amidst having donors cancel on him over Tucker (Tucker Carlson), and was under tremendous pressure and was holding the line against Israel. I just found it weird that his wife would then ... give this remarkably pro–call to arms for Israel speech. ... Charlie (Charlie Kirk)'s assassinated_
 
 **[A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g)**
 
@@ -88,6 +100,10 @@ object: "person-charlie-kirk"
 **[Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw)**
 
 - [00:17:10](/episodes/ep-QdM9jLwjwLw#t-00-17-10): _in the context of Charlie (Charlie Kirk) and how he must be feeling in heaven. ... I'm going to let this play out for five minutes straight and there is no context needed other than this is five and a half days after her husband was publicly assassinated._
+
+**[Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU)**
+
+- [01:04:51](/episodes/ep-SKNJPul29zU#t-01-04-51): _if you are the wife of Charlie Kirk_
 
 **[REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30)**
 
@@ -109,6 +125,10 @@ object: "person-charlie-kirk"
 
 - [00:21:14](/episodes/ep-X92MllIHDzw#t-00-21-14): _leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus._
 
+**[I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o)**
+
+- [00:46:01](/episodes/ep-YeEtS7nix3o#t-00-46-01): _But since Charlie has passed, Erika can't draw the same crowd._
+
 **[Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM)**
 
 - [00:09:04](/episodes/ep-ZAsV0fHGBiM#t-00-09-04): _Erica (Erika Kirk) saw a brand with Charlie (Charlie Kirk). ... Her husband died a few days ago..._
@@ -120,6 +140,10 @@ object: "person-charlie-kirk"
 **[Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g)**
 
 - [00:32:42](/episodes/ep-_vg7ucP1E0g#t-00-32-42): _There may have been this billion dollar motive to have Charlie Kirk killed that Erika (Erika Kirk) lied about the fact her husband texted multiple people the night before he said he feared he was going to be killed. His overriding point is that._
+
+**[TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo)**
+
+- [00:21:28](/episodes/ep-cPidFQDJLbo#t-00-21-28): _He could have listed desires, his corporate will, his personal will, if he wanted Erika (Erika Kirk) to become a CEO and chairman since everybody is telling the Daily Mail. ... The real thing is that that every time everywhere in every place people had side conversations with him and he would just mention it like just like it's just uh charlie you want some coffee no what i actually want is for my wife to take over my company in the event that i get shot that was it everyone knows it it's just a no known let me tell you guys something again as sufferers of chronic common sense_
 
 **[Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko)**
 

@@ -1,6 +1,6 @@
 ---
 title: "The Daily Wire"
-description: "The Daily Wire (Organizations) - 228 mentions"
+description: "The Daily Wire (Organizations) - 236 mentions"
 id: "org-the-daily-wire"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-the-daily-wire-t-00-40-44">2025-09-18 · 00:41:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-the-daily-wire-t-00-41-23">2026-05-13 · 00:41:50</a></strong></div>
-<div><span>Episodes</span><strong>46</strong></div>
-<div><span>Mentions</span><strong>228</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-org-the-daily-wire-t-00-24-26">2026-06-09 · 00:24:50</a></strong></div>
+<div><span>Episodes</span><strong>50</strong></div>
+<div><span>Mentions</span><strong>236</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>72</strong></div>
 <div><span>Relationships</span><strong>54</strong></div>
@@ -83,6 +83,10 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-org-the-daily-wire-t-00-27-40" style="--pulse-height:8%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-the-daily-wire-t-00-37-13" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-the-daily-wire-t-00-41-23" style="--pulse-height:8%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-the-daily-wire-t-00-34-13" style="--pulse-height:8%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-the-daily-wire-t-00-43-38" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-org-the-daily-wire-t-00-00-38" style="--pulse-height:11%" aria-label="Candace Owens x Ana Kasparian: 4 mentions" title="2026-05-28 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-org-the-daily-wire-t-00-03-16" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -134,6 +138,10 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-org-the-daily-wire-t-00-27-40) | 1 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-org-the-daily-wire-t-00-37-13) | 1 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-org-the-daily-wire-t-00-41-23) | 1 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-the-daily-wire-t-00-34-13) | 1 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-org-the-daily-wire-t-00-43-38) | 1 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-the-daily-wire-t-00-00-38) | 4 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-the-daily-wire-t-00-03-16) | 2 |
 
 </details>
 </section>
@@ -141,7 +149,51 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (228)</strong></summary>
+<summary><strong class="section-title">Raw mentions (236)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2 mentions)</summary>
+
+**[00:03:16](/episodes/ep-YeEtS7nix3o.md#ent-org-the-daily-wire-t-00-03-16)**
+> "...request when I was working at the Daily Wire, ironically, to pitch it to the CEOs."
+
+**[00:24:50](/episodes/ep-YeEtS7nix3o.md#ent-org-the-daily-wire-t-00-24-26)**
+> "...ut it on my former podcast at The Daily Wire, the family story of actor Armie Hammer."
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (4 mentions)</summary>
+
+**[00:00:49](/episodes/ep-SKNJPul29zU.md#ent-org-the-daily-wire-t-00-00-38)**
+> "Well, first of all, it started with your firing at the Daily Wire and what you were fired for, right?"
+
+**[00:09:22](/episodes/ep-SKNJPul29zU.md#ent-org-the-daily-wire-t-00-08-51)**
+> "... was round of applause from a daily wire."
+
+**[00:10:23](/episodes/ep-SKNJPul29zU.md#ent-org-the-daily-wire-t-00-10-14)**
+> "...m Australia, got fired from a daily wire. They started putting pressure, Ben Shapiro in pa..."
+
+**[00:22:27](/episodes/ep-SKNJPul29zU.md#ent-org-the-daily-wire-t-00-22-27)**
+> "...s so the entire strategy of a daily wire trying to destroy me"
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1 mentions)</summary>
+
+**[00:43:38](/episodes/ep-BxN2-aeMYIs.md#ent-org-the-daily-wire-t-00-43-38)**
+> "Not a Daily Wire move at all"
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1 mentions)</summary>
+
+**[00:34:19](/episodes/ep-Pb7UlpRdW6U.md#ent-org-the-daily-wire-t-00-34-13)**
+> "...ter everything I went through the Daily Wire to have personal conversations and to make it ver..."
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1 mentions)</summary>
@@ -1158,7 +1210,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <summary>Fired (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:09](/episodes/ep-sreYYcID-QY.md#t-00-40-44): “I get fired from The Daily Wire.”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:40:47](/episodes/ep-ja26iltROkM.md#t-00-40-37): “I was happy to be canceled from anything to say what I felt in my heart to be true”
@@ -1171,6 +1223,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:02:29](/episodes/ep-uC_GjKU8rs8.md#t-00-02-05): “My real stalker in life is Ben Shapiro, okay? Since the day that I was fired from the Daily Wire, he has not stopped trying to bankrupt my family.”
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 01:01:46](/episodes/ep-eMtjzXkQrsU.md#t-01-01-46): “because i lived through it after i got fired from daily wire and i found out that they were bots”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 01:04:06](/episodes/ep-k1b1NDCrNFs.md#t-01-04-06): “merch because it keeps us independent and allows us to be in the situation that we are and we are we don't plan on growing we don't want to be a part of a network we might grow our team a little bit we're definitely going to get an upgrade in the studio which we're working on but we're going to miss it down here you know I'm going to kind of miss taking over my husband's space after getting fired from a daily wire I love the startup vibes I love the hunger of it I love knowing that it could fail right I am going”
+- [Candace Owens x Ana Kasparian @ 00:10:23](/episodes/ep-SKNJPul29zU.md#t-00-10-14): “I got banned from Australia, got fired from a daily wire.”
 
 </details>
 
@@ -1192,7 +1245,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <summary>Formerly Employed (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57): “at the time I was at The Daily Wire...And then eventually—obviously—I lost my job”
 - [Myron Gaines x Candace Owens @ 00:27:51](/episodes/ep-2T39-oADLj0.md#t-00-27-50): “I was fired in March of 2024 and I obviously was very surprised about it. I did not know it was coming.”
@@ -1209,6 +1262,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:23:59](/episodes/ep-eLgD5yUVbko.md#t-00-23-45): “wire has in my view and my understanding of what gang stalking is has been doing this since the day they fired me it has not stopped it's been an onslaught of my life every way trying to stop speeches trying to get people to say things about me having articles written uh you know trying to have other people reach out and go after my advertisers it has been non i was fired from daily wire in 2020 we're in 2020”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:02:29](/episodes/ep-uC_GjKU8rs8.md#t-00-02-05): “My real stalker in life is Ben Shapiro, okay? Since the day that I was fired from the Daily Wire, he has not stopped trying to bankrupt my family.”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:32:22](/episodes/ep-k1b1NDCrNFs.md#t-00-32-11): “I was first made aware of the arrest and charges laid against him in an incident after wrecking his truck at three times the legal limit while carrying a loaded firearm, shortly after it happened, back when Candace still worked for me at The Daily Wire.”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:03:16](/episodes/ep-YeEtS7nix3o.md#t-00-02-34): “in a request when I was working at the Daily Wire, ironically, to pitch it to the CEOs.”
 
 </details>
 
@@ -1420,7 +1474,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** fired by this
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:09](/episodes/ep-sreYYcID-QY.md#t-00-40-44): “I get fired from The Daily Wire.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:14:15](/episodes/ep-zSKrxIUMNqw.md#t-00-13-54): “publicly expressed that genocide is always wrong was revealed by Jeremy Boreing in that town hall as a reason why I was fired.”
@@ -1432,11 +1486,12 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:02:29](/episodes/ep-uC_GjKU8rs8.md#t-00-02-05): “My real stalker in life is Ben Shapiro, okay? Since the day that I was fired from the Daily Wire, he has not stopped trying to bankrupt my family.”
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 01:01:46](/episodes/ep-eMtjzXkQrsU.md#t-01-01-46): “because i lived through it after i got fired from daily wire and i found out that they were bots”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 01:04:06](/episodes/ep-k1b1NDCrNFs.md#t-01-04-06): “merch because it keeps us independent and allows us to be in the situation that we are and we are we don't plan on growing we don't want to be a part of a network we might grow our team a little bit we're definitely going to get an upgrade in the studio which we're working on but we're going to miss it down here you know I'm going to kind of miss taking over my husband's space after getting fired from a daily wire I love the startup vibes I love the hunger of it I love knowing that it could fail right I am going”
+- [Candace Owens x Ana Kasparian @ 00:10:23](/episodes/ep-SKNJPul29zU.md#t-00-10-14): “I got banned from Australia, got fired from a daily wire.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57): “at the time I was at The Daily Wire...And then eventually—obviously—I lost my job”
 - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:47:51](/episodes/ep-adJ4LNGp84I.md#t-00-47-25): “I used to read ads for them, ExpressVPN, when I was working for Daily Wire.”
@@ -1459,6 +1514,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:23:59](/episodes/ep-eLgD5yUVbko.md#t-00-23-45): “wire has in my view and my understanding of what gang stalking is has been doing this since the day they fired me it has not stopped it's been an onslaught of my life every way trying to stop speeches trying to get people to say things about me having articles written uh you know trying to have other people reach out and go after my advertisers it has been non i was fired from daily wire in 2020 we're in 2020”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:02:29](/episodes/ep-uC_GjKU8rs8.md#t-00-02-05): “My real stalker in life is Ben Shapiro, okay? Since the day that I was fired from the Daily Wire, he has not stopped trying to bankrupt my family.”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:32:22](/episodes/ep-k1b1NDCrNFs.md#t-00-32-11): “I was first made aware of the arrest and charges laid against him in an incident after wrecking his truck at three times the legal limit while carrying a loaded firearm, shortly after it happened, back when Candace still worked for me at The Daily Wire.”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:03:16](/episodes/ep-YeEtS7nix3o.md#t-00-02-34): “in a request when I was working at the Daily Wire, ironically, to pitch it to the CEOs.”
 
 </details>
 

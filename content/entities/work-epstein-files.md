@@ -1,6 +1,6 @@
 ---
 title: "Epstein Files"
-description: "Epstein Files (Works & Media) - 28 mentions"
+description: "Epstein Files (Works & Media) - 32 mentions"
 id: "work-epstein-files"
 type: "WORK"
 aliases:
@@ -22,11 +22,11 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-work-epstein-files-t-00-18-05">2026-01-16 · 00:18:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UYkXV9mYbT4.md#ent-work-epstein-files-t-00-50-50">2026-03-31 · 00:51:15</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>28</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-work-epstein-files-t-01-01-51">2026-05-21 · 01:02:08</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -46,6 +46,7 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-work-epstein-files-t-00-06-31" style="--pulse-height:33%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-work-epstein-files-t-00-50-39" style="--pulse-height:17%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-work-epstein-files-t-00-50-50" style="--pulse-height:17%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-work-epstein-files-t-00-35-04" style="--pulse-height:67%" aria-label="Candace x Hunter Biden: The Interview: 4 mentions" title="2026-05-21 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +63,7 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-work-epstein-files-t-00-06-31) | 2 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-work-epstein-files-t-00-50-39) | 1 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-work-epstein-files-t-00-50-50) | 1 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-work-epstein-files-t-00-35-04) | 4 |
 
 </details>
 </section>
@@ -69,7 +71,24 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (4 mentions)</summary>
+
+**[00:35:04](/episodes/ep-Ux1kzgQxkws.md#ent-work-epstein-files-t-00-35-04)**
+> "...is driving us crazy about the Epstein files right now it's what's actually leading it ironica..."
+
+**[00:43:20](/episodes/ep-Ux1kzgQxkws.md#ent-work-epstein-files-t-00-43-14)**
+> "...s like Trump being like, what Epstein files?"
+
+**[00:43:30](/episodes/ep-Ux1kzgQxkws.md#ent-work-epstein-files-t-00-43-14)**
+> "...re we still talking about the Epstein files? And so. So but then things kind of changed, I th..."
+
+**[01:02:08](/episodes/ep-Ux1kzgQxkws.md#ent-work-epstein-files-t-01-01-51)**
+> "...nt to let the release all the Epstein files?"
+
+</details>
 
 <details>
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
@@ -220,7 +239,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Epstein Files (13)</strong></summary>
+<summary><strong class="section-title">Statements about Epstein Files (14)</strong></summary>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1)</summary>
+
+- [01:02:22](/episodes/ep-Ux1kzgQxkws.md#t-01-02-22) (Accusation) **Candace Owens**: ["Donald Trump is protecting his donors by withholding the Epstein files..."](/statements/statement-5b8ae82f98e2.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1)</summary>

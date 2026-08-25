@@ -1,6 +1,6 @@
 ---
 title: "Strait of Hormuz"
-description: "Strait of Hormuz (Places) - 8 mentions"
+description: "Strait of Hormuz (Places) - 10 mentions"
 id: "gpe-strait-of-hormuz"
 type: "GPE"
 aliases:
@@ -23,9 +23,9 @@ Source: [World Oil Transit Chokepoints - Strait of Hormuz](https://www.eia.gov/i
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-strait-of-hormuz-t-00-02-06">2026-03-17 · 00:02:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#t-01-01-23">2026-05-06 · 01:01:23</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-strait-of-hormuz-t-00-33-55">2026-05-28 · 00:34:00</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,6 +40,7 @@ Source: [World Oil Transit Chokepoints - Strait of Hormuz](https://www.eia.gov/i
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-strait-of-hormuz-t-00-02-06" style="--pulse-height:20%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-strait-of-hormuz-t-00-27-00" style="--pulse-height:20%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#t-01-01-23" style="--pulse-height:20%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-strait-of-hormuz-t-00-33-55" style="--pulse-height:20%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +50,7 @@ Source: [World Oil Transit Chokepoints - Strait of Hormuz](https://www.eia.gov/i
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-strait-of-hormuz-t-00-02-06) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-strait-of-hormuz-t-00-27-00) | 1 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#t-01-01-23) | 1 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-strait-of-hormuz-t-00-33-55) | 1 |
 
 </details>
 </section>
@@ -56,7 +58,15 @@ Source: [World Oil Transit Chokepoints - Strait of Hormuz](https://www.eia.gov/i
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
+
+**[00:34:00](/episodes/ep-SKNJPul29zU.md#ent-gpe-strait-of-hormuz-t-00-33-55)**
+> "...ran would take control of the Strait of Hormuz, thus creating a lot of economic pain for the glo..."
+
+</details>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>

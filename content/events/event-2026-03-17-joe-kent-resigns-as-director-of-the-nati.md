@@ -11,7 +11,7 @@ date: "2026-03-17"
 
 > Joe Kent resigns as director of the National Counterterrorism Center
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkans...
 
@@ -28,3 +28,11 @@ date: "2026-03-17"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(0);return false;">▶️ Play</a>
 
 > after Joe Kent resigned as the director of counterterrorism, there was this instant stream
+
+### 3. The World Is A Stage: Trump Survives...Again? | Ep 343
+
+**Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
+**Timestamp:** [00:18:02](/episodes/ep-BxN2-aeMYIs.md#event-event-2026-03-17-joe-kent-resigns-as-director-of-the-nati-t-00-17-35) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1082);return false;">▶️ Play</a>
+
+> polling and response data surrounding Joe Kent's resignation from the administration.

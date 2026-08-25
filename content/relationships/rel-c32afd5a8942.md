@@ -11,7 +11,11 @@ object: "org-all-things-possible-ministries"
 
 ## [Victor Marx](/entities/person-victor-marx) founded [All Things Possible Ministries](/entities/org-all-things-possible-ministries)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8)**
+
+- [00:52:11](/episodes/ep-Dkxa9OUA9K8#t-00-52-11): _Marine Corps. I served under President Reagan. My wife and I started a ministry, all things possible, many, many years ago, a couple of decades before that I worked for Dr._
 
 **[BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0)**
 

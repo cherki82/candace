@@ -1,6 +1,6 @@
 ---
 title: "Sage Steele"
-description: "Sage Steele (People) - 1 mention"
+description: "Sage Steele (People) - 2 mentions"
 id: "person-sage-steele"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [ESPN Press Room — Up Close with Sage Steele](https://espnpressroom.co
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-sage-steele-t-00-45-16">2026-03-02 · 00:45:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-sage-steele-t-00-45-16">2026-03-02 · 00:45:16</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-sage-steele-t-01-03-53">2026-06-09 · 01:04:11</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,12 +32,14 @@ Source: [ESPN Press Room — Up Close with Sage Steele](https://espnpressroom.co
 <p>Highest activity: <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-sage-steele-t-00-45-16">Bride Of Charlie: The Ties That Bind | Episode 4</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-sage-steele-t-00-45-16" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-person-sage-steele-t-01-03-53" style="--pulse-height:100%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-sage-steele-t-00-45-16) | 1 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-sage-steele-t-01-03-53) | 1 |
 
 </details>
 </section>
@@ -45,7 +47,15 @@ Source: [ESPN Press Room — Up Close with Sage Steele](https://espnpressroom.co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>
+
+**[01:04:11](/episodes/ep-YeEtS7nix3o.md#ent-person-sage-steele-t-01-03-53)**
+> "...aith division. Ross Johnston, Sage Steele, George Janko. You kind of see it's diverse, it's..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1 mentions)</summary>

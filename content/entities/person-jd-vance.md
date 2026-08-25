@@ -1,6 +1,6 @@
 ---
 title: "JD Vance"
-description: "JD Vance (People) - 58 mentions"
+description: "JD Vance (People) - 64 mentions"
 id: "person-jd-vance"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-person-jd-vance-t-00-45-07">2025-09-18 · 00:45:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-jd-vance-t-00-43-13">2026-05-11 · 00:43:23</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>58</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-jd-vance-t-00-56-20">2026-05-28 · 00:56:20</a></strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>64</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
-<div><span>Relationships</span><strong>16</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -55,6 +55,10 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-jd-vance-t-00-08-43" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 16 mentions" title="2026-04-16 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-jd-vance-t-00-56-49" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-jd-vance-t-00-43-13" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-jd-vance-t-00-08-47" style="--pulse-height:19%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 3 mentions" title="2026-05-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-jd-vance-t-00-59-59" style="--pulse-height:8%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-jd-vance-t-00-23-29" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-jd-vance-t-00-56-20" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -79,6 +83,10 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-jd-vance-t-00-08-43) | 16 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-jd-vance-t-00-56-49) | 1 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-jd-vance-t-00-43-13) | 1 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-jd-vance-t-00-08-47) | 3 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-jd-vance-t-00-59-59) | 1 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-jd-vance-t-00-23-29) | 1 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-jd-vance-t-00-56-20) | 1 |
 
 </details>
 </section>
@@ -86,7 +94,45 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (58)</strong></summary>
+<summary><strong class="section-title">Raw mentions (64)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
+
+**[00:56:20](/episodes/ep-SKNJPul29zU.md#ent-person-jd-vance-t-00-56-20)**
+> "wearing hot pants with JD Vance"
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1 mentions)</summary>
+
+**[00:23:29](/episodes/ep-BxN2-aeMYIs.md#ent-person-jd-vance-t-00-23-29)**
+> "J.D. Vance's 2028 run"
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
+
+**[01:00:10](/episodes/ep-Ux1kzgQxkws.md#ent-person-jd-vance-t-00-59-59)**
+> "J.D. Vance like, you know, came out of nowhere. Charlie was ..."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (3 mentions)</summary>
+
+**[00:08:47](/episodes/ep-1QZ4X6q1DPg.md#ent-person-jd-vance-t-00-08-47)**
+> "... You got Nicki Minaj, you got JD Vance up there lecturing you, got President Trump (Dona..."
+
+**[00:33:26](/episodes/ep-1QZ4X6q1DPg.md#ent-person-jd-vance-t-00-33-14)**
+> "...Kash Patel. You got VP Vance (JD Vance) on the roll with Erika Kirk. You guys are on a f..."
+
+**[00:47:49](/episodes/ep-1QZ4X6q1DPg.md#ent-person-jd-vance-t-00-47-13)**
+> "...iends with, by Kash Patel, by JD Vance—all of them."
+
+</details>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>
@@ -441,7 +487,19 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Supported By (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Hunter Biden: The Interview @ 01:00:10](/episodes/ep-Ux1kzgQxkws.md#t-00-59-59): “J.D. Vance like, you know, came out of nowhere. Charlie was like not sleeping to make that happen.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (9)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -499,6 +557,13 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 
 </details>
 
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Hunter Biden: The Interview @ 01:00:10](/episodes/ep-Ux1kzgQxkws.md#t-00-59-59): “J.D. Vance like, you know, came out of nowhere. Charlie was like not sleeping to make that happen.”
+
+</details>
+
 </details>
 
 </details>
@@ -528,7 +593,23 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about JD Vance (13)</strong></summary>
+<summary><strong class="section-title">Statements about JD Vance (15)</strong></summary>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
+
+- [00:23:29](/episodes/ep-BxN2-aeMYIs.md#t-00-23-29) (Opinion) **Vine & Fig Tree Institute I, Inc.** (via quoted document): ["Tell politicians that there are two wings of the party, they do not ov..."](/statements/statement-7b8268fdd7b0.md)
+  - Also about: [Vine & Fig Tree Institute I, Inc.](/entities/org-vine-and-fig-tree-institute.md)
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1)</summary>
+
+- [00:59:59](/episodes/ep-Ux1kzgQxkws.md#t-00-59-59) (Opinion) **Candace Owens**: ["Donald Trump, Kash Patel, and JD Vance have shown zero interest in the..."](/statements/statement-5412eb913b0a.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Donald Trump Jr.](/entities/person-donald-trump-jr.md), [Kash Patel](/entities/person-kash-patel.md)
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (3)</summary>

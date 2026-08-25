@@ -1,6 +1,6 @@
 ---
 title: "Cardi B"
-description: "Cardi B (People) - 11 mentions"
+description: "Cardi B (People) - 12 mentions"
 id: "person-cardi-b"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Get To Know GRAMMY-Winning Rapper Cardi B](https://www.grammy.com/news/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-cardi-b-t-00-47-08">2025-09-30 · 00:47:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-person-cardi-b-t-00-46-40">2026-05-07 · 00:46:57</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-cardi-b-t-00-52-39">2026-05-14 · 00:52:51</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [Get To Know GRAMMY-Winning Rapper Cardi B](https://www.grammy.com/news/
 <a href="/episodes/ep-es7PWdFGoFI.md#ent-person-cardi-b-t-00-02-04" style="--pulse-height:67%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 2 mentions" title="2025-12-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-cardi-b-t-01-08-47" style="--pulse-height:100%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 3 mentions" title="2026-05-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-person-cardi-b-t-00-46-40" style="--pulse-height:67%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 2 mentions" title="2026-05-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-cardi-b-t-00-52-39" style="--pulse-height:33%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Get To Know GRAMMY-Winning Rapper Cardi B](https://www.grammy.com/news/
 | 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-cardi-b-t-00-02-04) | 2 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-cardi-b-t-01-08-47) | 3 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-cardi-b-t-00-46-40) | 2 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-person-cardi-b-t-00-52-39) | 1 |
 
 </details>
 </section>
@@ -55,7 +57,15 @@ Source: [Get To Know GRAMMY-Winning Rapper Cardi B](https://www.grammy.com/news/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1 mentions)</summary>
+
+**[00:52:51](/episodes/ep-Pb7UlpRdW6U.md#ent-person-cardi-b-t-00-52-39)**
+> "...ch begins with my battle with Cardi B which inspired this book this book was literally ..."
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (2 mentions)</summary>

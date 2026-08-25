@@ -1,6 +1,6 @@
 ---
 title: "Donald J. Trump"
-description: "Donald J. Trump (People) - 669 mentions"
+description: "Donald J. Trump (People) - 770 mentions"
 id: "person-donald-trump"
 type: "PERSON"
 aliases:
@@ -29,11 +29,11 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-t-00-19-31">2025-09-11 · 00:08:08</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-donald-trump-t-02-34-47">2026-08-14 · 02:34:47</a></strong></div>
-<div><span>Episodes</span><strong>94</strong></div>
-<div><span>Mentions</span><strong>669</strong></div>
+<div><span>Episodes</span><strong>103</strong></div>
+<div><span>Mentions</span><strong>770</strong></div>
 <div><span>Statements by</span><strong>28</strong></div>
-<div><span>Statements about</span><strong>149</strong></div>
-<div><span>Relationships</span><strong>117</strong></div>
+<div><span>Statements about</span><strong>179</strong></div>
+<div><span>Relationships</span><strong>129</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -134,6 +134,15 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-donald-trump-t-00-35-17" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-donald-trump-t-00-00-00" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-donald-trump-t-00-22-29" style="--pulse-height:15%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 7 mentions" title="2026-05-13 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-donald-trump-t-00-04-54" style="--pulse-height:25%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 12 mentions" title="2026-05-14 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-donald-trump-t-00-02-36" style="--pulse-height:8%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 4 mentions" title="2026-05-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-donald-trump-t-01-31-27" style="--pulse-height:8%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-person-donald-trump-t-00-00-44" style="--pulse-height:8%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-00-39-32" style="--pulse-height:52%" aria-label="Candace x Hunter Biden: The Interview: 25 mentions" title="2026-05-21 · 25 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-donald-trump-t-00-01-44" style="--pulse-height:44%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 21 mentions" title="2026-05-26 · 21 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-donald-trump-t-00-13-13" style="--pulse-height:17%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 8 mentions" title="2026-05-27 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-00-01-12" style="--pulse-height:52%" aria-label="Candace Owens x Ana Kasparian: 25 mentions" title="2026-05-28 · 25 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-person-donald-trump-t-00-03-16" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 4 mentions" title="2026-06-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-donald-trump-t-02-21-59" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -233,6 +242,15 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-donald-trump-t-00-35-17) | 1 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-donald-trump-t-00-00-00) | 1 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-donald-trump-t-00-22-29) | 7 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-person-donald-trump-t-00-04-54) | 12 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-donald-trump-t-00-02-36) | 4 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-person-donald-trump-t-01-31-27) | 1 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-donald-trump-t-00-00-44) | 1 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-00-39-32) | 25 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-donald-trump-t-00-01-44) | 21 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-donald-trump-t-00-13-13) | 8 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-00-01-12) | 25 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-donald-trump-t-00-03-16) | 4 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-donald-trump-t-02-21-59) | 4 |
 
 </details>
@@ -241,7 +259,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (669)</strong></summary>
+<summary><strong class="section-title">Raw mentions (770)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -257,6 +275,354 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 **[02:34:47](/episodes/ep-nPhCKwJ6ye8.md#ent-person-donald-trump-t-02-34-47)**
 > "Trump's office,"
+
+</details>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (4 mentions)</summary>
+
+**[00:03:47](/episodes/ep-YeEtS7nix3o.md#ent-person-donald-trump-t-00-03-16)**
+> "...s is the most hilarious part. Trump administration sent an entire delegation to this."
+
+**[00:06:20](/episodes/ep-YeEtS7nix3o.md#ent-person-donald-trump-t-00-05-53)**
+> "... conference. Like I said, the Trump administration sent an entire delegation which pa..."
+
+**[00:50:58](/episodes/ep-YeEtS7nix3o.md#ent-person-donald-trump-t-00-50-58)**
+> "...ersonal credit for convincing Trump to tweet insults at me. She tweeted this."
+
+**[00:51:07](/episodes/ep-YeEtS7nix3o.md#ent-person-donald-trump-t-00-50-58)**
+> "...pe harder. Guess who prompted Trump's rant on her the first time?"
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (25 mentions)</summary>
+
+**[00:01:35](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-00-01-12)**
+> "You were in support of Donald Trump at the time, but Saagar (Saagar Enjeti) asked you, you know, you're against invading Iran or going to war with Iran."
+
+**[00:01:44](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-00-01-12)**
+> "what would you do if Trump (Donald Trump) gets elected and he goes to war with Iran you just straight up said I will no longer support him and I'll be vocal about it and I'm like okay we'll see we'll see and you made good on that promise and I really appreciate that"
+
+**[00:13:55](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-00-13-55)**
+> "...man is like the reason Donald Trump is in office. He was like brothers with Donald Tr..."
+
+**[00:17:42](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-00-17-42)**
+> "To dunk on Trump (Donald Trump). Like, I don't remember Oh, that."
+
+**[00:17:44](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-00-17-44)**
+> "...ways great because, you know, Trump (Donald Trump) said make America great again."
+
+**[00:32:34](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-00-32-34)**
+> "radical nature of Trump (Donald Trump)'s tweets right now."
+
+**[00:33:55](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-00-33-55)**
+> "Exactly. No support. I mean, Trump (Donald Trump) never even thought he needed to ma..."
+
+**[00:34:24](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-00-33-55)**
+> "...ated with us because of first Trump (Donald Trump)'s liberation day tariffs, which al..."
+
+**[00:42:38](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-00-42-25)**
+> "...know what your take is on why Trump (Donald Trump) is protecting that."
+
+**[00:42:43](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-00-42-43)**
+> "...o think just keeping it real, Trump (Donald Trump) is a very corrupt person. I mean, ..."
+
+**[00:43:22](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-00-43-22)**
+> "...y. And that was when, why was Trump (Donald Trump) running, you know, the pageantry?"
+
+**[00:43:51](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-00-43-51)**
+> "Do I think Trump (Donald Trump) is his own man? Obviously not. Mir..."
+
+**[00:43:58](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-00-43-58)**
+> "...at I guess I appreciate about Trump (Donald Trump), if you want to put it that way."
+
+**[00:47:15](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-00-47-09)**
+> "...tempted to assassinate Donald Trump i'm forgetting his name right now i don't know wh..."
+
+**[00:49:04](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-00-49-04)**
+> "...in there in the same way that Trump (Donald Trump) went in there."
+
+**[00:50:42](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-00-50-42)**
+> "...'s move on let's move on okay Trump (Donald Trump) says it's good and you're maga rig..."
+
+**[00:56:34](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-00-56-34)**
+> "...d to wake up to the idea that Trump (Donald Trump) betrayed him in a way, and Kash Pa..."
+
+**[01:11:48](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-01-11-48)**
+> "...iterally like debated and got Trump (Donald Trump) not to to do anything more than th..."
+
+**[01:12:30](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-01-12-30)**
+> "...t was that guy's name? Former Trump (Donald Trump) administration official who's now ..."
+
+**[01:12:59](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-01-12-59)**
+> "...an, another example is Donald Trump."
+
+**[01:13:26](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-01-12-59)**
+> "...e political spectrum, is that Trump (Donald Trump) is unable to let a grudge go. He w..."
+
+**[01:13:52](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-01-13-44)**
+> "...And oh my goodness, you know, Trump (Donald Trump) was saved. There must be a broader..."
+
+**[01:20:03](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-01-20-00)**
+> "Trump (Donald Trump), like he's really completely lost ..."
+
+**[01:20:25](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-01-20-23)**
+> "...liberals who are worried that Trump (Donald Trump), if he gets reelected, as he did, ..."
+
+**[01:23:29](/episodes/ep-SKNJPul29zU.md#ent-person-donald-trump-t-01-23-29)**
+> "... the American people feel. So Trump (Donald Trump) does not comprehend that. He is co..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (8 mentions)</summary>
+
+**[00:13:13](/episodes/ep-MhakwJxK-Zk.md#ent-person-donald-trump-t-00-13-13)**
+> "... Hansell. He was nominated by Trump (Donald Trump) to be the undersecretary of war fo..."
+
+**[00:13:58](/episodes/ep-MhakwJxK-Zk.md#ent-person-donald-trump-t-00-13-58)**
+> "...e Hegseth. He was selected by Trump (Donald Trump). And frankly, an argument could be..."
+
+**[00:14:23](/episodes/ep-MhakwJxK-Zk.md#ent-person-donald-trump-t-00-14-23)**
+> "...pecial assistant to President Donald J. Trump for National Security Affairs. When Trump (Donald..."
+
+**[00:14:49](/episodes/ep-MhakwJxK-Zk.md#ent-person-donald-trump-t-00-14-23)**
+> "...efore being selected again by Trump (Donald Trump), the new term as the undersecretar..."
+
+**[00:19:53](/episodes/ep-MhakwJxK-Zk.md#ent-person-donald-trump-t-00-19-53)**
+> "...following their exit, another Trump (Donald Trump) appointee was tapped to become the..."
+
+**[00:22:49](/episodes/ep-MhakwJxK-Zk.md#ent-person-donald-trump-t-00-22-36)**
+> "...re certainly not reporting to Donald J. Trump. I will say that."
+
+**[00:28:24](/episodes/ep-MhakwJxK-Zk.md#ent-person-donald-trump-t-00-28-03)**
+> "...the temporary winner of that. Trump (Donald Trump) moves to limit his involvement."
+
+**[00:28:54](/episodes/ep-MhakwJxK-Zk.md#ent-person-donald-trump-t-00-28-32)**
+> "...ted military involvement that Trump (Donald Trump) had agreed to."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (21 mentions)</summary>
+
+**[00:02:13](/episodes/ep-BxN2-aeMYIs.md#ent-person-donald-trump-t-00-01-44)**
+> "Trump (Donald J. Trump), it's too much."
+
+**[00:02:36](/episodes/ep-BxN2-aeMYIs.md#ent-person-donald-trump-t-00-02-27)**
+> "... said, how could he? But now, Trump, we're kind of, we're losing count here. Okay, th..."
+
+**[00:03:03](/episodes/ep-BxN2-aeMYIs.md#ent-person-donald-trump-t-00-03-03)**
+> "...ing to keep it real with you, Trump. It's giving Munchausen syndrome. It's giving you..."
+
+**[00:03:48](/episodes/ep-BxN2-aeMYIs.md#ent-person-donald-trump-t-00-03-48)**
+> "...ously not saying that we want Trump to die."
+
+**[00:13:12](/episodes/ep-BxN2-aeMYIs.md#ent-person-donald-trump-t-00-13-12)**
+> "...FOIA report to figure out who Trump works for."
+
+**[00:14:45](/episodes/ep-BxN2-aeMYIs.md#ent-person-donald-trump-t-00-14-34)**
+> "...t's been the running theme of Trump 2.0 using national security as a pretense to real..."
+
+**[00:15:27](/episodes/ep-BxN2-aeMYIs.md#ent-person-donald-trump-t-00-15-02)**
+> "...things. One, what happened to Trump? Who is he listening to?"
+
+**[00:19:00](/episodes/ep-BxN2-aeMYIs.md#ent-person-donald-trump-t-00-19-00)**
+> "...s who have a right to support Trump."
+
+**[00:19:19](/episodes/ep-BxN2-aeMYIs.md#ent-person-donald-trump-t-00-19-00)**
+> "Trump's administration is now doing this. They are engage..."
+
+**[00:26:21](/episodes/ep-BxN2-aeMYIs.md#ent-person-donald-trump-t-00-26-21)**
+> "...ecause I am telling you: what Trump is doing right now, what this administration is d..."
+
+**[00:26:51](/episodes/ep-BxN2-aeMYIs.md#ent-person-donald-trump-t-00-26-21)**
+> "...eats they have made, but that Trump is allowing this to take place and the only thing..."
+
+**[00:37:28](/episodes/ep-BxN2-aeMYIs.md#ent-person-donald-trump-t-00-37-16)**
+> "...lly the totality of President Trump's first-year agenda wrapped into one bill. And I wi..."
+
+**[00:38:00](/episodes/ep-BxN2-aeMYIs.md#ent-person-donald-trump-t-00-37-53)**
+> "...adfly, Republican who gets in Trump's way, criticizes Trump and not just on debt or the..."
+
+**[00:39:10](/episodes/ep-BxN2-aeMYIs.md#ent-person-donald-trump-t-00-38-44)**
+> "That Trump is protecting the Epstein class. No, Charlie woul..."
+
+**[00:39:16](/episodes/ep-BxN2-aeMYIs.md#ent-person-donald-trump-t-00-38-44)**
+> ".... He would not have supported Trump saying to look away on the Jeffrey Epstein matter..."
+
+**[00:47:05](/episodes/ep-BxN2-aeMYIs.md#ent-person-donald-trump-t-00-46-57)**
+> "...ke and gay moment of 2026? A, Trump's 2,344th assassination attempt."
+
+**[00:47:55](/episodes/ep-BxN2-aeMYIs.md#ent-person-donald-trump-t-00-47-30)**
+> "Option A: Trump's 2,344th assassination attempt being fake and gay...."
+
+**[00:49:02](/episodes/ep-BxN2-aeMYIs.md#ent-person-donald-trump-t-00-48-56)**
+> "... All right now, Gen X writes, Trump committed high treason. Someone on X said that he..."
+
+**[00:49:50](/episodes/ep-BxN2-aeMYIs.md#ent-person-donald-trump-t-00-49-41)**
+> "...can anybody have a defense of Donald J. Trump in this moment?"
+
+**[00:50:02](/episodes/ep-BxN2-aeMYIs.md#ent-person-donald-trump-t-00-49-41)**
+> "... smoking crack. What's Donald Trump's excuse?"
+
+**[00:50:07](/episodes/ep-BxN2-aeMYIs.md#ent-person-donald-trump-t-00-49-41)**
+> "...s my question. What is Donald Trump's excuse?"
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (25 mentions)</summary>
+
+**[00:39:32](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-00-39-32)**
+> "...igated up and down during the Trump administration with a Trump appointed U.S. attorn..."
+
+**[00:43:14](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-00-43-14)**
+> "...ame reason why I'm angry with Trump over the Epstein thing."
+
+**[00:43:20](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-00-43-14)**
+> "...k from media gaslighting. The Trump thing is worse because it came from his own mouth..."
+
+**[00:43:41](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-00-43-14)**
+> "... get whatever this, you know, Trump family is now and it's like, man, I think it was ..."
+
+**[00:43:58](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-00-43-58)**
+> "...okay you know we stood behind trump we fought we shared the photos of hunter biden to..."
+
+**[00:46:51](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-00-46-51)**
+> "...ike don't take their caps off trump literally do no wrong he's playing 4d chess on th..."
+
+**[00:55:02](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-00-54-50)**
+> "Donald Trump, from rally stages, started the Where's Hunter de..."
+
+**[00:59:42](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-00-59-42)**
+> "...ely for me was like done with Trump whatsoever. I mean, there's just no way for someo..."
+
+**[00:59:59](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-00-59-59)**
+> "And to see the Trump brothers, to see Donald Trump himself. Kash Patel..."
+
+**[01:02:14](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-01-01-51)**
+> "...iterally look at a picture of Trump standing on his stage at his inauguration and loo..."
+
+**[01:03:30](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-01-03-14)**
+> "...s this? Because they expected Trump to be ride or die."
+
+**[01:04:16](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-01-04-16)**
+> "...nd I cannot, I cannot forgive Trump, the Trump family. uh what they have done or what..."
+
+**[01:06:54](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-01-06-54)**
+> "but trump needs a ballroom like that's a normal reaction he..."
+
+**[01:07:11](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-01-07-11)**
+> "... even are we even a year into trump's second term"
+
+**[01:07:27](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-01-07-16)**
+> "And what was actually never Trump, which was actually pro Hillary Clinton, if you t..."
+
+**[01:11:22](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-01-11-13)**
+> "...eenlight. To turn Gaza into a Trump golf course with the maitre d' being Jared Kushne..."
+
+**[01:11:35](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-01-11-35)**
+> "...never forget that, posted the Trump like here's what Gaza could be and like I could h..."
+
+**[01:11:44](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-01-11-44)**
+> "...cause we're going to get up a Trump resort or something."
+
+**[01:13:13](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-01-12-53)**
+> "...dor at large on behalf of the Trump administration, not as a political pointy, but si..."
+
+**[01:14:25](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-01-14-25)**
+> "...f me like i am so far off the trump chain he's no posting"
+
+**[01:14:45](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-01-14-45)**
+> "...n for Israel, not to say that Trump wasn't pro-Israel. Most presidents actually are p..."
+
+**[01:15:08](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-01-15-08)**
+> "...how much more money does just trump family need i mean like literally how much more m..."
+
+**[01:23:55](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-01-23-42)**
+> "...l read than either one of the Trump boys, regardless of what you think about them."
+
+**[01:41:26](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-01-41-26)**
+> "...y as the Pope, by the way, by Trump when he said bad things about Mexico."
+
+**[01:41:43](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-t-01-41-43)**
+> "...s literally the same day that Trump posted the time most vital person of the year. So..."
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1 mentions)</summary>
+
+**[00:00:44](/episodes/ep-cPidFQDJLbo.md#ent-person-donald-trump-t-00-00-44)**
+> "the way Trump (Donald Trump) is speaking."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1 mentions)</summary>
+
+**[01:31:27](/episodes/ep-Dkxa9OUA9K8.md#ent-person-donald-trump-t-01-31-27)**
+> "...resent he said that he's like Trump and Trump's like I am MAGA he's like I am abuse v..."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (4 mentions)</summary>
+
+**[00:02:46](/episodes/ep-1QZ4X6q1DPg.md#ent-person-donald-trump-t-00-02-36)**
+> "...reenlight to turn Gaza into a Trump golf course with the maitre d' being Jared Kushne..."
+
+**[00:08:47](/episodes/ep-1QZ4X6q1DPg.md#ent-person-donald-trump-t-00-08-47)**
+> "...ing you, got President Trump (Donald J. Trump), you got Ben Shapiro. Take the Erika (Erika Kirk..."
+
+**[00:47:00](/episodes/ep-1QZ4X6q1DPg.md#ent-person-donald-trump-t-00-46-32)**
+> "...most likely still bootlicking Trump by proxy, Bibi (Benjamin Netanyahu)."
+
+**[00:47:49](/episodes/ep-1QZ4X6q1DPg.md#ent-person-donald-trump-t-00-47-13)**
+> "By the Trump administration, by Eric Trump, by Donald Trump Jr..."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (12 mentions)</summary>
+
+**[00:04:54](/episodes/ep-Pb7UlpRdW6U.md#ent-person-donald-trump-t-00-04-54)**
+> "fired to stop him. Trump (Donald Trump) has survived three of these attemp..."
+
+**[00:05:05](/episodes/ep-Pb7UlpRdW6U.md#ent-person-donald-trump-t-00-04-54)**
+> "...in power for much longer than Trump (Donald Trump), have been presidents of countries..."
+
+**[00:05:34](/episodes/ep-Pb7UlpRdW6U.md#ent-person-donald-trump-t-00-05-34)**
+> "I don't know. Maybe Trump (Donald Trump) should consider hiring his securit..."
+
+**[00:16:42](/episodes/ep-Pb7UlpRdW6U.md#ent-person-donald-trump-t-00-16-24)**
+> "...itimate attempts on President Trump (Donald Trump)'s life."
+
+**[00:16:49](/episodes/ep-Pb7UlpRdW6U.md#ent-person-donald-trump-t-00-16-49)**
+> "... which you could just say was Trump (Donald Trump) needs his ballroom, right? There's..."
+
+**[00:42:01](/episodes/ep-Pb7UlpRdW6U.md#ent-person-donald-trump-t-00-41-26)**
+> "... before we get off air today, Trump (Donald Trump)'s golden. Trump (Donald Trump) sta..."
+
+**[00:42:17](/episodes/ep-Pb7UlpRdW6U.md#ent-person-donald-trump-t-00-42-10)**
+> "That's not AI? Okay. That is Trump (Donald Trump)'s statue ceremony. Obviously, evan..."
+
+**[00:42:26](/episodes/ep-Pb7UlpRdW6U.md#ent-person-donald-trump-t-00-42-10)**
+> "...en statue of President Donald Trump at one of Florida's golf courses."
+
+**[00:43:28](/episodes/ep-Pb7UlpRdW6U.md#ent-person-donald-trump-t-00-43-09)**
+> "Something's not right. Trump (Donald Trump), who thinks he is a god, I am MAGA..."
+
+**[00:43:46](/episodes/ep-Pb7UlpRdW6U.md#ent-person-donald-trump-t-00-43-46)**
+> "...behind Florida's giant golden Trump (Donald Trump) statue."
+
+**[00:52:01](/episodes/ep-Pb7UlpRdW6U.md#ent-person-donald-trump-t-00-52-01)**
+> "...ront of us. It's a shame that Trump (Donald Trump) proved to be the ultimate Trojan h..."
+
+**[00:52:26](/episodes/ep-Pb7UlpRdW6U.md#ent-person-donald-trump-t-00-52-01)**
+> "That's what I would say about Trump (Donald Trump). It is a shame. Anyway, you guys, ..."
 
 </details>
 
@@ -2828,12 +3194,19 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Appointed (1)</summary>
+<summary>Appointed (2)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:00:16](/episodes/ep-ZzAT2xijKGQ.md#t-00-00-01): “President Trump (Donald J. Trump) has appointed Erika Kirk to the Air Force Academy's Board of Visitors.”
+
+</details>
+
+- **[Bradley D. Hansell](/entities/person-bradley-d-hansell.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:14:49](/episodes/ep-MhakwJxK-Zk.md#t-00-14-23): “he then did a one-off year before being selected again by Trump (Donald Trump), the new term as the undersecretary”
 
 </details>
 
@@ -2859,7 +3232,19 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Criticized (8)</summary>
+<summary>Attacked By (1)</summary>
+
+- **[Ryan Wesley Routh](/entities/person-ryan-wesley-routh.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:02:13](/episodes/ep-BxN2-aeMYIs.md#t-00-01-44): “Trump (Donald J. Trump), it's too much. ... Second one, okay, happened on a golf course. ... Ryan Routh, the would-be assassin.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Criticized (9)</summary>
 
 - **[Joe Kent](/entities/person-joe-kent.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -2928,10 +3313,17 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 </details>
 
+- **[Hunter Biden](/entities/person-hunter-biden.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Hunter Biden: The Interview @ 00:55:02](/episodes/ep-Ux1kzgQxkws.md#t-00-54-50): “Donald Trump, from rally stages, started the Where's Hunter deal. Where's Hunter? Call and response crowds.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Criticized By (3)</summary>
+<summary>Criticized By (5)</summary>
 
 - **[Michael Savage](/entities/person-michael-savage.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -2941,7 +3333,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -2957,6 +3349,9 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:14:44](/episodes/ep-qZ8RWfyuewQ.md#t-00-14-22): “Who cares what you look like? Okay. That's. You have low moments, you get through them. And I will say that never when I went through that and to people who are sick and going through things, never could I have imagined that my lowest moment would one day become President Trump's lowest moment.”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 01:06:30](/episodes/ep-69A8TzAGHlU.md#t-01-06-22): “to say that i think being a pedophile ranks higher for being vile but i don't know what do i know i'm just out here trying to use rich white men as you said brock jordan writes imagine believing a lady on the internet is the most vile person and not the people dropping bombs on schools you know that was pretty vile trump when you guys just like randomly dropped a bomb on 150 school girls in iran and then lied to us about it”
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:00:33](/episodes/ep-4DvYXBn_5JI.md#t-00-00-00): “Trump suddenly posting my face on Time magazine calling me the most vile person of the year. Really? Jeffrey Epstein didn't deserve that honor.”
+- [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:52:01](/episodes/ep-Pb7UlpRdW6U.md#t-00-52-01): “I'm just not signing up for this, man. I'm not going to sign up for what is so obviously in front of us. It's a shame that Trump (Donald Trump) proved to be the ultimate Trojan horse that is walking in this technocracy, allowing the military to do what they are doing. He, I guess, has already made his bargain and understands, you know, the consequences for his soul.”
+- [Candace x Hunter Biden: The Interview @ 00:59:42](/episodes/ep-Ux1kzgQxkws.md#t-00-59-42): “There's zero interest. That's another thing that just completely for me was like done with Trump whatsoever.”
+- [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:49:14](/episodes/ep-BxN2-aeMYIs.md#t-00-48-56): “He's a Trojan horse. He has completely let people in to destroy America. ... How can anybody have a defense of Donald J. Trump in this moment?”
 
 </details>
 
@@ -2964,6 +3359,20 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:53:40](/episodes/ep-eLgD5yUVbko.md#t-00-53-07): “For the last 25 years, according to BBNet and Yahoo, I don't want a pope who thinks it's terrible that America attacked Venezuela, a country that was sending massive amounts of drugs into the United States and even worse, emptying their prisons, including murderers, drug dealers and killers into our country. And I don't want a pope who criticizes. ... The president of the United States, because I'm doing exactly what I was elected in a landslide to do, setting record low numbers in crime and creating the greatest stock market in history, Leo should be thankful because, as everyone knows, he was a shocking surprise. He wasn't on any list to be pope and was only put there by the church because he wasn't American and they thought that that would be the best way to deal with President Donald J. Trump. Trump, if I wasn't in the White House, Leo wouldn't be in the Vatican.”
+
+</details>
+
+- **[Hunter Biden](/entities/person-hunter-biden.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Hunter Biden: The Interview @ 01:08:27](/episodes/ep-Ux1kzgQxkws.md#t-01-08-27): “the president of the United States of America has posted images of himself as a king. I think half a dozen times now”
+
+</details>
+
+- **[Thomas Massie](/entities/person-thomas-massie.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:37:53](/episodes/ep-BxN2-aeMYIs.md#t-00-37-52): “Charlie was a fan of Thomas Massie ... Republican who gets in Trump's way, criticizes Trump”
 
 </details>
 
@@ -3018,9 +3427,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Brad Parscale](/entities/person-brad-parscale.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:36:50](/episodes/ep-eMtjzXkQrsU.md#t-00-36-20): “OK, this is 2025. It's a crazy year. OK, let's take a look at it. January 10th, Brad Parscale, Trump's former campaign manager, becomes the chief strategy officer for Salem Media Group.”
+- [Candace Owens x Ana Kasparian @ 01:12:30](/episodes/ep-SKNJPul29zU.md#t-01-12-30): “What was that guy's name? Former Trump (Donald Trump) administration official who's now like running like a propaganda arm of the Israeli government as we speak. ... Parscale yes ... Brad Parscale, I”
 
 </details>
 
@@ -3037,9 +3447,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:02:27](/episodes/ep-ZIH5-V6UPkg.md#t-00-02-27): “I think about this a lot now, very often, mostly in the context of our late mutual friend, Charlie Kirk.”
+- [Candace Owens x Ana Kasparian @ 00:13:55](/episodes/ep-SKNJPul29zU.md#t-00-13-55): “This man is like the reason Donald Trump is in office. He was like brothers with Donald Trump.”
 
 </details>
 
@@ -3063,6 +3474,18 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:21:12](/episodes/ep-CEF7gQRWYCE.md#t-00-20-42): “miriam adel said ... she's doing her thing and just giving trump 200 million dollars”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:37:50](/episodes/ep-i8m_6D4QGmk.md#t-00-37-50): “So Trump is saying that the person that he took $100 million, $200 million from, I think in the end, loves Israel more than she loves America.”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:29:38](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38): “But before it was announced that Miriam Adelson gave Trump $100 million, this was, I think it was announced in July or just before July of 2024.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Has Chief Of Staff (1)</summary>
+
+- **[Susie Wiles](/entities/person-susie-wiles.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens x Ana Kasparian @ 01:12:18](/episodes/ep-SKNJPul29zU.md#t-01-12-18): “I mean, it is wild that the chief of staff, Susie Wiles, worked on Benjamin Netanyahu's 2020 reelection campaign. She is the gatekeeper to the president of the United States.”
 
 </details>
 
@@ -3156,9 +3579,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <summary>Parent-In-Law Of (1)</summary>
 
 - **[Jared Kushner](/entities/person-jared-kushner.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:10:38](/episodes/ep-5-HUyv9LyMg.md#t-00-10-31): “the president of the United States, likely under the instruction of his son-in-law, Jared Kushner”
+- [Candace x Hunter Biden: The Interview @ 01:13:13](/episodes/ep-Ux1kzgQxkws.md#t-01-12-53): “he is the ambassador at large on behalf of the Trump administration, not as a political pointy, but simply as a son-in-law of the president.”
 
 </details>
 
@@ -3168,12 +3592,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <summary>Political Ally Of (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:03:13](/episodes/ep-ZGxnf5cj4Uw.md#t-00-03-03): “...hoosing. I am told that they are fans of Charlie (Charlie Kirk) and they are fans of Donald Trump. Although this source noted that Tyler, like many other conserva...”
 - [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:00:16](/episodes/ep-2Riv3I7D0Yk.md#t-00-00-00): “...nticipated. Because just 16 hours before Charlie (Charlie Kirk) was assassinated, he mysteriously retweeted a 2013 tweet from Donald Trump calling for public exec...”
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:00:19](/episodes/ep-ZGxnf5cj4Uw.md#t-00-00-00): “...f their choosing. I am told that they are fans of Charlie (Charlie Kirk) and they are fans of Donald Trump. Although this source noted that Tyler, like many other conservatives...”
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:08:17](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “I remember feeling angry when Trump moved to kind of do a same-time post”
+- [Candace x Hunter Biden: The Interview @ 01:03:57](/episodes/ep-Ux1kzgQxkws.md#t-01-03-56): “Charlie Kirk made these people, that's exactly right. He led a youth revolution to get these people elected in power.”
 
 </details>
 
@@ -3290,7 +3715,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Referenced By (59)</summary>
+<summary>Referenced By (65)</summary>
 
 - **[Iran](/entities/gpe-iran.md)** accused by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -3389,6 +3814,20 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 </details>
 
+- **[Bradley D. Hansell](/entities/person-bradley-d-hansell.md)** appointed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:14:49](/episodes/ep-MhakwJxK-Zk.md#t-00-14-23): “he then did a one-off year before being selected again by Trump (Donald Trump), the new term as the undersecretary”
+
+</details>
+
+- **[Ryan Wesley Routh](/entities/person-ryan-wesley-routh.md)** attacked this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:02:13](/episodes/ep-BxN2-aeMYIs.md#t-00-01-44): “Trump (Donald J. Trump), it's too much. ... Second one, okay, happened on a golf course. ... Ryan Routh, the would-be assassin.”
+
+</details>
+
 - **[Marco Rubio](/entities/person-marco-rubio.md)** attacked by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -3400,6 +3839,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:19:12](/episodes/ep-uC_GjKU8rs8.md#t-00-18-49): “Nobody minded when Trump (Donald Trump) would attack Marco Rubio or Ron DeSantis. I've had personal and legal spats with people like Kim Klasick as just one example. People do expect figureheads to clash.”
+
+</details>
+
+- **[Susie Wiles](/entities/person-susie-wiles.md)** chief of staff to this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens x Ana Kasparian @ 01:12:18](/episodes/ep-SKNJPul29zU.md#t-01-12-18): “I mean, it is wild that the chief of staff, Susie Wiles, worked on Benjamin Netanyahu's 2020 reelection campaign. She is the gatekeeper to the president of the United States.”
 
 </details>
 
@@ -3439,7 +3885,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -3455,6 +3901,9 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:14:44](/episodes/ep-qZ8RWfyuewQ.md#t-00-14-22): “Who cares what you look like? Okay. That's. You have low moments, you get through them. And I will say that never when I went through that and to people who are sick and going through things, never could I have imagined that my lowest moment would one day become President Trump's lowest moment.”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 01:06:30](/episodes/ep-69A8TzAGHlU.md#t-01-06-22): “to say that i think being a pedophile ranks higher for being vile but i don't know what do i know i'm just out here trying to use rich white men as you said brock jordan writes imagine believing a lady on the internet is the most vile person and not the people dropping bombs on schools you know that was pretty vile trump when you guys just like randomly dropped a bomb on 150 school girls in iran and then lied to us about it”
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:00:33](/episodes/ep-4DvYXBn_5JI.md#t-00-00-00): “Trump suddenly posting my face on Time magazine calling me the most vile person of the year. Really? Jeffrey Epstein didn't deserve that honor.”
+- [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:52:01](/episodes/ep-Pb7UlpRdW6U.md#t-00-52-01): “I'm just not signing up for this, man. I'm not going to sign up for what is so obviously in front of us. It's a shame that Trump (Donald Trump) proved to be the ultimate Trojan horse that is walking in this technocracy, allowing the military to do what they are doing. He, I guess, has already made his bargain and understands, you know, the consequences for his soul.”
+- [Candace x Hunter Biden: The Interview @ 00:59:42](/episodes/ep-Ux1kzgQxkws.md#t-00-59-42): “There's zero interest. That's another thing that just completely for me was like done with Trump whatsoever.”
+- [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:49:14](/episodes/ep-BxN2-aeMYIs.md#t-00-48-56): “He's a Trojan horse. He has completely let people in to destroy America. ... How can anybody have a defense of Donald J. Trump in this moment?”
 
 </details>
 
@@ -3462,6 +3911,20 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:53:40](/episodes/ep-eLgD5yUVbko.md#t-00-53-07): “For the last 25 years, according to BBNet and Yahoo, I don't want a pope who thinks it's terrible that America attacked Venezuela, a country that was sending massive amounts of drugs into the United States and even worse, emptying their prisons, including murderers, drug dealers and killers into our country. And I don't want a pope who criticizes. ... The president of the United States, because I'm doing exactly what I was elected in a landslide to do, setting record low numbers in crime and creating the greatest stock market in history, Leo should be thankful because, as everyone knows, he was a shocking surprise. He wasn't on any list to be pope and was only put there by the church because he wasn't American and they thought that that would be the best way to deal with President Donald J. Trump. Trump, if I wasn't in the White House, Leo wouldn't be in the Vatican.”
+
+</details>
+
+- **[Hunter Biden](/entities/person-hunter-biden.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Hunter Biden: The Interview @ 01:08:27](/episodes/ep-Ux1kzgQxkws.md#t-01-08-27): “the president of the United States of America has posted images of himself as a king. I think half a dozen times now”
+
+</details>
+
+- **[Thomas Massie](/entities/person-thomas-massie.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:37:53](/episodes/ep-BxN2-aeMYIs.md#t-00-37-52): “Charlie was a fan of Thomas Massie ... Republican who gets in Trump's way, criticizes Trump”
 
 </details>
 
@@ -3532,6 +3995,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 </details>
 
+- **[Hunter Biden](/entities/person-hunter-biden.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Hunter Biden: The Interview @ 00:55:02](/episodes/ep-Ux1kzgQxkws.md#t-00-54-50): “Donald Trump, from rally stages, started the Where's Hunter deal. Where's Hunter? Call and response crowds.”
+
+</details>
+
 - **[Carrie Prejean Boller](/entities/person-carrie-prejean-boller.md)** fired by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -3561,9 +4031,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Brad Parscale](/entities/person-brad-parscale.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:36:50](/episodes/ep-eMtjzXkQrsU.md#t-00-36-20): “OK, this is 2025. It's a crazy year. OK, let's take a look at it. January 10th, Brad Parscale, Trump's former campaign manager, becomes the chief strategy officer for Salem Media Group.”
+- [Candace Owens x Ana Kasparian @ 01:12:30](/episodes/ep-SKNJPul29zU.md#t-01-12-30): “What was that guy's name? Former Trump (Donald Trump) administration official who's now like running like a propaganda arm of the Israeli government as we speak. ... Parscale yes ... Brad Parscale, I”
 
 </details>
 
@@ -3575,9 +4046,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:02:27](/episodes/ep-ZIH5-V6UPkg.md#t-00-02-27): “I think about this a lot now, very often, mostly in the context of our late mutual friend, Charlie Kirk.”
+- [Candace Owens x Ana Kasparian @ 00:13:55](/episodes/ep-SKNJPul29zU.md#t-00-13-55): “This man is like the reason Donald Trump is in office. He was like brothers with Donald Trump.”
 
 </details>
 
@@ -3658,11 +4130,12 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** political ally of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:03:13](/episodes/ep-ZGxnf5cj4Uw.md#t-00-03-03): “...hoosing. I am told that they are fans of Charlie (Charlie Kirk) and they are fans of Donald Trump. Although this source noted that Tyler, like many other conserva...”
 - [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:00:16](/episodes/ep-2Riv3I7D0Yk.md#t-00-00-00): “...nticipated. Because just 16 hours before Charlie (Charlie Kirk) was assassinated, he mysteriously retweeted a 2013 tweet from Donald Trump calling for public exec...”
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:00:19](/episodes/ep-ZGxnf5cj4Uw.md#t-00-00-00): “...f their choosing. I am told that they are fans of Charlie (Charlie Kirk) and they are fans of Donald Trump. Although this source noted that Tyler, like many other conservatives...”
+- [Candace x Hunter Biden: The Interview @ 01:03:57](/episodes/ep-Ux1kzgQxkws.md#t-01-03-56): “Charlie Kirk made these people, that's exactly right. He led a youth revolution to get these people elected in power.”
 
 </details>
 
@@ -3681,9 +4154,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Jared Kushner](/entities/person-jared-kushner.md)** son-in-law of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:10:38](/episodes/ep-5-HUyv9LyMg.md#t-00-10-31): “the president of the United States, likely under the instruction of his son-in-law, Jared Kushner”
+- [Candace x Hunter Biden: The Interview @ 01:13:13](/episodes/ep-Ux1kzgQxkws.md#t-01-12-53): “he is the ambassador at large on behalf of the Trump administration, not as a political pointy, but simply as a son-in-law of the president.”
 
 </details>
 
@@ -3904,13 +4378,127 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Donald J. Trump (149)</strong></summary>
+<summary><strong class="section-title">Statements about Donald J. Trump (179)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
 
 - [02:21:45](/episodes/ep-nPhCKwJ6ye8.md#t-02-21-45) (Claim) **Candace Owens**: ["Candace Owens reported the alleged French Foreign Legion threat to Tul..."](/statements/statement-09827ba5d6e7.md)
   - Also about: [Tulsi Gabbard](/entities/person-tulsi-gabbard.md), [French Foreign Legion](/entities/org-french-foreign-legion.md)
+
+</details>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2)</summary>
+
+- [00:03:47](/episodes/ep-YeEtS7nix3o.md#t-00-03-16) (Claim) **Candace Owens**: ["Candace Owens said the Trump administration sent a delegation to the S..."](/statements/statement-4574432e4ebd.md)
+  - Also about: [St. Petersburg International Economic Forum](/entities/event-saint-petersburg-international-economic-forum.md)
+
+- [00:51:07](/episodes/ep-YeEtS7nix3o.md#t-00-50-58) (Claim) **Alex Clark** (via quoted post): ["Alex Clark claimed that she prompted Donald Trump's earlier rant about..."](/statements/statement-59f5383d66cd.md)
+  - Also about: [Alex Clark](/entities/person-alex-clark.md), [Candace Owens](/entities/person-candace-owens.md), [Oval Office](/entities/gpe-oval-office.md)
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (8)</summary>
+
+- [00:01:44](/episodes/ep-SKNJPul29zU.md#t-00-01-12) (Claim) **Ana Kasparian**: ["Candace Owens said before the election that she would stop supporting ..."](/statements/statement-40857bd925c4.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Iran](/entities/gpe-iran.md)
+
+- [00:32:52](/episodes/ep-SKNJPul29zU.md#t-00-32-52) (Accusation) **Ana Kasparian**: ["Donald Trump's current long social-media posts are the rantings of a m..."](/statements/statement-070c510cc4be.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+- [00:42:43](/episodes/ep-SKNJPul29zU.md#t-00-42-43) (Opinion) **Ana Kasparian**: ["Donald Trump may be blackmailed, is corrupt, loves money, and is excee..."](/statements/statement-eddf414e2d4a.md)
+
+- [00:43:51](/episodes/ep-SKNJPul29zU.md#t-00-43-51) (Accusation) **Candace Owens**: ["Miriam Adelson effectively bought the White House through a deal with ..."](/statements/statement-db80c3149fb1.md)
+  - Also about: [Miriam Adelson](/entities/person-miriam-adelson.md), [White House](/entities/org-white-house.md)
+
+- [00:44:11](/episodes/ep-SKNJPul29zU.md#t-00-43-58) (Opinion) **Ana Kasparian** (via paraphrase): ["Donald Trump was communicating that he acts for Israel because Miriam ..."](/statements/statement-42ff8b371906.md)
+  - Also about: [Miriam Adelson](/entities/person-miriam-adelson.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
+
+- [00:49:24](/episodes/ep-SKNJPul29zU.md#t-00-49-24) (Opinion) **Candace Owens**: ["Donald Trump and Kash Patel both answer to interests in Las Vegas and ..."](/statements/statement-fff3bf83fb00.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md), [Tel Aviv-Yafo](/entities/gpe-tel-aviv-yafo.md)
+
+- [01:12:28](/episodes/ep-SKNJPul29zU.md#t-01-12-28) (Accusation) **Ana Kasparian**: ["Brad Parscale is working for the Israeli government in a propaganda ro..."](/statements/statement-58de25224ccc.md)
+  - Also about: [Brad Parscale](/entities/person-brad-parscale.md), [Israel](/entities/gpe-israel.md)
+
+- [01:20:25](/episodes/ep-SKNJPul29zU.md#t-01-20-23) (Prediction) **Ana Kasparian**: ["Donald Trump will not stage a coup to remain in the White House becaus..."](/statements/statement-495dad6b3a47.md)
+  - Also about: [White House](/entities/org-white-house.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (2)</summary>
+
+- [00:14:14](/episodes/ep-MhakwJxK-Zk.md#t-00-13-58) (Claim) **Candace Owens**: ["After serving in the Navy and Army Special Forces, Bradley D. Hansell ..."](/statements/statement-658004bfa4b2.md)
+  - Also about: [Bradley D. Hansell](/entities/person-bradley-d-hansell.md), [Boston Consulting Group](/entities/org-boston-consulting-group.md), [National Security Council](/entities/org-national-security-council.md)
+
+- [00:22:44](/episodes/ep-MhakwJxK-Zk.md#t-00-22-36) (Accusation) **Candace Owens**: ["The CIA is not reporting to President Donald Trump."](/statements/statement-3d57addd1c5e.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (7)</summary>
+
+- [00:25:12](/episodes/ep-BxN2-aeMYIs.md#t-00-24-56) (Claim) **Candace Owens**: ["Sebastian Gorka was not cleared in the first Trump administration beca..."](/statements/statement-0b3b241b3ba2.md)
+  - Also about: [Sebastian Gorka](/entities/person-sebastian-gorka.md), [United Kingdom](/entities/gpe-united-kingdom.md)
+
+- [00:26:21](/episodes/ep-BxN2-aeMYIs.md#t-00-26-21) (Opinion) **Candace Owens**: ["The Trump administration is squeezing Americans' rights, stripping the..."](/statements/statement-48d81c274213.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+- [00:37:53](/episodes/ep-BxN2-aeMYIs.md#t-00-37-52) (Opinion) **Blake Neff**: ["Thomas Massie has become the number-one Republican gadfly who gets in ..."](/statements/statement-7cd583a3c902.md)
+  - Also about: [Thomas Massie](/entities/person-thomas-massie.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+- [00:38:53](/episodes/ep-BxN2-aeMYIs.md#t-00-38-44) (Opinion) **Candace Owens**: ["Charlie Kirk strongly supported releasing the Epstein files and would ..."](/statements/statement-b4f5e9783d49.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+- [00:49:14](/episodes/ep-BxN2-aeMYIs.md#t-00-48-56) (Opinion) **Candace Owens**: ["Donald Trump is a Trojan horse who has let people in to destroy Americ..."](/statements/statement-95526585ef79.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+- [00:49:24](/episodes/ep-BxN2-aeMYIs.md#t-00-48-56) (Accusation) **Candace Owens**: ["Trump's partners are engaging in conduct that rises to criminality, wi..."](/statements/statement-b7d7ec5fb0d3.md)
+
+- [00:49:41](/episodes/ep-BxN2-aeMYIs.md#t-00-49-41) (Accusation) **Candace Owens**: ["Trump's meme coins steal wealth from poor people to further enrich his..."](/statements/statement-cb6a65d1c449.md)
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (6)</summary>
+
+- [00:39:32](/episodes/ep-Ux1kzgQxkws.md#t-00-39-32) (Accusation) **Hunter Biden**: ["A Trump-appointed U.S. attorney continued prosecuting me and became sp..."](/statements/statement-b9d480735b4c.md)
+  - Also about: [Hunter Biden](/entities/person-hunter-biden.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md)
+
+- [00:59:59](/episodes/ep-Ux1kzgQxkws.md#t-00-59-59) (Opinion) **Candace Owens**: ["Donald Trump, Kash Patel, and JD Vance have shown zero interest in the..."](/statements/statement-5412eb913b0a.md)
+  - Also about: [Donald Trump Jr.](/entities/person-donald-trump-jr.md), [Kash Patel](/entities/person-kash-patel.md), [JD Vance](/entities/person-jd-vance.md)
+
+- [01:02:22](/episodes/ep-Ux1kzgQxkws.md#t-01-02-22) (Accusation) **Candace Owens**: ["Donald Trump is protecting his donors by withholding the Epstein files..."](/statements/statement-5b8ae82f98e2.md)
+  - Also about: [Epstein Files](/entities/work-epstein-files.md)
+
+- [01:08:27](/episodes/ep-Ux1kzgQxkws.md#t-01-08-27) (Claim) **Hunter Biden**: ["Donald Trump has posted images of himself as a king about half a dozen..."](/statements/statement-7b87d710bc71.md)
+
+- [01:11:22](/episodes/ep-Ux1kzgQxkws.md#t-01-11-13) (Accusation) **Hunter Biden**: ["Joe Biden did not greenlight turning Gaza into a Trump golf course wit..."](/statements/statement-245428c642ae.md)
+  - Also about: [Joe Biden](/entities/person-joe-biden.md), [Jared Kushner](/entities/person-jared-kushner.md), [Gaza](/entities/gpe-gaza.md)
+
+- [01:13:13](/episodes/ep-Ux1kzgQxkws.md#t-01-12-53) (Accusation) **Hunter Biden**: ["Jared Kushner has a $4 billion private-equity fund, with 80% from the ..."](/statements/statement-eac3a9869c33.md)
+  - Also about: [Jared Kushner](/entities/person-jared-kushner.md), [Middle East](/entities/gpe-middle-east.md)
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (5)</summary>
+
+- [00:04:16](/episodes/ep-Pb7UlpRdW6U.md#t-00-03-38) (Claim) **Candace Owens**: ["A sitting president has survived three separate public shooting assass..."](/statements/statement-05722facb996.md)
+
+- [00:16:42](/episodes/ep-Pb7UlpRdW6U.md#t-00-16-24) (Accusation) **Erika Kirk** (via quoted speech): ["Systemic indoctrination and radicalization of American citizens led to..."](/statements/statement-f12320e03f88.md)
+
+- [00:42:26](/episodes/ep-Pb7UlpRdW6U.md#t-00-42-10) (Claim) **Candace Owens**: ["A 22-foot golden statue of President Donald Trump was unveiled at one ..."](/statements/statement-285848b9a3bb.md)
+  - Also about: [Florida](/entities/gpe-florida.md)
+
+- [00:43:28](/episodes/ep-Pb7UlpRdW6U.md#t-00-43-09) (Claim) **Candace Owens**: ["The giant golden Trump statue was financially backed by major donors f..."](/statements/statement-6e4d9735d16a.md)
+  - Also about: [Hasidic Judaism](/entities/concept-hasidic-judaism.md)
+
+- [00:52:01](/episodes/ep-Pb7UlpRdW6U.md#t-00-52-01) (Opinion) **Candace Owens**: ["Donald Trump proved to be the ultimate Trojan horse ushering in techno..."](/statements/statement-79b5ed3f39af.md)
+  - Also about: [Technocracy](/entities/concept-technocracy.md), [United States Armed Forces](/entities/org-united-states-armed-forces.md)
 
 </details>
 

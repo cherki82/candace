@@ -1,6 +1,6 @@
 ---
 title: "Colorado"
-description: "Colorado (Places) - 57 mentions"
+description: "Colorado (Places) - 71 mentions"
 id: "gpe-colorado"
 type: "GPE"
 categories:
@@ -17,11 +17,11 @@ Source: [State Information - Colorado.gov](https://co.colorado.gov/state-informa
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-colorado-t-00-09-13">2025-09-11 · 00:09:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-24-41">2026-05-13 · 00:25:01</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>57</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-cPidFQDJLbo.md#ent-gpe-colorado-t-00-54-22">2026-05-20 · 00:54:34</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>71</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -43,6 +43,8 @@ Source: [State Information - Colorado.gov](https://co.colorado.gov/state-informa
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-gpe-colorado-t-00-35-43" style="--pulse-height:11%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 2 mentions" title="2026-04-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-colorado-t-00-45-02" style="--pulse-height:53%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 10 mentions" title="2026-04-22 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-00-00" style="--pulse-height:100%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 19 mentions" title="2026-05-13 · 19 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-colorado-t-00-00-39" style="--pulse-height:58%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 11 mentions" title="2026-05-19 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-gpe-colorado-t-00-01-35" style="--pulse-height:16%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 3 mentions" title="2026-05-20 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -61,6 +63,8 @@ Source: [State Information - Colorado.gov](https://co.colorado.gov/state-informa
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-colorado-t-00-35-43) | 2 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-gpe-colorado-t-00-45-02) | 10 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-colorado-t-00-00-00) | 19 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-colorado-t-00-00-39) | 11 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-gpe-colorado-t-00-01-35) | 3 |
 
 </details>
 </section>
@@ -68,7 +72,59 @@ Source: [State Information - Colorado.gov](https://co.colorado.gov/state-informa
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (57)</strong></summary>
+<summary><strong class="section-title">Raw mentions (71)</strong></summary>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (3 mentions)</summary>
+
+**[00:02:02](/episodes/ep-cPidFQDJLbo.md#ent-gpe-colorado-t-00-01-35)**
+> "gubernatorial candidate to Colorado."
+
+**[00:48:52](/episodes/ep-cPidFQDJLbo.md#ent-gpe-colorado-t-00-48-44)**
+> "...ng to lead an entire state of Colorado. I don't think that that works if you're that sof..."
+
+**[00:54:34](/episodes/ep-cPidFQDJLbo.md#ent-gpe-colorado-t-00-54-22)**
+> "...if I wanted to be governor of Colorado, I wouldn't go on."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (11 mentions)</summary>
+
+**[00:00:50](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-colorado-t-00-00-39)**
+> "Colorado, a fascinating guy, right? You gotta just admit h..."
+
+**[00:01:24](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-colorado-t-00-01-24)**
+> "... to be joined by Victor Marx, Colorado's gubernatorial candidate."
+
+**[00:02:44](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-colorado-t-00-02-27)**
+> "...e was running for governor of Colorado, a calling that he felt came from God in the wake..."
+
+**[00:05:42](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-colorado-t-00-05-42)**
+> "...his candidacy for governor of Colorado on October 1st. So that's the reason why his back..."
+
+**[00:22:25](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-colorado-t-00-22-25)**
+> "the state of Colorado."
+
+**[00:30:25](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-colorado-t-00-30-25)**
+> "to be the governor of Colorado. So, you know, figuring out whether or not you te..."
+
+**[01:20:27](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-colorado-t-01-20-27)**
+> "... we I introduce you were to a Colorado the international resident, crimes? I I would say..."
+
+**[01:22:15](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-colorado-t-01-22-15)**
+> "No, here in Colorado recently, a four-year-old was beat to death by Ye..."
+
+**[01:23:21](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-colorado-t-01-22-45)**
+> "If you lived in Colorado, you wouldn't vote for me. So maybe you're gettin..."
+
+**[01:23:40](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-colorado-t-01-23-40)**
+> "No, I said I don't live in Colorado, so there's"
+
+**[01:24:19](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-colorado-t-01-24-15)**
+> "...that from here all the way to Colorado."
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (19 mentions)</summary>
@@ -316,7 +372,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Colorado (5)</strong></summary>
+<summary><strong class="section-title">Statements about Colorado (6)</strong></summary>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1)</summary>
+
+- [00:03:21](/episodes/ep-cPidFQDJLbo.md#t-00-03-21) (Claim) **Victor Marx** (via quoted post): ["All of this started only because I entered the political realm and bec..."](/statements/statement-ba2e76c32c38.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md)
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>

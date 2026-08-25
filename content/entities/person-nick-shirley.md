@@ -1,6 +1,6 @@
 ---
 title: "Nick Shirley"
-description: "Nick Shirley (People) - 51 mentions"
+description: "Nick Shirley (People) - 53 mentions"
 id: "person-nick-shirley"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-nick-shirley-t-00-33-50">2026-03-24 · 00:34:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-nick-shirley-t-00-47-38">2026-05-13 · 00:47:38</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>51</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-nick-shirley-t-00-16-55">2026-05-26 · 00:16:55</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>53</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>11</strong></div>
@@ -37,6 +37,7 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-nick-shirley-t-00-00-39" style="--pulse-height:100%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 24 mentions" title="2026-05-11 · 24 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-nick-shirley-t-00-45-57" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-nick-shirley-t-00-28-40" style="--pulse-height:50%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 12 mentions" title="2026-05-13 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-nick-shirley-t-00-16-19" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-nick-shirley-t-00-00-39) | 24 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-nick-shirley-t-00-45-57) | 1 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-nick-shirley-t-00-28-40) | 12 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-nick-shirley-t-00-16-19) | 2 |
 
 </details>
 </section>
@@ -55,7 +57,18 @@ Source: [Nick Shirley - YouTube](https://www.youtube.com/@NickShirley)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+<summary><strong class="section-title">Raw mentions (53)</strong></summary>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (2 mentions)</summary>
+
+**[00:16:50](/episodes/ep-BxN2-aeMYIs.md#ent-person-nick-shirley-t-00-16-19)**
+> "it worked out for them and Nick Shirley"
+
+**[00:16:55](/episodes/ep-BxN2-aeMYIs.md#ent-person-nick-shirley-t-00-16-55)**
+> "Pause. Nick Shirley, the guy who infiltrated the favela in 48 hours f..."
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1 mentions)</summary>

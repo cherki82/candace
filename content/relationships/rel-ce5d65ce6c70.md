@@ -11,7 +11,11 @@ object: "person-erika-kirk"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) has CEO [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (28 mentions)
+### Evidence (32 mentions)
+
+**[Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg)**
+
+- [00:18:51](/episodes/ep-1QZ4X6q1DPg#t-00-18-51): _secrecy around the footage has become a major point of contention for critics of Turning Point and its new CEO, Erika Kirk._
 
 **[EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM)**
 
@@ -20,6 +24,10 @@ object: "person-erika-kirk"
 **[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
 
 - [00:13:21](/episodes/ep-B9TyCs-6o_0#t-00-13-21): _turning point is angry. angry because this made both them and the new CEO and chairman who also happens to be Charlie Kirk's wife look bad_
+
+**[The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs)**
+
+- [00:33:58](/episodes/ep-BxN2-aeMYIs#t-00-33-58): _Turning Point USA was trending ... alleged AI video of Charlie Kirk appointing Erika as CEO._
 
 **[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
 
@@ -70,6 +78,10 @@ object: "person-erika-kirk"
 - [00:08:59](/episodes/ep-Qt0VHV-POCg#t-00-08-59): _Erika Kirk was the chairman and the CEO 36 hours later._
 - [00:09:05](/episodes/ep-Qt0VHV-POCg#t-00-09-05): _I don't even think they had even yet announced that Erika Kirk was the chairman and the CEO 36 hours later._
 
+**[Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU)**
+
+- [00:56:00](/episodes/ep-SKNJPul29zU#t-00-56-00): _maybe she's still in shell shock and is actually not controlling anything at turning point was my initial suspicion and just on paper she's ceo_
+
 **[Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo)**
 
 - [00:25:59](/episodes/ep-SubDoZWHARo#t-00-25-59): _This is a new CEO and chairman of TPUSA_
@@ -89,6 +101,10 @@ object: "person-erika-kirk"
 **[Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8)**
 
 - [00:54:03](/episodes/ep-a-e7HC6SeK8#t-00-54-03): _Erika Kirk will issue a statement. I think in this new capacity, CEO and chairman_
+
+**[TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo)**
+
+- [00:31:29](/episodes/ep-cPidFQDJLbo#t-00-31-29): _Interestingly enough, you might recall from that Daily Mail article that they said that they spoke to a TPUSA board member who said that he was helping with those affairs. ... And this is if I'm just taking a shot in the dark. I would imagine it was one of the board members who announced that Erika (Erika Kirk) was going to be the CEO and the chairman._
 
 **[Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8)**
 

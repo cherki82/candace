@@ -1,6 +1,6 @@
 ---
 title: "Nicki Minaj"
-description: "Nicki Minaj (People) - 6 mentions"
+description: "Nicki Minaj (People) - 7 mentions"
 id: "person-nicki-minaj"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Nicki Minaj - Official Website](https://www.nickiminajofficial.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-nicki-minaj-t-00-15-01">2026-01-05 · 00:15:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#t-00-12-38">2026-05-11 · 00:12:38</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-nicki-minaj-t-00-08-47">2026-05-18 · 00:08:47</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,7 @@ Source: [Nicki Minaj - Official Website](https://www.nickiminajofficial.com/)
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-nicki-minaj-t-00-19-00" style="--pulse-height:50%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-nicki-minaj-t-00-21-12" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#t-00-12-38" style="--pulse-height:50%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-nicki-minaj-t-00-08-47" style="--pulse-height:50%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Nicki Minaj - Official Website](https://www.nickiminajofficial.com/)
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-nicki-minaj-t-00-19-00) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-nicki-minaj-t-00-21-12) | 2 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#t-00-12-38) | 1 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-nicki-minaj-t-00-08-47) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [Nicki Minaj - Official Website](https://www.nickiminajofficial.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>
+
+**[00:08:47](/episodes/ep-1QZ4X6q1DPg.md#ent-person-nicki-minaj-t-00-08-47)**
+> "...e Erika (Erika Kirk). You got Nicki Minaj, you got JD Vance up there lecturing you, got Pre..."
+
+</details>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>

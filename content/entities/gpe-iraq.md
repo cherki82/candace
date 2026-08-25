@@ -1,6 +1,6 @@
 ---
 title: "Iraq"
-description: "Iraq (Places) - 46 mentions"
+description: "Iraq (Places) - 50 mentions"
 id: "gpe-iraq"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iraq-t-00-09-46">2025-11-12 · 00:10:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-iraq-t-00-48-10">2026-03-17 · 00:48:10</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>46</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-iraq-t-00-18-35">2026-05-21 · 00:18:35</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>50</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -43,6 +43,8 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-iraq-t-00-08-22" style="--pulse-height:8%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-iraq-t-00-33-55" style="--pulse-height:33%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 4 mentions" title="2026-03-17 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iraq-t-00-06-12" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-iraq-t-00-51-25" style="--pulse-height:25%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 3 mentions" title="2026-05-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-iraq-t-00-18-35" style="--pulse-height:8%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +62,8 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-iraq-t-00-08-22) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-iraq-t-00-33-55) | 4 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-iraq-t-00-06-12) | 1 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-iraq-t-00-51-25) | 3 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-iraq-t-00-18-35) | 1 |
 
 </details>
 </section>
@@ -67,7 +71,29 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (46)</strong></summary>
+<summary><strong class="section-title">Raw mentions (50)</strong></summary>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
+
+**[00:18:35](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-iraq-t-00-18-35)**
+> "...I mean, except when he was in Iraq, I literally probably talked to my brother every ..."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (3 mentions)</summary>
+
+**[00:51:45](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-iraq-t-00-51-25)**
+> "... you know, in Afghanistan, in Iraq, in Haiti, in I mean, where else actually could I..."
+
+**[00:53:03](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-iraq-t-00-52-37)**
+> "...d then I got invited to go to Iraq when ISIS invaded."
+
+**[00:58:38](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-iraq-t-00-58-16)**
+> "...s in our safe house inside of Iraq."
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (4 mentions)</summary>
@@ -277,7 +303,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Iraq (15)</strong></summary>
+<summary><strong class="section-title">Statements about Iraq (16)</strong></summary>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1)</summary>
+
+- [00:53:10](/episodes/ep-Dkxa9OUA9K8.md#t-00-52-37) (Claim) **Victor Marx**: ["Victor Marx says the Kurdistan government officially invited his organ..."](/statements/statement-e4c4edec34ff.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Kurdistan Regional Government](/entities/org-kurdistan-regional-government.md), [Islamic State](/entities/org-islamic-state.md)
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1)</summary>

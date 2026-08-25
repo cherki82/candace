@@ -1,6 +1,6 @@
 ---
 title: "Show Faith by Works, LLC"
-description: "Show Faith by Works, LLC (Organizations) - 12 mentions"
+description: "Show Faith by Works, LLC (Organizations) - 13 mentions"
 id: "org-show-faith-by-works"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [FARA Registrant Documents: Show Faith by Works, LLC (Registration 7653)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-show-faith-by-works-t-00-36-07">2026-05-04 · 00:36:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-org-show-faith-by-works-t-00-01-56">2026-05-07 · 00:02:11</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-show-faith-by-works-t-00-35-16">2026-05-27 · 00:35:16</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -40,6 +40,7 @@ Source: [FARA Registrant Documents: Show Faith by Works, LLC (Registration 7653)
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-show-faith-by-works-t-00-36-07" style="--pulse-height:100%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 6 mentions" title="2026-05-04 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-show-faith-by-works-t-00-13-48" style="--pulse-height:83%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 5 mentions" title="2026-05-05 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-org-show-faith-by-works-t-00-01-56" style="--pulse-height:17%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-show-faith-by-works-t-00-35-16" style="--pulse-height:17%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [FARA Registrant Documents: Show Faith by Works, LLC (Registration 7653)
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-show-faith-by-works-t-00-36-07) | 6 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-show-faith-by-works-t-00-13-48) | 5 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-org-show-faith-by-works-t-00-01-56) | 1 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-show-faith-by-works-t-00-35-16) | 1 |
 
 </details>
 </section>
@@ -55,7 +57,15 @@ Source: [FARA Registrant Documents: Show Faith by Works, LLC (Registration 7653)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
+
+**[00:35:16](/episodes/ep-MhakwJxK-Zk.md#ent-org-show-faith-by-works-t-00-35-16)**
+> "... on behalf of Clocktower LLC, Show Faith by Works."
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>

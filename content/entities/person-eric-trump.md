@@ -1,6 +1,6 @@
 ---
 title: "Eric Trump"
-description: "Eric Trump (People) - 9 mentions"
+description: "Eric Trump (People) - 10 mentions"
 id: "person-eric-trump"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Eric Trump Official Biography](https://www.trump.com/leadership/eric-tr
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-eric-trump-t-00-07-52">2025-09-11 · 00:08:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-eric-trump-t-00-31-24">2026-05-05 · 00:31:40</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-eric-trump-t-00-47-13">2026-05-18 · 00:47:49</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
@@ -35,6 +35,7 @@ Source: [Eric Trump Official Biography](https://www.trump.com/leadership/eric-tr
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-person-eric-trump-t-00-39-03" style="--pulse-height:100%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 5 mentions" title="2025-11-08 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#t-00-10-50" style="--pulse-height:20%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-eric-trump-t-00-31-24" style="--pulse-height:20%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-eric-trump-t-00-47-13" style="--pulse-height:20%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Eric Trump Official Biography](https://www.trump.com/leadership/eric-tr
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-person-eric-trump-t-00-39-03) | 5 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#t-00-10-50) | 1 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-eric-trump-t-00-31-24) | 1 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-eric-trump-t-00-47-13) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [Eric Trump Official Biography](https://www.trump.com/leadership/eric-tr
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>
+
+**[00:47:49](/episodes/ep-1QZ4X6q1DPg.md#ent-person-eric-trump-t-00-47-13)**
+> "... the Trump administration, by Eric Trump, by Donald Trump Jr., by Lara Trump, by the peopl..."
+
+</details>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1 mentions)</summary>

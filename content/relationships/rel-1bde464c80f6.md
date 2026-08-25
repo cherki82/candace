@@ -11,11 +11,15 @@ object: "person-shawn-ryan"
 
 ## [Brian Harpole](/entities/person-brian-harpole) interviewed by [Shawn Ryan](/entities/person-shawn-ryan)
 
-### Evidence (5 mentions)
+### Evidence (6 mentions)
 
 **[BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU)**
 
 - [00:19:10](/episodes/ep-69A8TzAGHlU#t-00-19-10): _you're saying you went on you went on Sean Ryan because of things that I was saying and that's what I was saying Again, it was because of his behavior and what he said on Sean Ryan's show, which I found to be unconvincing, which is he's suing me for saying that that interview was unconvincing, which made me feel weird and take a second look._
+
+**[The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs)**
+
+- [00:08:46](/episodes/ep-BxN2-aeMYIs#t-00-08-46): _Brian felt compelled to do the Sean Ryan podcast interview because of conspiracies that I drummed up on the Internet about him_
 
 **[Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs)**
 

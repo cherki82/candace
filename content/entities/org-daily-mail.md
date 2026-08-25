@@ -1,6 +1,6 @@
 ---
 title: "Daily Mail"
-description: "Daily Mail (Organizations) - 25 mentions"
+description: "Daily Mail (Organizations) - 44 mentions"
 id: "org-daily-mail"
 type: "ORG"
 categories:
@@ -18,34 +18,39 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-daily-mail-t-00-43-40">2025-09-18 · 00:44:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-org-daily-mail-t-00-31-07">2026-05-07 · 00:31:21</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-org-daily-mail-t-01-04-20">2026-06-09 · 01:04:41</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>44</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-daily-mail-t-00-02-07">AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-daily-mail-t-00-15-29">Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-sreYYcID-QY.md#ent-org-daily-mail-t-00-43-40" style="--pulse-height:25%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-daily-mail-t-00-24-00" style="--pulse-height:25%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ja26iltROkM.md#ent-org-daily-mail-t-00-55-47" style="--pulse-height:25%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-daily-mail-t-00-31-28" style="--pulse-height:25%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-c5BcKF91iec.md#ent-org-daily-mail-t-00-44-31" style="--pulse-height:25%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-daily-mail-t-00-21-04" style="--pulse-height:50%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-daily-mail-t-00-12-06" style="--pulse-height:50%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-daily-mail-t-00-41-32" style="--pulse-height:25%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Wjul6YV6izo.md#ent-org-daily-mail-t-00-02-07" style="--pulse-height:100%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 4 mentions" title="2026-01-30 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-daily-mail-t-00-04-18" style="--pulse-height:25%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#ent-org-daily-mail-t-00-50-46" style="--pulse-height:25%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-daily-mail-t-00-19-45" style="--pulse-height:75%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-daily-mail-t-00-29-37" style="--pulse-height:25%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-daily-mail-t-00-39-20" style="--pulse-height:25%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-FFQ9675oqRI.md#ent-org-daily-mail-t-00-29-02" style="--pulse-height:100%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 4 mentions" title="2026-05-07 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-org-daily-mail-t-00-43-40" style="--pulse-height:12%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-daily-mail-t-00-24-00" style="--pulse-height:12%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-org-daily-mail-t-00-55-47" style="--pulse-height:12%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-daily-mail-t-00-31-28" style="--pulse-height:12%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-org-daily-mail-t-00-44-31" style="--pulse-height:12%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-daily-mail-t-00-21-04" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-daily-mail-t-00-12-06" style="--pulse-height:25%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-daily-mail-t-00-41-32" style="--pulse-height:12%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-org-daily-mail-t-00-02-07" style="--pulse-height:50%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 4 mentions" title="2026-01-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-daily-mail-t-00-04-18" style="--pulse-height:12%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-daily-mail-t-00-50-46" style="--pulse-height:12%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-daily-mail-t-00-19-45" style="--pulse-height:38%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-daily-mail-t-00-29-37" style="--pulse-height:12%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-daily-mail-t-00-39-20" style="--pulse-height:12%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-org-daily-mail-t-00-29-02" style="--pulse-height:50%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 4 mentions" title="2026-05-07 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-daily-mail-t-00-06-44" style="--pulse-height:25%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-daily-mail-t-00-15-29" style="--pulse-height:100%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 8 mentions" title="2026-05-18 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-org-daily-mail-t-00-20-57" style="--pulse-height:50%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 4 mentions" title="2026-05-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-daily-mail-t-00-34-26" style="--pulse-height:12%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-org-daily-mail-t-01-01-21" style="--pulse-height:50%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 4 mentions" title="2026-06-09 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -66,6 +71,11 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-daily-mail-t-00-29-37) | 1 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-daily-mail-t-00-39-20) | 1 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-org-daily-mail-t-00-29-02) | 4 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-daily-mail-t-00-06-44) | 2 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-daily-mail-t-00-15-29) | 8 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-org-daily-mail-t-00-20-57) | 4 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-org-daily-mail-t-00-34-26) | 1 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-daily-mail-t-01-01-21) | 4 |
 
 </details>
 </section>
@@ -73,7 +83,89 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (4 mentions)</summary>
+
+**[01:01:38](/episodes/ep-YeEtS7nix3o.md#ent-org-daily-mail-t-01-01-21)**
+> "The public would never accept it. They would say it was AI. Then they moved to do something even stranger. As public pressure began to mount, someone decided that it was a good idea to collude with the Daily Mail."
+
+**[01:01:49](/episodes/ep-YeEtS7nix3o.md#ent-org-daily-mail-t-01-01-21)**
+> "Rather than just releasing the video in its entire context, they decided to exclusively show it to some reporters over at the Daily Mail who would in turn act as the arbiter of truth, I suppose."
+
+**[01:02:05](/episodes/ep-YeEtS7nix3o.md#ent-org-daily-mail-t-01-02-05)**
+> "But they made a mistake there because they told the Daily Mail reporters that the reason that they did not want to release it was, simply put, they lied and claimed that it was to protect the donors."
+
+**[01:04:41](/episodes/ep-YeEtS7nix3o.md#ent-org-daily-mail-t-01-04-20)**
+> "And so when they then moved to present this clip of Charlie, suddenly, I guess. Yes, they lied to the Daily Mail and they could show it without the donor purporting that it was real and that he was handing over the reins to Erika. I just grew suspicious and just look at the manner in which how they presented it again as her walkout music. They just cannot give us this clip in its full context."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1 mentions)</summary>
+
+**[00:34:51](/episodes/ep-BxN2-aeMYIs.md#ent-org-daily-mail-t-00-34-26)**
+> "reaching out to Daily Mail reporters"
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (4 mentions)</summary>
+
+**[00:21:28](/episodes/ep-cPidFQDJLbo.md#ent-org-daily-mail-t-00-20-57)**
+> "everybody is telling the Daily Mail."
+
+**[00:31:05](/episodes/ep-cPidFQDJLbo.md#ent-org-daily-mail-t-00-30-54)**
+> "...ch was later confirmed by the Daily Mail in their investigation into the AI video."
+
+**[00:31:29](/episodes/ep-cPidFQDJLbo.md#ent-org-daily-mail-t-00-30-54)**
+> "...h, you might recall from that Daily Mail article that they said that they spoke to a TPUSA..."
+
+**[00:32:50](/episodes/ep-cPidFQDJLbo.md#ent-org-daily-mail-t-00-32-19)**
+> "...ow ill-advisable to go to the Daily Mail to say, we're going to host a little private scre..."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (8 mentions)</summary>
+
+**[00:15:29](/episodes/ep-1QZ4X6q1DPg.md#ent-org-daily-mail-t-00-15-29)**
+> "... some journalists over at the Daily Mail."
+
+**[00:17:09](/episodes/ep-1QZ4X6q1DPg.md#ent-org-daily-mail-t-00-16-55)**
+> "...in anonymous confirmed to the Daily Mail that he was personally involved with the personal..."
+
+**[00:18:51](/episodes/ep-1QZ4X6q1DPg.md#ent-org-daily-mail-t-00-18-51)**
+> "...en released publicly, but the Daily Mail has been given exclusive access to screen the ful..."
+
+**[00:19:33](/episodes/ep-1QZ4X6q1DPg.md#ent-org-daily-mail-t-00-19-33)**
+> "...hin the organization told the Daily Mail."
+
+**[00:23:25](/episodes/ep-1QZ4X6q1DPg.md#ent-org-daily-mail-t-00-22-58)**
+> "...hing line when you enlisted a Daily Mail reporter to help dispel questions."
+
+**[00:24:44](/episodes/ep-1QZ4X6q1DPg.md#ent-org-daily-mail-t-00-24-20)**
+> "...ything that happened with the Daily Mail reporter."
+
+**[00:25:25](/episodes/ep-1QZ4X6q1DPg.md#ent-org-daily-mail-t-00-25-00)**
+> "... have a conversation with the Daily Mail reporter. But again, he's always looking for a bo..."
+
+**[00:45:07](/episodes/ep-1QZ4X6q1DPg.md#ent-org-daily-mail-t-00-45-07)**
+> "...here. We have experts over at Daily Mail that are better suited to explain to you why it's..."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (2 mentions)</summary>
+
+**[00:07:01](/episodes/ep-Pb7UlpRdW6U.md#ent-org-daily-mail-t-00-06-44)**
+> "...braved everything to confront Daily Mail reporters, right?"
+
+**[00:07:13](/episodes/ep-Pb7UlpRdW6U.md#ent-org-daily-mail-t-00-06-44)**
+> "..., Erika (Erika Kirk), are the Daily Mail reporters in the West Wing with us now? What are ..."
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (4 mentions)</summary>
@@ -246,9 +338,10 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:02:17](/episodes/ep-Wjul6YV6izo.md#t-00-02-07): “I want to shout out the Daily Mail, ... because no one has been working harder than the Daily Mail to invert reality.”
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:45:07](/episodes/ep-1QZ4X6q1DPg.md#t-00-44-26): “We have experts over at Daily Mail that are better suited to explain to you why it's cool to reverse course and everything that Charlie (Charlie Kirk) wanted and to pretend that you don't know what his position was on war in the Middle East because he's not here.”
 
 </details>
 
@@ -289,9 +382,10 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 <summary>Referenced By (5)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:02:17](/episodes/ep-Wjul6YV6izo.md#t-00-02-07): “I want to shout out the Daily Mail, ... because no one has been working harder than the Daily Mail to invert reality.”
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:45:07](/episodes/ep-1QZ4X6q1DPg.md#t-00-44-26): “We have experts over at Daily Mail that are better suited to explain to you why it's cool to reverse course and everything that Charlie (Charlie Kirk) wanted and to pretend that you don't know what his position was on war in the Middle East because he's not here.”
 
 </details>
 
@@ -328,7 +422,52 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Daily Mail (5)</strong></summary>
+<summary><strong class="section-title">Statements by Daily Mail (1)</strong></summary>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1)</summary>
+
+- [00:18:51](/episodes/ep-1QZ4X6q1DPg.md#t-00-18-51) [✓] (Citation) ["The Daily Mail said it received exclusive access to screen the full Aspen donor-..."](/statements/statement-00f1da66a0f1.md)
+  - About: [Daily Mail](/entities/org-daily-mail.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Daily Mail (9)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>
+
+- [01:01:49](/episodes/ep-YeEtS7nix3o.md#t-01-01-21) (Claim) **Candace Owens**: ["Candace Owens said Turning Point USA showed the succession video priva..."](/statements/statement-90899baf09f5.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
+
+- [00:34:51](/episodes/ep-BxN2-aeMYIs.md#t-00-34-26) (Accusation) **Candace Owens**: ["Turning Point USA offered Daily Mail reporters a private screening or ..."](/statements/statement-84ef686177f7.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [FaceTime](/entities/work-facetime.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1)</summary>
+
+- [00:31:05](/episodes/ep-cPidFQDJLbo.md#t-00-30-54) (Citation) **Candace Owens**: ["Sources said a Turning Point USA board member would help with the end-..."](/statements/statement-135794f947a0.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1)</summary>
+
+- [00:18:51](/episodes/ep-1QZ4X6q1DPg.md#t-00-18-51) (Citation) **Daily Mail** (via quoted article): ["The Daily Mail said it received exclusive access to screen the full As..."](/statements/statement-00f1da66a0f1.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (3)</summary>

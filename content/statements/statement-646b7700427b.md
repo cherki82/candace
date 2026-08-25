@@ -4,9 +4,10 @@ description: "\"Michael Jackson's estate and the Beatles catalog were stolen fro
 statement_id: "statement-646b7700427b"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "false"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✗ False
 
 ## Statement
 
@@ -33,7 +34,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Sony and the Michael Jackson Estate jointly announced a negotiated 2016 sale of the Estate remaining 50 percent interest in Sony ATV for 750 million dollars. The Estate received substantial consideration and retained other Jackson publishing rights. That primary transaction record directly contradicts the assertion that the estate and Beatles catalog were stolen after his death.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Sony and Jackson Estate Announce Closing of Sony Purchase of Remaining Sony ATV Interest](https://www.sony.com/en/SonyInfo/News/Press/201610/16-1003E/)
+
+*Verified: 2026-08-25T08:20:59.570698*
 
 ---
 

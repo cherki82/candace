@@ -11,7 +11,7 @@ date: "2025-07-14"
 
 > Candace Owens said Erika Kirk flew to Long Beach with Catherine LoCastro and Jonathan Marcello and returned to Scottsdale.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318
 
@@ -28,3 +28,11 @@ date: "2025-07-14"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3084);return false;">▶️ Play</a>
 
 > that flight she took with Catherine Locastro and Derek Niekerk and Jonathan Barcello
+
+### 3. BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. |...
+
+**Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
+**Timestamp:** [00:30:54](/episodes/ep-MhakwJxK-Zk.md#t-00-30-35) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1854);return false;">▶️ Play</a>
+
+> Erika travels to Long Beach, California to speak at James Kaddis' Calvary Chapel Church

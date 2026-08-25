@@ -1,6 +1,6 @@
 ---
 title: "Mitch Snow"
-description: "Mitch Snow (People) - 99 mentions"
+description: "Mitch Snow (People) - 102 mentions"
 id: "person-mitch-snow"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-mitch-snow-t-00-35-09">2026-01-05 · 00:35:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-mitch-snow-t-00-40-37">2026-05-13 · 00:41:04</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>99</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-mitch-snow-t-00-53-23">2026-05-27 · 00:53:48</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>102</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -55,6 +55,8 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-mitch-snow-t-00-03-01" style="--pulse-height:58%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 11 mentions" title="2026-05-06 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-mitch-snow-t-00-46-01" style="--pulse-height:74%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 14 mentions" title="2026-05-11 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-mitch-snow-t-00-40-37" style="--pulse-height:11%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-mitch-snow-t-00-09-11" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-mitch-snow-t-00-12-35" style="--pulse-height:11%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -78,6 +80,8 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-mitch-snow-t-00-03-01) | 11 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-mitch-snow-t-00-46-01) | 14 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-mitch-snow-t-00-40-37) | 2 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-mitch-snow-t-00-09-11) | 1 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-mitch-snow-t-00-12-35) | 2 |
 
 </details>
 </section>
@@ -85,7 +89,26 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (99)</strong></summary>
+<summary><strong class="section-title">Raw mentions (102)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (2 mentions)</summary>
+
+**[00:12:35](/episodes/ep-MhakwJxK-Zk.md#ent-person-mitch-snow-t-00-12-35)**
+> "...e're going to platform Mitch (Mitch Snow)'s baby mamas. What's going on here, man? A simpl..."
+
+**[00:53:48](/episodes/ep-MhakwJxK-Zk.md#ent-person-mitch-snow-t-00-53-23)**
+> "that Mitch (Mitch Snow) accurately remembered who he saw, and then it ju..."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1 mentions)</summary>
+
+**[00:09:18](/episodes/ep-BxN2-aeMYIs.md#ent-person-mitch-snow-t-00-09-11)**
+> "prodding Mitch Snow's story"
+
+</details>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (2 mentions)</summary>
@@ -600,7 +623,15 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mitch Snow (15)</strong></summary>
+<summary><strong class="section-title">Statements about Mitch Snow (16)</strong></summary>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
+
+- [00:09:30](/episodes/ep-BxN2-aeMYIs.md#t-00-09-11) (Claim) **Candace Owens**: ["Owens confirmed that Mitch Snow was at Fort Huachuca and that police w..."](/statements/statement-f0dc60e0e67e.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</details>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (3)</summary>

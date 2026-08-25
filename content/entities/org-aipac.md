@@ -1,6 +1,6 @@
 ---
 title: "American Israel Public Affairs Committee"
-description: "American Israel Public Affairs Committee (Organizations) - 33 mentions"
+description: "American Israel Public Affairs Committee (Organizations) - 38 mentions"
 id: "org-aipac"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [About AIPAC](https://aipac.org/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-aipac-t-00-30-01">2025-09-19 · 00:30:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-org-aipac-t-00-24-27">2026-05-07 · 00:24:44</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-org-aipac-t-01-15-05">2026-06-09 · 01:15:05</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -50,6 +50,10 @@ Source: [About AIPAC](https://aipac.org/about)
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-org-aipac-t-00-51-44" style="--pulse-height:12%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-aipac-t-00-15-31" style="--pulse-height:12%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-org-aipac-t-00-22-01" style="--pulse-height:62%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 5 mentions" title="2026-05-07 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-aipac-t-00-49-09" style="--pulse-height:25%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 2 mentions" title="2026-05-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-aipac-t-01-14-28" style="--pulse-height:12%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-aipac-t-00-48-13" style="--pulse-height:12%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-org-aipac-t-01-15-05" style="--pulse-height:12%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -69,6 +73,10 @@ Source: [About AIPAC](https://aipac.org/about)
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-org-aipac-t-00-51-44) | 1 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-aipac-t-00-15-31) | 1 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-org-aipac-t-00-22-01) | 5 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-aipac-t-00-49-09) | 2 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-aipac-t-01-14-28) | 1 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-org-aipac-t-00-48-13) | 1 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-aipac-t-01-15-05) | 1 |
 
 </details>
 </section>
@@ -76,7 +84,42 @@ Source: [About AIPAC](https://aipac.org/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>
+
+**[01:15:05](/episodes/ep-YeEtS7nix3o.md#ent-org-aipac-t-01-15-05)**
+> "...se they don't agree with what AIPAC is doing."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1 mentions)</summary>
+
+**[00:48:47](/episodes/ep-BxN2-aeMYIs.md#ent-org-aipac-t-00-48-13)**
+> "money being spent by AIPAC"
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1 mentions)</summary>
+
+**[01:14:41](/episodes/ep-Dkxa9OUA9K8.md#ent-org-aipac-t-01-14-28)**
+> "out to AIPAC and I would definitely have some you know questio..."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (2 mentions)</summary>
+
+**[00:49:42](/episodes/ep-1QZ4X6q1DPg.md#ent-org-aipac-t-00-49-09)**
+> "...ions. We are not supported by AIPAC."
+
+**[00:49:49](/episodes/ep-1QZ4X6q1DPg.md#ent-org-aipac-t-00-49-09)**
+> "AIPAC doesn't like us."
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (5 mentions)</summary>
@@ -321,7 +364,15 @@ Source: [About AIPAC](https://aipac.org/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about American Israel Public Affairs Committee (10)</strong></summary>
+<summary><strong class="section-title">Statements about American Israel Public Affairs Committee (11)</strong></summary>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
+
+- [00:48:47](/episodes/ep-BxN2-aeMYIs.md#t-00-48-13) (Opinion) **Candace Owens**: ["Charlie Kirk supported Thomas Massie and would not have appreciated AI..."](/statements/statement-6d8fbc2a4489.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Thomas Massie](/entities/person-thomas-massie.md)
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (4)</summary>

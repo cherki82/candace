@@ -1,6 +1,6 @@
 ---
 title: "Dose"
-description: "Dose (Organizations) - 20 mentions"
+description: "Dose (Organizations) - 24 mentions"
 id: "org-dose"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-dose-t-00-41-05">2026-01-06 · 00:41:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-dose-t-00-26-41">2026-05-06 · 00:26:41</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-dose-t-00-24-38">2026-05-27 · 00:25:16</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -40,6 +40,7 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-dose-t-00-22-59" style="--pulse-height:80%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 4 mentions" title="2026-03-06 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-dose-t-00-27-05" style="--pulse-height:80%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 4 mentions" title="2026-04-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-dose-t-00-25-57" style="--pulse-height:60%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 3 mentions" title="2026-05-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-dose-t-00-24-00" style="--pulse-height:80%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 4 mentions" title="2026-05-27 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-dose-t-00-22-59) | 4 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-dose-t-00-27-05) | 4 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-dose-t-00-25-57) | 3 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-dose-t-00-24-00) | 4 |
 
 </details>
 </section>
@@ -57,7 +59,24 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (4 mentions)</summary>
+
+**[00:24:27](/episodes/ep-MhakwJxK-Zk.md#ent-org-dose-t-00-24-00)**
+> "...o want to tell you guys about Dose because most of what you hear in the wellness ind..."
+
+**[00:24:38](/episodes/ep-MhakwJxK-Zk.md#ent-org-dose-t-00-24-38)**
+> "...bolism, and that's why I take Dose for your liver."
+
+**[00:24:48](/episodes/ep-MhakwJxK-Zk.md#ent-org-dose-t-00-24-38)**
+> "Dose is a highly absorbable liquid supplement taken in..."
+
+**[00:25:16](/episodes/ep-MhakwJxK-Zk.md#ent-org-dose-t-00-24-38)**
+> "...tely feel it. People who take dose consistently report less sluggishness, less midda..."
+
+</details>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (3 mentions)</summary>

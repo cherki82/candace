@@ -1,6 +1,6 @@
 ---
 title: "Fox News"
-description: "Fox News (Organizations) - 77 mentions"
+description: "Fox News (Organizations) - 84 mentions"
 id: "org-fox-news"
 type: "ORG"
 aliases:
@@ -24,12 +24,12 @@ Source: [Fox News](https://www.foxnews.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-fox-news-t-00-03-31">2025-09-11 · 00:03:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-fox-news-t-00-47-07">2026-05-11 · 00:47:43</a></strong></div>
-<div><span>Episodes</span><strong>39</strong></div>
-<div><span>Mentions</span><strong>77</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-org-fox-news-t-01-20-00">2026-05-28 · 01:20:03</a></strong></div>
+<div><span>Episodes</span><strong>43</strong></div>
+<div><span>Mentions</span><strong>84</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -76,6 +76,10 @@ Source: [Fox News](https://www.foxnews.com/)
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-fox-news-t-01-02-01" style="--pulse-height:25%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#t-00-10-08" style="--pulse-height:12%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-fox-news-t-00-47-07" style="--pulse-height:12%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#t-01-12-14" style="--pulse-height:12%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-org-fox-news-t-00-34-18" style="--pulse-height:25%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 2 mentions" title="2026-05-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-fox-news-t-00-07-10" style="--pulse-height:25%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-org-fox-news-t-00-26-06" style="--pulse-height:25%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -120,6 +124,10 @@ Source: [Fox News](https://www.foxnews.com/)
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-fox-news-t-01-02-01) | 2 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#t-00-10-08) | 1 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-fox-news-t-00-47-07) | 1 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#t-01-12-14) | 1 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-org-fox-news-t-00-34-18) | 2 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-org-fox-news-t-00-07-10) | 2 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-fox-news-t-00-26-06) | 2 |
 
 </details>
 </section>
@@ -127,7 +135,48 @@ Source: [Fox News](https://www.foxnews.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (77)</strong></summary>
+<summary><strong class="section-title">Raw mentions (84)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (2 mentions)</summary>
+
+**[00:26:06](/episodes/ep-SKNJPul29zU.md#ent-org-fox-news-t-00-26-06)**
+> "And the whiplash of, oh, Tucker Carlson was fine for Fox News and"
+
+**[01:20:03](/episodes/ep-SKNJPul29zU.md#ent-org-fox-news-t-01-20-00)**
+> "...d of keeping him in a cave of fox news every day"
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (2 mentions)</summary>
+
+**[00:07:34](/episodes/ep-BxN2-aeMYIs.md#ent-org-fox-news-t-00-07-10)**
+> "the Fox News personality"
+
+**[00:41:05](/episodes/ep-BxN2-aeMYIs.md#ent-org-fox-news-t-00-40-52)**
+> "...bi (Benjamin Netanyahu) go on Fox News the next day and say, I didn't kill him. It wasn'..."
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (2 mentions)</summary>
+
+**[00:34:33](/episodes/ep-cPidFQDJLbo.md#ent-org-fox-news-t-00-34-18)**
+> "This was the headline of Fox News"
+
+**[00:36:42](/episodes/ep-cPidFQDJLbo.md#ent-org-fox-news-t-00-36-24)**
+> "... you just saw. You would have Fox News. You would have News Nation."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1 mentions)</summary>
+
+**[01:12:35](/episodes/ep-Dkxa9OUA9K8.md#t-01-12-14)**
+> "I was on Fox. I said Hamas needs to stop firing rockets in the..."
+
+</details>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>
@@ -573,13 +622,20 @@ Source: [Fox News](https://www.foxnews.com/)
 </details>
 
 <details>
-<summary>Formerly Employed (1)</summary>
+<summary>Formerly Employed (2)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:18:52](/episodes/ep-9naMwS0kMBE.md#t-00-18-46): “used to work for Fox News”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:12:10](/episodes/ep-uC_GjKU8rs8.md#t-00-11-59): “Tucker Carlson left Fox in 2023. He kept his audience. He runs his shop with a fraction of the headcount.”
+
+</details>
+
+- **[Pete Hegseth](/entities/person-pete-hegseth.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:07:26](/episodes/ep-BxN2-aeMYIs.md#t-00-07-10): “Pete Hegseth has certainly been one of the more deranged pro-Israel voices of this administration. Bomb Iran, go to war, war, war, war. A very far departure from the Fox News personality that viewers had grown accustomed to.”
 
 </details>
 
@@ -610,7 +666,7 @@ Source: [Fox News](https://www.foxnews.com/)
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Suzanne Scott](/entities/person-suzanne-scott.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -624,6 +680,13 @@ Source: [Fox News](https://www.foxnews.com/)
 
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:18:52](/episodes/ep-9naMwS0kMBE.md#t-00-18-46): “used to work for Fox News”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:12:10](/episodes/ep-uC_GjKU8rs8.md#t-00-11-59): “Tucker Carlson left Fox in 2023. He kept his audience. He runs his shop with a fraction of the headcount.”
+
+</details>
+
+- **[Pete Hegseth](/entities/person-pete-hegseth.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:07:26](/episodes/ep-BxN2-aeMYIs.md#t-00-07-10): “Pete Hegseth has certainly been one of the more deranged pro-Israel voices of this administration. Bomb Iran, go to war, war, war, war. A very far departure from the Fox News personality that viewers had grown accustomed to.”
 
 </details>
 
@@ -646,7 +709,15 @@ Source: [Fox News](https://www.foxnews.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Fox News (6)</strong></summary>
+<summary><strong class="section-title">Statements about Fox News (7)</strong></summary>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
+
+- [00:41:05](/episodes/ep-BxN2-aeMYIs.md#t-00-40-52) (Claim) **Candace Owens**: ["I bet it was Iran that made Bibi go on Fox News the next day and say, ..."](/statements/statement-f70c261644ec.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md)
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1)</summary>

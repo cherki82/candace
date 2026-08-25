@@ -1,6 +1,6 @@
 ---
 title: "Tyler Bowyer"
-description: "Tyler Bowyer (People) - 196 mentions"
+description: "Tyler Bowyer (People) - 198 mentions"
 id: "person-tyler-bowyer"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-tyler-bowyer-t-00-41-28">2025-09-29 · 00:41:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-tyler-bowyer-t-00-49-36">2026-05-13 · 00:49:57</a></strong></div>
-<div><span>Episodes</span><strong>49</strong></div>
-<div><span>Mentions</span><strong>196</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-tyler-bowyer-t-01-04-20">2026-06-09 · 01:04:20</a></strong></div>
+<div><span>Episodes</span><strong>51</strong></div>
+<div><span>Mentions</span><strong>198</strong></div>
 <div><span>Statements by</span><strong>12</strong></div>
 <div><span>Statements about</span><strong>58</strong></div>
 <div><span>Relationships</span><strong>58</strong></div>
@@ -85,6 +85,8 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-tyler-bowyer-t-00-02-21" style="--pulse-height:11%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-tyler-bowyer-t-00-49-36" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-tyler-bowyer-t-00-17-01" style="--pulse-height:8%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-tyler-bowyer-t-00-56-00" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-person-tyler-bowyer-t-01-04-20" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -139,6 +141,8 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-tyler-bowyer-t-00-02-21) | 2 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-tyler-bowyer-t-00-49-36) | 1 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-tyler-bowyer-t-00-17-01) | 1 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-tyler-bowyer-t-00-56-00) | 1 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-tyler-bowyer-t-01-04-20) | 1 |
 
 </details>
 </section>
@@ -146,7 +150,23 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (196)</strong></summary>
+<summary><strong class="section-title">Raw mentions (198)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>
+
+**[01:04:20](/episodes/ep-YeEtS7nix3o.md#ent-person-tyler-bowyer-t-01-04-20)**
+> "...Point USA, it would have been Tyler Bowyer, who is to his left and who he calls out repeated..."
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
+
+**[00:56:00](/episodes/ep-SKNJPul29zU.md#ent-person-tyler-bowyer-t-00-56-00)**
+> "be like maybe it's this maybe in my head i was like maybe she's being blackmailed maybe she's scared they're going to kill her maybe like like you said she just wants a quick conclusion to all of this maybe she's still in shell shock and is actually not controlling anything at turning point was my initial suspicion and just on paper she's ceo but she's actually just home crying every day and like behind the scenes like you know tyler (Tyler Bowyer) or justin (Justin Streiff) Yeah, i"
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1 mentions)</summary>

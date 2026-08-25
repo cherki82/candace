@@ -4,9 +4,10 @@ description: "\"The White House Military Office's approved message said the pres
 statement_id: "statement-31abff6e63e0"
 speaker: "White House Military Office"
 type: "factual_claim"
+veracity: "unverifiable"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ? Cannot be verified
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The approved-message wording is presented as another quotation from the withheld communication. No authenticated original, official release, or independent source was found; the later White House Military Office response denied knowledge of the alleged communications.
+
+**Confidence:** Low
+
+**Sources:**
+
+- [Candace transcript: Hunter Biden Returns](https://podcasts.happyscribe.com/candace/hunter-biden-returns)
+
+*Verified: 2026-08-25T08:19:43.623049*
 
 ---
 

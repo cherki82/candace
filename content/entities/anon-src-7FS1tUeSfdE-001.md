@@ -38,7 +38,7 @@ _No relationships extracted yet._
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1)</summary>
 
-- [00:09:41](/episodes/ep-7FS1tUeSfdE.md#t-00-09-25) [○] (Claim) ["The Erika Kirk video was not recorded by Sara Sidner; it was distributed to Sidn..."](/statements/statement-9d931b4b22b7.md)
+- [00:09:41](/episodes/ep-7FS1tUeSfdE.md#t-00-09-25) [?] (Claim) ["The Erika Kirk video was not recorded by Sara Sidner; it was distributed to Sidn..."](/statements/statement-9d931b4b22b7.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Sara Sidner](/entities/person-sara-sidner.md)
 
 </details>

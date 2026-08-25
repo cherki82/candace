@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA Faith"
-description: "Turning Point USA Faith (Organizations) - 61 mentions"
+description: "Turning Point USA Faith (Organizations) - 69 mentions"
 id: "org-turning-point-usa-faith"
 type: "ORG"
 aliases:
@@ -26,12 +26,12 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-turning-point-usa-faith-t-00-42-50">2025-10-01 · 00:43:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-org-turning-point-usa-faith-t-00-47-18">2026-04-15 · 00:47:18</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>61</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-org-turning-point-usa-faith-t-01-04-20">2026-06-09 · 01:04:20</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>69</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>17</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -51,6 +51,9 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-turning-point-usa-faith-t-00-15-11" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-faith-t-00-00-00" style="--pulse-height:47%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 8 mentions" title="2026-04-14 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-org-turning-point-usa-faith-t-00-47-18" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-turning-point-usa-faith-t-00-16-13" style="--pulse-height:8%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-turning-point-usa-faith-t-00-01-24" style="--pulse-height:29%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 5 mentions" title="2026-05-19 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-org-turning-point-usa-faith-t-01-03-16" style="--pulse-height:12%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +71,9 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-turning-point-usa-faith-t-00-15-11) | 1 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-faith-t-00-00-00) | 8 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-turning-point-usa-faith-t-00-47-18) | 1 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-turning-point-usa-faith-t-00-16-13) | 1 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-turning-point-usa-faith-t-00-01-24) | 5 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-turning-point-usa-faith-t-01-03-16) | 2 |
 
 </details>
 </section>
@@ -75,7 +81,46 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (61)</strong></summary>
+<summary><strong class="section-title">Raw mentions (69)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2 mentions)</summary>
+
+**[01:03:41](/episodes/ep-YeEtS7nix3o.md#ent-org-turning-point-usa-faith-t-01-03-16)**
+> "...ision that she helps out with turning point faith, which is not exactly a credit to Erika Kirk."
+
+**[01:04:20](/episodes/ep-YeEtS7nix3o.md#ent-org-turning-point-usa-faith-t-01-04-20)**
+> "Yes, Erika Kirk speaks at Turning Point Faith events. That's obviously what he meant when he wa..."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (5 mentions)</summary>
+
+**[00:01:38](/episodes/ep-Dkxa9OUA9K8.md#ent-org-turning-point-usa-faith-t-00-01-24)**
+> "...rx is very much a part of the Turning Point Faith Orbit. He is apparently extraordinarily close to ..."
+
+**[00:48:28](/episodes/ep-Dkxa9OUA9K8.md#ent-org-turning-point-usa-faith-t-00-48-28)**
+> "...l a part of that same sort of turning point faith orbit of pastors. And Jack Hibbs took down a vide..."
+
+**[01:35:46](/episodes/ep-Dkxa9OUA9K8.md#ent-org-turning-point-usa-faith-t-01-35-46)**
+> "...s immersed in this world from turning point usa faith the fountain to be a little reticent to discuss"
+
+**[01:36:13](/episodes/ep-Dkxa9OUA9K8.md#ent-org-turning-point-usa-faith-t-01-35-46)**
+> "... the one who was driving home Turning Point Faith. In fact, Charlie (Charlie Kirk) said as much on ..."
+
+**[01:36:24](/episodes/ep-Dkxa9OUA9K8.md#ent-org-turning-point-usa-faith-t-01-35-46)**
+> "... Kirk) said when he mentioned Turning Point USA Faith that his wife does a lot of work for Turning Poin..."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>
+
+**[00:16:39](/episodes/ep-1QZ4X6q1DPg.md#ent-org-turning-point-usa-faith-t-00-16-13)**
+> "...ust the least who are running Turning Point USA faith."
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
@@ -338,12 +383,20 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 </details>
 
 <details>
-<summary>Employs (1)</summary>
+<summary>Employs (2)</summary>
 
 - **[Sean Feucht](/entities/person-sean-feucht.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:10:31](/episodes/ep-YFmRH8p5lt0.md#t-00-10-20): “Sean Feucht is announced as the Turning Point USA Faith contributor”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:36:13](/episodes/ep-Dkxa9OUA9K8.md#t-01-35-46): “Thus, much about leaving Erika (Erika Kirk) out of the story. Charlie (Charlie Kirk) was already married to her. She was the one who was driving home Turning Point Faith. In fact, Charlie (Charlie Kirk) said as much on stage in Aspen. Notorious Aspen trip, Charlie (Charlie Kirk) said when he mentioned Turning Point USA Faith that his wife does a lot of work for Turning Point USA Faith.”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:04:11](/episodes/ep-YeEtS7nix3o.md#t-01-03-53): “Of course, my wife, Erika Kirk, is very involved in the faith division.”
 
 </details>
 
@@ -411,7 +464,7 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** advisor to this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -421,9 +474,10 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 </details>
 
 - **[Victor Marx](/entities/person-victor-marx.md)** affiliated with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:06:36](/episodes/ep-jsqUIkszZd0.md#t-00-06-29): “a turning point faith affiliated pastor named Victor Marx was interested in owning. He wanted to purchase his company.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:01:38](/episodes/ep-Dkxa9OUA9K8.md#t-00-01-24): “So Victor Marx is very much a part of the Turning Point Faith Orbit. He is apparently extraordinarily close to Erika Kirk, right? So much so that he was.”
 
 </details>
 
@@ -470,12 +524,28 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 
 </details>
 
+- **[Erika Kirk](/entities/person-erika-kirk.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:36:13](/episodes/ep-Dkxa9OUA9K8.md#t-01-35-46): “Thus, much about leaving Erika (Erika Kirk) out of the story. Charlie (Charlie Kirk) was already married to her. She was the one who was driving home Turning Point Faith. In fact, Charlie (Charlie Kirk) said as much on stage in Aspen. Notorious Aspen trip, Charlie (Charlie Kirk) said when he mentioned Turning Point USA Faith that his wife does a lot of work for Turning Point USA Faith.”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:04:11](/episodes/ep-YeEtS7nix3o.md#t-01-03-53): “Of course, my wife, Erika Kirk, is very involved in the faith division.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA Faith (5)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA Faith (6)</strong></summary>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1)</summary>
+
+- [01:37:02](/episodes/ep-Dkxa9OUA9K8.md#t-01-36-31) (Opinion) **Candace Owens**: ["Candace Owens believes Erika Kirk brought certain faith figures around..."](/statements/statement-634b6b8896cf.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>

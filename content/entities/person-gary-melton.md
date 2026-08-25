@@ -1,6 +1,6 @@
 ---
 title: "Gary Melton"
-description: "Gary Melton (People) - 8 mentions"
+description: "Gary Melton (People) - 18 mentions"
 id: "person-gary-melton"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#t-00-21-10">2026-05-06 · 00:21:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-gary-melton-t-00-34-03">2026-05-13 · 00:34:30</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
-<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-gary-melton-t-00-39-37">2026-05-18 · 00:39:37</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Statements by</span><strong>4</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -37,6 +37,8 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-k1b1NDCrNFs.md#t-00-21-10" style="--pulse-height:17%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-gary-melton-t-00-01-25" style="--pulse-height:100%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 6 mentions" title="2026-05-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-gary-melton-t-00-38-00" style="--pulse-height:100%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 6 mentions" title="2026-05-14 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-gary-melton-t-00-38-24" style="--pulse-height:67%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 4 mentions" title="2026-05-18 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +46,8 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 |---|---|---:|
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#t-00-21-10) | 1 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-gary-melton-t-00-01-25) | 6 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-person-gary-melton-t-00-38-00) | 6 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-gary-melton-t-00-38-24) | 4 |
 
 </details>
 </section>
@@ -51,7 +55,47 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (4 mentions)</summary>
+
+**[00:38:24](/episodes/ep-1QZ4X6q1DPg.md#ent-person-gary-melton-t-00-38-24)**
+> "...to explain that to you, Gary (Gary Melton), because this is not a preschool, okay? You need..."
+
+**[00:38:52](/episodes/ep-1QZ4X6q1DPg.md#ent-person-gary-melton-t-00-38-24)**
+> "... get there by yourself, Gary (Gary Melton). Anyway, the receipts are here. On September 24,..."
+
+**[00:39:17](/episodes/ep-1QZ4X6q1DPg.md#ent-person-gary-melton-t-00-39-05)**
+> "...y. In fact, people like Gary (Gary Melton) kind of scare me. Dumb people with guns: not a g..."
+
+**[00:39:37](/episodes/ep-1QZ4X6q1DPg.md#ent-person-gary-melton-t-00-39-37)**
+> "...ty site run by an idiot named Gary Melton to buy the equipment. That seems weird. The timin..."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (6 mentions)</summary>
+
+**[00:38:00](/episodes/ep-Pb7UlpRdW6U.md#ent-person-gary-melton-t-00-38-00)**
+> "... it would kind of be relevant Gary Melton if these are in fact her children okay so this is..."
+
+**[00:38:30](/episodes/ep-Pb7UlpRdW6U.md#ent-person-gary-melton-t-00-38-00)**
+> "... Huachuca on the night. Gary (Gary Melton), let's just take apart that sentence."
+
+**[00:38:44](/episodes/ep-Pb7UlpRdW6U.md#ent-person-gary-melton-t-00-38-44)**
+> "...s with her kids, then indeed, Gary Melton, the content of the picture is relevant, especial..."
+
+**[00:39:10](/episodes/ep-Pb7UlpRdW6U.md#ent-person-gary-melton-t-00-39-10)**
+> "Gary (Gary Melton) you introduced this to the public as an alibi fo..."
+
+**[00:39:34](/episodes/ep-Pb7UlpRdW6U.md#ent-person-gary-melton-t-00-39-10)**
+> "...ying it's not her kids, Gary (Gary Melton). Now you're telling us it's not her kids. The co..."
+
+**[00:39:55](/episodes/ep-Pb7UlpRdW6U.md#ent-person-gary-melton-t-00-39-55)**
+> "...ight have smarter people than gary melton like this this is a military operative turning po..."
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (6 mentions)</summary>
@@ -93,21 +137,63 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:28:30](/episodes/ep-4DvYXBn_5JI.md#t-00-28-15): “youtuber paramount tactical gary melton as he's you know former green beret he's very thick and i'm talking like not a lot of thoughts happening um he thinks he's putting puzzles together but i just don't think that that's his thing”
+- [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:39:55](/episodes/ep-Pb7UlpRdW6U.md#t-00-39-55): “served as a green beret i'm terrified that china represents a threat not because of their data centers that are expanding but because they might have smarter people than gary melton like this this is a military operative turning point is turning to him for public relations and he doesn't even understand the functionality of an alibi he just he doesn't understand why people are obviously concerned about the fact That his alibi has now been completely debunked. Now he just says it doesn't matter whose kid it is.”
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:39:17](/episodes/ep-1QZ4X6q1DPg.md#t-00-39-05): “I've never claimed to be a military guy. In fact, people like Gary (Gary Melton) kind of scare me. Dumb people with guns: not a great thing.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Formerly Member Of (1)</summary>
 
-- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+- **[United States Army Special Forces](/entities/org-us-army-special-forces.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:39:55](/episodes/ep-Pb7UlpRdW6U.md#t-00-39-55): “served as a green beret i'm terrified that china represents a threat not because of their data centers that are expanding but because they might have smarter people than gary melton like this this is a military operative turning point is turning to him for public relations and he doesn't even understand the functionality of an alibi he just he doesn't understand why people are obviously concerned about the fact That his alibi has now been completely debunked. Now he just says it doesn't matter whose kid it is.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Operates (1)</summary>
+
+- **[Paramount Tactical Solutions](/entities/org-paramount-tactical-solutions.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:39:37](/episodes/ep-1QZ4X6q1DPg.md#t-00-39-05): “rather than going to a third-party site run by an idiot named Gary Melton to buy the equipment.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:28:30](/episodes/ep-4DvYXBn_5JI.md#t-00-28-15): “youtuber paramount tactical gary melton as he's you know former green beret he's very thick and i'm talking like not a lot of thoughts happening um he thinks he's putting puzzles together but i just don't think that that's his thing”
+- [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:39:55](/episodes/ep-Pb7UlpRdW6U.md#t-00-39-55): “served as a green beret i'm terrified that china represents a threat not because of their data centers that are expanding but because they might have smarter people than gary melton like this this is a military operative turning point is turning to him for public relations and he doesn't even understand the functionality of an alibi he just he doesn't understand why people are obviously concerned about the fact That his alibi has now been completely debunked. Now he just says it doesn't matter whose kid it is.”
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:39:17](/episodes/ep-1QZ4X6q1DPg.md#t-00-39-05): “I've never claimed to be a military guy. In fact, people like Gary (Gary Melton) kind of scare me. Dumb people with guns: not a great thing.”
+
+</details>
+
+- **[United States Army Special Forces](/entities/org-us-army-special-forces.md)** has former member this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:39:55](/episodes/ep-Pb7UlpRdW6U.md#t-00-39-55): “served as a green beret i'm terrified that china represents a threat not because of their data centers that are expanding but because they might have smarter people than gary melton like this this is a military operative turning point is turning to him for public relations and he doesn't even understand the functionality of an alibi he just he doesn't understand why people are obviously concerned about the fact That his alibi has now been completely debunked. Now he just says it doesn't matter whose kid it is.”
+
+</details>
+
+- **[Paramount Tactical Solutions](/entities/org-paramount-tactical-solutions.md)** operated by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:39:37](/episodes/ep-1QZ4X6q1DPg.md#t-00-39-05): “rather than going to a third-party site run by an idiot named Gary Melton to buy the equipment.”
 
 </details>
 
@@ -116,7 +202,15 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Gary Melton (3)</strong></summary>
+<summary><strong class="section-title">Statements by Gary Melton (4)</strong></summary>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1)</summary>
+
+- [00:38:00](/episodes/ep-Pb7UlpRdW6U.md#t-00-38-00) [✓] (Claim) ["The picture was proof that Erika Kirk was not at Fort Huachuca that night, even ..."](/statements/statement-400ef22073f9.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (2)</summary>

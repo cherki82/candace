@@ -4,9 +4,10 @@ description: "\"The decision for Erika Kirk to take over the Turning Point USA b
 statement_id: "statement-3394b312ef53"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "unverifiable"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ? Cannot be verified
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Public reporting confirms that the board announced Erika Kirk as CEO and chair eight days after Charlie Kirk died, but the claimed private decision within 48 hours is sourced in the transcript to unnamed insiders. No board minutes, dated internal record, or identified participant confirms when the decision was actually made.
+
+**Confidence:** Low
+
+**Sources:**
+
+- [AP: Charlie Kirk Turning Point taps his widow as its next leader](https://apnews.com/article/turning-point-charlie-kirk-erika-kirk-trump-ff9141ca3fd5b8f1a103e7eb03f7535b)
+
+*Verified: 2026-08-25T08:20:21.158008*
 
 ---
 

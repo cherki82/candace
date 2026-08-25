@@ -11,7 +11,7 @@ date: "2023-10-07"
 
 > The October 7 Hamas-led attack on Israel occurred.
 
-## Mentioned In (11 times)
+## Mentioned In (16 times)
 
 ### 1. Myron Gaines x Candace Owens
 
@@ -100,3 +100,43 @@ date: "2023-10-07"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(142);return false;">▶️ Play</a>
 
 > the October 7th experience, the October 7th experience coming to a church parking lot near you.
+
+### 12. Candace Owens x Ana Kasparian
+
+**Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
+**Timestamp:** [00:09:07](/episodes/ep-SKNJPul29zU.md#event-event-2023-10-07-the-october-7-hamas-led-attack-on-israel-t-00-08-51) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(547);return false;">▶️ Play</a>
+
+> So they were saying October 7th happened. BLM was saying the George Floyd thing happened.
+
+### 13. Candace Owens x Ana Kasparian
+
+**Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
+**Timestamp:** [00:18:33](/episodes/ep-SKNJPul29zU.md#event-event-2023-10-07-the-october-7-hamas-led-attack-on-israel-t-00-08-51) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1113);return false;">▶️ Play</a>
+
+> just like I did on October 7th I find it immoral when civilians are targeted and killed.
+
+### 14. Candace Owens x Ana Kasparian
+
+**Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
+**Timestamp:** [00:18:47](/episodes/ep-SKNJPul29zU.md#event-event-2023-10-07-the-october-7-hamas-led-attack-on-israel-t-00-08-51) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1127);return false;">▶️ Play</a>
+
+> I was not ever one of those people who cheered on what happened on October 7th. Never.
+
+### 15. Candace Owens x Ana Kasparian
+
+**Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
+**Timestamp:** [00:19:05](/episodes/ep-SKNJPul29zU.md#event-event-2023-10-07-the-october-7-hamas-led-attack-on-israel-t-00-08-51) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1145);return false;">▶️ Play</a>
+
+> what about october 7th what that communicates to me is you do have a problem with civilian lives
+
+### 16. Candace Owens x Ana Kasparian
+
+**Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
+**Timestamp:** [00:20:56](/episodes/ep-SKNJPul29zU.md#event-event-2023-10-07-the-october-7-hamas-led-attack-on-israel-t-00-08-51) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1256);return false;">▶️ Play</a>
+
+> October 7th happens and then they go remember all that stuff like this is now

@@ -1,6 +1,6 @@
 ---
 title: "Elizabeth Lane"
-description: "Elizabeth Lane (People) - 20 mentions"
+description: "Elizabeth Lane (People) - 23 mentions"
 id: "person-elizabeth-lane"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-elizabeth-lane-t-00-28-16">2025-10-02 · 00:28:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-elizabeth-lane-t-00-28-54">2026-04-20 · 00:28:54</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-elizabeth-lane-t-00-51-28">2026-05-14 · 00:51:36</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -42,6 +42,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-elizabeth-lane-t-00-32-10" style="--pulse-height:25%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-elizabeth-lane-t-00-16-34" style="--pulse-height:25%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-elizabeth-lane-t-00-01-20" style="--pulse-height:100%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 4 mentions" title="2026-04-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-elizabeth-lane-t-00-49-05" style="--pulse-height:75%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 3 mentions" title="2026-05-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +59,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-elizabeth-lane-t-00-32-10) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-elizabeth-lane-t-00-16-34) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-elizabeth-lane-t-00-01-20) | 4 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-person-elizabeth-lane-t-00-49-05) | 3 |
 
 </details>
 </section>
@@ -65,7 +67,21 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (3 mentions)</summary>
+
+**[00:49:37](/episodes/ep-Pb7UlpRdW6U.md#ent-person-elizabeth-lane-t-00-49-05)**
+> "...al tears. I go back always to Elizabeth Lane and what she said about the attributes of a psych..."
+
+**[00:51:17](/episodes/ep-Pb7UlpRdW6U.md#ent-person-elizabeth-lane-t-00-50-44)**
+> "...had the exact same dream that Elizabeth Lane described about Charlie (Charlie Kirk)."
+
+**[00:51:36](/episodes/ep-Pb7UlpRdW6U.md#ent-person-elizabeth-lane-t-00-51-28)**
+> "She's talking about Elizabeth Lane. I did a sit down with her. She came here and I d..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (4 mentions)</summary>
@@ -188,6 +204,18 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Appeared With (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:51:36](/episodes/ep-Pb7UlpRdW6U.md#t-00-51-28): “She's talking about Elizabeth Lane. I did a sit down with her. She came here and I did her show.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
@@ -202,7 +230,14 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:51:36](/episodes/ep-Pb7UlpRdW6U.md#t-00-51-28): “She's talking about Elizabeth Lane. I did a sit down with her. She came here and I did her show.”
+
+</details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>

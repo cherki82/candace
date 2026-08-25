@@ -11,10 +11,20 @@ date: "2025-06-21"
 
 > Operation Midnight Hammer struck Iranian nuclear sites
 
-## Mentioned In
+## Mentioned In (2 times)
+
+### 1. Bride Of Charlie: The Ties That Bind | Episode 4
 
 **Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
 **Timestamp:** [00:00:17](/episodes/ep-jTj9Ip46r4w.md#event-event-2025-06-21-operation-midnight-hammer-struck-iranian-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(17);return false;">▶️ Play</a>
 
 > after Operation Midnight Hammer, which was Trump agreeing on taking on a limited strike
+
+### 2. BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. |...
+
+**Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
+**Timestamp:** [00:28:54](/episodes/ep-MhakwJxK-Zk.md#event-event-2025-06-21-operation-midnight-hammer-struck-iranian-t-00-28-32) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1734);return false;">▶️ Play</a>
+
+> On June 22nd, Operation Midnight Hammer, which is when America bombs Iran nuclear sites

@@ -1,21 +1,29 @@
 ---
 title: "Adolf Hitler"
-description: "Adolf Hitler (People) - 18 mentions"
+description: "Adolf Hitler (People) - 22 mentions"
 id: "person-adolf-hitler"
 type: "PERSON"
 aliases:
   - "Hitler"
+categories:
+  - "Nazi Germany historical figure"
 ---
 
 _Type: People_
 
 **Also known as:** Hitler
 
+**Categories:** Nazi Germany historical figure
+
+**Entity verification:** verified
+> The United States Holocaust Memorial Museum confirms Adolf Hitler as the canonical name of the Nazi Party leader and German dictator referenced in the transcript's comparison.
+Source: [Adolf Hitler | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/article/adolf-hitler)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-adolf-hitler-t-00-00-00">2025-10-01 · 00:00:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-person-adolf-hitler-t-00-30-55">2025-11-21 · 00:30:55</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-adolf-hitler-t-00-23-00">2026-05-28 · 00:23:00</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,6 +41,7 @@ _Type: People_
 <a href="/episodes/ep-LATnak75Si0.md#ent-person-adolf-hitler-t-00-00-38" style="--pulse-height:33%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 3 mentions" title="2025-11-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-adolf-hitler-t-00-39-16" style="--pulse-height:11%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-adolf-hitler-t-00-30-55" style="--pulse-height:11%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-adolf-hitler-t-00-09-55" style="--pulse-height:44%" aria-label="Candace Owens x Ana Kasparian: 4 mentions" title="2026-05-28 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +54,7 @@ _Type: People_
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-adolf-hitler-t-00-00-38) | 3 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-adolf-hitler-t-00-39-16) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-adolf-hitler-t-00-30-55) | 1 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-adolf-hitler-t-00-09-55) | 4 |
 
 </details>
 </section>
@@ -52,7 +62,24 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (4 mentions)</summary>
+
+**[00:09:55](/episodes/ep-SKNJPul29zU.md#ent-person-adolf-hitler-t-00-09-55)**
+> "And suddenly it was you're an anti-Semite. You deserve to have nothing. You shouldn't even be allowed to travel to Australia because you are akin to Adolf Hitler."
+
+**[00:22:49](/episodes/ep-SKNJPul29zU.md#ent-person-adolf-hitler-t-00-22-49)**
+> "was working with uh you know Ben Shapiro and Marissa Streit and dennis prager and they're like yeah no it's crazy how it happened she fell and bumped her head and now she's adolf hitler and and that it's the whiplash it's too fast people"
+
+**[00:10:33](/episodes/ep-SKNJPul29zU.md#ent-person-adolf-hitler-t-00-10-33)**
+> "... rock star to suddenly she is Adolf Hitler and deserves nothing in her life because she has ..."
+
+**[00:23:00](/episodes/ep-SKNJPul29zU.md#ent-person-adolf-hitler-t-00-23-00)**
+> "...on bumped his head and became Adolf Hitler it's it becomes way too and then you go okay let ..."
+
+</details>
 
 <details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>

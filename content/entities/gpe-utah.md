@@ -1,6 +1,6 @@
 ---
 title: "Utah"
-description: "Utah (Places) - 276 mentions"
+description: "Utah (Places) - 294 mentions"
 id: "gpe-utah"
 type: "GPE"
 aliases:
@@ -22,10 +22,10 @@ Source: [State of Utah official website](https://utah.gov/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-utah-t-00-05-31">2025-09-16 · 00:05:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-03-48-13">2026-08-14 · 03:48:13</a></strong></div>
-<div><span>Episodes</span><strong>57</strong></div>
-<div><span>Mentions</span><strong>276</strong></div>
+<div><span>Episodes</span><strong>62</strong></div>
+<div><span>Mentions</span><strong>294</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -90,6 +90,11 @@ Source: [State of Utah official website](https://utah.gov/)
 <a href="/episodes/ep-69A8TzAGHlU.md#t-00-08-48" style="--pulse-height:17%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 3 mentions" title="2026-04-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-utah-t-00-31-51" style="--pulse-height:11%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-utah-t-00-47-13" style="--pulse-height:22%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-utah-t-00-17-29" style="--pulse-height:39%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 7 mentions" title="2026-05-14 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-gpe-utah-t-00-22-22" style="--pulse-height:11%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 2 mentions" title="2026-05-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-utah-t-00-09-55" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-utah-t-00-09-16" style="--pulse-height:28%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 5 mentions" title="2026-05-27 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-utah-t-00-51-37" style="--pulse-height:17%" aria-label="Candace Owens x Ana Kasparian: 3 mentions" title="2026-05-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-00-52-44" style="--pulse-height:94%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -152,6 +157,11 @@ Source: [State of Utah official website](https://utah.gov/)
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#t-00-08-48) | 3 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-utah-t-00-31-51) | 2 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-utah-t-00-47-13) | 4 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-utah-t-00-17-29) | 7 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-gpe-utah-t-00-22-22) | 2 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-utah-t-00-09-55) | 1 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-utah-t-00-09-16) | 5 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-utah-t-00-51-37) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-00-52-44) | 17 |
 
 </details>
@@ -160,7 +170,7 @@ Source: [State of Utah official website](https://utah.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (276)</strong></summary>
+<summary><strong class="section-title">Raw mentions (294)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (17 mentions)</summary>
@@ -215,6 +225,85 @@ Source: [State of Utah official website](https://utah.gov/)
 
 **[03:48:13](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-03-48-13)**
 > "...that there's enough under the Utah 1102 rule for me to keep it there."
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (3 mentions)</summary>
+
+**[00:51:51](/episodes/ep-SKNJPul29zU.md#ent-gpe-utah-t-00-51-37)**
+> "Bureau of Investigations in Utah"
+
+**[00:52:35](/episodes/ep-SKNJPul29zU.md#ent-gpe-utah-t-00-52-35)**
+> "Utah?"
+
+**[00:52:35](/episodes/ep-SKNJPul29zU.md#ent-gpe-utah-t-00-52-35)**
+> "...they haven't even given it to utah forget the sbn hasn't given to the sbi the defens..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (5 mentions)</summary>
+
+**[00:09:46](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-utah-t-00-09-16)**
+> "...would that ever bring them to Utah? That just feels so random."
+
+**[00:09:54](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-utah-t-00-09-54)**
+> "...ecall that we discovered that Utah is indeed a special place, at least to Bibi (Benj..."
+
+**[00:10:06](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-utah-t-00-09-54)**
+> "You can't think of Utah without thinking of the Romney family. They are e..."
+
+**[00:31:41](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-utah-t-00-31-11)**
+> "...'s according to local news in Utah, that Turning Point USA then submits for Charlie ..."
+
+**[00:50:29](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-utah-t-00-49-59)**
+> "...Virginia area code asking how Utah folks feel about the United States relationship w..."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1 mentions)</summary>
+
+**[00:10:16](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-utah-t-00-09-55)**
+> "from Texas up to Utah, Salt Lake City"
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (2 mentions)</summary>
+
+**[00:22:34](/episodes/ep-cPidFQDJLbo.md#ent-gpe-utah-t-00-22-22)**
+> "the FBI, the SBI and the state of Utah."
+
+**[00:24:59](/episodes/ep-cPidFQDJLbo.md#ent-gpe-utah-t-00-24-28)**
+> "The one in Utah, ironically, who was found guilty of murdering he..."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (7 mentions)</summary>
+
+**[00:17:36](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-utah-t-00-17-29)**
+> "...wice the size of Manhattan in Utah."
+
+**[00:17:51](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-utah-t-00-17-51)**
+> "...le are claiming a backlash as Utah approved a data center twice the size of Manhatta..."
+
+**[00:18:16](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-utah-t-00-17-51)**
+> "... Elder County in northwestern Utah."
+
+**[00:18:26](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-utah-t-00-17-51)**
+> "...more than the entire state of Utah currently consumes."
+
+**[00:18:41](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-utah-t-00-18-36)**
+> "...sands of objections lodged by Utah residents."
+
+**[00:18:47](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-utah-t-00-18-36)**
+> "Joke's on you, Utah residents. They will pay off these politicians. T..."
+
+**[00:21:18](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-utah-t-00-20-46)**
+> "... about his investment in that Utah data center."
 
 </details>
 
@@ -1407,7 +1496,32 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah (13)</strong></summary>
+<summary><strong class="section-title">Statements about Utah (18)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1)</summary>
+
+- [00:52:35](/episodes/ep-SKNJPul29zU.md#t-00-52-35) (Claim) **Candace Owens**: ["Tyler Robinson's defense had not received the FBI-held phone, gun, mes..."](/statements/statement-1e10606075e4.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md)
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (4)</summary>
+
+- [00:18:16](/episodes/ep-Pb7UlpRdW6U.md#t-00-17-51) (Claim) **The Guardian** (via quoted article): ["The Stratos Artificial Intelligence Data Center will cover more than 4..."](/statements/statement-51321e158c38.md)
+  - Also about: [Stratos Project](/entities/org-stratos-project.md), [Box Elder County, Utah](/entities/gpe-box-elder-county.md)
+
+- [00:18:26](/episodes/ep-Pb7UlpRdW6U.md#t-00-17-51) (Claim) **The Guardian** (via quoted article): ["The Stratos facility will require about nine gigawatts of power, more ..."](/statements/statement-df3cab06c7e1.md)
+  - Also about: [Stratos Project](/entities/org-stratos-project.md)
+
+- [00:18:36](/episodes/ep-Pb7UlpRdW6U.md#t-00-17-51) (Claim) **The Guardian** (via quoted article): ["The Stratos facility will consume significant water in an area affecte..."](/statements/statement-ae92fffcb081.md)
+  - Also about: [Stratos Project](/entities/org-stratos-project.md)
+
+- [00:18:41](/episodes/ep-Pb7UlpRdW6U.md#t-00-18-36) (Claim) **The Guardian** (via quoted article): ["Box Elder County commissioners approved the Stratos project despite th..."](/statements/statement-6f4cda344651.md)
+  - Also about: [Stratos Project](/entities/org-stratos-project.md), [Box Elder County, Utah](/entities/gpe-box-elder-county.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (2)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Evangelicalism"
-description: "Evangelicalism (Concepts) - 7 mentions"
+description: "Evangelicalism (Concepts) - 12 mentions"
 id: "concept-evangelicalism"
 type: "CONCEPT"
 aliases:
@@ -16,13 +16,17 @@ _Type: Concepts_
 
 **Categories:** religion; Christian movement
 
+**Entity verification:** verified
+> Canonical Christian movement corresponding to transcript references to evangelical churches.
+Source: [Britannica: Evangelical church](https://www.britannica.com/topic/Evangelical-church-Protestantism)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-evangelicalism-t-00-15-44">2026-01-12 · 00:16:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-evangelicalism-t-00-04-52">2026-05-07 · 00:04:52</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-evangelicalism-t-00-20-32">2026-05-27 · 00:20:32</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -35,6 +39,9 @@ _Type: Concepts_
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-evangelicalism-t-00-58-46" style="--pulse-height:33%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-evangelicalism-t-00-44-06" style="--pulse-height:33%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-evangelicalism-t-00-03-03" style="--pulse-height:67%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 2 mentions" title="2026-05-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-concept-evangelicalism-t-00-42-10" style="--pulse-height:67%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-evangelicalism-t-01-44-41" style="--pulse-height:67%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-evangelicalism-t-00-20-32" style="--pulse-height:33%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +51,9 @@ _Type: Concepts_
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-evangelicalism-t-00-58-46) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-concept-evangelicalism-t-00-44-06) | 1 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-concept-evangelicalism-t-00-03-03) | 2 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-evangelicalism-t-00-42-10) | 2 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-concept-evangelicalism-t-01-44-41) | 2 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-concept-evangelicalism-t-00-20-32) | 1 |
 
 </details>
 </section>
@@ -51,7 +61,37 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
+
+**[00:20:32](/episodes/ep-MhakwJxK-Zk.md#ent-concept-evangelicalism-t-00-20-32)**
+> "...nitarian Foundation taps U.S. evangelical leader Johnny Moore as the new chairman."
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (2 mentions)</summary>
+
+**[01:44:54](/episodes/ep-Ux1kzgQxkws.md#ent-concept-evangelicalism-t-01-44-41)**
+> "... close to that are part of an evangelical church, particularly in the African-American comm..."
+
+**[01:45:20](/episodes/ep-Ux1kzgQxkws.md#ent-concept-evangelicalism-t-01-45-20)**
+> "...y of a certain section of the evangelical church and what's happening in the world today."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (2 mentions)</summary>
+
+**[00:42:17](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-evangelicalism-t-00-42-10)**
+> "...s statue ceremony. Obviously, evangelical pastor comes out."
+
+**[00:42:34](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-evangelicalism-t-00-42-34)**
+> "...e pastor, John Mark Burns, an evangelical minister, is defending it because people are... f..."
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (2 mentions)</summary>
@@ -104,7 +144,14 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Evangelicalism (2)</strong></summary>
+<summary><strong class="section-title">Statements about Evangelicalism (3)</strong></summary>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1)</summary>
+
+- [01:44:54](/episodes/ep-Ux1kzgQxkws.md#t-01-44-41) (Opinion) **Hunter Biden**: ["Using faith as a cudgel is dangerous, and part of the evangelical chur..."](/statements/statement-e9a0163ac16d.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "ToxiBinder"
-description: "ToxiBinder (Works & Media) - 5 mentions"
+description: "ToxiBinder (Works & Media) - 7 mentions"
 id: "work-toxibinder"
 type: "WORK"
 aliases:
@@ -22,9 +22,9 @@ Source: [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](https://www.youtub
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-work-toxibinder-t-00-43-54">2026-02-27 · 00:43:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-work-toxibinder-t-00-35-21">2026-05-07 · 00:35:51</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1QZ4X6q1DPg.md#ent-work-toxibinder-t-00-27-40">2026-05-18 · 00:27:40</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,6 +39,7 @@ Source: [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](https://www.youtub
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-work-toxibinder-t-00-48-06" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-work-toxibinder-t-01-03-02" style="--pulse-height:50%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-work-toxibinder-t-00-35-21" style="--pulse-height:100%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 2 mentions" title="2026-05-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-work-toxibinder-t-00-27-07" style="--pulse-height:100%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 2 mentions" title="2026-05-18 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](https://www.youtub
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-work-toxibinder-t-00-48-06) | 1 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-work-toxibinder-t-01-03-02) | 1 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-work-toxibinder-t-00-35-21) | 2 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-work-toxibinder-t-00-27-07) | 2 |
 
 </details>
 </section>
@@ -55,7 +57,18 @@ Source: [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](https://www.youtub
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (2 mentions)</summary>
+
+**[00:27:32](/episodes/ep-1QZ4X6q1DPg.md#ent-work-toxibinder-t-00-27-07)**
+> "...tion today, you'll get a free Toxibinder, which is their premium toxic waste detox include..."
+
+**[00:27:40](/episodes/ep-1QZ4X6q1DPg.md#ent-work-toxibinder-t-00-27-40)**
+> "...r entire order plus that free Toxibinder."
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (2 mentions)</summary>

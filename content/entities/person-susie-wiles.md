@@ -1,6 +1,6 @@
 ---
 title: "Susie Wiles"
-description: "Susie Wiles (People) - 11 mentions"
+description: "Susie Wiles (People) - 12 mentions"
 id: "person-susie-wiles"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-susie-wiles-t-00-47-33">2025-10-28 · 00:47:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-susie-wiles-t-00-21-47">2026-05-13 · 00:22:09</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-susie-wiles-t-01-12-18">2026-05-28 · 01:12:18</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -43,6 +43,7 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-susie-wiles-t-00-12-49" style="--pulse-height:33%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#t-00-21-19" style="--pulse-height:33%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-susie-wiles-t-00-21-47" style="--pulse-height:33%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-susie-wiles-t-01-12-18" style="--pulse-height:33%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-susie-wiles-t-00-12-49) | 1 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#t-00-21-19) | 1 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-susie-wiles-t-00-21-47) | 1 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-susie-wiles-t-01-12-18) | 1 |
 
 </details>
 </section>
@@ -61,7 +63,15 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
+
+**[01:12:18](/episodes/ep-SKNJPul29zU.md#ent-person-susie-wiles-t-01-12-18)**
+> "I mean, it is wild that the chief of staff, Susie Wiles, worked on Benjamin Netanyahu's 2020 reelection campaign."
+
+</details>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1 mentions)</summary>
@@ -131,12 +141,61 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Chief Of Staff To (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens x Ana Kasparian @ 01:12:18](/episodes/ep-SKNJPul29zU.md#t-01-12-18): “I mean, it is wild that the chief of staff, Susie Wiles, worked on Benjamin Netanyahu's 2020 reelection campaign. She is the gatekeeper to the president of the United States.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Formerly Worked For (1)</summary>
+
+- **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens x Ana Kasparian @ 01:12:18](/episodes/ep-SKNJPul29zU.md#t-01-12-18): “I mean, it is wild that the chief of staff, Susie Wiles, worked on Benjamin Netanyahu's 2020 reelection campaign.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens x Ana Kasparian @ 01:12:18](/episodes/ep-SKNJPul29zU.md#t-01-12-18): “I mean, it is wild that the chief of staff, Susie Wiles, worked on Benjamin Netanyahu's 2020 reelection campaign.”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** has chief of staff this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens x Ana Kasparian @ 01:12:18](/episodes/ep-SKNJPul29zU.md#t-01-12-18): “I mean, it is wild that the chief of staff, Susie Wiles, worked on Benjamin Netanyahu's 2020 reelection campaign. She is the gatekeeper to the president of the United States.”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Susie Wiles (1)</strong></summary>
+<summary><strong class="section-title">Statements about Susie Wiles (2)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1)</summary>
+
+- [01:12:18](/episodes/ep-SKNJPul29zU.md#t-01-12-18) (Claim) **Ana Kasparian**: ["Susie Wiles worked on Benjamin Netanyahu's 2020 reelection campaign an..."](/statements/statement-6b23e658e97b.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [White House](/entities/org-white-house.md)
+
+</details>
 
 <details>
 <summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1)</summary>

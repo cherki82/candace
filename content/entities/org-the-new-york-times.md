@@ -1,6 +1,6 @@
 ---
 title: "The New York Times"
-description: "The New York Times (Organizations) - 54 mentions"
+description: "The New York Times (Organizations) - 57 mentions"
 id: "org-the-new-york-times"
 type: "ORG"
 aliases:
@@ -21,10 +21,10 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-the-new-york-times-t-00-50-22">2025-09-15 · 00:50:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#t-00-34-52">2026-05-13 · 00:35:19</a></strong></div>
-<div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>54</strong></div>
-<div><span>Statements by</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-org-the-new-york-times-t-00-25-09">2026-06-09 · 00:25:18</a></strong></div>
+<div><span>Episodes</span><strong>30</strong></div>
+<div><span>Mentions</span><strong>57</strong></div>
+<div><span>Statements by</span><strong>7</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -62,6 +62,8 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-the-new-york-times-t-00-11-33" style="--pulse-height:11%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-the-new-york-times-t-00-19-00" style="--pulse-height:11%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#t-00-34-52" style="--pulse-height:11%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-the-new-york-times-t-00-37-11" style="--pulse-height:11%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-org-the-new-york-times-t-00-25-09" style="--pulse-height:22%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -95,6 +97,8 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-the-new-york-times-t-00-11-33) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-the-new-york-times-t-00-19-00) | 1 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#t-00-34-52) | 1 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-the-new-york-times-t-00-37-11) | 1 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-the-new-york-times-t-00-25-09) | 2 |
 
 </details>
 </section>
@@ -102,7 +106,26 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (54)</strong></summary>
+<summary><strong class="section-title">Raw mentions (57)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2 mentions)</summary>
+
+**[00:25:09](/episodes/ep-YeEtS7nix3o.md#ent-org-the-new-york-times-t-00-25-09)**
+> "...aganda. This is straight from the New York Times. You can learn about his family and how they came..."
+
+**[00:25:18](/episodes/ep-YeEtS7nix3o.md#ent-org-the-new-york-times-t-00-25-09)**
+> "This New York Times article was called The Riddle of Armand Hammer, a..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
+
+**[00:37:33](/episodes/ep-MhakwJxK-Zk.md#ent-org-the-new-york-times-t-00-37-11)**
+> "...ut I'm going to show you this New York Times article, how a car crash in France deeply affecte..."
+
+</details>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1 mentions)</summary>
@@ -503,12 +526,20 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by The New York Times (6)</strong></summary>
+<summary><strong class="section-title">Statements by The New York Times (7)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
+
+- [00:37:42](/episodes/ep-MhakwJxK-Zk.md#t-00-37-11) [✓] (Claim) ["The New York Times reported that on June 16, 1968, a car driven by 21-year-old M..."](/statements/statement-27584beb5108.md)
+  - About: [Mitt Romney](/entities/person-mitt-romney.md), [Leola Anderson](/entities/person-leola-anderson.md), [H. Duane Anderson](/entities/person-h-duane-anderson.md)
+
+</details>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1)</summary>
 
-- [00:35:19](/episodes/ep-7FS1tUeSfdE.md#t-00-34-52) [○] (Claim) ["Brigitte Macron slapped her husband over text messages to an actress."](/statements/statement-b2ddc838a4b2.md)
+- [00:35:19](/episodes/ep-7FS1tUeSfdE.md#t-00-34-52) [◐] (Claim) ["Brigitte Macron slapped her husband over text messages to an actress."](/statements/statement-b2ddc838a4b2.md)
   - About: [Brigitte Macron](/entities/person-brigitte-macron.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Golshifteh Farahani](/entities/person-golshifteh-farahani.md)
 
 </details>

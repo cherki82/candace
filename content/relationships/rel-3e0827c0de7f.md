@@ -11,7 +11,7 @@ object: "org-turning-point-usa"
 
 ## [Andrew Kolvet](/entities/person-andrew-kolvet) works for [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (26 mentions)
+### Evidence (27 mentions)
 
 **[TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w)**
 
@@ -64,6 +64,10 @@ object: "org-turning-point-usa"
 **[INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0)**
 
 - [00:37:48](/episodes/ep-YFmRH8p5lt0#t-00-37-48): _Andrew Kolvet should be able to confirm that. Yes or no. Don't dance around it._
+
+**[I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o)**
+
+- [01:08:31](/episodes/ep-YeEtS7nix3o#t-01-08-31): _Andrew Kolvet is the official spokesperson at Turning Point USA._
 
 **[Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w)**
 

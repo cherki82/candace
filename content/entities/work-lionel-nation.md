@@ -12,6 +12,8 @@ _Type: Works & Media_
 
 **Categories:** podcast, legal commentary
 
+> **Possibly overlapping entity records:** [Michael William Lebron](/entities/person-michael-william-lebron). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Apple Podcasts confirms Lionel Nation as the canonical show title.
 Source: [Lionel Nation - Apple Podcasts](https://podcasts.apple.com/us/podcast/lionel-nation/id1641359180)

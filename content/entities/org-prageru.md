@@ -1,6 +1,6 @@
 ---
 title: "PragerU"
-description: "PragerU (Organizations) - 36 mentions"
+description: "PragerU (Organizations) - 37 mentions"
 id: "org-prageru"
 type: "ORG"
 aliases:
@@ -26,7 +26,7 @@ Source: [About PragerU](https://www.prageru.com/about)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-org-prageru-t-00-08-02">2025-09-25 · 00:08:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-prageru-t-00-13-21">2026-05-04 · 00:13:33</a></strong></div>
 <div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>37</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>20</strong></div>
@@ -81,7 +81,7 @@ Source: [About PragerU](https://www.prageru.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+<summary><strong class="section-title">Raw mentions (37)</strong></summary>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (2 mentions)</summary>
@@ -312,7 +312,7 @@ Source: [About PragerU](https://www.prageru.com/about)
 <summary>Formerly Employed (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01): “back when I had a show on PragerU.”
 - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:19](/episodes/ep-K5GjF53bfN4.md#t-00-08-02): “I obviously worked for PragerU.”
@@ -320,6 +320,7 @@ Source: [About PragerU](https://www.prageru.com/about)
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:29:29](/episodes/ep-9naMwS0kMBE.md#t-00-29-29): “I worked at Prager University”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:55:05](/episodes/ep-Wjul6YV6izo.md#t-00-54-53): “it's the same way that I say like i'm so grateful that i worked for prageru and turning point usa and um Daily Wire”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:13:13](/episodes/ep-uC_GjKU8rs8.md#t-00-12-39): “This means that Daily Wire is unique. They are unique. They are set apart from those examples. I left PragerU.”
+- [Candace Owens x Ana Kasparian @ 00:22:39](/episodes/ep-SKNJPul29zU.md#t-00-22-39): “candace was going around judeo christian doing all the things she worked at prager you”
 
 </details>
 
@@ -416,7 +417,7 @@ Source: [About PragerU](https://www.prageru.com/about)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01): “back when I had a show on PragerU.”
 - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:19](/episodes/ep-K5GjF53bfN4.md#t-00-08-02): “I obviously worked for PragerU.”
@@ -426,6 +427,7 @@ Source: [About PragerU](https://www.prageru.com/about)
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:29:29](/episodes/ep-9naMwS0kMBE.md#t-00-29-29): “I worked at Prager University”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:55:05](/episodes/ep-Wjul6YV6izo.md#t-00-54-53): “it's the same way that I say like i'm so grateful that i worked for prageru and turning point usa and um Daily Wire”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:13:13](/episodes/ep-uC_GjKU8rs8.md#t-00-12-39): “This means that Daily Wire is unique. They are unique. They are set apart from those examples. I left PragerU.”
+- [Candace Owens x Ana Kasparian @ 00:22:39](/episodes/ep-SKNJPul29zU.md#t-00-22-39): “candace was going around judeo christian doing all the things she worked at prager you”
 
 </details>
 

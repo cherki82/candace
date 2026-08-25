@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Norman Finkelstein](/entities/person-norman-finkelstein) interviewed by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -24,6 +24,10 @@ object: "person-candace-owens"
 **[Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg)**
 
 - [00:39:19](/episodes/ep-Qt0VHV-POCg#t-00-39-19): _I was very excited to sit down and have a conversation... with Norman Finkelstein._
+
+**[Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU)**
+
+- [01:17:15](/episodes/ep-SKNJPul29zU#t-01-17-15): _I love that you're willing to have people like, you know, Norm Finkelstein on._
 
 **[Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o)**
 

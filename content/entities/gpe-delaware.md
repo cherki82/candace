@@ -1,6 +1,6 @@
 ---
 title: "Delaware"
-description: "Delaware (Places) - 89 mentions"
+description: "Delaware (Places) - 91 mentions"
 id: "gpe-delaware"
 type: "GPE"
 aliases:
@@ -21,12 +21,12 @@ Source: [State of Delaware official website](https://delaware.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#t-00-15-42">2025-10-30 · 00:16:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-delaware-t-00-11-13">2026-03-03 · 00:11:13</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>89</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-delaware-t-01-18-27">2026-05-21 · 01:18:54</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>91</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -50,6 +50,7 @@ Source: [State of Delaware official website](https://delaware.gov/)
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-delaware-t-00-20-05" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#t-00-20-39" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-delaware-t-00-11-13" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-delaware-t-00-36-29" style="--pulse-height:9%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -71,6 +72,7 @@ Source: [State of Delaware official website](https://delaware.gov/)
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-delaware-t-00-20-05) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#t-00-20-39) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-delaware-t-00-11-13) | 1 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-delaware-t-00-36-29) | 2 |
 
 </details>
 </section>
@@ -78,7 +80,18 @@ Source: [State of Delaware official website](https://delaware.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (89)</strong></summary>
+<summary><strong class="section-title">Raw mentions (91)</strong></summary>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (2 mentions)</summary>
+
+**[00:36:29](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-delaware-t-00-36-29)**
+> "... from, whether it came from a Delaware repair shop or whether it came, like Lev Parnas s..."
+
+**[01:18:54](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-delaware-t-01-18-27)**
+> "He lived in Delaware. Everybody to think that you can think what every..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1 mentions)</summary>
@@ -433,6 +446,18 @@ Source: [State of Delaware official website](https://delaware.gov/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Former Residence Of (1)</summary>
+
+- **[Joe Biden](/entities/person-joe-biden.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Hunter Biden: The Interview @ 01:18:54](/episodes/ep-Ux1kzgQxkws.md#t-01-18-27): “He lived in Delaware.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Location Of (1)</summary>
 
 - **[Wilmington](/entities/gpe-wilmington.md)**
@@ -447,7 +472,7 @@ Source: [State of Delaware official website](https://delaware.gov/)
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Wilmington](/entities/gpe-wilmington.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -455,6 +480,13 @@ Source: [State of Delaware official website](https://delaware.gov/)
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:24](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12): “...harlie Kirk's (Charlie Kirk's) assassination from Provo, went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French...”
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12): “...harlie Kirk's (Charlie Kirk's) assassination from Provo, went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French...”
 - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:16:16](/episodes/ep-iHav0PPzUz8.md#t-00-15-42): “... September 10th. It then laid over in Wilmington, Delaware, and departed back for Cairo on the 11th. I am telling you that when that plane left, okay, those p...”
+
+</details>
+
+- **[Joe Biden](/entities/person-joe-biden.md)** formerly lived in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Hunter Biden: The Interview @ 01:18:54](/episodes/ep-Ux1kzgQxkws.md#t-01-18-27): “He lived in Delaware.”
 
 </details>
 

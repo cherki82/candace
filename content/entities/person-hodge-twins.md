@@ -11,6 +11,8 @@ _Type: People_
 
 **Also known as:** The Hodge Twins
 
+> **Possibly overlapping entity records:** [Hodgetwins](/entities/org-hodgetwins). These records share a name or alias; compare their histories before treating either count as complete.
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-hodge-twins-t-00-29-14">2025-12-08 · 00:29:34</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-hodge-twins-t-00-29-14">2025-12-08 · 00:29:56</a></strong></div>

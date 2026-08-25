@@ -4,9 +4,10 @@ description: "\"There was a lot of colluding between Charlie Kirk's office and S
 statement_id: "statement-809ee8df0769"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -36,7 +37,21 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Public records substantiate unusually close collaboration: Gor disclosed paid consulting for Turning Point USA, and reporting says he and Kirk vetted Trump appointees while Turning Point allies entered government. Those facts support overlap and personnel influence, but they do not establish unlawful collusion or the specific claim that employees moved reciprocally between the two offices.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Sergio Gor Public Financial Disclosure Report](https://www.whitehouse.gov/wp-content/uploads/2025/06/Gor-Sergio.pdf)
+- [The Guardian: Charlie Kirk outsized influence on the MAGA movement](https://www.theguardian.com/us-news/2025/sep/13/charlie-kirk-maga-influence)
+
+*Verified: 2026-08-25T08:20:22.012725*
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Bible"
-description: "Bible (Works & Media) - 50 mentions"
+description: "Bible (Works & Media) - 60 mentions"
 id: "work-bible"
 type: "WORK"
 aliases:
@@ -22,9 +22,9 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-work-bible-t-00-54-48">2026-01-16 · 00:55:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-work-bible-t-00-49-26">2026-05-06 · 00:50:02</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>50</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Dkxa9OUA9K8.md#ent-work-bible-t-01-35-46">2026-05-19 · 01:35:46</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>60</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -49,6 +49,8 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-work-bible-t-00-04-27" style="--pulse-height:11%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-work-bible-t-00-58-23" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-work-bible-t-00-49-26" style="--pulse-height:11%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-work-bible-t-00-31-23" style="--pulse-height:26%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 5 mentions" title="2026-05-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-work-bible-t-00-35-34" style="--pulse-height:26%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 5 mentions" title="2026-05-19 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +70,8 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-work-bible-t-00-04-27) | 2 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-work-bible-t-00-58-23) | 1 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-work-bible-t-00-49-26) | 2 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-work-bible-t-00-31-23) | 5 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-work-bible-t-00-35-34) | 5 |
 
 </details>
 </section>
@@ -75,7 +79,47 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (50)</strong></summary>
+<summary><strong class="section-title">Raw mentions (60)</strong></summary>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (5 mentions)</summary>
+
+**[00:35:34](/episodes/ep-Dkxa9OUA9K8.md#ent-work-bible-t-00-35-34)**
+> "Do you believe the Bible to be the inherent word of God?"
+
+**[00:36:42](/episodes/ep-Dkxa9OUA9K8.md#ent-work-bible-t-00-36-33)**
+> "The Bible says that Satan is the father of lies. And that's..."
+
+**[01:27:38](/episodes/ep-Dkxa9OUA9K8.md#ent-work-bible-t-01-27-31)**
+> "... reason I started reading the Bible recently."
+
+**[01:27:47](/episodes/ep-Dkxa9OUA9K8.md#ent-work-bible-t-01-27-31)**
+> "...the faith is mine. I have the Bible. I can make it what I want."
+
+**[01:35:46](/episodes/ep-Dkxa9OUA9K8.md#ent-work-bible-t-01-35-46)**
+> "...d of get he's like i read the bible so now i'm god and i can do everything god can do..."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (5 mentions)</summary>
+
+**[00:31:55](/episodes/ep-Pb7UlpRdW6U.md#ent-work-bible-t-00-31-23)**
+> "...hat we get from Joseph in the Bible. And I just I believe it. Right."
+
+**[00:42:34](/episodes/ep-Pb7UlpRdW6U.md#ent-work-bible-t-00-42-34)**
+> "...d you've never cracked open a Bible, I feel like even you, when you look at this stat..."
+
+**[00:45:33](/episodes/ep-Pb7UlpRdW6U.md#ent-work-bible-t-00-42-34)**
+> "...ock edition of a Douay-Rheims Bible."
+
+**[00:45:44](/episodes/ep-Pb7UlpRdW6U.md#ent-work-bible-t-00-45-44)**
+> "And this isn't just any Bible. It's packed with thousands of footnotes and comm..."
+
+**[00:45:49](/episodes/ep-Pb7UlpRdW6U.md#ent-work-bible-t-00-45-44)**
+> "... there. They have everything, Bible commentaries, books on Mary and the saints, churc..."
+
+</details>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (2 mentions)</summary>

@@ -4,9 +4,10 @@ description: "\"Turning Point USA is trying to remove Erika Kirk from events bec
 statement_id: "statement-64c5caf356fb"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "false"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✗ False
 
 ## Statement
 
@@ -33,7 +34,21 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The central causal claim is contradicted by current public evidence. TPUSA continued booking Erika Kirk for student and national events; an Iowa campus stop reported thousands of ticket requests and was postponed for scheduling, while the June leadership summit drew a packed audience of about 3,000. Public reporting also described large post-assassination chapter growth, not an organization broadly removing her because students would not attend.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Iowa Standard: TPUSA event at Iowa State postponed due to votes in DC](https://theiowastandard.com/tp-usa-event-at-iowa-state-with-vp-vance-erika-kirk-postponed-due-to-votes-in-d-c/)
+- [Le Monde: Young female conservatives gather at San Antonio Turning Point summit](https://www.lemonde.fr/en/m-le-mag/article/2026/06/23/serving-a-husband-god-and-america-young-female-conservatives-gather-at-san-antonio-s-turning-point-summit_6754806_117.html)
+
+*Verified: 2026-08-25T08:21:00.003507*
 
 ---
 

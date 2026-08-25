@@ -1,6 +1,6 @@
 ---
 title: "Federal Firearms License"
-description: "Federal Firearms License (Concepts) - 3 mentions"
+description: "Federal Firearms License (Concepts) - 4 mentions"
 id: "concept-federal-firearms-license"
 type: "CONCEPT"
 aliases:
@@ -23,11 +23,11 @@ Source: [Federal Firearms Licenses | ATF](https://www.atf.gov/firearms/federal-f
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-concept-federal-firearms-license-t-00-29-44">2026-04-16 · 00:29:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep--9MOUvgGyi4.md#ent-concept-federal-firearms-license-t-00-40-32">2026-04-22 · 00:40:32</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Dkxa9OUA9K8.md#ent-concept-federal-firearms-license-t-01-14-55">2026-05-19 · 01:14:55</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,6 +38,7 @@ Source: [Federal Firearms Licenses | ATF](https://www.atf.gov/firearms/federal-f
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-concept-federal-firearms-license-t-00-29-44" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 2 mentions" title="2026-04-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-concept-federal-firearms-license-t-00-40-32" style="--pulse-height:50%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-concept-federal-firearms-license-t-01-14-55" style="--pulse-height:50%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [Federal Firearms Licenses | ATF](https://www.atf.gov/firearms/federal-f
 |---|---|---:|
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-concept-federal-firearms-license-t-00-29-44) | 2 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-concept-federal-firearms-license-t-00-40-32) | 1 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-concept-federal-firearms-license-t-01-14-55) | 1 |
 
 </details>
 </section>
@@ -52,7 +54,15 @@ Source: [Federal Firearms Licenses | ATF](https://www.atf.gov/firearms/federal-f
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1 mentions)</summary>
+
+**[01:14:55](/episodes/ep-Dkxa9OUA9K8.md#ent-concept-federal-firearms-license-t-01-14-55)**
+> "...0,000 weapons. Why? I have an FFL."
+
+</details>
 
 <details>
 <summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (1 mentions)</summary>
@@ -83,7 +93,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Federal Firearms License (1)</strong></summary>
+<summary><strong class="section-title">Statements about Federal Firearms License (2)</strong></summary>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1)</summary>
+
+- [01:14:51](/episodes/ep-Dkxa9OUA9K8.md#t-01-14-51) (Claim) **Victor Marx**: ["Victor Marx denies ever asking Corby Hall for 50,000 weapons and says ..."](/statements/statement-cee3f7a18903.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Corby Hall](/entities/person-corby-hall.md)
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1)</summary>

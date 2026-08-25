@@ -1,6 +1,6 @@
 ---
 title: "Alex Clark"
-description: "Alex Clark (People) - 48 mentions"
+description: "Alex Clark (People) - 58 mentions"
 id: "person-alex-clark"
 type: "PERSON"
 categories:
@@ -18,40 +18,41 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-alex-clark-t-00-57-12">2025-09-22 · 00:57:40</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-alex-clark-t-00-30-33">2026-05-11 · 00:30:42</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>48</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-alex-clark-t-00-55-19">2026-06-09 · 00:55:42</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>58</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ozWJz2spBcI.md#ent-person-alex-clark-t-00-00-00">TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248</a> (9 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-alex-clark-t-00-50-16">I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ja26iltROkM.md#ent-person-alex-clark-t-00-57-12" style="--pulse-height:22%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-alex-clark-t-00-00-32" style="--pulse-height:56%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 5 mentions" title="2025-09-23 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-alex-clark-t-00-00-00" style="--pulse-height:100%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 9 mentions" title="2025-10-06 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-5autG89PW6w.md#ent-person-alex-clark-t-00-20-43" style="--pulse-height:11%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-alex-clark-t-00-29-08" style="--pulse-height:11%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-alex-clark-t-00-27-09" style="--pulse-height:11%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-alex-clark-t-00-23-38" style="--pulse-height:44%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 4 mentions" title="2025-11-06 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-alex-clark-t-00-56-54" style="--pulse-height:11%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-alex-clark-t-00-15-57" style="--pulse-height:22%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-alex-clark-t-00-11-07" style="--pulse-height:33%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 3 mentions" title="2025-11-17 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-alex-clark-t-00-11-13" style="--pulse-height:33%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 3 mentions" title="2025-12-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-alex-clark-t-00-04-10" style="--pulse-height:44%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 4 mentions" title="2025-12-16 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-clark-t-00-52-31" style="--pulse-height:11%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-alex-clark-t-00-15-10" style="--pulse-height:22%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 2 mentions" title="2026-01-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-4YgrOhhy708.md#ent-person-alex-clark-t-00-17-21" style="--pulse-height:11%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-alex-clark-t-00-48-20" style="--pulse-height:11%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-alex-clark-t-00-50-14" style="--pulse-height:33%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-alex-clark-t-00-04-59" style="--pulse-height:11%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-alex-clark-t-00-49-02" style="--pulse-height:11%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-FFQ9675oqRI.md#ent-person-alex-clark-t-00-43-12" style="--pulse-height:11%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-alex-clark-t-00-30-33" style="--pulse-height:11%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-person-alex-clark-t-00-57-12" style="--pulse-height:20%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-alex-clark-t-00-00-32" style="--pulse-height:50%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 5 mentions" title="2025-09-23 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-alex-clark-t-00-00-00" style="--pulse-height:90%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 9 mentions" title="2025-10-06 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-alex-clark-t-00-20-43" style="--pulse-height:10%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-alex-clark-t-00-29-08" style="--pulse-height:10%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-alex-clark-t-00-27-09" style="--pulse-height:10%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-alex-clark-t-00-23-38" style="--pulse-height:40%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 4 mentions" title="2025-11-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-alex-clark-t-00-56-54" style="--pulse-height:10%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-alex-clark-t-00-15-57" style="--pulse-height:20%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-alex-clark-t-00-11-07" style="--pulse-height:30%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 3 mentions" title="2025-11-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-alex-clark-t-00-11-13" style="--pulse-height:30%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 3 mentions" title="2025-12-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-alex-clark-t-00-04-10" style="--pulse-height:40%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 4 mentions" title="2025-12-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-clark-t-00-52-31" style="--pulse-height:10%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-alex-clark-t-00-15-10" style="--pulse-height:20%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 2 mentions" title="2026-01-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-person-alex-clark-t-00-17-21" style="--pulse-height:10%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-alex-clark-t-00-48-20" style="--pulse-height:10%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-alex-clark-t-00-50-14" style="--pulse-height:30%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-alex-clark-t-00-04-59" style="--pulse-height:10%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-person-alex-clark-t-00-49-02" style="--pulse-height:10%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-person-alex-clark-t-00-43-12" style="--pulse-height:10%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-alex-clark-t-00-30-33" style="--pulse-height:10%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-person-alex-clark-t-00-50-16" style="--pulse-height:100%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 10 mentions" title="2026-06-09 · 10 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -78,6 +79,7 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-alex-clark-t-00-49-02) | 1 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-alex-clark-t-00-43-12) | 1 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-alex-clark-t-00-30-33) | 1 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-alex-clark-t-00-50-16) | 10 |
 
 </details>
 </section>
@@ -85,7 +87,42 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (48)</strong></summary>
+<summary><strong class="section-title">Raw mentions (58)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (10 mentions)</summary>
+
+**[00:50:50](/episodes/ep-YeEtS7nix3o.md#ent-person-alex-clark-t-00-50-16)**
+> "But Alex had some sort of an allergic reaction to the truth. She made private phone calls demanding that we get dropped by our sponsor, Paleo Valley."
+
+**[00:51:55](/episodes/ep-YeEtS7nix3o.md#ent-person-alex-clark-t-00-50-16)**
+> "But occasionally you really should punch the chihuahua for 50 yards. And for years, Alex has enjoyed lecturing and judging women and men discussing how there needs to be a return to masculinity, how men are wimpy, how men are not strong, how they need to be pressured to be more tough and more masculine, and there are too many beta boys."
+
+**[00:55:24](/episodes/ep-YeEtS7nix3o.md#ent-person-alex-clark-t-00-55-19)**
+> "And the people that are mocking her are not mocking her for getting engaged. It's because Alex herself is a terrible, cruel human being who has attacked and treated people terribly for years."
+
+**[00:55:42](/episodes/ep-YeEtS7nix3o.md#ent-person-alex-clark-t-00-55-19)**
+> "But of course, the biggest moment from the Women's Leadership Summit wasn't Alex's engagement announcement, but the now notorious video of Charlie appointing Erika to the position of CEO and chairman of the company, the video that we have been begging for, keeping a countdown for, which Turning Point has been squirming about for some unknown reason."
+
+**[00:45:10](/episodes/ep-YeEtS7nix3o.md#ent-person-alex-clark-t-00-44-55)**
+> "Lord of the Rings when we showed you that clip and I will be your queen that is what Dana sounds like so she got mocked it went viral and again it is bad for Turning Points brand because people can people can see through it that's the problem they are so transparent and of course this is followed up by the Alex Clark act right so Alex Clark similarly is teaching people to be biblical right she was very upset when I pointed out because I people who like I said work inside Turning Point USA"
+
+**[00:46:11](/episodes/ep-YeEtS7nix3o.md#ent-person-alex-clark-t-00-46-11)**
+> "And Alex Clark has sort of deemed herself or elected herself to be Erika's defender, but like lies all the time in an effort to defend Erika, who herself lies all the time. Anyway, she gets on stage and she similarly is going to speak to women about."
+
+**[00:49:04](/episodes/ep-YeEtS7nix3o.md#ent-person-alex-clark-t-00-48-57)**
+> "Christian. Oh, a Christian fiance, new fiance, by the way. Alex Clark really is a perfect mascot for Turning Point 2.0, better known as Turning Coat USA, reversing virtually every position and value that Charlie had while trying to gaslight the public into believing that this really was Charlie's vision."
+
+**[00:50:00](/episodes/ep-YeEtS7nix3o.md#ent-person-alex-clark-t-00-49-34)**
+> "In preaching about family values, using the Bible to shield themselves from any form of criticism, like I said, that whole bless your heart honey perspective, it says right here in Paul's letter to the Corinthians that Alex Clark can, I don't know, sexually fetishize world leaders."
+
+**[00:50:16](/episodes/ep-YeEtS7nix3o.md#ent-person-alex-clark-t-00-50-16)**
+> "Everyone at turning point is hooking up with one another and perhaps no one has been more objectively and outwardly disgusting as you just saw than Alex Clark."
+
+**[00:55:19](/episodes/ep-YeEtS7nix3o.md#ent-person-alex-clark-t-00-55-19)**
+> "Everything about Alex Clark and Alex Clark's life is fraudulent. There is no substance, there is no truth."
+
+</details>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>
@@ -357,10 +394,11 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <summary>Criticized (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:43:04](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): “Alex (Alex Clark) pulling that move.”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:30:51](/episodes/ep-KpxIBWkNsSs.md#t-00-30-33): “But she wrote this, Nick Shirley is a real journalist. Candace Owens is not. Oh, OK. So we're in a podcast.”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:48:14](/episodes/ep-YeEtS7nix3o.md#t-00-47-49): “here's what she replied with ... I'd worry less about ours and more about the fact that yours seems to consist primarily of leftist hate watching and Russian bots.”
 
 </details>
 
@@ -370,10 +408,23 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:50:38](/episodes/ep-1hcjQGgvxUY.md#t-00-50-14): “apparently Alex Clark demanded, ... because I had gone after her for dressing up in boots and standing over the memorial site of Charlie (Charlie Kirk) to pose for what was it the Washington Post,”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:49:02](/episodes/ep-7ERqbYElOfs.md#t-00-49-02): “alex clark she was like she said she was on a plane too and she was like the first thing i thought was like too bad the second thing i thought was maga like it was totally bonkers”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:55:19](/episodes/ep-YeEtS7nix3o.md#t-00-55-16): “Everything about Alex Clark and Alex Clark's life is fraudulent. There is no substance, there is no truth.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Engaged To (1)</summary>
+
+- **[Vance Voetberg](/entities/person-vance-voetberg.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:53:10](/episodes/ep-YeEtS7nix3o.md#t-00-53-05): “she was engaged to a man seven years her junior who no person in their right mind would accuse of being masculine. A man named Vance Voetberg”
 
 </details>
 
@@ -402,6 +453,18 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 </details>
 
 <details>
+<summary>Spoke At (1)</summary>
+
+- **[Young Women's Leadership Summit](/entities/org-ywls.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:46:11](/episodes/ep-YeEtS7nix3o.md#t-00-45-36): “she gets on stage and she similarly is going to speak to women ... What I can tell you and teach you is how to have a God-honoring single season.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Works For (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
@@ -422,7 +485,7 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[Joe Kent](/entities/person-joe-kent.md)** accused by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -432,18 +495,20 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:50:38](/episodes/ep-1hcjQGgvxUY.md#t-00-50-14): “apparently Alex Clark demanded, ... because I had gone after her for dressing up in boots and standing over the memorial site of Charlie (Charlie Kirk) to pose for what was it the Washington Post,”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:49:02](/episodes/ep-7ERqbYElOfs.md#t-00-49-02): “alex clark she was like she said she was on a plane too and she was like the first thing i thought was like too bad the second thing i thought was maga like it was totally bonkers”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:55:19](/episodes/ep-YeEtS7nix3o.md#t-00-55-16): “Everything about Alex Clark and Alex Clark's life is fraudulent. There is no substance, there is no truth.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:43:04](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): “Alex (Alex Clark) pulling that move.”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:30:51](/episodes/ep-KpxIBWkNsSs.md#t-00-30-33): “But she wrote this, Nick Shirley is a real journalist. Candace Owens is not. Oh, OK. So we're in a podcast.”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:48:14](/episodes/ep-YeEtS7nix3o.md#t-00-47-49): “here's what she replied with ... I'd worry less about ours and more about the fact that yours seems to consist primarily of leftist hate watching and Russian bots.”
 
 </details>
 
@@ -458,6 +523,20 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:07:54](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “Her boss, Charlie Kirk, had been shot”
+
+</details>
+
+- **[Vance Voetberg](/entities/person-vance-voetberg.md)** engaged to this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:53:10](/episodes/ep-YeEtS7nix3o.md#t-00-53-05): “she was engaged to a man seven years her junior who no person in their right mind would accuse of being masculine. A man named Vance Voetberg”
+
+</details>
+
+- **[Young Women's Leadership Summit](/entities/org-ywls.md)** hosted speaker this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:46:11](/episodes/ep-YeEtS7nix3o.md#t-00-45-36): “she gets on stage and she similarly is going to speak to women ... What I can tell you and teach you is how to have a God-honoring single season.”
 
 </details>
 
@@ -480,7 +559,39 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Alex Clark (3)</strong></summary>
+<summary><strong class="section-title">Statements by Alex Clark (3)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (3)</summary>
+
+- [00:48:36](/episodes/ep-YeEtS7nix3o.md#t-00-48-14) [✓] (Accusation) ["Alex Clark wrote that Candace Owens's audience consisted primarily of leftist ha..."](/statements/statement-b011cf511fef.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Vladimir Putin](/entities/person-vladimir-putin.md)
+
+- [00:51:07](/episodes/ep-YeEtS7nix3o.md#t-00-50-58) [✓] (Claim) ["Alex Clark claimed that she prompted Donald Trump's earlier rant about Candace O..."](/statements/statement-59f5383d66cd.md)
+  - About: [Alex Clark](/entities/person-alex-clark.md), [Donald J. Trump](/entities/person-donald-trump.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:52:41](/episodes/ep-YeEtS7nix3o.md#t-00-52-16) [○] (Opinion) ["Alex Clark argued that society needs more masculine men and that men are biologi..."](/statements/statement-06133bdb75af.md)
+  - About: [Alex Clark](/entities/person-alex-clark.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Alex Clark (6)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (3)</summary>
+
+- [00:50:50](/episodes/ep-YeEtS7nix3o.md#t-00-50-16) (Accusation) **Candace Owens**: ["Candace Owens accused Alex Clark of making private calls demanding tha..."](/statements/statement-a4b6685df9a6.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Paleovalley](/entities/org-paleovalley.md)
+
+- [00:51:07](/episodes/ep-YeEtS7nix3o.md#t-00-50-58) (Claim) **Alex Clark** (via quoted post): ["Alex Clark claimed that she prompted Donald Trump's earlier rant about..."](/statements/statement-59f5383d66cd.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Candace Owens](/entities/person-candace-owens.md), [Oval Office](/entities/gpe-oval-office.md)
+
+- [00:52:41](/episodes/ep-YeEtS7nix3o.md#t-00-52-16) (Opinion) **Alex Clark** (via quoted speech): ["Alex Clark argued that society needs more masculine men and that men a..."](/statements/statement-06133bdb75af.md)
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>

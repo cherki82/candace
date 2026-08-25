@@ -1,6 +1,6 @@
 ---
 title: "SU-BTU"
-description: "SU-BTU (Vehicles) - 5 mentions"
+description: "SU-BTU (Vehicles) - 6 mentions"
 id: "vehicle-su-btu"
 type: "VEHICLE"
 aliases:
@@ -25,9 +25,9 @@ Source: [SU-BTU | Flightradar24](https://www.flightradar24.com/data/aircraft/su-
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-vehicle-su-btu-t-00-15-09">2025-12-05 · 00:15:12</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-vehicle-su-btu-t-00-10-15">2026-01-13 · 00:10:43</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -52,7 +52,7 @@ Source: [SU-BTU | Flightradar24](https://www.flightradar24.com/data/aircraft/su-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2 mentions)</summary>
@@ -86,7 +86,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about SU-BTU (5)</strong></summary>
+<summary><strong class="section-title">Statements about SU-BTU (7)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (2)</summary>
+
+- [00:07:58](/episodes/ep-MhakwJxK-Zk.md#t-00-07-58) (Claim) **Candace Owens**: ["On October 7, 2023, the Egyptian aircraft SU-BTU flew from Cairo to Pa..."](/statements/statement-20646c09eb56.md)
+  - Also about: [Cairo](/entities/gpe-cairo.md), [Paris](/entities/gpe-paris.md), [St. Louis](/entities/gpe-st-louis.md)
+
+- [00:08:33](/episodes/ep-MhakwJxK-Zk.md#t-00-08-33) (Claim) **Candace Owens**: ["On April 14, 2024, during Iran and Hezbollah's retaliation for Israel'..."](/statements/statement-0da01f4e9173.md)
+  - Also about: [Cairo](/entities/gpe-cairo.md), [Paris](/entities/gpe-paris.md), [Iran](/entities/gpe-iran.md)
+
+</details>
 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2)</summary>

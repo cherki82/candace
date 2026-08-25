@@ -11,7 +11,7 @@ date: "2025-08-15"
 
 > A Turning Point USA donor retreat began in Aspen.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. Candace x Baron Coleman LIVE!! | Candace Ep 293
 
@@ -36,3 +36,11 @@ date: "2025-08-15"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(597);return false;">▶️ Play</a>
 
 > took the stage in Aspen at this investor retreat where he was giving an update on the company
+
+### 4. Hunter Biden Returns. The White House Ghosts Me Regarding Er...
+
+**Episode:** [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md)
+**Timestamp:** [00:13:29](/episodes/ep-1QZ4X6q1DPg.md#event-event-2025-08-15-a-turning-point-usa-donor-retreat-began--t-00-13-29) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(809);return false;">▶️ Play</a>
+
+> she saw this video three weeks before he died. Charlie Kirk was in Aspen with some donors

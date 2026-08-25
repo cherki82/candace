@@ -1,6 +1,6 @@
 ---
 title: "Dhillon Law Group"
-description: "Dhillon Law Group (Organizations) - 10 mentions"
+description: "Dhillon Law Group (Organizations) - 12 mentions"
 id: "org-dhillon-law-group"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Jacob William Roth Archives - Dhillon Law Group](https://www.dhillonlaw
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-dhillon-law-group-t-00-34-44">2026-05-04 · 00:34:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#t-00-10-22">2026-05-06 · 00:10:39</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#t-00-35-16">2026-05-27 · 00:35:16</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -39,6 +39,8 @@ Source: [Jacob William Roth Archives - Dhillon Law Group](https://www.dhillonlaw
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-dhillon-law-group-t-00-34-44" style="--pulse-height:50%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 3 mentions" title="2026-05-04 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-dhillon-law-group-t-00-19-00" style="--pulse-height:100%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 6 mentions" title="2026-05-05 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#t-00-10-22" style="--pulse-height:17%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-dhillon-law-group-t-00-47-55" style="--pulse-height:17%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#t-00-35-16" style="--pulse-height:17%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +49,8 @@ Source: [Jacob William Roth Archives - Dhillon Law Group](https://www.dhillonlaw
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-dhillon-law-group-t-00-34-44) | 3 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-dhillon-law-group-t-00-19-00) | 6 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#t-00-10-22) | 1 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-dhillon-law-group-t-00-47-55) | 1 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#t-00-35-16) | 1 |
 
 </details>
 </section>
@@ -54,7 +58,23 @@ Source: [Jacob William Roth Archives - Dhillon Law Group](https://www.dhillonlaw
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
+
+**[00:35:16](/episodes/ep-MhakwJxK-Zk.md#t-00-35-16)**
+> "August 27th, we told you about Dillon Law Group drafting paperwork for Havas Media on behalf of Clocktower LLC, Show Faith by Works."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1 mentions)</summary>
+
+**[00:48:04](/episodes/ep-Pb7UlpRdW6U.md#ent-org-dhillon-law-group-t-00-47-55)**
+> "...s PR for Harmeet Dhillon, the Dhillon Law Group, he's close with them. I know Harmeet (Harmeet Dh..."
+
+</details>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Dream City Church"
-description: "Dream City Church (Organizations) - 11 mentions"
+description: "Dream City Church (Organizations) - 12 mentions"
 id: "org-dream-city-church"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-dream-city-church-t-00-26-52">2026-02-04 · 00:27:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-dream-city-church-t-00-45-29">2026-05-04 · 00:45:29</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#t-00-27-22">2026-05-27 · 00:27:48</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -35,6 +35,7 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-dream-city-church-t-00-18-57" style="--pulse-height:33%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-dream-city-church-t-00-22-53" style="--pulse-height:17%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-dream-city-church-t-00-44-59" style="--pulse-height:33%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#t-00-27-22" style="--pulse-height:17%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-dream-city-church-t-00-18-57) | 2 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-dream-city-church-t-00-22-53) | 1 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-dream-city-church-t-00-44-59) | 2 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#t-00-27-22) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
+
+**[00:27:48](/episodes/ep-MhakwJxK-Zk.md#t-00-27-22)**
+> "June 4th, Charlie (Charlie Kirk) speaking at Dream City. June 13th, we have Iran and Israel's 12-day war, but I really want to scroll down here to June 18th."
+
+</details>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (2 mentions)</summary>
@@ -127,10 +137,11 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 <summary>Hosted Speaker (3)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:27:20](/episodes/ep-DYD_QHMPwqM.md#t-00-26-52): “Dream City Church when Charlie (Charlie Kirk) was doing a series of speeches. He would do that weekly at Dream City Church.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:45:04](/episodes/ep-uC_GjKU8rs8.md#t-00-44-59): “If one of the partners of Turning Point USA, again, because of all the ties they had to one another, because of the location that is explicitly listed, but also in the filing they named the churches that they're going to be geo-fencing at. And it just happens to be a lot of these Calvary Chapel churches where these pastors of Turning Point USA are heavily involved in, including the Dream City Church where Charlie (Charlie Kirk) spoke at once a month, whatever the situation was, that they just hosted Erika (Erika Kirk) in Phoenix.”
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:27:48](/episodes/ep-MhakwJxK-Zk.md#t-00-27-22): “June 4th, Charlie (Charlie Kirk) speaking at Dream City.”
 
 </details>
 
@@ -181,10 +192,11 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** spoke at this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:27:20](/episodes/ep-DYD_QHMPwqM.md#t-00-26-52): “Dream City Church when Charlie (Charlie Kirk) was doing a series of speeches. He would do that weekly at Dream City Church.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:45:04](/episodes/ep-uC_GjKU8rs8.md#t-00-44-59): “If one of the partners of Turning Point USA, again, because of all the ties they had to one another, because of the location that is explicitly listed, but also in the filing they named the churches that they're going to be geo-fencing at. And it just happens to be a lot of these Calvary Chapel churches where these pastors of Turning Point USA are heavily involved in, including the Dream City Church where Charlie (Charlie Kirk) spoke at once a month, whatever the situation was, that they just hosted Erika (Erika Kirk) in Phoenix.”
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:27:48](/episodes/ep-MhakwJxK-Zk.md#t-00-27-22): “June 4th, Charlie (Charlie Kirk) speaking at Dream City.”
 
 </details>
 

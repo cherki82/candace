@@ -11,11 +11,15 @@ object: "person-candace-owens"
 
 ## [Brigitte Macron](/entities/person-brigitte-macron) sued [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (10 mentions)
+### Evidence (11 mentions)
 
 **[From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o)**
 
 - [00:02:12](/episodes/ep-7RLtGgkTh9o#t-00-02-12): _Brigitte Macron and Emmanuel had a heart attack when I started discussing MKUltra. They brought it up 18 times in the lawsuit against me_
+
+**[The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs)**
+
+- [00:08:30](/episodes/ep-BxN2-aeMYIs#t-00-08-30): _Brigitte Macron, who put in a lawsuit filing, I think this was totally accidental, that I was a dual citizen of the UK and America._
 
 **[An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg)**
 

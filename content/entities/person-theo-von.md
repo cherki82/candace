@@ -1,6 +1,6 @@
 ---
 title: "Theo Von"
-description: "Theo Von (People) - 19 mentions"
+description: "Theo Von (People) - 30 mentions"
 id: "person-theo-von"
 type: "PERSON"
 aliases:
@@ -22,27 +22,28 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-theo-von-t-00-46-32">2025-10-02 · 00:46:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-theo-von-t-01-03-15">2026-05-05 · 01:03:21</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-cPidFQDJLbo.md#ent-person-theo-von-t-00-45-16">2026-05-20 · 00:45:16</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>30</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-theo-von-t-00-00-42">HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-cPidFQDJLbo.md#ent-person-theo-von-t-00-37-43">TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342</a> (11 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-theo-von-t-00-46-32" style="--pulse-height:60%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-theo-von-t-00-36-19" style="--pulse-height:60%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 3 mentions" title="2025-11-19 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#t-01-14-29" style="--pulse-height:20%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-theo-von-t-01-01-12" style="--pulse-height:20%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-theo-von-t-01-30-41" style="--pulse-height:20%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-theo-von-t-00-00-42" style="--pulse-height:100%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 5 mentions" title="2026-03-17 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-theo-von-t-00-52-31" style="--pulse-height:60%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-theo-von-t-01-03-15" style="--pulse-height:40%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-theo-von-t-00-46-32" style="--pulse-height:27%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-theo-von-t-00-36-19" style="--pulse-height:27%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 3 mentions" title="2025-11-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#t-01-14-29" style="--pulse-height:9%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-theo-von-t-01-01-12" style="--pulse-height:9%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-theo-von-t-01-30-41" style="--pulse-height:9%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-theo-von-t-00-00-42" style="--pulse-height:45%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 5 mentions" title="2026-03-17 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-theo-von-t-00-52-31" style="--pulse-height:27%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-theo-von-t-01-03-15" style="--pulse-height:18%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-person-theo-von-t-00-37-43" style="--pulse-height:100%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 11 mentions" title="2026-05-20 · 11 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-theo-von-t-00-00-42) | 5 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-theo-von-t-00-52-31) | 3 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-theo-von-t-01-03-15) | 2 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-theo-von-t-00-37-43) | 11 |
 
 </details>
 </section>
@@ -63,7 +65,45 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (11 mentions)</summary>
+
+**[00:38:22](/episodes/ep-cPidFQDJLbo.md#ent-person-theo-von-t-00-37-43)**
+> "I am friends with Theo Von."
+
+**[00:38:34](/episodes/ep-cPidFQDJLbo.md#ent-person-theo-von-t-00-38-27)**
+> "...Joe Rogan had discussed Theo (Theo Von) when he was sitting across from him and Theo (Th..."
+
+**[00:39:01](/episodes/ep-cPidFQDJLbo.md#ent-person-theo-von-t-00-39-01)**
+> "...st two guys talking. But then Theo Von was not in the presence of Joe Rogan, and he was ..."
+
+**[00:39:19](/episodes/ep-cPidFQDJLbo.md#ent-person-theo-von-t-00-39-19)**
+> "Yeah, Theo Von's going through the exact same thing. And last time..."
+
+**[00:40:47](/episodes/ep-cPidFQDJLbo.md#ent-person-theo-von-t-00-40-47)**
+> "...didn't require anything about Theo Von, which is my personal opinion about the drugs the..."
+
+**[00:41:09](/episodes/ep-cPidFQDJLbo.md#ent-person-theo-von-t-00-41-09)**
+> "...ompassionate by talking about Theo Von like if he actually was in this dark place and hi..."
+
+**[00:41:49](/episodes/ep-cPidFQDJLbo.md#ent-person-theo-von-t-00-41-49)**
+> "...watched the back forth. Theo (Theo Von) responded to that clip because it went viral and..."
+
+**[00:42:01](/episodes/ep-cPidFQDJLbo.md#ent-person-theo-von-t-00-41-49)**
+> "...ally as like what is that and Theo Von responded and said this is mostly cap that's slan..."
+
+**[00:43:09](/episodes/ep-cPidFQDJLbo.md#ent-person-theo-von-t-00-43-09)**
+> "I apologized to Theo (Theo Von). He knows I love him and we he said that and we ..."
+
+**[00:44:33](/episodes/ep-cPidFQDJLbo.md#ent-person-theo-von-t-00-44-33)**
+> "Theo (Theo Von)'s very important to me. He's an awesome person, ..."
+
+**[00:45:16](/episodes/ep-cPidFQDJLbo.md#ent-person-theo-von-t-00-45-16)**
+> "...e it was basically what Theo (Theo Von) talked about we're all human we make mistakes an..."
+
+</details>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (2 mentions)</summary>
@@ -192,12 +232,45 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Friend Of (2)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:38:22](/episodes/ep-cPidFQDJLbo.md#t-00-37-43): “I obviously like Joe Rogan. I am friends with Theo Von. He's literally one of the best people that I know.”
+
+</details>
+
+- **[Joe Rogan](/entities/person-joe-rogan.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:44:33](/episodes/ep-cPidFQDJLbo.md#t-00-44-33): “Theo (Theo Von)'s very important to me. He's an awesome person, a great friend, and one of the most interesting and funny people I've ever met in my life. And I just felt terrible about it. And I told him I'd never bring it up publicly again. But I think it is important to let people know that aspect of it.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (4)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:52:31](/episodes/ep-1mYNOqzAdXs.md#t-00-52-31): “i mean this is the guy that sits down with Bibi (Benjamin Netanyahu) and then tells us that Theo Von is a threat to civilization”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:38:22](/episodes/ep-cPidFQDJLbo.md#t-00-37-43): “I obviously like Joe Rogan. I am friends with Theo Von. He's literally one of the best people that I know.”
+
+</details>
+
+- **[Joe Rogan](/entities/person-joe-rogan.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:44:33](/episodes/ep-cPidFQDJLbo.md#t-00-44-33): “Theo (Theo Von)'s very important to me. He's an awesome person, a great friend, and one of the most interesting and funny people I've ever met in my life. And I just felt terrible about it. And I told him I'd never bring it up publicly again. But I think it is important to let people know that aspect of it.”
 
 </details>
 
@@ -226,6 +299,20 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 
 - [00:23:18](/episodes/ep-I0OaY6Gryqk.md#t-00-22-55) [○] (Opinion) ["The United States government is beholden to an Israeli government that seems obs..."](/statements/statement-b73ec3e4de64.md)
   - About: [United States](/entities/gpe-united-states.md), [Israel](/entities/gpe-israel.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Theo Von (2)</strong></summary>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (2)</summary>
+
+- [00:43:09](/episodes/ep-cPidFQDJLbo.md#t-00-43-09) (Claim) **Joe Rogan** (via quoted speech): ["I apologized to Theo Von for the way I talked about him publicly; I wa..."](/statements/statement-3cc346397d6f.md)
+
+- [00:44:33](/episodes/ep-cPidFQDJLbo.md#t-00-44-33) (Promise) **Joe Rogan** (via quoted speech): ["I told Theo Von I would never bring the matter up publicly again."](/statements/statement-d867579b7dc5.md)
 
 </details>
 

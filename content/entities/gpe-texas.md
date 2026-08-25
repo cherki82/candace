@@ -1,6 +1,6 @@
 ---
 title: "Texas"
-description: "Texas (Places) - 95 mentions"
+description: "Texas (Places) - 100 mentions"
 id: "gpe-texas"
 type: "GPE"
 categories:
@@ -17,11 +17,11 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-texas-t-00-37-12">2025-10-09 · 00:37:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-texas-t-00-47-13">2026-05-13 · 00:47:35</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>95</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-texas-t-00-12-35">2026-05-27 · 00:12:52</a></strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>100</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -53,6 +53,9 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-texas-t-00-44-40" style="--pulse-height:56%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 14 mentions" title="2026-04-22 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-texas-t-00-38-16" style="--pulse-height:8%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-texas-t-00-47-13" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-texas-t-01-04-41" style="--pulse-height:8%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-texas-t-00-09-55" style="--pulse-height:12%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 3 mentions" title="2026-05-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-texas-t-00-12-35" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -81,6 +84,9 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-gpe-texas-t-00-44-40) | 14 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-texas-t-00-38-16) | 2 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-texas-t-00-47-13) | 2 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-texas-t-01-04-41) | 1 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-texas-t-00-09-55) | 3 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-texas-t-00-12-35) | 1 |
 
 </details>
 </section>
@@ -88,7 +94,37 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (95)</strong></summary>
+<summary><strong class="section-title">Raw mentions (100)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
+
+**[00:12:52](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-texas-t-00-12-35)**
+> "...huca and heading for El Paso, Texas, in a time frame that would work with this allege..."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (3 mentions)</summary>
+
+**[00:10:16](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-texas-t-00-09-55)**
+> "it flew to El Paso, Texas"
+
+**[00:10:39](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-texas-t-00-10-39)**
+> "... the meeting and then went to Texas, landed at 1.31 p.m. local time. It was just a 50..."
+
+**[00:11:31](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-texas-t-00-11-09)**
+> "...rom Fort Huachuca to El Paso, Texas."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1 mentions)</summary>
+
+**[01:04:41](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-texas-t-01-04-41)**
+> "... enforcement both here and in Texas where we were keeping her, before we documented e..."
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (2 mentions)</summary>
@@ -500,7 +536,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Texas (5)</strong></summary>
+<summary><strong class="section-title">Statements about Texas (6)</strong></summary>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1)</summary>
+
+- [01:04:27](/episodes/ep-Dkxa9OUA9K8.md#t-01-04-08) (Claim) **Victor Marx**: ["Victor Marx says a Homeland Security Investigations trafficking specia..."](/statements/statement-40f3c185c1b1.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Homeland Security Investigations](/entities/org-homeland-security-investigations.md), [Canada](/entities/gpe-canada.md)
+
+</details>
 
 <details>
 <summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (1)</summary>

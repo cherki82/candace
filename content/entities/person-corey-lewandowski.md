@@ -1,6 +1,6 @@
 ---
 title: "Corey Lewandowski"
-description: "Corey Lewandowski (People) - 6 mentions"
+description: "Corey Lewandowski (People) - 7 mentions"
 id: "person-corey-lewandowski"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Breitbart News CEO & President Responds to Donald Trump Campaign’s At
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-person-corey-lewandowski-t-00-03-03">2025-10-27 · 00:03:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-corey-lewandowski-t-00-28-15">2026-01-07 · 00:28:30</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-corey-lewandowski-t-01-12-30">2026-05-28 · 01:12:41</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>3</strong></div>
@@ -33,6 +33,7 @@ Source: [Breitbart News CEO & President Responds to Donald Trump Campaign’s At
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-c5BcKF91iec.md#ent-person-corey-lewandowski-t-00-03-03" style="--pulse-height:20%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-corey-lewandowski-t-00-22-44" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 5 mentions" title="2026-01-07 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-corey-lewandowski-t-01-12-30" style="--pulse-height:20%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [Breitbart News CEO & President Responds to Donald Trump Campaign’s At
 |---|---|---:|
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-corey-lewandowski-t-00-03-03) | 1 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-corey-lewandowski-t-00-22-44) | 5 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-corey-lewandowski-t-01-12-30) | 1 |
 
 </details>
 </section>
@@ -47,7 +49,15 @@ Source: [Breitbart News CEO & President Responds to Donald Trump Campaign’s At
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
+
+**[01:12:41](/episodes/ep-SKNJPul29zU.md#ent-person-corey-lewandowski-t-01-12-30)**
+> "Not Corey Lewandowski"
+
+</details>
 
 <details>
 <summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (5 mentions)</summary>

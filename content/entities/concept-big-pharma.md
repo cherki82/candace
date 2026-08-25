@@ -1,6 +1,6 @@
 ---
 title: "Big Pharma"
-description: "Big Pharma (Concepts) - 5 mentions"
+description: "Big Pharma (Concepts) - 7 mentions"
 id: "concept-big-pharma"
 type: "CONCEPT"
 aliases:
@@ -17,11 +17,15 @@ _Type: Concepts_
 
 > **Possibly overlapping entity records:** [Pharmaceutical industry](/entities/concept-pharmaceutical-industry). These records share a name or alias; compare their histories before treating either count as complete.
 
+**Entity verification:** verified
+> Canonical umbrella term for large pharmaceutical companies; transcript uses it as an industry concept.
+Source: [Britannica: Pharmaceutical industry](https://www.britannica.com/topic/pharmaceutical-industry)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-05">2025-12-05 · 00:50:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-big-pharma-t-00-31-25">2026-04-20 · 00:31:40</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-big-pharma-t-01-15-56">2026-05-21 · 01:16:00</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +39,7 @@ _Type: Concepts_
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-05" style="--pulse-height:100%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-big-pharma-t-00-31-29" style="--pulse-height:33%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-big-pharma-t-00-31-25" style="--pulse-height:33%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-big-pharma-t-00-17-19" style="--pulse-height:67%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -43,6 +48,7 @@ _Type: Concepts_
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-05) | 3 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-concept-big-pharma-t-00-31-29) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-concept-big-pharma-t-00-31-25) | 1 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-concept-big-pharma-t-00-17-19) | 2 |
 
 </details>
 </section>
@@ -50,7 +56,18 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (2 mentions)</summary>
+
+**[00:17:29](/episodes/ep-Ux1kzgQxkws.md#ent-concept-big-pharma-t-00-17-19)**
+> "...ich I love that you do it was big pharma you know what I mean I had shingles and so somebo..."
+
+**[01:16:00](/episodes/ep-Ux1kzgQxkws.md#ent-concept-big-pharma-t-01-15-56)**
+> "...same problem that i have with big pharma banks and and and the fed and these like like whe..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1 mentions)</summary>

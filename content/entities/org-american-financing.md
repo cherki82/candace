@@ -1,6 +1,6 @@
 ---
 title: "American Financing"
-description: "American Financing (Organizations) - 336 mentions"
+description: "American Financing (Organizations) - 373 mentions"
 id: "org-american-financing"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-56-30">2025-09-15 · 00:56:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-american-financing-t-00-45-16">2026-05-13 · 00:45:25</a></strong></div>
-<div><span>Episodes</span><strong>83</strong></div>
-<div><span>Mentions</span><strong>336</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-org-american-financing-t-01-11-40">2026-06-09 · 01:11:40</a></strong></div>
+<div><span>Episodes</span><strong>91</strong></div>
+<div><span>Mentions</span><strong>373</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -119,6 +119,14 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-american-financing-t-00-38-49" style="--pulse-height:50%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 4 mentions" title="2026-05-11 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-american-financing-t-00-44-34" style="--pulse-height:50%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-american-financing-t-00-38-35" style="--pulse-height:50%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-american-financing-t-00-42-23" style="--pulse-height:50%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 4 mentions" title="2026-05-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-american-financing-t-01-25-18" style="--pulse-height:50%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 4 mentions" title="2026-05-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-org-american-financing-t-00-46-46" style="--pulse-height:62%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 5 mentions" title="2026-05-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-american-financing-t-01-25-44" style="--pulse-height:50%" aria-label="Candace x Hunter Biden: The Interview: 4 mentions" title="2026-05-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-american-financing-t-00-42-17" style="--pulse-height:62%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 5 mentions" title="2026-05-26 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-american-financing-t-00-45-41" style="--pulse-height:62%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 5 mentions" title="2026-05-27 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-org-american-financing-t-01-09-50" style="--pulse-height:62%" aria-label="Candace Owens x Ana Kasparian: 5 mentions" title="2026-05-28 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-org-american-financing-t-01-10-17" style="--pulse-height:62%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 5 mentions" title="2026-06-09 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -207,6 +215,14 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-american-financing-t-00-38-49) | 4 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-org-american-financing-t-00-44-34) | 4 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-org-american-financing-t-00-38-35) | 4 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-american-financing-t-00-42-23) | 4 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-american-financing-t-01-25-18) | 4 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-org-american-financing-t-00-46-46) | 5 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-american-financing-t-01-25-44) | 4 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-org-american-financing-t-00-42-17) | 5 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-american-financing-t-00-45-41) | 5 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-american-financing-t-01-09-50) | 5 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-american-financing-t-01-10-17) | 5 |
 
 </details>
 </section>
@@ -214,7 +230,158 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (336)</strong></summary>
+<summary><strong class="section-title">Raw mentions (373)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (5 mentions)</summary>
+
+**[01:10:44](/episodes/ep-YeEtS7nix3o.md#ent-org-american-financing-t-01-10-17)**
+> "...o want to tell you guys about American financing because between groceries, travel and higher pric..."
+
+**[01:10:56](/episodes/ep-YeEtS7nix3o.md#ent-org-american-financing-t-01-10-56)**
+> "...ve considered reaching out to American financing, but but hesitated because you don't want to give..."
+
+**[01:11:05](/episodes/ep-YeEtS7nix3o.md#ent-org-american-financing-t-01-10-56)**
+> "Well, that's why American Financing created the Smart Equity Loan. It's a simple, sma..."
+
+**[01:11:25](/episodes/ep-YeEtS7nix3o.md#ent-org-american-financing-t-01-10-56)**
+> "...d out if you qualify, so call American Financing today. at 800-795-1210. Again, that's 800-795-121..."
+
+**[01:11:40](/episodes/ep-YeEtS7nix3o.md#ent-org-american-financing-t-01-11-40)**
+> "American Financing, America's home for home loans."
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (5 mentions)</summary>
+
+**[01:10:10](/episodes/ep-SKNJPul29zU.md#ent-org-american-financing-t-01-09-50)**
+> "There are no upfront fees to find out if you qualify, so call American Financing today at 800-795-1210."
+
+**[01:10:16](/episodes/ep-SKNJPul29zU.md#ent-org-american-financing-t-01-09-50)**
+> "Again, that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing.net slash Owens. American Financing, America's home for home loans."
+
+**[01:09:32](/episodes/ep-SKNJPul29zU.md#ent-org-american-financing-t-01-09-08)**
+> "...oing to remind you guys about American financing because between groceries, travel and higher pric..."
+
+**[01:09:42](/episodes/ep-SKNJPul29zU.md#ent-org-american-financing-t-01-09-08)**
+> "...be considered reaching out to American financing but hesitated because you don't want to give up y..."
+
+**[01:09:50](/episodes/ep-SKNJPul29zU.md#ent-org-american-financing-t-01-09-50)**
+> "Well, that's why American financing created the smart equity loan. It's a simple, sma..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (5 mentions)</summary>
+
+**[00:45:41](/episodes/ep-MhakwJxK-Zk.md#ent-org-american-financing-t-00-45-41)**
+> "...oing to remind you guys about American Financing because between groceries, travel, and higher pri..."
+
+**[00:45:54](/episodes/ep-MhakwJxK-Zk.md#ent-org-american-financing-t-00-45-41)**
+> "...ve considered reaching out to American Financing, but hesitated because you don't want to give up ..."
+
+**[00:46:03](/episodes/ep-MhakwJxK-Zk.md#ent-org-american-financing-t-00-45-41)**
+> "Well, that's why American Financing created the Smart Equity Loan. It's a simple, sma..."
+
+**[00:46:22](/episodes/ep-MhakwJxK-Zk.md#ent-org-american-financing-t-00-46-22)**
+> "...d out if you qualify, so call American Financing today at 800-795-1210."
+
+**[00:46:29](/episodes/ep-MhakwJxK-Zk.md#ent-org-american-financing-t-00-46-22)**
+> "...canFinancing.net slash Owens. American Financing, America's home for home loans."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (5 mentions)</summary>
+
+**[00:42:17](/episodes/ep-BxN2-aeMYIs.md#ent-org-american-financing-t-00-42-17)**
+> "tell you guys about American Financing"
+
+**[00:42:29](/episodes/ep-BxN2-aeMYIs.md#ent-org-american-financing-t-00-42-17)**
+> "...ve considered reaching out to American financing, but hesitated because you don't want to give up ..."
+
+**[00:42:38](/episodes/ep-BxN2-aeMYIs.md#ent-org-american-financing-t-00-42-17)**
+> "Well, that's why American financing created the smart equity loan. It's a simple, sma..."
+
+**[00:42:57](/episodes/ep-BxN2-aeMYIs.md#ent-org-american-financing-t-00-42-57)**
+> "...d out if you qualify, so call American Financing today at 800-795-1210."
+
+**[00:43:03](/episodes/ep-BxN2-aeMYIs.md#ent-org-american-financing-t-00-42-57)**
+> "...canFinancing.net slash Owens. American Financing, America's home for home loans."
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (4 mentions)</summary>
+
+**[01:25:52](/episodes/ep-Ux1kzgQxkws.md#ent-org-american-financing-t-01-25-44)**
+> "... cycle of high interest debt. American financing has a way out. This is not about shortcuts."
+
+**[01:25:58](/episodes/ep-Ux1kzgQxkws.md#ent-org-american-financing-t-01-25-44)**
+> "...s and reclaim your budget. At American financing, they specialize in building plans tailored speci..."
+
+**[01:26:30](/episodes/ep-Ux1kzgQxkws.md#ent-org-american-financing-t-01-26-21)**
+> "Call American Financing today at 800-795-7460. a 95212. Again, that's 800..."
+
+**[01:26:42](/episodes/ep-Ux1kzgQxkws.md#ent-org-american-financing-t-01-26-21)**
+> "American Financing, America's home for home loans. How old were you,..."
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (5 mentions)</summary>
+
+**[00:47:20](/episodes/ep-cPidFQDJLbo.md#ent-org-american-financing-t-00-46-46)**
+> "I also want to tell you guys about American financing"
+
+**[00:47:31](/episodes/ep-cPidFQDJLbo.md#ent-org-american-financing-t-00-47-31)**
+> "...ve considered reaching out to American Financing, but maybe hesitated because you didn't want to g..."
+
+**[00:47:37](/episodes/ep-cPidFQDJLbo.md#ent-org-american-financing-t-00-47-31)**
+> "Well, that's why American Financing created the Smart Equity Loan. It's a simple, sma..."
+
+**[00:47:58](/episodes/ep-cPidFQDJLbo.md#ent-org-american-financing-t-00-47-31)**
+> "...d out if you qualify, so call American Financing today at 800-795-1210."
+
+**[00:48:04](/episodes/ep-cPidFQDJLbo.md#ent-org-american-financing-t-00-47-31)**
+> "...nancing.net. net slash Owens, American financing, America's home for home loans."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (4 mentions)</summary>
+
+**[01:25:38](/episodes/ep-Dkxa9OUA9K8.md#ent-org-american-financing-t-01-25-18)**
+> "...want to remind you guys about American financing because summertime expenses in 2026 are stacking ..."
+
+**[01:25:51](/episodes/ep-Dkxa9OUA9K8.md#ent-org-american-financing-t-01-25-18)**
+> "...cle of high interest debt and American financing fortunately has a way out."
+
+**[01:26:02](/episodes/ep-Dkxa9OUA9K8.md#ent-org-american-financing-t-01-26-02)**
+> "At American financing, they specialize in building plans tailored speci..."
+
+**[01:26:30](/episodes/ep-Dkxa9OUA9K8.md#ent-org-american-financing-t-01-26-02)**
+> "Call American Financing today at 800-795-1210. Again, that's 800. 100-795..."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (4 mentions)</summary>
+
+**[00:42:39](/episodes/ep-1QZ4X6q1DPg.md#ent-org-american-financing-t-00-42-23)**
+> "...o want to tell you guys about American financing because summertime expenses in 2026 are stacking ..."
+
+**[00:42:48](/episodes/ep-1QZ4X6q1DPg.md#ent-org-american-financing-t-00-42-23)**
+> "... cycle of high interest debt. American financing, though, has a way out."
+
+**[00:42:58](/episodes/ep-1QZ4X6q1DPg.md#ent-org-american-financing-t-00-42-23)**
+> "And American Financing, they specialize in building plans tailored speci..."
+
+**[00:43:22](/episodes/ep-1QZ4X6q1DPg.md#ent-org-american-financing-t-00-43-06)**
+> "Call American Financing today at 800-795-1210. Again, that's 800-795-1210..."
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (4 mentions)</summary>
@@ -1636,7 +1803,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -1651,6 +1818,11 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:43:51](/episodes/ep-uC_GjKU8rs8.md#t-00-43-32): “Well, American financing has a way out. This isn't about shortcuts. It's a real strategic plan to reset your finances and reclaim your budget. At American financing, they specialize in building plans tailored specifically for your goals.”
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:44:47](/episodes/ep-4DvYXBn_5JI.md#t-00-44-34): “Also remind you guys about American financing because summertime expenses in 2026 are stacking up faster than ever, leaving Americans feeling like the only option is swiping their credit card.”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:39:15](/episodes/ep-7FS1tUeSfdE.md#t-00-38-35): “Call American Financing today at 800-795-1210.”
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:43:22](/episodes/ep-1QZ4X6q1DPg.md#t-00-43-06): “Call American Financing today at 800-795-1210. Again, that's 800-795-1210, or visit AmericanFinancing.net slash Owens.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:25:38](/episodes/ep-Dkxa9OUA9K8.md#t-01-25-18): “Again, that's paleovalley.com promo code Candice at checkout. I also want to remind you guys about American financing because summertime expenses in 2026 are stacking up faster than ever, leaving Americans feeling like the only option is swiping the credit card.”
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:47:58](/episodes/ep-cPidFQDJLbo.md#t-00-47-31): “There are no upfront fees to find out if you qualify, so call American Financing today at 800-795-1210.”
+- [Candace x Hunter Biden: The Interview @ 01:26:30](/episodes/ep-Ux1kzgQxkws.md#t-01-26-21): “Call American Financing today at 800-795-7460.”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:10:56](/episodes/ep-YeEtS7nix3o.md#t-01-10-17): “if you're a homeowner, you might have considered reaching out to American financing”
 
 </details>
 
@@ -1660,7 +1832,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -1675,6 +1847,11 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:43:51](/episodes/ep-uC_GjKU8rs8.md#t-00-43-32): “Well, American financing has a way out. This isn't about shortcuts. It's a real strategic plan to reset your finances and reclaim your budget. At American financing, they specialize in building plans tailored specifically for your goals.”
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:44:47](/episodes/ep-4DvYXBn_5JI.md#t-00-44-34): “Also remind you guys about American financing because summertime expenses in 2026 are stacking up faster than ever, leaving Americans feeling like the only option is swiping their credit card.”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:39:15](/episodes/ep-7FS1tUeSfdE.md#t-00-38-35): “Call American Financing today at 800-795-1210.”
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:43:22](/episodes/ep-1QZ4X6q1DPg.md#t-00-43-06): “Call American Financing today at 800-795-1210. Again, that's 800-795-1210, or visit AmericanFinancing.net slash Owens.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:25:38](/episodes/ep-Dkxa9OUA9K8.md#t-01-25-18): “Again, that's paleovalley.com promo code Candice at checkout. I also want to remind you guys about American financing because summertime expenses in 2026 are stacking up faster than ever, leaving Americans feeling like the only option is swiping the credit card.”
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:47:58](/episodes/ep-cPidFQDJLbo.md#t-00-47-31): “There are no upfront fees to find out if you qualify, so call American Financing today at 800-795-1210.”
+- [Candace x Hunter Biden: The Interview @ 01:26:30](/episodes/ep-Ux1kzgQxkws.md#t-01-26-21): “Call American Financing today at 800-795-7460.”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:10:56](/episodes/ep-YeEtS7nix3o.md#t-01-10-17): “if you're a homeowner, you might have considered reaching out to American financing”
 
 </details>
 

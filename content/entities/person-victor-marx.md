@@ -1,6 +1,6 @@
 ---
 title: "Victor Marx"
-description: "Victor Marx (People) - 159 mentions"
+description: "Victor Marx (People) - 233 mentions"
 id: "person-victor-marx"
 type: "PERSON"
 aliases:
@@ -27,12 +27,12 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-victor-marx-t-00-06-29">2026-04-14 · 00:06:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-victor-marx-t-00-24-41">2026-05-13 · 00:25:01</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>159</strong></div>
-<div><span>Statements by</span><strong>24</strong></div>
-<div><span>Statements about</span><strong>52</strong></div>
-<div><span>Relationships</span><strong>40</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-victor-marx-t-01-19-11">2026-06-09 · 01:19:24</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>233</strong></div>
+<div><span>Statements by</span><strong>51</strong></div>
+<div><span>Statements about</span><strong>88</strong></div>
+<div><span>Relationships</span><strong>67</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -48,6 +48,10 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-00-26" style="--pulse-height:100%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 59 mentions" title="2026-04-22 · 59 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-victor-marx-t-01-12-06" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-victor-marx-t-00-00-00" style="--pulse-height:19%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 11 mentions" title="2026-05-13 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-00-39" style="--pulse-height:85%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 50 mentions" title="2026-05-19 · 50 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-00-44" style="--pulse-height:34%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 20 mentions" title="2026-05-20 · 20 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-victor-marx-t-00-45-44" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-person-victor-marx-t-00-40-58" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 3 mentions" title="2026-06-09 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -61,6 +65,10 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-person-victor-marx-t-00-00-26) | 59 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-victor-marx-t-01-12-06) | 1 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-victor-marx-t-00-00-00) | 11 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-00-39) | 50 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-00-44) | 20 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-victor-marx-t-00-45-44) | 1 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-victor-marx-t-00-40-58) | 3 |
 
 </details>
 </section>
@@ -68,7 +76,249 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (159)</strong></summary>
+<summary><strong class="section-title">Raw mentions (233)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (3 mentions)</summary>
+
+**[00:40:58](/episodes/ep-YeEtS7nix3o.md#ent-person-victor-marx-t-00-40-58)**
+> "...eone emailed me and said that Victor Marx said that his mentor was Greg Laurie. So they're ..."
+
+**[01:19:14](/episodes/ep-YeEtS7nix3o.md#ent-person-victor-marx-t-01-19-11)**
+> "...r interview with the wackadoo Victor Marx. It creeps me out, my bride."
+
+**[01:19:24](/episodes/ep-YeEtS7nix3o.md#ent-person-victor-marx-t-01-19-11)**
+> "Victor Marx, man, Greg Laurie, Erika Kirk, they're all creepy..."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1 mentions)</summary>
+
+**[00:45:44](/episodes/ep-BxN2-aeMYIs.md#ent-person-victor-marx-t-00-45-44)**
+> "Erika Kirk and Victor Marx are close"
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (20 mentions)</summary>
+
+**[00:01:08](/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-00-44)**
+> "the fallout from Victor Marx's interview yesterday"
+
+**[00:01:52](/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-01-35)**
+> "... as much time as he wanted to Victor Marx yesterday."
+
+**[00:02:33](/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-02-17)**
+> "...o see how many people he had, Victor Marx had on his team, helping him out with that interv..."
+
+**[00:02:47](/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-02-47)**
+> "Hey, everybody, Victor Marx here. Just finished a podcast with Candace Owens ..."
+
+**[00:03:13](/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-02-47)**
+> "...those of you who said Victor (Victor Marx) doesn't debate, that was a one hour, no moderato..."
+
+**[00:03:40](/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-03-40)**
+> "Indeed, it did, Victor (Victor Marx). I think it did make a difference and I do belie..."
+
+**[00:03:53](/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-03-40)**
+> "...tatistics for why it was that Victor Marx was seemingly the."
+
+**[00:07:45](/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-07-31)**
+> "Common sense, Victor (Victor Marx). You just said you're friends with Frank Turek, ..."
+
+**[00:09:09](/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-08-54)**
+> "Nobody would do that, Victor (Victor Marx). You text people you know. I know Frank Turek. I..."
+
+**[00:09:25](/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-09-25)**
+> "...opted not to do that, Victor (Victor Marx), and you simply twiddled your thumbs for 50 minu..."
+
+**[00:10:29](/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-10-29)**
+> "...see the problem here, Victor (Victor Marx)? You're saying that you didn't do that. You didn..."
+
+**[00:11:29](/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-11-09)**
+> "...forced to ask myself, Victor (Victor Marx), why would you say it? How would you say it? It'..."
+
+**[00:13:02](/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-13-02)**
+> "... I really don't know, Victor (Victor Marx), but I'm going to need to find out because I'm b..."
+
+**[00:13:14](/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-13-02)**
+> "...that day. And I think Victor (Victor Marx) might be able to help, right?"
+
+**[00:14:29](/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-14-22)**
+> "And frankly, Victor (Victor Marx)'s subsequent admission regarding what he texted ..."
+
+**[00:48:31](/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-48-16)**
+> "...yesterday's episode regarding Victor Marx. Ballistic Bud writes, I'm a veteran, served thre..."
+
+**[00:49:01](/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-48-44)**
+> "...ltraviolet writes, I survived Victor Marx is what most of us are feeling right now. Yeah, d..."
+
+**[00:51:15](/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-50-40)**
+> "...(Brigitte Macron) and Victor (Victor Marx). There is one set of cojones between Candace (Ca..."
+
+**[00:51:26](/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-51-23)**
+> "...t that you're making. Victor (Victor Marx) just, you know, just registered to me as a bit u..."
+
+**[00:52:37](/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-52-37)**
+> "...ndrew Kolvet finding out puts Victor Marx's Instagram post at exactly within the time frame t..."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (50 mentions)</summary>
+
+**[00:00:39](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-00-39)**
+> "...he man, the myth, the legend, Victor Marx, gubernatorial candidate for..."
+
+**[00:01:24](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-01-24)**
+> "... we are going to be joined by Victor Marx, Colorado's gubernatorial candidate."
+
+**[00:01:38](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-01-24)**
+> "So Victor Marx is very much a part of the Turning Point Faith Or..."
+
+**[00:02:15](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-01-50)**
+> "Victor Marx and his wife Eileen (Eileen Marx) were among the ..."
+
+**[00:02:44](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-02-27)**
+> "...that. And shortly thereafter, Victor Marx announced that he was running for governor of Col..."
+
+**[00:02:56](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-02-27)**
+> "but who actually is Victor Marx. I'm getting old. You're getting old. Our memory ..."
+
+**[00:03:03](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-03-03)**
+> "...that abuse began when Victor (Victor Marx) was just three years old."
+
+**[00:03:40](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-03-03)**
+> "Victor (Victor Marx)'s brother, Mike Kennedy, also pled guilty as a c..."
+
+**[00:03:47](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-03-47)**
+> "his stepfather. Victor Marx's biological dad was Carl Marx. What a name. He was..."
+
+**[00:03:59](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-03-47)**
+> "I am told Victor Marx is in fact very good at martial arts, by the way...."
+
+**[00:04:14](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-03-47)**
+> "...a period of his life. Victor (Victor Marx)'s grandfather, I told you, killed his grandmothe..."
+
+**[00:04:30](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-04-30)**
+> "You're going to hear about Victor Marx's life, some highlights I would say. Age three behe..."
+
+**[00:04:37](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-04-30)**
+> "Age seven Victor Marx killed his first person because his stepdaddy tol..."
+
+**[00:04:50](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-04-30)**
+> "At 18, Victor (Victor Marx) joined the Marine Corps, served for two years be..."
+
+**[00:05:05](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-05-05)**
+> "...y the pastors. At 23, Victor (Victor Marx) married his wife Eileen (Eileen Marx), Eileen (E..."
+
+**[00:05:26](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-05-05)**
+> "...neth Breeding, tried to shoot Victor Marx on Victor (Victor Marx)'s property. Fortunately, ..."
+
+**[00:06:00](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-05-42)**
+> "...ms from me. You can also hear Victor Marx. He has not been shy about sharing his."
+
+**[00:09:01](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-09-01)**
+> "...iss if I didn't also add that Victor Marx is very much involved in human trafficking charit..."
+
+**[00:09:15](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-09-01)**
+> "... Corby Hall, who claimed that Victor Marx was doing some deals or attempting to do some dea..."
+
+**[00:09:27](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-09-01)**
+> "...0 guns for the IDF. We'll ask Victor Marx about that."
+
+**[00:09:30](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-09-01)**
+> "...0 guns for the IDF. We'll ask Victor Marx about that."
+
+**[00:09:35](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-09-35)**
+> "Now, his relationship, Victor Marx's relationship with the IDF is not a matter of opin..."
+
+**[00:10:07](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-09-35)**
+> "...hing. And this is odd because Victor Marx is not a pastor, actually."
+
+**[00:10:30](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-10-13)**
+> "... many people who have accused Victor Marx of abuse."
+
+**[00:10:35](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-10-13)**
+> "...e allegations tend to arrive, Victor Marx always rebuts them with the same line. The person..."
+
+**[00:11:03](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-10-51)**
+> "Victor Marx claims that he was actually rescuing her from her..."
+
+**[00:11:13](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-11-13)**
+> "...t our listeners to know about Victor Marx, the man that you believe that he is, and the exp..."
+
+**[00:11:33](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-11-27)**
+> "I don't know. Anyway, Victor Marx's own son wrote a letter to the board on a company ..."
+
+**[00:11:47](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-11-27)**
+> "Victor Marx's daughter made multiple social media posts confirm..."
+
+**[00:12:51](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-12-35)**
+> "...ial pressure and control that Victor Marx apparently, allegedly holds over her life."
+
+**[00:13:16](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-13-16)**
+> "...hter today. We're speaking to Victor Marx. We can only confirm that abuse allegations tend ..."
+
+**[00:13:26](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-13-16)**
+> "...uld say, by family members of Victor Marx himself who claim that his entire backstory of st..."
+
+**[00:13:50](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-13-16)**
+> "... I said, we will be joined by Victor Marx himself when we get back from break."
+
+**[00:16:05](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-16-05)**
+> "...ght, you guys, let's bring in Victor Marx. Victor Marx, welcome to The Candace Show. How ar..."
+
+**[00:17:22](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-17-22)**
+> "Uh, so Victor (Victor Marx), just, you know, you're on my show. I'm not on y..."
+
+**[00:20:37](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-20-37)**
+> "Victor (Victor Marx), I"
+
+**[00:22:40](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-22-40)**
+> "anything that Victor Marx is saying. I have not said it. I think he is usin..."
+
+**[00:25:14](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-25-14)**
+> "... to apologize to you, Victor (Victor Marx). I sense that you are quite arrogant and you're ..."
+
+**[00:29:11](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-29-11)**
+> "... happened after that, Victor (Victor Marx)?"
+
+**[00:31:22](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-29-11)**
+> "...s on my documentary film, The Victor Marx Story, which folks can watch."
+
+**[00:31:48](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-31-48)**
+> "...dated referring to Charmaine (Victor Marx's half-sister; surname unverified)?"
+
+**[00:31:56](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-31-56)**
+> "... I did not speak with Debbie (Victor Marx's older sister; surname unverified). Okay."
+
+**[00:31:59](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-00-31-59)**
+> "So, Charmaine (Victor Marx's half-sister; surname unverified), if you spoke wi..."
+
+**[01:05:43](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-01-05-43)**
+> "... unverified) will sue Victor (Victor Marx), force, you know, try to get him for trafficking..."
+
+**[01:09:32](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-01-09-11)**
+> "...here said two things, Victor (Victor Marx). One, we were unprepared and we underestimated o..."
+
+**[01:17:35](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-01-17-35)**
+> ".... We We've could say, Victor (Victor Marx), never been stop in contact."
+
+**[01:21:07](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-01-21-07)**
+> "...think you represent millions, Victor Marx. I really struggle and I actually am hopeful that..."
+
+**[01:32:44](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-01-32-34)**
+> "Victor (Victor Marx) is gaslighting and he's also a narcissist. He ca..."
+
+**[01:35:26](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-01-35-26)**
+> "...n prayed over by someone like Victor Marx I don't find him to be I said many fantastical pa..."
+
+**[01:37:44](/episodes/ep-Dkxa9OUA9K8.md#ent-person-victor-marx-t-01-37-09)**
+> "...re arrogant for free, Victor (Victor Marx)."
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (11 mentions)</summary>
@@ -593,33 +843,88 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Accused By (2)</summary>
+<summary>Accused (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:17:31](/episodes/ep-jsqUIkszZd0.md#t-00-17-22): “Good luck, Colorado. See you never if this man wins. Anyway, so what does this have to do with Charlie Kirk and Turning Point and September 10th? Well, I am going to tell you because Victor (Victor Marx), like a stepdaddy, was allegedly interested in trafficking. particularly arms, over to Haiti, and he contacted a man named Corby Hall to get this done. Now, Corby (Corby Hall), I'm going to read you his statement so you know exactly who he is.”
-- [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:17:17](/episodes/ep-xi8SYJTUXPM.md#t-00-17-09): “Remind you, Victor Marx wanted the patent for Israel. He wanted to push Corby Hall out and get him a deal so that he would sell the patent to Israel.”
-- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:05:25](/episodes/ep-4DvYXBn_5JI.md#t-00-05-04): “is it fair, at least after listening to that, to suggest that Corby Hall might have been telling the truth about Victor Marx potentially doing some work trying to secure weaponry on behalf of Israel, on behalf of the IDF, allegedly, maybe?”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:28:40](/episodes/ep-Dkxa9OUA9K8.md#t-00-28-32): “I don't need yours to clarify what we're doing. But what you're doing is making slanderous accusations that are incorrect at the very basic level.”
 
 </details>
 
 - **[Corby Hall](/entities/person-corby-hall.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:34:57](/episodes/ep-1mYNOqzAdXs.md#t-00-34-57): “So just to clarify, Corby (Corby Hall) asserted that Victor Marx wanted guns sold in Israel. He never said anything about it being an illegal transaction.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:22:26](/episodes/ep-Dkxa9OUA9K8.md#t-00-22-25): “Corby (Corby Hall) is the number one issue right now who's homicidal and admitted he wanted to kill me and how he was going to do it. That's why authorities are looking for him. But”
 
 </details>
 
 </details>
 
 <details>
-<summary>Affiliated With (1)</summary>
+<summary>Accused By (3)</summary>
 
-- **[Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)**
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:17:31](/episodes/ep-jsqUIkszZd0.md#t-00-17-22): “Good luck, Colorado. See you never if this man wins. Anyway, so what does this have to do with Charlie Kirk and Turning Point and September 10th? Well, I am going to tell you because Victor (Victor Marx), like a stepdaddy, was allegedly interested in trafficking. particularly arms, over to Haiti, and he contacted a man named Corby Hall to get this done. Now, Corby (Corby Hall), I'm going to read you his statement so you know exactly who he is.”
+- [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:17:17](/episodes/ep-xi8SYJTUXPM.md#t-00-17-09): “Remind you, Victor Marx wanted the patent for Israel. He wanted to push Corby Hall out and get him a deal so that he would sell the patent to Israel.”
+- [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:05:25](/episodes/ep-4DvYXBn_5JI.md#t-00-05-04): “is it fair, at least after listening to that, to suggest that Corby Hall might have been telling the truth about Victor Marx potentially doing some work trying to secure weaponry on behalf of Israel, on behalf of the IDF, allegedly, maybe?”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:19:16](/episodes/ep-Dkxa9OUA9K8.md#t-01-19-10): “says um but like i said i also don't believe that you beheaded a cat when you were three because kids are not that strong and that's a hard thing to do i don't believe you wore a cat head um because you know there's a lot of things that you say that i don't believe so”
+
+</details>
+
+- **[Corby Hall](/entities/person-corby-hall.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:34:57](/episodes/ep-1mYNOqzAdXs.md#t-00-34-57): “So just to clarify, Corby (Corby Hall) asserted that Victor Marx wanted guns sold in Israel. He never said anything about it being an illegal transaction.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:10:30](/episodes/ep-Dkxa9OUA9K8.md#t-00-10-13): “Now, Corby Hall, you should know, is one of many people who have accused Victor Marx of abuse.”
+
+</details>
+
+- **[Holly Chalmers](/entities/person-holly-chalmers.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:10:51](/episodes/ep-Dkxa9OUA9K8.md#t-00-10-51): “There are other people outside of Corby Hall. For example, a young woman named Holly Chalmers accused him of kidnapping her across state lines and of exploiting her.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Affiliated With (3)</summary>
+
+- **[Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:06:36](/episodes/ep-jsqUIkszZd0.md#t-00-06-29): “a turning point faith affiliated pastor named Victor Marx was interested in owning. He wanted to purchase his company.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:01:38](/episodes/ep-Dkxa9OUA9K8.md#t-00-01-24): “So Victor Marx is very much a part of the Turning Point Faith Orbit. He is apparently extraordinarily close to Erika Kirk, right? So much so that he was.”
+
+</details>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:17:27](/episodes/ep-Dkxa9OUA9K8.md#t-00-17-22): “I said, I'm happy to speak about Corby (Corby Hall). Um, there are, there are broader concerns actually, the way that my highest interest in you is obviously as it relates, uh, to Charlie Kirk and your involvement with Turning Point USA, um,”
+
+</details>
+
+- **[Israel Defense Forces](/entities/org-israel-defense-forces.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:09:35](/episodes/ep-Dkxa9OUA9K8.md#t-00-09-01): “Now, his relationship, Victor Marx's relationship with the IDF is not a matter of opinion. It's a matter of fact, as you just heard him speak about it, we have also confirmed that Victor Marx conducts this quote unquote retooling prayer where he claims that he is able to summon demons into a room out of a person's body on more than just Corby Hall and his wife and other people as well.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Attacked By (1)</summary>
+
+- **[Kenneth Breining](/entities/person-kenneth-breining.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:05:26](/episodes/ep-Dkxa9OUA9K8.md#t-00-05-05): “Eileen (Eileen Marx)'s brother, Kenneth Breeding, tried to shoot Victor Marx on Victor (Victor Marx)'s property. Fortunately, Victor (Victor Marx) survived that, but Eileen (Eileen Marx)'s brother would go on to kill his own girlfriend.”
 
 </details>
 
@@ -629,9 +934,10 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <summary>Attended (1)</summary>
 
 - **[Calvary Chapel](/entities/org-calvary-chapel.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:15:29](/episodes/ep-jsqUIkszZd0.md#t-00-15-12): “he was stationed at Camp Pendleton in California and began attending the nearby Calvary Chapel.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:04:50](/episodes/ep-Dkxa9OUA9K8.md#t-00-04-30): “At 18, Victor (Victor Marx) joined the Marine Corps, served for two years before he was discharged. At 21, he says he found Jesus and he started attending Calvary Chapel Church, my favorite church faith.”
 
 </details>
 
@@ -641,9 +947,22 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <summary>Child Of (1)</summary>
 
 - **[Karl W. Marx Sr.](/entities/person-karl-w-marx-sr.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:11:59](/episodes/ep-jsqUIkszZd0.md#t-00-11-33): “Victor Marx' biological dad was apparently cut from the same cloth. His name was Carl Marx.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:03:47](/episodes/ep-Dkxa9OUA9K8.md#t-00-03-03): “his stepfather. Victor Marx's biological dad was Carl Marx. What a name. He was a pimp, a drug dealer, and a world famous martial arts expert.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Criticized (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:21:06](/episodes/ep-Dkxa9OUA9K8.md#t-00-21-02): “Candace, you seem to be a little afraid of truth. And what I once thought was a solid show years ago, you've turned this into a TMZ and worse than TMZ, it's like a Temu version of it.”
 
 </details>
 
@@ -653,25 +972,36 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:23:59](/episodes/ep-jsqUIkszZd0.md#t-00-23-29): “Now, he did send that retooling prayer over to me, and I do want to let you know that Victor Marx—effectively, what he does is he pretends that he is going to summon and then extract information from demons that are inside...”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:31:28](/episodes/ep-1mYNOqzAdXs.md#t-00-30-52): “I got to tell you guys, I'm a gut player and just listening to Victor Marx's explanation regarding his dealings with Corby Hall did not ring true to me.”
 - [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 02:30:08](/episodes/ep--9MOUvgGyi4.md#t-02-29-52): “lot to think about. I certainly have, as I've said, I'm happy to have Victor (Victor Marx) on this podcast and to allow him to tell more about his life story, which I think many people have found parts to be unbelievable. I do think he's a crazy person. ... I will say that for sure. I just. Just on the basis of the story you're telling me, the retooling prayer, I think he's wildly manipulative. I think he's probably involved in a cult and in the occult. That's what that all sounds like to me.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:12:24](/episodes/ep-qZ8RWfyuewQ.md#t-01-12-06): “I also want to let you guys know Victor Marx, he's posting all these videos. He never replied to my. ... my Instagram at all and I followed up and I said it's weird that you're posting all these videos and you have not replied”
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:03:33](/episodes/ep-4DvYXBn_5JI.md#t-00-03-08): “Because on the basis of the stories that we've heard about him, some of them from Victor himself, he seems to me to be a bit dangerous, right?”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:18:26](/episodes/ep-Dkxa9OUA9K8.md#t-01-18-21): “Yeah, I was being sarcastic. I find you to be arrogant and off-putting, actually. It was a little bit of sarcasm of me basically pointing to the fact that you come across as very arrogant and it is off-putting that you make statements like you make. You stop what you're doing. You turn yourself out. You're constantly presenting yourself like you're some sort of an authority.”
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:10:29](/episodes/ep-cPidFQDJLbo.md#t-00-10-29): “Do you see the problem here, Victor (Victor Marx)? You're saying that you didn't do that. You didn't do that. You didn't text for an update. You had no idea what was going on. You just were sitting around.”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:19:24](/episodes/ep-YeEtS7nix3o.md#t-01-19-11): “Victor Marx, man, Greg Laurie, Erika Kirk, they're all creepy. They're all weird.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Formerly Worked For (1)</summary>
+<summary>Formerly Worked For (2)</summary>
 
 - **[United States Marine Corps](/entities/org-united-states-marine-corps.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:15:17](/episodes/ep-jsqUIkszZd0.md#t-00-15-12): “At the age of 18, Victor (Victor Marx) joined the Marine Corps. To be clear, he only served for two years during peacetime stateside, no deployments before he was discharged.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:24:05](/episodes/ep-Dkxa9OUA9K8.md#t-00-23-48): “representing my service to the United States when I served in the Marine Corps. Will you offer me an apology for that?”
+
+</details>
+
+- **[James C. Dobson](/entities/person-james-c-dobson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:52:11](/episodes/ep-Dkxa9OUA9K8.md#t-00-52-02): “Marine Corps. I served under President Reagan. My wife and I started a ministry, all things possible, many, many years ago, a couple of decades before that I worked for Dr.”
 
 </details>
 
@@ -681,24 +1011,28 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <summary>Founded (1)</summary>
 
 - **[All Things Possible Ministries](/entities/org-all-things-possible-ministries.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:15:53](/episodes/ep-jsqUIkszZd0.md#t-00-15-53): “In 2003, he and his brother, who got that light sentence and was out of prison, began All Things Possible Ministries.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:52:11](/episodes/ep-Dkxa9OUA9K8.md#t-00-52-02): “Marine Corps. I served under President Reagan. My wife and I started a ministry, all things possible, many, many years ago, a couple of decades before that I worked for Dr.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Friend Of (2)</summary>
+<summary>Friend Of (4)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:21:26](/episodes/ep-jsqUIkszZd0.md#t-00-21-26): “So this is going to be in first person and he is going to he's presenting here just a timeline of the factual events regarding Victor Marx. Again, Erika (Erika Kirk)'s dear friend, right?”
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:39:02](/episodes/ep-SubDoZWHARo.md#t-00-38-41): “And I don't know why Erika (Erika Kirk) can't make normal friends. None of my friends have these sorts of backgrounds”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:23:43](/episodes/ep-1mYNOqzAdXs.md#t-00-23-27): “Anyway, switching gears to her dear friend, Victor Marx, because we now have proof that he did indeed announce that Charlie Kirk had died first to the world first, I should say.”
 - [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:36:55](/episodes/ep--9MOUvgGyi4.md#t-00-36-39): “Again, that's balanceofnature.com. There are so many connecting themes here with just everything that I've been discussing on my podcast, obviously just investigating this Charlie Kirk story and that brings me back to this obvious relationship Eileen (Eileen Marx) has with Erika (Erika Kirk) and this is very similar, ... know, how then his wife was so close to Eileen (Eileen Marx) and Victor (Victor Marx) that that's one of the first people that she wants to hug and connect with after the assassination.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:51:03](/episodes/ep-Dkxa9OUA9K8.md#t-00-50-52): “We've been close to them and they still are. They were texting this week and Erika (Erika Kirk) reaches out and we respond or we reach out and encourage her.”
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:13:40](/episodes/ep-cPidFQDJLbo.md#t-00-13-02): “some comfort. So you are quite close to Erika (Erika Kirk).”
+- [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:45:44](/episodes/ep-BxN2-aeMYIs.md#t-00-45-44): “The fact that Erika Kirk and Victor Marx are close is the least surprising thing ever.”
 
 </details>
 
@@ -709,10 +1043,24 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 
 </details>
 
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:42:59](/episodes/ep-Dkxa9OUA9K8.md#t-00-42-49): “to speak I did and it was before Charlie (Charlie Kirk) he was a little aggravated that there was another speaker before him because it was a Sunday morning and I knew about Charlie (Charlie Kirk) but never met him and after I spoke he spoke and then we met back in the little makeshift green room and he says I've never heard of you but I'm absolutely encouraged to hear your testimony and what God's done in your life And he wanted me to have his number and stay connected. So we did.”
+
+</details>
+
+- **[Frank Turek](/entities/person-frank-turek.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:07:45](/episodes/ep-cPidFQDJLbo.md#t-00-07-31): “Common sense, Victor (Victor Marx). You just said you're friends with Frank Turek, friends with the security guys. You told us elsewhere in the interview that Eileen (Eileen Marx) and Erika (Erika Kirk), they got so close because.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Interviewed By (2)</summary>
+<summary>Interviewed By (3)</summary>
 
 - **[Sebastian Gorka](/entities/person-sebastian-gorka.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -725,6 +1073,15 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:04:29](/episodes/ep-4DvYXBn_5JI.md#t-00-04-29): “Victor, you're alive in Israel. Give us a frontline report.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:16:05](/episodes/ep-Dkxa9OUA9K8.md#t-00-15-23): “All right, you guys, let's bring in Victor Marx. Victor Marx, welcome to The Candace Show. How are you doing?”
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:01:08](/episodes/ep-cPidFQDJLbo.md#t-00-00-44): “Anyway, the fallout from Victor Marx's interview yesterday is trending all across social media and it inspired me to send out a few preservation letters in my ongoing lawsuit with Brian Harpole.”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:19:14](/episodes/ep-YeEtS7nix3o.md#t-01-19-11): “Petal writes, thanks a lot, Candace. My husband has now been referring to me as my bride ever since your interview with the wackadoo Victor Marx.”
 
 </details>
 
@@ -758,10 +1115,12 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <summary>Married To (1)</summary>
 
 - **[Eileen Marx](/entities/person-eileen-marx.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:15:43](/episodes/ep-jsqUIkszZd0.md#t-00-15-12): “That happened in 1986. Two years later in 1988, he married his wife, Eileen (Eileen Marx), who you just saw Erika (Erika Kirk) hugging.”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:30:52](/episodes/ep-1mYNOqzAdXs.md#t-00-30-52): “He is claiming that he is willing to sit down with me, but he's got some conditions. One of the conditions is that he wants to be able to bring his wife, Eileen (Eileen Marx), but he does not want Corby Hall to be present.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:05:05](/episodes/ep-Dkxa9OUA9K8.md#t-00-04-30): “All right, 10 out of 10, Calvary Chapel Church, definitely the pastors. At 23, Victor (Victor Marx) married his wife Eileen (Eileen Marx), Eileen (Eileen Marx) Breeding Marx, and they went on to have five kids and grandkids.”
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:07:45](/episodes/ep-cPidFQDJLbo.md#t-00-07-31): “Common sense, Victor (Victor Marx). You just said you're friends with Frank Turek, friends with the security guys. You told us elsewhere in the interview that Eileen (Eileen Marx) and Erika (Erika Kirk), they got so close because. ... Well, your wife, your bride mentors Erika (Erika Kirk), right? You were so close to Charlie (Charlie Kirk)'s security apparatus, in fact, that you were able to swiftly coordinate taking over for them a mere 48 hours later in Phoenix, remember?”
 
 </details>
 
@@ -780,7 +1139,19 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details>
-<summary>Met With (3)</summary>
+<summary>Mentored By (1)</summary>
+
+- **[Greg Laurie](/entities/person-greg-laurie.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:40:58](/episodes/ep-YeEtS7nix3o.md#t-00-40-33): “someone emailed me and said that Victor Marx said that his mentor was Greg Laurie.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Met With (4)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -801,6 +1172,37 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:29:57](/episodes/ep-jsqUIkszZd0.md#t-00-29-57): “While the orphanage was saved, a desperate population remains. Some say gang leader Jimmy Barbecue Cherizier is Haiti's most dangerous man. ... Yet when he offered an interview, Marx and his team quickly accepted. ... And he doesn't make himself out to be a saint. But yet, you know, prayed with him. We got to pray with him, to hear his heart, his vision. Please fill him with your spirit, God.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:42:59](/episodes/ep-Dkxa9OUA9K8.md#t-00-42-49): “to speak I did and it was before Charlie (Charlie Kirk) he was a little aggravated that there was another speaker before him because it was a Sunday morning and I knew about Charlie (Charlie Kirk) but never met him and after I spoke he spoke and then we met back in the little makeshift green room and he says I've never heard of you but I'm absolutely encouraged to hear your testimony and what God's done in your life And he wanted me to have his number and stay connected. So we did.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Sibling Of (1)</summary>
+
+- **[Michael Dean Kennedy](/entities/person-michael-dean-kennedy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:03:40](/episodes/ep-Dkxa9OUA9K8.md#t-00-03-03): “Victor (Victor Marx)'s brother, Mike Kennedy, also pled guilty as a co-conspirator, but he took a plea deal in exchange for testifying against his.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Stepchild Of (1)</summary>
+
+- **[Gloyce Dean Kennedy](/entities/person-gloyce-dean-kennedy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:03:03](/episodes/ep-Dkxa9OUA9K8.md#t-00-02-27): “I've already told you his real name is Vaughn Victor Kennedy. That's his birth name at least. And he has told a lot of stories about his childhood, namely surrounding his stepfather, Gleis Dean Kennedy, abuse that he says that he endured at the hands of Gleis, which that abuse began when Victor (Victor Marx) was just three years old.”
 
 </details>
 
@@ -833,63 +1235,116 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details>
-<summary>Referenced By (19)</summary>
+<summary>Referenced By (31)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:17:31](/episodes/ep-jsqUIkszZd0.md#t-00-17-22): “Good luck, Colorado. See you never if this man wins. Anyway, so what does this have to do with Charlie Kirk and Turning Point and September 10th? Well, I am going to tell you because Victor (Victor Marx), like a stepdaddy, was allegedly interested in trafficking. particularly arms, over to Haiti, and he contacted a man named Corby Hall to get this done. Now, Corby (Corby Hall), I'm going to read you his statement so you know exactly who he is.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:17:17](/episodes/ep-xi8SYJTUXPM.md#t-00-17-09): “Remind you, Victor Marx wanted the patent for Israel. He wanted to push Corby Hall out and get him a deal so that he would sell the patent to Israel.”
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:05:25](/episodes/ep-4DvYXBn_5JI.md#t-00-05-04): “is it fair, at least after listening to that, to suggest that Corby Hall might have been telling the truth about Victor Marx potentially doing some work trying to secure weaponry on behalf of Israel, on behalf of the IDF, allegedly, maybe?”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:19:16](/episodes/ep-Dkxa9OUA9K8.md#t-01-19-10): “says um but like i said i also don't believe that you beheaded a cat when you were three because kids are not that strong and that's a hard thing to do i don't believe you wore a cat head um because you know there's a lot of things that you say that i don't believe so”
 
 </details>
 
 - **[Corby Hall](/entities/person-corby-hall.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:34:57](/episodes/ep-1mYNOqzAdXs.md#t-00-34-57): “So just to clarify, Corby (Corby Hall) asserted that Victor Marx wanted guns sold in Israel. He never said anything about it being an illegal transaction.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:10:30](/episodes/ep-Dkxa9OUA9K8.md#t-00-10-13): “Now, Corby Hall, you should know, is one of many people who have accused Victor Marx of abuse.”
+
+</details>
+
+- **[Holly Chalmers](/entities/person-holly-chalmers.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:10:51](/episodes/ep-Dkxa9OUA9K8.md#t-00-10-51): “There are other people outside of Corby Hall. For example, a young woman named Holly Chalmers accused him of kidnapping her across state lines and of exploiting her.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:28:40](/episodes/ep-Dkxa9OUA9K8.md#t-00-28-32): “I don't need yours to clarify what we're doing. But what you're doing is making slanderous accusations that are incorrect at the very basic level.”
+
+</details>
+
+- **[Corby Hall](/entities/person-corby-hall.md)** accused by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:22:26](/episodes/ep-Dkxa9OUA9K8.md#t-00-22-25): “Corby (Corby Hall) is the number one issue right now who's homicidal and admitted he wanted to kill me and how he was going to do it. That's why authorities are looking for him. But”
+
+</details>
+
+- **[Kenneth Breining](/entities/person-kenneth-breining.md)** attacked this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:05:26](/episodes/ep-Dkxa9OUA9K8.md#t-00-05-05): “Eileen (Eileen Marx)'s brother, Kenneth Breeding, tried to shoot Victor Marx on Victor (Victor Marx)'s property. Fortunately, Victor (Victor Marx) survived that, but Eileen (Eileen Marx)'s brother would go on to kill his own girlfriend.”
 
 </details>
 
 - **[Calvary Chapel](/entities/org-calvary-chapel.md)** attended by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:15:29](/episodes/ep-jsqUIkszZd0.md#t-00-15-12): “he was stationed at Camp Pendleton in California and began attending the nearby Calvary Chapel.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:04:50](/episodes/ep-Dkxa9OUA9K8.md#t-00-04-30): “At 18, Victor (Victor Marx) joined the Marine Corps, served for two years before he was discharged. At 21, he says he found Jesus and he started attending Calvary Chapel Church, my favorite church faith.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:23:59](/episodes/ep-jsqUIkszZd0.md#t-00-23-29): “Now, he did send that retooling prayer over to me, and I do want to let you know that Victor Marx—effectively, what he does is he pretends that he is going to summon and then extract information from demons that are inside...”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:31:28](/episodes/ep-1mYNOqzAdXs.md#t-00-30-52): “I got to tell you guys, I'm a gut player and just listening to Victor Marx's explanation regarding his dealings with Corby Hall did not ring true to me.”
 - [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 02:30:08](/episodes/ep--9MOUvgGyi4.md#t-02-29-52): “lot to think about. I certainly have, as I've said, I'm happy to have Victor (Victor Marx) on this podcast and to allow him to tell more about his life story, which I think many people have found parts to be unbelievable. I do think he's a crazy person. ... I will say that for sure. I just. Just on the basis of the story you're telling me, the retooling prayer, I think he's wildly manipulative. I think he's probably involved in a cult and in the occult. That's what that all sounds like to me.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:12:24](/episodes/ep-qZ8RWfyuewQ.md#t-01-12-06): “I also want to let you guys know Victor Marx, he's posting all these videos. He never replied to my. ... my Instagram at all and I followed up and I said it's weird that you're posting all these videos and you have not replied”
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:03:33](/episodes/ep-4DvYXBn_5JI.md#t-00-03-08): “Because on the basis of the stories that we've heard about him, some of them from Victor himself, he seems to me to be a bit dangerous, right?”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:18:26](/episodes/ep-Dkxa9OUA9K8.md#t-01-18-21): “Yeah, I was being sarcastic. I find you to be arrogant and off-putting, actually. It was a little bit of sarcasm of me basically pointing to the fact that you come across as very arrogant and it is off-putting that you make statements like you make. You stop what you're doing. You turn yourself out. You're constantly presenting yourself like you're some sort of an authority.”
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:10:29](/episodes/ep-cPidFQDJLbo.md#t-00-10-29): “Do you see the problem here, Victor (Victor Marx)? You're saying that you didn't do that. You didn't do that. You didn't text for an update. You had no idea what was going on. You just were sitting around.”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:19:24](/episodes/ep-YeEtS7nix3o.md#t-01-19-11): “Victor Marx, man, Greg Laurie, Erika Kirk, they're all creepy. They're all weird.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:21:06](/episodes/ep-Dkxa9OUA9K8.md#t-00-21-02): “Candace, you seem to be a little afraid of truth. And what I once thought was a solid show years ago, you've turned this into a TMZ and worse than TMZ, it's like a Temu version of it.”
 
 </details>
 
 - **[United States Marine Corps](/entities/org-united-states-marine-corps.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:15:17](/episodes/ep-jsqUIkszZd0.md#t-00-15-12): “At the age of 18, Victor (Victor Marx) joined the Marine Corps. To be clear, he only served for two years during peacetime stateside, no deployments before he was discharged.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:24:05](/episodes/ep-Dkxa9OUA9K8.md#t-00-23-48): “representing my service to the United States when I served in the Marine Corps. Will you offer me an apology for that?”
+
+</details>
+
+- **[James C. Dobson](/entities/person-james-c-dobson.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:52:11](/episodes/ep-Dkxa9OUA9K8.md#t-00-52-02): “Marine Corps. I served under President Reagan. My wife and I started a ministry, all things possible, many, many years ago, a couple of decades before that I worked for Dr.”
 
 </details>
 
 - **[All Things Possible Ministries](/entities/org-all-things-possible-ministries.md)** founded by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:15:53](/episodes/ep-jsqUIkszZd0.md#t-00-15-53): “In 2003, he and his brother, who got that light sentence and was out of prison, began All Things Possible Ministries.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:52:11](/episodes/ep-Dkxa9OUA9K8.md#t-00-52-02): “Marine Corps. I served under President Reagan. My wife and I started a ministry, all things possible, many, many years ago, a couple of decades before that I worked for Dr.”
 
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:21:26](/episodes/ep-jsqUIkszZd0.md#t-00-21-26): “So this is going to be in first person and he is going to he's presenting here just a timeline of the factual events regarding Victor Marx. Again, Erika (Erika Kirk)'s dear friend, right?”
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:39:02](/episodes/ep-SubDoZWHARo.md#t-00-38-41): “And I don't know why Erika (Erika Kirk) can't make normal friends. None of my friends have these sorts of backgrounds”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:23:43](/episodes/ep-1mYNOqzAdXs.md#t-00-23-27): “Anyway, switching gears to her dear friend, Victor Marx, because we now have proof that he did indeed announce that Charlie Kirk had died first to the world first, I should say.”
 - [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:36:55](/episodes/ep--9MOUvgGyi4.md#t-00-36-39): “Again, that's balanceofnature.com. There are so many connecting themes here with just everything that I've been discussing on my podcast, obviously just investigating this Charlie Kirk story and that brings me back to this obvious relationship Eileen (Eileen Marx) has with Erika (Erika Kirk) and this is very similar, ... know, how then his wife was so close to Eileen (Eileen Marx) and Victor (Victor Marx) that that's one of the first people that she wants to hug and connect with after the assassination.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:51:03](/episodes/ep-Dkxa9OUA9K8.md#t-00-50-52): “We've been close to them and they still are. They were texting this week and Erika (Erika Kirk) reaches out and we respond or we reach out and encourage her.”
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:13:40](/episodes/ep-cPidFQDJLbo.md#t-00-13-02): “some comfort. So you are quite close to Erika (Erika Kirk).”
+- [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:45:44](/episodes/ep-BxN2-aeMYIs.md#t-00-45-44): “The fact that Erika Kirk and Victor Marx are close is the least surprising thing ever.”
 
 </details>
 
@@ -897,6 +1352,20 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:35:43](/episodes/ep-jsqUIkszZd0.md#t-00-35-43): “OK, so I am going to read this in the in the words that were written by Corby Hall. ... Marx asked me if we were still friends. I responded, "Yes, we can still be friends, but I no longer consider you mine or Melody's (Corby Hall's wife's and FoldAR COO's; surname unverified) spiritual mentor, and I am requesting that you don't contact her anymore."”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:42:59](/episodes/ep-Dkxa9OUA9K8.md#t-00-42-49): “to speak I did and it was before Charlie (Charlie Kirk) he was a little aggravated that there was another speaker before him because it was a Sunday morning and I knew about Charlie (Charlie Kirk) but never met him and after I spoke he spoke and then we met back in the little makeshift green room and he says I've never heard of you but I'm absolutely encouraged to hear your testimony and what God's done in your life And he wanted me to have his number and stay connected. So we did.”
+
+</details>
+
+- **[Frank Turek](/entities/person-frank-turek.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:07:45](/episodes/ep-cPidFQDJLbo.md#t-00-07-31): “Common sense, Victor (Victor Marx). You just said you're friends with Frank Turek, friends with the security guys. You told us elsewhere in the interview that Eileen (Eileen Marx) and Erika (Erika Kirk), they got so close because.”
 
 </details>
 
@@ -914,10 +1383,26 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 
 </details>
 
+- **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:16:05](/episodes/ep-Dkxa9OUA9K8.md#t-00-15-23): “All right, you guys, let's bring in Victor Marx. Victor Marx, welcome to The Candace Show. How are you doing?”
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:01:08](/episodes/ep-cPidFQDJLbo.md#t-00-00-44): “Anyway, the fallout from Victor Marx's interview yesterday is trending all across social media and it inspired me to send out a few preservation letters in my ongoing lawsuit with Brian Harpole.”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:19:14](/episodes/ep-YeEtS7nix3o.md#t-01-19-11): “Petal writes, thanks a lot, Candace. My husband has now been referring to me as my bride ever since your interview with the wackadoo Victor Marx.”
+
+</details>
+
 - **[Cori Kennedy](/entities/person-cori-kennedy.md)** investigated this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:56:40](/episodes/ep-jsqUIkszZd0.md#t-00-56-21): “What was it, Cori? What is the last name? Kennedy? I feel it's Cori Kennedy. C-O-R-I Kennedy. And I'm not sure the background of this person, but similarly, this individual was already looking into Victor Marx, had been looking into Victor Marx for months, actually, and has done a very good job on both X and on Facebook.”
+
+</details>
+
+- **[Greg Laurie](/entities/person-greg-laurie.md)** mentored this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:40:58](/episodes/ep-YeEtS7nix3o.md#t-00-40-33): “someone emailed me and said that Victor Marx said that his mentor was Greg Laurie.”
 
 </details>
 
@@ -950,10 +1435,18 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 
 </details>
 
-- **[Karl W. Marx Sr.](/entities/person-karl-w-marx-sr.md)** parent of this
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** met with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:42:59](/episodes/ep-Dkxa9OUA9K8.md#t-00-42-49): “to speak I did and it was before Charlie (Charlie Kirk) he was a little aggravated that there was another speaker before him because it was a Sunday morning and I knew about Charlie (Charlie Kirk) but never met him and after I spoke he spoke and then we met back in the little makeshift green room and he says I've never heard of you but I'm absolutely encouraged to hear your testimony and what God's done in your life And he wanted me to have his number and stay connected. So we did.”
+
+</details>
+
+- **[Karl W. Marx Sr.](/entities/person-karl-w-marx-sr.md)** parent of this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:11:59](/episodes/ep-jsqUIkszZd0.md#t-00-11-33): “Victor Marx' biological dad was apparently cut from the same cloth. His name was Carl Marx.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:03:47](/episodes/ep-Dkxa9OUA9K8.md#t-00-03-03): “his stepfather. Victor Marx's biological dad was Carl Marx. What a name. He was a pimp, a drug dealer, and a world famous martial arts expert.”
 
 </details>
 
@@ -961,6 +1454,13 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:21:42](/episodes/ep-jsqUIkszZd0.md#t-00-21-26): “He writes that on or about December 1st, 2023, at the request of Victor Marx, Melody (Corby Hall's wife and FoldAR COO; surname unverified), my then-girlfriend, who earned her place as COO of FoldAR, and I drove from Texas to Colorado Springs to provide a demo of the FoldAR to Mr. ... During our demo at his home base gun range, Mr. Marx (Victor Marx) approached me separately and asked if I would make a signature series rifle for him.”
+
+</details>
+
+- **[Gloyce Dean Kennedy](/entities/person-gloyce-dean-kennedy.md)** stepparent of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:03:03](/episodes/ep-Dkxa9OUA9K8.md#t-00-02-27): “I've already told you his real name is Vaughn Victor Kennedy. That's his birth name at least. And he has told a lot of stories about his childhood, namely surrounding his stepfather, Gleis Dean Kennedy, abuse that he says that he endured at the hands of Gleis, which that abuse began when Victor (Victor Marx) was just three years old.”
 
 </details>
 
@@ -986,7 +1486,98 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Victor Marx (24)</strong></summary>
+<summary><strong class="section-title">Statements by Victor Marx (51)</strong></summary>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (2)</summary>
+
+- [00:03:21](/episodes/ep-cPidFQDJLbo.md#t-00-03-21) [◐] (Claim) ["All of this started only because I entered the political realm and because I am ..."](/statements/statement-ba2e76c32c38.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [Colorado](/entities/gpe-colorado.md)
+
+- [00:14:50](/episodes/ep-cPidFQDJLbo.md#t-00-14-50) [✓] (Claim) ["Nobody's going to kill you. You're safe. You and the kids. No one's coming after..."](/statements/statement-2a7d84ea828f.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (25)</summary>
+
+- [00:06:15](/episodes/ep-Dkxa9OUA9K8.md#t-00-06-15) [○] (Claim) ["Victor Marx says that when he was about three and a half, his stepfather threate..."](/statements/statement-8ba6b0c45be8.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [Gloyce Dean Kennedy](/entities/person-gloyce-dean-kennedy.md)
+
+- [00:06:54](/episodes/ep-Dkxa9OUA9K8.md#t-00-06-37) [○] (Claim) ["Victor Marx says his stepfather forced his finger onto a pistol trigger so that ..."](/statements/statement-eecdd7c92887.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [Gloyce Dean Kennedy](/entities/person-gloyce-dean-kennedy.md)
+
+- [00:18:30](/episodes/ep-Dkxa9OUA9K8.md#t-00-18-17) [◐] (Accusation) ["Victor Marx says Cori Kennedy filed a statement with local authorities and the F..."](/statements/statement-50e8988175a0.md)
+  - About: [Corby Hall](/entities/person-corby-hall.md), [Cori Kennedy](/entities/person-cori-kennedy.md), [FBI](/entities/org-fbi.md)
+
+- [00:23:42](/episodes/ep-Dkxa9OUA9K8.md#t-00-23-42) [✓] (Claim) ["Victor Marx says his DD Form 214 shows that he served three years in the United ..."](/statements/statement-6b2b95af6793.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md)
+
+- [00:28:49](/episodes/ep-Dkxa9OUA9K8.md#t-00-28-32) [✗] (Claim) ["Victor Marx says he called the sheriff's department years later about the allege..."](/statements/statement-cab424f43ef5.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [Gloyce Dean Kennedy](/entities/person-gloyce-dean-kennedy.md)
+
+- [00:34:34](/episodes/ep-Dkxa9OUA9K8.md#t-00-34-34) [○] (Claim) ["Victor Marx says the alleged childhood shooting occurred in either Mendenhall or..."](/statements/statement-df2872fc7d93.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [Mendenhall, Mississippi](/entities/gpe-mendenhall-mississippi.md), [Magee, Mississippi](/entities/gpe-magee-mississippi.md)
+
+- [00:35:10](/episodes/ep-Dkxa9OUA9K8.md#t-00-35-10) [○] (Claim) ["Victor Marx says he tried being a pastor but concluded that he was not called to..."](/statements/statement-2579285db77f.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md)
+
+- [00:38:26](/episodes/ep-Dkxa9OUA9K8.md#t-00-38-26) [✓] (Claim) ["Victor Marx says his headquarters holds more than 6,000 letters from incarcerate..."](/statements/statement-9163252adc39.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [All Things Possible Ministries](/entities/org-all-things-possible-ministries.md)
+
+- [00:42:14](/episodes/ep-Dkxa9OUA9K8.md#t-00-42-14) [○] (Claim) ["Victor Marx says Charlie Kirk asked Marx to pray for him in Kirk's office, and t..."](/statements/statement-edb3c9dfbe8d.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:43:52](/episodes/ep-Dkxa9OUA9K8.md#t-00-43-48) [○] (Claim) ["Victor Marx says he and Charlie Kirk never had a falling out."](/statements/statement-16a1fc240c84.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:46:02](/episodes/ep-Dkxa9OUA9K8.md#t-00-46-02) [◐] (Claim) ["Victor Marx says he announced Charlie Kirk's death after he and team members wit..."](/statements/statement-ba2386a33bd4.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:50:10](/episodes/ep-Dkxa9OUA9K8.md#t-00-50-10) [○] (Claim) ["Victor Marx says he immediately brought a team to relieve Charlie Kirk's initial..."](/statements/statement-11ab1843d94b.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [Eileen Marx](/entities/person-eileen-marx.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:50:52](/episodes/ep-Dkxa9OUA9K8.md#t-00-50-52) [○] (Claim) ["Victor Marx says Eileen Marx is like a second mother to Erika Kirk and that the ..."](/statements/statement-dfc27f7f919b.md)
+  - About: [Eileen Marx](/entities/person-eileen-marx.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:53:10](/episodes/ep-Dkxa9OUA9K8.md#t-00-52-37) [○] (Claim) ["Victor Marx says the Kurdistan government officially invited his organization in..."](/statements/statement-e4c4edec34ff.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [Kurdistan Regional Government](/entities/org-kurdistan-regional-government.md), [Islamic State](/entities/org-islamic-state.md)
+
+- [00:55:00](/episodes/ep-Dkxa9OUA9K8.md#t-00-54-48) [✓] (Claim) ["Victor Marx says All Things Possible Ministries has never accepted government fu..."](/statements/statement-28553da7f94a.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [All Things Possible Ministries](/entities/org-all-things-possible-ministries.md)
+
+- [00:56:42](/episodes/ep-Dkxa9OUA9K8.md#t-00-56-42) [✗] (Claim) ["Victor Marx says neither he nor All Things Possible Ministries ever claimed to h..."](/statements/statement-910bc380eba4.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [All Things Possible Ministries](/entities/org-all-things-possible-ministries.md)
+
+- [00:58:02](/episodes/ep-Dkxa9OUA9K8.md#t-00-57-36) [○] (Claim) ["Victor Marx says his team rescued a mother who had been held captive by the Isla..."](/statements/statement-cc9f5393ba08.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [Islamic State](/entities/org-islamic-state.md), [All Things Possible Ministries](/entities/org-all-things-possible-ministries.md)
+
+- [01:04:27](/episodes/ep-Dkxa9OUA9K8.md#t-01-04-08) [○] (Claim) ["Victor Marx says a Homeland Security Investigations trafficking specialist appro..."](/statements/statement-40f3c185c1b1.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [Homeland Security Investigations](/entities/org-homeland-security-investigations.md), [Canada](/entities/gpe-canada.md)
+
+- [01:06:23](/episodes/ep-Dkxa9OUA9K8.md#t-01-06-23) [○] (Claim) ["Victor Marx says he has never intentionally manipulated or maligned anyone or pu..."](/statements/statement-14849b19ca9b.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [All Things Possible Ministries](/entities/org-all-things-possible-ministries.md)
+
+- [01:08:56](/episodes/ep-Dkxa9OUA9K8.md#t-01-08-56) [○] (Claim) ["Victor Marx says his organization helped 6,000 children affected by the war betw..."](/statements/statement-cee03df0c038.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [All Things Possible Ministries](/entities/org-all-things-possible-ministries.md), [Hamas](/entities/org-hamas.md)
+
+- [01:09:32](/episodes/ep-Dkxa9OUA9K8.md#t-01-09-11) [◐] (Claim) ["Victor Marx says Israeli contacts told him their forces were unprepared, underes..."](/statements/statement-98e0f4782b76.md)
+  - About: [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Israel](/entities/gpe-israel.md)
+
+- [01:12:14](/episodes/ep-Dkxa9OUA9K8.md#t-01-12-14) [○] (Opinion) ["Victor Marx says Israel's actions in Gaza have turned into a genocide."](/statements/statement-ac24e2de0aab.md)
+  - About: [Israel](/entities/gpe-israel.md), [Gaza](/entities/gpe-gaza.md)
+
+- [01:12:35](/episodes/ep-Dkxa9OUA9K8.md#t-01-12-14) [○] (Opinion) ["Victor Marx's position is that Hamas should stop firing rockets and return the h..."](/statements/statement-c468c29107d0.md)
+  - About: [Hamas](/entities/org-hamas.md)
+
+- [01:14:51](/episodes/ep-Dkxa9OUA9K8.md#t-01-14-51) [◐] (Claim) ["Victor Marx denies ever asking Corby Hall for 50,000 weapons and says he has a F..."](/statements/statement-cee3f7a18903.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md), [Corby Hall](/entities/person-corby-hall.md), [Federal Firearms License](/entities/concept-federal-firearms-license.md)
+
+- [01:16:39](/episodes/ep-Dkxa9OUA9K8.md#t-01-16-39) [○] (Claim) ["Victor Marx says the FBI and El Paso County Sheriff's Department have an open in..."](/statements/statement-f21a93e0f279.md)
+  - About: [Corby Hall](/entities/person-corby-hall.md), [FBI](/entities/org-fbi.md), [El Paso County Sheriff's Office](/entities/org-el-paso-county-sheriffs-office.md)
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>
@@ -1088,7 +1679,117 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Victor Marx (52)</strong></summary>
+<summary><strong class="section-title">Statements about Victor Marx (88)</strong></summary>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (7)</summary>
+
+- [00:01:08](/episodes/ep-cPidFQDJLbo.md#t-00-00-44) (Claim) **Candace Owens**: ["The fallout from Victor Marx's interview inspired me to send preservat..."](/statements/statement-8a090a2510d3.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:03:21](/episodes/ep-cPidFQDJLbo.md#t-00-03-21) (Claim) **Victor Marx** (via quoted post): ["All of this started only because I entered the political realm and bec..."](/statements/statement-ba2e76c32c38.md)
+  - Also about: [Colorado](/entities/gpe-colorado.md)
+
+- [00:09:44](/episodes/ep-cPidFQDJLbo.md#t-00-09-25) (Accusation) **Candace Owens**: ["Victor Marx's account of how he announced Charlie Kirk's death is extr..."](/statements/statement-07791cb479fd.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:12:07](/episodes/ep-cPidFQDJLbo.md#t-00-11-49) (Accusation) **Candace Owens**: ["If I had to guess, I would say it's because you're protecting someone...."](/statements/statement-862a760cf236.md)
+
+- [00:12:50](/episodes/ep-cPidFQDJLbo.md#t-00-12-27) (Claim) **Candace Owens**: ["I sent Victor Marx a legal preservation letter because his communicati..."](/statements/statement-f71d1e57c1a1.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:15:30](/episodes/ep-cPidFQDJLbo.md#t-00-15-28) (Accusation) **Candace Owens**: ["Who's they? Who is they? They only wanted to kill Charlie. You and the..."](/statements/statement-548d5558ba11.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:52:54](/episodes/ep-cPidFQDJLbo.md#t-00-52-37) (Accusation) **Candace Owens**: ["Victor Marx's post timing signals to me that someone at the hospital, ..."](/statements/statement-4519a0d6b1ae.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (29)</summary>
+
+- [00:01:50](/episodes/ep-Dkxa9OUA9K8.md#t-00-01-50) (Claim) **Candace Owens**: ["Victor Marx was the first person Candace Owens could find in Charlie K..."](/statements/statement-dfd764993c90.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Instagram](/entities/org-instagram.md)
+
+- [00:06:15](/episodes/ep-Dkxa9OUA9K8.md#t-00-06-15) (Claim) **Victor Marx** (via quoted speech): ["Victor Marx says that when he was about three and a half, his stepfath..."](/statements/statement-8ba6b0c45be8.md)
+  - Also about: [Gloyce Dean Kennedy](/entities/person-gloyce-dean-kennedy.md)
+
+- [00:06:54](/episodes/ep-Dkxa9OUA9K8.md#t-00-06-37) (Claim) **Victor Marx** (via quoted speech): ["Victor Marx says his stepfather forced his finger onto a pistol trigge..."](/statements/statement-eecdd7c92887.md)
+  - Also about: [Gloyce Dean Kennedy](/entities/person-gloyce-dean-kennedy.md)
+
+- [00:09:15](/episodes/ep-Dkxa9OUA9K8.md#t-00-09-01) (Accusation) **Candace Owens** (via paraphrase): ["Candace Owens says Corby Hall claimed that Victor Marx attempted to ar..."](/statements/statement-512ef69881f8.md)
+  - Also about: [Corby Hall](/entities/person-corby-hall.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md)
+
+- [00:10:51](/episodes/ep-Dkxa9OUA9K8.md#t-00-10-51) (Accusation) **Candace Owens** (via paraphrase): ["Candace Owens says Holly Chalmers accused Victor Marx of kidnapping he..."](/statements/statement-0e3663a33ae9.md)
+
+- [00:11:21](/episodes/ep-Dkxa9OUA9K8.md#t-00-11-21) (Accusation) **Holly Chalmers** (via quoted speech): ["Holly Chalmers says of Victor Marx, 'I believe that he is the traffick..."](/statements/statement-230dbf59ac5a.md)
+
+- [00:11:33](/episodes/ep-Dkxa9OUA9K8.md#t-00-11-27) (Accusation) **Candace Owens** (via paraphrase): ["Candace Owens says Victor Marx's son wrote to a board accusing Marx of..."](/statements/statement-8415ef8f2087.md)
+
+- [00:11:59](/episodes/ep-Dkxa9OUA9K8.md#t-00-11-59) (Accusation) **Anonymous Source #1 (Ep Dkxa9OUA9K8)** (via quoted post): ["Victor Marx's daughter wrote that a letter to his board described year..."](/statements/statement-290e4f7522cf.md)
+
+- [00:12:35](/episodes/ep-Dkxa9OUA9K8.md#t-00-12-35) (Accusation) **Anonymous Source #1 (Ep Dkxa9OUA9K8)** (via quoted post): ["Victor Marx's daughter wrote that her father's CEO offered her $55,000..."](/statements/statement-b68427a64ea4.md)
+
+- [00:13:26](/episodes/ep-Dkxa9OUA9K8.md#t-00-13-16) (Accusation) **Candace Owens** (via paraphrase): ["Candace Owens says members of Victor Marx's family claimed his stories..."](/statements/statement-148bcdb4c586.md)
+  - Also about: [Gloyce Dean Kennedy](/entities/person-gloyce-dean-kennedy.md)
+
+- [00:23:42](/episodes/ep-Dkxa9OUA9K8.md#t-00-23-42) (Claim) **Victor Marx**: ["Victor Marx says his DD Form 214 shows that he served three years in t..."](/statements/statement-6b2b95af6793.md)
+  - Also about: [United States Marine Corps](/entities/org-united-states-marine-corps.md)
+
+- [00:28:49](/episodes/ep-Dkxa9OUA9K8.md#t-00-28-32) (Claim) **Victor Marx**: ["Victor Marx says he called the sheriff's department years later about ..."](/statements/statement-cab424f43ef5.md)
+  - Also about: [Gloyce Dean Kennedy](/entities/person-gloyce-dean-kennedy.md)
+
+- [00:34:34](/episodes/ep-Dkxa9OUA9K8.md#t-00-34-34) (Claim) **Victor Marx**: ["Victor Marx says the alleged childhood shooting occurred in either Men..."](/statements/statement-df2872fc7d93.md)
+  - Also about: [Mendenhall, Mississippi](/entities/gpe-mendenhall-mississippi.md), [Magee, Mississippi](/entities/gpe-magee-mississippi.md), [Simpson County, Mississippi](/entities/gpe-simpson-county-mississippi.md)
+
+- [00:35:10](/episodes/ep-Dkxa9OUA9K8.md#t-00-35-10) (Claim) **Victor Marx**: ["Victor Marx says he tried being a pastor but concluded that he was not..."](/statements/statement-2579285db77f.md)
+
+- [00:38:26](/episodes/ep-Dkxa9OUA9K8.md#t-00-38-26) (Claim) **Victor Marx**: ["Victor Marx says his headquarters holds more than 6,000 letters from i..."](/statements/statement-9163252adc39.md)
+  - Also about: [All Things Possible Ministries](/entities/org-all-things-possible-ministries.md)
+
+- [00:42:14](/episodes/ep-Dkxa9OUA9K8.md#t-00-42-14) (Claim) **Victor Marx**: ["Victor Marx says Charlie Kirk asked Marx to pray for him in Kirk's off..."](/statements/statement-edb3c9dfbe8d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:43:52](/episodes/ep-Dkxa9OUA9K8.md#t-00-43-48) (Claim) **Victor Marx**: ["Victor Marx says he and Charlie Kirk never had a falling out."](/statements/statement-16a1fc240c84.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:46:02](/episodes/ep-Dkxa9OUA9K8.md#t-00-46-02) (Claim) **Victor Marx**: ["Victor Marx says he announced Charlie Kirk's death after he and team m..."](/statements/statement-ba2386a33bd4.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:50:10](/episodes/ep-Dkxa9OUA9K8.md#t-00-50-10) (Claim) **Victor Marx**: ["Victor Marx says he immediately brought a team to relieve Charlie Kirk..."](/statements/statement-11ab1843d94b.md)
+  - Also about: [Eileen Marx](/entities/person-eileen-marx.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:53:10](/episodes/ep-Dkxa9OUA9K8.md#t-00-52-37) (Claim) **Victor Marx**: ["Victor Marx says the Kurdistan government officially invited his organ..."](/statements/statement-e4c4edec34ff.md)
+  - Also about: [Kurdistan Regional Government](/entities/org-kurdistan-regional-government.md), [Islamic State](/entities/org-islamic-state.md), [Iraq](/entities/gpe-iraq.md)
+
+- [00:55:00](/episodes/ep-Dkxa9OUA9K8.md#t-00-54-48) (Claim) **Victor Marx**: ["Victor Marx says All Things Possible Ministries has never accepted gov..."](/statements/statement-28553da7f94a.md)
+  - Also about: [All Things Possible Ministries](/entities/org-all-things-possible-ministries.md)
+
+- [00:56:42](/episodes/ep-Dkxa9OUA9K8.md#t-00-56-42) (Claim) **Victor Marx**: ["Victor Marx says neither he nor All Things Possible Ministries ever cl..."](/statements/statement-910bc380eba4.md)
+  - Also about: [All Things Possible Ministries](/entities/org-all-things-possible-ministries.md)
+
+- [00:58:02](/episodes/ep-Dkxa9OUA9K8.md#t-00-57-36) (Claim) **Victor Marx**: ["Victor Marx says his team rescued a mother who had been held captive b..."](/statements/statement-cc9f5393ba08.md)
+  - Also about: [Islamic State](/entities/org-islamic-state.md), [All Things Possible Ministries](/entities/org-all-things-possible-ministries.md)
+
+- [01:04:27](/episodes/ep-Dkxa9OUA9K8.md#t-01-04-08) (Claim) **Victor Marx**: ["Victor Marx says a Homeland Security Investigations trafficking specia..."](/statements/statement-40f3c185c1b1.md)
+  - Also about: [Homeland Security Investigations](/entities/org-homeland-security-investigations.md), [Canada](/entities/gpe-canada.md), [United States](/entities/gpe-united-states.md)
+
+- [01:06:23](/episodes/ep-Dkxa9OUA9K8.md#t-01-06-23) (Claim) **Victor Marx**: ["Victor Marx says he has never intentionally manipulated or maligned an..."](/statements/statement-14849b19ca9b.md)
+  - Also about: [All Things Possible Ministries](/entities/org-all-things-possible-ministries.md)
+
+- [01:08:56](/episodes/ep-Dkxa9OUA9K8.md#t-01-08-56) (Claim) **Victor Marx**: ["Victor Marx says his organization helped 6,000 children affected by th..."](/statements/statement-cee03df0c038.md)
+  - Also about: [All Things Possible Ministries](/entities/org-all-things-possible-ministries.md), [Hamas](/entities/org-hamas.md), [Israel](/entities/gpe-israel.md)
+
+- [01:13:43](/episodes/ep-Dkxa9OUA9K8.md#t-01-13-43) (Citation) **Candace Owens**: ["Candace Owens says an archived version of Victor Marx's campaign websi..."](/statements/statement-6c73660f375d.md)
+  - Also about: [All Things Possible Ministries](/entities/org-all-things-possible-ministries.md)
+
+- [01:14:51](/episodes/ep-Dkxa9OUA9K8.md#t-01-14-51) (Claim) **Victor Marx**: ["Victor Marx denies ever asking Corby Hall for 50,000 weapons and says ..."](/statements/statement-cee3f7a18903.md)
+  - Also about: [Corby Hall](/entities/person-corby-hall.md), [Federal Firearms License](/entities/concept-federal-firearms-license.md)
+
+- [01:19:16](/episodes/ep-Dkxa9OUA9K8.md#t-01-19-10) (Opinion) **Candace Owens**: ["Candace Owens does not believe Victor Marx's account that he was force..."](/statements/statement-7ff464c5a5fd.md)
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (4)</summary>

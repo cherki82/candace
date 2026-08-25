@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Charlie Kirk was assassinated at Utah Valley University.
 
-## Mentioned In (47 times)
+## Mentioned In (48 times)
 
 ### 1. You Won't Believe What Happened While We Were Off Air... | C...
 
@@ -388,3 +388,11 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(835);return false;">▶️ Play</a>
 
 > Your company founder and your boss is tragically assassinated in front of the entire world.
+
+### 48. Hunter Biden Returns. The White House Ghosts Me Regarding Er...
+
+**Episode:** [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md)
+**Timestamp:** [00:00:39](/episodes/ep-1QZ4X6q1DPg.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-00-39) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(39);return false;">▶️ Play</a>
+
+> in September, the same month that Charlie Kirk died. That's interesting, right?

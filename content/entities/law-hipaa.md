@@ -1,6 +1,6 @@
 ---
 title: "HIPAA"
-description: "HIPAA (Laws & Legislation) - 5 mentions"
+description: "HIPAA (Laws & Legislation) - 10 mentions"
 id: "law-hipaa"
 type: "LAW"
 aliases:
@@ -24,9 +24,9 @@ Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-profession
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-law-hipaa-t-00-13-27">2025-12-16 · 00:03:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-law-hipaa-t-00-39-48">2026-04-02 · 00:40:10</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-law-hipaa-t-00-58-27">2026-05-28 · 00:58:27</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,11 +35,13 @@ Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-profession
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-es7PWdFGoFI.md#ent-law-hipaa-t-00-13-27">Erika And I Sat Down. Here’s What Happened. | Candace Ep 280</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-SKNJPul29zU.md#ent-law-hipaa-t-00-58-15">Candace Owens x Ana Kasparian</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-es7PWdFGoFI.md#ent-law-hipaa-t-00-13-27" style="--pulse-height:100%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 2 mentions" title="2025-12-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-law-hipaa-t-00-04-09" style="--pulse-height:100%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-law-hipaa-t-00-39-48" style="--pulse-height:50%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-law-hipaa-t-00-13-27" style="--pulse-height:67%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 2 mentions" title="2025-12-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-law-hipaa-t-00-04-09" style="--pulse-height:67%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-law-hipaa-t-00-39-48" style="--pulse-height:33%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-law-hipaa-t-00-20-12" style="--pulse-height:67%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-law-hipaa-t-00-58-15" style="--pulse-height:100%" aria-label="Candace Owens x Ana Kasparian: 3 mentions" title="2026-05-28 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +50,8 @@ Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-profession
 | 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-law-hipaa-t-00-13-27) | 2 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-law-hipaa-t-00-04-09) | 2 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-law-hipaa-t-00-39-48) | 1 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-law-hipaa-t-00-20-12) | 2 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-law-hipaa-t-00-58-15) | 3 |
 
 </details>
 </section>
@@ -55,7 +59,32 @@ Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-profession
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (3 mentions)</summary>
+
+**[00:58:19](/episodes/ep-SKNJPul29zU.md#ent-law-hipaa-t-00-58-15)**
+> "the surgeon violated HIPAA"
+
+**[00:58:15](/episodes/ep-SKNJPul29zU.md#ent-law-hipaa-t-00-58-15)**
+> "...alked to the surgeon violated HIPAA and Andrew (Andrew Kolvet)"
+
+**[00:58:27](/episodes/ep-SKNJPul29zU.md#ent-law-hipaa-t-00-58-27)**
+> "HIPAA and spoke to Andrew (Andrew Kolvet) without your ..."
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (2 mentions)</summary>
+
+**[00:20:12](/episodes/ep-Ux1kzgQxkws.md#ent-law-hipaa-t-00-20-12)**
+> "...because it's not protected by HIPAA in a rehab uh uh scenario which is crazy right ye..."
+
+**[00:20:47](/episodes/ep-Ux1kzgQxkws.md#ent-law-hipaa-t-00-20-12)**
+> "...ivorce. It's not protected by HIPAA. It will become public. I don't want to do this t..."
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>

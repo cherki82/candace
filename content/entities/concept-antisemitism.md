@@ -1,6 +1,6 @@
 ---
 title: "Antisemitism"
-description: "Antisemitism (Concepts) - 88 mentions"
+description: "Antisemitism (Concepts) - 97 mentions"
 id: "concept-antisemitism"
 type: "CONCEPT"
 aliases:
@@ -25,11 +25,11 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-antisemitism-t-00-00-00">2026-01-07 · 00:00:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-antisemitism-t-00-25-30">2026-05-07 · 00:25:45</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>88</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-antisemitism-t-01-18-25">2026-06-09 · 01:19:04</a></strong></div>
+<div><span>Episodes</span><strong>29</strong></div>
+<div><span>Mentions</span><strong>97</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Statements about</span><strong>19</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -63,6 +63,10 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-concept-antisemitism-t-00-16-15" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-concept-antisemitism-t-00-25-16" style="--pulse-height:8%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-antisemitism-t-00-25-30" style="--pulse-height:8%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-antisemitism-t-00-21-55" style="--pulse-height:14%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-antisemitism-t-00-34-32" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-concept-antisemitism-t-00-09-55" style="--pulse-height:21%" aria-label="Candace Owens x Ana Kasparian: 3 mentions" title="2026-05-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-antisemitism-t-00-26-29" style="--pulse-height:21%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 3 mentions" title="2026-06-09 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -93,6 +97,10 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-concept-antisemitism-t-00-16-15) | 1 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-concept-antisemitism-t-00-25-16) | 1 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-concept-antisemitism-t-00-25-30) | 1 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-concept-antisemitism-t-00-21-55) | 2 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-concept-antisemitism-t-00-34-32) | 1 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-concept-antisemitism-t-00-09-55) | 3 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-concept-antisemitism-t-00-26-29) | 3 |
 
 </details>
 </section>
@@ -100,7 +108,54 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (88)</strong></summary>
+<summary><strong class="section-title">Raw mentions (97)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (3 mentions)</summary>
+
+**[00:27:04](/episodes/ep-YeEtS7nix3o.md#ent-concept-antisemitism-t-00-26-29)**
+> "...this information makes you an anti-Semite."
+
+**[01:18:35](/episodes/ep-YeEtS7nix3o.md#ent-concept-antisemitism-t-01-18-25)**
+> "...u know, Russia is endemically anti-Semitic. It's like, no, how about like you're not allowed..."
+
+**[01:19:04](/episodes/ep-YeEtS7nix3o.md#ent-concept-antisemitism-t-01-18-25)**
+> "...eone, you don't get to scream anti-Semitism."
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (3 mentions)</summary>
+
+**[00:09:55](/episodes/ep-SKNJPul29zU.md#ent-concept-antisemitism-t-00-09-55)**
+> "And suddenly it was you're an anti-Semite. You deserve to have nothing. You shouldn't even be allowed to travel to Australia because you are akin to Adolf Hitler."
+
+**[00:35:38](/episodes/ep-SKNJPul29zU.md#ent-concept-antisemitism-t-00-35-23)**
+> "And anything I've said about Israel is not anti-Semitic. Israel has carried out a genocide, continues to carry out a genocide in Gaza."
+
+**[00:22:39](/episodes/ep-SKNJPul29zU.md#ent-concept-antisemitism-t-00-22-39)**
+> "...night candace owens became an anti-semite"
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
+
+**[00:34:49](/episodes/ep-MhakwJxK-Zk.md#ent-concept-antisemitism-t-00-34-32)**
+> "...aying people were calling him anti-Semitic and that they were going to lose everybody."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (2 mentions)</summary>
+
+**[00:22:21](/episodes/ep-BxN2-aeMYIs.md#ent-concept-antisemitism-t-00-21-55)**
+> "anti-Semitic"
+
+**[00:22:35](/episodes/ep-BxN2-aeMYIs.md#ent-concept-antisemitism-t-00-21-55)**
+> "Christ is King is anti-Semitic. You know who they partnered with on that? Do you..."
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>
@@ -498,7 +553,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Antisemitism (18)</strong></summary>
+<summary><strong class="section-title">Statements about Antisemitism (19)</strong></summary>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
+
+- [00:22:21](/episodes/ep-BxN2-aeMYIs.md#t-00-21-55) (Accusation) **Candace Owens**: ["The Network Contagion Research Institute produced a report featuring O..."](/statements/statement-b3ef2f20bf50.md)
+  - Also about: [Network Contagion Research Institute](/entities/org-network-contagion-research-institute.md), [Candace Owens](/entities/person-candace-owens.md), [Christ Is King](/entities/concept-christ-is-king.md)
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>

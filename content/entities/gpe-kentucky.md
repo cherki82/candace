@@ -1,6 +1,6 @@
 ---
 title: "Kentucky"
-description: "Kentucky (Places) - 17 mentions"
+description: "Kentucky (Places) - 20 mentions"
 id: "gpe-kentucky"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [Official Commonwealth of Kentucky portal](https://www.kentucky.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-kentucky-t-00-07-50">2026-02-02 · 00:08:19</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-gpe-kentucky-t-00-43-12">2026-05-07 · 00:43:12</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-kentucky-t-01-36-12">2026-05-21 · 01:36:37</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,9 @@ Source: [Official Commonwealth of Kentucky portal](https://www.kentucky.gov/)
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-kentucky-t-00-36-53" style="--pulse-height:25%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 2 mentions" title="2026-03-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-kentucky-t-00-07-32" style="--pulse-height:38%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-gpe-kentucky-t-00-22-39" style="--pulse-height:100%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 8 mentions" title="2026-05-07 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-kentucky-t-00-00-01" style="--pulse-height:12%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-gpe-kentucky-t-00-00-00" style="--pulse-height:12%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-kentucky-t-01-36-12" style="--pulse-height:12%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +48,9 @@ Source: [Official Commonwealth of Kentucky portal](https://www.kentucky.gov/)
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-kentucky-t-00-36-53) | 2 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-kentucky-t-00-07-32) | 3 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-gpe-kentucky-t-00-22-39) | 8 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-kentucky-t-00-00-01) | 1 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-gpe-kentucky-t-00-00-00) | 1 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-kentucky-t-01-36-12) | 1 |
 
 </details>
 </section>
@@ -52,7 +58,31 @@ Source: [Official Commonwealth of Kentucky portal](https://www.kentucky.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
+
+**[01:36:37](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-kentucky-t-01-36-12)**
+> "...re's a couple, there's one in Kentucky that is a really beautiful model."
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1 mentions)</summary>
+
+**[00:00:00](/episodes/ep-cPidFQDJLbo.md#ent-gpe-kentucky-t-00-00-00)**
+> "Thomas Massie lost in Kentucky."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1 mentions)</summary>
+
+**[00:00:01](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-kentucky-t-00-00-01)**
+> "...sed for Thomas Massie down in Kentucky."
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (8 mentions)</summary>

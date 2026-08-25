@@ -1,6 +1,6 @@
 ---
 title: "Israel Defense Forces"
-description: "Israel Defense Forces (Organizations) - 32 mentions"
+description: "Israel Defense Forces (Organizations) - 47 mentions"
 id: "org-israel-defense-forces"
 type: "ORG"
 aliases:
@@ -25,30 +25,33 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-israel-defense-forces-t-00-07-51">2026-01-09 · 00:08:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-israel-defense-forces-t-00-05-04">2026-05-13 · 00:05:25</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-israel-defense-forces-t-00-19-12">2026-05-27 · 00:19:38</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>47</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>16</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>20</strong></div>
+<div><span>Relationships</span><strong>15</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-israel-defense-forces-t-00-29-07">Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326</a> (7 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-00-07-48">LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341</a> (13 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-israel-defense-forces-t-00-07-51" style="--pulse-height:14%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-israel-defense-forces-t-00-51-49" style="--pulse-height:14%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-israel-defense-forces-t-00-45-42" style="--pulse-height:71%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 5 mentions" title="2026-01-29 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-israel-defense-forces-t-00-53-53" style="--pulse-height:14%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-israel-defense-forces-t-00-37-50" style="--pulse-height:29%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-israel-defense-forces-t-00-11-11" style="--pulse-height:14%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-israel-defense-forces-t-00-25-03" style="--pulse-height:29%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-jsqUIkszZd0.md#ent-org-israel-defense-forces-t-00-33-38" style="--pulse-height:43%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 3 mentions" title="2026-04-14 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-israel-defense-forces-t-00-29-07" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 7 mentions" title="2026-04-16 · 7 mentions"><span></span></a>
-<a href="/episodes/ep--9MOUvgGyi4.md#ent-org-israel-defense-forces-t-00-03-25" style="--pulse-height:71%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 5 mentions" title="2026-04-22 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-israel-defense-forces-t-00-03-42" style="--pulse-height:57%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-israel-defense-forces-t-00-07-51" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-israel-defense-forces-t-00-51-49" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-israel-defense-forces-t-00-45-42" style="--pulse-height:38%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 5 mentions" title="2026-01-29 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-israel-defense-forces-t-00-53-53" style="--pulse-height:8%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-israel-defense-forces-t-00-37-50" style="--pulse-height:15%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-israel-defense-forces-t-00-11-11" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-israel-defense-forces-t-00-25-03" style="--pulse-height:15%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-org-israel-defense-forces-t-00-33-38" style="--pulse-height:23%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 3 mentions" title="2026-04-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-israel-defense-forces-t-00-29-07" style="--pulse-height:54%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 7 mentions" title="2026-04-16 · 7 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-org-israel-defense-forces-t-00-03-25" style="--pulse-height:38%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 5 mentions" title="2026-04-22 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-israel-defense-forces-t-00-03-42" style="--pulse-height:31%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-00-07-48" style="--pulse-height:100%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 13 mentions" title="2026-05-19 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-israel-defense-forces-t-01-16-23" style="--pulse-height:8%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-israel-defense-forces-t-00-19-12" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,6 +68,9 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-israel-defense-forces-t-00-29-07) | 7 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-israel-defense-forces-t-00-03-25) | 5 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-org-israel-defense-forces-t-00-03-42) | 4 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-00-07-48) | 13 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-israel-defense-forces-t-01-16-23) | 1 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-israel-defense-forces-t-00-19-12) | 1 |
 
 </details>
 </section>
@@ -72,7 +78,67 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
+
+**[00:19:38](/episodes/ep-MhakwJxK-Zk.md#ent-org-israel-defense-forces-t-00-19-12)**
+> "...ou should understand what the IDF army does: starving Palestinians effectively bein..."
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
+
+**[01:16:51](/episodes/ep-Ux1kzgQxkws.md#ent-org-israel-defense-forces-t-01-16-23)**
+> "...nt, Gal Luft, who is a former IDF officer."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (13 mentions)</summary>
+
+**[00:08:10](/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-00-07-48)**
+> "...l operating community and the IDF, they took us in the places no one could go and t..."
+
+**[00:09:15](/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-00-09-01)**
+> "...o some deals on behalf of the IDF. He never said those deals were illegal, just tha..."
+
+**[00:09:27](/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-00-09-01)**
+> "...ng to buy 50,000 guns for the IDF. We'll ask Victor Marx about that."
+
+**[00:09:30](/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-00-09-01)**
+> "...ng to buy 50,000 guns for the IDF. We'll ask Victor Marx about that."
+
+**[00:09:35](/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-00-09-35)**
+> "... Marx's relationship with the IDF is not a matter of opinion. It's a matter of fact..."
+
+**[01:01:13](/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-01-01-08)**
+> "... I did it with the CIA or the IDF, I go, yeah, we'll go to Jeffrey Epstein, right?"
+
+**[01:07:57](/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-01-07-57)**
+> "..., your relationships with the IDF."
+
+**[01:08:08](/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-01-08-08)**
+> "...ut your relationship with the IDF. I think you've just said that you have relations..."
+
+**[01:08:26](/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-01-08-26)**
+> "what I did with the IDF. Ask me so I can tell you. Why don't you ask me w..."
+
+**[01:09:11](/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-01-09-11)**
+> "...rael who was a Special Forces IDF guy who's followed us for years."
+
+**[01:10:48](/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-01-10-48)**
+> "...this. I know amazing, amazing IDF fighters. I know amazing people who are protectin..."
+
+**[01:13:07](/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-01-13-07)**
+> "...rself. group now might be the IDF, right? Because of what's happening in Gaza. I do..."
+
+**[01:14:41](/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-01-14-28)**
+> "...ut your relationship with the IDF and like I said before we did not say that you di..."
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (4 mentions)</summary>
@@ -231,6 +297,18 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Attacked (1)</summary>
+
+- **[Palestinians](/entities/concept-palestinians.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:19:38](/episodes/ep-MhakwJxK-Zk.md#t-00-19-12): “starving Palestinians effectively being led to the slaughter as the IDF fires upon them”
+
+</details>
+
+</details>
+
+<details>
 <summary>Formerly Employed (1)</summary>
 
 - **[Jonathan Conricus](/entities/person-jonathan-conricus.md)**
@@ -294,7 +372,21 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (8)</summary>
+
+- **[Victor Marx](/entities/person-victor-marx.md)** affiliated with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:09:35](/episodes/ep-Dkxa9OUA9K8.md#t-00-09-01): “Now, his relationship, Victor Marx's relationship with the IDF is not a matter of opinion. It's a matter of fact, as you just heard him speak about it, we have also confirmed that Victor Marx conducts this quote unquote retooling prayer where he claims that he is able to summon demons into a room out of a person's body on more than just Corby Hall and his wife and other people as well.”
+
+</details>
+
+- **[Palestinians](/entities/concept-palestinians.md)** attacked by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:19:38](/episodes/ep-MhakwJxK-Zk.md#t-00-19-12): “starving Palestinians effectively being led to the slaughter as the IDF fires upon them”
+
+</details>
 
 - **[Miriam Adelson](/entities/person-miriam-adelson.md)** formerly member of this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -344,7 +436,34 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel Defense Forces (16)</strong></summary>
+<summary><strong class="section-title">Statements about Israel Defense Forces (20)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
+
+- [00:19:28](/episodes/ep-MhakwJxK-Zk.md#t-00-19-12) (Accusation) **Candace Owens**: ["The Gaza Humanitarian Foundation's distribution hubs became killing fi..."](/statements/statement-53562c0d0ab7.md)
+  - Also about: [Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation.md), [Palestinians](/entities/concept-palestinians.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1)</summary>
+
+- [01:16:51](/episodes/ep-Ux1kzgQxkws.md#t-01-16-23) (Claim) **Hunter Biden**: ["Gal Luft is a former IDF officer and fugitive wanted by Interpol and t..."](/statements/statement-b0688a9e9f96.md)
+  - Also about: [Gal Luft](/entities/person-gal-luft.md), [INTERPOL](/entities/org-interpol.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (2)</summary>
+
+- [00:09:15](/episodes/ep-Dkxa9OUA9K8.md#t-00-09-01) (Accusation) **Candace Owens** (via paraphrase): ["Candace Owens says Corby Hall claimed that Victor Marx attempted to ar..."](/statements/statement-512ef69881f8.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Corby Hall](/entities/person-corby-hall.md)
+
+- [01:09:32](/episodes/ep-Dkxa9OUA9K8.md#t-01-09-11) (Claim) **Victor Marx** (via paraphrase): ["Victor Marx says Israeli contacts told him their forces were unprepare..."](/statements/statement-98e0f4782b76.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (2)</summary>

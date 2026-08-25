@@ -1,6 +1,6 @@
 ---
 title: "Paris"
-description: "Paris (Places) - 26 mentions"
+description: "Paris (Places) - 32 mentions"
 id: "gpe-paris"
 type: "GPE"
 categories:
@@ -19,11 +19,11 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-paris-t-01-01-35">2025-10-06 · 01:01:56</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-paris-t-00-14-46">2026-03-30 · 00:14:46</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-paris-t-00-43-11">2026-05-28 · 00:43:11</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -42,6 +42,8 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 <a href="/episodes/ep-tB5SXXmd9vU.md#t-00-39-28" style="--pulse-height:33%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-paris-t-00-43-07" style="--pulse-height:17%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-paris-t-00-03-31" style="--pulse-height:83%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 5 mentions" title="2026-03-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-paris-t-00-07-58" style="--pulse-height:83%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 5 mentions" title="2026-05-27 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-paris-t-00-43-11" style="--pulse-height:17%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +59,8 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#t-00-39-28) | 2 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-paris-t-00-43-07) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-paris-t-00-03-31) | 5 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-paris-t-00-07-58) | 5 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-paris-t-00-43-11) | 1 |
 
 </details>
 </section>
@@ -64,7 +68,35 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
+
+**[00:43:11](/episodes/ep-SKNJPul29zU.md#ent-gpe-paris-t-00-43-11)**
+> "his partner in Paris"
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (5 mentions)</summary>
+
+**[00:08:16](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-paris-t-00-07-58)**
+> "... did. They flew from Cairo to Paris."
+
+**[00:08:24](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-paris-t-00-07-58)**
+> "...andom fact: then it flew from Paris to St. Louis, Missouri, and stayed for five days...."
+
+**[00:08:55](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-paris-t-00-08-33)**
+> "...f, flew from Cairo, always to Paris, and it stayed there for six days."
+
+**[00:09:05](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-paris-t-00-08-33)**
+> "..., and they just feel safer in Paris and beyond."
+
+**[00:32:24](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-paris-t-00-31-55)**
+> "...en come in from Cairo through Paris, as always, to Omaha, Nebraska, and then to Linco..."
+
+</details>
 
 <details>
 <summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (5 mentions)</summary>
@@ -200,5 +232,21 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Paris (2)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (2)</summary>
+
+- [00:07:58](/episodes/ep-MhakwJxK-Zk.md#t-00-07-58) (Claim) **Candace Owens**: ["On October 7, 2023, the Egyptian aircraft SU-BTU flew from Cairo to Pa..."](/statements/statement-20646c09eb56.md)
+  - Also about: [SU-BTU](/entities/vehicle-su-btu.md), [Cairo](/entities/gpe-cairo.md), [St. Louis](/entities/gpe-st-louis.md)
+
+- [00:08:33](/episodes/ep-MhakwJxK-Zk.md#t-00-08-33) (Claim) **Candace Owens**: ["On April 14, 2024, during Iran and Hezbollah's retaliation for Israel'..."](/statements/statement-0da01f4e9173.md)
+  - Also about: [SU-BTU](/entities/vehicle-su-btu.md), [Cairo](/entities/gpe-cairo.md), [Iran](/entities/gpe-iran.md)
+
+</details>
 
 </details>

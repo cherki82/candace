@@ -11,7 +11,7 @@ date: "2026-04"
 
 > Candace Owens received Catholic confirmation in Rome in the old Latin rite.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330
 
@@ -28,3 +28,11 @@ date: "2026-04"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3548);return false;">▶️ Play</a>
 
 > i had the most amazing confirmation ever i could like cry thinking about how amazing it was
+
+### 3. Candace x Hunter Biden: The Interview
+
+**Episode:** [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md)
+**Timestamp:** [01:41:56](/episodes/ep-Ux1kzgQxkws.md#event-event-2026-04-candace-owens-received-catholic-confirma-t-01-41-43) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(6116);return false;">▶️ Play</a>
+
+> getting confirmed being in italy the deep history like what outlasts that

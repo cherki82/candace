@@ -1,6 +1,6 @@
 ---
 title: "COVID-19"
-description: "COVID-19 (Concepts) - 21 mentions"
+description: "COVID-19 (Concepts) - 30 mentions"
 id: "concept-covid-19"
 type: "CONCEPT"
 aliases:
@@ -25,8 +25,8 @@ Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-concept-covid-19-t-00-29-41">2026-01-05 · 00:29:49</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-covid-19-t-01-30-40">2026-08-14 · 01:30:40</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>30</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,19 +35,20 @@ Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-covid-19-t-00-13-24">REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-concept-covid-19-t-00-06-54">Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-concept-covid-19-t-00-29-41" style="--pulse-height:25%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-covid-19-t-00-24-06" style="--pulse-height:75%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 3 mentions" title="2026-01-14 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-covid-19-t-00-13-24" style="--pulse-height:100%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 4 mentions" title="2026-02-04 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-covid-19-t-00-22-04" style="--pulse-height:50%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-cZxHqYsWRYg.md#ent-concept-covid-19-t-00-47-33" style="--pulse-height:25%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-covid-19-t-00-24-58" style="--pulse-height:25%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-covid-19-t-00-06-20" style="--pulse-height:25%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-covid-19-t-00-53-07" style="--pulse-height:50%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-covid-19-t-00-59-45" style="--pulse-height:25%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-covid-19-t-00-19-59" style="--pulse-height:25%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-covid-19-t-01-29-47" style="--pulse-height:75%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-concept-covid-19-t-00-29-41" style="--pulse-height:11%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-covid-19-t-00-24-06" style="--pulse-height:33%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 3 mentions" title="2026-01-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-covid-19-t-00-13-24" style="--pulse-height:44%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 4 mentions" title="2026-02-04 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-covid-19-t-00-22-04" style="--pulse-height:22%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-concept-covid-19-t-00-47-33" style="--pulse-height:11%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-covid-19-t-00-24-58" style="--pulse-height:11%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-covid-19-t-00-06-20" style="--pulse-height:11%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-covid-19-t-00-53-07" style="--pulse-height:22%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-covid-19-t-00-59-45" style="--pulse-height:11%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-covid-19-t-00-19-59" style="--pulse-height:11%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-concept-covid-19-t-00-06-54" style="--pulse-height:100%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 9 mentions" title="2026-05-18 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-covid-19-t-01-29-47" style="--pulse-height:33%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -63,6 +64,7 @@ Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-concept-covid-19-t-00-53-07) | 2 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-concept-covid-19-t-00-59-45) | 1 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-concept-covid-19-t-00-19-59) | 1 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-concept-covid-19-t-00-06-54) | 9 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-covid-19-t-01-29-47) | 3 |
 
 </details>
@@ -71,7 +73,7 @@ Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (30)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -84,6 +86,38 @@ Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics
 
 **[01:30:40](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-covid-19-t-01-30-40)**
 > "...t that was my first step with covid i don't like the way it's being pushed it shouldn..."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (9 mentions)</summary>
+
+**[00:06:54](/episodes/ep-1QZ4X6q1DPg.md#ent-concept-covid-19-t-00-06-54)**
+> "Erika Kirk is the COVID vaccine. Right? No one can debate this. I'm right..."
+
+**[00:07:11](/episodes/ep-1QZ4X6q1DPg.md#ent-concept-covid-19-t-00-06-54)**
+> "Erika Kirk is the COVID vaccine, and we're now on the fourth booster. So ..."
+
+**[00:07:33](/episodes/ep-1QZ4X6q1DPg.md#ent-concept-covid-19-t-00-07-33)**
+> "And just like COVID in the beginning, there was a global emergency, r..."
+
+**[00:11:01](/episodes/ep-1QZ4X6q1DPg.md#ent-concept-covid-19-t-00-10-53)**
+> "...ions? Then the final stage of COVID is when we begin catching our government in outri..."
+
+**[00:11:18](/episodes/ep-1QZ4X6q1DPg.md#ent-concept-covid-19-t-00-10-53)**
+> "...t the vaccine, I wouldn't get COVID, but I got the vaccine and then I got COVID twice..."
+
+**[00:12:13](/episodes/ep-1QZ4X6q1DPg.md#ent-concept-covid-19-t-00-10-53)**
+> "...k Triad Personality Traits on COVID-19 Vaccination Uptake. And here we have highlighted,..."
+
+**[00:26:46](/episodes/ep-1QZ4X6q1DPg.md#ent-concept-covid-19-t-00-26-24)**
+> "Right. For COVID, it took years before they finally admitted that ..."
+
+**[00:45:54](/episodes/ep-1QZ4X6q1DPg.md#ent-concept-covid-19-t-00-45-40)**
+> "...why I'm using this analogy of COVID because it didn't stop, right?"
+
+**[00:48:20](/episodes/ep-1QZ4X6q1DPg.md#ent-concept-covid-19-t-00-47-58)**
+> "...ts and a $50 Visa card for my COVID shots and I still got COVID, but not as bad as mo..."
 
 </details>
 

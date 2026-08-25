@@ -11,7 +11,7 @@ date: "2025-09-02"
 
 > Charlie Kirk announces TPUSA DOGE department and Justin Strief as COO in internal memo.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
@@ -36,3 +36,11 @@ date: "2025-09-02"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1496);return false;">▶️ Play</a>
 
 > family vacation. And Mikey's capturing these last videos tha
+
+### 4. TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizar...
+
+**Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
+**Timestamp:** [00:22:59](/episodes/ep-cPidFQDJLbo.md#event-event-2025-09-02-charlie-kirk-announces-tpusa-doge-department-and-j-t-00-22-59) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1379);return false;">▶️ Play</a>
+
+> in the midst of him establishing a doge internal audit to locate this alleged $10 million

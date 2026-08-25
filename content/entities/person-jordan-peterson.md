@@ -1,6 +1,6 @@
 ---
 title: "Jordan Peterson"
-description: "Jordan Peterson (People) - 13 mentions"
+description: "Jordan Peterson (People) - 14 mentions"
 id: "person-jordan-peterson"
 type: "PERSON"
 aliases:
@@ -18,13 +18,19 @@ _Type: People_
 
 **Categories:** media, academia
 
+> **Possibly overlapping entity records:** [Jordan](/entities/gpe-jordan). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> Official biography confirms the canonical name Jordan B. Peterson; the transcript uses Jordan Peterson and Dr. Jordan Peterson.
+Source: [About – Jordan Peterson](https://www.jordanbpeterson.com/about/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-jordan-peterson-t-00-58-04">2025-11-05 · 00:58:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-person-jordan-peterson-t-00-36-57">2026-03-17 · 00:36:57</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-jordan-peterson-t-00-22-41">2026-05-26 · 00:22:49</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,6 +44,7 @@ _Type: People_
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jordan-peterson-t-00-09-30" style="--pulse-height:60%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-jordan-peterson-t-00-06-07" style="--pulse-height:20%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-jordan-peterson-t-00-35-38" style="--pulse-height:40%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-jordan-peterson-t-00-22-41" style="--pulse-height:20%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +55,7 @@ _Type: People_
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-jordan-peterson-t-00-09-30) | 3 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jordan-peterson-t-00-06-07) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-jordan-peterson-t-00-35-38) | 2 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-jordan-peterson-t-00-22-41) | 1 |
 
 </details>
 </section>
@@ -55,7 +63,15 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1 mentions)</summary>
+
+**[00:22:49](/episodes/ep-BxN2-aeMYIs.md#ent-person-jordan-peterson-t-00-22-41)**
+> "Dr. Jordan Peterson"
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (2 mentions)</summary>
@@ -127,5 +143,18 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Jordan Peterson (1)</strong></summary>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
+
+- [00:22:21](/episodes/ep-BxN2-aeMYIs.md#t-00-21-55) (Accusation) **Candace Owens**: ["The Network Contagion Research Institute produced a report featuring O..."](/statements/statement-b3ef2f20bf50.md)
+  - Also about: [Network Contagion Research Institute](/entities/org-network-contagion-research-institute.md), [Candace Owens](/entities/person-candace-owens.md), [Christ Is King](/entities/concept-christ-is-king.md)
+
+</details>
 
 </details>

@@ -4,9 +4,10 @@ description: "\"At approximately 9:49 p.m., the White House Military Office sent
 statement_id: "statement-01816f223cb6"
 speaker: "Candace Owens"
 type: "citation"
+veracity: "unverifiable"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ? Cannot be verified
 
 ## Statement
 
@@ -33,7 +34,20 @@ type: "citation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Owens said she possessed but withheld the original email and read a retyped excerpt. Current reports reproduce her allegation, while a later response said the White House Military Office had no knowledge of the communication. No authenticated email, headers, or official record was found.
+
+**Confidence:** Low
+
+**Sources:**
+
+- [Catholics for Catholics: White House Military Office Allegedly Sent Email Praising Erika Kirk Exit Video](https://cforc.com/2026/05/white-house-military-office-allegedly-sent-email-praising-erika-kirk-exit-video-as-a-pr-success-the-night-of-correspondents-dinner-shooting/)
+
+*Verified: 2026-08-25T08:19:41.706390*
 
 ---
 

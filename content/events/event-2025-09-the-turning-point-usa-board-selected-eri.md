@@ -11,7 +11,7 @@ date: "2025-09"
 
 > The Turning Point USA board selected Erika Kirk as CEO and chair within about 72 hours of Charlie Kirk's death.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace E...
 
@@ -28,3 +28,11 @@ date: "2025-09"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1214);return false;">▶️ Play</a>
 
 > conversations even about her taking over the board and CEO, that happened early, within 48 hours
+
+### 3. Hunter Biden Returns. The White House Ghosts Me Regarding Er...
+
+**Episode:** [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md)
+**Timestamp:** [00:08:21](/episodes/ep-1QZ4X6q1DPg.md#event-event-2025-09-the-turning-point-usa-board-selected-eri-t-00-08-12) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(501);return false;">▶️ Play</a>
+
+> Erika Kirk is going to be appointed the CEO and chairman this soon, a couple of days after.

@@ -1,0 +1,20 @@
+---
+title: "2026-05-06: The White House released the 2026 United States Co..."
+description: "2026-05-06 - The White House released the 2026 United States Counterterrorism Strategy."
+event_id: "event-2026-05-06-the-white-house-released-the-2026-united"
+date: "2026-05-06"
+---
+
+**Date:** 2026-05-06
+
+## Event
+
+> The White House released the 2026 United States Counterterrorism Strategy.
+
+## Mentioned In
+
+**Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
+**Timestamp:** [00:24:12](/episodes/ep-BxN2-aeMYIs.md#event-event-2026-05-06-the-white-house-released-the-2026-united-t-00-24-12) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1452);return false;">▶️ Play</a>
+
+> it's worth reviewing the White House's latest 16-page counterterrorism strategy touted by Gorka.

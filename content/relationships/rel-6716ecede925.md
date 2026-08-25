@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Blake Neff](/entities/person-blake-neff) criticized [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
+
+**[Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg)**
+
+- [00:25:50](/episodes/ep-1QZ4X6q1DPg#t-00-25-50): _And Blake (Blake Neff) said, yeah, Candace, since I'm not a malignant narcissist, I don't actually care what my ratio is as long as I'm speaking the truth rather than lies._
 
 **[Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY)**
 

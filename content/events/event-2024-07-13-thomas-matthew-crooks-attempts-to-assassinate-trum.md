@@ -11,7 +11,7 @@ date: "2024-07-13"
 
 > Thomas Matthew Crooks attempts to assassinate Trump at rally, killing Corey Comparatore.
 
-## Mentioned In (4 times)
+## Mentioned In (5 times)
 
 ### 1. BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk...
 
@@ -44,3 +44,11 @@ date: "2024-07-13"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1876);return false;">▶️ Play</a>
 
 > A few weeks later, there was the butler attempted assassination.
+
+### 5. The World Is A Stage: Trump Survives...Again? | Ep 343
+
+**Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
+**Timestamp:** [00:02:13](/episodes/ep-BxN2-aeMYIs.md#t-00-01-44) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(133);return false;">▶️ Play</a>
+
+> Trump, it's too much. First one in Butler, you had me; you had us all.

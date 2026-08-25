@@ -1,6 +1,6 @@
 ---
 title: "Pro-Israel advocacy"
-description: "Pro-Israel advocacy (Concepts) - 25 mentions"
+description: "Pro-Israel advocacy (Concepts) - 38 mentions"
 id: "concept-pro-israel-advocacy"
 type: "CONCEPT"
 aliases:
@@ -23,32 +23,36 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-pro-israel-advocacy-t-00-12-29">2026-01-06 · 00:12:39</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12">2026-08-14 · 00:28:48</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>20</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-eMtjzXkQrsU.md#ent-concept-pro-israel-advocacy-t-00-14-21">A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-pro-israel-advocacy-t-00-15-41">The World Is A Stage: Trump Survives...Again? | Ep 343</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-pro-israel-advocacy-t-00-12-29" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-pro-israel-advocacy-t-00-38-55" style="--pulse-height:50%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-pro-israel-advocacy-t-00-55-36" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-pro-israel-advocacy-t-00-06-27" style="--pulse-height:25%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-pro-israel-advocacy-t-00-39-33" style="--pulse-height:75%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-concept-pro-israel-advocacy-t-00-04-56" style="--pulse-height:50%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-pro-israel-advocacy-t-00-19-32" style="--pulse-height:25%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-pro-israel-advocacy-t-00-44-06" style="--pulse-height:25%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-concept-pro-israel-advocacy-t-00-04-23" style="--pulse-height:25%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-B9TyCs-6o_0.md#ent-concept-pro-israel-advocacy-t-00-03-17" style="--pulse-height:25%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#ent-concept-pro-israel-advocacy-t-00-49-25" style="--pulse-height:50%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-pro-israel-advocacy-t-00-36-07" style="--pulse-height:75%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 3 mentions" title="2026-05-04 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-eMtjzXkQrsU.md#ent-concept-pro-israel-advocacy-t-00-14-21" style="--pulse-height:100%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 4 mentions" title="2026-05-05 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12" style="--pulse-height:25%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-pro-israel-advocacy-t-00-12-29" style="--pulse-height:14%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-pro-israel-advocacy-t-00-38-55" style="--pulse-height:29%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-pro-israel-advocacy-t-00-55-36" style="--pulse-height:29%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-pro-israel-advocacy-t-00-06-27" style="--pulse-height:14%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-pro-israel-advocacy-t-00-39-33" style="--pulse-height:43%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-concept-pro-israel-advocacy-t-00-04-56" style="--pulse-height:29%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-pro-israel-advocacy-t-00-19-32" style="--pulse-height:14%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-pro-israel-advocacy-t-00-44-06" style="--pulse-height:14%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-concept-pro-israel-advocacy-t-00-04-23" style="--pulse-height:14%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-concept-pro-israel-advocacy-t-00-03-17" style="--pulse-height:14%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-concept-pro-israel-advocacy-t-00-49-25" style="--pulse-height:29%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-pro-israel-advocacy-t-00-36-07" style="--pulse-height:43%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 3 mentions" title="2026-05-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-concept-pro-israel-advocacy-t-00-14-21" style="--pulse-height:57%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 4 mentions" title="2026-05-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-pro-israel-advocacy-t-01-14-45" style="--pulse-height:29%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-pro-israel-advocacy-t-00-15-41" style="--pulse-height:100%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 7 mentions" title="2026-05-26 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-pro-israel-advocacy-t-00-31-11" style="--pulse-height:29%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-concept-pro-israel-advocacy-t-00-12-06" style="--pulse-height:29%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12" style="--pulse-height:14%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -67,6 +71,10 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-concept-pro-israel-advocacy-t-00-49-25) | 2 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-concept-pro-israel-advocacy-t-00-36-07) | 3 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-concept-pro-israel-advocacy-t-00-14-21) | 4 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-concept-pro-israel-advocacy-t-01-14-45) | 2 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-concept-pro-israel-advocacy-t-00-15-41) | 7 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-concept-pro-israel-advocacy-t-00-31-11) | 2 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-concept-pro-israel-advocacy-t-00-12-06) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12) | 1 |
 
 </details>
@@ -75,13 +83,72 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:28:48](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12)**
 > "...me no choice but to leave the pro-Israel cause."
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (2 mentions)</summary>
+
+**[00:12:06](/episodes/ep-SKNJPul29zU.md#ent-concept-pro-israel-advocacy-t-00-12-06)**
+> "censorship. The more the pro-Israel crowd and Zionists attempt to censor people and intimidate them, the more counterproductive they're being for their own cause Right. because"
+
+**[00:21:45](/episodes/ep-SKNJPul29zU.md#ent-concept-pro-israel-advocacy-t-00-21-45)**
+> "... obvious like okay when every pro-israel media figure comes out at the same time and basic..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (2 mentions)</summary>
+
+**[00:31:11](/episodes/ep-MhakwJxK-Zk.md#ent-concept-pro-israel-advocacy-t-00-31-11)**
+> "...hat the speech was remarkably pro-Israel, about a call to arms for Israel, given the fact ..."
+
+**[00:35:27](/episodes/ep-MhakwJxK-Zk.md#ent-concept-pro-israel-advocacy-t-00-35-16)**
+> "...age declaring he has left the pro-Israel cause due to their intense bullying and financial..."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (7 mentions)</summary>
+
+**[00:15:41](/episodes/ep-BxN2-aeMYIs.md#ent-concept-pro-israel-advocacy-t-00-15-41)**
+> "VFT is a pro-Israel organization"
+
+**[00:07:26](/episodes/ep-BxN2-aeMYIs.md#ent-concept-pro-israel-advocacy-t-00-07-10)**
+> "...been one of the more deranged pro-Israel voices of this administration."
+
+**[00:13:29](/episodes/ep-BxN2-aeMYIs.md#ent-concept-pro-israel-advocacy-t-00-13-12)**
+> "...e looking at a bunch of bots, pro-Israel bots on X."
+
+**[00:15:02](/episodes/ep-BxN2-aeMYIs.md#ent-concept-pro-israel-advocacy-t-00-15-02)**
+> "...sinister White House adjacent pro-Israel campaign. And fortunately, very fortunately for h..."
+
+**[00:15:49](/episodes/ep-BxN2-aeMYIs.md#ent-concept-pro-israel-advocacy-t-00-15-41)**
+> "VFT is a pro-Israel organization with ties to the administration. Ear..."
+
+**[00:26:15](/episodes/ep-BxN2-aeMYIs.md#ent-concept-pro-israel-advocacy-t-00-25-40)**
+> "...this is, again, a, of course, pro-Israel organization."
+
+**[00:40:45](/episodes/ep-BxN2-aeMYIs.md#ent-concept-pro-israel-advocacy-t-00-40-10)**
+> "... no choice but to abandon the pro-Israel cause."
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (2 mentions)</summary>
+
+**[01:14:45](/episodes/ep-Ux1kzgQxkws.md#ent-concept-pro-israel-advocacy-t-01-14-45)**
+> "... not to say that Trump wasn't pro-Israel. Most presidents actually are pro-Israel when the..."
+
+**[01:15:08](/episodes/ep-Ux1kzgQxkws.md#ent-concept-pro-israel-advocacy-t-01-15-08)**
+> "...t wasn't the issue like i was pro-israel generally speaking not very educated about the to..."
 
 </details>
 
@@ -232,7 +299,32 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pro-Israel advocacy (15)</strong></summary>
+<summary><strong class="section-title">Statements about Pro-Israel advocacy (20)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (2)</summary>
+
+- [00:12:06](/episodes/ep-SKNJPul29zU.md#t-00-12-06) (Opinion) **Ana Kasparian**: ["Attempts by the pro-Israel movement to censor and intimidate critics a..."](/statements/statement-aad4e48b4315.md)
+  - Also about: [Zionism](/entities/concept-zionism.md)
+
+- [00:21:45](/episodes/ep-SKNJPul29zU.md#t-00-21-45) (Accusation) **Ana Kasparian**: ["Pro-Israel media figures collectively argued that releasing the Epstei..."](/statements/statement-b7f476dd2a7e.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (3)</summary>
+
+- [00:07:26](/episodes/ep-BxN2-aeMYIs.md#t-00-07-10) (Opinion) **Candace Owens**: ["Pete Hegseth has been one of the administration's more deranged pro-Is..."](/statements/statement-a36d98e38670.md)
+  - Also about: [Pete Hegseth](/entities/person-pete-hegseth.md), [United States](/entities/gpe-united-states.md)
+
+- [00:15:41](/episodes/ep-BxN2-aeMYIs.md#t-00-15-41) (Claim) **Gabrielle Cuccia** (via quoted post): ["Vine and Fig Tree is a pro-Israel organization with ties to the admini..."](/statements/statement-4bfbc435afd5.md)
+  - Also about: [Vine & Fig Tree Institute I, Inc.](/entities/org-vine-and-fig-tree-institute.md), [Sebastian Gorka](/entities/person-sebastian-gorka.md), [White House](/entities/org-white-house.md)
+
+- [00:40:45](/episodes/ep-BxN2-aeMYIs.md#t-00-40-10) (Claim) **Candace Owens** (via paraphrase): ["The day before he died, Charlie Kirk announced that he had no choice b..."](/statements/statement-424b29ad9a5d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (5)</summary>

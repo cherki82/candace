@@ -1,6 +1,6 @@
 ---
 title: "Barack Obama"
-description: "Barack Obama (People) - 12 mentions"
+description: "Barack Obama (People) - 16 mentions"
 id: "person-barack-obama"
 type: "PERSON"
 aliases:
@@ -24,26 +24,27 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-person-barack-obama-t-00-34-45">2025-12-05 · 00:34:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-barack-obama-t-01-05-04">2026-04-29 · 01:05:31</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-barack-obama-t-01-21-57">2026-05-28 · 01:22:13</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-barack-obama-t-00-41-41">Okay…These Text Messages Are Crazy! | Candace Ep 307</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-SKNJPul29zU.md#ent-person-barack-obama-t-00-16-12">Candace Owens x Ana Kasparian</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-barack-obama-t-00-34-45" style="--pulse-height:67%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-barack-obama-t-00-08-02" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-barack-obama-t-00-41-41" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-barack-obama-t-00-57-39" style="--pulse-height:33%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-barack-obama-t-00-08-54" style="--pulse-height:100%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#ent-person-barack-obama-t-00-03-24" style="--pulse-height:33%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-barack-obama-t-01-05-04" style="--pulse-height:33%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-barack-obama-t-00-34-45" style="--pulse-height:50%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-barack-obama-t-00-08-02" style="--pulse-height:25%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-barack-obama-t-00-41-41" style="--pulse-height:75%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-barack-obama-t-00-57-39" style="--pulse-height:25%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-barack-obama-t-00-08-54" style="--pulse-height:75%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-person-barack-obama-t-00-03-24" style="--pulse-height:25%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-barack-obama-t-01-05-04" style="--pulse-height:25%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-barack-obama-t-00-16-12" style="--pulse-height:100%" aria-label="Candace Owens x Ana Kasparian: 4 mentions" title="2026-05-28 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-barack-obama-t-00-08-54) | 3 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-barack-obama-t-00-03-24) | 1 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-barack-obama-t-01-05-04) | 1 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-barack-obama-t-00-16-12) | 4 |
 
 </details>
 </section>
@@ -63,7 +65,24 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (4 mentions)</summary>
+
+**[00:16:12](/episodes/ep-SKNJPul29zU.md#ent-person-barack-obama-t-00-16-12)**
+> "McCain she's so I mean she used to host a show called Take Part Live and at this time she and I knew each other and so I would fill in when one of the hosts was out but we interacted and I remember one time they called me in to be a guest on the panel And they were going to talk about this is during the Obama administration."
+
+**[00:16:32](/episodes/ep-SKNJPul29zU.md#ent-person-barack-obama-t-00-16-12)**
+> "They were going to talk about Obama's expansion of drone use in, you know, the Middle E..."
+
+**[01:22:05](/episodes/ep-SKNJPul29zU.md#ent-person-barack-obama-t-01-21-57)**
+> "...is very much bipartisan under Obama."
+
+**[01:22:13](/episodes/ep-SKNJPul29zU.md#ent-person-barack-obama-t-01-21-57)**
+> "...eded in that mission so under Obama we started arming literal terrorists including li..."
+
+</details>
 
 <details>
 <summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
@@ -206,7 +225,18 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Barack Obama (2)</strong></summary>
+<summary><strong class="section-title">Statements about Barack Obama (4)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (2)</summary>
+
+- [00:16:39](/episodes/ep-SKNJPul29zU.md#t-00-16-39) (Accusation) **Ana Kasparian**: ["Meghan McCain failed to read a briefing article before a panel discuss..."](/statements/statement-f4d485f829eb.md)
+  - Also about: [Meghan McCain](/entities/person-meghan-mccain.md)
+
+- [01:22:13](/episodes/ep-SKNJPul29zU.md#t-01-21-57) (Accusation) **Ana Kasparian**: ["Under Barack Obama, the United States armed Al-Qaeda offshoots while h..."](/statements/statement-4f3517030c2c.md)
+  - Also about: [United States](/entities/gpe-united-states.md), [Israel](/entities/gpe-israel.md), [Syria](/entities/gpe-syria.md)
+
+</details>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (2)</summary>

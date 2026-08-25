@@ -1,6 +1,6 @@
 ---
 title: "United States Air Force Academy"
-description: "United States Air Force Academy (Organizations) - 4 mentions"
+description: "United States Air Force Academy (Organizations) - 5 mentions"
 id: "org-united-states-air-force-academy"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [Board of Visitors | United States Air Force Academy](https://www.usafa.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-air-force-academy-t-00-00-01">2026-03-10 · 00:00:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-air-force-academy-t-00-42-14">2026-03-11 · 00:42:43</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Pb7UlpRdW6U.md#t-00-06-08">2026-05-14 · 00:06:08</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -39,6 +39,7 @@ Source: [Board of Visitors | United States Air Force Academy](https://www.usafa.
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-air-force-academy-t-00-01-43" style="--pulse-height:100%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 3 mentions" title="2026-03-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-air-force-academy-t-00-42-14" style="--pulse-height:33%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#t-00-06-08" style="--pulse-height:33%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Board of Visitors | United States Air Force Academy](https://www.usafa.
 |---|---|---:|
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-air-force-academy-t-00-01-43) | 3 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-air-force-academy-t-00-42-14) | 1 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#t-00-06-08) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [Board of Visitors | United States Air Force Academy](https://www.usafa.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1 mentions)</summary>
+
+**[00:06:08](/episodes/ep-Pb7UlpRdW6U.md#t-00-06-08)**
+> "...k was herself promoted to the Air Force Academy Board of Visitors in her husband's stead for reas..."
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Nick Fuentes"
-description: "Nick Fuentes (People) - 91 mentions"
+description: "Nick Fuentes (People) - 95 mentions"
 id: "person-nick-fuentes"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-person-nick-fuentes-t-00-46-12">2025-10-06 · 00:46:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-nick-fuentes-t-00-24-01">2026-05-05 · 00:24:27</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>91</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-nick-fuentes-t-00-23-19">2026-05-28 · 00:23:19</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>95</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>20</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -49,6 +49,8 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-nick-fuentes-t-00-49-39" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-nick-fuentes-t-01-04-42" style="--pulse-height:10%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 3 mentions" title="2026-04-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-nick-fuentes-t-00-24-01" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-nick-fuentes-t-00-17-35" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-nick-fuentes-t-00-23-00" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -72,6 +74,8 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-nick-fuentes-t-00-49-39) | 1 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-nick-fuentes-t-01-04-42) | 3 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-nick-fuentes-t-00-24-01) | 1 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-nick-fuentes-t-00-17-35) | 2 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-nick-fuentes-t-00-23-00) | 2 |
 
 </details>
 </section>
@@ -79,7 +83,29 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (91)</strong></summary>
+<summary><strong class="section-title">Raw mentions (95)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (2 mentions)</summary>
+
+**[00:23:00](/episodes/ep-SKNJPul29zU.md#ent-person-nick-fuentes-t-00-23-00)**
+> "go okay you had me maybe you had me at Nick Fuentes you know like people go okay he was done early he's 18 we didn't know who he was but they just start moving and then you're going it's Candace Owens oh no Tucker Carlson bumped his head and became Adolf Hitler it's it becomes way too and then you go okay let me go back and really see what's happening"
+
+**[00:23:19](/episodes/ep-SKNJPul29zU.md#ent-person-nick-fuentes-t-00-23-19)**
+> "Because, I mean, look, Nick Fuentes' rhetoric is nowhere close to Tucker (Tucker Carl..."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (2 mentions)</summary>
+
+**[00:17:50](/episodes/ep-BxN2-aeMYIs.md#ent-person-nick-fuentes-t-00-17-35)**
+> "information regarding Nick Fuentes"
+
+**[00:21:55](/episodes/ep-BxN2-aeMYIs.md#ent-person-nick-fuentes-t-00-17-35)**
+> "Fuentes"
+
+</details>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1 mentions)</summary>
@@ -673,7 +699,15 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Nick Fuentes (13)</strong></summary>
+<summary><strong class="section-title">Statements about Nick Fuentes (14)</strong></summary>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
+
+- [00:21:55](/episodes/ep-BxN2-aeMYIs.md#t-00-21-55) (Accusation) **Gabrielle Cuccia** (via quoted post): ["VFT internal comments discuss going after Nick Fuentes by undermining ..."](/statements/statement-18814118b50d.md)
+  - Also about: [Vine & Fig Tree Institute I, Inc.](/entities/org-vine-and-fig-tree-institute.md), [Matt Walsh](/entities/person-matt-walsh.md), [Michael Knowles](/entities/person-michael-knowles.md)
+
+</details>
 
 <details>
 <summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (2)</summary>

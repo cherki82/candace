@@ -12,7 +12,7 @@ time: "18:00"
 
 > Josh Hammer said Charlie Kirk held a Zoom call with him and an Israel-based rabbi.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. BAAL SO HARD: The Epstein Files | Candace Ep 300
 
@@ -37,3 +37,11 @@ time: "18:00"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2280);return false;">▶️ Play</a>
 
 > he has a Zoom call with Josh Hammer and a rabbi from Israel.
+
+### 4. BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. |...
+
+**Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
+**Timestamp:** [00:35:38](/episodes/ep-MhakwJxK-Zk.md#event-event-2025-09-09-josh-hammer-said-charlie-kirk-held-a-zoo-t-00-35-16) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2138);return false;">▶️ Play</a>
+
+> Afterward, he has a Zoom call with Josh Hammer and a rabbi from Israel.

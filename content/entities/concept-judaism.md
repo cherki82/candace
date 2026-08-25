@@ -1,6 +1,6 @@
 ---
 title: "Judaism"
-description: "Judaism (Concepts) - 134 mentions"
+description: "Judaism (Concepts) - 152 mentions"
 id: "concept-judaism"
 type: "CONCEPT"
 aliases:
@@ -22,10 +22,10 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-22-23">2026-01-12 · 00:22:34</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12">2026-08-14 · 00:28:34</a></strong></div>
-<div><span>Episodes</span><strong>33</strong></div>
-<div><span>Mentions</span><strong>134</strong></div>
+<div><span>Episodes</span><strong>35</strong></div>
+<div><span>Mentions</span><strong>152</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Statements about</span><strong>19</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -66,6 +66,8 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-judaism-t-00-38-37" style="--pulse-height:21%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 5 mentions" title="2026-04-20 · 5 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-concept-judaism-t-02-03-03" style="--pulse-height:12%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 3 mentions" title="2026-04-22 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-judaism-t-01-04-10" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-concept-judaism-t-00-19-58" style="--pulse-height:29%" aria-label="Candace Owens x Ana Kasparian: 7 mentions" title="2026-05-28 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-judaism-t-00-20-00" style="--pulse-height:46%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 11 mentions" title="2026-06-09 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -104,6 +106,8 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-concept-judaism-t-00-38-37) | 5 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-concept-judaism-t-02-03-03) | 3 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-judaism-t-01-04-10) | 1 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-concept-judaism-t-00-19-58) | 7 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-concept-judaism-t-00-20-00) | 11 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12) | 1 |
 
 </details>
@@ -112,13 +116,77 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (134)</strong></summary>
+<summary><strong class="section-title">Raw mentions (152)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:28:34](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12)**
 > "... sent a text message reading, Jewish donors play into all the stereotypes."
+
+</details>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (11 mentions)</summary>
+
+**[00:20:00](/episodes/ep-YeEtS7nix3o.md#ent-concept-judaism-t-00-20-00)**
+> "...d these again are facts, that Jewish people represented only 4% of the population, the..."
+
+**[00:20:37](/episodes/ep-YeEtS7nix3o.md#ent-concept-judaism-t-00-20-37)**
+> "... brought me to Russia and the Jewish women who were involved in the plotting and the p..."
+
+**[00:20:51](/episodes/ep-YeEtS7nix3o.md#ent-concept-judaism-t-00-20-37)**
+> "...merican articles. An American Jewish woman who offered this article, which I sourced i..."
+
+**[00:21:04](/episodes/ep-YeEtS7nix3o.md#ent-concept-judaism-t-00-20-37)**
+> "Jewish women in particular were involved in terrorism. T..."
+
+**[00:21:14](/episodes/ep-YeEtS7nix3o.md#ent-concept-judaism-t-00-21-14)**
+> "...0s. These figures reveal that Jewish women were spectacularly Clearly overrepresented ..."
+
+**[00:21:32](/episodes/ep-YeEtS7nix3o.md#ent-concept-judaism-t-00-21-14)**
+> "... 2,000, some radicals were 95 Jewish women who represented almost a third of the only ..."
+
+**[00:21:50](/episodes/ep-YeEtS7nix3o.md#ent-concept-judaism-t-00-21-14)**
+> "Moreover, the 95 Jewish women were twice as well represented among the Je..."
+
+**[00:21:59](/episodes/ep-YeEtS7nix3o.md#ent-concept-judaism-t-00-21-59)**
+> "...ics on the high proportion of Jewish women in the Russian social democratic movement a..."
+
+**[00:22:10](/episodes/ep-YeEtS7nix3o.md#ent-concept-judaism-t-00-21-59)**
+> "...hen we seek to understand why Jewish women were so attracted to the left movements, we..."
+
+**[00:22:35](/episodes/ep-YeEtS7nix3o.md#ent-concept-judaism-t-00-22-35)**
+> "...ybody to show what law kicked Jewish people out, but they willfully left when people s..."
+
+**[00:22:48](/episodes/ep-YeEtS7nix3o.md#ent-concept-judaism-t-00-22-35)**
+> "...o representation factually of Jewish people involved in this. Anyway, after his death,..."
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (7 mentions)</summary>
+
+**[00:20:04](/episodes/ep-SKNJPul29zU.md#ent-concept-judaism-t-00-19-58)**
+> "wake up Jewish Americans"
+
+**[00:09:45](/episodes/ep-SKNJPul29zU.md#ent-concept-judaism-t-00-09-45)**
+> "... black person does it or if a jewish person does it you don't get to rob and steal pal..."
+
+**[00:19:28](/episodes/ep-SKNJPul29zU.md#ent-concept-judaism-t-00-19-28)**
+> "... unless we're talking about a jewish zionist because if you're a jewish person like da..."
+
+**[00:19:58](/episodes/ep-SKNJPul29zU.md#ent-concept-judaism-t-00-19-58)**
+> "...ou understand even within the jewish population and that's why i've done"
+
+**[00:21:17](/episodes/ep-SKNJPul29zU.md#ent-concept-judaism-t-00-19-58)**
+> "and and for Jewish Americans too so you can understand why they reac..."
+
+**[00:21:22](/episodes/ep-SKNJPul29zU.md#ent-concept-judaism-t-00-21-22)**
+> "...apped out of it and now I get Jewish people emailing me Totally. being like I don't kn..."
+
+**[00:23:27](/episodes/ep-SKNJPul29zU.md#ent-concept-judaism-t-00-23-27)**
+> "...'t really about hatred toward Jewish people, which I find immoral, just like I would f..."
 
 </details>
 
@@ -685,7 +753,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Judaism (18)</strong></summary>
+<summary><strong class="section-title">Statements about Judaism (19)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>
+
+- [00:23:10](/episodes/ep-YeEtS7nix3o.md#t-00-23-10) (Claim) **Candace Owens**: ["Candace Owens said the Bolshevik execution of the Romanov family was l..."](/statements/statement-5ed07a597ba5.md)
+  - Also about: [House of Romanov](/entities/org-house-of-romanov.md), [Yakov Yurovsky](/entities/person-yakov-yurovsky.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1)</summary>

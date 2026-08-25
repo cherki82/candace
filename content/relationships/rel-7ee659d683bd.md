@@ -11,7 +11,11 @@ object: "person-charlie-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) friend of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (23 mentions)
+### Evidence (26 mentions)
+
+**[Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg)**
+
+- [00:38:24](/episodes/ep-1QZ4X6q1DPg#t-00-38-24): _I'm an actual friend of Charlie Kirk—asking, hey man, what's going on here?_
 
 **[Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708)**
 
@@ -29,6 +33,10 @@ object: "person-charlie-kirk"
 
 - [00:38:15](/episodes/ep-9naMwS0kMBE#t-00-38-15): _He knew better than anyone that Charlie and I were friends and that we remained friends until the very end._
 
+**[The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs)**
+
+- [00:20:50](/episodes/ep-BxN2-aeMYIs#t-00-20-50): _That's what I'm being influenced by my friendship with Charlie Kirk, the person I knew he was and the people that I knew that he eventually surrounded himself with._
+
 **[STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI)**
 
 - [00:42:28](/episodes/ep-FFQ9675oqRI#t-00-42-28): _why are you upset that I'm actually mourning my friend who got murdered and I want to have real answers?_
@@ -44,6 +52,10 @@ object: "person-charlie-kirk"
 **[REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30)**
 
 - [00:58:23](/episodes/ep-SgVcnx4Oh30#t-00-58-23): _i had the passion because Charlie (Charlie Kirk) was my friend_
+
+**[Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws)**
+
+- [01:34:20](/episodes/ep-Ux1kzgQxkws#t-01-34-20): _particularly as it related to someone that you love like a brother_
 
 **[OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw)**
 

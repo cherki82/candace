@@ -1,6 +1,6 @@
 ---
 title: "Iran"
-description: "Iran (Places) - 167 mentions"
+description: "Iran (Places) - 198 mentions"
 id: "gpe-iran"
 type: "GPE"
 aliases:
@@ -24,11 +24,11 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-gpe-iran-t-00-35-19">2025-09-22 · 00:35:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54">2026-08-14 · 00:28:54</a></strong></div>
-<div><span>Episodes</span><strong>39</strong></div>
-<div><span>Mentions</span><strong>167</strong></div>
+<div><span>Episodes</span><strong>44</strong></div>
+<div><span>Mentions</span><strong>198</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>67</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>79</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -74,6 +74,11 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-gpe-iran-t-01-06-22" style="--pulse-height:8%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-iran-t-00-56-24" style="--pulse-height:9%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-gpe-iran-t-00-36-35" style="--pulse-height:8%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-iran-t-00-02-36" style="--pulse-height:9%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 2 mentions" title="2026-05-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-iran-t-01-13-33" style="--pulse-height:8%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-iran-t-00-07-10" style="--pulse-height:30%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 7 mentions" title="2026-05-26 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-iran-t-00-08-33" style="--pulse-height:35%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 8 mentions" title="2026-05-27 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-iran-t-00-01-12" style="--pulse-height:57%" aria-label="Candace Owens x Ana Kasparian: 13 mentions" title="2026-05-28 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -118,6 +123,11 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-gpe-iran-t-01-06-22) | 1 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-iran-t-00-56-24) | 2 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-iran-t-00-36-35) | 1 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-iran-t-00-02-36) | 2 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-iran-t-01-13-33) | 1 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-iran-t-00-07-10) | 7 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-iran-t-00-08-33) | 8 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-iran-t-00-01-12) | 13 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54) | 1 |
 
 </details>
@@ -126,13 +136,131 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (167)</strong></summary>
+<summary><strong class="section-title">Raw mentions (198)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:28:54](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54)**
 > "opposed the Iranian war"
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (13 mentions)</summary>
+
+**[00:01:35](/episodes/ep-SKNJPul29zU.md#ent-gpe-iran-t-00-01-12)**
+> "against invading Iran or going to war with Iran"
+
+**[00:01:44](/episodes/ep-SKNJPul29zU.md#ent-gpe-iran-t-00-01-12)**
+> "...ected and he goes to war with Iran you just straight up said I will no longer suppor..."
+
+**[00:11:32](/episodes/ep-SKNJPul29zU.md#ent-gpe-iran-t-00-11-08)**
+> "..., when it comes to the war in Iran, the gas prices and the inflation is going to be ..."
+
+**[00:14:21](/episodes/ep-SKNJPul29zU.md#ent-gpe-iran-t-00-14-10)**
+> "...you know, in this war against Iran."
+
+**[00:14:45](/episodes/ep-SKNJPul29zU.md#ent-gpe-iran-t-00-14-40)**
+> "...e manufacturing capacity that Iran has, for instance."
+
+**[00:24:56](/episodes/ep-SKNJPul29zU.md#ent-gpe-iran-t-00-24-56)**
+> "...en because of the war against iran and um it's funny listening to an interview of li..."
+
+**[00:33:41](/episodes/ep-SKNJPul29zU.md#ent-gpe-iran-t-00-33-14)**
+> "...ican people, this war against Iran doesn't benefit us in any way, shape or form."
+
+**[00:34:00](/episodes/ep-SKNJPul29zU.md#ent-gpe-iran-t-00-33-55)**
+> "... he didn't even consider that Iran would take control of the Strait of Hormuz, thus ..."
+
+**[00:36:49](/episodes/ep-SKNJPul29zU.md#ent-gpe-iran-t-00-36-49)**
+> "...nstance which is supported by Iran"
+
+**[00:41:28](/episodes/ep-SKNJPul29zU.md#ent-gpe-iran-t-00-41-28)**
+> "... in for the arms deal for the Iran Contra"
+
+**[01:11:09](/episodes/ep-SKNJPul29zU.md#ent-gpe-iran-t-01-11-09)**
+> "Yeah. over the Iran war. Mm And I think -hmm."
+
+**[01:22:45](/episodes/ep-SKNJPul29zU.md#ent-gpe-iran-t-01-22-29)**
+> "... globe perceive us. You know, Iran, their propaganda has been very effective."
+
+**[01:23:35](/episodes/ep-SKNJPul29zU.md#ent-gpe-iran-t-01-23-29)**
+> "from it and now you have iran and they have pretty much done everything the rig..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (8 mentions)</summary>
+
+**[00:08:46](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-iran-t-00-08-33)**
+> "...en Israel was being bombed by Iran and Hezbollah in retaliation because Israel had b..."
+
+**[00:27:48](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-iran-t-00-27-22)**
+> "...ream City. June 13th, we have Iran and Israel's 12-day war, but I really want to scr..."
+
+**[00:28:08](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-iran-t-00-28-03)**
+> "...involved in Israel's war with Iran."
+
+**[00:28:54](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-iran-t-00-28-32)**
+> "..., which is when America bombs Iran nuclear sites, that limited military involvement ..."
+
+**[00:29:12](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-iran-t-00-29-12)**
+> "...ing with June, the Israel and Iran's war comes to an end on June 26th. This is anoth..."
+
+**[00:47:12](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-iran-t-00-47-05)**
+> "...ld have been very vocal about Iran, Israel, Massey, and Epstein. People would have l..."
+
+**[00:49:27](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-iran-t-00-49-18)**
+> "...but you are absolutely right. Iran is actually also."
+
+**[00:49:34](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-iran-t-00-49-18)**
+> "...as working for Russia, Qatar, Iran, to Pakistan. They never bring a shred of proof b..."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (7 mentions)</summary>
+
+**[00:07:34](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-iran-t-00-07-10)**
+> "Bomb Iran, go to war"
+
+**[00:19:29](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-iran-t-00-19-29)**
+> "... Russia. We're going to blame Iran. How about you blame the piss-poor narrative that..."
+
+**[00:20:18](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-iran-t-00-20-06)**
+> "...at emojis. Why don't we leave Iran and Russia and Pakistan out of this one?"
+
+**[00:21:40](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-iran-t-00-21-28)**
+> "...me before I blamed Russia and Iran and Pakistan."
+
+**[00:25:06](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-iran-t-00-24-56)**
+> "Pakistan, Iran, Russia, that's where we got our Charlie Kirk ide..."
+
+**[00:41:05](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-iran-t-00-40-52)**
+> "I bet it was Iran that made Bibi (Benjamin Netanyahu) go on Fox New..."
+
+**[00:50:29](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-iran-t-00-50-16)**
+> "...ng I'm, I guess I'm funded by Iran and Russia."
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
+
+**[01:13:33](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-iran-t-01-13-33)**
+> "...e to a peace deal of a war in Iran that they started that has cost the economy billi..."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (2 mentions)</summary>
+
+**[00:02:46](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-iran-t-00-02-36)**
+> "...' being Jared Kushner. War in Iran that they started, that every president before hi..."
+
+**[00:44:37](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-iran-t-00-44-26)**
+> "...ndoned them, and play dumb on Iran."
 
 </details>
 
@@ -866,7 +994,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 </details>
 
 <details>
-<summary>Supporter Of (1)</summary>
+<summary>Supporter Of (2)</summary>
 
 - **[Kata’ib Hizballah](/entities/org-kataib-hizballah.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -875,10 +1003,17 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 
 </details>
 
+- **[Hezbollah](/entities/org-hezbollah.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens x Ana Kasparian @ 00:36:49](/episodes/ep-SKNJPul29zU.md#t-00-36-49): “yeah we're just going to take southern Lebanon and then by the way they've begun evacuating villages north of the Litani river meaning oh no it's not just southern Lebanon and so when people fear monger about groups like Hezbollah for instance which is supported by Iran”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -908,12 +1043,69 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 
 </details>
 
+- **[Hezbollah](/entities/org-hezbollah.md)** supported by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens x Ana Kasparian @ 00:36:49](/episodes/ep-SKNJPul29zU.md#t-00-36-49): “yeah we're just going to take southern Lebanon and then by the way they've begun evacuating villages north of the Litani river meaning oh no it's not just southern Lebanon and so when people fear monger about groups like Hezbollah for instance which is supported by Iran”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Iran (67)</strong></summary>
+<summary><strong class="section-title">Statements about Iran (79)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (9)</summary>
+
+- [00:01:44](/episodes/ep-SKNJPul29zU.md#t-00-01-12) (Claim) **Ana Kasparian**: ["Candace Owens said before the election that she would stop supporting ..."](/statements/statement-40857bd925c4.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:11:32](/episodes/ep-SKNJPul29zU.md#t-00-11-08) (Prediction) **Ana Kasparian**: ["As dead-child footage accumulates and the Iran war raises gas prices a..."](/statements/statement-51a99d7e101f.md)
+
+- [00:14:21](/episodes/ep-SKNJPul29zU.md#t-00-14-10) (Claim) **Ana Kasparian**: ["The United States has depleted 80 percent of its missile interceptors ..."](/statements/statement-eaf910590aef.md)
+  - Also about: [United States](/entities/gpe-united-states.md), [Israel](/entities/gpe-israel.md), [Ukraine](/entities/gpe-ukraine.md)
+
+- [00:14:45](/episodes/ep-SKNJPul29zU.md#t-00-14-40) (Claim) **Ana Kasparian**: ["U.S. military capability is weakened, and the United States lacks the ..."](/statements/statement-a045ea33a309.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+- [00:15:04](/episodes/ep-SKNJPul29zU.md#t-00-14-40) (Claim) **Ana Kasparian**: ["Iran can quickly build drones costing about 5,000 dollars, while the U..."](/statements/statement-2cc7463eca89.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+- [00:24:56](/episodes/ep-SKNJPul29zU.md#t-00-24-56) (Claim) **Ana Kasparian**: ["An Alabama town that manufactures rockets and military weapons is boom..."](/statements/statement-6c8f0fc02fa4.md)
+  - Also about: [Alabama](/entities/gpe-alabama.md)
+
+- [00:33:41](/episodes/ep-SKNJPul29zU.md#t-00-33-14) (Accusation) **Ana Kasparian**: ["U.S. policy has been infiltrated by people who put Israel's interests ..."](/statements/statement-8dae7d6e2ff5.md)
+  - Also about: [United States](/entities/gpe-united-states.md), [Israel](/entities/gpe-israel.md)
+
+- [00:33:51](/episodes/ep-SKNJPul29zU.md#t-00-33-14) (Accusation) **Ana Kasparian**: ["The United States entered the Iran war with no strategy or plan."](/statements/statement-18681fb8b568.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+- [00:41:28](/episodes/ep-SKNJPul29zU.md#t-00-41-28) (Citation) **Ana Kasparian**: ["Former Mossad agents testified that Jeffrey Epstein was brought into a..."](/statements/statement-c4a88b04a906.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Mossad](/entities/org-mossad.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
+
+- [00:08:33](/episodes/ep-MhakwJxK-Zk.md#t-00-08-33) (Claim) **Candace Owens**: ["On April 14, 2024, during Iran and Hezbollah's retaliation for Israel'..."](/statements/statement-0da01f4e9173.md)
+  - Also about: [SU-BTU](/entities/vehicle-su-btu.md), [Cairo](/entities/gpe-cairo.md), [Paris](/entities/gpe-paris.md)
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (2)</summary>
+
+- [00:18:08](/episodes/ep-BxN2-aeMYIs.md#t-00-17-35) (Claim) **Vine & Fig Tree Institute I, Inc.** (via quoted document): ["Distrust surrounding Charlie Kirk's assassination was mostly caused by..."](/statements/statement-43828bb99fd5.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Vine & Fig Tree Institute I, Inc.](/entities/org-vine-and-fig-tree-institute.md), [Russia](/entities/gpe-russia.md)
+
+- [00:41:05](/episodes/ep-BxN2-aeMYIs.md#t-00-40-52) (Claim) **Candace Owens**: ["I bet it was Iran that made Bibi go on Fox News the next day and say, ..."](/statements/statement-f70c261644ec.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Fox News](/entities/org-fox-news.md)
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Harmeet K. Dhillon"
-description: "Harmeet K. Dhillon (People) - 7 mentions"
+description: "Harmeet K. Dhillon (People) - 8 mentions"
 id: "person-harmeet-dhillon"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Assistant Attorney General for the Civil Rights Division Harmeet K. Dhi
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-harmeet-dhillon-t-00-34-03">2026-05-04 · 00:34:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-harmeet-dhillon-t-00-37-02">2026-05-05 · 00:37:15</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-harmeet-dhillon-t-00-47-55">2026-05-14 · 00:48:04</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -38,6 +38,7 @@ Source: [Assistant Attorney General for the Civil Rights Division Harmeet K. Dhi
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-harmeet-dhillon-t-00-34-03" style="--pulse-height:100%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 5 mentions" title="2026-05-04 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-harmeet-dhillon-t-00-37-02" style="--pulse-height:40%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-harmeet-dhillon-t-00-47-55" style="--pulse-height:20%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [Assistant Attorney General for the Civil Rights Division Harmeet K. Dhi
 |---|---|---:|
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-harmeet-dhillon-t-00-34-03) | 5 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-harmeet-dhillon-t-00-37-02) | 2 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-person-harmeet-dhillon-t-00-47-55) | 1 |
 
 </details>
 </section>
@@ -52,7 +54,15 @@ Source: [Assistant Attorney General for the Civil Rights Division Harmeet K. Dhi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1 mentions)</summary>
+
+**[00:48:04](/episodes/ep-Pb7UlpRdW6U.md#ent-person-harmeet-dhillon-t-00-47-55)**
+> "...atthew Shoup, who does PR for Harmeet Dhillon, the Dhillon Law Group, he's close with them. I k..."
+
+</details>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (2 mentions)</summary>
@@ -91,6 +101,18 @@ Source: [Assistant Attorney General for the Civil Rights Division Harmeet K. Dhi
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Appeared With (1)</summary>
+
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:48:04](/episodes/ep-Pb7UlpRdW6U.md#t-00-47-55): “Matthew Shoup, who does PR for Harmeet Dhillon, the Dhillon Law Group, he's close with them. I know Harmeet (Harmeet Dhillon) was sitting with Andrew Kolvet. I don't know. I'm just asking legitimate questions, and I think that we need to find the answer to this because this is deep and it's ugly.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Formerly Worked For (1)</summary>
 
 - **[Dhillon Law Group](/entities/org-dhillon-law-group.md)**
@@ -123,7 +145,14 @@ Source: [Assistant Attorney General for the Civil Rights Division Harmeet K. Dhi
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
+
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:48:04](/episodes/ep-Pb7UlpRdW6U.md#t-00-47-55): “Matthew Shoup, who does PR for Harmeet Dhillon, the Dhillon Law Group, he's close with them. I know Harmeet (Harmeet Dhillon) was sitting with Andrew Kolvet. I don't know. I'm just asking legitimate questions, and I think that we need to find the answer to this because this is deep and it's ugly.”
+
+</details>
 
 - **[United States Department of Justice](/entities/org-united-states-department-of-justice.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>

@@ -1,21 +1,30 @@
 ---
 title: "Bob Evnen"
-description: "Bob Evnen (People) - 5 mentions"
+description: "Bob Evnen (People) - 6 mentions"
 id: "person-bob-evnen"
 type: "PERSON"
 aliases:
   - "Bob Evnen"
+categories:
+  - "Nebraska politics"
+  - "secretary of state"
 ---
 
 _Type: People_
 
 **Also known as:** Bob Evnen
 
+**Categories:** Nebraska politics, secretary of state
+
+**Entity verification:** verified
+> Official Nebraska Secretary of State page confirms canonical name Robert Evnen, commonly Bob Evnen; existing graph label follows the common form used in the transcript.
+Source: [Secretary of State Robert Evnen - Nebraska Secretary of State](https://sos.nebraska.gov/secretary-state-robert-evnen)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-person-bob-evnen-t-00-11-30">2025-11-21 · 00:11:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-bob-evnen-t-00-17-39">2025-12-02 · 00:18:16</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-bob-evnen-t-00-32-40">2026-05-27 · 00:33:05</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -28,6 +37,7 @@ _Type: People_
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-bob-evnen-t-00-11-30" style="--pulse-height:100%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 4 mentions" title="2025-11-21 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-bob-evnen-t-00-17-39" style="--pulse-height:25%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-bob-evnen-t-00-32-40" style="--pulse-height:25%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -35,6 +45,7 @@ _Type: People_
 |---|---|---:|
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-bob-evnen-t-00-11-30) | 4 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-bob-evnen-t-00-17-39) | 1 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-bob-evnen-t-00-32-40) | 1 |
 
 </details>
 </section>
@@ -42,7 +53,15 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
+
+**[00:33:05](/episodes/ep-MhakwJxK-Zk.md#ent-person-bob-evnen-t-00-32-40)**
+> "...s were that were meeting with Bob Evnen, the Secretary of State."
+
+</details>
 
 <details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>

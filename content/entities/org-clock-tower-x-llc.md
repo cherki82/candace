@@ -1,6 +1,6 @@
 ---
 title: "Clock Tower X LLC"
-description: "Clock Tower X LLC (Organizations) - 7 mentions"
+description: "Clock Tower X LLC (Organizations) - 8 mentions"
 id: "org-clock-tower-x-llc"
 type: "ORG"
 aliases:
@@ -26,9 +26,9 @@ Source: [FARA Documents: Clock Tower X LLC (Registration 7649)](https://efile.fa
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-clock-tower-x-llc-t-00-15-05">2026-05-05 · 00:15:19</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-clock-tower-x-llc-t-00-39-30">2026-05-05 · 00:39:56</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-clock-tower-x-llc-t-00-35-16">2026-05-27 · 00:35:16</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -40,12 +40,14 @@ Source: [FARA Documents: Clock Tower X LLC (Registration 7649)](https://efile.fa
 <p>Highest activity: <a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-clock-tower-x-llc-t-00-15-05">A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-clock-tower-x-llc-t-00-15-05" style="--pulse-height:100%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 7 mentions" title="2026-05-05 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-clock-tower-x-llc-t-00-35-16" style="--pulse-height:14%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-clock-tower-x-llc-t-00-15-05) | 7 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-clock-tower-x-llc-t-00-35-16) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [FARA Documents: Clock Tower X LLC (Registration 7649)](https://efile.fa
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
+
+**[00:35:16](/episodes/ep-MhakwJxK-Zk.md#ent-org-clock-tower-x-llc-t-00-35-16)**
+> "... for Havas Media on behalf of Clocktower LLC, Show Faith by Works."
+
+</details>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (7 mentions)</summary>

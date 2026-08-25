@@ -1,22 +1,31 @@
 ---
 title: "Ronald Reagan"
-description: "Ronald Reagan (People) - 6 mentions"
+description: "Ronald Reagan (People) - 8 mentions"
 id: "person-ronald-reagan"
 type: "PERSON"
 aliases:
   - "Reagan"
   - "Ronald Reagan"
+categories:
+  - "United States politics"
+  - "president"
 ---
 
 _Type: People_
 
 **Also known as:** Reagan, Ronald Reagan
 
+**Categories:** United States politics, president
+
+**Entity verification:** verified
+> Ronald Reagan Presidential Library identifies Ronald Reagan as the 40th President of the United States; this resolves the transcript's President Reagan reference.
+Source: [The Reagans - Ronald Reagan Presidential Library](https://www.reaganlibrary.gov/reagans)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-ronald-reagan-t-00-05-54">2025-12-09 · 00:00:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-person-ronald-reagan-t-00-20-39">2026-02-27 · 00:20:39</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-ronald-reagan-t-01-13-33">2026-05-21 · 01:13:59</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -30,6 +39,8 @@ _Type: People_
 <a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-ronald-reagan-t-00-05-54" style="--pulse-height:100%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 4 mentions" title="2025-12-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-ronald-reagan-t-00-35-37" style="--pulse-height:25%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-person-ronald-reagan-t-00-20-39" style="--pulse-height:25%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-ronald-reagan-t-00-52-02" style="--pulse-height:25%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-ronald-reagan-t-01-13-33" style="--pulse-height:25%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -38,6 +49,8 @@ _Type: People_
 | 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-ronald-reagan-t-00-05-54) | 4 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-ronald-reagan-t-00-35-37) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-person-ronald-reagan-t-00-20-39) | 1 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-person-ronald-reagan-t-00-52-02) | 1 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-ronald-reagan-t-01-13-33) | 1 |
 
 </details>
 </section>
@@ -45,7 +58,23 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
+
+**[01:13:59](/episodes/ep-Ux1kzgQxkws.md#ent-person-ronald-reagan-t-01-13-33)**
+> "...mmy Carter, through President Reagan, through both of the Bushes, through Clinton, thr..."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1 mentions)</summary>
+
+**[00:52:11](/episodes/ep-Dkxa9OUA9K8.md#ent-person-ronald-reagan-t-00-52-02)**
+> "...rps. I served under President Reagan. My wife and I started a ministry, all things pos..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1 mentions)</summary>

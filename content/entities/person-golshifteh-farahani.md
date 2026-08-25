@@ -80,7 +80,7 @@ _No relationships extracted yet._
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1)</summary>
 
-- [00:36:35](/episodes/ep-7FS1tUeSfdE.md#t-00-36-35) [○] (Claim) ["Golshifteh Farahani denied rumors of an affair with Emmanuel Macron."](/statements/statement-e20f7e724bd2.md)
+- [00:36:35](/episodes/ep-7FS1tUeSfdE.md#t-00-36-35) [✓] (Claim) ["Golshifteh Farahani denied rumors of an affair with Emmanuel Macron."](/statements/statement-e20f7e724bd2.md)
   - About: [Golshifteh Farahani](/entities/person-golshifteh-farahani.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Brigitte Macron](/entities/person-brigitte-macron.md)
 
 </details>

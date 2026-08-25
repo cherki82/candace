@@ -4,9 +4,10 @@ description: "\"Erika Kirk flew to DC to attend Sergio Gor's swearing in as Amba
 statement_id: "statement-8c08ccef4942"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -43,7 +44,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The official presidential transcript and press pool confirm Erika Kirk attended and spoke at Sergio Gor swearing-in in Washington. They do not document her mode of travel, so attendance is verified but the specific assertion that she flew to DC is not independently established.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Remarks at a Swearing-in Ceremony for Sergio Gor as United States Ambassador to India](https://www.govinfo.gov/content/pkg/DCPD-202501109/pdf/DCPD-202501109.pdf)
+
+*Verified: 2026-08-25T08:20:22.639906*
 
 ---
 

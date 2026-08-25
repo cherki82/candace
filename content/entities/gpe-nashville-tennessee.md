@@ -1,6 +1,6 @@
 ---
 title: "Nashville, Tennessee"
-description: "Nashville, Tennessee (Places) - 11 mentions"
+description: "Nashville, Tennessee (Places) - 12 mentions"
 id: "gpe-nashville-tennessee"
 type: "GPE"
 aliases:
@@ -24,9 +24,9 @@ Source: [Metropolitan Government of Nashville and Davidson County](https://www.n
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-nashville-tennessee-t-00-10-31">2026-01-20 · 00:10:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-nashville-tennessee-t-00-55-49">2026-05-04 · 00:56:19</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-nashville-tennessee-t-00-40-10">2026-05-18 · 00:40:10</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -44,6 +44,7 @@ Source: [Metropolitan Government of Nashville and Davidson County](https://www.n
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-nashville-tennessee-t-00-57-30" style="--pulse-height:25%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-nashville-tennessee-t-00-17-38" style="--pulse-height:25%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-nashville-tennessee-t-00-06-11" style="--pulse-height:100%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 4 mentions" title="2026-05-04 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-nashville-tennessee-t-00-40-10" style="--pulse-height:25%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [Metropolitan Government of Nashville and Davidson County](https://www.n
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-nashville-tennessee-t-00-57-30) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-nashville-tennessee-t-00-17-38) | 1 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-nashville-tennessee-t-00-06-11) | 4 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-nashville-tennessee-t-00-40-10) | 1 |
 
 </details>
 </section>
@@ -63,7 +65,15 @@ Source: [Metropolitan Government of Nashville and Davidson County](https://www.n
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>
+
+**[00:40:10](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-nashville-tennessee-t-00-40-10)**
+> "...that Ben Shapiro rides around Nashville on."
+
+</details>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (4 mentions)</summary>

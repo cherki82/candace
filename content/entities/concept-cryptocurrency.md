@@ -1,6 +1,6 @@
 ---
 title: "Cryptocurrency"
-description: "Cryptocurrency (Concepts) - 10 mentions"
+description: "Cryptocurrency (Concepts) - 14 mentions"
 id: "concept-cryptocurrency"
 type: "CONCEPT"
 aliases:
@@ -22,9 +22,9 @@ Source: [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 31
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-concept-cryptocurrency-t-00-39-00">2026-03-26 · 00:39:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-cryptocurrency-t-00-26-47">2026-04-29 · 00:27:08</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-cryptocurrency-t-01-15-56">2026-05-21 · 01:15:56</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 31
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-concept-cryptocurrency-t-00-39-00" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 5 mentions" title="2026-03-26 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-cryptocurrency-t-00-26-05" style="--pulse-height:100%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 5 mentions" title="2026-04-29 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-cryptocurrency-t-01-15-37" style="--pulse-height:80%" aria-label="Candace x Hunter Biden: The Interview: 4 mentions" title="2026-05-21 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 31
 |---|---|---:|
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-concept-cryptocurrency-t-00-39-00) | 5 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-cryptocurrency-t-00-26-05) | 5 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-concept-cryptocurrency-t-01-15-37) | 4 |
 
 </details>
 </section>
@@ -51,7 +53,24 @@ Source: [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 31
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (4 mentions)</summary>
+
+**[01:15:37](/episodes/ep-Ux1kzgQxkws.md#ent-concept-cryptocurrency-t-01-15-37)**
+> "Crypto"
+
+**[01:15:38](/episodes/ep-Ux1kzgQxkws.md#ent-concept-cryptocurrency-t-01-15-38)**
+> "... to say to you about like the cryptocurrency thing. I think there's incredible promise in cryp..."
+
+**[01:15:54](/episodes/ep-Ux1kzgQxkws.md#ent-concept-cryptocurrency-t-01-15-38)**
+> "...t happen to be kind of like a crypto,"
+
+**[01:15:56](/episodes/ep-Ux1kzgQxkws.md#ent-concept-cryptocurrency-t-01-15-56)**
+> "crypto. I mean, just because of my understanding. I thin..."
+
+</details>
 
 <details>
 <summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (5 mentions)</summary>

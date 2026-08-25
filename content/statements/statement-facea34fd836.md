@@ -4,9 +4,10 @@ description: "\"The shooting took place at 8:36 p.m. Eastern, when the Secret Se
 statement_id: "statement-facea34fd836"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -32,7 +33,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Transcript context attributes the claim to Candace Owens. The time is approximately correct, but the May 5 DOJ indictment alleges Cole Allen fired a shotgun and struck a Secret Service officer, after which that officer fired five rounds at Allen. That directly contradicts the allegation that Secret Service officers fired at one another.
+
+**Confidence:** High
+
+**Sources:**
+
+- [DOJ: Indictment Charges Cole Tomas Allen with Attempt to Assassinate the President](https://www.justice.gov/usao-dc/pr/indictment-charges-cole-tomas-allen-attempt-assassinate-president-and-assault-federal)
+
+*Verified: 2026-08-25T08:19:40.856763*
 
 ---
 

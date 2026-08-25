@@ -10,13 +10,13 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-home-actions"><a class="primary" href="/index/claims">Explore factual claims</a><a href="/index/explorer">Search all statements</a><a href="/index/threads">Follow a reviewed theory thread</a></div>
 </div>
 
-<p class="kg-freshness"><strong>116 sources</strong> · processed through <time datetime="2026-08-14">2026-08-14</time> · generated <time datetime="2026-08-25">2026-08-25</time></p>
+<p class="kg-freshness"><strong>125 sources</strong> · processed through <time datetime="2026-08-14">2026-08-14</time> · generated <time datetime="2026-08-25">2026-08-25</time></p>
 
 <div class="kg-stat-grid">
-<div><strong>3,989</strong><span>Claims &amp; statements</span></div>
-<div><strong>2,963</strong><span>Tracked entities</span></div>
-<div><strong>1,323</strong><span>Timeline events</span></div>
-<div><strong>1,342</strong><span>Research sources</span></div>
+<div><strong>4,361</strong><span>Claims &amp; statements</span></div>
+<div><strong>3,214</strong><span>Tracked entities</span></div>
+<div><strong>1,410</strong><span>Timeline events</span></div>
+<div><strong>1,588</strong><span>Research sources</span></div>
 </div>
 
 ## Latest source additions
@@ -30,23 +30,23 @@ description: "An evidence-first research workbench for imported video, audio, an
 <span>Unspecified source</span>
 </article>
 <article>
-<time datetime="2026-05-13">2026-05-13</time>
-<a href="/episodes/ep-4DvYXBn_5JI">September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337</a>
+<time datetime="2026-06-09">2026-06-09</time>
+<a href="/episodes/ep-YeEtS7nix3o">I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345</a>
 <span>Candace Owens</span>
 </article>
 <article>
-<time datetime="2026-05-13">2026-05-13</time>
-<a href="/episodes/ep-7FS1tUeSfdE">BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338</a>
+<time datetime="2026-05-28">2026-05-28</time>
+<a href="/episodes/ep-SKNJPul29zU">Candace Owens x Ana Kasparian</a>
 <span>Candace Owens</span>
 </article>
 <article>
-<time datetime="2026-05-11">2026-05-11</time>
-<a href="/episodes/ep-KpxIBWkNsSs">Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336</a>
+<time datetime="2026-05-27">2026-05-27</time>
+<a href="/episodes/ep-MhakwJxK-Zk">BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344</a>
 <span>Candace Owens</span>
 </article>
 <article>
-<time datetime="2026-05-07">2026-05-07</time>
-<a href="/episodes/ep-FFQ9675oqRI">STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335</a>
+<time datetime="2026-05-26">2026-05-26</time>
+<a href="/episodes/ep-BxN2-aeMYIs">The World Is A Stage: Trump Survives...Again? | Ep 343</a>
 <span>Candace Owens</span>
 </article>
 </div>
@@ -56,46 +56,46 @@ description: "An evidence-first research workbench for imported video, audio, an
 <p class="research-section-note">Entity mentions in the five newest sources compared with the preceding five.</p>
 
 <div class="attention-grid">
-<a href="/entities/person-tyler-robinson"><strong>Tyler Robinson</strong><span>108 recent mentions · +103 vs prior window</span></a>
-<a href="/entities/person-erika-kirk"><strong>Erika Kirk</strong><span>175 recent mentions · +74 vs prior window</span></a>
-<a href="/entities/person-nick-shirley"><strong>Nick Shirley</strong><span>37 recent mentions · +37 vs prior window</span></a>
-<a href="/entities/person-lance-twiggs"><strong>Lance Twiggs</strong><span>35 recent mentions · +35 vs prior window</span></a>
-<a href="/entities/person-andrew-wilson"><strong>Andrew Wilson</strong><span>31 recent mentions · +31 vs prior window</span></a>
-<a href="/entities/person-charlie-kirk"><strong>Charlie Kirk</strong><span>157 recent mentions · +27 vs prior window</span></a>
+<a href="/entities/person-tyler-robinson"><strong>Tyler Robinson</strong><span>112 recent mentions · +108 vs prior window</span></a>
+<a href="/entities/gpe-israel"><strong>Israel</strong><span>124 recent mentions · +101 vs prior window</span></a>
+<a href="/entities/gpe-russia"><strong>Russia</strong><span>80 recent mentions · +76 vs prior window</span></a>
+<a href="/entities/person-charlie-kirk"><strong>Charlie Kirk</strong><span>217 recent mentions · +66 vs prior window</span></a>
+<a href="/entities/person-lance-twiggs"><strong>Lance Twiggs</strong><span>35 recent mentions · +34 vs prior window</span></a>
+<a href="/entities/gpe-united-states"><strong>United States</strong><span>76 recent mentions · +31 vs prior window</span></a>
 </div>
 
 ## Latest verification outcomes
 
 <div class="verification-feed">
 <article>
+<span class="status-badge status-true">true</span>
+<a href="/statements/statement-e41168e9935c">Turning Point USA wrote that the succession video was real, Charlie Kirk was not kidding, and Candace Owens had known about it for seven months.</a>
+<small>I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345</small>
+</article>
+<article>
+<span class="status-badge status-true">true</span>
+<a href="/statements/statement-99cf1977d5ee">Candace Owens said definitively that she believed the Charlie Kirk succession clip was doctored.</a>
+<small>I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345</small>
+</article>
+<article>
+<span class="status-badge status-true">true</span>
+<a href="/statements/statement-71dc7ef1f4b7">Charlie Kirk said he appointed his wife to run Turning Point USA if something happened to him and that Erika would do a great job.</a>
+<small>I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345</small>
+</article>
+<article>
+<span class="status-badge status-true">true</span>
+<a href="/statements/statement-90899baf09f5">Candace Owens said Turning Point USA showed the succession video privately to Daily Mail reporters instead of releasing it in full.</a>
+<small>I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345</small>
+</article>
+<article>
 <span class="status-badge status-mixed">mixed</span>
-<a href="/statements/statement-f7a4f5e5b189">Candace Owens said the rumor was that Turning Point Action was missing 10 million dollars and had built a backdoor connected to Erika Kirk&#x27;s mother.</a>
-<small>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337</small>
+<a href="/statements/statement-140c58cb593e">Candace Owens said Erika Kirk included a personal letter from Charlie Kirk in a fundraising email.</a>
+<small>I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345</small>
 </article>
 <article>
 <span class="status-badge status-true">true</span>
-<a href="/statements/statement-4e1dc21816eb">Candace Owens said Superfeed Technologies powers the Turning Point USA app and that Lori Frantzve sits on Superfeed&#x27;s board with Tyler Bowyer.</a>
-<small>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337</small>
-</article>
-<article>
-<span class="status-badge status-true">true</span>
-<a href="/statements/statement-cd19d3d4892c">Candace Owens cited VFXLA&#x27;s website as saying it could clone a specific voice and had recreated the voice of deceased baseball commentator Skip Caray.</a>
-<small>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337</small>
-</article>
-<article>
-<span class="status-badge status-true">true</span>
-<a href="/statements/statement-13f2028c1189">Gary Melton said the photograph did not show Erika Kirk&#x27;s son; it showed her daughter with another child.</a>
-<small>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337</small>
-</article>
-<article>
-<span class="status-badge status-mixed">mixed</span>
-<a href="/statements/statement-35f8efc1a486">Candace Owens said Erika Kirk was not at the office with Charlie Kirk on September 9 and that Erika had instead told Jesse Watters that Charlie was at the office all day.</a>
-<small>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337</small>
-</article>
-<article>
-<span class="status-badge status-true">true</span>
-<a href="/statements/statement-baea2889ba07">Gary Melton said a photo timestamped September 9 at 8:33 a.m. proved Erika Kirk was with her children.</a>
-<small>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337</small>
+<a href="/statements/statement-ba7ebcd808b1">Candace Owens said Turning Point USA recreated the tent under which Charlie Kirk died so people could take selfies beneath it.</a>
+<small>I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345</small>
 </article>
 </div>
 

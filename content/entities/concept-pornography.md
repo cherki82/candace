@@ -1,6 +1,6 @@
 ---
 title: "Pornography"
-description: "Pornography (Concepts) - 6 mentions"
+description: "Pornography (Concepts) - 8 mentions"
 id: "concept-pornography"
 type: "CONCEPT"
 categories:
@@ -18,9 +18,9 @@ Source: [Pornography | Definition, History, Meaning, & Facts](https://www.britan
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-pornography-t-00-14-33">2026-01-07 · 00:14:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-concept-pornography-t-00-46-43">2026-05-06 · 00:46:43</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-pornography-t-00-07-14">2026-05-21 · 00:07:32</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,6 +36,7 @@ Source: [Pornography | Definition, History, Meaning, & Facts](https://www.britan
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-pornography-t-00-18-34" style="--pulse-height:50%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-concept-pornography-t-00-07-32" style="--pulse-height:50%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-concept-pornography-t-00-46-02" style="--pulse-height:100%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-pornography-t-00-07-14" style="--pulse-height:100%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Pornography | Definition, History, Meaning, & Facts](https://www.britan
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-pornography-t-00-18-34) | 1 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-concept-pornography-t-00-07-32) | 1 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-concept-pornography-t-00-46-02) | 2 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-concept-pornography-t-00-07-14) | 2 |
 
 </details>
 </section>
@@ -53,7 +55,18 @@ Source: [Pornography | Definition, History, Meaning, & Facts](https://www.britan
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (2 mentions)</summary>
+
+**[00:07:14](/episodes/ep-Ux1kzgQxkws.md#ent-concept-pornography-t-00-07-14)**
+> "...arious topics, whether it was pornography, drugs on my show, drinking, how many men would w..."
+
+**[00:07:32](/episodes/ep-Ux1kzgQxkws.md#ent-concept-pornography-t-00-07-14)**
+> "...hether it's with addiction to pornography addiction to drugs and I don't think there are en..."
+
+</details>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (2 mentions)</summary>

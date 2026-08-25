@@ -11,7 +11,7 @@ date: "2025-09-11"
 
 > Benjamin Netanyahu discusses Charlie Kirk on Fox News
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. They Are Lying About Charlie Kirk. | Candace Ep 235
 
@@ -28,3 +28,11 @@ date: "2025-09-11"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(437);return false;">▶️ Play</a>
 
 > you know, like making time to do hits on Fox News, two of th
+
+### 3. The World Is A Stage: Trump Survives...Again? | Ep 343
+
+**Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
+**Timestamp:** [00:41:05](/episodes/ep-BxN2-aeMYIs.md#t-00-40-52) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2465);return false;">▶️ Play</a>
+
+> Bibi go on Fox News the next day and say, I didn't kill him. It wasn't me.

@@ -1,6 +1,6 @@
 ---
 title: "Islam"
-description: "Islam (Concepts) - 38 mentions"
+description: "Islam (Concepts) - 51 mentions"
 id: "concept-islam"
 type: "CONCEPT"
 aliases:
@@ -18,9 +18,9 @@ _Type: Concepts_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-islam-t-00-04-51">2026-01-12 · 00:05:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-islam-t-00-34-48">2026-04-10 · 00:34:48</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>38</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-concept-islam-t-00-36-37">2026-05-28 · 00:36:37</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>51</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -43,6 +43,9 @@ _Type: Concepts_
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-islam-t-00-20-30" style="--pulse-height:28%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 5 mentions" title="2026-03-17 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-concept-islam-t-00-06-58" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-islam-t-00-34-48" style="--pulse-height:8%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-concept-islam-t-00-40-00" style="--pulse-height:8%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-concept-islam-t-00-53-46" style="--pulse-height:17%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 3 mentions" title="2026-05-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-concept-islam-t-00-00-38" style="--pulse-height:50%" aria-label="Candace Owens x Ana Kasparian: 9 mentions" title="2026-05-28 · 9 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +63,9 @@ _Type: Concepts_
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-concept-islam-t-00-20-30) | 5 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-concept-islam-t-00-06-58) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-islam-t-00-34-48) | 1 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-concept-islam-t-00-40-00) | 1 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-concept-islam-t-00-53-46) | 3 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-concept-islam-t-00-00-38) | 9 |
 
 </details>
 </section>
@@ -67,7 +73,61 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (9 mentions)</summary>
+
+**[00:01:04](/episodes/ep-SKNJPul29zU.md#ent-concept-islam-t-00-00-38)**
+> "perception of Muslims"
+
+**[00:23:27](/episodes/ep-SKNJPul29zU.md#ent-concept-islam-t-00-23-27)**
+> "...ke I would find hatred toward Muslims or hatred toward Christians. Like hating any grou..."
+
+**[00:23:59](/episodes/ep-SKNJPul29zU.md#ent-concept-islam-t-00-23-43)**
+> "And when it came to the Muslim population, I think that the dehumanization was s..."
+
+**[00:24:24](/episodes/ep-SKNJPul29zU.md#ent-concept-islam-t-00-24-24)**
+> "silence for what the Muslims did to us. But think about like that's kind of so..."
+
+**[00:24:36](/episodes/ep-SKNJPul29zU.md#ent-concept-islam-t-00-24-36)**
+> "... to understand how despicable Muslims are."
+
+**[00:24:42](/episodes/ep-SKNJPul29zU.md#ent-concept-islam-t-00-24-42)**
+> "..., I mean, there are different Muslim."
+
+**[00:24:55](/episodes/ep-SKNJPul29zU.md#ent-concept-islam-t-00-24-55)**
+> "muslims"
+
+**[00:36:10](/episodes/ep-SKNJPul29zU.md#ent-concept-islam-t-00-36-10)**
+> "...lamification of the UK, these Muslims are so bad and so dangerous."
+
+**[00:36:37](/episodes/ep-SKNJPul29zU.md#ent-concept-islam-t-00-36-37)**
+> "It's, oh, we have a Muslim problem. But no, we actually we have an Israel ne..."
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (3 mentions)</summary>
+
+**[00:53:46](/episodes/ep-cPidFQDJLbo.md#ent-concept-islam-t-00-53-46)**
+> "between Christian America and Muslims"
+
+**[00:53:56](/episodes/ep-cPidFQDJLbo.md#ent-concept-islam-t-00-53-46)**
+> "Christians and Muslims apart and keep them warring with each other has b..."
+
+**[00:54:15](/episodes/ep-cPidFQDJLbo.md#ent-concept-islam-t-00-53-46)**
+> "...school. to drive this fear of Muslims have us thinking that they are radical."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1 mentions)</summary>
+
+**[00:40:25](/episodes/ep-Dkxa9OUA9K8.md#ent-concept-islam-t-00-40-00)**
+> "...are believers, non-believers, Muslims. It doesn't matter. Humanity"
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>

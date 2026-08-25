@@ -1,6 +1,6 @@
 ---
 title: "Pure Talk"
-description: "Pure Talk (Organizations) - 136 mentions"
+description: "Pure Talk (Organizations) - 140 mentions"
 id: "org-pure-talk"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [PureTalk](https://www.puretalk.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-pure-talk-t-00-55-47">2025-09-15 · 00:55:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-pure-talk-t-00-22-36">2026-05-11 · 00:22:36</a></strong></div>
-<div><span>Episodes</span><strong>27</strong></div>
-<div><span>Mentions</span><strong>136</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-pure-talk-t-00-45-41">2026-05-27 · 00:45:41</a></strong></div>
+<div><span>Episodes</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>140</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -64,6 +64,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-pure-talk-t-00-26-01" style="--pulse-height:71%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 5 mentions" title="2026-04-21 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-pure-talk-t-00-26-41" style="--pulse-height:71%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 5 mentions" title="2026-05-06 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-pure-talk-t-00-21-14" style="--pulse-height:57%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 4 mentions" title="2026-05-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-pure-talk-t-00-45-02" style="--pulse-height:57%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 4 mentions" title="2026-05-27 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -96,6 +97,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-pure-talk-t-00-26-01) | 5 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-pure-talk-t-00-26-41) | 5 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-pure-talk-t-00-21-14) | 4 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-pure-talk-t-00-45-02) | 4 |
 
 </details>
 </section>
@@ -103,7 +105,24 @@ Source: [PureTalk](https://www.puretalk.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (136)</strong></summary>
+<summary><strong class="section-title">Raw mentions (140)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (4 mentions)</summary>
+
+**[00:45:02](/episodes/ep-MhakwJxK-Zk.md#ent-org-pure-talk-t-00-45-02)**
+> "With PureTalk, you can get unlimited high-speed data for just $..."
+
+**[00:45:14](/episodes/ep-MhakwJxK-Zk.md#ent-org-pure-talk-t-00-45-02)**
+> "So if you've considered PureTalk before but haven't made the switch, now is an exc..."
+
+**[00:45:30](/episodes/ep-MhakwJxK-Zk.md#ent-org-pure-talk-t-00-45-02)**
+> "Plus, Pure Talk's U.S.-based customer support team is available whe..."
+
+**[00:45:41](/episodes/ep-MhakwJxK-Zk.md#ent-org-pure-talk-t-00-45-41)**
+> "That's puretalk.com slash Owens. Also going to remind you guys ab..."
+
+</details>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (4 mentions)</summary>

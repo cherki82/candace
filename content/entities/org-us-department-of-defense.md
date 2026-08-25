@@ -1,12 +1,14 @@
 ---
 title: "United States Department of Defense"
-description: "United States Department of Defense (Organizations) - 24 mentions"
+description: "United States Department of Defense (Organizations) - 35 mentions"
 id: "org-us-department-of-defense"
 type: "ORG"
 aliases:
   - "Department of Defense"
   - "DOD"
   - "D.O.D."
+  - "Department of War"
+  - "DoW"
 categories:
   - "United States government"
   - "military"
@@ -14,9 +16,11 @@ categories:
 
 _Type: Organizations_
 
-**Also known as:** Department of Defense, DOD, D.O.D.
+**Also known as:** Department of Defense, DOD, D.O.D., Department of War, DoW
 
 **Categories:** United States government, military
+
+> **Possibly overlapping entity records:** [Dow Jones Industrial Average](/entities/concept-dow-jones-industrial-average). These records share a name or alias; compare their histories before treating either count as complete.
 
 **Entity verification:** verified
 > Canonical federal organization verified against official U.S. Department of Defense identity; merged duplicate generic Department of Defense record into this entity.
@@ -24,33 +28,38 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-department-of-defense-t-00-31-29">2025-10-28 · 00:31:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-us-department-of-defense-t-00-04-19">2026-05-13 · 00:04:46</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>24</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>16</strong></div>
-<div><span>Relationships</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-us-department-of-defense-t-00-13-13">2026-05-27 · 00:13:27</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>24</strong></div>
+<div><span>Relationships</span><strong>13</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-us-department-of-defense-t-00-01-43">Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-us-department-of-defense-t-00-00-39">Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-department-of-defense-t-00-31-29" style="--pulse-height:33%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-org-us-department-of-defense-t-00-46-55" style="--pulse-height:67%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-his-JBjlkh8.md#ent-org-us-department-of-defense-t-00-37-21" style="--pulse-height:67%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-us-department-of-defense-t-00-02-46" style="--pulse-height:67%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-us-department-of-defense-t-00-39-10" style="--pulse-height:67%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-us-department-of-defense-t-01-03-41" style="--pulse-height:67%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-us-department-of-defense-t-01-17-26" style="--pulse-height:33%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#ent-org-us-department-of-defense-t-00-53-20" style="--pulse-height:67%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-org-us-department-of-defense-t-00-04-42" style="--pulse-height:33%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-us-department-of-defense-t-00-11-00" style="--pulse-height:67%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-us-department-of-defense-t-00-01-43" style="--pulse-height:100%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 3 mentions" title="2026-03-10 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-us-department-of-defense-t-00-32-04" style="--pulse-height:33%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#ent-org-us-department-of-defense-t-00-12-27" style="--pulse-height:67%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-us-department-of-defense-t-00-04-19" style="--pulse-height:33%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-department-of-defense-t-00-31-29" style="--pulse-height:25%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-org-us-department-of-defense-t-00-46-55" style="--pulse-height:50%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-org-us-department-of-defense-t-00-37-21" style="--pulse-height:50%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-us-department-of-defense-t-00-02-46" style="--pulse-height:50%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-us-department-of-defense-t-00-39-10" style="--pulse-height:50%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-us-department-of-defense-t-01-03-41" style="--pulse-height:50%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-us-department-of-defense-t-01-17-26" style="--pulse-height:25%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-org-us-department-of-defense-t-00-53-20" style="--pulse-height:50%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-org-us-department-of-defense-t-00-04-42" style="--pulse-height:25%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-us-department-of-defense-t-00-11-00" style="--pulse-height:50%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-us-department-of-defense-t-00-01-43" style="--pulse-height:75%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 3 mentions" title="2026-03-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-us-department-of-defense-t-00-32-04" style="--pulse-height:25%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-us-department-of-defense-t-00-12-27" style="--pulse-height:50%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-us-department-of-defense-t-00-04-19" style="--pulse-height:25%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-us-department-of-defense-t-00-07-29" style="--pulse-height:75%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 3 mentions" title="2026-05-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-us-department-of-defense-t-00-00-39" style="--pulse-height:100%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 4 mentions" title="2026-05-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-us-department-of-defense-t-01-12-53" style="--pulse-height:25%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-us-department-of-defense-t-00-05-06" style="--pulse-height:50%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-us-department-of-defense-t-00-13-13" style="--pulse-height:25%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -70,6 +79,11 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/)
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-us-department-of-defense-t-00-32-04) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-us-department-of-defense-t-00-12-27) | 2 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-org-us-department-of-defense-t-00-04-19) | 1 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-us-department-of-defense-t-00-07-29) | 3 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-us-department-of-defense-t-00-00-39) | 4 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-us-department-of-defense-t-01-12-53) | 1 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-org-us-department-of-defense-t-00-05-06) | 2 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-us-department-of-defense-t-00-13-13) | 1 |
 
 </details>
 </section>
@@ -77,7 +91,65 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
+
+**[00:13:27](/episodes/ep-MhakwJxK-Zk.md#ent-org-us-department-of-defense-t-00-13-13)**
+> "...ell you what he does. Per our Department of War website, Mr. Hansell exercises authority, directi..."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (2 mentions)</summary>
+
+**[00:05:33](/episodes/ep-BxN2-aeMYIs.md#ent-org-us-department-of-defense-t-00-05-06)**
+> "multiple offices within the DOD"
+
+**[00:07:20](/episodes/ep-BxN2-aeMYIs.md#ent-org-us-department-of-defense-t-00-07-10)**
+> ".... Now we're talking about the Department of Defense. I think he would know."
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
+
+**[01:12:53](/episodes/ep-Ux1kzgQxkws.md#ent-org-us-department-of-defense-t-01-12-53)**
+> "...rgest loan guarantee from the Department of Defense ever handed out of over $600 million for an energ..."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (4 mentions)</summary>
+
+**[00:00:39](/episodes/ep-1QZ4X6q1DPg.md#ent-org-us-department-of-defense-t-00-00-39)**
+> "...out, scored a payout from the Department of Defense in September, the same month that Charlie Kirk di..."
+
+**[00:37:59](/episodes/ep-1QZ4X6q1DPg.md#ent-org-us-department-of-defense-t-00-37-17)**
+> "...d, in a large lump sum by the Department of Defense dated 14 days after Charlie Kirk's assassination...."
+
+**[00:39:17](/episodes/ep-1QZ4X6q1DPg.md#ent-org-us-department-of-defense-t-00-39-05)**
+> "That's weird too. The Department of Defense decided to give him that sort of money, because w..."
+
+**[00:40:01](/episodes/ep-1QZ4X6q1DPg.md#ent-org-us-department-of-defense-t-00-39-37)**
+> "...t a massive contract with the Department of Defense."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (3 mentions)</summary>
+
+**[00:07:36](/episodes/ep-Pb7UlpRdW6U.md#ent-org-us-department-of-defense-t-00-07-29)**
+> "...tactic that's employed by the Department of Defense."
+
+**[00:07:53](/episodes/ep-Pb7UlpRdW6U.md#ent-org-us-department-of-defense-t-00-07-29)**
+> "...this email is coming from the Department of Defense. But this is verbatim what the relevant portion o..."
+
+**[00:11:57](/episodes/ep-Pb7UlpRdW6U.md#ent-org-us-department-of-defense-t-00-11-26)**
+> "...s what we have uncovered. The Department of Defense instructing teams internally on how to immediatel..."
+
+</details>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1 mentions)</summary>
@@ -275,7 +347,31 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/)
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Operates (1)</summary>
+
+- **[White House Communications Agency](/entities/org-white-house-communications-agency.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:09:44](/episodes/ep-Pb7UlpRdW6U.md#t-00-09-28): “The White House Communications Agency is a Department of Defense-controlled military communications entity.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Purchased From (1)</summary>
+
+- **[Paramount Tactical Solutions](/entities/org-paramount-tactical-solutions.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:38:52](/episodes/ep-1QZ4X6q1DPg.md#t-00-38-24): “Anyway, the receipts are here. On September 24, 2025, he received $39,000 for individual equipment. ... And then on September 29th, five days later, he received $151,000 for night vision equipment.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (7)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** advisor to this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -305,6 +401,20 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/)
 
 </details>
 
+- **[White House Communications Agency](/entities/org-white-house-communications-agency.md)** operated by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:09:44](/episodes/ep-Pb7UlpRdW6U.md#t-00-09-28): “The White House Communications Agency is a Department of Defense-controlled military communications entity.”
+
+</details>
+
+- **[Paramount Tactical Solutions](/entities/org-paramount-tactical-solutions.md)** sold to this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:38:52](/episodes/ep-1QZ4X6q1DPg.md#t-00-38-24): “Anyway, the receipts are here. On September 24, 2025, he received $39,000 for individual equipment. ... And then on September 29th, five days later, he received $151,000 for night vision equipment.”
+
+</details>
+
 - **[Pete Hegseth](/entities/person-pete-hegseth.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -317,7 +427,67 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Department of Defense (16)</strong></summary>
+<summary><strong class="section-title">Statements by United States Department of Defense (1)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
+
+- [00:13:27](/episodes/ep-MhakwJxK-Zk.md#t-00-13-13) [✓] (Citation) ["The Department of War website states that Bradley D. Hansell exercises authority..."](/statements/statement-006d27bcb269.md)
+  - About: [Bradley D. Hansell](/entities/person-bradley-d-hansell.md), [United States Department of Defense](/entities/org-us-department-of-defense.md), [Pete Hegseth](/entities/person-pete-hegseth.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about United States Department of Defense (24)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
+
+- [00:13:27](/episodes/ep-MhakwJxK-Zk.md#t-00-13-13) (Citation) **United States Department of Defense** (via quoted document): ["The Department of War website states that Bradley D. Hansell exercises..."](/statements/statement-006d27bcb269.md)
+  - Also about: [Bradley D. Hansell](/entities/person-bradley-d-hansell.md), [Pete Hegseth](/entities/person-pete-hegseth.md)
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (2)</summary>
+
+- [00:04:24](/episodes/ep-BxN2-aeMYIs.md#t-00-04-24) (Accusation) **Candace Owens**: ["An internal email requested the artificial boosting of Erika Kirk's 'I..."](/statements/statement-b5bc93c8d388.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:05:33](/episodes/ep-BxN2-aeMYIs.md#t-00-05-06) (Claim) **Candace Owens**: ["Multiple offices within the Department of Defense have access to vario..."](/statements/statement-9f9032866e85.md)
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1)</summary>
+
+- [01:12:53](/episodes/ep-Ux1kzgQxkws.md#t-01-12-53) (Accusation) **Hunter Biden**: ["Donald Trump Jr. received a Department of Defense loan guarantee of mo..."](/statements/statement-151869f2bcff.md)
+  - Also about: [Donald Trump Jr.](/entities/person-donald-trump-jr.md)
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (2)</summary>
+
+- [00:38:52](/episodes/ep-1QZ4X6q1DPg.md#t-00-38-24) (Claim) **Candace Owens**: ["Paramount Tactical Solutions received $39,000 from the Department of D..."](/statements/statement-baca06e9d9b7.md)
+  - Also about: [Paramount Tactical Solutions](/entities/org-paramount-tactical-solutions.md)
+
+- [00:39:05](/episodes/ep-1QZ4X6q1DPg.md#t-00-39-05) (Claim) **Candace Owens**: ["Paramount Tactical Solutions received $151,000 from the Department of ..."](/statements/statement-c1cd3595e624.md)
+  - Also about: [Paramount Tactical Solutions](/entities/org-paramount-tactical-solutions.md)
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (2)</summary>
+
+- [00:09:44](/episodes/ep-Pb7UlpRdW6U.md#t-00-09-28) (Claim) **Anonymous Source #1 (Ep Pb7UlpRdW6U)** (via read message): ["The White House Communications Agency is a Department of Defense-contr..."](/statements/statement-c446e1bb5bf2.md)
+  - Also about: [White House Communications Agency](/entities/org-white-house-communications-agency.md), [White House](/entities/org-white-house.md)
+
+- [00:11:57](/episodes/ep-Pb7UlpRdW6U.md#t-00-11-26) (Accusation) **Candace Owens**: ["The Department of Defense instructed internal teams to engineer and ch..."](/statements/statement-13b6be7cebda.md)
+
+</details>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1)</summary>

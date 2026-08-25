@@ -11,7 +11,11 @@ object: "person-thomas-massie"
 
 ## [Candace Owens](/entities/person-candace-owens) endorsed [Thomas Massie](/entities/person-thomas-massie)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8)**
+
+- [00:00:08](/episodes/ep-Dkxa9OUA9K8#t-00-00-08): _Let's go, Thomas Massie. We'll see what happens. We've got to start today with some sad news, some very sad news this morning because we are still being ghosted by the White House._
 
 **[STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI)**
 

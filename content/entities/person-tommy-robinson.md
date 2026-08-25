@@ -1,6 +1,6 @@
 ---
 title: "Tommy Robinson"
-description: "Tommy Robinson (People) - 1 mention"
+description: "Tommy Robinson (People) - 2 mentions"
 id: "person-tommy-robinson"
 type: "PERSON"
 categories:
@@ -17,9 +17,9 @@ Source: [Tommy Robinson (activist)](https://en.wikipedia.org/wiki/Tommy_Robinson
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-tommy-robinson-t-00-36-50">2026-01-29 · 00:36:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-tommy-robinson-t-00-36-50">2026-01-29 · 00:36:50</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-tommy-robinson-t-00-36-10">2026-05-28 · 00:36:10</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -31,12 +31,14 @@ Source: [Tommy Robinson (activist)](https://en.wikipedia.org/wiki/Tommy_Robinson
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-tommy-robinson-t-00-36-50">Candace x Bassem Youssef | Candace Ep 298</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-tommy-robinson-t-00-36-50" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-tommy-robinson-t-00-36-10" style="--pulse-height:100%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-tommy-robinson-t-00-36-50) | 1 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-tommy-robinson-t-00-36-10) | 1 |
 
 </details>
 </section>
@@ -44,7 +46,15 @@ Source: [Tommy Robinson (activist)](https://en.wikipedia.org/wiki/Tommy_Robinson
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
+
+**[00:36:10](/episodes/ep-SKNJPul29zU.md#ent-person-tommy-robinson-t-00-36-10)**
+> "And so when I hear people like that Tommy Robinson guy whining about like, oh, the Islamification of the UK, these Muslims are so bad and so dangerous."
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>

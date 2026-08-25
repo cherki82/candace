@@ -1,6 +1,6 @@
 ---
 title: "Internal Revenue Service"
-description: "Internal Revenue Service (Organizations) - 113 mentions"
+description: "Internal Revenue Service (Organizations) - 121 mentions"
 id: "org-internal-revenue-service"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-internal-revenue-service-t-01-06-07">2025-09-16 · 01:06:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-internal-revenue-service-t-00-38-11">2026-05-11 · 00:38:33</a></strong></div>
-<div><span>Episodes</span><strong>34</strong></div>
-<div><span>Mentions</span><strong>113</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-org-internal-revenue-service-t-01-09-08">2026-05-28 · 01:09:14</a></strong></div>
+<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>121</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -69,6 +69,8 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-org-internal-revenue-service-t-01-19-18" style="--pulse-height:50%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 3 mentions" title="2026-04-22 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-internal-revenue-service-t-00-54-50" style="--pulse-height:50%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 3 mentions" title="2026-05-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-internal-revenue-service-t-00-37-30" style="--pulse-height:67%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 4 mentions" title="2026-05-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-internal-revenue-service-t-00-41-39" style="--pulse-height:67%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 4 mentions" title="2026-05-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-org-internal-revenue-service-t-01-08-27" style="--pulse-height:67%" aria-label="Candace Owens x Ana Kasparian: 4 mentions" title="2026-05-28 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -108,6 +110,8 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-internal-revenue-service-t-01-19-18) | 3 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-internal-revenue-service-t-00-54-50) | 3 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-internal-revenue-service-t-00-37-30) | 4 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-internal-revenue-service-t-00-41-39) | 4 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-internal-revenue-service-t-01-08-27) | 4 |
 
 </details>
 </section>
@@ -115,7 +119,41 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (113)</strong></summary>
+<summary><strong class="section-title">Raw mentions (121)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (4 mentions)</summary>
+
+**[01:08:43](/episodes/ep-SKNJPul29zU.md#ent-org-internal-revenue-service-t-01-08-27)**
+> "Whatever caused the problem, one thing is certain, the IRS penalties and interest keep adding every. every single month."
+
+**[01:08:54](/episodes/ep-SKNJPul29zU.md#ent-org-internal-revenue-service-t-01-08-27)**
+> "Before the IRS starts sending more letters or garnishing your wa..."
+
+**[01:09:01](/episodes/ep-SKNJPul29zU.md#ent-org-internal-revenue-service-t-01-08-27)**
+> "... unfiled returns, and serious IRS problems."
+
+**[01:09:14](/episodes/ep-SKNJPul29zU.md#ent-org-internal-revenue-service-t-01-09-08)**
+> "... now, they're offering a free IRS investigative call to find out exactly what you o..."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (4 mentions)</summary>
+
+**[00:41:54](/episodes/ep-1QZ4X6q1DPg.md#ent-org-internal-revenue-service-t-00-41-39)**
+> "...em, one thing is certain, the IRS penalties and interest keep adding up every singl..."
+
+**[00:42:00](/episodes/ep-1QZ4X6q1DPg.md#ent-org-internal-revenue-service-t-00-41-39)**
+> "...e next tax season. Before the IRS starts sending more letters, garnishing wages, or..."
+
+**[00:42:09](/episodes/ep-1QZ4X6q1DPg.md#ent-org-internal-revenue-service-t-00-41-39)**
+> "... unfiled returns, and serious IRS problems."
+
+**[00:42:23](/episodes/ep-1QZ4X6q1DPg.md#ent-org-internal-revenue-service-t-00-42-23)**
+> "...t now they're offering a free IRS investigative call to find out exactly what you o..."
+
+</details>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (4 mentions)</summary>

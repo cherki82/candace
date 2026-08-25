@@ -1,24 +1,33 @@
 ---
 title: "United States Pentagon"
-description: "United States Pentagon (Organizations) - 26 mentions"
+description: "United States Pentagon (Organizations) - 29 mentions"
 id: "org-united-states-pentagon"
 type: "ORG"
 aliases:
   - "Pentagon"
   - "The Pentagon"
+categories:
+  - "United States Department of Defense headquarters"
+  - "military administration"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Pentagon, The Pentagon
 
+**Categories:** United States Department of Defense headquarters, military administration
+
+**Entity verification:** verified
+> The Department of Defense identifies the Pentagon as its headquarters, confirming the transcript's institutional reference.
+Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/About/Pentagon-Tours/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-united-states-pentagon-t-00-04-43">2025-09-18 · 00:04:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-pentagon-t-00-44-50">2025-12-17 · 00:44:52</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-org-united-states-pentagon-t-00-15-17">2026-05-28 · 00:15:17</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -34,6 +43,8 @@ _Type: Organizations_
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-united-states-pentagon-t-00-06-27" style="--pulse-height:10%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-united-states-pentagon-t-00-19-57" style="--pulse-height:20%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 2 mentions" title="2025-12-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-pentagon-t-00-34-40" style="--pulse-height:20%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-united-states-pentagon-t-00-13-49" style="--pulse-height:20%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-org-united-states-pentagon-t-00-15-17" style="--pulse-height:10%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +57,8 @@ _Type: Organizations_
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-org-united-states-pentagon-t-00-06-27) | 1 |
 | 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-org-united-states-pentagon-t-00-19-57) | 2 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-pentagon-t-00-34-40) | 2 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-org-united-states-pentagon-t-00-13-49) | 2 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-united-states-pentagon-t-00-15-17) | 1 |
 
 </details>
 </section>
@@ -53,7 +66,26 @@ _Type: Organizations_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
+
+**[00:15:17](/episodes/ep-SKNJPul29zU.md#ent-org-united-states-pentagon-t-00-15-17)**
+> "spending an arm and a leg on our Pentagon"
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (2 mentions)</summary>
+
+**[00:14:00](/episodes/ep-BxN2-aeMYIs.md#ent-org-united-states-pentagon-t-00-13-49)**
+> "the Pentagon's chief correspondent"
+
+**[00:14:15](/episodes/ep-BxN2-aeMYIs.md#ent-org-united-states-pentagon-t-00-13-49)**
+> "...ted the press's access to the Pentagon."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
@@ -261,7 +293,18 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Pentagon (3)</strong></summary>
+<summary><strong class="section-title">Statements about United States Pentagon (5)</strong></summary>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (2)</summary>
+
+- [00:14:00](/episodes/ep-BxN2-aeMYIs.md#t-00-13-49) (Accusation) **Gabrielle Cuccia** (via quoted post): ["I was fired as the Pentagon's chief correspondent after criticizing Pe..."](/statements/statement-4025f79e4c57.md)
+  - Also about: [Gabrielle Cuccia](/entities/person-gabrielle-cuccia.md), [Pete Hegseth](/entities/person-pete-hegseth.md)
+
+- [00:14:25](/episodes/ep-BxN2-aeMYIs.md#t-00-13-49) (Opinion) **Gabrielle Cuccia** (via quoted post): ["They are limiting freedom of movement in the name of national security..."](/statements/statement-f7840c7e4319.md)
+  - Also about: [Pete Hegseth](/entities/person-pete-hegseth.md)
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>

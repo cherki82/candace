@@ -1,6 +1,6 @@
 ---
 title: "Butler, Pennsylvania"
-description: "Butler, Pennsylvania (Places) - 10 mentions"
+description: "Butler, Pennsylvania (Places) - 13 mentions"
 id: "gpe-butler-pennsylvania"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [City of Butler](https://cityofbutler.org/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-butler-pennsylvania-t-00-42-31">2026-01-20 · 00:42:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-gpe-butler-pennsylvania-t-00-16-43">2026-05-07 · 00:16:53</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-butler-pennsylvania-t-01-13-44">2026-05-28 · 01:13:44</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,6 +40,8 @@ Source: [City of Butler](https://cityofbutler.org/)
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-butler-pennsylvania-t-00-34-03" style="--pulse-height:50%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-butler-pennsylvania-t-00-31-04" style="--pulse-height:100%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 4 mentions" title="2026-04-10 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-gpe-butler-pennsylvania-t-00-16-43" style="--pulse-height:25%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-butler-pennsylvania-t-00-01-44" style="--pulse-height:25%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-butler-pennsylvania-t-01-13-44" style="--pulse-height:50%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +52,8 @@ Source: [City of Butler](https://cityofbutler.org/)
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-butler-pennsylvania-t-00-34-03) | 2 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-butler-pennsylvania-t-00-31-04) | 4 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-gpe-butler-pennsylvania-t-00-16-43) | 1 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-butler-pennsylvania-t-00-01-44) | 1 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-butler-pennsylvania-t-01-13-44) | 2 |
 
 </details>
 </section>
@@ -57,7 +61,26 @@ Source: [City of Butler](https://cityofbutler.org/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (2 mentions)</summary>
+
+**[01:13:44](/episodes/ep-SKNJPul29zU.md#ent-gpe-butler-pennsylvania-t-01-13-44)**
+> "revisiting Butler"
+
+**[00:16:57](/episodes/ep-SKNJPul29zU.md#ent-gpe-butler-pennsylvania-t-00-16-57)**
+> "... comes across like they had a butler who did her homework do you"
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1 mentions)</summary>
+
+**[00:02:13](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-butler-pennsylvania-t-00-01-44)**
+> "Butler"
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>

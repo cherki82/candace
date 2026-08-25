@@ -1,6 +1,6 @@
 ---
 title: "United States Air Force"
-description: "United States Air Force (Organizations) - 64 mentions"
+description: "United States Air Force (Organizations) - 70 mentions"
 id: "org-united-states-air-force"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-united-states-air-force-t-00-50-29">2025-09-29 · 00:50:39</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#t-00-55-51">2026-04-20 · 00:55:51</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>64</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-united-states-air-force-t-00-11-23">2026-05-27 · 00:11:23</a></strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>70</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -59,6 +59,9 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 <a href="/episodes/ep-DEtFh2Ff-58.md#t-00-37-42" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-united-states-air-force-t-00-09-38" style="--pulse-height:25%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 3 mentions" title="2026-04-01 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#t-00-00-00" style="--pulse-height:33%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 4 mentions" title="2026-04-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#t-00-06-08" style="--pulse-height:17%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-united-states-air-force-t-00-09-55" style="--pulse-height:25%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 3 mentions" title="2026-05-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-united-states-air-force-t-00-11-23" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -87,6 +90,9 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#t-00-37-42) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-united-states-air-force-t-00-09-38) | 3 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#t-00-00-00) | 4 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#t-00-06-08) | 2 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-org-united-states-air-force-t-00-09-55) | 3 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-united-states-air-force-t-00-11-23) | 1 |
 
 </details>
 </section>
@@ -94,7 +100,40 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (64)</strong></summary>
+<summary><strong class="section-title">Raw mentions (70)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
+
+**[00:11:23](/episodes/ep-MhakwJxK-Zk.md#ent-org-united-states-air-force-t-00-11-23)**
+> "SAM 702, an Air Force plane given the designation"
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (3 mentions)</summary>
+
+**[00:10:03](/episodes/ep-BxN2-aeMYIs.md#ent-org-united-states-air-force-t-00-09-55)**
+> "there was an Air Force plane"
+
+**[00:10:53](/episodes/ep-BxN2-aeMYIs.md#ent-org-united-states-air-force-t-00-09-55)**
+> "...flies from El Paso to Andrews Air Force Base in Washington, D.C. The reason that flight w..."
+
+**[00:11:09](/episodes/ep-BxN2-aeMYIs.md#ent-org-united-states-air-force-t-00-11-09)**
+> "...call sign that is used by the United States Air Force to designate flights that are transporting senior..."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (2 mentions)</summary>
+
+**[00:06:08](/episodes/ep-Pb7UlpRdW6U.md#t-00-06-08)**
+> "...k was herself promoted to the Air Force Academy Board of Visitors in her husband's stead ..."
+
+**[00:24:19](/episodes/ep-Pb7UlpRdW6U.md#t-00-23-44)**
+> "...artificially appointed to the Air Force Board of Visitors."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (4 mentions)</summary>
@@ -525,7 +564,27 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Air Force (7)</strong></summary>
+<summary><strong class="section-title">Statements about United States Air Force (12)</strong></summary>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (5)</summary>
+
+- [00:10:03](/episodes/ep-BxN2-aeMYIs.md#t-00-09-55) (Claim) **Candace Owens**: ["On September 9, a U.S. Air Force plane left Fort Huachuca at 11:43 a.m..."](/statements/statement-0606ecc70212.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [El Paso](/entities/gpe-el-paso.md)
+
+- [00:10:03](/episodes/ep-BxN2-aeMYIs.md#t-00-09-55) (Claim) **Candace Owens**: ["The plane landed in El Paso at 1:31 p.m. local time after a 50-minute ..."](/statements/statement-2a2e2a9c8143.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [El Paso](/entities/gpe-el-paso.md)
+
+- [00:10:53](/episodes/ep-BxN2-aeMYIs.md#t-00-10-39) (Claim) **Candace Owens**: ["The plane then flew from El Paso to Andrews Air Force Base using the S..."](/statements/statement-9d5e1993fe2b.md)
+  - Also about: [El Paso](/entities/gpe-el-paso.md), [Andrews Air Force Base](/entities/gpe-andrews-air-force-base.md), [Special Air Mission](/entities/concept-special-air-mission.md)
+
+- [00:11:09](/episodes/ep-BxN2-aeMYIs.md#t-00-11-09) (Claim) **Candace Owens**: ["Special Air Mission is an official U.S. Air Force call sign for flight..."](/statements/statement-d218251c4d21.md)
+  - Also about: [Special Air Mission](/entities/concept-special-air-mission.md)
+
+- [00:12:18](/episodes/ep-BxN2-aeMYIs.md#t-00-11-52) (Claim) **Candace Owens**: ["Pete Hegseth has previously taken that exact plane while it used a SAM..."](/statements/statement-8d9852fdc782.md)
+  - Also about: [Pete Hegseth](/entities/person-pete-hegseth.md), [Special Air Mission](/entities/concept-special-air-mission.md)
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1)</summary>

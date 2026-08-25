@@ -1,6 +1,6 @@
 ---
 title: "Tyler Robinson"
-description: "Tyler Robinson (People) - 521 mentions"
+description: "Tyler Robinson (People) - 534 mentions"
 id: "person-tyler-robinson"
 type: "PERSON"
 aliases:
@@ -24,10 +24,10 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tyler-robinson-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-04-01-26">2026-08-14 · 04:01:26</a></strong></div>
-<div><span>Episodes</span><strong>69</strong></div>
-<div><span>Mentions</span><strong>521</strong></div>
+<div><span>Episodes</span><strong>73</strong></div>
+<div><span>Mentions</span><strong>534</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>232</strong></div>
+<div><span>Statements about</span><strong>237</strong></div>
 <div><span>Relationships</span><strong>21</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -104,6 +104,10 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-person-tyler-robinson-t-00-26-15" style="--pulse-height:8%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 2 mentions" title="2026-05-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-tyler-robinson-t-00-56-24" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-tyler-robinson-t-00-45-57" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-tyler-robinson-t-00-25-41" style="--pulse-height:8%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-person-tyler-robinson-t-00-33-39" style="--pulse-height:8%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 3 mentions" title="2026-05-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-tyler-robinson-t-00-25-40" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-tyler-robinson-t-00-51-37" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 8 mentions" title="2026-05-28 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-00-24-41" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 103 mentions" title="2026-08-14 · 103 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -178,6 +182,10 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-tyler-robinson-t-00-26-15) | 2 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-tyler-robinson-t-00-56-24) | 2 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-tyler-robinson-t-00-45-57) | 1 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-person-tyler-robinson-t-00-25-41) | 1 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-tyler-robinson-t-00-33-39) | 3 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-tyler-robinson-t-00-25-40) | 1 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-tyler-robinson-t-00-51-37) | 8 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-00-24-41) | 103 |
 
 </details>
@@ -186,7 +194,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (521)</strong></summary>
+<summary><strong class="section-title">Raw mentions (534)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (103 mentions)</summary>
@@ -499,6 +507,65 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 **[04:01:26](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-04-01-26)**
 > "...more people involved and that Tyler Robinson has been set up and that none of the evidence tha..."
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (8 mentions)</summary>
+
+**[00:51:48](/episodes/ep-SKNJPul29zU.md#ent-person-tyler-robinson-t-00-51-37)**
+> "Maybe it's literally a clear video of Tyler Robinson coming out and shooting Charlie (Charlie Kirk), like open to that."
+
+**[00:52:53](/episodes/ep-SKNJPul29zU.md#ent-person-tyler-robinson-t-00-52-53)**
+> "so imagine you're you're we're moving moving toward this date and all they have is what Kash Patel told us in the first 48 hours but they will not give them the discovery on that they won't give them so like if i say Ana (Ana Kasparian) texted me and said she did it and that they want to say that i'll blah blah blah she hasn't been able the defense has not even been able to access tyler robinson's phone they haven't been able to see the gun nothing and"
+
+**[00:36:10](/episodes/ep-SKNJPul29zU.md#ent-person-tyler-robinson-t-00-51-37)**
+> "...I hear people like that Tommy Robinson guy whining about like, oh, the Islamification of..."
+
+**[00:52:10](/episodes/ep-SKNJPul29zU.md#ent-person-tyler-robinson-t-00-51-37)**
+> "evidence that Tyler Robinson did it and Tyler Robinson then they presented tha..."
+
+**[00:52:19](/episodes/ep-SKNJPul29zU.md#ent-person-tyler-robinson-t-00-52-19)**
+> "...y date well it turns out that Tyler Robinson's team false document and says we need to move this..."
+
+**[00:54:11](/episodes/ep-SKNJPul29zU.md#ent-person-tyler-robinson-t-00-53-56)**
+> "insistence that it's Tyler Robinson and nothing else is shady and like we need to pur..."
+
+**[01:06:54](/episodes/ep-SKNJPul29zU.md#ent-person-tyler-robinson-t-01-06-49)**
+> "The audio of Tyler Robinson's grandfather, remember, Tyler Robinson allegedly w..."
+
+**[01:07:05](/episodes/ep-SKNJPul29zU.md#ent-person-tyler-robinson-t-01-06-49)**
+> "...e family, you know, knew that Tyler Robinson is guilty and."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1 mentions)</summary>
+
+**[00:25:40](/episodes/ep-BxN2-aeMYIs.md#ent-person-tyler-robinson-t-00-25-40)**
+> "it really was Tyler Robinson"
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (3 mentions)</summary>
+
+**[00:34:03](/episodes/ep-cPidFQDJLbo.md#ent-person-tyler-robinson-t-00-33-39)**
+> "a very quick update on the Tyler Robinson case."
+
+**[00:34:33](/episodes/ep-cPidFQDJLbo.md#ent-person-tyler-robinson-t-00-34-18)**
+> "...was the headline of Fox News, Tyler Robinson hearing the defense vies to restrict evidence and..."
+
+**[00:35:49](/episodes/ep-cPidFQDJLbo.md#ent-person-tyler-robinson-t-00-35-49)**
+> "...ld we pull that page from the Tyler Robinson's filings where they list everything that they're a..."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1 mentions)</summary>
+
+**[00:26:06](/episodes/ep-Pb7UlpRdW6U.md#ent-person-tyler-robinson-t-00-25-41)**
+> "...her a week later in forgiving Tyler Robinson."
 
 </details>
 
@@ -2338,7 +2405,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Robinson (232)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Robinson (237)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (22)</summary>
@@ -2405,6 +2472,29 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 - [04:01:26](/episodes/ep-nPhCKwJ6ye8.md#t-04-01-26) (Accusation) **Candace Owens**: ["Candace Owens still believes there is more evidence that multiple peop..."](/statements/statement-4735330c37c9.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (3)</summary>
+
+- [00:51:51](/episodes/ep-SKNJPul29zU.md#t-00-51-37) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk did not have more evidence about Tyler Robinson than the pu..."](/statements/statement-a862b1c4836c.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:52:35](/episodes/ep-SKNJPul29zU.md#t-00-52-35) (Claim) **Candace Owens**: ["Tyler Robinson's defense had not received the FBI-held phone, gun, mes..."](/statements/statement-1e10606075e4.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Utah](/entities/gpe-utah.md)
+
+- [01:06:54](/episodes/ep-SKNJPul29zU.md#t-01-06-49) (Claim) **Ana Kasparian**: ["Tyler Robinson's grandfather appeared at trial supporting his grandson..."](/statements/statement-b0a9fe06e247.md)
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (2)</summary>
+
+- [00:35:03](/episodes/ep-cPidFQDJLbo.md#t-00-35-03) (Citation) **Candace Owens**: ["Tyler Robinson's defense had not received its requested discovery and ..."](/statements/statement-fb6333135083.md)
+
+- [00:37:27](/episodes/ep-cPidFQDJLbo.md#t-00-36-59) (Citation) **Candace Owens**: ["The defense had not been able to inspect the FBI DNA report, the gun, ..."](/statements/statement-3bd0549a2094.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [Deoxyribonucleic acid](/entities/concept-dna.md)
 
 </details>
 

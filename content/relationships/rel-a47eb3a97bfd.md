@@ -11,7 +11,11 @@ object: "org-purge-store"
 
 ## [Candace Owens](/entities/person-candace-owens) endorsed [PurgeStore](/entities/org-purge-store)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg)**
+
+- [00:27:40](/episodes/ep-1QZ4X6q1DPg#t-00-27-40): _So visit purgestore.com slash candace or use code candace at checkout for 15% off your entire order plus that free Toxibinder._
 
 **[Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY)**
 

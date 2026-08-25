@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) met with [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (14 mentions)
+### Evidence (15 mentions)
 
 **[Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM)**
 
@@ -44,6 +44,10 @@ object: "person-erika-kirk"
 **[Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw)**
 
 - [00:07:17](/episodes/ep-QdM9jLwjwLw#t-00-07-17): _But Erika (Erika Kirk) during our face-to-face meeting had no recollection of his wife stepping off of the plane. When I asked, I said, was he with his wife?_
+
+**[Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU)**
+
+- [00:51:07](/episodes/ep-SKNJPul29zU#t-00-51-07): _I sat down with Erika (Erika Kirk) and she explained to me they were sort of moving toward this May date_
 
 **[REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30)**
 

@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [PragerU](/entities/org-prageru) formerly employed [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (6 mentions)
+### Evidence (7 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -24,6 +24,10 @@ object: "person-candace-owens"
 **[Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4)**
 
 - [00:08:19](/episodes/ep-K5GjF53bfN4#t-00-08-19): _I obviously worked for PragerU._
+
+**[Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU)**
+
+- [00:22:39](/episodes/ep-SKNJPul29zU#t-00-22-39): _candace was going around judeo christian doing all the things she worked at prager you_
 
 **[AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo)**
 

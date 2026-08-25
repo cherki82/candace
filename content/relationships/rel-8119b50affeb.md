@@ -11,7 +11,11 @@ object: "person-megyn-kelly"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) interviewed by [Megyn Kelly](/entities/person-megyn-kelly)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
+
+**[BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk)**
+
+- [00:34:49](/episodes/ep-MhakwJxK-Zk#t-00-34-49): _he appeared on Megyn Kelly's podcast in the following days_
 
 **[BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw)**
 

@@ -1,6 +1,6 @@
 ---
 title: "Hamas"
-description: "Hamas (Organizations) - 33 mentions"
+description: "Hamas (Organizations) - 39 mentions"
 id: "org-hamas"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-hamas-t-00-51-57">2025-09-16 · 00:51:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-hamas-t-00-30-22">2026-04-10 · 00:30:40</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-hamas-t-01-13-18">2026-05-19 · 01:13:18</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>39</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -45,6 +45,7 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-00-06-51" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 11 mentions" title="2026-01-29 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-hamas-t-00-51-11" style="--pulse-height:9%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-hamas-t-00-30-22" style="--pulse-height:9%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-hamas-t-00-07-48" style="--pulse-height:55%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 6 mentions" title="2026-05-19 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,6 +65,7 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-00-06-51) | 11 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-hamas-t-00-51-11) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-hamas-t-00-30-22) | 1 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-hamas-t-00-07-48) | 6 |
 
 </details>
 </section>
@@ -71,7 +73,30 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (6 mentions)</summary>
+
+**[00:08:23](/episodes/ep-Dkxa9OUA9K8.md#ent-org-hamas-t-00-07-48)**
+> "And Hamas and many Palestinians would say it's just propaga..."
+
+**[01:08:56](/episodes/ep-Dkxa9OUA9K8.md#ent-org-hamas-t-01-08-56)**
+> "...n affected by the war between Hamas and Israel."
+
+**[01:12:14](/episodes/ep-Dkxa9OUA9K8.md#ent-org-hamas-t-01-12-14)**
+> "...ld be asking, too, why didn't Hamas stop firing rockets when we were there doing huma..."
+
+**[01:12:35](/episodes/ep-Dkxa9OUA9K8.md#ent-org-hamas-t-01-12-14)**
+> "I was on Fox. I said Hamas needs to stop firing rockets in the beginning. St..."
+
+**[01:12:51](/episodes/ep-Dkxa9OUA9K8.md#ent-org-hamas-t-01-12-51)**
+> "...because of a terrorist group, Hamas, that continuous attack Israel, what are you goin..."
+
+**[01:13:18](/episodes/ep-Dkxa9OUA9K8.md#ent-org-hamas-t-01-13-18)**
+> "... videos seen children of what Hamas master walking."
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
@@ -274,7 +299,17 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Hamas (8)</strong></summary>
+<summary><strong class="section-title">Statements about Hamas (10)</strong></summary>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (2)</summary>
+
+- [01:08:56](/episodes/ep-Dkxa9OUA9K8.md#t-01-08-56) (Claim) **Victor Marx**: ["Victor Marx says his organization helped 6,000 children affected by th..."](/statements/statement-cee03df0c038.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [All Things Possible Ministries](/entities/org-all-things-possible-ministries.md), [Israel](/entities/gpe-israel.md)
+
+- [01:12:35](/episodes/ep-Dkxa9OUA9K8.md#t-01-12-14) (Opinion) **Victor Marx**: ["Victor Marx's position is that Hamas should stop firing rockets and re..."](/statements/statement-c468c29107d0.md)
+
+</details>
 
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (1)</summary>

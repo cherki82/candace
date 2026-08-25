@@ -1,6 +1,6 @@
 ---
 title: "Fort Huachuca"
-description: "Fort Huachuca (Places) - 188 mentions"
+description: "Fort Huachuca (Places) - 210 mentions"
 id: "gpe-fort-huachuca"
 type: "GPE"
 aliases:
@@ -23,12 +23,12 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-fort-huachuca-t-00-12-36">2025-12-09 · 00:01:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-fort-huachuca-t-00-34-03">2026-05-13 · 00:34:03</a></strong></div>
-<div><span>Episodes</span><strong>36</strong></div>
-<div><span>Mentions</span><strong>188</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-fort-huachuca-t-00-53-23">2026-05-27 · 00:53:23</a></strong></div>
+<div><span>Episodes</span><strong>39</strong></div>
+<div><span>Mentions</span><strong>210</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>82</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>88</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -72,6 +72,9 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-fort-huachuca-t-00-03-01" style="--pulse-height:62%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 13 mentions" title="2026-05-06 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-fort-huachuca-t-00-46-01" style="--pulse-height:43%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 9 mentions" title="2026-05-11 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-fort-huachuca-t-00-01-25" style="--pulse-height:33%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 7 mentions" title="2026-05-13 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-fort-huachuca-t-00-36-51" style="--pulse-height:24%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 5 mentions" title="2026-05-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-fort-huachuca-t-00-07-52" style="--pulse-height:38%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 8 mentions" title="2026-05-26 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-fort-huachuca-t-00-01-31" style="--pulse-height:43%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 9 mentions" title="2026-05-27 · 9 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -113,6 +116,9 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-fort-huachuca-t-00-03-01) | 13 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-fort-huachuca-t-00-46-01) | 9 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-fort-huachuca-t-00-01-25) | 7 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-fort-huachuca-t-00-36-51) | 5 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-fort-huachuca-t-00-07-52) | 8 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-fort-huachuca-t-00-01-31) | 9 |
 
 </details>
 </section>
@@ -120,7 +126,88 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (188)</strong></summary>
+<summary><strong class="section-title">Raw mentions (210)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (9 mentions)</summary>
+
+**[00:01:31](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-fort-huachuca-t-00-01-31)**
+> "...s aboard the plane which left Fort Huachuca on the morning of September 9th. Let me just say,..."
+
+**[00:11:13](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-fort-huachuca-t-00-10-39)**
+> "...place, favorite place of all, Fort Huachuca."
+
+**[00:11:49](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-fort-huachuca-t-00-11-49)**
+> "...e don't know what happened at Fort Huachuca in the morning, right? We just found a guy who th..."
+
+**[00:12:52](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-fort-huachuca-t-00-12-35)**
+> "SAM 702 was leaving Fort Huachuca and heading for El Paso, Texas, in a time frame t..."
+
+**[00:27:22](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-fort-huachuca-t-00-27-22)**
+> "...t that departs from Tucson to Fort Huachuca on September 8th that I was looking into for a wh..."
+
+**[00:34:16](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-fort-huachuca-t-00-33-50)**
+> "... are going to be stationed at Fort Huachuca."
+
+**[00:34:23](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-fort-huachuca-t-00-33-50)**
+> "... interesting. They moved into Fort Huachuca. They got announced. I don't know if you want to ..."
+
+**[00:34:32](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-fort-huachuca-t-00-34-32)**
+> "... that they'll be moving on to Fort Huachuca's base."
+
+**[00:53:23](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-fort-huachuca-t-00-53-23)**
+> "...stop. Just stop. We mentioned Fort Huachuca. Fort Huachuca is weird—still weird. It's going t..."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (8 mentions)</summary>
+
+**[00:07:52](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-fort-huachuca-t-00-07-52)**
+> "our Fort Huachuca investigation"
+
+**[00:08:14](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-fort-huachuca-t-00-07-52)**
+> "Something's up with Fort Huachuca. Right. And also, like I said to you, filing laws..."
+
+**[00:09:18](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-fort-huachuca-t-00-09-11)**
+> "Anyway, back to Fort Huachuca, it continues to be this inflection point. And if..."
+
+**[00:09:30](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-fort-huachuca-t-00-09-11)**
+> "regarding that morning at Fort Huachuca the night after he claims to have seen Erika at s..."
+
+**[00:10:03](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-fort-huachuca-t-00-09-55)**
+> "...you on September 9th, it left Fort Huachuca at 1143 a.m. local time."
+
+**[00:10:16](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-fort-huachuca-t-00-09-55)**
+> "...dn't have been me that was at Fort Huachuca. We pointed to this plane and said, no, this."
+
+**[00:10:39](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-fort-huachuca-t-00-10-39)**
+> "...te hop from El Paso, Texas to Fort Huachuca."
+
+**[00:11:31](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-fort-huachuca-t-00-11-09)**
+> "...o was aboard that flight from Fort Huachuca to El Paso, Texas."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (5 mentions)</summary>
+
+**[00:37:18](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-fort-huachuca-t-00-36-51)**
+> "...rew Kolvet orchestrating this Fort Huachuca non-alibi behind the scenes and Paramount Tactica..."
+
+**[00:38:30](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-fort-huachuca-t-00-38-00)**
+> "... was proof that she wasn't at Fort Huachuca on the night. Gary (Gary Melton), let's just take..."
+
+**[00:38:44](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-fort-huachuca-t-00-38-44)**
+> "... is proof that she was not at Fort Huachuca on the 9th, and if the proof that you presented w..."
+
+**[00:39:10](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-fort-huachuca-t-00-39-10)**
+> "... and proof that she wasn't at Fort Huachuca and was in fact with her kids now you're saying i..."
+
+**[00:39:34](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-fort-huachuca-t-00-39-10)**
+> "...t as proof that she wasn't at Fort Huachuca. I am very terrified, terrified to understand tha..."
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (7 mentions)</summary>
@@ -901,7 +988,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>Location Of (1)</summary>
+<summary>Location Of (2)</summary>
 
 - **[Candlewood Suites](/entities/org-candlewood-suites.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -910,15 +997,29 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 
 </details>
 
+- **[Palantir Technologies](/entities/org-palantir-technologies.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:34:16](/episodes/ep-MhakwJxK-Zk.md#t-00-33-50): “It is announced that Palantir is doing a $10 billion software deal with the military and they are going to be stationed at Fort Huachuca.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Candlewood Suites](/entities/org-candlewood-suites.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:37:38](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-20): “the evening of September 8th at the Candlewood Suites”
+
+</details>
+
+- **[Palantir Technologies](/entities/org-palantir-technologies.md)** based in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:34:16](/episodes/ep-MhakwJxK-Zk.md#t-00-33-50): “It is announced that Palantir is doing a $10 billion software deal with the military and they are going to be stationed at Fort Huachuca.”
 
 </details>
 
@@ -948,7 +1049,39 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Fort Huachuca (82)</strong></summary>
+<summary><strong class="section-title">Statements about Fort Huachuca (88)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
+
+- [00:12:52](/episodes/ep-MhakwJxK-Zk.md#t-00-12-35) (Claim) **Candace Owens**: ["Bradley D. Hansell was one of the VIPs aboard SAM 702 when it left For..."](/statements/statement-29fb048ea632.md)
+  - Also about: [Bradley D. Hansell](/entities/person-bradley-d-hansell.md), [SAM 702](/entities/vehicle-sam-702.md), [El Paso](/entities/gpe-el-paso.md)
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (4)</summary>
+
+- [00:07:52](/episodes/ep-BxN2-aeMYIs.md#t-00-07-52) (Promise) **Candace Owens**: ["We have not, for one moment, let up on our Fort Huachuca investigation..."](/statements/statement-60eb86ecaead.md)
+
+- [00:09:30](/episodes/ep-BxN2-aeMYIs.md#t-00-09-11) (Claim) **Candace Owens**: ["Owens confirmed that Mitch Snow was at Fort Huachuca and that police w..."](/statements/statement-f0dc60e0e67e.md)
+  - Also about: [Mitch Snow](/entities/person-mitch-snow.md)
+
+- [00:10:03](/episodes/ep-BxN2-aeMYIs.md#t-00-09-55) (Claim) **Candace Owens**: ["On September 9, a U.S. Air Force plane left Fort Huachuca at 11:43 a.m..."](/statements/statement-0606ecc70212.md)
+  - Also about: [United States Air Force](/entities/org-united-states-air-force.md), [El Paso](/entities/gpe-el-paso.md)
+
+- [00:10:03](/episodes/ep-BxN2-aeMYIs.md#t-00-09-55) (Claim) **Candace Owens**: ["The plane landed in El Paso at 1:31 p.m. local time after a 50-minute ..."](/statements/statement-2a2e2a9c8143.md)
+  - Also about: [United States Air Force](/entities/org-united-states-air-force.md), [El Paso](/entities/gpe-el-paso.md)
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1)</summary>
+
+- [00:38:00](/episodes/ep-Pb7UlpRdW6U.md#t-00-38-00) (Claim) **Gary Melton** (via quoted tweet): ["The picture was proof that Erika Kirk was not at Fort Huachuca that ni..."](/statements/statement-400ef22073f9.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (4)</summary>

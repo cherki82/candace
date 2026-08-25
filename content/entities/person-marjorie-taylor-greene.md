@@ -1,6 +1,6 @@
 ---
 title: "Marjorie Taylor Greene"
-description: "Marjorie Taylor Greene (People) - 6 mentions"
+description: "Marjorie Taylor Greene (People) - 7 mentions"
 id: "person-marjorie-taylor-greene"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Marjorie Taylor Greene | Office of the Clerk, U.S. House](https://clerk
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-marjorie-taylor-greene-t-00-36-29">2025-10-02 · 00:36:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#t-00-11-33">2026-04-10 · 00:12:05</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#t-00-11-51">2026-05-21 · 00:11:51</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,6 +40,7 @@ Source: [Marjorie Taylor Greene | Office of the Clerk, U.S. House](https://clerk
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-person-marjorie-taylor-greene-t-00-25-03" style="--pulse-height:50%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-marjorie-taylor-greene-t-00-42-10" style="--pulse-height:50%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#t-00-11-33" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#t-00-11-51" style="--pulse-height:50%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [Marjorie Taylor Greene | Office of the Clerk, U.S. House](https://clerk
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-marjorie-taylor-greene-t-00-25-03) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-marjorie-taylor-greene-t-00-42-10) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#t-00-11-33) | 1 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#t-00-11-51) | 1 |
 
 </details>
 </section>
@@ -57,7 +59,15 @@ Source: [Marjorie Taylor Greene | Office of the Clerk, U.S. House](https://clerk
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
+
+**[00:11:51](/episodes/ep-Ux1kzgQxkws.md#t-00-11-51)**
+> "And the pictures that, you know, Congresswoman Greene, like."
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>

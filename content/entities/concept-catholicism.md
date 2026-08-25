@@ -1,6 +1,6 @@
 ---
 title: "Catholicism"
-description: "Catholicism (Concepts) - 144 mentions"
+description: "Catholicism (Concepts) - 167 mentions"
 id: "concept-catholicism"
 type: "CONCEPT"
 aliases:
@@ -21,11 +21,11 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-catholicism-t-00-13-56">2026-01-06 · 00:14:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-concept-catholicism-t-00-59-24">2026-05-06 · 00:59:39</a></strong></div>
-<div><span>Episodes</span><strong>39</strong></div>
-<div><span>Mentions</span><strong>144</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-catholicism-t-00-50-16">2026-06-09 · 00:50:30</a></strong></div>
+<div><span>Episodes</span><strong>44</strong></div>
+<div><span>Mentions</span><strong>167</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -73,6 +73,11 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-concept-catholicism-t-01-21-01" style="--pulse-height:8%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-catholicism-t-01-06-24" style="--pulse-height:11%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-concept-catholicism-t-00-59-24" style="--pulse-height:8%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-concept-catholicism-t-00-45-02" style="--pulse-height:17%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 3 mentions" title="2026-05-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-concept-catholicism-t-00-36-07" style="--pulse-height:11%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 2 mentions" title="2026-05-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-catholicism-t-00-09-12" style="--pulse-height:50%" aria-label="Candace x Hunter Biden: The Interview: 9 mentions" title="2026-05-21 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-catholicism-t-00-38-33" style="--pulse-height:22%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 4 mentions" title="2026-05-27 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-catholicism-t-00-11-23" style="--pulse-height:28%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 5 mentions" title="2026-06-09 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -117,6 +122,11 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-concept-catholicism-t-01-21-01) | 1 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-catholicism-t-01-06-24) | 2 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-concept-catholicism-t-00-59-24) | 1 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-catholicism-t-00-45-02) | 3 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-concept-catholicism-t-00-36-07) | 2 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-concept-catholicism-t-00-09-12) | 9 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-concept-catholicism-t-00-38-33) | 4 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-concept-catholicism-t-00-11-23) | 5 |
 
 </details>
 </section>
@@ -124,7 +134,101 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (144)</strong></summary>
+<summary><strong class="section-title">Raw mentions (167)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (5 mentions)</summary>
+
+**[00:01:26](/episodes/ep-YeEtS7nix3o.md#ent-concept-catholicism-t-00-11-23)**
+> "...ing to get confirmed into the Catholic Church."
+
+**[00:11:49](/episodes/ep-YeEtS7nix3o.md#ent-concept-catholicism-t-00-11-23)**
+> "... Moscow, but we were seeing a Catholic family who were hosting us, taking us around."
+
+**[00:29:47](/episodes/ep-YeEtS7nix3o.md#ent-concept-catholicism-t-00-29-14)**
+> "... real. Like I said, an entire Catholic family moved there from Iowa and I asked them bla..."
+
+**[00:44:44](/episodes/ep-YeEtS7nix3o.md#ent-concept-catholicism-t-00-44-10)**
+> "...as been so much growth in the Catholic and the Orthodox Church because you can just see ..."
+
+**[00:50:30](/episodes/ep-YeEtS7nix3o.md#ent-concept-catholicism-t-00-50-16)**
+> "...ct that Charlie was attending Catholic mass sometimes daily and that he was changing his..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (4 mentions)</summary>
+
+**[00:38:58](/episodes/ep-MhakwJxK-Zk.md#ent-concept-catholicism-t-00-38-33)**
+> "[Name unclear] (Catholic priest; name spelling unverified). Many of the Mo..."
+
+**[00:52:00](/episodes/ep-MhakwJxK-Zk.md#ent-concept-catholicism-t-00-52-00)**
+> "...writes, JFK (John F. Kennedy) Catholic. Catholic until November 22nd, 1963, Bobby Kenned..."
+
+**[00:52:13](/episodes/ep-MhakwJxK-Zk.md#ent-concept-catholicism-t-00-52-00)**
+> "...ey're a JFK (John F. Kennedy) Catholic?"
+
+**[00:52:31](/episodes/ep-MhakwJxK-Zk.md#ent-concept-catholicism-t-00-52-00)**
+> "...now talking about the rise of Catholicism. It's been so predictable. So predictable because..."
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (9 mentions)</summary>
+
+**[00:09:12](/episodes/ep-Ux1kzgQxkws.md#ent-concept-catholicism-t-00-09-12)**
+> "...ow you you like me are um are catholic and we have learned that that guilt is an appropr..."
+
+**[00:28:54](/episodes/ep-Ux1kzgQxkws.md#ent-concept-catholicism-t-00-28-45)**
+> "...say it and maybe i'm taking a catholic take on this but like it's like a full demonic po..."
+
+**[00:34:27](/episodes/ep-Ux1kzgQxkws.md#ent-concept-catholicism-t-00-28-45)**
+> "disagree about, you know, the Catholic Church's view on abortion or disagree with, I mea..."
+
+**[01:03:23](/episodes/ep-Ux1kzgQxkws.md#ent-concept-catholicism-t-01-03-14)**
+> "I'm Catholic. I have, you know, there's nothing that has chang..."
+
+**[01:28:06](/episodes/ep-Ux1kzgQxkws.md#ent-concept-catholicism-t-01-27-59)**
+> "...stened to you talk about your Catholicism and your faith."
+
+**[01:41:12](/episodes/ep-Ux1kzgQxkws.md#ent-concept-catholicism-t-01-41-00)**
+> "You're Catholic, you were raised Catholic, I went to Catholic sch..."
+
+**[01:43:14](/episodes/ep-Ux1kzgQxkws.md#ent-concept-catholicism-t-01-41-00)**
+> "...ou know, I went to Georgetown Catholic."
+
+**[01:44:22](/episodes/ep-Ux1kzgQxkws.md#ent-concept-catholicism-t-01-41-00)**
+> "...ertainly don't agree with the Catholic Church on a lot of stuff. I certainly have a, but..."
+
+**[01:45:29](/episodes/ep-Ux1kzgQxkws.md#ent-concept-catholicism-t-01-45-29)**
+> "...s very personal and rooted in Catholicism and it's rooted in..."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (2 mentions)</summary>
+
+**[00:36:09](/episodes/ep-Dkxa9OUA9K8.md#ent-concept-catholicism-t-00-36-07)**
+> "So I'm Catholic. So the idea of you not being a priest and being ..."
+
+**[00:38:53](/episodes/ep-Dkxa9OUA9K8.md#ent-concept-catholicism-t-00-36-07)**
+> "...d of God and I appreciate the Catholic church and their hierarchy of who can and can't, ..."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (3 mentions)</summary>
+
+**[00:44:01](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-catholicism-t-00-45-02)**
+> "A Catholic church, of course, if I'm allowed to be biased. A..."
+
+**[00:45:21](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-catholicism-t-00-45-02)**
+> "... valuable. It's a traditional Catholic book company called Loreto Publications, and thei..."
+
+**[00:46:00](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-catholicism-t-00-45-44)**
+> "even works that dive into the Catholic social teaching and the kingship of Christ in tod..."
+
+</details>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>
@@ -763,7 +867,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Catholicism (11)</strong></summary>
+<summary><strong class="section-title">Statements about Catholicism (12)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>
+
+- [00:50:30](/episodes/ep-YeEtS7nix3o.md#t-00-50-16) (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk sometimes attended Catholic Mass daily..."](/statements/statement-4c8425264161.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1)</summary>

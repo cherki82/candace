@@ -1,6 +1,6 @@
 ---
 title: "Kash Patel"
-description: "Kash Patel (People) - 185 mentions"
+description: "Kash Patel (People) - 204 mentions"
 id: "person-kash-patel"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-kash-patel-t-00-08-42">2025-09-17 · 00:09:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-person-kash-patel-t-00-28-22">2026-05-07 · 00:28:22</a></strong></div>
-<div><span>Episodes</span><strong>53</strong></div>
-<div><span>Mentions</span><strong>185</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-kash-patel-t-00-56-34">2026-05-28 · 00:56:34</a></strong></div>
+<div><span>Episodes</span><strong>58</strong></div>
+<div><span>Mentions</span><strong>204</strong></div>
 <div><span>Statements by</span><strong>11</strong></div>
-<div><span>Statements about</span><strong>32</strong></div>
-<div><span>Relationships</span><strong>33</strong></div>
+<div><span>Statements about</span><strong>36</strong></div>
+<div><span>Relationships</span><strong>35</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -90,6 +90,11 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-kash-patel-t-00-56-04" style="--pulse-height:15%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-kash-patel-t-00-00-00" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-person-kash-patel-t-00-28-22" style="--pulse-height:8%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-kash-patel-t-00-14-53" style="--pulse-height:15%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-kash-patel-t-00-33-14" style="--pulse-height:15%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 2 mentions" title="2026-05-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-kash-patel-t-00-59-59" style="--pulse-height:8%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-kash-patel-t-00-12-32" style="--pulse-height:15%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-kash-patel-t-00-14-05" style="--pulse-height:92%" aria-label="Candace Owens x Ana Kasparian: 12 mentions" title="2026-05-28 · 12 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -148,6 +153,11 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-kash-patel-t-00-56-04) | 2 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-kash-patel-t-00-00-00) | 1 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-kash-patel-t-00-28-22) | 1 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-person-kash-patel-t-00-14-53) | 2 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-kash-patel-t-00-33-14) | 2 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-kash-patel-t-00-59-59) | 1 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-kash-patel-t-00-12-32) | 2 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-kash-patel-t-00-14-05) | 12 |
 
 </details>
 </section>
@@ -155,7 +165,89 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (185)</strong></summary>
+<summary><strong class="section-title">Raw mentions (204)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (12 mentions)</summary>
+
+**[00:14:05](/episodes/ep-SKNJPul29zU.md#ent-person-kash-patel-t-00-14-05)**
+> "I have gone through? Like Kash Patel, who was the person writing hardcore for Kash Patel."
+
+**[00:14:10](/episodes/ep-SKNJPul29zU.md#ent-person-kash-patel-t-00-14-10)**
+> "Kash Patel, there's something going on with that brother. I ..."
+
+**[00:44:26](/episodes/ep-SKNJPul29zU.md#ent-person-kash-patel-t-00-44-26)**
+> "...y, what I think is wrong with Kash Patel. He's from Las Vegas."
+
+**[00:44:44](/episodes/ep-SKNJPul29zU.md#ent-person-kash-patel-t-00-44-44)**
+> "When I learned Kash Patel's from Las Vegas—of course, obviously he's corrupt...."
+
+**[00:47:49](/episodes/ep-SKNJPul29zU.md#ent-person-kash-patel-t-00-47-31)**
+> "...And then he played a video of Kash Patel testifying about it in front of a congressional c..."
+
+**[00:48:43](/episodes/ep-SKNJPul29zU.md#ent-person-kash-patel-t-00-48-43)**
+> "... push back on your point that Kash Patel isn't doing his job. I think he is."
+
+**[00:49:32](/episodes/ep-SKNJPul29zU.md#ent-person-kash-patel-t-00-49-24)**
+> "...f resentment particularly for Kash Patel because of the Charlie Kirk situation in looking ..."
+
+**[00:50:26](/episodes/ep-SKNJPul29zU.md#ent-person-kash-patel-t-00-49-59)**
+> "What were you saying about Kash Patel's refusal to hand over documents? I"
+
+**[00:52:29](/episodes/ep-SKNJPul29zU.md#ent-person-kash-patel-t-00-52-19)**
+> "Kash Patel who should not even be involved in this case mind..."
+
+**[00:52:53](/episodes/ep-SKNJPul29zU.md#ent-person-kash-patel-t-00-52-53)**
+> "...ate and all they have is what Kash Patel told us in the first 48 hours but they will not g..."
+
+**[00:53:47](/episodes/ep-SKNJPul29zU.md#ent-person-kash-patel-t-00-53-20)**
+> "...a of these shady messages did Kash Patel after a few beers type them up we don't know we c..."
+
+**[00:56:34](/episodes/ep-SKNJPul29zU.md#ent-person-kash-patel-t-00-56-34)**
+> "...p) betrayed him in a way, and Kash Patel—everyone is betraying him and not seeking more in..."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (2 mentions)</summary>
+
+**[00:12:32](/episodes/ep-BxN2-aeMYIs.md#ent-person-kash-patel-t-00-12-32)**
+> "Kash Patel, however"
+
+**[00:12:42](/episodes/ep-BxN2-aeMYIs.md#ent-person-kash-patel-t-00-12-32)**
+> "...round Las Vegas, that's where Kash Patel's from. We just don't know."
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
+
+**[00:59:59](/episodes/ep-Ux1kzgQxkws.md#ent-person-kash-patel-t-00-59-59)**
+> "... to see Donald Trump himself. Kash Patel, who Charlie pushed for him to lead the FBI, had ..."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (2 mentions)</summary>
+
+**[00:33:26](/episodes/ep-1QZ4X6q1DPg.md#ent-person-kash-patel-t-00-33-14)**
+> "You're like boys with Kash Patel. You got VP Vance (JD Vance) on the roll with Eri..."
+
+**[00:47:49](/episodes/ep-1QZ4X6q1DPg.md#ent-person-kash-patel-t-00-47-13)**
+> "...eople he was friends with, by Kash Patel, by JD Vance—all of them."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (2 mentions)</summary>
+
+**[00:15:20](/episodes/ep-Pb7UlpRdW6U.md#ent-person-kash-patel-t-00-14-53)**
+> "...ia, bizarre instant headline, Kash Patel, a hero."
+
+**[00:15:29](/episodes/ep-Pb7UlpRdW6U.md#ent-person-kash-patel-t-00-15-29)**
+> "...st, you should laugh at this. Kash Patel's stunning reaction as the shooter opened fire at a..."
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>
@@ -1036,12 +1128,13 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:28:15](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-01): “when Kash Patel went in to the FBI, there was kind of this ideal he was going to write the wrongs and make sure that he took down the deep state and then he just bumbled every plausible.”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:38:53](/episodes/ep-7ERqbYElOfs.md#t-00-38-41): “Kash Patel is central in delaying everything that happened on that day.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:49:10](/episodes/ep-UYkXV9mYbT4.md#t-00-48-39): “You can't just have Kash Patel throwing up 33s and say that's enough. You can't just have Governor Cox up there with the Fed saying, oh, we got them.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:56:27](/episodes/ep-qZ8RWfyuewQ.md#t-00-56-04): “I wouldn't be able to stomach sitting or standing next to Kash Patel. And yet you do. You're sitting here at a White House correspondence center. Why don't you ask him to give the defense what they need if you want a speedy trial victim?”
+- [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:15:29](/episodes/ep-Pb7UlpRdW6U.md#t-00-15-29): “It was just completely ridiculous. This is just, you should laugh at this. Kash Patel's stunning reaction as the shooter opened fire at a White House Correspondents' Dinner.”
 
 </details>
 
@@ -1064,11 +1157,12 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <summary>Director Of (2)</summary>
 
 - **[FBI](/entities/org-fbi.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:08:06](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “she praises the FBI director, Kash Patel”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:32:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31): “She's literally dating the FBI director”
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:07:52](/episodes/ep-rupRLXmSndU.md#t-00-07-43): “But next came the public declaration from our director of the FBI, which held a lot more weight, claiming officially that they had the guy. He wrote this at 4.21 p.m. Mountain Standard, so almost exactly four hours to the minute that Charlie was shot. Kash Patel authored this tweet.”
+- [Candace Owens x Ana Kasparian @ 00:14:21](/episodes/ep-SKNJPul29zU.md#t-00-14-10): “he's our FBI director still”
 
 </details>
 
@@ -1082,12 +1176,25 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 <details>
-<summary>Friend Of (2)</summary>
+<summary>Endorsed By (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [Candace x Hunter Biden: The Interview @ 00:59:59](/episodes/ep-Ux1kzgQxkws.md#t-00-59-59): “Kash Patel, who Charlie pushed for him to lead the FBI”
+
+</details>
+
+</details>
+
+<details>
+<summary>Friend Of (2)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:49:12](/episodes/ep-YFmRH8p5lt0.md#t-00-48-51): “Kash Patel. Charlie (Charlie Kirk) had him on his show. Kash Patel should be the FBI director. He fought for that. Look how Kash Patel is acting.”
+- [Candace x Hunter Biden: The Interview @ 01:03:41](/episodes/ep-Ux1kzgQxkws.md#t-01-03-14): “the entire political apparatus that has the power and the Department of Justice is in the hands of Charlie Kirk's friends. Like that was how I felt, right? This is it. No, whoever did this is never going to get away with it because these are Charlie's friends.”
 
 </details>
 
@@ -1116,9 +1223,10 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <summary>Interviewed By (4)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:50:32](/episodes/ep-YFmRH8p5lt0.md#t-00-50-18): “Charlie (Charlie Kirk) had him on his show”
+- [Candace x Hunter Biden: The Interview @ 00:59:59](/episodes/ep-Ux1kzgQxkws.md#t-00-59-59): “Kash Patel, who Charlie pushed for him to lead the FBI, had him on his podcast.”
 
 </details>
 
@@ -1173,7 +1281,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 <details>
-<summary>Referenced By (16)</summary>
+<summary>Referenced By (17)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -1193,12 +1301,13 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:28:15](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-01): “when Kash Patel went in to the FBI, there was kind of this ideal he was going to write the wrongs and make sure that he took down the deep state and then he just bumbled every plausible.”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:38:53](/episodes/ep-7ERqbYElOfs.md#t-00-38-41): “Kash Patel is central in delaying everything that happened on that day.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:49:10](/episodes/ep-UYkXV9mYbT4.md#t-00-48-39): “You can't just have Kash Patel throwing up 33s and say that's enough. You can't just have Governor Cox up there with the Fed saying, oh, we got them.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:56:27](/episodes/ep-qZ8RWfyuewQ.md#t-00-56-04): “I wouldn't be able to stomach sitting or standing next to Kash Patel. And yet you do. You're sitting here at a White House correspondence center. Why don't you ask him to give the defense what they need if you want a speedy trial victim?”
+- [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:15:29](/episodes/ep-Pb7UlpRdW6U.md#t-00-15-29): “It was just completely ridiculous. This is just, you should laugh at this. Kash Patel's stunning reaction as the shooter opened fire at a White House Correspondents' Dinner.”
 
 </details>
 
@@ -1216,10 +1325,18 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 
 </details>
 
-- **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** endorsed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [Candace x Hunter Biden: The Interview @ 00:59:59](/episodes/ep-Ux1kzgQxkws.md#t-00-59-59): “Kash Patel, who Charlie pushed for him to lead the FBI”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:49:12](/episodes/ep-YFmRH8p5lt0.md#t-00-48-51): “Kash Patel. Charlie (Charlie Kirk) had him on his show. Kash Patel should be the FBI director. He fought for that. Look how Kash Patel is acting.”
+- [Candace x Hunter Biden: The Interview @ 01:03:41](/episodes/ep-Ux1kzgQxkws.md#t-01-03-14): “the entire political apparatus that has the power and the Department of Justice is in the hands of Charlie Kirk's friends. Like that was how I felt, right? This is it. No, whoever did this is never going to get away with it because these are Charlie's friends.”
 
 </details>
 
@@ -1238,11 +1355,12 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 - **[FBI](/entities/org-fbi.md)** has director this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:08:06](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “she praises the FBI director, Kash Patel”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:32:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31): “She's literally dating the FBI director”
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:07:52](/episodes/ep-rupRLXmSndU.md#t-00-07-43): “But next came the public declaration from our director of the FBI, which held a lot more weight, claiming officially that they had the guy. He wrote this at 4.21 p.m. Mountain Standard, so almost exactly four hours to the minute that Charlie was shot. Kash Patel authored this tweet.”
+- [Candace Owens x Ana Kasparian @ 00:14:21](/episodes/ep-SKNJPul29zU.md#t-00-14-10): “he's our FBI director still”
 
 </details>
 
@@ -1261,9 +1379,10 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:50:32](/episodes/ep-YFmRH8p5lt0.md#t-00-50-18): “Charlie (Charlie Kirk) had him on his show”
+- [Candace x Hunter Biden: The Interview @ 00:59:59](/episodes/ep-Ux1kzgQxkws.md#t-00-59-59): “Kash Patel, who Charlie pushed for him to lead the FBI, had him on his podcast.”
 
 </details>
 
@@ -1365,7 +1484,28 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Kash Patel (32)</strong></summary>
+<summary><strong class="section-title">Statements about Kash Patel (36)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (3)</summary>
+
+- [00:47:56](/episodes/ep-SKNJPul29zU.md#t-00-47-31) (Accusation) **Ana Kasparian**: ["Kash Patel told Congress he could not disclose information about Thoma..."](/statements/statement-081cae807625.md)
+  - Also about: [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md), [United States Congress](/entities/org-united-states-congress.md)
+
+- [00:48:48](/episodes/ep-SKNJPul29zU.md#t-00-48-48) (Opinion) **Candace Owens**: ["Kash Patel's actual job is to look the other way, make excuses, and pr..."](/statements/statement-3086b3f831ab.md)
+
+- [00:49:24](/episodes/ep-SKNJPul29zU.md#t-00-49-24) (Opinion) **Candace Owens**: ["Donald Trump and Kash Patel both answer to interests in Las Vegas and ..."](/statements/statement-fff3bf83fb00.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md), [Tel Aviv-Yafo](/entities/gpe-tel-aviv-yafo.md)
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1)</summary>
+
+- [00:59:59](/episodes/ep-Ux1kzgQxkws.md#t-00-59-59) (Opinion) **Candace Owens**: ["Donald Trump, Kash Patel, and JD Vance have shown zero interest in the..."](/statements/statement-5412eb913b0a.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Donald Trump Jr.](/entities/person-donald-trump-jr.md), [JD Vance](/entities/person-jd-vance.md)
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>

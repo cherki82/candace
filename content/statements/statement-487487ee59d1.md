@@ -25,13 +25,23 @@ veracity: "mixed"
 - [Mitt Romney](/entities/person-mitt-romney.md) (person)
 - [Boston Consulting Group](/entities/org-boston-consulting-group.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. Friends In High Temples: Charlie's Final Call With Bibi... |...
 
 **Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
 **Timestamp:** [00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(226);return false;">Play</a>
 
 > a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.
+
+### 2. BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. |...
+
+**Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
+**Timestamp:** [00:10:06](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(606);return false;">Play</a>
+
+> You can't think of Utah without thinking of the Romney family. They are effectively Mormon royalty. And Mitt Romney, as it turns out, is best friends with Bibi (Benjamin Netanyahu). They have a bromance. It's been ... documented for years in the press for over 50 years, longer than I have been alive. These two have been besties. ... We reminded you that they met at the Boston Consulting Group where they both worked and they haven't stopped working together and supporting each other since.
 
 ## Verification
 

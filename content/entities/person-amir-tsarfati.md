@@ -1,6 +1,6 @@
 ---
 title: "Amir Tsarfati"
-description: "Amir Tsarfati (People) - 1 mention"
+description: "Amir Tsarfati (People) - 2 mentions"
 id: "person-amir-tsarfati"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [About | Amir Tsarfati](https://amirtsarfati.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-amir-tsarfati-t-00-29-07">2026-04-16 · 00:29:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-amir-tsarfati-t-00-29-07">2026-04-16 · 00:29:07</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-amir-tsarfati-t-00-47-57">2026-05-19 · 00:48:16</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,12 +32,14 @@ Source: [About | Amir Tsarfati](https://amirtsarfati.com/about)
 <p>Highest activity: <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-amir-tsarfati-t-00-29-07">Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-amir-tsarfati-t-00-29-07" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-amir-tsarfati-t-00-47-57" style="--pulse-height:100%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-amir-tsarfati-t-00-29-07) | 1 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-person-amir-tsarfati-t-00-47-57) | 1 |
 
 </details>
 </section>
@@ -45,7 +47,15 @@ Source: [About | Amir Tsarfati](https://amirtsarfati.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1 mentions)</summary>
+
+**[00:48:16](/episodes/ep-Dkxa9OUA9K8.md#ent-person-amir-tsarfati-t-00-47-57)**
+> "...rly on, I believe Jack Hibbs, Amir Tsarfati, I think."
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1 mentions)</summary>

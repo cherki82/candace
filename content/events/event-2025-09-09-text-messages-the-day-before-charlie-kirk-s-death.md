@@ -11,7 +11,7 @@ date: "2025-09-09"
 
 > Text messages the day before Charlie Kirk's death in which he warned he thought he would be killed.
 
-## Mentioned In (37 times)
+## Mentioned In (39 times)
 
 ### 1. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
 
@@ -308,3 +308,19 @@ date: "2025-09-09"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(279);return false;">▶️ Play</a>
 
 > He texted Andrew Kolvet. He texted Dan Flood, and he said they are going to kill me.
+
+### 38. TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizar...
+
+**Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
+**Timestamp:** [00:23:19](/episodes/ep-cPidFQDJLbo.md#event-event-2025-09-09-text-messages-the-day-before-charlie-kirk-s-death-t-00-22-59) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1399);return false;">▶️ Play</a>
+
+> they're going to kill me. Tomorrow, I think I am going to be killed.
+
+### 39. BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. |...
+
+**Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
+**Timestamp:** [00:35:38](/episodes/ep-MhakwJxK-Zk.md#event-event-2025-09-09-text-messages-the-day-before-charlie-kirk-s-death-t-00-35-16) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2138);return false;">▶️ Play</a>
+
+> he sends out messages declaring that an unknown 'they' are going to kill him

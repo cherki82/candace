@@ -1,6 +1,6 @@
 ---
 title: "Egypt"
-description: "Egypt (Places) - 227 mentions"
+description: "Egypt (Places) - 234 mentions"
 id: "gpe-egypt"
 type: "GPE"
 aliases:
@@ -21,11 +21,11 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-egypt-t-00-47-32">2025-10-09 · 00:47:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-egypt-t-00-11-29">2026-05-13 · 00:11:29</a></strong></div>
-<div><span>Episodes</span><strong>42</strong></div>
-<div><span>Mentions</span><strong>227</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-egypt-t-00-32-40">2026-05-27 · 00:32:56</a></strong></div>
+<div><span>Episodes</span><strong>43</strong></div>
+<div><span>Mentions</span><strong>234</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -76,6 +76,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-egypt-t-00-02-52" style="--pulse-height:17%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 3 mentions" title="2026-04-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-egypt-t-02-05-16" style="--pulse-height:8%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-egypt-t-00-11-29" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-egypt-t-00-06-52" style="--pulse-height:39%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 7 mentions" title="2026-05-27 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -123,6 +124,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-egypt-t-00-02-52) | 3 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-gpe-egypt-t-02-05-16) | 1 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-egypt-t-00-11-29) | 1 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-egypt-t-00-06-52) | 7 |
 
 </details>
 </section>
@@ -130,7 +132,33 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (227)</strong></summary>
+<summary><strong class="section-title">Raw mentions (234)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (7 mentions)</summary>
+
+**[00:06:52](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-egypt-t-00-06-52)**
+> "Regarding the Egyptian planes, they're the ones that do not concern Erik..."
+
+**[00:07:58](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-egypt-t-00-07-58)**
+> "...bly for the Palestinians. The Egyptian plane, S-U-B-T-U, which I describe as my purple p..."
+
+**[00:08:55](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-egypt-t-00-08-33)**
+> "...ell, lo and behold, that same Egyptian plane took off, flew from Cairo, always to Paris,..."
+
+**[00:09:05](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-egypt-t-00-08-33)**
+> "... possible that these are just Egyptian VIPs who are concerned about what's happening in ..."
+
+**[00:09:16](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-egypt-t-00-09-16)**
+> "...re Israeli VIPs who are using Egyptian planes, which is something that they have done hi..."
+
+**[00:26:25](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-egypt-t-00-26-01)**
+> "...u, there's this person on the Egyptian plane who goes by Waleed Mahmoud, okay? He is abo..."
+
+**[00:32:56](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-egypt-t-00-32-40)**
+> "...rade and investment trip with Egypt."
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1 mentions)</summary>
@@ -1068,7 +1096,15 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Egypt (12)</strong></summary>
+<summary><strong class="section-title">Statements about Egypt (13)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
+
+- [00:09:05](/episodes/ep-MhakwJxK-Zk.md#t-00-08-33) (Opinion) **Candace Owens**: ["It is possible that Israeli VIPs use Egyptian planes during wartime, a..."](/statements/statement-f31e358659bc.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1)</summary>

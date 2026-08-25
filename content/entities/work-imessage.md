@@ -1,6 +1,6 @@
 ---
 title: "iMessage"
-description: "iMessage (Works & Media) - 4 mentions"
+description: "iMessage (Works & Media) - 5 mentions"
 id: "work-imessage"
 type: "WORK"
 categories:
@@ -17,11 +17,11 @@ Source: [About iMessage - Apple Support](https://support.apple.com/guide/iphone/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-work-imessage-t-00-23-27">2026-02-11 · 00:23:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-work-imessage-t-00-43-00">2026-04-13 · 00:43:31</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-work-imessage-t-01-06-06">2026-05-28 · 01:06:06</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -32,6 +32,7 @@ Source: [About iMessage - Apple Support](https://support.apple.com/guide/iphone/
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-work-imessage-t-00-23-27" style="--pulse-height:50%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-work-imessage-t-00-43-00" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-work-imessage-t-01-06-06" style="--pulse-height:50%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -39,6 +40,7 @@ Source: [About iMessage - Apple Support](https://support.apple.com/guide/iphone/
 |---|---|---:|
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-work-imessage-t-00-23-27) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-work-imessage-t-00-43-00) | 2 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-work-imessage-t-01-06-06) | 1 |
 
 </details>
 </section>
@@ -46,7 +48,15 @@ Source: [About iMessage - Apple Support](https://support.apple.com/guide/iphone/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
+
+**[01:06:06](/episodes/ep-SKNJPul29zU.md#ent-work-imessage-t-01-06-06)**
+> "until I clocked it and said well Andrew Kolvet told me that he was one of the ones that received it and then it became the story about oh maybe it was in telegram Dan Flood received a message as well it wasn't on telegram it was on iMessage so who did who deleted it or were you lying or did somebody delete it okay I want to give you the benefit of the doubt maybe"
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2 mentions)</summary>
@@ -77,7 +87,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about iMessage (2)</strong></summary>
+<summary><strong class="section-title">Statements about iMessage (4)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (2)</summary>
+
+- [01:05:57](/episodes/ep-SKNJPul29zU.md#t-01-05-41) (Citation) **Charlie Kirk** (via read message): ["Charlie Kirk wrote the night before his death that he thought they wer..."](/statements/statement-f091bc9ae079.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [01:06:06](/episodes/ep-SKNJPul29zU.md#t-01-06-06) (Accusation) **Candace Owens**: ["Erika Kirk explicitly denied the existence of Charlie Kirk's message b..."](/statements/statement-20efc1880f49.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>

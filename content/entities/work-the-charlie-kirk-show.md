@@ -1,6 +1,6 @@
 ---
 title: "The Charlie Kirk Show"
-description: "The Charlie Kirk Show (Works & Media) - 31 mentions"
+description: "The Charlie Kirk Show (Works & Media) - 39 mentions"
 id: "work-the-charlie-kirk-show"
 type: "WORK"
 aliases:
@@ -23,11 +23,11 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-26-17">2025-10-29 · 00:26:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-work-the-charlie-kirk-show-t-00-44-10">2026-05-13 · 00:44:10</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-work-the-charlie-kirk-show-t-00-47-56">2026-05-27 · 00:47:56</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>39</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -51,6 +51,9 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-work-the-charlie-kirk-show-t-00-11-59" style="--pulse-height:100%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 12 mentions" title="2026-05-05 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-work-the-charlie-kirk-show-t-00-25-00" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-work-the-charlie-kirk-show-t-00-44-10" style="--pulse-height:8%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-work-the-charlie-kirk-show-t-00-14-14" style="--pulse-height:33%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 4 mentions" title="2026-05-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-work-the-charlie-kirk-show-t-00-36-58" style="--pulse-height:17%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-work-the-charlie-kirk-show-t-00-42-09" style="--pulse-height:17%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -71,6 +74,9 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-work-the-charlie-kirk-show-t-00-11-59) | 12 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-work-the-charlie-kirk-show-t-00-25-00) | 1 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-work-the-charlie-kirk-show-t-00-44-10) | 1 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-work-the-charlie-kirk-show-t-00-14-14) | 4 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-work-the-charlie-kirk-show-t-00-36-58) | 2 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-work-the-charlie-kirk-show-t-00-42-09) | 2 |
 
 </details>
 </section>
@@ -78,7 +84,46 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (2 mentions)</summary>
+
+**[00:42:09](/episodes/ep-MhakwJxK-Zk.md#ent-work-the-charlie-kirk-show-t-00-42-09)**
+> "... began removing episodes from the Charlie Kirk show."
+
+**[00:47:56](/episodes/ep-MhakwJxK-Zk.md#ent-work-the-charlie-kirk-show-t-00-47-56)**
+> "...ot continuing to be gaslit by the Charlie Kirk Show—which is anything but the perspectives that Charl..."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (2 mentions)</summary>
+
+**[00:37:08](/episodes/ep-BxN2-aeMYIs.md#ent-work-the-charlie-kirk-show-t-00-36-58)**
+> "the Charlie Kirk show"
+
+**[00:38:44](/episodes/ep-BxN2-aeMYIs.md#ent-work-the-charlie-kirk-show-t-00-38-44)**
+> "... it, guys, the absolutely not Charlie Kirk show. I vote they rename it the Blake Neff show, the B..."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (4 mentions)</summary>
+
+**[00:14:44](/episodes/ep-Pb7UlpRdW6U.md#ent-work-the-charlie-kirk-show-t-00-14-14)**
+> "... my family. I will be joining the Charlie Kirk show Wednesday at 12 p.m. Eastern to briefly address w..."
+
+**[00:14:53](/episodes/ep-Pb7UlpRdW6U.md#ent-work-the-charlie-kirk-show-t-00-14-53)**
+> "...my family to and I will be on the Charlie Kirk Show on Wednesday."
+
+**[00:30:02](/episodes/ep-Pb7UlpRdW6U.md#ent-work-the-charlie-kirk-show-t-00-30-02)**
+> "...y what was once a top 10 show the charlie kirk show is now averaging 380 views per an episode that is..."
+
+**[00:34:32](/episodes/ep-Pb7UlpRdW6U.md#ent-work-the-charlie-kirk-show-t-00-34-13)**
+> "... you, Turning Point USA. Your Charlie Kirk show that they don't like you and what you are doing r..."
+
+</details>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1 mentions)</summary>
@@ -369,7 +414,27 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The Charlie Kirk Show (6)</strong></summary>
+<summary><strong class="section-title">Statements about The Charlie Kirk Show (10)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (2)</summary>
+
+- [00:41:26](/episodes/ep-MhakwJxK-Zk.md#t-00-41-26) (Accusation) **Candace Owens**: ["Turning Point USA began removing Charlie Kirk Show episodes on Novembe..."](/statements/statement-0f43cb37ab60.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:43:03](/episodes/ep-MhakwJxK-Zk.md#t-00-42-42) (Claim) **Anonymous Source #2 (Ep MhakwJxK-Zk)** (via read message): ["Turning Point USA insiders said the organization had begun deleting Ch..."](/statements/statement-7ddf65274d4f.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (2)</summary>
+
+- [00:30:02](/episodes/ep-Pb7UlpRdW6U.md#t-00-30-02) (Claim) **Candace Owens**: ["The Charlie Kirk Show, once a top-ten show, is averaging 380 views per..."](/statements/statement-b81bba6b0025.md)
+
+- [00:30:02](/episodes/ep-Pb7UlpRdW6U.md#t-00-30-02) (Accusation) **Candace Owens**: ["The Charlie Kirk Show pretends to have live callers by having a produc..."](/statements/statement-ae1b61cde170.md)
+
+</details>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "New York City"
-description: "New York City (Places) - 39 mentions"
+description: "New York City (Places) - 41 mentions"
 id: "gpe-new-york-city"
 type: "GPE"
 aliases:
@@ -22,12 +22,12 @@ Source: [City of New York](https://www.nyc.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-gpe-new-york-city-t-00-02-10">2025-09-22 · 00:02:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-new-york-city-t-00-10-26">2026-04-29 · 00:10:53</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>39</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-new-york-city-t-00-24-26">2026-06-09 · 00:24:43</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -54,6 +54,8 @@ Source: [City of New York](https://www.nyc.gov/)
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-new-york-city-t-00-26-46" style="--pulse-height:20%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-new-york-city-t-00-41-38" style="--pulse-height:20%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-new-york-city-t-00-10-26" style="--pulse-height:20%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-new-york-city-t-00-21-53" style="--pulse-height:20%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-new-york-city-t-00-24-26" style="--pulse-height:20%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -78,6 +80,8 @@ Source: [City of New York](https://www.nyc.gov/)
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-new-york-city-t-00-26-46) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-new-york-city-t-00-41-38) | 1 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-new-york-city-t-00-10-26) | 1 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-new-york-city-t-00-21-53) | 1 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-gpe-new-york-city-t-00-24-26) | 1 |
 
 </details>
 </section>
@@ -85,7 +89,23 @@ Source: [City of New York](https://www.nyc.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>
+
+**[00:24:43](/episodes/ep-YeEtS7nix3o.md#ent-gpe-new-york-city-t-00-24-26)**
+> "...ually the diamond district in New York City, to be exact. I continue to be amazed."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1 mentions)</summary>
+
+**[00:21:53](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-new-york-city-t-00-21-53)**
+> "... percentage of murders are in New York City or Chicago or Detroit are solved?"
+
+</details>
 
 <details>
 <summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
@@ -321,9 +341,16 @@ Source: [City of New York](https://www.nyc.gov/)
 </details>
 
 <details>
-<summary>Location Of (1)</summary>
+<summary>Location Of (2)</summary>
 
 - **[33 Thomas Street](/entities/gpe-33-thomas-street.md)**
+
+- **[The Ansonia](/entities/gpe-the-ansonia.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:26:44](/episodes/ep-YeEtS7nix3o.md#t-00-26-29): “the Hammer family soon moved from their modest home in the Bronx to luxurious quarters in the Hotel Ansonia in Manhattan”
+
+</details>
 
 </details>
 
@@ -340,9 +367,16 @@ Source: [City of New York](https://www.nyc.gov/)
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[33 Thomas Street](/entities/gpe-33-thomas-street.md)** based in this
+
+- **[The Ansonia](/entities/gpe-the-ansonia.md)** based in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:26:44](/episodes/ep-YeEtS7nix3o.md#t-00-26-29): “the Hammer family soon moved from their modest home in the Bronx to luxurious quarters in the Hotel Ansonia in Manhattan”
+
+</details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** formerly lived in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -370,7 +404,15 @@ Source: [City of New York](https://www.nyc.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about New York City (7)</strong></summary>
+<summary><strong class="section-title">Statements about New York City (8)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>
+
+- [00:24:43](/episodes/ep-YeEtS7nix3o.md#t-00-24-26) (Claim) **Candace Owens**: ["Candace Owens said some stolen wealth of the Christian Russian Empire ..."](/statements/statement-2a24c67fa4bb.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1)</summary>

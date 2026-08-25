@@ -1,6 +1,6 @@
 ---
 title: "Mormonism"
-description: "Mormonism (Concepts) - 23 mentions"
+description: "Mormonism (Concepts) - 29 mentions"
 id: "concept-mormonism"
 type: "CONCEPT"
 aliases:
@@ -25,9 +25,9 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-mormonism-t-00-12-29">2026-02-27 · 00:12:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-concept-mormonism-t-00-31-51">2026-05-11 · 00:32:16</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-mormonism-t-00-46-22">2026-05-27 · 00:46:48</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>1</strong></div>
@@ -44,6 +44,7 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-mormonism-t-00-01-21" style="--pulse-height:9%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-concept-mormonism-t-00-22-38" style="--pulse-height:36%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 4 mentions" title="2026-04-01 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-concept-mormonism-t-00-31-51" style="--pulse-height:9%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-mormonism-t-00-09-54" style="--pulse-height:55%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 6 mentions" title="2026-05-27 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +56,7 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-concept-mormonism-t-00-01-21) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-concept-mormonism-t-00-22-38) | 4 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-concept-mormonism-t-00-31-51) | 1 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-concept-mormonism-t-00-09-54) | 6 |
 
 </details>
 </section>
@@ -62,7 +64,30 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (6 mentions)</summary>
+
+**[00:10:06](/episodes/ep-MhakwJxK-Zk.md#ent-concept-mormonism-t-00-09-54)**
+> "... family. They are effectively Mormon royalty. And Mitt Romney, as it turns out, is bes..."
+
+**[00:37:03](/episodes/ep-MhakwJxK-Zk.md#ent-concept-mormonism-t-00-36-35)**
+> "What is the proper word that Mormons use when they go away for two years? Like, they d..."
+
+**[00:37:55](/episodes/ep-MhakwJxK-Zk.md#ent-concept-mormonism-t-00-37-55)**
+> "Since he was on his Mormon mission, it tells us that a dispute had developed..."
+
+**[00:38:04](/episodes/ep-MhakwJxK-Zk.md#ent-concept-mormonism-t-00-37-55)**
+> "The president of the Mormon mission to the country, H. Duane Anderson, was ma..."
+
+**[00:38:58](/episodes/ep-MhakwJxK-Zk.md#ent-concept-mormonism-t-00-38-33)**
+> "...ling unverified). Many of the Mormons that are familiar with the accident say they beli..."
+
+**[00:46:48](/episodes/ep-MhakwJxK-Zk.md#ent-concept-mormonism-t-00-46-22)**
+> "...uent in French because of his Mormon mission trip."
+
+</details>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>

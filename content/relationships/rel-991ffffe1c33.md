@@ -11,7 +11,11 @@ object: "person-charlie-kirk"
 
 ## [Donald Trump Jr.](/entities/person-donald-trump-jr) friend of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
+
+**[Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws)**
+
+- [00:59:55](/episodes/ep-Ux1kzgQxkws#t-00-59-55): _Don Jr. was like a brother to Charlie, literally like a brother to him._
 
 **[To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co)**
 

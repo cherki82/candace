@@ -12,7 +12,7 @@ time: "15:54"
 
 > Candace Owens said Charlie Kirk sent a text saying he was abandoning the pro-Israel cause.
 
-## Mentioned In (3 times)
+## Mentioned In (5 times)
 
 ### 1. BAAL SO HARD: The Epstein Files | Candace Ep 300
 
@@ -37,3 +37,19 @@ time: "15:54"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2275);return false;">▶️ Play</a>
 
 > September 9th, Charlie sends a message declaring that he has left
+
+### 4. The World Is A Stage: Trump Survives...Again? | Ep 343
+
+**Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
+**Timestamp:** [00:40:45](/episodes/ep-BxN2-aeMYIs.md#event-event-2025-09-09-candace-owens-said-charlie-kirk-sent-a-t-t-00-40-10) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2445);return false;">▶️ Play</a>
+
+> announced that day before he died. He was left with no choice but to abandon the pro-Israel cause.
+
+### 5. BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. |...
+
+**Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
+**Timestamp:** [00:35:27](/episodes/ep-MhakwJxK-Zk.md#t-00-35-16) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2127);return false;">▶️ Play</a>
+
+> Charlie sends a message declaring he has left the pro-Israel cause

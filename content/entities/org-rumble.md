@@ -1,6 +1,6 @@
 ---
 title: "Rumble"
-description: "Rumble (Organizations) - 28 mentions"
+description: "Rumble (Organizations) - 29 mentions"
 id: "org-rumble"
 type: "ORG"
 aliases:
@@ -21,11 +21,11 @@ Source: [Rumble corporate site](https://corp.rumble.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-org-rumble-t-00-37-43">2025-12-16 · 00:08:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-rumble-t-00-56-17">2026-03-10 · 00:56:17</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>28</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-rumble-t-00-43-09">2026-05-27 · 00:43:09</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>1</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -41,6 +41,7 @@ Source: [Rumble corporate site](https://corp.rumble.com/)
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-rumble-t-00-24-53" style="--pulse-height:86%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 6 mentions" title="2026-02-11 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-rumble-t-00-25-26" style="--pulse-height:71%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 5 mentions" title="2026-02-27 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-rumble-t-00-56-17" style="--pulse-height:14%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-rumble-t-00-43-09" style="--pulse-height:14%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +54,7 @@ Source: [Rumble corporate site](https://corp.rumble.com/)
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-rumble-t-00-24-53) | 6 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-rumble-t-00-25-26) | 5 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-rumble-t-00-56-17) | 1 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-rumble-t-00-43-09) | 1 |
 
 </details>
 </section>
@@ -60,7 +62,15 @@ Source: [Rumble corporate site](https://corp.rumble.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
+
+**[00:43:09](/episodes/ep-MhakwJxK-Zk.md#ent-org-rumble-t-00-43-09)**
+> "...hat? No, stuff is still up on Rumble. We didn't delete anything. Apple has a limit. Yo..."
+
+</details>
 
 <details>
 <summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1 mentions)</summary>
@@ -199,7 +209,15 @@ Source: [Rumble corporate site](https://corp.rumble.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Rumble (2)</strong></summary>
+<summary><strong class="section-title">Statements about Rumble (3)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
+
+- [00:43:09](/episodes/ep-MhakwJxK-Zk.md#t-00-43-09) (Accusation) **Candace Owens**: ["Turning Point USA lied and gaslit audiences about deleting Charlie Kir..."](/statements/statement-4182749b4422.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Apple](/entities/org-apple.md)
+
+</details>
 
 <details>
 <summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1)</summary>

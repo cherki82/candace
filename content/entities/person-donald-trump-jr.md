@@ -1,6 +1,6 @@
 ---
 title: "Donald Trump Jr."
-description: "Donald Trump Jr. (People) - 33 mentions"
+description: "Donald Trump Jr. (People) - 37 mentions"
 id: "person-donald-trump-jr"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52">2025-09-11 · 00:08:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-donald-trump-jr-t-00-25-00">2026-05-13 · 00:25:27</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-jr-t-01-12-53">2026-05-21 · 01:12:53</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>37</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -46,6 +46,8 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 <a href="/episodes/ep-1mYNOqzAdXs.md#t-00-07-27" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-jr-t-00-30-40" style="--pulse-height:46%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 6 mentions" title="2026-05-05 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-donald-trump-jr-t-00-21-10" style="--pulse-height:23%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-donald-trump-jr-t-00-47-13" style="--pulse-height:8%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-jr-t-00-43-14" style="--pulse-height:23%" aria-label="Candace x Hunter Biden: The Interview: 3 mentions" title="2026-05-21 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +64,8 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#t-00-07-27) | 1 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-jr-t-00-30-40) | 6 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-donald-trump-jr-t-00-21-10) | 3 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-donald-trump-jr-t-00-47-13) | 1 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-jr-t-00-43-14) | 3 |
 
 </details>
 </section>
@@ -69,7 +73,29 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (3 mentions)</summary>
+
+**[00:43:30](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-jr-t-00-43-14)**
+> "...y definitely I was close with Don Jr."
+
+**[00:59:55](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-jr-t-00-59-42)**
+> "Don Jr. was like a brother to Charlie, literally like a b..."
+
+**[01:12:53](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-jr-t-01-12-53)**
+> "These guys, okay, Don Jr. got the single largest loan guarantee from the De..."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>
+
+**[00:47:49](/episodes/ep-1QZ4X6q1DPg.md#ent-person-donald-trump-jr-t-00-47-13)**
+> "...nistration, by Eric Trump, by Donald Trump Jr., by Lara Trump, by the people he was friends with..."
+
+</details>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (3 mentions)</summary>
@@ -237,6 +263,18 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 </details>
 
 <details>
+<summary>Close Associate Of (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Hunter Biden: The Interview @ 00:43:30](/episodes/ep-Ux1kzgQxkws.md#t-00-43-14): “I was very definitely I was close with Don Jr.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Engaged To (1)</summary>
 
 - **[Bettina Anderson](/entities/person-bettina-anderson.md)**
@@ -271,10 +309,11 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 <summary>Friend Of (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [To My Friend, Charlie Kirk. @ 00:08:24](/episodes/ep-_dRaEO47-co.md#t-00-07-52): “Don and Eric got him a gift certificate—I think it was for his birthday—to a fancy suit place”
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:30:59](/episodes/ep-eMtjzXkQrsU.md#t-00-30-40): “With the president's son, Donald Trump Jr., someone who was like a brother to Charlie (Charlie Kirk) ... His silence offended me. And it offended me because of how much I know Charlie (Charlie Kirk) loved him. Truly, Charlie (Charlie Kirk) loved Don (Donald Trump Jr.).”
+- [Candace x Hunter Biden: The Interview @ 00:59:55](/episodes/ep-Ux1kzgQxkws.md#t-00-59-42): “Don Jr. was like a brother to Charlie, literally like a brother to him.”
 
 </details>
 
@@ -305,7 +344,14 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (8)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** close associate of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Hunter Biden: The Interview @ 00:43:30](/episodes/ep-Ux1kzgQxkws.md#t-00-43-14): “I was very definitely I was close with Don Jr.”
+
+</details>
 
 - **[Bettina Anderson](/entities/person-bettina-anderson.md)** engaged to this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -329,10 +375,11 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [To My Friend, Charlie Kirk. @ 00:08:24](/episodes/ep-_dRaEO47-co.md#t-00-07-52): “Don and Eric got him a gift certificate—I think it was for his birthday—to a fancy suit place”
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:30:59](/episodes/ep-eMtjzXkQrsU.md#t-00-30-40): “With the president's son, Donald Trump Jr., someone who was like a brother to Charlie (Charlie Kirk) ... His silence offended me. And it offended me because of how much I know Charlie (Charlie Kirk) loved him. Truly, Charlie (Charlie Kirk) loved Don (Donald Trump Jr.).”
+- [Candace x Hunter Biden: The Interview @ 00:59:55](/episodes/ep-Ux1kzgQxkws.md#t-00-59-42): “Don Jr. was like a brother to Charlie, literally like a brother to him.”
 
 </details>
 
@@ -362,7 +409,18 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Donald Trump Jr. (4)</strong></summary>
+<summary><strong class="section-title">Statements about Donald Trump Jr. (6)</strong></summary>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (2)</summary>
+
+- [00:59:59](/episodes/ep-Ux1kzgQxkws.md#t-00-59-59) (Opinion) **Candace Owens**: ["Donald Trump, Kash Patel, and JD Vance have shown zero interest in the..."](/statements/statement-5412eb913b0a.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Kash Patel](/entities/person-kash-patel.md), [JD Vance](/entities/person-jd-vance.md)
+
+- [01:12:53](/episodes/ep-Ux1kzgQxkws.md#t-01-12-53) (Accusation) **Hunter Biden**: ["Donald Trump Jr. received a Department of Defense loan guarantee of mo..."](/statements/statement-151869f2bcff.md)
+  - Also about: [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+</details>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (2)</summary>

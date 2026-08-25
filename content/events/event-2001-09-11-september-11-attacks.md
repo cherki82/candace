@@ -11,7 +11,7 @@ date: "2001-09-11"
 
 > September 11 attacks
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
 
@@ -36,3 +36,11 @@ date: "2001-09-11"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1072);return false;">▶️ Play</a>
 
 > 9-11 happens. Two weeks later, we're Operation Enduring Freedom.
+
+### 4. Candace Owens x Ana Kasparian
+
+**Episode:** [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md)
+**Timestamp:** [00:24:17](/episodes/ep-SKNJPul29zU.md#event-event-2001-09-11-september-11-attacks-t-00-24-17) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1457);return false;">▶️ Play</a>
+
+> was so raw. It was so scary. The way they made us stand up at 9-11 every day

@@ -241,7 +241,7 @@ youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
 ---
 **🎤 Chris Olsen**
 
-**<a href="/timestamps/ep-aDlhjfW6hz8/t-00-45-03.md" class="timestamp-link">00:45:03</a> <a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=2703" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Chris Olsen:** "Good day, my love. I have just committed one of the highest sins of the Lord: murder. I must flee <span id="ent-gpe-united-states-t-00-45-03"><a href="/entities/gpe-united-states.md">the country</a></span> now, in my vehicle. I've hidden the weapon. It was mine. I won't see you for a very long time. Unless you come with me. If not, I will see you after the war, my love." ^t-00-45-03
+**<a href="/timestamps/ep-aDlhjfW6hz8/t-00-45-03.md" class="timestamp-link">00:45:03</a> <a href="https://www.youtube.com/watch?v=aDlhjfW6hz8&t=2703" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Chris Olsen:** "Good day, my love. I have just committed one of the highest sins of the Lord: murder. I must flee the country now, in my vehicle. I've hidden the weapon. It was mine. I won't see you for a very long time. Unless you come with me. If not, I will see you after the war, my love." ^t-00-45-03
 
 ---
 **🎤 Candace Owens**

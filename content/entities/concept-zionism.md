@@ -1,6 +1,6 @@
 ---
 title: "Zionism"
-description: "Zionism (Concepts) - 279 mentions"
+description: "Zionism (Concepts) - 312 mentions"
 id: "concept-zionism"
 type: "CONCEPT"
 aliases:
@@ -28,11 +28,11 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-concept-zionism-t-00-31-15">2025-09-18 · 00:31:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-concept-zionism-t-00-48-49">2026-05-13 · 00:49:12</a></strong></div>
-<div><span>Episodes</span><strong>59</strong></div>
-<div><span>Mentions</span><strong>279</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-zionism-t-01-18-25">2026-06-09 · 01:18:25</a></strong></div>
+<div><span>Episodes</span><strong>64</strong></div>
+<div><span>Mentions</span><strong>312</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>27</strong></div>
+<div><span>Statements about</span><strong>30</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -100,6 +100,11 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-concept-zionism-t-00-52-28" style="--pulse-height:8%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-zionism-t-00-27-26" style="--pulse-height:8%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-concept-zionism-t-00-18-59" style="--pulse-height:14%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-concept-zionism-t-00-10-12" style="--pulse-height:8%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-zionism-t-00-00-45" style="--pulse-height:57%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 8 mentions" title="2026-05-26 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-zionism-t-00-04-02" style="--pulse-height:29%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 4 mentions" title="2026-05-27 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-concept-zionism-t-00-00-00" style="--pulse-height:71%" aria-label="Candace Owens x Ana Kasparian: 10 mentions" title="2026-05-28 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-zionism-t-00-01-26" style="--pulse-height:71%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 10 mentions" title="2026-06-09 · 10 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -164,6 +169,11 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-concept-zionism-t-00-52-28) | 1 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-concept-zionism-t-00-27-26) | 1 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-concept-zionism-t-00-18-59) | 2 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-concept-zionism-t-00-10-12) | 1 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-concept-zionism-t-00-00-45) | 8 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-concept-zionism-t-00-04-02) | 4 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-concept-zionism-t-00-00-00) | 10 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-concept-zionism-t-00-01-26) | 10 |
 
 </details>
 </section>
@@ -171,7 +181,131 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (279)</strong></summary>
+<summary><strong class="section-title">Raw mentions (312)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (10 mentions)</summary>
+
+**[00:01:54](/episodes/ep-YeEtS7nix3o.md#ent-concept-zionism-t-00-01-26)**
+> "I mean, the absolute state of Zionist affairs in media today. She didn't tell you she w..."
+
+**[00:05:53](/episodes/ep-YeEtS7nix3o.md#ent-concept-zionism-t-00-05-53)**
+> "...wellness. I really do believe Zionism rots your brain, but this is just I couldn't beli..."
+
+**[00:07:27](/episodes/ep-YeEtS7nix3o.md#ent-concept-zionism-t-00-07-27)**
+> "... there was this panic amongst Zionists, let's be clear, it was the Zionists that were ha..."
+
+**[00:18:25](/episodes/ep-YeEtS7nix3o.md#ent-concept-zionism-t-00-17-58)**
+> "...ch rather neatly threads into Zionism, what we're seeing today, my broader experience i..."
+
+**[00:19:12](/episodes/ep-YeEtS7nix3o.md#ent-concept-zionism-t-00-18-38)**
+> "... in particular was there this Zionist freak out about my visit? Why were they coming ap..."
+
+**[00:19:18](/episodes/ep-YeEtS7nix3o.md#ent-concept-zionism-t-00-19-18)**
+> "...e some thread between radical Zionism and Russia?"
+
+**[00:19:42](/episodes/ep-YeEtS7nix3o.md#ent-concept-zionism-t-00-19-18)**
+> "...a now, if you fast forward, a Zionist historical story. We can start with the assassina..."
+
+**[00:28:41](/episodes/ep-YeEtS7nix3o.md#ent-concept-zionism-t-00-28-30)**
+> "Zionists in particular, like Ben Shapiro, like Mark Levin,..."
+
+**[00:50:38](/episodes/ep-YeEtS7nix3o.md#ent-concept-zionism-t-00-50-16)**
+> "...on't need to and I'm under no Zionist obligation to portray Charlie like the rest of yo..."
+
+**[01:18:25](/episodes/ep-YeEtS7nix3o.md#ent-concept-zionism-t-01-18-25)**
+> "Ali writes, Zionists demand weapons for Israel, yet they have the nerv..."
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (10 mentions)</summary>
+
+**[00:00:20](/episodes/ep-SKNJPul29zU.md#ent-concept-zionism-t-00-00-00)**
+> "under a very severe attack from Zionists"
+
+**[00:10:23](/episodes/ep-SKNJPul29zU.md#ent-concept-zionism-t-00-10-14)**
+> "...ar, on, you know, this is the Zionist lobby."
+
+**[00:12:06](/episodes/ep-SKNJPul29zU.md#ent-concept-zionism-t-00-12-06)**
+> "...more the pro-Israel crowd and Zionists attempt to censor people and intimidate them, the..."
+
+**[00:19:05](/episodes/ep-SKNJPul29zU.md#ent-concept-zionism-t-00-19-05)**
+> "...ion that to a israel first or zionist and they respond to you immediately by saying wha..."
+
+**[00:19:28](/episodes/ep-SKNJPul29zU.md#ent-concept-zionism-t-00-19-28)**
+> "... we're talking about a jewish zionist because if you're a jewish person like dave smith..."
+
+**[00:19:46](/episodes/ep-SKNJPul29zU.md#ent-concept-zionism-t-00-19-46)**
+> "a zionist oh they could they couldn't care less you're righ..."
+
+**[00:31:19](/episodes/ep-SKNJPul29zU.md#ent-concept-zionism-t-00-30-50)**
+> "...are quite literally attacking Zionists they will attack to try to hurt me they will atta..."
+
+**[00:31:26](/episodes/ep-SKNJPul29zU.md#ent-concept-zionism-t-00-31-26)**
+> "...not work in any capacity with Zionists that that's literally boycott"
+
+**[00:31:40](/episodes/ep-SKNJPul29zU.md#ent-concept-zionism-t-00-31-40)**
+> "...t and sanction so I'm turning Zionists into promoters of BDS Yes, which is incredible. T..."
+
+**[00:31:55](/episodes/ep-SKNJPul29zU.md#ent-concept-zionism-t-00-31-48)**
+> "...ople boycott divest away from Zionists in general. And so I'm like, OK, this is not a bi..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (4 mentions)</summary>
+
+**[00:04:11](/episodes/ep-MhakwJxK-Zk.md#ent-concept-zionism-t-00-04-02)**
+> "...g get, especially if you're a Zionist and you believe in what he's saying, but it is ab..."
+
+**[00:28:15](/episodes/ep-MhakwJxK-Zk.md#ent-concept-zionism-t-00-28-03)**
+> "... he is debating very powerful Zionist lobbies—Zionist lobbyists—who are there to argue ..."
+
+**[00:52:42](/episodes/ep-MhakwJxK-Zk.md#ent-concept-zionism-t-00-52-42)**
+> "... America to be Protestant and Zionist."
+
+**[00:52:47](/episodes/ep-MhakwJxK-Zk.md#ent-concept-zionism-t-00-52-42)**
+> "...d people are waking up to the Zionist agenda in many of these megachurches."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (8 mentions)</summary>
+
+**[00:01:10](/episodes/ep-BxN2-aeMYIs.md#ent-concept-zionism-t-00-00-45)**
+> "over the weekend Zionists came for my three-year-old daughter"
+
+**[00:01:21](/episodes/ep-BxN2-aeMYIs.md#ent-concept-zionism-t-00-00-45)**
+> "...y we cannot have nice things. Zionists are why we cannot have nice things."
+
+**[00:29:26](/episodes/ep-BxN2-aeMYIs.md#ent-concept-zionism-t-00-29-14)**
+> "...age we're in right now, ultra Zionism. Everybody's just a Zionist and they're coming ap..."
+
+**[00:30:22](/episodes/ep-BxN2-aeMYIs.md#ent-concept-zionism-t-00-29-58)**
+> "...nto the minds of one of these Zionists."
+
+**[00:31:15](/episodes/ep-BxN2-aeMYIs.md#ent-concept-zionism-t-00-30-38)**
+> "And of course, this to a Zionist is an act of war. Is there a child breathing? Is ..."
+
+**[00:32:50](/episodes/ep-BxN2-aeMYIs.md#ent-concept-zionism-t-00-32-50)**
+> "...t. So her last act is being a Zionist, acting like she cares about Israel, acting like ..."
+
+**[00:33:58](/episodes/ep-BxN2-aeMYIs.md#ent-concept-zionism-t-00-33-49)**
+> "...ll leave it at that. In other Zionist news, Turning Point USA was trending for doing wh..."
+
+**[00:51:41](/episodes/ep-BxN2-aeMYIs.md#ent-concept-zionism-t-00-51-16)**
+> "...iginal MAGA and whatever this Zionist neocon takeover is, it has brought, I think, peop..."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>
+
+**[00:10:19](/episodes/ep-1QZ4X6q1DPg.md#ent-concept-zionism-t-00-10-12)**
+> "...overnments, the military, the Zionists, they're all in cahoots again."
+
+</details>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (2 mentions)</summary>
@@ -1337,7 +1471,31 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Zionism (27)</strong></summary>
+<summary><strong class="section-title">Statements about Zionism (30)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>
+
+- [00:28:41](/episodes/ep-YeEtS7nix3o.md#t-00-28-30) (Opinion) **Candace Owens**: ["Candace Owens accused Zionists such as Ben Shapiro and Mark Levin of r..."](/statements/statement-c609b585eae1.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Mark Levin](/entities/person-mark-levin.md), [Christians](/entities/concept-christians.md)
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1)</summary>
+
+- [00:12:06](/episodes/ep-SKNJPul29zU.md#t-00-12-06) (Opinion) **Ana Kasparian**: ["Attempts by the pro-Israel movement to censor and intimidate critics a..."](/statements/statement-aad4e48b4315.md)
+  - Also about: [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
+
+- [00:32:18](/episodes/ep-BxN2-aeMYIs.md#t-00-32-18) (Opinion) **Candace Owens**: ["Natalie Beisner is another washed-up D-list actress whose last act is ..."](/statements/statement-13951b16e411.md)
+  - Also about: [Natalie Jean Beisner](/entities/person-natalie-jean-beisner.md), [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1)</summary>

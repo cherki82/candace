@@ -11,7 +11,11 @@ object: "person-kanye-west"
 
 ## [Candace Owens](/entities/person-candace-owens) friend of [Kanye West](/entities/person-kanye-west)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs)**
+
+- [00:43:54](/episodes/ep-BxN2-aeMYIs#t-00-43-54): _Say something about Kanye. When everybody's saying something about Kanye, they want me to do it because I'm his friend._
 
 **[DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw)**
 

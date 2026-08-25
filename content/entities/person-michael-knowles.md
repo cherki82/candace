@@ -1,6 +1,6 @@
 ---
 title: "Michael Knowles"
-description: "Michael Knowles (People) - 18 mentions"
+description: "Michael Knowles (People) - 19 mentions"
 id: "person-michael-knowles"
 type: "PERSON"
 categories:
@@ -19,10 +19,10 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-michael-knowles-t-00-34-06">2025-09-23 · 00:34:06</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-michael-knowles-t-00-26-33">2026-08-14 · 00:26:59</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -40,6 +40,7 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-michael-knowles-t-00-17-52" style="--pulse-height:100%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 7 mentions" title="2026-03-17 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-michael-knowles-t-00-20-19" style="--pulse-height:14%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-michael-knowles-t-00-19-27" style="--pulse-height:14%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-michael-knowles-t-00-21-55" style="--pulse-height:14%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-michael-knowles-t-00-26-33" style="--pulse-height:14%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -55,6 +56,7 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-michael-knowles-t-00-17-52) | 7 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-michael-knowles-t-00-20-19) | 1 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-michael-knowles-t-00-19-27) | 1 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-michael-knowles-t-00-21-55) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-michael-knowles-t-00-26-33) | 1 |
 
 </details>
@@ -63,13 +65,21 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:26:59](/episodes/ep-nPhCKwJ6ye8.md#ent-person-michael-knowles-t-00-26-33)**
 > "kudos to Michael Knowles. Your name was mentioned a lot. You missed that r..."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1 mentions)</summary>
+
+**[00:21:55](/episodes/ep-BxN2-aeMYIs.md#ent-person-michael-knowles-t-00-21-55)**
+> "Matt Walsh or Michael Knowles"
 
 </details>
 
@@ -256,7 +266,15 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Michael Knowles (1)</strong></summary>
+<summary><strong class="section-title">Statements about Michael Knowles (2)</strong></summary>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
+
+- [00:21:55](/episodes/ep-BxN2-aeMYIs.md#t-00-21-55) (Accusation) **Gabrielle Cuccia** (via quoted post): ["VFT internal comments discuss going after Nick Fuentes by undermining ..."](/statements/statement-18814118b50d.md)
+  - Also about: [Vine & Fig Tree Institute I, Inc.](/entities/org-vine-and-fig-tree-institute.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Matt Walsh](/entities/person-matt-walsh.md)
+
+</details>
 
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1)</summary>

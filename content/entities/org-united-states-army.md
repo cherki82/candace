@@ -1,6 +1,6 @@
 ---
 title: "United States Army"
-description: "United States Army (Organizations) - 32 mentions"
+description: "United States Army (Organizations) - 34 mentions"
 id: "org-united-states-army"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#t-00-28-44">2025-09-30 · 00:28:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-44-16">2026-08-14 · 00:44:16</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>34</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>11</strong></div>
-<div><span>Relationships</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -57,6 +57,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <a href="/episodes/ep-jsqUIkszZd0.md#t-00-11-05" style="--pulse-height:17%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#t-00-48-35" style="--pulse-height:33%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-united-states-army-t-00-17-46" style="--pulse-height:17%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#t-00-03-03" style="--pulse-height:33%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 2 mentions" title="2026-05-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-43-58" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 6 mentions" title="2026-08-14 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -84,6 +85,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#t-00-11-05) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#t-00-48-35) | 2 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-org-united-states-army-t-00-17-46) | 1 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#t-00-03-03) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-00-43-58) | 6 |
 
 </details>
@@ -92,7 +94,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+<summary><strong class="section-title">Raw mentions (34)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (6 mentions)</summary>
@@ -114,6 +116,17 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 
 **[00:44:16](/episodes/ep-nPhCKwJ6ye8.md#t-00-44-16)**
 > "Okay. What did you do in the army? Did you teach this? You then I correct it and sa..."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (2 mentions)</summary>
+
+**[00:03:23](/episodes/ep-Dkxa9OUA9K8.md#t-00-03-03)**
+> "...Dean Kennedy did serve in the army doing counterintelligence. He then pled guilty to..."
+
+**[01:28:53](/episodes/ep-Dkxa9OUA9K8.md#t-01-28-27)**
+> "Julia writes, Army veteran of 10 years of service here, not offended..."
 
 </details>
 
@@ -325,6 +338,18 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
+<summary>Has Former Member (1)</summary>
+
+- **[Gloyce Dean Kennedy](/entities/person-gloyce-dean-kennedy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:03:23](/episodes/ep-Dkxa9OUA9K8.md#t-00-03-03): “I'm going to show you more about what he says about that in a bit. What we do know about his stepfather is that Gleis Dean Kennedy did serve in the army doing counterintelligence. He then pled guilty to a conspiracy to running an international drug smuggling ring marijuana out of Jamaica.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Headquartered In (1)</summary>
 
 - **[United States Pentagon](/entities/org-united-states-pentagon.md)**
@@ -337,7 +362,14 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
+
+- **[Gloyce Dean Kennedy](/entities/person-gloyce-dean-kennedy.md)** formerly member of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:03:23](/episodes/ep-Dkxa9OUA9K8.md#t-00-03-03): “I'm going to show you more about what he says about that in a bit. What we do know about his stepfather is that Gleis Dean Kennedy did serve in the army doing counterintelligence. He then pled guilty to a conspiracy to running an international drug smuggling ring marijuana out of Jamaica.”
+
+</details>
 
 - **[Robert Eugene Flood](/entities/person-robert-eugene-flood.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

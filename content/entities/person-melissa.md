@@ -11,6 +11,8 @@ _Type: People_
 
 **Also known as:** Melissa
 
+> **Possibly overlapping entity records:** [Melissa Cohen Biden](/entities/person-melissa-cohen-biden). These records share a name or alias; compare their histories before treating either count as complete.
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-melissa-t-00-51-47">2025-12-09 · 00:09:28</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-melissa-t-00-51-47">2025-12-09 · 00:52:25</a></strong></div>

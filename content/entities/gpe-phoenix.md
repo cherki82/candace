@@ -1,19 +1,28 @@
 ---
 title: "Phoenix"
-description: "Phoenix (Places) - 18 mentions"
+description: "Phoenix (Places) - 19 mentions"
 id: "gpe-phoenix"
 type: "GPE"
+categories:
+  - "city"
+  - "Arizona"
 ---
 
 _Type: Places_
 
+**Categories:** city, Arizona
+
 > **Possibly overlapping entity records:** [Phoenix, Arizona](/entities/gpe-phoenix-arizona). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> The City of Phoenix official history page confirms Phoenix as the canonical city name in Arizona.
+Source: [Phoenix History and Facts | City of Phoenix](https://www.phoenix.gov/administration/departments/communications/history-facts.html)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-phoenix-t-00-15-20">2025-10-09 · 00:15:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-phoenix-t-00-03-41">2026-05-11 · 00:03:49</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-cPidFQDJLbo.md#ent-gpe-phoenix-t-00-07-31">2026-05-20 · 00:07:57</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -31,6 +40,7 @@ _Type: Places_
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-gpe-phoenix-t-00-10-37" style="--pulse-height:80%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 4 mentions" title="2025-12-05 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-phoenix-t-00-05-21" style="--pulse-height:80%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 4 mentions" title="2025-12-05 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-phoenix-t-00-03-41" style="--pulse-height:20%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-gpe-phoenix-t-00-07-31" style="--pulse-height:20%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -43,6 +53,7 @@ _Type: Places_
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-gpe-phoenix-t-00-10-37) | 4 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-phoenix-t-00-05-21) | 4 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-phoenix-t-00-03-41) | 1 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-gpe-phoenix-t-00-07-31) | 1 |
 
 </details>
 </section>
@@ -50,7 +61,15 @@ _Type: Places_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1 mentions)</summary>
+
+**[00:07:57](/episodes/ep-cPidFQDJLbo.md#ent-gpe-phoenix-t-00-07-31)**
+> "taking over for them a mere 48 hours later in Phoenix"
+
+</details>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>

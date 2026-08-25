@@ -1,6 +1,6 @@
 ---
 title: "Kamala Harris"
-description: "Kamala Harris (People) - 23 mentions"
+description: "Kamala Harris (People) - 24 mentions"
 id: "person-kamala-harris"
 type: "PERSON"
 aliases:
@@ -23,8 +23,8 @@ Source: [Archived White House — Vice President Kamala Harris](https://bidenwhi
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#t-00-16-13">2025-10-29 · 00:16:39</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-kamala-harris-t-03-45-41">2026-08-14 · 03:45:41</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -45,6 +45,7 @@ Source: [Archived White House — Vice President Kamala Harris](https://bidenwhi
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-kamala-harris-t-00-51-55" style="--pulse-height:60%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 3 mentions" title="2026-03-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-kamala-harris-t-00-06-35" style="--pulse-height:20%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-kamala-harris-t-00-35-17" style="--pulse-height:20%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-kamala-harris-t-01-20-02" style="--pulse-height:20%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-kamala-harris-t-03-45-41" style="--pulse-height:20%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -61,6 +62,7 @@ Source: [Archived White House — Vice President Kamala Harris](https://bidenwhi
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-kamala-harris-t-00-51-55) | 3 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-kamala-harris-t-00-06-35) | 1 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-kamala-harris-t-00-35-17) | 1 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-kamala-harris-t-01-20-02) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-kamala-harris-t-03-45-41) | 1 |
 
 </details>
@@ -69,13 +71,21 @@ Source: [Archived White House — Vice President Kamala Harris](https://bidenwhi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[03:45:41](/episodes/ep-nPhCKwJ6ye8.md#ent-person-kamala-harris-t-03-45-41)**
 > "...conversation you're following Kamala"
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
+
+**[01:20:02](/episodes/ep-Ux1kzgQxkws.md#ent-person-kamala-harris-t-01-20-02)**
+> "...osi's, what's your opinion on Kamala then? Would you like her?"
 
 </details>
 

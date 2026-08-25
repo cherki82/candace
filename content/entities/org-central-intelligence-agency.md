@@ -1,6 +1,6 @@
 ---
 title: "Central Intelligence Agency"
-description: "Central Intelligence Agency (Organizations) - 150 mentions"
+description: "Central Intelligence Agency (Organizations) - 162 mentions"
 id: "org-central-intelligence-agency"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [About CIA](https://www.cia.gov/about/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-central-intelligence-agency-t-01-11-09">2025-09-16 · 01:11:17</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25">2026-08-14 · 00:37:25</a></strong></div>
-<div><span>Episodes</span><strong>52</strong></div>
-<div><span>Mentions</span><strong>150</strong></div>
+<div><span>Episodes</span><strong>57</strong></div>
+<div><span>Mentions</span><strong>162</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>50</strong></div>
-<div><span>Relationships</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>55</strong></div>
+<div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -87,6 +87,11 @@ Source: [About CIA](https://www.cia.gov/about/)
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-central-intelligence-agency-t-00-45-51" style="--pulse-height:8%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-central-intelligence-agency-t-00-43-30" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-central-intelligence-agency-t-00-36-50" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-central-intelligence-agency-t-00-02-24" style="--pulse-height:8%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-central-intelligence-agency-t-01-00-41" style="--pulse-height:24%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 4 mentions" title="2026-05-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-central-intelligence-agency-t-01-17-49" style="--pulse-height:18%" aria-label="Candace x Hunter Biden: The Interview: 3 mentions" title="2026-05-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-central-intelligence-agency-t-00-10-39" style="--pulse-height:12%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-org-central-intelligence-agency-t-00-05-25" style="--pulse-height:12%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -144,6 +149,11 @@ Source: [About CIA](https://www.cia.gov/about/)
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-central-intelligence-agency-t-00-45-51) | 1 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-central-intelligence-agency-t-00-43-30) | 1 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-central-intelligence-agency-t-00-36-50) | 1 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-central-intelligence-agency-t-00-02-24) | 1 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-central-intelligence-agency-t-01-00-41) | 4 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-central-intelligence-agency-t-01-17-49) | 3 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-central-intelligence-agency-t-00-10-39) | 2 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-central-intelligence-agency-t-00-05-25) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25) | 1 |
 
 </details>
@@ -152,13 +162,74 @@ Source: [About CIA](https://www.cia.gov/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (150)</strong></summary>
+<summary><strong class="section-title">Raw mentions (162)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:37:25](/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25)**
 > "...ntire term was created by the CIA to gaslight people after the assassination of JFK..."
+
+</details>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2 mentions)</summary>
+
+**[00:05:25](/episodes/ep-YeEtS7nix3o.md#ent-org-central-intelligence-agency-t-00-05-25)**
+> "...eautiful country and that the CIA must have lied to her all of these years about wh..."
+
+**[01:18:29](/episodes/ep-YeEtS7nix3o.md#ent-org-central-intelligence-agency-t-01-18-25)**
+> "...u're promoting peace over the CIA plans for World War III."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (2 mentions)</summary>
+
+**[00:10:39](/episodes/ep-MhakwJxK-Zk.md#ent-org-central-intelligence-agency-t-00-10-39)**
+> "...re, as it turns out, a lot of CIA agents are recruited from."
+
+**[00:22:44](/episodes/ep-MhakwJxK-Zk.md#ent-org-central-intelligence-agency-t-00-22-36)**
+> "Who's really running our CIA is a broader question."
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (3 mentions)</summary>
+
+**[01:17:51](/episodes/ep-Ux1kzgQxkws.md#ent-org-central-intelligence-agency-t-01-17-49)**
+> "Alan Dulles, looking into the CIA, I read this book, Chaos, that then led me to The..."
+
+**[01:18:00](/episodes/ep-Ux1kzgQxkws.md#ent-org-central-intelligence-agency-t-01-18-00)**
+> "Yeah, it'll knock you. Chaos, CIA,"
+
+**[01:18:13](/episodes/ep-Ux1kzgQxkws.md#ent-org-central-intelligence-agency-t-01-18-13)**
+> "what the CIA is capable of and you think it's all a conspiracy..."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (4 mentions)</summary>
+
+**[01:00:52](/episodes/ep-Dkxa9OUA9K8.md#ent-org-central-intelligence-agency-t-01-00-41)**
+> "that worked for the CIA or Joint Task Force or Delta. This is not somethi..."
+
+**[01:01:07](/episodes/ep-Dkxa9OUA9K8.md#ent-org-central-intelligence-agency-t-01-01-07)**
+> "Yeah, second so the CIA,"
+
+**[01:01:13](/episodes/ep-Dkxa9OUA9K8.md#ent-org-central-intelligence-agency-t-01-01-08)**
+> "... if you say I did it with the CIA or the IDF, I go, yeah, we'll go to Jeffrey Epste..."
+
+**[01:01:30](/episodes/ep-Dkxa9OUA9K8.md#ent-org-central-intelligence-agency-t-01-01-23)**
+> "...id by any of them. When I say CIA, I'm talking about former men and women who have ..."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1 mentions)</summary>
+
+**[00:02:41](/episodes/ep-Pb7UlpRdW6U.md#ent-org-central-intelligence-agency-t-00-02-24)**
+> "...er JFK gets assassinated, the CIA gets into an alliance with the mainstream media a..."
 
 </details>
 
@@ -867,7 +938,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Affiliated With (2)</summary>
+<summary>Affiliated With (3)</summary>
 
 - **[BYU](/entities/org-byu.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -880,6 +951,13 @@ Source: [About CIA](https://www.cia.gov/about/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:24:45](/episodes/ep-rupRLXmSndU.md#t-00-24-36): “They recruit directly from BYU. And I am saying this with 100% certainty, it is not a conspiracy, and what is even more odd is that they recruit specifically from BYU Jerusalem in Israel.”
+
+</details>
+
+- **[Mainstream media](/entities/concept-mainstream-media.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:02:41](/episodes/ep-Pb7UlpRdW6U.md#t-00-02-24): “After JFK gets assassinated, the CIA gets into an alliance with the mainstream media and they begin trying to control our minds.”
 
 </details>
 
@@ -917,12 +995,19 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details>
-<summary>Formerly Employed (1)</summary>
+<summary>Formerly Employed (2)</summary>
 
 - **[Mike Pompeo](/entities/person-mike-pompeo.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:42:43](/episodes/ep-BKcOm32ZEGk.md#t-00-42-09): “Mike Pompeo, former U.S. Secretary of State... during his time at the CIA...”
+
+</details>
+
+- **[Phil Reilly](/entities/person-phil-reilly.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:22:15](/episodes/ep-MhakwJxK-Zk.md#t-00-21-56): “Phil Reilly, an ex-CIA operative who worked for Orbis—now ex-CIA.”
 
 </details>
 
@@ -941,7 +1026,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (7)</summary>
 
 - **[Project Looking Glass](/entities/concept-project-looking-glass.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -961,6 +1046,13 @@ Source: [About CIA](https://www.cia.gov/about/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:42:43](/episodes/ep-BKcOm32ZEGk.md#t-00-42-09): “Mike Pompeo, former U.S. Secretary of State... during his time at the CIA...”
+
+</details>
+
+- **[Phil Reilly](/entities/person-phil-reilly.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:22:15](/episodes/ep-MhakwJxK-Zk.md#t-00-21-56): “Phil Reilly, an ex-CIA operative who worked for Orbis—now ex-CIA.”
 
 </details>
 
@@ -990,7 +1082,37 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Central Intelligence Agency (50)</strong></summary>
+<summary><strong class="section-title">Statements about Central Intelligence Agency (55)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>
+
+- [00:05:25](/episodes/ep-YeEtS7nix3o.md#t-00-05-25) (Accusation) **Anonymous Source #2 (Ep YeEtS7nix3o)** (via quoted speech): ["An unidentified embedded commentator characterized Candace Owens as a ..."](/statements/statement-a5936868d515.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Russia](/entities/gpe-russia.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (3)</summary>
+
+- [00:10:39](/episodes/ep-MhakwJxK-Zk.md#t-00-10-39) (Accusation) **Candace Owens**: ["CIA agents are recruited from the BYU Jerusalem Center, where students..."](/statements/statement-f48b9197e85d.md)
+  - Also about: [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md)
+
+- [00:22:04](/episodes/ep-MhakwJxK-Zk.md#t-00-21-56) (Citation) **Candace Owens**: ["Orbis Operations engaged Boston Consulting Group for a Gaza aid feasib..."](/statements/statement-1f2b8e1bb2d1.md)
+  - Also about: [Orbis Operations](/entities/org-orbis-operations.md), [Boston Consulting Group](/entities/org-boston-consulting-group.md), [Tachlith – The Institute for Israeli Public Policy](/entities/org-tachlith-institute-for-israeli-public-policy.md)
+
+- [00:22:44](/episodes/ep-MhakwJxK-Zk.md#t-00-22-36) (Accusation) **Candace Owens**: ["The CIA is not reporting to President Donald Trump."](/statements/statement-3d57addd1c5e.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1)</summary>
+
+- [00:02:41](/episodes/ep-Pb7UlpRdW6U.md#t-00-02-24) (Accusation) **Candace Owens**: ["After John F. Kennedy was assassinated, the CIA allied with mainstream..."](/statements/statement-a8f48b9c2a12.md)
+  - Also about: [John F. Kennedy](/entities/person-john-f-kennedy.md), [Mainstream media](/entities/concept-mainstream-media.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (6)</summary>

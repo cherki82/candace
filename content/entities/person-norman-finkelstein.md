@@ -1,6 +1,6 @@
 ---
 title: "Norman Finkelstein"
-description: "Norman Finkelstein (People) - 19 mentions"
+description: "Norman Finkelstein (People) - 20 mentions"
 id: "person-norman-finkelstein"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Candace Owens x Norman Finkelstein | Norman Finkelstein](https://www.no
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-norman-finkelstein-t-00-38-57">2025-10-29 · 00:39:19</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-norman-finkelstein-t-00-44-48">2026-03-09 · 00:44:48</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-norman-finkelstein-t-01-17-15">2026-05-28 · 01:17:15</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -44,6 +44,7 @@ Source: [Candace Owens x Norman Finkelstein | Norman Finkelstein](https://www.no
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-norman-finkelstein-t-01-24-01" style="--pulse-height:40%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-norman-finkelstein-t-00-50-37" style="--pulse-height:80%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 4 mentions" title="2026-02-03 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-norman-finkelstein-t-00-44-48" style="--pulse-height:20%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-norman-finkelstein-t-01-17-15" style="--pulse-height:20%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +58,7 @@ Source: [Candace Owens x Norman Finkelstein | Norman Finkelstein](https://www.no
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-norman-finkelstein-t-01-24-01) | 2 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-norman-finkelstein-t-00-50-37) | 4 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-norman-finkelstein-t-00-44-48) | 1 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-norman-finkelstein-t-01-17-15) | 1 |
 
 </details>
 </section>
@@ -64,7 +66,15 @@ Source: [Candace Owens x Norman Finkelstein | Norman Finkelstein](https://www.no
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
+
+**[01:17:15](/episodes/ep-SKNJPul29zU.md#ent-person-norman-finkelstein-t-01-17-15)**
+> "Yeah. And I love that you're willing to have people like, you know, Norm Finkelstein on. Bassem Youssef like those are some of my favorite episodes of yours i watched it and Bassem Youssef got a little i'm sure i'm gonna get a lot of heat too oh you're talking to candace owens whatever he got a little bit of heat on that and i'm so happy to see that he pushed back he's like okay you don't like candace who cares"
+
+</details>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
@@ -172,12 +182,13 @@ Source: [Candace Owens x Norman Finkelstein | Norman Finkelstein](https://www.no
 <summary>Interviewed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:39:19](/episodes/ep-Qt0VHV-POCg.md#t-00-38-57): “I was very excited to sit down and have a conversation... with Norman Finkelstein.”
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:15:11](/episodes/ep-LATnak75Si0.md#t-00-14-30): “when Norm Finkelstein was on our show”
 - [Myron Gaines x Candace Owens @ 00:33:39](/episodes/ep-2T39-oADLj0.md#t-00-33-39): “a jackass about it was just kind of using humor which is the best tool and being like so what's the equation of how many lives are worth so I'm going okay so I'm supposed to believe these are the evil people but this is how many people and then I had Norm Finkelstein on my show”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:38:25](/episodes/ep-xjzb_t5Tk9o.md#t-00-38-21): “numbers change and i was grateful to sit down with norm finkelstein and i asked him about that question you know because he's like my parents uh one of his parents was in auschwitz and the other parent was i'm blanking on which of the other camps they were in and he said he acknowledges it he's like yeah of course he said my parents told me some people were taking the tattoos off and some people were putting them on you”
+- [Candace Owens x Ana Kasparian @ 01:17:15](/episodes/ep-SKNJPul29zU.md#t-01-17-15): “I love that you're willing to have people like, you know, Norm Finkelstein on.”
 
 </details>
 
@@ -187,13 +198,14 @@ Source: [Candace Owens x Norman Finkelstein | Norman Finkelstein](https://www.no
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:39:19](/episodes/ep-Qt0VHV-POCg.md#t-00-38-57): “I was very excited to sit down and have a conversation... with Norman Finkelstein.”
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:39:42](/episodes/ep-Qt0VHV-POCg.md#t-00-39-34): “we will be releasing on Friday with Norman Finkelstein...I was able to sit down with him again—this time on my totally owned show.”
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:15:11](/episodes/ep-LATnak75Si0.md#t-00-14-30): “when Norm Finkelstein was on our show”
 - [Myron Gaines x Candace Owens @ 00:33:39](/episodes/ep-2T39-oADLj0.md#t-00-33-39): “a jackass about it was just kind of using humor which is the best tool and being like so what's the equation of how many lives are worth so I'm going okay so I'm supposed to believe these are the evil people but this is how many people and then I had Norm Finkelstein on my show”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:38:25](/episodes/ep-xjzb_t5Tk9o.md#t-00-38-21): “numbers change and i was grateful to sit down with norm finkelstein and i asked him about that question you know because he's like my parents uh one of his parents was in auschwitz and the other parent was i'm blanking on which of the other camps they were in and he said he acknowledges it he's like yeah of course he said my parents told me some people were taking the tattoos off and some people were putting them on you”
+- [Candace Owens x Ana Kasparian @ 01:17:15](/episodes/ep-SKNJPul29zU.md#t-01-17-15): “I love that you're willing to have people like, you know, Norm Finkelstein on.”
 
 </details>
 

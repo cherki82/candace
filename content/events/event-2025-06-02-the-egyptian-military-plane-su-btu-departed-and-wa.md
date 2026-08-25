@@ -11,7 +11,7 @@ date: "2025-06-02"
 
 > The Egyptian military plane SU-BTU departed and was reported not transponding on departure.
 
-## Mentioned In (18 times)
+## Mentioned In (19 times)
 
 ### 1. Shocking Revelation About The Egyptian Planes... | Candace E...
 
@@ -156,3 +156,11 @@ date: "2025-06-02"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(964);return false;">▶️ Play</a>
 
 > ingenuous. We also are going to get back into the Egyptian planes today. They are also working very hard to try to convince us that that was nothing. That's just what Egyptian military planes do: fly
+
+### 19. BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. |...
+
+**Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
+**Timestamp:** [00:26:25](/episodes/ep-MhakwJxK-Zk.md#event-event-2025-06-02-the-egyptian-military-plane-su-btu-departed-and-wa-t-00-26-01) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1585);return false;">▶️ Play</a>
+
+> He is aboard on June 2nd, 2025, he is flying in on S. S-U-B-T-B-T-V. He's in Provo

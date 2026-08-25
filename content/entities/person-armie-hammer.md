@@ -1,6 +1,6 @@
 ---
 title: "Armie Hammer"
-description: "Armie Hammer (People) - 3 mentions"
+description: "Armie Hammer (People) - 4 mentions"
 id: "person-armie-hammer"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Armie Hammer Biography](https://www.biography.com/actors/a45908520/armi
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-armie-hammer-t-00-49-26">2026-05-06 · 00:49:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-armie-hammer-t-00-50-09">2026-05-06 · 00:50:09</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-armie-hammer-t-00-24-26">2026-06-09 · 00:24:50</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,12 +32,14 @@ Source: [Armie Hammer Biography](https://www.biography.com/actors/a45908520/armi
 <p>Highest activity: <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-armie-hammer-t-00-49-26">Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-armie-hammer-t-00-49-26" style="--pulse-height:100%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 3 mentions" title="2026-05-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-person-armie-hammer-t-00-24-26" style="--pulse-height:33%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-armie-hammer-t-00-49-26) | 3 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-armie-hammer-t-00-24-26) | 1 |
 
 </details>
 </section>
@@ -45,7 +47,15 @@ Source: [Armie Hammer Biography](https://www.biography.com/actors/a45908520/armi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>
+
+**[00:24:50](/episodes/ep-YeEtS7nix3o.md#ent-person-armie-hammer-t-00-24-26)**
+> "...re, the family story of actor Armie Hammer."
+
+</details>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (3 mentions)</summary>

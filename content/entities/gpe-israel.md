@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Israel (Places) - 1255 mentions"
+description: "Israel (Places) - 1363 mentions"
 id: "gpe-israel"
 type: "GPE"
 aliases:
@@ -26,11 +26,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-israel-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-03-57-56">2026-08-14 · 03:58:04</a></strong></div>
-<div><span>Episodes</span><strong>101</strong></div>
-<div><span>Mentions</span><strong>1,255</strong></div>
+<div><span>Episodes</span><strong>110</strong></div>
+<div><span>Mentions</span><strong>1,363</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>219</strong></div>
-<div><span>Relationships</span><strong>39</strong></div>
+<div><span>Statements about</span><strong>250</strong></div>
+<div><span>Relationships</span><strong>49</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -138,6 +138,15 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-gpe-israel-t-00-01-56" style="--pulse-height:25%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 14 mentions" title="2026-05-07 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-israel-t-00-00-00" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-gpe-israel-t-00-21-10" style="--pulse-height:8%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-israel-t-00-24-31" style="--pulse-height:8%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-israel-t-00-02-36" style="--pulse-height:8%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 2 mentions" title="2026-05-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-israel-t-00-48-28" style="--pulse-height:18%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 10 mentions" title="2026-05-19 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-gpe-israel-t-00-53-05" style="--pulse-height:8%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 3 mentions" title="2026-05-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-israel-t-00-54-19" style="--pulse-height:11%" aria-label="Candace x Hunter Biden: The Interview: 6 mentions" title="2026-05-21 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-israel-t-00-29-58" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 4 mentions" title="2026-05-26 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-00-23" style="--pulse-height:84%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 48 mentions" title="2026-05-27 · 48 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-00-07-10" style="--pulse-height:40%" aria-label="Candace Owens x Ana Kasparian: 23 mentions" title="2026-05-28 · 23 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-israel-t-00-15-41" style="--pulse-height:16%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 9 mentions" title="2026-06-09 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12" style="--pulse-height:68%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 39 mentions" title="2026-08-14 · 39 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -244,6 +253,15 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-gpe-israel-t-00-01-56) | 14 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-israel-t-00-00-00) | 4 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-israel-t-00-21-10) | 3 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-israel-t-00-24-31) | 2 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-israel-t-00-02-36) | 2 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-israel-t-00-48-28) | 10 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-gpe-israel-t-00-53-05) | 3 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-israel-t-00-54-19) | 6 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-israel-t-00-29-58) | 4 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-00-23) | 48 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-00-07-10) | 23 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-gpe-israel-t-00-15-41) | 9 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12) | 39 |
 
 </details>
@@ -256,7 +274,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1255)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1363)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (39 mentions)</summary>
@@ -377,6 +395,372 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[02:25:09](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-25-09)**
 > "So it. He then loved other Israel."
+
+</details>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (9 mentions)</summary>
+
+**[00:16:02](/episodes/ep-YeEtS7nix3o.md#ent-gpe-israel-t-00-15-41)**
+> "...ively merge our military with Israel's military, right?"
+
+**[00:16:16](/episodes/ep-YeEtS7nix3o.md#ent-gpe-israel-t-00-15-41)**
+> "... U.S. military even closer to Israel's."
+
+**[00:16:36](/episodes/ep-YeEtS7nix3o.md#ent-gpe-israel-t-00-16-24)**
+> "... of a horrific attack of what Israel did intentionally and consciously to our servicem..."
+
+**[00:32:57](/episodes/ep-YeEtS7nix3o.md#ent-gpe-israel-t-00-32-35)**
+> "...ar because I wouldn't worship Israel, right? Canada's can't even get into Australia."
+
+**[00:33:19](/episodes/ep-YeEtS7nix3o.md#ent-gpe-israel-t-00-33-19)**
+> "Israel is not sanctioned by the United States. It's supp..."
+
+**[00:50:30](/episodes/ep-YeEtS7nix3o.md#ent-gpe-israel-t-00-50-16)**
+> "...e was changing his mind about Israel."
+
+**[01:12:58](/episodes/ep-YeEtS7nix3o.md#ent-gpe-israel-t-01-12-43)**
+> "... due to our relationship with Israel."
+
+**[01:16:23](/episodes/ep-YeEtS7nix3o.md#ent-gpe-israel-t-01-16-23)**
+> "You are to die for Israel, Israel's greatness. Maybe they want to go back t..."
+
+**[01:18:25](/episodes/ep-YeEtS7nix3o.md#ent-gpe-israel-t-01-18-25)**
+> "..., Zionists demand weapons for Israel, yet they have the nerve to call you a foreign ag..."
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (23 mentions)</summary>
+
+**[00:07:29](/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-00-07-10)**
+> "oh but unless it happens in israel then it's okay so i'm like oh so there's this ran..."
+
+**[00:14:21](/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-00-14-10)**
+> "...e we've given military aid to Israel, Ukraine, we're currently using interceptors, you..."
+
+**[00:19:05](/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-00-19-05)**
+> "...aza and you mention that to a israel first or zionist and they respond to you immediat..."
+
+**[00:32:52](/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-00-32-52)**
+> "...tack people who don't support Israel."
+
+**[00:33:41](/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-00-33-14)**
+> "... foreign policy that benefits Israel above and beyond what's better for the American p..."
+
+**[00:35:34](/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-00-35-23)**
+> "...who never said anything about Israel at all, you know?"
+
+**[00:35:38](/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-00-35-23)**
+> "And anything I've said about Israel is not anti-Semitic. Israel has carried out a gen..."
+
+**[00:35:57](/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-00-35-57)**
+> "...s have we experienced because Israel wants to pursue its border expansion project?"
+
+**[00:36:19](/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-00-36-10)**
+> "You are supportive of Israel. So unless you wake up and tell the truth about w..."
+
+**[00:36:37](/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-00-36-37)**
+> "...ut no, we actually we have an Israel never ending war problem."
+
+**[00:37:06](/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-00-36-49)**
+> "...lah formed in the 1980s after Israel invaded southern Lebanon."
+
+**[00:39:31](/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-00-39-31)**
+> "... sending ships to what is now Israel to take Armenians back to the homeland because."
+
+**[00:39:59](/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-00-39-31)**
+> "... terrorist groups that formed Israel, was attacking the local communities there in Hai..."
+
+**[00:40:48](/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-00-40-48)**
+> "...really rethink our support to israel he's full of crap okay yeah"
+
+**[00:41:55](/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-00-41-55)**
+> "...kind of ties Epstein had with Israel. And it went beyond blackmailing our politicians ..."
+
+**[00:42:13](/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-00-42-13)**
+> "...ernational deals on behalf of Israel,"
+
+**[00:42:17](/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-00-42-17)**
+> "... a friendly relationship with Israel?"
+
+**[00:44:11](/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-00-43-58)**
+> "...ou know, Miriam Adelson loves Israel more than the."
+
+**[01:12:30](/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-01-12-30)**
+> "... like a propaganda arm of the Israeli government as we speak."
+
+**[01:12:41](/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-01-12-30)**
+> "...now he's like working for the Israeli government doing propaganda."
+
+**[01:21:29](/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-01-21-16)**
+> "...ciferous as he's been against Israel's influence on the United States,"
+
+**[01:21:57](/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-01-21-57)**
+> "...that were fought on behalf of Israel in the past."
+
+**[01:22:13](/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-01-21-57)**
+> "...now this. We wanted to assist Israel in turning. Syria into a failed state and we cert..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (48 mentions)</summary>
+
+**[00:00:23](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-00-23)**
+> "...ithout pledging allegiance to Israel every day. You can't make it without us, sort of ..."
+
+**[00:02:32](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-02-12)**
+> "...e of the friend and the ally, Israel."
+
+**[00:03:57](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-03-21)**
+> "...ws with the prime minister of Israel, the sitting prime minister of Israel."
+
+**[00:05:15](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-04-45)**
+> "...Friedman fly to his office in Israel to conduct that interview."
+
+**[00:05:51](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-05-28)**
+> "...the sitting prime minister of Israel, and there was a more appropriate context, he was..."
+
+**[00:06:29](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-06-07)**
+> "...d a change of heart regarding Israel and the Hamptons, quote unquote, intervention whi..."
+
+**[00:07:05](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-06-52)**
+> "...le that they're being used by Israel, actually, to shuttle VIPs during points of milit..."
+
+**[00:07:30](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-07-30)**
+> "... I keep coming up with either Israel or Jordan."
+
+**[00:07:45](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-07-30)**
+> "...they seem to move always when Israel is on the brink of trouble, right? And I'll give ..."
+
+**[00:08:46](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-08-33)**
+> "That's when Israel was being bombed by Iran and Hezbollah in retalia..."
+
+**[00:09:05](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-08-33)**
+> "...ned about what's happening in Israel, and they just feel safer in Paris and beyond."
+
+**[00:09:16](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-09-16)**
+> "... it's possible that these are Israeli VIPs who are using Egyptian planes, which is some..."
+
+**[00:09:38](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-09-16)**
+> "...onfirm that they are ushering Israeli VIPs during wartime, war incidents."
+
+**[00:10:56](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-10-39)**
+> "... founded Bain Capital with an Israeli spy."
+
+**[00:15:24](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-15-02)**
+> "...myself, are there any ties to Israel?"
+
+**[00:15:28](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-15-02)**
+> "... frank. Are there any ties to Israel at the Boston Consulting Group? And funny enough,..."
+
+**[00:16:00](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-16-00)**
+> "...ed with backing from U.S. and Israeli security-linked interests. Over seven months, the..."
+
+**[00:17:03](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-16-39)**
+> "...ost regions likely outside of Israel or occupied Palestinian territories."
+
+**[00:17:57](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-17-57)**
+> "...ure of the client, that being Israel, the implications of the work and the potential r..."
+
+**[00:19:28](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-19-12)**
+> "... course, backed and funded by Israel, but you might recall that it was then discovered..."
+
+**[00:20:32](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-19-12)**
+> "...k out this headline, Times of Israel. Gaza Humanitarian Foundation taps U.S. evangelic..."
+
+**[00:21:31](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-21-17)**
+> "...nyahu), the prime minister of Israel, who has time for PR blitzes leading up to Charli..."
+
+**[00:22:15](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-21-56)**
+> "...chlith Institute, which is an Israeli think tank. And yeah, BCG was chosen as that cons..."
+
+**[00:27:48](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-27-22)**
+> ".... June 13th, we have Iran and Israel's 12-day war, but I really want to scroll down here..."
+
+**[00:28:08](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-28-03)**
+> "...for us not to get involved in Israel's war with Iran."
+
+**[00:29:12](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-29-12)**
+> "Sticking with June, the Israel and Iran's war comes to an end on June 26th. This..."
+
+**[00:31:11](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-31-11)**
+> "...ael, about a call to arms for Israel, given the fact that Charlie (Charlie Kirk) was a..."
+
+**[00:31:29](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-31-11)**
+> "...markably pro–call to arms for Israel speech. That just seems like—wouldn't have been m..."
+
+**[00:34:49](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-34-32)**
+> "...Kirk)'s words, not mine, over Israel, where Charlie (Charlie Kirk) held the line and y..."
+
+**[00:35:27](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-35-16)**
+> "...pread propaganda on behalf of Israel. September 9th is when Charlie (Charlie Kirk) sen..."
+
+**[00:35:38](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-35-16)**
+> "... Josh Hammer and a rabbi from Israel. Sometime later that evening, he sends out messag..."
+
+**[00:36:10](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-36-00)**
+> "... another little PR blitz that Israel didn't kill him."
+
+**[00:36:46](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-36-35)**
+> "... know, if you think these are Israeli planes, they always stop over in France. And they..."
+
+**[00:47:12](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-47-05)**
+> "...e been very vocal about Iran, Israel, Massey, and Epstein. People would have listened ..."
+
+**[00:47:30](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-47-30)**
+> "... his shifting perspectives on Israel. If they had been forthcoming about that, I think..."
+
+**[00:47:56](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-47-56)**
+> "...lyzed the American upset with Israel. That's my perspective."
+
+**[00:48:21](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-47-56)**
+> "...e United States and return to Israel after being arrested in Nevada on felony child-lu..."
+
+**[00:48:35](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-47-56)**
+> "Because he is an Israeli?"
+
+**[00:48:39](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-48-39)**
+> "...y that they also released the Israeli citizen that was caught operating illegal bio lab..."
+
+**[00:48:56](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-48-39)**
+> "...s against him because he's an Israeli. Could you imagine if it was an Iranian or Russia..."
+
+**[00:50:29](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-49-59)**
+> "...ited States relationship with Israel."
+
+**[00:50:36](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-49-59)**
+> "...o text strangers to ask about Israel. Well, read those Havas docs. This is what it's a..."
+
+**[00:50:44](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-50-44)**
+> "...ing up. How do you feel about Israel? It's pretty obvious everybody feels about Israel..."
+
+**[00:50:49](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-50-44)**
+> "...isgusted with everything that Israel has been doing, rightfully so."
+
+**[00:50:57](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-50-44)**
+> "...w, the harming of children in Israel that is, I think, trending over on X and they jus..."
+
+**[00:53:08](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-52-42)**
+> "... (Charlie Kirk)'s support for Israel. Yeah, absolutely."
+
+**[00:54:13](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-54-05)**
+> "...ry much agree on the topic of Israel, but also, just a fun conversation because there ..."
+
+**[00:54:49](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-54-49)**
+> "Not dying for Israel has been a top seller because that's what we're n..."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (4 mentions)</summary>
+
+**[00:30:22](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-israel-t-00-29-58)**
+> "they love Israel above anything else"
+
+**[00:30:17](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-israel-t-00-29-58)**
+> "...g in common is that they love Israel above anything else."
+
+**[00:32:50](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-israel-t-00-32-50)**
+> "..., acting like she cares about Israel, acting like she can really sell the Zionist caus..."
+
+**[00:47:14](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-israel-t-00-46-57)**
+> "...just want to go home clip. C, Israel buying out Thomas Massie's seat. Or D, all of the..."
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (6 mentions)</summary>
+
+**[00:54:19](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-israel-t-00-54-19)**
+> "...it was me changing my mind in Israel and suddenly I'm getting the New York Post treatm..."
+
+**[00:57:12](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-israel-t-00-57-12)**
+> "...the fact that i don't support israel or i don't support whatever his whatever his moti..."
+
+**[01:13:33](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-israel-t-01-13-33)**
+> "...ore him, was pressured by the Israelis to get into and every single one, regardless what..."
+
+**[01:14:45](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-israel-t-01-14-45)**
+> "...his. And yes, it has been for Israel, not to say that Trump wasn't pro-Israel. Most pr..."
+
+**[01:17:02](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-israel-t-01-17-02)**
+> "...o is believed to be living in israel as a fugitive which the israelis will not help us..."
+
+**[01:17:30](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-israel-t-01-17-02)**
+> "...ly passport that he has is an Israeli passport."
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (3 mentions)</summary>
+
+**[00:53:05](/episodes/ep-cPidFQDJLbo.md#ent-gpe-israel-t-00-53-05)**
+> "maybe he was a part of the Israel chat"
+
+**[00:43:25](/episodes/ep-cPidFQDJLbo.md#ent-gpe-israel-t-00-43-09)**
+> "...inly wasn't like covering for israel and it certainly wasn't like trying to paint him ..."
+
+**[00:53:30](/episodes/ep-cPidFQDJLbo.md#ent-gpe-israel-t-00-53-05)**
+> "...hey knew first. Who knows why Israel knew first? Israel didn't do nothing. They've nev..."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (10 mentions)</summary>
+
+**[00:48:28](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-israel-t-00-48-28)**
+> "...ng that actually there was an Israel channel that reported it first and had the inform..."
+
+**[01:08:26](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-israel-t-01-08-26)**
+> "...with the IDF? Why did I go to Israel?"
+
+**[01:08:56](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-israel-t-01-08-56)**
+> "... by the war between Hamas and Israel."
+
+**[01:09:11](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-israel-t-01-09-11)**
+> "...ofit that was based inside of Israel who was a Special Forces IDF guy who's followed u..."
+
+**[01:10:07](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-israel-t-01-09-51)**
+> "...Because I'm not there to back Israel. I'm not there to back Palestinian folks."
+
+**[01:10:40](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-israel-t-01-10-40)**
+> "...k about you're trying what to Israel pull."
+
+**[01:11:45](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-israel-t-01-11-45)**
+> "...e, while we were there on the Israeli side, we had over 2,000 rockets launched at us. H..."
+
+**[01:11:57](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-israel-t-01-11-57)**
+> "mean as israel"
+
+**[01:12:51](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-israel-t-01-12-51)**
+> "...Hamas, that continuous attack Israel, what are you going to do?"
+
+**[01:14:28](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-israel-t-01-14-28)**
+> "...ear your perspectives on what Israel is doing. I think it's probably going to be a num..."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (2 mentions)</summary>
+
+**[00:03:00](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-israel-t-00-02-36)**
+> "But by the Israelis."
+
+**[00:44:37](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-israel-t-00-44-26)**
+> "...ss and affirm his support for Israel after he was sick of their bullying and abandoned..."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (2 mentions)</summary>
+
+**[00:24:41](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-israel-t-00-24-31)**
+> "... doing. She's like a piece of Israeli tech. Again, my opinion, I'm welcome to it. It's ..."
+
+**[00:30:37](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-israel-t-00-30-37)**
+> "... them shabbats right uh these israeli clone accounts that are like super pro erica pro ..."
 
 </details>
 
@@ -4554,7 +4938,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Attacked (1)</summary>
+<summary>Attacked (2)</summary>
 
 - **[United States](/entities/gpe-united-states.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -4563,10 +4947,17 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 </details>
 
+- **[Lebanon](/entities/gpe-lebanon.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens x Ana Kasparian @ 00:37:06](/episodes/ep-SKNJPul29zU.md#t-00-36-49): “You got to understand why Hezbollah exists in the first place. Hezbollah formed in the 1980s after Israel invaded southern Lebanon.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Employs (2)</summary>
+<summary>Employs (3)</summary>
 
 - **[Benjamin Gantz](/entities/person-benjamin-gantz.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -4579,6 +4970,37 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:18:29](/episodes/ep-eMtjzXkQrsU.md#t-00-18-20): “I just want to really underscore here that it is entirely appropriate for us to now state that Salem Media is working as a foreign agent of Israel.”
+
+</details>
+
+- **[Brad Parscale](/entities/person-brad-parscale.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens x Ana Kasparian @ 01:12:41](/episodes/ep-SKNJPul29zU.md#t-01-12-30): “Not Corey Lewandowski. He worked on he got arrested once for like a domestic case and now he's like working for the Israeli government doing propaganda. ... Parscale yes ... Brad Parscale, I”
+
+</details>
+
+</details>
+
+<details>
+<summary>Founded By (1)</summary>
+
+- **[Irgun](/entities/org-irgun.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens x Ana Kasparian @ 00:39:59](/episodes/ep-SKNJPul29zU.md#t-00-39-31): “And so at that time, what my research showed me was that the Irgun, which is one of the three terrorist groups that formed Israel, was attacking the local communities there in Haifa,”
+
+</details>
+
+</details>
+
+<details>
+<summary>Funded (1)</summary>
+
+- **[Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:19:28](/episodes/ep-MhakwJxK-Zk.md#t-00-19-12): “And this was, of course, backed and funded by Israel”
 
 </details>
 
@@ -4607,9 +5029,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <summary>Has Prime Minister (1)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:30:40](/episodes/ep-eMtjzXkQrsU.md#t-00-30-00): “The Ministry of Foreign Affairs. Yeah, you know who would be in charge of that? Bibi (Benjamin Netanyahu). He's the Prime Minister of Israel.”
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:57](/episodes/ep-MhakwJxK-Zk.md#t-00-03-21): “All these people are scoring interviews with the prime minister of Israel, the sitting prime minister of Israel.”
 
 </details>
 
@@ -4647,7 +5070,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Supported By (3)</summary>
+<summary>Supported By (4)</summary>
 
 - **[Michele Bachmann](/entities/person-michele-bachmann.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -4668,6 +5091,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:50:48](/episodes/ep-i8m_6D4QGmk.md#t-00-50-24): “That's why Israel supporters like Bill Ackman went rabid over the weekend over me suggesting that maybe military men shouldn't sign up. Maybe you shouldn't sign up to join the military in America if this is the circumstance that we live in.”
+
+</details>
+
+- **[United States](/entities/gpe-united-states.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens x Ana Kasparian @ 00:14:21](/episodes/ep-SKNJPul29zU.md#t-00-14-10): “we have depleted 80 percent of our missile interceptors because we've given military aid to Israel, Ukraine”
 
 </details>
 
@@ -4712,7 +5142,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Referenced By (20)</summary>
+<summary>Referenced By (25)</summary>
 
 - **[Ian Carroll](/entities/person-ian-carroll.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -4763,6 +5193,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 </details>
 
+- **[Lebanon](/entities/gpe-lebanon.md)** attacked by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens x Ana Kasparian @ 00:37:06](/episodes/ep-SKNJPul29zU.md#t-00-36-49): “You got to understand why Hezbollah exists in the first place. Hezbollah formed in the 1980s after Israel invaded southern Lebanon.”
+
+</details>
+
 - **[Candace Owens](/entities/person-candace-owens.md)** critic of this
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
@@ -4796,6 +5233,20 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 </details>
 
+- **[Irgun](/entities/org-irgun.md)** founded this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens x Ana Kasparian @ 00:39:59](/episodes/ep-SKNJPul29zU.md#t-00-39-31): “And so at that time, what my research showed me was that the Irgun, which is one of the three terrorist groups that formed Israel, was attacking the local communities there in Haifa,”
+
+</details>
+
+- **[Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation.md)** funded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:19:28](/episodes/ep-MhakwJxK-Zk.md#t-00-19-12): “And this was, of course, backed and funded by Israel”
+
+</details>
+
 - **[Safari Club](/entities/org-safari-club.md)** has member this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -4818,9 +5269,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** prime minister of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:30:40](/episodes/ep-eMtjzXkQrsU.md#t-00-30-00): “The Ministry of Foreign Affairs. Yeah, you know who would be in charge of that? Bibi (Benjamin Netanyahu). He's the Prime Minister of Israel.”
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:57](/episodes/ep-MhakwJxK-Zk.md#t-00-03-21): “All these people are scoring interviews with the prime minister of Israel, the sitting prime minister of Israel.”
 
 </details>
 
@@ -4846,6 +5298,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 </details>
 
+- **[United States](/entities/gpe-united-states.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens x Ana Kasparian @ 00:14:21](/episodes/ep-SKNJPul29zU.md#t-00-14-10): “we have depleted 80 percent of our missile interceptors because we've given military aid to Israel, Ukraine”
+
+</details>
+
 - **[Benjamin Gantz](/entities/person-benjamin-gantz.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -4860,12 +5319,19 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 </details>
 
+- **[Brad Parscale](/entities/person-brad-parscale.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens x Ana Kasparian @ 01:12:41](/episodes/ep-SKNJPul29zU.md#t-01-12-30): “Not Corey Lewandowski. He worked on he got arrested once for like a domestic case and now he's like working for the Israeli government doing propaganda. ... Parscale yes ... Brad Parscale, I”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel (219)</strong></summary>
+<summary><strong class="section-title">Statements about Israel (250)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2)</summary>
@@ -4875,6 +5341,134 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [02:37:26](/episodes/ep-nPhCKwJ6ye8.md#t-02-37-26) (Prediction) **Candace Owens**: ["Candace Owens predicts that Israel will ultimately be found to have be..."](/statements/statement-d5c74ed071c8.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (4)</summary>
+
+- [00:16:02](/episodes/ep-YeEtS7nix3o.md#t-00-15-41) (Claim) **Candace Owens**: ["Candace Owens said Congress was moving discreetly to merge the U.S. mi..."](/statements/statement-7b7d85c04586.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+- [00:16:36](/episodes/ep-YeEtS7nix3o.md#t-00-16-24) (Accusation) **Candace Owens**: ["Candace Owens accused Israel of intentionally attacking the USS Libert..."](/statements/statement-051adeefb438.md)
+  - Also about: [United States](/entities/gpe-united-states.md), [USS Liberty](/entities/vehicle-uss-liberty.md), [Phillip F. Tourney](/entities/person-phillip-f-tourney.md)
+
+- [00:33:12](/episodes/ep-YeEtS7nix3o.md#t-00-32-35) (Claim) **Candace Owens**: ["Candace Owens said U.S. sanctions are applied unevenly because Israel ..."](/statements/statement-fbcccab0c0e2.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+- [00:50:30](/episodes/ep-YeEtS7nix3o.md#t-00-50-16) (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk sometimes attended Catholic Mass daily..."](/statements/statement-4c8425264161.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Catholicism](/entities/concept-catholicism.md)
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (12)</summary>
+
+- [00:14:21](/episodes/ep-SKNJPul29zU.md#t-00-14-10) (Claim) **Ana Kasparian**: ["The United States has depleted 80 percent of its missile interceptors ..."](/statements/statement-eaf910590aef.md)
+  - Also about: [United States](/entities/gpe-united-states.md), [Ukraine](/entities/gpe-ukraine.md), [Iran](/entities/gpe-iran.md)
+
+- [00:32:52](/episodes/ep-SKNJPul29zU.md#t-00-32-52) (Accusation) **Ana Kasparian**: ["Donald Trump's current long social-media posts are the rantings of a m..."](/statements/statement-070c510cc4be.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:33:41](/episodes/ep-SKNJPul29zU.md#t-00-33-14) (Accusation) **Ana Kasparian**: ["U.S. policy has been infiltrated by people who put Israel's interests ..."](/statements/statement-8dae7d6e2ff5.md)
+  - Also about: [United States](/entities/gpe-united-states.md), [Iran](/entities/gpe-iran.md)
+
+- [00:35:38](/episodes/ep-SKNJPul29zU.md#t-00-35-23) (Claim) **Ana Kasparian**: ["Israel expanded its occupation of Gaza from 53 percent to 64 percent a..."](/statements/statement-801f8f69d2a6.md)
+  - Also about: [Gaza](/entities/gpe-gaza.md)
+
+- [00:36:49](/episodes/ep-SKNJPul29zU.md#t-00-36-49) (Claim) **Ana Kasparian**: ["Israel began evacuating Lebanese villages north of the Litani River, i..."](/statements/statement-a262f83707da.md)
+  - Also about: [Lebanon](/entities/gpe-lebanon.md), [Litani River](/entities/gpe-litani-river.md)
+
+- [00:37:06](/episodes/ep-SKNJPul29zU.md#t-00-36-49) (Claim) **Ana Kasparian**: ["Hezbollah formed in the 1980s after Israel invaded southern Lebanon."](/statements/statement-a2a552be341f.md)
+  - Also about: [Hezbollah](/entities/org-hezbollah.md), [Lebanon](/entities/gpe-lebanon.md)
+
+- [00:39:59](/episodes/ep-SKNJPul29zU.md#t-00-39-31) (Citation) **Ana Kasparian**: ["Ana Kasparian's research found that Irgun attacked Palestinian and Chr..."](/statements/statement-a4a5f2c0dbcd.md)
+  - Also about: [Irgun](/entities/org-irgun.md), [Haifa](/entities/gpe-haifa.md), [Christians](/entities/concept-christians.md)
+
+- [00:40:59](/episodes/ep-SKNJPul29zU.md#t-00-40-59) (Claim) **Ana Kasparian**: ["Rahm Emanuel served in the Israel Defense Forces."](/statements/statement-46f769a4c89c.md)
+  - Also about: [Rahm Emanuel](/entities/person-rahm-emanuel.md)
+
+- [00:42:13](/episodes/ep-SKNJPul29zU.md#t-00-42-13) (Claim) **Ana Kasparian**: ["Jeffrey Epstein arranged international deals on Israel's behalf, inclu..."](/statements/statement-e5c904c5ad6f.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [United Arab Emirates](/entities/gpe-united-arab-emirates.md)
+
+- [00:44:11](/episodes/ep-SKNJPul29zU.md#t-00-43-58) (Opinion) **Ana Kasparian** (via paraphrase): ["Donald Trump was communicating that he acts for Israel because Miriam ..."](/statements/statement-42ff8b371906.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Miriam Adelson](/entities/person-miriam-adelson.md), [United States](/entities/gpe-united-states.md)
+
+- [01:12:28](/episodes/ep-SKNJPul29zU.md#t-01-12-28) (Accusation) **Ana Kasparian**: ["Brad Parscale is working for the Israeli government in a propaganda ro..."](/statements/statement-58de25224ccc.md)
+  - Also about: [Brad Parscale](/entities/person-brad-parscale.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [01:22:13](/episodes/ep-SKNJPul29zU.md#t-01-21-57) (Accusation) **Ana Kasparian**: ["Under Barack Obama, the United States armed Al-Qaeda offshoots while h..."](/statements/statement-4f3517030c2c.md)
+  - Also about: [Barack Obama](/entities/person-barack-obama.md), [United States](/entities/gpe-united-states.md), [Syria](/entities/gpe-syria.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (8)</summary>
+
+- [00:08:33](/episodes/ep-MhakwJxK-Zk.md#t-00-08-33) (Claim) **Candace Owens**: ["On April 14, 2024, during Iran and Hezbollah's retaliation for Israel'..."](/statements/statement-0da01f4e9173.md)
+  - Also about: [SU-BTU](/entities/vehicle-su-btu.md), [Cairo](/entities/gpe-cairo.md), [Paris](/entities/gpe-paris.md)
+
+- [00:09:05](/episodes/ep-MhakwJxK-Zk.md#t-00-08-33) (Opinion) **Candace Owens**: ["It is possible that Israeli VIPs use Egyptian planes during wartime, a..."](/statements/statement-f31e358659bc.md)
+  - Also about: [Egypt](/entities/gpe-egypt.md)
+
+- [00:17:57](/episodes/ep-MhakwJxK-Zk.md#t-00-17-16) (Claim) **Financial Times** (via quoted article): ["Financial Times reporting, as summarized by an unnamed website read by..."](/statements/statement-57524691aad5.md)
+  - Also about: [Boston Consulting Group](/entities/org-boston-consulting-group.md), [Project Aurora (BCG Gaza project)](/entities/work-project-aurora-bcg-gaza.md)
+
+- [00:19:28](/episodes/ep-MhakwJxK-Zk.md#t-00-19-12) (Accusation) **Candace Owens**: ["The Gaza Humanitarian Foundation's distribution hubs became killing fi..."](/statements/statement-53562c0d0ab7.md)
+  - Also about: [Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Palestinians](/entities/concept-palestinians.md)
+
+- [00:35:38](/episodes/ep-MhakwJxK-Zk.md#t-00-35-16) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said that later on September 9 Charlie Kirk sent message..."](/statements/statement-0e474b7d7261.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Josh Hammer](/entities/person-josh-hammer.md)
+
+- [00:36:10](/episodes/ep-MhakwJxK-Zk.md#t-00-36-00) (Claim) **Benjamin Netanyahu** (via quoted speech): ["Israel did not kill Charlie Kirk."](/statements/statement-d597ff321925.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+- [00:47:30](/episodes/ep-MhakwJxK-Zk.md#t-00-47-30) (Opinion) **Candace Owens**: ["Charlie Kirk's assassination catalyzed American anger toward Israel."](/statements/statement-0411379fbce5.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [United States](/entities/gpe-united-states.md)
+
+- [00:51:19](/episodes/ep-MhakwJxK-Zk.md#t-00-50-44) (Opinion) **Candace Owens**: ["The United States is an occupied nation under Israeli influence."](/statements/statement-bd725ae071e8.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
+
+- [00:32:18](/episodes/ep-BxN2-aeMYIs.md#t-00-32-18) (Opinion) **Candace Owens**: ["Natalie Beisner is another washed-up D-list actress whose last act is ..."](/statements/statement-13951b16e411.md)
+  - Also about: [Natalie Jean Beisner](/entities/person-natalie-jean-beisner.md), [Zionism](/entities/concept-zionism.md)
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (2)</summary>
+
+- [01:16:51](/episodes/ep-Ux1kzgQxkws.md#t-01-16-23) (Claim) **Hunter Biden**: ["Gal Luft is a former IDF officer and fugitive wanted by Interpol and t..."](/statements/statement-b0688a9e9f96.md)
+  - Also about: [Gal Luft](/entities/person-gal-luft.md), [INTERPOL](/entities/org-interpol.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md)
+
+- [01:17:02](/episodes/ep-Ux1kzgQxkws.md#t-01-17-02) (Claim) **Hunter Biden**: ["Alexander Smirnov is an Israeli intelligence agent serving six years i..."](/statements/statement-85e5534b24a0.md)
+  - Also about: [Alexander Smirnov](/entities/person-alexander-smirnov.md), [United States](/entities/gpe-united-states.md)
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1)</summary>
+
+- [00:53:30](/episodes/ep-cPidFQDJLbo.md#t-00-53-05) (Accusation) **Candace Owens**: ["Israel didn't do nothing. They've never done anything other than assas..."](/statements/statement-9b60868951d0.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (3)</summary>
+
+- [01:08:56](/episodes/ep-Dkxa9OUA9K8.md#t-01-08-56) (Claim) **Victor Marx**: ["Victor Marx says his organization helped 6,000 children affected by th..."](/statements/statement-cee03df0c038.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [All Things Possible Ministries](/entities/org-all-things-possible-ministries.md), [Hamas](/entities/org-hamas.md)
+
+- [01:09:32](/episodes/ep-Dkxa9OUA9K8.md#t-01-09-11) (Claim) **Victor Marx** (via paraphrase): ["Victor Marx says Israeli contacts told him their forces were unprepare..."](/statements/statement-98e0f4782b76.md)
+  - Also about: [Israel Defense Forces](/entities/org-israel-defense-forces.md)
+
+- [01:12:14](/episodes/ep-Dkxa9OUA9K8.md#t-01-12-14) (Opinion) **Victor Marx**: ["Victor Marx says Israel's actions in Gaza have turned into a genocide."](/statements/statement-ac24e2de0aab.md)
+  - Also about: [Gaza](/entities/gpe-gaza.md)
 
 </details>
 

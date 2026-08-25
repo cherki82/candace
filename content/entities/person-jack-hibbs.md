@@ -1,24 +1,30 @@
 ---
 title: "Jack Hibbs"
-description: "Jack Hibbs (People) - 18 mentions"
+description: "Jack Hibbs (People) - 21 mentions"
 id: "person-jack-hibbs"
 type: "PERSON"
 aliases:
   - "Pastor Jack Hibbs"
+categories:
+  - "Christian pastor"
+  - "Calvary Chapel Chino Hills"
 ---
 
 _Type: People_
 
 **Also known as:** Pastor Jack Hibbs
 
+**Categories:** Christian pastor, Calvary Chapel Chino Hills
+
 **Entity verification:** verified
-> Pastor discussed in the episode.
+> Official biography identifies Jack Hibbs as senior and founding pastor of Calvary Chapel Chino Hills and founder/president of Real Life ministry.
+Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/about-jack-hibbs/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-jack-hibbs-t-00-59-37">2025-10-31 · 00:59:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jack-hibbs-t-00-19-58">2026-01-09 · 00:20:40</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-cPidFQDJLbo.md#ent-person-jack-hibbs-t-00-53-05">2026-05-20 · 00:53:05</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -35,6 +41,8 @@ _Type: People_
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-jack-hibbs-t-00-44-42" style="--pulse-height:20%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-16-27" style="--pulse-height:60%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jack-hibbs-t-00-19-58" style="--pulse-height:20%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-jack-hibbs-t-00-47-57" style="--pulse-height:40%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 2 mentions" title="2026-05-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-person-jack-hibbs-t-00-53-05" style="--pulse-height:20%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +54,8 @@ _Type: People_
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-jack-hibbs-t-00-44-42) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-16-27) | 3 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-jack-hibbs-t-00-19-58) | 1 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-person-jack-hibbs-t-00-47-57) | 2 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-jack-hibbs-t-00-53-05) | 1 |
 
 </details>
 </section>
@@ -53,7 +63,26 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1 mentions)</summary>
+
+**[00:53:05](/episodes/ep-cPidFQDJLbo.md#ent-person-jack-hibbs-t-00-53-05)**
+> "Pastor Jack Hibbs"
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (2 mentions)</summary>
+
+**[00:48:16](/episodes/ep-Dkxa9OUA9K8.md#ent-person-jack-hibbs-t-00-47-57)**
+> "... did post early on, I believe Jack Hibbs, Amir Tsarfati, I think."
+
+**[00:48:28](/episodes/ep-Dkxa9OUA9K8.md#ent-person-jack-hibbs-t-00-48-28)**
+> "...t faith orbit of pastors. And Jack Hibbs took down a video saying that actually there was ..."
+
+</details>
 
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1 mentions)</summary>

@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 1323_
+_Total events: 1410_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -164,6 +164,8 @@ _Total events: 1323_
 #tab-year-1975:checked ~ .tab-controls label[for="tab-year-1975"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1974:checked ~ .tab-content-year-1974 { display: block; }
 #tab-year-1974:checked ~ .tab-controls label[for="tab-year-1974"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
+#tab-year-1972:checked ~ .tab-content-year-1972 { display: block; }
+#tab-year-1972:checked ~ .tab-controls label[for="tab-year-1972"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1971:checked ~ .tab-content-year-1971 { display: block; }
 #tab-year-1971:checked ~ .tab-controls label[for="tab-year-1971"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1970:checked ~ .tab-content-year-1970 { display: block; }
@@ -186,6 +188,8 @@ _Total events: 1323_
 #tab-year-1950:checked ~ .tab-controls label[for="tab-year-1950"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1948:checked ~ .tab-content-year-1948 { display: block; }
 #tab-year-1948:checked ~ .tab-controls label[for="tab-year-1948"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
+#tab-year-1947:checked ~ .tab-content-year-1947 { display: block; }
+#tab-year-1947:checked ~ .tab-controls label[for="tab-year-1947"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1946:checked ~ .tab-content-year-1946 { display: block; }
 #tab-year-1946:checked ~ .tab-controls label[for="tab-year-1946"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1944:checked ~ .tab-content-year-1944 { display: block; }
@@ -196,8 +200,12 @@ _Total events: 1323_
 #tab-year-1941:checked ~ .tab-controls label[for="tab-year-1941"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1940:checked ~ .tab-content-year-1940 { display: block; }
 #tab-year-1940:checked ~ .tab-controls label[for="tab-year-1940"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
+#tab-year-1937:checked ~ .tab-content-year-1937 { display: block; }
+#tab-year-1937:checked ~ .tab-controls label[for="tab-year-1937"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1935:checked ~ .tab-content-year-1935 { display: block; }
 #tab-year-1935:checked ~ .tab-controls label[for="tab-year-1935"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
+#tab-year-1933:checked ~ .tab-content-year-1933 { display: block; }
+#tab-year-1933:checked ~ .tab-controls label[for="tab-year-1933"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1929:checked ~ .tab-content-year-1929 { display: block; }
 #tab-year-1929:checked ~ .tab-controls label[for="tab-year-1929"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1923:checked ~ .tab-content-year-1923 { display: block; }
@@ -206,6 +214,8 @@ _Total events: 1323_
 #tab-year-1919:checked ~ .tab-controls label[for="tab-year-1919"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1918:checked ~ .tab-content-year-1918 { display: block; }
 #tab-year-1918:checked ~ .tab-controls label[for="tab-year-1918"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
+#tab-year-1917:checked ~ .tab-content-year-1917 { display: block; }
+#tab-year-1917:checked ~ .tab-controls label[for="tab-year-1917"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1913:checked ~ .tab-content-year-1913 { display: block; }
 #tab-year-1913:checked ~ .tab-controls label[for="tab-year-1913"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1908:checked ~ .tab-content-year-1908 { display: block; }
@@ -268,6 +278,7 @@ _Total events: 1323_
 <input type="radio" id="tab-year-1976" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1975" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1974" name="timeline-tab" class="tab-radio">
+<input type="radio" id="tab-year-1972" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1971" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1970" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1969" name="timeline-tab" class="tab-radio">
@@ -279,16 +290,20 @@ _Total events: 1323_
 <input type="radio" id="tab-year-1954" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1950" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1948" name="timeline-tab" class="tab-radio">
+<input type="radio" id="tab-year-1947" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1946" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1944" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1943" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1941" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1940" name="timeline-tab" class="tab-radio">
+<input type="radio" id="tab-year-1937" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1935" name="timeline-tab" class="tab-radio">
+<input type="radio" id="tab-year-1933" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1929" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1923" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1919" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1918" name="timeline-tab" class="tab-radio">
+<input type="radio" id="tab-year-1917" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1913" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1908" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1881" name="timeline-tab" class="tab-radio">
@@ -296,25 +311,25 @@ _Total events: 1323_
 <input type="radio" id="tab-year-1848" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-year-2026" class="tab-btn">2026 (141)</label>
-  <label for="tab-year-2025" class="tab-btn">2025 (648)</label>
-  <label for="tab-year-2024" class="tab-btn">2024 (84)</label>
-  <label for="tab-year-2023" class="tab-btn">2023 (25)</label>
-  <label for="tab-year-2022" class="tab-btn">2022 (15)</label>
-  <label for="tab-year-2021" class="tab-btn">2021 (17)</label>
-  <label for="tab-year-2020" class="tab-btn">2020 (11)</label>
-  <label for="tab-year-2019" class="tab-btn">2019 (24)</label>
+  <label for="tab-year-2026" class="tab-btn">2026 (175)</label>
+  <label for="tab-year-2025" class="tab-btn">2025 (677)</label>
+  <label for="tab-year-2024" class="tab-btn">2024 (88)</label>
+  <label for="tab-year-2023" class="tab-btn">2023 (28)</label>
+  <label for="tab-year-2022" class="tab-btn">2022 (17)</label>
+  <label for="tab-year-2021" class="tab-btn">2021 (18)</label>
+  <label for="tab-year-2020" class="tab-btn">2020 (12)</label>
+  <label for="tab-year-2019" class="tab-btn">2019 (25)</label>
   <label for="tab-year-2018" class="tab-btn">2018 (39)</label>
   <label for="tab-year-2017" class="tab-btn">2017 (15)</label>
   <label for="tab-year-2016" class="tab-btn">2016 (13)</label>
-  <label for="tab-year-2015" class="tab-btn">2015 (9)</label>
+  <label for="tab-year-2015" class="tab-btn">2015 (10)</label>
   <label for="tab-year-2014" class="tab-btn">2014 (19)</label>
   <label for="tab-year-2013" class="tab-btn">2013 (13)</label>
   <label for="tab-year-2012" class="tab-btn">2012 (22)</label>
   <label for="tab-year-2011" class="tab-btn">2011 (12)</label>
-  <label for="tab-year-2010" class="tab-btn">2010 (13)</label>
+  <label for="tab-year-2010" class="tab-btn">2010 (14)</label>
   <label for="tab-year-2009" class="tab-btn">2009 (13)</label>
-  <label for="tab-year-2008" class="tab-btn">2008 (9)</label>
+  <label for="tab-year-2008" class="tab-btn">2008 (10)</label>
   <label for="tab-year-2007" class="tab-btn">2007 (11)</label>
   <label for="tab-year-2006" class="tab-btn">2006 (9)</label>
   <label for="tab-year-2005" class="tab-btn">2005 (8)</label>
@@ -346,30 +361,35 @@ _Total events: 1323_
   <label for="tab-year-1976" class="tab-btn">1976 (3)</label>
   <label for="tab-year-1975" class="tab-btn">1975 (2)</label>
   <label for="tab-year-1974" class="tab-btn">1974 (4)</label>
+  <label for="tab-year-1972" class="tab-btn">1972 (2)</label>
   <label for="tab-year-1971" class="tab-btn">1971 (3)</label>
   <label for="tab-year-1970" class="tab-btn">1970 (4)</label>
   <label for="tab-year-1969" class="tab-btn">1969 (2)</label>
-  <label for="tab-year-1968" class="tab-btn">1968 (2)</label>
+  <label for="tab-year-1968" class="tab-btn">1968 (3)</label>
   <label for="tab-year-1967" class="tab-btn">1967 (2)</label>
   <label for="tab-year-1965" class="tab-btn">1965 (2)</label>
   <label for="tab-year-1964" class="tab-btn">1964 (1)</label>
   <label for="tab-year-1963" class="tab-btn">1963 (5)</label>
   <label for="tab-year-1954" class="tab-btn">1954 (2)</label>
   <label for="tab-year-1950" class="tab-btn">1950 (1)</label>
-  <label for="tab-year-1948" class="tab-btn">1948 (2)</label>
+  <label for="tab-year-1948" class="tab-btn">1948 (3)</label>
+  <label for="tab-year-1947" class="tab-btn">1947 (1)</label>
   <label for="tab-year-1946" class="tab-btn">1946 (1)</label>
   <label for="tab-year-1944" class="tab-btn">1944 (1)</label>
   <label for="tab-year-1943" class="tab-btn">1943 (1)</label>
   <label for="tab-year-1941" class="tab-btn">1941 (1)</label>
   <label for="tab-year-1940" class="tab-btn">1940 (1)</label>
+  <label for="tab-year-1937" class="tab-btn">1937 (1)</label>
   <label for="tab-year-1935" class="tab-btn">1935 (1)</label>
+  <label for="tab-year-1933" class="tab-btn">1933 (1)</label>
   <label for="tab-year-1929" class="tab-btn">1929 (1)</label>
   <label for="tab-year-1923" class="tab-btn">1923 (1)</label>
   <label for="tab-year-1919" class="tab-btn">1919 (1)</label>
   <label for="tab-year-1918" class="tab-btn">1918 (1)</label>
+  <label for="tab-year-1917" class="tab-btn">1917 (1)</label>
   <label for="tab-year-1913" class="tab-btn">1913 (1)</label>
   <label for="tab-year-1908" class="tab-btn">1908 (1)</label>
-  <label for="tab-year-1881" class="tab-btn">1881 (1)</label>
+  <label for="tab-year-1881" class="tab-btn">1881 (2)</label>
   <label for="tab-year-1856" class="tab-btn">1856 (1)</label>
   <label for="tab-year-1848" class="tab-btn">1848 (1)</label>
 </div>
@@ -393,6 +413,83 @@ _Total events: 1323_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Ki... @ 03:56:22](/episodes/ep-nPhCKwJ6ye8.md#t-03-56-22)
+
+</details>
+</div>
+
+**June**
+
+<div class="timeline-event filter-item" id="event-2026-06-alex-clark-announces-her-engagement-to-v">
+<div class="timeline-date">2026-06</div>
+<div class="timeline-desc"><a href="/events/event-2026-06-alex-clark-announces-her-engagement-to-v.md">Alex Clark announces her engagement to Vance Voetberg at the 2026 Women's Leadership Summit</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-06: Alex Clark announces her engagement to Vance Voetberg at the 2026 Women\'s Leadership Summit - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Del... @ 00:55:42](/episodes/ep-YeEtS7nix3o.md#t-00-55-19)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-06-turning-point-usa-presents-a-clip-purpor">
+<div class="timeline-date">2026-06</div>
+<div class="timeline-desc"><a href="/events/event-2026-06-turning-point-usa-presents-a-clip-purpor.md">Turning Point USA presents a clip purporting to show Charlie Kirk naming Erika Kirk as successor</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-06: Turning Point USA presents a clip purporting to show Charlie Kirk naming Erika Kirk as successor - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Del... @ 00:55:42](/episodes/ep-YeEtS7nix3o.md#t-00-55-19)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-06-08-candace-owenss-team-narrows-a-white-hous">
+<div class="timeline-date">2026-06-08</div>
+<div class="timeline-desc"><a href="/events/event-2026-06-08-candace-owenss-team-narrows-a-white-hous.md">Candace Owens's team narrows a White House FOIA request concerning Erika Kirk-related emails</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-06-08: Candace Owens\'s team narrows a White House FOIA request concerning Erika Kirk-related emails - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Del... @ 01:19:42](/episodes/ep-YeEtS7nix3o.md#t-01-19-11)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-06-05-turning-point-usa-opens-its-2026-womens-">
+<div class="timeline-date">2026-06-05</div>
+<div class="timeline-desc"><a href="/events/event-2026-06-05-turning-point-usa-opens-its-2026-womens-.md">Turning Point USA opens its 2026 Women's Leadership Summit</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-06-05: Turning Point USA opens its 2026 Women\'s Leadership Summit - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Del... @ 00:38:18](/episodes/ep-YeEtS7nix3o.md#t-00-38-00)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-06-04-candace-owens-speaks-on-a-family-panel-a">
+<div class="timeline-date">2026-06-04</div>
+<div class="timeline-desc"><a href="/events/event-2026-06-04-candace-owens-speaks-on-a-family-panel-a.md">Candace Owens speaks on a family panel at SPIEF 2026</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-06-04: Candace Owens speaks on a family panel at SPIEF 2026 - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Del... @ 00:04:07](/episodes/ep-YeEtS7nix3o.md#t-00-04-01)
 
 </details>
 </div>
@@ -445,6 +542,294 @@ _Total events: 1323_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-05-a-golden-statue-of-donald-trump-was-unve">
+<div class="timeline-date">2026-05</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-a-golden-statue-of-donald-trump-was-unve.md">A 22-foot golden statue of Donald Trump was unveiled at one of his Florida golf courses.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05: A 22-foot golden statue of Donald Trump was unveiled at one of his Florida golf courses. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [SUSPICIOUS: More Bizarre Details From WHCD Shoo... @ 00:42:26](/episodes/ep-Pb7UlpRdW6U.md#t-00-42-10)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-candace-owens-interviewed-hunter-biden-a">
+<div class="timeline-date">2026-05</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-candace-owens-interviewed-hunter-biden-a.md">Candace Owens interviewed Hunter Biden at her home.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">3× in 3 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05: Candace Owens interviewed Hunter Biden at her home. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Hunter Biden Returns. The White House Ghosts Me... @ 00:00:10](/episodes/ep-1QZ4X6q1DPg.md#t-00-00-01)
+- [Candace x Hunter Biden: The Interview @ 00:01:15](/episodes/ep-Ux1kzgQxkws.md#t-00-01-15)
+- [The World Is A Stage: Trump Survives...Again? |... @ 00:43:15](/episodes/ep-BxN2-aeMYIs.md#t-00-42-57)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-the-daily-mail-received-exclusive-access">
+<div class="timeline-date">2026-05</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-the-daily-mail-received-exclusive-access.md">The Daily Mail received exclusive access to screen the full video of the Turning Point USA Aspen donor conference.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05: The Daily Mail received exclusive access to screen the full video of the Turning Point USA Aspen donor conference. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Hunter Biden Returns. The White House Ghosts Me... @ 00:18:51](/episodes/ep-1QZ4X6q1DPg.md#t-00-18-51)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-the-white-house-press-office-responded-t">
+<div class="timeline-date">2026-05</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-the-white-house-press-office-responded-t.md">The White House press office responded to Candace Owens with a denial limited to the White House Military Office.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05: The White House press office responded to Candace Owens with a denial limited to the White House Military Office. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Hunter Biden Returns. The White House Ghosts Me... @ 00:34:23](/episodes/ep-1QZ4X6q1DPg.md#t-00-34-23)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-theo-von-publicly-responded-to-joe-rogan">
+<div class="timeline-date">2026-05</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-theo-von-publicly-responded-to-joe-rogan.md">Theo Von publicly responded to Joe Rogan's comments about him.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05: Theo Von publicly responded to Joe Rogan\'s comments about him. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [TRENDING! I Send Out Some Legal Letters. Victor... @ 00:41:49](/episodes/ep-cPidFQDJLbo.md#t-00-41-49)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-the-nsa-said-it-redirected-candace-owens">
+<div class="timeline-date">2026-05</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-the-nsa-said-it-redirected-candace-owens.md">The NSA said it redirected Candace Owens's records request to the Office of the Secretary of War and/or the Joint Staff.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05: The NSA said it redirected Candace Owens\'s records request to the Office of the Secretary of War and/or the Joint Staff. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [The World Is A Stage: Trump Survives...Again? |... @ 00:06:29](/episodes/ep-BxN2-aeMYIs.md#t-00-06-29)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-natalie-jean-beisner-posted-an-insult-ab">
+<div class="timeline-date">2026-05</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-natalie-jean-beisner-posted-an-insult-ab.md">Natalie Jean Beisner posted an insult about Candace Owens's three-year-old daughter.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05: Natalie Jean Beisner posted an insult about Candace Owens\'s three-year-old daughter. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [The World Is A Stage: Trump Survives...Again? |... @ 00:31:22](/episodes/ep-BxN2-aeMYIs.md#t-00-31-22)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-the-hollywood-reporter-published-an-arti">
+<div class="timeline-date">2026-05</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-the-hollywood-reporter-published-an-arti.md">The Hollywood Reporter published an article about Hunter Biden's interview with Candace Owens and her Brigitte Macron doll.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05: The Hollywood Reporter published an article about Hunter Biden\'s interview with Candace Owens and her Brigitte Macron doll. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [The World Is A Stage: Trump Survives...Again? |... @ 00:00:26](/episodes/ep-BxN2-aeMYIs.md#t-00-00-01)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-candace-owens-is-confirmed-into-the-cath">
+<div class="timeline-date">2026-05</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-candace-owens-is-confirmed-into-the-cath.md">Candace Owens is confirmed into the Catholic Church during an Italy trip</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05: Candace Owens is confirmed into the Catholic Church during an Italy trip - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Del... @ 00:01:26](/episodes/ep-YeEtS7nix3o.md#t-00-01-26)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-23-a-gunman-opened-fire-near-a-white-house-">
+<div class="timeline-date">2026-05-23</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-23-a-gunman-opened-fire-near-a-white-house-.md">A gunman opened fire near a White House security checkpoint and died after Secret Service officers returned fire.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05-23: A gunman opened fire near a White House security checkpoint and died after Secret Service officers returned fire. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [The World Is A Stage: Trump Survives...Again? |... @ 00:03:23](/episodes/ep-BxN2-aeMYIs.md#t-00-03-03)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-22-gabrielle-cuccia-published-allegations-t">
+<div class="timeline-date">2026-05-22</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-22-gabrielle-cuccia-published-allegations-t.md">Gabrielle Cuccia published allegations that Vine and Fig Tree worked with the White House on influence materials.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05-22: Gabrielle Cuccia published allegations that Vine and Fig Tree worked with the White House on influence materials. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [The World Is A Stage: Trump Survives...Again? |... @ 00:13:49](/episodes/ep-BxN2-aeMYIs.md#t-00-13-49)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-20-candace-owens-sent-victor-marx-a-legal-p">
+<div class="timeline-date">2026-05-20</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-20-candace-owens-sent-victor-marx-a-legal-p.md">Candace Owens sent Victor Marx a legal preservation letter in her lawsuit with Brian Harpole.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05-20: Candace Owens sent Victor Marx a legal preservation letter in her lawsuit with Brian Harpole. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [TRENDING! I Send Out Some Legal Letters. Victor... @ 00:13:02](/episodes/ep-cPidFQDJLbo.md#t-00-13-02)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-20-candace-owens-sent-paramount-a-legal-pre">
+<div class="timeline-date">2026-05-20</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-20-candace-owens-sent-paramount-a-legal-pre.md">Candace Owens sent Paramount a legal preservation letter.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05-20: Candace Owens sent Paramount a legal preservation letter. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [TRENDING! I Send Out Some Legal Letters. Victor... @ 00:15:57](/episodes/ep-cPidFQDJLbo.md#t-00-15-28)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-19-thomas-massie-lost-the-kentucky-4th-cong">
+<div class="timeline-date">2026-05-19</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-19-thomas-massie-lost-the-kentucky-4th-cong.md">Thomas Massie lost the Kentucky 4th Congressional District Republican primary to Ed Gallrein.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05-19: Thomas Massie lost the Kentucky 4th Congressional District Republican primary to Ed Gallrein. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [TRENDING! I Send Out Some Legal Letters. Victor... @ 00:00:00](/episodes/ep-cPidFQDJLbo.md#t-00-00-00)
+- [The World Is A Stage: Trump Survives...Again? |... @ 00:36:58](/episodes/ep-BxN2-aeMYIs.md#t-00-36-58)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-19-candace-owens-interviewed-colorado-guber">
+<div class="timeline-date">2026-05-19</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-19-candace-owens-interviewed-colorado-guber.md">Candace Owens interviewed Colorado gubernatorial candidate Victor Marx.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05-19: Candace Owens interviewed Colorado gubernatorial candidate Victor Marx. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [TRENDING! I Send Out Some Legal Letters. Victor... @ 00:01:08](/episodes/ep-cPidFQDJLbo.md#t-00-00-44)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-19-tyler-robinsons-defense-asked-to-seal-ev">
+<div class="timeline-date">2026-05-19</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-19-tyler-robinsons-defense-asked-to-seal-ev.md">Tyler Robinson's defense asked to seal evidence and restrict parts of his preliminary hearing.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05-19: Tyler Robinson\'s defense asked to seal evidence and restrict parts of his preliminary hearing. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [TRENDING! I Send Out Some Legal Letters. Victor... @ 00:34:33](/episodes/ep-cPidFQDJLbo.md#t-00-34-18)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-19-joe-rogan-publicly-apologized-to-theo-vo">
+<div class="timeline-date">2026-05-19</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-19-joe-rogan-publicly-apologized-to-theo-vo.md">Joe Rogan publicly apologized to Theo Von for discussing his mental health.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05-19: Joe Rogan publicly apologized to Theo Von for discussing his mental health. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [TRENDING! I Send Out Some Legal Letters. Victor... @ 00:42:28](/episodes/ep-cPidFQDJLbo.md#t-00-42-28)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-18-candace-owens-released-a-trailer-for-her">
+<div class="timeline-date">2026-05-18</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-18-candace-owens-released-a-trailer-for-her.md">Candace Owens released a trailer for her interview with Hunter Biden.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05-18: Candace Owens released a trailer for her interview with Hunter Biden. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Hunter Biden Returns. The White House Ghosts Me... @ 00:01:17](/episodes/ep-1QZ4X6q1DPg.md#t-00-01-17)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-18-a-canadian-couple-associated-with-victor">
+<div class="timeline-date">2026-05-18</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-18-a-canadian-couple-associated-with-victor.md">A Canadian couple associated with Victor Marx posted a video of Holly Chalmers about his efforts to help her</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05-18: A Canadian couple associated with Victor Marx posted a video of Holly Chalmers about his efforts to help her - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9... @ 01:04:41](/episodes/ep-Dkxa9OUA9K8.md#t-01-04-41)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2026-05-10-project-constitution-posted-a-rumor-that">
 <div class="timeline-date">2026-05-10</div>
 <div class="timeline-desc"><a href="/events/event-2026-05-10-project-constitution-posted-a-rumor-that.md">Project Constitution posted a rumor that Andrew Kolvet was divorcing his wife.</a></div>
@@ -490,6 +875,21 @@ _Total events: 1323_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-05-08-the-charlie-kirk-show-discussed-listener">
+<div class="timeline-date">2026-05-08</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-08-the-charlie-kirk-show-discussed-listener.md">The Charlie Kirk Show discussed listener pressure on Preborn over its sponsorship of Candace Owens.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05-08: The Charlie Kirk Show discussed listener pressure on Preborn over its sponsorship of Candace Owens. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [SUSPICIOUS: More Bizarre Details From WHCD Shoo... @ 00:31:11](/episodes/ep-Pb7UlpRdW6U.md#t-00-30-37)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2026-05-07-the-daily-mail-published-an-article-abou">
 <div class="timeline-date">2026-05-07</div>
 <div class="timeline-desc"><a href="/events/event-2026-05-07-the-daily-mail-published-an-article-abou.md">The Daily Mail published an article about the marriage of Jessica Reed Kraus.</a></div>
@@ -516,6 +916,21 @@ _Total events: 1323_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [STAGED? Erika’s VIRAL White House Correspondent... @ 00:22:39](/episodes/ep-FFQ9675oqRI.md#t-00-22-39)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-06-the-white-house-released-the-2026-united">
+<div class="timeline-date">2026-05-06</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-06-the-white-house-released-the-2026-united.md">The White House released the 2026 United States Counterterrorism Strategy.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05-06: The White House released the 2026 United States Counterterrorism Strategy. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [The World Is A Stage: Trump Survives...Again? |... @ 00:24:12](/episodes/ep-BxN2-aeMYIs.md#t-00-24-12)
 
 </details>
 </div>
@@ -547,6 +962,21 @@ _Total events: 1323_
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE... @ 00:53:31](/episodes/ep-uC_GjKU8rs8.md#t-00-53-01)
 - [A Tale of Two PR Disasters: Blake Lively & Turn... @ 00:52:53](/episodes/ep-eMtjzXkQrsU.md#t-00-52-53)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-05-04-box-elder-county-commissioners-approved-">
+<div class="timeline-date">2026-05-04</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-04-box-elder-county-commissioners-approved-.md">Box Elder County commissioners approved resolutions authorizing the Stratos AI data center project area.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05-04: Box Elder County commissioners approved resolutions authorizing the Stratos AI data center project area. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [SUSPICIOUS: More Bizarre Details From WHCD Shoo... @ 00:18:41](/episodes/ep-Pb7UlpRdW6U.md#t-00-18-36)
 
 </details>
 </div>
@@ -663,7 +1093,7 @@ _Total events: 1323_
 <div class="timeline-date">2026-04</div>
 <div class="timeline-desc"><a href="/events/event-2026-04-candace-owens-received-catholic-confirma.md">Candace Owens received Catholic confirmation in Rome in the old Latin rite.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-04: Candace Owens received Catholic confirmation in Rome in the old Latin rite. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -671,6 +1101,7 @@ _Total events: 1323_
 
 - [TIME MAGAZINE: World’s Most VILE Person?! | Can... @ 01:07:36](/episodes/ep-qZ8RWfyuewQ.md#t-01-07-11)
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE... @ 00:59:08](/episodes/ep-uC_GjKU8rs8.md#t-00-59-08)
+- [Candace x Hunter Biden: The Interview @ 01:41:56](/episodes/ep-Ux1kzgQxkws.md#t-01-41-43)
 
 </details>
 </div>
@@ -687,6 +1118,21 @@ _Total events: 1323_
 
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace... @ 00:01:23](/episodes/ep-69A8TzAGHlU.md#t-00-01-23)
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE... @ 00:32:23](/episodes/ep-uC_GjKU8rs8.md#t-00-32-05)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-candace-owens-said-erika-kirk-visited-th">
+<div class="timeline-date">2026-04</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-candace-owens-said-erika-kirk-visited-th.md">Candace Owens said Erika Kirk visited the West Wing shortly before the April 25 White House Correspondents' Dinner shooting.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04: Candace Owens said Erika Kirk visited the West Wing shortly before the April 25 White House Correspondents\' Dinner shooting. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [SUSPICIOUS: More Bizarre Details From WHCD Shoo... @ 00:06:33](/episodes/ep-Pb7UlpRdW6U.md#t-00-06-08)
 
 </details>
 </div>
@@ -728,7 +1174,7 @@ _Total events: 1323_
 <div class="timeline-date">2026-04-29</div>
 <div class="timeline-desc"><a href="/events/event-2026-04-29-erika-kirk-said-on-the-charlie-kirk-show.md">Erika Kirk said on the Charlie Kirk Show that Candace Owens claimed she murdered her husband.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-29: Erika Kirk said on the Charlie Kirk Show that Candace Owens claimed she murdered her husband. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -736,6 +1182,7 @@ _Total events: 1323_
 
 - [TIME MAGAZINE: World’s Most VILE Person?! | Can... @ 00:47:31](/episodes/ep-qZ8RWfyuewQ.md#t-00-47-25)
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace... @ 00:50:44](/episodes/ep-69A8TzAGHlU.md#t-00-50-20)
+- [SUSPICIOUS: More Bizarre Details From WHCD Shoo... @ 00:16:12](/episodes/ep-Pb7UlpRdW6U.md#t-00-16-12)
 
 </details>
 </div>
@@ -785,17 +1232,49 @@ _Total events: 1323_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-04-26-a-letter-alleging-that-victor-marx-abuse">
+<div class="timeline-date">2026-04-26</div>
+<div class="timeline-desc"><a href="/events/event-2026-04-26-a-letter-alleging-that-victor-marx-abuse.md">A letter alleging that Victor Marx abused his daughter was sent to his organization's board</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-26: A letter alleging that Victor Marx abused his daughter was sent to his organization\'s board - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9... @ 00:11:59](/episodes/ep-Dkxa9OUA9K8.md#t-00-11-59)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-04-25-the-white-house-held-a-late-night-press-">
+<div class="timeline-date">2026-04-25 <span class='time'>22:33</span></div>
+<div class="timeline-desc"><a href="/events/event-2026-04-25-the-white-house-held-a-late-night-press-.md">The White House held a late-night press conference after the White House Correspondents' Dinner shooting.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-25 22:33: The White House held a late-night press conference after the White House Correspondents\' Dinner shooting. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [SUSPICIOUS: More Bizarre Details From WHCD Shoo... @ 00:13:37](/episodes/ep-Pb7UlpRdW6U.md#t-00-13-29)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2026-04-25-candace-owens-said-the-white-house-milit">
 <div class="timeline-date">2026-04-25 <span class='time'>21:49</span></div>
 <div class="timeline-desc"><a href="/events/event-2026-04-25-candace-owens-said-the-white-house-milit.md">Candace Owens said the White House Military Office emailed a recommendation to amplify Erika Kirk's 'I want to go home' clip.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-25 21:49: Candace Owens said the White House Military Office emailed a recommendation to amplify Erika Kirk\'s \'I want to go home\' clip. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING! The White House Attempted To Rescind ... @ 00:08:00](/episodes/ep-7FS1tUeSfdE.md#t-00-08-00)
+- [SUSPICIOUS: More Bizarre Details From WHCD Shoo... @ 00:08:33](/episodes/ep-Pb7UlpRdW6U.md#t-00-08-03)
+- [Hunter Biden Returns. The White House Ghosts Me... @ 00:35:52](/episodes/ep-1QZ4X6q1DPg.md#t-00-35-08)
 
 </details>
 </div>
@@ -804,13 +1283,14 @@ _Total events: 1323_
 <div class="timeline-date">2026-04-25 <span class='time'>21:25</span></div>
 <div class="timeline-desc"><a href="/events/event-2026-04-25-sara-sidner-uploaded-erika-kirks-i-want-.md">Sara Sidner uploaded Erika Kirk's 'I want to go home' video to Instagram.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-25 21:25: Sara Sidner uploaded Erika Kirk\'s \'I want to go home\' video to Instagram. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING! The White House Attempted To Rescind ... @ 00:03:17](/episodes/ep-7FS1tUeSfdE.md#t-00-02-59)
+- [SUSPICIOUS: More Bizarre Details From WHCD Shoo... @ 00:07:19](/episodes/ep-Pb7UlpRdW6U.md#t-00-06-44)
 
 </details>
 </div>
@@ -819,7 +1299,7 @@ _Total events: 1323_
 <div class="timeline-date">2026-04-25</div>
 <div class="timeline-desc"><a href="/events/event-2026-04-25-an-armed-man-breached-a-white-house-corr.md">An armed man breached a White House Correspondents' Dinner security checkpoint and Secret Service agents opened fire.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">6× in 6 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-25: An armed man breached a White House Correspondents\' Dinner security checkpoint and Secret Service agents opened fire. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -828,6 +1308,9 @@ _Total events: 1323_
 - [TIME MAGAZINE: World’s Most VILE Person?! | Can... @ 00:28:56](/episodes/ep-qZ8RWfyuewQ.md#t-00-28-56)
 - [STAGED? Erika’s VIRAL White House Correspondent... @ 00:07:05](/episodes/ep-FFQ9675oqRI.md#t-00-06-50)
 - [BREAKING! The White House Attempted To Rescind ... @ 00:02:59](/episodes/ep-7FS1tUeSfdE.md#t-00-02-59)
+- [SUSPICIOUS: More Bizarre Details From WHCD Shoo... @ 00:00:32](/episodes/ep-Pb7UlpRdW6U.md#t-00-00-01)
+- [Hunter Biden Returns. The White House Ghosts Me... @ 00:29:22](/episodes/ep-1QZ4X6q1DPg.md#t-00-28-54)
+- [The World Is A Stage: Trump Survives...Again? |... @ 00:04:08](/episodes/ep-BxN2-aeMYIs.md#t-00-03-48)
 
 </details>
 </div>
@@ -1245,7 +1728,7 @@ _Total events: 1323_
 <div class="timeline-date">2026-04-02</div>
 <div class="timeline-desc"><a href="/events/event-2026-04-02-candace-owens-publicly-requested-footage.md">Candace Owens publicly requested footage purportedly showing Charlie Kirk naming Erika Kirk as chairman and CEO.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-04-02: Candace Owens publicly requested footage purportedly showing Charlie Kirk naming Erika Kirk as chairman and CEO. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -1253,6 +1736,7 @@ _Total events: 1323_
 
 - [STAGED? Erika’s VIRAL White House Correspondent... @ 00:00:01](/episodes/ep-FFQ9675oqRI.md#t-00-00-01)
 - [Update! Erika Did Not Go Home. Source Confirms ... @ 00:07:32](/episodes/ep-KpxIBWkNsSs.md#t-00-07-01)
+- [Hunter Biden Returns. The White House Ghosts Me... @ 00:14:23](/episodes/ep-1QZ4X6q1DPg.md#t-00-14-14)
 
 </details>
 </div>
@@ -1476,7 +1960,7 @@ _Total events: 1323_
 <div class="timeline-date">2026-03-17</div>
 <div class="timeline-desc"><a href="/events/event-2026-03-17-joe-kent-resigns-as-director-of-the-nati.md">Joe Kent resigns as director of the National Counterterrorism Center</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-17: Joe Kent resigns as director of the National Counterterrorism Center - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -1484,6 +1968,7 @@ _Total events: 1323_
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk... @ 00:03:10](/episodes/ep-I0OaY6Gryqk.md#t-00-02-45)
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:00:00](/episodes/ep-B9TyCs-6o_0.md#t-00-00-00)
+- [The World Is A Stage: Trump Survives...Again? |... @ 00:18:02](/episodes/ep-BxN2-aeMYIs.md#t-00-17-35)
 
 </details>
 </div>
@@ -1559,6 +2044,21 @@ _Total events: 1323_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:47:41](/episodes/ep-_vg7ucP1E0g.md#t-00-47-41)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-16-kouri-richins-was-found-guilty-of-murder">
+<div class="timeline-date">2026-03-16</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-16-kouri-richins-was-found-guilty-of-murder.md">Kouri Richins was found guilty of murdering Eric Richins.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-16: Kouri Richins was found guilty of murdering Eric Richins. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [TRENDING! I Send Out Some Legal Letters. Victor... @ 00:24:59](/episodes/ep-cPidFQDJLbo.md#t-00-24-28)
 
 </details>
 </div>
@@ -1665,6 +2165,21 @@ _Total events: 1323_
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:24:40](/episodes/ep-UYkXV9mYbT4.md#t-00-24-09)
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux... @ 00:45:10](/episodes/ep-xi8SYJTUXPM.md#t-00-44-58)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-03-12-raphael-schreber-said-andrew-kolvet-call">
+<div class="timeline-date">2026-03-12</div>
+<div class="timeline-desc"><a href="/events/event-2026-03-12-raphael-schreber-said-andrew-kolvet-call.md">Raphael Schreber said Andrew Kolvet called Thomas Massie's office to apologize for a TPUSA video.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-03-12: Raphael Schreber said Andrew Kolvet called Thomas Massie\'s office to apologize for a TPUSA video. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [The World Is A Stage: Trump Survives...Again? |... @ 00:39:39](/episodes/ep-BxN2-aeMYIs.md#t-00-39-29)
 
 </details>
 </div>
@@ -2531,6 +3046,39 @@ _Total events: 1323_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [You Won't Believe What Happened While We Were O... @ 01:03:14](/episodes/ep-OEAHy3SsIiI.md#t-01-03-08)
+
+</details>
+</div>
+
+****
+
+<div class="timeline-event filter-item" id="event-2026-gabrielle-cuccia-said-vine-and-fig-tree-">
+<div class="timeline-date">2026</div>
+<div class="timeline-desc"><a href="/events/event-2026-gabrielle-cuccia-said-vine-and-fig-tree-.md">Gabrielle Cuccia said Vine and Fig Tree met Sebastian Gorka at the White House.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026: Gabrielle Cuccia said Vine and Fig Tree met Sebastian Gorka at the White House. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [The World Is A Stage: Trump Survives...Again? |... @ 00:15:49](/episodes/ep-BxN2-aeMYIs.md#t-00-15-41)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-american-security-team-member-suffers-a-">
+<div class="timeline-date">2026</div>
+<div class="timeline-desc"><a href="/events/event-2026-american-security-team-member-suffers-a-.md">American security team member suffers a stroke during Owens family trip to Russia</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026: American security team member suffers a stroke during Owens family trip to Russia - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Del... @ 00:09:27](/episodes/ep-YeEtS7nix3o.md#t-00-08-58)
+- [I’m Back! Russian Collusion & Turning Point Del... @ 00:10:52](/episodes/ep-YeEtS7nix3o.md#t-00-10-26)
 
 </details>
 </div>
@@ -7709,6 +8257,21 @@ _Total events: 1323_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-11-johnny-moore-left-the-gaza-humanitarian-">
+<div class="timeline-date">2025-11</div>
+<div class="timeline-desc"><a href="/events/event-2025-11-johnny-moore-left-the-gaza-humanitarian-.md">Johnny Moore left the Gaza Humanitarian Foundation</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-11: Johnny Moore left the Gaza Humanitarian Foundation - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:21:17](/episodes/ep-MhakwJxK-Zk.md#t-00-21-17)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-11-25-candace-owens-tweets-warning-of-macron-funded-assa">
 <div class="timeline-date">2025-11-25</div>
 <div class="timeline-desc"><a href="/events/event-2025-11-25-candace-owens-tweets-warning-of-macron-funded-assa.md">Candace Owens tweets warning of Macron-funded assassination plot.</a></div>
@@ -7908,6 +8471,36 @@ _Total events: 1323_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi G... @ 00:08:54](/episodes/ep-q1NRQQAYS_Q.md#t-00-08-54)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-11-22-erika-kirk-met-with-megyn-kelly-and-reco">
+<div class="timeline-date">2025-11-22</div>
+<div class="timeline-desc"><a href="/events/event-2025-11-22-erika-kirk-met-with-megyn-kelly-and-reco.md">Erika Kirk met with Megyn Kelly and recounted Charlie Kirk's succession remarks</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-11-22: Erika Kirk met with Megyn Kelly and recounted Charlie Kirk\'s succession remarks - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:42:09](/episodes/ep-MhakwJxK-Zk.md#t-00-42-09)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-11-22-erika-kirk-publicly-discusses-the-purpor">
+<div class="timeline-date">2025-11-22</div>
+<div class="timeline-desc"><a href="/events/event-2025-11-22-erika-kirk-publicly-discusses-the-purpor.md">Erika Kirk publicly discusses the purported succession video in an interview with Megyn Kelly</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-11-22: Erika Kirk publicly discusses the purported succession video in an interview with Megyn Kelly - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Del... @ 00:56:00](/episodes/ep-YeEtS7nix3o.md#t-00-56-00)
 
 </details>
 </div>
@@ -10212,6 +10805,21 @@ _Total events: 1323_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-11-03-turning-point-usa-began-removing-episode">
+<div class="timeline-date">2025-11-03</div>
+<div class="timeline-desc"><a href="/events/event-2025-11-03-turning-point-usa-began-removing-episode.md">Turning Point USA began removing episodes of The Charlie Kirk Show</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-11-03: Turning Point USA began removing episodes of The Charlie Kirk Show - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:42:22](/episodes/ep-MhakwJxK-Zk.md#t-00-42-09)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-11-02-lindsey-graham-at-republican-jewish-coalition-says">
 <div class="timeline-date">2025-11-02</div>
 <div class="timeline-desc"><a href="/events/event-2025-11-02-lindsey-graham-at-republican-jewish-coalition-says.md">Lindsey Graham at Republican Jewish Coalition says anti-Israel views disqualify Republicans.</a></div>
@@ -12458,6 +13066,21 @@ _Total events: 1323_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-10-01-victor-marx-formally-announced-his-candi">
+<div class="timeline-date">2025-10-01</div>
+<div class="timeline-desc"><a href="/events/event-2025-10-01-victor-marx-formally-announced-his-candi.md">Victor Marx formally announced his candidacy for governor of Colorado</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-10-01: Victor Marx formally announced his candidacy for governor of Colorado - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9... @ 00:05:42](/episodes/ep-Dkxa9OUA9K8.md#t-00-05-42)
+
+</details>
+</div>
+
 **September**
 
 <div class="timeline-event filter-item" id="event-2025-09-two-men-filed-the-original-lawsuits-alle">
@@ -12494,7 +13117,7 @@ _Total events: 1323_
 <div class="timeline-date">2025-09</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-the-turning-point-usa-board-selected-eri.md">The Turning Point USA board selected Erika Kirk as CEO and chair within about 72 hours of Charlie Kirk's death.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09: The Turning Point USA board selected Erika Kirk as CEO and chair within about 72 hours of Charlie Kirk\'s death. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -12502,6 +13125,7 @@ _Total events: 1323_
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…... @ 00:10:12](/episodes/ep-QdM9jLwjwLw.md#t-00-10-12)
 - [BREAKING! The White House Attempted To Rescind ... @ 00:20:14](/episodes/ep-7FS1tUeSfdE.md#t-00-19-43)
+- [Hunter Biden Returns. The White House Ghosts Me... @ 00:08:21](/episodes/ep-1QZ4X6q1DPg.md#t-00-08-12)
 
 </details>
 </div>
@@ -12617,13 +13241,15 @@ _Total events: 1323_
 <div class="timeline-date">2025-09</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-victor-and-eileen-marx-visited-erika-kir.md">Victor and Eileen Marx visited Erika Kirk in the days after Charlie Kirk's assassination</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09: Victor and Eileen Marx visited Erika Kirk in the days after Charlie Kirk\'s assassination - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:08:04](/episodes/ep-jsqUIkszZd0.md#t-00-07-35)
+- [LIVE With Victor Marx: What Did He Know About 9... @ 00:50:10](/episodes/ep-Dkxa9OUA9K8.md#t-00-50-10)
+- [TRENDING! I Send Out Some Legal Letters. Victor... @ 00:13:46](/episodes/ep-cPidFQDJLbo.md#t-00-13-46)
 
 </details>
 </div>
@@ -12654,6 +13280,21 @@ _Total events: 1323_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace... @ 00:18:30](/episodes/ep-69A8TzAGHlU.md#t-00-18-14)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-turning-point-usas-internal-doge-audit-w">
+<div class="timeline-date">2025-09</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-turning-point-usas-internal-doge-audit-w.md">Turning Point USA's internal DOGE audit was canceled after Charlie Kirk's death, according to Candace Owens.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09: Turning Point USA\'s internal DOGE audit was canceled after Charlie Kirk\'s death, according to Candace Owens. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [TRENDING! I Send Out Some Legal Letters. Victor... @ 00:22:59](/episodes/ep-cPidFQDJLbo.md#t-00-22-59)
 
 </details>
 </div>
@@ -12970,6 +13611,21 @@ _Total events: 1323_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:30:32](/episodes/ep-eLgD5yUVbko.md#t-00-30-22)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-29-gary-melton-received-151000-from-the-uni">
+<div class="timeline-date">2025-09-29</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-29-gary-melton-received-151000-from-the-uni.md">Gary Melton received $151,000 from the United States Department of Defense for night vision equipment.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-29: Gary Melton received $151,000 from the United States Department of Defense for night vision equipment. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Hunter Biden Returns. The White House Ghosts Me... @ 00:39:05](/episodes/ep-1QZ4X6q1DPg.md#t-00-39-05)
 
 </details>
 </div>
@@ -13534,6 +14190,21 @@ _Total events: 1323_
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying ... @ 00:23:18](/episodes/ep-MUA9ebCF4Ow.md#t-00-23-07)
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying ... @ 00:42:13](/episodes/ep-MUA9ebCF4Ow.md#t-00-42-13)
 - [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:08:07](/episodes/ep-ja26iltROkM.md#t-00-07-29)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-24-gary-melton-received-39000-from-the-unit">
+<div class="timeline-date">2025-09-24</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-24-gary-melton-received-39000-from-the-unit.md">Gary Melton received $39,000 from the United States Department of Defense for individual equipment.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-24: Gary Melton received $39,000 from the United States Department of Defense for individual equipment. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Hunter Biden Returns. The White House Ghosts Me... @ 00:38:52](/episodes/ep-1QZ4X6q1DPg.md#t-00-38-24)
 
 </details>
 </div>
@@ -17656,15 +18327,16 @@ _Total events: 1323_
 
 <div class="timeline-event filter-item" id="event-2025-09-14-victor-marx-announced-his-campaign-for-g">
 <div class="timeline-date">2025-09-14</div>
-<div class="timeline-desc"><a href="/events/event-2025-09-14-victor-marx-announced-his-campaign-for-g.md">Victor Marx announced his campaign for governor of Colorado at a Denver memorial event</a></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-14-victor-marx-announced-his-campaign-for-g.md">Victor Marx announced his intention to run for governor of Colorado at a Denver memorial event</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-14: Victor Marx announced his campaign for governor of Colorado at a Denver memorial event - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-14: Victor Marx announced his intention to run for governor of Colorado at a Denver memorial event - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:07:02](/episodes/ep-jsqUIkszZd0.md#t-00-07-02)
+- [LIVE With Victor Marx: What Did He Know About 9... @ 00:05:53](/episodes/ep-Dkxa9OUA9K8.md#t-00-05-42)
 
 </details>
 </div>
@@ -19731,7 +20403,7 @@ _Total events: 1323_
 <div class="timeline-date">2025-09-11</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-11-benjamin-netanyahu-discusses-charlie-kirk-on-fox-n.md">Benjamin Netanyahu discusses Charlie Kirk on Fox News</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 1 ep</span>
+<span class="timeline-badge mentions">3× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-11: Benjamin Netanyahu discusses Charlie Kirk on Fox News - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -19739,6 +20411,7 @@ _Total events: 1323_
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:07:02](/episodes/ep-czVBmqZP6Ss.md#t-00-06-16)
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:07:17](/episodes/ep-czVBmqZP6Ss.md#t-00-07-02)
+- [The World Is A Stage: Trump Survives...Again? |... @ 00:41:05](/episodes/ep-BxN2-aeMYIs.md#t-00-40-52)
 
 </details>
 </div>
@@ -20599,7 +21272,7 @@ _Total events: 1323_
 <div class="timeline-date">2025-09-10 <span class='time'>14:40</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-donald-trump-announced-charlie-kirks-dea.md">Donald Trump announced Charlie Kirk's death on Truth Social at 2:40 p.m. Utah time.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 14:40: Donald Trump announced Charlie Kirk\'s death on Truth Social at 2:40 p.m. Utah time. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -20607,6 +21280,7 @@ _Total events: 1323_
 
 - [VIRAL! It's Okay Not To Believe A Word Erika Ki... @ 00:14:36](/episodes/ep-DEtFh2Ff-58.md#t-00-13-58)
 - [Secret Service Admits "There Was No Threat". AT... @ 00:25:48](/episodes/ep-1mYNOqzAdXs.md#t-00-25-48)
+- [TRENDING! I Send Out Some Legal Letters. Victor... @ 00:04:49](/episodes/ep-cPidFQDJLbo.md#t-00-04-49)
 
 </details>
 </div>
@@ -20738,7 +21412,7 @@ _Total events: 1323_
 <div class="timeline-date">2025-09-10 <span class='time'>13:13</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-victor-marx-announced-charlie-kirks-deat.md">Victor Marx announced Charlie Kirk's death at 1:13 p.m. Utah time, according to a screenshot presented by Candace Owens.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 13:13: Victor Marx announced Charlie Kirk\'s death at 1:13 p.m. Utah time, according to a screenshot presented by Candace Owens. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -20746,6 +21420,8 @@ _Total events: 1323_
 
 - [Secret Service Admits "There Was No Threat". AT... @ 00:24:40](/episodes/ep-1mYNOqzAdXs.md#t-00-24-40)
 - [Victor Marx: The Man Who Weaponized Faith. | Ca... @ 02:05:11](/episodes/ep--9MOUvgGyi4.md#t-02-04-43)
+- [LIVE With Victor Marx: What Did He Know About 9... @ 00:01:50](/episodes/ep-Dkxa9OUA9K8.md#t-00-01-50)
+- [TRENDING! I Send Out Some Legal Letters. Victor... @ 00:04:49](/episodes/ep-cPidFQDJLbo.md#t-00-04-49)
 
 </details>
 </div>
@@ -22095,7 +22771,7 @@ _Total events: 1323_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md">Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">399× in 52 eps</span>
+<span class="timeline-badge mentions">401× in 54 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -22500,6 +23176,8 @@ _Total events: 1323_
 - [Secret Service Admits "There Was No Threat". AT... @ 00:25:09](/episodes/ep-1mYNOqzAdXs.md#t-00-25-09)
 - [Victor Marx: The Man Who Weaponized Faith. | Ca... @ 01:56:27](/episodes/ep--9MOUvgGyi4.md#t-01-56-27)
 - [September 10th: The OTHER Shooting That The Med... @ 00:12:45](/episodes/ep-4DvYXBn_5JI.md#t-00-12-45)
+- [TRENDING! I Send Out Some Legal Letters. Victor... @ 00:09:53](/episodes/ep-cPidFQDJLbo.md#t-00-09-53)
+- [The World Is A Stage: Trump Survives...Again? |... @ 00:18:08](/episodes/ep-BxN2-aeMYIs.md#t-00-17-35)
 
 </details>
 </div>
@@ -23757,7 +24435,7 @@ _Total events: 1323_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va.md">Charlie Kirk was assassinated at Utah Valley University.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">47× in 38 eps</span>
+<span class="timeline-badge mentions">48× in 39 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk was assassinated at Utah Valley University. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -23810,6 +24488,7 @@ _Total events: 1323_
 - [STAGED? Erika’s VIRAL White House Correspondent... @ 00:17:58](/episodes/ep-FFQ9675oqRI.md#t-00-17-58)
 - [Update! Erika Did Not Go Home. Source Confirms ... @ 00:25:30](/episodes/ep-KpxIBWkNsSs.md#t-00-25-00)
 - [BREAKING! The White House Attempted To Rescind ... @ 00:13:55](/episodes/ep-7FS1tUeSfdE.md#t-00-13-31)
+- [Hunter Biden Returns. The White House Ghosts Me... @ 00:00:39](/episodes/ep-1QZ4X6q1DPg.md#t-00-00-39)
 
 </details>
 </div>
@@ -24029,13 +24708,14 @@ _Total events: 1323_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-spoke-with-andrew-kolvet-o.md">Candace Owens spoke with Andrew Kolvet on September 10 and in the immediate days afterward.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens spoke with Andrew Kolvet on September 10 and in the immediate days afterward. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:15:24](/episodes/ep-B9TyCs-6o_0.md#t-00-15-11)
+- [TRENDING! I Send Out Some Legal Letters. Victor... @ 00:10:11](/episodes/ep-cPidFQDJLbo.md#t-00-09-53)
 
 </details>
 </div>
@@ -24391,6 +25071,21 @@ _Total events: 1323_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-10-victor-marx-texted-erika-kirk-at-the-hos">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-victor-marx-texted-erika-kirk-at-the-hos.md">Victor Marx texted Erika Kirk at the hospital that she and her children were safe.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Victor Marx texted Erika Kirk at the hospital that she and her children were safe. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [TRENDING! I Send Out Some Legal Letters. Victor... @ 00:14:41](/episodes/ep-cPidFQDJLbo.md#t-00-14-41)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-09-josh-hammer-retweets-trump-s-2013-public-execution">
 <div class="timeline-date">2025-09-09 <span class='time'>21:09</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-josh-hammer-retweets-trump-s-2013-public-execution.md">Josh Hammer retweets Trump's 2013 public execution tweet.</a></div>
@@ -24494,7 +25189,7 @@ _Total events: 1323_
 <div class="timeline-date">2025-09-09 <span class='time'>18:00</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-josh-hammer-said-charlie-kirk-held-a-zoo.md">Josh Hammer said Charlie Kirk held a Zoom call with him and an Israel-based rabbi.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09 18:00: Josh Hammer said Charlie Kirk held a Zoom call with him and an Israel-based rabbi. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -24503,6 +25198,7 @@ _Total events: 1323_
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:39:56](/episodes/ep-CEF7gQRWYCE.md#t-00-39-33)
 - [Here’s Why It’s Time For The Police To Question... @ 00:05:57](/episodes/ep-ti5Fxrvegno.md#t-00-05-37)
 - [A Tale of Two PR Disasters: Blake Lively & Turn... @ 00:38:00](/episodes/ep-eMtjzXkQrsU.md#t-00-37-36)
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:35:38](/episodes/ep-MhakwJxK-Zk.md#t-00-35-16)
 
 </details>
 </div>
@@ -24511,7 +25207,7 @@ _Total events: 1323_
 <div class="timeline-date">2025-09-09 <span class='time'>15:54</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-candace-owens-said-charlie-kirk-sent-a-t.md">Candace Owens said Charlie Kirk sent a text saying he was abandoning the pro-Israel cause.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">5× in 5 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09 15:54: Candace Owens said Charlie Kirk sent a text saying he was abandoning the pro-Israel cause. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -24520,6 +25216,23 @@ _Total events: 1323_
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:39:12](/episodes/ep-CEF7gQRWYCE.md#t-00-38-44)
 - [Here’s Why It’s Time For The Police To Question... @ 00:05:31](/episodes/ep-ti5Fxrvegno.md#t-00-04-56)
 - [A Tale of Two PR Disasters: Blake Lively & Turn... @ 00:37:55](/episodes/ep-eMtjzXkQrsU.md#t-00-37-36)
+- [The World Is A Stage: Trump Survives...Again? |... @ 00:40:45](/episodes/ep-BxN2-aeMYIs.md#t-00-40-10)
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:35:27](/episodes/ep-MhakwJxK-Zk.md#t-00-35-16)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-09-pete-hegseth-greeted-singapores-minister">
+<div class="timeline-date">2025-09-09 <span class='time'>15:00</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-09-pete-hegseth-greeted-singapores-minister.md">Pete Hegseth greeted Singapore's minister of defense in Washington, D.C.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09 15:00: Pete Hegseth greeted Singapore\'s minister of defense in Washington, D.C. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [The World Is A Stage: Trump Survives...Again? |... @ 00:12:02](/episodes/ep-BxN2-aeMYIs.md#t-00-11-52)
 
 </details>
 </div>
@@ -25228,7 +25941,7 @@ _Total events: 1323_
 <div class="timeline-date">2025-09-09</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-text-messages-the-day-before-charlie-kirk-s-death.md">Text messages the day before Charlie Kirk's death in which he warned he thought he would be killed.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">37× in 16 eps</span>
+<span class="timeline-badge mentions">39× in 18 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: Text messages the day before Charlie Kirk\'s death in which he warned he thought he would be killed. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -25271,6 +25984,8 @@ _Total events: 1323_
 - [Candace Owens vs. Andrew Wilson: The Charlie Ki... @ 00:29:36](/episodes/ep-nPhCKwJ6ye8.md#t-00-29-36)
 - [Erika No-Shows JD Vance. Public Relations Lies ... @ 00:32:57](/episodes/ep-SubDoZWHARo.md#t-00-32-38)
 - [A Tale of Two PR Disasters: Blake Lively & Turn... @ 00:04:39](/episodes/ep-eMtjzXkQrsU.md#t-00-04-32)
+- [TRENDING! I Send Out Some Legal Letters. Victor... @ 00:23:19](/episodes/ep-cPidFQDJLbo.md#t-00-22-59)
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:35:38](/episodes/ep-MhakwJxK-Zk.md#t-00-35-16)
 
 </details>
 </div>
@@ -25312,13 +26027,16 @@ _Total events: 1323_
 <div class="timeline-date">2025-09-09</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-vip-government-plane-sam-flight-99-0404-.md">VIP government plane (SAM flight 99-0404) departs Fort Huachuca with call sign change indicating VIP passenger</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">4× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: VIP government plane (SAM flight 99-0404) departs Fort Huachuca with call sign change indicating VIP passenger - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theor... @ 00:44:50](/episodes/ep-6DhWawD4ZiM.md#t-00-44-27)
+- [The World Is A Stage: Trump Survives...Again? |... @ 00:10:03](/episodes/ep-BxN2-aeMYIs.md#t-00-09-55)
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:12:52](/episodes/ep-MhakwJxK-Zk.md#t-00-12-35)
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:01:31](/episodes/ep-MhakwJxK-Zk.md#t-00-01-31)
 
 </details>
 </div>
@@ -26600,6 +27318,21 @@ _Total events: 1323_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-08-candace-owens-said-a-flight-traveled-fro">
+<div class="timeline-date">2025-09-08</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-08-candace-owens-said-a-flight-traveled-fro.md">Candace Owens said a flight traveled from Tucson to Fort Huachuca</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08: Candace Owens said a flight traveled from Tucson to Fort Huachuca - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:27:22](/episodes/ep-MhakwJxK-Zk.md#t-00-26-42)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-07-charlie-kirk-speaks-at-sanseito-party-sy">
 <div class="timeline-date">2025-09-07</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-07-charlie-kirk-speaks-at-sanseito-party-sy.md">Charlie Kirk speaks at Sanseito party symposium in Tokyo, Japan</a></div>
@@ -27093,6 +27826,36 @@ _Total events: 1323_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-04-benjamin-netanyahus-officer-tatum-show-i">
+<div class="timeline-date">2025-09-04</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-04-benjamin-netanyahus-officer-tatum-show-i.md">Benjamin Netanyahu's Officer Tatum Show interview was released</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-04: Benjamin Netanyahu\'s Officer Tatum Show interview was released - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:03:21](/episodes/ep-MhakwJxK-Zk.md#t-00-03-21)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-04-benjamin-netanyahu-sat-down-with-erick-s">
+<div class="timeline-date">2025-09-04</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-04-benjamin-netanyahu-sat-down-with-erick-s.md">Benjamin Netanyahu sat down with Erick Stakelbeck of TBN</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-04: Benjamin Netanyahu sat down with Erick Stakelbeck of TBN - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:03:33](/episodes/ep-MhakwJxK-Zk.md#t-00-03-21)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-03-uvu-student-and-professor-witness-suspicious-man-o">
 <div class="timeline-date">2025-09-03 <span class='time'>12:00</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-03-uvu-student-and-professor-witness-suspicious-man-o.md">UVU student and professor witness suspicious man on Lozier Center roof overlooking Kirk event site.</a></div>
@@ -27546,7 +28309,7 @@ _Total events: 1323_
 <div class="timeline-date">2025-09-02</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-02-charlie-kirk-announces-tpusa-doge-department-and-j.md">Charlie Kirk announces TPUSA DOGE department and Justin Strief as COO in internal memo.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 2 eps</span>
+<span class="timeline-badge mentions">4× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-02: Charlie Kirk announces TPUSA DOGE department and Justin Strief as COO in internal memo. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -27555,6 +28318,7 @@ _Total events: 1323_
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:20:19](/episodes/ep-K5GjF53bfN4.md#t-00-19-45)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:19:58](/episodes/ep-K5GjF53bfN4.md#t-00-19-45)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:24:56](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50)
+- [TRENDING! I Send Out Some Legal Letters. Victor... @ 00:22:59](/episodes/ep-cPidFQDJLbo.md#t-00-22-59)
 
 </details>
 </div>
@@ -27602,6 +28366,21 @@ _Total events: 1323_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist'... @ 00:33:20](/episodes/ep-GY6GWceEqtQ.md#t-00-32-53)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-08-charlie-kirk-reportedly-names-erika-kirk">
+<div class="timeline-date">2025-08</div>
+<div class="timeline-desc"><a href="/events/event-2025-08-charlie-kirk-reportedly-names-erika-kirk.md">Charlie Kirk reportedly names Erika Kirk to lead Turning Point USA at a private Aspen event</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-08: Charlie Kirk reportedly names Erika Kirk to lead Turning Point USA at a private Aspen event - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Del... @ 00:56:07](/episodes/ep-YeEtS7nix3o.md#t-00-56-00)
 
 </details>
 </div>
@@ -28821,13 +29600,14 @@ _Total events: 1323_
 <div class="timeline-date">2025-08-27</div>
 <div class="timeline-desc"><a href="/events/event-2025-08-27-dhillon-law-group-begins-drafting-fara-p.md">Dhillon Law Group begins drafting FARA paperwork for Havas Media clients Clocktower X and Show Faith by Works</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-08-27: Dhillon Law Group begins drafting FARA paperwork for Havas Media clients Clocktower X and Show Faith by Works - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [A Tale of Two PR Disasters: Blake Lively & Turn... @ 00:37:36](/episodes/ep-eMtjzXkQrsU.md#t-00-37-36)
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:35:16](/episodes/ep-MhakwJxK-Zk.md#t-00-35-16)
 
 </details>
 </div>
@@ -28843,6 +29623,21 @@ _Total events: 1323_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING NEWS! We Received Photos Of Charlie's ... @ 00:39:40](/episodes/ep-9k2xrAC0H88.md#t-00-39-24)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-08-26-benjamin-netanyahus-patrick-bet-david-sh">
+<div class="timeline-date">2025-08-26</div>
+<div class="timeline-desc"><a href="/events/event-2025-08-26-benjamin-netanyahus-patrick-bet-david-sh.md">Benjamin Netanyahu's Patrick Bet-David Show interview was released</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-08-26: Benjamin Netanyahu\'s Patrick Bet-David Show interview was released - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:03:21](/episodes/ep-MhakwJxK-Zk.md#t-00-03-21)
 
 </details>
 </div>
@@ -29049,6 +29844,21 @@ _Total events: 1323_
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#t-00-58-43)
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:15:59](/episodes/ep-tB5SXXmd9vU.md#t-00-15-25)
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:18:42](/episodes/ep-tB5SXXmd9vU.md#t-00-18-18)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-08-20-benjamin-netanyahus-triggernometry-podca">
+<div class="timeline-date">2025-08-20</div>
+<div class="timeline-desc"><a href="/events/event-2025-08-20-benjamin-netanyahus-triggernometry-podca.md">Benjamin Netanyahu's Triggernometry podcast interview was released</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-08-20: Benjamin Netanyahu\'s Triggernometry podcast interview was released - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:03:12](/episodes/ep-MhakwJxK-Zk.md#t-00-02-47)
 
 </details>
 </div>
@@ -29341,7 +30151,7 @@ _Total events: 1323_
 <div class="timeline-date">2025-08-15</div>
 <div class="timeline-desc"><a href="/events/event-2025-08-15-a-turning-point-usa-donor-retreat-began-.md">A Turning Point USA donor retreat began in Aspen.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-08-15: A Turning Point USA donor retreat began in Aspen. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -29350,6 +30160,7 @@ _Total events: 1323_
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:54:08](/episodes/ep-9naMwS0kMBE.md#t-00-54-01)
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi G... @ 00:10:25](/episodes/ep-q1NRQQAYS_Q.md#t-00-10-21)
 - [Trump Attacks The Pope. The Tyler Robinson Narr... @ 00:09:57](/episodes/ep-eLgD5yUVbko.md#t-00-09-57)
+- [Hunter Biden Returns. The White House Ghosts Me... @ 00:13:29](/episodes/ep-1QZ4X6q1DPg.md#t-00-13-29)
 
 </details>
 </div>
@@ -30024,7 +30835,7 @@ _Total events: 1323_
 <div class="timeline-date">2025-08-05</div>
 <div class="timeline-desc"><a href="/events/event-2025-08-05-hamptons-summit-pressures-charlie-kirk-on-israel-v.md">Hamptons Summit pressures Charlie Kirk on Israel views</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">256× in 41 eps</span>
+<span class="timeline-badge mentions">258× in 42 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-08-05: Hamptons Summit pressures Charlie Kirk on Israel views - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -30286,6 +31097,8 @@ _Total events: 1323_
 - [To My Friend, Charlie Kirk. @ 00:14:33](/episodes/ep-_dRaEO47-co.md#t-00-14-11)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:10:37](/episodes/ep-K5GjF53bfN4.md#t-00-09-59)
 - [Candace Owens vs. Andrew Wilson: The Charlie Ki... @ 02:25:51](/episodes/ep-nPhCKwJ6ye8.md#t-02-25-29)
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:34:49](/episodes/ep-MhakwJxK-Zk.md#t-00-34-32)
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:06:29](/episodes/ep-MhakwJxK-Zk.md#t-00-06-07)
 
 </details>
 </div>
@@ -31110,6 +31923,36 @@ _Total events: 1323_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-07-bcg-dismissed-two-project-aurora-partner">
+<div class="timeline-date">2025-07</div>
+<div class="timeline-desc"><a href="/events/event-2025-07-bcg-dismissed-two-project-aurora-partner.md">BCG dismissed two Project Aurora partners and launched an external audit</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-07: BCG dismissed two Project Aurora partners and launched an external audit - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:18:28](/episodes/ep-MhakwJxK-Zk.md#t-00-17-57)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-07-30-palantirs-10-billion-military-software-d">
+<div class="timeline-date">2025-07-30</div>
+<div class="timeline-desc"><a href="/events/event-2025-07-30-palantirs-10-billion-military-software-d.md">Palantir's $10 billion military software deal was announced</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-07-30: Palantir\'s $10 billion military software deal was announced - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:34:16](/episodes/ep-MhakwJxK-Zk.md#t-00-33-50)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-07-25-satis-subsidiary-in-hamburg-germany-underwent-ceo">
 <div class="timeline-date">2025-07-25</div>
 <div class="timeline-desc"><a href="/events/event-2025-07-25-satis-subsidiary-in-hamburg-germany-underwent-ceo.md">Satis subsidiary in Hamburg, Germany underwent CEO switch.</a></div>
@@ -31394,6 +32237,36 @@ _Total events: 1323_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-07-25-bradley-hansell-was-sworn-in-as-undersec">
+<div class="timeline-date">2025-07-25</div>
+<div class="timeline-desc"><a href="/events/event-2025-07-25-bradley-hansell-was-sworn-in-as-undersec.md">Bradley Hansell was sworn in as undersecretary of war for intelligence and security</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-07-25: Bradley Hansell was sworn in as undersecretary of war for intelligence and security - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:13:13](/episodes/ep-MhakwJxK-Zk.md#t-00-13-13)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-07-25-yrefy-became-the-number-one-sponsor-of-c">
+<div class="timeline-date">2025-07-25</div>
+<div class="timeline-desc"><a href="/events/event-2025-07-25-yrefy-became-the-number-one-sponsor-of-c.md">YRefy became the number-one sponsor of Charlie Kirk's fall tour</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-07-25: YRefy became the number-one sponsor of Charlie Kirk\'s fall tour - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:33:25](/episodes/ep-MhakwJxK-Zk.md#t-00-33-25)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-07-23-brigitte-and-emmanuel-macron-announce-delaware-law">
 <div class="timeline-date">2025-07-23</div>
 <div class="timeline-desc"><a href="/events/event-2025-07-23-brigitte-and-emmanuel-macron-announce-delaware-law.md">Brigitte and Emmanuel Macron announce Delaware lawsuit against Owens.</a></div>
@@ -31419,7 +32292,7 @@ _Total events: 1323_
 <div class="timeline-date">2025-07-22</div>
 <div class="timeline-desc"><a href="/events/event-2025-07-22-nebraska-secretary-of-state-bob-evnen-announced-tr.md">Nebraska Secretary of State Bob Evnen announced trade and investment delegation to Cairo, Egypt.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-07-22: Nebraska Secretary of State Bob Evnen announced trade and investment delegation to Cairo, Egypt. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -31427,6 +32300,22 @@ _Total events: 1323_
 
 - [Operation: “See you in Valhalla, Charlie”. | Ca... @ 00:11:30](/episodes/ep-mKXdKV-OBog.md#t-00-10-47)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:18:16](/episodes/ep-a-e7HC6SeK8.md#t-00-17-39)
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:32:56](/episodes/ep-MhakwJxK-Zk.md#t-00-32-40)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-07-21-benjamin-netanyahus-nelk-boys-podcast-in">
+<div class="timeline-date">2025-07-21</div>
+<div class="timeline-desc"><a href="/events/event-2025-07-21-benjamin-netanyahus-nelk-boys-podcast-in.md">Benjamin Netanyahu's Nelk Boys podcast interview was released</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-07-21: Benjamin Netanyahu\'s Nelk Boys podcast interview was released - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:03:12](/episodes/ep-MhakwJxK-Zk.md#t-00-02-47)
 
 </details>
 </div>
@@ -31442,6 +32331,21 @@ _Total events: 1323_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:17:39](/episodes/ep-a-e7HC6SeK8.md#t-00-16-56)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-07-20-charlie-kirk-began-a-family-vacation-in-">
+<div class="timeline-date">2025-07-20</div>
+<div class="timeline-desc"><a href="/events/event-2025-07-20-charlie-kirk-began-a-family-vacation-in-.md">Charlie Kirk began a family vacation in Maine</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-07-20: Charlie Kirk began a family vacation in Maine - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:32:40](/episodes/ep-MhakwJxK-Zk.md#t-00-32-40)
 
 </details>
 </div>
@@ -31826,7 +32730,7 @@ _Total events: 1323_
 <div class="timeline-date">2025-07-18</div>
 <div class="timeline-desc"><a href="/events/event-2025-07-18-uvu-turning-point-chapter-requested-charlie-kirk-f.md">UVU Turning Point chapter requested Charlie Kirk for campus speaking event.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">254× in 40 eps</span>
+<span class="timeline-badge mentions">255× in 41 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-07-18: UVU Turning Point chapter requested Charlie Kirk for campus speaking event. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -32086,6 +32990,7 @@ _Total events: 1323_
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists... @ 00:08:39](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16)
 - [To My Friend, Charlie Kirk. @ 00:14:33](/episodes/ep-_dRaEO47-co.md#t-00-14-11)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:10:37](/episodes/ep-K5GjF53bfN4.md#t-00-09-59)
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:31:41](/episodes/ep-MhakwJxK-Zk.md#t-00-31-11)
 
 </details>
 </div>
@@ -32728,7 +33633,7 @@ _Total events: 1323_
 <div class="timeline-date">2025-07-14</div>
 <div class="timeline-desc"><a href="/events/event-2025-07-14-candace-owens-said-erika-kirk-flew-to-lo.md">Candace Owens said Erika Kirk flew to Long Beach with Catherine LoCastro and Jonathan Marcello and returned to Scottsdale.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-07-14: Candace Owens said Erika Kirk flew to Long Beach with Catherine LoCastro and Jonathan Marcello and returned to Scottsdale. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -32736,6 +33641,7 @@ _Total events: 1323_
 
 - [The 33 Club: Freemason Murder Plot EXPOSED! | C... @ 00:22:51](/episodes/ep-7ERqbYElOfs.md#t-00-22-24)
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:51:24](/episodes/ep-UYkXV9mYbT4.md#t-00-51-24)
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:30:54](/episodes/ep-MhakwJxK-Zk.md#t-00-30-35)
 
 </details>
 </div>
@@ -32744,7 +33650,7 @@ _Total events: 1323_
 <div class="timeline-date">2025-07-11</div>
 <div class="timeline-desc"><a href="/events/event-2025-07-11-tucker-carlson-speech-calls-out-bill-ackman-on-isr.md">Tucker Carlson speech calls out Bill Ackman on Israel and citizenship</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">145× in 40 eps</span>
+<span class="timeline-badge mentions">146× in 41 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-07-11: Tucker Carlson speech calls out Bill Ackman on Israel and citizenship - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -32895,6 +33801,7 @@ _Total events: 1323_
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying ... @ 00:23:18](/episodes/ep-MUA9ebCF4Ow.md#t-00-23-07)
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying ... @ 00:42:13](/episodes/ep-MUA9ebCF4Ow.md#t-00-42-13)
 - [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:08:07](/episodes/ep-ja26iltROkM.md#t-00-07-29)
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:30:27](/episodes/ep-MhakwJxK-Zk.md#t-00-29-56)
 
 </details>
 </div>
@@ -32911,6 +33818,36 @@ _Total events: 1323_
 
 - [Myron Gaines x Candace Owens @ 00:57:10](/episodes/ep-2T39-oADLj0.md#t-00-56-52)
 - [Erika’s Inquisition: TPUSA Employees FIRED For…... @ 00:01:58](/episodes/ep-gG4ZoYUjUc8.md#t-00-01-23)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-07-04-the-financial-times-published-its-report">
+<div class="timeline-date">2025-07-04</div>
+<div class="timeline-desc"><a href="/events/event-2025-07-04-the-financial-times-published-its-report.md">The Financial Times published its report on BCG and Project Aurora</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-07-04: The Financial Times published its report on BCG and Project Aurora - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:30:17](/episodes/ep-MhakwJxK-Zk.md#t-00-29-56)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-07-02-candace-owens-said-rob-mccoy-formally-re">
+<div class="timeline-date">2025-07-02</div>
+<div class="timeline-desc"><a href="/events/event-2025-07-02-candace-owens-said-rob-mccoy-formally-re.md">Candace Owens said Rob McCoy formally resigned as lead pastor of Calvary Church</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-07-02: Candace Owens said Rob McCoy formally resigned as lead pastor of Calvary Church - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:30:09](/episodes/ep-MhakwJxK-Zk.md#t-00-29-56)
 
 </details>
 </div>
@@ -33467,6 +34404,21 @@ _Total events: 1323_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-06-26-candace-owens-said-the-israel-iran-war-e">
+<div class="timeline-date">2025-06-26</div>
+<div class="timeline-desc"><a href="/events/event-2025-06-26-candace-owens-said-the-israel-iran-war-e.md">Candace Owens said the Israel-Iran war ended</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-06-26: Candace Owens said the Israel-Iran war ended - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:29:12](/episodes/ep-MhakwJxK-Zk.md#t-00-29-12)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-06-21-the-united-states-carried-out-operation-">
 <div class="timeline-date">2025-06-21</div>
 <div class="timeline-desc"><a href="/events/event-2025-06-21-the-united-states-carried-out-operation-.md">The United States carried out Operation Midnight Hammer strikes on Iranian nuclear facilities.</a></div>
@@ -33487,13 +34439,14 @@ _Total events: 1323_
 <div class="timeline-date">2025-06-21</div>
 <div class="timeline-desc"><a href="/events/event-2025-06-21-operation-midnight-hammer-struck-iranian.md">Operation Midnight Hammer struck Iranian nuclear sites</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-06-21: Operation Midnight Hammer struck Iranian nuclear sites - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:00:17](/episodes/ep-jTj9Ip46r4w.md#t-00-00-00)
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:28:54](/episodes/ep-MhakwJxK-Zk.md#t-00-28-32)
 
 </details>
 </div>
@@ -33502,7 +34455,7 @@ _Total events: 1323_
 <div class="timeline-date">2025-06-19</div>
 <div class="timeline-desc"><a href="/events/event-2025-06-19-erika-kirk-purged-posts-from-her-instagr.md">Erika Kirk purged posts from her Instagram account.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-06-19: Erika Kirk purged posts from her Instagram account. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -33510,6 +34463,7 @@ _Total events: 1323_
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:12:25](/episodes/ep-ZZGWo6oDscc.md#t-00-12-25)
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:28:30](/episodes/ep-4YgrOhhy708.md#t-00-28-07)
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:28:32](/episodes/ep-MhakwJxK-Zk.md#t-00-28-32)
 
 </details>
 </div>
@@ -33518,7 +34472,7 @@ _Total events: 1323_
 <div class="timeline-date">2025-06-18</div>
 <div class="timeline-desc"><a href="/events/event-2025-06-18-candace-owens-said-charlie-kirk-argued-a.md">Candace Owens said Charlie Kirk argued at the White House against expanded U.S. military action in Iran.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-06-18: Candace Owens said Charlie Kirk argued at the White House against expanded U.S. military action in Iran. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -33526,6 +34480,7 @@ _Total events: 1323_
 
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:29:28](/episodes/ep-4YgrOhhy708.md#t-00-29-28)
 - [WORLD WAR BIBI: Trump Betrays America (And Char... @ 00:11:05](/episodes/ep-k8ueJdPFel4.md#t-00-10-41)
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:28:03](/episodes/ep-MhakwJxK-Zk.md#t-00-28-03)
 
 </details>
 </div>
@@ -33549,13 +34504,44 @@ _Total events: 1323_
 <div class="timeline-date">2025-06-13</div>
 <div class="timeline-desc"><a href="/events/event-2025-06-13-the-12-day-war-between-israel-and-iran-c.md">The 12-day war between Israel and Iran commenced.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-06-13: The 12-day war between Israel and Iran commenced. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:11:31](/episodes/ep-ZZGWo6oDscc.md#t-00-10-59)
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:27:48](/episodes/ep-MhakwJxK-Zk.md#t-00-27-22)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-06-04-charlie-kirk-spoke-at-dream-city">
+<div class="timeline-date">2025-06-04</div>
+<div class="timeline-desc"><a href="/events/event-2025-06-04-charlie-kirk-spoke-at-dream-city.md">Charlie Kirk spoke at Dream City</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-06-04: Charlie Kirk spoke at Dream City - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:27:48](/episodes/ep-MhakwJxK-Zk.md#t-00-27-22)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-06-03-johnny-moore-was-announced-as-chairman-o">
+<div class="timeline-date">2025-06-03</div>
+<div class="timeline-desc"><a href="/events/event-2025-06-03-johnny-moore-was-announced-as-chairman-o.md">Johnny Moore was announced as chairman of the Gaza Humanitarian Foundation</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-06-03: Johnny Moore was announced as chairman of the Gaza Humanitarian Foundation - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:26:56](/episodes/ep-MhakwJxK-Zk.md#t-00-26-42)
 
 </details>
 </div>
@@ -33564,7 +34550,7 @@ _Total events: 1323_
 <div class="timeline-date">2025-06-02</div>
 <div class="timeline-desc"><a href="/events/event-2025-06-02-the-egyptian-military-plane-su-btu-departed-and-wa.md">The Egyptian military plane SU-BTU departed and was reported not transponding on departure.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">18× in 11 eps</span>
+<span class="timeline-badge mentions">19× in 12 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-06-02: The Egyptian military plane SU-BTU departed and was reported not transponding on departure. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -33588,6 +34574,7 @@ _Total events: 1323_
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On... @ 00:50:06](/episodes/ep-Qfwr08Ebczo.md#t-00-49-32)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:16:50](/episodes/ep-ZAuuSq_j2_w.md#t-00-16-27)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:16:04](/episodes/ep-ZAuuSq_j2_w.md#t-00-15-51)
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:26:25](/episodes/ep-MhakwJxK-Zk.md#t-00-26-01)
 
 </details>
 </div>
@@ -34281,6 +35268,21 @@ _Total events: 1323_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Victor Marx: The Man Who Weaponized Faith. | Ca... @ 01:46:38](/episodes/ep--9MOUvgGyi4.md#t-01-46-25)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-04-bcg-senior-leadership-issued-internal-gu">
+<div class="timeline-date">2025-04</div>
+<div class="timeline-desc"><a href="/events/event-2025-04-bcg-senior-leadership-issued-internal-gu.md">BCG senior leadership issued internal guidance to halt Project Aurora</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-04: BCG senior leadership issued internal guidance to halt Project Aurora - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:17:57](/episodes/ep-MhakwJxK-Zk.md#t-00-17-16)
 
 </details>
 </div>
@@ -35541,6 +36543,21 @@ _Total events: 1323_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-erika-kirk-reportedly-told-people-that-s">
+<div class="timeline-date">2025</div>
+<div class="timeline-desc"><a href="/events/event-2025-erika-kirk-reportedly-told-people-that-s.md">Erika Kirk reportedly told people that she and Charlie Kirk had planned to sign updated end-of-life documents.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025: Erika Kirk reportedly told people that she and Charlie Kirk had planned to sign updated end-of-life documents. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [TRENDING! I Send Out Some Legal Letters. Victor... @ 00:16:46](/episodes/ep-cPidFQDJLbo.md#t-00-16-46)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -36145,6 +37162,21 @@ _Total events: 1323_
 
 **September**
 
+<div class="timeline-event filter-item" id="event-2024-09-15-ryan-routh-attempted-to-assassinate-dona">
+<div class="timeline-date">2024-09-15</div>
+<div class="timeline-desc"><a href="/events/event-2024-09-15-ryan-routh-attempted-to-assassinate-dona.md">Ryan Routh attempted to assassinate Donald Trump at Trump International Golf Club in West Palm Beach.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024-09-15: Ryan Routh attempted to assassinate Donald Trump at Trump International Golf Club in West Palm Beach. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [The World Is A Stage: Trump Survives...Again? |... @ 00:02:27](/episodes/ep-BxN2-aeMYIs.md#t-00-02-27)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2024-09-12-kash-patel-ends-press-conference-with-il">
 <div class="timeline-date">2024-09-12</div>
 <div class="timeline-desc"><a href="/events/event-2024-09-12-kash-patel-ends-press-conference-with-il.md">Kash Patel ends press conference with 'I'll see you in Valhalla' statement about Charlie Kirk</a></div>
@@ -36307,7 +37339,7 @@ _Total events: 1323_
 <div class="timeline-date">2024-07-13</div>
 <div class="timeline-desc"><a href="/events/event-2024-07-13-thomas-matthew-crooks-attempts-to-assassinate-trum.md">Thomas Matthew Crooks attempts to assassinate Trump at rally, killing Corey Comparatore.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">4× in 2 eps</span>
+<span class="timeline-badge mentions">5× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2024-07-13: Thomas Matthew Crooks attempts to assassinate Trump at rally, killing Corey Comparatore. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -36317,6 +37349,7 @@ _Total events: 1323_
 - [BREAKING NEWS: FBI Pressuring Utah To Close The... @ 00:00:36](/episodes/ep-QZWSsq8ZWzw.md#t-00-00-01)
 - [BREAKING NEWS: FBI Pressuring Utah To Close The... @ 00:20:50](/episodes/ep-QZWSsq8ZWzw.md#t-00-20-29)
 - [An Open Letter To President Donald Trump (My Re... @ 00:31:16](/episodes/ep-ZIH5-V6UPkg.md#t-00-31-04)
+- [The World Is A Stage: Trump Survives...Again? |... @ 00:02:13](/episodes/ep-BxN2-aeMYIs.md#t-00-01-44)
 
 </details>
 </div>
@@ -36725,6 +37758,36 @@ _Total events: 1323_
 
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:24:13](/episodes/ep-t1YtLS1n8Vs.md#t-00-24-03)
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:24:15](/episodes/ep-t1YtLS1n8Vs.md#t-00-24-03)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2024-04-14-operation-true-promise-occurred-amid-ret">
+<div class="timeline-date">2024-04-14</div>
+<div class="timeline-desc"><a href="/events/event-2024-04-14-operation-true-promise-occurred-amid-ret.md">Operation True Promise occurred amid retaliatory attacks on Israel</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024-04-14: Operation True Promise occurred amid retaliatory attacks on Israel - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:08:33](/episodes/ep-MhakwJxK-Zk.md#t-00-08-33)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2024-04-14-candace-owens-said-an-egyptian-plane-fle">
+<div class="timeline-date">2024-04-14</div>
+<div class="timeline-desc"><a href="/events/event-2024-04-14-candace-owens-said-an-egyptian-plane-fle.md">Candace Owens said an Egyptian plane flew from Cairo to Paris and stayed six days</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024-04-14: Candace Owens said an Egyptian plane flew from Cairo to Paris and stayed six days - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:08:55](/episodes/ep-MhakwJxK-Zk.md#t-00-08-33)
 
 </details>
 </div>
@@ -37638,6 +38701,21 @@ _Total events: 1323_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2024-project-aurora-launched-as-a-pro-bono-fe">
+<div class="timeline-date">2024</div>
+<div class="timeline-desc"><a href="/events/event-2024-project-aurora-launched-as-a-pro-bono-fe.md">Project Aurora launched as a pro bono feasibility study for the Gaza Humanitarian Foundation</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024: Project Aurora launched as a pro bono feasibility study for the Gaza Humanitarian Foundation - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:16:00](/episodes/ep-MhakwJxK-Zk.md#t-00-16-00)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -37814,13 +38892,14 @@ _Total events: 1323_
 <div class="timeline-date">2023-10</div>
 <div class="timeline-desc"><a href="/events/event-2023-10-victor-marx-appeared-on-the-charlie-kirk.md">Victor Marx appeared on The Charlie Kirk Show from Israel after the October 7 attacks</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2023-10: Victor Marx appeared on The Charlie Kirk Show from Israel after the October 7 attacks - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [September 10th: The OTHER Shooting That The Med... @ 00:03:42](/episodes/ep-4DvYXBn_5JI.md#t-00-03-42)
+- [LIVE With Victor Marx: What Did He Know About 9... @ 01:08:41](/episodes/ep-Dkxa9OUA9K8.md#t-01-08-41)
 
 </details>
 </div>
@@ -37891,7 +38970,7 @@ _Total events: 1323_
 <div class="timeline-date">2023-10-07</div>
 <div class="timeline-desc"><a href="/events/event-2023-10-07-the-october-7-hamas-led-attack-on-israel.md">The October 7 Hamas-led attack on Israel occurred.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">11× in 4 eps</span>
+<span class="timeline-badge mentions">16× in 5 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2023-10-07: The October 7 Hamas-led attack on Israel occurred. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -37908,6 +38987,11 @@ _Total events: 1323_
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:34:02](/episodes/ep-xjzb_t5Tk9o.md#t-01-34-00)
 - [An Open Letter To President Donald Trump (My Re... @ 00:30:32](/episodes/ep-ZIH5-V6UPkg.md#t-00-30-22)
 - [STAGED? Erika’s VIRAL White House Correspondent... @ 00:02:22](/episodes/ep-FFQ9675oqRI.md#t-00-01-56)
+- [Candace Owens x Ana Kasparian @ 00:09:07](/episodes/ep-SKNJPul29zU.md#t-00-08-51)
+- [Candace Owens x Ana Kasparian @ 00:18:33](/episodes/ep-SKNJPul29zU.md#t-00-18-33)
+- [Candace Owens x Ana Kasparian @ 00:18:47](/episodes/ep-SKNJPul29zU.md#t-00-18-47)
+- [Candace Owens x Ana Kasparian @ 00:19:05](/episodes/ep-SKNJPul29zU.md#t-00-19-05)
+- [Candace Owens x Ana Kasparian @ 00:20:56](/episodes/ep-SKNJPul29zU.md#t-00-20-56)
 
 </details>
 </div>
@@ -37924,6 +39008,21 @@ _Total events: 1323_
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Ki... @ 00:36:07](/episodes/ep-nPhCKwJ6ye8.md#t-00-36-07)
 - [Candace Owens vs. Andrew Wilson: The Charlie Ki... @ 00:36:56](/episodes/ep-nPhCKwJ6ye8.md#t-00-36-46)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2023-10-07-candace-owens-said-egyptian-plane-su-btu">
+<div class="timeline-date">2023-10-07</div>
+<div class="timeline-desc"><a href="/events/event-2023-10-07-candace-owens-said-egyptian-plane-su-btu.md">Candace Owens said Egyptian plane SU-BTU flew from Cairo to Paris and then St. Louis</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2023-10-07: Candace Owens said Egyptian plane SU-BTU flew from Cairo to Paris and then St. Louis - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:07:58](/episodes/ep-MhakwJxK-Zk.md#t-00-07-58)
 
 </details>
 </div>
@@ -38048,22 +39147,38 @@ _Total events: 1323_
 
 **May**
 
-<div class="timeline-event filter-item" id="event-2023-05-kouri-richins-was-charged-in-connection-">
-<div class="timeline-date">2023-05</div>
-<div class="timeline-desc"><a href="/events/event-2023-05-kouri-richins-was-charged-in-connection-.md">Kouri Richins was charged in connection with Eric Richins's murder.</a></div>
+<div class="timeline-event filter-item" id="event-2023-05-08-kouri-richins-was-charged-in-connection-">
+<div class="timeline-date">2023-05-08</div>
+<div class="timeline-desc"><a href="/events/event-2023-05-08-kouri-richins-was-charged-in-connection-.md">Kouri Richins was charged in connection with Eric Richins's murder.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('2023-05: Kouri Richins was charged in connection with Eric Richins\'s murder. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2023-05-08: Kouri Richins was charged in connection with Eric Richins\'s murder. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:36:38](/episodes/ep-_vg7ucP1E0g.md#t-00-36-24)
+- [TRENDING! I Send Out Some Legal Letters. Victor... @ 00:26:43](/episodes/ep-cPidFQDJLbo.md#t-00-26-39)
 
 </details>
 </div>
 
 **April**
+
+<div class="timeline-event filter-item" id="event-2023-04-kouri-richins-appeared-on-today-to-promo">
+<div class="timeline-date">2023-04</div>
+<div class="timeline-desc"><a href="/events/event-2023-04-kouri-richins-appeared-on-today-to-promo.md">Kouri Richins appeared on TODAY to promote her children's grief book.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2023-04: Kouri Richins appeared on TODAY to promote her children\'s grief book. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [TRENDING! I Send Out Some Legal Letters. Victor... @ 00:25:32](/episodes/ep-cPidFQDJLbo.md#t-00-25-32)
+
+</details>
+</div>
 
 <div class="timeline-event filter-item" id="event-2023-04-24-tucker-carlson-left-fox-news">
 <div class="timeline-date">2023-04-24</div>
@@ -38174,15 +39289,31 @@ _Total events: 1323_
 
 <div class="timeline-event filter-item" id="event-2023-kenneth-brining-reportedly-tried-to-shoo">
 <div class="timeline-date">2023</div>
-<div class="timeline-desc"><a href="/events/event-2023-kenneth-brining-reportedly-tried-to-shoo.md">Kenneth Brining reportedly tried to shoot Victor Marx</a></div>
+<div class="timeline-desc"><a href="/events/event-2023-kenneth-brining-reportedly-tried-to-shoo.md">Kenneth Breeding reportedly tried to shoot Victor Marx</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('2023: Kenneth Brining reportedly tried to shoot Victor Marx - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2023: Kenneth Breeding reportedly tried to shoot Victor Marx - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:16:30](/episodes/ep-jsqUIkszZd0.md#t-00-15-53)
+- [LIVE With Victor Marx: What Did He Know About 9... @ 00:05:26](/episodes/ep-Dkxa9OUA9K8.md#t-00-05-05)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2023-benjamin-netanyahu-sat-down-with-lex-fri">
+<div class="timeline-date">2023</div>
+<div class="timeline-desc"><a href="/events/event-2023-benjamin-netanyahu-sat-down-with-lex-fri.md">Benjamin Netanyahu sat down with Lex Fridman for a podcast interview in Israel</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2023: Benjamin Netanyahu sat down with Lex Fridman for a podcast interview in Israel - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:05:15](/episodes/ep-MhakwJxK-Zk.md#t-00-04-45)
 
 </details>
 </div>
@@ -38413,13 +39544,31 @@ _Total events: 1323_
 <div class="timeline-date">2022-03-04</div>
 <div class="timeline-desc"><a href="/events/event-2022-03-04-eric-richins-was-murdered.md">Eric Richins was murdered.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2022-03-04: Eric Richins was murdered. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:36:38](/episodes/ep-_vg7ucP1E0g.md#t-00-36-24)
+- [TRENDING! I Send Out Some Legal Letters. Victor... @ 00:25:50](/episodes/ep-cPidFQDJLbo.md#t-00-25-50)
+
+</details>
+</div>
+
+**February**
+
+<div class="timeline-event filter-item" id="event-2022-02-eric-richins-transferred-his-estate-and-">
+<div class="timeline-date">2022-02</div>
+<div class="timeline-desc"><a href="/events/event-2022-02-eric-richins-transferred-his-estate-and-.md">Eric Richins transferred his estate and business interests to his sister before his death.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2022-02: Eric Richins transferred his estate and business interests to his sister before his death. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [TRENDING! I Send Out Some Legal Letters. Victor... @ 00:26:59](/episodes/ep-cPidFQDJLbo.md#t-00-26-43)
 
 </details>
 </div>
@@ -38501,6 +39650,21 @@ _Total events: 1323_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2022-benjamin-netanyahu-went-on-an-american-p">
+<div class="timeline-date">2022</div>
+<div class="timeline-desc"><a href="/events/event-2022-benjamin-netanyahu-went-on-an-american-p.md">Benjamin Netanyahu went on an American press tour to promote his book</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2022: Benjamin Netanyahu went on an American press tour to promote his book - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:06:00](/episodes/ep-MhakwJxK-Zk.md#t-00-05-28)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -38562,6 +39726,21 @@ _Total events: 1323_
 </div>
 
 **April**
+
+<div class="timeline-event filter-item" id="event-2021-04-hunter-bidens-memoir-was-published">
+<div class="timeline-date">2021-04</div>
+<div class="timeline-desc"><a href="/events/event-2021-04-hunter-bidens-memoir-was-published.md">Hunter Biden's memoir was published.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2021-04: Hunter Biden\'s memoir was published. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Candace x Hunter Biden: The Interview @ 00:04:13](/episodes/ep-Ux1kzgQxkws.md#t-00-04-13)
+
+</details>
+</div>
 
 <div class="timeline-event filter-item" id="event-2021-01-01-charlie-kirk-founded-turning-point-usa-faith">
 <div class="timeline-date">2021-04-01</div>
@@ -39225,6 +40404,21 @@ _Total events: 1323_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2020-susie-wiles-worked-on-benjamin-netanyahu">
+<div class="timeline-date">2020</div>
+<div class="timeline-desc"><a href="/events/event-2020-susie-wiles-worked-on-benjamin-netanyahu.md">Susie Wiles worked on Benjamin Netanyahu's reelection campaign.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2020: Susie Wiles worked on Benjamin Netanyahu\'s reelection campaign. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Candace Owens x Ana Kasparian @ 01:12:18](/episodes/ep-SKNJPul29zU.md#t-01-12-18)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -39281,6 +40475,23 @@ _Total events: 1323_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | ... @ 00:24:25](/episodes/ep-yAIb-NuUh_U.md#t-00-23-51)
+
+</details>
+</div>
+
+**June**
+
+<div class="timeline-event filter-item" id="event-2019-06-01-hunter-biden-began-his-current-period-of">
+<div class="timeline-date">2019-06-01</div>
+<div class="timeline-desc"><a href="/events/event-2019-06-01-hunter-biden-began-his-current-period-of.md">Hunter Biden began his current period of sobriety.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2019-06-01: Hunter Biden began his current period of sobriety. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Candace x Hunter Biden: The Interview @ 00:02:19](/episodes/ep-Ux1kzgQxkws.md#t-00-02-08)
 
 </details>
 </div>
@@ -41501,6 +42712,21 @@ _Total events: 1323_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2015-victor-marx-first-traveled-to-iraq-to-he">
+<div class="timeline-date">2015</div>
+<div class="timeline-desc"><a href="/events/event-2015-victor-marx-first-traveled-to-iraq-to-he.md">Victor Marx first traveled to Iraq to help people held captive by ISIS</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2015: Victor Marx first traveled to Iraq to help people held captive by ISIS - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9... @ 00:53:31](/episodes/ep-Dkxa9OUA9K8.md#t-00-53-21)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -42865,6 +44091,21 @@ _Total events: 1323_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2010-hunter-biden-drank-alcohol-on-a-plane-en">
+<div class="timeline-date">2010</div>
+<div class="timeline-desc"><a href="/events/event-2010-hunter-biden-drank-alcohol-on-a-plane-en.md">Hunter Biden drank alcohol on a plane, ending nearly seven years of sobriety.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2010: Hunter Biden drank alcohol on a plane, ending nearly seven years of sobriety. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Candace x Hunter Biden: The Interview @ 00:16:35](/episodes/ep-Ux1kzgQxkws.md#t-00-16-35)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -43243,6 +44484,21 @@ _Total events: 1323_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:17:11](/episodes/ep-2tFYJf1klgY.md#t-00-16-51)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2008-the-2008-economic-collapse-occurred">
+<div class="timeline-date">2008</div>
+<div class="timeline-desc"><a href="/events/event-2008-the-2008-economic-collapse-occurred.md">The 2008 economic collapse occurred.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2008: The 2008 economic collapse occurred. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Candace Owens x Ana Kasparian @ 00:12:35](/episodes/ep-SKNJPul29zU.md#t-00-12-35)
 
 </details>
 </div>
@@ -43925,13 +45181,14 @@ _Total events: 1323_
 <div class="timeline-date">2003</div>
 <div class="timeline-desc"><a href="/events/event-2003-victor-marx-and-his-brother-founded-all-.md">Victor Marx and his brother founded All Things Possible Ministries</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2003: Victor Marx and his brother founded All Things Possible Ministries - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's... @ 00:15:53](/episodes/ep-jsqUIkszZd0.md#t-00-15-53)
+- [LIVE With Victor Marx: What Did He Know About 9... @ 00:05:18](/episodes/ep-Dkxa9OUA9K8.md#t-00-05-05)
 
 </details>
 </div>
@@ -44083,7 +45340,7 @@ _Total events: 1323_
 <div class="timeline-date">2001-09-11</div>
 <div class="timeline-desc"><a href="/events/event-2001-09-11-september-11-attacks.md">September 11 attacks</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2001-09-11: September 11 attacks - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -44092,6 +45349,7 @@ _Total events: 1323_
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAG... @ 01:12:00](/episodes/ep-LATnak75Si0.md#t-01-03-34)
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:04:30](/episodes/ep-sreYYcID-QY.md#t-00-04-09)
 - [Bride Of Charlie: What Happened In Romania? | E... @ 00:17:52](/episodes/ep-y8lak3CRwDw.md#t-00-17-52)
+- [Candace Owens x Ana Kasparian @ 00:24:17](/episodes/ep-SKNJPul29zU.md#t-00-24-17)
 
 </details>
 </div>
@@ -45798,6 +47056,45 @@ _Total events: 1323_
 </div>
 </div>
 
+<div class="tab-content tab-content-year-1972">
+
+<div class="timeline-container">
+
+<h2 id="year-1972">1972</h2>
+
+<div class="timeline-event filter-item" id="event-1972-hunter-biden-survived-the-car-accident-t">
+<div class="timeline-date">1972</div>
+<div class="timeline-desc"><a href="/events/event-1972-hunter-biden-survived-the-car-accident-t.md">Hunter Biden survived the car accident that killed his mother and sister.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1972: Hunter Biden survived the car accident that killed his mother and sister. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Candace x Hunter Biden: The Interview @ 00:18:23](/episodes/ep-Ux1kzgQxkws.md#t-00-17-55)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-1972-joe-biden-pledged-never-to-own-a-stock-o">
+<div class="timeline-date">1972</div>
+<div class="timeline-desc"><a href="/events/event-1972-joe-biden-pledged-never-to-own-a-stock-o.md">Joe Biden pledged never to own a stock or bond.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1972: Joe Biden pledged never to own a stock or bond. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Candace x Hunter Biden: The Interview @ 01:18:54](/episodes/ep-Ux1kzgQxkws.md#t-01-18-27)
+
+</details>
+</div>
+
+</div>
+</div>
+
 <div class="tab-content tab-content-year-1971">
 
 <div class="timeline-container">
@@ -45970,6 +47267,25 @@ _Total events: 1323_
 <div class="timeline-container">
 
 <h2 id="year-1968">1968</h2>
+
+**June**
+
+<div class="timeline-event filter-item" id="event-1968-06-16-mitt-romney-was-seriously-injured-in-a-c">
+<div class="timeline-date">1968-06-16</div>
+<div class="timeline-desc"><a href="/events/event-1968-06-16-mitt-romney-was-seriously-injured-in-a-c.md">Mitt Romney was seriously injured in a car crash in France that killed Leola Anderson</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1968-06-16: Mitt Romney was seriously injured in a car crash in France that killed Leola Anderson - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:38:33](/episodes/ep-MhakwJxK-Zk.md#t-00-38-33)
+
+</details>
+</div>
+
+****
 
 <div class="timeline-event filter-item" id="event-1968-bobby-harpole-began-his-law-enforcement-">
 <div class="timeline-date">1968</div>
@@ -46312,6 +47628,45 @@ _Total events: 1323_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-1948-the-nakba-occurred">
+<div class="timeline-date">1948</div>
+<div class="timeline-desc"><a href="/events/event-1948-the-nakba-occurred.md">The Nakba occurred.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1948: The Nakba occurred. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Candace Owens x Ana Kasparian @ 00:39:31](/episodes/ep-SKNJPul29zU.md#t-00-39-31)
+
+</details>
+</div>
+
+</div>
+</div>
+
+<div class="tab-content tab-content-year-1947">
+
+<div class="timeline-container">
+
+<h2 id="year-1947">1947</h2>
+
+<div class="timeline-event filter-item" id="event-1947-the-soviet-union-sent-ships-to-take-arme">
+<div class="timeline-date">1947</div>
+<div class="timeline-desc"><a href="/events/event-1947-the-soviet-union-sent-ships-to-take-arme.md">The Soviet Union sent ships to take Armenians from Haifa back to Armenia.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1947: The Soviet Union sent ships to take Armenians from Haifa back to Armenia. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Candace Owens x Ana Kasparian @ 00:39:31](/episodes/ep-SKNJPul29zU.md#t-00-39-31)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -46440,6 +47795,30 @@ _Total events: 1323_
 </div>
 </div>
 
+<div class="tab-content tab-content-year-1937">
+
+<div class="timeline-container">
+
+<h2 id="year-1937">1937</h2>
+
+<div class="timeline-event filter-item" id="event-1937-ana-kasparians-maternal-grandmother-was-">
+<div class="timeline-date">1937</div>
+<div class="timeline-desc"><a href="/events/event-1937-ana-kasparians-maternal-grandmother-was-.md">Ana Kasparian's maternal grandmother was born in Haifa.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1937: Ana Kasparian\'s maternal grandmother was born in Haifa. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Candace Owens x Ana Kasparian @ 00:39:31](/episodes/ep-SKNJPul29zU.md#t-00-39-31)
+
+</details>
+</div>
+
+</div>
+</div>
+
 <div class="tab-content tab-content-year-1935">
 
 <div class="timeline-container">
@@ -46457,6 +47836,32 @@ _Total events: 1323_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:34:02](/episodes/ep-ZAsV0fHGBiM.md#t-00-33-40)
+
+</details>
+</div>
+
+</div>
+</div>
+
+<div class="tab-content tab-content-year-1933">
+
+<div class="timeline-container">
+
+<h2 id="year-1933">1933</h2>
+
+**November**
+
+<div class="timeline-event filter-item" id="event-1933-11-16-united-states-recognizes-the-soviet-unio">
+<div class="timeline-date">1933-11-16</div>
+<div class="timeline-desc"><a href="/events/event-1933-11-16-united-states-recognizes-the-soviet-unio.md">United States recognizes the Soviet Union</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1933-11-16: United States recognizes the Soviet Union - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Del... @ 00:25:26](/episodes/ep-YeEtS7nix3o.md#t-00-25-09)
 
 </details>
 </div>
@@ -46562,6 +47967,32 @@ _Total events: 1323_
 </div>
 </div>
 
+<div class="tab-content tab-content-year-1917">
+
+<div class="timeline-container">
+
+<h2 id="year-1917">1917</h2>
+
+**November**
+
+<div class="timeline-event filter-item" id="event-1917-11-07-bolsheviks-seize-power-under-vladimir-le">
+<div class="timeline-date">1917-11-07</div>
+<div class="timeline-desc"><a href="/events/event-1917-11-07-bolsheviks-seize-power-under-vladimir-le.md">Bolsheviks seize power under Vladimir Lenin</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1917-11-07: Bolsheviks seize power under Vladimir Lenin - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Del... @ 00:25:26](/episodes/ep-YeEtS7nix3o.md#t-00-25-09)
+
+</details>
+</div>
+
+</div>
+</div>
+
 <div class="tab-content tab-content-year-1913">
 
 <div class="timeline-container">
@@ -46621,6 +48052,25 @@ _Total events: 1323_
 <div class="timeline-container">
 
 <h2 id="year-1881">1881</h2>
+
+**March**
+
+<div class="timeline-event filter-item" id="event-1881-03-13-tsar-alexander-ii-is-assassinated-in-st-">
+<div class="timeline-date">1881-03-13</div>
+<div class="timeline-desc"><a href="/events/event-1881-03-13-tsar-alexander-ii-is-assassinated-in-st-.md">Tsar Alexander II is assassinated in St. Petersburg</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1881-03-13: Tsar Alexander II is assassinated in St. Petersburg - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Del... @ 00:20:11](/episodes/ep-YeEtS7nix3o.md#t-00-20-00)
+
+</details>
+</div>
+
+****
 
 <div class="timeline-event filter-item" id="event-1881-the-russian-tsar-was-assassinated">
 <div class="timeline-date">1881</div>

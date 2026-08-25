@@ -1,6 +1,6 @@
 ---
 title: "Christ Is King"
-description: "Christ Is King (Concepts) - 24 mentions"
+description: "Christ Is King (Concepts) - 29 mentions"
 id: "concept-christ-is-king"
 type: "CONCEPT"
 aliases:
@@ -15,13 +15,17 @@ _Type: Concepts_
 
 **Categories:** Christian slogan
 
+**Entity verification:** verified
+> The existing concept correctly canonicalizes the explicitly spoken Christian proclamation 'Christ Is King'.
+Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-37">2026-01-12 · 00:20:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-christ-is-king-t-00-41-14">2026-05-07 · 00:41:14</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-christ-is-king-t-00-22-41">2026-05-26 · 00:22:49</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -43,6 +47,8 @@ _Type: Concepts_
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-christ-is-king-t-00-07-54" style="--pulse-height:100%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 5 mentions" title="2026-05-04 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-concept-christ-is-king-t-00-48-09" style="--pulse-height:60%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 3 mentions" title="2026-05-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-christ-is-king-t-00-41-14" style="--pulse-height:20%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-concept-christ-is-king-t-00-45-44" style="--pulse-height:40%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-christ-is-king-t-00-21-55" style="--pulse-height:60%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 3 mentions" title="2026-05-26 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -61,6 +67,8 @@ _Type: Concepts_
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-concept-christ-is-king-t-00-07-54) | 5 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-concept-christ-is-king-t-00-48-09) | 3 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-concept-christ-is-king-t-00-41-14) | 1 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-christ-is-king-t-00-45-44) | 2 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-concept-christ-is-king-t-00-21-55) | 3 |
 
 </details>
 </section>
@@ -68,7 +76,32 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (3 mentions)</summary>
+
+**[00:22:21](/episodes/ep-BxN2-aeMYIs.md#ent-concept-christ-is-king-t-00-21-55)**
+> "Christ is King was suddenly anti-Semitic"
+
+**[00:22:35](/episodes/ep-BxN2-aeMYIs.md#ent-concept-christ-is-king-t-00-21-55)**
+> "Christ is King is anti-Semitic. You know who they partnered with..."
+
+**[00:22:49](/episodes/ep-BxN2-aeMYIs.md#ent-concept-christ-is-king-t-00-22-41)**
+> "... in a psyop that if you think Christ is king, you might be falling for the dark tetrad."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (2 mentions)</summary>
+
+**[00:46:00](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-christ-is-king-t-00-45-44)**
+> "...urch actually taught and what Christ is king really means, head to loretto pubs.org. Again, th..."
+
+**[00:47:33](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-christ-is-king-t-00-47-11)**
+> "... and gone. Love you, Candace. Christ is king. That is 1000% true. But it's funny that we all s..."
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>
@@ -213,5 +246,18 @@ _Type: Concepts_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Christ Is King (1)</strong></summary>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
+
+- [00:22:21](/episodes/ep-BxN2-aeMYIs.md#t-00-21-55) (Accusation) **Candace Owens**: ["The Network Contagion Research Institute produced a report featuring O..."](/statements/statement-b3ef2f20bf50.md)
+  - Also about: [Network Contagion Research Institute](/entities/org-network-contagion-research-institute.md), [Candace Owens](/entities/person-candace-owens.md), [Antisemitism](/entities/concept-antisemitism.md)
+
+</details>
 
 </details>

@@ -11,7 +11,11 @@ object: "person-benjamin-netanyahu"
 
 ## [Israel](/entities/gpe-israel) has prime minister [Benjamin Netanyahu](/entities/person-benjamin-netanyahu)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk)**
+
+- [00:03:57](/episodes/ep-MhakwJxK-Zk#t-00-03-57): _All these people are scoring interviews with the prime minister of Israel, the sitting prime minister of Israel._
 
 **[A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU)**
 

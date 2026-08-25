@@ -1,6 +1,6 @@
 ---
 title: "Lara Trump"
-description: "Lara Trump (People) - 8 mentions"
+description: "Lara Trump (People) - 9 mentions"
 id: "person-lara-trump"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Salem Media Group Landmark Deal with Donald Trump Jr. and Lara Trump](h
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-r1PS67aRmcA.md#ent-person-lara-trump-t-00-39-03">2025-11-08 · 00:39:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-lara-trump-t-00-37-02">2026-05-05 · 00:37:26</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-lara-trump-t-00-47-13">2026-05-18 · 00:47:49</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -34,6 +34,7 @@ Source: [Salem Media Group Landmark Deal with Donald Trump Jr. and Lara Trump](h
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-person-lara-trump-t-00-39-03" style="--pulse-height:100%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 5 mentions" title="2025-11-08 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#t-00-16-56" style="--pulse-height:20%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-lara-trump-t-00-31-24" style="--pulse-height:40%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-lara-trump-t-00-47-13" style="--pulse-height:20%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +43,7 @@ Source: [Salem Media Group Landmark Deal with Donald Trump Jr. and Lara Trump](h
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-person-lara-trump-t-00-39-03) | 5 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#t-00-16-56) | 1 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-lara-trump-t-00-31-24) | 2 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-lara-trump-t-00-47-13) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [Salem Media Group Landmark Deal with Donald Trump Jr. and Lara Trump](h
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>
+
+**[00:47:49](/episodes/ep-1QZ4X6q1DPg.md#ent-person-lara-trump-t-00-47-13)**
+> "...rump, by Donald Trump Jr., by Lara Trump, by the people he was friends with, by Kash Patel..."
+
+</details>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (2 mentions)</summary>

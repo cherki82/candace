@@ -1,6 +1,6 @@
 ---
 title: "Orthodox Christianity"
-description: "Orthodox Christianity (Concepts) - 2 mentions"
+description: "Orthodox Christianity (Concepts) - 3 mentions"
 id: "concept-orthodox-christianity"
 type: "CONCEPT"
 aliases:
@@ -22,9 +22,9 @@ Source: [Orthodox Church in America — Political issues](https://www.oca.org/qu
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-orthodox-christianity-t-00-56-43">2026-03-06 · 00:56:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-10">2026-03-25 · 00:31:10</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-orthodox-christianity-t-00-27-14">2026-06-09 · 00:27:31</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [Orthodox Church in America — Political issues](https://www.oca.org/qu
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-orthodox-christianity-t-00-56-43" style="--pulse-height:100%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-10" style="--pulse-height:100%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-orthodox-christianity-t-00-27-14" style="--pulse-height:100%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Orthodox Church in America — Political issues](https://www.oca.org/qu
 |---|---|---:|
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-concept-orthodox-christianity-t-00-56-43) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-10) | 1 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-concept-orthodox-christianity-t-00-27-14) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [Orthodox Church in America — Political issues](https://www.oca.org/qu
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>
+
+**[00:27:31](/episodes/ep-YeEtS7nix3o.md#ent-concept-orthodox-christianity-t-00-27-14)**
+> "Orthodox Christianity survived. Beauty and truth persisted. In fact, in..."
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1 mentions)</summary>

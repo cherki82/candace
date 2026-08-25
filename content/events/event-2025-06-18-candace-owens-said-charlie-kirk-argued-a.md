@@ -11,7 +11,7 @@ date: "2025-06-18"
 
 > Candace Owens said Charlie Kirk argued at the White House against expanded U.S. military action in Iran.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. Halftime Wars: TPUSA vs The NFL | Candace Ep 304
 
@@ -28,3 +28,11 @@ date: "2025-06-18"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(665);return false;">▶️ Play</a>
 
 > on June 18th, I had a text exchange with Charlie Kirk. He said he was spending
+
+### 3. BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. |...
+
+**Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
+**Timestamp:** [00:28:03](/episodes/ep-MhakwJxK-Zk.md#t-00-28-03) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1683);return false;">▶️ Play</a>
+
+> That is when Charlie goes into the White House. We have confirmed those dates

@@ -11,7 +11,7 @@ date: "2025-07-18"
 
 > UVU Turning Point chapter requested Charlie Kirk for campus speaking event.
 
-## Mentioned In (254 times)
+## Mentioned In (255 times)
 
 ### 1. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
 
@@ -2044,3 +2044,11 @@ date: "2025-07-18"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(637);return false;">▶️ Play</a>
 
 > een seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press. He is carrying on Charlie Kirk's show. He was already seated on Cha
+
+### 255. BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. |...
+
+**Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
+**Timestamp:** [00:31:41](/episodes/ep-MhakwJxK-Zk.md#event-event-2025-07-18-uvu-turning-point-chapter-requested-charlie-kirk-f-t-00-31-11) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1901);return false;">▶️ Play</a>
+
+> On July 18th, and that's according to local news in Utah, that Turning Point USA then submits

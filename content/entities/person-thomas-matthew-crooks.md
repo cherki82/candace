@@ -1,23 +1,31 @@
 ---
 title: "Thomas Matthew Crooks"
-description: "Thomas Matthew Crooks (People) - 11 mentions"
+description: "Thomas Matthew Crooks (People) - 13 mentions"
 id: "person-thomas-matthew-crooks"
 type: "PERSON"
 aliases:
   - "Thomas Crooks"
+categories:
+  - "Butler assassination attempt subject"
 ---
 
 _Type: People_
 
 **Also known as:** Thomas Crooks
 
+**Categories:** Butler assassination attempt subject
+
+**Entity verification:** verified
+> FBI Vault records use the full canonical name Thomas Matthew Crooks in the Butler assassination-attempt investigation; transcript shorthand Matthew Crooks is resolved to this record.
+Source: [Thomas Crooks Part 03 | FBI Vault](https://vault.fbi.gov/thomas-crooks/thomas-crooks-part-03)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-matthew-crooks-t-00-00-01">2025-09-24 · 00:00:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#t-00-51-40">2025-12-01 · 00:51:40</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-thomas-matthew-crooks-t-00-47-31">2026-05-28 · 00:47:31</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -30,6 +38,7 @@ _Type: People_
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-thomas-matthew-crooks-t-00-45-48" style="--pulse-height:14%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-581dILVcEE4.md#ent-person-thomas-matthew-crooks-t-00-30-43" style="--pulse-height:29%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#t-00-51-40" style="--pulse-height:14%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-thomas-matthew-crooks-t-00-47-27" style="--pulse-height:29%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -39,6 +48,7 @@ _Type: People_
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-thomas-matthew-crooks-t-00-45-48) | 1 |
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-thomas-matthew-crooks-t-00-30-43) | 2 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#t-00-51-40) | 1 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-thomas-matthew-crooks-t-00-47-27) | 2 |
 
 </details>
 </section>
@@ -46,7 +56,18 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (2 mentions)</summary>
+
+**[00:47:27](/episodes/ep-SKNJPul29zU.md#ent-person-thomas-matthew-crooks-t-00-47-27)**
+> "I think his name is Matthew Crooks (Thomas Matthew Crooks). Ooh,"
+
+**[00:47:31](/episodes/ep-SKNJPul29zU.md#ent-person-thomas-matthew-crooks-t-00-47-31)**
+> "...erfect. Okay, Matthew Crooks (Thomas Matthew Crooks). So Tucker (Tucker Carlson) did this really grea..."
+
+</details>
 
 <details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
@@ -111,7 +132,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Thomas Matthew Crooks (7)</strong></summary>
+<summary><strong class="section-title">Statements about Thomas Matthew Crooks (9)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (2)</summary>
+
+- [00:47:31](/episodes/ep-SKNJPul29zU.md#t-00-47-31) (Accusation) **Ana Kasparian**: ["The FBI lied when it said Thomas Matthew Crooks had no online trail; h..."](/statements/statement-ccaaf4f45447.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+- [00:47:56](/episodes/ep-SKNJPul29zU.md#t-00-47-31) (Accusation) **Ana Kasparian**: ["Kash Patel told Congress he could not disclose information about Thoma..."](/statements/statement-081cae807625.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [United States Congress](/entities/org-united-states-congress.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (7)</summary>

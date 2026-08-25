@@ -1,6 +1,6 @@
 ---
 title: "Justin Streiff"
-description: "Justin Streiff (People) - 90 mentions"
+description: "Justin Streiff (People) - 92 mentions"
 id: "person-justin-streiff"
 type: "PERSON"
 aliases:
@@ -25,8 +25,8 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-21-13">2025-09-25 · 00:06:45</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-justin-streiff-t-02-46-50">2026-08-14 · 02:46:56</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>90</strong></div>
+<div><span>Episodes</span><strong>34</strong></div>
+<div><span>Mentions</span><strong>92</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
 <div><span>Statements about</span><strong>26</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
@@ -68,6 +68,8 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-justin-streiff-t-00-47-51" style="--pulse-height:14%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-justin-streiff-t-00-31-02" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-justin-streiff-t-00-00-01" style="--pulse-height:100%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 14 mentions" title="2026-05-13 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-justin-streiff-t-00-56-00" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-person-justin-streiff-t-01-06-30" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-justin-streiff-t-02-46-50" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -105,6 +107,8 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-justin-streiff-t-00-47-51) | 2 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-justin-streiff-t-00-31-02) | 1 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-justin-streiff-t-00-00-01) | 14 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-justin-streiff-t-00-56-00) | 1 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-justin-streiff-t-01-06-30) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-justin-streiff-t-02-46-50) | 1 |
 
 </details>
@@ -113,13 +117,29 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (90)</strong></summary>
+<summary><strong class="section-title">Raw mentions (92)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[02:46:56](/episodes/ep-nPhCKwJ6ye8.md#ent-person-justin-streiff-t-02-46-50)**
 > "her and Justin Strife."
+
+</details>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>
+
+**[01:06:30](/episodes/ep-YeEtS7nix3o.md#ent-person-justin-streiff-t-01-06-30)**
+> "...ged Andrew Kolvet, I messaged Justin Streif, and I messaged the lawyer that they use t..."
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
+
+**[00:56:00](/episodes/ep-SKNJPul29zU.md#ent-person-justin-streiff-t-00-56-00)**
+> "be like maybe it's this maybe in my head i was like maybe she's being blackmailed maybe she's scared they're going to kill her maybe like like you said she just wants a quick conclusion to all of this maybe she's still in shell shock and is actually not controlling anything at turning point was my initial suspicion and just on paper she's ceo but she's actually just home crying every day and like behind the scenes like you know tyler (Tyler Bowyer) or justin (Justin Streiff) Yeah, i"
 
 </details>
 
@@ -591,11 +611,12 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <summary>Works For (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:21:38](/episodes/ep-K5GjF53bfN4.md#t-00-21-13): “Justin Strief is taking on a new elevated role with Turning Point USA as its COO. Since joining TPUSA in 2020”
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:24:56](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50): “Justin Strife is going to be the new COO”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:18:10](/episodes/ep-X92MllIHDzw.md#t-00-17-53): “I instantly reached out to somebody at Turning Point USA ... Justin Streiff”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:06:30](/episodes/ep-YeEtS7nix3o.md#t-01-06-30): “I messaged Justin Streif, and I messaged the lawyer that they use to answer questions. These are, you know, top brass, so to speak, at Turning Point USA who could give an official response.”
 
 </details>
 
@@ -612,11 +633,12 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <summary>Referenced By (7)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:21:38](/episodes/ep-K5GjF53bfN4.md#t-00-21-13): “Justin Strief is taking on a new elevated role with Turning Point USA as its COO. Since joining TPUSA in 2020”
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:24:56](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50): “Justin Strife is going to be the new COO”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:18:10](/episodes/ep-X92MllIHDzw.md#t-00-17-53): “I instantly reached out to somebody at Turning Point USA ... Justin Streiff”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:06:30](/episodes/ep-YeEtS7nix3o.md#t-01-06-30): “I messaged Justin Streif, and I messaged the lawyer that they use to answer questions. These are, you know, top brass, so to speak, at Turning Point USA who could give an official response.”
 
 </details>
 

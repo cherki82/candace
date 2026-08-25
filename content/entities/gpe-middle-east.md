@@ -1,6 +1,6 @@
 ---
 title: "Middle East"
-description: "Middle East (Places) - 64 mentions"
+description: "Middle East (Places) - 71 mentions"
 id: "gpe-middle-east"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-middle-east-t-00-54-45">2025-09-16 · 00:55:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-middle-east-t-02-00-32">2026-04-22 · 02:00:32</a></strong></div>
-<div><span>Episodes</span><strong>27</strong></div>
-<div><span>Mentions</span><strong>64</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-middle-east-t-01-21-57">2026-05-28 · 01:21:57</a></strong></div>
+<div><span>Episodes</span><strong>32</strong></div>
+<div><span>Mentions</span><strong>71</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -62,6 +62,11 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-middle-east-t-00-51-58" style="--pulse-height:25%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-middle-east-t-00-41-31" style="--pulse-height:38%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 3 mentions" title="2026-04-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-middle-east-t-02-00-32" style="--pulse-height:12%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-middle-east-t-00-45-07" style="--pulse-height:12%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-middle-east-t-01-02-47" style="--pulse-height:12%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-gpe-middle-east-t-00-54-22" style="--pulse-height:12%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-middle-east-t-01-12-53" style="--pulse-height:12%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-middle-east-t-00-16-12" style="--pulse-height:38%" aria-label="Candace Owens x Ana Kasparian: 3 mentions" title="2026-05-28 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -94,6 +99,11 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-gpe-middle-east-t-00-51-58) | 2 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-middle-east-t-00-41-31) | 3 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-gpe-middle-east-t-02-00-32) | 1 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-middle-east-t-00-45-07) | 1 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-middle-east-t-01-02-47) | 1 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-gpe-middle-east-t-00-54-22) | 1 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-middle-east-t-01-12-53) | 1 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-middle-east-t-00-16-12) | 3 |
 
 </details>
 </section>
@@ -101,7 +111,53 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (64)</strong></summary>
+<summary><strong class="section-title">Raw mentions (71)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (3 mentions)</summary>
+
+**[00:16:32](/episodes/ep-SKNJPul29zU.md#ent-gpe-middle-east-t-00-16-12)**
+> "They were going to talk about Obama's expansion of drone use in, you know, the Middle East. And a lot of innocent people were getting killed,"
+
+**[00:28:24](/episodes/ep-SKNJPul29zU.md#ent-gpe-middle-east-t-00-27-59)**
+> "...y on what's going down in the Middle East right now. So okay, fine."
+
+**[01:21:57](/episodes/ep-SKNJPul29zU.md#ent-gpe-middle-east-t-01-21-57)**
+> "what's been going down in the Middle East, how much we have lost in blood and treasure when..."
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
+
+**[01:13:13](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-middle-east-t-01-12-53)**
+> "... of the money coming from the Middle East, of which he continues to raise as he is the amba..."
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1 mentions)</summary>
+
+**[00:54:22](/episodes/ep-cPidFQDJLbo.md#ent-gpe-middle-east-t-00-54-22)**
+> "those Middle Eastern wars"
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1 mentions)</summary>
+
+**[01:02:47](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-middle-east-t-01-02-47)**
+> "...ever say, I want to go to the Middle East and meet people and see firsthand what you've don..."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>
+
+**[00:45:07](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-middle-east-t-00-45-07)**
+> "...is position was on war in the Middle East because he's not here."
+
+</details>
 
 <details>
 <summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (1 mentions)</summary>
@@ -440,7 +496,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Middle East (9)</strong></summary>
+<summary><strong class="section-title">Statements about Middle East (10)</strong></summary>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1)</summary>
+
+- [01:13:13](/episodes/ep-Ux1kzgQxkws.md#t-01-12-53) (Accusation) **Hunter Biden**: ["Jared Kushner has a $4 billion private-equity fund, with 80% from the ..."](/statements/statement-eac3a9869c33.md)
+  - Also about: [Jared Kushner](/entities/person-jared-kushner.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Russia"
-description: "Russia (Places) - 53 mentions"
+description: "Russia (Places) - 135 mentions"
 id: "gpe-russia"
 type: "GPE"
 aliases:
@@ -22,40 +22,45 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-russia-t-00-00-01">2025-09-16 · 00:00:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-52">2026-08-14 · 03:39:52</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>53</strong></div>
+<div><span>Episodes</span><strong>27</strong></div>
+<div><span>Mentions</span><strong>135</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-russia-t-00-30-38">Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316</a> (9 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-00-44">I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345</a> (65 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-russia-t-00-00-01" style="--pulse-height:11%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-gpe-russia-t-00-36-02" style="--pulse-height:11%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-russia-t-00-18-55" style="--pulse-height:56%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 5 mentions" title="2025-10-01 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-russia-t-00-37-57" style="--pulse-height:11%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-c5BcKF91iec.md#ent-gpe-russia-t-00-51-40" style="--pulse-height:11%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-russia-t-00-48-18" style="--pulse-height:78%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 7 mentions" title="2025-10-31 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-K1tFD7FfoCU.md#ent-gpe-russia-t-00-35-50" style="--pulse-height:44%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 4 mentions" title="2025-11-03 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-russia-t-00-26-26" style="--pulse-height:11%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-russia-t-00-12-26" style="--pulse-height:11%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-russia-t-00-06-34" style="--pulse-height:22%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-russia-t-00-42-29" style="--pulse-height:22%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-russia-t-00-13-24" style="--pulse-height:44%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 4 mentions" title="2025-12-08 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-russia-t-00-43-07" style="--pulse-height:11%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-russia-t-01-05-08" style="--pulse-height:11%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-russia-t-00-29-57" style="--pulse-height:22%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-russia-t-00-59-01" style="--pulse-height:22%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-russia-t-00-59-35" style="--pulse-height:11%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-russia-t-00-45-40" style="--pulse-height:11%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-russia-t-00-30-38" style="--pulse-height:100%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 9 mentions" title="2026-03-25 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-russia-t-00-16-03" style="--pulse-height:33%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-FFQ9675oqRI.md#ent-gpe-russia-t-00-27-40" style="--pulse-height:11%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-45" style="--pulse-height:22%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-russia-t-00-00-01" style="--pulse-height:8%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-gpe-russia-t-00-36-02" style="--pulse-height:8%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-russia-t-00-18-55" style="--pulse-height:8%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 5 mentions" title="2025-10-01 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-russia-t-00-37-57" style="--pulse-height:8%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-gpe-russia-t-00-51-40" style="--pulse-height:8%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-russia-t-00-48-18" style="--pulse-height:11%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 7 mentions" title="2025-10-31 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-gpe-russia-t-00-35-50" style="--pulse-height:8%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 4 mentions" title="2025-11-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-russia-t-00-26-26" style="--pulse-height:8%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-russia-t-00-12-26" style="--pulse-height:8%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-russia-t-00-06-34" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-russia-t-00-42-29" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-russia-t-00-13-24" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 4 mentions" title="2025-12-08 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-russia-t-00-43-07" style="--pulse-height:8%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-russia-t-01-05-08" style="--pulse-height:8%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-russia-t-00-29-57" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-russia-t-00-59-01" style="--pulse-height:8%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-russia-t-00-59-35" style="--pulse-height:8%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-russia-t-00-45-40" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-russia-t-00-30-38" style="--pulse-height:14%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 9 mentions" title="2026-03-25 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-russia-t-00-16-03" style="--pulse-height:8%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-gpe-russia-t-00-27-40" style="--pulse-height:8%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-russia-t-00-04-54" style="--pulse-height:8%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-russia-t-00-35-04" style="--pulse-height:8%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-russia-t-00-17-35" style="--pulse-height:11%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 7 mentions" title="2026-05-26 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-russia-t-00-48-39" style="--pulse-height:9%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 6 mentions" title="2026-05-27 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-00-44" style="--pulse-height:100%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 65 mentions" title="2026-06-09 · 65 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-45" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -82,6 +87,11 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-russia-t-00-30-38) | 9 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-russia-t-00-16-03) | 3 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-gpe-russia-t-00-27-40) | 1 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-russia-t-00-04-54) | 2 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-russia-t-00-35-04) | 2 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-russia-t-00-17-35) | 7 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-russia-t-00-48-39) | 6 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-00-44) | 65 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-45) | 2 |
 
 </details>
@@ -90,7 +100,7 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (53)</strong></summary>
+<summary><strong class="section-title">Raw mentions (135)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -100,6 +110,277 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 
 **[03:39:52](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-52)**
 > "Russia."
+
+</details>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (65 mentions)</summary>
+
+**[00:01:02](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-00-44)**
+> "... have to confess, I was being Russian tricky. I was being a little bit tricky. The phot..."
+
+**[00:02:34](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-02-34)**
+> "...erviews, but for some reason, Russia."
+
+**[00:02:51](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-02-34)**
+> "... planned a family vacation to Russia."
+
+**[00:03:52](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-03-16)**
+> "...who's paying for this trip to Russia?"
+
+**[00:04:34](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-04-34)**
+> "Candace Owens went to Russia to just do propaganda work on behalf of the Russi..."
+
+**[00:04:44](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-04-34)**
+> "...gin, and other members of the Russian government and the intel community."
+
+**[00:04:52](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-04-52)**
+> "...'ve decided to go vacation in Russia."
+
+**[00:05:02](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-05-02)**
+> "...w difficult it is to get into Russia? Like you don't get into Russia unless Russia inv..."
+
+**[00:05:07](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-05-02)**
+> "Who's getting a free trip to Russia? She's getting a free ride to Russia. I'm sure th..."
+
+**[00:05:25](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-05-25)**
+> "... on here when Candace goes to Russia and is a guest of the state at this economic foru..."
+
+**[00:06:53](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-06-53)**
+> "...ged by FinCEN while she is in Russia. And then she tags the U.S. Treasury, Secretary R..."
+
+**[00:07:21](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-06-53)**
+> "Then she asked, did Russia pay for your trip? No, Russia did not pay for my ..."
+
+**[00:07:27](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-07-27)**
+> "...ng an absolute meltdown about Russia."
+
+**[00:07:42](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-07-27)**
+> "...dealing with while we were in Russia."
+
+**[00:07:53](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-07-27)**
+> "... pulling for me like to go to Russia for a while. As I told you guys, which they compl..."
+
+**[00:08:12](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-08-12)**
+> "... and he told me how beautiful russia was we've been trying to make it work pregnancies..."
+
+**[00:08:39](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-08-12)**
+> "... you understand she can't say russia's beautiful and clean and safe because the cia says..."
+
+**[00:12:04](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-12-04)**
+> "...can family moved from Iowa to Russia, eight kids, and they had had a situation where t..."
+
+**[00:14:58](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-14-58)**
+> "...ll in recovery he is still in Russia"
+
+**[00:18:25](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-17-58)**
+> "...day, my broader experience in Russia, right?"
+
+**[00:19:04](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-18-38)**
+> "...e it was a family vacation to Russia, which is, by the way, perfectly legal."
+
+**[00:19:18](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-19-18)**
+> "...d between radical Zionism and Russia?"
+
+**[00:19:53](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-19-18)**
+> "...otted by a terrorist group in Russia known in English as the People's Will. That was t..."
+
+**[00:20:37](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-20-37)**
+> "...country, and it brought me to Russia and the Jewish women who were involved in the plo..."
+
+**[00:20:51](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-20-37)**
+> "... take it from me. This is not Russian propaganda. You can just read American articles. ..."
+
+**[00:21:04](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-20-37)**
+> "...ish Women Radicals in Tsarist Russia."
+
+**[00:21:59](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-21-59)**
+> "...ortion of Jewish women in the Russian social democratic movement and the social revolut..."
+
+**[00:22:10](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-21-59)**
+> "...he deteriorating situation of Russian Jewry in these years."
+
+**[00:22:17](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-21-59)**
+> "...lement, the western region of Russia, the former territory of the historic Polish-Lith..."
+
+**[00:24:06](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-23-53)**
+> "...ying it. More than 60 million Russian Christians were then ruthlessly murdered."
+
+**[00:25:09](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-25-09)**
+> "... you don't, again, this isn't Russian propaganda. This is straight from the New York Ti..."
+
+**[00:26:00](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-25-49)**
+> "... could not get control of the Russian funds immediately, he turned to Julius Hammer for..."
+
+**[00:26:07](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-25-49)**
+> "...iven an exclusive license for Russian trade. By 1918, the Soviet Union was financing th..."
+
+**[00:27:14](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-27-14)**
+> "...dered in concentration camps, Russian Christianity survived."
+
+**[00:28:18](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-27-52)**
+> "...clusion. What is feared about Russia?"
+
+**[00:28:23](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-27-52)**
+> "What is it about Russia as a fact that it is no longer communist? It hasn..."
+
+**[00:29:03](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-28-30)**
+> "He hates Russia. He says his grandparents are from Russia. That's..."
+
+**[00:29:17](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-29-14)**
+> "... person in the world to visit Russia."
+
+**[00:29:26](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-29-14)**
+> "... will be spiritually moved by Russia."
+
+**[00:29:35](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-29-14)**
+> "... that we have been told about Russia is a lie. Okay. So when Tucker Carlson was going ..."
+
+**[00:30:14](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-29-55)**
+> "My takeaway from visiting Russia is that it is our society that is on the decline,..."
+
+**[00:30:21](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-29-55)**
+> "Russia, like I said, has not been communist in over 30 y..."
+
+**[00:30:32](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-29-55)**
+> "... You wouldn't want to live in Russia."
+
+**[00:30:59](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-30-38)**
+> "... to go to prison for going to Russia on a family vacation."
+
+**[00:32:45](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-32-35)**
+> "...on. You don't have to look to Russia to see that. Look at how they're treating us."
+
+**[00:32:57](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-32-35)**
+> "Russia sanctioned hell, wasn't allowed to star because I..."
+
+**[00:33:38](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-33-19)**
+> "...ing to you about the state of Russia."
+
+**[00:41:40](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-41-40)**
+> "...who just said you can't go to Russia and Candace is working with Putin and Dugin."
+
+**[00:48:36](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-48-14)**
+> "... of leftist hate watching and Russian bots."
+
+**[01:11:44](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-01-11-40)**
+> "..., apparently you guys are all Russian bots now. I mean, last week you were Iranian bots..."
+
+**[01:11:52](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-01-11-40)**
+> "...ots. Now you're back to being Russian bots. We're all over the map."
+
+**[01:11:58](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-01-11-40)**
+> "... seriously and that you go to Russia because you can and it's legal and it's very impo..."
+
+**[01:12:09](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-01-12-09)**
+> "...dark about various things and russia is a huge piece of it like i said my experience w..."
+
+**[01:12:34](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-01-12-09)**
+> "...publishing, taking a bunch of Russian books and translating them for the West and start..."
+
+**[01:12:43](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-01-12-43)**
+> "...s what they were doing in the Russian empire. They were pamphleteering. Publishing was ..."
+
+**[01:14:27](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-01-14-27)**
+> "...ies went becoming Brigitte in Russia when I was doing interviews after I did my panel...."
+
+**[01:14:42](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-01-14-27)**
+> "...w that America has that whole Russian conspiracy that's always floating at all times an..."
+
+**[01:15:05](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-01-15-05)**
+> "...rd that I'm saying this about Russia and not my own country where people are left and ..."
+
+**[01:16:23](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-01-16-23)**
+> "...back to have a second stab at Russia."
+
+**[01:18:11](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-01-17-42)**
+> "...ollection of icons outside of Russia. Please come visit. I did not know that."
+
+**[01:18:29](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-01-18-25)**
+> "...advocating to send weapons to Russia. You're promoting peace over the CIA plans for Wo..."
+
+**[01:18:35](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-01-18-25)**
+> "...mpant and just say, you know, Russia is endemically anti-Semitic. It's like, no, how a..."
+
+**[01:20:35](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-01-20-35)**
+> "...w, since we are not funded by Russia and since Vladimir Putin did not pay for my trip ..."
+
+**[00:10:00](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-09-41)**
+> "nervous they had never been to Russia they didn't know what that was going to be like they assumed obviously that Russians would have their entire history thought it might be problematic and so everyone was a bit just nerve-wracked and sure enough when he got to the hospital his assessment was correct so I just thank God in so many ways that this this person just recognized what was happening immediately got there and then explained to us that actually before he got on the plane in"
+
+**[00:11:49](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-11-23)**
+> "This Russian hospital, and obviously, historically, I'm thinking Russians tend to be very good doctors and gratefully we were not seeing Vladimir Putin in Moscow, but we were seeing a Catholic family who were hosting us, taking us around."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (6 mentions)</summary>
+
+**[00:48:56](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-russia-t-00-48-39)**
+> "...agine if it was an Iranian or Russian that was operating illegal bio labs in America?"
+
+**[00:49:08](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-russia-t-00-48-39)**
+> "...cally you are being paid from Russia, Pakistan everywhere since you are being watched ..."
+
+**[00:49:18](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-russia-t-00-49-18)**
+> "...think you would be able to in Russia because of sanctions."
+
+**[00:49:27](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-russia-t-00-49-18)**
+> "...'s difficult to transact with Russia at this moment, but you are absolutely right. Ira..."
+
+**[00:49:34](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-russia-t-00-49-18)**
+> "... long time. I was working for Russia, Qatar, Iran, to Pakistan. They never bring a shr..."
+
+**[00:56:05](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-russia-t-00-55-34)**
+> "... because I'm supposed to hate Russia, but I did hear they don't spit on Christians as ..."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (7 mentions)</summary>
+
+**[00:18:08](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-russia-t-00-17-35)**
+> "Russian, Iranian, and Pakistani propaganda networks"
+
+**[00:19:29](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-russia-t-00-19-29)**
+> "...akistan. We're going to blame Russia. We're going to blame Iran. How about you blame t..."
+
+**[00:20:18](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-russia-t-00-20-06)**
+> ".... Why don't we leave Iran and Russia and Pakistan out of this one?"
+
+**[00:21:40](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-russia-t-00-21-28)**
+> "...I could blame before I blamed Russia and Iran and Pakistan."
+
+**[00:25:06](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-russia-t-00-24-56)**
+> "Pakistan, Iran, Russia, that's where we got our Charlie Kirk ideas."
+
+**[00:50:29](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-russia-t-00-50-16)**
+> "... guess I'm funded by Iran and Russia."
+
+**[00:50:37](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-russia-t-00-50-16)**
+> "Russia and probably Pakistan, obviously not sure my husb..."
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (2 mentions)</summary>
+
+**[00:35:04](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-russia-t-00-35-04)**
+> "...ame from people saying it was Russian propaganda that is what is driving us crazy about..."
+
+**[00:35:59](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-russia-t-00-35-59)**
+> "The laptop is Russian propaganda."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (2 mentions)</summary>
+
+**[00:05:05](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-russia-t-00-04-54)**
+> "... He has been the president of Russia for 22 years and he has not endured."
+
+**[00:05:22](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-russia-t-00-04-54)**
+> "...e the routine demonization of Russia, the nation, the people by the entire Western med..."
 
 </details>
 
@@ -391,7 +672,19 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Has President (1)</summary>
+
+- **[Vladimir Putin](/entities/person-vladimir-putin.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:05:05](/episodes/ep-Pb7UlpRdW6U.md#t-00-04-54): “Now, just for comparison, there are world leaders who have been in power for much longer than Trump (Donald Trump), have been presidents of countries for over 20 years, like Vladimir Putin as just one example. He has been the president of Russia for 22 years and he has not endured.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
 
 - **[Alexis Wilkins](/entities/person-alexis-wilkins.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -407,12 +700,65 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 
 </details>
 
+- **[Vladimir Putin](/entities/person-vladimir-putin.md)** president of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:05:05](/episodes/ep-Pb7UlpRdW6U.md#t-00-04-54): “Now, just for comparison, there are world leaders who have been in power for much longer than Trump (Donald Trump), have been presidents of countries for over 20 years, like Vladimir Putin as just one example. He has been the president of Russia for 22 years and he has not endured.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Russia (5)</strong></summary>
+<summary><strong class="section-title">Statements about Russia (18)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (12)</summary>
+
+- [00:04:01](/episodes/ep-YeEtS7nix3o.md#t-00-03-16) (Claim) **Candace Owens**: ["Candace Owens said her family paid for its own trip to Russia."](/statements/statement-76c3d9cb1e19.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:04:34](/episodes/ep-YeEtS7nix3o.md#t-00-04-34) (Accusation) **Ben Shapiro** (via quoted speech): ["Ben Shapiro accused Candace Owens of going to Russia to perform propag..."](/statements/statement-12634ddb77cb.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:05:02](/episodes/ep-YeEtS7nix3o.md#t-00-05-02) (Claim) **Dana Loesch** (via quoted speech): ["Dana Loesch said a person cannot enter Russia unless invited by Russia..."](/statements/statement-b450760d12cf.md)
+
+- [00:05:07](/episodes/ep-YeEtS7nix3o.md#t-00-05-02) (Accusation) **Dana Loesch** (via quoted speech): ["Dana Loesch alleged that Candace Owens received a free trip to Russia ..."](/statements/statement-9d3e920f779e.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:05:25](/episodes/ep-YeEtS7nix3o.md#t-00-05-25) (Accusation) **Anonymous Source #2 (Ep YeEtS7nix3o)** (via quoted speech): ["An unidentified embedded commentator characterized Candace Owens as a ..."](/statements/statement-a5936868d515.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+- [00:07:21](/episodes/ep-YeEtS7nix3o.md#t-00-06-53) (Claim) **Candace Owens**: ["Candace Owens said Russia did not pay for her trip."](/statements/statement-73f76d77fada.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:09:27](/episodes/ep-YeEtS7nix3o.md#t-00-08-58) (Claim) **Candace Owens**: ["Candace Owens said an American security person on her Russia trip coll..."](/statements/statement-011441693457.md)
+
+- [00:14:58](/episodes/ep-YeEtS7nix3o.md#t-00-14-13) (Accusation) **Candace Owens**: ["Candace Owens contrasted years of failed VA appointment attempts with ..."](/statements/statement-ac4f9f28bbb5.md)
+  - Also about: [U.S. Department of Veterans Affairs](/entities/org-us-department-of-veterans-affairs.md)
+
+- [00:22:35](/episodes/ep-YeEtS7nix3o.md#t-00-22-35) (Claim) **Candace Owens**: ["Candace Owens said it is difficult to identify a law that expelled Jew..."](/statements/statement-f2288ff35fe3.md)
+  - Also about: [Russian Jewry](/entities/concept-russian-jewry.md)
+
+- [00:24:00](/episodes/ep-YeEtS7nix3o.md#t-00-23-53) (Claim) **Candace Owens**: ["Candace Owens said communist rule under Vladimir Lenin began a genocid..."](/statements/statement-86c289737b25.md)
+  - Also about: [Vladimir Lenin](/entities/person-vladimir-lenin.md), [Christians](/entities/concept-christians.md)
+
+- [00:28:23](/episodes/ep-YeEtS7nix3o.md#t-00-27-52) (Claim) **Candace Owens**: ["Candace Owens said Russia had not been communist for more than 30 year..."](/statements/statement-737c1757fe8a.md)
+
+- [00:30:14](/episodes/ep-YeEtS7nix3o.md#t-00-29-55) (Opinion) **Candace Owens**: ["Candace Owens said her takeaway from Russia was that American society,..."](/statements/statement-7c0883dbdd1c.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
+
+- [00:18:08](/episodes/ep-BxN2-aeMYIs.md#t-00-17-35) (Claim) **Vine & Fig Tree Institute I, Inc.** (via quoted document): ["Distrust surrounding Charlie Kirk's assassination was mostly caused by..."](/statements/statement-43828bb99fd5.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Vine & Fig Tree Institute I, Inc.](/entities/org-vine-and-fig-tree-institute.md), [Iran](/entities/gpe-iran.md)
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1)</summary>

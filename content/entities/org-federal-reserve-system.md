@@ -1,6 +1,6 @@
 ---
 title: "Federal Reserve System"
-description: "Federal Reserve System (Organizations) - 10 mentions"
+description: "Federal Reserve System (Organizations) - 11 mentions"
 id: "org-federal-reserve-system"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [Who owns the Federal Reserve?](https://www.federalreserve.gov/faqs/abou
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-org-federal-reserve-system-t-00-50-31">2026-01-16 · 00:40:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-federal-reserve-system-t-00-33-58">2026-03-02 · 00:34:09</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-federal-reserve-system-t-01-15-56">2026-05-21 · 01:16:00</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,6 +40,7 @@ Source: [Who owns the Federal Reserve?](https://www.federalreserve.gov/faqs/abou
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-federal-reserve-system-t-00-50-31" style="--pulse-height:50%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-org-federal-reserve-system-t-00-06-24" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-federal-reserve-system-t-00-33-58" style="--pulse-height:25%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-federal-reserve-system-t-01-15-56" style="--pulse-height:25%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Who owns the Federal Reserve?](https://www.federalreserve.gov/faqs/abou
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-federal-reserve-system-t-00-50-31) | 2 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-federal-reserve-system-t-00-06-24) | 4 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-federal-reserve-system-t-00-33-58) | 1 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-federal-reserve-system-t-01-15-56) | 1 |
 
 </details>
 </section>
@@ -55,7 +57,15 @@ Source: [Who owns the Federal Reserve?](https://www.federalreserve.gov/faqs/abou
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
+
+**[01:16:00](/episodes/ep-Ux1kzgQxkws.md#ent-org-federal-reserve-system-t-01-15-56)**
+> "... big pharma banks and and and the fed and these like like where does money come from ki..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1 mentions)</summary>

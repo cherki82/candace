@@ -1,6 +1,6 @@
 ---
 title: "Paramount Tactical Solutions"
-description: "Paramount Tactical Solutions (Organizations) - 26 mentions"
+description: "Paramount Tactical Solutions (Organizations) - 30 mentions"
 id: "org-paramount-tactical-solutions"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-paramount-tactical-solutions-t-00-41-37">2026-01-05 · 00:42:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-paramount-tactical-solutions-t-00-28-57">2026-05-13 · 00:29:07</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-cPidFQDJLbo.md#t-00-15-28">2026-05-20 · 00:15:57</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>30</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -45,6 +45,9 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-paramount-tactical-solutions-t-00-03-01" style="--pulse-height:57%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 4 mentions" title="2026-05-06 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-paramount-tactical-solutions-t-00-48-33" style="--pulse-height:100%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 7 mentions" title="2026-05-11 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-paramount-tactical-solutions-t-00-01-25" style="--pulse-height:43%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-paramount-tactical-solutions-t-00-36-51" style="--pulse-height:29%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-paramount-tactical-solutions-t-00-30-15" style="--pulse-height:14%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#t-00-15-28" style="--pulse-height:14%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -59,6 +62,9 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-paramount-tactical-solutions-t-00-03-01) | 4 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-paramount-tactical-solutions-t-00-48-33) | 7 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-org-paramount-tactical-solutions-t-00-01-25) | 3 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-paramount-tactical-solutions-t-00-36-51) | 2 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-paramount-tactical-solutions-t-00-30-15) | 1 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#t-00-15-28) | 1 |
 
 </details>
 </section>
@@ -66,7 +72,34 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1 mentions)</summary>
+
+**[00:15:57](/episodes/ep-cPidFQDJLbo.md#t-00-15-28)**
+> "I also sent one to Paramount, not so tactical."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>
+
+**[00:30:52](/episodes/ep-1QZ4X6q1DPg.md#ent-org-paramount-tactical-solutions-t-00-30-15)**
+> "... of a doofus, Graham Allen or Paramount Tactical. It's tough."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (2 mentions)</summary>
+
+**[00:37:18](/episodes/ep-Pb7UlpRdW6U.md#ent-org-paramount-tactical-solutions-t-00-36-51)**
+> "...n-alibi behind the scenes and Paramount Tactical who is."
+
+**[00:37:45](/episodes/ep-Pb7UlpRdW6U.md#ent-org-paramount-tactical-solutions-t-00-37-30)**
+> "...say that it is not her anyway Paramount Tactical now is is raging about that and he says actually ..."
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (3 mentions)</summary>
@@ -197,7 +230,66 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:37:01](/episodes/ep-Pb7UlpRdW6U.md#t-00-36-51): “Paramount Not So Tactical doesn't understand what an alibi is.”
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:30:52](/episodes/ep-1QZ4X6q1DPg.md#t-00-30-15): “I don't know who's more of a doofus, Graham Allen or Paramount Tactical. It's tough.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Operated By (1)</summary>
+
+- **[Gary Melton](/entities/person-gary-melton.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:39:37](/episodes/ep-1QZ4X6q1DPg.md#t-00-39-05): “rather than going to a third-party site run by an idiot named Gary Melton to buy the equipment.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Sold To (1)</summary>
+
+- **[United States Department of Defense](/entities/org-us-department-of-defense.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:38:52](/episodes/ep-1QZ4X6q1DPg.md#t-00-38-24): “Anyway, the receipts are here. On September 24, 2025, he received $39,000 for individual equipment. ... And then on September 29th, five days later, he received $151,000 for night vision equipment.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (5)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:37:01](/episodes/ep-Pb7UlpRdW6U.md#t-00-36-51): “Paramount Not So Tactical doesn't understand what an alibi is.”
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:30:52](/episodes/ep-1QZ4X6q1DPg.md#t-00-30-15): “I don't know who's more of a doofus, Graham Allen or Paramount Tactical. It's tough.”
+
+</details>
+
+- **[Gary Melton](/entities/person-gary-melton.md)** operates this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:39:37](/episodes/ep-1QZ4X6q1DPg.md#t-00-39-05): “rather than going to a third-party site run by an idiot named Gary Melton to buy the equipment.”
+
+</details>
+
+- **[United States Department of Defense](/entities/org-us-department-of-defense.md)** purchased from this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:38:52](/episodes/ep-1QZ4X6q1DPg.md#t-00-38-24): “Anyway, the receipts are here. On September 24, 2025, he received $39,000 for individual equipment. ... And then on September 29th, five days later, he received $151,000 for night vision equipment.”
+
+</details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** worked with this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -220,7 +312,27 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Paramount Tactical Solutions (6)</strong></summary>
+<summary><strong class="section-title">Statements about Paramount Tactical Solutions (10)</strong></summary>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1)</summary>
+
+- [00:15:57](/episodes/ep-cPidFQDJLbo.md#t-00-15-28) (Claim) **Candace Owens**: ["I also sent a preservation letter to Paramount Tactical Solutions."](/statements/statement-f511a7449e2c.md)
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (3)</summary>
+
+- [00:38:52](/episodes/ep-1QZ4X6q1DPg.md#t-00-38-24) (Claim) **Candace Owens**: ["Paramount Tactical Solutions received $39,000 from the Department of D..."](/statements/statement-baca06e9d9b7.md)
+  - Also about: [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+- [00:39:05](/episodes/ep-1QZ4X6q1DPg.md#t-00-39-05) (Claim) **Candace Owens**: ["Paramount Tactical Solutions received $151,000 from the Department of ..."](/statements/statement-c1cd3595e624.md)
+  - Also about: [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+- [00:39:17](/episodes/ep-1QZ4X6q1DPg.md#t-00-39-05) (Claim) **Candace Owens**: ["Paramount Tactical Solutions does not manufacture the gear it sells."](/statements/statement-3538f72e1b1c.md)
+
+</details>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1)</summary>

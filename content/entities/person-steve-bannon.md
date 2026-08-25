@@ -1,6 +1,6 @@
 ---
 title: "Steve Bannon"
-description: "Steve Bannon (People) - 11 mentions"
+description: "Steve Bannon (People) - 16 mentions"
 id: "person-steve-bannon"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-steve-bannon-t-00-25-55">2025-12-08 · 00:25:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-steve-bannon-t-00-31-36">2026-02-04 · 00:32:07</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-steve-bannon-t-00-49-55">2026-05-21 · 00:49:55</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -40,6 +40,7 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-steve-bannon-t-00-17-20" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 7 mentions" title="2026-01-07 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-steve-bannon-t-00-46-00" style="--pulse-height:14%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-steve-bannon-t-00-31-36" style="--pulse-height:14%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-steve-bannon-t-00-36-03" style="--pulse-height:71%" aria-label="Candace x Hunter Biden: The Interview: 5 mentions" title="2026-05-21 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +50,7 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-steve-bannon-t-00-17-20) | 7 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-steve-bannon-t-00-46-00) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-steve-bannon-t-00-31-36) | 1 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-steve-bannon-t-00-36-03) | 5 |
 
 </details>
 </section>
@@ -56,7 +58,27 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (5 mentions)</summary>
+
+**[00:36:03](/episodes/ep-Ux1kzgQxkws.md#ent-person-steve-bannon-t-00-36-03)**
+> "..., here's the problem, is that Steve Bannon saves Andrew Giuliani. saved the quote-unquote la..."
+
+**[00:36:10](/episodes/ep-Ux1kzgQxkws.md#ent-person-steve-bannon-t-00-36-03)**
+> "Bannon saves Andrew Giuliani. saved the quote-unquote la..."
+
+**[00:37:04](/episodes/ep-Ux1kzgQxkws.md#ent-person-steve-bannon-t-00-37-04)**
+> "...d then the election was over, Steve Bannon goes on with his buddy Gal."
+
+**[00:48:53](/episodes/ep-Ux1kzgQxkws.md#ent-person-steve-bannon-t-00-48-46)**
+> "...m paraphrasing of people like Steve Bannon and people like Rudy Giuliani. People of authorit..."
+
+**[00:49:55](/episodes/ep-Ux1kzgQxkws.md#ent-person-steve-bannon-t-00-49-55)**
+> "...t person. If I could just get Steve Bannon to tell the truth, if I could just get Rudy Giuli..."
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1 mentions)</summary>
@@ -117,12 +139,36 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Accused By (1)</summary>
+
+- **[Hunter Biden](/entities/person-hunter-biden.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Hunter Biden: The Interview @ 00:49:55](/episodes/ep-Ux1kzgQxkws.md#t-00-49-21): “If I could just get Steve Bannon to tell the truth”
+
+</details>
+
+</details>
+
+<details>
 <summary>Advisor To (1)</summary>
 
 - **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-01): “Oh, you're going to quote Bannon who consulted for Epstein?”
+
+</details>
+
+</details>
+
+<details>
+<summary>Appeared With (1)</summary>
+
+- **[Guo Wengui](/entities/person-guo-wengui.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Hunter Biden: The Interview @ 00:37:04](/episodes/ep-Ux1kzgQxkws.md#t-00-37-04): “the election was over, Steve Bannon goes on with his buddy Gal.”
 
 </details>
 
@@ -177,12 +223,26 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (7)</summary>
+
+- **[Hunter Biden](/entities/person-hunter-biden.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Hunter Biden: The Interview @ 00:49:55](/episodes/ep-Ux1kzgQxkws.md#t-00-49-21): “If I could just get Steve Bannon to tell the truth”
+
+</details>
 
 - **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)** advised by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-01): “Oh, you're going to quote Bannon who consulted for Epstein?”
+
+</details>
+
+- **[Guo Wengui](/entities/person-guo-wengui.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Hunter Biden: The Interview @ 00:37:04](/episodes/ep-Ux1kzgQxkws.md#t-00-37-04): “the election was over, Steve Bannon goes on with his buddy Gal.”
 
 </details>
 
@@ -241,7 +301,15 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Steve Bannon (5)</strong></summary>
+<summary><strong class="section-title">Statements about Steve Bannon (6)</strong></summary>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1)</summary>
+
+- [00:37:15](/episodes/ep-Ux1kzgQxkws.md#t-00-37-04) (Accusation) **Hunter Biden** (via paraphrase): ["Steve Bannon and Guo Wengui said in a recorded conversation that they ..."](/statements/statement-a05af39b0071.md)
+  - Also about: [Guo Wengui](/entities/person-guo-wengui.md), [Hunter Biden](/entities/person-hunter-biden.md)
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1)</summary>

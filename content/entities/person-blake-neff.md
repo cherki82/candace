@@ -1,6 +1,6 @@
 ---
 title: "Blake Neff"
-description: "Blake Neff (People) - 177 mentions"
+description: "Blake Neff (People) - 203 mentions"
 id: "person-blake-neff"
 type: "PERSON"
 aliases:
@@ -23,10 +23,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#t-00-15-02">2025-10-07 · 00:15:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-blake-neff-t-00-44-10">2026-05-13 · 00:44:36</a></strong></div>
-<div><span>Episodes</span><strong>38</strong></div>
-<div><span>Mentions</span><strong>177</strong></div>
-<div><span>Statements by</span><strong>19</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-blake-neff-t-01-00-36">2026-06-09 · 01:00:36</a></strong></div>
+<div><span>Episodes</span><strong>44</strong></div>
+<div><span>Mentions</span><strong>203</strong></div>
+<div><span>Statements by</span><strong>21</strong></div>
 <div><span>Statements about</span><strong>19</strong></div>
 <div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -74,6 +74,12 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-person-blake-neff-t-00-00-01" style="--pulse-height:8%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-blake-neff-t-00-03-02" style="--pulse-height:38%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 6 mentions" title="2026-05-11 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-blake-neff-t-00-10-09" style="--pulse-height:56%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 9 mentions" title="2026-05-13 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-blake-neff-t-00-30-37" style="--pulse-height:31%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 5 mentions" title="2026-05-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-blake-neff-t-00-14-14" style="--pulse-height:75%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 12 mentions" title="2026-05-18 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-blake-neff-t-00-35-10" style="--pulse-height:25%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 4 mentions" title="2026-05-26 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-blake-neff-t-00-40-06" style="--pulse-height:19%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 3 mentions" title="2026-05-27 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-blake-neff-t-01-03-29" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-person-blake-neff-t-01-00-36" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -117,6 +123,12 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-blake-neff-t-00-00-01) | 1 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-blake-neff-t-00-03-02) | 6 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-blake-neff-t-00-10-09) | 9 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-person-blake-neff-t-00-30-37) | 5 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-blake-neff-t-00-14-14) | 12 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-blake-neff-t-00-35-10) | 4 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-blake-neff-t-00-40-06) | 3 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-blake-neff-t-01-03-29) | 1 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-blake-neff-t-01-00-36) | 1 |
 
 </details>
 </section>
@@ -124,7 +136,115 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (177)</strong></summary>
+<summary><strong class="section-title">Raw mentions (203)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>
+
+**[01:00:36](/episodes/ep-YeEtS7nix3o.md#ent-person-blake-neff-t-01-00-36)**
+> "...s AI? It was almost as though Blake Neff knew something that the rest of us didn't."
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
+
+**[01:03:29](/episodes/ep-SKNJPul29zU.md#ent-person-blake-neff-t-01-03-29)**
+> "would have i think it would have like even more made people rally around her and said like okay i don't love it but like it is it was like Charlie's (Charlie Kirk) dying wish and instead Blake Neff says you as we're never dropping the video"
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (3 mentions)</summary>
+
+**[00:40:06](/episodes/ep-MhakwJxK-Zk.md#ent-person-blake-neff-t-00-40-06)**
+> "...it of a sore spot for Blakey (Blake Neff) Neff okay this is what makes nothing drives Blak..."
+
+**[00:40:45](/episodes/ep-MhakwJxK-Zk.md#ent-person-blake-neff-t-00-40-45)**
+> "But Blakey (Blake Neff) was trying to be snarky about the idea of me run..."
+
+**[00:52:57](/episodes/ep-MhakwJxK-Zk.md#ent-person-blake-neff-t-00-52-42)**
+> "Ali768 wrote, since Blakey (Blake Neff) slithered into your comments last night instead ..."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (4 mentions)</summary>
+
+**[00:35:22](/episodes/ep-BxN2-aeMYIs.md#ent-person-blake-neff-t-00-35-10)**
+> "Blakey (Blake Neff) says"
+
+**[00:36:32](/episodes/ep-BxN2-aeMYIs.md#ent-person-blake-neff-t-00-36-14)**
+> "...have Andrew Kolvet and Blakey Neff saying that Charlie, who was very clear that Thom..."
+
+**[00:38:44](/episodes/ep-BxN2-aeMYIs.md#ent-person-blake-neff-t-00-38-44)**
+> "...ow. I vote they rename it the Blake Neff show, the Blakey Neff show, the Andrew Kolvet sho..."
+
+**[00:34:26](/episodes/ep-BxN2-aeMYIs.md#ent-person-blake-neff-t-00-35-10)**
+> "Blakey Blakey"
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (12 mentions)</summary>
+
+**[00:14:23](/episodes/ep-1QZ4X6q1DPg.md#ent-person-blake-neff-t-00-14-14)**
+> "...lly of us asking Blakey Neff (Blake Neff) to just release the footage."
+
+**[00:24:27](/episodes/ep-1QZ4X6q1DPg.md#ent-person-blake-neff-t-00-24-20)**
+> "...ose away, right? I called out Blake Neff. He writes this long tweet thinking that this was..."
+
+**[00:24:38](/episodes/ep-1QZ4X6q1DPg.md#ent-person-blake-neff-t-00-24-20)**
+> "I like that boo-yah Blake (Blake Neff) is never a boo-yah. It's never ever a booyah whe..."
+
+**[00:24:44](/episodes/ep-1QZ4X6q1DPg.md#ent-person-blake-neff-t-00-24-20)**
+> "...re going to get booed, Blake (Blake Neff). And he was like, oh, let me recap everything th..."
+
+**[00:25:25](/episodes/ep-1QZ4X6q1DPg.md#ent-person-blake-neff-t-00-25-00)**
+> "..., no one believes you, Blake (Blake Neff)."
+
+**[00:25:37](/episodes/ep-1QZ4X6q1DPg.md#ent-person-blake-neff-t-00-25-37)**
+> "...he people have spoken, Blake (Blake Neff), and they are not on your side. Release the vide..."
+
+**[00:25:50](/episodes/ep-1QZ4X6q1DPg.md#ent-person-blake-neff-t-00-25-37)**
+> "And Blake (Blake Neff) said, yeah, Candace, since I'm not a malignant n..."
+
+**[00:26:13](/episodes/ep-1QZ4X6q1DPg.md#ent-person-blake-neff-t-00-25-37)**
+> "Well, Blake (Blake Neff), I'm not sure which road you think you're on,"
+
+**[00:26:28](/episodes/ep-1QZ4X6q1DPg.md#ent-person-blake-neff-t-00-26-24)**
+> "...was smoking crack, but what's Blake Neff's excuse, right?"
+
+**[00:26:36](/episodes/ep-1QZ4X6q1DPg.md#ent-person-blake-neff-t-00-26-24)**
+> "What is Blake (Blake Neff)'s excuse? What is Andrew Kolvet's excuse? What i..."
+
+**[00:30:41](/episodes/ep-1QZ4X6q1DPg.md#ent-person-blake-neff-t-00-30-15)**
+> "...ndrew Kolvet and Blakey Neff (Blake Neff) never wanted to be left behind, nor did Graham A..."
+
+**[00:46:32](/episodes/ep-1QZ4X6q1DPg.md#ent-person-blake-neff-t-00-46-32)**
+> "...best you've got, Blakey Neff (Blake Neff), Blakey Fakey Neff? I don't think it's going to ..."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (5 mentions)</summary>
+
+**[00:31:11](/episodes/ep-Pb7UlpRdW6U.md#ent-person-blake-neff-t-00-30-37)**
+> "In a gentle way, Blake Neff and Andrew Kolvet. That's who signaled it first. ..."
+
+**[00:35:56](/episodes/ep-Pb7UlpRdW6U.md#ent-person-blake-neff-t-00-35-31)**
+> "...ew (Andrew Kolvet) and Blake (Blake Neff) saga, you know? Andrew (Andrew Kolvet) and Blake..."
+
+**[00:36:04](/episodes/ep-Pb7UlpRdW6U.md#ent-person-blake-neff-t-00-35-31)**
+> "...ew (Andrew Kolvet) and Blake (Blake Neff) maybe kind of hate Charlie Kirk and everything h..."
+
+**[00:36:15](/episodes/ep-Pb7UlpRdW6U.md#ent-person-blake-neff-t-00-36-15)**
+> "... usa uh andrew colbett Blake (Blake Neff),"
+
+**[00:52:26](/episodes/ep-Pb7UlpRdW6U.md#ent-person-blake-neff-t-00-52-01)**
+> "...rt the show and not listen to Blake Neff and Andrew Kolvet at all, which I think we all as..."
+
+</details>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (9 mentions)</summary>
@@ -865,12 +985,13 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Criticized (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:43:35](/episodes/ep-2tFYJf1klgY.md#t-00-43-25): “I have avoided commenting on most of what Candace Owens' claims are the past few months. However, her last episode contained such a blatant untruth about Charlie (Charlie Kirk)'s daily life that I feel compelled to correct it.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:16:58](/episodes/ep-q1NRQQAYS_Q.md#t-00-16-28): “Some would say he got a little too complex, okay? He said this, Candace, we haven't bothered playing it because we know psychopathic predators like yourself do not care what is true or false and normal evidentiary logic has no effect on you.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:29:00](/episodes/ep-xi8SYJTUXPM.md#t-00-28-34): “So he quotes me as saying liars on the Internet have falsely claimed that his parents recognized the gun.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:28:34](/episodes/ep-xi8SYJTUXPM.md#t-00-28-34): “This is a remarkably precise way to be dishonest because when one simply bothers to read the charging document, one sees that Robinson's parents did not recognize the gun.”
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:25:50](/episodes/ep-1QZ4X6q1DPg.md#t-00-25-37): “And Blake (Blake Neff) said, yeah, Candace, since I'm not a malignant narcissist, I don't actually care what my ratio is as long as I'm speaking the truth rather than lies.”
 
 </details>
 
@@ -894,7 +1015,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -904,6 +1025,8 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:32:10](/episodes/ep-q1NRQQAYS_Q.md#t-00-32-10): “The opinion, which was shared by Elizabeth Lane, that Erica has psychopathic tendencies. By the way, Blake, looking back at you, buddy, I'm not the one who had an employer that got allegedly shot in front of my face and I didn't think to call 911.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:31:13](/episodes/ep-xi8SYJTUXPM.md#t-00-30-52): “And you, my friend, do not have a good memory. But while we have your attention. Blake Neff, there was this huge claim that we made on the show about a week ago where I said that I spoke to multiple donors who tell me that the audio that you released of Charlie Kirk saying, I appoint Erika Kirk.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:31:02](/episodes/ep-xi8SYJTUXPM.md#t-00-30-52): “So I hope that helps. I know it's difficult. Like I said, when you lie, you have to have a good memory.”
+- [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:35:56](/episodes/ep-Pb7UlpRdW6U.md#t-00-35-31): “Please give the name a new show. Just call it the Andrew (Andrew Kolvet) and Blake (Blake Neff) saga, you know? Andrew (Andrew Kolvet) and Blake (Blake Neff) complain about everything.”
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:24:27](/episodes/ep-1QZ4X6q1DPg.md#t-00-24-20): “I called out Blake Neff. He writes this long tweet thinking that this was the booyah, booyah boy Blake (Blake Neff) over here.”
 
 </details>
 
@@ -969,7 +1092,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -979,16 +1102,19 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:32:10](/episodes/ep-q1NRQQAYS_Q.md#t-00-32-10): “The opinion, which was shared by Elizabeth Lane, that Erica has psychopathic tendencies. By the way, Blake, looking back at you, buddy, I'm not the one who had an employer that got allegedly shot in front of my face and I didn't think to call 911.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:31:13](/episodes/ep-xi8SYJTUXPM.md#t-00-30-52): “And you, my friend, do not have a good memory. But while we have your attention. Blake Neff, there was this huge claim that we made on the show about a week ago where I said that I spoke to multiple donors who tell me that the audio that you released of Charlie Kirk saying, I appoint Erika Kirk.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:31:02](/episodes/ep-xi8SYJTUXPM.md#t-00-30-52): “So I hope that helps. I know it's difficult. Like I said, when you lie, you have to have a good memory.”
+- [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:35:56](/episodes/ep-Pb7UlpRdW6U.md#t-00-35-31): “Please give the name a new show. Just call it the Andrew (Andrew Kolvet) and Blake (Blake Neff) saga, you know? Andrew (Andrew Kolvet) and Blake (Blake Neff) complain about everything.”
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:24:27](/episodes/ep-1QZ4X6q1DPg.md#t-00-24-20): “I called out Blake Neff. He writes this long tweet thinking that this was the booyah, booyah boy Blake (Blake Neff) over here.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:43:35](/episodes/ep-2tFYJf1klgY.md#t-00-43-25): “I have avoided commenting on most of what Candace Owens' claims are the past few months. However, her last episode contained such a blatant untruth about Charlie (Charlie Kirk)'s daily life that I feel compelled to correct it.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:16:58](/episodes/ep-q1NRQQAYS_Q.md#t-00-16-28): “Some would say he got a little too complex, okay? He said this, Candace, we haven't bothered playing it because we know psychopathic predators like yourself do not care what is true or false and normal evidentiary logic has no effect on you.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:29:00](/episodes/ep-xi8SYJTUXPM.md#t-00-28-34): “So he quotes me as saying liars on the Internet have falsely claimed that his parents recognized the gun.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:28:34](/episodes/ep-xi8SYJTUXPM.md#t-00-28-34): “This is a remarkably precise way to be dishonest because when one simply bothers to read the charging document, one sees that Robinson's parents did not recognize the gun.”
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:25:50](/episodes/ep-1QZ4X6q1DPg.md#t-00-25-37): “And Blake (Blake Neff) said, yeah, Candace, since I'm not a malignant narcissist, I don't actually care what my ratio is as long as I'm speaking the truth rather than lies.”
 
 </details>
 
@@ -1042,7 +1168,23 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Blake Neff (19)</strong></summary>
+<summary><strong class="section-title">Statements by Blake Neff (21)</strong></summary>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
+
+- [00:37:53](/episodes/ep-BxN2-aeMYIs.md#t-00-37-52) [○] (Opinion) ["Thomas Massie has become the number-one Republican gadfly who gets in Trump's wa..."](/statements/statement-7cd583a3c902.md)
+  - About: [Thomas Massie](/entities/person-thomas-massie.md), [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1)</summary>
+
+- [00:25:00](/episodes/ep-1QZ4X6q1DPg.md#t-00-25-00) [✓] (Claim) ["Blake Neff said everyone who knew Charlie Kirk well knew he wanted Erika Kirk to..."](/statements/statement-4792f632ea74.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (2)</summary>

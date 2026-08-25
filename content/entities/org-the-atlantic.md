@@ -1,6 +1,6 @@
 ---
 title: "The Atlantic"
-description: "The Atlantic (Organizations) - 4 mentions"
+description: "The Atlantic (Organizations) - 6 mentions"
 id: "org-the-atlantic"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [The Atlantic](https://www.theatlantic.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-A39g5oqB_eM.md#ent-org-the-atlantic-t-00-27-17">2026-01-27 · 00:27:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-the-atlantic-t-00-53-21">2026-04-21 · 00:53:49</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-org-the-atlantic-t-00-45-25">2026-05-28 · 00:45:25</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [The Atlantic](https://www.theatlantic.com/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-org-the-atlantic-t-00-27-17" style="--pulse-height:100%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 2 mentions" title="2026-01-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-the-atlantic-t-00-52-39" style="--pulse-height:100%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-org-the-atlantic-t-00-45-01" style="--pulse-height:100%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [The Atlantic](https://www.theatlantic.com/)
 |---|---|---:|
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-org-the-atlantic-t-00-27-17) | 2 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-the-atlantic-t-00-52-39) | 2 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-the-atlantic-t-00-45-01) | 2 |
 
 </details>
 </section>
@@ -51,7 +53,18 @@ Source: [The Atlantic](https://www.theatlantic.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (2 mentions)</summary>
+
+**[00:45:01](/episodes/ep-SKNJPul29zU.md#ent-org-the-atlantic-t-00-45-01)**
+> "someone like the Atlantic"
+
+**[00:45:25](/episodes/ep-SKNJPul29zU.md#ent-org-the-atlantic-t-00-45-25)**
+> "If the Atlantic is, if their response is we are prepared to defen..."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (2 mentions)</summary>

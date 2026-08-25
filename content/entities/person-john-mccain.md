@@ -1,21 +1,29 @@
 ---
 title: "John McCain"
-description: "John McCain (People) - 4 mentions"
+description: "John McCain (People) - 7 mentions"
 id: "person-john-mccain"
 type: "PERSON"
 aliases:
   - "McCain"
+categories:
+  - "United States politics"
 ---
 
 _Type: People_
 
 **Also known as:** McCain
 
+**Categories:** United States politics
+
+**Entity verification:** verified
+> Canonical identity for Senator John McCain; transcript uses the surname while immediately discussing his daughter Meghan McCain.
+Source: [United States Senate: John McCain biography](https://www.mccain.senate.gov/public/index.cfm/biography)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-18-15">2025-12-05 · 00:18:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-19-27">2025-12-05 · 00:19:34</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-john-mccain-t-01-22-03">2026-05-21 · 01:22:22</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -27,12 +35,14 @@ _Type: People_
 <p>Highest activity: <a href="/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-18-15">Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-18-15" style="--pulse-height:100%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 4 mentions" title="2025-12-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-john-mccain-t-01-22-03" style="--pulse-height:75%" aria-label="Candace x Hunter Biden: The Interview: 3 mentions" title="2026-05-21 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-18-15) | 4 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-john-mccain-t-01-22-03) | 3 |
 
 </details>
 </section>
@@ -40,7 +50,21 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (3 mentions)</summary>
+
+**[01:22:03](/episodes/ep-Ux1kzgQxkws.md#ent-person-john-mccain-t-01-22-03)**
+> "...'t know, maybe because Meghan McCain was."
+
+**[01:22:09](/episodes/ep-Ux1kzgQxkws.md#ent-person-john-mccain-t-01-22-03)**
+> "McCain was on The View for too long or something and I w..."
+
+**[01:22:22](/episodes/ep-Ux1kzgQxkws.md#ent-person-john-mccain-t-01-22-03)**
+> "...ng you to be sort of a Meghan McCain and then when I watched it I was like oh wait he ..."
+
+</details>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (4 mentions)</summary>

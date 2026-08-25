@@ -25,7 +25,7 @@ veracity: "mixed"
 - [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md) (person)
 - [Israel](/entities/gpe-israel.md) (gpe)
 
-## Appearances (2)
+## Appearances (3)
 
 ### 1. Halftime Wars: TPUSA vs The NFL | Candace Ep 304
 
@@ -42,6 +42,14 @@ veracity: "mixed"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(967);return false;">Play</a>
 
 > Charlie (Charlie Kirk) said no for a fact to more Zionist control at Turning Point USA. ... Charlie (Charlie Kirk) said no to Bibi (Benjamin Netanyahu) coming on his show. So he was done being bullied by Zionist dollars.
+
+### 3. BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. |...
+
+**Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
+**Timestamp:** [00:02:47](/episodes/ep-MhakwJxK-Zk.md#t-00-02-47) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(167);return false;">Play</a>
+
+> That back during July of 2025 when Bibi (Benjamin Netanyahu) was making the rounds doing a ton of American podcasts, podcasts in general, he requested to do Charlie Kirk's show. ... He wanted to come on Charlie Kirk's show and Charlie (Charlie Kirk) refused him. ... The answer is because Charlie (Charlie Kirk) had a change of heart regarding Israel and the Hamptons, quote unquote, intervention which took place the weekend of August 5th only furthered Charlie (Charlie Kirk)'s growing resentment against their strong arming influence.
 
 ## Verification
 

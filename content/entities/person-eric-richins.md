@@ -1,6 +1,6 @@
 ---
 title: "Eric Richins"
-description: "Eric Richins (People) - 3 mentions"
+description: "Eric Richins (People) - 4 mentions"
 id: "person-eric-richins"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [A mom wrote a book to help her kids process their dad's death. Now she'
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-eric-richins-t-00-37-48">2026-03-18 · 00:36:38</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-eric-richins-t-00-39-52">2026-03-18 · 00:39:52</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-cPidFQDJLbo.md#ent-person-eric-richins-t-00-26-43">2026-05-20 · 00:26:59</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -32,12 +32,14 @@ Source: [A mom wrote a book to help her kids process their dad's death. Now she'
 <p>Highest activity: <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-eric-richins-t-00-37-48">Bride Of Charlie: Red Sparrow | Episode 8</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-eric-richins-t-00-37-48" style="--pulse-height:100%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-person-eric-richins-t-00-26-43" style="--pulse-height:33%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-eric-richins-t-00-37-48) | 3 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-eric-richins-t-00-26-43) | 1 |
 
 </details>
 </section>
@@ -45,7 +47,15 @@ Source: [A mom wrote a book to help her kids process their dad's death. Now she'
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1 mentions)</summary>
+
+**[00:26:59](/episodes/ep-cPidFQDJLbo.md#ent-person-eric-richins-t-00-26-43)**
+> "her husband, Eric Richins."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (3 mentions)</summary>
@@ -67,24 +77,45 @@ Source: [A mom wrote a book to help her kids process their dad's death. Now she'
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Deceased Husband Of (1)</summary>
+<summary>Attacked By (1)</summary>
 
 - **[Kouri Richins](/entities/person-kouri-richins.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:36:38](/episodes/ep-_vg7ucP1E0g.md#t-00-36-24): “March 4th, 2022 is when her husband Eric Richens was murdered, and it took them until May of 2023 to bring charges against her. So more than a year to build a case.”
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:24:59](/episodes/ep-cPidFQDJLbo.md#t-00-24-28): “The one in Utah, ironically, who was found guilty of murdering her husband out in, but like not instantly. ... Kouri Richins was her name. Her husband died of an overdose. She then wrote a children's book and went on a public book tour to promote how to cope with loss, the loss of a, with her grieving children. ... See, her husband, Eric Richins. Also, her victim gratefully and successfully managed to transfer his entire estate and business interests into his sister's name covertly a few weeks before he passed away, before he was murdered.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Deceased Husband Of (1)</summary>
 
-- **[Kouri Richins](/entities/person-kouri-richins.md)** widow of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+- **[Kouri Richins](/entities/person-kouri-richins.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:36:38](/episodes/ep-_vg7ucP1E0g.md#t-00-36-24): “March 4th, 2022 is when her husband Eric Richens was murdered, and it took them until May of 2023 to bring charges against her. So more than a year to build a case.”
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:25:06](/episodes/ep-cPidFQDJLbo.md#t-00-25-06): “Kouri Richins was her name. Her husband died of an overdose. She then wrote a children's book and went on a public book tour to promote how to cope with loss, the loss of a, with her grieving children. ... See, her husband, Eric Richins. Also, her victim gratefully and successfully managed to transfer his entire estate and business interests into his sister's name covertly a few weeks before he passed away, before he was murdered.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Kouri Richins](/entities/person-kouri-richins.md)** attacked this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:24:59](/episodes/ep-cPidFQDJLbo.md#t-00-24-28): “The one in Utah, ironically, who was found guilty of murdering her husband out in, but like not instantly. ... Kouri Richins was her name. Her husband died of an overdose. She then wrote a children's book and went on a public book tour to promote how to cope with loss, the loss of a, with her grieving children. ... See, her husband, Eric Richins. Also, her victim gratefully and successfully managed to transfer his entire estate and business interests into his sister's name covertly a few weeks before he passed away, before he was murdered.”
+
+</details>
+
+- **[Kouri Richins](/entities/person-kouri-richins.md)** widow of this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:36:38](/episodes/ep-_vg7ucP1E0g.md#t-00-36-24): “March 4th, 2022 is when her husband Eric Richens was murdered, and it took them until May of 2023 to bring charges against her. So more than a year to build a case.”
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:25:06](/episodes/ep-cPidFQDJLbo.md#t-00-25-06): “Kouri Richins was her name. Her husband died of an overdose. She then wrote a children's book and went on a public book tour to promote how to cope with loss, the loss of a, with her grieving children. ... See, her husband, Eric Richins. Also, her victim gratefully and successfully managed to transfer his entire estate and business interests into his sister's name covertly a few weeks before he passed away, before he was murdered.”
 
 </details>
 

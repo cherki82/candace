@@ -1,6 +1,6 @@
 ---
 title: "Anti-Defamation League"
-description: "Anti-Defamation League (Organizations) - 41 mentions"
+description: "Anti-Defamation League (Organizations) - 42 mentions"
 id: "org-anti-defamation-league"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [About ADL](https://www.adl.org/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-anti-defamation-league-t-00-31-25">2025-10-01 · 00:31:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-anti-defamation-league-t-00-08-34">2026-02-02 · 00:08:34</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>41</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-org-anti-defamation-league-t-00-19-58">2026-05-28 · 00:20:04</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>42</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>13</strong></div>
@@ -41,6 +41,7 @@ Source: [About ADL](https://www.adl.org/about)
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-anti-defamation-league-t-00-19-52" style="--pulse-height:17%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 5 mentions" title="2026-01-12 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-anti-defamation-league-t-00-36-37" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-anti-defamation-league-t-00-08-34" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-org-anti-defamation-league-t-00-19-58" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [About ADL](https://www.adl.org/about)
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-anti-defamation-league-t-00-19-52) | 5 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-anti-defamation-league-t-00-36-37) | 2 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-anti-defamation-league-t-00-08-34) | 1 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-anti-defamation-league-t-00-19-58) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [About ADL](https://www.adl.org/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
+
+**[00:20:04](/episodes/ep-SKNJPul29zU.md#ent-org-anti-defamation-league-t-00-19-58)**
+> "when the ADL guy got caught"
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>

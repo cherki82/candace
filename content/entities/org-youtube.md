@@ -1,6 +1,6 @@
 ---
 title: "YouTube"
-description: "YouTube (Organizations) - 124 mentions"
+description: "YouTube (Organizations) - 132 mentions"
 id: "org-youtube"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [About YouTube](https://about.youtube/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-youtube-t-00-41-28">2025-09-18 · 00:42:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-youtube-t-00-48-09">2026-05-13 · 00:48:36</a></strong></div>
-<div><span>Episodes</span><strong>48</strong></div>
-<div><span>Mentions</span><strong>124</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-org-youtube-t-00-10-14">2026-05-28 · 00:10:14</a></strong></div>
+<div><span>Episodes</span><strong>52</strong></div>
+<div><span>Mentions</span><strong>132</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -79,6 +79,10 @@ Source: [About YouTube](https://about.youtube/)
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-org-youtube-t-00-35-21" style="--pulse-height:8%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-youtube-t-00-45-16" style="--pulse-height:11%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-youtube-t-00-47-13" style="--pulse-height:11%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-youtube-t-00-31-13" style="--pulse-height:16%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 3 mentions" title="2026-05-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-org-youtube-t-00-56-11" style="--pulse-height:11%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 2 mentions" title="2026-05-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-youtube-t-00-55-34" style="--pulse-height:11%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-org-youtube-t-00-10-14" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -132,6 +136,10 @@ Source: [About YouTube](https://about.youtube/)
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-org-youtube-t-00-35-21) | 1 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-youtube-t-00-45-16) | 2 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-org-youtube-t-00-47-13) | 2 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-youtube-t-00-31-13) | 3 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-org-youtube-t-00-56-11) | 2 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-youtube-t-00-55-34) | 2 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-youtube-t-00-10-14) | 1 |
 
 </details>
 </section>
@@ -139,7 +147,51 @@ Source: [About YouTube](https://about.youtube/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (124)</strong></summary>
+<summary><strong class="section-title">Raw mentions (132)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
+
+**[00:10:14](/episodes/ep-SKNJPul29zU.md#ent-org-youtube-t-00-10-14)**
+> "Yeah, that was the beginning of ever. I mean, I was temporarily banned for ads from YouTube because they are organized online and started mass reporting my new channel."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (2 mentions)</summary>
+
+**[00:55:34](/episodes/ep-MhakwJxK-Zk.md#ent-org-youtube-t-00-55-34)**
+> "Lionel, I absolutely love his YouTube channel. His is amazing. I don't know what the ha..."
+
+**[00:55:54](/episodes/ep-MhakwJxK-Zk.md#ent-org-youtube-t-00-55-34)**
+> "...ns to choose from in terms of YouTube content creators that will fill the void, but we ..."
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (2 mentions)</summary>
+
+**[00:56:26](/episodes/ep-cPidFQDJLbo.md#ent-org-youtube-t-00-56-11)**
+> "hit the like button on or subscribe button on YouTube"
+
+**[00:56:46](/episodes/ep-cPidFQDJLbo.md#ent-org-youtube-t-00-56-11)**
+> "...o if you are watching this on YouTube, subscribe, subscribe, subscribe. Otherwise, we'l..."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (3 mentions)</summary>
+
+**[00:31:33](/episodes/ep-Dkxa9OUA9K8.md#ent-org-youtube-t-00-31-13)**
+> "It's a documentary on YouTube, and she actually completely."
+
+**[00:55:14](/episodes/ep-Dkxa9OUA9K8.md#ent-org-youtube-t-00-54-48)**
+> "...do, they simply have to go to YouTube and watch it. We've documented"
+
+**[00:57:00](/episodes/ep-Dkxa9OUA9K8.md#ent-org-youtube-t-00-56-42)**
+> "...at if people simply go to our YouTube channel, they can see it. If they go back, they c..."
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (2 mentions)</summary>
@@ -763,7 +815,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about YouTube (11)</strong></summary>
+<summary><strong class="section-title">Statements about YouTube (12)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1)</summary>
+
+- [00:10:14](/episodes/ep-SKNJPul29zU.md#t-00-10-14) (Claim) **Candace Owens**: ["Candace Owens was temporarily barred from YouTube ads after organized ..."](/statements/statement-da547a28471d.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1)</summary>

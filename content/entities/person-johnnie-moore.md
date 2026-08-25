@@ -1,6 +1,6 @@
 ---
 title: "Johnnie Moore"
-description: "Johnnie Moore (People) - 39 mentions"
+description: "Johnnie Moore (People) - 45 mentions"
 id: "person-johnnie-moore"
 type: "PERSON"
 aliases:
@@ -25,12 +25,12 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-johnnie-moore-t-00-07-06">2026-01-09 · 00:07:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-johnnie-moore-t-00-07-33">2026-05-05 · 00:07:33</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>39</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-johnnie-moore-t-00-26-42">2026-05-27 · 00:26:56</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>45</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
-<div><span>Relationships</span><strong>19</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
+<div><span>Relationships</span><strong>23</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -44,6 +44,8 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-johnnie-moore-t-00-40-31" style="--pulse-height:8%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-johnnie-moore-t-00-21-28" style="--pulse-height:8%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-johnnie-moore-t-00-06-51" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-johnnie-moore-t-00-22-41" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-johnnie-moore-t-00-19-53" style="--pulse-height:18%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 5 mentions" title="2026-05-27 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +57,8 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-johnnie-moore-t-00-40-31) | 1 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-johnnie-moore-t-00-21-28) | 1 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-johnnie-moore-t-00-06-51) | 2 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-johnnie-moore-t-00-22-41) | 1 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-johnnie-moore-t-00-19-53) | 5 |
 
 </details>
 </section>
@@ -62,7 +66,35 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (5 mentions)</summary>
+
+**[00:20:10](/episodes/ep-MhakwJxK-Zk.md#ent-person-johnnie-moore-t-00-19-53)**
+> "Here's Johnny (Johnny Moore). Yes, Reverend Johnny Moore, one half of the Kai..."
+
+**[00:20:32](/episodes/ep-MhakwJxK-Zk.md#ent-person-johnnie-moore-t-00-20-32)**
+> "... taps U.S. evangelical leader Johnny Moore as the new chairman."
+
+**[00:20:53](/episodes/ep-MhakwJxK-Zk.md#ent-person-johnnie-moore-t-00-20-32)**
+> "...ect today. Thank you, Johnny (Johnny Moore), for stepping up to the plate to fill in the voi..."
+
+**[00:21:17](/episodes/ep-MhakwJxK-Zk.md#ent-person-johnnie-moore-t-00-21-17)**
+> "Thank you, Johnny Moore. He would eventually abandon the project in Novem..."
+
+**[00:26:56](/episodes/ep-MhakwJxK-Zk.md#ent-person-johnnie-moore-t-00-26-42)**
+> "...ne 2nd. On June 3rd, Reverend Johnny Moore is announced to take over."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1 mentions)</summary>
+
+**[00:22:41](/episodes/ep-BxN2-aeMYIs.md#ent-person-johnnie-moore-t-00-22-41)**
+> "Here's Johnny, Johnny Moore"
+
+</details>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (2 mentions)</summary>
@@ -272,6 +304,30 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 </details>
 
 <details>
+<summary>Former Chairman Of (1)</summary>
+
+- **[Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:20:40](/episodes/ep-MhakwJxK-Zk.md#t-00-20-32): “he was appointed as the new executive chairman of the Gaza Humanitarian Foundation”
+
+</details>
+
+</details>
+
+<details>
+<summary>Formerly Employed (1)</summary>
+
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:20:10](/episodes/ep-MhakwJxK-Zk.md#t-00-19-53): “That's where Andrew Kolvet's from, working for Johnny Moore at first.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Formerly Worked For (2)</summary>
 
 - **[Liberty University](/entities/org-liberty-university.md)**
@@ -330,7 +386,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (11)</summary>
 
 - **[Aspen Institute](/entities/org-aspen-institute.md)** advised by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -376,6 +432,13 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 
 </details>
 
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:20:10](/episodes/ep-MhakwJxK-Zk.md#t-00-19-53): “That's where Andrew Kolvet's from, working for Johnny Moore at first.”
+
+</details>
+
 - **[KAIROS Company](/entities/org-kairos-company.md)** founded by this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
@@ -388,6 +451,13 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:47](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “He was somehow equipped to lead the Gaza Humanitarian Fund”
+
+</details>
+
+- **[Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation.md)** has former chairman this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:20:40](/episodes/ep-MhakwJxK-Zk.md#t-00-20-32): “he was appointed as the new executive chairman of the Gaza Humanitarian Foundation”
 
 </details>
 
@@ -419,7 +489,23 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Johnnie Moore (14)</strong></summary>
+<summary><strong class="section-title">Statements about Johnnie Moore (16)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
+
+- [00:20:32](/episodes/ep-MhakwJxK-Zk.md#t-00-20-32) (Citation) **The Times of Israel** (via quoted article): ["The Times of Israel reported that Johnnie Moore was appointed executiv..."](/statements/statement-37ec0480a700.md)
+  - Also about: [Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation.md), [Jake Wood](/entities/person-jake-wood.md), [Boston Consulting Group](/entities/org-boston-consulting-group.md)
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
+
+- [00:22:21](/episodes/ep-BxN2-aeMYIs.md#t-00-21-55) (Accusation) **Candace Owens**: ["The Network Contagion Research Institute produced a report featuring O..."](/statements/statement-b3ef2f20bf50.md)
+  - Also about: [Network Contagion Research Institute](/entities/org-network-contagion-research-institute.md), [Candace Owens](/entities/person-candace-owens.md), [Christ Is King](/entities/concept-christ-is-king.md)
+
+</details>
 
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (12)</summary>

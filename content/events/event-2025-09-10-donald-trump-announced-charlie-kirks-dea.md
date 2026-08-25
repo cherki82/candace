@@ -12,7 +12,7 @@ time: "14:40"
 
 > Donald Trump announced Charlie Kirk's death on Truth Social at 2:40 p.m. Utah time.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Ca...
 
@@ -29,3 +29,11 @@ time: "14:40"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1548);return false;">▶️ Play</a>
 
 > the public didn't officially find out until President Trump announced it at 2 40 p.m. on X.
+
+### 3. TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizar...
+
+**Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
+**Timestamp:** [00:04:49](/episodes/ep-cPidFQDJLbo.md#event-event-2025-09-10-donald-trump-announced-charlie-kirks-dea-t-00-04-49) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(289);return false;">▶️ Play</a>
+
+> this video was about an hour and 20 minutes before the president's announcement.

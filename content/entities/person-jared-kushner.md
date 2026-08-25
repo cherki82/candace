@@ -1,6 +1,6 @@
 ---
 title: "Jared Kushner"
-description: "Jared Kushner (People) - 29 mentions"
+description: "Jared Kushner (People) - 33 mentions"
 id: "person-jared-kushner"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-46-58">2025-10-09 · 00:47:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-jared-kushner-t-00-13-37">2026-04-10 · 00:14:01</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>29</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-jared-kushner-t-01-12-53">2026-05-21 · 01:13:13</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>7</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -44,6 +44,8 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-jared-kushner-t-00-03-25" style="--pulse-height:25%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-jared-kushner-t-00-12-33" style="--pulse-height:12%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-jared-kushner-t-00-13-37" style="--pulse-height:12%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-jared-kushner-t-00-02-36" style="--pulse-height:12%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-jared-kushner-t-01-11-13" style="--pulse-height:38%" aria-label="Candace x Hunter Biden: The Interview: 3 mentions" title="2026-05-21 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +60,8 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-jared-kushner-t-00-03-25) | 2 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-jared-kushner-t-00-12-33) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-jared-kushner-t-00-13-37) | 1 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-jared-kushner-t-00-02-36) | 1 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-jared-kushner-t-01-11-13) | 3 |
 
 </details>
 </section>
@@ -65,7 +69,29 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (3 mentions)</summary>
+
+**[01:11:22](/episodes/ep-Ux1kzgQxkws.md#ent-person-jared-kushner-t-01-11-13)**
+> "...urse with the maitre d' being Jared Kushner with $4 billion in Saudi money."
+
+**[01:11:58](/episodes/ep-Ux1kzgQxkws.md#ent-person-jared-kushner-t-01-11-58)**
+> "Jared, it wasn't a joke and that is. That is the And de..."
+
+**[01:13:13](/episodes/ep-Ux1kzgQxkws.md#ent-person-jared-kushner-t-01-12-53)**
+> "They have gotten Jared Kushner, who's never run a private equity fund, has now a..."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>
+
+**[00:02:46](/episodes/ep-1QZ4X6q1DPg.md#ent-person-jared-kushner-t-00-02-36)**
+> "...urse with the maitre d' being Jared Kushner. War in Iran that they started, that every presid..."
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
@@ -205,12 +231,25 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Criticized By (1)</summary>
+
+- **[Hunter Biden](/entities/person-hunter-biden.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Hunter Biden: The Interview @ 01:13:13](/episodes/ep-Ux1kzgQxkws.md#t-01-12-53): “Jared Kushner, who's never run a private equity fund, has now a $4 billion private equity fund with 80% of the money coming from the Middle East”
+
+</details>
+
+</details>
+
+<details>
 <summary>Son-In-Law Of (1)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:10:38](/episodes/ep-5-HUyv9LyMg.md#t-00-10-31): “the president of the United States, likely under the instruction of his son-in-law, Jared Kushner”
+- [Candace x Hunter Biden: The Interview @ 01:13:13](/episodes/ep-Ux1kzgQxkws.md#t-01-12-53): “he is the ambassador at large on behalf of the Trump administration, not as a political pointy, but simply as a son-in-law of the president.”
 
 </details>
 
@@ -220,28 +259,38 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 <summary>Works For (1)</summary>
 
 - **[White House](/entities/org-white-house.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:53:38](/episodes/ep-k8ueJdPFel4.md#t-00-53-38): “um for tucker carlson you know like real ghetto real soon uh lauren it's already pretty ghetto here but that's just gonna send that's really gonna send people like you're angry at him because he doesn't want american men and women to die overseas for israel like what is wrong with this administration it's totally wacky this is what happens when jared kushner um is running the white house with his father who is in Paris.”
+- [Candace x Hunter Biden: The Interview @ 01:13:13](/episodes/ep-Ux1kzgQxkws.md#t-01-12-53): “he continues to raise as he is the ambassador at large on behalf of the Trump administration”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
-- **[White House](/entities/org-white-house.md)** employs this
+- **[Hunter Biden](/entities/person-hunter-biden.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [Candace x Hunter Biden: The Interview @ 01:13:13](/episodes/ep-Ux1kzgQxkws.md#t-01-12-53): “Jared Kushner, who's never run a private equity fund, has now a $4 billion private equity fund with 80% of the money coming from the Middle East”
+
+</details>
+
+- **[White House](/entities/org-white-house.md)** employs this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:53:38](/episodes/ep-k8ueJdPFel4.md#t-00-53-38): “um for tucker carlson you know like real ghetto real soon uh lauren it's already pretty ghetto here but that's just gonna send that's really gonna send people like you're angry at him because he doesn't want american men and women to die overseas for israel like what is wrong with this administration it's totally wacky this is what happens when jared kushner um is running the white house with his father who is in Paris.”
+- [Candace x Hunter Biden: The Interview @ 01:13:13](/episodes/ep-Ux1kzgQxkws.md#t-01-12-53): “he continues to raise as he is the ambassador at large on behalf of the Trump administration”
 
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** parent-in-law of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:10:38](/episodes/ep-5-HUyv9LyMg.md#t-00-10-31): “the president of the United States, likely under the instruction of his son-in-law, Jared Kushner”
+- [Candace x Hunter Biden: The Interview @ 01:13:13](/episodes/ep-Ux1kzgQxkws.md#t-01-12-53): “he is the ambassador at large on behalf of the Trump administration, not as a political pointy, but simply as a son-in-law of the president.”
 
 </details>
 
@@ -257,7 +306,18 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jared Kushner (5)</strong></summary>
+<summary><strong class="section-title">Statements about Jared Kushner (7)</strong></summary>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (2)</summary>
+
+- [01:11:22](/episodes/ep-Ux1kzgQxkws.md#t-01-11-13) (Accusation) **Hunter Biden**: ["Joe Biden did not greenlight turning Gaza into a Trump golf course wit..."](/statements/statement-245428c642ae.md)
+  - Also about: [Joe Biden](/entities/person-joe-biden.md), [Donald J. Trump](/entities/person-donald-trump.md), [Gaza](/entities/gpe-gaza.md)
+
+- [01:13:13](/episodes/ep-Ux1kzgQxkws.md#t-01-12-53) (Accusation) **Hunter Biden**: ["Jared Kushner has a $4 billion private-equity fund, with 80% from the ..."](/statements/statement-eac3a9869c33.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Middle East](/entities/gpe-middle-east.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (4)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Walt Disney World Resort"
-description: "Walt Disney World Resort (Organizations) - 6 mentions"
+description: "Walt Disney World Resort (Organizations) - 7 mentions"
 id: "org-walt-disney-world-resort"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Walt Disney World Resort - Official Site](https://disneyworld.disney.go
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-walt-disney-world-resort-t-00-04-13">2026-01-05 · 00:04:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-org-walt-disney-world-resort-t-00-44-18">2026-03-30 · 00:44:18</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-walt-disney-world-resort-t-00-48-33">2026-05-18 · 00:48:33</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,6 +40,7 @@ Source: [Walt Disney World Resort - Official Site](https://disneyworld.disney.go
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-walt-disney-world-resort-t-00-09-30" style="--pulse-height:50%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-walt-disney-world-resort-t-00-44-37" style="--pulse-height:50%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-org-walt-disney-world-resort-t-00-43-36" style="--pulse-height:100%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-walt-disney-world-resort-t-00-48-33" style="--pulse-height:50%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +50,7 @@ Source: [Walt Disney World Resort - Official Site](https://disneyworld.disney.go
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-walt-disney-world-resort-t-00-09-30) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-walt-disney-world-resort-t-00-44-37) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-walt-disney-world-resort-t-00-43-36) | 2 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-walt-disney-world-resort-t-00-48-33) | 1 |
 
 </details>
 </section>
@@ -56,7 +58,15 @@ Source: [Walt Disney World Resort - Official Site](https://disneyworld.disney.go
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>
+
+**[00:48:33](/episodes/ep-1QZ4X6q1DPg.md#ent-org-walt-disney-world-resort-t-00-48-33)**
+> "... the Six Flags tickets? Is it Disney World tickets? Is it"
+
+</details>
 
 <details>
 <summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (2 mentions)</summary>

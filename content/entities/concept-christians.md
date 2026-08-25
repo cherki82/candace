@@ -1,6 +1,6 @@
 ---
 title: "Christians"
-description: "Christians (Concepts) - 93 mentions"
+description: "Christians (Concepts) - 105 mentions"
 id: "concept-christians"
 type: "CONCEPT"
 categories:
@@ -19,10 +19,10 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-concept-christians-t-00-52-17">2025-09-17 · 00:52:37</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christians-t-01-16-34">2026-08-14 · 01:16:34</a></strong></div>
-<div><span>Episodes</span><strong>44</strong></div>
-<div><span>Mentions</span><strong>93</strong></div>
+<div><span>Episodes</span><strong>49</strong></div>
+<div><span>Mentions</span><strong>105</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -74,6 +74,11 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-christians-t-01-08-37" style="--pulse-height:10%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-christians-t-00-36-07" style="--pulse-height:20%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-christians-t-00-03-03" style="--pulse-height:20%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 2 mentions" title="2026-05-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-concept-christians-t-00-43-09" style="--pulse-height:10%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-concept-christians-t-00-53-46" style="--pulse-height:20%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 2 mentions" title="2026-05-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-christians-t-00-55-34" style="--pulse-height:10%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-concept-christians-t-00-38-22" style="--pulse-height:40%" aria-label="Candace Owens x Ana Kasparian: 4 mentions" title="2026-05-28 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-christians-t-00-23-53" style="--pulse-height:30%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 3 mentions" title="2026-06-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christians-t-01-16-34" style="--pulse-height:10%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -123,6 +128,11 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-christians-t-01-08-37) | 1 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-concept-christians-t-00-36-07) | 2 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-concept-christians-t-00-03-03) | 2 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-christians-t-00-43-09) | 1 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-concept-christians-t-00-53-46) | 2 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-concept-christians-t-00-55-34) | 1 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-concept-christians-t-00-38-22) | 4 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-concept-christians-t-00-23-53) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christians-t-01-16-34) | 1 |
 
 </details>
@@ -131,13 +141,71 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (93)</strong></summary>
+<summary><strong class="section-title">Raw mentions (105)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[01:16:34](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christians-t-01-16-34)**
 > "... you guys, nearly 2,000 years Christians When have we lived set continuously out to create..."
+
+</details>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (3 mentions)</summary>
+
+**[00:24:06](/episodes/ep-YeEtS7nix3o.md#ent-concept-christians-t-00-23-53)**
+> "... More than 60 million Russian Christians were then ruthlessly murdered."
+
+**[00:27:31](/episodes/ep-YeEtS7nix3o.md#ent-concept-christians-t-00-27-14)**
+> "...yal carriage of Alexander II, Christians built a church right in the heart of St."
+
+**[00:28:41](/episodes/ep-YeEtS7nix3o.md#ent-concept-christians-t-00-28-30)**
+> "...history. They seek to control Christians. You can only be a Judeo-Christian, whatever the ..."
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (4 mentions)</summary>
+
+**[00:38:22](/episodes/ep-SKNJPul29zU.md#ent-concept-christians-t-00-38-22)**
+> "Christians are waking up"
+
+**[00:23:27](/episodes/ep-SKNJPul29zU.md#ent-concept-christians-t-00-23-27)**
+> "...ward Muslims or hatred toward Christians. Like hating any group of people simply based on ..."
+
+**[00:38:24](/episodes/ep-SKNJPul29zU.md#ent-concept-christians-t-00-38-24)**
+> "because of. of the abuse Christians are dealing with in Lebanon, in Jerusalem. You kn..."
+
+**[00:39:50](/episodes/ep-SKNJPul29zU.md#ent-concept-christians-t-00-39-31)**
+> "... against the Palestinians and Christians because Armenians are overwhelmingly Christian, r..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
+
+**[00:56:05](/episodes/ep-MhakwJxK-Zk.md#ent-concept-christians-t-00-55-34)**
+> "...I did hear they don't spit on Christians as a custom over there. So I'm quite excited abou..."
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (2 mentions)</summary>
+
+**[00:53:56](/episodes/ep-cPidFQDJLbo.md#ent-concept-christians-t-00-53-46)**
+> "Christians and Muslims apart and keep them warring with each..."
+
+**[00:54:34](/episodes/ep-cPidFQDJLbo.md#ent-concept-christians-t-00-54-22)**
+> "...erica and it certainly wasn't Christians. I will leave it at that. James the Least writes,..."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1 mentions)</summary>
+
+**[00:43:28](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-christians-t-00-43-09)**
+> "...tue, of course, backed not by Christians financially, but by, I believe, the Hasidic Jewis..."
 
 </details>
 
@@ -636,7 +704,29 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Christians (8)</strong></summary>
+<summary><strong class="section-title">Statements about Christians (12)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (3)</summary>
+
+- [00:24:00](/episodes/ep-YeEtS7nix3o.md#t-00-23-53) (Claim) **Candace Owens**: ["Candace Owens said communist rule under Vladimir Lenin began a genocid..."](/statements/statement-86c289737b25.md)
+  - Also about: [Vladimir Lenin](/entities/person-vladimir-lenin.md), [Russia](/entities/gpe-russia.md)
+
+- [00:24:15](/episodes/ep-YeEtS7nix3o.md#t-00-23-53) (Claim) **Candace Owens**: ["Candace Owens said churches were intentionally closed, destroyed, or b..."](/statements/statement-e9f2c395d9bd.md)
+  - Also about: [Soviet Union](/entities/gpe-soviet-union.md)
+
+- [00:28:41](/episodes/ep-YeEtS7nix3o.md#t-00-28-30) (Opinion) **Candace Owens**: ["Candace Owens accused Zionists such as Ben Shapiro and Mark Levin of r..."](/statements/statement-c609b585eae1.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Mark Levin](/entities/person-mark-levin.md), [Zionism](/entities/concept-zionism.md)
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1)</summary>
+
+- [00:39:59](/episodes/ep-SKNJPul29zU.md#t-00-39-31) (Citation) **Ana Kasparian**: ["Ana Kasparian's research found that Irgun attacked Palestinian and Chr..."](/statements/statement-a4a5f2c0dbcd.md)
+  - Also about: [Irgun](/entities/org-irgun.md), [Haifa](/entities/gpe-haifa.md), [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1)</summary>

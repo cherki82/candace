@@ -1,6 +1,6 @@
 ---
 title: "Gaza"
-description: "Gaza (Places) - 106 mentions"
+description: "Gaza (Places) - 142 mentions"
 id: "gpe-gaza"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03">2025-09-18 · 00:35:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-gaza-t-00-46-33">2026-05-04 · 00:46:33</a></strong></div>
-<div><span>Episodes</span><strong>29</strong></div>
-<div><span>Mentions</span><strong>106</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-gaza-t-01-24-50">2026-05-28 · 01:24:59</a></strong></div>
+<div><span>Episodes</span><strong>35</strong></div>
+<div><span>Mentions</span><strong>142</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>25</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -64,6 +64,12 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-gaza-t-00-33-38" style="--pulse-height:8%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-gaza-t-01-43-55" style="--pulse-height:8%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-gaza-t-00-46-33" style="--pulse-height:8%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-gaza-t-00-02-36" style="--pulse-height:8%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-gaza-t-01-09-51" style="--pulse-height:36%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 5 mentions" title="2026-05-19 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-gaza-t-00-54-19" style="--pulse-height:29%" aria-label="Candace x Hunter Biden: The Interview: 4 mentions" title="2026-05-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-gaza-t-00-26-21" style="--pulse-height:14%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-gaza-t-00-00-23" style="--pulse-height:86%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 12 mentions" title="2026-05-27 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-gaza-t-00-03-42" style="--pulse-height:86%" aria-label="Candace Owens x Ana Kasparian: 12 mentions" title="2026-05-28 · 12 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -98,6 +104,12 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-gaza-t-00-33-38) | 1 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-gpe-gaza-t-01-43-55) | 1 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-gaza-t-00-46-33) | 1 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-gaza-t-00-02-36) | 1 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-gaza-t-01-09-51) | 5 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-gaza-t-00-54-19) | 4 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-gaza-t-00-26-21) | 2 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-gaza-t-00-00-23) | 12 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-gaza-t-00-03-42) | 12 |
 
 </details>
 </section>
@@ -105,7 +117,145 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (106)</strong></summary>
+<summary><strong class="section-title">Raw mentions (142)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (12 mentions)</summary>
+
+**[00:04:01](/episodes/ep-SKNJPul29zU.md#ent-gpe-gaza-t-00-03-42)**
+> "And so then when I went through this second process and was going wait a minute why is genocide sometimes okay and going i can't have gotten that wrong come on come on republicans this is obviously what's happening in gaza is wrong it's kind of a scary process because It then you have"
+
+**[00:06:18](/episodes/ep-SKNJPul29zU.md#ent-gpe-gaza-t-00-06-18)**
+> "...k out against the genocide in Gaza made me realize that you are actually good faith ..."
+
+**[00:06:54](/episodes/ep-SKNJPul29zU.md#ent-gpe-gaza-t-00-06-54)**
+> "... cheer on what's happening in Gaza and now Lebanon and now Lebanon and then purport ..."
+
+**[00:08:36](/episodes/ep-SKNJPul29zU.md#ent-gpe-gaza-t-00-08-36)**
+> "...t against what's happening in Gaza."
+
+**[00:19:05](/episodes/ep-SKNJPul29zU.md#ent-gpe-gaza-t-00-19-05)**
+> "...rd of 75 000 people killed in gaza and you mention that to a israel first or zionist..."
+
+**[00:28:55](/episodes/ep-SKNJPul29zU.md#ent-gpe-gaza-t-00-28-55)**
+> "...ons about what's happening in gaza suddenly he's he's listening to my show he's and ..."
+
+**[00:35:38](/episodes/ep-SKNJPul29zU.md#ent-gpe-gaza-t-00-35-23)**
+> "...es to carry out a genocide in Gaza."
+
+**[00:35:45](/episodes/ep-SKNJPul29zU.md#ent-gpe-gaza-t-00-35-23)**
+> "...redrew the map of the area of Gaza that they're going to occupy."
+
+**[01:17:47](/episodes/ep-SKNJPul29zU.md#ent-gpe-gaza-t-01-17-38)**
+> "... think my litmus test is like Gaza, like, you know, my litmus test has somehow becom..."
+
+**[01:18:13](/episodes/ep-SKNJPul29zU.md#ent-gpe-gaza-t-01-18-13)**
+> "...r everything that happened in Gaza,"
+
+**[01:18:43](/episodes/ep-SKNJPul29zU.md#ent-gpe-gaza-t-01-18-13)**
+> "...e against what's happening in Gaza. That means to your core, you're a good person."
+
+**[01:24:59](/episodes/ep-SKNJPul29zU.md#ent-gpe-gaza-t-01-24-50)**
+> "...e against what is going on in Gaza, then we really are actually on the right side."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (12 mentions)</summary>
+
+**[00:00:23](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-gaza-t-00-00-23)**
+> "...e ground like you guys did to Gaza? We want nothing to do with it."
+
+**[00:16:00](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-gaza-t-00-16-00)**
+> "...ono feasibility study for the Gaza Humanitarian Foundation, a Geneva-registered NGO ..."
+
+**[00:16:25](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-gaza-t-00-16-00)**
+> "...osts of various scenarios for Gaza’s post-conflict future."
+
+**[00:16:39](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-gaza-t-00-16-39)**
+> "...0 Palestinians outside of the Gaza Strip. A second model lowered direct payments to ..."
+
+**[00:17:27](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-gaza-t-00-17-16)**
+> "The people of Gaza, already facing displacement, trauma, and siege, ..."
+
+**[00:19:04](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-gaza-t-00-17-16)**
+> "...strumental in setting up that Gaza Humanitarian Foundation. That's ringing a bell fo..."
+
+**[00:19:12](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-gaza-t-00-19-12)**
+> "...the food distribution hubs in Gaza."
+
+**[00:20:32](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-gaza-t-00-19-12)**
+> "...is headline, Times of Israel. Gaza Humanitarian Foundation taps U.S. evangelical lea..."
+
+**[00:20:40](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-gaza-t-00-19-12)**
+> "...new executive chairman of the Gaza Humanitarian Foundation, which is the U.S. and Is..."
+
+**[00:21:56](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-gaza-t-00-19-12)**
+> "...out Project Aurora, about the Gaza Humanitarian Foundation. It also tells you who en..."
+
+**[00:26:08](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-gaza-t-00-19-12)**
+> "...nsulting Group abandoning the Gaza Humanitarian Foundation in June."
+
+**[00:27:08](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-gaza-t-00-26-42)**
+> "As chairman of the Gaza Humanitarian Aid Project, since everything wound ..."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (2 mentions)</summary>
+
+**[00:26:51](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-gaza-t-00-26-21)**
+> "Gaza"
+
+**[00:29:51](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-gaza-t-00-29-14)**
+> "Gaza"
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (4 mentions)</summary>
+
+**[00:54:38](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-gaza-t-00-54-19)**
+> "...yes about what's happening in Gaza. But to do these tactics where you're trying to d..."
+
+**[01:11:03](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-gaza-t-01-10-43)**
+> "...ale murder of a population in Gaza."
+
+**[01:11:22](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-gaza-t-01-11-13)**
+> "He didn't greenlight. To turn Gaza into a Trump golf course with the maitre d' being..."
+
+**[01:11:35](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-gaza-t-01-11-35)**
+> "...ed the Trump like here's what Gaza could be and like I could have my name in a build..."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (5 mentions)</summary>
+
+**[01:10:20](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-gaza-t-01-09-51)**
+> "...West Bank. Yes, I did go into Gaza by virtue of these special operations teams, not ..."
+
+**[01:11:34](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-gaza-t-01-11-34)**
+> "... pretext for what they did in Gaza. I'm just asking you've expressed that you and yo..."
+
+**[01:11:41](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-gaza-t-01-11-41)**
+> "...age of what they have done to Gaza since. So I'm asking. asking"
+
+**[01:12:10](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-gaza-t-01-12-10)**
+> "...u believe what's happening in gaza is a It's a genocide."
+
+**[01:13:07](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-gaza-t-01-13-07)**
+> "...ecause of what's happening in Gaza. I don't think that that's done by people who are..."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>
+
+**[00:02:46](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-gaza-t-00-02-36)**
+> "... He didn't greenlight to turn Gaza into a Trump golf course with the maitre d' being..."
+
+</details>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
@@ -574,7 +724,55 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Gaza (15)</strong></summary>
+<summary><strong class="section-title">Statements about Gaza (25)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (4)</summary>
+
+- [00:13:00](/episodes/ep-SKNJPul29zU.md#t-00-13-00) (Claim) **Ana Kasparian**: ["Matt Taibbi has remained silent about Gaza and became defensive when p..."](/statements/statement-eb6e1a54caf8.md)
+  - Also about: [Matt Taibbi](/entities/person-matt-taibbi.md)
+
+- [00:19:05](/episodes/ep-SKNJPul29zU.md#t-00-19-05) (Claim) **Ana Kasparian**: ["More than 75,000 people have been killed in Gaza."](/statements/statement-419e27291d1d.md)
+
+- [00:35:38](/episodes/ep-SKNJPul29zU.md#t-00-35-23) (Claim) **Ana Kasparian**: ["Israel expanded its occupation of Gaza from 53 percent to 64 percent a..."](/statements/statement-801f8f69d2a6.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+- [01:18:40](/episodes/ep-SKNJPul29zU.md#t-01-18-13) (Opinion) **Ana Kasparian**: ["Opposing what is happening in Gaza is Ana Kasparian's core test of whe..."](/statements/statement-c450c85213df.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (4)</summary>
+
+- [00:16:00](/episodes/ep-MhakwJxK-Zk.md#t-00-16-00) (Claim) **Financial Times** (via quoted article): ["Financial Times reporting, as summarized by an unnamed website read by..."](/statements/statement-299b5db73ee6.md)
+  - Also about: [Project Aurora (BCG Gaza project)](/entities/work-project-aurora-bcg-gaza.md), [Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation.md), [Boston Consulting Group](/entities/org-boston-consulting-group.md)
+
+- [00:16:39](/episodes/ep-MhakwJxK-Zk.md#t-00-16-39) (Claim) **Financial Times** (via quoted article): ["Financial Times reporting, as summarized by an unnamed website read by..."](/statements/statement-3ff9bad47978.md)
+  - Also about: [Project Aurora (BCG Gaza project)](/entities/work-project-aurora-bcg-gaza.md), [Palestinians](/entities/concept-palestinians.md)
+
+- [00:19:04](/episodes/ep-MhakwJxK-Zk.md#t-00-18-40) (Claim) **Candace Owens**: ["Boston Consulting Group helped develop the Gaza Humanitarian Foundatio..."](/statements/statement-082611af15b9.md)
+  - Also about: [Boston Consulting Group](/entities/org-boston-consulting-group.md), [Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation.md)
+
+- [00:19:28](/episodes/ep-MhakwJxK-Zk.md#t-00-19-12) (Accusation) **Candace Owens**: ["The Gaza Humanitarian Foundation's distribution hubs became killing fi..."](/statements/statement-53562c0d0ab7.md)
+  - Also about: [Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Palestinians](/entities/concept-palestinians.md)
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1)</summary>
+
+- [01:11:22](/episodes/ep-Ux1kzgQxkws.md#t-01-11-13) (Accusation) **Hunter Biden**: ["Joe Biden did not greenlight turning Gaza into a Trump golf course wit..."](/statements/statement-245428c642ae.md)
+  - Also about: [Joe Biden](/entities/person-joe-biden.md), [Donald J. Trump](/entities/person-donald-trump.md), [Jared Kushner](/entities/person-jared-kushner.md)
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1)</summary>
+
+- [01:12:14](/episodes/ep-Dkxa9OUA9K8.md#t-01-12-14) (Opinion) **Victor Marx**: ["Victor Marx says Israel's actions in Gaza have turned into a genocide."](/statements/statement-ac24e2de0aab.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>

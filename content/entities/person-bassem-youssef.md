@@ -1,6 +1,6 @@
 ---
 title: "Bassem Youssef"
-description: "Bassem Youssef (People) - 12 mentions"
+description: "Bassem Youssef (People) - 13 mentions"
 id: "person-bassem-youssef"
 type: "PERSON"
 aliases:
@@ -25,9 +25,9 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-person-bassem-youssef-t-00-33-05">2026-01-16 · 00:33:19</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-bassem-youssef-t-00-46-01">2026-02-11 · 00:46:01</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-bassem-youssef-t-01-17-15">2026-05-28 · 01:17:15</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>25</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
@@ -44,6 +44,7 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-person-bassem-youssef-t-00-50-31" style="--pulse-height:75%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 3 mentions" title="2026-01-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-bassem-youssef-t-00-40-04" style="--pulse-height:25%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-bassem-youssef-t-00-46-01" style="--pulse-height:25%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-bassem-youssef-t-01-17-15" style="--pulse-height:25%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +56,7 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-bassem-youssef-t-00-50-31) | 3 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-bassem-youssef-t-00-40-04) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-bassem-youssef-t-00-46-01) | 1 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-bassem-youssef-t-01-17-15) | 1 |
 
 </details>
 </section>
@@ -62,7 +64,15 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
+
+**[01:17:15](/episodes/ep-SKNJPul29zU.md#ent-person-bassem-youssef-t-01-17-15)**
+> "Yeah. And I love that you're willing to have people like, you know, Norm Finkelstein on. Bassem Youssef like those are some of my favorite episodes of yours i watched it and Bassem Youssef got a little i'm sure i'm gonna get a lot of heat too oh you're talking to candace owens whatever he got a little bit of heat on that and i'm so happy to see that he pushed back he's like okay you don't like candace who cares"
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
@@ -177,11 +187,12 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:47:56](/episodes/ep-xjzb_t5Tk9o.md#t-01-47-56): “I brought him on here to say that I didn't do anything.”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:50:46](/episodes/ep-Wjul6YV6izo.md#t-00-50-31): “This person writes, and this is obviously my sit down with Bassem Youssef.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:40:15](/episodes/ep-QRS_hR7NXaQ.md#t-00-40-04): “Candace (Candace Owens) also interviewed Bassem Youssef and told him she thinks something bad happened in your childhood because you fixate and lack empathy.”
+- [Candace Owens x Ana Kasparian @ 01:17:15](/episodes/ep-SKNJPul29zU.md#t-01-17-15): “Bassem Youssef like those are some of my favorite episodes of yours i watched it”
 
 </details>
 
@@ -231,11 +242,12 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:47:56](/episodes/ep-xjzb_t5Tk9o.md#t-01-47-56): “I brought him on here to say that I didn't do anything.”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:50:46](/episodes/ep-Wjul6YV6izo.md#t-00-50-31): “This person writes, and this is obviously my sit down with Bassem Youssef.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:40:15](/episodes/ep-QRS_hR7NXaQ.md#t-00-40-04): “Candace (Candace Owens) also interviewed Bassem Youssef and told him she thinks something bad happened in your childhood because you fixate and lack empathy.”
+- [Candace Owens x Ana Kasparian @ 01:17:15](/episodes/ep-SKNJPul29zU.md#t-01-17-15): “Bassem Youssef like those are some of my favorite episodes of yours i watched it”
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Paleovalley"
-description: "Paleovalley (Organizations) - 35 mentions"
+description: "Paleovalley (Organizations) - 46 mentions"
 id: "org-paleovalley"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [Paleovalley](https://paleovalley.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Wjul6YV6izo.md#ent-org-paleovalley-t-00-49-03">2026-01-30 · 00:49:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-paleovalley-t-00-38-35">2026-05-13 · 00:38:35</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-org-paleovalley-t-01-10-17">2026-06-09 · 01:10:44</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>46</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -44,6 +44,8 @@ Source: [Paleovalley](https://paleovalley.com/)
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-paleovalley-t-00-37-46" style="--pulse-height:67%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 6 mentions" title="2026-04-01 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-paleovalley-t-00-45-20" style="--pulse-height:33%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-paleovalley-t-00-37-56" style="--pulse-height:44%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-paleovalley-t-01-24-39" style="--pulse-height:44%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 4 mentions" title="2026-05-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-org-paleovalley-t-00-50-16" style="--pulse-height:78%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 7 mentions" title="2026-06-09 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +58,8 @@ Source: [Paleovalley](https://paleovalley.com/)
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-paleovalley-t-00-37-46) | 6 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-paleovalley-t-00-45-20) | 3 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-org-paleovalley-t-00-37-56) | 4 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-paleovalley-t-01-24-39) | 4 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-paleovalley-t-00-50-16) | 7 |
 
 </details>
 </section>
@@ -63,7 +67,50 @@ Source: [Paleovalley](https://paleovalley.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (46)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (7 mentions)</summary>
+
+**[00:50:50](/episodes/ep-YeEtS7nix3o.md#ent-org-paleovalley-t-00-50-16)**
+> "...e get dropped by our sponsor, Paleo Valley."
+
+**[01:09:43](/episodes/ep-YeEtS7nix3o.md#ent-org-paleovalley-t-01-09-14)**
+> "... quick break. Well, you guys, Paleo Valley is still with us. It is the one snack that you'll..."
+
+**[01:09:51](/episodes/ep-YeEtS7nix3o.md#ent-org-paleovalley-t-01-09-51)**
+> "Paleo Valley beef sticks, whether I'm running between meetings..."
+
+**[01:09:59](/episodes/ep-YeEtS7nix3o.md#ent-org-paleovalley-t-01-09-51)**
+> "...etween healthy and delicious. Paleo Valley uses 100% grass-fed and grass-finished beef sourc..."
+
+**[01:10:17](/episodes/ep-YeEtS7nix3o.md#ent-org-paleovalley-t-01-10-17)**
+> "... good as it sounds, check out Paleo Valley Beef Sticks. Once you try them, you'll probably s..."
+
+**[01:10:37](/episodes/ep-YeEtS7nix3o.md#ent-org-paleovalley-t-01-10-17)**
+> "...t 20% off your first order at paleovalley.com and you can use code Candace at checkout."
+
+**[01:10:44](/episodes/ep-YeEtS7nix3o.md#ent-org-paleovalley-t-01-10-17)**
+> "Again, that's paleovalley.com promo code Candace at checkout. Also want to ..."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (4 mentions)</summary>
+
+**[01:24:53](/episodes/ep-Dkxa9OUA9K8.md#ent-org-paleovalley-t-01-24-39)**
+> "... grass-fed organ complex from Paleo Valley."
+
+**[01:25:18](/episodes/ep-Dkxa9OUA9K8.md#ent-org-paleovalley-t-01-25-18)**
+> "And because it's from Paleo Valley, you know that you're getting high quality ingred..."
+
+**[01:25:30](/episodes/ep-Dkxa9OUA9K8.md#ent-org-paleovalley-t-01-25-18)**
+> "...t 20% off your first order at paleovalley.com and you can use code Candice at checkout."
+
+**[01:25:38](/episodes/ep-Dkxa9OUA9K8.md#ent-org-paleovalley-t-01-25-18)**
+> "Again, that's paleovalley.com promo code Candice at checkout. I also want t..."
+
+</details>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (4 mentions)</summary>
@@ -214,9 +261,11 @@ Source: [Paleovalley](https://paleovalley.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:37:56](/episodes/ep-7FS1tUeSfdE.md#t-00-37-14): “That's why I've been loving the 100% grass-fed organ complex from Paleo Valley.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:24:53](/episodes/ep-Dkxa9OUA9K8.md#t-01-24-39): “Moms are usually the last ones taking care of themselves. That's why I have been loving the 100% grass-fed organ complex from Paleo Valley.”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:09:43](/episodes/ep-YeEtS7nix3o.md#t-01-09-14): “Paleo Valley is still with us. It is the one snack that you'll always find in my bag.”
 
 </details>
 
@@ -226,11 +275,26 @@ Source: [Paleovalley](https://paleovalley.com/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:37:56](/episodes/ep-7FS1tUeSfdE.md#t-00-37-14): “That's why I've been loving the 100% grass-fed organ complex from Paleo Valley.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:24:53](/episodes/ep-Dkxa9OUA9K8.md#t-01-24-39): “Moms are usually the last ones taking care of themselves. That's why I have been loving the 100% grass-fed organ complex from Paleo Valley.”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:09:43](/episodes/ep-YeEtS7nix3o.md#t-01-09-14): “Paleo Valley is still with us. It is the one snack that you'll always find in my bag.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Paleovalley (1)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>
+
+- [00:50:50](/episodes/ep-YeEtS7nix3o.md#t-00-50-16) (Accusation) **Candace Owens**: ["Candace Owens accused Alex Clark of making private calls demanding tha..."](/statements/statement-a4b6685df9a6.md)
+  - Also about: [Alex Clark](/entities/person-alex-clark.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 

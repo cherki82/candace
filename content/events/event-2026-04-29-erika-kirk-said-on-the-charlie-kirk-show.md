@@ -11,7 +11,7 @@ date: "2026-04-29"
 
 > Erika Kirk said on the Charlie Kirk Show that Candace Owens claimed she murdered her husband.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330
 
@@ -28,3 +28,11 @@ date: "2026-04-29"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3044);return false;">▶️ Play</a>
 
 > Erica didn't just name me and put a target on my back and lie about what I said
+
+### 3. SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It ...
+
+**Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
+**Timestamp:** [00:16:12](/episodes/ep-Pb7UlpRdW6U.md#event-event-2026-04-29-erika-kirk-said-on-the-charlie-kirk-show-t-00-16-12) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(972);return false;">▶️ Play</a>
+
+> Erika Kirk herself discussed that when Wednesday hit.

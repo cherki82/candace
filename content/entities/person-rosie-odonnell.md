@@ -1,6 +1,6 @@
 ---
 title: "Rosie O'Donnell"
-description: "Rosie O'Donnell (People) - 2 mentions"
+description: "Rosie O'Donnell (People) - 3 mentions"
 id: "person-rosie-odonnell"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Rosie O'Donnell Biography](https://www.biography.com/actors/a45989448/r
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-rosie-odonnell-t-00-05-20">2026-04-10 · 00:05:35</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-rosie-odonnell-t-00-08-45">2026-04-10 · 00:09:06</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-rosie-odonnell-t-00-32-38">2026-05-28 · 00:32:38</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,12 +36,14 @@ Source: [Rosie O'Donnell Biography](https://www.biography.com/actors/a45989448/r
 <p>Highest activity: <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-rosie-odonnell-t-00-05-20">An Open Letter To President Donald Trump (My Response) | Candace Ep 322</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-rosie-odonnell-t-00-05-20" style="--pulse-height:100%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-rosie-odonnell-t-00-32-38" style="--pulse-height:50%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-rosie-odonnell-t-00-05-20) | 2 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-rosie-odonnell-t-00-32-38) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [Rosie O'Donnell Biography](https://www.biography.com/actors/a45989448/r
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
+
+**[00:32:38](/episodes/ep-SKNJPul29zU.md#ent-person-rosie-odonnell-t-00-32-38)**
+> "only Rosie O'Donnell"
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (2 mentions)</summary>

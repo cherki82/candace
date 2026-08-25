@@ -1,6 +1,6 @@
 ---
 title: "Hillary Clinton"
-description: "Hillary Clinton (People) - 31 mentions"
+description: "Hillary Clinton (People) - 32 mentions"
 id: "person-hillary-clinton"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Hillary Rodham Clinton | Clinton Foundation](https://www.clintonfoundat
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-hillary-clinton-t-00-26-53">2025-12-08 · 00:27:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-hillary-clinton-t-01-01-10">2026-04-29 · 01:01:10</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-hillary-clinton-t-01-07-16">2026-05-21 · 01:07:27</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
@@ -49,6 +49,7 @@ Source: [Hillary Rodham Clinton | Clinton Foundation](https://www.clintonfoundat
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-hillary-clinton-t-00-28-27" style="--pulse-height:83%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 5 mentions" title="2026-04-20 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-hillary-clinton-t-00-15-52" style="--pulse-height:33%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-hillary-clinton-t-00-35-14" style="--pulse-height:100%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 6 mentions" title="2026-04-29 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-hillary-clinton-t-01-07-16" style="--pulse-height:17%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -67,6 +68,7 @@ Source: [Hillary Rodham Clinton | Clinton Foundation](https://www.clintonfoundat
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-hillary-clinton-t-00-28-27) | 5 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-hillary-clinton-t-00-15-52) | 2 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-hillary-clinton-t-00-35-14) | 6 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-hillary-clinton-t-01-07-16) | 1 |
 
 </details>
 </section>
@@ -74,7 +76,15 @@ Source: [Hillary Rodham Clinton | Clinton Foundation](https://www.clintonfoundat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
+
+**[01:07:27](/episodes/ep-Ux1kzgQxkws.md#ent-person-hillary-clinton-t-01-07-16)**
+> "...Trump, which was actually pro Hillary Clinton, if you think about it, that's now MAGA. It's lit..."
+
+</details>
 
 <details>
 <summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (6 mentions)</summary>

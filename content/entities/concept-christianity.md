@@ -1,6 +1,6 @@
 ---
 title: "Christianity"
-description: "Christianity (Concepts) - 198 mentions"
+description: "Christianity (Concepts) - 224 mentions"
 id: "concept-christianity"
 type: "CONCEPT"
 aliases:
@@ -23,10 +23,10 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-07-28">2026-01-07 · 00:04:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10">2026-08-14 · 02:57:10</a></strong></div>
-<div><span>Episodes</span><strong>47</strong></div>
-<div><span>Mentions</span><strong>198</strong></div>
+<div><span>Episodes</span><strong>53</strong></div>
+<div><span>Mentions</span><strong>224</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>17</strong></div>
+<div><span>Statements about</span><strong>19</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -81,6 +81,12 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-concept-christianity-t-00-07-33" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-christianity-t-00-02-38" style="--pulse-height:8%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-concept-christianity-t-00-18-39" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-concept-christianity-t-00-34-53" style="--pulse-height:8%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-concept-christianity-t-00-35-10" style="--pulse-height:8%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-christianity-t-01-29-40" style="--pulse-height:8%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-christianity-t-00-51-16" style="--pulse-height:14%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 5 mentions" title="2026-05-26 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-concept-christianity-t-00-22-39" style="--pulse-height:11%" aria-label="Candace Owens x Ana Kasparian: 4 mentions" title="2026-05-28 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-christianity-t-00-19-18" style="--pulse-height:34%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 12 mentions" title="2026-06-09 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -133,6 +139,12 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-concept-christianity-t-00-07-33) | 1 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-concept-christianity-t-00-02-38) | 1 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-concept-christianity-t-00-18-39) | 2 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-christianity-t-00-34-53) | 2 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-concept-christianity-t-00-35-10) | 1 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-concept-christianity-t-01-29-40) | 2 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-concept-christianity-t-00-51-16) | 5 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-concept-christianity-t-00-22-39) | 4 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-concept-christianity-t-00-19-18) | 12 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10) | 1 |
 
 </details>
@@ -141,13 +153,121 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (198)</strong></summary>
+<summary><strong class="section-title">Raw mentions (224)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[02:57:10](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10)**
 > "lot of the actual. So I'm a Christian ethicist. and I then always"
+
+</details>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (12 mentions)</summary>
+
+**[00:19:25](/episodes/ep-YeEtS7nix3o.md#ent-concept-christianity-t-00-19-18)**
+> "...nd successfully destroyed the Christian empire."
+
+**[00:21:50](/episodes/ep-YeEtS7nix3o.md#ent-concept-christianity-t-00-21-14)**
+> "... the Jewish activists. as the Christian women were among the Christian activists."
+
+**[00:22:48](/episodes/ep-YeEtS7nix3o.md#ent-concept-christianity-t-00-22-35)**
+> "... Anyway, after his death, the Christian Romanov dynasty was still in power. So the revolu..."
+
+**[00:24:26](/episodes/ep-YeEtS7nix3o.md#ent-concept-christianity-t-00-24-26)**
+> "...d to their wealth. This was a Christian empire. The jewelries, the diamonds, the art whic..."
+
+**[00:24:39](/episodes/ep-YeEtS7nix3o.md#ent-concept-christianity-t-00-24-26)**
+> "...is the stolen heritage of the Christian empire?"
+
+**[00:27:14](/episodes/ep-YeEtS7nix3o.md#ent-concept-christianity-t-00-27-14)**
+> "... concentration camps, Russian Christianity survived."
+
+**[00:27:31](/episodes/ep-YeEtS7nix3o.md#ent-concept-christianity-t-00-27-14)**
+> "Orthodox Christianity survived. Beauty and truth persisted. In fact, in..."
+
+**[00:28:12](/episodes/ep-YeEtS7nix3o.md#ent-concept-christianity-t-00-27-52)**
+> "...can't even explain to you the Christian heritage. This doesn't even do it justice."
+
+**[00:28:30](/episodes/ep-YeEtS7nix3o.md#ent-concept-christianity-t-00-28-30)**
+> "...how it came to be, awaits any Christian or any person who's curious."
+
+**[00:31:24](/episodes/ep-YeEtS7nix3o.md#ent-concept-christianity-t-00-31-12)**
+> "... these, these, the icons, the Christian icons, the oldest Christian icons, you can just k..."
+
+**[00:49:04](/episodes/ep-YeEtS7nix3o.md#ent-concept-christianity-t-00-48-57)**
+> "Christian. Oh, a Christian fiance, new fiance, by the way. ..."
+
+**[00:54:08](/episodes/ep-YeEtS7nix3o.md#ent-concept-christianity-t-00-53-38)**
+> "I'm here working for a Christian legal organization called Alliance Defending Free..."
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (4 mentions)</summary>
+
+**[00:38:22](/episodes/ep-SKNJPul29zU.md#ent-concept-christianity-t-00-22-39)**
+> "Christians are waking up"
+
+**[00:22:39](/episodes/ep-SKNJPul29zU.md#ent-concept-christianity-t-00-22-39)**
+> "...andace was going around judeo christian doing all the things she worked at prager you you..."
+
+**[00:39:50](/episodes/ep-SKNJPul29zU.md#ent-concept-christianity-t-00-39-31)**
+> "... Armenians are overwhelmingly Christian, right?"
+
+**[01:14:32](/episodes/ep-SKNJPul29zU.md#ent-concept-christianity-t-01-14-25)**
+> "...to my roots because I grew up Christian I wouldn't say that I'm like a full-blown Christi..."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (5 mentions)</summary>
+
+**[00:51:34](/episodes/ep-BxN2-aeMYIs.md#ent-concept-christianity-t-00-51-16)**
+> "MAGA is over, but Christianity is not"
+
+**[00:16:08](/episodes/ep-BxN2-aeMYIs.md#ent-concept-christianity-t-00-15-41)**
+> "...contacted me is publicly very Christian and widely perceived as America first. I'm going ..."
+
+**[00:21:55](/episodes/ep-BxN2-aeMYIs.md#ent-concept-christianity-t-00-21-55)**
+> "... stating that undermining his Christian identity is probably a good idea. They contemplat..."
+
+**[00:50:16](/episodes/ep-BxN2-aeMYIs.md#ent-concept-christianity-t-00-50-16)**
+> "...ery, very long time just as a Christian in general, just to see some of those cathedrals ..."
+
+**[00:51:29](/episodes/ep-BxN2-aeMYIs.md#ent-concept-christianity-t-00-51-16)**
+> "We have our Make America Christian Again stuff. That has been a hot seller. Those ha..."
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (2 mentions)</summary>
+
+**[01:29:40](/episodes/ep-Ux1kzgQxkws.md#ent-concept-christianity-t-01-29-40)**
+> "...eror Constantine converted to Christianity,"
+
+**[01:29:52](/episodes/ep-Ux1kzgQxkws.md#ent-concept-christianity-t-01-29-44)**
+> "...ated power so he made the the christian um uh bishops who were you know 200 years into th..."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1 mentions)</summary>
+
+**[00:35:21](/episodes/ep-Dkxa9OUA9K8.md#ent-concept-christianity-t-00-35-10)**
+> "...ate it best to you, are you a Christian or a believer in Christ?"
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (2 mentions)</summary>
+
+**[00:35:02](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-christianity-t-00-34-53)**
+> "...ng bigger here and I'm a good Christian, right?"
+
+**[00:52:47](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-christianity-t-00-34-53)**
+> "...rse, we have our Make America Christian again hats."
 
 </details>
 
@@ -979,7 +1099,23 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Christianity (17)</strong></summary>
+<summary><strong class="section-title">Statements about Christianity (19)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1)</summary>
+
+- [01:16:06](/episodes/ep-SKNJPul29zU.md#t-01-15-47) (Opinion) **Ana Kasparian**: ["Ana Kasparian no longer considers herself an atheist."](/statements/statement-4b912adfe356.md)
+  - Also about: [Ana Kasparian](/entities/person-ana-kasparian.md)
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
+
+- [00:21:55](/episodes/ep-BxN2-aeMYIs.md#t-00-21-55) (Accusation) **Gabrielle Cuccia** (via quoted post): ["VFT internal comments discuss going after Nick Fuentes by undermining ..."](/statements/statement-18814118b50d.md)
+  - Also about: [Vine & Fig Tree Institute I, Inc.](/entities/org-vine-and-fig-tree-institute.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Matt Walsh](/entities/person-matt-walsh.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1)</summary>

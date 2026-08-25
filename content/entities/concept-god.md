@@ -1,6 +1,6 @@
 ---
 title: "God"
-description: "God (Concepts) - 442 mentions"
+description: "God (Concepts) - 477 mentions"
 id: "concept-god"
 type: "CONCEPT"
 categories:
@@ -18,8 +18,8 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-57-16">2025-09-15 · 00:57:42</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-04-03-55">2026-08-14 · 04:03:55</a></strong></div>
-<div><span>Episodes</span><strong>82</strong></div>
-<div><span>Mentions</span><strong>442</strong></div>
+<div><span>Episodes</span><strong>86</strong></div>
+<div><span>Mentions</span><strong>477</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -111,6 +111,10 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <a href="/episodes/ep-k1b1NDCrNFs.md#t-01-05-18" style="--pulse-height:8%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#t-00-08-03" style="--pulse-height:10%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 3 mentions" title="2026-05-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#t-00-05-52" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#t-00-15-29" style="--pulse-height:17%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 5 mentions" title="2026-05-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#t-00-02-27" style="--pulse-height:33%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 10 mentions" title="2026-05-19 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#t-00-03-45" style="--pulse-height:43%" aria-label="Candace x Hunter Biden: The Interview: 13 mentions" title="2026-05-21 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#t-00-09-41" style="--pulse-height:23%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 7 mentions" title="2026-06-09 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34" style="--pulse-height:13%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -198,6 +202,10 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#t-01-05-18) | 1 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#t-00-08-03) | 3 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#t-00-05-52) | 2 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#t-00-15-29) | 5 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#t-00-02-27) | 10 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#t-00-03-45) | 13 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#t-00-09-41) | 7 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34) | 4 |
 
 </details>
@@ -206,7 +214,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (442)</strong></summary>
+<summary><strong class="section-title">Raw mentions (477)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -222,6 +230,131 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 
 **[04:03:55](/episodes/ep-nPhCKwJ6ye8.md#t-04-03-55)**
 > "...eing said take care everybody god bless have a great weekend"
+
+</details>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (7 mentions)</summary>
+
+**[00:10:00](/episodes/ep-YeEtS7nix3o.md#t-00-09-41)**
+> "...t was correct so I just thank God in so many ways that this this person just recogn..."
+
+**[00:42:17](/episodes/ep-YeEtS7nix3o.md#t-00-42-03)**
+> "And my God in heaven, how this became true just a few months..."
+
+**[00:43:53](/episodes/ep-YeEtS7nix3o.md#t-00-43-53)**
+> "God and the Father is this to visit orphans and widow..."
+
+**[00:44:01](/episodes/ep-YeEtS7nix3o.md#t-00-43-53)**
+> "Our Lord God defines himself as a, quote, father to the father..."
+
+**[00:46:48](/episodes/ep-YeEtS7nix3o.md#t-00-46-30)**
+> "For years, I thought God was delaying my life."
+
+**[00:46:54](/episodes/ep-YeEtS7nix3o.md#t-00-46-54)**
+> "...eason becoming the woman that God is calling you to be, then whether marriage comes..."
+
+**[00:47:17](/episodes/ep-YeEtS7nix3o.md#t-00-46-54)**
+> "fully surrendered to God is never a life on hold, which"
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (13 mentions)</summary>
+
+**[00:03:54](/episodes/ep-Ux1kzgQxkws.md#t-00-03-45)**
+> "It was the grace of God in recovery for seven years, but close to seven y..."
+
+**[00:22:23](/episodes/ep-Ux1kzgQxkws.md#t-00-22-12)**
+> "do this because I swear to God it'll kill you but it's sodium bicarbonate which ..."
+
+**[00:30:48](/episodes/ep-Ux1kzgQxkws.md#t-00-30-48)**
+> "...ir teenager um do that and go god this is awful and i'm going to take his phone awa..."
+
+**[01:01:20](/episodes/ep-Ux1kzgQxkws.md#t-01-01-20)**
+> "...you before, is that I pray to God."
+
+**[01:01:38](/episodes/ep-Ux1kzgQxkws.md#t-01-01-38)**
+> "god"
+
+**[01:08:58](/episodes/ep-Ux1kzgQxkws.md#t-01-08-58)**
+> "and i God. god forbid and this whole thing is is it i we we..."
+
+**[01:22:57](/episodes/ep-Ux1kzgQxkws.md#t-01-22-46)**
+> "Is it? People are like, oh my God, like you aren't a complete moron."
+
+**[01:24:39](/episodes/ep-Ux1kzgQxkws.md#t-01-24-39)**
+> "... i still think he's an but my god he's not you know what like can you believe it he..."
+
+**[01:35:00](/episodes/ep-Ux1kzgQxkws.md#t-01-34-52)**
+> "...screw up and you know and but God if like we could have this conversation and genui..."
+
+**[01:42:16](/episodes/ep-Ux1kzgQxkws.md#t-01-42-16)**
+> "...f you are wise and understand God's ways, prove it by living an honorable life."
+
+**[01:42:33](/episodes/ep-Ux1kzgQxkws.md#t-01-42-16)**
+> "...lousy and selfishness are not God's kind of wisdom. Such things are earthly, unspir..."
+
+**[01:42:52](/episodes/ep-Ux1kzgQxkws.md#t-01-42-52)**
+> "...f you are wise and understand god's ways prove it by living an honorable life and t..."
+
+**[01:47:09](/episodes/ep-Ux1kzgQxkws.md#t-01-46-47)**
+> "...u know, that's between me and God."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (10 mentions)</summary>
+
+**[00:02:44](/episodes/ep-Dkxa9OUA9K8.md#t-00-02-27)**
+> "...alling that he felt came from God in the wake of Charlie (Charlie Kirk)'s assassina..."
+
+**[00:35:34](/episodes/ep-Dkxa9OUA9K8.md#t-00-35-34)**
+> "...le to be the inherent word of God?"
+
+**[00:37:17](/episodes/ep-Dkxa9OUA9K8.md#t-00-37-17)**
+> "...Not we're made perfect before God, but we still have to live our life out and it's ..."
+
+**[00:37:58](/episodes/ep-Dkxa9OUA9K8.md#t-00-37-58)**
+> "And why God put me there, I don't know. He just gave me a lov..."
+
+**[00:38:53](/episodes/ep-Dkxa9OUA9K8.md#t-00-38-53)**
+> "...wer of Christ and the word of God and I appreciate the Catholic church and their hi..."
+
+**[00:42:59](/episodes/ep-Dkxa9OUA9K8.md#t-00-42-49)**
+> "... hear your testimony and what God's done in your life And he wanted me to have his ..."
+
+**[01:06:30](/episodes/ep-Dkxa9OUA9K8.md#t-01-06-23)**
+> "...that I depend on the grace of God"
+
+**[01:06:52](/episodes/ep-Dkxa9OUA9K8.md#t-01-06-52)**
+> "...save me and I turn around and God redeems my life for a greater good."
+
+**[01:07:42](/episodes/ep-Dkxa9OUA9K8.md#t-01-07-35)**
+> "...e people because I'm loved by God."
+
+**[01:35:46](/episodes/ep-Dkxa9OUA9K8.md#t-01-35-46)**
+> "...e i read the bible so now i'm god and i can do everything god can do do you see it'..."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (5 mentions)</summary>
+
+**[00:16:06](/episodes/ep-Pb7UlpRdW6U.md#t-00-15-29)**
+> "...alk about hate speech. Oh, my God, what's happening?"
+
+**[00:31:49](/episodes/ep-Pb7UlpRdW6U.md#t-00-31-23)**
+> "You know, God will use that which was meant for ill and he will..."
+
+**[00:32:01](/episodes/ep-Pb7UlpRdW6U.md#t-00-31-23)**
+> "And, you know, God will use all things for his good and his glory. A..."
+
+**[00:43:28](/episodes/ep-Pb7UlpRdW6U.md#t-00-43-09)**
+> "...ld Trump), who thinks he is a god, I am MAGA. Now has a golden statue, of course, b..."
+
+**[00:49:20](/episodes/ep-Pb7UlpRdW6U.md#t-00-49-05)**
+> "...s or Pat Tanaka, maybe it is. God bless you, Candace Owens and your family."
 
 </details>
 

@@ -17,6 +17,8 @@ _Type: Concepts_
 
 **Categories:** stock market index, hearing discussion
 
+> **Possibly overlapping entity records:** [United States Department of Defense](/entities/org-us-department-of-defense). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > The official index provider confirms that The Dow is the Dow Jones Industrial Average.
 Source: [Dow Jones Industrial Average | S&P Dow Jones Indices](https://www.spglobal.com/spdji/en/indices/equity/dow-jones-industrial-average/)

@@ -1,6 +1,6 @@
 ---
 title: "New York"
-description: "New York (Places) - 134 mentions"
+description: "New York (Places) - 145 mentions"
 id: "gpe-new-york"
 type: "GPE"
 categories:
@@ -17,12 +17,12 @@ Source: [State of New York](https://www.ny.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-50-22">2025-09-15 · 00:50:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-new-york-t-00-30-22">2026-04-29 · 00:30:22</a></strong></div>
-<div><span>Episodes</span><strong>35</strong></div>
-<div><span>Mentions</span><strong>134</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-new-york-t-00-25-49">2026-06-09 · 00:26:07</a></strong></div>
+<div><span>Episodes</span><strong>37</strong></div>
+<div><span>Mentions</span><strong>145</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -65,6 +65,8 @@ Source: [State of New York](https://www.ny.gov/)
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-new-york-t-00-28-11" style="--pulse-height:54%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 7 mentions" title="2026-04-02 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-new-york-t-00-43-35" style="--pulse-height:15%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-new-york-t-00-30-22" style="--pulse-height:15%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-new-york-t-00-15-28" style="--pulse-height:54%" aria-label="Candace x Hunter Biden: The Interview: 7 mentions" title="2026-05-21 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-new-york-t-00-25-49" style="--pulse-height:31%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 4 mentions" title="2026-06-09 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -105,6 +107,8 @@ Source: [State of New York](https://www.ny.gov/)
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-new-york-t-00-28-11) | 7 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-new-york-t-00-43-35) | 2 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-new-york-t-00-30-22) | 2 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-new-york-t-00-15-28) | 7 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-gpe-new-york-t-00-25-49) | 4 |
 
 </details>
 </section>
@@ -112,7 +116,50 @@ Source: [State of New York](https://www.ny.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (134)</strong></summary>
+<summary><strong class="section-title">Raw mentions (145)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (4 mentions)</summary>
+
+**[00:24:43](/episodes/ep-YeEtS7nix3o.md#ent-gpe-new-york-t-00-25-49)**
+> "...ually the diamond district in New York City, to be exact. I continue to be amazed."
+
+**[00:25:09](/episodes/ep-YeEtS7nix3o.md#ent-gpe-new-york-t-00-25-49)**
+> "...da. This is straight from the New York Times. You can learn about his family and how the..."
+
+**[00:25:18](/episodes/ep-YeEtS7nix3o.md#ent-gpe-new-york-t-00-25-49)**
+> "This New York Times article was called The Riddle of Armand Ham..."
+
+**[00:26:07](/episodes/ep-YeEtS7nix3o.md#ent-gpe-new-york-t-00-25-49)**
+> "...' unofficial Soviet Bureau in New York. Hammer was officially appointed the commercial a..."
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (7 mentions)</summary>
+
+**[00:11:56](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-new-york-t-00-15-28)**
+> "... up in congress or the or the new york post you know i think i was on the cover of the n..."
+
+**[00:15:38](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-new-york-t-00-15-28)**
+> "He put me on a plane in New York and I flew to a place that was started by Eric Cl..."
+
+**[00:31:49](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-new-york-t-00-15-28)**
+> "...re able to conflate so if the new york post"
+
+**[00:41:36](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-new-york-t-00-15-28)**
+> "...y paintings for sale. And the New York Post comes out and says Hunter Biden's selling hi..."
+
+**[00:49:29](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-new-york-t-00-15-28)**
+> "...tatement that you make to the New York Post?"
+
+**[00:54:19](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-new-york-t-00-15-28)**
+> "... and suddenly I'm getting the New York Post treatment and I'm getting all these people c..."
+
+**[00:55:26](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-new-york-t-00-15-28)**
+> "...ay that they got there is the New York Post published on the front page on its cover."
+
+</details>
 
 <details>
 <summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (2 mentions)</summary>
@@ -696,12 +743,42 @@ Source: [State of New York](https://www.ny.gov/)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Location Of (1)</summary>
+
+- **[Russian Soviet Government Bureau](/entities/org-russian-soviet-government-bureau.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:26:07](/episodes/ep-YeEtS7nix3o.md#t-00-25-49): “Martens' unofficial Soviet Bureau in New York.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Russian Soviet Government Bureau](/entities/org-russian-soviet-government-bureau.md)** based in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:26:07](/episodes/ep-YeEtS7nix3o.md#t-00-25-49): “Martens' unofficial Soviet Bureau in New York.”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about New York (3)</strong></summary>
+<summary><strong class="section-title">Statements about New York (4)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>
+
+- [00:26:07](/episodes/ep-YeEtS7nix3o.md#t-00-25-49) (Citation) **Candace Owens**: ["Candace Owens cited a New York Times article saying the Soviet governm..."](/statements/statement-034ef4ba058b.md)
+  - Also about: [Soviet Union](/entities/gpe-soviet-union.md), [Russian Soviet Government Bureau](/entities/org-russian-soviet-government-bureau.md)
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (2)</summary>

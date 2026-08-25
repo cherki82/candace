@@ -1,6 +1,6 @@
 ---
 title: "Australia"
-description: "Australia (Places) - 41 mentions"
+description: "Australia (Places) - 48 mentions"
 id: "gpe-australia"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-australia-t-00-41-28">2025-09-18 · 00:41:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-69A8TzAGHlU.md#ent-gpe-australia-t-01-13-45">2026-04-30 · 01:13:45</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>41</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-australia-t-00-32-35">2026-06-09 · 00:33:04</a></strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>48</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -51,6 +51,9 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-australia-t-00-26-28" style="--pulse-height:12%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-australia-t-00-16-03" style="--pulse-height:25%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-gpe-australia-t-01-13-45" style="--pulse-height:12%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-australia-t-00-47-58" style="--pulse-height:25%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 2 mentions" title="2026-05-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-australia-t-00-10-11" style="--pulse-height:38%" aria-label="Candace Owens x Ana Kasparian: 3 mentions" title="2026-05-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-australia-t-00-32-35" style="--pulse-height:25%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -76,6 +79,9 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-australia-t-00-26-28) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-australia-t-00-16-03) | 2 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-gpe-australia-t-01-13-45) | 1 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-australia-t-00-47-58) | 2 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-australia-t-00-10-11) | 3 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-gpe-australia-t-00-32-35) | 2 |
 
 </details>
 </section>
@@ -83,7 +89,43 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+<summary><strong class="section-title">Raw mentions (48)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2 mentions)</summary>
+
+**[00:32:57](/episodes/ep-YeEtS7nix3o.md#ent-gpe-australia-t-00-32-35)**
+> "... Canada's can't even get into Australia."
+
+**[00:33:04](/episodes/ep-YeEtS7nix3o.md#ent-gpe-australia-t-00-32-35)**
+> "She's banned from Australia. She can't go. Kanye can't perform in the West. H..."
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (3 mentions)</summary>
+
+**[00:10:11](/episodes/ep-SKNJPul29zU.md#ent-gpe-australia-t-00-10-11)**
+> "So Australia banned you after you said that it's a genocide?"
+
+**[00:09:55](/episodes/ep-SKNJPul29zU.md#ent-gpe-australia-t-00-09-55)**
+> "... even be allowed to travel to Australia because you are akin to Adolf Hitler."
+
+**[00:10:23](/episodes/ep-SKNJPul29zU.md#ent-gpe-australia-t-00-10-14)**
+> "I got banned from Australia, got fired from a daily wire. They started puttin..."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (2 mentions)</summary>
+
+**[00:48:07](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-australia-t-00-47-58)**
+> "...o, Candace. Love from Sydney, Australia."
+
+**[00:48:13](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-australia-t-00-47-58)**
+> "...ed and we'll be able to visit Australia. That day is not today. Thank you for your suppor..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1 mentions)</summary>

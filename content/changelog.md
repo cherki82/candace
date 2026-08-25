@@ -5,6 +5,33 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-08-25 18:20:52
+
+**Added 9 episode(s):**
+  - `1QZ4X6q1DPg`: Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340
+  - `BxN2-aeMYIs`: The World Is A Stage: Trump Survives...Again? | Ep 343
+  - `Dkxa9OUA9K8`: LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341
+  - `MhakwJxK-Zk`: BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344
+  - `Pb7UlpRdW6U`: SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339
+  - `SKNJPul29zU`: Candace Owens x Ana Kasparian
+  - `Ux1kzgQxkws`: Candace x Hunter Biden: The Interview
+  - `YeEtS7nix3o`: I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345
+  - `cPidFQDJLbo`: TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342
+**Added 254 new entity/entities**
+**Removed 3 entity/entities**
+**Added 88 new event(s)**
+**Removed 1 event(s)**
+**Added 340 new relationship(s)**
+
+**Totals:**
+- Episodes: 125
+- Entities: 3214
+- Events: 1410
+- Claims: 1461
+- Relationships: 3463
+
+---
+
 ## 2026-08-25 08:13:49
 
 **Added 10 episode(s):**

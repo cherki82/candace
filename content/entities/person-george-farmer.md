@@ -1,6 +1,6 @@
 ---
 title: "George Farmer"
-description: "George Farmer (People) - 83 mentions"
+description: "George Farmer (People) - 86 mentions"
 id: "person-george-farmer"
 type: "PERSON"
 aliases:
@@ -23,10 +23,10 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-00-37">2025-09-11 · 00:00:37</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-george-farmer-t-02-51-04">2026-08-14 · 02:51:14</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>83</strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>86</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>20</strong></div>
+<div><span>Statements about</span><strong>22</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -55,6 +55,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-person-george-farmer-t-00-41-01" style="--pulse-height:8%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-george-farmer-t-00-30-31" style="--pulse-height:100%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 22 mentions" title="2026-05-06 · 22 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-person-george-farmer-t-00-28-22" style="--pulse-height:23%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 5 mentions" title="2026-05-07 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-person-george-farmer-t-00-05-53" style="--pulse-height:14%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 3 mentions" title="2026-06-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-george-farmer-t-01-32-20" style="--pulse-height:18%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -81,6 +82,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-person-george-farmer-t-00-41-01) | 1 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-george-farmer-t-00-30-31) | 22 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-george-farmer-t-00-28-22) | 5 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-george-farmer-t-00-05-53) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-george-farmer-t-01-32-20) | 4 |
 
 </details>
@@ -89,7 +91,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (83)</strong></summary>
+<summary><strong class="section-title">Raw mentions (86)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -105,6 +107,20 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 
 **[02:51:14](/episodes/ep-nPhCKwJ6ye8.md#ent-person-george-farmer-t-02-51-04)**
 > "George and I were planning our marriage."
+
+</details>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (3 mentions)</summary>
+
+**[00:05:53](/episodes/ep-YeEtS7nix3o.md#ent-person-george-farmer-t-00-05-53)**
+> "... actually met with my husband George in Italy a month ago in some secret meeting, whic..."
+
+**[00:06:53](/episodes/ep-YeEtS7nix3o.md#ent-person-george-farmer-t-00-06-53)**
+> "...bank accounts and her husband George Farmer's bank accounts should be flagged by FinCEN while s..."
+
+**[01:04:11](/episodes/ep-YeEtS7nix3o.md#ent-person-george-farmer-t-00-06-53)**
+> ".... Ross Johnston, Sage Steele, George Janko. You kind of see it's diverse, it's young, ..."
 
 </details>
 
@@ -445,11 +461,12 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <summary>Accused By (2)</summary>
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:48:51](/episodes/ep-kaWtDuoY_ns.md#t-00-48-51): “Laura Loomer attacks Candace (Candace Owens)'s children as feud escalates. ... your husband, George Farmer, allegedly landed when he allegedly hit, aka crashed into Tracy Robinson's car while he was allegedly driving drunk”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:02:53](/episodes/ep-qZ8RWfyuewQ.md#t-01-02-53): “I think this was according to Laura Loomer, we were living separate and in two different houses. and I had dual citizenship of course none of that is true then it was George (George Farmer)'s in a secret gay relationship with Milo proof presented was an AI photo of him wearing a Ricky Martin type silk shirt very clearly AI”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:30:31](/episodes/ep-k1b1NDCrNFs.md#t-00-30-31): “was coming from daily wire they'll never admit it they'll never admit it they always pretend it's not them but i think now the public is seeing how they behave generally speaking So imagine my surprise, not at all, when Jeremy (Jeremy Boreing) took to his show yesterday to essentially platform Laura Loomer, Laura Loomer's attacks against my husband. Remember, ... she's been all over the place. My husband hit a guy. She named the guy, pulled up insurance paperwork. I told you then combined it with another incident and said that we paid off someone to hide the fact that George (George Farmer) was, you know, brandishing.”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:06:53](/episodes/ep-YeEtS7nix3o.md#t-00-06-33): “A source tells me Candace and her husband allegedly previously met with Dugin in Italy. ... her husband George Farmer's bank accounts should be flagged by FinCEN while she is in Russia.”
 
 </details>
 
@@ -502,11 +519,12 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <summary>Referenced By (5)</summary>
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:48:51](/episodes/ep-kaWtDuoY_ns.md#t-00-48-51): “Laura Loomer attacks Candace (Candace Owens)'s children as feud escalates. ... your husband, George Farmer, allegedly landed when he allegedly hit, aka crashed into Tracy Robinson's car while he was allegedly driving drunk”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:02:53](/episodes/ep-qZ8RWfyuewQ.md#t-01-02-53): “I think this was according to Laura Loomer, we were living separate and in two different houses. and I had dual citizenship of course none of that is true then it was George (George Farmer)'s in a secret gay relationship with Milo proof presented was an AI photo of him wearing a Ricky Martin type silk shirt very clearly AI”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:30:31](/episodes/ep-k1b1NDCrNFs.md#t-00-30-31): “was coming from daily wire they'll never admit it they'll never admit it they always pretend it's not them but i think now the public is seeing how they behave generally speaking So imagine my surprise, not at all, when Jeremy (Jeremy Boreing) took to his show yesterday to essentially platform Laura Loomer, Laura Loomer's attacks against my husband. Remember, ... she's been all over the place. My husband hit a guy. She named the guy, pulled up insurance paperwork. I told you then combined it with another incident and said that we paid off someone to hide the fact that George (George Farmer) was, you know, brandishing.”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:06:53](/episodes/ep-YeEtS7nix3o.md#t-00-06-33): “A source tells me Candace and her husband allegedly previously met with Dugin in Italy. ... her husband George Farmer's bank accounts should be flagged by FinCEN while she is in Russia.”
 
 </details>
 
@@ -532,7 +550,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** married to this
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:06:24](/episodes/ep-BKcOm32ZEGk.md#t-00-06-16): “The story had my husband. I've told it many times how I got engaged 18 days later... But I already knew George... I looked at my husband's face and I already knew him.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:46:12](/episodes/ep-GY6GWceEqtQ.md#t-00-45-47): “I could bake cookies with any of George (George Farmer)'s exes. I just don't care. He's my husband.”
@@ -545,6 +563,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:02:40](/episodes/ep-qZ8RWfyuewQ.md#t-01-02-28): “It was, we left off before I went to Rome and it was Candace and her husband are living separated. ... I think this was according to Laura Loomer, we were living separate and in two different houses. and I had dual citizenship of course none of that is true then it was George (George Farmer)'s in a secret gay relationship with Milo”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:31:48](/episodes/ep-k1b1NDCrNFs.md#t-00-31-28): “But the lie persists. In recent weeks, public records and documents have surfaced alleging that Candace's husband, George Farmer, was arrested in Nashville in August 2023 for DUI and leaving the scene of an accident.”
 - [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 @ 00:28:30](/episodes/ep-FFQ9675oqRI.md#t-00-28-22): “over the last few weeks she is the one that posted that totally freakish obviously fake ai photo of George (George Farmer) wearing a silk shirt here it is it doesn't even look kind of real uh with Milo (Milo Yiannopoulos) because she's just claiming that he's gay Milo (Milo Yiannopoulos) had of course had never met my husband”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:06:53](/episodes/ep-YeEtS7nix3o.md#t-00-06-33): “Candace and her husband allegedly previously met with Dugin in Italy. ... her husband George Farmer's bank accounts should be flagged by FinCEN while she is in Russia.”
 
 </details>
 
@@ -553,7 +572,18 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about George Farmer (20)</strong></summary>
+<summary><strong class="section-title">Statements about George Farmer (22)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2)</summary>
+
+- [00:06:53](/episodes/ep-YeEtS7nix3o.md#t-00-06-53) (Accusation) **Laura Loomer** (via quoted tweet): ["Laura Loomer reported that a source alleged Candace Owens and George F..."](/statements/statement-231db1d95db1.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Alexander Dugin](/entities/person-alexander-dugin.md), [Italy](/entities/gpe-italy.md)
+
+- [00:06:53](/episodes/ep-YeEtS7nix3o.md#t-00-06-53) (Opinion) **Laura Loomer** (via quoted tweet): ["Laura Loomer argued that Candace Owens should register under FARA and ..."](/statements/statement-cbc73208c15e.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Foreign Agents Registration Act](/entities/law-fara.md), [Financial Crimes Enforcement Network](/entities/org-financial-crimes-enforcement-network.md)
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1)</summary>

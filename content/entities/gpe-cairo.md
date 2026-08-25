@@ -1,6 +1,6 @@
 ---
 title: "Cairo"
-description: "Cairo (Places) - 31 mentions"
+description: "Cairo (Places) - 38 mentions"
 id: "gpe-cairo"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [Cairo Governorate Portal](https://cairo.gov.eg/en/Pages/default.aspx)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-cairo-t-00-15-42">2025-10-30 · 00:16:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-cairo-t-01-42-45">2026-01-29 · 01:43:20</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-cairo-t-00-32-40">2026-05-27 · 00:32:56</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -44,6 +44,7 @@ Source: [Cairo Governorate Portal](https://cairo.gov.eg/en/Pages/default.aspx)
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-cairo-t-00-18-23" style="--pulse-height:18%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-cairo-t-00-10-15" style="--pulse-height:27%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-cairo-t-01-42-45" style="--pulse-height:9%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-cairo-t-00-06-52" style="--pulse-height:64%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 7 mentions" title="2026-05-27 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +59,7 @@ Source: [Cairo Governorate Portal](https://cairo.gov.eg/en/Pages/default.aspx)
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-cairo-t-00-18-23) | 2 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-cairo-t-00-10-15) | 3 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-cairo-t-01-42-45) | 1 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-cairo-t-00-06-52) | 7 |
 
 </details>
 </section>
@@ -65,7 +67,33 @@ Source: [Cairo Governorate Portal](https://cairo.gov.eg/en/Pages/default.aspx)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (7 mentions)</summary>
+
+**[00:07:15](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-cairo-t-00-06-52)**
+> "...'re making short trips around Cairo, about an hour and a half flights, and then they ..."
+
+**[00:07:30](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-cairo-t-00-07-30)**
+> "back to Cairo, and they just for some reason turn off their tra..."
+
+**[00:07:58](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-cairo-t-00-07-58)**
+> "...as my purple plane, flew from Cairo at 8.50 a.m. shortly after the attacks began."
+
+**[00:08:16](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-cairo-t-00-07-58)**
+> "...what they did. They flew from Cairo to Paris."
+
+**[00:08:55](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-cairo-t-00-08-33)**
+> "...ian plane took off, flew from Cairo, always to Paris, and it stayed there for six day..."
+
+**[00:32:24](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-cairo-t-00-31-55)**
+> "...ellow plane then come in from Cairo through Paris, as always, to Omaha, Nebraska, and..."
+
+**[00:32:56](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-cairo-t-00-32-40)**
+> "... these planes being here from Cairo, it is announced that Nebraska is going to do a t..."
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
@@ -215,7 +243,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Cairo (1)</strong></summary>
+<summary><strong class="section-title">Statements about Cairo (3)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (2)</summary>
+
+- [00:07:58](/episodes/ep-MhakwJxK-Zk.md#t-00-07-58) (Claim) **Candace Owens**: ["On October 7, 2023, the Egyptian aircraft SU-BTU flew from Cairo to Pa..."](/statements/statement-20646c09eb56.md)
+  - Also about: [SU-BTU](/entities/vehicle-su-btu.md), [Paris](/entities/gpe-paris.md), [St. Louis](/entities/gpe-st-louis.md)
+
+- [00:08:33](/episodes/ep-MhakwJxK-Zk.md#t-00-08-33) (Claim) **Candace Owens**: ["On April 14, 2024, during Iran and Hezbollah's retaliation for Israel'..."](/statements/statement-0da01f4e9173.md)
+  - Also about: [SU-BTU](/entities/vehicle-su-btu.md), [Paris](/entities/gpe-paris.md), [Iran](/entities/gpe-iran.md)
+
+</details>
 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>

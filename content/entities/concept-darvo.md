@@ -1,6 +1,6 @@
 ---
 title: "DARVO"
-description: "DARVO (Concepts) - 3 mentions"
+description: "DARVO (Concepts) - 4 mentions"
 id: "concept-darvo"
 type: "CONCEPT"
 aliases:
@@ -21,9 +21,9 @@ _Type: Concepts_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep--9MOUvgGyi4.md#ent-concept-darvo-t-02-08-31">2026-04-22 · 02:08:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep--9MOUvgGyi4.md#ent-concept-darvo-t-02-09-10">2026-04-22 · 02:09:16</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1QZ4X6q1DPg.md#ent-concept-darvo-t-00-44-26">2026-05-18 · 00:44:31</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,12 +35,14 @@ _Type: Concepts_
 <p>Highest activity: <a href="/episodes/ep--9MOUvgGyi4.md#ent-concept-darvo-t-02-08-31">Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-concept-darvo-t-02-08-31" style="--pulse-height:100%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 3 mentions" title="2026-04-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-concept-darvo-t-00-44-26" style="--pulse-height:33%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-concept-darvo-t-02-08-31) | 3 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-concept-darvo-t-00-44-26) | 1 |
 
 </details>
 </section>
@@ -48,7 +50,15 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>
+
+**[00:44:31](/episodes/ep-1QZ4X6q1DPg.md#ent-concept-darvo-t-00-44-26)**
+> "...ndbook: smear campaigns using DARVO tactics. For those of you who don't know, that st..."
+
+</details>
 
 <details>
 <summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (3 mentions)</summary>

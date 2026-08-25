@@ -1,6 +1,6 @@
 ---
 title: "Lebanon"
-description: "Lebanon (Places) - 14 mentions"
+description: "Lebanon (Places) - 20 mentions"
 id: "gpe-lebanon"
 type: "GPE"
 aliases:
@@ -22,28 +22,29 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-lebanon-t-00-20-27">2026-01-20 · 00:20:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-lebanon-t-01-46-25">2026-04-22 · 01:46:38</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-lebanon-t-00-38-24">2026-05-28 · 00:38:24</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-lebanon-t-01-27-19">Candace x Bassem Youssef | Candace Ep 298</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-lebanon-t-00-06-54">Candace Owens x Ana Kasparian</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-lebanon-t-00-20-27" style="--pulse-height:50%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-lebanon-t-01-27-19" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-lebanon-t-00-35-55" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-lebanon-t-00-05-17" style="--pulse-height:50%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-lebanon-t-00-05-43" style="--pulse-height:50%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-lebanon-t-00-40-36" style="--pulse-height:50%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-lebanon-t-00-35-54" style="--pulse-height:100%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-lebanon-t-00-33-38" style="--pulse-height:50%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-lebanon-t-01-43-55" style="--pulse-height:100%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 2 mentions" title="2026-04-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-lebanon-t-00-20-27" style="--pulse-height:17%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-lebanon-t-01-27-19" style="--pulse-height:33%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-lebanon-t-00-35-55" style="--pulse-height:33%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-lebanon-t-00-05-17" style="--pulse-height:17%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-lebanon-t-00-05-43" style="--pulse-height:17%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-lebanon-t-00-40-36" style="--pulse-height:17%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-lebanon-t-00-35-54" style="--pulse-height:33%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-lebanon-t-00-33-38" style="--pulse-height:17%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-lebanon-t-01-43-55" style="--pulse-height:33%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 2 mentions" title="2026-04-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-lebanon-t-00-06-54" style="--pulse-height:100%" aria-label="Candace Owens x Ana Kasparian: 6 mentions" title="2026-05-28 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +59,7 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-lebanon-t-00-35-54) | 2 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-lebanon-t-00-33-38) | 1 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-gpe-lebanon-t-01-43-55) | 2 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-lebanon-t-00-06-54) | 6 |
 
 </details>
 </section>
@@ -65,7 +67,30 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (6 mentions)</summary>
+
+**[00:06:54](/episodes/ep-SKNJPul29zU.md#ent-gpe-lebanon-t-00-06-54)**
+> "now Lebanon"
+
+**[00:36:47](/episodes/ep-SKNJPul29zU.md#ent-gpe-lebanon-t-00-36-47)**
+> "look at Lebanon now like"
+
+**[00:36:49](/episodes/ep-SKNJPul29zU.md#ent-gpe-lebanon-t-00-36-49)**
+> "...e just going to take southern Lebanon and then by the way they've begun evacuating vill..."
+
+**[00:37:06](/episodes/ep-SKNJPul29zU.md#ent-gpe-lebanon-t-00-36-49)**
+> "...after Israel invaded southern Lebanon."
+
+**[00:37:31](/episodes/ep-SKNJPul29zU.md#ent-gpe-lebanon-t-00-37-14)**
+> "... which I think is the case in Lebanon."
+
+**[00:38:24](/episodes/ep-SKNJPul29zU.md#ent-gpe-lebanon-t-00-38-24)**
+> "...hristians are dealing with in Lebanon, in Jerusalem. You know, it's interesting because..."
+
+</details>
 
 <details>
 <summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (2 mentions)</summary>
@@ -157,6 +182,18 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Attacked By (1)</summary>
+
+- **[Israel](/entities/gpe-israel.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens x Ana Kasparian @ 00:37:06](/episodes/ep-SKNJPul29zU.md#t-00-36-49): “You got to understand why Hezbollah exists in the first place. Hezbollah formed in the 1980s after Israel invaded southern Lebanon.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Has President (1)</summary>
 
 - **[Amine Gemayel](/entities/person-amine-gemayel.md)**
@@ -169,7 +206,14 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
+
+- **[Israel](/entities/gpe-israel.md)** attacked this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens x Ana Kasparian @ 00:37:06](/episodes/ep-SKNJPul29zU.md#t-00-36-49): “You got to understand why Hezbollah exists in the first place. Hezbollah formed in the 1980s after Israel invaded southern Lebanon.”
+
+</details>
 
 - **[Amine Gemayel](/entities/person-amine-gemayel.md)** president of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -183,7 +227,18 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lebanon (5)</strong></summary>
+<summary><strong class="section-title">Statements about Lebanon (7)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (2)</summary>
+
+- [00:36:49](/episodes/ep-SKNJPul29zU.md#t-00-36-49) (Claim) **Ana Kasparian**: ["Israel began evacuating Lebanese villages north of the Litani River, i..."](/statements/statement-a262f83707da.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Litani River](/entities/gpe-litani-river.md)
+
+- [00:37:06](/episodes/ep-SKNJPul29zU.md#t-00-36-49) (Claim) **Ana Kasparian**: ["Hezbollah formed in the 1980s after Israel invaded southern Lebanon."](/statements/statement-a2a552be341f.md)
+  - Also about: [Hezbollah](/entities/org-hezbollah.md), [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>

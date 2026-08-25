@@ -1,6 +1,6 @@
 ---
 title: "Steve Jobs"
-description: "Steve Jobs (People) - 2 mentions"
+description: "Steve Jobs (People) - 3 mentions"
 id: "person-steve-jobs"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Remembering Steve Jobs](https://www.apple.com/stevejobs/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-person-steve-jobs-t-00-09-52">2026-03-03 · 00:10:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-steve-jobs-t-00-58-11">2026-04-02 · 00:58:11</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-steve-jobs-t-01-02-42">2026-06-09 · 01:02:53</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -33,6 +33,7 @@ Source: [Remembering Steve Jobs](https://www.apple.com/stevejobs/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-person-steve-jobs-t-00-09-52" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-steve-jobs-t-00-58-11" style="--pulse-height:100%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-person-steve-jobs-t-01-02-42" style="--pulse-height:100%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [Remembering Steve Jobs](https://www.apple.com/stevejobs/)
 |---|---|---:|
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-steve-jobs-t-00-09-52) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-steve-jobs-t-00-58-11) | 1 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-steve-jobs-t-01-02-42) | 1 |
 
 </details>
 </section>
@@ -47,7 +49,15 @@ Source: [Remembering Steve Jobs](https://www.apple.com/stevejobs/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>
+
+**[01:02:53](/episodes/ep-YeEtS7nix3o.md#ent-person-steve-jobs-t-01-02-42)**
+> "... sharing some sentiment about Steve Jobs, which Erika confirmed and how he trusted his lie..."
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
@@ -71,5 +81,18 @@ Source: [Remembering Steve Jobs](https://www.apple.com/stevejobs/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Steve Jobs (1)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>
+
+- [01:02:42](/episodes/ep-YeEtS7nix3o.md#t-01-02-42) (Claim) **Anonymous Source #3 (Ep YeEtS7nix3o)** (via read message): ["Anonymous Turning Point attendees said Charlie Kirk answered a success..."](/statements/statement-61f0b2d29aae.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 </details>

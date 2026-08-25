@@ -1,6 +1,6 @@
 ---
 title: "FBI"
-description: "FBI (Organizations) - 532 mentions"
+description: "FBI (Organizations) - 552 mentions"
 id: "org-fbi"
 type: "ORG"
 aliases:
@@ -28,10 +28,10 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-fbi-t-00-36-23">2025-09-15 · 00:36:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-02-22-33">2026-08-14 · 02:22:33</a></strong></div>
-<div><span>Episodes</span><strong>57</strong></div>
-<div><span>Mentions</span><strong>532</strong></div>
+<div><span>Episodes</span><strong>63</strong></div>
+<div><span>Mentions</span><strong>552</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>107</strong></div>
+<div><span>Statements about</span><strong>114</strong></div>
 <div><span>Relationships</span><strong>19</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -96,6 +96,12 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-fbi-t-00-04-55" style="--pulse-height:50%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 15 mentions" title="2026-04-21 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-fbi-t-00-56-04" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-fbi-t-00-32-49" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-fbi-t-00-47-11" style="--pulse-height:8%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-fbi-t-00-01-17" style="--pulse-height:8%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-fbi-t-00-18-17" style="--pulse-height:30%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 9 mentions" title="2026-05-19 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-org-fbi-t-00-22-22" style="--pulse-height:8%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 2 mentions" title="2026-05-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-fbi-t-00-11-09" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-org-fbi-t-00-14-10" style="--pulse-height:13%" aria-label="Candace Owens x Ana Kasparian: 4 mentions" title="2026-05-28 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-00-31-26" style="--pulse-height:57%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -158,6 +164,12 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-fbi-t-00-04-55) | 15 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-fbi-t-00-56-04) | 1 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-fbi-t-00-32-49) | 2 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-fbi-t-00-47-11) | 2 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-fbi-t-00-01-17) | 1 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-fbi-t-00-18-17) | 9 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-org-fbi-t-00-22-22) | 2 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-org-fbi-t-00-11-09) | 2 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-fbi-t-00-14-10) | 4 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-00-31-26) | 17 |
 
 </details>
@@ -166,7 +178,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (532)</strong></summary>
+<summary><strong class="section-title">Raw mentions (552)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (17 mentions)</summary>
@@ -221,6 +233,96 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 
 **[01:59:17](/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-01-59-17)**
 > "...nto evidence they took it The FBI,"
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (4 mentions)</summary>
+
+**[00:14:21](/episodes/ep-SKNJPul29zU.md#ent-org-fbi-t-00-14-10)**
+> "our FBI director"
+
+**[00:45:53](/episodes/ep-SKNJPul29zU.md#ent-org-fbi-t-00-45-48)**
+> "...target on their back from the FBI director on the basis of just wanting to like LOL..."
+
+**[00:47:31](/episodes/ep-SKNJPul29zU.md#ent-org-fbi-t-00-47-31)**
+> "...w much we were lied to by our FBI, like the fact that the FBI told us that, oh, the..."
+
+**[01:04:33](/episodes/ep-SKNJPul29zU.md#ent-org-fbi-t-01-04-33)**
+> "...is information that maybe the FBI should be pursuing, no?"
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (2 mentions)</summary>
+
+**[00:11:09](/episodes/ep-BxN2-aeMYIs.md#ent-org-fbi-t-00-11-09)**
+> "an FBI director"
+
+**[00:11:31](/episodes/ep-BxN2-aeMYIs.md#ent-org-fbi-t-00-11-09)**
+> "...a vice president. You got. An FBI director, you got a Pete Hegseth type character. ..."
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (2 mentions)</summary>
+
+**[00:22:34](/episodes/ep-cPidFQDJLbo.md#ent-org-fbi-t-00-22-22)**
+> "the FBI, the SBI and the state of Utah."
+
+**[00:37:27](/episodes/ep-cPidFQDJLbo.md#ent-org-fbi-t-00-36-59)**
+> "...'s 31. The case in point, the FBI DNA report, right? The towel, the screwdriver, th..."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (9 mentions)</summary>
+
+**[00:18:30](/episodes/ep-Dkxa9OUA9K8.md#ent-org-fbi-t-00-18-17)**
+> "...th with local authorities and FBI, that he is homicidal and he told her and her hus..."
+
+**[00:19:18](/episodes/ep-Dkxa9OUA9K8.md#ent-org-fbi-t-00-19-18)**
+> "...tleman is being sought by the FBI and El Paso County Sheriff Department, who admitt..."
+
+**[00:19:43](/episodes/ep-Dkxa9OUA9K8.md#ent-org-fbi-t-00-19-43)**
+> "...she got a phone call from the FBI and that they were investigating you for gun runn..."
+
+**[00:20:01](/episodes/ep-Dkxa9OUA9K8.md#ent-org-fbi-t-00-19-43)**
+> "I was not contacted by the FBI. I can't verify it. And as I said, we can discuss..."
+
+**[00:22:40](/episodes/ep-Dkxa9OUA9K8.md#ent-org-fbi-t-00-22-40)**
+> "...I heard was that there was an FBI investigation that."
+
+**[00:23:11](/episodes/ep-Dkxa9OUA9K8.md#ent-org-fbi-t-00-23-11)**
+> "give you the FBI's agent's name who is in charge of the investigat..."
+
+**[01:15:38](/episodes/ep-Dkxa9OUA9K8.md#ent-org-fbi-t-01-15-38)**
+> "..., I don't know, it's both the FBI and El Paso County."
+
+**[01:16:39](/episodes/ep-Dkxa9OUA9K8.md#ent-org-fbi-t-01-16-39)**
+> "make it very clear. The FBI has contacted us. It's an open investigation and ..."
+
+**[01:19:10](/episodes/ep-Dkxa9OUA9K8.md#ent-org-fbi-t-01-19-10)**
+> "I believe that the feds would need you to help look for him if that were ..."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>
+
+**[00:01:41](/episodes/ep-1QZ4X6q1DPg.md#ent-org-fbi-t-00-01-17)**
+> "So the FBI has had physical possession of Hunter Biden's lap..."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (2 mentions)</summary>
+
+**[00:47:28](/episodes/ep-Pb7UlpRdW6U.md#ent-org-fbi-t-00-47-11)**
+> "..., I didn't believe any of the feds were pertaining to what happened at the White Hou..."
+
+**[00:47:30](/episodes/ep-Pb7UlpRdW6U.md#ent-org-fbi-t-00-47-11)**
+> "I believe any of the feds law pertaining to what happened at the White Hous..."
 
 </details>
 
@@ -1959,11 +2061,12 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <summary>Has Director (1)</summary>
 
 - **[Kash Patel](/entities/person-kash-patel.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:08:06](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “she praises the FBI director, Kash Patel”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:32:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31): “She's literally dating the FBI director”
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:07:52](/episodes/ep-rupRLXmSndU.md#t-00-07-43): “But next came the public declaration from our director of the FBI, which held a lot more weight, claiming officially that they had the guy. He wrote this at 4.21 p.m. Mountain Standard, so almost exactly four hours to the minute that Charlie was shot. Kash Patel authored this tweet.”
+- [Candace Owens x Ana Kasparian @ 00:14:21](/episodes/ep-SKNJPul29zU.md#t-00-14-10): “he's our FBI director still”
 
 </details>
 
@@ -2021,11 +2124,12 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 - **[Kash Patel](/entities/person-kash-patel.md)** director of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:08:06](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “she praises the FBI director, Kash Patel”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:32:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31): “She's literally dating the FBI director”
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:07:52](/episodes/ep-rupRLXmSndU.md#t-00-07-43): “But next came the public declaration from our director of the FBI, which held a lot more weight, claiming officially that they had the guy. He wrote this at 4.21 p.m. Mountain Standard, so almost exactly four hours to the minute that Charlie was shot. Kash Patel authored this tweet.”
+- [Candace Owens x Ana Kasparian @ 00:14:21](/episodes/ep-SKNJPul29zU.md#t-00-14-10): “he's our FBI director still”
 
 </details>
 
@@ -2083,7 +2187,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about FBI (107)</strong></summary>
+<summary><strong class="section-title">Statements about FBI (114)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (5)</summary>
@@ -2102,6 +2206,47 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 
 - [04:01:26](/episodes/ep-nPhCKwJ6ye8.md#t-04-01-26) (Accusation) **Candace Owens**: ["Candace Owens still believes there is more evidence that multiple peop..."](/statements/statement-4735330c37c9.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (2)</summary>
+
+- [00:47:31](/episodes/ep-SKNJPul29zU.md#t-00-47-31) (Accusation) **Ana Kasparian**: ["The FBI lied when it said Thomas Matthew Crooks had no online trail; h..."](/statements/statement-ccaaf4f45447.md)
+  - Also about: [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+- [00:52:35](/episodes/ep-SKNJPul29zU.md#t-00-52-35) (Claim) **Candace Owens**: ["Tyler Robinson's defense had not received the FBI-held phone, gun, mes..."](/statements/statement-1e10606075e4.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Utah](/entities/gpe-utah.md)
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (2)</summary>
+
+- [00:22:34](/episodes/ep-cPidFQDJLbo.md#t-00-22-22) (Promise) **Candace Owens**: ["I am willing to give investigators the names of the people to whom Eri..."](/statements/statement-80d5b5ae9aea.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md)
+
+- [00:37:27](/episodes/ep-cPidFQDJLbo.md#t-00-36-59) (Citation) **Candace Owens**: ["The defense had not been able to inspect the FBI DNA report, the gun, ..."](/statements/statement-3bd0549a2094.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [Deoxyribonucleic acid](/entities/concept-dna.md)
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (2)</summary>
+
+- [00:18:30](/episodes/ep-Dkxa9OUA9K8.md#t-00-18-17) (Accusation) **Victor Marx** (via paraphrase): ["Victor Marx says Cori Kennedy filed a statement with local authorities..."](/statements/statement-50e8988175a0.md)
+  - Also about: [Corby Hall](/entities/person-corby-hall.md), [Cori Kennedy](/entities/person-cori-kennedy.md)
+
+- [01:16:39](/episodes/ep-Dkxa9OUA9K8.md#t-01-16-39) (Claim) **Victor Marx**: ["Victor Marx says the FBI and El Paso County Sheriff's Department have ..."](/statements/statement-f21a93e0f279.md)
+  - Also about: [Corby Hall](/entities/person-corby-hall.md), [El Paso County Sheriff's Office](/entities/org-el-paso-county-sheriffs-office.md)
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1)</summary>
+
+- [00:01:41](/episodes/ep-1QZ4X6q1DPg.md#t-00-01-17) (Claim) **Candace Owens**: ["The FBI has physical possession of Hunter Biden's laptop, which report..."](/statements/statement-542ec9e1702d.md)
+  - Also about: [Hunter Biden](/entities/person-hunter-biden.md)
 
 </details>
 

@@ -11,7 +11,11 @@ object: "person-mitt-romney"
 
 ## [Benjamin Netanyahu](/entities/person-benjamin-netanyahu) friend of [Mitt Romney](/entities/person-mitt-romney)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk)**
+
+- [00:10:06](/episodes/ep-MhakwJxK-Zk#t-00-10-06): _And Mitt Romney, as it turns out, is best friends with Bibi (Benjamin Netanyahu)._
 
 **[Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU)**
 

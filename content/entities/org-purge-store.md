@@ -1,6 +1,6 @@
 ---
 title: "PurgeStore"
-description: "PurgeStore (Organizations) - 13 mentions"
+description: "PurgeStore (Organizations) - 15 mentions"
 id: "org-purge-store"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [PurgeStore.com - Advanced Digestive Cleanse and Detox](https://www.purg
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-org-purge-store-t-00-46-52">2026-03-03 · 00:47:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-69A8TzAGHlU.md#ent-org-purge-store-t-01-03-44">2026-04-30 · 01:04:11</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-purge-store-t-00-27-40">2026-05-18 · 00:27:53</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -39,6 +39,7 @@ Source: [PurgeStore.com - Advanced Digestive Cleanse and Detox](https://www.purg
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-org-purge-store-t-00-48-01" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 4 mentions" title="2026-03-04 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-purge-store-t-00-43-17" style="--pulse-height:50%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 2 mentions" title="2026-03-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-org-purge-store-t-01-03-02" style="--pulse-height:75%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 3 mentions" title="2026-04-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-purge-store-t-00-27-40" style="--pulse-height:50%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 2 mentions" title="2026-05-18 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [PurgeStore.com - Advanced Digestive Cleanse and Detox](https://www.purg
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-purge-store-t-00-48-01) | 4 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-org-purge-store-t-00-43-17) | 2 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-org-purge-store-t-01-03-02) | 3 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-purge-store-t-00-27-40) | 2 |
 
 </details>
 </section>
@@ -55,7 +57,18 @@ Source: [PurgeStore.com - Advanced Digestive Cleanse and Detox](https://www.purg
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (2 mentions)</summary>
+
+**[00:27:40](/episodes/ep-1QZ4X6q1DPg.md#ent-org-purge-store-t-00-27-40)**
+> "... inside of your gut. So visit purgestore.com slash candace or use code candace at checkout..."
+
+**[00:27:53](/episodes/ep-1QZ4X6q1DPg.md#ent-org-purge-store-t-00-27-40)**
+> "...subscription shipment. That's purgestore.com slash Candace. I also want to tell you guys a..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (3 mentions)</summary>
@@ -122,9 +135,10 @@ Source: [PurgeStore.com - Advanced Digestive Cleanse and Detox](https://www.purg
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:47:40](/episodes/ep-2tFYJf1klgY.md#t-00-47-30): “This is why the advanced parasite cleanse was created by Purge. It's a non-pharmaceutical, all-natural organic cleanse”
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:27:40](/episodes/ep-1QZ4X6q1DPg.md#t-00-27-07): “So visit purgestore.com slash candace or use code candace at checkout for 15% off your entire order plus that free Toxibinder.”
 
 </details>
 
@@ -134,9 +148,10 @@ Source: [PurgeStore.com - Advanced Digestive Cleanse and Detox](https://www.purg
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:47:40](/episodes/ep-2tFYJf1klgY.md#t-00-47-30): “This is why the advanced parasite cleanse was created by Purge. It's a non-pharmaceutical, all-natural organic cleanse”
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:27:40](/episodes/ep-1QZ4X6q1DPg.md#t-00-27-07): “So visit purgestore.com slash candace or use code candace at checkout for 15% off your entire order plus that free Toxibinder.”
 
 </details>
 

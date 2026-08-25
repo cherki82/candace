@@ -4,9 +4,10 @@ description: "\"Justin Streiff also runs Winning Team Publishing, a company star
 statement_id: "statement-618d006894b7"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Winning Team Publishing identifies Sergio Gor and Donald Trump Jr. as its co-founders, confirming that portion. The company page does not identify Justin Streiff as an owner or executive, and current searches found no reliable public record establishing that he runs the company, although retail metadata associates his name with Charlie Kirk final book.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Winning Team Publishing: About Us](https://winningpublishing.com/pages/about-us)
+
+*Verified: 2026-08-25T08:20:21.581032*
 
 ---
 

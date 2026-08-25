@@ -4,9 +4,10 @@ description: "\"Golshifteh Farahani denied rumors of an affair with Emmanuel Mac
 statement_id: "statement-e20f7e724bd2"
 speaker: "Golshifteh Farahani"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -36,7 +37,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Current reporting states that Golshifteh Farahani denied rumors of an affair and described her connection with Emmanuel Macron as platonic. This verifies the narrow conveyance claim that she issued a denial, not whether the underlying relationship allegations are true or false.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [The Independent: Brigitte slap of Emmanuel sparked when she saw text from actress](https://www.the-independent.com/news/world/europe/brigitte-slap-emmanuel-macron-iran-actress-b2976061.html)
+
+*Verified: 2026-08-25T08:20:59.152812*
 
 ---
 

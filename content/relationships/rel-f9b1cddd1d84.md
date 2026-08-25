@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) worked with [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (8 mentions)
+### Evidence (9 mentions)
 
 **[Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY)**
 
@@ -28,6 +28,10 @@ object: "person-charlie-kirk"
 **[IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ)**
 
 - [00:19:05](/episodes/ep-GY6GWceEqtQ#t-00-19-05): _I signed on the dotted line to work beside Charlie Kirk because he built a company that I believed in._
+
+**[BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk)**
+
+- [00:32:08](/episodes/ep-MhakwJxK-Zk#t-00-32-08): _I went on tour every year with Charlie (Charlie Kirk)._
 
 **[Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw)**
 

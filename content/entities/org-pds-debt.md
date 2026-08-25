@@ -1,6 +1,6 @@
 ---
 title: "PDS Debt"
-description: "PDS Debt (Organizations) - 64 mentions"
+description: "PDS Debt (Organizations) - 69 mentions"
 id: "org-pds-debt"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-11">2025-09-25 · 00:25:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-org-pds-debt-t-00-20-46">2026-05-07 · 00:20:51</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>64</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-org-pds-debt-t-00-30-06">2026-05-28 · 00:30:06</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>69</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -53,6 +53,8 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-pds-debt-t-00-26-26" style="--pulse-height:50%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-org-pds-debt-t-00-33-55" style="--pulse-height:75%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 3 mentions" title="2026-04-22 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-org-pds-debt-t-00-19-22" style="--pulse-height:100%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 4 mentions" title="2026-05-07 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-pds-debt-t-00-28-03" style="--pulse-height:75%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 3 mentions" title="2026-05-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-org-pds-debt-t-00-29-27" style="--pulse-height:50%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -76,6 +78,8 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-pds-debt-t-00-26-26) | 2 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-pds-debt-t-00-33-55) | 3 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-org-pds-debt-t-00-19-22) | 4 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-pds-debt-t-00-28-03) | 3 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-pds-debt-t-00-29-27) | 2 |
 
 </details>
 </section>
@@ -83,7 +87,32 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (64)</strong></summary>
+<summary><strong class="section-title">Raw mentions (69)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (2 mentions)</summary>
+
+**[00:29:41](/episodes/ep-SKNJPul29zU.md#ent-org-pds-debt-t-00-29-27)**
+> "But PDS debt is the way out. They can reduce up to half of what you owe on credit cards, personal loans, and medical bills."
+
+**[00:30:06](/episodes/ep-SKNJPul29zU.md#ent-org-pds-debt-t-00-30-06)**
+> "... credit score is required for PDS debt. They are a top-rated company in the industry wit..."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (3 mentions)</summary>
+
+**[00:28:03](/episodes/ep-Pb7UlpRdW6U.md#ent-org-pds-debt-t-00-28-03)**
+> "...o want to tell you guys about PDS debt because maybe you are working hard every day, but..."
+
+**[00:28:17](/episodes/ep-Pb7UlpRdW6U.md#ent-org-pds-debt-t-00-28-03)**
+> "...e designed to keep you stuck. PDS debt is the way out."
+
+**[00:28:45](/episodes/ep-Pb7UlpRdW6U.md#ent-org-pds-debt-t-00-28-45)**
+> "...mum credit score is required. PDS Debt is the top rated company in the industry with tho..."
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (4 mentions)</summary>

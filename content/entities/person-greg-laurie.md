@@ -1,6 +1,6 @@
 ---
 title: "Greg Laurie"
-description: "Greg Laurie (People) - 11 mentions"
+description: "Greg Laurie (People) - 15 mentions"
 id: "person-greg-laurie"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-greg-laurie-t-00-13-35">2026-01-09 · 00:13:35</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-person-greg-laurie-t-00-47-18">2026-04-15 · 00:47:18</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-greg-laurie-t-01-19-11">2026-06-09 · 01:19:24</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -40,6 +40,7 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-greg-laurie-t-00-14-50" style="--pulse-height:17%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-person-greg-laurie-t-00-50-33" style="--pulse-height:17%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-greg-laurie-t-00-47-18" style="--pulse-height:17%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-person-greg-laurie-t-00-39-58" style="--pulse-height:67%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 4 mentions" title="2026-06-09 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-greg-laurie-t-00-14-50) | 1 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-greg-laurie-t-00-50-33) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-greg-laurie-t-00-47-18) | 1 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-greg-laurie-t-00-39-58) | 4 |
 
 </details>
 </section>
@@ -57,7 +59,24 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (4 mentions)</summary>
+
+**[00:40:07](/episodes/ep-YeEtS7nix3o.md#ent-person-greg-laurie-t-00-39-58)**
+> "...h the church, Harvest Church, Greg Laurie, as somebody that she was very involved with in t..."
+
+**[00:40:33](/episodes/ep-YeEtS7nix3o.md#ent-person-greg-laurie-t-00-40-33)**
+> "...place at the church I believe Greg Laurie's"
+
+**[00:40:58](/episodes/ep-YeEtS7nix3o.md#ent-person-greg-laurie-t-00-40-58)**
+> "...Marx said that his mentor was Greg Laurie. So they're all just kind of connected, all these..."
+
+**[01:19:24](/episodes/ep-YeEtS7nix3o.md#ent-person-greg-laurie-t-01-19-11)**
+> "Victor Marx, man, Greg Laurie, Erika Kirk, they're all creepy. They're all weir..."
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
@@ -126,9 +145,22 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 <summary>Appeared With (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:47:18](/episodes/ep-SubDoZWHARo.md#t-00-47-18): “Greg Laurie whose church Erika (Erika Kirk) went right on tour with him Harvest Church”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:40:07](/episodes/ep-YeEtS7nix3o.md#t-00-39-58): “Erika immediately going on tour with the church, Harvest Church, Greg Laurie, as somebody that she was very involved with in the faith community”
+
+</details>
+
+</details>
+
+<details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:19:24](/episodes/ep-YeEtS7nix3o.md#t-01-19-11): “Victor Marx, man, Greg Laurie, Erika Kirk, they're all creepy. They're all weird.”
 
 </details>
 
@@ -141,6 +173,18 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:33:28](/episodes/ep-ZZGWo6oDscc.md#t-00-33-28): “Here's an article which tells us that Greg Laurie, there's been a number of lawsuits filed against Harvest Christian Fellowship. The founder, Greg Laurie, and also the churches related to alleged abuse of young men at a children's home in Romania.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Mentored (1)</summary>
+
+- **[Victor Marx](/entities/person-victor-marx.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:40:58](/episodes/ep-YeEtS7nix3o.md#t-00-40-33): “someone emailed me and said that Victor Marx said that his mentor was Greg Laurie.”
 
 </details>
 
@@ -160,12 +204,20 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:47:18](/episodes/ep-SubDoZWHARo.md#t-00-47-18): “Greg Laurie whose church Erika (Erika Kirk) went right on tour with him Harvest Church”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:40:07](/episodes/ep-YeEtS7nix3o.md#t-00-39-58): “Erika immediately going on tour with the church, Harvest Church, Greg Laurie, as somebody that she was very involved with in the faith community”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:19:24](/episodes/ep-YeEtS7nix3o.md#t-01-19-11): “Victor Marx, man, Greg Laurie, Erika Kirk, they're all creepy. They're all weird.”
 
 </details>
 
@@ -184,6 +236,13 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 
 </details>
 
+- **[Victor Marx](/entities/person-victor-marx.md)** mentored by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:40:58](/episodes/ep-YeEtS7nix3o.md#t-00-40-33): “someone emailed me and said that Victor Marx said that his mentor was Greg Laurie.”
+
+</details>
+
 - **[Turning Point Faith](/entities/org-turning-point-faith.md)** worked with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -196,7 +255,15 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Greg Laurie (6)</strong></summary>
+<summary><strong class="section-title">Statements about Greg Laurie (7)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>
+
+- [00:40:33](/episodes/ep-YeEtS7nix3o.md#t-00-40-33) (Accusation) **Candace Owens**: ["Candace Owens said people allege Erika Kirk had involvement with traff..."](/statements/statement-44ca5e3085a2.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md), [Romania](/entities/gpe-romania.md)
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1)</summary>

@@ -1,24 +1,33 @@
 ---
 title: "Andrews Air Force Base"
-description: "Andrews Air Force Base (Places) - 7 mentions"
+description: "Andrews Air Force Base (Places) - 8 mentions"
 id: "gpe-andrews-air-force-base"
 type: "GPE"
 aliases:
   - "Andrews"
   - "Camp Springs"
+categories:
+  - "United States military installation"
+  - "Maryland"
 ---
 
 _Type: Places_
 
 **Also known as:** Andrews, Camp Springs
 
+**Categories:** United States military installation, Maryland
+
+**Entity verification:** verified
+> Joint Base Andrews' official history confirms Andrews Air Force Base as the installation's former name and the name used in the transcript.
+Source: [Joint Base Andrews History](https://www.jba.af.mil/About/Fact-Sheets/Display/Article/336384/joint-base-andrews-history/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-andrews-air-force-base-t-00-43-45">2025-12-10 · 00:43:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-andrews-air-force-base-t-00-40-05">2025-12-17 · 00:40:05</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-andrews-air-force-base-t-00-10-39">2026-05-26 · 00:10:53</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -29,6 +38,7 @@ _Type: Places_
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-andrews-air-force-base-t-00-43-45" style="--pulse-height:100%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 4 mentions" title="2025-12-10 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-andrews-air-force-base-t-00-34-25" style="--pulse-height:75%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 3 mentions" title="2025-12-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-andrews-air-force-base-t-00-10-39" style="--pulse-height:25%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -36,6 +46,7 @@ _Type: Places_
 |---|---|---:|
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-andrews-air-force-base-t-00-43-45) | 4 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-andrews-air-force-base-t-00-34-25) | 3 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-andrews-air-force-base-t-00-10-39) | 1 |
 
 </details>
 </section>
@@ -43,7 +54,15 @@ _Type: Places_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1 mentions)</summary>
+
+**[00:10:53](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-andrews-air-force-base-t-00-10-39)**
+> "Andrews Air Force Base"
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
@@ -86,7 +105,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrews Air Force Base (1)</strong></summary>
+<summary><strong class="section-title">Statements about Andrews Air Force Base (2)</strong></summary>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
+
+- [00:10:53](/episodes/ep-BxN2-aeMYIs.md#t-00-10-39) (Claim) **Candace Owens**: ["The plane then flew from El Paso to Andrews Air Force Base using the S..."](/statements/statement-9d5e1993fe2b.md)
+  - Also about: [United States Air Force](/entities/org-united-states-air-force.md), [El Paso](/entities/gpe-el-paso.md), [Special Air Mission](/entities/concept-special-air-mission.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>

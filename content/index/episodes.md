@@ -2,7 +2,7 @@
 title: "Episodes"
 ---
 
-_Total episodes: 116_
+_Total episodes: 125_
 
 <div class="page-filter-container">
   <input type="text" class="page-filter" placeholder="Filter episodes..." autocomplete="off">
@@ -27,8 +27,26 @@ _Total episodes: 116_
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md) — Fri, Aug 14
 
+## Week of Jun 08 - 14, 2026
+
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md) — Tue, Jun 09
+
+## Week of May 25 - 31, 2026
+
+- [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md) — Thu, May 28
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md) — Wed, May 27
+- [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md) — Tue, May 26
+
+## Week of May 18 - 24, 2026
+
+- [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md) — Thu, May 21
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md) — Wed, May 20
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md) — Tue, May 19
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md) — Mon, May 18
+
 ## Week of May 11 - 17, 2026
 
+- [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md) — Thu, May 14
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md) — Wed, May 13
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md) — Wed, May 13
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md) — Mon, May 11

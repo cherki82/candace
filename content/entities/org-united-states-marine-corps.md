@@ -1,6 +1,6 @@
 ---
 title: "United States Marine Corps"
-description: "United States Marine Corps (Organizations) - 45 mentions"
+description: "United States Marine Corps (Organizations) - 54 mentions"
 id: "org-united-states-marine-corps"
 type: "ORG"
 aliases:
@@ -26,37 +26,38 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#t-00-55-02">2025-09-22 · 00:55:07</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07">2026-08-14 · 03:04:07</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>45</strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>54</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>19</strong></div>
+<div><span>Statements about</span><strong>20</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-16-35">EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310</a> (8 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-united-states-marine-corps-t-00-04-30">LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ja26iltROkM.md#t-00-55-02" style="--pulse-height:12%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-united-states-marine-corps-t-00-16-19" style="--pulse-height:25%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-marine-corps-t-00-16-09" style="--pulse-height:12%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-united-states-marine-corps-t-00-26-10" style="--pulse-height:12%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#ent-org-united-states-marine-corps-t-00-17-16" style="--pulse-height:12%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-united-states-marine-corps-t-00-31-25" style="--pulse-height:12%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-united-states-marine-corps-t-01-27-19" style="--pulse-height:12%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-united-states-marine-corps-t-00-12-15" style="--pulse-height:12%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-united-states-marine-corps-t-00-27-22" style="--pulse-height:12%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-united-states-marine-corps-t-00-09-56" style="--pulse-height:50%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 4 mentions" title="2026-02-27 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-marine-corps-t-00-20-44" style="--pulse-height:38%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 3 mentions" title="2026-03-03 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-united-states-marine-corps-t-00-12-32" style="--pulse-height:50%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 4 mentions" title="2026-03-04 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-united-states-marine-corps-t-00-33-17" style="--pulse-height:12%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-marine-corps-t-00-05-32" style="--pulse-height:75%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 6 mentions" title="2026-03-10 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-16-35" style="--pulse-height:100%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 8 mentions" title="2026-03-11 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-united-states-marine-corps-t-00-15-03" style="--pulse-height:38%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-united-states-marine-corps-t-00-23-01" style="--pulse-height:38%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-jsqUIkszZd0.md#ent-org-united-states-marine-corps-t-00-15-12" style="--pulse-height:25%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07" style="--pulse-height:12%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#t-00-55-02" style="--pulse-height:11%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-united-states-marine-corps-t-00-16-19" style="--pulse-height:22%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-marine-corps-t-00-16-09" style="--pulse-height:11%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-united-states-marine-corps-t-00-26-10" style="--pulse-height:11%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-org-united-states-marine-corps-t-00-17-16" style="--pulse-height:11%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-united-states-marine-corps-t-00-31-25" style="--pulse-height:11%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-united-states-marine-corps-t-01-27-19" style="--pulse-height:11%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-united-states-marine-corps-t-00-12-15" style="--pulse-height:11%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-united-states-marine-corps-t-00-27-22" style="--pulse-height:11%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-united-states-marine-corps-t-00-09-56" style="--pulse-height:44%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 4 mentions" title="2026-02-27 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-marine-corps-t-00-20-44" style="--pulse-height:33%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 3 mentions" title="2026-03-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-united-states-marine-corps-t-00-12-32" style="--pulse-height:44%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 4 mentions" title="2026-03-04 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-united-states-marine-corps-t-00-33-17" style="--pulse-height:11%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-marine-corps-t-00-05-32" style="--pulse-height:67%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 6 mentions" title="2026-03-10 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-united-states-marine-corps-t-00-16-35" style="--pulse-height:89%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 8 mentions" title="2026-03-11 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-united-states-marine-corps-t-00-15-03" style="--pulse-height:33%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-united-states-marine-corps-t-00-23-01" style="--pulse-height:33%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-org-united-states-marine-corps-t-00-15-12" style="--pulse-height:22%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-united-states-marine-corps-t-00-04-30" style="--pulse-height:100%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 9 mentions" title="2026-05-19 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -80,6 +81,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-united-states-marine-corps-t-00-15-03) | 3 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-united-states-marine-corps-t-00-23-01) | 3 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-united-states-marine-corps-t-00-15-12) | 2 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-united-states-marine-corps-t-00-04-30) | 9 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07) | 1 |
 
 </details>
@@ -88,13 +90,45 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+<summary><strong class="section-title">Raw mentions (54)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[03:04:07](/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07)**
 > "...ing forward uh we have former marines that have gotten on and said it looks to me like ..."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (9 mentions)</summary>
+
+**[00:04:50](/episodes/ep-Dkxa9OUA9K8.md#ent-org-united-states-marine-corps-t-00-04-30)**
+> "...ctor (Victor Marx) joined the Marine Corps, served for two years before he was discharged. A..."
+
+**[00:23:11](/episodes/ep-Dkxa9OUA9K8.md#ent-org-united-states-marine-corps-t-00-23-11)**
+> "...d moved it here. Regarding my Marine Corps time, this is one of the most flagrant misnumbers..."
+
+**[00:23:29](/episodes/ep-Dkxa9OUA9K8.md#ent-org-united-states-marine-corps-t-00-23-11)**
+> "... only served two years in the Marine Corps. Do you stand by that?"
+
+**[00:24:05](/episodes/ep-Dkxa9OUA9K8.md#ent-org-united-states-marine-corps-t-00-23-48)**
+> "...d States when I served in the Marine Corps. Will you offer me an apology for that?"
+
+**[00:24:26](/episodes/ep-Dkxa9OUA9K8.md#ent-org-united-states-marine-corps-t-00-24-26)**
+> "my Marine Corps time. I would appreciate an apology."
+
+**[00:24:36](/episodes/ep-Dkxa9OUA9K8.md#ent-org-united-states-marine-corps-t-00-24-36)**
+> "...ing my time in service in the Marine Corps, and you"
+
+**[00:36:51](/episodes/ep-Dkxa9OUA9K8.md#ent-org-united-states-marine-corps-t-00-36-33)**
+> "...this as a new believer in the Marine Corps to find out why are people so evil?"
+
+**[00:52:02](/episodes/ep-Dkxa9OUA9K8.md#ent-org-united-states-marine-corps-t-00-52-02)**
+> "... it, you know, my time in the Marine Corps."
+
+**[00:52:11](/episodes/ep-Dkxa9OUA9K8.md#ent-org-united-states-marine-corps-t-00-52-02)**
+> "Marine Corps. I served under President Reagan. My wife and I s..."
 
 </details>
 
@@ -350,9 +384,10 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 </details>
 
 - **[Victor Marx](/entities/person-victor-marx.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:15:17](/episodes/ep-jsqUIkszZd0.md#t-00-15-12): “At the age of 18, Victor (Victor Marx) joined the Marine Corps. To be clear, he only served for two years during peacetime stateside, no deployments before he was discharged.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:24:05](/episodes/ep-Dkxa9OUA9K8.md#t-00-23-48): “representing my service to the United States when I served in the Marine Corps. Will you offer me an apology for that?”
 
 </details>
 
@@ -409,9 +444,10 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 </details>
 
 - **[Victor Marx](/entities/person-victor-marx.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:15:17](/episodes/ep-jsqUIkszZd0.md#t-00-15-12): “At the age of 18, Victor (Victor Marx) joined the Marine Corps. To be clear, he only served for two years during peacetime stateside, no deployments before he was discharged.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:24:05](/episodes/ep-Dkxa9OUA9K8.md#t-00-23-48): “representing my service to the United States when I served in the Marine Corps. Will you offer me an apology for that?”
 
 </details>
 
@@ -445,7 +481,15 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Marine Corps (19)</strong></summary>
+<summary><strong class="section-title">Statements about United States Marine Corps (20)</strong></summary>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1)</summary>
+
+- [00:23:42](/episodes/ep-Dkxa9OUA9K8.md#t-00-23-42) (Claim) **Victor Marx**: ["Victor Marx says his DD Form 214 shows that he served three years in t..."](/statements/statement-6b2b95af6793.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md)
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>

@@ -4,9 +4,10 @@ description: "\"After the White House Military Office's attempt to rescind the e
 statement_id: "statement-7d65c0155b8e"
 speaker: "Anonymous Source #2 (Ep 7FS1tUeSfdE)"
 type: "accusation"
+veracity: "unverifiable"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ? Cannot be verified
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The transcript attributes the deletion and added IT claims to an anonymous source and supplies no original emails or identified witnesses. Current reporting merely repeats the allegation; no authenticated record or independent confirmation was found.
+
+**Confidence:** Low
+
+**Sources:**
+
+- [Catholics for Catholics: White House Military Office Allegedly Sent Email Praising Erika Kirk Exit Video](https://cforc.com/2026/05/white-house-military-office-allegedly-sent-email-praising-erika-kirk-exit-video-as-a-pr-success-the-night-of-correspondents-dinner-shooting/)
+
+*Verified: 2026-08-25T08:19:43.190656*
 
 ---
 

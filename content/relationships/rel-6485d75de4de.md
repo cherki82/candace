@@ -11,7 +11,7 @@ object: "person-justin-streiff"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) employs [Justin Streiff](/entities/person-justin-streiff)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4)**
 
@@ -20,6 +20,10 @@ object: "person-justin-streiff"
 **[OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw)**
 
 - [00:18:10](/episodes/ep-X92MllIHDzw#t-00-18-10): _I instantly reached out to somebody at Turning Point USA ... Justin Streiff_
+
+**[I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o)**
+
+- [01:06:30](/episodes/ep-YeEtS7nix3o#t-01-06-30): _I messaged Justin Streif, and I messaged the lawyer that they use to answer questions. These are, you know, top brass, so to speak, at Turning Point USA who could give an official response._
 
 **[Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8)**
 

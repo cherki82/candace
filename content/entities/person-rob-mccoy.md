@@ -1,6 +1,6 @@
 ---
 title: "Rob McCoy"
-description: "Rob McCoy (People) - 160 mentions"
+description: "Rob McCoy (People) - 161 mentions"
 id: "person-rob-mccoy"
 type: "PERSON"
 aliases:
@@ -26,12 +26,12 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-rob-mccoy-t-00-56-12">2025-09-17 · 00:56:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-person-rob-mccoy-t-00-47-55">2026-04-15 · 00:47:55</a></strong></div>
-<div><span>Episodes</span><strong>38</strong></div>
-<div><span>Mentions</span><strong>160</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-rob-mccoy-t-00-29-56">2026-05-27 · 00:30:09</a></strong></div>
+<div><span>Episodes</span><strong>39</strong></div>
+<div><span>Mentions</span><strong>161</strong></div>
 <div><span>Statements by</span><strong>9</strong></div>
 <div><span>Statements about</span><strong>36</strong></div>
-<div><span>Relationships</span><strong>46</strong></div>
+<div><span>Relationships</span><strong>48</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -77,6 +77,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-rob-mccoy-t-00-33-09" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#t-00-40-49" style="--pulse-height:8%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-rob-mccoy-t-00-47-55" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-rob-mccoy-t-00-29-56" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -120,6 +121,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-rob-mccoy-t-00-33-09) | 1 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#t-00-40-49) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-rob-mccoy-t-00-47-55) | 1 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-rob-mccoy-t-00-29-56) | 1 |
 
 </details>
 </section>
@@ -127,7 +129,15 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (160)</strong></summary>
+<summary><strong class="section-title">Raw mentions (161)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
+
+**[00:30:09](/episodes/ep-MhakwJxK-Zk.md#ent-person-rob-mccoy-t-00-29-56)**
+> "On July 2nd, Rob McCoy formally resigns as the lead pastor of Calvary Ch..."
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
@@ -916,6 +926,18 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 <details>
+<summary>Formerly Worked For (1)</summary>
+
+- **[Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:30:09](/episodes/ep-MhakwJxK-Zk.md#t-00-29-56): “On July 2nd, Rob McCoy formally resigns as the lead pastor of Calvary Church.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Friend Of (1)</summary>
 
 - **[Thomas Michael Camino](/entities/person-thomas-michael-camino.md)**
@@ -1061,7 +1083,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 <details>
-<summary>Referenced By (23)</summary>
+<summary>Referenced By (24)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1144,6 +1166,13 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:03:48](/episodes/ep-7RLtGgkTh9o.md#t-00-03-30): “Rob McCoy being the lead pastor in Thousand Oaks—one of their many churches across the United States”
+
+</details>
+
+- **[Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:30:09](/episodes/ep-MhakwJxK-Zk.md#t-00-29-56): “On July 2nd, Rob McCoy formally resigns as the lead pastor of Calvary Church.”
 
 </details>
 

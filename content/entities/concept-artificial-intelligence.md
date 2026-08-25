@@ -1,6 +1,6 @@
 ---
 title: "Artificial intelligence"
-description: "Artificial intelligence (Concepts) - 100 mentions"
+description: "Artificial intelligence (Concepts) - 140 mentions"
 id: "concept-artificial-intelligence"
 type: "CONCEPT"
 aliases:
@@ -22,11 +22,11 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#t-00-11-36">2026-01-05 · 00:12:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#t-00-43-19">2026-05-13 · 00:43:19</a></strong></div>
-<div><span>Episodes</span><strong>29</strong></div>
-<div><span>Mentions</span><strong>100</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#t-01-19-52">2026-06-09 · 01:20:26</a></strong></div>
+<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>140</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Statements about</span><strong>27</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -64,6 +64,13 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 <a href="/episodes/ep-KpxIBWkNsSs.md#t-00-05-03" style="--pulse-height:79%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 11 mentions" title="2026-05-11 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#t-00-36-33" style="--pulse-height:100%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 14 mentions" title="2026-05-13 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#t-00-05-00" style="--pulse-height:8%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-concept-artificial-intelligence-t-00-20-02" style="--pulse-height:64%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 9 mentions" title="2026-05-14 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#t-00-00-01" style="--pulse-height:71%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 10 mentions" title="2026-05-18 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#t-01-02-05" style="--pulse-height:8%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#t-00-18-05" style="--pulse-height:14%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 2 mentions" title="2026-05-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#t-00-16-19" style="--pulse-height:29%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 4 mentions" title="2026-05-26 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#t-00-58-55" style="--pulse-height:21%" aria-label="Candace Owens x Ana Kasparian: 3 mentions" title="2026-05-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#t-00-00-44" style="--pulse-height:71%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 10 mentions" title="2026-06-09 · 10 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -98,6 +105,13 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#t-00-05-03) | 11 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#t-00-36-33) | 14 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#t-00-05-00) | 1 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-artificial-intelligence-t-00-20-02) | 9 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#t-00-00-01) | 10 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#t-01-02-05) | 1 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#t-00-18-05) | 2 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#t-00-16-19) | 4 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#t-00-58-55) | 3 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#t-00-00-44) | 10 |
 
 </details>
 </section>
@@ -105,7 +119,159 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (100)</strong></summary>
+<summary><strong class="section-title">Raw mentions (140)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (10 mentions)</summary>
+
+**[00:01:02](/episodes/ep-YeEtS7nix3o.md#t-00-00-44)**
+> "...The photo on our thumbnail is AI."
+
+**[01:00:01](/episodes/ep-YeEtS7nix3o.md#t-00-59-53)**
+> "...e people would say But it was AI."
+
+**[01:00:20](/episodes/ep-YeEtS7nix3o.md#t-00-59-53)**
+> "...Turning Point USA of creating AI videos of Charlie prior to."
+
+**[01:00:31](/episodes/ep-YeEtS7nix3o.md#t-00-59-53)**
+> "...hey, wait a minute. These are AI."
+
+**[01:00:36](/episodes/ep-YeEtS7nix3o.md#t-01-00-36)**
+> "...ic video would be received as AI? It was almost as though Blake Neff knew somethin..."
+
+**[01:01:38](/episodes/ep-YeEtS7nix3o.md#t-01-01-21)**
+> "...ept it. They would say it was AI. Then they moved to do something even stranger. A..."
+
+**[01:08:06](/episodes/ep-YeEtS7nix3o.md#t-01-07-51)**
+> "...o be able to share it because AI tools could have been used to doctor that footage..."
+
+**[01:09:21](/episodes/ep-YeEtS7nix3o.md#t-01-09-14)**
+> "... relationships with all these AI companies following his death who specialize in m..."
+
+**[01:16:57](/episodes/ep-YeEtS7nix3o.md#t-01-16-57)**
+> "...omething or is all of it just AI just drop it in its full context"
+
+**[01:20:26](/episodes/ep-YeEtS7nix3o.md#t-01-19-52)**
+> "...elves so that people who know AI tools can assess it better."
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (3 mentions)</summary>
+
+**[00:58:55](/episodes/ep-SKNJPul29zU.md#t-00-58-55)**
+> "...o that hasn't existed yet the AI alleged"
+
+**[00:59:06](/episodes/ep-SKNJPul29zU.md#t-00-59-06)**
+> "AI of Charlie (Charlie Kirk) saying I appoint Erika ..."
+
+**[01:02:38](/episodes/ep-SKNJPul29zU.md#t-01-02-38)**
+> "is AI okay that's a very big claim that I am making rig..."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (4 mentions)</summary>
+
+**[00:16:30](/episodes/ep-BxN2-aeMYIs.md#t-00-16-19)**
+> "an AI generated video"
+
+**[00:27:15](/episodes/ep-BxN2-aeMYIs.md#t-00-27-05)**
+> "... guys, right now, the biggest AI data centers in history are being built and they ..."
+
+**[00:27:29](/episodes/ep-BxN2-aeMYIs.md#t-00-27-05)**
+> "...make you invisible online. As AI becomes more advanced, your personal information ..."
+
+**[00:34:26](/episodes/ep-BxN2-aeMYIs.md#t-00-34-26)**
+> "... nights of no response to the AI, alleged AI video of Charlie Kirk appointing Erik..."
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (2 mentions)</summary>
+
+**[00:18:28](/episodes/ep-cPidFQDJLbo.md#t-00-18-05)**
+> "not something that he actually said outside of AI tools"
+
+**[00:31:05](/episodes/ep-cPidFQDJLbo.md#t-00-30-54)**
+> "the Daily Mail in their investigation into the AI video"
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1 mentions)</summary>
+
+**[01:02:29](/episodes/ep-Dkxa9OUA9K8.md#t-01-02-05)**
+> "...e can watch that. It's either AI or a bunch of people that are paid."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (10 mentions)</summary>
+
+**[00:00:33](/episodes/ep-1QZ4X6q1DPg.md#t-00-00-01)**
+> "...bably exists, but it's likely AI, according to me and people with brain cells. We ..."
+
+**[00:03:44](/episodes/ep-1QZ4X6q1DPg.md#t-00-03-44)**
+> "...u guys. It is real. It is not AI. It happened. He wanted to take Brigitte doll. I ..."
+
+**[00:14:14](/episodes/ep-1QZ4X6q1DPg.md#t-00-14-14)**
+> "...y that Turning Point USA used AI tools to add a sentence that Charlie (Charlie Kir..."
+
+**[00:15:09](/episodes/ep-1QZ4X6q1DPg.md#t-00-14-50)**
+> "...f we are correct and this was AI and they thought through this, we could be lookin..."
+
+**[00:21:13](/episodes/ep-1QZ4X6q1DPg.md#t-00-20-47)**
+> "...with meeting with a Hollywood AI company, what a free market organization would be..."
+
+**[00:22:05](/episodes/ep-1QZ4X6q1DPg.md#t-00-21-32)**
+> "... companies that specialize in AI?"
+
+**[00:22:17](/episodes/ep-1QZ4X6q1DPg.md#t-00-22-17)**
+> "... not what he is looking at is AI."
+
+**[00:22:31](/episodes/ep-1QZ4X6q1DPg.md#t-00-22-17)**
+> "Because AI can be uncanny. We all know this. You can go on t..."
+
+**[00:25:11](/episodes/ep-1QZ4X6q1DPg.md#t-00-25-00)**
+> "... the video must be made using AI exactly as I said she would."
+
+**[00:43:45](/episodes/ep-1QZ4X6q1DPg.md#t-00-43-45)**
+> "...ke sense to me if this is for AI or for ChatGPT that it seems to be the pretense. ..."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (9 mentions)</summary>
+
+**[00:18:16](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-artificial-intelligence-t-00-20-02)**
+> "The Stratos Artificial Intelligence Data Center footprint will cover more than 40,000..."
+
+**[00:20:13](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-artificial-intelligence-t-00-20-02)**
+> "high-powered artificial intelligence centers all across the united states that's what'..."
+
+**[00:21:26](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-artificial-intelligence-t-00-20-02)**
+> "I mean, it seems like AI will make it possible to know what every American..."
+
+**[00:21:34](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-artificial-intelligence-t-00-20-02)**
+> "I would say that it's not AI that's going to do that. I would say now with the..."
+
+**[00:22:04](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-artificial-intelligence-t-00-20-02)**
+> "...ancement of surveillance with AI tools is how you now walk through."
+
+**[00:23:19](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-artificial-intelligence-t-00-20-02)**
+> "... the nefarious concerns about AI, which outcome do you prefer as an American?"
+
+**[00:26:13](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-artificial-intelligence-t-00-20-02)**
+> "... messaging to the public, the AI video of Charlie (Charlie Kirk)'s voice appointin..."
+
+**[00:29:22](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-artificial-intelligence-t-00-20-02)**
+> "...se Silicon bros. the race for AI technology and there's definitely going to be som..."
+
+**[00:42:17](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-artificial-intelligence-t-00-20-02)**
+> "That's not AI? Okay. That is Trump (Donald Trump)'s statue cere..."
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (14 mentions)</summary>
@@ -559,7 +725,54 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Artificial intelligence (18)</strong></summary>
+<summary><strong class="section-title">Statements about Artificial intelligence (27)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>
+
+- [01:09:21](/episodes/ep-YeEtS7nix3o.md#t-01-09-14) (Claim) **Candace Owens**: ["Candace Owens said Turning Point USA entered relationships with AI com..."](/statements/statement-4690a699415f.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (3)</summary>
+
+- [00:16:30](/episodes/ep-BxN2-aeMYIs.md#t-00-16-19) (Accusation) **Gabrielle Cuccia** (via quoted post): ["I was told the script would be used to create an AI-generated video on..."](/statements/statement-7ec3b76ed013.md)
+  - Also about: [White House](/entities/org-white-house.md), [National Security Council](/entities/org-national-security-council.md), [Sebastian Gorka](/entities/person-sebastian-gorka.md)
+
+- [00:23:55](/episodes/ep-BxN2-aeMYIs.md#t-00-23-29) (Citation) **Gabrielle Cuccia** (via quoted post): ["The VFT documents discuss burner profiles, burner ad accounts, AI-gene..."](/statements/statement-aab2782adaef.md)
+  - Also about: [Vine & Fig Tree Institute I, Inc.](/entities/org-vine-and-fig-tree-institute.md)
+
+- [00:34:26](/episodes/ep-BxN2-aeMYIs.md#t-00-34-26) (Accusation) **Candace Owens**: ["Turning Point USA had gone 54 days without responding to requests for ..."](/statements/statement-8ec162db4844.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (3)</summary>
+
+- [00:00:33](/episodes/ep-1QZ4X6q1DPg.md#t-00-00-01) (Accusation) **Candace Owens**: ["The video presented as Charlie Kirk appointing Erika Kirk as Turning P..."](/statements/statement-1337d9120068.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:14:14](/episodes/ep-1QZ4X6q1DPg.md#t-00-13-29) (Accusation) **Candace Owens**: ["Candace Owens said the source account would imply that Turning Point U..."](/statements/statement-b43063c8d884.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:21:13](/episodes/ep-1QZ4X6q1DPg.md#t-00-20-47) (Accusation) **Candace Owens**: ["Turning Point USA had been meeting with a Hollywood AI company that cr..."](/statements/statement-3a67625c2a59.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (2)</summary>
+
+- [00:22:04](/episodes/ep-Pb7UlpRdW6U.md#t-00-22-04) (Claim) **Kevin O'Leary** (via quoted speech): ["AI-enhanced facial-recognition technology has reached the resolution t..."](/statements/statement-ce0817c52ca6.md)
+  - Also about: [Digital identity](/entities/concept-digital-identity.md), [Dubai](/entities/gpe-dubai.md), [United States](/entities/gpe-united-states.md)
+
+- [00:26:13](/episodes/ep-Pb7UlpRdW6U.md#t-00-25-41) (Accusation) **Candace Owens**: ["An alleged AI-generated video used Charlie Kirk's voice to appoint Eri..."](/statements/statement-71a610e28562.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Harvest Christian Fellowship"
-description: "Harvest Christian Fellowship (Organizations) - 12 mentions"
+description: "Harvest Christian Fellowship (Organizations) - 13 mentions"
 id: "org-harvest-christian-fellowship"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-harvest-christian-fellowship-t-00-13-35">2026-01-09 · 00:13:35</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-org-harvest-christian-fellowship-t-00-47-18">2026-04-15 · 00:47:18</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-org-harvest-christian-fellowship-t-00-39-58">2026-06-09 · 00:40:07</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -41,6 +41,7 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-harvest-christian-fellowship-t-00-41-40" style="--pulse-height:29%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-harvest-christian-fellowship-t-00-50-33" style="--pulse-height:14%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-org-harvest-christian-fellowship-t-00-47-18" style="--pulse-height:14%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-org-harvest-christian-fellowship-t-00-39-58" style="--pulse-height:14%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-harvest-christian-fellowship-t-00-41-40) | 2 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-harvest-christian-fellowship-t-00-50-33) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-harvest-christian-fellowship-t-00-47-18) | 1 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-harvest-christian-fellowship-t-00-39-58) | 1 |
 
 </details>
 </section>
@@ -58,7 +60,15 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>
+
+**[00:40:07](/episodes/ep-YeEtS7nix3o.md#ent-org-harvest-christian-fellowship-t-00-39-58)**
+> "...oing on tour with the church, Harvest Church, Greg Laurie, as somebody that she was very invol..."
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
@@ -200,12 +210,19 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (8)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:32:53](/episodes/ep-ZZGWo6oDscc.md#t-00-32-45): “which is why she's soon going to be speaking with Greg Laurie's Harvest Church for Turning Point USA's Faith Make Heaven Crowded Tour, okay? I can show you that. I think we have that here on the website so you can see if this is a real thing that's happening. And yeah, they're partnering with the Harvest Church to do this. It says that she is going to be speaking in, is that live streamed in Orange County?”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** affiliated with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:40:07](/episodes/ep-YeEtS7nix3o.md#t-00-39-58): “Erika immediately going on tour with the church, Harvest Church, Greg Laurie, as somebody that she was very involved with in the faith community”
 
 </details>
 
@@ -257,7 +274,15 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Harvest Christian Fellowship (6)</strong></summary>
+<summary><strong class="section-title">Statements about Harvest Christian Fellowship (7)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>
+
+- [00:40:33](/episodes/ep-YeEtS7nix3o.md#t-00-40-33) (Accusation) **Candace Owens**: ["Candace Owens said people allege Erika Kirk had involvement with traff..."](/statements/statement-44ca5e3085a2.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Greg Laurie](/entities/person-greg-laurie.md), [Romania](/entities/gpe-romania.md)
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1)</summary>

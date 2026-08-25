@@ -1,6 +1,6 @@
 ---
 title: "Joe Rogan"
-description: "Joe Rogan (People) - 27 mentions"
+description: "Joe Rogan (People) - 35 mentions"
 id: "person-joe-rogan"
 type: "PERSON"
 categories:
@@ -19,30 +19,32 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-person-joe-rogan-t-00-02-20">2025-10-27 · 00:02:20</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-rogan-t-02-57-14">2026-08-14 · 02:57:14</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>27</strong></div>
-<div><span>Statements by</span><strong>5</strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Statements by</span><strong>8</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-rogan-t-00-24-41">Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-cPidFQDJLbo.md#ent-person-joe-rogan-t-00-37-43">TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-c5BcKF91iec.md#ent-person-joe-rogan-t-00-02-20" style="--pulse-height:50%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 2 mentions" title="2025-10-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-joe-rogan-t-00-15-41" style="--pulse-height:50%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 2 mentions" title="2025-11-03 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-joe-rogan-t-00-36-19" style="--pulse-height:50%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-joe-rogan-t-00-45-44" style="--pulse-height:75%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-k8ueJdPFel4.md#ent-person-joe-rogan-t-00-39-38" style="--pulse-height:25%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-joe-rogan-t-01-01-45" style="--pulse-height:25%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-joe-rogan-t-00-40-17" style="--pulse-height:50%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-joe-rogan-t-00-26-45" style="--pulse-height:50%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-joe-rogan-t-00-26-31" style="--pulse-height:25%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-joe-rogan-t-00-06-43" style="--pulse-height:25%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-joe-rogan-t-00-27-42" style="--pulse-height:25%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-rogan-t-00-24-41" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-person-joe-rogan-t-00-02-20" style="--pulse-height:29%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 2 mentions" title="2025-10-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-joe-rogan-t-00-15-41" style="--pulse-height:29%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 2 mentions" title="2025-11-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-joe-rogan-t-00-36-19" style="--pulse-height:29%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-joe-rogan-t-00-45-44" style="--pulse-height:43%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-person-joe-rogan-t-00-39-38" style="--pulse-height:14%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-joe-rogan-t-01-01-45" style="--pulse-height:14%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-joe-rogan-t-00-40-17" style="--pulse-height:29%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-joe-rogan-t-00-26-45" style="--pulse-height:29%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-joe-rogan-t-00-26-31" style="--pulse-height:14%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-joe-rogan-t-00-06-43" style="--pulse-height:14%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-joe-rogan-t-00-27-42" style="--pulse-height:14%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-person-joe-rogan-t-00-37-43" style="--pulse-height:100%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 7 mentions" title="2026-05-20 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-joe-rogan-t-00-43-09" style="--pulse-height:14%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-rogan-t-00-24-41" style="--pulse-height:57%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -59,6 +61,8 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-joe-rogan-t-00-26-31) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-joe-rogan-t-00-06-43) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-joe-rogan-t-00-27-42) | 1 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-joe-rogan-t-00-37-43) | 7 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-joe-rogan-t-00-43-09) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-rogan-t-00-24-41) | 4 |
 
 </details>
@@ -67,7 +71,7 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -83,6 +87,40 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 
 **[02:57:14](/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-rogan-t-02-57-14)**
 > "joe rogan and you're like like soft explaining away why eri..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
+
+**[00:43:28](/episodes/ep-MhakwJxK-Zk.md#ent-person-joe-rogan-t-00-43-09)**
+> "...ou can't look at thousands of Joe Rogan's catalog available on Apple and Spotify and wherev..."
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (7 mentions)</summary>
+
+**[00:38:22](/episodes/ep-cPidFQDJLbo.md#ent-person-joe-rogan-t-00-37-43)**
+> "I obviously like Joe Rogan."
+
+**[00:38:34](/episodes/ep-cPidFQDJLbo.md#ent-person-joe-rogan-t-00-38-27)**
+> "... it was a few months ago that Joe Rogan had discussed Theo (Theo Von) when he was sitting..."
+
+**[00:39:01](/episodes/ep-cPidFQDJLbo.md#ent-person-joe-rogan-t-00-39-01)**
+> "...on was not in the presence of Joe Rogan, and he was sitting across from someone discussin..."
+
+**[00:39:13](/episodes/ep-cPidFQDJLbo.md#ent-person-joe-rogan-t-00-39-01)**
+> "And this is what Joe Rogan said, and it caused quite a bit of backlash. Take..."
+
+**[00:40:47](/episodes/ep-cPidFQDJLbo.md#ent-person-joe-rogan-t-00-40-47)**
+> "...n that I very much agree with Joe Rogan on, which is the very end, which didn't require a..."
+
+**[00:42:28](/episodes/ep-cPidFQDJLbo.md#ent-person-joe-rogan-t-00-42-28)**
+> "...really love, though, was that Joe Rogan is never done in the history of his show where he..."
+
+**[00:45:16](/episodes/ep-cPidFQDJLbo.md#ent-person-joe-rogan-t-00-42-28)**
+> "...t thing I've ever seen on the Joe Rogan experience because it was basically what Theo (Th..."
 
 </details>
 
@@ -232,6 +270,18 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 </details>
 
 <details>
+<summary>Friend Of (1)</summary>
+
+- **[Theo Von](/entities/person-theo-von.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:44:33](/episodes/ep-cPidFQDJLbo.md#t-00-44-33): “Theo (Theo Von)'s very important to me. He's an awesome person, a great friend, and one of the most interesting and funny people I've ever met in my life. And I just felt terrible about it. And I told him I'd never bring it up publicly again. But I think it is important to let people know that aspect of it.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Interviewed (1)</summary>
 
 - **[Peter Thiel](/entities/person-peter-thiel.md)**
@@ -244,7 +294,7 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Mark Levin](/entities/person-mark-levin.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -267,6 +317,13 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 
 </details>
 
+- **[Theo Von](/entities/person-theo-von.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:44:33](/episodes/ep-cPidFQDJLbo.md#t-00-44-33): “Theo (Theo Von)'s very important to me. He's an awesome person, a great friend, and one of the most interesting and funny people I've ever met in my life. And I just felt terrible about it. And I told him I'd never bring it up publicly again. But I think it is important to let people know that aspect of it.”
+
+</details>
+
 - **[Peter Thiel](/entities/person-peter-thiel.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -279,7 +336,21 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Joe Rogan (5)</strong></summary>
+<summary><strong class="section-title">Statements by Joe Rogan (8)</strong></summary>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (3)</summary>
+
+- [00:40:25](/episodes/ep-cPidFQDJLbo.md#t-00-40-04) [◐] (Claim) ["The chemical-imbalance explanation for SSRIs is not real; recent studies show th..."](/statements/statement-921e5c7945f7.md)
+  - About: [Selective serotonin reuptake inhibitors](/entities/concept-selective-serotonin-reuptake-inhibitors.md)
+
+- [00:43:09](/episodes/ep-cPidFQDJLbo.md#t-00-43-09) [✓] (Claim) ["I apologized to Theo Von for the way I talked about him publicly; I was not tryi..."](/statements/statement-3cc346397d6f.md)
+  - About: [Theo Von](/entities/person-theo-von.md)
+
+- [00:44:33](/episodes/ep-cPidFQDJLbo.md#t-00-44-33) [✓] (Promise) ["I told Theo Von I would never bring the matter up publicly again."](/statements/statement-d867579b7dc5.md)
+  - About: [Theo Von](/entities/person-theo-von.md)
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (3)</summary>

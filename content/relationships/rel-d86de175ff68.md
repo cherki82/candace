@@ -11,7 +11,11 @@ object: "person-charlie-kirk"
 
 ## [Kash Patel](/entities/person-kash-patel) interviewed by [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws)**
+
+- [00:59:59](/episodes/ep-Ux1kzgQxkws#t-00-59-59): _Kash Patel, who Charlie pushed for him to lead the FBI, had him on his podcast._
 
 **[INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0)**
 

@@ -1,6 +1,6 @@
 ---
 title: "China"
-description: "China (Places) - 49 mentions"
+description: "China (Places) - 55 mentions"
 id: "gpe-china"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-42">2025-10-01 · 00:30:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-china-t-00-47-55">2026-04-15 · 00:48:17</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>49</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-china-t-00-43-45">2026-05-18 · 00:43:45</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>55</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -44,6 +44,8 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-china-t-00-12-32" style="--pulse-height:27%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 3 mentions" title="2026-03-11 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-china-t-00-27-09" style="--pulse-height:18%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-china-t-00-47-55" style="--pulse-height:18%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-china-t-00-19-21" style="--pulse-height:45%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 5 mentions" title="2026-05-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-china-t-00-43-45" style="--pulse-height:9%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +64,8 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-china-t-00-12-32) | 3 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-china-t-00-27-09) | 2 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-china-t-00-47-55) | 2 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-china-t-00-19-21) | 5 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-china-t-00-43-45) | 1 |
 
 </details>
 </section>
@@ -69,7 +73,35 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>
+
+**[00:43:45](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-china-t-00-43-45)**
+> "...ing to achieve. We want to be China."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (5 mentions)</summary>
+
+**[00:19:21](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-china-t-00-19-21)**
+> "...f we're going to compete with China. That's the pitch you're going to compete with Ch..."
+
+**[00:20:13](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-china-t-00-20-02)**
+> "...te like i said they want what china has they want to monitor all of us you're seeing ..."
+
+**[00:23:44](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-china-t-00-23-44)**
+> "Yeah, because I don't live in China. So you can just move to China and compete with p..."
+
+**[00:23:51](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-china-t-00-23-44)**
+> "...stead of turning America into China. Um, as I said, we are looking at an unholy allia..."
+
+**[00:39:55](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-china-t-00-39-55)**
+> "...reen beret i'm terrified that china represents a threat not because of their data cen..."
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (2 mentions)</summary>
@@ -316,7 +348,15 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about China (13)</strong></summary>
+<summary><strong class="section-title">Statements about China (14)</strong></summary>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1)</summary>
+
+- [00:19:21](/episodes/ep-Pb7UlpRdW6U.md#t-00-18-36) (Opinion) **Candace Owens**: ["The U.S. government is competing with China to create a surveillance s..."](/statements/statement-bb1b456401a1.md)
+  - Also about: [United States](/entities/gpe-united-states.md), [Surveillance state](/entities/concept-surveillance-state.md)
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1)</summary>

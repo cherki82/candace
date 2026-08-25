@@ -1,6 +1,6 @@
 ---
 title: "Las Vegas, Nevada"
-description: "Las Vegas, Nevada (Places) - 57 mentions"
+description: "Las Vegas, Nevada (Places) - 62 mentions"
 id: "gpe-las-vegas-nevada"
 type: "GPE"
 aliases:
@@ -25,11 +25,11 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-las-vegas-nevada-t-00-20-48">2025-11-10 · 00:21:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-gpe-las-vegas-nevada-t-00-39-46">2026-05-07 · 00:40:12</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>57</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-las-vegas-nevada-t-00-49-24">2026-05-28 · 00:49:24</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>62</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -56,6 +56,8 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-las-vegas-nevada-t-00-34-43" style="--pulse-height:10%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-las-vegas-nevada-t-00-41-16" style="--pulse-height:10%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-gpe-las-vegas-nevada-t-00-24-18" style="--pulse-height:20%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 2 mentions" title="2026-05-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-las-vegas-nevada-t-00-12-32" style="--pulse-height:10%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-las-vegas-nevada-t-00-44-26" style="--pulse-height:40%" aria-label="Candace Owens x Ana Kasparian: 4 mentions" title="2026-05-28 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -79,6 +81,8 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-las-vegas-nevada-t-00-34-43) | 1 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-las-vegas-nevada-t-00-41-16) | 1 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-gpe-las-vegas-nevada-t-00-24-18) | 2 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-las-vegas-nevada-t-00-12-32) | 1 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-las-vegas-nevada-t-00-44-26) | 4 |
 
 </details>
 </section>
@@ -86,7 +90,32 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (57)</strong></summary>
+<summary><strong class="section-title">Raw mentions (62)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (4 mentions)</summary>
+
+**[00:44:26](/episodes/ep-SKNJPul29zU.md#ent-gpe-las-vegas-nevada-t-00-44-26)**
+> "But that's also, by the way, what I think is wrong with Kash Patel. He's from Las Vegas."
+
+**[00:44:30](/episodes/ep-SKNJPul29zU.md#ent-gpe-las-vegas-nevada-t-00-44-26)**
+> "Las Vegas is a gambling empire. That's it. They own Vegas. ..."
+
+**[00:44:44](/episodes/ep-SKNJPul29zU.md#ent-gpe-las-vegas-nevada-t-00-44-44)**
+> "...n I learned Kash Patel's from Las Vegas—of course, obviously he's corrupt. You don't get ..."
+
+**[00:49:24](/episodes/ep-SKNJPul29zU.md#ent-gpe-las-vegas-nevada-t-00-49-24)**
+> "both answered to Vegas and Tel Aviv, but it's clear to me that he is doi..."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1 mentions)</summary>
+
+**[00:12:42](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-las-vegas-nevada-t-00-12-32)**
+> "that SAM character flying around Las Vegas"
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (2 mentions)</summary>
@@ -402,7 +431,15 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Las Vegas, Nevada (10)</strong></summary>
+<summary><strong class="section-title">Statements about Las Vegas, Nevada (11)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1)</summary>
+
+- [00:49:24](/episodes/ep-SKNJPul29zU.md#t-00-49-24) (Opinion) **Candace Owens**: ["Donald Trump and Kash Patel both answer to interests in Las Vegas and ..."](/statements/statement-fff3bf83fb00.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Kash Patel](/entities/person-kash-patel.md), [Tel Aviv-Yafo](/entities/gpe-tel-aviv-yafo.md)
+
+</details>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1)</summary>

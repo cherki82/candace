@@ -4,9 +4,10 @@ description: "\"Brigitte Macron slapped her husband over text messages to an act
 statement_id: "statement-b2ddc838a4b2"
 speaker: "The New York Times"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -36,7 +37,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+A 2026 book by journalist Florian Tardif alleges that Brigitte Macron pushed or slapped Emmanuel Macron after seeing messages involving actress Golshifteh Farahani. Brigitte Macron and her entourage categorically denied that account. The incident is visible on video, but the claimed motive remains disputed rather than established fact.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [The Independent: Brigitte Macron breaks silence on claims she slapped Emmanuel after seeing texts from actress](https://www.the-independent.com/news/world/europe/brigitte-macron-emmanuel-slap-actress-texts-b2976368.html)
+
+*Verified: 2026-08-25T08:20:58.717509*
 
 ---
 

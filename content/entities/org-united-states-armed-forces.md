@@ -1,6 +1,6 @@
 ---
 title: "United States Armed Forces"
-description: "United States Armed Forces (Organizations) - 13 mentions"
+description: "United States Armed Forces (Organizations) - 15 mentions"
 id: "org-united-states-armed-forces"
 type: "ORG"
 aliases:
@@ -25,12 +25,12 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-org-united-states-armed-forces-t-00-50-59">2025-11-05 · 00:51:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-united-states-armed-forces-t-00-57-25">2026-03-06 · 00:57:34</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-united-states-armed-forces-t-00-24-31">2026-05-14 · 00:24:52</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>19</strong></div>
-<div><span>Relationships</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>28</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -48,6 +48,7 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-united-states-armed-forces-t-00-16-16" style="--pulse-height:100%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-armed-forces-t-00-18-13" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-united-states-armed-forces-t-00-57-25" style="--pulse-height:50%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-united-states-armed-forces-t-00-02-24" style="--pulse-height:100%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -63,6 +64,7 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-org-united-states-armed-forces-t-00-16-16) | 2 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-armed-forces-t-00-18-13) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-united-states-armed-forces-t-00-57-25) | 1 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-united-states-armed-forces-t-00-02-24) | 2 |
 
 </details>
 </section>
@@ -70,7 +72,18 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (2 mentions)</summary>
+
+**[00:02:31](/episodes/ep-Pb7UlpRdW6U.md#ent-org-united-states-armed-forces-t-00-02-24)**
+> "The express goal of the United States military right now, I actually should say the global milit..."
+
+**[00:24:52](/episodes/ep-Pb7UlpRdW6U.md#ent-org-united-states-armed-forces-t-00-24-31)**
+> "...c with the full weight of the United States military behind her."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>
@@ -195,7 +208,14 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)** affiliated with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:23:51](/episodes/ep-Pb7UlpRdW6U.md#t-00-23-44): “We are looking at an unholy alliance. It is between the military, it is between the press, and I would add here, Turning Point USA.”
+
+</details>
 
 - **[Bill Montgomery](/entities/person-bill-montgomery.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -230,7 +250,38 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Armed Forces (19)</strong></summary>
+<summary><strong class="section-title">Statements about United States Armed Forces (28)</strong></summary>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (9)</summary>
+
+- [00:00:22](/episodes/ep-Pb7UlpRdW6U.md#t-00-00-01) (Accusation) **Candace Owens**: ["There seems to be an unholy alliance emerging between Turning Point US..."](/statements/statement-18199d423f4d.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [White House](/entities/org-white-house.md)
+
+- [00:05:58](/episodes/ep-Pb7UlpRdW6U.md#t-00-05-34) (Accusation) **Candace Owens**: ["The military designed the amplification of the Erika Kirk clip."](/statements/statement-8892f36c26a1.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:24:06](/episodes/ep-Pb7UlpRdW6U.md#t-00-23-44) (Opinion) **Candace Owens**: ["Turning Point USA is not a charity."](/statements/statement-0e035680c516.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:24:06](/episodes/ep-Pb7UlpRdW6U.md#t-00-23-44) (Accusation) **Candace Owens**: ["Turning Point USA now appears to have pervasive connections to the mil..."](/statements/statement-36fa28ce9951.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:24:52](/episodes/ep-Pb7UlpRdW6U.md#t-00-24-31) (Accusation) **Candace Owens**: ["Erika Kirk is being used to socially engineer the public with the full..."](/statements/statement-58632cda11e7.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:25:06](/episodes/ep-Pb7UlpRdW6U.md#t-00-24-31) (Accusation) **Candace Owens**: ["The Charlie Kirk assassination mirrors the White House Correspondents'..."](/statements/statement-b32c376c190a.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:29:03](/episodes/ep-Pb7UlpRdW6U.md#t-00-28-45) (Accusation) **Candace Owens**: ["The military is controlling X and creating artificial trends that appe..."](/statements/statement-4aca065ca7d0.md)
+  - Also about: [Twitter](/entities/org-twitter.md)
+
+- [00:48:31](/episodes/ep-Pb7UlpRdW6U.md#t-00-48-31) (Accusation) **Candace Owens**: ["The military sends messaging to communications teams, which coordinate..."](/statements/statement-d3c31a2491b6.md)
+
+- [00:52:01](/episodes/ep-Pb7UlpRdW6U.md#t-00-52-01) (Opinion) **Candace Owens**: ["Donald Trump proved to be the ultimate Trojan horse ushering in techno..."](/statements/statement-79b5ed3f39af.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Technocracy](/entities/concept-technocracy.md)
+
+</details>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (3)</summary>

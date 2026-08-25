@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University
 
-## Mentioned In (399 times)
+## Mentioned In (401 times)
 
 ### 1. REVELATIONS: The Truth About Charlie's Medical Report | Cand...
 
@@ -3204,3 +3204,19 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(765);return false;">▶️ Play</a>
 
 > on September 10th at almost the exact same time down to the minute that Charlie was shot
+
+### 400. TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizar...
+
+**Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
+**Timestamp:** [00:09:53](/episodes/ep-cPidFQDJLbo.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-09-53) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(593);return false;">▶️ Play</a>
+
+> somebody who had no idea that their friend was going to be shot on September 10th
+
+### 401. The World Is A Stage: Trump Survives...Again? | Ep 343
+
+**Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
+**Timestamp:** [00:18:08](/episodes/ep-BxN2-aeMYIs.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-17-35) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1088);return false;">▶️ Play</a>
+
+> In another report, they argue that distrust surrounding Charlie Kirk's assassination

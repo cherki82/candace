@@ -1,6 +1,6 @@
 ---
 title: "Instagram"
-description: "Instagram (Organizations) - 96 mentions"
+description: "Instagram (Organizations) - 105 mentions"
 id: "org-instagram"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-instagram-t-00-04-56">2025-09-11 · 00:05:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-instagram-t-00-02-59">2026-05-13 · 00:03:27</a></strong></div>
-<div><span>Episodes</span><strong>46</strong></div>
-<div><span>Mentions</span><strong>96</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-instagram-t-00-28-32">2026-05-27 · 00:28:32</a></strong></div>
+<div><span>Episodes</span><strong>50</strong></div>
+<div><span>Mentions</span><strong>105</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -77,6 +77,10 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-instagram-t-00-28-38" style="--pulse-height:12%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-instagram-t-00-01-59" style="--pulse-height:12%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-instagram-t-00-02-59" style="--pulse-height:12%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-instagram-t-00-01-50" style="--pulse-height:50%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 4 mentions" title="2026-05-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-org-instagram-t-00-04-16" style="--pulse-height:38%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 3 mentions" title="2026-05-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-instagram-t-00-31-53" style="--pulse-height:12%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-instagram-t-00-28-32" style="--pulse-height:12%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -128,6 +132,10 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-instagram-t-00-28-38) | 1 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-org-instagram-t-00-01-59) | 1 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-org-instagram-t-00-02-59) | 1 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-instagram-t-00-01-50) | 4 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-org-instagram-t-00-04-16) | 3 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-org-instagram-t-00-31-53) | 1 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-instagram-t-00-28-32) | 1 |
 
 </details>
 </section>
@@ -135,7 +143,54 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (96)</strong></summary>
+<summary><strong class="section-title">Raw mentions (105)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
+
+**[00:28:32](/episodes/ep-MhakwJxK-Zk.md#ent-org-instagram-t-00-28-32)**
+> "...Erika (Erika Kirk) purges her Instagram. She deletes 126 posts."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1 mentions)</summary>
+
+**[00:31:53](/episodes/ep-BxN2-aeMYIs.md#ent-org-instagram-t-00-31-53)**
+> "go to an Instagram profile"
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (3 mentions)</summary>
+
+**[00:04:30](/episodes/ep-cPidFQDJLbo.md#ent-org-instagram-t-00-04-16)**
+> "fire up Instagram and report it to the world"
+
+**[00:10:49](/episodes/ep-cPidFQDJLbo.md#ent-org-instagram-t-00-10-29)**
+> "...then you randomly hopped onto Instagram in selfie mode to declare to the world that Charl..."
+
+**[00:52:37](/episodes/ep-cPidFQDJLbo.md#ent-org-instagram-t-00-52-37)**
+> "...inding out puts Victor Marx's Instagram post at exactly within the time frame that his cl..."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (4 mentions)</summary>
+
+**[00:01:50](/episodes/ep-Dkxa9OUA9K8.md#ent-org-instagram-t-00-01-50)**
+> "...al media, I believe it was on Instagram, it was an hour and a half before the President o..."
+
+**[00:02:36](/episodes/ep-Dkxa9OUA9K8.md#ent-org-instagram-t-00-02-27)**
+> "He alluded to that in the Instagram post getting her home, providing transportation t..."
+
+**[00:16:12](/episodes/ep-Dkxa9OUA9K8.md#ent-org-instagram-t-00-16-12)**
+> ".... I know we were pinging over Instagram, but I'm glad that you could join us today."
+
+**[00:44:10](/episodes/ep-Dkxa9OUA9K8.md#ent-org-instagram-t-00-44-01)**
+> "...em open up their phone, go to Instagram, go on Charlie (Charlie Kirk)'s and see if he was..."
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1 mentions)</summary>
@@ -665,7 +720,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Instagram (7)</strong></summary>
+<summary><strong class="section-title">Statements about Instagram (8)</strong></summary>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1)</summary>
+
+- [00:01:50](/episodes/ep-Dkxa9OUA9K8.md#t-00-01-50) (Claim) **Candace Owens**: ["Victor Marx was the first person Candace Owens could find in Charlie K..."](/statements/statement-dfd764993c90.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1)</summary>

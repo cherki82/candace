@@ -4,9 +4,10 @@ description: "\"The Erika Kirk “I just want to go home” clip was driving the
 statement_id: "statement-623ffc87f369"
 speaker: "White House Military Office"
 type: "factual_claim"
+veracity: "unverifiable"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ? Cannot be verified
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+This is presented as a quotation from the same withheld email. Current reporting reproduces the text only from Owens retyped excerpt and labels the email alleged; no original message, headers, official release, or independent authentication was found.
+
+**Confidence:** Low
+
+**Sources:**
+
+- [Catholics for Catholics: White House Military Office Allegedly Sent Email Praising Erika Kirk Exit Video](https://cforc.com/2026/05/white-house-military-office-allegedly-sent-email-praising-erika-kirk-exit-video-as-a-pr-success-the-night-of-correspondents-dinner-shooting/)
+
+*Verified: 2026-08-25T08:19:42.343145*
 
 ---
 

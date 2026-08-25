@@ -1,6 +1,6 @@
 ---
 title: "Ben Shapiro"
-description: "Ben Shapiro (People) - 379 mentions"
+description: "Ben Shapiro (People) - 389 mentions"
 id: "person-ben-shapiro"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-ben-shapiro-t-00-30-51">2025-09-24 · 00:31:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-ben-shapiro-t-00-52-51">2026-05-06 · 00:52:51</a></strong></div>
-<div><span>Episodes</span><strong>46</strong></div>
-<div><span>Mentions</span><strong>379</strong></div>
-<div><span>Statements by</span><strong>11</strong></div>
-<div><span>Statements about</span><strong>71</strong></div>
-<div><span>Relationships</span><strong>79</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-ben-shapiro-t-00-28-30">2026-06-09 · 01:15:31</a></strong></div>
+<div><span>Episodes</span><strong>50</strong></div>
+<div><span>Mentions</span><strong>389</strong></div>
+<div><span>Statements by</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>72</strong></div>
+<div><span>Relationships</span><strong>80</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -81,6 +81,10 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-00-41" style="--pulse-height:56%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 30 mentions" title="2026-05-04 · 30 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-ben-shapiro-t-00-10-42" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-ben-shapiro-t-00-29-56" style="--pulse-height:8%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 3 mentions" title="2026-05-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-ben-shapiro-t-00-08-47" style="--pulse-height:8%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 3 mentions" title="2026-05-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#t-01-07-16" style="--pulse-height:8%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-ben-shapiro-t-00-10-14" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 3 mentions" title="2026-05-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-person-ben-shapiro-t-00-00-00" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 3 mentions" title="2026-06-09 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -132,6 +136,10 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-ben-shapiro-t-00-00-41) | 30 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-ben-shapiro-t-00-10-42) | 2 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-ben-shapiro-t-00-29-56) | 3 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-ben-shapiro-t-00-08-47) | 3 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#t-01-07-16) | 1 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-ben-shapiro-t-00-10-14) | 3 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-ben-shapiro-t-00-00-00) | 3 |
 
 </details>
 </section>
@@ -139,7 +147,57 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (379)</strong></summary>
+<summary><strong class="section-title">Raw mentions (389)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (3 mentions)</summary>
+
+**[00:00:35](/episodes/ep-YeEtS7nix3o.md#ent-person-ben-shapiro-t-00-00-00)**
+> "... Alexander Dugin on the wall. Ben Shapiro, of course, back upon the midget horse. It was ab..."
+
+**[00:28:41](/episodes/ep-YeEtS7nix3o.md#ent-person-ben-shapiro-t-00-28-30)**
+> "Zionists in particular, like Ben Shapiro, like Mark Levin, they resent history. They rewri..."
+
+**[01:15:31](/episodes/ep-YeEtS7nix3o.md#ent-person-ben-shapiro-t-00-28-30)**
+> "Can we get a tumbler or a mug with Benny tears on it and a tiny horse? Bless you, Candace. We do have to sell tiny horse and Benny."
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (3 mentions)</summary>
+
+**[00:10:23](/episodes/ep-SKNJPul29zU.md#ent-person-ben-shapiro-t-00-10-14)**
+> "I got banned from Australia, got fired from a daily wire. They started putting pressure, Ben Shapiro in particular, on, you know, this is the Zionist lobby."
+
+**[00:22:49](/episodes/ep-SKNJPul29zU.md#ent-person-ben-shapiro-t-00-22-49)**
+> "was working with uh you know Ben Shapiro and Marissa Streit and dennis prager and they're ..."
+
+**[01:05:24](/episodes/ep-SKNJPul29zU.md#ent-person-ben-shapiro-t-01-05-24)**
+> "of that everybody knows Ben (Ben Shapiro) and Charlie (Charlie Kirk) hate each other like ..."
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
+
+**[01:07:27](/episodes/ep-Ux1kzgQxkws.md#t-01-07-16)**
+> "... like the Mark Levins and the Ben Shapiros and like we're MAGA and the Laura Loomer..."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (3 mentions)</summary>
+
+**[00:08:47](/episodes/ep-1QZ4X6q1DPg.md#ent-person-ben-shapiro-t-00-08-47)**
+> "...mp (Donald J. Trump), you got Ben Shapiro. Take the Erika (Erika Kirk), dopes."
+
+**[00:40:10](/episodes/ep-1QZ4X6q1DPg.md#ent-person-ben-shapiro-t-00-40-10)**
+> "...back up the midget horse that Ben Shapiro rides around Nashville on."
+
+**[00:40:53](/episodes/ep-1QZ4X6q1DPg.md#ent-person-ben-shapiro-t-00-40-50)**
+> "Ben Shapiro?"
+
+</details>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (3 mentions)</summary>
@@ -1517,9 +1575,10 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <summary>Accused (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:19:15](/episodes/ep-k8ueJdPFel4.md#t-00-19-15): “I'll just ask you straight up. Is Candace Owens doing something evil by attacking Erika Kirk?”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:04:34](/episodes/ep-YeEtS7nix3o.md#t-00-04-21): “Candace Owens went to Russia to just do propaganda work on behalf of the Russian regime.”
 
 </details>
 
@@ -1658,7 +1717,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <summary>Criticized By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
@@ -1668,6 +1727,9 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:24:40](/episodes/ep-eLgD5yUVbko.md#t-00-24-24): “I don't remember who she had in her show, but she was talking about Mark Levin and she said there is a piece of her that feels like he genuinely wants to like hurt her like he would want harm to come to Megyn Kelly. Like if someone killed her, he would be happy. And I watched this and I went, yes, like my head, obviously, I said, I agree with this. And this is exactly how I feel about Ben Shapiro. I can't explain to you, but like there was an obsession here. He brought back my socials. They make videos. It has not stopped.”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:52:56](/episodes/ep-1mYNOqzAdXs.md#t-00-52-31): “because since the time he was a kid, nobody has ever liked Ben Shapiro and the world caught on. He's been buying views throughout his entire life. He's never going to go away to just get used to like that buzzing noise in the background.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:26:55](/episodes/ep-uC_GjKU8rs8.md#t-00-26-46): “Okay. The world is now awake. The Daily Wire with Ben (Ben Shapiro) at the helm represents the side of people that are trying to sort of put us back to sleep and it is a losing battle. It's not going to work. So my best advice to them, which they of course will not follow, they could always count on Daily Wire to do the wrong thing.”
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:40:10](/episodes/ep-1QZ4X6q1DPg.md#t-00-39-37): “this fan of mine, a small fan of mine, apparently really loves the midget horse and she was pestering her mother to bring back up the midget horse that Ben Shapiro rides around Nashville on.”
+- [Candace x Hunter Biden: The Interview @ 01:07:27](/episodes/ep-Ux1kzgQxkws.md#t-01-07-16): “people who have been against Trump the entire time who are lecturing us about this stuff, like the Mark Levins and the Ben Shapiros”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:28:41](/episodes/ep-YeEtS7nix3o.md#t-00-28-30): “Zionists in particular, like Ben Shapiro, like Mark Levin, they resent history. They rewrite history. They seek to control Christians.”
 
 </details>
 
@@ -1931,7 +1993,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>Referenced By (39)</summary>
+<summary>Referenced By (40)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -1943,9 +2005,10 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:19:15](/episodes/ep-k8ueJdPFel4.md#t-00-19-15): “I'll just ask you straight up. Is Candace Owens doing something evil by attacking Erika Kirk?”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:04:34](/episodes/ep-YeEtS7nix3o.md#t-00-04-21): “Candace Owens went to Russia to just do propaganda work on behalf of the Russian regime.”
 
 </details>
 
@@ -1964,7 +2027,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
@@ -1974,6 +2037,9 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:24:40](/episodes/ep-eLgD5yUVbko.md#t-00-24-24): “I don't remember who she had in her show, but she was talking about Mark Levin and she said there is a piece of her that feels like he genuinely wants to like hurt her like he would want harm to come to Megyn Kelly. Like if someone killed her, he would be happy. And I watched this and I went, yes, like my head, obviously, I said, I agree with this. And this is exactly how I feel about Ben Shapiro. I can't explain to you, but like there was an obsession here. He brought back my socials. They make videos. It has not stopped.”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:52:56](/episodes/ep-1mYNOqzAdXs.md#t-00-52-31): “because since the time he was a kid, nobody has ever liked Ben Shapiro and the world caught on. He's been buying views throughout his entire life. He's never going to go away to just get used to like that buzzing noise in the background.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:26:55](/episodes/ep-uC_GjKU8rs8.md#t-00-26-46): “Okay. The world is now awake. The Daily Wire with Ben (Ben Shapiro) at the helm represents the side of people that are trying to sort of put us back to sleep and it is a losing battle. It's not going to work. So my best advice to them, which they of course will not follow, they could always count on Daily Wire to do the wrong thing.”
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:40:10](/episodes/ep-1QZ4X6q1DPg.md#t-00-39-37): “this fan of mine, a small fan of mine, apparently really loves the midget horse and she was pestering her mother to bring back up the midget horse that Ben Shapiro rides around Nashville on.”
+- [Candace x Hunter Biden: The Interview @ 01:07:27](/episodes/ep-Ux1kzgQxkws.md#t-01-07-16): “people who have been against Trump the entire time who are lecturing us about this stuff, like the Mark Levins and the Ben Shapiros”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:28:41](/episodes/ep-YeEtS7nix3o.md#t-00-28-30): “Zionists in particular, like Ben Shapiro, like Mark Levin, they resent history. They rewrite history. They seek to control Christians.”
 
 </details>
 
@@ -2231,12 +2297,30 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 </details>
 
+- **[Candace Owens](/entities/person-candace-owens.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens x Ana Kasparian @ 00:22:49](/episodes/ep-SKNJPul29zU.md#t-00-22-49): “was working with uh you know Ben Shapiro and Marissa Streit and dennis prager and they're like yeah no it's crazy how it happened she fell and bumped her head and now she's adolf hitler and and that it's the whiplash it's too fast people”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Ben Shapiro (11)</strong></summary>
+<summary><strong class="section-title">Statements by Ben Shapiro (13)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2)</summary>
+
+- [00:04:34](/episodes/ep-YeEtS7nix3o.md#t-00-04-34) [✓] (Accusation) ["Ben Shapiro accused Candace Owens of going to Russia to perform propaganda work ..."](/statements/statement-12634ddb77cb.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Russia](/entities/gpe-russia.md)
+
+- [00:04:39](/episodes/ep-YeEtS7nix3o.md#t-00-04-34) [◐] (Claim) ["Ben Shapiro said Candace Owens attended and spoke at the Saint Petersburg Intern..."](/statements/statement-ef6735a7edce.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Vladimir Putin](/entities/person-vladimir-putin.md), [Alexander Dugin](/entities/person-alexander-dugin.md)
+
+</details>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (4)</summary>
@@ -2294,7 +2378,15 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ben Shapiro (71)</strong></summary>
+<summary><strong class="section-title">Statements about Ben Shapiro (72)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>
+
+- [00:28:41](/episodes/ep-YeEtS7nix3o.md#t-00-28-30) (Opinion) **Candace Owens**: ["Candace Owens accused Zionists such as Ben Shapiro and Mark Levin of r..."](/statements/statement-c609b585eae1.md)
+  - Also about: [Mark Levin](/entities/person-mark-levin.md), [Zionism](/entities/concept-zionism.md), [Christians](/entities/concept-christians.md)
+
+</details>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (9)</summary>

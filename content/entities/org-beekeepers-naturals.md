@@ -1,6 +1,6 @@
 ---
 title: "Beekeeper's Naturals"
-description: "Beekeeper's Naturals (Organizations) - 22 mentions"
+description: "Beekeeper's Naturals (Organizations) - 24 mentions"
 id: "org-beekeepers-naturals"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ Source: [Bee Propolis-Powered Wellness | Beekeeper's Naturals](https://www.beeke
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-beekeepers-naturals-t-00-38-20">2025-09-17 · 00:38:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-org-beekeepers-naturals-t-00-48-32">2026-04-14 · 00:48:39</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-beekeepers-naturals-t-00-27-40">2026-05-18 · 00:28:17</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -42,6 +42,7 @@ Source: [Bee Propolis-Powered Wellness | Beekeeper's Naturals](https://www.beeke
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-beekeepers-naturals-t-00-25-37" style="--pulse-height:67%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 4 mentions" title="2026-02-28 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-org-beekeepers-naturals-t-00-36-58" style="--pulse-height:50%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 3 mentions" title="2026-03-04 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-beekeepers-naturals-t-00-47-51" style="--pulse-height:33%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-beekeepers-naturals-t-00-27-40" style="--pulse-height:33%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 2 mentions" title="2026-05-18 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [Bee Propolis-Powered Wellness | Beekeeper's Naturals](https://www.beeke
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-beekeepers-naturals-t-00-25-37) | 4 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-beekeepers-naturals-t-00-36-58) | 3 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-beekeepers-naturals-t-00-47-51) | 2 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-beekeepers-naturals-t-00-27-40) | 2 |
 
 </details>
 </section>
@@ -61,7 +63,18 @@ Source: [Bee Propolis-Powered Wellness | Beekeeper's Naturals](https://www.beeke
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (2 mentions)</summary>
+
+**[00:27:53](/episodes/ep-1QZ4X6q1DPg.md#ent-org-beekeepers-naturals-t-00-27-40)**
+> "...o want to tell you guys about Beekeeper's Naturals, because if you are a parent, you know summer has..."
+
+**[00:28:17](/episodes/ep-1QZ4X6q1DPg.md#ent-org-beekeepers-naturals-t-00-27-40)**
+> "That's why Beekeeper's Naturals is always stocked in our house. I especially love..."
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (2 mentions)</summary>
@@ -169,6 +182,28 @@ Source: [Bee Propolis-Powered Wellness | Beekeeper's Naturals](https://www.beeke
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Endorsed By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:28:17](/episodes/ep-1QZ4X6q1DPg.md#t-00-27-40): “That's why Beekeeper's Naturals is always stocked in our house. I especially love their propolis throat spray.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:28:17](/episodes/ep-1QZ4X6q1DPg.md#t-00-27-40): “That's why Beekeeper's Naturals is always stocked in our house. I especially love their propolis throat spray.”
+
+</details>
+
+</details>
 
 </details>

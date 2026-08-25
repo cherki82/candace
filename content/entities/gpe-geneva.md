@@ -1,6 +1,6 @@
 ---
 title: "Geneva"
-description: "Geneva (Places) - 1 mention"
+description: "Geneva (Places) - 2 mentions"
 id: "gpe-geneva"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [About CERN](https://home.cern/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-gpe-geneva-t-00-33-47">2026-01-14 · 00:33:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-gpe-geneva-t-00-33-47">2026-01-14 · 00:33:47</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#t-00-16-00">2026-05-27 · 00:16:00</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,12 +32,14 @@ Source: [About CERN](https://home.cern/about/)
 <p>Highest activity: <a href="/episodes/ep-BKcOm32ZEGk.md#ent-gpe-geneva-t-00-33-47">PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-gpe-geneva-t-00-33-47" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#t-00-16-00" style="--pulse-height:100%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-geneva-t-00-33-47) | 1 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#t-00-16-00) | 1 |
 
 </details>
 </section>
@@ -45,7 +47,15 @@ Source: [About CERN](https://home.cern/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
+
+**[00:16:00](/episodes/ep-MhakwJxK-Zk.md#t-00-16-00)**
+> "This website tells us—and I'm going to read this website directly—it says, launched in late 2024, Project Aurora was originally framed as a pro bono feasibility study for the Gaza Humanitarian Foundation, a Geneva-registered NGO created with backing from U.S. and Israeli security-linked interests. Over seven months, the project evolved into fully billed"
+
+</details>
 
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>

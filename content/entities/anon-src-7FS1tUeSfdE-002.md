@@ -38,7 +38,7 @@ _No relationships extracted yet._
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1)</summary>
 
-- [00:10:48](/episodes/ep-7FS1tUeSfdE.md#t-00-10-48) [○] (Accusation) ["After the White House Military Office's attempt to rescind the email failed or c..."](/statements/statement-7d65c0155b8e.md)
+- [00:10:48](/episodes/ep-7FS1tUeSfdE.md#t-00-10-48) [?] (Accusation) ["After the White House Military Office's attempt to rescind the email failed or c..."](/statements/statement-7d65c0155b8e.md)
   - About: [White House Military Office](/entities/org-white-house-military-office.md)
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Brian Harpole"
-description: "Brian Harpole (People) - 195 mentions"
+description: "Brian Harpole (People) - 205 mentions"
 id: "person-brian-harpole"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-21-22">2025-11-18 · 00:21:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-brian-harpole-t-00-34-03">2026-05-13 · 00:34:03</a></strong></div>
-<div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>195</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-brian-harpole-t-00-11-49">2026-05-27 · 00:12:19</a></strong></div>
+<div><span>Episodes</span><strong>32</strong></div>
+<div><span>Mentions</span><strong>205</strong></div>
 <div><span>Statements by</span><strong>8</strong></div>
-<div><span>Statements about</span><strong>68</strong></div>
+<div><span>Statements about</span><strong>72</strong></div>
 <div><span>Relationships</span><strong>32</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -63,6 +63,10 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-person-brian-harpole-t-00-36-29" style="--pulse-height:8%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 2 mentions" title="2026-05-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-brian-harpole-t-00-46-01" style="--pulse-height:38%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 15 mentions" title="2026-05-11 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-brian-harpole-t-00-07-03" style="--pulse-height:12%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 5 mentions" title="2026-05-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-brian-harpole-t-00-37-17" style="--pulse-height:8%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-person-brian-harpole-t-00-00-44" style="--pulse-height:8%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 3 mentions" title="2026-05-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-brian-harpole-t-00-07-52" style="--pulse-height:10%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 4 mentions" title="2026-05-26 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-brian-harpole-t-00-11-49" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -96,6 +100,10 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-brian-harpole-t-00-36-29) | 2 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-brian-harpole-t-00-46-01) | 15 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-brian-harpole-t-00-07-03) | 5 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-brian-harpole-t-00-37-17) | 1 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-brian-harpole-t-00-00-44) | 3 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-brian-harpole-t-00-07-52) | 4 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-brian-harpole-t-00-11-49) | 2 |
 
 </details>
 </section>
@@ -103,7 +111,57 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (195)</strong></summary>
+<summary><strong class="section-title">Raw mentions (205)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (2 mentions)</summary>
+
+**[00:11:49](/episodes/ep-MhakwJxK-Zk.md#ent-person-brian-harpole-t-00-11-49)**
+> "...found a guy who thinks he saw Brian Harpole walking out of a meeting, and for whatever reason..."
+
+**[00:12:19](/episodes/ep-MhakwJxK-Zk.md#ent-person-brian-harpole-t-00-11-49)**
+> "I don't know. I don't know Brian Harpole like that. Maybe he does. That could have been hi..."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (4 mentions)</summary>
+
+**[00:08:24](/episodes/ep-BxN2-aeMYIs.md#ent-person-brian-harpole-t-00-07-52)**
+> "Sorry, Brian Harpole."
+
+**[00:08:46](/episodes/ep-BxN2-aeMYIs.md#ent-person-brian-harpole-t-00-08-30)**
+> "But Brian Harpole's lawsuit is filled with all these verifiable lies...."
+
+**[00:09:30](/episodes/ep-BxN2-aeMYIs.md#ent-person-brian-harpole-t-00-09-11)**
+> "...e hotel he claims that he saw Brian Harpole walking out of some meeting well we prodded that ..."
+
+**[00:10:16](/episodes/ep-BxN2-aeMYIs.md#ent-person-brian-harpole-t-00-09-55)**
+> "...ecame interesting when we had Brian Harpole as he attempted to drop some alibi of I flew out ..."
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (3 mentions)</summary>
+
+**[00:01:08](/episodes/ep-cPidFQDJLbo.md#ent-person-brian-harpole-t-00-00-44)**
+> "my ongoing lawsuit with Brian Harpole."
+
+**[00:12:17](/episodes/ep-cPidFQDJLbo.md#ent-person-brian-harpole-t-00-11-49)**
+> "...e I'm currently being sued by Brian Harpole, head of Charlie (Charlie Kirk)'s security team."
+
+**[00:12:50](/episodes/ep-cPidFQDJLbo.md#ent-person-brian-harpole-t-00-12-27)**
+> "...t to my lawsuit. Maybe Brian (Brian Harpole) or Dan (Dan Flood) communicated to you that they..."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>
+
+**[00:37:59](/episodes/ep-1QZ4X6q1DPg.md#ent-person-brian-harpole-t-00-37-17)**
+> "...ldn't you know how weird that Brian Harpole chose this obscure YouTuber to give an interview ..."
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (5 mentions)</summary>
@@ -928,13 +986,14 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <summary>Interviewed By (1)</summary>
 
 - **[Shawn Ryan](/entities/person-shawn-ryan.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:09:02](/episodes/ep-his-JBjlkh8.md#t-00-08-43): “In a sit down with Sean Ryan, Brian Harpole said, 'It was because of the severity of the injury.'”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:19:10](/episodes/ep-69A8TzAGHlU.md#t-00-18-57): “you're saying you went on you went on Sean Ryan because of things that I was saying and that's what I was saying Again, it was because of his behavior and what he said on Sean Ryan's show, which I found to be unconvincing, which is he's suing me for saying that that interview was unconvincing, which made me feel weird and take a second look.”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:08:03](/episodes/ep-k1b1NDCrNFs.md#t-00-08-03): “And yet, no, this Douglas Blake Bednarz character is not listed in this lawsuit. There's no action against him. Now, Baron is not exaggerating, by the way. The person he's referring to, full name Douglas Blake Bednarz, and he certainly did not mince words when he began positing theories about Brian Harpole after Brian (Brian Harpole)'s disastrous interview with Sean Ryan. Here are just a random selection of his tweets.”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:55:22](/episodes/ep-KpxIBWkNsSs.md#t-00-54-59): “Why are you saying he went on Sean Ryan because of the grief that I put him through knowing fully well that I never mentioned him on my show until post Sean Ryan?”
+- [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:08:46](/episodes/ep-BxN2-aeMYIs.md#t-00-08-30): “Brian felt compelled to do the Sean Ryan podcast interview because of conspiracies that I drummed up on the Internet about him”
 
 </details>
 
@@ -969,12 +1028,14 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <summary>Sued (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:06:40](/episodes/ep-69A8TzAGHlU.md#t-00-06-20): “Brian (Brian Harpole) wants to sue me for something that I literally never said about him. Mind you, this was actually the very first point of the letter.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:00:41](/episodes/ep-uC_GjKU8rs8.md#t-00-00-41): “All of this meant to humiliate me. And then a lawsuit arrives from Brian Harpole. But then we learn it's been sent from the same lawyer who had already been suing me nonstop in arbitration on Ben Shapiro's behalf for two years for every minor infraction.”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:01:18](/episodes/ep-k1b1NDCrNFs.md#t-00-01-18): “Okay, let's start with the interesting updates regarding Brian Harpole's lawsuit against me for defamation, namely that they are beginning to send out what are known as preservation orders.”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:55:32](/episodes/ep-KpxIBWkNsSs.md#t-00-54-59): “He's lying in a court filing. So what this does not make me feel, I am not here today going, well, now that he's filed this lawsuit, I believe him for the first time. I messaged him four times.”
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:12:17](/episodes/ep-cPidFQDJLbo.md#t-00-11-49): “I'm currently being sued by Brian Harpole, head of Charlie (Charlie Kirk)'s security team.”
+- [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:08:46](/episodes/ep-BxN2-aeMYIs.md#t-00-08-30): “Brian Harpole's lawsuit is filled with all these verifiable lies. ... conspiracies that I drummed up on the Internet about him”
 
 </details>
 
@@ -1095,7 +1156,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 - **[Shawn Ryan](/entities/person-shawn-ryan.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:09:02](/episodes/ep-his-JBjlkh8.md#t-00-08-43): “In a sit down with Sean Ryan, Brian Harpole said, 'It was because of the severity of the injury.'”
@@ -1103,6 +1164,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:19:10](/episodes/ep-69A8TzAGHlU.md#t-00-18-57): “you're saying you went on you went on Sean Ryan because of things that I was saying and that's what I was saying Again, it was because of his behavior and what he said on Sean Ryan's show, which I found to be unconvincing, which is he's suing me for saying that that interview was unconvincing, which made me feel weird and take a second look.”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:08:03](/episodes/ep-k1b1NDCrNFs.md#t-00-08-03): “And yet, no, this Douglas Blake Bednarz character is not listed in this lawsuit. There's no action against him. Now, Baron is not exaggerating, by the way. The person he's referring to, full name Douglas Blake Bednarz, and he certainly did not mince words when he began positing theories about Brian Harpole after Brian (Brian Harpole)'s disastrous interview with Sean Ryan. Here are just a random selection of his tweets.”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:55:22](/episodes/ep-KpxIBWkNsSs.md#t-00-54-59): “Why are you saying he went on Sean Ryan because of the grief that I put him through knowing fully well that I never mentioned him on my show until post Sean Ryan?”
+- [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:08:46](/episodes/ep-BxN2-aeMYIs.md#t-00-08-30): “Brian felt compelled to do the Sean Ryan podcast interview because of conspiracies that I drummed up on the Internet about him”
 
 </details>
 
@@ -1129,12 +1191,14 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** sued by this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:06:40](/episodes/ep-69A8TzAGHlU.md#t-00-06-20): “Brian (Brian Harpole) wants to sue me for something that I literally never said about him. Mind you, this was actually the very first point of the letter.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:00:41](/episodes/ep-uC_GjKU8rs8.md#t-00-00-41): “All of this meant to humiliate me. And then a lawsuit arrives from Brian Harpole. But then we learn it's been sent from the same lawyer who had already been suing me nonstop in arbitration on Ben Shapiro's behalf for two years for every minor infraction.”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:01:18](/episodes/ep-k1b1NDCrNFs.md#t-00-01-18): “Okay, let's start with the interesting updates regarding Brian Harpole's lawsuit against me for defamation, namely that they are beginning to send out what are known as preservation orders.”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:55:32](/episodes/ep-KpxIBWkNsSs.md#t-00-54-59): “He's lying in a court filing. So what this does not make me feel, I am not here today going, well, now that he's filed this lawsuit, I believe him for the first time. I messaged him four times.”
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:12:17](/episodes/ep-cPidFQDJLbo.md#t-00-11-49): “I'm currently being sued by Brian Harpole, head of Charlie (Charlie Kirk)'s security team.”
+- [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:08:46](/episodes/ep-BxN2-aeMYIs.md#t-00-08-30): “Brian Harpole's lawsuit is filled with all these verifiable lies. ... conspiracies that I drummed up on the Internet about him”
 
 </details>
 
@@ -1216,7 +1280,29 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brian Harpole (68)</strong></summary>
+<summary><strong class="section-title">Statements about Brian Harpole (72)</strong></summary>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (2)</summary>
+
+- [00:08:46](/episodes/ep-BxN2-aeMYIs.md#t-00-08-30) (Accusation) **Candace Owens**: ["Brian Harpole's lawsuit is filled with verifiable lies, including that..."](/statements/statement-b08ff55e86d8.md)
+  - Also about: [The Shawn Ryan Show](/entities/work-the-shawn-ryan-show.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:08:46](/episodes/ep-BxN2-aeMYIs.md#t-00-08-30) (Claim) **Candace Owens**: ["Owens had never mentioned Brian Harpole on her show until two days aft..."](/statements/statement-36df29489d3f.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Shawn Ryan Show](/entities/work-the-shawn-ryan-show.md)
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (2)</summary>
+
+- [00:01:08](/episodes/ep-cPidFQDJLbo.md#t-00-00-44) (Claim) **Candace Owens**: ["The fallout from Victor Marx's interview inspired me to send preservat..."](/statements/statement-8a090a2510d3.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md)
+
+- [00:12:50](/episodes/ep-cPidFQDJLbo.md#t-00-12-27) (Claim) **Candace Owens**: ["I sent Victor Marx a legal preservation letter because his communicati..."](/statements/statement-f71d1e57c1a1.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>

@@ -4,9 +4,10 @@ description: "\"Sara Sidner was the first person to post Erika Kirk's “I want 
 statement_id: "statement-563f11c829b0"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Context shows Owens relied on displayed Instagram metadata. Current reporting confirms Sidner posted the clip, and the transcript metadata supports 9:25 p.m. Eastern, but no reliable public record establishes that she was the first person on all social media to publish it.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Mediaite: Devastated Erika Kirk Ushered Out of WHCA Dinner After Shooting](https://www.mediaite.com/politics/devastated-erika-kirk-ushered-out-of-whca-dinner-after-shooting/)
+
+*Verified: 2026-08-25T08:19:41.290291*
 
 ---
 

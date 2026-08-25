@@ -1,6 +1,6 @@
 ---
 title: "Just Thrive"
-description: "Just Thrive (Organizations) - 37 mentions"
+description: "Just Thrive (Organizations) - 43 mentions"
 id: "org-just-thrive"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Our Story – Just Thrive](https://justthrivehealth.com/pages/our-story
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-just-thrive-t-00-34-41">2025-09-15 · 00:34:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-just-thrive-t-00-30-55">2026-04-02 · 00:31:27</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>37</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-org-just-thrive-t-00-37-20">2026-06-09 · 00:37:37</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>43</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -42,6 +42,8 @@ Source: [Our Story – Just Thrive](https://justthrivehealth.com/pages/our-story
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-just-thrive-t-00-19-40" style="--pulse-height:86%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 6 mentions" title="2026-02-04 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-org-just-thrive-t-00-46-09" style="--pulse-height:71%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 5 mentions" title="2026-03-03 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-just-thrive-t-00-30-15" style="--pulse-height:43%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 3 mentions" title="2026-04-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-just-thrive-t-00-43-46" style="--pulse-height:43%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 3 mentions" title="2026-05-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-org-just-thrive-t-00-36-43" style="--pulse-height:43%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 3 mentions" title="2026-06-09 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +56,8 @@ Source: [Our Story – Just Thrive](https://justthrivehealth.com/pages/our-story
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-org-just-thrive-t-00-19-40) | 6 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-just-thrive-t-00-46-09) | 5 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-just-thrive-t-00-30-15) | 3 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-just-thrive-t-00-43-46) | 3 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-just-thrive-t-00-36-43) | 3 |
 
 </details>
 </section>
@@ -61,7 +65,35 @@ Source: [Our Story – Just Thrive](https://justthrivehealth.com/pages/our-story
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (3 mentions)</summary>
+
+**[00:37:06](/episodes/ep-YeEtS7nix3o.md#ent-org-just-thrive-t-00-36-43)**
+> "...so always tell you guys about Just Thrive because you've been told Told to just live with t..."
+
+**[00:37:20](/episodes/ep-YeEtS7nix3o.md#ent-org-just-thrive-t-00-37-20)**
+> "Just Thrive Probiotic is different from anything that you've ..."
+
+**[00:37:37](/episodes/ep-YeEtS7nix3o.md#ent-org-just-thrive-t-00-37-20)**
+> "...s in your gut. And right now, Just Thrive is offering something special just for my listene..."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (3 mentions)</summary>
+
+**[00:44:10](/episodes/ep-Pb7UlpRdW6U.md#ent-org-just-thrive-t-00-43-46)**
+> "...de out, let me tell you about Just Thrive."
+
+**[00:44:42](/episodes/ep-Pb7UlpRdW6U.md#ent-org-just-thrive-t-00-44-22)**
+> "...ing like your best self fast. Just Thrive has been trusted for over a decade, helping thous..."
+
+**[00:44:56](/episodes/ep-Pb7UlpRdW6U.md#ent-org-just-thrive-t-00-44-22)**
+> "...or yourself and just take the Just Thrive feel better challenge and get. and get 20% off yo..."
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (3 mentions)</summary>
@@ -218,9 +250,10 @@ Source: [Our Story – Just Thrive](https://justthrivehealth.com/pages/our-story
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:46:52](/episodes/ep-2tFYJf1klgY.md#t-00-46-52): “If you're ready to feel a difference that you can actually notice, like I do when I take Just Thrive, then take the Just Thrive gut health challenge today.”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:37:44](/episodes/ep-YeEtS7nix3o.md#t-00-37-20): “Right now, Just Thrive is offering something special just for my listeners.”
 
 </details>
 
@@ -230,9 +263,10 @@ Source: [Our Story – Just Thrive](https://justthrivehealth.com/pages/our-story
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:46:52](/episodes/ep-2tFYJf1klgY.md#t-00-46-52): “If you're ready to feel a difference that you can actually notice, like I do when I take Just Thrive, then take the Just Thrive gut health challenge today.”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:37:44](/episodes/ep-YeEtS7nix3o.md#t-00-37-20): “Right now, Just Thrive is offering something special just for my listeners.”
 
 </details>
 

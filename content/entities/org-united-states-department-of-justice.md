@@ -1,6 +1,6 @@
 ---
 title: "United States Department of Justice"
-description: "United States Department of Justice (Organizations) - 25 mentions"
+description: "United States Department of Justice (Organizations) - 29 mentions"
 id: "org-united-states-department-of-justice"
 type: "ORG"
 aliases:
@@ -26,11 +26,11 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-united-states-department-of-justice-t-00-13-21">2026-01-22 · 00:13:56</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-united-states-department-of-justice-t-00-37-02">2026-05-05 · 00:37:15</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-united-states-department-of-justice-t-00-48-39">2026-05-27 · 00:48:56</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -48,6 +48,9 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-united-states-department-of-justice-t-00-53-21" style="--pulse-height:12%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-united-states-department-of-justice-t-00-34-44" style="--pulse-height:25%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-united-states-department-of-justice-t-00-11-20" style="--pulse-height:100%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 8 mentions" title="2026-05-05 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-united-states-department-of-justice-t-00-12-10" style="--pulse-height:12%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-united-states-department-of-justice-t-00-39-59" style="--pulse-height:25%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-united-states-department-of-justice-t-00-48-39" style="--pulse-height:12%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +65,9 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-united-states-department-of-justice-t-00-53-21) | 1 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-united-states-department-of-justice-t-00-34-44) | 2 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-united-states-department-of-justice-t-00-11-20) | 8 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-united-states-department-of-justice-t-00-12-10) | 1 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-united-states-department-of-justice-t-00-39-59) | 2 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-united-states-department-of-justice-t-00-48-39) | 1 |
 
 </details>
 </section>
@@ -69,7 +75,34 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
+
+**[00:48:56](/episodes/ep-MhakwJxK-Zk.md#ent-org-united-states-department-of-justice-t-00-48-39)**
+> "The DOJ dropped all charges against him because he's an I..."
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (2 mentions)</summary>
+
+**[00:39:59](/episodes/ep-Ux1kzgQxkws.md#ent-org-united-states-department-of-justice-t-00-39-59)**
+> "...information it's not like the department of justice has the digital my digital footprint and every te..."
+
+**[01:03:41](/episodes/ep-Ux1kzgQxkws.md#ent-org-united-states-department-of-justice-t-01-03-14)**
+> "...us that has the power and the Department of Justice is in the hands of Charlie Kirk's friends."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1 mentions)</summary>
+
+**[00:12:10](/episodes/ep-Pb7UlpRdW6U.md#ent-org-united-states-department-of-justice-t-00-12-10)**
+> "...round the White House and the Department of Justice during a time period when they should have only b..."
+
+</details>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (8 mentions)</summary>
@@ -244,7 +277,18 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Department of Justice (12)</strong></summary>
+<summary><strong class="section-title">Statements about United States Department of Justice (14)</strong></summary>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (2)</summary>
+
+- [00:39:32](/episodes/ep-Ux1kzgQxkws.md#t-00-39-32) (Accusation) **Hunter Biden**: ["A Trump-appointed U.S. attorney continued prosecuting me and became sp..."](/statements/statement-b9d480735b4c.md)
+  - Also about: [Hunter Biden](/entities/person-hunter-biden.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:39:59](/episodes/ep-Ux1kzgQxkws.md#t-00-39-59) (Claim) **Hunter Biden**: ["The Department of Justice has my digital footprint, and none of it sup..."](/statements/statement-63499be5da29.md)
+  - Also about: [Hunter Biden](/entities/person-hunter-biden.md), [Joe Biden](/entities/person-joe-biden.md)
+
+</details>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (4)</summary>

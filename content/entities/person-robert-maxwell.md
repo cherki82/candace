@@ -1,6 +1,6 @@
 ---
 title: "Robert Maxwell"
-description: "Robert Maxwell (People) - 9 mentions"
+description: "Robert Maxwell (People) - 11 mentions"
 id: "person-robert-maxwell"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Encyclopaedia Britannica: Robert Maxwell](https://www.britannica.com/bi
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-robert-maxwell-t-00-29-10">2025-09-15 · 00:29:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-robert-maxwell-t-00-23-12">2026-04-21 · 00:23:45</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-robert-maxwell-t-01-12-09">2026-06-09 · 01:12:09</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -41,6 +41,8 @@ Source: [Encyclopaedia Britannica: Robert Maxwell](https://www.britannica.com/bi
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-robert-maxwell-t-00-33-11" style="--pulse-height:25%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-robert-maxwell-t-00-39-05" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 4 mentions" title="2026-04-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-robert-maxwell-t-00-23-12" style="--pulse-height:25%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-robert-maxwell-t-00-10-39" style="--pulse-height:25%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-person-robert-maxwell-t-01-12-09" style="--pulse-height:25%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +53,8 @@ Source: [Encyclopaedia Britannica: Robert Maxwell](https://www.britannica.com/bi
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-robert-maxwell-t-00-33-11) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-robert-maxwell-t-00-39-05) | 4 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-robert-maxwell-t-00-23-12) | 1 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-robert-maxwell-t-00-10-39) | 1 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-robert-maxwell-t-01-12-09) | 1 |
 
 </details>
 </section>
@@ -58,7 +62,23 @@ Source: [Encyclopaedia Britannica: Robert Maxwell](https://www.britannica.com/bi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>
+
+**[01:12:09](/episodes/ep-YeEtS7nix3o.md#ent-person-robert-maxwell-t-01-12-09)**
+> "...at you know the Maxwell clan, Robert Maxwell uh they"
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
+
+**[00:11:06](/episodes/ep-MhakwJxK-Zk.md#ent-person-robert-maxwell-t-00-10-39)**
+> "Robert Maxwell, Ghislaine Maxwell's father, as one of his seed i..."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1 mentions)</summary>
@@ -121,9 +141,10 @@ Source: [Encyclopaedia Britannica: Robert Maxwell](https://www.britannica.com/bi
 <summary>Invested In (1)</summary>
 
 - **[Bain Capital](/entities/org-bain-capital.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:40:13](/episodes/ep-1mYNOqzAdXs.md#t-00-40-13): “But originally it was arms trafficking. I'm bringing this up to you because something that I forgot to mention is that Robert Maxwell, Ghislaine (Ghislaine Maxwell)'s father, was one of the early investors into Bain Capital, Mitt Romney's company.”
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:56](/episodes/ep-MhakwJxK-Zk.md#t-00-10-39): “Mitt Romney founded Bain Capital with an Israeli spy. ... Robert Maxwell, Ghislaine Maxwell's father, as one of his seed investors.”
 
 </details>
 
@@ -133,10 +154,11 @@ Source: [Encyclopaedia Britannica: Robert Maxwell](https://www.britannica.com/bi
 <summary>Parent Of (1)</summary>
 
 - **[Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:29:10](/episodes/ep-czVBmqZP6Ss.md#t-00-28-54): “Ghislaine's father, Robert Maxwell”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:40:13](/episodes/ep-1mYNOqzAdXs.md#t-00-40-13): “Robert Maxwell, Ghislaine (Ghislaine Maxwell)'s father”
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:11:06](/episodes/ep-MhakwJxK-Zk.md#t-00-10-39): “Robert Maxwell, Ghislaine Maxwell's father”
 
 </details>
 
@@ -146,17 +168,19 @@ Source: [Encyclopaedia Britannica: Robert Maxwell](https://www.britannica.com/bi
 <summary>Referenced By (2)</summary>
 
 - **[Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md)** child of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:29:10](/episodes/ep-czVBmqZP6Ss.md#t-00-28-54): “Ghislaine's father, Robert Maxwell”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:40:13](/episodes/ep-1mYNOqzAdXs.md#t-00-40-13): “Robert Maxwell, Ghislaine (Ghislaine Maxwell)'s father”
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:11:06](/episodes/ep-MhakwJxK-Zk.md#t-00-10-39): “Robert Maxwell, Ghislaine Maxwell's father”
 
 </details>
 
 - **[Bain Capital](/entities/org-bain-capital.md)** has investor this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:40:13](/episodes/ep-1mYNOqzAdXs.md#t-00-40-13): “But originally it was arms trafficking. I'm bringing this up to you because something that I forgot to mention is that Robert Maxwell, Ghislaine (Ghislaine Maxwell)'s father, was one of the early investors into Bain Capital, Mitt Romney's company.”
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:56](/episodes/ep-MhakwJxK-Zk.md#t-00-10-39): “Mitt Romney founded Bain Capital with an Israeli spy. ... Robert Maxwell, Ghislaine Maxwell's father, as one of his seed investors.”
 
 </details>
 
@@ -165,7 +189,15 @@ Source: [Encyclopaedia Britannica: Robert Maxwell](https://www.britannica.com/bi
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Robert Maxwell (3)</strong></summary>
+<summary><strong class="section-title">Statements about Robert Maxwell (4)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
+
+- [00:10:56](/episodes/ep-MhakwJxK-Zk.md#t-00-10-39) (Accusation) **Candace Owens**: ["Mitt Romney founded Bain Capital with Robert Maxwell, whom Candace Owe..."](/statements/statement-be9839cdfb26.md)
+  - Also about: [Mitt Romney](/entities/person-mitt-romney.md), [Bain Capital](/entities/org-bain-capital.md)
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>

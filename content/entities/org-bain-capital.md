@@ -1,6 +1,6 @@
 ---
 title: "Bain Capital"
-description: "Bain Capital (Organizations) - 3 mentions"
+description: "Bain Capital (Organizations) - 4 mentions"
 id: "org-bain-capital"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [About Us | Bain Capital](https://www.baincapital.com/about-us)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-org-bain-capital-t-00-03-24">2026-04-01 · 00:03:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-bain-capital-t-00-40-13">2026-04-16 · 00:40:45</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-bain-capital-t-00-10-39">2026-05-27 · 00:10:56</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -33,6 +33,7 @@ Source: [About Us | Bain Capital](https://www.baincapital.com/about-us)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-bain-capital-t-00-03-24" style="--pulse-height:50%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-bain-capital-t-00-40-13" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 2 mentions" title="2026-04-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-bain-capital-t-00-10-39" style="--pulse-height:50%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [About Us | Bain Capital](https://www.baincapital.com/about-us)
 |---|---|---:|
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-bain-capital-t-00-03-24) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-bain-capital-t-00-40-13) | 2 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-bain-capital-t-00-10-39) | 1 |
 
 </details>
 </section>
@@ -47,7 +49,15 @@ Source: [About Us | Bain Capital](https://www.baincapital.com/about-us)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
+
+**[00:10:56](/episodes/ep-MhakwJxK-Zk.md#ent-org-bain-capital-t-00-10-39)**
+> "...ng Group, Mitt Romney founded Bain Capital with an Israeli spy."
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (2 mentions)</summary>
@@ -89,9 +99,10 @@ Source: [About Us | Bain Capital](https://www.baincapital.com/about-us)
 <summary>Founded By (1)</summary>
 
 - **[Mitt Romney](/entities/person-mitt-romney.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:34](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “Yeah, that Mitt Romney, the former senator of Utah, the one-time presidential nominee who ran against Barack Obama, the co-founder and the former CEO of Bain Capital.”
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:56](/episodes/ep-MhakwJxK-Zk.md#t-00-10-39): “Now, I'm going to remind you also that from the Boston Consulting Group, Mitt Romney founded Bain Capital with an Israeli spy.”
 
 </details>
 
@@ -101,9 +112,10 @@ Source: [About Us | Bain Capital](https://www.baincapital.com/about-us)
 <summary>Has Investor (1)</summary>
 
 - **[Robert Maxwell](/entities/person-robert-maxwell.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:40:13](/episodes/ep-1mYNOqzAdXs.md#t-00-40-13): “But originally it was arms trafficking. I'm bringing this up to you because something that I forgot to mention is that Robert Maxwell, Ghislaine (Ghislaine Maxwell)'s father, was one of the early investors into Bain Capital, Mitt Romney's company.”
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:56](/episodes/ep-MhakwJxK-Zk.md#t-00-10-39): “Mitt Romney founded Bain Capital with an Israeli spy. ... Robert Maxwell, Ghislaine Maxwell's father, as one of his seed investors.”
 
 </details>
 
@@ -120,16 +132,18 @@ Source: [About Us | Bain Capital](https://www.baincapital.com/about-us)
 </details>
 
 - **[Mitt Romney](/entities/person-mitt-romney.md)** founded this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:34](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “Yeah, that Mitt Romney, the former senator of Utah, the one-time presidential nominee who ran against Barack Obama, the co-founder and the former CEO of Bain Capital.”
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:56](/episodes/ep-MhakwJxK-Zk.md#t-00-10-39): “Now, I'm going to remind you also that from the Boston Consulting Group, Mitt Romney founded Bain Capital with an Israeli spy.”
 
 </details>
 
 - **[Robert Maxwell](/entities/person-robert-maxwell.md)** invested in this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:40:13](/episodes/ep-1mYNOqzAdXs.md#t-00-40-13): “But originally it was arms trafficking. I'm bringing this up to you because something that I forgot to mention is that Robert Maxwell, Ghislaine (Ghislaine Maxwell)'s father, was one of the early investors into Bain Capital, Mitt Romney's company.”
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:56](/episodes/ep-MhakwJxK-Zk.md#t-00-10-39): “Mitt Romney founded Bain Capital with an Israeli spy. ... Robert Maxwell, Ghislaine Maxwell's father, as one of his seed investors.”
 
 </details>
 
@@ -138,7 +152,15 @@ Source: [About Us | Bain Capital](https://www.baincapital.com/about-us)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bain Capital (1)</strong></summary>
+<summary><strong class="section-title">Statements about Bain Capital (2)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
+
+- [00:10:56](/episodes/ep-MhakwJxK-Zk.md#t-00-10-39) (Accusation) **Candace Owens**: ["Mitt Romney founded Bain Capital with Robert Maxwell, whom Candace Owe..."](/statements/statement-be9839cdfb26.md)
+  - Also about: [Mitt Romney](/entities/person-mitt-romney.md), [Robert Maxwell](/entities/person-robert-maxwell.md)
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1)</summary>

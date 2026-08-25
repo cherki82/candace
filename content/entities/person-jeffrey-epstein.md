@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Epstein"
-description: "Jeffrey Epstein (People) - 297 mentions"
+description: "Jeffrey Epstein (People) - 333 mentions"
 id: "person-jeffrey-epstein"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-28-54">2025-09-15 · 00:29:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-jeffrey-epstein-t-00-00-40">2026-05-13 · 00:00:40</a></strong></div>
-<div><span>Episodes</span><strong>70</strong></div>
-<div><span>Mentions</span><strong>297</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-jeffrey-epstein-t-01-24-50">2026-05-28 · 01:24:50</a></strong></div>
+<div><span>Episodes</span><strong>77</strong></div>
+<div><span>Mentions</span><strong>333</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>71</strong></div>
+<div><span>Statements about</span><strong>77</strong></div>
 <div><span>Relationships</span><strong>28</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -105,6 +105,13 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-jeffrey-epstein-t-00-34-27" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-jeffrey-epstein-t-00-20-30" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-jeffrey-epstein-t-00-00-40" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-jeffrey-epstein-t-00-02-36" style="--pulse-height:8%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 2 mentions" title="2026-05-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-jeffrey-epstein-t-00-59-14" style="--pulse-height:8%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 2 mentions" title="2026-05-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-person-jeffrey-epstein-t-00-00-00" style="--pulse-height:15%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 4 mentions" title="2026-05-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-jeffrey-epstein-t-00-43-14" style="--pulse-height:27%" aria-label="Candace x Hunter Biden: The Interview: 7 mentions" title="2026-05-21 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-jeffrey-epstein-t-00-38-44" style="--pulse-height:19%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 5 mentions" title="2026-05-26 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-jeffrey-epstein-t-00-30-35" style="--pulse-height:12%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 3 mentions" title="2026-05-27 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-jeffrey-epstein-t-00-21-45" style="--pulse-height:50%" aria-label="Candace Owens x Ana Kasparian: 13 mentions" title="2026-05-28 · 13 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -180,6 +187,13 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-jeffrey-epstein-t-00-34-27) | 2 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-jeffrey-epstein-t-00-20-30) | 1 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-jeffrey-epstein-t-00-00-40) | 1 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-jeffrey-epstein-t-00-02-36) | 2 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-person-jeffrey-epstein-t-00-59-14) | 2 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-jeffrey-epstein-t-00-00-00) | 4 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-jeffrey-epstein-t-00-43-14) | 7 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-jeffrey-epstein-t-00-38-44) | 5 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-jeffrey-epstein-t-00-30-35) | 3 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-jeffrey-epstein-t-00-21-45) | 13 |
 
 </details>
 </section>
@@ -187,7 +201,150 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (297)</strong></summary>
+<summary><strong class="section-title">Raw mentions (333)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (13 mentions)</summary>
+
+**[00:21:45](/episodes/ep-SKNJPul29zU.md#ent-person-jeffrey-epstein-t-00-21-45)**
+> "Can we just address how brazenly obvious like okay when every pro-israel media figure comes out at the same time and basically says oh there's no big deal with the epstein files they shouldn't be released you're giving it away"
+
+**[00:21:22](/episodes/ep-SKNJPul29zU.md#ent-person-jeffrey-epstein-t-00-21-22)**
+> "going to get that 20 times worse it's going to be your stories about your grandma in your book you go to temple you go to you know you're I mean you go to synagogue and you're going to have those presets and then it went too far and a lot of them snapped out of it and now I get Jewish people emailing me Totally. being like I don't know what this is I don't know why I'm being told I have to defend Jeffrey Epstein I don't know why I'm"
+
+**[00:41:08](/episodes/ep-SKNJPul29zU.md#ent-person-jeffrey-epstein-t-00-41-08)**
+> "...t's all the same. I think the Epstein files had everyone in it. Truly, I think they hav..."
+
+**[00:41:38](/episodes/ep-SKNJPul29zU.md#ent-person-jeffrey-epstein-t-00-41-38)**
+> "deep on the Epstein stuff and I'm going, oh, okay. So this is what I ..."
+
+**[00:41:55](/episodes/ep-SKNJPul29zU.md#ent-person-jeffrey-epstein-t-00-41-55)**
+> "...porting on that. And then the Epstein files that were released, they specifically start..."
+
+**[00:42:29](/episodes/ep-SKNJPul29zU.md#ent-person-jeffrey-epstein-t-00-42-25)**
+> "...is this are we looking at the Epstein network?"
+
+**[00:42:58](/episodes/ep-SKNJPul29zU.md#ent-person-jeffrey-epstein-t-00-42-58)**
+> "...ut when I look at the broader Epstein picture."
+
+**[00:43:04](/episodes/ep-SKNJPul29zU.md#ent-person-jeffrey-epstein-t-00-43-04)**
+> "one of the things that Epstein was always involved in was where women could be t..."
+
+**[00:43:21](/episodes/ep-SKNJPul29zU.md#ent-person-jeffrey-epstein-t-00-43-21)**
+> "Just like Epstein."
+
+**[00:43:33](/episodes/ep-SKNJPul29zU.md#ent-person-jeffrey-epstein-t-00-43-22)**
+> "Like, is that how he knows Epstein world? Is that, does it go back that deep? Did he..."
+
+**[00:50:42](/episodes/ep-SKNJPul29zU.md#ent-person-jeffrey-epstein-t-00-50-42)**
+> "...n everyone forget about it uh epstein files oh who are we talking about the epstein fil..."
+
+**[01:23:09](/episodes/ep-SKNJPul29zU.md#ent-person-jeffrey-epstein-t-01-23-09)**
+> "...tric pedophile defending like Epstein class of psychopaths. We don't want this. We do n..."
+
+**[01:24:50](/episodes/ep-SKNJPul29zU.md#ent-person-jeffrey-epstein-t-01-24-50)**
+> "...save this country against the Epstein class."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (3 mentions)</summary>
+
+**[00:30:35](/episodes/ep-MhakwJxK-Zk.md#ent-person-jeffrey-epstein-t-00-30-35)**
+> "Jeffrey Epstein on stage. He's asking where all this money is com..."
+
+**[00:47:05](/episodes/ep-MhakwJxK-Zk.md#ent-person-jeffrey-epstein-t-00-47-05)**
+> "...safe in America today are the Epstein files."
+
+**[00:47:12](/episodes/ep-MhakwJxK-Zk.md#ent-person-jeffrey-epstein-t-00-47-05)**
+> "...out Iran, Israel, Massey, and Epstein. People would have listened to Charlie (Charlie K..."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (5 mentions)</summary>
+
+**[00:39:16](/episodes/ep-BxN2-aeMYIs.md#ent-person-jeffrey-epstein-t-00-38-44)**
+> "Charlie did not support Jeffrey Epstein"
+
+**[00:38:00](/episodes/ep-BxN2-aeMYIs.md#ent-person-jeffrey-epstein-t-00-37-53)**
+> "... debt or the war, but also on Epstein saying where there's this pedophile class that Tr..."
+
+**[00:38:53](/episodes/ep-BxN2-aeMYIs.md#ent-person-jeffrey-epstein-t-00-38-44)**
+> "...rlie went so hard against the Epstein files."
+
+**[00:39:01](/episodes/ep-BxN2-aeMYIs.md#ent-person-jeffrey-epstein-t-00-38-44)**
+> "...ie just keeps harping on this Epstein thing and telling the truth."
+
+**[00:39:10](/episodes/ep-BxN2-aeMYIs.md#ent-person-jeffrey-epstein-t-00-38-44)**
+> "That Trump is protecting the Epstein class. No, Charlie would have been not okay with ..."
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (7 mentions)</summary>
+
+**[00:35:04](/episodes/ep-Ux1kzgQxkws.md#ent-person-jeffrey-epstein-t-00-43-14)**
+> "...is driving us crazy about the Epstein files right now it's what's actually leading it i..."
+
+**[00:43:14](/episodes/ep-Ux1kzgQxkws.md#ent-person-jeffrey-epstein-t-00-43-14)**
+> "...I'm angry with Trump over the Epstein thing."
+
+**[00:43:20](/episodes/ep-Ux1kzgQxkws.md#ent-person-jeffrey-epstein-t-00-43-14)**
+> "...s like Trump being like, what Epstein files?"
+
+**[00:43:30](/episodes/ep-Ux1kzgQxkws.md#ent-person-jeffrey-epstein-t-00-43-14)**
+> "...re we still talking about the Epstein files? And so. So but then things kind of changed..."
+
+**[00:46:51](/episodes/ep-Ux1kzgQxkws.md#ent-person-jeffrey-epstein-t-00-46-51)**
+> "... he's playing 4d chess on the epstein thing the you know i know he said no warren rand ..."
+
+**[01:02:08](/episodes/ep-Ux1kzgQxkws.md#ent-person-jeffrey-epstein-t-01-01-51)**
+> "Epstein, like, you want to figure out why they don't want..."
+
+**[01:18:50](/episodes/ep-Ux1kzgQxkws.md#ent-person-jeffrey-epstein-t-01-18-27)**
+> "...lub. He was never part of the Epstein class."
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (4 mentions)</summary>
+
+**[00:00:28](/episodes/ep-cPidFQDJLbo.md#ent-person-jeffrey-epstein-t-00-00-00)**
+> "the sheer arrogance right now of the Epstein class."
+
+**[00:33:12](/episodes/ep-cPidFQDJLbo.md#ent-person-jeffrey-epstein-t-00-33-04)**
+> "...wer we've got money we've got epstein class connections we could do whatever we want we..."
+
+**[00:38:34](/episodes/ep-cPidFQDJLbo.md#ent-person-jeffrey-epstein-t-00-38-27)**
+> "... rightfully venting about the Epstein class and the pedophile class and it sort of seem..."
+
+**[00:51:08](/episodes/ep-cPidFQDJLbo.md#ent-person-jeffrey-epstein-t-00-50-40)**
+> "...ed in that direction with the Epstein class."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (2 mentions)</summary>
+
+**[00:59:46](/episodes/ep-Dkxa9OUA9K8.md#ent-person-jeffrey-epstein-t-00-59-14)**
+> "...d be a perfect setup for like Jeffrey Epstein, right? I mean,"
+
+**[01:01:13](/episodes/ep-Dkxa9OUA9K8.md#ent-person-jeffrey-epstein-t-01-01-08)**
+> "... IDF, I go, yeah, we'll go to Jeffrey Epstein, right?"
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (2 mentions)</summary>
+
+**[00:02:46](/episodes/ep-1QZ4X6q1DPg.md#ent-person-jeffrey-epstein-t-00-02-36)**
+> "He was never part of the Epstein class. You know one thing he didn't do? He didn't..."
+
+**[00:04:47](/episodes/ep-1QZ4X6q1DPg.md#ent-person-jeffrey-epstein-t-00-04-47)**
+> "...erything what do you mean the Epstein files are we talking about the Epstein files that..."
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1 mentions)</summary>
@@ -1560,9 +1717,10 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 - **[Jean-Luc Brunel](/entities/person-jean-luc-brunel.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:31:05](/episodes/ep-CEF7gQRWYCE.md#t-00-30-39): “what I know about Jeffrey Epstein and the way that he was moving with Jean-Luc Brunel”
+- [Candace Owens x Ana Kasparian @ 00:43:11](/episodes/ep-SKNJPul29zU.md#t-00-43-11): “the guy Jean-Luc Brunel was his partner in Paris for like the modeling firm who ended up killing himself in prison.”
 
 </details>
 
@@ -1705,7 +1863,35 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jeffrey Epstein (71)</strong></summary>
+<summary><strong class="section-title">Statements about Jeffrey Epstein (77)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (4)</summary>
+
+- [00:21:45](/episodes/ep-SKNJPul29zU.md#t-00-21-45) (Accusation) **Ana Kasparian**: ["Pro-Israel media figures collectively argued that releasing the Epstei..."](/statements/statement-b7f476dd2a7e.md)
+  - Also about: [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
+
+- [00:41:08](/episodes/ep-SKNJPul29zU.md#t-00-41-08) (Accusation) **Candace Owens**: ["A global arms-trafficking and sex-trafficking syndicate connected to J..."](/statements/statement-7082e0576f1f.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+- [00:41:28](/episodes/ep-SKNJPul29zU.md#t-00-41-28) (Citation) **Ana Kasparian**: ["Former Mossad agents testified that Jeffrey Epstein was brought into a..."](/statements/statement-c4a88b04a906.md)
+  - Also about: [Mossad](/entities/org-mossad.md), [Iran](/entities/gpe-iran.md)
+
+- [00:42:13](/episodes/ep-SKNJPul29zU.md#t-00-42-13) (Claim) **Ana Kasparian**: ["Jeffrey Epstein arranged international deals on Israel's behalf, inclu..."](/statements/statement-e5c904c5ad6f.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [United Arab Emirates](/entities/gpe-united-arab-emirates.md)
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (2)</summary>
+
+- [00:37:53](/episodes/ep-BxN2-aeMYIs.md#t-00-37-52) (Opinion) **Blake Neff**: ["Thomas Massie has become the number-one Republican gadfly who gets in ..."](/statements/statement-7cd583a3c902.md)
+  - Also about: [Thomas Massie](/entities/person-thomas-massie.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:38:53](/episodes/ep-BxN2-aeMYIs.md#t-00-38-44) (Opinion) **Candace Owens**: ["Charlie Kirk strongly supported releasing the Epstein files and would ..."](/statements/statement-b4f5e9783d49.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Jean-Luc Brunel"
-description: "Jean-Luc Brunel (People) - 5 mentions"
+description: "Jean-Luc Brunel (People) - 6 mentions"
 id: "person-jean-luc-brunel"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Epstein used modelling agent to recruit girls, Brazilian women tell BBC
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-person-jean-luc-brunel-t-00-36-16">2026-01-16 · 00:36:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-jean-luc-brunel-t-00-17-19">2026-03-10 · 00:17:30</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-jean-luc-brunel-t-00-43-11">2026-05-28 · 00:43:11</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -34,6 +34,7 @@ Source: [Epstein used modelling agent to recruit girls, Brazilian women tell BBC
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-jean-luc-brunel-t-00-36-16" style="--pulse-height:50%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jean-luc-brunel-t-00-31-05" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-jean-luc-brunel-t-00-17-19" style="--pulse-height:100%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-jean-luc-brunel-t-00-43-11" style="--pulse-height:50%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +43,7 @@ Source: [Epstein used modelling agent to recruit girls, Brazilian women tell BBC
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-jean-luc-brunel-t-00-36-16) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-jean-luc-brunel-t-00-31-05) | 2 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-jean-luc-brunel-t-00-17-19) | 2 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-jean-luc-brunel-t-00-43-11) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [Epstein used modelling agent to recruit girls, Brazilian women tell BBC
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
+
+**[00:43:11](/episodes/ep-SKNJPul29zU.md#ent-person-jean-luc-brunel-t-00-43-11)**
+> "the guy Jean-Luc Brunel was his partner in Paris for like the modeling firm who ended up killing himself in prison."
+
+</details>
 
 <details>
 <summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (2 mentions)</summary>
@@ -121,9 +131,10 @@ Source: [Epstein used modelling agent to recruit girls, Brazilian women tell BBC
 </details>
 
 - **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:31:05](/episodes/ep-CEF7gQRWYCE.md#t-00-30-39): “what I know about Jeffrey Epstein and the way that he was moving with Jean-Luc Brunel”
+- [Candace Owens x Ana Kasparian @ 00:43:11](/episodes/ep-SKNJPul29zU.md#t-00-43-11): “the guy Jean-Luc Brunel was his partner in Paris for like the modeling firm who ended up killing himself in prison.”
 
 </details>
 

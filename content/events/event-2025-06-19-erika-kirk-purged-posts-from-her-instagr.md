@@ -11,7 +11,7 @@ date: "2025-06-19"
 
 > Erika Kirk purged posts from her Instagram account.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 2...
 
@@ -28,3 +28,11 @@ date: "2025-06-19"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1710);return false;">▶️ Play</a>
 
 > a while ago that on June 19th, Erika purged her Instagram of a lot of pictures,
+
+### 3. BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. |...
+
+**Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
+**Timestamp:** [00:28:32](/episodes/ep-MhakwJxK-Zk.md#t-00-28-32) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1712);return false;">▶️ Play</a>
+
+> Erika purges her Instagram. She deletes 126 posts.

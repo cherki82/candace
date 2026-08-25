@@ -1,6 +1,6 @@
 ---
 title: "Calvary Chapel"
-description: "Calvary Chapel (Organizations) - 76 mentions"
+description: "Calvary Chapel (Organizations) - 79 mentions"
 id: "org-calvary-chapel"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#t-00-03-39">2025-10-29 · 00:03:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-calvary-chapel-t-00-44-59">2026-05-04 · 00:45:04</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>76</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-calvary-chapel-t-00-35-54">2026-05-19 · 00:35:54</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>79</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -55,6 +55,7 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-calvary-chapel-t-00-15-12" style="--pulse-height:20%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 4 mentions" title="2026-04-14 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-org-calvary-chapel-t-00-42-24" style="--pulse-height:15%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 3 mentions" title="2026-04-15 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-calvary-chapel-t-00-44-59" style="--pulse-height:8%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-calvary-chapel-t-00-04-30" style="--pulse-height:15%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 3 mentions" title="2026-05-19 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -80,6 +81,7 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-calvary-chapel-t-00-15-12) | 4 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-calvary-chapel-t-00-42-24) | 3 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-calvary-chapel-t-00-44-59) | 1 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-calvary-chapel-t-00-04-30) | 3 |
 
 </details>
 </section>
@@ -87,7 +89,21 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (76)</strong></summary>
+<summary><strong class="section-title">Raw mentions (79)</strong></summary>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (3 mentions)</summary>
+
+**[00:04:50](/episodes/ep-Dkxa9OUA9K8.md#ent-org-calvary-chapel-t-00-04-30)**
+> "...esus and he started attending Calvary Chapel Church, my favorite church faith."
+
+**[00:05:05](/episodes/ep-Dkxa9OUA9K8.md#ent-org-calvary-chapel-t-00-05-05)**
+> "All right, 10 out of 10, Calvary Chapel Church, definitely the pastors. At 23, Victor (Vi..."
+
+**[00:35:54](/episodes/ep-Dkxa9OUA9K8.md#ent-org-calvary-chapel-t-00-35-54)**
+> "...ir to assume that evangelical Calvary Chapel, are you evangelical? Is that correct?"
+
+</details>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
@@ -426,9 +442,10 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <summary>Attended By (1)</summary>
 
 - **[Victor Marx](/entities/person-victor-marx.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:15:29](/episodes/ep-jsqUIkszZd0.md#t-00-15-12): “he was stationed at Camp Pendleton in California and began attending the nearby Calvary Chapel.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:04:50](/episodes/ep-Dkxa9OUA9K8.md#t-00-04-30): “At 18, Victor (Victor Marx) joined the Marine Corps, served for two years before he was discharged. At 21, he says he found Jesus and he started attending Calvary Chapel Church, my favorite church faith.”
 
 </details>
 
@@ -482,9 +499,10 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <summary>Referenced By (5)</summary>
 
 - **[Victor Marx](/entities/person-victor-marx.md)** attended this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:15:29](/episodes/ep-jsqUIkszZd0.md#t-00-15-12): “he was stationed at Camp Pendleton in California and began attending the nearby Calvary Chapel.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:04:50](/episodes/ep-Dkxa9OUA9K8.md#t-00-04-30): “At 18, Victor (Victor Marx) joined the Marine Corps, served for two years before he was discharged. At 21, he says he found Jesus and he started attending Calvary Chapel Church, my favorite church faith.”
 
 </details>
 

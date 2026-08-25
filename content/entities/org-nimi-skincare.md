@@ -1,6 +1,6 @@
 ---
 title: "Nimi Skincare"
-description: "Nimi Skincare (Organizations) - 174 mentions"
+description: "Nimi Skincare (Organizations) - 189 mentions"
 id: "org-nimi-skincare"
 type: "ORG"
 aliases:
@@ -32,9 +32,9 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-nimi-skincare-t-00-51-30">2025-09-18 · 00:51:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-nimi-skincare-t-00-26-51">2026-05-13 · 00:27:21</a></strong></div>
-<div><span>Episodes</span><strong>42</strong></div>
-<div><span>Mentions</span><strong>174</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-org-nimi-skincare-t-00-30-50">2026-05-28 · 00:31:15</a></strong></div>
+<div><span>Episodes</span><strong>45</strong></div>
+<div><span>Mentions</span><strong>189</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -87,6 +87,9 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-nimi-skincare-t-00-29-31" style="--pulse-height:25%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-org-nimi-skincare-t-00-19-22" style="--pulse-height:38%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 3 mentions" title="2026-05-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-nimi-skincare-t-00-26-10" style="--pulse-height:62%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 5 mentions" title="2026-05-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-org-nimi-skincare-t-00-01-35" style="--pulse-height:75%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 6 mentions" title="2026-05-20 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-nimi-skincare-t-00-27-19" style="--pulse-height:50%" aria-label="Candace x Hunter Biden: The Interview: 4 mentions" title="2026-05-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-org-nimi-skincare-t-00-30-50" style="--pulse-height:62%" aria-label="Candace Owens x Ana Kasparian: 5 mentions" title="2026-05-28 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -134,6 +137,9 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-nimi-skincare-t-00-29-31) | 2 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-org-nimi-skincare-t-00-19-22) | 3 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-org-nimi-skincare-t-00-26-10) | 5 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-org-nimi-skincare-t-00-01-35) | 6 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-nimi-skincare-t-00-27-19) | 4 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-nimi-skincare-t-00-30-50) | 5 |
 
 </details>
 </section>
@@ -141,7 +147,67 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (174)</strong></summary>
+<summary><strong class="section-title">Raw mentions (189)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (5 mentions)</summary>
+
+**[00:30:59](/episodes/ep-SKNJPul29zU.md#ent-org-nimi-skincare-t-00-30-50)**
+> "So if your bathroom counter is overflowing with products that you barely use, maybe it's time to simplify Nimi's three-step anti-aging routine makes taking care of your skin feel easy. Again, check out Nimi skincare today at NimiSkinCare.com and use code CANDACE10 at checkout for a special discount."
+
+**[00:30:21](/episodes/ep-SKNJPul29zU.md#ent-org-nimi-skincare-t-00-30-06)**
+> "Again, that's pdsdebt.com slash Candace. I also want to tell you guys about Nimi Skin Care. You know I love them."
+
+**[00:30:32](/episodes/ep-SKNJPul29zU.md#ent-org-nimi-skincare-t-00-30-06)**
+> "Then I found Nimi's three-step anti-aging routine and it changed ev..."
+
+**[00:30:55](/episodes/ep-SKNJPul29zU.md#ent-org-nimi-skincare-t-00-30-50)**
+> "What I love most is that Nimi focuses on ingredients that actually work without..."
+
+**[00:31:15](/episodes/ep-SKNJPul29zU.md#ent-org-nimi-skincare-t-00-30-50)**
+> "Again, that's NimiSkinCare.com promo code CANDACE10 at checkout."
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (4 mentions)</summary>
+
+**[00:27:29](/episodes/ep-Ux1kzgQxkws.md#ent-org-nimi-skincare-t-00-27-19)**
+> "...rse, have to remind you about Nimi skincare because I used to think that great skincare had t..."
+
+**[00:27:38](/episodes/ep-Ux1kzgQxkws.md#ent-org-nimi-skincare-t-00-27-19)**
+> "Then I found Nimi's three-step anti-aging routine and it has change..."
+
+**[00:28:14](/episodes/ep-Ux1kzgQxkws.md#ent-org-nimi-skincare-t-00-27-58)**
+> "...k out Nimi Skin Care today at nimiskincare.com and use code Candace10 at checkout for a special ..."
+
+**[00:28:25](/episodes/ep-Ux1kzgQxkws.md#ent-org-nimi-skincare-t-00-27-58)**
+> "Again, that's nimiskincare.com, promo code Candace10 at checkout. When you're in..."
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (6 mentions)</summary>
+
+**[00:01:35](/episodes/ep-cPidFQDJLbo.md#ent-org-nimi-skincare-t-00-01-35)**
+> "quick shout out to Nimi Skin Care"
+
+**[00:01:44](/episodes/ep-cPidFQDJLbo.md#ent-org-nimi-skincare-t-00-01-35)**
+> "So visit NimiSkinCare.com and use my code Candace10 at checkout for an addi..."
+
+**[00:28:42](/episodes/ep-cPidFQDJLbo.md#ent-org-nimi-skincare-t-00-01-35)**
+> "...oing enough. And then I found Nimi's three-step anti-aging routine, and it has chang..."
+
+**[00:29:09](/episodes/ep-cPidFQDJLbo.md#ent-org-nimi-skincare-t-00-28-53)**
+> "... And what I love most is that Nimi focuses on ingredients that actually work without..."
+
+**[00:29:24](/episodes/ep-cPidFQDJLbo.md#ent-org-nimi-skincare-t-00-28-53)**
+> "...in feel easy again. Check out Nimi skincare today at nimiskincare.com and use code Candace10 ..."
+
+**[00:29:34](/episodes/ep-cPidFQDJLbo.md#ent-org-nimi-skincare-t-00-29-34)**
+> "We'll discount. That's nimiskincare.com with promo code Candace10 at checkout. I also wan..."
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (5 mentions)</summary>
@@ -878,7 +944,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:00:44](/episodes/ep-his-JBjlkh8.md#t-00-00-00): “[00:54:41] Also, you guys know I have to tell you about Nimee Skincare. I love them.”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:33:17](/episodes/ep-2tFYJf1klgY.md#t-00-32-55): “it's the only skincare brand that I have stayed consistent with. It's what I use, it's what I trust”
@@ -891,6 +957,8 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:01:41](/episodes/ep-qZ8RWfyuewQ.md#t-00-01-41): “All right, you guys, quick shout out to Nimi Skin Care for supporting today's show. I am very intentional about what brands I work with, and Nimi is one that I actually use. Clean, simple skin care made right here in America. So visit NimiSkinCare.com and use my code CANDICE10 at checkout for an additional 10% off your order.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:30:09](/episodes/ep-uC_GjKU8rs8.md#t-00-29-31): “So if you've been thinking about trying a more natural approach, check out Nimi Skin Care today at Nimi Skin Care.”
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:26:29](/episodes/ep-4DvYXBn_5JI.md#t-00-26-10): “I also want to tell you guys about Nimi skincare. You know, I love them. I used to think that great skincare had to be complicated.”
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:29:24](/episodes/ep-cPidFQDJLbo.md#t-00-28-53): “Nimi's three-step anti-aging routine makes taking care of your skin feel easy again. Check out Nimi skincare today at nimiskincare.com and use code Candace10 at checkout for a special discount.”
+- [Candace x Hunter Biden: The Interview @ 00:28:14](/episodes/ep-Ux1kzgQxkws.md#t-00-27-58): “check out Nimi Skin Care today at nimiskincare.com and use code Candace10 at checkout for a special discount.”
 
 </details>
 
@@ -900,7 +968,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:00:44](/episodes/ep-his-JBjlkh8.md#t-00-00-00): “[00:54:41] Also, you guys know I have to tell you about Nimee Skincare. I love them.”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:33:17](/episodes/ep-2tFYJf1klgY.md#t-00-32-55): “it's the only skincare brand that I have stayed consistent with. It's what I use, it's what I trust”
@@ -913,6 +981,8 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:01:41](/episodes/ep-qZ8RWfyuewQ.md#t-00-01-41): “All right, you guys, quick shout out to Nimi Skin Care for supporting today's show. I am very intentional about what brands I work with, and Nimi is one that I actually use. Clean, simple skin care made right here in America. So visit NimiSkinCare.com and use my code CANDICE10 at checkout for an additional 10% off your order.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:30:09](/episodes/ep-uC_GjKU8rs8.md#t-00-29-31): “So if you've been thinking about trying a more natural approach, check out Nimi Skin Care today at Nimi Skin Care.”
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:26:29](/episodes/ep-4DvYXBn_5JI.md#t-00-26-10): “I also want to tell you guys about Nimi skincare. You know, I love them. I used to think that great skincare had to be complicated.”
+- [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:29:24](/episodes/ep-cPidFQDJLbo.md#t-00-28-53): “Nimi's three-step anti-aging routine makes taking care of your skin feel easy again. Check out Nimi skincare today at nimiskincare.com and use code Candace10 at checkout for a special discount.”
+- [Candace x Hunter Biden: The Interview @ 00:28:14](/episodes/ep-Ux1kzgQxkws.md#t-00-27-58): “check out Nimi Skin Care today at nimiskincare.com and use code Candace10 at checkout for a special discount.”
 
 </details>
 

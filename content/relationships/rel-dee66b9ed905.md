@@ -11,7 +11,11 @@ object: "person-erika-kirk"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) has chairman [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (11 mentions)
+### Evidence (13 mentions)
+
+**[Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg)**
+
+- [00:08:21](/episodes/ep-1QZ4X6q1DPg#t-00-08-21): _Erika Kirk, like really? Erika Kirk is going to be appointed the CEO and chairman this soon, a couple of days after._
 
 **[EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM)**
 
@@ -48,6 +52,10 @@ object: "person-erika-kirk"
 **[Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM)**
 
 - [00:00:28](/episodes/ep-ZAsV0fHGBiM#t-00-00-28): _Turning Point USA is a literal charity ... Erika Kirk is grieving. ... Please allow her to do so in the privacy of the billion dollar charity that she took over. ... Despite all that the public remains unconvinced that she is simply a grieving widow because she isn't simply a grieving widow she's also the CEO and chairman of an organization._
+
+**[TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo)**
+
+- [00:31:29](/episodes/ep-cPidFQDJLbo#t-00-31-29): _Interestingly enough, you might recall from that Daily Mail article that they said that they spoke to a TPUSA board member who said that he was helping with those affairs. ... And this is if I'm just taking a shot in the dark. I would imagine it was one of the board members who announced that Erika (Erika Kirk) was going to be the CEO and the chairman._
 
 **[Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w)**
 

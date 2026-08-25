@@ -11,7 +11,7 @@ date: "2026-04-25"
 
 > An armed man breached a White House Correspondents' Dinner security checkpoint and Secret Service agents opened fire.
 
-## Mentioned In (3 times)
+## Mentioned In (6 times)
 
 ### 1. TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330
 
@@ -36,3 +36,27 @@ date: "2026-04-25"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(179);return false;">▶️ Play</a>
 
 > That's when the Secret Service began firing at one another, so we've since learned.
+
+### 4. SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It ...
+
+**Episode:** [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md)
+**Timestamp:** [00:00:32](/episodes/ep-Pb7UlpRdW6U.md#event-event-2026-04-25-an-armed-man-breached-a-white-house-corr-t-00-00-01) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(32);return false;">▶️ Play</a>
+
+> during the evening of April 25th, the day of the alleged White House shooting.
+
+### 5. Hunter Biden Returns. The White House Ghosts Me Regarding Er...
+
+**Episode:** [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md)
+**Timestamp:** [00:29:22](/episodes/ep-1QZ4X6q1DPg.md#event-event-2026-04-25-an-armed-man-breached-a-white-house-corr-t-00-28-54) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1762);return false;">▶️ Play</a>
+
+> about an hour after the quote-unquote shooting happened at the White House Correspondents' Dinner
+
+### 6. The World Is A Stage: Trump Survives...Again? | Ep 343
+
+**Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
+**Timestamp:** [00:04:08](/episodes/ep-BxN2-aeMYIs.md#event-event-2026-04-25-an-armed-man-breached-a-white-house-corr-t-00-03-48) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(248);return false;">▶️ Play</a>
+
+> last almost assassination attempt and our questions regarding the White House Correspondents Dinner

@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Netanyahu"
-description: "Benjamin Netanyahu (People) - 327 mentions"
+description: "Benjamin Netanyahu (People) - 352 mentions"
 id: "person-benjamin-netanyahu"
 type: "PERSON"
 aliases:
@@ -29,11 +29,11 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-06-16">2025-09-15 · 00:01:28</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-02-52-41">2026-08-14 · 02:52:41</a></strong></div>
-<div><span>Episodes</span><strong>72</strong></div>
-<div><span>Mentions</span><strong>327</strong></div>
-<div><span>Statements by</span><strong>16</strong></div>
-<div><span>Statements about</span><strong>96</strong></div>
-<div><span>Relationships</span><strong>38</strong></div>
+<div><span>Episodes</span><strong>77</strong></div>
+<div><span>Mentions</span><strong>352</strong></div>
+<div><span>Statements by</span><strong>17</strong></div>
+<div><span>Statements about</span><strong>103</strong></div>
+<div><span>Relationships</span><strong>53</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -112,6 +112,11 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-benjamin-netanyahu-t-00-27-26" style="--pulse-height:8%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-benjamin-netanyahu-t-00-01-24" style="--pulse-height:39%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 11 mentions" title="2026-05-05 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-benjamin-netanyahu-t-00-47-44" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-benjamin-netanyahu-t-00-46-32" style="--pulse-height:8%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-benjamin-netanyahu-t-00-40-52" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-benjamin-netanyahu-t-00-02-47" style="--pulse-height:50%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 14 mentions" title="2026-05-27 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-benjamin-netanyahu-t-00-21-44" style="--pulse-height:29%" aria-label="Candace Owens x Ana Kasparian: 8 mentions" title="2026-05-28 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-person-benjamin-netanyahu-t-00-32-35" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-00-35-32" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -189,6 +194,11 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-benjamin-netanyahu-t-00-27-26) | 1 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-benjamin-netanyahu-t-00-01-24) | 11 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-benjamin-netanyahu-t-00-47-44) | 1 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-benjamin-netanyahu-t-00-46-32) | 1 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-benjamin-netanyahu-t-00-40-52) | 1 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-benjamin-netanyahu-t-00-02-47) | 14 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-benjamin-netanyahu-t-00-21-44) | 8 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-benjamin-netanyahu-t-00-32-35) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-00-35-32) | 3 |
 
 </details>
@@ -197,7 +207,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (327)</strong></summary>
+<summary><strong class="section-title">Raw mentions (352)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -210,6 +220,106 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 **[02:52:41](/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-02-52-41)**
 > "...ld take a supporter like owen benjamin he called you bad names and one and called your h..."
+
+</details>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>
+
+**[00:33:12](/episodes/ep-YeEtS7nix3o.md#ent-person-benjamin-netanyahu-t-00-32-35)**
+> "You will support Bibi Netanyahu. You will support that genocide. But as..."
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (8 mentions)</summary>
+
+**[00:21:44](/episodes/ep-SKNJPul29zU.md#ent-person-benjamin-netanyahu-t-00-21-44)**
+> "have to defend Bibi (Benjamin Netanyahu) Netanyahu so"
+
+**[01:07:48](/episodes/ep-SKNJPul29zU.md#ent-person-benjamin-netanyahu-t-01-07-48)**
+> "Bibi's (Benjamin Netanyahu) radical denials when no one was pointing the fin..."
+
+**[01:08:06](/episodes/ep-SKNJPul29zU.md#ent-person-benjamin-netanyahu-t-01-07-58)**
+> "I don't care what Netanyahu thinks about anything that happens in our country..."
+
+**[01:11:07](/episodes/ep-SKNJPul29zU.md#ent-person-benjamin-netanyahu-t-01-11-07)**
+> "...he went toe-to-toe with Bibi (Benjamin Netanyahu) and he won."
+
+**[01:11:31](/episodes/ep-SKNJPul29zU.md#ent-person-benjamin-netanyahu-t-01-11-31)**
+> "...t we have evidence that Bibi (Benjamin Netanyahu) did but"
+
+**[01:12:07](/episodes/ep-SKNJPul29zU.md#ent-person-benjamin-netanyahu-t-01-12-07)**
+> "...ther nuclear sites, and Bibi (Benjamin Netanyahu) was pissed. And then we fast forward, Charlie's ..."
+
+**[01:12:14](/episodes/ep-SKNJPul29zU.md#ent-person-benjamin-netanyahu-t-01-12-07)**
+> "Everything Bibi (Benjamin Netanyahu) wanted to be done. So it's hard for us not to ju..."
+
+**[01:12:18](/episodes/ep-SKNJPul29zU.md#ent-person-benjamin-netanyahu-t-01-12-18)**
+> "...staff, Susie Wiles, worked on Benjamin Netanyahu's 2020 reelection campaign."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (14 mentions)</summary>
+
+**[00:02:47](/episodes/ep-MhakwJxK-Zk.md#ent-person-benjamin-netanyahu-t-00-02-47)**
+> "...uring July of 2025 when Bibi (Benjamin Netanyahu) was making the rounds doing a ton of American po..."
+
+**[00:03:06](/episodes/ep-MhakwJxK-Zk.md#ent-person-benjamin-netanyahu-t-00-02-47)**
+> "So what did Bibi (Benjamin Netanyahu) do instead? Well, he kept up his schedule with p..."
+
+**[00:04:33](/episodes/ep-MhakwJxK-Zk.md#ent-person-benjamin-netanyahu-t-00-04-02)**
+> "Suddenly, though, Bibi (Benjamin Netanyahu) is overcome with the need to hit that podcast ci..."
+
+**[00:05:05](/episodes/ep-MhakwJxK-Zk.md#ent-person-benjamin-netanyahu-t-00-04-45)**
+> "Prior to this PR blitz, Bibi (Benjamin Netanyahu) had actually not sat down with an American podca..."
+
+**[00:09:54](/episodes/ep-MhakwJxK-Zk.md#ent-person-benjamin-netanyahu-t-00-09-54)**
+> "...cial place, at least to Bibi (Benjamin Netanyahu), because the Romney family holds considerable po..."
+
+**[00:10:06](/episodes/ep-MhakwJxK-Zk.md#ent-person-benjamin-netanyahu-t-00-09-54)**
+> "...t, is best friends with Bibi (Benjamin Netanyahu). They have a bromance. It's been"
+
+**[00:15:02](/episodes/ep-MhakwJxK-Zk.md#ent-person-benjamin-netanyahu-t-00-15-02)**
+> "... Mitt (Mitt Romney) and Bibi (Benjamin Netanyahu), Mr. Hansell was formerly employed by the Boston..."
+
+**[00:21:31](/episodes/ep-MhakwJxK-Zk.md#ent-person-benjamin-netanyahu-t-00-21-17)**
+> "...ce. We have, of course, Bibi (Benjamin Netanyahu), the prime minister of Israel, who has time for ..."
+
+**[00:22:36](/episodes/ep-MhakwJxK-Zk.md#ent-person-benjamin-netanyahu-t-00-22-36)**
+> "...and innuendo about what Bibi (Benjamin Netanyahu) was doing while he was living in America."
+
+**[00:28:15](/episodes/ep-MhakwJxK-Zk.md#ent-person-benjamin-netanyahu-t-00-28-03)**
+> "...e to argue on behalf of Bibi (Benjamin Netanyahu)."
+
+**[00:29:21](/episodes/ep-MhakwJxK-Zk.md#ent-person-benjamin-netanyahu-t-00-29-12)**
+> "wins against Bibi (Benjamin Netanyahu). This writer, Claire Guinan, who had never publi..."
+
+**[00:29:56](/episodes/ep-MhakwJxK-Zk.md#ent-person-benjamin-netanyahu-t-00-29-56)**
+> "...won this debate against Bibi (Benjamin Netanyahu)'s many lobbyists."
+
+**[00:36:10](/episodes/ep-MhakwJxK-Zk.md#ent-person-benjamin-netanyahu-t-00-36-00)**
+> "...irk)'s assassinated and Bibi (Benjamin Netanyahu) declares again in another little PR blitz that I..."
+
+**[00:47:30](/episodes/ep-MhakwJxK-Zk.md#ent-person-benjamin-netanyahu-t-00-47-30)**
+> "...ferent circumstance. If Bibi (Benjamin Netanyahu) had shut his trap"
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1 mentions)</summary>
+
+**[00:41:05](/episodes/ep-BxN2-aeMYIs.md#ent-person-benjamin-netanyahu-t-00-40-52)**
+> "Bibi (Benjamin Netanyahu)"
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>
+
+**[00:47:00](/episodes/ep-1QZ4X6q1DPg.md#ent-person-benjamin-netanyahu-t-00-46-32)**
+> "...licking Trump by proxy, Bibi (Benjamin Netanyahu)."
 
 </details>
 
@@ -1594,12 +1704,25 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
+<summary>Formerly Employed (1)</summary>
+
+- **[Susie Wiles](/entities/person-susie-wiles.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens x Ana Kasparian @ 01:12:18](/episodes/ep-SKNJPul29zU.md#t-01-12-18): “I mean, it is wild that the chief of staff, Susie Wiles, worked on Benjamin Netanyahu's 2020 reelection campaign.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Formerly Worked For (1)</summary>
 
 - **[Boston Consulting Group](/entities/org-boston-consulting-group.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi Netanyahu, their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:26](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54): “We reminded you that they met at the Boston Consulting Group where they both worked”
 
 </details>
 
@@ -1609,9 +1732,10 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <summary>Friend Of (1)</summary>
 
 - **[Mitt Romney](/entities/person-mitt-romney.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:24](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “presented itself in the form of this lifelong friendship. Now, it would be difficult for me to overstate to you just how close Bibi Netanyahu is to Mitt Romney.”
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:06](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54): “And Mitt Romney, as it turns out, is best friends with Bibi (Benjamin Netanyahu).”
 
 </details>
 
@@ -1637,7 +1761,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
-<summary>Interviewed By (3)</summary>
+<summary>Interviewed By (9)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -1659,6 +1783,48 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:07:12](/episodes/ep-czVBmqZP6Ss.md#t-00-07-02): “what Benjamin Netanyahu had to say on Fox News”
+
+</details>
+
+- **[Nelk](/entities/org-nelk-boys.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:06](/episodes/ep-MhakwJxK-Zk.md#t-00-02-47): “So what did Bibi (Benjamin Netanyahu) do instead? Well, he kept up his schedule with podcasters. He did the Nelk Boys.”
+
+</details>
+
+- **[TRIGGERnometry](/entities/work-triggernometry.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:12](/episodes/ep-MhakwJxK-Zk.md#t-00-02-47): “That was released on July 21st. He did Triggernometry. That was released on August 20th.”
+
+</details>
+
+- **[PBD Podcast](/entities/work-pbd-podcast.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:12](/episodes/ep-MhakwJxK-Zk.md#t-00-02-47): “He also did the Patrick Bet-David show.”
+
+</details>
+
+- **[The Officer Tatum Show](/entities/work-the-officer-tatum-show.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:21](/episodes/ep-MhakwJxK-Zk.md#t-00-03-21): “He did the Officer Tatum show. That interview was released on September 4th.”
+
+</details>
+
+- **[Erick Stakelbeck](/entities/person-erick-stakelbeck.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:33](/episodes/ep-MhakwJxK-Zk.md#t-00-03-21): “He sat down with Erick Stakelbeck of TBN.”
+
+</details>
+
+- **[Lex Fridman](/entities/person-lex-fridman.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:05:15](/episodes/ep-MhakwJxK-Zk.md#t-00-04-45): “Since 2023, to be precise, when he sat down with Lex Friedman, and I should make it clear that he made Lex Friedman fly to his office in Israel to conduct that interview.”
 
 </details>
 
@@ -1731,16 +1897,17 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <summary>Prime Minister Of (1)</summary>
 
 - **[Israel](/entities/gpe-israel.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:30:40](/episodes/ep-eMtjzXkQrsU.md#t-00-30-00): “The Ministry of Foreign Affairs. Yeah, you know who would be in charge of that? Bibi (Benjamin Netanyahu). He's the Prime Minister of Israel.”
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:57](/episodes/ep-MhakwJxK-Zk.md#t-00-03-21): “All these people are scoring interviews with the prime minister of Israel, the sitting prime minister of Israel.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (19)</summary>
+<summary>Referenced By (27)</summary>
 
 - **[Yair Netanyahu](/entities/person-yair-netanyahu.md)** child of this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -1789,16 +1956,25 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 - **[Boston Consulting Group](/entities/org-boston-consulting-group.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi Netanyahu, their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:26](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54): “We reminded you that they met at the Boston Consulting Group where they both worked”
+
+</details>
+
+- **[Susie Wiles](/entities/person-susie-wiles.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens x Ana Kasparian @ 01:12:18](/episodes/ep-SKNJPul29zU.md#t-01-12-18): “I mean, it is wild that the chief of staff, Susie Wiles, worked on Benjamin Netanyahu's 2020 reelection campaign.”
 
 </details>
 
 - **[Mitt Romney](/entities/person-mitt-romney.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:24](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “presented itself in the form of this lifelong friendship. Now, it would be difficult for me to overstate to you just how close Bibi Netanyahu is to Mitt Romney.”
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:06](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54): “And Mitt Romney, as it turns out, is best friends with Bibi (Benjamin Netanyahu).”
 
 </details>
 
@@ -1818,9 +1994,10 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 - **[Israel](/entities/gpe-israel.md)** has prime minister this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:30:40](/episodes/ep-eMtjzXkQrsU.md#t-00-30-00): “The Ministry of Foreign Affairs. Yeah, you know who would be in charge of that? Bibi (Benjamin Netanyahu). He's the Prime Minister of Israel.”
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:57](/episodes/ep-MhakwJxK-Zk.md#t-00-03-21): “All these people are scoring interviews with the prime minister of Israel, the sitting prime minister of Israel.”
 
 </details>
 
@@ -1847,6 +2024,48 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:07:12](/episodes/ep-czVBmqZP6Ss.md#t-00-07-02): “what Benjamin Netanyahu had to say on Fox News”
+
+</details>
+
+- **[Nelk](/entities/org-nelk-boys.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:06](/episodes/ep-MhakwJxK-Zk.md#t-00-02-47): “So what did Bibi (Benjamin Netanyahu) do instead? Well, he kept up his schedule with podcasters. He did the Nelk Boys.”
+
+</details>
+
+- **[TRIGGERnometry](/entities/work-triggernometry.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:12](/episodes/ep-MhakwJxK-Zk.md#t-00-02-47): “That was released on July 21st. He did Triggernometry. That was released on August 20th.”
+
+</details>
+
+- **[PBD Podcast](/entities/work-pbd-podcast.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:12](/episodes/ep-MhakwJxK-Zk.md#t-00-02-47): “He also did the Patrick Bet-David show.”
+
+</details>
+
+- **[The Officer Tatum Show](/entities/work-the-officer-tatum-show.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:21](/episodes/ep-MhakwJxK-Zk.md#t-00-03-21): “He did the Officer Tatum show. That interview was released on September 4th.”
+
+</details>
+
+- **[Erick Stakelbeck](/entities/person-erick-stakelbeck.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:33](/episodes/ep-MhakwJxK-Zk.md#t-00-03-21): “He sat down with Erick Stakelbeck of TBN.”
+
+</details>
+
+- **[Lex Fridman](/entities/person-lex-fridman.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:05:15](/episodes/ep-MhakwJxK-Zk.md#t-00-04-45): “Since 2023, to be precise, when he sat down with Lex Friedman, and I should make it clear that he made Lex Friedman fly to his office in Israel to conduct that interview.”
 
 </details>
 
@@ -1889,12 +2108,27 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 </details>
 
+- **[Mitt Romney](/entities/person-mitt-romney.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:26](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54): “they haven't stopped working together and supporting each other since.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Benjamin Netanyahu (16)</strong></summary>
+<summary><strong class="section-title">Statements by Benjamin Netanyahu (17)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
+
+- [00:36:10](/episodes/ep-MhakwJxK-Zk.md#t-00-36-00) [○] (Claim) ["Israel did not kill Charlie Kirk."](/statements/statement-d597ff321925.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1)</summary>
@@ -1972,7 +2206,41 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Benjamin Netanyahu (96)</strong></summary>
+<summary><strong class="section-title">Statements about Benjamin Netanyahu (103)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (2)</summary>
+
+- [01:08:06](/episodes/ep-SKNJPul29zU.md#t-01-07-58) (Opinion) **Ana Kasparian**: ["Benjamin Netanyahu should spend the rest of his life in prison as a wa..."](/statements/statement-90fa75a58dd8.md)
+
+- [01:12:18](/episodes/ep-SKNJPul29zU.md#t-01-12-18) (Claim) **Ana Kasparian**: ["Susie Wiles worked on Benjamin Netanyahu's 2020 reelection campaign an..."](/statements/statement-6b23e658e97b.md)
+  - Also about: [Susie Wiles](/entities/person-susie-wiles.md), [White House](/entities/org-white-house.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (4)</summary>
+
+- [00:03:06](/episodes/ep-MhakwJxK-Zk.md#t-00-02-47) (Claim) **Candace Owens**: ["Benjamin Netanyahu's 2025 U.S. podcast circuit included the Nelk Boys ..."](/statements/statement-8eaca3aea5f3.md)
+
+- [00:05:05](/episodes/ep-MhakwJxK-Zk.md#t-00-04-45) (Claim) **Candace Owens**: ["Before his 2025 podcast circuit, Benjamin Netanyahu had not sat down w..."](/statements/statement-86e6059c6420.md)
+  - Also about: [Lex Fridman](/entities/person-lex-fridman.md)
+
+- [00:29:21](/episodes/ep-MhakwJxK-Zk.md#t-00-29-12) (Citation) **Candace Owens**: ["Claire Guinan's first Jezebel article reported paying Etsy witches to ..."](/statements/statement-cab0fc410fd6.md)
+  - Also about: [Claire Guinan](/entities/person-claire-guinan.md), [Jezebel](/entities/org-jezebel.md), [Etsy](/entities/org-etsy.md)
+
+- [00:36:10](/episodes/ep-MhakwJxK-Zk.md#t-00-36-00) (Claim) **Benjamin Netanyahu** (via quoted speech): ["Israel did not kill Charlie Kirk."](/statements/statement-d597ff321925.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
+
+- [00:41:05](/episodes/ep-BxN2-aeMYIs.md#t-00-40-52) (Claim) **Candace Owens**: ["I bet it was Iran that made Bibi go on Fox News the next day and say, ..."](/statements/statement-f70c261644ec.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Fox News](/entities/org-fox-news.md), [Iran](/entities/gpe-iran.md)
+
+</details>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (3)</summary>

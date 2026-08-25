@@ -11,7 +11,7 @@ date: "2025-08-05"
 
 > Hamptons Summit pressures Charlie Kirk on Israel views
 
-## Mentioned In (256 times)
+## Mentioned In (258 times)
 
 ### 1. BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. |...
 
@@ -2060,3 +2060,19 @@ date: "2025-08-05"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(8751);return false;">▶️ Play</a>
 
 > in the Hamptons the week prior or not the week prior, I think it was around August 5th or 6th
+
+### 257. BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. |...
+
+**Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
+**Timestamp:** [00:34:49](/episodes/ep-MhakwJxK-Zk.md#event-event-2025-08-05-hamptons-summit-pressures-charlie-kirk-on-israel-v-t-00-06-07) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2089);return false;">▶️ Play</a>
+
+> August 5th through to the 7th is the now infamous Hampton Retreat and quote-unquote intervention
+
+### 258. BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. |...
+
+**Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
+**Timestamp:** [00:06:29](/episodes/ep-MhakwJxK-Zk.md#event-event-2025-08-05-hamptons-summit-pressures-charlie-kirk-on-israel-v-t-00-06-07) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(389);return false;">▶️ Play</a>
+
+> the Hamptons, quote unquote, intervention which took place the weekend of August 5th

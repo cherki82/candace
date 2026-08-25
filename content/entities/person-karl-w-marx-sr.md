@@ -1,6 +1,6 @@
 ---
 title: "Karl W. Marx Sr."
-description: "Karl W. Marx Sr. (People) - 3 mentions"
+description: "Karl W. Marx Sr. (People) - 4 mentions"
 id: "person-karl-w-marx-sr"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Victor Marx, Cajun Karate, and Stolen Valor | Colorado Pols](https://ww
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-karl-w-marx-sr-t-00-11-33">2026-04-14 · 00:11:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep--9MOUvgGyi4.md#ent-person-karl-w-marx-sr-t-02-03-03">2026-04-22 · 02:03:30</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-karl-w-marx-sr-t-00-03-47">2026-05-19 · 00:03:47</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -38,6 +38,7 @@ Source: [Victor Marx, Cajun Karate, and Stolen Valor | Colorado Pols](https://ww
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-person-karl-w-marx-sr-t-00-11-33" style="--pulse-height:50%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-person-karl-w-marx-sr-t-02-03-03" style="--pulse-height:100%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 2 mentions" title="2026-04-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-karl-w-marx-sr-t-00-03-47" style="--pulse-height:50%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [Victor Marx, Cajun Karate, and Stolen Valor | Colorado Pols](https://ww
 |---|---|---:|
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-karl-w-marx-sr-t-00-11-33) | 1 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-person-karl-w-marx-sr-t-02-03-03) | 2 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-person-karl-w-marx-sr-t-00-03-47) | 1 |
 
 </details>
 </section>
@@ -52,7 +54,15 @@ Source: [Victor Marx, Cajun Karate, and Stolen Valor | Colorado Pols](https://ww
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1 mentions)</summary>
+
+**[00:03:47](/episodes/ep-Dkxa9OUA9K8.md#ent-person-karl-w-marx-sr-t-00-03-47)**
+> "...tor Marx's biological dad was Carl Marx. What a name. He was a pimp, a drug dealer, and a..."
+
+</details>
 
 <details>
 <summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (2 mentions)</summary>
@@ -82,9 +92,10 @@ Source: [Victor Marx, Cajun Karate, and Stolen Valor | Colorado Pols](https://ww
 <summary>Parent Of (1)</summary>
 
 - **[Victor Marx](/entities/person-victor-marx.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:11:59](/episodes/ep-jsqUIkszZd0.md#t-00-11-33): “Victor Marx' biological dad was apparently cut from the same cloth. His name was Carl Marx.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:03:47](/episodes/ep-Dkxa9OUA9K8.md#t-00-03-03): “his stepfather. Victor Marx's biological dad was Carl Marx. What a name. He was a pimp, a drug dealer, and a world famous martial arts expert.”
 
 </details>
 
@@ -94,9 +105,10 @@ Source: [Victor Marx, Cajun Karate, and Stolen Valor | Colorado Pols](https://ww
 <summary>Referenced By (1)</summary>
 
 - **[Victor Marx](/entities/person-victor-marx.md)** child of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:11:59](/episodes/ep-jsqUIkszZd0.md#t-00-11-33): “Victor Marx' biological dad was apparently cut from the same cloth. His name was Carl Marx.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:03:47](/episodes/ep-Dkxa9OUA9K8.md#t-00-03-03): “his stepfather. Victor Marx's biological dad was Carl Marx. What a name. He was a pimp, a drug dealer, and a world famous martial arts expert.”
 
 </details>
 

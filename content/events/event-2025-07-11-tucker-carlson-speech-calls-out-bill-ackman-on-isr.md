@@ -11,7 +11,7 @@ date: "2025-07-11"
 
 > Tucker Carlson speech calls out Bill Ackman on Israel and citizenship
 
-## Mentioned In (145 times)
+## Mentioned In (146 times)
 
 ### 1. EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Cand...
 
@@ -1172,3 +1172,11 @@ date: "2025-07-11"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(487);return false;">▶️ Play</a>
 
 > after was for the Turning Point USA spokesperson, Andrew Kolvet, to issue this statement as people were asking questions like, "Hey, how is that possible? How was
+
+### 146. BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. |...
+
+**Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
+**Timestamp:** [00:30:27](/episodes/ep-MhakwJxK-Zk.md#event-event-2025-07-11-tucker-carlson-speech-calls-out-bill-ackman-on-isr-t-00-29-56) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1827);return false;">▶️ Play</a>
+
+> Tucker Carlson speaks at the Turning Point USA conference and the donors lose their mind.

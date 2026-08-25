@@ -1,6 +1,6 @@
 ---
 title: "Ethos"
-description: "Ethos (Organizations) - 7 mentions"
+description: "Ethos (Organizations) - 10 mentions"
 id: "org-ethos"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [About Ethos](https://www.ethos.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-ethos-t-00-46-15">2026-03-23 · 00:46:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-ethos-t-01-10-45">2026-04-29 · 01:10:54</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-ethos-t-00-51-35">2026-05-21 · 00:51:43</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -37,6 +37,7 @@ Source: [About Ethos](https://www.ethos.com/about/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-ethos-t-00-46-15" style="--pulse-height:75%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 3 mentions" title="2026-03-23 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-ethos-t-01-10-06" style="--pulse-height:100%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 4 mentions" title="2026-04-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-ethos-t-00-50-52" style="--pulse-height:75%" aria-label="Candace x Hunter Biden: The Interview: 3 mentions" title="2026-05-21 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [About Ethos](https://www.ethos.com/about/)
 |---|---|---:|
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-ethos-t-00-46-15) | 3 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-ethos-t-01-10-06) | 4 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-ethos-t-00-50-52) | 3 |
 
 </details>
 </section>
@@ -51,7 +53,21 @@ Source: [About Ethos](https://www.ethos.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (3 mentions)</summary>
+
+**[00:51:16](/episodes/ep-Ux1kzgQxkws.md#ent-org-ethos-t-00-50-52)**
+> "...ople think. That's why I love Ethos. With Ethos, you can apply online in just minutes..."
+
+**[00:51:29](/episodes/ep-Ux1kzgQxkws.md#ent-org-ethos-t-00-50-52)**
+> "...ally stands out to me is that Ethos helps match you with coverages that actually fit ..."
+
+**[00:51:43](/episodes/ep-Ux1kzgQxkws.md#ent-org-ethos-t-00-51-35)**
+> "...r free instant quote today at ethos.com slash Candace. Again, that's E-T-H-O-S dot co..."
+
+</details>
 
 <details>
 <summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (4 mentions)</summary>
@@ -93,9 +109,11 @@ Source: [About Ethos](https://www.ethos.com/about/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:10:37](/episodes/ep-qZ8RWfyuewQ.md#t-01-10-06): “But what really stands out is that Ethos doesn't just offer a one-size-fits-all policy. They help match you with the right coverage for your life, your goals, and your budget.”
+- [Candace x Hunter Biden: The Interview @ 00:51:16](/episodes/ep-Ux1kzgQxkws.md#t-00-50-52): “That's why I love Ethos. With Ethos, you can apply online in just minutes.”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:36:43](/episodes/ep-YeEtS7nix3o.md#t-00-36-06): “That's why I love ethos, because with ethos, you can apply online in just minutes”
 
 </details>
 
@@ -105,9 +123,11 @@ Source: [About Ethos](https://www.ethos.com/about/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:10:37](/episodes/ep-qZ8RWfyuewQ.md#t-01-10-06): “But what really stands out is that Ethos doesn't just offer a one-size-fits-all policy. They help match you with the right coverage for your life, your goals, and your budget.”
+- [Candace x Hunter Biden: The Interview @ 00:51:16](/episodes/ep-Ux1kzgQxkws.md#t-00-50-52): “That's why I love Ethos. With Ethos, you can apply online in just minutes.”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:36:43](/episodes/ep-YeEtS7nix3o.md#t-00-36-06): “That's why I love ethos, because with ethos, you can apply online in just minutes”
 
 </details>
 

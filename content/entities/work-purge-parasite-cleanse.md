@@ -1,6 +1,6 @@
 ---
 title: "Purge Parasite Cleanse"
-description: "Purge Parasite Cleanse (Works & Media) - 5 mentions"
+description: "Purge Parasite Cleanse (Works & Media) - 6 mentions"
 id: "work-purge-parasite-cleanse"
 type: "WORK"
 aliases:
@@ -23,9 +23,9 @@ Source: [PurgeStore — Official site](https://purgestore.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-work-purge-parasite-cleanse-t-00-43-20">2026-02-27 · 00:43:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-work-purge-parasite-cleanse-t-00-35-21">2026-05-07 · 00:35:21</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1QZ4X6q1DPg.md#ent-work-purge-parasite-cleanse-t-00-27-07">2026-05-18 · 00:27:16</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,6 +39,7 @@ Source: [PurgeStore — Official site](https://purgestore.com/)
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-work-purge-parasite-cleanse-t-00-43-54" style="--pulse-height:100%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-work-purge-parasite-cleanse-t-00-47-30" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 2 mentions" title="2026-03-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-work-purge-parasite-cleanse-t-00-35-21" style="--pulse-height:50%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-work-purge-parasite-cleanse-t-00-27-07" style="--pulse-height:50%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [PurgeStore — Official site](https://purgestore.com/)
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-work-purge-parasite-cleanse-t-00-43-54) | 2 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-work-purge-parasite-cleanse-t-00-47-30) | 2 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-work-purge-parasite-cleanse-t-00-35-21) | 1 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-work-purge-parasite-cleanse-t-00-27-07) | 1 |
 
 </details>
 </section>
@@ -54,7 +56,15 @@ Source: [PurgeStore — Official site](https://purgestore.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>
+
+**[00:27:16](/episodes/ep-1QZ4X6q1DPg.md#ent-work-purge-parasite-cleanse-t-00-27-07)**
+> "That's where Purge's advanced parasite cleanse comes in as your essential line of defense. Count..."
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>

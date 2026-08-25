@@ -1,6 +1,6 @@
 ---
 title: "PBD Podcast"
-description: "PBD Podcast (Works & Media) - 26 mentions"
+description: "PBD Podcast (Works & Media) - 27 mentions"
 id: "work-pbd-podcast"
 type: "WORK"
 aliases:
@@ -24,10 +24,10 @@ Source: [PBD Podcast](https://www.youtube.com/@PBDPodcast)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-59-19">2025-09-15 · 00:59:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-work-pbd-podcast-t-04-03-19">2026-08-14 · 04:03:30</a></strong></div>
 <div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>27</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -61,7 +61,7 @@ Source: [PBD Podcast](https://www.youtube.com/@PBDPodcast)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (27)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -139,6 +139,28 @@ Source: [PBD Podcast](https://www.youtube.com/@PBDPodcast)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Interviewed (1)</summary>
+
+- **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:12](/episodes/ep-MhakwJxK-Zk.md#t-00-02-47): “He also did the Patrick Bet-David show.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:12](/episodes/ep-MhakwJxK-Zk.md#t-00-02-47): “He also did the Patrick Bet-David show.”
+
+</details>
+
+</details>
 
 </details>

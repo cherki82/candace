@@ -1,6 +1,6 @@
 ---
 title: "Aspen, Colorado"
-description: "Aspen, Colorado (Places) - 31 mentions"
+description: "Aspen, Colorado (Places) - 45 mentions"
 id: "gpe-aspen-colorado"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [City of Aspen](https://www.aspen.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-aspen-colorado-t-00-54-01">2026-01-20 · 00:54:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-aspen-colorado-t-00-43-19">2026-05-13 · 00:43:19</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-aspen-colorado-t-01-19-52">2026-06-09 · 01:20:22</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>45</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -44,6 +44,11 @@ Source: [City of Aspen](https://www.aspen.gov/)
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-aspen-colorado-t-00-57-36" style="--pulse-height:12%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-aspen-colorado-t-00-04-22" style="--pulse-height:50%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 4 mentions" title="2026-05-11 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-aspen-colorado-t-00-38-43" style="--pulse-height:25%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-aspen-colorado-t-00-13-29" style="--pulse-height:38%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 3 mentions" title="2026-05-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-aspen-colorado-t-01-35-46" style="--pulse-height:25%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 2 mentions" title="2026-05-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-aspen-colorado-t-00-42-42" style="--pulse-height:12%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-aspen-colorado-t-00-59-06" style="--pulse-height:25%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-aspen-colorado-t-01-03-16" style="--pulse-height:75%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 6 mentions" title="2026-06-09 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +63,11 @@ Source: [City of Aspen](https://www.aspen.gov/)
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-aspen-colorado-t-00-57-36) | 1 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-aspen-colorado-t-00-04-22) | 4 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-aspen-colorado-t-00-38-43) | 2 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-aspen-colorado-t-00-13-29) | 3 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-aspen-colorado-t-01-35-46) | 2 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-aspen-colorado-t-00-42-42) | 1 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-aspen-colorado-t-00-59-06) | 2 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-gpe-aspen-colorado-t-01-03-16) | 6 |
 
 </details>
 </section>
@@ -65,7 +75,74 @@ Source: [City of Aspen](https://www.aspen.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (6 mentions)</summary>
+
+**[01:03:16](/episodes/ep-YeEtS7nix3o.md#ent-gpe-aspen-colorado-t-01-03-16)**
+> "...arlie's final presentation in Aspen where he carefully lays out his vision for the co..."
+
+**[01:03:32](/episodes/ep-YeEtS7nix3o.md#ent-gpe-aspen-colorado-t-01-03-16)**
+> "...nd being involved. She was in Aspen, but she was not present in the room."
+
+**[01:07:32](/episodes/ep-YeEtS7nix3o.md#ent-gpe-aspen-colorado-t-01-07-11)**
+> "... were saying this is not from Aspen, I never said that. I never confirmed that."
+
+**[01:07:51](/episodes/ep-YeEtS7nix3o.md#ent-gpe-aspen-colorado-t-01-07-51)**
+> "...who asked the question in the Aspen event with their names. As we intend to go out to..."
+
+**[01:08:23](/episodes/ep-YeEtS7nix3o.md#ent-gpe-aspen-colorado-t-01-07-51)**
+> "...o publish the entirety of the Aspen video, and hopefully we can get them."
+
+**[01:20:22](/episodes/ep-YeEtS7nix3o.md#ent-gpe-aspen-colorado-t-01-19-52)**
+> "dropping this Aspen video in its entirety."
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (2 mentions)</summary>
+
+**[00:59:06](/episodes/ep-SKNJPul29zU.md#ent-gpe-aspen-colorado-t-00-59-06)**
+> "at an Aspen event"
+
+**[01:02:38](/episodes/ep-SKNJPul29zU.md#ent-gpe-aspen-colorado-t-01-02-38)**
+> "...s and then when I said it was Aspen they were shocked they"
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
+
+**[00:42:42](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-aspen-colorado-t-00-42-42)**
+> "...a few weeks before he died in Aspen. Just before she said that story—the public heard..."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (2 mentions)</summary>
+
+**[01:36:13](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-aspen-colorado-t-01-35-46)**
+> "...irk) said as much on stage in Aspen."
+
+**[01:36:24](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-aspen-colorado-t-01-35-46)**
+> "Notorious Aspen trip, Charlie (Charlie Kirk) said when he mention..."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (3 mentions)</summary>
+
+**[00:13:29](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-aspen-colorado-t-00-13-29)**
+> "... he died. Charlie Kirk was in Aspen with some donors, and he said, if anything ever h..."
+
+**[00:16:55](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-aspen-colorado-t-00-16-55)**
+> "...een focused on the video from Aspen and said it was always clear to them that Charlie..."
+
+**[00:18:51](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-aspen-colorado-t-00-18-51)**
+> "Okay, quote, video of the Aspen donor conference has never been released publicly..."
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (2 mentions)</summary>
@@ -215,7 +292,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Aspen, Colorado (4)</strong></summary>
+<summary><strong class="section-title">Statements about Aspen, Colorado (5)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1)</summary>
+
+- [00:59:06](/episodes/ep-SKNJPul29zU.md#t-00-59-06) (Accusation) **Anonymous Source #2 (Ep SKNJPul29zU)** (via read message): ["Charlie Kirk did not appoint Erika Kirk as CEO at the Aspen event, and..."](/statements/statement-3985db086daf.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1)</summary>

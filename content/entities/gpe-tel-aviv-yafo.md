@@ -1,6 +1,6 @@
 ---
 title: "Tel Aviv-Yafo"
-description: "Tel Aviv-Yafo (Places) - 10 mentions"
+description: "Tel Aviv-Yafo (Places) - 11 mentions"
 id: "gpe-tel-aviv-yafo"
 type: "GPE"
 aliases:
@@ -23,11 +23,11 @@ Source: [Tel Aviv-Yafo Municipality](https://www.tel-aviv.gov.il/en/Pages/HomePa
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-tel-aviv-yafo-t-00-45-42">2026-01-29 · 00:45:56</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-tel-aviv-yafo-t-00-20-27">2026-03-10 · 00:20:27</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-tel-aviv-yafo-t-00-49-24">2026-05-28 · 00:49:24</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -39,6 +39,7 @@ Source: [Tel Aviv-Yafo Municipality](https://www.tel-aviv.gov.il/en/Pages/HomePa
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-tel-aviv-yafo-t-00-45-42" style="--pulse-height:33%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-tel-aviv-yafo-t-00-14-28" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 6 mentions" title="2026-03-04 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-tel-aviv-yafo-t-00-17-19" style="--pulse-height:33%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-tel-aviv-yafo-t-00-49-24" style="--pulse-height:17%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [Tel Aviv-Yafo Municipality](https://www.tel-aviv.gov.il/en/Pages/HomePa
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-tel-aviv-yafo-t-00-45-42) | 2 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-tel-aviv-yafo-t-00-14-28) | 6 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-tel-aviv-yafo-t-00-17-19) | 2 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-tel-aviv-yafo-t-00-49-24) | 1 |
 
 </details>
 </section>
@@ -54,7 +56,15 @@ Source: [Tel Aviv-Yafo Municipality](https://www.tel-aviv.gov.il/en/Pages/HomePa
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
+
+**[00:49:24](/episodes/ep-SKNJPul29zU.md#ent-gpe-tel-aviv-yafo-t-00-49-24)**
+> "answered to Vegas and Tel Aviv"
+
+</details>
 
 <details>
 <summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (2 mentions)</summary>
@@ -111,7 +121,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tel Aviv-Yafo (4)</strong></summary>
+<summary><strong class="section-title">Statements about Tel Aviv-Yafo (5)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1)</summary>
+
+- [00:49:24](/episodes/ep-SKNJPul29zU.md#t-00-49-24) (Opinion) **Candace Owens**: ["Donald Trump and Kash Patel both answer to interests in Las Vegas and ..."](/statements/statement-fff3bf83fb00.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Kash Patel](/entities/person-kash-patel.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
+
+</details>
 
 <details>
 <summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1)</summary>

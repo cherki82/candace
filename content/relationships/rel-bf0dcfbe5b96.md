@@ -11,7 +11,7 @@ object: "person-norman-finkelstein"
 
 ## [Candace Owens](/entities/person-candace-owens) interviewed [Norman Finkelstein](/entities/person-norman-finkelstein)
 
-### Evidence (5 mentions)
+### Evidence (6 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -25,6 +25,10 @@ object: "person-norman-finkelstein"
 
 - [00:39:19](/episodes/ep-Qt0VHV-POCg#t-00-39-19): _I was very excited to sit down and have a conversation... with Norman Finkelstein._
 - [00:39:42](/episodes/ep-Qt0VHV-POCg#t-00-39-42): _we will be releasing on Friday with Norman Finkelstein...I was able to sit down with him again—this time on my totally owned show._
+
+**[Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU)**
+
+- [01:17:15](/episodes/ep-SKNJPul29zU#t-01-17-15): _I love that you're willing to have people like, you know, Norm Finkelstein on._
 
 **[Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o)**
 

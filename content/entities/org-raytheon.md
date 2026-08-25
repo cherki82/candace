@@ -1,17 +1,25 @@
 ---
 title: "Raytheon"
-description: "Raytheon (Organizations) - 2 mentions"
+description: "Raytheon (Organizations) - 3 mentions"
 id: "org-raytheon"
 type: "ORG"
+categories:
+  - "aerospace and defense"
 ---
 
 _Type: Organizations_
 
+**Categories:** aerospace and defense
+
+**Entity verification:** verified
+> Official RTX business page confirms Raytheon as the canonical defense business name.
+Source: [Raytheon - RTX](https://www.rtx.com/raytheon)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-raytheon-t-00-27-09">2025-10-28 · 00:27:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-raytheon-t-00-27-53">2025-10-28 · 00:28:01</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-raytheon-t-00-27-22">2026-05-27 · 00:27:34</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -23,12 +31,14 @@ _Type: Organizations_
 <p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-raytheon-t-00-27-09">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-raytheon-t-00-27-09" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-raytheon-t-00-27-22" style="--pulse-height:50%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-raytheon-t-00-27-09) | 2 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-raytheon-t-00-27-22) | 1 |
 
 </details>
 </section>
@@ -36,7 +46,15 @@ _Type: Organizations_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
+
+**[00:27:34](/episodes/ep-MhakwJxK-Zk.md#ent-org-raytheon-t-00-27-22)**
+> "...Bromberg, who is connected to Raytheon and Northrop Grumman. Again, could be nothing."
+
+</details>
 
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>

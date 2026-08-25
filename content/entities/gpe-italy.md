@@ -1,6 +1,6 @@
 ---
 title: "Italy"
-description: "Italy (Places) - 23 mentions"
+description: "Italy (Places) - 28 mentions"
 id: "gpe-italy"
 type: "GPE"
 categories:
@@ -18,10 +18,10 @@ Source: [Italy – EU country | European Union](https://european-union.europa.eu
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-italy-t-00-47-50">2026-01-28 · 00:48:16</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-italy-t-03-51-36">2026-08-14 · 03:51:36</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -39,6 +39,8 @@ Source: [Italy – EU country | European Union](https://european-union.europa.eu
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-gpe-italy-t-00-01-23" style="--pulse-height:17%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-italy-t-00-00-00" style="--pulse-height:33%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-italy-t-00-01-59" style="--pulse-height:33%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-italy-t-01-41-33" style="--pulse-height:33%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-italy-t-00-01-26" style="--pulse-height:50%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 3 mentions" title="2026-06-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-italy-t-02-05-30" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 6 mentions" title="2026-08-14 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -54,6 +56,8 @@ Source: [Italy – EU country | European Union](https://european-union.europa.eu
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-gpe-italy-t-00-01-23) | 1 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-italy-t-00-00-00) | 2 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-italy-t-00-01-59) | 2 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-italy-t-01-41-33) | 2 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-gpe-italy-t-00-01-26) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-italy-t-02-05-30) | 6 |
 
 </details>
@@ -62,7 +66,7 @@ Source: [Italy – EU country | European Union](https://european-union.europa.eu
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (6 mentions)</summary>
@@ -84,6 +88,31 @@ Source: [Italy – EU country | European Union](https://european-union.europa.eu
 
 **[03:51:36](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-italy-t-03-51-36)**
 > "...aunched the flb shoes made in italy we have a marketing department"
+
+</details>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (3 mentions)</summary>
+
+**[00:01:26](/episodes/ep-YeEtS7nix3o.md#ent-gpe-italy-t-00-01-26)**
+> "...I said I am taking my kids to Italy, as an example, a month ago, that I was required ..."
+
+**[00:05:53](/episodes/ep-YeEtS7nix3o.md#ent-gpe-italy-t-00-05-53)**
+> "...met with my husband George in Italy a month ago in some secret meeting, which was new..."
+
+**[00:06:53](/episodes/ep-YeEtS7nix3o.md#ent-gpe-italy-t-00-06-53)**
+> "... previously met with Dugin in Italy. Candace has pretended not to know Dugin. Some of..."
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (2 mentions)</summary>
+
+**[01:41:33](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-italy-t-01-41-33)**
+> "I oh just got back from Italy. were I was there two weeks you ago. okay"
+
+**[01:41:56](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-italy-t-01-41-43)**
+> "getting confirmed being in italy the deep history like what outlasts that like the..."
 
 </details>
 
@@ -193,7 +222,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Italy (2)</strong></summary>
+<summary><strong class="section-title">Statements about Italy (3)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>
+
+- [00:06:53](/episodes/ep-YeEtS7nix3o.md#t-00-06-53) (Accusation) **Laura Loomer** (via quoted tweet): ["Laura Loomer reported that a source alleged Candace Owens and George F..."](/statements/statement-231db1d95db1.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [George Farmer](/entities/person-george-farmer.md), [Alexander Dugin](/entities/person-alexander-dugin.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (2)</summary>

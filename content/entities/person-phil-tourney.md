@@ -11,7 +11,7 @@ _Type: People_
 
 **Categories:** USS Liberty attack
 
-> **Possibly overlapping entity records:** [Phil Turney](/entities/person-phil-turney). These records share a name or alias; compare their histories before treating either count as complete.
+> **Possibly overlapping entity records:** [Phillip F. Tourney](/entities/person-phillip-f-tourney). These records share a name or alias; compare their histories before treating either count as complete.
 
 **Entity verification:** verified
 > USS Liberty Veterans Association verifies the survivor’s canonical name as Phil Tourney.

@@ -1,6 +1,6 @@
 ---
 title: "MAGA movement"
-description: "MAGA movement (Concepts) - 107 mentions"
+description: "MAGA movement (Concepts) - 118 mentions"
 id: "concept-maga-movement"
 type: "CONCEPT"
 aliases:
@@ -23,9 +23,9 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-36-23">2025-09-15 · 00:36:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-maga-movement-t-00-33-15">2026-05-07 · 00:33:52</a></strong></div>
-<div><span>Episodes</span><strong>35</strong></div>
-<div><span>Mentions</span><strong>107</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-maga-movement-t-00-51-16">2026-05-26 · 00:51:41</a></strong></div>
+<div><span>Episodes</span><strong>40</strong></div>
+<div><span>Mentions</span><strong>118</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -71,6 +71,11 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-maga-movement-t-00-35-24" style="--pulse-height:17%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-maga-movement-t-00-15-03" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-maga-movement-t-00-23-41" style="--pulse-height:33%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 4 mentions" title="2026-05-07 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-concept-maga-movement-t-00-43-09" style="--pulse-height:8%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-concept-maga-movement-t-01-31-27" style="--pulse-height:8%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-concept-maga-movement-t-00-00-44" style="--pulse-height:17%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 2 mentions" title="2026-05-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-maga-movement-t-00-35-04" style="--pulse-height:33%" aria-label="Candace x Hunter Biden: The Interview: 4 mentions" title="2026-05-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-maga-movement-t-00-19-00" style="--pulse-height:25%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 3 mentions" title="2026-05-26 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -111,6 +116,11 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-concept-maga-movement-t-00-35-24) | 2 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-maga-movement-t-00-15-03) | 1 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-concept-maga-movement-t-00-23-41) | 4 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-maga-movement-t-00-43-09) | 1 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-concept-maga-movement-t-01-31-27) | 1 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-concept-maga-movement-t-00-00-44) | 2 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-concept-maga-movement-t-00-35-04) | 4 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-concept-maga-movement-t-00-19-00) | 3 |
 
 </details>
 </section>
@@ -118,7 +128,65 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (107)</strong></summary>
+<summary><strong class="section-title">Raw mentions (118)</strong></summary>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (3 mentions)</summary>
+
+**[00:19:00](/episodes/ep-BxN2-aeMYIs.md#ent-concept-maga-movement-t-00-19-00)**
+> "exactly what the MAGA movement fought against"
+
+**[00:51:34](/episodes/ep-BxN2-aeMYIs.md#ent-concept-maga-movement-t-00-51-16)**
+> "because MAGA is over, but Christianity is not. It never will b..."
+
+**[00:51:41](/episodes/ep-BxN2-aeMYIs.md#ent-concept-maga-movement-t-00-51-16)**
+> "...from the collapse of original MAGA and whatever this Zionist neocon takeover is, it ..."
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (4 mentions)</summary>
+
+**[00:35:04](/episodes/ep-Ux1kzgQxkws.md#ent-concept-maga-movement-t-00-35-04)**
+> "...ically to the collapse of the MAGA support is we don't want to be gaslit and to be f..."
+
+**[01:07:16](/episodes/ep-Ux1kzgQxkws.md#ent-concept-maga-movement-t-01-07-16)**
+> "...ry five seconds and told that MAGA, literally MAGA, is not MAGA anymore."
+
+**[01:07:27](/episodes/ep-Ux1kzgQxkws.md#ent-concept-maga-movement-t-01-07-16)**
+> "...ou think about it, that's now MAGA. It's literally people who have been against Trum..."
+
+**[01:08:14](/episodes/ep-Ux1kzgQxkws.md#ent-concept-maga-movement-t-01-08-14)**
+> "...ike you're telling us this is MAGA now, like this is what we do. And so it's been a ..."
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (2 mentions)</summary>
+
+**[00:00:51](/episodes/ep-cPidFQDJLbo.md#ent-concept-maga-movement-t-00-00-44)**
+> "I am MAGA."
+
+**[00:01:00](/episodes/ep-cPidFQDJLbo.md#ent-concept-maga-movement-t-00-00-44)**
+> "...s. Let's see what the king of MAGA can buy with his money."
+
+</details>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1 mentions)</summary>
+
+**[01:31:27](/episodes/ep-Dkxa9OUA9K8.md#ent-concept-maga-movement-t-01-31-27)**
+> "...e Trump and Trump's like I am MAGA he's like I am abuse victims nobody you're not um..."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1 mentions)</summary>
+
+**[00:43:28](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-maga-movement-t-00-43-09)**
+> "... who thinks he is a god, I am MAGA. Now has a golden statue, of course, backed not b..."
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (4 mentions)</summary>

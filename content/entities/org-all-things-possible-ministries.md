@@ -1,6 +1,6 @@
 ---
 title: "All Things Possible Ministries"
-description: "All Things Possible Ministries (Organizations) - 7 mentions"
+description: "All Things Possible Ministries (Organizations) - 11 mentions"
 id: "org-all-things-possible-ministries"
 type: "ORG"
 aliases:
@@ -25,12 +25,12 @@ Source: [About Us | All Things Possible](https://atpministries.org/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-org-all-things-possible-ministries-t-00-15-53">2026-04-14 · 00:15:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep--9MOUvgGyi4.md#ent-org-all-things-possible-ministries-t-01-42-18">2026-04-22 · 01:42:35</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-all-things-possible-ministries-t-00-56-42">2026-05-19 · 00:57:00</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -40,6 +40,7 @@ Source: [About Us | All Things Possible](https://atpministries.org/about-us/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-all-things-possible-ministries-t-00-15-53" style="--pulse-height:40%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-org-all-things-possible-ministries-t-00-52-12" style="--pulse-height:100%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 5 mentions" title="2026-04-22 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-all-things-possible-ministries-t-00-05-05" style="--pulse-height:80%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 4 mentions" title="2026-05-19 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [About Us | All Things Possible](https://atpministries.org/about-us/)
 |---|---|---:|
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-all-things-possible-ministries-t-00-15-53) | 2 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-all-things-possible-ministries-t-00-52-12) | 5 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-all-things-possible-ministries-t-00-05-05) | 4 |
 
 </details>
 </section>
@@ -54,7 +56,24 @@ Source: [About Us | All Things Possible](https://atpministries.org/about-us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (4 mentions)</summary>
+
+**[00:05:18](/episodes/ep-Dkxa9OUA9K8.md#ent-org-all-things-possible-ministries-t-00-05-05)**
+> "...003, he and his brother began All Things Possible Ministries. In 2023."
+
+**[00:52:11](/episodes/ep-Dkxa9OUA9K8.md#ent-org-all-things-possible-ministries-t-00-52-02)**
+> "...ife and I started a ministry, all things possible, many, many years ago, a couple of decades before..."
+
+**[00:56:52](/episodes/ep-Dkxa9OUA9K8.md#ent-org-all-things-possible-ministries-t-00-56-42)**
+> "...do. Our mission statement for all things possible ministries is to set captives free physically, emotionally a..."
+
+**[00:57:00](/episodes/ep-Dkxa9OUA9K8.md#ent-org-all-things-possible-ministries-t-00-56-42)**
+> "Our mission statement for all things possible ministries is to set captives free physically, emotionally, ..."
+
+</details>
 
 <details>
 <summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (5 mentions)</summary>
@@ -93,12 +112,27 @@ Source: [About Us | All Things Possible](https://atpministries.org/about-us/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Founded By (1)</summary>
+<summary>Founded By (3)</summary>
 
 - **[Victor Marx](/entities/person-victor-marx.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:15:53](/episodes/ep-jsqUIkszZd0.md#t-00-15-53): “In 2003, he and his brother, who got that light sentence and was out of prison, began All Things Possible Ministries.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:52:11](/episodes/ep-Dkxa9OUA9K8.md#t-00-52-02): “Marine Corps. I served under President Reagan. My wife and I started a ministry, all things possible, many, many years ago, a couple of decades before that I worked for Dr.”
+
+</details>
+
+- **[Michael Dean Kennedy](/entities/person-michael-dean-kennedy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:05:18](/episodes/ep-Dkxa9OUA9K8.md#t-00-05-05): “In 2003, he and his brother began All Things Possible Ministries. In 2023.”
+
+</details>
+
+- **[Eileen Marx](/entities/person-eileen-marx.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:52:11](/episodes/ep-Dkxa9OUA9K8.md#t-00-52-02): “Marine Corps. I served under President Reagan. My wife and I started a ministry, all things possible, many, many years ago, a couple of decades before that I worked for Dr.”
 
 </details>
 
@@ -129,7 +163,7 @@ Source: [About Us | All Things Possible](https://atpministries.org/about-us/)
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Chaz Yandall](/entities/person-chaz-yandall.md)** COO of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -139,9 +173,24 @@ Source: [About Us | All Things Possible](https://atpministries.org/about-us/)
 </details>
 
 - **[Victor Marx](/entities/person-victor-marx.md)** founded this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:15:53](/episodes/ep-jsqUIkszZd0.md#t-00-15-53): “In 2003, he and his brother, who got that light sentence and was out of prison, began All Things Possible Ministries.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:52:11](/episodes/ep-Dkxa9OUA9K8.md#t-00-52-02): “Marine Corps. I served under President Reagan. My wife and I started a ministry, all things possible, many, many years ago, a couple of decades before that I worked for Dr.”
+
+</details>
+
+- **[Michael Dean Kennedy](/entities/person-michael-dean-kennedy.md)** founded this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:05:18](/episodes/ep-Dkxa9OUA9K8.md#t-00-05-05): “In 2003, he and his brother began All Things Possible Ministries. In 2023.”
+
+</details>
+
+- **[Eileen Marx](/entities/person-eileen-marx.md)** founded this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:52:11](/episodes/ep-Dkxa9OUA9K8.md#t-00-52-02): “Marine Corps. I served under President Reagan. My wife and I started a ministry, all things possible, many, many years ago, a couple of decades before that I worked for Dr.”
 
 </details>
 
@@ -157,7 +206,36 @@ Source: [About Us | All Things Possible](https://atpministries.org/about-us/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about All Things Possible Ministries (1)</strong></summary>
+<summary><strong class="section-title">Statements about All Things Possible Ministries (9)</strong></summary>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (8)</summary>
+
+- [00:38:26](/episodes/ep-Dkxa9OUA9K8.md#t-00-38-26) (Claim) **Victor Marx**: ["Victor Marx says his headquarters holds more than 6,000 letters from i..."](/statements/statement-9163252adc39.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md)
+
+- [00:53:10](/episodes/ep-Dkxa9OUA9K8.md#t-00-52-37) (Claim) **Victor Marx**: ["Victor Marx says the Kurdistan government officially invited his organ..."](/statements/statement-e4c4edec34ff.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Kurdistan Regional Government](/entities/org-kurdistan-regional-government.md), [Islamic State](/entities/org-islamic-state.md)
+
+- [00:55:00](/episodes/ep-Dkxa9OUA9K8.md#t-00-54-48) (Claim) **Victor Marx**: ["Victor Marx says All Things Possible Ministries has never accepted gov..."](/statements/statement-28553da7f94a.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md)
+
+- [00:56:42](/episodes/ep-Dkxa9OUA9K8.md#t-00-56-42) (Claim) **Victor Marx**: ["Victor Marx says neither he nor All Things Possible Ministries ever cl..."](/statements/statement-910bc380eba4.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md)
+
+- [00:58:02](/episodes/ep-Dkxa9OUA9K8.md#t-00-57-36) (Claim) **Victor Marx**: ["Victor Marx says his team rescued a mother who had been held captive b..."](/statements/statement-cc9f5393ba08.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Islamic State](/entities/org-islamic-state.md)
+
+- [01:06:23](/episodes/ep-Dkxa9OUA9K8.md#t-01-06-23) (Claim) **Victor Marx**: ["Victor Marx says he has never intentionally manipulated or maligned an..."](/statements/statement-14849b19ca9b.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md)
+
+- [01:08:56](/episodes/ep-Dkxa9OUA9K8.md#t-01-08-56) (Claim) **Victor Marx**: ["Victor Marx says his organization helped 6,000 children affected by th..."](/statements/statement-cee03df0c038.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Hamas](/entities/org-hamas.md), [Israel](/entities/gpe-israel.md)
+
+- [01:13:43](/episodes/ep-Dkxa9OUA9K8.md#t-01-13-43) (Citation) **Candace Owens**: ["Candace Owens says an archived version of Victor Marx's campaign websi..."](/statements/statement-6c73660f375d.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md)
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1)</summary>

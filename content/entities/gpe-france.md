@@ -1,6 +1,6 @@
 ---
 title: "France"
-description: "France (Places) - 289 mentions"
+description: "France (Places) - 303 mentions"
 id: "gpe-france"
 type: "GPE"
 aliases:
@@ -23,10 +23,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-france-t-00-01-27">2025-10-06 · 00:01:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-04-01-26">2026-08-14 · 04:01:41</a></strong></div>
-<div><span>Episodes</span><strong>40</strong></div>
-<div><span>Mentions</span><strong>289</strong></div>
+<div><span>Episodes</span><strong>43</strong></div>
+<div><span>Mentions</span><strong>303</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>33</strong></div>
+<div><span>Statements about</span><strong>34</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -74,6 +74,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-gpe-france-t-00-15-05" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 3 mentions" title="2026-05-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-france-t-00-39-40" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-gpe-france-t-00-00-44" style="--pulse-height:8%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-france-t-00-22-17" style="--pulse-height:8%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 2 mentions" title="2026-05-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-france-t-00-36-35" style="--pulse-height:14%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 10 mentions" title="2026-05-27 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-france-t-01-13-52" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-21-59" style="--pulse-height:24%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -119,6 +122,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-france-t-00-15-05) | 3 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-france-t-00-39-40) | 4 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-france-t-00-00-44) | 2 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-france-t-00-22-17) | 2 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-france-t-00-36-35) | 10 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-gpe-france-t-01-13-52) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-21-59) | 17 |
 
 </details>
@@ -127,7 +133,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (289)</strong></summary>
+<summary><strong class="section-title">Raw mentions (303)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (17 mentions)</summary>
@@ -182,6 +188,63 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[04:01:41](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-04-01-26)**
 > "...ckly and to speak to me about France and to talk about this penguin receipt and my tim..."
+
+</details>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2 mentions)</summary>
+
+**[01:14:14](/episodes/ep-YeEtS7nix3o.md#ent-gpe-france-t-01-13-52)**
+> "...de two. Tone Tommy writes, if France's president read Make Him a Sandwich, would he fix ..."
+
+**[01:14:27](/episodes/ep-YeEtS7nix3o.md#ent-gpe-france-t-01-14-27)**
+> "By the way, regarding of France's president, I had no idea how viral the series wen..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (10 mentions)</summary>
+
+**[00:36:35](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-france-t-00-36-35)**
+> "...ney and his relationship with France, of all places. I said, what are you talking abou..."
+
+**[00:36:46](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-france-t-00-36-35)**
+> "...nes, they always stop over in France. And they said, it's long been a rumor that Franc..."
+
+**[00:37:11](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-france-t-00-37-11)**
+> "...d. He did his mission trip in France and he killed somebody in a car accident and it w..."
+
+**[00:37:33](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-france-t-00-37-11)**
+> "...s article, how a car crash in France deeply affected a U.S. presidential hopeful."
+
+**[00:37:46](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-france-t-00-37-11)**
+> "...ed was indeed in the south of France."
+
+**[00:37:55](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-france-t-00-37-55)**
+> "...ngregation of Pau in southern France."
+
+**[00:38:04](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-france-t-00-37-55)**
+> "...fe and two missionaries and a French Mormon couple—six people in a car that would have..."
+
+**[00:46:40](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-france-t-00-46-22)**
+> "... Twitter account that had the French name."
+
+**[00:46:48](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-france-t-00-46-22)**
+> "... account on X, and he chose a French name because he is fluent in French because of hi..."
+
+**[00:46:59](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-france-t-00-46-22)**
+> "He is a fluent French speaker. Like I said, it is a tangled web that we..."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (2 mentions)</summary>
+
+**[00:22:38](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-france-t-00-22-17)**
+> "I have a French channel. You guys know how bad my French is. It's..."
+
+**[00:22:44](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-france-t-00-22-17)**
+> "I speak French better than a French person."
 
 </details>
 
@@ -1318,13 +1381,21 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about France (33)</strong></summary>
+<summary><strong class="section-title">Statements about France (34)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
 
 - [02:33:22](/episodes/ep-nPhCKwJ6ye8.md#t-02-33-18) (Accusation) **Anonymous Source #1 (Ep nPhCKwJ6ye8)** (via quoted speech): ["French Foreign Legion personnel were on the ground during Charlie Kirk..."](/statements/statement-0ccadf24fcfc.md)
   - Also about: [French Foreign Legion](/entities/org-french-foreign-legion.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
+
+- [00:37:42](/episodes/ep-MhakwJxK-Zk.md#t-00-37-11) (Claim) **The New York Times** (via quoted article): ["The New York Times reported that on June 16, 1968, a car driven by 21-..."](/statements/statement-27584beb5108.md)
+  - Also about: [Mitt Romney](/entities/person-mitt-romney.md), [Leola Anderson](/entities/person-leola-anderson.md), [H. Duane Anderson](/entities/person-h-duane-anderson.md)
 
 </details>
 

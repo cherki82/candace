@@ -1,0 +1,64 @@
+---
+title: "The day before he died, Charlie Kirk announced that he had n..."
+description: "\"The day before he died, Charlie Kirk announced that he had no choice but to abandon the pro-Israel cause.\" — Candace Owens"
+statement_id: "statement-424b29ad9a5d"
+speaker: "Candace Owens"
+type: "factual_claim"
+veracity: "mixed"
+---
+
+**Status:** ◐ Mixed
+
+## Statement
+
+> The day before he died, Charlie Kirk announced that he had no choice but to abandon the pro-Israel cause.
+
+## Attribution
+
+**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+
+**Delivery:** Paraphrased
+
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md) (concept)
+
+## Appearances (2)
+
+### 1. The World Is A Stage: Trump Survives...Again? | Ep 343
+
+**Episode:** [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md)
+**Timestamp:** [00:40:45](/episodes/ep-BxN2-aeMYIs.md#t-00-40-10) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2445);return false;">Play</a>
+
+> In fact, he announced that day before he died. He was left with no choice but to abandon the pro-Israel cause.
+
+### 2. BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. |...
+
+**Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
+**Timestamp:** [00:35:27](/episodes/ep-MhakwJxK-Zk.md#t-00-35-16) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2127);return false;">Play</a>
+
+> September 9th is when Charlie (Charlie Kirk) sends a message declaring he has left the pro-Israel cause due to their intense bullying and financial pressure.
+
+## Verification
+
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Authentic leaked messages confirmed by Andrew Kolvet show Kirk saying donor pressure left him no choice but to leave the pro-Israel cause. Available reporting places the private message roughly two days before his death, not as a public announcement the day before.
+
+**Confidence:** High
+
+**Sources:**
+
+- [CNN transcript, October 9, 2025](https://transcripts.cnn.com/show/ctmo/date/2025-10-09/segment/02)
+
+*Verified: 2026-08-25T15:01:27.820075*
+
+---
+
+**Type:** Factual Claim | **Verifiable:** Yes

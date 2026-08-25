@@ -1,6 +1,6 @@
 ---
 title: "Megyn Kelly"
-description: "Megyn Kelly (People) - 212 mentions"
+description: "Megyn Kelly (People) - 222 mentions"
 id: "person-megyn-kelly"
 type: "PERSON"
 aliases:
@@ -23,10 +23,10 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-megyn-kelly-t-00-11-22">2025-09-15 · 00:11:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-02-47-31">2026-08-14 · 02:47:31</a></strong></div>
-<div><span>Episodes</span><strong>54</strong></div>
-<div><span>Mentions</span><strong>212</strong></div>
+<div><span>Episodes</span><strong>59</strong></div>
+<div><span>Mentions</span><strong>222</strong></div>
 <div><span>Statements by</span><strong>15</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>48</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -88,6 +88,11 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-megyn-kelly-t-00-11-59" style="--pulse-height:26%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 6 mentions" title="2026-05-04 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-megyn-kelly-t-00-21-14" style="--pulse-height:9%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-megyn-kelly-t-00-07-01" style="--pulse-height:9%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-megyn-kelly-t-00-13-29" style="--pulse-height:9%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 2 mentions" title="2026-05-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-person-megyn-kelly-t-00-18-05" style="--pulse-height:8%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-megyn-kelly-t-00-34-32" style="--pulse-height:17%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 4 mentions" title="2026-05-27 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-megyn-kelly-t-01-02-38" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-person-megyn-kelly-t-00-28-30" style="--pulse-height:9%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-00-36-46" style="--pulse-height:9%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -147,6 +152,11 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-megyn-kelly-t-00-11-59) | 6 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-megyn-kelly-t-00-21-14) | 2 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-megyn-kelly-t-00-07-01) | 2 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-megyn-kelly-t-00-13-29) | 2 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-megyn-kelly-t-00-18-05) | 1 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-megyn-kelly-t-00-34-32) | 4 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-megyn-kelly-t-01-02-38) | 1 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-megyn-kelly-t-00-28-30) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-00-36-46) | 2 |
 
 </details>
@@ -155,7 +165,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (212)</strong></summary>
+<summary><strong class="section-title">Raw mentions (222)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -165,6 +175,61 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 
 **[02:47:31](/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-02-47-31)**
 > "by the way, I remember even Megyn Kelly was like, you know, let's wait,"
+
+</details>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2 mentions)</summary>
+
+**[00:28:53](/episodes/ep-YeEtS7nix3o.md#ent-person-megyn-kelly-t-00-28-30)**
+> "... you should take someone like Megyn Kelly very seriously when she says that she truly belie..."
+
+**[00:56:00](/episodes/ep-YeEtS7nix3o.md#ent-person-megyn-kelly-t-00-56-00)**
+> "... of 2025 in an interview with Megyn Kelly."
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
+
+**[01:02:38](/episodes/ep-SKNJPul29zU.md#ent-person-megyn-kelly-t-01-02-38)**
+> "is AI okay that's a very big claim that I am making right and I'm not making that claim by the way the donors are and they're contacting me and saying this never happened because they couldn't couldn't believe it because they said they were watching my podcast and when they had heard it initially when Erika (Erika Kirk) told the story to Megyn Kelly they thought oh it must have been at the Hamptons or whatever it was and then when I said it was Aspen they were shocked they"
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (4 mentions)</summary>
+
+**[00:34:49](/episodes/ep-MhakwJxK-Zk.md#ent-person-megyn-kelly-t-00-34-32)**
+> "...situation when he appeared on Megyn Kelly's podcast in the following days where he was upset ..."
+
+**[00:41:36](/episodes/ep-MhakwJxK-Zk.md#ent-person-megyn-kelly-t-00-41-26)**
+> "...rika Kirk) hit the stage with Megyn Kelly?"
+
+**[00:41:51](/episodes/ep-MhakwJxK-Zk.md#ent-person-megyn-kelly-t-00-41-26)**
+> "...Erika (Erika Kirk) meets with Megyn Kelly."
+
+**[00:42:09](/episodes/ep-MhakwJxK-Zk.md#ent-person-megyn-kelly-t-00-42-09)**
+> "That date where she met with Megyn Kelly was November 22nd. And I went through my inbox an..."
+
+</details>
+
+<details>
+<summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1 mentions)</summary>
+
+**[00:18:05](/episodes/ep-cPidFQDJLbo.md#ent-person-megyn-kelly-t-00-18-05)**
+> "her telling Megyn Kelly"
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (2 mentions)</summary>
+
+**[00:13:29](/episodes/ep-1QZ4X6q1DPg.md#ent-person-megyn-kelly-t-00-13-29)**
+> "...a Kirk carefully described to Megyn Kelly—she sat down with Megyn Kelly and talked about ho..."
+
+**[00:20:47](/episodes/ep-1QZ4X6q1DPg.md#ent-person-megyn-kelly-t-00-20-47)**
+> "... to roll out the sad story to Megyn Kelly and then to have it be her walkout music as she a..."
 
 </details>
 
@@ -1195,12 +1260,13 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:31:35](/episodes/ep-SKGUzGHymcI.md#t-00-31-12): “...rlie (Charlie Kirk) into the waiting SUV, he told Megyn Kelly something different about drones on that day. Take a listen. In fact, when we were driving into tha...”
 - [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 @ 00:27:38](/episodes/ep-QZWSsq8ZWzw.md#t-00-27-09): “...e a pause here. We're gonna get to something that Megyn Kelly shared on her show about a hex that was put on Charlie Kirk—which is important for us to discuss fo...”
 - [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 @ 00:32:37](/episodes/ep-QZWSsq8ZWzw.md#t-00-32-17): “...e a pause here. We're gonna get to something that Megyn Kelly shared on her show about a hex that was put on Charlie Kirk (Charlie Kirk), which is important for ...”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:40:03](/episodes/ep-ja26iltROkM.md#t-00-39-59): “as Megyn Kelly said...Charlie was trying to communicate that their tactics”
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:34:49](/episodes/ep-MhakwJxK-Zk.md#t-00-34-32): “he appeared on Megyn Kelly's podcast in the following days”
 
 </details>
 
@@ -1233,9 +1299,10 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:07:09](/episodes/ep-KpxIBWkNsSs.md#t-00-07-01): “Erika (Erika Kirk) herself told Megyn Kelly an emotional story about what she felt like watching that video for the first time. The video of Charlie (Charlie Kirk) choosing her, violating suddenly his every public statement and sentiment that he had ever expressed in the past about women working, complete 180 from his prior positions.”
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:13:29](/episodes/ep-1QZ4X6q1DPg.md#t-00-12-54): “Erika Kirk carefully described to Megyn Kelly—she sat down with Megyn Kelly and talked about how Charlie Kirk, look at the tears in her eye, through many tears—she saw this video three weeks before he died.”
 
 </details>
 
@@ -1407,12 +1474,13 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:31:35](/episodes/ep-SKGUzGHymcI.md#t-00-31-12): “...rlie (Charlie Kirk) into the waiting SUV, he told Megyn Kelly something different about drones on that day. Take a listen. In fact, when we were driving into tha...”
 - [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 @ 00:27:38](/episodes/ep-QZWSsq8ZWzw.md#t-00-27-09): “...e a pause here. We're gonna get to something that Megyn Kelly shared on her show about a hex that was put on Charlie Kirk—which is important for us to discuss fo...”
 - [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 @ 00:32:37](/episodes/ep-QZWSsq8ZWzw.md#t-00-32-17): “...e a pause here. We're gonna get to something that Megyn Kelly shared on her show about a hex that was put on Charlie Kirk (Charlie Kirk), which is important for ...”
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:11:41](/episodes/ep-czVBmqZP6Ss.md#t-00-11-22): “They were coming after you, after Turning Point...You're not allowed to, though.”
+- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:34:49](/episodes/ep-MhakwJxK-Zk.md#t-00-34-32): “he appeared on Megyn Kelly's podcast in the following days”
 
 </details>
 
@@ -1453,9 +1521,10 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:07:09](/episodes/ep-KpxIBWkNsSs.md#t-00-07-01): “Erika (Erika Kirk) herself told Megyn Kelly an emotional story about what she felt like watching that video for the first time. The video of Charlie (Charlie Kirk) choosing her, violating suddenly his every public statement and sentiment that he had ever expressed in the past about women working, complete 180 from his prior positions.”
+- [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:13:29](/episodes/ep-1QZ4X6q1DPg.md#t-00-12-54): “Erika Kirk carefully described to Megyn Kelly—she sat down with Megyn Kelly and talked about how Charlie Kirk, look at the tears in her eye, through many tears—she saw this video three weeks before he died.”
 
 </details>
 
@@ -1576,7 +1645,23 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Megyn Kelly (15)</strong></summary>
+<summary><strong class="section-title">Statements about Megyn Kelly (17)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>
+
+- [00:56:00](/episodes/ep-YeEtS7nix3o.md#t-00-56-00) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Erika Kirk claimed Charlie Kirk named her CEO at a ..."](/statements/statement-18479737e8ae.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
+
+- [00:41:26](/episodes/ep-MhakwJxK-Zk.md#t-00-41-26) (Accusation) **Candace Owens**: ["Turning Point USA began removing Charlie Kirk Show episodes on Novembe..."](/statements/statement-0f43cb37ab60.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1)</summary>

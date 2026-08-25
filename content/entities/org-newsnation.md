@@ -1,17 +1,26 @@
 ---
 title: "NewsNation"
-description: "NewsNation (Organizations) - 5 mentions"
+description: "NewsNation (Organizations) - 6 mentions"
 id: "org-newsnation"
 type: "ORG"
+categories:
+  - "news media"
+  - "television network"
 ---
 
 _Type: Organizations_
+
+**Categories:** news media, television network
+
+**Entity verification:** verified
+> Nexstar's official networks page confirms the canonical brand name NewsNation and identifies it as the company's national cable news network.
+Source: [Networks | Nexstar Media Group](https://www.nexstar.tv/networks/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-newsnation-t-00-12-14">2025-09-30 · 00:12:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-newsnation-t-00-21-03">2025-10-02 · 00:21:20</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,7 +47,7 @@ _Type: Organizations_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
 
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>

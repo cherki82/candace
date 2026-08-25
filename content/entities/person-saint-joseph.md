@@ -1,6 +1,6 @@
 ---
 title: "Saint Joseph"
-description: "Saint Joseph (People) - 2 mentions"
+description: "Saint Joseph (People) - 3 mentions"
 id: "person-saint-joseph"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Saint Joseph - United States Conference of Catholic Bishops](https://ww
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-saint-joseph-t-00-45-55">2026-03-18 · 00:45:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-saint-joseph-t-00-45-55">2026-03-18 · 00:46:04</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-saint-joseph-t-00-31-23">2026-05-14 · 00:31:55</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,12 +37,14 @@ Source: [Saint Joseph - United States Conference of Catholic Bishops](https://ww
 <p>Highest activity: <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-saint-joseph-t-00-45-55">Bride Of Charlie: Red Sparrow | Episode 8</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-saint-joseph-t-00-45-55" style="--pulse-height:100%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 2 mentions" title="2026-03-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-saint-joseph-t-00-31-23" style="--pulse-height:50%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-saint-joseph-t-00-45-55) | 2 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-person-saint-joseph-t-00-31-23) | 1 |
 
 </details>
 </section>
@@ -50,7 +52,15 @@ Source: [Saint Joseph - United States Conference of Catholic Bishops](https://ww
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1 mentions)</summary>
+
+**[00:31:55](/episodes/ep-Pb7UlpRdW6U.md#ent-person-saint-joseph-t-00-31-23)**
+> "...t's a lesson that we get from Joseph in the Bible. And I just I believe it. Right."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (2 mentions)</summary>

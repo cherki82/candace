@@ -1,6 +1,6 @@
 ---
 title: "Tucker Carlson"
-description: "Tucker Carlson (People) - 514 mentions"
+description: "Tucker Carlson (People) - 538 mentions"
 id: "person-tucker-carlson"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tucker-carlson-t-00-12-57">2025-09-15 · 00:13:18</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-36-07">2026-08-14 · 00:36:36</a></strong></div>
-<div><span>Episodes</span><strong>78</strong></div>
-<div><span>Mentions</span><strong>514</strong></div>
-<div><span>Statements by</span><strong>48</strong></div>
-<div><span>Statements about</span><strong>61</strong></div>
-<div><span>Relationships</span><strong>82</strong></div>
+<div><span>Episodes</span><strong>85</strong></div>
+<div><span>Mentions</span><strong>538</strong></div>
+<div><span>Statements by</span><strong>49</strong></div>
+<div><span>Statements about</span><strong>62</strong></div>
+<div><span>Relationships</span><strong>86</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -112,6 +112,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-tucker-carlson-t-00-10-09" style="--pulse-height:15%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 6 mentions" title="2026-05-05 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-tucker-carlson-t-00-27-59" style="--pulse-height:15%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 6 mentions" title="2026-05-06 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-person-tucker-carlson-t-00-09-12" style="--pulse-height:12%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 5 mentions" title="2026-05-07 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-tucker-carlson-t-00-20-46" style="--pulse-height:8%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-tucker-carlson-t-00-43-45" style="--pulse-height:8%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-tucker-carlson-t-00-48-03" style="--pulse-height:8%" aria-label="Candace x Hunter Biden: The Interview: 3 mentions" title="2026-05-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-tucker-carlson-t-00-17-35" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-tucker-carlson-t-00-29-56" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-tucker-carlson-t-00-23-00" style="--pulse-height:20%" aria-label="Candace Owens x Ana Kasparian: 8 mentions" title="2026-05-28 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-person-tucker-carlson-t-00-03-16" style="--pulse-height:18%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 7 mentions" title="2026-06-09 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-28-54" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -195,6 +202,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-tucker-carlson-t-00-10-09) | 6 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-tucker-carlson-t-00-27-59) | 6 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-tucker-carlson-t-00-09-12) | 5 |
+| 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-person-tucker-carlson-t-00-20-46) | 2 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-tucker-carlson-t-00-43-45) | 1 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-tucker-carlson-t-00-48-03) | 3 |
+| 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-tucker-carlson-t-00-17-35) | 1 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-tucker-carlson-t-00-29-56) | 2 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-tucker-carlson-t-00-23-00) | 8 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-tucker-carlson-t-00-03-16) | 7 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-28-54) | 3 |
 
 </details>
@@ -203,7 +217,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (514)</strong></summary>
+<summary><strong class="section-title">Raw mentions (538)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -216,6 +230,113 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 **[00:36:36](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-36-07)**
 > "Tucker Carlson then comes out and confirms the conversations tha..."
+
+</details>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (7 mentions)</summary>
+
+**[00:03:30](/episodes/ep-YeEtS7nix3o.md#ent-person-tucker-carlson-t-00-03-16)**
+> "Tucker Carlson stole my shine. Anyway, we were informed that, we..."
+
+**[00:29:35](/episodes/ep-YeEtS7nix3o.md#ent-person-tucker-carlson-t-00-29-14)**
+> "...ussia is a lie. Okay. So when Tucker Carlson was going around looking at the grocery stores, t..."
+
+**[00:30:02](/episodes/ep-YeEtS7nix3o.md#ent-person-tucker-carlson-t-00-29-55)**
+> "...I don't want you to take from Tucker Carlson. I want you to go for yourself."
+
+**[00:31:12](/episodes/ep-YeEtS7nix3o.md#ent-person-tucker-carlson-t-00-31-12)**
+> "...hoto because I had to upstage Tucker in the grocery stores, but they were actually so ..."
+
+**[00:34:52](/episodes/ep-YeEtS7nix3o.md#ent-person-tucker-carlson-t-00-34-46)**
+> "My friend Tucker Carlson started digging into the industry and what he fou..."
+
+**[00:35:17](/episodes/ep-YeEtS7nix3o.md#ent-person-tucker-carlson-t-00-34-46)**
+> "Tucker Carlson founded Battalion because he couldn't find one th..."
+
+**[01:13:52](/episodes/ep-YeEtS7nix3o.md#ent-person-tucker-carlson-t-01-13-52)**
+> "...hing i was like name dropping tucker carlson by the way i'm not above it i was like oh yeah yo..."
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (8 mentions)</summary>
+
+**[00:23:00](/episodes/ep-SKNJPul29zU.md#ent-person-tucker-carlson-t-00-23-00)**
+> "go okay you had me maybe you had me at Nick Fuentes you know like people go okay he was done early he's 18 we didn't know who he was but they just start moving and then you're going it's Candace Owens oh no Tucker Carlson bumped his head and became Adolf Hitler it's it becomes way too and then you go okay let me go back and really see what's happening"
+
+**[00:47:31](/episodes/ep-SKNJPul29zU.md#ent-person-tucker-carlson-t-00-47-31)**
+> "perfect. Okay, Matthew Crooks (Thomas Matthew Crooks). So Tucker (Tucker Carlson) did this really great special on the lack of investigation into that and how much we were lied to by our FBI, like the fact that the FBI told us that, oh, there's no online trail of this guy. And it turns out, no, he was actually pretty active online."
+
+**[00:23:19](/episodes/ep-SKNJPul29zU.md#ent-person-tucker-carlson-t-00-23-19)**
+> "...c is nowhere close to Tucker (Tucker Carlson). Tucker Carlson's rhetoric, not nowhere close to..."
+
+**[00:26:06](/episodes/ep-SKNJPul29zU.md#ent-person-tucker-carlson-t-00-26-06)**
+> "And the whiplash of, oh, Tucker Carlson was fine for Fox News and"
+
+**[00:26:09](/episodes/ep-SKNJPul29zU.md#ent-person-tucker-carlson-t-00-26-09)**
+> "...And then all of a sudden, no, Tucker Carlson, very, very bad."
+
+**[01:14:48](/episodes/ep-SKNJPul29zU.md#ent-person-tucker-carlson-t-01-14-25)**
+> "...stly because after, you know, Tucker Carlson talked about his supernatural experience, people ..."
+
+**[01:20:43](/episodes/ep-SKNJPul29zU.md#ent-person-tucker-carlson-t-01-20-34)**
+> "I think the popularity of Tucker Carlson gives me a look into what the conservative moveme..."
+
+**[01:21:29](/episodes/ep-SKNJPul29zU.md#ent-person-tucker-carlson-t-01-21-16)**
+> "...uctantly admit like Tucker's (Tucker Carlson) right about this you know and and i love it i lo..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (2 mentions)</summary>
+
+**[00:30:27](/episodes/ep-MhakwJxK-Zk.md#ent-person-tucker-carlson-t-00-29-56)**
+> "Tucker Carlson speaks at the Turning Point USA conference and th..."
+
+**[00:31:11](/episodes/ep-MhakwJxK-Zk.md#ent-person-tucker-carlson-t-00-31-11)**
+> "...rs cancel on him over Tucker (Tucker Carlson), and was under tremendous pressure and was holdi..."
+
+</details>
+
+<details>
+<summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1 mentions)</summary>
+
+**[00:17:50](/episodes/ep-BxN2-aeMYIs.md#ent-person-tucker-carlson-t-00-17-35)**
+> "Candace Owens, Tucker Carlson"
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (3 mentions)</summary>
+
+**[00:48:17](/episodes/ep-Ux1kzgQxkws.md#ent-person-tucker-carlson-t-00-48-03)**
+> "...dinner together and like with tucker i knew tucker you know what i mean and um and lik..."
+
+**[00:57:26](/episodes/ep-Ux1kzgQxkws.md#ent-person-tucker-carlson-t-00-57-12)**
+> "...irst of all like I'm not like Tucker Carlson and I say his people all the time that's why I ge..."
+
+**[00:58:46](/episodes/ep-Ux1kzgQxkws.md#ent-person-tucker-carlson-t-00-58-21)**
+> "...he same approach that i think tucker has to it which is and i don't know it is which i..."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>
+
+**[00:43:45](/episodes/ep-1QZ4X6q1DPg.md#ent-person-tucker-carlson-t-00-43-45)**
+> "...lly quite honest with Tucker (Tucker Carlson) about what they're trying to achieve. We want to..."
+
+</details>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (2 mentions)</summary>
+
+**[00:21:18](/episodes/ep-Pb7UlpRdW6U.md#ent-person-tucker-carlson-t-00-20-46)**
+> "...n that Kevin O'Leary had with Tucker Carlson about his investment in that Utah data center."
+
+**[00:23:06](/episodes/ep-Pb7UlpRdW6U.md#ent-person-tucker-carlson-t-00-23-06)**
+> "... but I ask you again, Tucker (Tucker Carlson), and"
 
 </details>
 
@@ -2167,7 +2288,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>Appeared With (3)</summary>
+<summary>Appeared With (4)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -2187,6 +2308,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:10:11](/episodes/ep-sreYYcID-QY.md#t-00-09-40): “I was not invited to speak alongside President Donald Trump and JD Vance on the stage with Tucker at a memorial event.”
+
+</details>
+
+- **[Kevin O'Leary](/entities/person-kevin-oleary.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:21:18](/episodes/ep-Pb7UlpRdW6U.md#t-00-20-46): “Listen to this conversation that Kevin O'Leary had with Tucker Carlson about his investment in that Utah data center.”
 
 </details>
 
@@ -2345,6 +2473,18 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:18:52](/episodes/ep-9naMwS0kMBE.md#t-00-18-46): “used to work for Fox News”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:12:10](/episodes/ep-uC_GjKU8rs8.md#t-00-11-59): “Tucker Carlson left Fox in 2023. He kept his audience. He runs his shop with a fraction of the headcount.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Founded (1)</summary>
+
+- **[Battalion Metals](/entities/org-battalion-metals.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:35:17](/episodes/ep-YeEtS7nix3o.md#t-00-34-46): “Tucker Carlson founded Battalion because he couldn't find one that he actually trusted.”
 
 </details>
 
@@ -2519,7 +2659,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>Referenced By (41)</summary>
+<summary>Referenced By (43)</summary>
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -2553,6 +2693,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:10:11](/episodes/ep-sreYYcID-QY.md#t-00-09-40): “I was not invited to speak alongside President Donald Trump and JD Vance on the stage with Tucker at a memorial event.”
+
+</details>
+
+- **[Kevin O'Leary](/entities/person-kevin-oleary.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:21:18](/episodes/ep-Pb7UlpRdW6U.md#t-00-20-46): “Listen to this conversation that Kevin O'Leary had with Tucker Carlson about his investment in that Utah data center.”
 
 </details>
 
@@ -2687,6 +2834,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 @ 00:45:57](/episodes/ep-DqGNvi36ol8.md#t-00-45-50)
+
+</details>
+
+- **[Battalion Metals](/entities/org-battalion-metals.md)** founded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:35:17](/episodes/ep-YeEtS7nix3o.md#t-00-34-46): “Tucker Carlson founded Battalion because he couldn't find one that he actually trusted.”
 
 </details>
 
@@ -2833,7 +2987,15 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Tucker Carlson (48)</strong></summary>
+<summary><strong class="section-title">Statements by Tucker Carlson (49)</strong></summary>
+
+<details>
+<summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1)</summary>
+
+- [00:22:48](/episodes/ep-Pb7UlpRdW6U.md#t-00-22-48) [✗] (Claim) ["Hundreds of thousands of American citizens were sent to concentration camps by F..."](/statements/statement-d5f388657821.md)
+  - About: [Franklin D. Roosevelt](/entities/person-franklin-d-roosevelt.md), [United States](/entities/gpe-united-states.md)
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1)</summary>
@@ -3051,7 +3213,15 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tucker Carlson (61)</strong></summary>
+<summary><strong class="section-title">Statements about Tucker Carlson (62)</strong></summary>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1)</summary>
+
+- [00:47:31](/episodes/ep-SKNJPul29zU.md#t-00-47-31) (Accusation) **Ana Kasparian**: ["The FBI lied when it said Thomas Matthew Crooks had no online trail; h..."](/statements/statement-ccaaf4f45447.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md)
+
+</details>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1)</summary>

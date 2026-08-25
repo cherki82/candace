@@ -1,6 +1,6 @@
 ---
 title: "USS Liberty"
-description: "USS Liberty (Vehicles) - 6 mentions"
+description: "USS Liberty (Vehicles) - 9 mentions"
 id: "vehicle-uss-liberty"
 type: "VEHICLE"
 aliases:
@@ -21,11 +21,11 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-uss-liberty-t-00-04-59">2026-01-29 · 00:05:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-vehicle-uss-liberty-t-00-49-48">2026-03-09 · 00:49:56</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-vehicle-uss-liberty-t-00-16-24">2026-06-09 · 00:16:24</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -36,6 +36,9 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-uss-liberty-t-00-04-59" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 5 mentions" title="2026-01-29 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-vehicle-uss-liberty-t-00-49-48" style="--pulse-height:20%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-vehicle-uss-liberty-t-00-03-44" style="--pulse-height:20%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-vehicle-uss-liberty-t-00-00-05" style="--pulse-height:20%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-vehicle-uss-liberty-t-00-16-24" style="--pulse-height:20%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -43,6 +46,9 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
 |---|---|---:|
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-uss-liberty-t-00-04-59) | 5 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-vehicle-uss-liberty-t-00-49-48) | 1 |
+| 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-vehicle-uss-liberty-t-00-03-44) | 1 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-vehicle-uss-liberty-t-00-00-05) | 1 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-vehicle-uss-liberty-t-00-16-24) | 1 |
 
 </details>
 </section>
@@ -50,7 +56,31 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>
+
+**[00:16:24](/episodes/ep-YeEtS7nix3o.md#ent-vehicle-uss-liberty-t-00-16-24)**
+> "...to honor the survivors of the USS Liberty, Phil Tourney being the person that I interviewed..."
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
+
+**[00:00:18](/episodes/ep-Ux1kzgQxkws.md#ent-vehicle-uss-liberty-t-00-00-05)**
+> "...I said, without question, the USS Liberty survivor, Phil Tourney."
+
+</details>
+
+<details>
+<summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>
+
+**[00:04:11](/episodes/ep-1QZ4X6q1DPg.md#ent-vehicle-uss-liberty-t-00-03-44)**
+> "And I am talking about—I would rank Phil Tourney and the USS Liberty interview as the number-one most consequential. And I think the Hunter Biden interview is going to be number two."
+
+</details>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
@@ -112,7 +142,15 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about USS Liberty (6)</strong></summary>
+<summary><strong class="section-title">Statements about USS Liberty (7)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>
+
+- [00:16:36](/episodes/ep-YeEtS7nix3o.md#t-00-16-24) (Accusation) **Candace Owens**: ["Candace Owens accused Israel of intentionally attacking the USS Libert..."](/statements/statement-051adeefb438.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md), [Phillip F. Tourney](/entities/person-phillip-f-tourney.md)
+
+</details>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>

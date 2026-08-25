@@ -1,6 +1,6 @@
 ---
 title: "Mark Levin"
-description: "Mark Levin (People) - 21 mentions"
+description: "Mark Levin (People) - 24 mentions"
 id: "person-mark-levin"
 type: "PERSON"
 categories:
@@ -17,11 +17,11 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-mark-levin-t-00-37-10">2025-11-04 · 00:37:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#ent-person-mark-levin-t-00-24-24">2026-04-13 · 00:24:40</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-mark-levin-t-00-28-30">2026-06-09 · 00:28:53</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -39,6 +39,8 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-mark-levin-t-00-43-11" style="--pulse-height:17%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-mark-levin-t-00-12-12" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 3 mentions" title="2026-04-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-mark-levin-t-00-24-24" style="--pulse-height:17%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#t-01-07-16" style="--pulse-height:17%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-person-mark-levin-t-00-28-30" style="--pulse-height:33%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +55,8 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-mark-levin-t-00-43-11) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-mark-levin-t-00-12-12) | 3 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-mark-levin-t-00-24-24) | 1 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#t-01-07-16) | 1 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-mark-levin-t-00-28-30) | 2 |
 
 </details>
 </section>
@@ -60,7 +64,26 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2 mentions)</summary>
+
+**[00:28:41](/episodes/ep-YeEtS7nix3o.md#ent-person-mark-levin-t-00-28-30)**
+> "...cular, like Ben Shapiro, like Mark Levin, they resent history. They rewrite history. They ..."
+
+**[00:28:53](/episodes/ep-YeEtS7nix3o.md#ent-person-mark-levin-t-00-28-30)**
+> "...at she truly believes that if Mark Levin could get away with it, he would hurt her."
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
+
+**[01:07:27](/episodes/ep-Ux1kzgQxkws.md#t-01-07-16)**
+> "And what was actually never Trump, which was actually pro Hillary Clinton, if you think about it, that's now MAGA. It's literally people who have been against Trump the entire time who are lecturing us about this stuff, like the Mark Levins and the Ben Shapiros and like we're MAGA and the Laura Loomers like, you know, we're MAGA now. OK, great. Then I'm not MAGA."
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
@@ -198,9 +221,11 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:14:44](/episodes/ep-I0OaY6Gryqk.md#t-00-14-38): “Okay. Next up, we have Mark Levin, a resident psycho. I wonder if this guy Joe Kent was about to be fired.”
+- [Candace x Hunter Biden: The Interview @ 01:07:27](/episodes/ep-Ux1kzgQxkws.md#t-01-07-16): “people who have been against Trump the entire time who are lecturing us about this stuff, like the Mark Levins”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:28:41](/episodes/ep-YeEtS7nix3o.md#t-00-28-30): “Zionists in particular, like Ben Shapiro, like Mark Levin, they resent history. They rewrite history. They seek to control Christians.”
 
 </details>
 
@@ -210,9 +235,11 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 <summary>Referenced By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:14:44](/episodes/ep-I0OaY6Gryqk.md#t-00-14-38): “Okay. Next up, we have Mark Levin, a resident psycho. I wonder if this guy Joe Kent was about to be fired.”
+- [Candace x Hunter Biden: The Interview @ 01:07:27](/episodes/ep-Ux1kzgQxkws.md#t-01-07-16): “people who have been against Trump the entire time who are lecturing us about this stuff, like the Mark Levins”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:28:41](/episodes/ep-YeEtS7nix3o.md#t-00-28-30): “Zionists in particular, like Ben Shapiro, like Mark Levin, they resent history. They rewrite history. They seek to control Christians.”
 
 </details>
 
@@ -259,7 +286,15 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mark Levin (2)</strong></summary>
+<summary><strong class="section-title">Statements about Mark Levin (3)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>
+
+- [00:28:41](/episodes/ep-YeEtS7nix3o.md#t-00-28-30) (Opinion) **Candace Owens**: ["Candace Owens accused Zionists such as Ben Shapiro and Mark Levin of r..."](/statements/statement-c609b585eae1.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Zionism](/entities/concept-zionism.md), [Christians](/entities/concept-christians.md)
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1)</summary>

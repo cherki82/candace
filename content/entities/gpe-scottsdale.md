@@ -28,7 +28,7 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 <div><span>Mentions</span><strong>88</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>15</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -498,7 +498,19 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Residence Of (1)</summary>
+
+- **[Vance Voetberg](/entities/person-vance-voetberg.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:54:03](/episodes/ep-YeEtS7nix3o.md#t-00-53-38): “My name is Vance. I live in Scottsdale, Arizona.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (4)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -518,6 +530,13 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:16:07](/episodes/ep-5m-Wn6Pr5rM.md#t-00-16-07): “Erika grew up in Scottsdale.”
+
+</details>
+
+- **[Vance Voetberg](/entities/person-vance-voetberg.md)** lives in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:54:03](/episodes/ep-YeEtS7nix3o.md#t-00-53-38): “My name is Vance. I live in Scottsdale, Arizona.”
 
 </details>
 

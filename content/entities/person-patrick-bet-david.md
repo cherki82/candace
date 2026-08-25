@@ -1,6 +1,6 @@
 ---
 title: "Patrick Bet-David"
-description: "Patrick Bet-David (People) - 25 mentions"
+description: "Patrick Bet-David (People) - 26 mentions"
 id: "person-patrick-bet-david"
 type: "PERSON"
 aliases:
@@ -23,8 +23,8 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#t-00-57-35">2025-09-16 · 00:58:07</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-patrick-bet-david-t-04-02-53">2026-08-14 · 04:02:57</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -42,6 +42,7 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-patrick-bet-david-t-00-48-55" style="--pulse-height:20%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-46-12" style="--pulse-height:80%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 4 mentions" title="2025-12-01 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-patrick-bet-david-t-00-01-11" style="--pulse-height:60%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 3 mentions" title="2026-05-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-patrick-bet-david-t-00-02-47" style="--pulse-height:20%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-patrick-bet-david-t-02-54-51" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 5 mentions" title="2026-08-14 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -55,6 +56,7 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-patrick-bet-david-t-00-48-55) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-46-12) | 4 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-patrick-bet-david-t-00-01-11) | 3 |
+| 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-patrick-bet-david-t-00-02-47) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-patrick-bet-david-t-02-54-51) | 5 |
 
 </details>
@@ -63,7 +65,7 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (5 mentions)</summary>
@@ -82,6 +84,14 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 
 **[04:02:57](/episodes/ep-nPhCKwJ6ye8.md#ent-person-patrick-bet-david-t-04-02-53)**
 > "PBD, just for being a great moderator,"
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
+
+**[00:03:12](/episodes/ep-MhakwJxK-Zk.md#ent-person-patrick-bet-david-t-00-02-47)**
+> "... August 20th. He also did the Patrick Bet-David show."
 
 </details>
 

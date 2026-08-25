@@ -1,6 +1,6 @@
 ---
 title: "Laura Loomer"
-description: "Laura Loomer (People) - 104 mentions"
+description: "Laura Loomer (People) - 108 mentions"
 id: "person-laura-loomer"
 type: "PERSON"
 categories:
@@ -17,12 +17,12 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-laura-loomer-t-01-03-56">2025-09-16 · 01:04:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-laura-loomer-t-00-00-40">2026-05-13 · 00:00:40</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>104</strong></div>
-<div><span>Statements by</span><strong>19</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-laura-loomer-t-00-05-53">2026-06-09 · 00:05:53</a></strong></div>
+<div><span>Episodes</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>108</strong></div>
+<div><span>Statements by</span><strong>21</strong></div>
 <div><span>Statements about</span><strong>30</strong></div>
-<div><span>Relationships</span><strong>34</strong></div>
+<div><span>Relationships</span><strong>36</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -55,6 +55,9 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-laura-loomer-t-00-02-05" style="--pulse-height:45%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 10 mentions" title="2026-05-04 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-laura-loomer-t-00-00-01" style="--pulse-height:64%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 14 mentions" title="2026-05-06 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-laura-loomer-t-00-00-40" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#t-01-07-16" style="--pulse-height:8%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-laura-loomer-t-00-31-26" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-person-laura-loomer-t-00-00-00" style="--pulse-height:9%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -85,6 +88,9 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-laura-loomer-t-00-02-05) | 10 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-laura-loomer-t-00-00-01) | 14 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-laura-loomer-t-00-00-40) | 1 |
+| 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#t-01-07-16) | 1 |
+| 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-laura-loomer-t-00-31-26) | 1 |
+| 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-laura-loomer-t-00-00-00) | 2 |
 
 </details>
 </section>
@@ -92,7 +98,34 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (104)</strong></summary>
+<summary><strong class="section-title">Raw mentions (108)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2 mentions)</summary>
+
+**[00:00:25](/episodes/ep-YeEtS7nix3o.md#ent-person-laura-loomer-t-00-00-00)**
+> "It was insanity. Laura Loomer attacking the United States Treasury. People sayi..."
+
+**[00:05:53](/episodes/ep-YeEtS7nix3o.md#ent-person-laura-loomer-t-00-05-53)**
+> "...e it. On top of that, you had Laura Loomer who said that sources told her that Alexander Dug..."
+
+</details>
+
+<details>
+<summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
+
+**[00:31:26](/episodes/ep-SKNJPul29zU.md#ent-person-laura-loomer-t-00-31-26)**
+> "there was this whole thread where Laura Loomer was going after like my lawyers and she's like this is okay so are you BDS now like you know what I mean are you saying like that I should not work in any capacity with Zionists that that's literally boycott"
+
+</details>
+
+<details>
+<summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
+
+**[01:07:27](/episodes/ep-Ux1kzgQxkws.md#t-01-07-16)**
+> "And what was actually never Trump, which was actually pro Hillary Clinton, if you think about it, that's now MAGA. It's literally people who have been against Trump the entire time who are lecturing us about this stuff, like the Mark Levins and the Ben Shapiros and like we're MAGA and the Laura Loomers like, you know, we're MAGA now. OK, great. Then I'm not MAGA."
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1 mentions)</summary>
@@ -534,7 +567,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Accused (4)</summary>
+<summary>Accused (5)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -558,11 +591,19 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 - **[George Farmer](/entities/person-george-farmer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:48:51](/episodes/ep-kaWtDuoY_ns.md#t-00-48-51): “Laura Loomer attacks Candace (Candace Owens)'s children as feud escalates. ... your husband, George Farmer, allegedly landed when he allegedly hit, aka crashed into Tracy Robinson's car while he was allegedly driving drunk”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:02:53](/episodes/ep-qZ8RWfyuewQ.md#t-01-02-53): “I think this was according to Laura Loomer, we were living separate and in two different houses. and I had dual citizenship of course none of that is true then it was George (George Farmer)'s in a secret gay relationship with Milo proof presented was an AI photo of him wearing a Ricky Martin type silk shirt very clearly AI”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:30:31](/episodes/ep-k1b1NDCrNFs.md#t-00-30-31): “was coming from daily wire they'll never admit it they'll never admit it they always pretend it's not them but i think now the public is seeing how they behave generally speaking So imagine my surprise, not at all, when Jeremy (Jeremy Boreing) took to his show yesterday to essentially platform Laura Loomer, Laura Loomer's attacks against my husband. Remember, ... she's been all over the place. My husband hit a guy. She named the guy, pulled up insurance paperwork. I told you then combined it with another incident and said that we paid off someone to hide the fact that George (George Farmer) was, you know, brandishing.”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:06:53](/episodes/ep-YeEtS7nix3o.md#t-00-06-33): “A source tells me Candace and her husband allegedly previously met with Dugin in Italy. ... her husband George Farmer's bank accounts should be flagged by FinCEN while she is in Russia.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:06:53](/episodes/ep-YeEtS7nix3o.md#t-00-06-33): “Candace should be forced to register with FARA, and her bank accounts and her husband George Farmer's bank accounts should be flagged by FinCEN while she is in Russia.”
 
 </details>
 
@@ -674,7 +715,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:55:36](/episodes/ep-7ERqbYElOfs.md#t-00-55-36): “when you go to Laura Loomer and say can you attack someone you are you are just scraping the bottom of the barrel”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:33:08](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54): “He is definitively surrounded by certifiable lunatics, one of them being Laura Loomer.”
@@ -682,6 +723,8 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:38:25](/episodes/ep-kaWtDuoY_ns.md#t-00-38-00): “the first thing that you should know about Laura Loomer is that when people say Laura Loomer is crazy, they're not being funny”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:50:40](/episodes/ep-xi8SYJTUXPM.md#t-00-50-11): “Yeah, that she is very much in need of an exorcism. That's the only thing that can explain that the places that her mind goes and she doesn't understand that that's not like a normal person doesn't get there.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:17:55](/episodes/ep-qZ8RWfyuewQ.md#t-00-17-39): “the real driver of the entire random attack on me from the president and the reason why it was tinged a little bit with some race was actually his top advisor, Laura Loomer. ... Yeah, a lot to unpack there. Not really worth unpacking. It's just it's just too insane. I do genuinely believe that she is on the brink of needing to be committed again.”
+- [Candace x Hunter Biden: The Interview @ 01:07:27](/episodes/ep-Ux1kzgQxkws.md#t-01-07-16): “the Laura Loomers like, you know, we're MAGA now. OK, great. Then I'm not MAGA.”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:05:53](/episodes/ep-YeEtS7nix3o.md#t-00-05-25): “This is genuinely mental unwellness. ... On top of that, you had Laura Loomer who said that sources told her that Alexander Dugin, which they were all very focused on Alexander Dugin, actually met with my husband George in Italy a month ago in some secret meeting, which was news to us”
 
 </details>
 
@@ -712,7 +755,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 <details>
-<summary>Referenced By (17)</summary>
+<summary>Referenced By (18)</summary>
 
 - **[Alan Jacoby](/entities/person-alan-jacoby.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -750,11 +793,19 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 - **[George Farmer](/entities/person-george-farmer.md)** accused by this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:48:51](/episodes/ep-kaWtDuoY_ns.md#t-00-48-51): “Laura Loomer attacks Candace (Candace Owens)'s children as feud escalates. ... your husband, George Farmer, allegedly landed when he allegedly hit, aka crashed into Tracy Robinson's car while he was allegedly driving drunk”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:02:53](/episodes/ep-qZ8RWfyuewQ.md#t-01-02-53): “I think this was according to Laura Loomer, we were living separate and in two different houses. and I had dual citizenship of course none of that is true then it was George (George Farmer)'s in a secret gay relationship with Milo proof presented was an AI photo of him wearing a Ricky Martin type silk shirt very clearly AI”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:30:31](/episodes/ep-k1b1NDCrNFs.md#t-00-30-31): “was coming from daily wire they'll never admit it they'll never admit it they always pretend it's not them but i think now the public is seeing how they behave generally speaking So imagine my surprise, not at all, when Jeremy (Jeremy Boreing) took to his show yesterday to essentially platform Laura Loomer, Laura Loomer's attacks against my husband. Remember, ... she's been all over the place. My husband hit a guy. She named the guy, pulled up insurance paperwork. I told you then combined it with another incident and said that we paid off someone to hide the fact that George (George Farmer) was, you know, brandishing.”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:06:53](/episodes/ep-YeEtS7nix3o.md#t-00-06-33): “A source tells me Candace and her husband allegedly previously met with Dugin in Italy. ... her husband George Farmer's bank accounts should be flagged by FinCEN while she is in Russia.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:06:53](/episodes/ep-YeEtS7nix3o.md#t-00-06-33): “Candace should be forced to register with FARA, and her bank accounts and her husband George Farmer's bank accounts should be flagged by FinCEN while she is in Russia.”
 
 </details>
 
@@ -791,7 +842,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:55:36](/episodes/ep-7ERqbYElOfs.md#t-00-55-36): “when you go to Laura Loomer and say can you attack someone you are you are just scraping the bottom of the barrel”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:33:08](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54): “He is definitively surrounded by certifiable lunatics, one of them being Laura Loomer.”
@@ -799,6 +850,8 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:38:25](/episodes/ep-kaWtDuoY_ns.md#t-00-38-00): “the first thing that you should know about Laura Loomer is that when people say Laura Loomer is crazy, they're not being funny”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:50:40](/episodes/ep-xi8SYJTUXPM.md#t-00-50-11): “Yeah, that she is very much in need of an exorcism. That's the only thing that can explain that the places that her mind goes and she doesn't understand that that's not like a normal person doesn't get there.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:17:55](/episodes/ep-qZ8RWfyuewQ.md#t-00-17-39): “the real driver of the entire random attack on me from the president and the reason why it was tinged a little bit with some race was actually his top advisor, Laura Loomer. ... Yeah, a lot to unpack there. Not really worth unpacking. It's just it's just too insane. I do genuinely believe that she is on the brink of needing to be committed again.”
+- [Candace x Hunter Biden: The Interview @ 01:07:27](/episodes/ep-Ux1kzgQxkws.md#t-01-07-16): “the Laura Loomers like, you know, we're MAGA now. OK, great. Then I'm not MAGA.”
+- [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:05:53](/episodes/ep-YeEtS7nix3o.md#t-00-05-25): “This is genuinely mental unwellness. ... On top of that, you had Laura Loomer who said that sources told her that Alexander Dugin, which they were all very focused on Alexander Dugin, actually met with my husband George in Italy a month ago in some secret meeting, which was news to us”
 
 </details>
 
@@ -855,7 +908,18 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Laura Loomer (19)</strong></summary>
+<summary><strong class="section-title">Statements by Laura Loomer (21)</strong></summary>
+
+<details>
+<summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2)</summary>
+
+- [00:06:53](/episodes/ep-YeEtS7nix3o.md#t-00-06-53) [✓] (Accusation) ["Laura Loomer reported that a source alleged Candace Owens and George Farmer prev..."](/statements/statement-231db1d95db1.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [George Farmer](/entities/person-george-farmer.md), [Alexander Dugin](/entities/person-alexander-dugin.md)
+
+- [00:06:53](/episodes/ep-YeEtS7nix3o.md#t-00-06-53) [○] (Opinion) ["Laura Loomer argued that Candace Owens should register under FARA and that Canda..."](/statements/statement-cbc73208c15e.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [George Farmer](/entities/person-george-farmer.md), [Foreign Agents Registration Act](/entities/law-fara.md)
+
+</details>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1)</summary>

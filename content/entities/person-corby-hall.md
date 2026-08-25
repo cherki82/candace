@@ -1,6 +1,6 @@
 ---
 title: "Corby Hall"
-description: "Corby Hall (People) - 58 mentions"
+description: "Corby Hall (People) - 89 mentions"
 id: "person-corby-hall"
 type: "PERSON"
 categories:
@@ -18,26 +18,27 @@ Source: [About | FoldAR](https://foldar.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-corby-hall-t-00-06-29">2026-04-14 · 00:06:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-corby-hall-t-00-22-37">2026-05-13 · 00:22:37</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>58</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-01-18-09">2026-05-19 · 01:18:09</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>89</strong></div>
 <div><span>Statements by</span><strong>14</strong></div>
-<div><span>Statements about</span><strong>35</strong></div>
-<div><span>Relationships</span><strong>21</strong></div>
+<div><span>Statements about</span><strong>39</strong></div>
+<div><span>Relationships</span><strong>25</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-jsqUIkszZd0.md#ent-person-corby-hall-t-00-06-29">BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324</a> (22 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-09-01">LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341</a> (31 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-jsqUIkszZd0.md#ent-person-corby-hall-t-00-06-29" style="--pulse-height:100%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 22 mentions" title="2026-04-14 · 22 mentions"><span></span></a>
-<a href="/episodes/ep-SubDoZWHARo.md#ent-person-corby-hall-t-00-38-41" style="--pulse-height:23%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 5 mentions" title="2026-04-15 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-corby-hall-t-00-30-52" style="--pulse-height:59%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 13 mentions" title="2026-04-16 · 13 mentions"><span></span></a>
-<a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-corby-hall-t-00-16-24" style="--pulse-height:18%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 4 mentions" title="2026-04-21 · 4 mentions"><span></span></a>
-<a href="/episodes/ep--9MOUvgGyi4.md#ent-person-corby-hall-t-00-00-00" style="--pulse-height:36%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 8 mentions" title="2026-04-22 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-corby-hall-t-01-08-12" style="--pulse-height:14%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 3 mentions" title="2026-04-29 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-corby-hall-t-00-00-00" style="--pulse-height:14%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-person-corby-hall-t-00-06-29" style="--pulse-height:71%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 22 mentions" title="2026-04-14 · 22 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-person-corby-hall-t-00-38-41" style="--pulse-height:16%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 5 mentions" title="2026-04-15 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-corby-hall-t-00-30-52" style="--pulse-height:42%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 13 mentions" title="2026-04-16 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-corby-hall-t-00-16-24" style="--pulse-height:13%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 4 mentions" title="2026-04-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-person-corby-hall-t-00-00-00" style="--pulse-height:26%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 8 mentions" title="2026-04-22 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-corby-hall-t-01-08-12" style="--pulse-height:10%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 3 mentions" title="2026-04-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-corby-hall-t-00-00-00" style="--pulse-height:10%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-09-01" style="--pulse-height:100%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 31 mentions" title="2026-05-19 · 31 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [About | FoldAR](https://foldar.com/about/)
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-person-corby-hall-t-00-00-00) | 8 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-corby-hall-t-01-08-12) | 3 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-corby-hall-t-00-00-00) | 3 |
+| 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-09-01) | 31 |
 
 </details>
 </section>
@@ -57,7 +59,105 @@ Source: [About | FoldAR](https://foldar.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (58)</strong></summary>
+<summary><strong class="section-title">Raw mentions (89)</strong></summary>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (31 mentions)</summary>
+
+**[00:09:15](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-09-01)**
+> "...nyway, as you know, we hosted Corby Hall, who claimed that Victor Marx was doing some deal..."
+
+**[00:09:35](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-09-35)**
+> "...rson's body on more than just Corby Hall and his wife and other people as well."
+
+**[00:10:30](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-10-13)**
+> "Now, Corby Hall, you should know, is one of many people who have ..."
+
+**[00:10:44](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-10-13)**
+> "... rescue them from themselves. Corby Hall, he has said, has mental issues."
+
+**[00:10:51](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-10-51)**
+> "There are other people outside of Corby Hall. For example, a young woman named Holly Chalmers accused him of kidnapping her across state lines and of exploiting her."
+
+**[00:16:55](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-16-55)**
+> "...ns by your last guest, Corby (Corby Hall), which is, I think, what brought us together on ..."
+
+**[00:17:27](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-17-22)**
+> "...m happy to speak about Corby (Corby Hall). Um, there are, there are broader concerns actua..."
+
+**[00:17:41](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-17-41)**
+> "can speak about Corby (Corby Hall), but you're, uh, you know, this isn't, this isn'..."
+
+**[00:17:51](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-17-41)**
+> "Obviously, the Corby Hall stuff is important. And if something is wrong, we..."
+
+**[00:18:02](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-17-41)**
+> "...eclined to do that. So Corby (Corby Hall) had the stage for himself and I could not offer ..."
+
+**[00:18:17](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-18-17)**
+> "...ught me here, which is Corby (Corby Hall). And I clearly communicated to you and your staf..."
+
+**[00:18:55](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-18-17)**
+> "...dy) contact y'all, not Corby (Corby Hall), but did Corey (Corey Kennedy) contact y'all wit..."
+
+**[00:19:00](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-19-00)**
+> "contact y'all, not Corby (Corby Hall), but did Corby (Corby Hall) contact y'all with t..."
+
+**[00:20:01](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-19-43)**
+> "...I said, we can discuss Corby (Corby Hall)'s allegations."
+
+**[00:20:34](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-20-14)**
+> "Corby Hall and both his wife and"
+
+**[00:20:54](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-20-38)**
+> "...ter. We can talk about Corby (Corby Hall). I have nothing to do with any pending investiga..."
+
+**[00:21:51](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-21-34)**
+> "...trying to conduct with Corby (Corby Hall), which is what we discussed on the show and whic..."
+
+**[00:22:15](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-22-15)**
+> "I don't think that Corby (Corby Hall). I don't"
+
+**[00:22:16](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-22-16)**
+> "Candace, think that Corby Hall I just wanted is going that to on be your the rec..."
+
+**[00:22:21](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-22-21)**
+> "Corby (Corby Hall) is my number one issue right now because"
+
+**[00:22:26](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-22-26)**
+> "Corby (Corby Hall) is the number one issue right now who's homicida..."
+
+**[00:39:12](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-38-53)**
+> "...he years, you bring up Corby (Corby Hall) and his wife, Melody (Melody Hall), if you talk ..."
+
+**[00:41:21](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-00-41-07)**
+> "...le being set free like Corby (Corby Hall)'s wife, Melody (Melody Hall). She said she had s..."
+
+**[01:14:55](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-01-14-55)**
+> "...Corey (Corey Kennedy), Corby (Corby Hall) for 50,000 weapons. Why? I have an FFL."
+
+**[01:15:03](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-01-14-55)**
+> "...t's absurd. And again, Corby (Corby Hall)'s still loose out there."
+
+**[01:15:11](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-01-14-55)**
+> "And if he's watching, Corby (Corby Hall), please turn yourself into some authorities. Let..."
+
+**[01:15:46](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-01-15-46)**
+> "...n, but I'm just saying Corby (Corby Hall) should just stop whatever he's doing and respond..."
+
+**[01:16:28](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-01-16-11)**
+> "Corby (Corby Hall), stop what you're doing and turn yourself in is ..."
+
+**[01:16:39](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-01-16-39)**
+> "..., they are looking for Corby (Corby Hall)."
+
+**[01:17:51](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-01-17-51)**
+> "Corby (Corby Hall)'s"
+
+**[01:18:09](/episodes/ep-Dkxa9OUA9K8.md#ent-person-corby-hall-t-01-18-09)**
+> "platformed Corby (Corby Hall) obviously this is a little bit more"
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (3 mentions)</summary>
@@ -277,9 +377,29 @@ Source: [About | FoldAR](https://foldar.com/about/)
 <summary>Accused (1)</summary>
 
 - **[Victor Marx](/entities/person-victor-marx.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:34:57](/episodes/ep-1mYNOqzAdXs.md#t-00-34-57): “So just to clarify, Corby (Corby Hall) asserted that Victor Marx wanted guns sold in Israel. He never said anything about it being an illegal transaction.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:10:30](/episodes/ep-Dkxa9OUA9K8.md#t-00-10-13): “Now, Corby Hall, you should know, is one of many people who have accused Victor Marx of abuse.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Accused By (2)</summary>
+
+- **[Victor Marx](/entities/person-victor-marx.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:22:26](/episodes/ep-Dkxa9OUA9K8.md#t-00-22-25): “Corby (Corby Hall) is the number one issue right now who's homicidal and admitted he wanted to kill me and how he was going to do it. That's why authorities are looking for him. But”
+
+</details>
+
+- **[Cori Kennedy](/entities/person-cori-kennedy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:18:30](/episodes/ep-Dkxa9OUA9K8.md#t-00-18-17): “And the very person that platformed him for you, Corey (Corey Kennedy), has filed out a statement, both with local authorities and FBI, that he is homicidal and he told her and her husband.”
 
 </details>
 
@@ -325,9 +445,10 @@ Source: [About | FoldAR](https://foldar.com/about/)
 <summary>Interviewed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:02:34](/episodes/ep--9MOUvgGyi4.md#t-00-02-22): “Everybody who disagrees with me is an insane person. So who actually are you, Corby Hall?”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:09:15](/episodes/ep-Dkxa9OUA9K8.md#t-00-09-01): “Anyway, as you know, we hosted Corby Hall, who claimed that Victor Marx was doing some deals or attempting to do some deals on behalf of the IDF. He never said those deals were illegal, just that he declined.”
 
 </details>
 
@@ -337,9 +458,10 @@ Source: [About | FoldAR](https://foldar.com/about/)
 <summary>Married To (1)</summary>
 
 - **[Melody Hall](/entities/person-melody-hall.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:48:05](/episodes/ep--9MOUvgGyi4.md#t-00-48-05): “So our inventor, Corby (Corby Hall), he's my husband also, but he came out with the product about seven years ago and he came out with it because he was looking for a way to get the AR to be more compact and decided to take the barrel nut off.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:41:21](/episodes/ep-Dkxa9OUA9K8.md#t-00-41-07): “And I don't know. You have to look at the fruit of what happens of people being set free like Corby (Corby Hall)'s wife, Melody (Melody Hall). She said she had struggled with thoughts in her mind, negativeness, since she was six.”
 
 </details>
 
@@ -419,12 +541,27 @@ Source: [About | FoldAR](https://foldar.com/about/)
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (11)</summary>
 
-- **[Victor Marx](/entities/person-victor-marx.md)** accused by this
+- **[Victor Marx](/entities/person-victor-marx.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:22:26](/episodes/ep-Dkxa9OUA9K8.md#t-00-22-25): “Corby (Corby Hall) is the number one issue right now who's homicidal and admitted he wanted to kill me and how he was going to do it. That's why authorities are looking for him. But”
+
+</details>
+
+- **[Cori Kennedy](/entities/person-cori-kennedy.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:18:30](/episodes/ep-Dkxa9OUA9K8.md#t-00-18-17): “And the very person that platformed him for you, Corey (Corey Kennedy), has filed out a statement, both with local authorities and FBI, that he is homicidal and he told her and her husband.”
+
+</details>
+
+- **[Victor Marx](/entities/person-victor-marx.md)** accused by this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:34:57](/episodes/ep-1mYNOqzAdXs.md#t-00-34-57): “So just to clarify, Corby (Corby Hall) asserted that Victor Marx wanted guns sold in Israel. He never said anything about it being an illegal transaction.”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:10:30](/episodes/ep-Dkxa9OUA9K8.md#t-00-10-13): “Now, Corby Hall, you should know, is one of many people who have accused Victor Marx of abuse.”
 
 </details>
 
@@ -443,9 +580,10 @@ Source: [About | FoldAR](https://foldar.com/about/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:02:34](/episodes/ep--9MOUvgGyi4.md#t-00-02-22): “Everybody who disagrees with me is an insane person. So who actually are you, Corby Hall?”
+- [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:09:15](/episodes/ep-Dkxa9OUA9K8.md#t-00-09-01): “Anyway, as you know, we hosted Corby Hall, who claimed that Victor Marx was doing some deals or attempting to do some deals on behalf of the IDF. He never said those deals were illegal, just that he declined.”
 
 </details>
 
@@ -556,7 +694,24 @@ Source: [About | FoldAR](https://foldar.com/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Corby Hall (35)</strong></summary>
+<summary><strong class="section-title">Statements about Corby Hall (39)</strong></summary>
+
+<details>
+<summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (4)</summary>
+
+- [00:09:15](/episodes/ep-Dkxa9OUA9K8.md#t-00-09-01) (Accusation) **Candace Owens** (via paraphrase): ["Candace Owens says Corby Hall claimed that Victor Marx attempted to ar..."](/statements/statement-512ef69881f8.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md)
+
+- [00:18:30](/episodes/ep-Dkxa9OUA9K8.md#t-00-18-17) (Accusation) **Victor Marx** (via paraphrase): ["Victor Marx says Cori Kennedy filed a statement with local authorities..."](/statements/statement-50e8988175a0.md)
+  - Also about: [Cori Kennedy](/entities/person-cori-kennedy.md), [FBI](/entities/org-fbi.md)
+
+- [01:14:51](/episodes/ep-Dkxa9OUA9K8.md#t-01-14-51) (Claim) **Victor Marx**: ["Victor Marx denies ever asking Corby Hall for 50,000 weapons and says ..."](/statements/statement-cee3f7a18903.md)
+  - Also about: [Victor Marx](/entities/person-victor-marx.md), [Federal Firearms License](/entities/concept-federal-firearms-license.md)
+
+- [01:16:39](/episodes/ep-Dkxa9OUA9K8.md#t-01-16-39) (Claim) **Victor Marx**: ["Victor Marx says the FBI and El Paso County Sheriff's Department have ..."](/statements/statement-f21a93e0f279.md)
+  - Also about: [FBI](/entities/org-fbi.md), [El Paso County Sheriff's Office](/entities/org-el-paso-county-sheriffs-office.md)
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>
